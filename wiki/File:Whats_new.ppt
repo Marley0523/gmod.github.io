@@ -18,9 +18,7 @@
 
 <div id="localNotice" lang="en" dir="ltr">
 
-<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
-We are working on migrating this site away from MediaWiki, so editing
-pages will be disabled for now.</span>
+
 
 </div>
 
