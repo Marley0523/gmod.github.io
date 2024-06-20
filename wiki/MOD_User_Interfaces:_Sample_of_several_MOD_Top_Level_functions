@@ -1,0 +1,504 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">MOD User Interfaces: Sample of several MOD Top Level functions</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+Sample of several MOD Top-Level functions
+
+Top and side bar navigation menus from Ensembl, SGD/Yeastgenome,
+Wormbase, TAIR / arabidopsis.org, Gramene, DDB/dictybase, RGD and MGI.
+(collected in November 2006)
+
+**<a href="http://www.ensembl.org/" class="external text"
+rel="nofollow">Ensembl</a> top-sidebar functions:**  
+---------------------  
+Use Ensembl to...  
+\* Run a BLAST search  
+\* Search Ensembl database  
+\* Data mining \[\[/\> \* Display your own data  
+\* Export data  
+\* Download data
+
+**<a href="http://yeastgenome.org/" class="external text"
+rel="nofollow">SGD</a>\] top-line functions:**  
+--------------------  
+Quick Search \| Site Map \| Help \| Full Search \| Contact SGD \| Home  
+Community Info, Submit Data, BLAST, Primers, PatMatch, Gene/Seq
+Resources, Advanced Search, Virtual Library
+
+*SGD side-bar functions:*  
+----------------------  
+Search: AdvancedÂ Search, Full-textÂ Search (Textpresso), SearchÂ SGDÂ
+webÂ pages, GlobalÂ GeneÂ Hunter, SearchÂ Literature, andÂ more.  
+Help: Getting Started, Sitemap, FAQ, and more.  
+Analysis: BLAST, Gene/SeqÂ Resources, Maps, and more.  
+Homology: PDBÂ Homologs, ProteinÂ Domains/Motifs, Homologs, and more.  
+Function: ProteinÂ Info, FunctionÂ Junction, Pathways, ExpressionÂ
+Connection, and more.  
+Gene Ontology: GO Tutorial, WhatÂ isÂ GO?, GOÂ SlimÂ Mapper, GOÂ TermÂ
+Finder, and more.  
+Community: Search SGD colleagues, FindÂ yeastÂ labs, ConferencesÂ &Â
+Seminars, and more.  
+Submit data: GeneÂ Registry, CommunityÂ Annotation, ColleagueÂ update,
+ContactÂ SGD, and more.  
+Download data: FTP, Batch Download, Lab strains, Auxotrophic markers,
+GeneÂ Names, SequencingÂ Tables, SGDÂ Lite, andÂ more.  
+Etc...
+
+**<a href="http://www.Wormbase.org/" class="external text"
+rel="nofollow">Wormbase</a> top-line:**  
+--------------------------  
+Home, Genome, Blast / Blat, WormMart, Batch Sequences, Markers, Genetic
+Maps,Submit, Searches, Site Map
+
+*Wormbase sidebar:*  
+---------------------  
+Release Notes New/Changed Genes, release notes  
+General Searches WormBase Class Browser, Wormbase Query Language Search,
+AQL Search  
+Sequences C. elegans Genome, C. briggsae Genome, Gene, Blast / Blat,
+e-PCR, Gene Ontology, Synteny Viewer, Cis-Elements (CisOrtho),  
+Cells and Gene Expression Cell and Pedigree, Neurons, Expression
+Pattern, Expression profile  
+Genetics, Strains, and Phenotypes Genetic interval, Rearrangements,
+Clone, Allele, SNPs, Markers, and Strains, Strain Report, Phenotypes,
+RNAi  
+Batch Queries WormMart \[\[Batch Genes, Batch Sequences  
+Downloads and Data Mining Bulk Downloads, Linking to WormBase and Data
+Mining...  
+Community Worm Community Discussion Forum, WormBase Wiki, Mailing
+Lists  
+About WormBase Mission Statement, User's Guide (HTML, PDF), Newsletters,
+Citing Wormbase, Positions available, People, Acceptable Use Policy  
+RSS News Feeds WormBase News, Development News, WormMart News,
+WormBaseWiki: New pages, Recent changes, About News Feeds
+
+**<a href="http://www." class="external text"
+rel="nofollow">arabidopsis.org/ TAIR</a>\] top-line:**  
+---------------------------------  
+Home,Help,Contact,About Us, Login, Search \[\[/\>
+Search,Browse,Tools,Stocks,Portals,Download,Submit,News  
+\[drop-down menus, please expand\]\]
+
+**<a href="http://Gramene.org/" class="external text"
+rel="nofollow">Gramene</a> top-line:**  
+---------------------  
+Search: Genomes-Ensembl Maps-CMap Markers QTL Diversity Genes Proteins  
+Pathways Ontologies Literature Sequences-BLAST All-GrameneMart  
+Genomes: Rice Maize Arabidopsis  
+Download Download Index FTP Site  
+Resources: Species Pages Glossary Submit a Term Links Pages
+Newsletters  
+About: Contact Us About Us Outreach Program Brochure Advisory Board
+Collaborators News Cite Gramene  
+Help:
+
+**<a href="http://dictybase.org/" class="external text"
+rel="nofollow">Dictybase</a> top-line:**  
+---------------------------  
+GenomeÂ Browser, BLAST, dictyMart, Stock Center, Research Tools,
+Help,Links, Contact  
+<a
+href="http://gmod.org/mediawiki/index.php?title=Down_menus;_please_expand&amp;action=edit&amp;redlink=1"
+class="new" title="Down menus; please expand (page does not exist)">down
+menus; please expand</a>
+
+**<a href="http://rgd.mcw.edu/" class="external text"
+rel="nofollow">RGD</a> top-boxes:**  
+-------------------------------------  
+Data; Tools; Portals; Community; Submit Data; About RGD; Help  
+Data: Genes QTLs SSLPs ESTs Maps  
+Strains Ontologies Sequences References Homologs Data Download  
+Tools: VCMap Repeat Masker RH Map Server Genome Scanner Genome
+Annotation ACP Haplotyper  
+Rat GBrowse HumanGBrowse Rat Gviewer BLAT BLAST MetaGene  
+Portals: Diseases Microarray Neurological Disease  
+Community: Rat Forum The Pied Piper Resource Links  
+Submit data: StrainRegistration GeneRegistration QTLRegistration
+Nomenclature Rat QTL Traits Human QTL Traits Genome Conflicts  
+About RGD: RGD Schema RGD News Citing RGD Our Staff Open Jobs and more
+...  
+Help: HowDoI Glossary FAQs Contact Us
+
+**<a href="http://www.informatics.jax.org/" class="external text"
+rel="nofollow">MGI Mouse Genome Database</a>**  
+------------------------------------  
+Sidebar / Gene Detail  
+Search Categories  
+All Search Tools  
+Genes/Markers  
+Phenotypes/Alleles  
+Strains/Polymorphisms  
+Expression  
+Sequences  
+Comparative Maps/Data  
+Mouse Maps/Data  
+Mouse Tumor Biology  
+Probes/Clones  
+References  
+Vocabulary Browsers  
+Â Â Â Anatomical Dictionary  
+Â Â Â Gene Ontology (GO)  
+Â Â Â Human Disease (OMIM)  
+Â Â Â Phenotype Ontology (MP)  
+Â Â Â Protein Superfamily  
+MouseBLAST  
+Mouse GBrowse  
+IMSR (Find Mice)  
+Tools and Links
+
+Search Menus (Front Page)  
+Links to advanced search forms, database reports...  
+All Search Tools  
+Genes and Markers  
+Phenotypes and Alleles  
+Strains and Polymorphisms  
+Gene Expression  
+Sequences  
+Mammalian Orthology and Comparative Maps  
+Mouse Maps and Mapping Data  
+Mouse Tumor Biology  
+Probes and Clones  
+References  
+Vocabulary Browsers  
+MouseBLAST Â Â Â Â Search mouse, human, rat, and other sequence data  
+Mouse GBrowse Â Â Â Â Interactive genome map browser
+
+**<a href="http://www.flybase.org/" class="external text"
+rel="nofollow">FlyBase</a> top-line:**  
+--------------------------  
+Home, Tools, Files, Species Documents, Resources, News, Help, Archives,
+Jump to Gene
+
+*Drop down menus*  
+Tools: BLAST, GBrowse, QueryBuilder, TermLink, ImageBrowse, Apollo,
+Cytosearch, QuickSearch, Download by ID, Google FlyBase, Find a person,
+Update an address, Add a new person.
+
+Files: Precomputed files, archived data, Transposons (Dmel), Transposons
+(Other), Vectors and Constructs, Anatomical terms, Map conversion
+
+Species: Phylogeny, Synteny table, Drosophilidae, Abbreviations
+
+Documents: About FlyBase, Reference manual, Nomenclature, Release notes
+
+Resources: Links to stock centers and other Droshophila related sites.
+
+News: News, FlyBase positions, Meetings, Courses, Fly Board, White
+papers, Funding, bionet.dros
+
+Help: Google FlyBase, Site Map, FAQs, Report help, New to Flies, Pers.
+comm., Author guidelines, Known problems, Contact FlyBase
+
+Archives: Prior Home Page, R4.3 BLAST, R4.3 GBrowse, Older Archives
+
+Folks: please add to and correct as needed
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&oldid=4193>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Categories](Special:Categories "Special:Categories"):
+
+- [FlyBase](Category:FlyBase "Category:FlyBase")
+- [Gramene](Category:Gramene "Category:Gramene")
+- [MGI](Category:MGI "Category:MGI")
+- [MOD User
+  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
+- [RGD](Category:RGD "Category:RGD")
+- [SGD](Category:SGD "Category:SGD")
+- [TAIR](Category:TAIR "Category:TAIR")
+- [WormBase](Category:WormBase "Category:WormBase")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=MOD+User+Interfaces%3A+Sample+of+several+MOD+Top+Level+functions"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+  accesskey="c" title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a
+  href="Special:WhatLinksHere/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+  accesskey="j" title="A list of all wiki pages that link here [j]">What
+  links here</a></span>
+- <span id="t-recentchangeslinked"><a
+  href="Special:RecentChangesLinked/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+  accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&oldid=4193 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&action=info)</span>
+- <span id="t-smwbrowselink"><a
+  href="Special:Browse/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+  rel="smw-browse">Browse properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 19:51 on 23 January
+  2008.</span>
+- <span id="footer-info-viewcount">16,064 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>

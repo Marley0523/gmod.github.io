@@ -1,0 +1,434 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">January 2007 GMOD Meeting</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+GMOD Generic Model Organism Database
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
+## Contents
+
+</div>
+
+- [<span class="tocnumber">1</span> <span class="toctext">Meeting
+  9</span>](#Meeting_9)
+- [<span class="tocnumber">2</span> <span class="toctext">MOD User
+  Interface Caucus</span>](#MOD_User_Interface_Caucus)
+- [<span class="tocnumber">3</span> <span class="toctext">GMOD
+  Middleware</span>](#GMOD_Middleware)
+  - [<span class="tocnumber">3.1</span>
+    <span class="toctext">Agenda</span>](#Agenda)
+- [<span class="tocnumber">4</span>
+  <span class="toctext">Attendees</span>](#Attendees)
+
+</div>
+
+## <span id="Meeting_9" class="mw-headline">Meeting 9</span>
+
+January 18-19, San Diego CA.
+
+The January 2007 [GMOD meeting](Meetings "Meetings") was held at the
+Town and Country Hotel in San Diego. The meeting was divided into two
+parts: a MOD user interface caucus and a Chado Middleware Bake Off.
+
+## <span id="MOD_User_Interface_Caucus" class="mw-headline">MOD User Interface Caucus</span>
+
+Report from the UI Caucus: [MOD Interface
+Summary](MOD_Face_Summary "MOD Face Summary")
+
+## <span id="GMOD_Middleware" class="mw-headline">GMOD Middleware</span>
+
+Reports from the Middleware Meeting: [GMOD
+Middleware](GMOD_Middleware "GMOD Middleware")
+
+  
+
+### <span id="Agenda" class="mw-headline">Agenda</span>
+
+- 9:00 AM - 9:05 AM **Introduction, Eric Just**
+- 9:05 AM - 9:30 AM **Object/relational Mapping Principles, Sohel
+  Merchant**
+- 9:30 AM - 9:55 AM **XORT, Pinglei Zhou**
+- 9:55 AM - 10:20 AM **Chado::AutoDBI, Brian O'Connor**
+- 10:20 AM - 10:35 AM **Coffee Break**
+- 10:35 AM - 11:00 AM **Modware, Eric Just**
+- 11:00 AM - 11:20 AM **GBrowse (DasI) Adaptor, Scott Cain**
+- 11:20 AM - 11:45 AM **iBatis, Jeff Bowes**
+- 11:45 AM - 1:15 PM **LUNCH**
+- 1:15 PM - 1:40 PM **Hibernate, Robert Bruggner**
+- 1:40 PM - 2:05 PM **PSU Chado Interface, Chinmay Patel**
+- 2:05 PM - 2:20 PM **Coffee Break**
+- 2:20 PM - 2:45 PM **GUS Web Development Kit (not GUS-specific), Steve
+  Fischer**
+- 2:45 PM - 3:10 PM **InterMine/FlyMine data warehousing, Gos Micklem**
+- 3:10 PM - 4:30 PM **Wrap up (Eric Just, Scott Cain, Brian Osborne),
+  discussion**
+
+## <span id="Attendees" class="mw-headline">Attendees</span>
+
+The meeting was well attended, with about 60 people from a large variety
+of organizations:
+
+| Name | Organization |
+|----|----|
+| Peter Karp | EcoCyc |
+| Richard Bruskiewich | IRRI/IRIS + Generation Challenge Programme |
+| Kate Rosenbloom | UCSC Genome Bioinformatics Group |
+| Zhiliang Hu | Iowa State University |
+| Robert Wilson | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Sohel Merchant | [DictyBase](Category:DictyBase "Category:DictyBase") |
+| Chinmay Patel | GeneDB |
+| pinglei zhou | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Prachi Shah | Candida Genome Database |
+| Vivien Bonazzi | NHGRI |
+| Jay Sundaram | TIGR |
+| [Ben Faga](User:Faga "User:Faga") | GMOD |
+| George Kowalski | [RGD](Category:RGD "Category:RGD") |
+| Dave Matthews | GrainGenes |
+| Brian Osborne | NESCent |
+| Eric Just | [DictyBase](Category:DictyBase "Category:DictyBase") |
+| Susan Bromberg | [RGD](Category:RGD "Category:RGD") |
+| Eva Huala | [TAIR](Category:TAIR "Category:TAIR") |
+| Allen | GMOD |
+| [Sheldon McKay](User:Mckays "User:Mckays") | [WormBase](Category:WormBase "Category:WormBase") |
+| [Todd Harris](User:Tharris "User:Tharris") | [WormBase](Category:WormBase "Category:WormBase") |
+| Kim Pruitt | NCBI |
+| Karla Gendler | <a href="http://www.chromdb.org" class="external text"
+rel="nofollow">ChromDB</a> |
+| Donghui Li | [TAIR](Category:TAIR "Category:TAIR") |
+| Gos Micklem | FlyMine/[InterMine](InterMine "InterMine") |
+| Ning Wei | TAMU |
+| Sofia Robb | PlanariaDB |
+| steve fischer | GUS/PlasmoDB |
+| Brian O'Connor | UCLA |
+| Arek Kasprzyk | EBI |
+| Robert Bruggner | VectorBase |
+| Susan Bridges | AgBase |
+| [Lincoln Stein](User:Lstein "User:Lstein") | [WormBase](Category:WormBase "Category:WormBase") |
+| Madeline A. Crosby | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| [Robert Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category:SGN "Category:SGN") |
+| Dianna Fisk | [SGD](Category:SGD "Category:SGD") |
+| Bob Muller | [TAIR](Category:TAIR "Category:TAIR") |
+| Suzanne Paley | EcoCyc |
+| Hanni Salih | BovineGenome.org |
+| Peili Zhang | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Eric Ross | PlanariaDB |
+| Manuel J Torres | Plant Genome Mapping Lab, UGA |
+| James Reecy | Animalgenome.org |
+| Eileen Kraemer | ApiDB |
+| [Jim Hu](User:JimHu.1 "User:JimHu") | EcoliHub/EcoliWiki |
+| Justin Reese | BeeBase, Bovine Genome Database |
+| Victor Strelets | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| [Josh Goodman](User:Jogoodma "User:Jogoodma") | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Christine Elsik | BeeBase, Bovine Genome Database |
+| Anand Venkatraman | BeeBase |
+| Haiyan Zhang | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| [Don Gilbert](User:Dongilbert "User:Dongilbert") | wFleaBase, DroSpeGe |
+| David Adelson | bovinegenome.org |
+| Ceri Van Slyke | ZFIN |
+| [Joshua Orvis](User:Jorvis "User:Jorvis") | TIGR |
+| Kathleen Falls | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Jeff Bowes | XenBase |
+| Susan Bello | [MGI](Category:MGI "Category:MGI") |
+| Joel Richardson | [MGI](Category:MGI "Category:MGI") |
+| [Scott Cain](User:Scott "User:Scott") | GMOD |
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&oldid=9269>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Category](Special:Categories "Special:Categories"):
+
+- [Meetings](Category:Meetings "Category:Meetings")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=January+2007+GMOD+Meeting"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="January_2007_GMOD_Meeting" accesskey="c"
+  title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:January_2007_GMOD_Meeting&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](January_2007_GMOD_Meeting)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/January_2007_GMOD_Meeting" accesskey="j"
+  title="A list of all wiki pages that link here [j]">What links here</a></span>
+- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/January_2007_GMOD_Meeting"
+  accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&oldid=9269 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=January_2007_GMOD_Meeting&action=info)</span>
+- <span id="t-smwbrowselink"><a href="Special:Browse/January_2007_GMOD_Meeting"
+  rel="smw-browse">Browse properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=January_2007_GMOD_Meeting)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 22:33 on 10 September
+  2009.</span>
+- <span id="footer-info-viewcount">35,226 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>

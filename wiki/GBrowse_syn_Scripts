@@ -1,0 +1,500 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">GBrowse syn Scripts</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+[GBrowse_syn](GBrowse_syn.1 "GBrowse syn") is a
+[GBrowse](GBrowse.1 "GBrowse") based
+<a href="Synteny" class="mw-redirect" title="Synteny">synteny</a>
+viewer. This page describes helper scripts for processing alignment data
+for loading into [GBrowse_syn](GBrowse_syn.1 "GBrowse syn").
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
+## Contents
+
+</div>
+
+- [<span class="tocnumber">1</span>
+  <span class="toctext">load_alignments_msa.pl</span>](#load_alignments_msa.pl)
+- [<span class="tocnumber">2</span>
+  <span class="toctext">load_alignment_database.pl</span>](#load_alignment_database.pl)
+- [<span class="tocnumber">3</span>
+  <span class="toctext">mercatoraln_to_synhits.pl</span>](#mercatoraln_to_synhits.pl)
+- [<span class="tocnumber">4</span>
+  <span class="toctext">aln2hit.pl</span>](#aln2hit.pl)
+- [<span class="tocnumber">5</span>
+  <span class="toctext">clustal2hit.pl</span>](#clustal2hit.pl)
+
+</div>
+
+# <span id="load_alignments_msa.pl" class="mw-headline">load_alignments_msa.pl</span>
+
+Purpose  
+Use this script to load the GBrowse_syn alignment database from a
+multiple sequence alignment file. A variety of formats are supported,
+including
+<a href="http://www.bioperl.org/wiki/FASTA_multiple_alignment_format"
+class="external text" rel="nofollow">FASTA</a>,
+<a href="http://www.bioperl.org/wiki/ClustalW_multiple_alignment_format"
+class="external text" rel="nofollow">CLUSTAL</a>, <a
+href="http://www.bioperl.org/wiki/Stockholm_multiple_alignment_format"
+class="external text" rel="nofollow">STOCKHOLM</a>, etc.
+
+<!-- -->
+
+Note  
+Supported file formats are decoupled from the original application --
+for example, FASTA and CLUSTALW is not generally used for whole genome
+alignments but a number of other applications can emit or read these
+formats.
+
+<!-- -->
+
+Example  
+
+<!-- -->
+
+    perl load_alignments_msa.pl -f clustalw -u me -p mypsswd -d mydb -c -v
+
+Options  
+
+| argument | default | description |
+|----|----|----|
+| f | clustalw | Format on the multiple sequence alignment files |
+| u |  | Username for the mysql database |
+| p |  | Password for the mysql database |
+| d |  | Database name |
+| m | 100 | Resolution of the base-pair map uses to guide the alignment [grid-lines in GBrowse_syn](GBrowse_syn_Help#Grid_Lines "GBrowse syn Help") |
+| n |  | Flag to skip grid-line mapping (faster but you will lose all of the insertion/deletion data) |
+| v |  | Flag for verbose progress reporting |
+| c |  | Flag to create a new database and load the schema as well as the data. Note, using this flag will erase all existing data prior to loading in new data. Failing to use this option for a new database will cause a fatal error. |
+
+# <span id="load_alignment_database.pl" class="mw-headline">load_alignment_database.pl</span>
+
+Purpose  
+This script loads the alignment database from a tab-delimited alignment
+data files (format described
+<span class="pops">[here](GBrowse_syn_Database#alignment_data_loading_format "GBrowse syn Database")</span>).
+This format can either be an intermediate for parsed alignment data or
+can be used for data that does not come from multiple sequence
+alignments, for example gene orthology data, defined regions of
+co-linearity, etc. The tab-delimited format requires start and end
+coordinates for each reference sequence. Any features that have start
+and end coordinates and strand information can be used.
+
+<!-- -->
+
+Example  
+
+<!-- -->
+
+    perl load_alignment_database.pl -u user -p password -d dbname -c -v alignments.aln.txt alignments2.aln.txt
+
+Options  
+
+| argument | default | description |
+|----|----|----|
+| u |  | Username for the mysql database |
+| p |  | Password for the mysql database |
+| d |  | Database name |
+| v |  | Flag for verbose progress reporting |
+| c |  | Flag to create a new database and load the schema as well as the data. Note, using this flag will erase all existing data prior to loading in new data. Failing to use this option for a new database will cause a fatal error. |
+
+# <span id="mercatoraln_to_synhits.pl" class="mw-headline">mercatoraln_to_synhits.pl</span>
+
+<a
+href="http://gmod.svn.sourceforge.net/viewvc/gmod/Generic-Genome-Browser/branches/stable/bin/gbrowse_syn/mercatoraln_to_synhits.pl"
+class="external text" rel="nofollow">mercatoraln_to_synhits.pl</a> is a
+data parser for multiple sequence alignments generated by mercator.
+
+Purpose  
+This script will process alignments generated by the MERCATOR pipeline
+
+<!-- -->
+
+Example  
+
+<!-- -->
+
+    perl mercatoraln_to_synhits.pl -d alignments > mercator_alignments.gbrowse_syn.txt
+    load_alignment_database.pl -u user -p password -d dbname -c -v mercator_alignments.gbrowse_syn.txt
+
+Options  
+
+| argument | default | description |
+|----|----|----|
+| a | output.mfa | Specifies the name of the alignment file from when mercator does the MSA (MAVID, PECAN, or other genome alignment tool) |
+| v |  | Print progress reports while running. Note that the script will stop after reading the first line of the file (see line 117 of the script) if this option is set. |
+| f | fasta | Specifies format of the input alignment files (multi-fasta format is the default) |
+| d |  | Specifies the containing directory for the genome and map files (typically this is called **alignments** in the mercator pipeline) |
+
+# <span id="aln2hit.pl" class="mw-headline">aln2hit.pl</span>
+
+<a
+href="http://gmod.svn.sourceforge.net/viewvc/gmod/Generic-Genome-Browser/branches/stable/bin/gbrowse_syn/aln2hit.pl?revision=15979"
+class="external text" rel="nofollow">aln2hit.pl</a> is a generic
+alignment data parser that reads alignment data into the GBrowse_syn
+database loading format.
+
+Purpose  
+Use this script in cases where you have a single alignment file and want
+to convert it to the [tab-delimited
+format](GBrowse_syn_Database#alignment_data_loading_format "GBrowse syn Database")
+that is used to load the GBrowse_syn alignment database.
+
+<!-- -->
+
+Note  
+This script is deprecated. You can use the
+[load_alignments_msa.pl](GBrowse_syn_Scripts#load_alignments_msa.pl "GBrowse syn Scripts")
+to load the database directly.
+
+<!-- -->
+
+Example  
+
+<!-- -->
+
+    perl aln2hit.pl -f clustalw -i my_alignments.aln >my_alignments.txt
+
+Options  
+
+| argument | default | description |
+|----|----|----|
+| f | clustalw | Specifies the alignment file format. Most common formats recongnized by BioPerl's <a href="http://doc.bioperl.org/releases/bioperl-1.0/Bio/AlignIO.html"
+class="external text" rel="nofollow">AlignIO parsers</a> are supported. Use <a href="http://www.bioperl.org/wiki/ClustalW_multiple_alignment_format"
+class="external text" rel="nofollow">clustalw</a> or <a href="http://www.bioperl.org/wiki/FASTA_multiple_alignment_format"
+class="external text" rel="nofollow">fasta</a> for best results. |
+| i |  | Specifies the name of the input alignment file |
+
+# <span id="clustal2hit.pl" class="mw-headline">clustal2hit.pl</span>
+
+<a
+href="http://gmod.svn.sourceforge.net/viewvc/gmod/Generic-Genome-Browser/branches/stable/bin/gbrowse_syn/clustal2hit.pl"
+class="external text" rel="nofollow">clustal2hit.pl</a> is a CLUSTALW
+format alignment data parser.
+
+Purpose  
+Use this script in cases where you have a one or more clustal alignment
+files and want to convert them to the [tab-delimited
+format](GBrowse_syn_Database#alignment_data_loading_format "GBrowse syn Database")
+that is used to load the GBrowse_syn alignment database.
+
+<!-- -->
+
+Note  
+This script is deprecated. You can use the
+[load_alignments_msa.pl](GBrowse_syn_Scripts#load_alignments_msa.pl "GBrowse syn Scripts")
+to load the database directly.
+
+<!-- -->
+
+Example  
+
+<!-- -->
+
+    perl clustal2hit.pl *.aln >my_alignments.txt
+
+Options  
+
+None.
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&oldid=23156>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Categories](Special:Categories "Special:Categories"):
+
+- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
+- [Documentation](Category:Documentation "Category:Documentation")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=GBrowse+syn+Scripts"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="GBrowse_syn_Scripts" accesskey="c"
+  title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:GBrowse_syn_Scripts&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](GBrowse_syn_Scripts)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/GBrowse_syn_Scripts" accesskey="j"
+  title="A list of all wiki pages that link here [j]">What links here</a></span>
+- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/GBrowse_syn_Scripts" accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&oldid=23156 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Scripts&action=info)</span>
+- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_Scripts" rel="smw-browse">Browse
+  properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=GBrowse_syn_Scripts)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 22:39 on 21 February
+  2013.</span>
+- <span id="footer-info-viewcount">98,602 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>

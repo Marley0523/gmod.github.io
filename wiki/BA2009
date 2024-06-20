@@ -1,0 +1,501 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">BA2009</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+<table
+style="vertical-align: middle; border: 2px solid #A6A6BC; text-align: center"
+data-cellpadding="10">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><a href="http://www.ausbiotech2009.com.au/bia/bia-home"
+rel="nofollow" title="Bioinformatics Australia 2009"><img
+src="../mediawiki/images/thumb/1/17/Ba2009.png/450px-Ba2009.png"
+srcset="../mediawiki/images/thumb/1/17/Ba2009.png/675px-Ba2009.png 1.5x, ../mediawiki/images/thumb/1/17/Ba2009.png/900px-Ba2009.png 2x"
+width="450" height="94" alt="Bioinformatics Australia 2009" /></a>
+<div style="padding: 0.5em">
+<hr />
+</div>
+<div style="font-size: 220%; line-height: 120%">
+<strong><a href="http://www.ausbiotech2009.com.au/bia/workshop"
+class="external text" rel="nofollow">Database Tools for
+Biologists</a></strong>
+</div>
+<div style="font-size: 150%">
+Pre-Conference GMOD Workshop<br />
+28 October 2009, 2:00-6:00pm
+</div></td>
+</tr>
+</tbody>
+</table>
+
+A half day, pre-conference GMOD workshop was held at
+<a href="http://www.ausbiotech2009.com.au/bia/bia-home"
+class="external text" rel="nofollow">Bioinformatics Australia 2009
+(BA2009)</a> in Melbourne. The workshop was on Wednesday 28 October
+2009, from 2-6pm.
+
+The workshop introduced the [GMOD project](Main_Page "Main Page") and
+many project [components](GMOD_Components "GMOD Components"), and was
+run by [Dave Clements](User:Clements "User:Clements") of the [GMOD Help
+Desk](GMOD_Help_Desk "GMOD Help Desk").
+
+  
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
+## Contents
+
+</div>
+
+- [<span class="tocnumber">1</span>
+  <span class="toctext">Links</span>](#Links)
+- [<span class="tocnumber">2</span>
+  <span class="toctext">Agenda</span>](#Agenda)
+- [<span class="tocnumber">3</span>
+  <span class="toctext">Sponsor</span>](#Sponsor)
+  - [<span class="tocnumber">3.1</span> <span class="toctext">About
+    Bioplatforms Australia</span>](#About_Bioplatforms_Australia)
+- [<span class="tocnumber">4</span>
+  <span class="toctext">Flier</span>](#Flier)
+
+</div>
+
+## <span id="Links" class="mw-headline">Links</span>
+
+Presentation - Database Tools for Biologists (<a
+href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/BA/BA2009GMODWorkshop.pdf"
+class="external text" rel="nofollow">PDF</a>, <a
+href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/BA/BA2009GMODWorkshop.ppt"
+class="external text" rel="nofollow">PowerPoint</a>)  
+The presentation slides are available in two formats. The PowerPoint
+contains a few useful animations.
+
+[GBrowse NGS Tutorial](GBrowse_NGS_Tutorial "GBrowse NGS Tutorial")  
+The worked example demonstrating how to display
+<a href="Next_generation_sequencing" class="mw-redirect"
+title="Next generation sequencing">next generation sequencing</a> (NGS)
+data in [GBrowse](GBrowse.1 "GBrowse") is now available as a GMOD
+[tutorial](Category:Tutorials "Category:Tutorials"), complete with a
+starting <a
+href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
+class="new" title="VMware (page does not exist)">VMware</a> image.
+
+## <span id="Agenda" class="mw-headline">Agenda</span>
+
+<table class="wikitable" data-border="1" data-cellpadding="5"
+data-cellspacing="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Topic</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td colspan="2"></td>
+</tr>
+<tr class="even">
+<td>2:00</td>
+<td style="font-size: 120%"><strong>Introduction</strong></td>
+</tr>
+<tr class="odd">
+<td colspan="2"></td>
+</tr>
+<tr class="even">
+<td>2:10</td>
+<td style="font-size: 120%"><strong>Software</strong></td>
+</tr>
+<tr class="odd">
+<td>2:15</td>
+<td><strong>Visualisation</strong><br />
+&#10;<p><a href="GBrowse.1" title="GBrowse">GBrowse</a>, <a href="JBrowse.1"
+title="JBrowse">JBrowse</a>, <a href="GBrowse_syn.1"
+title="GBrowse syn">GBrowse_syn</a>, <a href="CMap.1"
+title="CMap">CMap</a>, other <a href="Comparative_Genomics"
+title="Comparative Genomics">Comparative Genomics</a> viewers<br />
+Included a detailed GBrowse configuration example, showing some <a
+href="Next_Generation_Sequencing"
+title="Next Generation Sequencing">next generation sequence
+data</a>.</p></td>
+</tr>
+<tr class="even">
+<td>3:55</td>
+<td>Break</td>
+</tr>
+<tr class="odd">
+<td>4:05</td>
+<td><strong>Data Management</strong><br />
+&#10;<p><a href="Chado" class="mw-redirect" title="Chado">Chado</a>, <a
+href="BioMart" title="BioMart">BioMart</a>, <a href="InterMine"
+title="InterMine">InterMine</a>, <a href="GFF3"
+title="GFF3">GFF3</a></p></td>
+</tr>
+<tr class="even">
+<td>4:50</td>
+<td><strong>Annotation</strong><br />
+&#10;<p><a href="MAKER.1" title="MAKER">MAKER</a>, <a href="DIYA"
+title="DIYA">DIYA</a>, <a href="Apollo.1" title="Apollo">Apollo</a>, <a
+href="Textpresso" title="Textpresso">Textpresso</a>, Community
+Annotation, Pipelines and Workflows</p></td>
+</tr>
+<tr class="odd">
+<td colspan="2"></td>
+</tr>
+<tr class="even">
+<td>5:35</td>
+<td style="font-size: 120%"><strong>GMOD Project and
+Community</strong></td>
+</tr>
+</tbody>
+</table>
+
+## <span id="Sponsor" class="mw-headline">Sponsor</span>
+
+<div class="floatleft">
+
+<a href="http://www.bioplatforms.com/" rel="nofollow"
+title="Bioplatforms Australia"><img
+src="../mediawiki/images/4/4b/BioplatformsAustraliaLogo.jpg" width="223"
+height="148" alt="Bioplatforms Australia" /></a>
+
+</div>
+
+This workshop was generously sponsored by
+<a href="http://www.bioplatforms.com/" class="external text"
+rel="nofollow">Bioplatforms Australia</a>, and admission to the workshop
+was included in the registration for
+<a href="http://www.ausbiotech2009.com.au/bia/bia-home"
+class="external text" rel="nofollow">Bioinformatics Australia 2009</a>.
+
+### <span id="About_Bioplatforms_Australia" class="mw-headline">About Bioplatforms Australia</span>
+
+<a href="http://www.bioplatforms.com/" class="external text"
+rel="nofollow">Bioplatforms Australia</a> is a national body that
+supports Australian life science research through major investments in
+state-of-the-art platform technologies and by providing specialist
+services in genomics, proteomics, metabolomics and bioinformatics.
+Bioplatforms Australia represents an Australia-wide network of
+universities and research institutions that boast the nation’s best in
+biomolecular research capabilities. Its vision is to promote broad
+access to its infrastructure network and cutting edge expertise as well
+as enhance research efforts by offering an integrated 'omics' approach.
+
+## <span id="Flier" class="mw-headline">Flier</span>
+
+<div class="floatleft">
+
+[<img src="../mediawiki/images/a/a6/BA2009AdRevisedThumb.png" width="100"
+height="142" alt="BA2009 Flier" />](Media:BA2009AdRevised.pdf "BA2009 Flier")
+
+</div>
+
+If you work in Australia (or anywhere close to it!) please help spread
+the word on this workshop by downloading, printing and posting the
+<a href="../mediawiki/images/e/eb/BA2009AdRevised.pdf" class="internal"
+title="BA2009AdRevised.pdf">workshop announcement</a> at your workplace.
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=BA2009&oldid=21964>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Category](Special:Categories "Special:Categories"):
+
+- [Education and
+  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=BA2009"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="BA2009" accesskey="c"
+  title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:BA2009&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](BA2009)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=BA2009&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=BA2009&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/BA2009" accesskey="j"
+  title="A list of all wiki pages that link here [j]">What links here</a></span>
+- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/BA2009" accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=BA2009&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=BA2009&oldid=21964 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=BA2009&action=info)</span>
+- <span id="t-smwbrowselink"><a href="Special:Browse/BA2009" rel="smw-browse">Browse properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=BA2009)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 18:52 on 8 October
+  2012.</span>
+- <span id="footer-info-viewcount">119,347 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>

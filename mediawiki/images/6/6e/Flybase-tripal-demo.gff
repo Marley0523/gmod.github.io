@@ -1,0 +1,138 @@
+##gff-version 3
+##sequence-region 2LHet 1 368872
+
+##species  http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7227
+##genome-build FlyBase r5.34
+2LHet	FlyBase	chromosome_arm	1	368872	.	.	.	ID=2LHet;Name=2LHet;Dbxref=REFSEQ:NW_001848855,GB:CM000456
+2LHet	flybase	match	19623	32995	.	-	.	ID=flybase-annotation5.14:FBtr0113706_dmel_transcript.RELEASE5.14;Name=Release5.14-FBgn0039958:FBtr0113706:CG12567-RB;program=flybase;programversion=1.0;sourcename=dmel_transcript.RELEASE5.14
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match	19623	32995	.	-	.	ID=:1130193_sim4_na_het_transcript.dmel.RELEASE32;Name=CG12567-RB-CP000215-na_het_transcript.dmel.RELEASE32b-sim4;program=sim4;programversion=1.0;sourcename=na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RB 1 1895 +
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match	19623	32927	.	-	.	ID=:1130194_sim4_na_het_transcript.dmel.RELEASE32;Name=CG12567-RA-CP000215-na_het_transcript.dmel.RELEASE32b-sim4;program=sim4;programversion=1.0;sourcename=na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RA 1 2178 +
+2LHet	flybase	match_part	19623	20650	.	-	.	Name=:5.14_CG12567:20650-19623;Parent=flybase-annotation5.14:FBtr0113706_dmel_transcript.RELEASE5.14
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	19623	20650	100	-	.	Name=:2481028;Parent=:1130193_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RB 868 1895 +
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	19623	20650	100	-	.	Name=:2481032;Parent=:1130194_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RA 1151 2178 +
+2LHet	FlyBase	gene	19633	32995	.	-	.	ID=FBgn0039958;Name=CG12567;Alias=FBan0012567;Ontology_term=SO:0000010,SO:0000087,GO:0004788,GO:0016787;Dbxref=GB:AA439562,GB:AABU01002756,GB:AI945506,GB:AY071204,GB_protein:AAL48826,GB:BI227483,UniProt/TrEMBL:Q7PLS1,UniProt/TrEMBL:Q8SZ06,INTERPRO:IPR000086,GB_protein:EAA46064,GB_protein:EDP28153,GB_protein:EAA46065,GB_protein:EFA98684,GB_protein:EFA98683,FlyBase_Annotation_IDs:CG12567,INTERPRO:IPR015797,EntrezGene:3355094,UniProt/TrEMBL:A8Y4U4,UniProt/TrEMBL:D2A6J3,UniProt/TrEMBL:D2A6J2,BIOGRID:78219,FlyAtlas:CG12567-RB
+2LHet	FlyBase	mRNA	19633	32995	.	-	.	ID=FBtr0300704;Name=CG12567-RF;Parent=FBgn0039958;Dbxref=REFSEQ:NM_001015383,FlyBase_Annotation_IDs:CG12567-RF;score_text=Strongly Supported;score=11
+2LHet	FlyBase	mRNA	19633	32927	.	-	.	ID=FBtr0113704;Name=CG12567-RA;Parent=FBgn0039958;Dbxref=REFSEQ:NM_001015384,FlyBase_Annotation_IDs:CG12567-RA;score_text=Strongly Supported;score=11
+2LHet	FlyBase	mRNA	19633	32927	.	-	.	ID=FBtr0113705;Name=CG12567-RC;Parent=FBgn0039958;Dbxref=REFSEQ:NM_001110861,FlyBase_Annotation_IDs:CG12567-RC;score_text=Weakly Supported;score=3
+2LHet	FlyBase	mRNA	19633	32927	.	-	.	ID=FBtr0300703;Name=CG12567-RE;Parent=FBgn0039958;Dbxref=REFSEQ:NM_001170363,FlyBase_Annotation_IDs:CG12567-RE;score_text=Weakly Supported;score=3
+2LHet	FlyBase	mRNA	19633	32464	.	-	.	ID=FBtr0300702;Name=CG12567-RD;Parent=FBgn0039958;Dbxref=REFSEQ:NM_001170362,FlyBase_Annotation_IDs:CG12567-RD;score_text=Weakly Supported;score=3
+2LHet	FlyBase	exon	19633	20650	.	-	.	ID=FBgn0039958:1;Name=CG12567:1;Parent=FBtr0113704,FBtr0113705,FBtr0300702,FBtr0300703,FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	19633	20650	.	-	.	ID=three_prime_UTR_FBgn0039958:1_1055;Name=CG12567-u3;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	19633	20650	.	-	.	ID=three_prime_UTR_FBgn0039958:1_1057;Name=CG12567-u3;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	19633	20468	.	-	.	ID=three_prime_UTR_FBgn0039958:1_1054;Name=CG12567-u3;Parent=FBtr0113704;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	19633	20468	.	-	.	ID=three_prime_UTR_FBgn0039958:1_1056;Name=CG12567-u3;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	19633	20468	.	-	.	ID=three_prime_UTR_FBgn0039958:1_1058;Name=CG12567-u3;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	CDS	20469	20650	.	-	2	ID=CDS_FBgn0039958:1_1054;Name=CG12567-cds;Parent=FBtr0113704;parent_type=mRNA
+2LHet	FlyBase	CDS	20469	20650	.	-	2	ID=CDS_FBgn0039958:1_1055;Name=CG12567-cds;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	CDS	20469	20650	.	-	2	ID=CDS_FBgn0039958:1_1057;Name=CG12567-cds;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	protein	20472	32972	.	-	.	ID=FBpp0289928;Name=CG12567-PF;Derives_from=FBtr0300704;Dbxref=REFSEQ:NP_001015383,GB_protein:EAA46064,FlyBase_Annotation_IDs:CG12567-PF;derived_molecular_weight=38710.2;derived_isoelectric_point=6.11
+2LHet	FlyBase	protein	20472	32645	.	-	.	ID=FBpp0112427;Name=CG12567-PA;Derives_from=FBtr0113704;Dbxref=FlyBase_Annotation_IDs:CG12567-PA,REFSEQ:NP_001015384,GB_protein:EAA46065;derived_molecular_weight=39632.2;derived_isoelectric_point=6.62
+2LHet	FlyBase	protein	20472	32433	.	-	.	ID=FBpp0289926;Name=CG12567-PD;Derives_from=FBtr0300702;Dbxref=REFSEQ:NP_001163833,GB_protein:EFA98683,FlyBase_Annotation_IDs:CG12567-PD;derived_molecular_weight=38154.6;derived_isoelectric_point=6.40
+2LHet	FlyBase	intron	20651	20722	.	-	.	ID=intron_FBgn0039958:2_FBgn0039958:1;Name=CG12567-in;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	intron	20651	20722	.	-	.	ID=intron_FBgn0039958:3_FBgn0039958:1;Name=CG12567-in;Parent=FBtr0113704,FBtr0300702,FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	intron	20651	20722	.	-	.	ID=intron_FBgn0039958:4_FBgn0039958:1;Name=CG12567-in;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	exon	20723	21569	.	-	.	ID=FBgn0039958:4;Name=CG12567:4;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	20723	21414	.	-	.	ID=three_prime_UTR_FBgn0039958:4_1056;Name=CG12567-u3;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	CDS	20723	21383	.	-	0	ID=CDS_FBgn0039958:3_1054;Name=CG12567-cds;Parent=FBtr0113704;parent_type=mRNA
+2LHet	FlyBase	CDS	20723	21383	.	-	0	ID=CDS_FBgn0039958:3_1055;Name=CG12567-cds;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	CDS	20723	21383	.	-	0	ID=CDS_FBgn0039958:3_1057;Name=CG12567-cds;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	exon	20723	21383	.	-	.	ID=FBgn0039958:3;Name=CG12567:3;Parent=FBtr0113704,FBtr0300702,FBtr0300704;parent_type=mRNA
+2LHet	flybase	match_part	20723	21383	.	-	.	Name=:5.14_CG12567:21383-20723;Parent=flybase-annotation5.14:FBtr0113706_dmel_transcript.RELEASE5.14
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	20723	21383	100	-	.	Name=:2481027;Parent=:1130193_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RB 207 867 +
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	20723	21383	100	-	.	Name=:2481031;Parent=:1130194_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RA 490 1150 +
+2LHet	FlyBase	exon	20723	21373	.	-	.	ID=FBgn0039958:2;Name=CG12567:2;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	20723	21367	.	-	.	ID=three_prime_UTR_FBgn0039958:2_1054;Name=CG12567-u3;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	CDS	21368	21373	.	-	0	ID=CDS_FBgn0039958:2_1054;Name=CG12567-cds;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	protein	21371	32645	.	-	.	ID=FBpp0112428;Name=CG12567-PC;Derives_from=FBtr0113705;Dbxref=FlyBase_Annotation_IDs:CG12567-PC,REFSEQ:NP_001104331,GB_protein:EDP28153;derived_molecular_weight=8056.4;derived_isoelectric_point=9.33
+2LHet	FlyBase	intron	21374	21435	.	-	.	ID=intron_FBgn0039958:5_FBgn0039958:2;Name=CG12567-in;Parent=FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	intron	21384	21435	.	-	.	ID=intron_FBgn0039958:5_FBgn0039958:3;Name=CG12567-in;Parent=FBtr0113704,FBtr0300702,FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	CDS	21415	21569	.	-	2	ID=CDS_FBgn0039958:4_1056;Name=CG12567-cds;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	protein	21418	32645	.	-	.	ID=FBpp0289927;Name=CG12567-PE;Derives_from=FBtr0300703;Dbxref=REFSEQ:NP_001163834,GB_protein:EFA98684,FlyBase_Annotation_IDs:CG12567-PE;derived_molecular_weight=8673.2;derived_isoelectric_point=9.27
+2LHet	FlyBase	CDS	21436	21569	.	-	2	ID=CDS_FBgn0039958:5_1054;Name=CG12567-cds;Parent=FBtr0113704,FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	CDS	21436	21569	.	-	2	ID=CDS_FBgn0039958:5_1055;Name=CG12567-cds;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	CDS	21436	21569	.	-	2	ID=CDS_FBgn0039958:5_1057;Name=CG12567-cds;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	exon	21436	21569	.	-	.	ID=FBgn0039958:5;Name=CG12567:5;Parent=FBtr0113704,FBtr0113705,FBtr0300702,FBtr0300704;parent_type=mRNA
+2LHet	flybase	match_part	21436	21569	.	-	.	Name=:5.14_CG12567:21569-21436;Parent=flybase-annotation5.14:FBtr0113706_dmel_transcript.RELEASE5.14
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	21436	21569	100	-	.	Name=:2481026;Parent=:1130193_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RB 73 206 +
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	21436	21569	100	-	.	Name=:2481030;Parent=:1130194_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RA 356 489 +
+2LHet	FlyBase	intron	21570	32923	.	-	.	ID=intron_FBgn0039958:8_FBgn0039958:5;Name=CG12567-in;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	intron	21570	32572	.	-	.	ID=intron_FBgn0039958:7_FBgn0039958:4;Name=CG12567-in;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	intron	21570	32572	.	-	.	ID=intron_FBgn0039958:7_FBgn0039958:5;Name=CG12567-in;Parent=FBtr0113704,FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	intron	21570	32402	.	-	.	ID=intron_FBgn0039958:6_FBgn0039958:5;Name=CG12567-in;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	exon	32403	32464	.	-	.	ID=FBgn0039958:6;Name=CG12567:6;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	CDS	32403	32433	.	-	0	ID=CDS_FBgn0039958:6_1055;Name=CG12567-cds;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	32434	32464	.	-	.	ID=five_prime_UTR_FBgn0039958:6_1055;Name=CG12567-u5;Parent=FBtr0300702;parent_type=mRNA
+2LHet	FlyBase	exon	32573	32927	.	-	.	ID=FBgn0039958:7;Name=CG12567:7;Parent=FBtr0113704,FBtr0113705,FBtr0300703;parent_type=mRNA
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	32573	32927	100	-	.	Name=:2481029;Parent=:1130194_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RA 1 355 +
+2LHet	FlyBase	CDS	32573	32645	.	-	0	ID=CDS_FBgn0039958:7_1054;Name=CG12567-cds;Parent=FBtr0113704,FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	CDS	32573	32645	.	-	0	ID=CDS_FBgn0039958:7_1056;Name=CG12567-cds;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	32646	32927	.	-	.	ID=five_prime_UTR_FBgn0039958:7_1054;Name=CG12567-u5;Parent=FBtr0113704,FBtr0113705;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	32646	32927	.	-	.	ID=five_prime_UTR_FBgn0039958:7_1056;Name=CG12567-u5;Parent=FBtr0300703;parent_type=mRNA
+2LHet	FlyBase	transposable_element_insertion_site	32827	32827	.	+	.	ID=FBti0075445;Name=P{EPgy2}CG12567[EY18946];affected_genes=FBgn0039958;causes_alleles=FBal0192223;flanking_sequence=EI200977,EI200451,EI200452
+2LHet	FlyBase	exon	32924	32995	.	-	.	ID=FBgn0039958:8;Name=CG12567:8;Parent=FBtr0300704;parent_type=mRNA
+2LHet	flybase	match_part	32924	32995	.	-	.	Name=:5.14_CG12567:32995-32924;Parent=flybase-annotation5.14:FBtr0113706_dmel_transcript.RELEASE5.14
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	32924	32995	100	-	.	Name=:2481025;Parent=:1130193_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG12567-RB 1 72 +
+2LHet	FlyBase	CDS	32924	32972	.	-	0	ID=CDS_FBgn0039958:8_1057;Name=CG12567-cds;Parent=FBtr0300704;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	32973	32995	.	-	.	ID=five_prime_UTR_FBgn0039958:8_1057;Name=CG12567-u5;Parent=FBtr0300704;parent_type=mRNA
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match	167978	169120	.	-	.	ID=:1130192_sim4_na_het_transcript.dmel.RELEASE32;Name=CG40042-RA-CP000215-na_het_transcript.dmel.RELEASE32b-sim4;program=sim4;programversion=1.0;sourcename=na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG40042-RA 1 922 +
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	167978	168169	100	-	.	Name=:2481024;Parent=:1130192_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG40042-RA 731 922 +
+2LHet	FlyBase	gene	167980	169120	.	-	.	ID=FBgn0058042;Name=CG40042;Alias=FBgn0043839,FBgn0062865,FBan0040042,LP07554,unnamed,BEST:GH02609,BcDNA:SD19278;Ontology_term=SO:0000010,SO:0000087,GO:0008565,GO:0005743,GO:0015031;Dbxref=GB:AABU01002756,GB:AI063119,GB:AI294233,GB:AY119236,GB_protein:AAM51096,GB:BF485996,GB:BI637307,UniProt/TrEMBL:Q8MRW1,INTERPRO:IPR003397,GB_protein:EAA46063,GB_protein:EDP28159,FlyBase_Annotation_IDs:CG40042,EntrezGene:3355096,UniProt/TrEMBL:A8Y4U9,BIOGRID:78221,FlyAtlas:CG40042-RA
+2LHet	FlyBase	mRNA	167980	169120	.	-	.	ID=FBtr0113781;Name=CG40042-RA;Parent=FBgn0058042;Dbxref=REFSEQ:NM_001015387,FlyBase_Annotation_IDs:CG40042-RA;score_text=Strongly Supported;score=11
+2LHet	FlyBase	mRNA	167980	169120	.	-	.	ID=FBtr0300365;Name=CG40042-RD;Parent=FBgn0058042;Dbxref=REFSEQ:NM_001170364,FlyBase_Annotation_IDs:CG40042-RD;score_text=Weakly Supported;score=3
+2LHet	FlyBase	exon	167980	168169	.	-	.	ID=FBgn0058042:1;Name=CG40042:1;Parent=FBtr0113781,FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	167980	168053	.	-	.	ID=three_prime_UTR_FBgn0058042:1_1053;Name=CG40042-u3;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	167980	168053	.	-	.	ID=three_prime_UTR_FBgn0058042:1_1054;Name=CG40042-u3;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	CDS	168054	168169	.	-	0	ID=CDS_FBgn0058042:1_1053;Name=CG40042-cds;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	CDS	168054	168169	.	-	0	ID=CDS_FBgn0058042:1_1054;Name=CG40042-cds;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	protein	168057	168895	.	-	.	ID=FBpp0112504;Name=CG40042-PA;Derives_from=FBtr0113781;Dbxref=FlyBase_Annotation_IDs:CG40042-PA,REFSEQ:NP_001015387,GB_protein:EAA46063;derived_molecular_weight=22137.8;derived_isoelectric_point=9.26
+2LHet	FlyBase	protein	168057	168557	.	-	.	ID=FBpp0289594;Name=CG40042-PD;Derives_from=FBtr0300365;Dbxref=REFSEQ:NP_001163835,GB_protein:EDP28159,FlyBase_Annotation_IDs:CG40042-PD;derived_molecular_weight=13117.1;derived_isoelectric_point=9.70
+2LHet	FlyBase	intron	168170	168233	.	-	.	ID=intron_FBgn0058042:2_FBgn0058042:1;Name=CG40042-in;Parent=FBtr0113781,FBtr0300365;parent_type=mRNA
+2LHet	flybase	match	168228	169120	.	-	.	ID=flybase-annotation5.12:FBtr0113780_dmel_transcript.RELEASE5.12;Name=Release5.12-FBgn0058042:FBtr0113780:CG40042-RB;program=flybase;programversion=1.0;sourcename=dmel_transcript.RELEASE5.12
+2LHet	flybase	match_part	168228	168403	.	-	.	Name=:5.12_CG40042:168403-168228;Parent=flybase-annotation5.12:FBtr0113780_dmel_transcript.RELEASE5.12
+2LHet	FlyBase	CDS	168234	168403	.	-	0	ID=CDS_FBgn0058042:2_1053;Name=CG40042-cds;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	CDS	168234	168403	.	-	0	ID=CDS_FBgn0058042:2_1054;Name=CG40042-cds;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	exon	168234	168403	.	-	.	ID=FBgn0058042:2;Name=CG40042:2;Parent=FBtr0113781,FBtr0300365;parent_type=mRNA
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	168234	168403	100	-	.	Name=:2481023;Parent=:1130192_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG40042-RA 561 730 +
+2LHet	FlyBase	intron	168404	168462	.	-	.	ID=intron_FBgn0058042:3_FBgn0058042:2;Name=CG40042-in;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	intron	168404	168462	.	-	.	ID=intron_FBgn0058042:4_FBgn0058042:2;Name=CG40042-in;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	exon	168463	168795	.	-	.	ID=FBgn0058042:4;Name=CG40042:4;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	CDS	168463	168745	.	-	2	ID=CDS_FBgn0058042:3_1053;Name=CG40042-cds;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	exon	168463	168745	.	-	.	ID=FBgn0058042:3;Name=CG40042:3;Parent=FBtr0113781;parent_type=mRNA
+2LHet	flybase	match_part	168463	168745	.	-	.	Name=:5.12_CG40042:168745-168463;Parent=flybase-annotation5.12:FBtr0113780_dmel_transcript.RELEASE5.12
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	168463	168745	100	-	.	Name=:2481022;Parent=:1130192_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG40042-RA 278 560 +
+2LHet	FlyBase	CDS	168463	168557	.	-	0	ID=CDS_FBgn0058042:4_1054;Name=CG40042-cds;Parent=FBtr0300365;parent_type=mRNA
+2LHet	flybase	match	168540	169120	.	-	.	ID=flybase-annotation5.12:FBtr0113779_dmel_transcript.RELEASE5.12;Name=Release5.12-FBgn0058042:FBtr0113779:CG40042-RC;program=flybase;programversion=1.0;sourcename=dmel_transcript.RELEASE5.12
+2LHet	flybase	match_part	168540	168795	.	-	.	Name=:5.12_CG40042:168795-168540;Parent=flybase-annotation5.12:FBtr0113779_dmel_transcript.RELEASE5.12
+2LHet	FlyBase	five_prime_UTR	168558	168795	.	-	.	ID=five_prime_UTR_FBgn0058042:4_1054;Name=CG40042-u5;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	intron	168746	168843	.	-	.	ID=intron_FBgn0058042:5_FBgn0058042:3;Name=CG40042-in;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	intron	168796	168843	.	-	.	ID=intron_FBgn0058042:5_FBgn0058042:4;Name=CG40042-in;Parent=FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	exon	168844	169120	.	-	.	ID=FBgn0058042:5;Name=CG40042:5;Parent=FBtr0113781,FBtr0300365;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	168844	169120	.	-	.	ID=five_prime_UTR_FBgn0058042:5_1054;Name=CG40042-u5;Parent=FBtr0300365;parent_type=mRNA
+2LHet	flybase	match_part	168844	169120	.	-	.	Name=:5.12_CG40042:169120-168844;Parent=flybase-annotation5.12:FBtr0113779_dmel_transcript.RELEASE5.12
+2LHet	flybase	match_part	168844	169120	.	-	.	Name=:5.12_CG40042:169120-168844;Parent=flybase-annotation5.12:FBtr0113780_dmel_transcript.RELEASE5.12
+2LHet	sim4_na_het_transcript.dmel.RELEASE32	match_part	168844	169120	100	-	.	Name=:2481021;Parent=:1130192_sim4_na_het_transcript.dmel.RELEASE32;target_type=match;Target=CG40042-RA 1 277 +
+2LHet	FlyBase	CDS	168844	168895	.	-	0	ID=CDS_FBgn0058042:5_1053;Name=CG40042-cds;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	168896	169120	.	-	.	ID=five_prime_UTR_FBgn0058042:5_1053;Name=CG40042-u5;Parent=FBtr0113781;parent_type=mRNA
+2LHet	FlyBase	exon	271084	271321	.	+	.	ID=FBgn0085664:1;Name=CR41519:1;Parent=FBtr0304148;parent_type=pseudogene
+2LHet	FlyBase	gene	271084	271321	.	+	.	ID=FBgn0085664;Name=CR41519;Alias=FBan0041519,CG41519,CG41519;Ontology_term=SO:0000087,SO:0000042,SO:0000011;Dbxref=GB_protein:EDP28162,GB_protein:EDP28161,FlyBase_Annotation_IDs:CR41519,EntrezGene:5740357
+2LHet	FlyBase	pseudogene	271084	271321	.	+	.	ID=FBtr0304148;Name=CR41519-RC;Parent=FBgn0085664;Dbxref=FlyBase_Annotation_IDs:CR41519-RC;score_text=Weakly Supported;score=0
+2LHet	flybase	match	165970	167987	.	+	.	ID=flybase-annotation5.12:FBtr0113778_dmel_transcript.RELEASE5.12;Name=Release5.12-FBgn0063368:FBtr0113778:Gpb5-RB;program=flybase;programversion=1.0;sourcename=dmel_transcript.RELEASE5.12
+2LHet	FlyBase	gene	167248	167979	.	+	.	ID=FBgn0063368;Name=Gpb5;fullname=Glycoprotein hormone beta 5;Alias=FBgn0058041,FBan0040041,beta-glycoprotein-hormone-related-polypeptide,CG40041,Dmbeta,GPB5,beta-glycoprotein-hormone-related;Ontology_term=SO:0000010,SO:0000087,GO:0005179,GO:0046982,GO:0005576;Dbxref=GB:AABU01002756,GB_protein:EAA46061,GB:AF403389,GB_protein:AAM53262,GB:AJ440748,GB_protein:CAD29446,UniProt/TrEMBL:Q8MLY9,GB_protein:EDP28157,GB_protein:EDP28156,FlyBase_Annotation_IDs:CG40041,INTERPRO:IPR001545,EntrezGene:3355097,INTERPRO:IPR006208,UniProt/TrEMBL:Q4V4C8,FlyAtlas:CG40041-RB
+2LHet	FlyBase	mRNA	167248	167979	.	+	.	ID=FBtr0113777;Name=Gpb5-RA;Parent=FBgn0063368;Alias=beta-glycoprotein-hormone-related-RA;Dbxref=REFSEQ:NM_001110865,FlyBase_Annotation_IDs:CG40041-RA;score_text=Strongly Supported;score=15
+2LHet	FlyBase	exon	167248	167315	.	+	.	ID=FBgn0063368:1;Name=Gpb5:1;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	five_prime_UTR	167248	167292	.	+	.	ID=five_prime_UTR_FBgn0063368:1_1053;Name=Gpb5-u5;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	protein	167293	167859	.	+	.	ID=FBpp0112500;Name=Gpb5-PA;Derives_from=FBtr0113777;Alias=beta-glycoprotein-hormone-related-PA;Dbxref=FlyBase_Annotation_IDs:CG40041-PA,REFSEQ:NP_001104335,GB_protein:EDP28157;derived_molecular_weight=18732.1;derived_isoelectric_point=6.84
+2LHet	FlyBase	CDS	167293	167315	.	+	0	ID=CDS_FBgn0063368:1_1053;Name=Gpb5-cds;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	intron	167316	167375	.	+	.	ID=intron_FBgn0063368:1_FBgn0063368:3;Name=Gpb5-in;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	exon	167330	167886	.	+	.	ID=FBgn0063368:2;Name=Gpb5:2;Parent=FBtr0113776;parent_type=mRNA
+2LHet	FlyBase	mRNA	167330	167886	.	+	.	ID=FBtr0113776;Name=Gpb5-RC;Parent=FBgn0063368;Alias=beta-glycoprotein-hormone-related-RC;Dbxref=FlyBase_Annotation_IDs:CG40041-RC,REFSEQ:NM_001110864;score_text=Moderately Supported;score=7
+2LHet	FlyBase	five_prime_UTR	167330	167352	.	+	.	ID=five_prime_UTR_FBgn0063368:2_1053;Name=Gpb5-u5;Parent=FBtr0113776;parent_type=mRNA
+2LHet	FlyBase	CDS	167353	167862	.	+	0	ID=CDS_FBgn0063368:2_1053;Name=Gpb5-cds;Parent=FBtr0113776;parent_type=mRNA
+2LHet	FlyBase	protein	167353	167859	.	+	.	ID=FBpp0112499;Name=Gpb5-PC;Derives_from=FBtr0113776;Alias=beta-glycoprotein-hormone-related-PC;Dbxref=FlyBase_Annotation_IDs:CG40041-PC,REFSEQ:NP_001104334,GB_protein:EDP28156;derived_molecular_weight=19006.5;derived_isoelectric_point=7.68
+2LHet	FlyBase	exon	167376	167979	.	+	.	ID=FBgn0063368:3;Name=Gpb5:3;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	CDS	167376	167862	.	+	0	ID=CDS_FBgn0063368:3_1053;Name=Gpb5-cds;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	167863	167979	.	+	.	ID=three_prime_UTR_FBgn0063368:3_1053;Name=Gpb5-u3;Parent=FBtr0113777;parent_type=mRNA
+2LHet	FlyBase	three_prime_UTR	167863	167886	.	+	.	ID=three_prime_UTR_FBgn0063368:2_1053;Name=Gpb5-u3;Parent=FBtr0113776;parent_type=mRNA
+2LHet	FlyBase	gene	27336	27410	.	+	.	ID=FBgn0262293;Name=mir-2490;fullname=mir-2490 stem loop;Alias=CR43000;Ontology_term=SO:0000571,SO:0000087;Dbxref=FlyBase_Annotation_IDs:CR43000
+2LHet	FlyBase	pre_miRNA	27336	27410	.	+	.	ID=FBtr0304429;Name=mir-2490-RM;Parent=FBgn0262293;Alias=CR43000-RM;Dbxref=FlyBase_Annotation_IDs:CR43000-RM,miRBase:MI0011579
+2LHet	FlyBase	miRNA	27344	27366	.	+	.	ID=FBtr0304430;Name=mir-2490-RA;Derives_from=FBtr0304429;Alias=CR43000-RA;Dbxref=FlyBase_Annotation_IDs:CR43000-RA,miRBase:MIMAT0012197

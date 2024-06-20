@@ -1,0 +1,473 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">TIGR-Workflow / Ergatis</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+<div class="componentBox">
+
+<div class="compBoxHdr">
+
+Status
+
+</div>
+
+- **Mature** release
+- **Active** development
+- **Active** support
+
+<div class="compBoxHdr">
+
+Resources
+
+</div>
+
+- <a href="http://ergatis.sourceforge.net/" class="external text"
+  rel="nofollow">Home Page</a>
+- <a href="http://ergatis.sourceforge.net/download.html"
+  class="external text" rel="nofollow">Download</a>
+- [Mailing Lists](#Mailing_Lists)
+- <a
+  href="http://ergatis.sourceforge.net/documentation/install_guide.html"
+  class="external text" rel="nofollow">Install Guide</a>
+- <a href="http://ergatis.sourceforge.net/documentation.html"
+  class="external text" rel="nofollow">Predefined Tools</a>
+- <a href="http://clovr.igs.umaryland.edu/" class="external text"
+  rel="nofollow">CloVR</a>
+- [ISGA](../ISGA "ISGA")
+
+## <span id="What_is_it.3F" class="mw-headline">What is it?</span>
+
+<div class="thumb tleft">
+
+<div class="thumbinner" style="width:302px;">
+
+<a href="../File:Ergatis_monitor.png" class="image"><img
+src="../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
+class="thumbimage"
+srcset="../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, ../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
+width="300" height="169" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify">
+
+<a href="../File:Ergatis_monitor.png" class="internal"
+title="Enlarge"><img
+src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
+height="11" /></a>
+
+</div>
+
+Screenshot of the Ergatis pipeline monitor
+
+</div>
+
+</div>
+
+</div>
+
+(From <a href="http://ergatis.sourceforge.net" class="external free"
+rel="nofollow">http://ergatis.sourceforge.net</a>) :
+
+Ergatis is a web-based utility that is used to create, run, and monitor
+reusable computational analysis pipelines. It contains pre-built
+components for common bioinformatics analysis tasks. These components
+can be arranged graphically to form highly-configurable pipelines. Each
+analysis component supports multiple output formats, including the
+Bioinformatic Sequence Markup Language (BSML). The current
+implementation includes support for data loading into project databases
+following the
+<a href="../Chado" class="mw-redirect" title="Chado">Chado</a> schema, a
+highly normalized, community-supported schema for storage of biological
+annotation data.
+
+Ergatis uses the Workflow engine to process its work on a compute grid.
+Workflow provides an [XML](../Glossary#XML "Glossary") language and
+processing engine for specifying the steps of a computational pipeline.
+It provides detailed execution status and logging for process auditing,
+facilitates error recovery from point of failure, and is highly scalable
+with support for distributed computing environments. The XML format
+employed enables commands to be run serially, in parallel, and in any
+combination or nesting level.
+
+This framework has been employed in the annotation of several large,
+eukaryotic organisms, including *Aedes aegypti* and *Trichomonas
+vaginalis*.
+
+<div class="thumb tright">
+
+<div class="thumbinner" style="width:302px;">
+
+<a href="../File:Ergatis_builder.png" class="image"><img
+src="../../mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
+class="thumbimage"
+srcset="../../mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, ../../mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
+width="300" height="351" /></a>
+
+<div class="thumbcaption">
+
+<div class="magnify">
+
+<a href="../File:Ergatis_builder.png" class="internal"
+title="Enlarge"><img
+src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
+height="11" /></a>
+
+</div>
+
+Screenshot of the Ergatis pipeline builder
+
+</div>
+
+</div>
+
+</div>
+
+More information is available at:
+
+<a href="http://ergatis.sourceforge.net" class="external free"
+rel="nofollow">http://ergatis.sourceforge.net</a>
+
+## <span id="How_is_it_a_part_of_GMOD.3F" class="mw-headline">How is it a part of GMOD?</span>
+
+Currently, only loosely. As described above, Ergatis has been used at
+TIGR (now part of JCVI) for the majority of annotation and comparative
+genomics computation and the output of many of the components (such as
+blast, gene predictions, clustering etc.) can be loaded automatically
+into a chado database instance. In the past, due to its primary use at
+TIGR/JCVI, the database support was limited to Sybase, though flat-files
+could also be generated. Development is now underway to port this to
+also support [PostgreSQL](../PostgreSQL "PostgreSQL") and Oracle.
+
+[Joshua Orvis](../User:Jorvis "User:Jorvis") is the lead developer of
+Ergatis and is currently at the
+<a href="http://www.igs.umaryland.edu/" class="external text"
+rel="nofollow">Institute for Genome Sciences</a> at the University of
+Maryland School of Medicine.
+
+## <span id="Mailing_Lists" class="mw-headline">Mailing Lists</span>
+
+|  |  |  |  |
+|----|----|----|----|
+|  | Mailing List Link | Description | Archive(s) |
+| <a href="../Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> | <a href="https://lists.sourceforge.net/lists/listinfo/ergatis-users"
+class="external text" rel="nofollow">ergatis-users</a> | <a href="../Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> users mailing list. | <a href="http://gmod.827538.n3.nabble.com/Ergatis-Users-f815632.html"
+class="external text" rel="nofollow">Nabble</a> (2010/05+), <a
+href="http://sourceforge.net/mailarchive/forum.php?forum_name=ergatis-users"
+class="external text" rel="nofollow">Sourceforge</a> |
+|  | <a href="https://lists.sourceforge.net/lists/listinfo/ergatis-announce"
+class="external text" rel="nofollow">announcement</a> | <a href="../Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> announcements. | <a
+href="http://gmod.827538.n3.nabble.com/Ergatis-Announcements-f815639.html"
+class="external text" rel="nofollow">Nabble</a> (2010/05+), <a
+href="http://sourceforge.net/mailarchive/forum.php?forum_name=ergatis-announce"
+class="external text" rel="nofollow">Sourceforge</a> |
+|  | <a href="https://lists.sourceforge.net/lists/listinfo/ergatis-devel"
+class="external text" rel="nofollow">ergatis-devel</a> | <a href="../Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> developers. | <a
+href="http://gmod.827538.n3.nabble.com/Ergatis-Development-f815854.html"
+class="external text" rel="nofollow">Nabble</a> (2010/05+), <a
+href="http://sourceforge.net/mailarchive/forum.php?forum_name=ergatis-devel"
+class="external text" rel="nofollow">Sourceforge</a> |
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&oldid=20898>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Categories](../Special:Categories "Special:Categories"):
+
+- [Analysis](../Category:Analysis "Category:Analysis")
+- [GMOD
+  Components](../Category:GMOD_Components "Category:GMOD Components")
+- [Annotation](../Category:Annotation "Category:Annotation")
+- [Ergatis](../Category:Ergatis "Category:Ergatis")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=TIGR-Workflow+%2F+Ergatis"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="_Ergatis" accesskey="c"
+  title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:TIGR-Workflow_/_Ergatis&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](_Ergatis)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="../Main_Page"
+style="background-image: url(../../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
+- <span id="n-Software">[Software](../GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](../Categories)</span>
+- <span id="n-View-all-pages">[View all
+  pages](../Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](../Overview)</span>
+- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](../Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](../Training_and_Outreach)</span>
+- <span id="n-Support">[Support](../Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](../GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](../Meetings)</span>
+- <span id="n-Calendar">[Calendar](../Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a href="../Special:WhatLinksHere/TIGR-Workflow_/_Ergatis" accesskey="j"
+  title="A list of all wiki pages that link here [j]">What links here</a></span>
+- <span id="t-recentchangeslinked"><a href="../Special:RecentChangesLinked/TIGR-Workflow_/_Ergatis"
+  accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="../Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&oldid=20898 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&action=info)</span>
+- <span id="t-smwbrowselink"><a href="../Special:Browse/TIGR-2DWorkflow_-2F_Ergatis"
+  rel="smw-browse">Browse properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=TIGR-Workflow_/_Ergatis)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 23:49 on 25 July
+  2012.</span>
+- <span id="footer-info-viewcount">72,786 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](../GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>
+
+</div>

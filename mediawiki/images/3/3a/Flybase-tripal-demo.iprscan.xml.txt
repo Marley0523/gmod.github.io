@@ -1,0 +1,318 @@
+<interpro_matches>
+
+   <protein id="FBgn0039958_1_ORF3" length="89" crc64="8F2D9A3CD8180B9A" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="46" end="62" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_1_ORF8" length="52" crc64="DC92BB1118064D6D" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="23" end="35" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_1_ORF9" length="100" crc64="B2629CD3867B853E" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="39" end="48" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_2_ORF10" length="69" crc64="416AC798BCDF1A03" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="17" end="43" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_2_ORF13" length="71" crc64="DD5B84D3096B4612" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="PTHR13622" name="FAMILY NOT NAMED" dbname="PANTHER">
+	    <location start="21" end="70" score="1.2e-13" status="T" evidence="HMMPanther" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_2_ORF6" length="52" crc64="7BF3207F9DB31BA0" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="3" end="14" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_2_ORF8" length="75" crc64="5C51D3AFF455D054" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="34" end="46" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_3_ORF12" length="51" crc64="5D1C5B8496FABE6A" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="22" end="39" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_3_ORF17" length="320" crc64="DA252EC9D05B0924" >
+	<interpro id="IPR000086" name="NUDIX hydrolase domain" type="Domain" parent_id="IPR015797">
+	  <child_list>
+	    <rel_ref ipr_ref="IPR020476"/>
+	  </child_list>
+	  <found_in>
+	    <rel_ref ipr_ref="IPR003293"/>
+	    <rel_ref ipr_ref="IPR003300"/>
+	    <rel_ref ipr_ref="IPR003301"/>
+	    <rel_ref ipr_ref="IPR003561"/>
+	    <rel_ref ipr_ref="IPR003562"/>
+	    <rel_ref ipr_ref="IPR003563"/>
+	    <rel_ref ipr_ref="IPR003564"/>
+	    <rel_ref ipr_ref="IPR003565"/>
+	    <rel_ref ipr_ref="IPR004385"/>
+	    <rel_ref ipr_ref="IPR014078"/>
+	    <rel_ref ipr_ref="IPR017397"/>
+	    <rel_ref ipr_ref="IPR021161"/>
+	 </found_in>
+	  <contains>
+	    <rel_ref ipr_ref="IPR000059"/>
+	    <rel_ref ipr_ref="IPR020084"/>
+	  </contains>
+	  <classification id="GO:0016787" class_type="GO">
+	    <category>Molecular Function</category>
+	    <description>hydrolase activity</description>
+	  </classification>
+	  <match id="G3DSA:3.90.79.10" name="no description" dbname="GENE3D">
+	    <location start="52" end="230" score="1.1e-45" status="T" evidence="Gene3D" />
+	  </match>
+	  <match id="PF00293" name="NUDIX" dbname="PFAM">
+	    <location start="100" end="210" score="3e-10" status="T" evidence="HMMPfam" />
+	  </match>
+	  <match id="PS51462" name="NUDIX" dbname="PROFILE">
+	    <location start="83" end="224" score="13.388" status="T" evidence="ProfileScan" />
+	  </match>
+	</interpro>
+	<interpro id="IPR015797" name="NUDIX hydrolase domain-like" type="Domain">
+	  <child_list>
+	    <rel_ref ipr_ref="IPR000086"/>
+	  </child_list>
+	  <found_in>
+	    <rel_ref ipr_ref="IPR003293"/>
+	    <rel_ref ipr_ref="IPR003300"/>
+	    <rel_ref ipr_ref="IPR003301"/>
+	    <rel_ref ipr_ref="IPR003561"/>
+	    <rel_ref ipr_ref="IPR003562"/>
+	    <rel_ref ipr_ref="IPR003563"/>
+	    <rel_ref ipr_ref="IPR003564"/>
+	    <rel_ref ipr_ref="IPR003565"/>
+	    <rel_ref ipr_ref="IPR004385"/>
+	    <rel_ref ipr_ref="IPR014078"/>
+	    <rel_ref ipr_ref="IPR017397"/>
+	    <rel_ref ipr_ref="IPR021161"/>
+	 </found_in>
+	  <contains>
+	    <rel_ref ipr_ref="IPR000059"/>
+	    <rel_ref ipr_ref="IPR015376"/>
+	    <rel_ref ipr_ref="IPR020084"/>
+	    <rel_ref ipr_ref="IPR020476"/>
+	  </contains>
+	  <classification id="GO:0016787" class_type="GO">
+	    <category>Molecular Function</category>
+	    <description>hydrolase activity</description>
+	  </classification>
+	  <match id="SSF55811" name="Nudix" dbname="SUPERFAMILY">
+	    <location start="56" end="235" score="1.4e-21" status="T" evidence="superfamily" />
+	  </match>
+	</interpro>
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="coil" name="coiled-coil" dbname="COIL">
+	    <location start="25" end="46" score="NA" status="?" evidence="Coil" />
+	  </match>
+	  <match id="PTHR13622" name="FAMILY NOT NAMED" dbname="PANTHER">
+	    <location start="1" end="236" score="4.7e-98" status="T" evidence="HMMPanther" />
+	  </match>
+	  <match id="PTHR13622:SF2" name="THIAMIN PYROPHOSPHOKINASE-RELATED" dbname="PANTHER">
+	    <location start="1" end="236" score="4.7e-98" status="T" evidence="HMMPanther" />
+	  </match>
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="131" end="143" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_3_ORF6" length="88" crc64="FE3EF98C3FD1F22D" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="12" end="23" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_4_ORF10" length="133" crc64="8D40779D8D70C17D" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="9" end="19" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_4_ORF14" length="50" crc64="6DC6FB324DA2D3C6" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="2" end="20" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_4_ORF9" length="55" crc64="E8DBE26007291CCF" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="7" end="22" score="NA" status="?" evidence="Seg" />
+	    <location start="27" end="38" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_5_ORF2" length="70" crc64="30AA112636C0E3BB" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="19" end="30" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_5_ORF4" length="73" crc64="AD547E79DCA7372D" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="50" end="58" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_5_ORF6" length="180" crc64="D248A39016D6B35D" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="149" end="164" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_5_ORF7" length="97" crc64="950D4CB2B7DA4394" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="21" end="42" score="NA" status="?" evidence="Seg" />
+	    <location start="44" end="54" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0039958_6_ORF9" length="103" crc64="5C7A6B69A43A0AB9" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="53" end="60" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0058042_1_ORF2" length="93" crc64="6A654B63B9EA18EB" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="22" end="33" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0058042_1_ORF3" length="66" crc64="C6C0C27F390160BA" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="15" end="34" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0058042_2_ORF2" length="70" crc64="4907E81F05DC3E18" >
+	<interpro id="IPR003397" name="Mitochondrial inner membrane translocase complex, subunit Tim17/22" type="Family">
+	  <child_list>
+	    <rel_ref ipr_ref="IPR005678"/>
+	    <rel_ref ipr_ref="IPR005681"/>
+	  </child_list>
+	  <classification id="GO:0005743" class_type="GO">
+	    <category>Cellular Component</category>
+	    <description>mitochondrial inner membrane</description>
+	  </classification>
+	  <classification id="GO:0008565" class_type="GO">
+	    <category>Molecular Function</category>
+	    <description>protein transporter activity</description>
+	  </classification>
+	  <classification id="GO:0015031" class_type="GO">
+	    <category>Biological Process</category>
+	    <description>protein transport</description>
+	  </classification>
+	  <match id="PF02466" name="Tim17" dbname="PFAM">
+	    <location start="11" end="69" score="5e-13" status="T" evidence="HMMPfam" />
+	  </match>
+	</interpro>
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="PTHR15371" name="FAMILY NOT NAMED" dbname="PANTHER">
+	    <location start="13" end="70" score="6e-27" status="T" evidence="HMMPanther" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0058042_3_ORF2" length="101" crc64="27B65EE956F34D20" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="PTHR15371" name="FAMILY NOT NAMED" dbname="PANTHER">
+	    <location start="4" end="101" score="2.1e-36" status="T" evidence="HMMPanther" />
+	  </match>
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="71" end="77" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0058042_6_ORF3" length="66" crc64="149CA3A61D5C864E" >
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="49" end="62" score="NA" status="?" evidence="Seg" />
+	  </match>
+	</interpro>
+   </protein>
+   <protein id="FBgn0063368_1_ORF2" length="175" crc64="F94526193465AC13" >
+	<interpro id="IPR001545" name="Gonadotropin, beta subunit" type="Family">
+	  <child_list>
+	    <rel_ref ipr_ref="IPR015564"/>
+	  </child_list>
+	  <contains>
+	    <rel_ref ipr_ref="IPR006208"/>
+	    <rel_ref ipr_ref="IPR018245"/>
+	  </contains>
+	  <classification id="GO:0005179" class_type="GO">
+	    <category>Molecular Function</category>
+	    <description>hormone activity</description>
+	  </classification>
+	  <classification id="GO:0005576" class_type="GO">
+	    <category>Cellular Component</category>
+	    <description>extracellular region</description>
+	  </classification>
+	  <match id="PTHR11515" name="FAMILY NOT NAMED" dbname="PANTHER">
+	    <location start="14" end="158" score="6.2e-88" status="T" evidence="HMMPanther" />
+	  </match>
+	</interpro>
+	<interpro id="IPR006208" name="Cystine knot" type="Domain">
+	  <found_in>
+	    <rel_ref ipr_ref="IPR001545"/>
+	    <rel_ref ipr_ref="IPR006207"/>
+	    <rel_ref ipr_ref="IPR012395"/>
+	    <rel_ref ipr_ref="IPR015564"/>
+	 </found_in>
+	  <contains>
+	    <rel_ref ipr_ref="IPR018245"/>
+	  </contains>
+	  <match id="PF00007" name="Cys_knot" dbname="PFAM">
+	    <location start="70" end="155" score="2.5e-06" status="T" evidence="HMMPfam" />
+	  </match>
+	</interpro>
+	<interpro id="noIPR" name="unintegrated" type="unintegrated">
+	  <match id="G3DSA:2.10.90.10" name="no description" dbname="GENE3D">
+	    <location start="50" end="157" score="8.4e-15" status="T" evidence="Gene3D" />
+	  </match>
+	  <match id="PTHR11515:SF1" name="GLYCOPROTEIN HORMONE BETA-RELATED" dbname="PANTHER">
+	    <location start="14" end="158" score="6.2e-88" status="T" evidence="HMMPanther" />
+	  </match>
+	  <match id="seg" name="seg" dbname="SEG">
+	    <location start="23" end="35" score="NA" status="?" evidence="Seg" />
+	  </match>
+	  <match id="SSF57501" name="Cystine-knot cytokines" dbname="SUPERFAMILY">
+	    <location start="44" end="160" score="1.3e-24" status="T" evidence="superfamily" />
+	  </match>
+	</interpro>
+   </protein>
+
+</interpro_matches>

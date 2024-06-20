@@ -1,0 +1,21 @@
+## ***Commit procedure***
+
+  
+
+### 
+
+- Modified gff file (file B) is checked against initial download
+  (file A) to confirm this is a valid gene edit.
+- Modified gff checked against current state of database; if a conflict
+  is found, users are notified.
+- Commit process uses *bp_seqfeature_load.pl* and
+  *bp_seqfeature_delete.pl* to update GBrowse databases.
+- All gff files are archived to maintain detailed audit trail.
+
+  
+
+------------------------------------------------------------------------
+
+|                          |                        |
+|--------------------------|------------------------|
+| [previous](curate5.html) | [next](prospects.html) |

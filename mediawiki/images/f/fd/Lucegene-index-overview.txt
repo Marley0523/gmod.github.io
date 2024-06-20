@@ -1,0 +1,328 @@
+
+About the LuceGene data parsers
+================================
+
+Over the years working to tune SRS parsers to flybase needs, we found it
+common to repeatedly tweak/update/revise the parsers to fit new data
+details or correct other errors.  One of the reasons I set up the
+dbs/lucegene/ folder with a collection of property and Java source files
+for parsing was to mimic the ease for editing SRS icarus parsers -- have
+all data parsing logic in a few related source files, and be able to
+quickly test and  change the logic as needed.
+
+The LuceGene LuceneXxxIndexer document readers are the main indexing class and
+know about the overall data file structure and how to separate it into
+records (documents) and fields, based on dataset properties. They do
+some "pre-lucene" field manipulations also (see esp.
+LuceneBaseIndexer.FieldRecoder interface). Then the BiodataAnalyzer is
+called by Lucene document indexer to parse out the field-specific parts.
+
+Current LuceneXxxIndexer's include
+
+  package org.eugenes.index;
+  LuceneBaseIndexer  -- handles a key=value type of data structure, with
+    many records / file separated by some end-of-record string.
+    Others below subclass this base class.
+    
+  LuceneAcodeIndexer -- flybase's hierarchical key=value structure (acode)
+  
+  LuceneHtmlIndexer --  uses org.apache.lucene.demo.html.HTMLParser
+    for html, text files.
+  
+  LucenePdfIndexer -- uses org.pdfbox.pdfparser.PDFParser to parse PDF texts.
+  
+  LuceneFastaIndexer -- for Fasta sequence, parses various header styles using
+    regex properties.
+    
+  LuceneReadseqIndexer -- uses Readseq to parse other sequence formats.
+  
+  LuceneTableIndexer -- parses tabular data files, with regex to specify
+    column values (a document == 1 table row).
+  
+  LuceneXmlIndexer -- parse XML data.
+  
+The data library specific needs are configured with a '.properties' file
+identifying data locations (file regex patterns), Lucene parameters, and
+any number of field parameters.  These later are split among three main
+functions:
+   tokenizer.FIELD={ one or more Lucene Tokenizer classes }
+   tokenfilter.FIELD= { one or more Lucene TokenFilter classes }
+   fieldrecoder.FIELD= { one or more java classes for recoding data 
+            before Lucene indexes}
+   
+  
+LuceneXxxIndexer does in essense this:
+   load databank properties
+   locate files to index (see properties)
+   get Analyzer (BiodataAnalyzer or other, with field-handling)
+   get Lucene IndexWriter (with Analyzer)
+   iterate thru input files:
+      get file Parser (versions for Acode, XML, Tabular, Bio-sequence)
+      parse fields and documents to IndexWriter
+      
+The Parser does field handling beyond Analyzer functions:
+  split input into data fields
+  reprocess fields based on properties: 
+     rename, set standard fields (docid, file-location url, etc.)
+  get FieldRecoder - these can do a lot of data-specific
+    input manipulation including add new fields, skip or rewrite
+    current ones, before passing data to IndexWriter and 
+    its Analyzer processing (these are things that cant be done,
+    or at least not easily, with Lucene's Analyzer/Tokenfilter paradigm).
+    See the conf/flybase/LucegeneIndexers.java source for a set of
+    these.
+    
+  add Lucene Fields to Lucene Document
+  IndexWriter.addDocument()
+
+The Lucene analyzer set doesn't do much useful for biology/science text
+data. Its examples are mostly for general documents with human-readable
+text (as opposed to scientist-readable :), and its StandardAnalyzer does
+things to text that we don't want for bio-data (word splits, lowercase,
+...).  The Analyzer interface classes TokenFilter, Tokenizer,
+TokenStream are parts which work with rest of Lucene (document indexing
+and also searching), as well as the overall Analyzer base class.  Analyzer
+doesn't do anything but call the Tokenizer and TokenFilter classes to
+convert to index fields: 
+   TokenStream tokenStream( String fieldName, Reader reader)
+
+There is one Tokenizer to split input from the input Reader, then any number
+of changed TokenFilters acting on that are possible (though maybe not
+as efficient as one Tokenizer doing all the work).
+
+Lucene v1.4's PerFieldAnalyzerWrapper is an example of how to chain
+analyzers, but otherwise isn't integrated in Lucene, and since there
+isn't a set of useful Analyzers in lucene, what we have in
+BiodataAnalyzer does the work needed, but for note below about chaining
+token filters.
+
+BiodataAnalyzer takes its field-specific configuration from properties
+file info, with 'tokenizer' and 'tokenfilter' entries.  Then it
+processes input stream from LuceneBaseIndexer class with field names,
+attaching appropriate tokenizer/filters as needed. 
+
+Here is a way to add a chain of tokenfilters in properties file:
+
+  tokenizer.SYM=fbacode$DataTokenizer 
+  tokenfilter.SYM=\
+    fbacode$DataFilter,\
+    fbacode$LowercaseFilter,\
+    fbacode$SymbolFilter,\
+      
+Likewise fieldrecoders can be chained:
+
+  fieldrecoder.SYM=fbacode$Sym_Recoder, fbacode$DBX_Recoder 
+      
+
+Aside from whatever base classes are needed for the primary indexing
+work, keep most data library / field specific logic in
+db/lucegene/{datalib}.properties, and .java files.  The current
+lucegene-indexer.sh script will recompile .java in that folder and add
+to class path as needed.
+
+
+======================================
+
+Library Indexing:  Properties
+======================================
+# dbs/lucegene/fbrftest.properties
+# uses dbs/lucegene/fbrftest.java classes
+
+LIB_NAME=fbrftest
+title = FlyBase References
+
+DATA_ROOT=web/data2/fbobs/
+INDEX_PATH=indices/lucene/fbrf/
+
+# locate data with regex file, folder patterns
+regex_folder=
+
+# can we index multiple files w/ same docid ?
+regex_file=^(FBrf.acode|FBrf.abstr.acode)$
+#regex_file=^(FBrf.acode)$
+ 
+regex_skipfile=
+regex_skipfolder=(FBim|tmp|.*\.old)
+
+INDEX_CLASS=org.eugenes.index.LuceneAcodeIndexer
+
+INDEX_APPEND=false
+INDEX_TAGS=false
+INDEX_LEVEL=0
+INDEX_BLANKS=false
+
+MIME_TYPE=text/acode
+
+## merge=10 is default; 4 == less mem usage ; 2 minimum  
+merge_factor=4
+max_field_length=1000000
+MAX_FIELDS=10000
+
+# to create "contents" field of all text
+indexall=false
+
+# default search field
+searchfield=all
+
+## field indexing parameters
+
+# special summary fields -- replace w/ fieldalias.TAG=newtag
+sumfields=docid,docclass,title,summary
+# field.title=RETE
+# field.docid=ID
+# field.summary=SUMX
+
+fieldalias.ID=docid
+fieldalias.RETE=title
+fieldalias.SUMX=summary
+
+## default - Text // not UnStored = index but dont store text
+fieldtype=UnStored
+fieldtype.RETE=UnIndexed
+fieldtype.ID=Text
+fieldtype.SYM=Text
+fieldtype.title=UnIndexed
+fieldtype.summary=UnIndexed
+
+
+analyzer=org.eugenes.index.BiodataAnalyzer
+
+## field filters
+tokenfilter.SYM=fbrftest$FbrfDataFilter
+tokenfilter.YR=fbrftest$FbrfDateFilter
+tokenfilter.ID=fbrftest$FbrfLowerDataFilter
+tokenfilter.AU=fbrftest$FbrfLowerDataFilter
+tokenfilter.TI=fbrftest$FbrfLowerDataFilter
+
+tokenfilter.BLOC=fbrftest$FbrfNumberFilter
+
+## field tokenizers -- replace with filters
+tokenizer.SYM=fbrftest$FbrfDataTokenizer
+
+fieldrecoder.ID=fbrftest$FBMainID_FieldRecoder
+ 
+
+Library Indexing:  Java methods
+===============================
+// sample fbrftest.java
+
+/**
+  * fbrftest
+  Data class and field specific parsers to handle
+  flybase reference acode data.
+  
+  See also fbrf.properties which links these classes
+  to general acode parser.
+
+  E.g., fbrftest.properties:
+   tokenfilter.AU=fbrftest$FbrfLowerDataFilter
+   fieldrecoder.ID=fbrftest$FBMainID_FieldRecoder
+
+  Usage, given location in dbs/lucegene/ that index script finds:
+  
+    bin/lucegene-index.sh  -debug -l fbrftest >& tmp/log.fbrft
+ 
+*/
+
+import java.util.regex.*;
+import java.io.*;
+import java.util.*;
+
+import org.eugenes.index.LuceneBaseIndexer;
+import org.eugenes.index.BiodataAnalyzer;
+import org.eugenes.index.BiodataAnalyzer.DataTokenizer;
+import org.eugenes.index.BiodataAnalyzer.DataFilter;
+import org.eugenes.index.BiodataAnalyzer.DateFilter;
+import org.eugenes.index.BiodataAnalyzer.NumberField;
+
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharTokenizer;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.TokenFilter;
+import org.apache.lucene.analysis.Token;
+
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.Document;
+
+public class fbrftest
+{
+
+  final static boolean nodups=true, withdups=false; // add >1 field value to doc?
+
+ /**
+   small field recoder to add new main ID field for acode with multiple nested
+   ID fields - really need to have main acode indexer handle this.
+  */
+  public static class FBMainID_FieldRecoder 
+    implements org.eugenes.index.LuceneBaseIndexer.FieldRecoder { 
+
+    public int recodeField(LuceneBaseIndexer idx, Document doc, 
+      String fieldName, String fieldPath, StringBuffer val)
+    {
+     if (fieldPath.indexOf(LuceneBaseIndexer.xpathDelim)>1) 
+        return kNoChange; // skip subrec locations  
+      idx.addField("MAIN_ID", val.toString(), doc, nodups); 
+      return kFieldAdded;
+   }
+  }
+
+  // some data-field tokenizers and tokenfilters 
+  public static class FbrfDataFilter 
+    extends DataFilter 
+  {
+    public FbrfDataFilter() { super(); }
+    public FbrfDataFilter(TokenStream input) { super(input); }
+    public Token next() throws IOException { return super.next(); }
+  }
+
+  public static class FbrfLowerDataFilter  
+    extends DataFilter 
+  {
+    public FbrfLowerDataFilter() { super(); }
+    public FbrfLowerDataFilter(TokenStream input) { super(input); }
+    public Token next() throws IOException {
+      Token t = input.next();
+      if (t == null) return null;
+      return new Token (t.termText().toLowerCase(),  
+                t.startOffset(), t.endOffset(), t.type());      
+      }
+  }
+
+  public static class FbrfNumberFilter
+    extends DataFilter 
+  {
+    
+    public Token next() throws IOException {
+      Token t = input.next();
+      if (t == null) return null;
+      String text = t.termText();
+      String type = t.type();  
+      try {
+        String nums= NumberField.numToString( Integer.parseInt(text) ); // can except
+        t= new Token( nums, t.startOffset(), t.endOffset(), type);
+        } catch (Exception e) { } //? eat it
+      return t;
+      }
+  }
+
+  public static class FbrfDateFilter 
+    extends DateFilter 
+  {
+    public FbrfDateFilter() { super(); }
+    public Token next() throws IOException { return super.next(); }
+  }
+
+  public static class FbrfDataTokenizer  
+    extends DataTokenizer 
+  {
+    public FbrfDataTokenizer(Reader in) { super(in); }  
+    public FbrfDataTokenizer() { super(); }
+    protected char normalize(char c) {  return c; }
+  }
+  
+  
+
+}
+
+
+

@@ -1,0 +1,521 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+<div id="siteNotice">
+
+<div id="localNotice" lang="en" dir="ltr">
+
+<span style="color:red; background-color:lightblue;font-size=30px">NOTE:
+We are working on migrating this site away from MediaWiki, so editing
+pages will be disabled for now.</span>
+
+</div>
+
+</div>
+
+# <span dir="auto">VMware HOWTO</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+<div class="floatright">
+
+<a href="http://vmware.com" rel="nofollow" title="VMware"><img
+src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+height="26" alt="VMware" /></a>
+
+</div>
+
+<a href="http://vmware.com" class="external text"
+rel="nofollow">VMware</a> images containing GMOD software let you try
+GMOD software without installing it on your local machine. Instead, the
+software runs inside a virtual machine on your computer.
+
+VMware images are used in several places in GMOD:
+
+- The [Community Annotation
+  System](Community_Annotation_System "Community Annotation System") is
+  packaged as a VMware image.
+- Many GMOD [tutorials](Category:Tutorials "Category:Tutorials") use
+  VMware images as starting points.
+
+  
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
+## Contents
+
+</div>
+
+- [<span class="tocnumber">1</span> <span class="toctext">VMware
+  Players</span>](#VMware_Players)
+- [<span class="tocnumber">2</span> <span class="toctext">Getting the
+  VMware Image</span>](#Getting_the_VMware_Image)
+- [<span class="tocnumber">3</span> <span class="toctext">Starting the
+  VMware Image</span>](#Starting_the_VMware_Image)
+- [<span class="tocnumber">4</span> <span class="toctext">Using the
+  VMWare Image</span>](#Using_the_VMWare_Image)
+- [<span class="tocnumber">5</span>
+  <span class="toctext">Fluxbox</span>](#Fluxbox)
+
+</div>
+
+# <span id="VMware_Players" class="mw-headline">VMware Players</span>
+
+Which software to use to run **VMware** images depends on the operating
+system you will run the image under. (It does not depend on the
+operating system inside the VMware image.)
+
+VMware on Windows and Linux
+
+<div class="floatright">
+
+<a href="http://www.microsoft.com/" rel="nofollow" title="Windoze"><img
+src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+height="48" alt="Windoze" /></a>
+
+</div>
+
+<div class="floatright">
+
+<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+alt="Linux" /></a>
+
+</div>
+
+A free VMware player is available for [Microsoft
+Windows](Category:Windows "Category:Windows") and
+[Linux](Category:Linux "Category:Linux") [operating
+systems](Glossary#Operating_System "Glossary") from
+<a href="http://vmware.com/products/player/" class="external text"
+rel="nofollow">VMware</a>. You will need to register to download it.
+There are multiple versions. Be sure to download a version that can run
+on your laptop.
+
+  
+
+VMware on Mac OS X
+
+<div class="floatright">
+
+<a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
+src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+alt="Apple" /></a>
+
+</div>
+
+Participants can also bring *newer Macs with Intel processors*. The
+Intel processor is a requirement for all the packages discussed below.
+There is no free VMware player that runs *directly* under [Mac OS
+X](Category:Mac_OS_X "Category:Mac OS X"). However, there are several
+other options, **all of which require an Intel Mac**:
+
+  
+
+VMware Fusion
+
+<div class="floatright">
+
+<a href="http://www.vmware.com/products/fusion/" rel="nofollow"
+title="Fusion"><img src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg"
+width="48" height="48" alt="Fusion" /></a>
+
+</div>
+
+<a href="http://www.vmware.com/products/fusion/" class="external text"
+rel="nofollow">VMware Fusion</a>
+(<a href="http://www.vmware.com/a/buylink/10" class="external text"
+rel="nofollow">$80/corporate</a>,
+<a href="http://www.vmware.com/vmwarestore/academicstore.html"
+class="external text" rel="nofollow">$40/Academic</a>) allows you to run
+VMware images (as well as Windows and Linux) under Mac OS. **We
+recommend this option for Mac users. There is a fully functional, 30 day
+free trial version of VMware Fusion available for download.**
+
+  
+
+VirtualBox
+
+<div class="floatright">
+
+<a href="File:VirtualBox-logo.png" class="image" title="VirtualBox"><img
+src="../mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
+height="48" alt="VirtualBox" /></a>
+
+</div>
+
+<a href="http://www.virtualbox.org/wiki/Downloads" class="external text"
+rel="nofollow">VirtualBox</a> is free and open source, and runs on Intel
+Macs (and Windows, Linux and Solaris too). It claims to be capable of
+running VMware images, *but we have not tested this with our images.*
+
+# <span id="Getting_the_VMware_Image" class="mw-headline">Getting the VMware Image</span>
+
+Anything that uses a VMware image will have a link to the image on its
+wiki page. Once you have the VMware player software installed (see
+[VMware Players](#VMware_Players)), download the image on to your
+system. You will need to unpack the downloaded file (usually you'll need
+to unzip and/or untar it) before loading it into your VMware player
+software (see [VMware Players](#VMware_Players)). Most images have been
+compressed with tar and/or gzip.
+
+# <span id="Starting_the_VMware_Image" class="mw-headline">Starting the VMware Image</span>
+
+Details on starting the VMware image vary from platform to platform. See
+the documentation for your VMware player for how to do start an image on
+your system.
+
+If you are running a player from VMware (VMware Player or Fusion), the
+software will ask you if you moved or copied the image.
+
+<div class="emphasisbox" style="text-align: center">
+
+<div style="font-size: 160%">
+
+You Moved It!
+
+</div>
+
+Yes you did.
+
+</div>
+
+If you say you copied it, you will have to do additional network
+configuration once it is up and running.
+
+# <span id="Using_the_VMWare_Image" class="mw-headline">Using the VMWare Image</span>
+
+After starting up the VMware image (which will take several seconds),
+you will be greeted with an attractive text-based terminal. Login using
+the username and password for the system (which should be listed on the
+wiki page you downloaded the image from.
+
+At this point, you have a few options for how to use it. If you would
+like to ssh in to the server (which I suggest as a good idea: copy and
+pasting commands will be easier and you will be able to use an
+environment you are used to), then you will need the server's ip
+address. To get it, at the command prompt, type:
+
+     ifconfig
+
+which will give you output like this:
+
+<a href="File:Ifconfig_output.jpg" class="image"><img
+src="../mediawiki/images/9/96/Ifconfig_output.jpg" width="720"
+height="500" alt="Ifconfig output.jpg" /></a>
+
+See that "inet addr:172.16.244.128"? Those four numbers are the IP
+address. You can now (from you host operating system) ssh into the
+machine by typing
+
+     ssh gmod@172.16.244.128
+
+You can also go to the web server running on this server by going to
+<a href="http://172.16.244.128" class="external free"
+rel="nofollow">http://172.16.244.128</a> (for example). If you are on
+Windows and would like to do this, you can get <a
+href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html"
+class="external text" rel="nofollow">putty</a>, which is a free ssh
+client for windows.
+
+# <span id="Fluxbox" class="mw-headline">Fluxbox</span>
+
+The images from most 2009
+[Tutorial](Category:Tutorials "Category:Tutorials") pages include a
+basic *[graphical user interface](Glossary#GUI "Glossary")* called
+*<a href="http://fluxbox.org/" class="external text"
+rel="nofollow">Fluxbox</a>*. Fluxbox is a minimal GUI.
+
+If you want to use a graphical user interface on these images, using a
+browser and terminal inside the VMware image, you can start X11/Fluxbox
+by typing:
+
+     startx
+
+on the command line, and the GUI will start up. After it starts up, you
+can right click (or control-click) to get a menu that will start
+applications like Firefox and terminal.
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&oldid=21743>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Category](Special:Categories "Special:Categories"):
+
+- [HOWTO](Category:HOWTO "Category:HOWTO")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+<div id="p-personal" role="navigation"
+aria-labelledby="p-personal-label">
+
+### Personal tools
+
+- <span id="pt-login"><a
+  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=VMware+HOWTO"
+  accesskey="o"
+  title="You are encouraged to log in; however, it is not mandatory [o]">Log
+  in / create account</a></span>
+
+</div>
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-main"><a href="VMware_HOWTO" accesskey="c"
+  title="View the content page [c]">Page</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Talk:VMware_HOWTO&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="right-navigation">
+
+<div id="p-views" class="vectorTabs" role="navigation"
+aria-labelledby="p-views-label">
+
+### Views
+
+- <span id="ca-view">[Read](VMware_HOWTO)</span>
+- <span id="ca-viewsource"><a
+  href="http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&amp;action=edit"
+  accesskey="e" title="This page is protected.
+  You can view its source [e]">View source</a></span>
+- <span id="ca-history"><a
+  href="http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&amp;action=history"
+  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
+
+</div>
+
+<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-cactions-label">
+
+### Actions[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+<div id="p-search" role="search">
+
+### Search
+
+<div id="simpleSearch">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/VMware_HOWTO" accesskey="j"
+  title="A list of all wiki pages that link here [j]">What links here</a></span>
+- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/VMware_HOWTO" accesskey="k"
+  title="Recent changes in pages linked from this page [k]">Related
+  changes</a></span>
+- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+- <span id="t-permalink">[Permanent
+  link](http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&oldid=21743 "Permanent link to this revision of the page")</span>
+- <span id="t-info">[Page
+  information](http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&action=info)</span>
+- <span id="t-smwbrowselink"><a href="Special:Browse/VMware_HOWTO" rel="smw-browse">Browse
+  properties</a></span>
+- <span id="t-pdf">[Print as
+  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=VMware_HOWTO)</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 18:43 on 17 September
+  2012.</span>
+- <span id="footer-info-viewcount">128,713 page views.</span>
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
+  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+- <span id="footer-poweredbyico">[<img
+  src="../mediawiki/skins/common/images/poweredby_mediawiki_88x31.png"
+  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
+  [<img
+  src="../mediawiki/extensions/SemanticMediaWiki/resources/images/smw_button.png"
+  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
+<div style="clear:both">
+
+</div>
+
+</div>
