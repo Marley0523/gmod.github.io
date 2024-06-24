@@ -14,15 +14,7 @@
 
 </div>
 
-<div id="siteNotice">
 
-<div id="localNotice" lang="en" dir="ltr">
-
-
-
-</div>
-
-</div>
 
 # <span dir="auto">Changes related to "Migrating from GBrowse 1.X to 2.X"</span>
 

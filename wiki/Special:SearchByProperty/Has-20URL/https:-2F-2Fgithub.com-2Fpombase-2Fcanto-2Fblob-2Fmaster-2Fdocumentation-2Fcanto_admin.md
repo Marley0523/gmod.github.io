@@ -14,15 +14,7 @@
 
 </div>
 
-<div id="siteNotice">
 
-<div id="localNotice" lang="en" dir="ltr">
-
-
-
-</div>
-
-</div>
 
 # <span dir="auto">Has URL https://github.com/pombase/canto/blob/master/documentation/canto_admin.md</span>
 

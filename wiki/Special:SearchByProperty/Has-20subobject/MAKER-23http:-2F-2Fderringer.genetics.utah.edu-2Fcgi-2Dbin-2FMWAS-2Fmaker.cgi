@@ -14,15 +14,7 @@
 
 </div>
 
-<div id="siteNotice">
 
-<div id="localNotice" lang="en" dir="ltr">
-
-
-
-</div>
-
-</div>
 
 # <span dir="auto">Has subobject MAKER#http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi</span>
 

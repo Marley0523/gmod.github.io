@@ -14,15 +14,7 @@
 
 </div>
 
-<div id="siteNotice">
 
-<div id="localNotice" lang="en" dir="ltr">
-
-
-
-</div>
-
-</div>
 
 # <span dir="auto">Has URL http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi</span>
 

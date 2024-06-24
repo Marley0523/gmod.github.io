@@ -14,15 +14,7 @@
 
 </div>
 
-<div id="siteNotice">
 
-<div id="localNotice" lang="en" dir="ltr">
-
-
-
-</div>
-
-</div>
 
 # <span dir="auto">Has subobject BLAST Graphic Viewer#http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</span>
 
