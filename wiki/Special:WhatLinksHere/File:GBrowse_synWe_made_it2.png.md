@@ -167,21 +167,7 @@ aria-labelledby="p-variants-label">
 
 <div id="right-navigation">
 
-<div id="p-views" class="vectorTabs" role="navigation"
-aria-labelledby="p-views-label">
 
-### Views
-
-- <span id="ca-view">[Read](/wiki/File:GBrowse_synWe_made_it2.png)</span>
-- <span id="ca-viewsource"><a
-  href="/mediawiki/index.php?title=File:GBrowse_synWe_made_it2.png&amp;action=edit"
-  accesskey="e" title="This page is protected.
-  You can view its source [e]">View source</a></span>
-- <span id="ca-history"><a
-  href="/mediawiki/index.php?title=File:GBrowse_synWe_made_it2.png&amp;action=history"
-  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
-
-</div>
 
 <div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-cactions-label">

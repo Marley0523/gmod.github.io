@@ -131,15 +131,7 @@ aria-labelledby="p-variants-label">
 
 <div id="right-navigation">
 
-<div id="p-views" class="vectorTabs" role="navigation"
-aria-labelledby="p-views-label">
 
-### Views
-
-- <span id="ca-form_edit">[View
-  form](http://gmod.org/mediawiki/index.php?title=Category:RPC&action=formcreate)</span>
-
-</div>
 
 <div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-cactions-label">

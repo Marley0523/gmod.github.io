@@ -169,21 +169,7 @@ aria-labelledby="p-variants-label">
 
 <div id="right-navigation">
 
-<div id="p-views" class="vectorTabs" role="navigation"
-aria-labelledby="p-views-label">
 
-### Views
-
-- <span id="ca-view">[Read](File:Red_hat_logo_big.jpg)</span>
-- <span id="ca-viewsource"><a
-  href="http://gmod.org/mediawiki/index.php?title=File:Red_hat_logo_big.jpg&amp;action=edit"
-  accesskey="e" title="This page is protected.
-  You can view its source [e]">View source</a></span>
-- <span id="ca-history"><a
-  href="http://gmod.org/mediawiki/index.php?title=File:Red_hat_logo_big.jpg&amp;action=history"
-  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
-
-</div>
 
 <div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-cactions-label">

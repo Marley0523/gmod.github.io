@@ -112,21 +112,7 @@ aria-labelledby="p-variants-label">
 
 <div id="right-navigation">
 
-<div id="p-views" class="vectorTabs" role="navigation"
-aria-labelledby="p-views-label">
 
-### Views
-
-- <span id="ca-view">[Read](/wiki/Talk:Chado_GBrowse_Summary_View)</span>
-- <span id="ca-viewsource"><a
-  href="/mediawiki/index.php?title=Talk:Chado_GBrowse_Summary_View&amp;action=edit"
-  accesskey="e" title="This page is protected.
-  You can view its source [e]">View source</a></span>
-- <span id="ca-history"><a
-  href="/mediawiki/index.php?title=Talk:Chado_GBrowse_Summary_View&amp;action=history"
-  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
-
-</div>
 
 <div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-cactions-label">
