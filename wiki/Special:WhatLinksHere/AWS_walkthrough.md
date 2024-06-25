@@ -135,8 +135,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/AWS_walkthrough" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:AWS_walkthrough&amp;action=edit&amp;redlink=1"
   accesskey="t"

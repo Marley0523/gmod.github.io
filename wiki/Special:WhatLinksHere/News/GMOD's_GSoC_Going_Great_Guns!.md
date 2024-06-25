@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/GMOD%27s_GSoC_Going_Great_Guns!" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/GMOD%27s_GSoC_Going_Great_Guns!&amp;action=edit&amp;redlink=1"
   accesskey="t"

@@ -1221,8 +1221,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Overview" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:Overview" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

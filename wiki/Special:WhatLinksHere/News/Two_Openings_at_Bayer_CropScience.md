@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/Two_Openings_at_Bayer_CropScience" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/Two_Openings_at_Bayer_CropScience&amp;action=edit&amp;redlink=1"
   accesskey="t"

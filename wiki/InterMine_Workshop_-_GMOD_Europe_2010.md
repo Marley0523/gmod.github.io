@@ -167,8 +167,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="InterMine_Workshop_-_GMOD_Europe_2010" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:InterMine_Workshop_-_GMOD_Europe_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"

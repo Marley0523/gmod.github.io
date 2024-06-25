@@ -621,8 +621,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Community_Annotation_-_September_2010_Satellite" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:Community_Annotation_-_September_2010_Satellite"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>

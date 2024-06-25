@@ -649,8 +649,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="2009_GMOD_Summer_School_-_Europe" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:2009_GMOD_Summer_School_-_Europe&amp;action=edit&amp;redlink=1"
   accesskey="t"

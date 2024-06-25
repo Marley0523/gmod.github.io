@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/YAPC::NA_2010_is_Almost_Here!" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/YAPC::NA_2010_is_Almost_Here!&amp;action=edit&amp;redlink=1"
   accesskey="t"

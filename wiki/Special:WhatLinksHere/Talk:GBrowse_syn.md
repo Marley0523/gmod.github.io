@@ -113,8 +113,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/GBrowse_syn" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="/wiki/Talk:GBrowse_syn" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

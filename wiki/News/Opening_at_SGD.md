@@ -128,8 +128,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Opening_at_SGD" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/Opening_at_SGD&amp;action=edit&amp;redlink=1"
   accesskey="t"

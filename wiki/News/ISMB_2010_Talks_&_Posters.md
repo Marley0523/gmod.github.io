@@ -126,8 +126,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="ISMB_2010_Talks_&amp;_Posters" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/ISMB_2010_Talks_%26_Posters&amp;action=edit&amp;redlink=1"
   accesskey="t"

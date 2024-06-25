@@ -119,8 +119,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/GMOD_Malaysia_2014/Chado_Tutorial" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:GMOD_Malaysia_2014/Chado_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"

@@ -2014,8 +2014,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="WebApollo_v2013-05-16_Installation" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:WebApollo_v2013-05-16_Installation&amp;action=edit&amp;redlink=1"
   accesskey="t"

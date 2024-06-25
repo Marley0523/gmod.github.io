@@ -92,8 +92,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Linux_Text_Editors" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:Linux_Text_Editors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

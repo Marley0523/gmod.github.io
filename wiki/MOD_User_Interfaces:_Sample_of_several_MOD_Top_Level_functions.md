@@ -281,8 +281,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions&amp;action=edit&amp;redlink=1"
   accesskey="t"

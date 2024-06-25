@@ -114,8 +114,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Zheng%27s_notes_on_wormbase_migration" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Zheng%27s_notes_on_wormbase_migration&amp;action=edit&amp;redlink=1"
   accesskey="t"

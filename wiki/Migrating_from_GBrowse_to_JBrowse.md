@@ -173,8 +173,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Migrating_from_GBrowse_to_JBrowse" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Migrating_from_GBrowse_to_JBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"

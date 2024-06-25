@@ -122,8 +122,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype&amp;action=edit&amp;redlink=1"
   accesskey="t"

@@ -114,8 +114,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Web-apollo-meeting-agenda-2010-11-18" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Web-apollo-meeting-agenda-2010-11-18&amp;action=edit&amp;redlink=1"
   accesskey="t"

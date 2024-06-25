@@ -224,8 +224,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Databases:_Primary,_Foreign_and_Alternate_Keys" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Databases:_Primary,_Foreign_and_Alternate_Keys&amp;action=edit&amp;redlink=1"
   accesskey="t"

@@ -114,8 +114,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Audit_tracking_by_mods" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Audit_tracking_by_mods&amp;action=edit&amp;redlink=1"
   accesskey="t"

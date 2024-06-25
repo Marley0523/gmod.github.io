@@ -129,8 +129,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="DAS_Workshop_7-9_April_2010" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/DAS_Workshop_7-9_April_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"

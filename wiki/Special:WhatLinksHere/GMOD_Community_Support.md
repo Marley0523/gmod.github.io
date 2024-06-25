@@ -118,8 +118,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/GMOD_Community_Support" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:GMOD_Community_Support&amp;action=edit&amp;redlink=1"
   accesskey="t"

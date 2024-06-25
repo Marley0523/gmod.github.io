@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/Virtual_Issue_in_Journal_Database" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/Virtual_Issue_in_Journal_Database&amp;action=edit&amp;redlink=1"
   accesskey="t"

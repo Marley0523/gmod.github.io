@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Face_Caucus_UCSC:_User_Interface_Issues" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Face_Caucus_UCSC:_User_Interface_Issues&amp;action=edit&amp;redlink=1"
   accesskey="t"

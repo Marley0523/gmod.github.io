@@ -130,8 +130,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="CMap_Paper_in_Bioinformatics" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/CMap_Paper_in_Bioinformatics&amp;action=edit&amp;redlink=1"
   accesskey="t"

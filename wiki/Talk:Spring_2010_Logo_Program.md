@@ -83,8 +83,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Spring_2010_Logo_Program" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:Spring_2010_Logo_Program" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

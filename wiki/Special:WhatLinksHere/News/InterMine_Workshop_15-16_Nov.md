@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/InterMine_Workshop_15-16_Nov" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/InterMine_Workshop_15-16_Nov&amp;action=edit&amp;redlink=1"
   accesskey="t"

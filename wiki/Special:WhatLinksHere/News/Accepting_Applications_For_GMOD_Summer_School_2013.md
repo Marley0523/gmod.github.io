@@ -88,8 +88,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/News/Accepting_Applications_For_GMOD_Summer_School_2013"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:News/Accepting_Applications_For_GMOD_Summer_School_2013&amp;action=edit&amp;redlink=1"
   accesskey="t"

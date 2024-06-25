@@ -119,9 +119,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a
-  href="/wiki/Chado_Natural_Diversity_Module/natdiv_schema_changes_call"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/wiki/Talk:Chado_Natural_Diversity_Module/natdiv_schema_changes_call"
   accesskey="t"

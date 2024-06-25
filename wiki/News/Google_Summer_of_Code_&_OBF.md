@@ -129,8 +129,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Google_Summer_of_Code_&amp;_OBF" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/Google_Summer_of_Code_%26_OBF&amp;action=edit&amp;redlink=1"
   accesskey="t"

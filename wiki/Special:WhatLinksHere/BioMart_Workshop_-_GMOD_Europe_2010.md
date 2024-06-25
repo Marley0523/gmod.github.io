@@ -154,8 +154,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/BioMart_Workshop_-_GMOD_Europe_2010" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:BioMart_Workshop_-_GMOD_Europe_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"

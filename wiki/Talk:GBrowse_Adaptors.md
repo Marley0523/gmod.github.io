@@ -82,8 +82,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="GBrowse_Adaptors" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:GBrowse_Adaptors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

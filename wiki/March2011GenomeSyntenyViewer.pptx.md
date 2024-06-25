@@ -79,8 +79,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="March2011GenomeSyntenyViewer.pptx" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:March2011GenomeSyntenyViewer.pptx&amp;action=edit&amp;redlink=1"
   accesskey="t"

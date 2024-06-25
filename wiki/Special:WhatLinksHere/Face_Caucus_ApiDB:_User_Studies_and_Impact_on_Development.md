@@ -116,9 +116,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a
-  href="/wiki/Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development&amp;action=edit&amp;redlink=1"
   accesskey="t"

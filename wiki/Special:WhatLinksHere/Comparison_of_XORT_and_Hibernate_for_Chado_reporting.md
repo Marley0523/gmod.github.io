@@ -124,8 +124,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Comparison_of_XORT_and_Hibernate_for_Chado_reporting&amp;action=edit&amp;redlink=1"
   accesskey="t"

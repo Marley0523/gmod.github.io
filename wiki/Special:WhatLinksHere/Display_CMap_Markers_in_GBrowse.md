@@ -115,8 +115,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Display_CMap_Markers_in_GBrowse" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Display_CMap_Markers_in_GBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"

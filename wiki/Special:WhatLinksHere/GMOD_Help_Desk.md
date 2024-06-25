@@ -286,8 +286,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/GMOD_Help_Desk" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="/wiki/Talk:GMOD_Help_Desk" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

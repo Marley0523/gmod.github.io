@@ -116,8 +116,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Proposed_schema_extensions_related_to_Sybil/IGS_needs"
-  accesskey="c" title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="/mediawiki/index.php?title=Talk:Proposed_schema_extensions_related_to_Sybil/IGS_needs&amp;action=edit&amp;redlink=1"
   accesskey="t"

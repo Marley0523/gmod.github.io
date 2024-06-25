@@ -156,8 +156,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="GBrowse_1_Configuration_HOWTO" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:GBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

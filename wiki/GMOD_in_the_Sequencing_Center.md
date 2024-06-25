@@ -163,8 +163,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="GMOD_in_the_Sequencing_Center" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_in_the_Sequencing_Center&amp;action=edit&amp;redlink=1"
   accesskey="t"

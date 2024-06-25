@@ -113,8 +113,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Logo_Program_Deadline_Extended" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/Logo_Program_Deadline_Extended&amp;action=edit&amp;redlink=1"
   accesskey="t"

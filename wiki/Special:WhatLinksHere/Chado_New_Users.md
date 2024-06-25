@@ -122,8 +122,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/Chado_New_Users" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="/wiki/Talk:Chado_New_Users" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

@@ -128,8 +128,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="/wiki/GBrowse_Configuration/DAS" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="/wiki/Talk:GBrowse_Configuration/DAS" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

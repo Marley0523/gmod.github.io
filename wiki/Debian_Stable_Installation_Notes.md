@@ -401,8 +401,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Debian_Stable_Installation_Notes" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a href="Talk:Debian_Stable_Installation_Notes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

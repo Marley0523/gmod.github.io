@@ -129,8 +129,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-main"><a href="Textpresso_Software_Developer" accesskey="c"
-  title="View the content page [c]">Page</a></span>
+
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/Textpresso_Software_Developer&amp;action=edit&amp;redlink=1"
   accesskey="t"
