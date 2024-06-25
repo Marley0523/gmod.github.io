@@ -187,24 +187,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/User:ErickAntezana" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/User:ErickAntezana" accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-contributions">[User
-  contributions](Special:Contributions/ErickAntezana "A list of contributions of this user")</span>
-- <span id="t-log">[Logs](Special:Log/ErickAntezana)</span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=User:ErickAntezana&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=User:ErickAntezana&oldid=10546 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=User:ErickAntezana&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/User:ErickAntezana" rel="smw-browse">Browse
   properties</a></span>
 - <span id="t-pdf">[Print as

@@ -203,24 +203,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/User:Brianfoley" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/User:Brianfoley" accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-contributions">[User
-  contributions](Special:Contributions/Brianfoley "A list of contributions of this user")</span>
-- <span id="t-log">[Logs](Special:Log/Brianfoley)</span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=User:Brianfoley&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=User:Brianfoley&oldid=5395 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=User:Brianfoley&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/User:Brianfoley" rel="smw-browse">Browse
   properties</a></span>
 - <span id="t-pdf">[Print as

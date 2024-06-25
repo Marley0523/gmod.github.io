@@ -229,25 +229,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a
-  href="../Special:WhatLinksHere/News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a
-  href="../Special:RecentChangesLinked/News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="../Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology&oldid=25203 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology&action=info)</span>
+
 - <span id="t-smwbrowselink"><a
   href="../Special:Browse/News-2FPostdoc_Position_in_Computational_and_Plant_Evolutionary_Biology"
   rel="smw-browse">Browse properties</a></span>

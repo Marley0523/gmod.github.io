@@ -225,25 +225,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a
-  href="../Special:WhatLinksHere/News/MAKER-P:_an_annotation_pipeline_for_plants"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a
-  href="../Special:RecentChangesLinked/News/MAKER-P:_an_annotation_pipeline_for_plants"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="../Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=News/MAKER-P:_an_annotation_pipeline_for_plants&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=News/MAKER-P:_an_annotation_pipeline_for_plants&oldid=24937 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=News/MAKER-P:_an_annotation_pipeline_for_plants&action=info)</span>
+
 - <span id="t-smwbrowselink"><a
   href="../Special:Browse/News-2FMAKER-2DP:_an_annotation_pipeline_for_plants"
   rel="smw-browse">Browse properties</a></span>

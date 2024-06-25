@@ -304,17 +304,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/Category:Generic_Gene_Pages"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/Category:Generic_Gene_Pages"
   rel="smw-browse">Browse properties</a></span>
 - <span id="t-pdf">[Print as

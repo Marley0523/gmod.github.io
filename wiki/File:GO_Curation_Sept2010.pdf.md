@@ -266,23 +266,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/File:GO_Curation_Sept2010.pdf"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/File:GO_Curation_Sept2010.pdf"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=File:GO_Curation_Sept2010.pdf&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=File:GO_Curation_Sept2010.pdf&oldid=22034 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=File:GO_Curation_Sept2010.pdf&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/File:GO_Curation_Sept2010.pdf"
   rel="smw-browse">Browse properties</a></span>
 

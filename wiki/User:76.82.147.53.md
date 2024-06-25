@@ -201,18 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/User:76.82.147.53" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-contributions">[User
-  contributions](/wiki/Special:Contributions/76.82.147.53 "A list of contributions of this user")</span>
-- <span id="t-log">[Logs](/wiki/Special:Log/76.82.147.53)</span>
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a href="/mediawiki/index.php?title=User:76.82.147.53&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-info">[Page
-  information](/mediawiki/index.php?title=User:76.82.147.53&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/User:76.82.147.53" rel="smw-browse">Browse
   properties</a></span>
 - <span id="t-pdf">[Print as

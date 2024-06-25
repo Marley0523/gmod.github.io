@@ -275,24 +275,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="../Special:WhatLinksHere/News/GMOD_Summer_School_-_Americas"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a
-  href="../Special:RecentChangesLinked/News/GMOD_Summer_School_-_Americas"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="../Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=News/GMOD_Summer_School_-_Americas&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=News/GMOD_Summer_School_-_Americas&oldid=21917 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=News/GMOD_Summer_School_-_Americas&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Summer_School_-2D_Americas"
   rel="smw-browse">Browse properties</a></span>
 - <span id="t-pdf">[Print as

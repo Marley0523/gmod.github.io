@@ -278,22 +278,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/File:October2011Logo.png" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/File:October2011Logo.png"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=File:October2011Logo.png&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=File:October2011Logo.png&oldid=18414 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=File:October2011Logo.png&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/File:October2011Logo.png"
   rel="smw-browse">Browse properties</a></span>
 

@@ -348,23 +348,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/Java_Testing_-_by_Jon_Slenk"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/Java_Testing_-_by_Jon_Slenk"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=Java_Testing_-_by_Jon_Slenk&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=Java_Testing_-_by_Jon_Slenk&oldid=4303 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=Java_Testing_-_by_Jon_Slenk&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/Java_Testing_-2D_by_Jon_Slenk"
   rel="smw-browse">Browse properties</a></span>
 - <span id="t-pdf">[Print as

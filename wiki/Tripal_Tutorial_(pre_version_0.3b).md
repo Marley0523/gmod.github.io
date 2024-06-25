@@ -3189,23 +3189,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/Tripal_Tutorial_(pre_version_0.3b)"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/Tripal_Tutorial_(pre_version_0.3b)"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_(pre_version_0.3b)&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_(pre_version_0.3b)&oldid=21801 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_(pre_version_0.3b)&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Tutorial_(pre_version_0.3b)"
   rel="smw-browse">Browse properties</a></span>
 - <span id="t-pdf">[Print as

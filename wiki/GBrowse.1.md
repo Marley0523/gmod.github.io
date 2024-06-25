@@ -1124,21 +1124,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/GBrowse" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/GBrowse" accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changehttp://gmod.org/wiki/s</a></span>
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediahttp://gmod.org/wiki/wiki/index.php?title=GBrowse&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- [Permanent
-  link](/mediawiki/index.php?title=GBrowse&oldid=28470 "Permanent link to this revisionhttp://gmod.org/wiki/ of the page")
-- <span id="t-info">[Page
-  information](/mediawiki/index.php?title=GBrowhttp://gmod.org/wiki/se&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
 - <span id="t-pdf">[Print as

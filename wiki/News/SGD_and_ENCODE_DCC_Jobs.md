@@ -211,23 +211,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="../Special:WhatLinksHere/News/SGD_and_ENCODE_DCC_Jobs"
-  accesskey="j" title="A list of all wiki pages that link here [j]">What
-  links here</a></span>
-- <span id="t-recentchangeslinked"><a href="../Special:RecentChangesLinked/News/SGD_and_ENCODE_DCC_Jobs"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="../Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=News/SGD_and_ENCODE_DCC_Jobs&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=News/SGD_and_ENCODE_DCC_Jobs&oldid=23346 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=News/SGD_and_ENCODE_DCC_Jobs&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FSGD_and_ENCODE_DCC_Jobs"
   rel="smw-browse">Browse properties</a></span>
 - <span id="t-pdf">[Print as

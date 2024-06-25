@@ -269,22 +269,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-whatlinkshere"><a href="Special:WhatLinksHere/File:Chado-and-XML.pdf" accesskey="j"
-  title="A list of all wiki pages that link here [j]">What links here</a></span>
-- <span id="t-recentchangeslinked"><a href="Special:RecentChangesLinked/File:Chado-and-XML.pdf"
-  accesskey="k"
-  title="Recent changes in pages linked from this page [k]">Related
-  changes</a></span>
-- <span id="t-specialpages"><a href="Special:SpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="http://gmod.org/mediawiki/index.php?title=File:Chado-and-XML.pdf&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
-- <span id="t-permalink">[Permanent
-  link](http://gmod.org/mediawiki/index.php?title=File:Chado-and-XML.pdf&oldid=4689 "Permanent link to this revision of the page")</span>
-- <span id="t-info">[Page
-  information](http://gmod.org/mediawiki/index.php?title=File:Chado-and-XML.pdf&action=info)</span>
+
 - <span id="t-smwbrowselink"><a href="Special:Browse/File:Chado-2Dand-2DXML.pdf"
   rel="smw-browse">Browse properties</a></span>
 
