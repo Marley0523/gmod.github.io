@@ -233,8 +233,7 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-- <span id="footer-copyrightico">[<img src="http://www.gnu.org/graphics/gfdl-logo-small.png" width="88"
-  height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+
 
 
 

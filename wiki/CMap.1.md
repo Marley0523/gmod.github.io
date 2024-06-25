@@ -1018,9 +1018,7 @@ role="navigation" aria-labelledby="p-tb-label">
 
 <!-- -->
 
-- <span id="footer-copyrightico">[<img
-  src="http://www.gnhttp://gmod.org/wiki/u.org/graphics/gfdl-logo-small.phttp://gmod.org/wiki/ng"
-  width="88" height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
+
 
 
 
