@@ -288,7 +288,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="footer-info-lastmod">Last updated at 02:15 on 21 December
   2009.</span>
-- <span id="footer-info-viewcount">1,615 page views.</span>
+<!-- - <span id="footer-info-viewcount">1,615 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

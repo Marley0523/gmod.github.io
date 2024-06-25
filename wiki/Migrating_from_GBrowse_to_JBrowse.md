@@ -300,7 +300,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="footer-info-lastmod">Last updated at 18:24 on 9 July
   2018.</span>
-- <span id="footer-info-viewcount">9,142 page views.</span>
+<!-- - <span id="footer-info-viewcount">9,142 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise
