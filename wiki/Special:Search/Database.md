@@ -1349,7 +1349,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](/wiki/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](/wiki/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 
   </div>
 

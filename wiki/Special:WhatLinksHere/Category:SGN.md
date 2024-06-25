@@ -63,7 +63,7 @@ View (previous 50 \| next 50)
 [500](/mediawiki/index.php?title=Special:WhatLinksHere/Category:SGN&limit=500 "Special:WhatLinksHere/Category:SGN"))
 
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](/wiki/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](/wiki/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Face+Caucus+SGN%3A+Associating+Solanaceae+loci+with+phenotype "Special:WhatLinksHere"))</span>
 - [January 2007 GMOD

@@ -78,7 +78,7 @@ and their associated phenotypes.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype&oldid=9025>"
+"<http://gmod.org/mediawiki/index.php?title=Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype&oldid=9025>"
 
 </div>
 
@@ -124,7 +124,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -225,7 +225,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype"
+  href="Special:Browse/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
   rel="smw-browse">Browse properties</a></span>
 
 

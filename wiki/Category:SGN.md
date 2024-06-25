@@ -67,7 +67,7 @@ The following 7 pages are in this category, out of 7 total.
 <td style="width: 33.3%"><h3 id="f">F</h3>
 <ul>
 <li><a
-href="Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype"
+href="Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
 title="Face Caucus SGN: Associating Solanaceae loci with phenotype">Face
 Caucus SGN: Associating Solanaceae loci with phenotype</a></li>
 </ul>

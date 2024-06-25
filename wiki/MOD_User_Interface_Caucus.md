@@ -111,7 +111,7 @@ comment' link below.
   title="Face Caucus SGD: Searches and retrieval tools at SGD (page does not exist)">Face
   Caucus SGD: Searches and retrieval tools at SGD</a>
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 - <a
   href="http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC:_User_Interface_Issues_%26_Challenges_in_a_Many_Organism_Database&amp;action=edit&amp;redlink=1"
   class="new"

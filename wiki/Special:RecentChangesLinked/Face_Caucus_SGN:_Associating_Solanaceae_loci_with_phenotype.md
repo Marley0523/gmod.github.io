@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [Face Caucus SGN: Associating Solanaceae loci with
-phenotype](/wiki/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+phenotype](/wiki/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 
 </div>
 
@@ -136,7 +136,7 @@ No changes during the given period matching these criteria.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:RecentChangesLinked/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype>"
+"<http://gmod.org/wiki/Special:RecentChangesLinked/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype>"
 
 </div>
 
@@ -168,7 +168,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:RecentChangesLinked/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:RecentChangesLinked/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -273,13 +273,13 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 - <span id="feedlinks"><a
-  href="http://gmod.org/mediawiki/index.php?title=Special:RecentChangesLinked/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype&amp;feed=atom"
+  href="http://gmod.org/mediawiki/index.php?title=Special:RecentChangesLinked/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype&amp;feed=atom"
   id="feed-atom" class="feedlink" rel="alternate"
   type="application/atom+xml" title="Atom feed for this page">Atom</a></span>
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:RecentChangesLinked/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:RecentChangesLinked/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

@@ -61,7 +61,7 @@ The following 5 pages are in this category, out of 5 total.
 ### F
 
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 
 ### P
 

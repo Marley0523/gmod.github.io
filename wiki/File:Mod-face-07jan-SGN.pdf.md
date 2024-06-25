@@ -100,7 +100,7 @@ class="new" title="User talk:Bosborne (page does not exist)">Talk</a> \| [contri
 The following 2 pages link to this file:
 
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 - [MOD Face Talks](MOD_Face_Talks "MOD Face Talks")
 
 </div>

@@ -66,7 +66,7 @@ View (previous 50 \| next 50)
 [500](/mediawiki/index.php?title=Special:WhatLinksHere/File:Mod-face-07jan-SGN.pdf&limit=500 "Special:WhatLinksHere/File:Mod-face-07jan-SGN.pdf"))
 
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](/wiki/Face_Caucus_SGN:_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](/wiki/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
   (file link) ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Face+Caucus+SGN%3A+Associating+Solanaceae+loci+with+phenotype "Special:WhatLinksHere"))</span>
 - [MOD Face Talks](/wiki/MOD_Face_Talks "MOD Face Talks") (file link) ‎
