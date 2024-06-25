@@ -836,7 +836,6 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
-- <span id="n-View-all-pages">[View all pages](Special:AllPages)</span>
 
 </div>
 
