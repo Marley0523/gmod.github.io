@@ -939,13 +939,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="right-navigation">
 
-
-
-
-
-</div>
 
 
 

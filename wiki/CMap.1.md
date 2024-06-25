@@ -867,26 +867,7 @@ s="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="right-navigation">
 
-<div id="p-views" class="vectorTabs" http:="" gmod.org="" wiki=""
-role="navigation" aria-labelledby="p-views-label">
-
-### Vhttp://gmod.org/wiki/iews
-
-- <span id="ca-view">[Read](/wiki/CMap)</span>
-- <span id="ca-forhttp://gmod.org/wiki/m_edit">[View
-  form](/mediawiki/index.php?title=CMap&action=formedit)</span>
-- <span id="ca-viewsource"><a href="/mediawiki/index.php?title=CMap&amp;action=edit" http:=""
-  data-gmod.org="" data-wiki="" accesskey="e"
-  title="This page is protected.
-  You can view it#10;You can view its source [e]">View source</a></span>
-- <span id="ca-history"><a href="/mediawiki/index.php?title=CMap&amp;action=history"
-  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
-
-
-
-</div>
 
 
 

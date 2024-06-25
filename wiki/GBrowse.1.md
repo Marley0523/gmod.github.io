@@ -1025,19 +1025,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="right-navigation">
 
-### Views
-
-- <span id="ca-view">[Read](/wiki/GBrowse)</span>
-- <span id="ca-viewsource"><a
-  href="/mediawiki/index.php?title=GBrowse&amp;amphttp://gmod.org/wiki/;action=edit"
-  accesskey="e" title="This page is protected.
-  You#10;You can view its source [e]">View source</a></span>
-- <span id="ca-history"><a href="/mediawiki/index.php?title=GBrowse&amp;action=history"
-  accesskey="h" title="Past revisions of this page [h]">View history</a></span>
-
-</div>
 
 
 

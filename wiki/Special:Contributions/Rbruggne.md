@@ -255,14 +255,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="right-navigation">
 
-<div id="p-views" class="vectorTabs emptyPortlet" role="navigation"
-aria-labelledby="p-views-label">
-
-### Views
-
-</div>
 
 
 
