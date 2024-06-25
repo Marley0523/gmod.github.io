@@ -307,8 +307,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-smwbrowselink"><a
   href="../Special:Browse/Chado_Natural_Diversity_Module-2Fnatdiv_call_notes"
   rel="smw-browse">Browse properties</a></span>
-- <span id="t-pdf">[Print as
-  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=Chado_Natural_Diversity_Module/natdiv_call_notes)</span>
+
 
 </div>
 
@@ -339,8 +338,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>

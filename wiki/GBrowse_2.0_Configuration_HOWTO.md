@@ -3356,8 +3356,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-- <span id="t-pdf">[Print as
-  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=GBrowse_2.0_HOWTO)</span>
+
 
 </div>
 
@@ -3388,8 +3387,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>

@@ -965,8 +965,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="t-smwbrowselink"><a href="Special:Browse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
-- <span id="t-pdf">[Print as
-  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=Flash_GViewer_Documentation)</span>
+
 
 </div>
 
@@ -997,8 +996,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>

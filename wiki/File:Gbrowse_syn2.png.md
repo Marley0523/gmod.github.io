@@ -279,8 +279,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>

@@ -221,8 +221,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FWebsite_Down:_Aug_11_2008"
   rel="smw-browse">Browse properties</a></span>
-- <span id="t-pdf">[Print as
-  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=News/Website_Down:_Aug_11_2008)</span>
+
 
 </div>
 
@@ -253,8 +252,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>

@@ -775,8 +775,7 @@ aria-labelledby="p-tb-label">
 
 - <span id="t-smwbrowselink"><a href="Special:Browse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
   rel="smw-browse">Browse properties</a></span>
-- <span id="t-pdf">[Print as
-  PDF](http://gmod.org/mediawiki/index.php?title=Special:PdfPrint&page=Load_Balancing_GBrowse2_with_AWS_Spot_Instances)</span>
+
 
 </div>
 
@@ -807,8 +806,6 @@ aria-labelledby="p-tb-label">
   height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
 
 
-<div style="clear:both">
 
-</div>
 
 </div>
