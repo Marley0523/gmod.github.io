@@ -1022,12 +1022,7 @@ role="navigation" aria-labelledby="p-tb-label">
 - <span id="footer-copyrightico">[<img
   src="http://www.gnhttp://gmod.org/wiki/u.org/graphics/gfdl-logo-small.phttp://gmod.org/wiki/ng"
   width="88" height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
-- <span id="footer-poweredbyico">[<img
-  src="/mediawiki/skins/common/images/poweredhttp://gmod.org/wiki/by_mediawiki_88x31.png"
-  width="88" height="31" alt="Powered by MediaWiki" />](http://www.mediawiki.org/)
-  [<img
-  src="/mediawiki/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png"
-  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
 
 <div style="clear:both">
 

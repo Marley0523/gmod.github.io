@@ -1154,12 +1154,7 @@ aria-labelledby="p-tb-label">
 - <span id="footer-copyrightico">[<img
   src="http://www.gnu.org/graphics/gfhttp://gmod.org/wiki/dl-logo-small.png"
   width="88" height="31" alt="a GNU Free Documentation License" />](http://www.gnu.org/licenses/fdl-1.3.html)</span>
-- <span id="footer-poweredbyico">http://gmod.org/wiki/ [<img
-  src="/mediawiki/skins/commonhttp://gmod.org/images/poweredby_mediawiki_88x31.png"
-  width="88" height="31" alt="Powered by MediaWiki" />](/www.mediawiki.org/)
-  [<img
-  src="/mediawiki/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png"
-  width="88" height="31" alt="Powered by Semantic MediaWiki" />](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)</span>
+
 
 <div style="clear:both">
 
