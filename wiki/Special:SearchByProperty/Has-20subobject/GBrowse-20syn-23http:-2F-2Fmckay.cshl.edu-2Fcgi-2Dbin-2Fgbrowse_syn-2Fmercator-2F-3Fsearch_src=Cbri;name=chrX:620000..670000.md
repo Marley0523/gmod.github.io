@@ -74,18 +74,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20subobject%2FGBrowse-20syn-23http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse+syn-2Fmercator-2F-3Fsearch+src%3DCbri%3Bname%3DchrX%3A620000..670000"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

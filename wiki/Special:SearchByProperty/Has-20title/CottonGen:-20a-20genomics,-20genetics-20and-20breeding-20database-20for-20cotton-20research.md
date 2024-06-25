@@ -71,18 +71,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20title%2FCottonGen%3A-20a-20genomics%2C-20genetics-20and-20breeding-20database-20for-20cotton-20research"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

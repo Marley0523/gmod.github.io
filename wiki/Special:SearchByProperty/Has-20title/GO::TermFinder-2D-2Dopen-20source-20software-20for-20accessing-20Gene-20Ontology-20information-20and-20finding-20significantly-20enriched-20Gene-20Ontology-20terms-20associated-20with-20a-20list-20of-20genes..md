@@ -71,18 +71,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20title%2FGO%3A%3ATermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes."
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

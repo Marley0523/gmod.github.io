@@ -74,18 +74,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20title%2FmRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam%2C-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

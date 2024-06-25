@@ -70,18 +70,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20description%2FReview-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team."
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

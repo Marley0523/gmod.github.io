@@ -74,18 +74,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20subobject%2FGBrowse-20syn-23http%3A-2F-2Fdev.wormbase.org-2Fdb-2Fseq-2Fgbrowse+syn-2Fcompara-3Fsearch+src%3DCele%3Bname%3DX%3A1050001..1150000"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

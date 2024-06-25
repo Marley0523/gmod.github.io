@@ -390,18 +390,7 @@ title="Property:Published in (page does not exist)">Published in</a> | Genome r
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=User%3AJimHu%2FGbrowse"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

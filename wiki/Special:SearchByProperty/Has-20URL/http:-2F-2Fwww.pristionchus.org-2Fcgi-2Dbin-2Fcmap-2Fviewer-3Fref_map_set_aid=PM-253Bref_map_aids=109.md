@@ -69,18 +69,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20URL%2Fhttp%3A-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref+map+set+aid%3DPM-253Bref+map+aids%3D109"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

@@ -158,23 +158,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-anonuserpage"><a href="/wiki/User:76.82.147.53" class="new" accesskey="."
-  title="The user page for the IP address you are editing as [.]">76.82.147.53</a></span>
-- <span id="pt-anontalk"><a href="/wiki/User_talk:76.82.147.53" class="new" accesskey="n"
-  title="Discussion about edits from this IP address [n]">Talk for this IP
-  address</a></span>
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ARecentChangesLinked%2FFile%3AISMBECCB2009+logo.png"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

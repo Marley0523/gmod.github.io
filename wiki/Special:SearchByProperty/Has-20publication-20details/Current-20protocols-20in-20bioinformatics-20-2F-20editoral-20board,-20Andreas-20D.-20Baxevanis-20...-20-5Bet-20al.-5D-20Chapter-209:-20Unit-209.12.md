@@ -74,18 +74,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20publication-20details%2FCurrent-20protocols-20in-20bioinformatics-20-2F-20editoral-20board%2C-20Andreas-20D.-20Baxevanis-20...-20-5Bet-20al.-5D-20Chapter-209%3A-20Unit-209.12"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

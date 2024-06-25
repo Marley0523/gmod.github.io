@@ -71,18 +71,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20description%2FA-20publicly-20accessible-20legume-20resource-20that-20will-20integrate-20genetic-20and-20molecular-20data-20from-20multiple-20legume-20species-20and-20enable-20cross-2Dspecies-20comparisons"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

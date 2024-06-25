@@ -850,18 +850,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="http://gmod.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=JBrowse+Tutorial+PAG+2017"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

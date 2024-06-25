@@ -71,18 +71,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearchByProperty%2FHas-20description%2FA-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20%28sequence%2C-20genetic%2C-20etc.%29-20from-20any-20number-20of-20species.-20The-20CMap-20package-20also-20includes-20tools-20for-20curating-20map-20data."
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 

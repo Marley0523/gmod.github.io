@@ -88,23 +88,7 @@ Retrieved from
 
 <div id="mw-head">
 
-<div id="p-personal" role="navigation"
-aria-labelledby="p-personal-label">
 
-### Personal tools
-
-- <span id="pt-anonuserpage"><a href="/wiki/User:76.82.147.53" class="new" accesskey="."
-  title="The user page for the IP address you are editing as [.]">76.82.147.53</a></span>
-- <span id="pt-anontalk"><a href="/wiki/User_talk:76.82.147.53" class="new" accesskey="n"
-  title="Discussion about edits from this IP address [n]">Talk for this IP
-  address</a></span>
-- <span id="pt-login"><a
-  href="/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Special%3ABrowse%2FCMap-23http%3A-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref+map+set+aid%3DPM%3Bref+map+aids%3D109"
-  accesskey="o"
-  title="You are encouraged to log in; however, it is not mandatory [o]">Log
-  in / create account</a></span>
-
-</div>
 
 <div id="left-navigation">
 
