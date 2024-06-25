@@ -1039,14 +1039,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-cactions-label">
 
-### Actionshttp://gmod.org/wiki/[\<#"\>](#)
-
-<div class="menu">
-
-</div>
 
 </div>
 

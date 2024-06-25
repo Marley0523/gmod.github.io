@@ -884,16 +884,7 @@ role="navigation" aria-labelledby="p-views-label">
 - <span id="ca-history"><a href="/mediawiki/index.php?title=CMap&amp;action=history"
   accesskey="h" title="Past revisions of this page [h]">View history</a></span>
 
-<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-cactions-label">
 
-### Actions[](http://gmod.org/wiki/%22#%22)
-
-<div #"="">
-
-<div class="menu">
-
-</div>
 
 </div>
 

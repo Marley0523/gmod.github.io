@@ -342,14 +342,7 @@ aria-labelledby="p-views-label">
 
 </div>
 
-<div id="p-cactions" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-cactions-label">
 
-### Actions[](#)
-
-<div class="menu">
-
-</div>
 
 </div>
 
