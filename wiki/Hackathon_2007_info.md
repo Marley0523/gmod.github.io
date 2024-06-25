@@ -302,7 +302,7 @@ possibilities. Please feel free to add more.
 
 [Justin](User:Justaddcoffee "User:Justaddcoffee"): I've written
 [Apollo-Chado Integration at BovineBase: Bugs and
-Suggestions](Apollo-Chado_Integration_at_BovineBase:_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
+Suggestions](Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
 containing a list of bugs and suggestions from our developers and
 [Apollo](Apollo.1 "Apollo") users, compiled during our construction of a
 Chado\<-\>Apollo setup for the Bovine genome annotation effort.

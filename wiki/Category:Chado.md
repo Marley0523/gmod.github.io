@@ -87,7 +87,7 @@ PureJDBCTransactionWriter HOWTO</a></li>
 title="Apollo-Chado example database">Apollo-Chado example
 database</a></li>
 <li><a
-href="Apollo-Chado_Integration_at_BovineBase:_Bugs_and_Suggestions"
+href="Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
 title="Apollo-Chado Integration at BovineBase: Bugs and Suggestions">Apollo-Chado
 Integration at BovineBase: Bugs and Suggestions</a></li>
 <li><a href="August_2009_GMOD_Meeting"

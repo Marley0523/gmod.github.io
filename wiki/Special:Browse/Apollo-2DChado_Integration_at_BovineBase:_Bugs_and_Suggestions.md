@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Apollo-Chado Integration at BovineBase: Bugs and Suggestions](/wiki/Apollo-Chado_Integration_at_BovineBase:_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions") |  |
+| [Apollo-Chado Integration at BovineBase: Bugs and Suggestions](/wiki/Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions") |  |
 
 |  |  |
 |----|----|

@@ -102,7 +102,7 @@ database</a></li>
 <td style="width: 33.3%"><h3 id="a-cont.">A cont.</h3>
 <ul>
 <li><a
-href="Apollo-Chado_Integration_at_BovineBase:_Bugs_and_Suggestions"
+href="Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
 title="Apollo-Chado Integration at BovineBase: Bugs and Suggestions">Apollo-Chado
 Integration at BovineBase: Bugs and Suggestions</a></li>
 <li><a href="Apollo/tool_data" title="Apollo/tool data">Apollo/tool

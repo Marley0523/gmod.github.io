@@ -69,7 +69,7 @@ View (previous 50 \| next 50)
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Calendar "Special:WhatLinksHere"))</span>
 - [Apollo-Chado Integration at BovineBase: Bugs and
-  Suggestions](/wiki/Apollo-Chado_Integration_at_BovineBase:_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
+  Suggestions](/wiki/Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Apollo-Chado+Integration+at+BovineBase%3A+Bugs+and+Suggestions "Special:WhatLinksHere"))</span>
 - [Meetings](/wiki/Meetings "Meetings") ‎
