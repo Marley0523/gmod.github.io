@@ -871,13 +871,7 @@ aria-labelledby="p-views-label">
 
 </div>
 
-<div id="p-search" role="search">
 
-### Search
-
-<div id="simpleSearch">
-
-</div>
 
 </div>
 

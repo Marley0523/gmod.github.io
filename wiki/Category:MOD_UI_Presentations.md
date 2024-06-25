@@ -358,13 +358,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-<div id="p-search" role="search">
 
-### Search
-
-<div id="simpleSearch">
-
-</div>
 
 </div>
 
