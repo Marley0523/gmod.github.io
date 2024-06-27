@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [MOD User Interfaces: outline of topics](/wiki/MOD_User_Interfaces:_outline_of_topics "MOD User Interfaces: outline of topics") |  |
+| [MOD User Interfaces: outline of topics](/wiki/MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/MOD_User_Interfaces:_outline_of_topics>"
+"<http://gmod.org/wiki/Special:Browse/MOD_User_Interfaces%3A_outline_of_topics>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/MOD_User_Interfaces:_outline_of_topics "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/MOD_User_Interfaces%3A_outline_of_topics "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/MOD_User_Interfaces:_outline_of_topics&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/MOD_User_Interfaces%3A_outline_of_topics&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

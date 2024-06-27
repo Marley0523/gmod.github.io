@@ -143,7 +143,7 @@ gene, genome feature predictions?
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces:_outline_of_topics&oldid=1920>"
+"<http://gmod.org/mediawiki/index.php?title=MOD_User_Interfaces%3A_outline_of_topics&oldid=1920>"
 
 </div>
 
@@ -185,7 +185,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:MOD_User_Interfaces:_outline_of_topics&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:MOD_User_Interfaces%3A_outline_of_topics&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -285,7 +285,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interfaces:_outline_of_topics"
+- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interfaces%3A_outline_of_topics"
   rel="smw-browse">Browse properties</a></span>
 
 

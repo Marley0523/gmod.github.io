@@ -119,7 +119,7 @@ comment' link below.
   Caucus UCSC: User Interface Issues &amp; Challenges in a Many Organism
   Database</a>
 - [MOD User Interfaces: outline of
-  topics](MOD_User_Interfaces:_outline_of_topics "MOD User Interfaces: outline of topics")
+  topics](MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics")
 - [MOD User Interfaces: Sample of several MOD Top Level
   functions](MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions")
 - <a

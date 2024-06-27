@@ -211,7 +211,7 @@ See also the search results found.
 - <div class="mw-search-result-heading">
 
   [MOD User Interfaces: outline of
-  topics](/wiki/MOD_User_Interfaces:_outline_of_topics "MOD User Interfaces: outline of topics")
+  topics](/wiki/MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics")
 
   </div>
 
