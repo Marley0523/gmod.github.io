@@ -82,7 +82,7 @@ More information and media coverage of OADB:
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/2013_Meeting:_Keynote_Announcement&oldid=23298>"
+"<http://gmod.org/mediawiki/index.php?title=News/2013_Meeting%3A_Keynote_Announcement&oldid=23298>"
 
 </div>
 
@@ -125,7 +125,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/2013_Meeting:_Keynote_Announcement&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/2013_Meeting%3A_Keynote_Announcement&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -227,7 +227,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2F2013_Meeting:_Keynote_Announcement"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2F2013_Meeting%3A_Keynote_Announcement"
   rel="smw-browse">Browse properties</a></span>
 
 

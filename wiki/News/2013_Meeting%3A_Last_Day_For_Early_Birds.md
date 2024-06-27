@@ -94,7 +94,7 @@ help desk</a>.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/2013_Meeting:_Last_Day_For_Early_Birds&oldid=23291>"
+"<http://gmod.org/mediawiki/index.php?title=News/2013_Meeting%3A_Last_Day_For_Early_Birds&oldid=23291>"
 
 </div>
 
@@ -137,7 +137,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/2013_Meeting:_Last_Day_For_Early_Birds&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/2013_Meeting%3A_Last_Day_For_Early_Birds&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -240,7 +240,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2F2013_Meeting:_Last_Day_For_Early_Birds"
+  href="../Special:Browse/News-2F2013_Meeting%3A_Last_Day_For_Early_Birds"
   rel="smw-browse">Browse properties</a></span>
 
 

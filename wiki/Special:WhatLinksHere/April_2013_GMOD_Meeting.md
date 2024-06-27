@@ -90,7 +90,7 @@ View (previous 50 \| next 50)
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FLast+Chance+To+Be+Surveyed "Special:WhatLinksHere"))</span>
 - [News/2013 Meeting: Last Day For Early
-  Birds](/wiki/News/2013_Meeting:_Last_Day_For_Early_Birds "News/2013 Meeting: Last Day For Early Birds")
+  Birds](/wiki/News/2013_Meeting%3A_Last_Day_For_Early_Birds "News/2013 Meeting: Last Day For Early Birds")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2F2013+Meeting%3A+Last+Day+For+Early+Birds "Special:WhatLinksHere"))</span>
 - [File:GMOD2013

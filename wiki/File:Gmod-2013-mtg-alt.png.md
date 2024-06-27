@@ -103,7 +103,7 @@ The following 4 pages link to this file:
 - [News/2013 GMOD Community
   Meeting](News/2013_GMOD_Community_Meeting "News/2013 GMOD Community Meeting")
 - [News/2013 Meeting: Last Day For Early
-  Birds](News/2013_Meeting:_Last_Day_For_Early_Birds "News/2013 Meeting: Last Day For Early Birds")
+  Birds](News/2013_Meeting%3A_Last_Day_For_Early_Birds "News/2013 Meeting: Last Day For Early Birds")
 - [News/2013 Meeting Registration
   Open](News/2013_Meeting_Registration_Open "News/2013 Meeting Registration Open")
 

@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/2013 Meeting: Keynote Announcement](/wiki/News/2013_Meeting:_Keynote_Announcement "News/2013 Meeting: Keynote Announcement") |  |
+| [News/2013 Meeting: Keynote Announcement](/wiki/News/2013_Meeting%3A_Keynote_Announcement "News/2013 Meeting: Keynote Announcement") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2F2013_Meeting:_Keynote_Announcement>"
+"<http://gmod.org/wiki/Special:Browse/News-2F2013_Meeting%3A_Keynote_Announcement>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2F2013_Meeting:_Keynote_Announcement "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2F2013_Meeting%3A_Keynote_Announcement "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2F2013_Meeting:_Keynote_Announcement&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2F2013_Meeting%3A_Keynote_Announcement&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

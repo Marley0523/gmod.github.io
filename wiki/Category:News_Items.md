@@ -104,10 +104,10 @@ Online</a></li>
 <li><a href="News/2013_Meeting_Registration_Open"
 title="News/2013 Meeting Registration Open">News/2013 Meeting
 Registration Open</a></li>
-<li><a href="News/2013_Meeting:_Keynote_Announcement"
+<li><a href="News/2013_Meeting%3A_Keynote_Announcement"
 title="News/2013 Meeting: Keynote Announcement">News/2013 Meeting:
 Keynote Announcement</a></li>
-<li><a href="News/2013_Meeting:_Last_Day_For_Early_Birds"
+<li><a href="News/2013_Meeting%3A_Last_Day_For_Early_Birds"
 title="News/2013 Meeting: Last Day For Early Birds">News/2013 Meeting:
 Last Day For Early Birds</a></li>
 <li><a href="News/2013_Summer_School_Tutorials_Available"

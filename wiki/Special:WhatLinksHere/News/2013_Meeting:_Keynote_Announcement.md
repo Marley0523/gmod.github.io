@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/2013 Meeting: Keynote
-Announcement](/wiki/News/2013_Meeting:_Keynote_Announcement "News/2013 Meeting: Keynote Announcement")
+Announcement](/wiki/News/2013_Meeting%3A_Keynote_Announcement "News/2013 Meeting: Keynote Announcement")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting:_Keynote_Announcement&hidetrans=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting%3A_Keynote_Announcement&hidetrans=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting:_Keynote_Announcement&hidelinks=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting%3A_Keynote_Announcement&hidelinks=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting:_Keynote_Announcement&hideredirs=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting%3A_Keynote_Announcement&hideredirs=1 "Special:WhatLinksHere/News/2013 Meeting: Keynote Announcement")
 redirects
 
 No pages link to **[News/2013 Meeting: Keynote
-Announcement](/wiki/News/2013_Meeting:_Keynote_Announcement "News/2013 Meeting: Keynote Announcement")**.
+Announcement](/wiki/News/2013_Meeting%3A_Keynote_Announcement "News/2013 Meeting: Keynote Announcement")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/2013_Meeting:_Keynote_Announcement>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/2013_Meeting%3A_Keynote_Announcement>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/2013_Meeting:_Keynote_Announcement&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/2013_Meeting%3A_Keynote_Announcement&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting:_Keynote_Announcement&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/2013_Meeting%3A_Keynote_Announcement&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 
