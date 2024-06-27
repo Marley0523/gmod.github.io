@@ -1359,7 +1359,7 @@ View (previous 50 \| next 50)
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBioinformatics+Position+at+SpBase "Special:WhatLinksHere"))</span>
   - [News/Chado in RDF:
-    OpenFlyData](/wiki/News/Chado_in_RDF:_OpenFlyData "News/Chado in RDF: OpenFlyData")
+    OpenFlyData](/wiki/News/Chado_in_RDF%3A_OpenFlyData "News/Chado in RDF: OpenFlyData")
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FChado+in+RDF%3A+OpenFlyData "Special:WhatLinksHere"))</span>
   - [News/Tripal: A Web Front End for

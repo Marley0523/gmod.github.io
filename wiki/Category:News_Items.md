@@ -161,7 +161,7 @@ title="News/August 2009 GMOD Meeting">News/August 2009 GMOD
 Meeting</a></li>
 <li><a href="News/August_2010_Calendar"
 title="News/August 2010 Calendar">News/August 2010 Calendar</a></li>
-<li><a href="News/Beta_Test_CMap:_Win_a_T-Shirt!"
+<li><a href="News/Beta_Test_CMap%3A_Win_a_T-Shirt!"
 title="News/Beta Test CMap: Win a T-Shirt!">News/Beta Test CMap: Win a
 T-Shirt!</a></li>
 <li><a href="News/Bio%3A%3AChado%3A%3ASchema_0.03_Released"
@@ -221,7 +221,7 @@ title="News/Chado 1.23 released">News/Chado 1.23 released</a></li>
 <li><a href="News/Chado_Doc_Reorganization"
 title="News/Chado Doc Reorganization">News/Chado Doc
 Reorganization</a></li>
-<li><a href="News/Chado_in_RDF:_OpenFlyData"
+<li><a href="News/Chado_in_RDF%3A_OpenFlyData"
 title="News/Chado in RDF: OpenFlyData">News/Chado in RDF:
 OpenFlyData</a></li>
 <li><a href="News/Chado_Version_1.2_Released"

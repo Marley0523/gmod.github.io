@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Beta Test CMap: Win a T-Shirt!](/wiki/News/Beta_Test_CMap:_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!") |  |
+| [News/Beta Test CMap: Win a T-Shirt!](/wiki/News/Beta_Test_CMap%3A_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!") |  |
 
 |  |  |
 |----|----|

@@ -105,7 +105,7 @@ The following 3 pages link to this file:
 - [News/2009 GMOD Community
   Survey](News/2009_GMOD_Community_Survey "News/2009 GMOD Community Survey")
 - [News/Beta Test CMap: Win a
-  T-Shirt!](News/Beta_Test_CMap:_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
+  T-Shirt!](News/Beta_Test_CMap%3A_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
 - [News/Get GMOD Gear!](News/Get_GMOD_Gear! "News/Get GMOD Gear!")
 
 </div>

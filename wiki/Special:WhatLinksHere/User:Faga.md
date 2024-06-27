@@ -129,7 +129,7 @@ View (previous 50 \| next 50)
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Template%3AGMODEventsList "Special:WhatLinksHere"))</span>
 - [News/Beta Test CMap: Win a
-  T-Shirt!](/wiki/News/Beta_Test_CMap:_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
+  T-Shirt!](/wiki/News/Beta_Test_CMap%3A_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBeta+Test+CMap%3A+Win+a+T-Shirt%21 "Special:WhatLinksHere"))</span>
 - [News/CMap 1.01

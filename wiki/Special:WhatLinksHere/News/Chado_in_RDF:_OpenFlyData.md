@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/Chado in RDF:
-OpenFlyData](/wiki/News/Chado_in_RDF:_OpenFlyData "News/Chado in RDF: OpenFlyData")
+OpenFlyData](/wiki/News/Chado_in_RDF%3A_OpenFlyData "News/Chado in RDF: OpenFlyData")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF:_OpenFlyData&hidetrans=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF%3A_OpenFlyData&hidetrans=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF:_OpenFlyData&hidelinks=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF%3A_OpenFlyData&hidelinks=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF:_OpenFlyData&hideredirs=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF%3A_OpenFlyData&hideredirs=1 "Special:WhatLinksHere/News/Chado in RDF: OpenFlyData")
 redirects
 
 No pages link to **[News/Chado in RDF:
-OpenFlyData](/wiki/News/Chado_in_RDF:_OpenFlyData "News/Chado in RDF: OpenFlyData")**.
+OpenFlyData](/wiki/News/Chado_in_RDF%3A_OpenFlyData "News/Chado in RDF: OpenFlyData")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/Chado_in_RDF:_OpenFlyData>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/Chado_in_RDF%3A_OpenFlyData>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/Chado_in_RDF:_OpenFlyData&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/Chado_in_RDF%3A_OpenFlyData&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF:_OpenFlyData&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Chado_in_RDF%3A_OpenFlyData&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

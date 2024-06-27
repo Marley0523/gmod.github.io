@@ -102,7 +102,7 @@ Clements](../User:Clements "User:Clements")
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Chado_in_RDF:_OpenFlyData&oldid=22246>"
+"<http://gmod.org/mediawiki/index.php?title=News/Chado_in_RDF%3A_OpenFlyData&oldid=22246>"
 
 </div>
 
@@ -143,7 +143,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Chado_in_RDF:_OpenFlyData&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Chado_in_RDF%3A_OpenFlyData&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -245,7 +245,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FChado_in_RDF:_OpenFlyData"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FChado_in_RDF%3A_OpenFlyData"
   rel="smw-browse">Browse properties</a></span>
 
 

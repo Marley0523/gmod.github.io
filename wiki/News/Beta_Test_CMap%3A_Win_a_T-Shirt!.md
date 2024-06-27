@@ -102,7 +102,7 @@ rel="nofollow">faga.cshl@gmail.com</a>
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Beta_Test_CMap:_Win_a_T-Shirt!&oldid=21913>"
+"<http://gmod.org/mediawiki/index.php?title=News/Beta_Test_CMap%3A_Win_a_T-Shirt!&oldid=21913>"
 
 </div>
 
@@ -143,7 +143,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Beta_Test_CMap:_Win_a_T-Shirt!&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Beta_Test_CMap%3A_Win_a_T-Shirt!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

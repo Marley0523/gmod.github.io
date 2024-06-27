@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/Beta Test CMap: Win a
-T-Shirt!](/wiki/News/Beta_Test_CMap:_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
+T-Shirt!](/wiki/News/Beta_Test_CMap%3A_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap:_Win_a_T-Shirt!&hidetrans=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap%3A_Win_a_T-Shirt!&hidetrans=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap:_Win_a_T-Shirt!&hidelinks=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap%3A_Win_a_T-Shirt!&hidelinks=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap:_Win_a_T-Shirt!&hideredirs=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap%3A_Win_a_T-Shirt!&hideredirs=1 "Special:WhatLinksHere/News/Beta Test CMap: Win a T-Shirt!")
 redirects
 
 No pages link to **[News/Beta Test CMap: Win a
-T-Shirt!](/wiki/News/Beta_Test_CMap:_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")**.
+T-Shirt!](/wiki/News/Beta_Test_CMap%3A_Win_a_T-Shirt! "News/Beta Test CMap: Win a T-Shirt!")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/Beta_Test_CMap:_Win_a_T-Shirt!>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/Beta_Test_CMap%3A_Win_a_T-Shirt!>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/Beta_Test_CMap:_Win_a_T-Shirt!&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/Beta_Test_CMap%3A_Win_a_T-Shirt!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap:_Win_a_T-Shirt!&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Beta_Test_CMap%3A_Win_a_T-Shirt!&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 
