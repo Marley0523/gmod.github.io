@@ -122,7 +122,7 @@ Blankenberg](../User:DanB "User:DanB") ([Galaxy](../Galaxy.1 "Galaxy")),
 ([CMap](../CMap.1 "CMap")), [Mike Caudy](../User:Mcaudy "User:Mcaudy")
 ([GMODviews](../GMODviews "GMODviews")), [Rob
 Buels](../User:RobertBuels "User:RobertBuels")
-([Bio::Chado::Schema](../Bio::Chado::Schema "Bio::Chado::Schema"),
+([Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn")), and [Scott
 Cain](../User:Scott "User:Scott")
 (<a href="../Chado" class="mw-redirect" title="Chado">Chado</a>,

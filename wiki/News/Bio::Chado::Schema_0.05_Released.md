@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/Bio::Chado::Schema 0.05 Released</span>
+# <span dir="auto">News/Bio%3A%3AChado%3A%3ASchema 0.05 Released</span>
 
 <div id="bodyContent">
 
@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 I'd like to announce a new
-[Bio::Chado::Schema](../Bio::Chado::Schema "Bio::Chado::Schema")
+[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
 release, version 0.05. Changes in this release:
 
 - Got POD generation working, now all classes and methods have POD,
@@ -55,9 +55,9 @@ class="external text" rel="nofollow">uploaded</a> it to
 a week ago, so it should have propagated by now to almost all of the
 CPAN mirrors.
 
-See the [Bio::Chado::Schema](../Bio::Chado::Schema "Bio::Chado::Schema")
+See the [Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
 wiki page for more on what
-[Bio::Chado::Schema](../Bio::Chado::Schema "Bio::Chado::Schema") is and
+[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") is and
 what it's for.
 
 [Rob Buels](../User:RobertBuels "User:RobertBuels")  
@@ -76,7 +76,7 @@ what it's for.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Bio::Chado::Schema_0.05_Released&oldid=24350>"
+"<http://gmod.org/mediawiki/index.php?title=News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&oldid=24350>"
 
 </div>
 
@@ -117,7 +117,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Bio::Chado::Schema_0.05_Released&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -219,7 +219,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio::Chado::Schema_0.05_Released"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio%3A%3AChado%3A%3ASchema_0.05_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

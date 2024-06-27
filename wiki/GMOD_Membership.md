@@ -128,7 +128,7 @@ part of GMOD through a nomination and evaluation process.
 
 Software can be nominated by its developers, by GMOD users, or by GMOD
 staff. New components also arise from within the community.
-[Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema"),
+[Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
 [DIYA](DIYA "DIYA"), and [MAKER](MAKER.1 "MAKER") are all recent
 examples of software becoming a part of GMOD.
 

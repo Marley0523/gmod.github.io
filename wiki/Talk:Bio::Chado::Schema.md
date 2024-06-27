@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Talk:Bio::Chado::Schema</span>
+# <span dir="auto">Talk:Bio%3A%3AChado%3A%3ASchema</span>
 
 <div id="bodyContent">
 
@@ -70,7 +70,7 @@ April 2011 (UTC)
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Talk:Bio::Chado::Schema&oldid=17582>"
+"<http://gmod.org/mediawiki/index.php?title=Talk:Bio%3A%3AChado%3A%3ASchema&oldid=17582>"
 
 </div>
 
@@ -102,7 +102,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Bio::Chado::Schema" accesskey="t"
+- <span id="ca-talk"><a href="Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>

@@ -125,7 +125,7 @@ using
 rel="nofollow">Moose</a> and
 <a href="http://search.cpan.org/perldoc?DBIx::Class"
 class="external text" rel="nofollow">DBIx::Class</a> (more precisely
-[Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema") or BCS)
+[Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") or BCS)
 [ORM](Glossary#ORM "Glossary"). This part of development is done in sync
 with dictyBase's major data migration project which includes literature
 and gene ontology annotations. So, the first release of this new version

@@ -396,7 +396,7 @@ View (previous 50 \| next 50)
   - [File:CUGILogoHomePage.png](/wiki/File:CUGILogoHomePage.png "File:CUGILogoHomePage.png")
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=File%3ACUGILogoHomePage.png "Special:WhatLinksHere"))</span>
-  - [Bio::Chado::Schema](/wiki/Bio::Chado::Schema "Bio::Chado::Schema") ‎
+  - [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") ‎
     <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Bio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
   - [GMOD Evo Hackathon](/wiki/GMOD_Evo_Hackathon "GMOD Evo Hackathon") ‎
@@ -530,7 +530,7 @@ View (previous 50 \| next 50)
     2010-3.pdf](/wiki/File:GMOD_GI_poster_2010-3.pdf "File:GMOD GI poster 2010-3.pdf")
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=File%3AGMOD+GI+poster+2010-3.pdf "Special:WhatLinksHere"))</span>
-  - [Template:MailingListsBio::Chado::Schema](/wiki/Template:MailingListsBio::Chado::Schema "Template:MailingListsBio::Chado::Schema")
+  - [Template:MailingListsBio%3A%3AChado%3A%3ASchema](/wiki/Template:MailingListsBio%3A%3AChado%3A%3ASchema "Template:MailingListsBio%3A%3AChado%3A%3ASchema")
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Template%3AMailingListsBio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
   - [Template:ChadoTableDesc](/wiki/Template:ChadoTableDesc "Template:ChadoTableDesc")

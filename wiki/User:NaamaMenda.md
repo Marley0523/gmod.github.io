@@ -46,7 +46,7 @@ rel="nofollow">Sol Genomics Network</a>.
 
 # <span id="Work" class="mw-headline">Work</span>
 
-- [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema")
+- [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
 - <a href="http://solgenomics.net" class="external text"
   rel="nofollow">SGN</a> development of the genes and phenotypes
   database

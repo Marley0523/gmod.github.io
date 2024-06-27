@@ -856,8 +856,8 @@ title="TIGR-Workflow / Ergatis">Ergatis</a></p>
 <p><a href="Modware" title="Modware">Modware</a></p>
 <p><a href="Chado::AutoDBI"
 title="Chado::AutoDBI">Chado::AutoDBI</a></p>
-<p><a href="Bio::Chado::Schema"
-title="Bio::Chado::Schema">Bio::Chado::Schema</a></p>
+<p><a href="Bio%3A%3AChado%3A%3ASchema"
+title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></p>
 <p><br />
 <strong>Tool Integration</strong></p>
 <p><a href="Galaxy.1" title="Galaxy">Galaxy</a></p>

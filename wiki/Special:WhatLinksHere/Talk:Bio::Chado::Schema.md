@@ -16,14 +16,14 @@
 
 
 
-# <span dir="auto">Pages that link to "Talk:Bio::Chado::Schema"</span>
+# <span dir="auto">Pages that link to "Talk:Bio%3A%3AChado%3A%3ASchema"</span>
 
 <div id="bodyContent">
 
 <div id="contentSub">
 
 ←
-[Talk:Bio::Chado::Schema](/wiki/Talk:Bio::Chado::Schema "Talk:Bio::Chado::Schema")
+[Talk:Bio%3A%3AChado%3A%3ASchema](/wiki/Talk:Bio%3A%3AChado%3A%3ASchema "Talk:Bio%3A%3AChado%3A%3ASchema")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio::Chado::Schema&hidetrans=1 "Special:WhatLinksHere/Talk:Bio::Chado::Schema")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema&hidetrans=1 "Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio::Chado::Schema&hidelinks=1 "Special:WhatLinksHere/Talk:Bio::Chado::Schema")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema&hidelinks=1 "Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio::Chado::Schema&hideredirs=1 "Special:WhatLinksHere/Talk:Bio::Chado::Schema")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema&hideredirs=1 "Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema")
 redirects
 
 No pages link to
-**[Talk:Bio::Chado::Schema](/wiki/Talk:Bio::Chado::Schema "Talk:Bio::Chado::Schema")**.
+**[Talk:Bio%3A%3AChado%3A%3ASchema](/wiki/Talk:Bio%3A%3AChado%3A%3ASchema "Talk:Bio%3A%3AChado%3A%3ASchema")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/Talk:Bio::Chado::Schema>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema>"
 
 </div>
 
@@ -89,7 +89,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="/wiki/Talk:Bio::Chado::Schema" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -193,7 +193,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio::Chado::Schema&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/Talk:Bio%3A%3AChado%3A%3ASchema&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

@@ -16,14 +16,14 @@
 
 
 
-# <span dir="auto">Pages that link to "News/Bio::Chado::Schema 0.05 Released"</span>
+# <span dir="auto">Pages that link to "News/Bio%3A%3AChado%3A%3ASchema 0.05 Released"</span>
 
 <div id="bodyContent">
 
 <div id="contentSub">
 
-← [News/Bio::Chado::Schema 0.05
-Released](/wiki/News/Bio::Chado::Schema_0.05_Released "News/Bio::Chado::Schema 0.05 Released")
+← [News/Bio%3A%3AChado%3A%3ASchema 0.05
+Released](/wiki/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released "News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio::Chado::Schema_0.05_Released&hidetrans=1 "Special:WhatLinksHere/News/Bio::Chado::Schema 0.05 Released")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&hidetrans=1 "Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio::Chado::Schema_0.05_Released&hidelinks=1 "Special:WhatLinksHere/News/Bio::Chado::Schema 0.05 Released")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&hidelinks=1 "Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio::Chado::Schema_0.05_Released&hideredirs=1 "Special:WhatLinksHere/News/Bio::Chado::Schema 0.05 Released")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&hideredirs=1 "Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
 redirects
 
-No pages link to **[News/Bio::Chado::Schema 0.05
-Released](/wiki/News/Bio::Chado::Schema_0.05_Released "News/Bio::Chado::Schema 0.05 Released")**.
+No pages link to **[News/Bio%3A%3AChado%3A%3ASchema 0.05
+Released](/wiki/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released "News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/Bio::Chado::Schema_0.05_Released>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/Bio::Chado::Schema_0.05_Released&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio::Chado::Schema_0.05_Released&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

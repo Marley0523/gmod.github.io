@@ -69,7 +69,7 @@ rel="nofollow">rbuels on GitHub</a>
 # <span id="Work" class="mw-headline">Work</span>
 
 - [JBrowse](JBrowse.1 "JBrowse") lead developer
-- [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema") founding
+- [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") founding
   developer
 - <a href="http://solgenomics.net" class="external text"
   rel="nofollow">SGN</a> development processes

@@ -100,7 +100,7 @@ module](../Chado_Natural_Diversity_Module.1 "Chado Natural Diversity Module").
     - implement before paper publishing
     - implement after paper publishing
     - do not implement
-2.  Bio::Chado::Schema update
+2.  Bio%3A%3AChado%3A%3ASchema update
     - can someone do one after the changes have been made? <a
       href="http://gmod.org/mediawiki/index.php?title=User:Maccallr&amp;action=edit&amp;redlink=1"
       class="new" title="User:Maccallr (page does not exist)">Maccallr</a>

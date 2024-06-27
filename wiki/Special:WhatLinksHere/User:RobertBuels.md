@@ -114,7 +114,7 @@ View (previous 50 \| next 50)
   Conversion](/wiki/CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=CVS+to+Subversion+Conversion "Special:WhatLinksHere"))</span>
-- [Bio::Chado::Schema](/wiki/Bio::Chado::Schema "Bio::Chado::Schema") ‎
+- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") ‎
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Bio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
 - [GMOD Evo Hackathon](/wiki/GMOD_Evo_Hackathon "GMOD Evo Hackathon") ‎
@@ -164,16 +164,16 @@ View (previous 50 \| next 50)
   15](/wiki/News/CVS_to_SVN_Conversion:_Sept_15 "News/CVS to SVN Conversion: Sept 15")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Sept+15 "Special:WhatLinksHere"))</span>
-- [News/Bio::Chado::Schema 0.03
-  Released](/wiki/News/Bio::Chado::Schema_0.03_Released "News/Bio::Chado::Schema 0.03 Released")
+- [News/Bio%3A%3AChado%3A%3ASchema 0.03
+  Released](/wiki/News/Bio%3A%3AChado%3A%3ASchema_0.03_Released "News/Bio%3A%3AChado%3A%3ASchema 0.03 Released")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBio%3A%3AChado%3A%3ASchema+0.03+Released "Special:WhatLinksHere"))</span>
 - [News/CVS to SVN Conversion:
   Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Done "Special:WhatLinksHere"))</span>
-- [News/Bio::Chado::Schema 0.05
-  Released](/wiki/News/Bio::Chado::Schema_0.05_Released "News/Bio::Chado::Schema 0.05 Released")
+- [News/Bio%3A%3AChado%3A%3ASchema 0.05
+  Released](/wiki/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released "News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBio%3A%3AChado%3A%3ASchema+0.05+Released "Special:WhatLinksHere"))</span>
 - [News/Google Summer of Code &
@@ -192,7 +192,7 @@ View (previous 50 \| next 50)
   2011](/wiki/News/GMOD_@_PAG_2011 "News/GMOD @ PAG 2011") ‎
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+%40+PAG+2011 "Special:WhatLinksHere"))</span>
-- [Talk:Bio::Chado::Schema](/wiki/Talk:Bio::Chado::Schema "Talk:Bio::Chado::Schema")
+- [Talk:Bio%3A%3AChado%3A%3ASchema](/wiki/Talk:Bio%3A%3AChado%3A%3ASchema "Talk:Bio%3A%3AChado%3A%3ASchema")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Talk%3ABio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
 - [PAG 2012](/wiki/PAG_2012 "PAG 2012") ‎

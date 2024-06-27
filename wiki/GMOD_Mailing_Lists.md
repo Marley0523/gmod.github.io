@@ -221,8 +221,8 @@ class="external text" rel="nofollow">gmod-schema</a></td>
 <td>All issues regarding <a href="Chado" class="mw-redirect"
 title="Chado">Chado</a>, <a href="Chado::AutoDBI"
 title="Chado::AutoDBI">Chado::AutoDBI</a>, and <a
-href="Bio::Chado::Schema"
-title="Bio::Chado::Schema">Bio::Chado::Schema</a></td>
+href="Bio%3A%3AChado%3A%3ASchema"
+title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></td>
 <td><a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
 class="external text" rel="nofollow">Gmane</a>, <a
 href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"

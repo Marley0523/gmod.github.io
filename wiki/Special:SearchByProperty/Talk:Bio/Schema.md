@@ -37,7 +37,7 @@ href="/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1
 class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a>"
 with value "Schema"  
 
-- [Bio::Chado::Schema](/wiki/Bio::Chado::Schema "Bio::Chado::Schema")  <span class="smwbrowse">[+](/wiki/Special:Browse/Bio::Chado::Schema "Special:Browse/Bio::Chado::Schema")</span>
+- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")  <span class="smwbrowse">[+](/wiki/Special:Browse/Bio%3A%3AChado%3A%3ASchema "Special:Browse/Bio%3A%3AChado%3A%3ASchema")</span>
 
  
 

@@ -80,7 +80,7 @@ rel="nofollow">https://github.com/GMOD/mimosa/blob/master/README.md</a>
 
 ### <span id="Integration_With_GMOD_Components" class="mw-headline">Integration With GMOD Components</span>
 
-Mimosa builds on top of NCBI BLAST, BioPerl, Bio::Chado::Schema and can
+Mimosa builds on top of NCBI BLAST, BioPerl, Bio%3A%3AChado%3A%3ASchema and can
 optionally deploy into a standalone SQLite database, or an
 already-existing Chado database.
 

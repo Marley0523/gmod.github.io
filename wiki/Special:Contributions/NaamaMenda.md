@@ -596,18 +596,18 @@ November December</td>
   <a href="/wiki/User:NaamaMenda" class="mw-contributions-title"
   title="User:NaamaMenda">User:NaamaMenda</a> ‎
   <span class="comment">([→](/wiki/User:NaamaMenda#Work "User:NaamaMenda")‎<span dir="auto"><span class="autocomment">Work</span></span>)</span>
-- <a href="/mediawiki/index.php?title=Bio::Chado::Schema&amp;oldid=11190"
-  class="mw-changeslist-date" title="Bio::Chado::Schema">16:09, 5 January
+- <a href="/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&amp;oldid=11190"
+  class="mw-changeslist-date" title="Bio%3A%3AChado%3A%3ASchema">16:09, 5 January
   2010</a>
-  ([diff](/mediawiki/index.php?title=Bio::Chado::Schema&diff=prev&oldid=11190 "Bio::Chado::Schema")
+  ([diff](/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&diff=prev&oldid=11190 "Bio%3A%3AChado%3A%3ASchema")
   \|
-  [hist](/mediawiki/index.php?title=Bio::Chado::Schema&action=history "Bio::Chado::Schema"))
+  [hist](/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&action=history "Bio%3A%3AChado%3A%3ASchema"))
   <span class="mw-changeslist-separator">. .</span>
   <span class="mw-plusminus-pos" dir="ltr"
   title="1,440 bytes after change">(+36)</span>‎
   <span class="mw-changeslist-separator">. .</span>
-  <a href="/wiki/Bio::Chado::Schema" class="mw-contributions-title"
-  title="Bio::Chado::Schema">Bio::Chado::Schema</a> ‎
+  <a href="/wiki/Bio%3A%3AChado%3A%3ASchema" class="mw-contributions-title"
+  title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a> ‎
 - <a href="/mediawiki/index.php?title=User:NaamaMenda&amp;oldid=11189"
   class="mw-changeslist-date" title="User:NaamaMenda">16:09, 5 January
   2010</a> (diff \|
@@ -620,7 +620,7 @@ November December</td>
   title="User:NaamaMenda">User:NaamaMenda</a> ‎
   <span class="comment">(New page: '''Naama Menda''' is a postdoc and a
   curator at \[http://solgenomics.net Sol Genomics Network\]. = Work =
-  \* [Bio::Chado::Schema](/wiki/Bio::Chado::Schema "Bio::Chado::Schema")
+  \* [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
   \* \[http://solgenomics.net SGN\] development of the genes ...)</span>
 
 </div>

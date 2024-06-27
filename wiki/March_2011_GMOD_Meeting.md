@@ -407,7 +407,7 @@ title="DaveEmmert RNAseq Tripal GMODAmericas2011.pdf">Slides</a> |
 |  | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> | [Chris Hemmerich](User:Chemmeri "User:Chemmeri") |  |
 |  | [ISGA](ISGA "ISGA") | [Chris Hemmerich](User:Chemmeri "User:Chemmeri") |  |
 |  | Coffee break |  |  |
-|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema") | Siddhartha Basu | <a href="../mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
+|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") | Siddhartha Basu | <a href="../mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
 title="March2011Modware.ppt">PPT</a>, <a href="http://slidesha.re/i3WYZ1" class="external text"
 rel="nofollow">Slideshare</a> |
 |  | Developing genome sequencing for identification, detection, and control of *Bactrocera dorsalis (Hendel)* and other Tephritid pests | Tom Walk | <a href="../mediawiki/images/4/44/March20111TomWalk.pptx"

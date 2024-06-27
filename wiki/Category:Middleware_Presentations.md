@@ -50,7 +50,7 @@ The following 4 pages are in this category, out of 4 total.
 
 ### B
 
-- [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema")
+- [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
 
 ### G
 

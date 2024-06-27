@@ -142,7 +142,7 @@ View (previous 50 \| next 50)
 - [File:March2011Modware.ppt](/wiki/File:March2011Modware.ppt "File:March2011Modware.ppt")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=File%3AMarch2011Modware.ppt "Special:WhatLinksHere"))</span>
-- [Talk:Bio::Chado::Schema](/wiki/Talk:Bio::Chado::Schema "Talk:Bio::Chado::Schema")
+- [Talk:Bio%3A%3AChado%3A%3ASchema](/wiki/Talk:Bio%3A%3AChado%3A%3ASchema "Talk:Bio%3A%3AChado%3A%3ASchema")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Talk%3ABio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
 - [Template:GMODComponentPics](/wiki/Template:GMODComponentPics "Template:GMODComponentPics")

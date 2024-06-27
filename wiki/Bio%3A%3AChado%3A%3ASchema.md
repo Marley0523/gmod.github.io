@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Bio::Chado::Schema</span>
+# <span dir="auto">Bio%3A%3AChado%3A%3ASchema</span>
 
 <div id="bodyContent">
 
@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-Bio::Chado::Schema is a standard
+Bio%3A%3AChado%3A%3ASchema is a standard
 <a href="http://search.cpan.org/perldoc?DBIx::Class"
 class="external text" rel="nofollow">DBIx::Class</a> layer for Chado, in
 Perl. DBIx::Class is an object-relational mapping system similar to
@@ -48,7 +48,7 @@ Hibernate.
 **If you use Chado and Perl, please consider contributing to the
 project. See the Development section below.**
 
-Bio::Chado::Schema is a standard set of Perl modules that should work
+Bio%3A%3AChado%3A%3ASchema is a standard set of Perl modules that should work
 with any database supported by DBIx::Class. So far, it has been used
 successfully with Chado schemas running on both PostgreSQL and Oracle.
 Please try it out and report back to the mailing list!
@@ -78,7 +78,7 @@ Please try it out and report back to the mailing list!
 
 ## <span id="Development" class="mw-headline">Development</span>
 
-Development of Bio::Chado::Schema uses `git`, hosted on GitHub:
+Development of Bio%3A%3AChado%3A%3ASchema uses `git`, hosted on GitHub:
 <a href="http://github.com/solgenomics/bio-chado-schema"
 class="external free"
 rel="nofollow">http://github.com/solgenomics/bio-chado-schema</a>
@@ -110,14 +110,14 @@ rel="nofollow">http://search.cpan.org/dist/Bio-Chado-Schema</a>
 
 ## <span id="Download" class="mw-headline">Download</span>
 
-Releases of Bio::Chado::Schema are available on CPAN:
+Releases of Bio%3A%3AChado%3A%3ASchema are available on CPAN:
 <a href="http://search.cpan.org/dist/Bio-Chado-Schema"
 class="external free"
 rel="nofollow">http://search.cpan.org/dist/Bio-Chado-Schema</a>
 
 Use your preferred CPAN client to install it:
 
-      cpan Bio::Chado::Schema
+      cpan Bio%3A%3AChado%3A%3ASchema
 
 is often sufficient.
 
@@ -126,8 +126,8 @@ is often sufficient.
 |  |  |  |  |
 |----|----|----|----|
 |  | Mailing List Link | Description | Archive(s) |
-| **Bio::Chado::Schema** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
-class="external text" rel="nofollow">gmod-schema</a> | Use the <a href="Chado" class="mw-redirect" title="Chado">Chado</a> list (gmod-schema) for all **Bio::Chado::Schema** questions. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
+| **Bio%3A%3AChado%3A%3ASchema** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
+class="external text" rel="nofollow">gmod-schema</a> | Use the <a href="Chado" class="mw-redirect" title="Chado">Chado</a> list (gmod-schema) for all **Bio%3A%3AChado%3A%3ASchema** questions. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
 class="external text" rel="nofollow">Gmane</a>, <a href="http://old.nabble.com/gmod-schema-f3506.html"
 class="external text" rel="nofollow">Nabble (old)</a>, <a href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"
 class="external text" rel="nofollow">Nabble (new, 2010/05+)</a>, <a
@@ -139,7 +139,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Bio::Chado::Schema&oldid=17580>"
+"<http://gmod.org/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&oldid=17580>"
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Bio::Chado::Schema" accesskey="t"
+- <span id="ca-talk"><a href="Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -302,7 +302,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Bio::Chado::Schema" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special:Browse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
   properties</a></span>
 
 

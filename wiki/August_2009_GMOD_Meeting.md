@@ -955,7 +955,7 @@ rel="nofollow">Bio-Chado-Schema</a> project has been set up by [Robert
 Buels](User:RobertBuels "User:RobertBuels"), with source control at
 <a href="http://github.com/rbuels/dbic_chado/" class="external text"
 rel="nofollow">GitHub</a>, and releases available on
-<a href="http://search.cpan.org/perldoc?Bio::Chado::Schema"
+<a href="http://search.cpan.org/perldoc?Bio%3A%3AChado%3A%3ASchema"
 class="external text" rel="nofollow">CPAN</a>. This contains DBIx::Class
 modules for every Chado table that should work with all database
 platforms that are supported by Chado. The project uses automated tools

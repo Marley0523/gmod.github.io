@@ -85,8 +85,8 @@ title="August 2009 GMOD Meeting">August 2009 GMOD Meeting</a></li>
 </ul>
 <h3 id="b">B</h3>
 <ul>
-<li><a href="Bio::Chado::Schema"
-title="Bio::Chado::Schema">Bio::Chado::Schema</a></li>
+<li><a href="Bio%3A%3AChado%3A%3ASchema"
+title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>

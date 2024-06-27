@@ -242,19 +242,19 @@ November December</td>
   title="Satellite Meetings - GMOD Americas 2011">Satellite Meetings -
   GMOD Americas 2011</a> ‎
   <span class="comment">([→](/wiki/Satellite_Meetings_-_GMOD_Americas_2011#Topics "Satellite Meetings - GMOD Americas 2011")‎<span dir="auto"><span class="autocomment">Topics</span></span>)</span>
-- <a href="/mediawiki/index.php?title=Bio::Chado::Schema&amp;oldid=16422"
-  class="mw-changeslist-date" title="Bio::Chado::Schema">16:32, 5 January
+- <a href="/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&amp;oldid=16422"
+  class="mw-changeslist-date" title="Bio%3A%3AChado%3A%3ASchema">16:32, 5 January
   2011</a>
-  ([diff](/mediawiki/index.php?title=Bio::Chado::Schema&diff=prev&oldid=16422 "Bio::Chado::Schema")
+  ([diff](/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&diff=prev&oldid=16422 "Bio%3A%3AChado%3A%3ASchema")
   \|
-  [hist](/mediawiki/index.php?title=Bio::Chado::Schema&action=history "Bio::Chado::Schema"))
+  [hist](/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&action=history "Bio%3A%3AChado%3A%3ASchema"))
   <span class="mw-changeslist-separator">. .</span>
   <span class="mw-plusminus-pos" dir="ltr"
   title="1,679 bytes after change">(+12)</span>‎
   <span class="mw-changeslist-separator">. .</span>
-  <a href="/wiki/Bio::Chado::Schema" class="mw-contributions-title"
-  title="Bio::Chado::Schema">Bio::Chado::Schema</a> ‎
-  <span class="comment">([→](/wiki/Bio::Chado::Schema#Development "Bio::Chado::Schema")‎<span dir="auto"><span class="autocomment">Development</span></span>)</span>
+  <a href="/wiki/Bio%3A%3AChado%3A%3ASchema" class="mw-contributions-title"
+  title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a> ‎
+  <span class="comment">([→](/wiki/Bio%3A%3AChado%3A%3ASchema#Development "Bio%3A%3AChado%3A%3ASchema")‎<span dir="auto"><span class="autocomment">Development</span></span>)</span>
 
 </div>
 

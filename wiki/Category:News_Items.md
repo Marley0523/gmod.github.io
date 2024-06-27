@@ -164,11 +164,11 @@ title="News/August 2010 Calendar">News/August 2010 Calendar</a></li>
 <li><a href="News/Beta_Test_CMap:_Win_a_T-Shirt!"
 title="News/Beta Test CMap: Win a T-Shirt!">News/Beta Test CMap: Win a
 T-Shirt!</a></li>
-<li><a href="News/Bio::Chado::Schema_0.03_Released"
-title="News/Bio::Chado::Schema 0.03 Released">News/Bio::Chado::Schema
+<li><a href="News/Bio%3A%3AChado%3A%3ASchema_0.03_Released"
+title="News/Bio%3A%3AChado%3A%3ASchema 0.03 Released">News/Bio%3A%3AChado%3A%3ASchema
 0.03 Released</a></li>
-<li><a href="News/Bio::Chado::Schema_0.05_Released"
-title="News/Bio::Chado::Schema 0.05 Released">News/Bio::Chado::Schema
+<li><a href="News/Bio%3A%3AChado%3A%3ASchema_0.05_Released"
+title="News/Bio%3A%3AChado%3A%3ASchema 0.05 Released">News/Bio%3A%3AChado%3A%3ASchema
 0.05 Released</a></li>
 <li><a href="News/Biocuration_2010"
 title="News/Biocuration 2010">News/Biocuration 2010</a></li>

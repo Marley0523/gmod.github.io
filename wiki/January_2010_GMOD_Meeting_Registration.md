@@ -188,7 +188,7 @@ class="internal" title="Jan2010RubyOnRailsAndChado.ppt">PPT</a>, <a href="../med
 class="internal" title="Jan2010RubyOnRailsAndChado.pdf">PDF</a> |
 | 3:15 | **<a href="http://www.cafepress.com/GenericMOD.313463336"
 class="external text" rel="nofollow">Coffee</a> Break** |  |  |
-| 3:30 | Using and developing [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema"), integrating it with other DBIx::Class-based code | [Robert Buels](User:RobertBuels "User:RobertBuels") | <a
+| 3:30 | Using and developing [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"), integrating it with other DBIx::Class-based code | [Robert Buels](User:RobertBuels "User:RobertBuels") | <a
 href="http://search.cpan.org/src/RBUELS/Bio-Chado-Schema-0.05500/doc/slides/intro/slides/start.html"
 class="external text" rel="nofollow">HTML</a> |
 | 4:00 | Using <a href="http://drupal.org" class="external text"
@@ -451,7 +451,7 @@ please add it below.
     <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
   - GMOD Report : a Java based middleware for Chado.
 - Using and developing
-  [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema"),
+  [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
   integrating it with other
   <a href="http://search.cpan.org/dist/DBIx-Class" class="external text"
   rel="nofollow">DBIx::Class</a>-based code -- [Robert
@@ -572,12 +572,12 @@ were the most useful or interesting?**
 - REST Hackathon, Strategies SDK, Open Mic session, Chado on Rails, \*
   JBrowse, NoSQL
 - StrategiesWDK: intro to a powerful MOD-compatible search UI, Chado on
-  Rails, Using and developing Bio::Chado::Schema, integrating it with
+  Rails, Using and developing Bio%3A%3AChado%3A%3ASchema, integrating it with
   other DBIx::Class-based code, The Neuroscience Information Framework:
   Establishing a practical semantic framework for neuroscience, JBrowse
 - StrategiesWDK: intro to a powerful MOD-compatible search UI
-- Rob Buell's Bio::Chado::Schema
-- The NIF keynote presentation, Bio::Chado::Schema, StrategiesWDK,
+- Rob Buell's Bio%3A%3AChado%3A%3ASchema
+- The NIF keynote presentation, Bio%3A%3AChado%3A%3ASchema, StrategiesWDK,
   Status updates/help desk"
 - gnpAnnot, Ergatis pipeline, StrategiesWDK
 - Steve Fischer's query trees demo was intriuging - it's a great way for
@@ -596,7 +596,7 @@ were the most useful or interesting?**
 - O'Conner (NOSQL), Caudy (Drupal), Martone (NIF), Skinner (JBrowse), in
   general talks that describe GMOD tools briefly, to orient us to what
   they do"
-- Using and developing Bio::Chado::Schema, GnpAnnot projects, Chado on
+- Using and developing Bio%3A%3AChado%3A%3ASchema, GnpAnnot projects, Chado on
   Rails
 - JBrowse, bioperl & DBIx, tripal, show and tell
 - Representation of next generation sequences in GBrowse.

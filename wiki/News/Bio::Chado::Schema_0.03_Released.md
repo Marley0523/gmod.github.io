@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/Bio::Chado::Schema 0.03 Released</span>
+# <span dir="auto">News/Bio%3A%3AChado%3A%3ASchema 0.03 Released</span>
 
 <div id="bodyContent">
 
@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 The first official release of
-[Bio::Chado::Schema](../Bio::Chado::Schema "Bio::Chado::Schema") is now
+[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") is now
 on the <a href="http://search.cpan.org/~rbuels/Bio-Chado-Schema/"
 class="external text" rel="nofollow">CPAN</a>. This project establishes
 a standard set of base modules for building Chado middleware in Perl.
@@ -63,7 +63,7 @@ class="external text" rel="nofollow">GMOD Schema mailing list</a>.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Bio::Chado::Schema_0.03_Released&oldid=24349>"
+"<http://gmod.org/mediawiki/index.php?title=News/Bio%3A%3AChado%3A%3ASchema_0.03_Released&oldid=24349>"
 
 </div>
 
@@ -104,7 +104,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Bio::Chado::Schema_0.03_Released&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Bio%3A%3AChado%3A%3ASchema_0.03_Released&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio::Chado::Schema_0.03_Released"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

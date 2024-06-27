@@ -65,7 +65,7 @@ View (previous 50 \| next 50)
 - [Gmod load cvterms](/wiki/Gmod_load_cvterms "Gmod load cvterms") ‎
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Gmod+load+cvterms "Special:WhatLinksHere"))</span>
-- [Bio::Chado::Schema](/wiki/Bio::Chado::Schema "Bio::Chado::Schema") ‎
+- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") ‎
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Bio%3A%3AChado%3A%3ASchema "Special:WhatLinksHere"))</span>
 - [Chado Natural Diversity Module Working

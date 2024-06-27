@@ -407,9 +407,9 @@ Bio::Graphics</td>
 <td>Needed for loading ontologies into Chado</td>
 </tr>
 <tr class="odd">
-<td>Bio::Chado::Schema</td>
+<td>Bio%3A%3AChado%3A%3ASchema</td>
 <td><code>sudo cpan; </code>
-<p>cpan&gt; install Bio::Chado::Schema</p></td>
+<p>cpan&gt; install Bio%3A%3AChado%3A%3ASchema</p></td>
 <td>Needed for DBIx::Class access to Chado; used for publication
 loader</td>
 </tr>

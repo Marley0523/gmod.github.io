@@ -131,8 +131,8 @@ View (previous 50 \| next 50)
   Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Done "Special:WhatLinksHere"))</span>
-- [News/Bio::Chado::Schema 0.05
-  Released](/wiki/News/Bio::Chado::Schema_0.05_Released "News/Bio::Chado::Schema 0.05 Released")
+- [News/Bio%3A%3AChado%3A%3ASchema 0.05
+  Released](/wiki/News/Bio%3A%3AChado%3A%3ASchema_0.05_Released "News/Bio%3A%3AChado%3A%3ASchema 0.05 Released")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBio%3A%3AChado%3A%3ASchema+0.05+Released "Special:WhatLinksHere"))</span>
 - [GBrowse Tutorial

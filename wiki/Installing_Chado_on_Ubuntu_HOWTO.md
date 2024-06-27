@@ -97,7 +97,7 @@ problems with DBD::Pg pop up telling you that no password was supplied.
 
 Installing prereqs with cpan shell:
 
-- install Bio::Chado::Schema
+- install Bio%3A%3AChado%3A%3ASchema
 - install GO::Parser (go-perl)
 - install DBIx::DBSchema \# needed by DBIx::DBStag
 

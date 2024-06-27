@@ -61,7 +61,7 @@ your system may be compromised.
 <div id="mw-imagepage-content" class="mw-content-ltr" lang="en"
 dir="ltr">
 
-## <span id="Modware:_Its_latest_development_using_Moose_and_Bio::Chado::Schema" class="mw-headline">[Modware](Modware "Modware"): Its latest development using Moose and [Bio::Chado::Schema](Bio::Chado::Schema "Bio::Chado::Schema")</span>
+## <span id="Modware:_Its_latest_development_using_Moose_and_Bio%3A%3AChado%3A%3ASchema" class="mw-headline">[Modware](Modware "Modware"): Its latest development using Moose and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")</span>
 
 Presentation by Siddhartha Basu at [March 2011 GMOD
 Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting").
