@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GMOD Nomination: ISGA](/wiki/News/GMOD_Nomination:_ISGA "News/GMOD Nomination: ISGA") |  |
+| [News/GMOD Nomination: ISGA](/wiki/News/GMOD_Nomination%3A_ISGA "News/GMOD Nomination: ISGA") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_Nomination:_ISGA>"
+"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_Nomination%3A_ISGA>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FGMOD_Nomination:_ISGA "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FGMOD_Nomination%3A_ISGA "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_Nomination:_ISGA&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_Nomination%3A_ISGA&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

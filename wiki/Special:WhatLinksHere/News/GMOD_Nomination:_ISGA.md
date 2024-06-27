@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/GMOD Nomination:
-ISGA](/wiki/News/GMOD_Nomination:_ISGA "News/GMOD Nomination: ISGA")
+ISGA](/wiki/News/GMOD_Nomination%3A_ISGA "News/GMOD Nomination: ISGA")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination:_ISGA&hidetrans=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination%3A_ISGA&hidetrans=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination:_ISGA&hidelinks=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination%3A_ISGA&hidelinks=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination:_ISGA&hideredirs=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination%3A_ISGA&hideredirs=1 "Special:WhatLinksHere/News/GMOD Nomination: ISGA")
 redirects
 
 No pages link to **[News/GMOD Nomination:
-ISGA](/wiki/News/GMOD_Nomination:_ISGA "News/GMOD Nomination: ISGA")**.
+ISGA](/wiki/News/GMOD_Nomination%3A_ISGA "News/GMOD Nomination: ISGA")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Nomination:_ISGA>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Nomination%3A_ISGA>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/GMOD_Nomination:_ISGA&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/GMOD_Nomination%3A_ISGA&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination:_ISGA&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Nomination%3A_ISGA&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

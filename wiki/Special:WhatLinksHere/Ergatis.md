@@ -185,7 +185,7 @@ View (previous 50 \| next 50)
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FISGA+Pipeline+Service "Special:WhatLinksHere"))</span>
 - [News/GMOD Nomination:
-  ISGA](/wiki/News/GMOD_Nomination:_ISGA "News/GMOD Nomination: ISGA") ‎
+  ISGA](/wiki/News/GMOD_Nomination%3A_ISGA "News/GMOD Nomination: ISGA") ‎
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+Nomination%3A+ISGA "Special:WhatLinksHere"))</span>
 - [News/ISGA Joins

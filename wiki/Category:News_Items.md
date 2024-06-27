@@ -463,7 +463,7 @@ Registration Open</a></li>
 <li><a href="News/GMOD_Meeting%3A_Sept._13-14"
 title="News/GMOD Meeting: Sept. 13-14">News/GMOD Meeting: Sept.
 13-14</a></li>
-<li><a href="News/GMOD_Nomination:_ISGA"
+<li><a href="News/GMOD_Nomination%3A_ISGA"
 title="News/GMOD Nomination: ISGA">News/GMOD Nomination: ISGA</a></li>
 <li><a href="News/GMOD_Paper_Cuts,_Dec_6th,_2013"
 title="News/GMOD Paper Cuts, Dec 6th, 2013">News/GMOD Paper Cuts, Dec

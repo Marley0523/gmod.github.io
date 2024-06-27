@@ -97,7 +97,7 @@ Thanks,
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Nomination:_ISGA&oldid=22259>"
+"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Nomination%3A_ISGA&oldid=22259>"
 
 </div>
 
@@ -138,7 +138,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Nomination:_ISGA&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Nomination%3A_ISGA&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -240,7 +240,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Nomination:_ISGA"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Nomination%3A_ISGA"
   rel="smw-browse">Browse properties</a></span>
 
 

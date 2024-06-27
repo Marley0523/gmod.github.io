@@ -107,7 +107,7 @@ The following 4 pages link to this file:
 
 - [ISGA](ISGA "ISGA")
 - [News/GMOD Nomination:
-  ISGA](News/GMOD_Nomination:_ISGA "News/GMOD Nomination: ISGA")
+  ISGA](News/GMOD_Nomination%3A_ISGA "News/GMOD Nomination: ISGA")
 - [News/ISGA Joins GMOD](News/ISGA_Joins_GMOD "News/ISGA Joins GMOD")
 - [News/ISGA Pipeline
   Service](News/ISGA_Pipeline_Service "News/ISGA Pipeline Service")
