@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/GMOD Spring Training: Apply
-Now](/wiki/News/GMOD_Spring_Training:_Apply_Now "News/GMOD Spring Training: Apply Now")
+Now](/wiki/News/GMOD_Spring_Training%3A_Apply_Now "News/GMOD Spring Training: Apply Now")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training:_Apply_Now&hidetrans=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training%3A_Apply_Now&hidetrans=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training:_Apply_Now&hidelinks=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training%3A_Apply_Now&hidelinks=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training:_Apply_Now&hideredirs=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training%3A_Apply_Now&hideredirs=1 "Special:WhatLinksHere/News/GMOD Spring Training: Apply Now")
 redirects
 
 No pages link to **[News/GMOD Spring Training: Apply
-Now](/wiki/News/GMOD_Spring_Training:_Apply_Now "News/GMOD Spring Training: Apply Now")**.
+Now](/wiki/News/GMOD_Spring_Training%3A_Apply_Now "News/GMOD Spring Training: Apply Now")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Spring_Training:_Apply_Now>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Spring_Training%3A_Apply_Now>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/GMOD_Spring_Training:_Apply_Now&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/GMOD_Spring_Training%3A_Apply_Now&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training:_Apply_Now&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Spring_Training%3A_Apply_Now&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

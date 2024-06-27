@@ -142,7 +142,7 @@ The following 12 pages link to this file:
 - [News/GMOD Americas 2011
   Report](News/GMOD_Americas_2011_Report "News/GMOD Americas 2011 Report")
 - [News/GMOD Spring Training: Apply
-  Now](News/GMOD_Spring_Training:_Apply_Now "News/GMOD Spring Training: Apply Now")
+  Now](News/GMOD_Spring_Training%3A_Apply_Now "News/GMOD Spring Training: Apply Now")
 - [News/March 2011 GMOD
   Meeting](News/March_2011_GMOD_Meeting "News/March 2011 GMOD Meeting")
 - [September 2010 GMOD

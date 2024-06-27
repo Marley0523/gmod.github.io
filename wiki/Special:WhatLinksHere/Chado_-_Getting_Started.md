@@ -1435,7 +1435,7 @@ View (previous 50 \| next 50)
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FVirtual+Issue+in+Journal+Database "Special:WhatLinksHere"))</span>
   - [News/GMOD Spring Training: Apply
-    Now](/wiki/News/GMOD_Spring_Training:_Apply_Now "News/GMOD Spring Training: Apply Now")
+    Now](/wiki/News/GMOD_Spring_Training%3A_Apply_Now "News/GMOD Spring Training: Apply Now")
     ‎ <span class="mw-whatlinkshere-tools">([←
     links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+Spring+Training%3A+Apply+Now "Special:WhatLinksHere"))</span>
   - [News/Sr DB Programmer @

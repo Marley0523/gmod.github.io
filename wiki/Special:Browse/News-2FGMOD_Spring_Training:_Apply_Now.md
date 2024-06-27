@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GMOD Spring Training: Apply Now](/wiki/News/GMOD_Spring_Training:_Apply_Now "News/GMOD Spring Training: Apply Now") |  |
+| [News/GMOD Spring Training: Apply Now](/wiki/News/GMOD_Spring_Training%3A_Apply_Now "News/GMOD Spring Training: Apply Now") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_Spring_Training:_Apply_Now>"
+"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_Spring_Training%3A_Apply_Now>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FGMOD_Spring_Training:_Apply_Now "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FGMOD_Spring_Training%3A_Apply_Now "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_Spring_Training:_Apply_Now&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_Spring_Training%3A_Apply_Now&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

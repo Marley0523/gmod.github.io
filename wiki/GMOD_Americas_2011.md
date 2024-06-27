@@ -464,7 +464,7 @@ Help spread the word about GMOD Americas 2011 events by posting and
 distributing [this
 flier](File:GMODAmericas2011Flier.pdf "File:GMODAmericas2011Flier.pdf"),
 or the [event
-announcements](GMOD_News#GMOD_Spring_Training:_Apply_Now "GMOD News") to
+announcements](GMOD_News#GMOD_Spring_Training%3A_Apply_Now "GMOD News") to
 your communities, mailing lists, and organizations.
 
 There are many organizations out there that are struggling to cope with

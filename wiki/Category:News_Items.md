@@ -489,7 +489,7 @@ Page</a></li>
 <li><a href="News/GMOD_Roadshow_in_San_Diego"
 title="News/GMOD Roadshow in San Diego">News/GMOD Roadshow in San
 Diego</a></li>
-<li><a href="News/GMOD_Spring_Training:_Apply_Now"
+<li><a href="News/GMOD_Spring_Training%3A_Apply_Now"
 title="News/GMOD Spring Training: Apply Now">News/GMOD Spring Training:
 Apply Now</a></li>
 <li><a href="News/GMOD_Summer_School"
