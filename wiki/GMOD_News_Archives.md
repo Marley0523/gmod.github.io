@@ -133,7 +133,7 @@ Registration Open</a></li>
 2</a></li>
 <li><a href="News/Get_the_Full_ImpactStory">Get the Full
 ImpactStory</a></li>
-<li><a href="News/GMOD_2014_San_Diego:_Save_the_Date">GMOD 2014 San
+<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date">GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/Statistical_Genomics_PostDoc_at_PSU">Statistical
 Genomics PostDoc at PSU</a></li>
@@ -3123,7 +3123,7 @@ class="external text" rel="nofollow">ImpactStory</a> website.</p>
 </div>
 <div class="rss">
 <h3 id="gmod-2014-san-diego-save-the-date"><a
-href="News/GMOD_2014_San_Diego:_Save_the_Date">GMOD 2014 San Diego: Save
+href="News/GMOD_2014_San_Diego%3A_Save_the_Date">GMOD 2014 San Diego: Save
 the Date</a></h3>
 <div class="floatleft">
 <a

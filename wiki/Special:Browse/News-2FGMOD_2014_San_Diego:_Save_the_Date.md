@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GMOD 2014 San Diego: Save the Date](/wiki/News/GMOD_2014_San_Diego:_Save_the_Date "News/GMOD 2014 San Diego: Save the Date") |  |
+| [News/GMOD 2014 San Diego: Save the Date](/wiki/News/GMOD_2014_San_Diego%3A_Save_the_Date "News/GMOD 2014 San Diego: Save the Date") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_2014_San_Diego:_Save_the_Date>"
+"<http://gmod.org/wiki/Special:Browse/News-2FGMOD_2014_San_Diego%3A_Save_the_Date>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FGMOD_2014_San_Diego:_Save_the_Date "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FGMOD_2014_San_Diego%3A_Save_the_Date "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_2014_San_Diego:_Save_the_Date&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FGMOD_2014_San_Diego%3A_Save_the_Date&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

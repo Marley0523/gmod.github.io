@@ -111,7 +111,7 @@ View (previous 50 \| next 50)
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=File%3AEricStone.jpg "Special:WhatLinksHere"))</span>
 - [News/GMOD Americas: March
-  2011](/wiki/News/GMOD_Americas:_March_2011 "News/GMOD Americas: March 2011")
+  2011](/wiki/News/GMOD_Americas%3A_March_2011 "News/GMOD Americas: March 2011")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+Americas%3A+March+2011 "Special:WhatLinksHere"))</span>
 - [News/March 2011 GMOD

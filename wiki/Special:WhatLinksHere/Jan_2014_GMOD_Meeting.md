@@ -70,7 +70,7 @@ View (previous 50 \| next 50)
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=Project+Statistics "Special:WhatLinksHere"))</span>
 - [News/GMOD 2014 San Diego: Save the
-  Date](/wiki/News/GMOD_2014_San_Diego:_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
+  Date](/wiki/News/GMOD_2014_San_Diego%3A_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+2014+San+Diego%3A+Save+the+Date "Special:WhatLinksHere"))</span>
 - [News/San Diego 2014 Registration

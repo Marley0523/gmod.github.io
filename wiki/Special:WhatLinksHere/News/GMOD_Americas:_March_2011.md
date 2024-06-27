@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/GMOD Americas: March
-2011](/wiki/News/GMOD_Americas:_March_2011 "News/GMOD Americas: March 2011")
+2011](/wiki/News/GMOD_Americas%3A_March_2011 "News/GMOD Americas: March 2011")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas:_March_2011&hidetrans=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas%3A_March_2011&hidetrans=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas:_March_2011&hidelinks=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas%3A_March_2011&hidelinks=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas:_March_2011&hideredirs=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas%3A_March_2011&hideredirs=1 "Special:WhatLinksHere/News/GMOD Americas: March 2011")
 redirects
 
 No pages link to **[News/GMOD Americas: March
-2011](/wiki/News/GMOD_Americas:_March_2011 "News/GMOD Americas: March 2011")**.
+2011](/wiki/News/GMOD_Americas%3A_March_2011 "News/GMOD Americas: March 2011")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Americas:_March_2011>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Americas%3A_March_2011>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/GMOD_Americas:_March_2011&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/GMOD_Americas%3A_March_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas:_March_2011&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Americas%3A_March_2011&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

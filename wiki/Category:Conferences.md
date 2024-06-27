@@ -82,7 +82,7 @@ Promotion</a></li>
 <ul>
 <li><a href="News/Biocuration_2014"
 title="News/Biocuration 2014">News/Biocuration 2014</a></li>
-<li><a href="News/GMOD_2014_San_Diego:_Save_the_Date"
+<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date"
 title="News/GMOD 2014 San Diego: Save the Date">News/GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/GMOD_at_PAG_XXI"

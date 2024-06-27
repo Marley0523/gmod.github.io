@@ -374,7 +374,7 @@ title="News/gmod (Chado) 1.1 Released">News/gmod (Chado) 1.1
 Released</a></li>
 <li><a href="News/GMOD_1.0_Released"
 title="News/GMOD 1.0 Released">News/GMOD 1.0 Released</a></li>
-<li><a href="News/GMOD_2014_San_Diego:_Save_the_Date"
+<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date"
 title="News/GMOD 2014 San Diego: Save the Date">News/GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/GMOD_@_Arthropod_Genomics_2011"
@@ -397,7 +397,7 @@ title="News/GMOD @ PAG 2011">News/GMOD @ PAG 2011</a></li>
 <li><a href="News/GMOD_Americas_2011_Report"
 title="News/GMOD Americas 2011 Report">News/GMOD Americas 2011
 Report</a></li>
-<li><a href="News/GMOD_Americas:_March_2011"
+<li><a href="News/GMOD_Americas%3A_March_2011"
 title="News/GMOD Americas: March 2011">News/GMOD Americas: March
 2011</a></li>
 <li><a href="News/GMOD_at_Arthropod_Genomics"

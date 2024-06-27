@@ -190,7 +190,7 @@ Keynote Announcement</a></li>
 <li><a href="News/2013_Meeting%3A_Last_Day_For_Early_Birds"
 title="News/2013 Meeting: Last Day For Early Birds">News/2013 Meeting:
 Last Day For Early Birds</a></li>
-<li><a href="News/GMOD_2014_San_Diego:_Save_the_Date"
+<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date"
 title="News/GMOD 2014 San Diego: Save the Date">News/GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/GSC_15_Meeting" title="News/GSC 15 Meeting">News/GSC

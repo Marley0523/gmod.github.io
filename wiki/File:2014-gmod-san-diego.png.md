@@ -100,7 +100,7 @@ The following 3 pages link to this file:
 - [Jan 2014 GMOD Meeting](Jan_2014_GMOD_Meeting "Jan 2014 GMOD Meeting")
 - [Meetings](Meetings "Meetings")
 - [News/GMOD 2014 San Diego: Save the
-  Date](News/GMOD_2014_San_Diego:_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
+  Date](News/GMOD_2014_San_Diego%3A_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
 
 </div>
 

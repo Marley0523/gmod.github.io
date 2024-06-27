@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/GMOD 2014 San Diego: Save the
-Date](/wiki/News/GMOD_2014_San_Diego:_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
+Date](/wiki/News/GMOD_2014_San_Diego%3A_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego:_Save_the_Date&hidetrans=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego%3A_Save_the_Date&hidetrans=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego:_Save_the_Date&hidelinks=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego%3A_Save_the_Date&hidelinks=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego:_Save_the_Date&hideredirs=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego%3A_Save_the_Date&hideredirs=1 "Special:WhatLinksHere/News/GMOD 2014 San Diego: Save the Date")
 redirects
 
 No pages link to **[News/GMOD 2014 San Diego: Save the
-Date](/wiki/News/GMOD_2014_San_Diego:_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")**.
+Date](/wiki/News/GMOD_2014_San_Diego%3A_Save_the_Date "News/GMOD 2014 San Diego: Save the Date")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_2014_San_Diego:_Save_the_Date>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_2014_San_Diego%3A_Save_the_Date>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/GMOD_2014_San_Diego:_Save_the_Date&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/GMOD_2014_San_Diego%3A_Save_the_Date&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego:_Save_the_Date&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_2014_San_Diego%3A_Save_the_Date&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

@@ -138,7 +138,7 @@ The following 12 pages link to this file:
 - [GMOD Schools](GMOD_Schools "GMOD Schools")
 - [Meetings](Meetings "Meetings")
 - [News/GMOD Americas: March
-  2011](News/GMOD_Americas:_March_2011 "News/GMOD Americas: March 2011")
+  2011](News/GMOD_Americas%3A_March_2011 "News/GMOD Americas: March 2011")
 - [News/GMOD Americas 2011
   Report](News/GMOD_Americas_2011_Report "News/GMOD Americas 2011 Report")
 - [News/GMOD Spring Training: Apply

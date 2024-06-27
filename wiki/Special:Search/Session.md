@@ -445,7 +445,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [News/GMOD Americas: March
-  2011](/wiki/News/GMOD_Americas:_March_2011 "News/GMOD Americas: March 2011")
+  2011](/wiki/News/GMOD_Americas%3A_March_2011 "News/GMOD Americas: March 2011")
 
   </div>
 
