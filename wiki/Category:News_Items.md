@@ -241,10 +241,10 @@ Satellite</a></li>
 <li><a href="News/Comparative_Genomics_Workshop"
 title="News/Comparative Genomics Workshop">News/Comparative Genomics
 Workshop</a></li>
-<li><a href="News/CVS_to_SVN_Conversion:_Done"
+<li><a href="News/CVS_to_SVN_Conversion%3A_Done"
 title="News/CVS to SVN Conversion: Done">News/CVS to SVN Conversion:
 Done</a></li>
-<li><a href="News/CVS_to_SVN_Conversion:_Sept_15"
+<li><a href="News/CVS_to_SVN_Conversion%3A_Sept_15"
 title="News/CVS to SVN Conversion: Sept 15">News/CVS to SVN Conversion:
 Sept 15</a></li>
 </ul></td>

@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/CVS to SVN Conversion:
-Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
+Done](/wiki/News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Done&hidetrans=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Done&hidetrans=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Done&hidelinks=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Done&hidelinks=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Done&hideredirs=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Done&hideredirs=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Done")
 redirects
 
 No pages link to **[News/CVS to SVN Conversion:
-Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")**.
+Done](/wiki/News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Done>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Done>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/CVS_to_SVN_Conversion:_Done&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/CVS_to_SVN_Conversion%3A_Done&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Done&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Done&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

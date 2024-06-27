@@ -161,7 +161,7 @@ View (previous 50 \| next 50)
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=March+2011+GMOD+Meeting "Special:WhatLinksHere"))</span>
 - [News/CVS to SVN Conversion: Sept
-  15](/wiki/News/CVS_to_SVN_Conversion:_Sept_15 "News/CVS to SVN Conversion: Sept 15")
+  15](/wiki/News/CVS_to_SVN_Conversion%3A_Sept_15 "News/CVS to SVN Conversion: Sept 15")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Sept+15 "Special:WhatLinksHere"))</span>
 - [News/Bio%3A%3AChado%3A%3ASchema 0.03
@@ -169,7 +169,7 @@ View (previous 50 \| next 50)
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FBio%3A%3AChado%3A%3ASchema+0.03+Released "Special:WhatLinksHere"))</span>
 - [News/CVS to SVN Conversion:
-  Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
+  Done](/wiki/News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Done "Special:WhatLinksHere"))</span>
 - [News/Bio%3A%3AChado%3A%3ASchema 0.05

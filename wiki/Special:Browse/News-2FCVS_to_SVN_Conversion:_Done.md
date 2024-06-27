@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/CVS to SVN Conversion: Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done") |  |
+| [News/CVS to SVN Conversion: Done](/wiki/News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FCVS_to_SVN_Conversion:_Done>"
+"<http://gmod.org/wiki/Special:Browse/News-2FCVS_to_SVN_Conversion%3A_Done>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FCVS_to_SVN_Conversion:_Done "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FCVS_to_SVN_Conversion%3A_Done "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FCVS_to_SVN_Conversion:_Done&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FCVS_to_SVN_Conversion%3A_Done&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

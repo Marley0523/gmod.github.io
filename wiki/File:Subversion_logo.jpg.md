@@ -98,9 +98,9 @@ The following 3 pages link to this file:
 - [CVS to Subversion
   Conversion](CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 - [News/CVS to SVN Conversion:
-  Done](News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
+  Done](News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done")
 - [News/CVS to SVN Conversion: Sept
-  15](News/CVS_to_SVN_Conversion:_Sept_15 "News/CVS to SVN Conversion: Sept 15")
+  15](News/CVS_to_SVN_Conversion%3A_Sept_15 "News/CVS to SVN Conversion: Sept 15")
 
 </div>
 

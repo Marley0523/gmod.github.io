@@ -126,7 +126,7 @@ View (previous 50 \| next 50)
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=September+2010+GMOD+Meeting "Special:WhatLinksHere"))</span>
 - [News/CVS to SVN Conversion:
-  Done](/wiki/News/CVS_to_SVN_Conversion:_Done "News/CVS to SVN Conversion: Done")
+  Done](/wiki/News/CVS_to_SVN_Conversion%3A_Done "News/CVS to SVN Conversion: Done")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FCVS+to+SVN+Conversion%3A+Done "Special:WhatLinksHere"))</span>
 - [News/Tripal: A Web Front End for

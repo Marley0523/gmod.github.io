@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/CVS to SVN Conversion: Sept
-15](/wiki/News/CVS_to_SVN_Conversion:_Sept_15 "News/CVS to SVN Conversion: Sept 15")
+15](/wiki/News/CVS_to_SVN_Conversion%3A_Sept_15 "News/CVS to SVN Conversion: Sept 15")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Sept_15&hidetrans=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Sept_15&hidetrans=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Sept_15&hidelinks=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Sept_15&hidelinks=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Sept_15&hideredirs=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Sept_15&hideredirs=1 "Special:WhatLinksHere/News/CVS to SVN Conversion: Sept 15")
 redirects
 
 No pages link to **[News/CVS to SVN Conversion: Sept
-15](/wiki/News/CVS_to_SVN_Conversion:_Sept_15 "News/CVS to SVN Conversion: Sept 15")**.
+15](/wiki/News/CVS_to_SVN_Conversion%3A_Sept_15 "News/CVS to SVN Conversion: Sept 15")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Sept_15>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Sept_15>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/CVS_to_SVN_Conversion:_Sept_15&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/CVS_to_SVN_Conversion%3A_Sept_15&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion:_Sept_15&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/CVS_to_SVN_Conversion%3A_Sept_15&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 
