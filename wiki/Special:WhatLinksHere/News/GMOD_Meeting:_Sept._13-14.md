@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [News/GMOD Meeting: Sept.
-13-14](/wiki/News/GMOD_Meeting:_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
+13-14](/wiki/News/GMOD_Meeting%3A_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting:_Sept._13-14&hidetrans=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting%3A_Sept._13-14&hidetrans=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting:_Sept._13-14&hidelinks=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting%3A_Sept._13-14&hidelinks=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting:_Sept._13-14&hideredirs=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting%3A_Sept._13-14&hideredirs=1 "Special:WhatLinksHere/News/GMOD Meeting: Sept. 13-14")
 redirects
 
 No pages link to **[News/GMOD Meeting: Sept.
-13-14](/wiki/News/GMOD_Meeting:_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")**.
+13-14](/wiki/News/GMOD_Meeting%3A_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Meeting:_Sept._13-14>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/News/GMOD_Meeting%3A_Sept._13-14>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:News/GMOD_Meeting:_Sept._13-14&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:News/GMOD_Meeting%3A_Sept._13-14&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting:_Sept._13-14&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/News/GMOD_Meeting%3A_Sept._13-14&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

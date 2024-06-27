@@ -460,7 +460,7 @@ Registration</a></li>
 <li><a href="News/GMOD_Meeting_Registration_Open"
 title="News/GMOD Meeting Registration Open">News/GMOD Meeting
 Registration Open</a></li>
-<li><a href="News/GMOD_Meeting:_Sept._13-14"
+<li><a href="News/GMOD_Meeting%3A_Sept._13-14"
 title="News/GMOD Meeting: Sept. 13-14">News/GMOD Meeting: Sept.
 13-14</a></li>
 <li><a href="News/GMOD_Nomination:_ISGA"

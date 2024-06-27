@@ -113,7 +113,7 @@ View (previous 50 \| next 50)
   <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FJune+2010+Calendar "Special:WhatLinksHere"))</span>
 - [News/GMOD Meeting: Sept.
-  13-14](/wiki/News/GMOD_Meeting:_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
+  13-14](/wiki/News/GMOD_Meeting%3A_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
   ‎ <span class="mw-whatlinkshere-tools">([←
   links](/mediawiki/index.php?title=Special:WhatLinksHere&target=News%2FGMOD+Meeting%3A+Sept.+13-14 "Special:WhatLinksHere"))</span>
 - [News/August 2010

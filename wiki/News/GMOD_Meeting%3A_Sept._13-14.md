@@ -79,7 +79,7 @@ I look forward to seeing you in England this Fall.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Meeting:_Sept._13-14&oldid=22256>"
+"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Meeting%3A_Sept._13-14&oldid=22256>"
 
 </div>
 
@@ -120,7 +120,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Meeting:_Sept._13-14&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Meeting%3A_Sept._13-14&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

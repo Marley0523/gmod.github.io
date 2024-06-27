@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GMOD Meeting: Sept. 13-14](/wiki/News/GMOD_Meeting:_Sept._13-14 "News/GMOD Meeting: Sept. 13-14") |  |
+| [News/GMOD Meeting: Sept. 13-14](/wiki/News/GMOD_Meeting%3A_Sept._13-14 "News/GMOD Meeting: Sept. 13-14") |  |
 
 |  |  |
 |----|----|

@@ -103,7 +103,7 @@ class="new" title="User talk:Clements (page does not exist)">Talk</a> \| [contri
 The following 2 pages link to this file:
 
 - [News/GMOD Meeting: Sept.
-  13-14](News/GMOD_Meeting:_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
+  13-14](News/GMOD_Meeting%3A_Sept._13-14 "News/GMOD Meeting: Sept. 13-14")
 - [Template:CambridgeBoxItem](Template:CambridgeBoxItem "Template:CambridgeBoxItem")
 
 </div>
