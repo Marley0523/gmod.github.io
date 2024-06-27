@@ -172,7 +172,7 @@ title="User:MitchSkinner">User:MitchSkinner</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/Feedback_Wanted:_JBrowse_UI_Redesign"
+<li><a href="News/Feedback_Wanted%3A_JBrowse_UI_Redesign"
 title="News/Feedback Wanted: JBrowse UI Redesign">News/Feedback Wanted:
 JBrowse UI Redesign</a></li>
 <li><a href="News/JBrowse_1.7.0_Released"

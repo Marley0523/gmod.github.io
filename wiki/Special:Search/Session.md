@@ -91,7 +91,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [News/GCC2013: Register!
-  Present!](/wiki/News/GCC2013:_Register!_Present! "News/GCC2013: Register! Present!")
+  Present!](/wiki/News/GCC2013%3A_Register!_Present! "News/GCC2013: Register! Present!")
 
   </div>
 

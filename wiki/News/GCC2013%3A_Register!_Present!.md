@@ -134,7 +134,7 @@ class="external text" rel="nofollow">get the word out</a>!
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GCC2013:_Register!_Present!&oldid=23164>"
+"<http://gmod.org/mediawiki/index.php?title=News/GCC2013%3A_Register!_Present!&oldid=23164>"
 
 </div>
 
@@ -177,7 +177,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GCC2013:_Register!_Present!&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GCC2013%3A_Register!_Present!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -279,7 +279,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGCC2013:_Register!_Present!"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGCC2013%3A_Register!_Present!"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -130,7 +130,7 @@ Hackathon</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/GCC2013:_Register!_Present!"
+<li><a href="News/GCC2013%3A_Register!_Present!"
 title="News/GCC2013: Register! Present!">News/GCC2013: Register!
 Present!</a></li>
 </ul>

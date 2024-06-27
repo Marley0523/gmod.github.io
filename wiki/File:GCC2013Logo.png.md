@@ -102,7 +102,7 @@ class="new" title="User talk:Clements (page does not exist)">Talk</a> \| [contri
 The following 3 pages link to this file:
 
 - [News/GCC2013: Register!
-  Present!](News/GCC2013:_Register!_Present! "News/GCC2013: Register! Present!")
+  Present!](News/GCC2013%3A_Register!_Present! "News/GCC2013: Register! Present!")
 - [News/GCC2013 Early Reg closes 24
   May](News/GCC2013_Early_Reg_closes_24_May "News/GCC2013 Early Reg closes 24 May")
 - [News/GCC2013 Training Day Topics

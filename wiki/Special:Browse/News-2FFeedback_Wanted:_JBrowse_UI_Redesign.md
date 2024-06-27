@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Feedback Wanted: JBrowse UI Redesign](/wiki/News/Feedback_Wanted:_JBrowse_UI_Redesign "News/Feedback Wanted: JBrowse UI Redesign") |  |
+| [News/Feedback Wanted: JBrowse UI Redesign](/wiki/News/Feedback_Wanted%3A_JBrowse_UI_Redesign "News/Feedback Wanted: JBrowse UI Redesign") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FFeedback_Wanted:_JBrowse_UI_Redesign>"
+"<http://gmod.org/wiki/Special:Browse/News-2FFeedback_Wanted%3A_JBrowse_UI_Redesign>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FFeedback_Wanted:_JBrowse_UI_Redesign "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FFeedback_Wanted%3A_JBrowse_UI_Redesign "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FFeedback_Wanted:_JBrowse_UI_Redesign&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FFeedback_Wanted%3A_JBrowse_UI_Redesign&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

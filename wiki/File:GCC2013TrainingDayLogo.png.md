@@ -106,7 +106,7 @@ class="new" title="User talk:Clements (page does not exist)">Talk</a> \| [contri
 The following 2 pages link to this file:
 
 - [News/GCC2013: Register!
-  Present!](News/GCC2013:_Register!_Present! "News/GCC2013: Register! Present!")
+  Present!](News/GCC2013%3A_Register!_Present! "News/GCC2013: Register! Present!")
 - [News/GCC2013 Training Day Topics
   Vote](News/GCC2013_Training_Day_Topics_Vote "News/GCC2013 Training Day Topics Vote")
 

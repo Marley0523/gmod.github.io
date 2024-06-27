@@ -109,7 +109,7 @@ The following 9 pages link to this file:
 - [JBrowse Tutorial 2010](JBrowse_Tutorial_2010 "JBrowse Tutorial 2010")
 - [Main Page](Main_Page "Main Page")
 - [News/Feedback Wanted: JBrowse UI
-  Redesign](News/Feedback_Wanted:_JBrowse_UI_Redesign "News/Feedback Wanted: JBrowse UI Redesign")
+  Redesign](News/Feedback_Wanted%3A_JBrowse_UI_Redesign "News/Feedback Wanted: JBrowse UI Redesign")
 - [Template:GMODComponentPics](Template:GMODComponentPics "Template:GMODComponentPics")
 - [Template:GMOD VM](Template:GMOD_VM "Template:GMOD VM")
 

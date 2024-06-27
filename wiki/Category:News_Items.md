@@ -270,7 +270,7 @@ Wanted</a></li>
 title="News/Ergatis Release v2r16">News/Ergatis Release v2r16</a></li>
 <li><a href="News/Ergatis_Update"
 title="News/Ergatis Update">News/Ergatis Update</a></li>
-<li><a href="News/Feedback_Wanted:_JBrowse_UI_Redesign"
+<li><a href="News/Feedback_Wanted%3A_JBrowse_UI_Redesign"
 title="News/Feedback Wanted: JBrowse UI Redesign">News/Feedback Wanted:
 JBrowse UI Redesign</a></li>
 <li><a href="News/FlyBase_Bioinformatics_Engineer"
@@ -354,7 +354,7 @@ closes 24 May</a></li>
 <li><a href="News/GCC2013_Training_Day_Topics_Vote"
 title="News/GCC2013 Training Day Topics Vote">News/GCC2013 Training Day
 Topics Vote</a></li>
-<li><a href="News/GCC2013:_Register!_Present!"
+<li><a href="News/GCC2013%3A_Register!_Present!"
 title="News/GCC2013: Register! Present!">News/GCC2013: Register!
 Present!</a></li>
 <li><a href="News/GCC2014_Registration_is_Open"
