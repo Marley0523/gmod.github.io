@@ -97,7 +97,7 @@ Caucus ApiDB: User Studies and Impact on Development</a></li>
 href="Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
 title="Face Caucus SGN: Associating Solanaceae loci with phenotype">Face
 Caucus SGN: Associating Solanaceae loci with phenotype</a></li>
-<li><a href="Face_Caucus_UCSC:_User_Interface_Issues"
+<li><a href="Face_Caucus_UCSC%3A_User_Interface_Issues"
 title="Face Caucus UCSC: User Interface Issues">Face Caucus UCSC: User
 Interface Issues</a></li>
 </ul></td>

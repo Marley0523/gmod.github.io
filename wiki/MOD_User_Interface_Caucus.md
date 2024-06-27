@@ -113,7 +113,7 @@ comment' link below.
 - [Face Caucus SGN: Associating Solanaceae loci with
   phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC:_User_Interface_Issues_%26_Challenges_in_a_Many_Organism_Database&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC%3A_User_Interface_Issues_%26_Challenges_in_a_Many_Organism_Database&amp;action=edit&amp;redlink=1"
   class="new"
   title="Face Caucus UCSC: User Interface Issues &amp; Challenges in a Many Organism Database (page does not exist)">Face
   Caucus UCSC: User Interface Issues &amp; Challenges in a Many Organism

@@ -597,7 +597,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Face Caucus UCSC: User Interface
-  Issues](/wiki/Face_Caucus_UCSC:_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
+  Issues](/wiki/Face_Caucus_UCSC%3A_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
 
   </div>
 

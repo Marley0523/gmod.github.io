@@ -23,7 +23,7 @@
 <div id="contentSub">
 
 ← [Face Caucus UCSC: User Interface
-Issues](/wiki/Face_Caucus_UCSC:_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
+Issues](/wiki/Face_Caucus_UCSC%3A_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
 
 </div>
 
@@ -42,22 +42,22 @@ talk Form Form talk Concept Concept talk Filter Filter talk Widget
 Widget talk
 
 Filters
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC:_User_Interface_Issues&hidetrans=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC%3A_User_Interface_Issues&hidetrans=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
 transclusions \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC:_User_Interface_Issues&hidelinks=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC%3A_User_Interface_Issues&hidelinks=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
 links \|
-[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC:_User_Interface_Issues&hideredirs=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
+[Hide](/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC%3A_User_Interface_Issues&hideredirs=1 "Special:WhatLinksHere/Face Caucus UCSC: User Interface Issues")
 redirects
 
 No pages link to **[Face Caucus UCSC: User Interface
-Issues](/wiki/Face_Caucus_UCSC:_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")**.
+Issues](/wiki/Face_Caucus_UCSC%3A_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")**.
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:WhatLinksHere/Face_Caucus_UCSC:_User_Interface_Issues>"
+"<http://gmod.org/wiki/Special:WhatLinksHere/Face_Caucus_UCSC%3A_User_Interface_Issues>"
 
 </div>
 
@@ -90,7 +90,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:Face_Caucus_UCSC:_User_Interface_Issues&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk:Face_Caucus_UCSC%3A_User_Interface_Issues&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -195,7 +195,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC:_User_Interface_Issues&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:WhatLinksHere/Face_Caucus_UCSC%3A_User_Interface_Issues&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

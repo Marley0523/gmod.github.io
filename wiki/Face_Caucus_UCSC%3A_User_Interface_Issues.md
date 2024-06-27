@@ -80,7 +80,7 @@ Kate Rosenbloom, UCSC Genome Bioinformatics
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC:_User_Interface_Issues&oldid=1921>"
+"<http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC%3A_User_Interface_Issues&oldid=1921>"
 
 </div>
 
@@ -122,7 +122,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Face_Caucus_UCSC:_User_Interface_Issues&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:Face_Caucus_UCSC%3A_User_Interface_Issues&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -222,7 +222,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Face_Caucus_UCSC:_User_Interface_Issues"
+- <span id="t-smwbrowselink"><a href="Special:Browse/Face_Caucus_UCSC%3A_User_Interface_Issues"
   rel="smw-browse">Browse properties</a></span>
 
 
