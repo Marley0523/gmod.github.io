@@ -95,7 +95,7 @@ Thanks,
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Summer_School_2012:_Apply_Now&oldid=20682>"
+"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Summer_School_2012%3A_Apply_Now&oldid=20682>"
 
 </div>
 
@@ -136,7 +136,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Summer_School_2012:_Apply_Now&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Summer_School_2012%3A_Apply_Now&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Summer_School_2012:_Apply_Now"
+- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Summer_School_2012%3A_Apply_Now"
   rel="smw-browse">Browse properties</a></span>
 
 

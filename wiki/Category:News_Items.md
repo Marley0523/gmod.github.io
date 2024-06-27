@@ -497,7 +497,7 @@ title="News/GMOD Summer School">News/GMOD Summer School</a></li>
 <li><a href="News/GMOD_Summer_School_-_Americas"
 title="News/GMOD Summer School - Americas">News/GMOD Summer School -
 Americas</a></li>
-<li><a href="News/GMOD_Summer_School_2012:_Apply_Now"
+<li><a href="News/GMOD_Summer_School_2012%3A_Apply_Now"
 title="News/GMOD Summer School 2012: Apply Now">News/GMOD Summer School
 2012: Apply Now</a></li>
 <li><a href="News/GMOD_Summer_School_Update"
