@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Galaxy Events: April 2011](/wiki/News/Galaxy_Events:_April_2011 "News/Galaxy Events: April 2011") |  |
+| [News/Galaxy Events: April 2011](/wiki/News/Galaxy_Events%3A_April_2011 "News/Galaxy Events: April 2011") |  |
 
 |  |  |
 |----|----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:Browse/News-2FGalaxy_Events:_April_2011>"
+"<http://gmod.org/wiki/Special:Browse/News-2FGalaxy_Events%3A_April_2011>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:Browse/News-2FGalaxy_Events:_April_2011 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:Browse/News-2FGalaxy_Events%3A_April_2011 "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:Browse/News-2FGalaxy_Events:_April_2011&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:Browse/News-2FGalaxy_Events%3A_April_2011&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

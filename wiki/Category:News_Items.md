@@ -304,7 +304,7 @@ Conference</a></li>
 <li><a href="News/Galaxy_Development_Workshop_Jan_23"
 title="News/Galaxy Development Workshop Jan 23">News/Galaxy Development
 Workshop Jan 23</a></li>
-<li><a href="News/Galaxy_Events:_April_2011"
+<li><a href="News/Galaxy_Events%3A_April_2011"
 title="News/Galaxy Events: April 2011">News/Galaxy Events: April
 2011</a></li>
 <li><a href="News/Galaxy_Hiring_Postdocs"
