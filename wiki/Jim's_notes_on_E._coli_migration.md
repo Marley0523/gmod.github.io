@@ -180,7 +180,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Jim&#39;s_notes_on_E._coli_migration"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jim&#39;s_notes_on_E._coli_migration"
   rel="smw-browse">Browse properties</a></span>
 
 

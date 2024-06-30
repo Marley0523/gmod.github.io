@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development"
+  href="Special%3ABrowse/Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development"
   rel="smw-browse">Browse properties</a></span>
 
 

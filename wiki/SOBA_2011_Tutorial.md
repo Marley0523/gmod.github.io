@@ -899,7 +899,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SOBA_2011_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_2011_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

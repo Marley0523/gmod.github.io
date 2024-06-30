@@ -239,7 +239,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FDon_Gilbert_Nominated_for_BFA"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDon_Gilbert_Nominated_for_BFA"
   rel="smw-browse">Browse properties</a></span>
 
 

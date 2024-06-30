@@ -241,7 +241,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FXenbase_Hiring_Two_Developers"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FXenbase_Hiring_Two_Developers"
   rel="smw-browse">Browse properties</a></span>
 
 

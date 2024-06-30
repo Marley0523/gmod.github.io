@@ -271,7 +271,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Installing_GBrowse2_in_your_Home_Directory"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Installing_GBrowse2_in_your_Home_Directory"
   rel="smw-browse">Browse properties</a></span>
 
 

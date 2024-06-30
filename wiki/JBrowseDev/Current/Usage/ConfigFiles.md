@@ -193,7 +193,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../../../Special:Browse/JBrowseDev-2FUsing_Configuration_Files_With_JBrowse"
+  href="../../../Special%3ABrowse/JBrowseDev-2FUsing_Configuration_Files_With_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

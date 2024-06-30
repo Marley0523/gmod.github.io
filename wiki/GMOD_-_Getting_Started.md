@@ -223,7 +223,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_-2D_Getting_Started"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_-2D_Getting_Started"
   rel="smw-browse">Browse properties</a></span>
 
 

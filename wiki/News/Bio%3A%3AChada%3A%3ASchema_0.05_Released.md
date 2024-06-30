@@ -219,7 +219,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio%3A%3AChado%3A%3ASchema_0.05_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.05_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

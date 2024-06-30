@@ -424,7 +424,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Reproducing_gbrowse_img_functinality_with_JBrowse"
+  href="Special%3ABrowse/Reproducing_gbrowse_img_functinality_with_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

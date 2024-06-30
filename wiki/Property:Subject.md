@@ -66,12 +66,12 @@ Showing 17 pages using this property.
 <td class="smwpropname"><a
 href="BioMart#_cf37be6ad46064a27af652ecc850193c"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart-23_cf37be6ad46064a27af652ecc850193c"
-title="Special:Browse/BioMart-23 cf37be6ad46064a27af652ecc850193c">+</a></span></td>
+href="Special%3ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c"
+title="Special%3ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c">+</a></span></td>
 <td class="smwprops"><a href="BioMart"
 title="BioMart">BioMart</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/BioMart"
-title="Special:SearchByProperty/Subject/BioMart">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/BioMart"
+title="Special%3ASearchByProperty/Subject/BioMart">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -81,11 +81,11 @@ title="Special:SearchByProperty/Subject/BioMart">+</a></span></td>
 <td class="smwpropname"><a
 href="Canto#_564f9c71bf2847fc3c542a7b9ac7927f"
 title="Canto">Canto</a> <span class="smwbrowse"><a
-href="Special:Browse/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f"
-title="Special:Browse/Canto-23 564f9c71bf2847fc3c542a7b9ac7927f">+</a></span></td>
+href="Special%3ABrowse/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f"
+title="Special%3ABrowse/Canto-23 564f9c71bf2847fc3c542a7b9ac7927f">+</a></span></td>
 <td class="smwprops"><a href="Canto" title="Canto">Canto</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/Canto"
-title="Special:SearchByProperty/Subject/Canto">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/Canto"
+title="Special%3ASearchByProperty/Subject/Canto">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -94,11 +94,11 @@ title="Special:SearchByProperty/Subject/Canto">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA#_2957d43c15df6d72a07738da3e51a062"
 title="DIYA">DIYA</a> <span class="smwbrowse"><a
-href="Special:Browse/DIYA-23_2957d43c15df6d72a07738da3e51a062"
-title="Special:Browse/DIYA-23 2957d43c15df6d72a07738da3e51a062">+</a></span></td>
+href="Special%3ABrowse/DIYA-23_2957d43c15df6d72a07738da3e51a062"
+title="Special%3ABrowse/DIYA-23 2957d43c15df6d72a07738da3e51a062">+</a></span></td>
 <td class="smwprops"><a href="DIYA" title="DIYA">DIYA</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/DIYA"
-title="Special:SearchByProperty/Subject/DIYA">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/DIYA"
+title="Special%3ASearchByProperty/Subject/DIYA">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -108,56 +108,56 @@ title="Special:SearchByProperty/Subject/DIYA">+</a></span></td>
 <td class="smwpropname"><a
 href="InterMine#_35f0a4dfb21d901063f9534114909319"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine-23_35f0a4dfb21d901063f9534114909319"
-title="Special:Browse/InterMine-23 35f0a4dfb21d901063f9534114909319">+</a></span></td>
+href="Special%3ABrowse/InterMine-23_35f0a4dfb21d901063f9534114909319"
+title="Special%3ABrowse/InterMine-23 35f0a4dfb21d901063f9534114909319">+</a></span></td>
 <td class="smwprops"><a href="InterMine"
 title="InterMine">InterMine</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/InterMine"
-title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/InterMine"
+title="Special%3ASearchByProperty/Subject/InterMine">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a
 href="InterMine#_44c0411f669b0bc7ee3599b3e40bf478"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine-23_44c0411f669b0bc7ee3599b3e40bf478"
-title="Special:Browse/InterMine-23 44c0411f669b0bc7ee3599b3e40bf478">+</a></span></td>
+href="Special%3ABrowse/InterMine-23_44c0411f669b0bc7ee3599b3e40bf478"
+title="Special%3ABrowse/InterMine-23 44c0411f669b0bc7ee3599b3e40bf478">+</a></span></td>
 <td class="smwprops"><a href="InterMine"
 title="InterMine">InterMine</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/InterMine"
-title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/InterMine"
+title="Special%3ASearchByProperty/Subject/InterMine">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a
 href="InterMine#_23c1d6f8e2fcb6320697d1877b352a27"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine-23_23c1d6f8e2fcb6320697d1877b352a27"
-title="Special:Browse/InterMine-23 23c1d6f8e2fcb6320697d1877b352a27">+</a></span></td>
+href="Special%3ABrowse/InterMine-23_23c1d6f8e2fcb6320697d1877b352a27"
+title="Special%3ABrowse/InterMine-23 23c1d6f8e2fcb6320697d1877b352a27">+</a></span></td>
 <td class="smwprops"><a href="InterMine"
 title="InterMine">InterMine</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/InterMine"
-title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/InterMine"
+title="Special%3ASearchByProperty/Subject/InterMine">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a
 href="InterMine#_19ca3e5527b4a7801df22e02220506b6"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine-23_19ca3e5527b4a7801df22e02220506b6"
-title="Special:Browse/InterMine-23 19ca3e5527b4a7801df22e02220506b6">+</a></span></td>
+href="Special%3ABrowse/InterMine-23_19ca3e5527b4a7801df22e02220506b6"
+title="Special%3ABrowse/InterMine-23 19ca3e5527b4a7801df22e02220506b6">+</a></span></td>
 <td class="smwprops"><a href="InterMine"
 title="InterMine">InterMine</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/InterMine"
-title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/InterMine"
+title="Special%3ASearchByProperty/Subject/InterMine">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a
 href="InterMine#_1974840c5524f47e32e34fbc09fa67f4"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine-23_1974840c5524f47e32e34fbc09fa67f4"
-title="Special:Browse/InterMine-23 1974840c5524f47e32e34fbc09fa67f4">+</a></span></td>
+href="Special%3ABrowse/InterMine-23_1974840c5524f47e32e34fbc09fa67f4"
+title="Special%3ABrowse/InterMine-23 1974840c5524f47e32e34fbc09fa67f4">+</a></span></td>
 <td class="smwprops"><a href="InterMine"
 title="InterMine">InterMine</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/InterMine"
-title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/InterMine"
+title="Special%3ASearchByProperty/Subject/InterMine">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -167,41 +167,41 @@ title="Special:SearchByProperty/Subject/InterMine">+</a></span></td>
 <td class="smwpropname"><a
 href="Tripal.1#_8904ca0c9942fceca83d1637dceaa4e9"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9"
-title="Special:Browse/Tripal-23 8904ca0c9942fceca83d1637dceaa4e9">+</a></span></td>
+href="Special%3ABrowse/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9"
+title="Special%3ABrowse/Tripal-23 8904ca0c9942fceca83d1637dceaa4e9">+</a></span></td>
 <td class="smwprops"><a href="Tripal.1" title="Tripal">Tripal</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/Tripal"
-title="Special:SearchByProperty/Subject/Tripal">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/Tripal"
+title="Special%3ASearchByProperty/Subject/Tripal">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a
 href="Tripal.1#_780a3bd63980716b96e285070f997e2a"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal-23_780a3bd63980716b96e285070f997e2a"
-title="Special:Browse/Tripal-23 780a3bd63980716b96e285070f997e2a">+</a></span></td>
+href="Special%3ABrowse/Tripal-23_780a3bd63980716b96e285070f997e2a"
+title="Special%3ABrowse/Tripal-23 780a3bd63980716b96e285070f997e2a">+</a></span></td>
 <td class="smwprops"><a href="Tripal.1" title="Tripal">Tripal</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/Tripal"
-title="Special:SearchByProperty/Subject/Tripal">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/Tripal"
+title="Special%3ASearchByProperty/Subject/Tripal">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a
 href="Tripal.1#_c5e2b05d4750eb0951eb1ad5fced6761"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal-23_c5e2b05d4750eb0951eb1ad5fced6761"
-title="Special:Browse/Tripal-23 c5e2b05d4750eb0951eb1ad5fced6761">+</a></span></td>
+href="Special%3ABrowse/Tripal-23_c5e2b05d4750eb0951eb1ad5fced6761"
+title="Special%3ABrowse/Tripal-23 c5e2b05d4750eb0951eb1ad5fced6761">+</a></span></td>
 <td class="smwprops"><a href="Tripal.1" title="Tripal">Tripal</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/Tripal"
-title="Special:SearchByProperty/Subject/Tripal">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/Tripal"
+title="Special%3ASearchByProperty/Subject/Tripal">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a
 href="Tripal.1#_c72e4a5953ad38254b5ae05e4fca68cf"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal-23_c72e4a5953ad38254b5ae05e4fca68cf"
-title="Special:Browse/Tripal-23 c72e4a5953ad38254b5ae05e4fca68cf">+</a></span></td>
+href="Special%3ABrowse/Tripal-23_c72e4a5953ad38254b5ae05e4fca68cf"
+title="Special%3ABrowse/Tripal-23 c72e4a5953ad38254b5ae05e4fca68cf">+</a></span></td>
 <td class="smwprops"><a href="Tripal.1" title="Tripal">Tripal</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/Tripal"
-title="Special:SearchByProperty/Subject/Tripal">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/Tripal"
+title="Special%3ASearchByProperty/Subject/Tripal">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -211,45 +211,45 @@ title="Special:SearchByProperty/Subject/Tripal">+</a></span></td>
 <td class="smwpropname"><a
 href="WebApollo.1#_0d2bc0e8d059cba6cefd439a084fc7c8"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8"
-title="Special:Browse/WebApollo-23 0d2bc0e8d059cba6cefd439a084fc7c8">+</a></span></td>
+href="Special%3ABrowse/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8"
+title="Special%3ABrowse/WebApollo-23 0d2bc0e8d059cba6cefd439a084fc7c8">+</a></span></td>
 <td class="smwprops"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/WebApollo"
-title="Special:SearchByProperty/Subject/WebApollo">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/WebApollo"
+title="Special%3ASearchByProperty/Subject/WebApollo">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a
 href="WebApollo.1#_e25e09b3c3c15a82835f7fa1b510fe42"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo-23_e25e09b3c3c15a82835f7fa1b510fe42"
-title="Special:Browse/WebApollo-23 e25e09b3c3c15a82835f7fa1b510fe42">+</a></span></td>
+href="Special%3ABrowse/WebApollo-23_e25e09b3c3c15a82835f7fa1b510fe42"
+title="Special%3ABrowse/WebApollo-23 e25e09b3c3c15a82835f7fa1b510fe42">+</a></span></td>
 <td class="smwprops"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/WebApollo"
-title="Special:SearchByProperty/Subject/WebApollo">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/WebApollo"
+title="Special%3ASearchByProperty/Subject/WebApollo">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a
 href="WebApollo2#_7aa3d428be4e2b3632dc7e1d8733182f"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f"
-title="Special:Browse/WebApollo2-23 7aa3d428be4e2b3632dc7e1d8733182f">+</a></span></td>
+href="Special%3ABrowse/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f"
+title="Special%3ABrowse/WebApollo2-23 7aa3d428be4e2b3632dc7e1d8733182f">+</a></span></td>
 <td class="smwprops"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/WebApollo2"
-title="Special:SearchByProperty/Subject/WebApollo2">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/WebApollo2"
+title="Special%3ASearchByProperty/Subject/WebApollo2">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a
 href="WebApollo2#_4c9d71480131ff10bde93a00dd874b38"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2-23_4c9d71480131ff10bde93a00dd874b38"
-title="Special:Browse/WebApollo2-23 4c9d71480131ff10bde93a00dd874b38">+</a></span></td>
+href="Special%3ABrowse/WebApollo2-23_4c9d71480131ff10bde93a00dd874b38"
+title="Special%3ABrowse/WebApollo2-23 4c9d71480131ff10bde93a00dd874b38">+</a></span></td>
 <td class="smwprops"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Subject/WebApollo2"
-title="Special:SearchByProperty/Subject/WebApollo2">+</a></span></td>
+href="Special%3ASearchByProperty/Subject/WebApollo2"
+title="Special%3ASearchByProperty/Subject/WebApollo2">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -259,11 +259,11 @@ title="Special:SearchByProperty/Subject/WebApollo2">+</a></span></td>
 <td class="smwpropname"><a
 href="XORT.1#_117f6d7d3f08ff9b4488276387dfdcc4"
 title="XORT">XORT</a> <span class="smwbrowse"><a
-href="Special:Browse/XORT-23_117f6d7d3f08ff9b4488276387dfdcc4"
-title="Special:Browse/XORT-23 117f6d7d3f08ff9b4488276387dfdcc4">+</a></span></td>
+href="Special%3ABrowse/XORT-23_117f6d7d3f08ff9b4488276387dfdcc4"
+title="Special%3ABrowse/XORT-23 117f6d7d3f08ff9b4488276387dfdcc4">+</a></span></td>
 <td class="smwprops"><a href="XORT.1" title="XORT">XORT</a>  <span
-class="smwsearch"><a href="Special:SearchByProperty/Subject/XORT"
-title="Special:SearchByProperty/Subject/XORT">+</a></span></td>
+class="smwsearch"><a href="Special%3ASearchByProperty/Subject/XORT"
+title="Special%3ASearchByProperty/Subject/XORT">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -288,12 +288,12 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Subject](Special:Browse/Property:Subject "Special:Browse/Property:Subject")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[Subject](Special%3ABrowse/Property:Subject "Special%3ABrowse/Property:Subject")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Subject "Special:ExportRDF/Property:Subject")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Page "Special:SearchByProperty/Has-20type/Page")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
 
 </div>
 
@@ -424,7 +424,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Subject" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Subject" rel="smw-browse">Browse
   properties</a></span>
 
 

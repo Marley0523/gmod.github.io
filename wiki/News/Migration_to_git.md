@@ -224,7 +224,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FMigration_to_git"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FMigration_to_git"
   rel="smw-browse">Browse properties</a></span>
 
 

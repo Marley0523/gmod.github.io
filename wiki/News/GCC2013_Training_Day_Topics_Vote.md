@@ -263,7 +263,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGCC2013_Training_Day_Topics_Vote"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2013_Training_Day_Topics_Vote"
   rel="smw-browse">Browse properties</a></span>
 
 

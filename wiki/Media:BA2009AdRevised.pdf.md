@@ -237,7 +237,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/File:BA2009AdRevised.pdf"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/File:BA2009AdRevised.pdf"
   rel="smw-browse">Browse properties</a></span>
 
 </div>

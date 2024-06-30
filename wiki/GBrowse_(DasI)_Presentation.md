@@ -348,7 +348,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_(DasI)_Presentation"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_(DasI)_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 

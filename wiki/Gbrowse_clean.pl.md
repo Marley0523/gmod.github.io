@@ -298,7 +298,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Gbrowse_clean.pl" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gbrowse_clean.pl" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Insertional_Mutagenesis_Database_(IMDB)"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Insertional_Mutagenesis_Database_(IMDB)"
   rel="smw-browse">Browse properties</a></span>
 
 

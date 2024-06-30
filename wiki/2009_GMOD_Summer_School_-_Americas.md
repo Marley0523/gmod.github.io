@@ -762,7 +762,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/2009_GMOD_Summer_School_-2D_Americas"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Summer_School_-2D_Americas"
   rel="smw-browse">Browse properties</a></span>
 
 

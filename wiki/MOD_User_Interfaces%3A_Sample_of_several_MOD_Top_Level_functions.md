@@ -384,7 +384,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+  href="Special%3ABrowse/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
   rel="smw-browse">Browse properties</a></span>
 
 

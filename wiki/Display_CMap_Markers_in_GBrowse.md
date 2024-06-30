@@ -286,7 +286,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Display_CMap_Markers_in_GBrowse"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Display_CMap_Markers_in_GBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

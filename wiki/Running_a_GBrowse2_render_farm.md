@@ -642,7 +642,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Running_a_GBrowse2_render_farm"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Running_a_GBrowse2_render_farm"
   rel="smw-browse">Browse properties</a></span>
 
 

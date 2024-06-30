@@ -265,7 +265,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_in_the_Sequencing_Center"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_in_the_Sequencing_Center"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -262,7 +262,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FISMB_2013:_Automated_Function_Prediction"
+  href="../Special%3ABrowse/News-2FISMB_2013:_Automated_Function_Prediction"
   rel="smw-browse">Browse properties</a></span>
 
 

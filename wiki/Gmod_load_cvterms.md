@@ -302,7 +302,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Gmod_load_cvterms" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gmod_load_cvterms" rel="smw-browse">Browse
   properties</a></span>
 
 

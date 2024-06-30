@@ -86,12 +86,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Tools](Special:Browse/Category:GMOD-20Tools "Special:Browse/Category:GMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tools](Special%3ABrowse/Category:GMOD-20Tools "Special%3ABrowse/Category:GMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Category:GMOD_Tools "Special:ExportRDF/Category:GMOD Tools")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form:Component_information "Form:Component information") <span class="smwsearch">[+](Special:SearchByProperty/Has-20default-20form/Component-20information "Special:SearchByProperty/Has-20default-20form/Component-20information")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form:Component_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
 
 </div>
 
@@ -223,7 +223,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:GMOD_Tools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:GMOD_Tools" rel="smw-browse">Browse
   properties</a></span>
 
 

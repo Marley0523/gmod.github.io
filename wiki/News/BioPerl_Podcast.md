@@ -216,7 +216,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBioPerl_Podcast"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBioPerl_Podcast"
   rel="smw-browse">Browse properties</a></span>
 
 

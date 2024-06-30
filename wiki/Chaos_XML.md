@@ -357,7 +357,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chaos_XML" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chaos_XML" rel="smw-browse">Browse
   properties</a></span>
 
 

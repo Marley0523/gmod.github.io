@@ -256,7 +256,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGBrowse_User_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse_User_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

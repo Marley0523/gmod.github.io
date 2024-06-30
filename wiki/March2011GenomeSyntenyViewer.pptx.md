@@ -181,7 +181,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/March2011GenomeSyntenyViewer.pptx"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/March2011GenomeSyntenyViewer.pptx"
   rel="smw-browse">Browse properties</a></span>
 
 

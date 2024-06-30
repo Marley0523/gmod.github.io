@@ -1652,7 +1652,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Popup_Balloons" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
 

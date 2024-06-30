@@ -64,12 +64,12 @@ Showing 5 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioDIG.1"
 title="BioDIG">BioDIG</a> <span class="smwbrowse"><a
-href="Special:Browse/BioDIG"
-title="Special:Browse/BioDIG">+</a></span></td>
+href="Special%3ABrowse/BioDIG"
+title="Special%3ABrowse/BioDIG">+</a></span></td>
 <td class="smwprops"><a href="http://biodig.org" class="external"
 rel="nofollow">http://biodig.org</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20website/http:-2F-2Fbiodig.org"
-title="Special:SearchByProperty/Has-20website/http:-2F-2Fbiodig.org">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org"
+title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -78,14 +78,14 @@ title="Special:SearchByProperty/Has-20website/http:-2F-2Fbiodig.org">+</a></span
 <tr class="odd">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special:Browse/Pathway-20Tools"
-title="Special:Browse/Pathway-20Tools">+</a></span></td>
+href="Special%3ABrowse/Pathway-20Tools"
+title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops"><a href="http://bioinformatics.ai.sri.com/ptools/"
 class="external"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20website/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F"
-title="Special:SearchByProperty/Has-20website/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F"
+title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="s">S</h3></td>
@@ -93,15 +93,15 @@ title="Special:SearchByProperty/Has-20website/http:-2F-2Fbioinformatics.ai.sri.c
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="SOBA.1" title="SOBA">SOBA</a> <span
-class="smwbrowse"><a href="Special:Browse/SOBA"
-title="Special:Browse/SOBA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/SOBA"
+title="Special%3ABrowse/SOBA">+</a></span></td>
 <td class="smwprops"><a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external"
 rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a>  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis"
-title="Special:SearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis"
+title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -110,14 +110,14 @@ title="Special:SearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.or
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/WebGBrowse"
-title="Special:Browse/WebGBrowse">+</a></span></td>
+href="Special%3ABrowse/WebGBrowse"
+title="Special%3ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops"><a href="http://webgbrowse.cgb.indiana.edu"
 class="external"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a>  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu"
-title="Special:SearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu"
+title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -125,12 +125,12 @@ title="Special:SearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special:Browse/XORT"
-title="Special:Browse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/XORT"
+title="Special%3ABrowse/XORT">+</a></span></td>
 <td class="smwprops"><a href="XORT.1" class="external"
 rel="nofollow">http://gmod.org/wiki/XORT</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20website/http:-2F-2Fgmod.org-2Fwiki-2FXORT"
-title="Special:SearchByProperty/Has-20website/http:-2F-2Fgmod.org-2Fwiki-2FXORT">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fgmod.org-2Fwiki-2FXORT"
+title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fgmod.org-2Fwiki-2FXORT">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -156,12 +156,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-website](Special:Browse/Property:Has-20website "Special:Browse/Property:Has-20website")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+website](Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_website "Special:ExportRDF/Property:Has website")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special:Types/URL "Special:Types/URL") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/URL "Special:SearchByProperty/Has-20type/URL")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special:Types/URL "Special:Types/URL") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span> |
 
 </div>
 
@@ -292,7 +292,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Has_website" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_website" rel="smw-browse">Browse
   properties</a></span>
 
 

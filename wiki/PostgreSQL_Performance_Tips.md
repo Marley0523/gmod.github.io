@@ -370,7 +370,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/PostgreSQL_Performance_Tips"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PostgreSQL_Performance_Tips"
   rel="smw-browse">Browse properties</a></span>
 
 

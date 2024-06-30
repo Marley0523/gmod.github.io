@@ -269,7 +269,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Distributed_Annotation_System"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Distributed_Annotation_System"
   rel="smw-browse">Browse properties</a></span>
 
 

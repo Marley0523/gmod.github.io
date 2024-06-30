@@ -363,7 +363,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Biopackages_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Biopackages_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

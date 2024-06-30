@@ -702,12 +702,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Artemis-Chado Integration
-Tutorial](Special:Browse/Artemis-2DChado-20Integration-20Tutorial "Special:Browse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial "Special:ExportRDF/Artemis-Chado Integration Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Artemis "Special:SearchByProperty/Has-20topic/Artemis")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Artemis "Special%3ASearchByProperty/Has-20topic/Artemis")</span> |
 
 </div>
 
@@ -838,7 +838,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Artemis-2DChado_Integration_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Artemis-2DChado_Integration_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

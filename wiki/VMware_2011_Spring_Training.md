@@ -755,7 +755,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/VMware_2011_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/VMware_2011_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

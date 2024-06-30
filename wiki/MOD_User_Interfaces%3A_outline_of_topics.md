@@ -285,7 +285,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interfaces%3A_outline_of_topics"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_User_Interfaces%3A_outline_of_topics"
   rel="smw-browse">Browse properties</a></span>
 
 

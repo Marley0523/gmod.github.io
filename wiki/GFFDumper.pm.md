@@ -192,7 +192,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GFFDumper.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFFDumper.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

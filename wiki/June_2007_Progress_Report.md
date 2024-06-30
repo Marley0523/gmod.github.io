@@ -888,7 +888,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/June_2007_Progress_Report"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/June_2007_Progress_Report"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -249,7 +249,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Est2assembly" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Est2assembly" rel="smw-browse">Browse
   properties</a></span>
 
 

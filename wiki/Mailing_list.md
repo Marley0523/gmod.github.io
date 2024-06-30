@@ -665,7 +665,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Mailing_Lists" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Mailing_Lists" rel="smw-browse">Browse
   properties</a></span>
 
 

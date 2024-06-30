@@ -274,7 +274,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Codefest_2020" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Codefest_2020" rel="smw-browse">Browse
   properties</a></span>
 
 

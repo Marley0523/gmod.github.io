@@ -247,7 +247,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FTripal_1.1_Publication"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FTripal_1.1_Publication"
   rel="smw-browse">Browse properties</a></span>
 
 

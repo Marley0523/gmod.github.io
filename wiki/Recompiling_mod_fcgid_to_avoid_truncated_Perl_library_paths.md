@@ -222,7 +222,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Recompiling_mod_fcgid_to_avoid_truncated_Perl_library_paths"
+  href="Special%3ABrowse/Recompiling_mod_fcgid_to_avoid_truncated_Perl_library_paths"
   rel="smw-browse">Browse properties</a></span>
 
 

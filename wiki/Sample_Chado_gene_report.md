@@ -1041,7 +1041,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Sample_Chado_gene_report"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sample_Chado_gene_report"
   rel="smw-browse">Browse properties</a></span>
 
 

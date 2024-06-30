@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FThe_TopoView_Glyph_Needs_You!"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FThe_TopoView_Glyph_Needs_You!"
   rel="smw-browse">Browse properties</a></span>
 
 

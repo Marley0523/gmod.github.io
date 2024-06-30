@@ -9747,7 +9747,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/FlyBase_Field_Mapping_Tables"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Field_Mapping_Tables"
   rel="smw-browse">Browse properties</a></span>
 
 

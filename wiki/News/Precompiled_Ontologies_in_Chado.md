@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FPrecompiled_Ontologies_in_Chado"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FPrecompiled_Ontologies_in_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 

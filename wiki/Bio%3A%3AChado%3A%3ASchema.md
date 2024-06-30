@@ -170,10 +170,10 @@ feed</span></span>
 |----|----|
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special:SearchByProperty/Chado/Schema "Special:SearchByProperty/Chado/Schema")</span> |
+class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Chado/Schema "Special%3ASearchByProperty/Chado/Schema")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special:SearchByProperty/Talk:Bio/Schema "Special:SearchByProperty/Talk:Bio/Schema")</span> |
+class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Talk:Bio/Schema "Special%3ASearchByProperty/Talk:Bio/Schema")</span> |
 
 </div>
 
@@ -302,7 +302,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
   properties</a></span>
 
 

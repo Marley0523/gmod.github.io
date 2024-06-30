@@ -308,7 +308,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FJob_Openings_with_GnpAnnot"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FJob_Openings_with_GnpAnnot"
   rel="smw-browse">Browse properties</a></span>
 
 

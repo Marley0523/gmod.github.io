@@ -371,7 +371,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
+  href="Special%3ABrowse/Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -291,7 +291,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Gramene" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Gramene" rel="smw-browse">Browse
   properties</a></span>
 
 

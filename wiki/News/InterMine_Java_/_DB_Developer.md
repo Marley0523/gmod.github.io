@@ -231,7 +231,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../../Special:Browse/News-2FInterMine_Java_-2F_DB_Developer"
+- <span id="t-smwbrowselink"><a href="../../Special%3ABrowse/News-2FInterMine_Java_-2F_DB_Developer"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -228,7 +228,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FJob_Openings_at_Georgetown"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FJob_Openings_at_Georgetown"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -510,7 +510,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Evo_Hackathon_Proposal"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Evo_Hackathon_Proposal"
   rel="smw-browse">Browse properties</a></span>
 
 

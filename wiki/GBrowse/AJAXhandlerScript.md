@@ -325,7 +325,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GBrowse-2FAJAXhandlerScript"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse-2FAJAXhandlerScript"
   rel="smw-browse">Browse properties</a></span>
 
 

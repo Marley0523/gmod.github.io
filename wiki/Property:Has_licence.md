@@ -65,12 +65,12 @@ Showing 12 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart"
-title="Special:Browse/BioMart">+</a></span></td>
+href="Special%3ABrowse/BioMart"
+title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/LGPL-3.0
 LGPL]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -78,20 +78,20 @@ title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flic
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special:Browse/CMap"
-title="Special:Browse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/CMap"
+title="Special%3ABrowse/CMap">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/GPL-3.0 GPL]  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special:Browse/Canto"
-title="Special:Browse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Canto"
+title="Special%3ABrowse/Canto">+</a></span></td>
 <td class="smwprops">GPL3  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/GPL3"
-title="Special:SearchByProperty/Has-20licence/GPL3">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/GPL3"
+title="Special%3ASearchByProperty/Has-20licence/GPL3">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -99,12 +99,12 @@ title="Special:SearchByProperty/Has-20licence/GPL3">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special:Browse/DIYA"
-title="Special:Browse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/DIYA"
+title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/gpl-license Gnu
 GPL]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -113,24 +113,24 @@ title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flic
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse"
-title="Special:Browse/GBrowse">+</a></span></td>
+href="Special%3ABrowse/GBrowse"
+title="Special%3ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">GPL2  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/GPL2"
-title="Special:SearchByProperty/Has-20licence/GPL2">+</a></span>,
+href="Special%3ASearchByProperty/Has-20licence/GPL2"
+title="Special%3ASearchByProperty/Has-20licence/GPL2">+</a></span>,
 Artistic License  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/Artistic-20License"
-title="Special:SearchByProperty/Has-20licence/Artistic-20License">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/Artistic-20License"
+title="Special%3ASearchByProperty/Has-20licence/Artistic-20License">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special:Browse/Galaxy"
-title="Special:Browse/Galaxy">+</a></span></td>
+href="Special%3ABrowse/Galaxy"
+title="Special%3ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/AFL-3.0 Academic
 Free License 3.0]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -139,12 +139,12 @@ title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flic
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine"
-title="Special:Browse/InterMine">+</a></span></td>
+href="Special%3ABrowse/InterMine"
+title="Special%3ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/LGPL-3.0
 LGPL]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -153,26 +153,26 @@ title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flic
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse"
-title="Special:Browse/JBrowse">+</a></span></td>
+href="Special%3ABrowse/JBrowse"
+title="Special%3ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/LGPL-3.0
 LGPL]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span>,
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FLGPL-2D3.0-20LGPL-5D">+</a></span>,
 [http://opensource.org/licenses/Artistic-2.0 Artistic License
 2.0]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FArtistic-2D2.0-20Artistic-20License-202.0-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FArtistic-2D2.0-20Artistic-20License-202.0-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FArtistic-2D2.0-20Artistic-20License-202.0-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FArtistic-2D2.0-20Artistic-20License-202.0-5D">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse2"
-title="Special:Browse/JBrowse2">+</a></span></td>
+href="Special%3ABrowse/JBrowse2"
+title="Special%3ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">[https://opensource.org/licenses/Apache-2.0 Apache
 2]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttps:-2F-2Fopensource.org-2Flicenses-2FApache-2D2.0-20Apache-202-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttps:-2F-2Fopensource.org-2Flicenses-2FApache-2D2.0-20Apache-202-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttps:-2F-2Fopensource.org-2Flicenses-2FApache-2D2.0-20Apache-202-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttps:-2F-2Fopensource.org-2Flicenses-2FApache-2D2.0-20Apache-202-5D">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -180,19 +180,19 @@ title="Special:SearchByProperty/Has-20licence/-5Bhttps:-2F-2Fopensource.org-2Fli
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special:Browse/MAKER"
-title="Special:Browse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/MAKER"
+title="Special%3ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">[http://opensource.org/licenses/gpl-license GNU GPL
 (for academics)]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20GNU-20GPL-20(for-20academics)-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20GNU-20GPL-20(for-20academics)-5D">+</a></span>,
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20GNU-20GPL-20(for-20academics)-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20GNU-20GPL-20(for-20academics)-5D">+</a></span>,
 [http://opensource.org/licenses/artistic-license-2.0 Artistic License
 2.0 (for academics)]  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fartistic-2Dlicense-2D2.0-20Artistic-20License-202.0-20(for-20academics)-5D"
-title="Special:SearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fartistic-2Dlicense-2D2.0-20Artistic-20License-202.0-20(for-20academics)-5D">+</a></span>,
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fartistic-2Dlicense-2D2.0-20Artistic-20License-202.0-20(for-20academics)-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fartistic-2Dlicense-2D2.0-20Artistic-20License-202.0-20(for-20academics)-5D">+</a></span>,
 custom license for commercial usage  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/custom-20license-20for-20commercial-20usage"
-title="Special:SearchByProperty/Has-20licence/custom-20license-20for-20commercial-20usage">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/custom-20license-20for-20commercial-20usage"
+title="Special%3ASearchByProperty/Has-20licence/custom-20license-20for-20commercial-20usage">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -201,20 +201,20 @@ title="Special:SearchByProperty/Has-20licence/custom-20license-20for-20commercia
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special:Browse/Textpresso"
-title="Special:Browse/Textpresso">+</a></span></td>
+href="Special%3ABrowse/Textpresso"
+title="Special%3ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">Modified GPL  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/Modified-20GPL"
-title="Special:SearchByProperty/Has-20licence/Modified-20GPL">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/Modified-20GPL"
+title="Special%3ASearchByProperty/Has-20licence/Modified-20GPL">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal"
-title="Special:Browse/Tripal">+</a></span></td>
+href="Special%3ABrowse/Tripal"
+title="Special%3ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">GPLv2  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/GPLv2"
-title="Special:SearchByProperty/Has-20licence/GPLv2">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/GPLv2"
+title="Special%3ASearchByProperty/Has-20licence/GPLv2">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -240,12 +240,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-licence](Special:Browse/Property:Has-20licence "Special:Browse/Property:Has-20licence")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+licence](Special%3ABrowse/Property:Has-20licence "Special%3ABrowse/Property:Has-20licence")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_licence "Special:ExportRDF/Property:Has licence")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -376,7 +376,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Has_licence" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_licence" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -289,7 +289,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Genes4all" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Genes4all" rel="smw-browse">Browse
   properties</a></span>
 
 

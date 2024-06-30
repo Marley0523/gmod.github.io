@@ -35,15 +35,15 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   
 
 - <a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a>
-   <span class="smwbrowse">[+](/wiki/Special:Browse/Chado "Special:Browse/Chado")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado "Special%3ABrowse/Chado")</span>
 - [GBrowse](/wiki/GBrowse "GBrowse")
-   <span class="smwbrowse">[+](/wiki/Special:Browse/GBrowse "Special:Browse/GBrowse")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
 - [Galaxy](/wiki/Galaxy "Galaxy")
-   <span class="smwbrowse">[+](/wiki/Special:Browse/Galaxy "Special:Browse/Galaxy")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
 - [JBrowse](/wiki/JBrowse "JBrowse")
-   <span class="smwbrowse">[+](/wiki/Special:Browse/JBrowse "Special:Browse/JBrowse")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>
 - [Pathway Tools](/wiki/Pathway_Tools "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special:Browse/Pathway-20Tools "Special:Browse/Pathway-20Tools")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
 
  
 

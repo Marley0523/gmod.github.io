@@ -660,7 +660,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Notes_on_simplified_nd_schema_and_Use_Cases"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Notes_on_simplified_nd_schema_and_Use_Cases"
   rel="smw-browse">Browse properties</a></span>
 
 

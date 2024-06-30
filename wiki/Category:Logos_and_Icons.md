@@ -2568,7 +2568,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Logos_and_Icons"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Logos_and_Icons"
   rel="smw-browse">Browse properties</a></span>
 
 

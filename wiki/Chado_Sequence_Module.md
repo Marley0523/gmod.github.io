@@ -2380,7 +2380,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Sequence_Module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Sequence_Module" rel="smw-browse">Browse
   properties</a></span>
 
 

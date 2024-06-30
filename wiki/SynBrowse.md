@@ -284,7 +284,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SynBrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SynBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

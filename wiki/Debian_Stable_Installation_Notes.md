@@ -501,7 +501,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Debian_Stable_Installation_Notes"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Debian_Stable_Installation_Notes"
   rel="smw-browse">Browse properties</a></span>
 
 

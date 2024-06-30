@@ -1262,7 +1262,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse2_Tutorial_PAG_2024"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse2_Tutorial_PAG_2024"
   rel="smw-browse">Browse properties</a></span>
 
 

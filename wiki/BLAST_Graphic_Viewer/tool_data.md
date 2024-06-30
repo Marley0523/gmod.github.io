@@ -223,7 +223,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/BLAST_Graphic_Viewer-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BLAST_Graphic_Viewer-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

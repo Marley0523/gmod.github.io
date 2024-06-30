@@ -224,7 +224,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FApollo_1.10_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FApollo_1.10_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

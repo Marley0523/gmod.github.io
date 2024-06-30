@@ -402,7 +402,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/Chado_Naural_Diversity_Module-2Fnatdiv_props_call_notes"
+  href="../Special%3ABrowse/Chado_Naural_Diversity_Module-2Fnatdiv_props_call_notes"
   rel="smw-browse">Browse properties</a></span>
 
 

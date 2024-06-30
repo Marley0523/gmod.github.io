@@ -304,7 +304,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Stock_Relationship_Ontology"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Stock_Relationship_Ontology"
   rel="smw-browse">Browse properties</a></span>
 
 

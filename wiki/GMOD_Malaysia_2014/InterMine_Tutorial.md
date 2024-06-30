@@ -74,12 +74,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/InterMine
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FInterMine-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FInterMine-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FInterMine-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FInterMine-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/InterMine_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/InterMine Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/InterMine "Special:SearchByProperty/Has-20topic/InterMine")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/InterMine "Special%3ASearchByProperty/Has-20topic/InterMine")</span> |
 
 </div>
 
@@ -212,7 +212,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FInterMine_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FInterMine_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -210,7 +210,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SourceForge_Download_Statistics"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SourceForge_Download_Statistics"
   rel="smw-browse">Browse properties</a></span>
 
 

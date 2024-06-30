@@ -4273,12 +4273,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/Tripal
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FTripal-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FTripal-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FTripal-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FTripal-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Tripal_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/Tripal Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [Tripal](../Tripal.1 "Tripal") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/Tripal "Special:SearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [Tripal](../Tripal.1 "Tripal") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 
@@ -4411,7 +4411,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FTripal_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FTripal_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -83,12 +83,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/GFF3
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FGFF3-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FGFF3-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FGFF3-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FGFF3-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GFF3_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/GFF3 Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/GFF3 "Special:SearchByProperty/Has-20topic/GFF3")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GFF3 "Special%3ASearchByProperty/Has-20topic/GFF3")</span> |
 
 </div>
 
@@ -221,7 +221,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FGFF3_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FGFF3_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

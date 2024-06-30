@@ -386,7 +386,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_Volvox_SAM_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Volvox_SAM_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

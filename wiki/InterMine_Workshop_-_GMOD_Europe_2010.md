@@ -269,7 +269,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/InterMine_Workshop_-2D_GMOD_Europe_2010"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine_Workshop_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -442,7 +442,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Using_AWS_S3_For_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_AWS_S3_For_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -226,7 +226,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FNew_Ergatis_Release"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FNew_Ergatis_Release"
   rel="smw-browse">Browse properties</a></span>
 
 

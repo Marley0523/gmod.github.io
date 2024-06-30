@@ -228,7 +228,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Summary_of_Fall_2005_CHSL_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Summary_of_Fall_2005_CHSL_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

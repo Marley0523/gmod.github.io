@@ -222,7 +222,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD&#39;s_GSoC_Going_Great_Guns!"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD&#39;s_GSoC_Going_Great_Guns!"
   rel="smw-browse">Browse properties</a></span>
 
 

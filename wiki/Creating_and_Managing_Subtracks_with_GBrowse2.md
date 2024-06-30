@@ -842,7 +842,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Creating_and_Managing_Subtracks_with_GBrowse2"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2"
   rel="smw-browse">Browse properties</a></span>
 
 

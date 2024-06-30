@@ -1219,12 +1219,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Galaxy Tutorial
-2010](Special:Browse/Galaxy-20Tutorial-202010 "Special:Browse/Galaxy-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%3ABrowse/Galaxy-20Tutorial-202010 "Special%3ABrowse/Galaxy-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:ExportRDF/Galaxy Tutorial 2010")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Galaxy "Special:SearchByProperty/Has-20topic/Galaxy")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
 
 </div>
 
@@ -1355,7 +1355,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Galaxy_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

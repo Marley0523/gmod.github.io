@@ -180,7 +180,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GBrowse_Plugins-2FPamAuthenticate"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_Plugins-2FPamAuthenticate"
   rel="smw-browse">Browse properties</a></span>
 
 

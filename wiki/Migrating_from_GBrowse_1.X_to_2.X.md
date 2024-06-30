@@ -371,7 +371,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Migrating_from_GBrowse_1.X_to_2.X"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Migrating_from_GBrowse_1.X_to_2.X"
   rel="smw-browse">Browse properties</a></span>
 
 

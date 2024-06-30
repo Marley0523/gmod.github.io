@@ -250,7 +250,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FLogo_Program_Logos!"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FLogo_Program_Logos!"
   rel="smw-browse">Browse properties</a></span>
 
 

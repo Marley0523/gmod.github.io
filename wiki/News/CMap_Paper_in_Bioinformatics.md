@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FCMap_Paper_in_Bioinformatics"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FCMap_Paper_in_Bioinformatics"
   rel="smw-browse">Browse properties</a></span>
 
 

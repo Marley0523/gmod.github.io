@@ -304,7 +304,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/June_2006_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/June_2006_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

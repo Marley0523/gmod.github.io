@@ -670,7 +670,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Comparative_Genomics"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Comparative_Genomics"
   rel="smw-browse">Browse properties</a></span>
 
 

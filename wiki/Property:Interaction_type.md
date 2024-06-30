@@ -65,11 +65,11 @@ Showing 8 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart"
-title="Special:Browse/BioMart">+</a></span></td>
+href="Special%3ABrowse/BioMart"
+title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">provides data for  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/provides-20data-20for"
-title="Special:SearchByProperty/Interaction-20type/provides-20data-20for">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/provides-20data-20for"
+title="Special%3ASearchByProperty/Interaction-20type/provides-20data-20for">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -77,11 +77,11 @@ title="Special:SearchByProperty/Interaction-20type/provides-20data-20for">+</a><
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special:Browse/Canto"
-title="Special:Browse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Canto"
+title="Special%3ABrowse/Canto">+</a></span></td>
 <td class="smwprops">can save data in  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/can-20save-20data-20in"
-title="Special:SearchByProperty/Interaction-20type/can-20save-20data-20in">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/can-20save-20data-20in"
+title="Special%3ASearchByProperty/Interaction-20type/can-20save-20data-20in">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -89,11 +89,11 @@ title="Special:SearchByProperty/Interaction-20type/can-20save-20data-20in">+</a>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special:Browse/DIYA"
-title="Special:Browse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/DIYA"
+title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">provides input for  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/provides-20input-20for"
-title="Special:SearchByProperty/Interaction-20type/provides-20input-20for">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for"
+title="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -102,17 +102,17 @@ title="Special:SearchByProperty/Interaction-20type/provides-20input-20for">+</a>
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine"
-title="Special:Browse/InterMine">+</a></span></td>
+href="Special%3ABrowse/InterMine"
+title="Special%3ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">consumes data from  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/consumes-20data-20from"
-title="Special:SearchByProperty/Interaction-20type/consumes-20data-20from">+</a></span>,
+href="Special%3ASearchByProperty/Interaction-20type/consumes-20data-20from"
+title="Special%3ASearchByProperty/Interaction-20type/consumes-20data-20from">+</a></span>,
 can provide data for  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/can-20provide-20data-20for"
-title="Special:SearchByProperty/Interaction-20type/can-20provide-20data-20for">+</a></span>,
+href="Special%3ASearchByProperty/Interaction-20type/can-20provide-20data-20for"
+title="Special%3ASearchByProperty/Interaction-20type/can-20provide-20data-20for">+</a></span>,
 uses library for processing and loading data  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/uses-20library-20for-20processing-20and-20loading-20data"
-title="Special:SearchByProperty/Interaction-20type/uses-20library-20for-20processing-20and-20loading-20data">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/uses-20library-20for-20processing-20and-20loading-20data"
+title="Special%3ASearchByProperty/Interaction-20type/uses-20library-20for-20processing-20and-20loading-20data">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -121,14 +121,14 @@ title="Special:SearchByProperty/Interaction-20type/uses-20library-20for-20proces
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal"
-title="Special:Browse/Tripal">+</a></span></td>
+href="Special%3ABrowse/Tripal"
+title="Special%3ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">can embed  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/can-20embed"
-title="Special:SearchByProperty/Interaction-20type/can-20embed">+</a></span>,
+href="Special%3ASearchByProperty/Interaction-20type/can-20embed"
+title="Special%3ASearchByProperty/Interaction-20type/can-20embed">+</a></span>,
 provides interface for  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/provides-20interface-20for"
-title="Special:SearchByProperty/Interaction-20type/provides-20interface-20for">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/provides-20interface-20for"
+title="Special%3ASearchByProperty/Interaction-20type/provides-20interface-20for">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -137,26 +137,26 @@ title="Special:SearchByProperty/Interaction-20type/provides-20interface-20for">+
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo"
-title="Special:Browse/WebApollo">+</a></span></td>
+href="Special%3ABrowse/WebApollo"
+title="Special%3ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">receives input from  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/receives-20input-20from"
-title="Special:SearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
+href="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from"
+title="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
 is based on  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/is-20based-20on"
-title="Special:SearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/is-20based-20on"
+title="Special%3ASearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2"
-title="Special:Browse/WebApollo2">+</a></span></td>
+href="Special%3ABrowse/WebApollo2"
+title="Special%3ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">receives input from  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/receives-20input-20from"
-title="Special:SearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
+href="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from"
+title="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
 is based on  <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/is-20based-20on"
-title="Special:SearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/is-20based-20on"
+title="Special%3ASearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -164,12 +164,12 @@ title="Special:SearchByProperty/Interaction-20type/is-20based-20on">+</a></span>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special:Browse/XORT"
-title="Special:Browse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/XORT"
+title="Special%3ABrowse/XORT">+</a></span></td>
 <td class="smwprops">reads from and writes to  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to"
-title="Special:SearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to"
+title="Special%3ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -195,12 +195,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Interaction
-type](Special:Browse/Property:Interaction-20type "Special:Browse/Property:Interaction-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+type](Special%3ABrowse/Property:Interaction-20type "Special%3ABrowse/Property:Interaction-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Interaction_type "Special:ExportRDF/Property:Interaction type")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -331,7 +331,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Interaction_type"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Interaction_type"
   rel="smw-browse">Browse properties</a></span>
 
 

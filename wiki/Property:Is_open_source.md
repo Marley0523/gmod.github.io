@@ -71,20 +71,20 @@ Showing 20 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BLAST_Graphic_Viewer.1"
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/BLAST-20Graphic-20Viewer"
-title="Special:Browse/BLAST-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
+title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart"
-title="Special:Browse/BioMart">+</a></span></td>
+href="Special%3ABrowse/BioMart"
+title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -92,19 +92,19 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special:Browse/CMap"
-title="Special:Browse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/CMap"
+title="Special%3ABrowse/CMap">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special:Browse/Canto"
-title="Special:Browse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Canto"
+title="Special%3ABrowse/Canto">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -112,11 +112,11 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special:Browse/DIYA"
-title="Special:Browse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/DIYA"
+title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -125,47 +125,47 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse"
-title="Special:Browse/GBrowse">+</a></span></td>
+href="Special%3ABrowse/GBrowse"
+title="Special%3ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse-20syn"
-title="Special:Browse/GBrowse-20syn">+</a></span></td>
+href="Special%3ABrowse/GBrowse-20syn"
+title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/GO-20Graphic-20Viewer"
-title="Special:Browse/GO-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
+title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special:Browse/GO::TermFinder"
-title="Special:Browse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO::TermFinder"
+title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special:Browse/Galaxy"
-title="Special:Browse/Galaxy">+</a></span></td>
+href="Special%3ABrowse/Galaxy"
+title="Special%3ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -174,11 +174,11 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine"
-title="Special:Browse/InterMine">+</a></span></td>
+href="Special%3ABrowse/InterMine"
+title="Special%3ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -187,20 +187,20 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse"
-title="Special:Browse/JBrowse">+</a></span></td>
+href="Special%3ABrowse/JBrowse"
+title="Special%3ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse2"
-title="Special:Browse/JBrowse2">+</a></span></td>
+href="Special%3ABrowse/JBrowse2"
+title="Special%3ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -208,11 +208,11 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special:Browse/MAKER"
-title="Special:Browse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/MAKER"
+title="Special%3ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">Caveats apply  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Caveats-20apply"
-title="Special:SearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply"
+title="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -221,11 +221,11 @@ title="Special:SearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span>
 <tr class="even">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special:Browse/Pathway-20Tools"
-title="Special:Browse/Pathway-20Tools">+</a></span></td>
+href="Special%3ABrowse/Pathway-20Tools"
+title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">Caveats apply  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Caveats-20apply"
-title="Special:SearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply"
+title="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -234,20 +234,20 @@ title="Special:SearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span>
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special:Browse/Textpresso"
-title="Special:Browse/Textpresso">+</a></span></td>
+href="Special%3ABrowse/Textpresso"
+title="Special%3ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">Caveats apply  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Caveats-20apply"
-title="Special:SearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply"
+title="Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal"
-title="Special:Browse/Tripal">+</a></span></td>
+href="Special%3ABrowse/Tripal"
+title="Special%3ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -256,20 +256,20 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo"
-title="Special:Browse/WebApollo">+</a></span></td>
+href="Special%3ABrowse/WebApollo"
+title="Special%3ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2"
-title="Special:Browse/WebApollo2">+</a></span></td>
+href="Special%3ABrowse/WebApollo2"
+title="Special%3ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -277,11 +277,11 @@ title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special:Browse/XORT"
-title="Special:Browse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/XORT"
+title="Special%3ABrowse/XORT">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -307,13 +307,13 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Is open
-source](Special:Browse/Property:Is-20open-20source "Special:Browse/Property:Is-20open-20source")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+source](Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Is_open_source "Special:ExportRDF/Property:Is open source")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | Yes <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/Yes "Special:SearchByProperty/Allows-20value/Yes")</span>, No <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/No "Special:SearchByProperty/Allows-20value/No")</span> and Caveats apply <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/Caveats-20apply "Special:SearchByProperty/Allows-20value/Caveats-20apply")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | Yes <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/Yes "Special%3ASearchByProperty/Allows-20value/Yes")</span>, No <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/No "Special%3ASearchByProperty/Allows-20value/No")</span> and Caveats apply <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/Caveats-20apply "Special%3ASearchByProperty/Allows-20value/Caveats-20apply")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -444,7 +444,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Is_open_source" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Is_open_source" rel="smw-browse">Browse
   properties</a></span>
 
 

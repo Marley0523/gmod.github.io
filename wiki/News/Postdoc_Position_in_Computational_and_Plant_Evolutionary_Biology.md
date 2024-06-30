@@ -223,7 +223,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FPostdoc_Position_in_Computational_and_Plant_Evolutionary_Biology"
+  href="../Special%3ABrowse/News-2FPostdoc_Position_in_Computational_and_Plant_Evolutionary_Biology"
   rel="smw-browse">Browse properties</a></span>
 
 

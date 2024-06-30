@@ -245,7 +245,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FChado_in_RDF%3A_OpenFlyData"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FChado_in_RDF%3A_OpenFlyData"
   rel="smw-browse">Browse properties</a></span>
 
 

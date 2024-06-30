@@ -481,7 +481,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Perl_Testing_-2D_by_Gavin_Sherlock"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Perl_Testing_-2D_by_Gavin_Sherlock"
   rel="smw-browse">Browse properties</a></span>
 
 

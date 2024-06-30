@@ -309,7 +309,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/Arthropod_Genomics_2011"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

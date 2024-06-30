@@ -181,7 +181,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/User:Chinmay" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User:Chinmay" rel="smw-browse">Browse
   properties</a></span>
 
 

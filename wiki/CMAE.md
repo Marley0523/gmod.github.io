@@ -284,7 +284,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CMAE" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMAE" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

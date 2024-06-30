@@ -330,7 +330,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/Apollo-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Apollo-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

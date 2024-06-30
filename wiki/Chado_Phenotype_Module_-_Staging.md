@@ -490,7 +490,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Phenotype_Module_-2D_Staging"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_-2D_Staging"
   rel="smw-browse">Browse properties</a></span>
 
 

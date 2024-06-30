@@ -298,7 +298,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Generic_Gene_Pages"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Generic_Gene_Pages"
   rel="smw-browse">Browse properties</a></span>
 
 

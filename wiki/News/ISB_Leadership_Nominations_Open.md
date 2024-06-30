@@ -240,7 +240,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FISB_Leadership_Nominations_Open"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FISB_Leadership_Nominations_Open"
   rel="smw-browse">Browse properties</a></span>
 
 

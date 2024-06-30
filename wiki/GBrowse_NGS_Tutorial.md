@@ -1495,12 +1495,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse NGS
-Tutorial](Special:Browse/GBrowse-20NGS-20Tutorial "Special:Browse/GBrowse-20NGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%3ABrowse/GBrowse-20NGS-20Tutorial "Special%3ABrowse/GBrowse-20NGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:ExportRDF/GBrowse NGS Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/GBrowse "Special:SearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 </div>
 
@@ -1629,7 +1629,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_NGS_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_NGS_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

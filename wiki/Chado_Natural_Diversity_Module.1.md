@@ -1426,7 +1426,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Natural_Diversity_Module"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Natural_Diversity_Module"
   rel="smw-browse">Browse properties</a></span>
 
 

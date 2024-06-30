@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_at_Biocuration_2013"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_at_Biocuration_2013"
   rel="smw-browse">Browse properties</a></span>
 
 

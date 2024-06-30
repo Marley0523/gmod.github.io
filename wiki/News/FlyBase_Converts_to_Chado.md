@@ -214,7 +214,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FFlyBase_Converts_to_Chado"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FFlyBase_Converts_to_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 

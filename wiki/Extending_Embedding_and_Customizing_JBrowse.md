@@ -255,7 +255,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Extending_Embedding_and_Customizing_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Extending_Embedding_and_Customizing_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

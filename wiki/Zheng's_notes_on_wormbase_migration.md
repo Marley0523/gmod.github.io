@@ -447,7 +447,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Zheng&#39;s_notes_on_wormbase_migration"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Zheng&#39;s_notes_on_wormbase_migration"
   rel="smw-browse">Browse properties</a></span>
 
 

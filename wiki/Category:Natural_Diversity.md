@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Natural_Diversity"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Natural_Diversity"
   rel="smw-browse">Browse properties</a></span>
 
 

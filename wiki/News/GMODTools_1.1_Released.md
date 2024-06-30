@@ -213,7 +213,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMODTools_1.1_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMODTools_1.1_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

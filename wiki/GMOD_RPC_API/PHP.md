@@ -269,7 +269,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_RPC_API-2FPHP" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_RPC_API-2FPHP" rel="smw-browse">Browse
   properties</a></span>
 
 

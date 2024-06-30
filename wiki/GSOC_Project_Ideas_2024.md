@@ -291,7 +291,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GSOC_Project_Ideas_2024" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSOC_Project_Ideas_2024" rel="smw-browse">Browse
   properties</a></span>
 
 

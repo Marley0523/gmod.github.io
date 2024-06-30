@@ -548,7 +548,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Using_the_topoview_Glyph"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_the_topoview_Glyph"
   rel="smw-browse">Browse properties</a></span>
 
 

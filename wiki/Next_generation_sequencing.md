@@ -214,7 +214,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Next_Generation_Sequencing"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Next_Generation_Sequencing"
   rel="smw-browse">Browse properties</a></span>
 
 

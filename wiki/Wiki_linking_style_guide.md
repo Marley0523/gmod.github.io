@@ -317,7 +317,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Wiki_linking_style_guide"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Wiki_linking_style_guide"
   rel="smw-browse">Browse properties</a></span>
 
 

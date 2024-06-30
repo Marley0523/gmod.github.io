@@ -211,7 +211,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FApplications_Open_for_GMOD_Online_Training"
+  href="../Special%3ABrowse/News-2FApplications_Open_for_GMOD_Online_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -60,12 +60,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has software
-prerequisite](Special:Browse/Property:Has-20software-20prerequisite "Special:Browse/Property:Has-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+prerequisite](Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -196,7 +196,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Has_software_prerequisite"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_software_prerequisite"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -249,7 +249,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Sybil_Chado_Comparative_Genomics_Data"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sybil_Chado_Comparative_Genomics_Data"
   rel="smw-browse">Browse properties</a></span>
 
 

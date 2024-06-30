@@ -436,7 +436,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/GMOD_Evo_Hackathon_Proposal_Supplemental_Information"
+  href="Special%3ABrowse/GMOD_Evo_Hackathon_Proposal_Supplemental_Information"
   rel="smw-browse">Browse properties</a></span>
 
 

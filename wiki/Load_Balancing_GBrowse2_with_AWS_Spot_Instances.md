@@ -765,7 +765,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
   rel="smw-browse">Browse properties</a></span>
 
 

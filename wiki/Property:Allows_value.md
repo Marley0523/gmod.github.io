@@ -76,17 +76,17 @@ this property.
 <td class="smwpropname"><a href="Property:Available_on_platform"
 title="Property:Available on platform">Available on platform</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Available-20on-20platform"
-title="Special:Browse/Property:Available-20on-20platform">+</a></span></td>
+href="Special%3ABrowse/Property:Available-20on-20platform"
+title="Special%3ABrowse/Property:Available-20on-20platform">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/web"
-title="Special:SearchByProperty/Allows-20value/web">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/web"
+title="Special%3ASearchByProperty/Allows-20value/web">+</a></span>,
 linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/linux"
-title="Special:SearchByProperty/Allows-20value/linux">+</a></span>, os
+href="Special%3ASearchByProperty/Allows-20value/linux"
+title="Special%3ASearchByProperty/Allows-20value/linux">+</a></span>, os
 x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/os-20x"
-title="Special:SearchByProperty/Allows-20value/os-20x">+</a></span>, <a
+href="Special%3ASearchByProperty/Allows-20value/os-20x"
+title="Special%3ASearchByProperty/Allows-20value/os-20x">+</a></span>, <a
 href="Special:PageProperty/Property:Available_on_platform::Allows_value"
 title="Special:PageProperty/Property:Available on platform::Allows value">…</a></td>
 </tr>
@@ -98,33 +98,33 @@ title="Special:PageProperty/Property:Available on platform::Allows value">…</a
 <td class="smwpropname"><a href="Property:Has_development_status"
 title="Property:Has development status">Has development status</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Has-20development-20status"
-title="Special:Browse/Property:Has-20development-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20development-20status"
+title="Special%3ABrowse/Property:Has-20development-20status">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/active"
-title="Special:SearchByProperty/Allows-20value/active">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/active"
+title="Special%3ASearchByProperty/Allows-20value/active">+</a></span>,
 maintenance  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/maintenance"
-title="Special:SearchByProperty/Allows-20value/maintenance">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/maintenance"
+title="Special%3ASearchByProperty/Allows-20value/maintenance">+</a></span>,
 inactive  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/inactive"
-title="Special:SearchByProperty/Allows-20value/inactive">+</a></span></td>
+href="Special%3ASearchByProperty/Allows-20value/inactive"
+title="Special%3ASearchByProperty/Allows-20value/inactive">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20software-20maturity-20status"
-title="Special:Browse/Property:Has-20software-20maturity-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20software-20maturity-20status"
+title="Special%3ABrowse/Property:Has-20software-20maturity-20status">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/mature"
-title="Special:SearchByProperty/Allows-20value/mature">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/mature"
+title="Special%3ASearchByProperty/Allows-20value/mature">+</a></span>,
 pre-alpha  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/pre-2Dalpha"
-title="Special:SearchByProperty/Allows-20value/pre-2Dalpha">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/pre-2Dalpha"
+title="Special%3ASearchByProperty/Allows-20value/pre-2Dalpha">+</a></span>,
 alpha release  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/alpha-20release"
-title="Special:SearchByProperty/Allows-20value/alpha-20release">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/alpha-20release"
+title="Special%3ASearchByProperty/Allows-20value/alpha-20release">+</a></span>,
 <a
 href="Special:PageProperty/Property:Has_software_maturity_status::Allows_value"
 title="Special:PageProperty/Property:Has software maturity status::Allows value">…</a></td>
@@ -133,14 +133,14 @@ title="Special:PageProperty/Property:Has software maturity status::Allows value"
 <td class="smwpropname"><a href="Property:Has_support_status"
 title="Property:Has support status">Has support status</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Has-20support-20status"
-title="Special:Browse/Property:Has-20support-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20support-20status"
+title="Special%3ABrowse/Property:Has-20support-20status">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/active"
-title="Special:SearchByProperty/Allows-20value/active">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/active"
+title="Special%3ASearchByProperty/Allows-20value/active">+</a></span>,
 inactive  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/inactive"
-title="Special:SearchByProperty/Allows-20value/inactive">+</a></span></td>
+href="Special%3ASearchByProperty/Allows-20value/inactive"
+title="Special%3ASearchByProperty/Allows-20value/inactive">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -149,17 +149,17 @@ title="Special:SearchByProperty/Allows-20value/inactive">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Is_open_source"
 title="Property:Is open source">Is open source</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Is-20open-20source"
-title="Special:Browse/Property:Is-20open-20source">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Is-20open-20source"
+title="Special%3ABrowse/Property:Is-20open-20source">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/Yes"
-title="Special:SearchByProperty/Allows-20value/Yes">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/Yes"
+title="Special%3ASearchByProperty/Allows-20value/Yes">+</a></span>,
 No  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/No"
-title="Special:SearchByProperty/Allows-20value/No">+</a></span>, Caveats
+href="Special%3ASearchByProperty/Allows-20value/No"
+title="Special%3ASearchByProperty/Allows-20value/No">+</a></span>, Caveats
 apply  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/Caveats-20apply"
-title="Special:SearchByProperty/Allows-20value/Caveats-20apply">+</a></span></td>
+href="Special%3ASearchByProperty/Allows-20value/Caveats-20apply"
+title="Special%3ASearchByProperty/Allows-20value/Caveats-20apply">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="l">L</h3></td>
@@ -168,17 +168,17 @@ title="Special:SearchByProperty/Allows-20value/Caveats-20apply">+</a></span></td
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Link_type"
 title="Property:Link type">Link type</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Link-20type"
-title="Special:Browse/Property:Link-20type">+</a></span></td>
+href="Special%3ABrowse/Property:Link-20type"
+title="Special%3ABrowse/Property:Link-20type">+</a></span></td>
 <td class="smwprops">website  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/website"
-title="Special:SearchByProperty/Allows-20value/website">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/website"
+title="Special%3ASearchByProperty/Allows-20value/website">+</a></span>,
 download  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/download"
-title="Special:SearchByProperty/Allows-20value/download">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/download"
+title="Special%3ASearchByProperty/Allows-20value/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special:SearchByProperty/Allows-20value/source-20code"
-title="Special:SearchByProperty/Allows-20value/source-20code">+</a></span>,
+href="Special%3ASearchByProperty/Allows-20value/source-20code"
+title="Special%3ASearchByProperty/Allows-20value/source-20code">+</a></span>,
 <a href="Special:PageProperty/Property:Link_type::Allows_value"
 title="Special:PageProperty/Property:Link type::Allows value">…</a></td>
 </tr>
@@ -325,7 +325,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Allows_value" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Allows_value" rel="smw-browse">Browse
   properties</a></span>
 
 

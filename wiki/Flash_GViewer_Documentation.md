@@ -955,7 +955,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Flash_GViewer_Documentation"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
 
 

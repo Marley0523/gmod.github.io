@@ -1223,7 +1223,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Glyphs_and_Glyph_Options"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Glyphs_and_Glyph_Options"
   rel="smw-browse">Browse properties</a></span>
 
 

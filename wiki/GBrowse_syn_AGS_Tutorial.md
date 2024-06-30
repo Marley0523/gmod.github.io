@@ -1038,12 +1038,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn AGS
-Tutorial](Special:Browse/GBrowse-20syn-20AGS-20Tutorial "Special:Browse/GBrowse-20syn-20AGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%3ABrowse/GBrowse-20syn-20AGS-20Tutorial "Special%3ABrowse/GBrowse-20syn-20AGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:ExportRDF/GBrowse syn AGS Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/GBrowse-20syn "Special:SearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 </div>
 
@@ -1174,7 +1174,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_AGS_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_AGS_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

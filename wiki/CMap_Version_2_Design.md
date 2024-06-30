@@ -296,7 +296,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CMap_Version_2_Design" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMap_Version_2_Design" rel="smw-browse">Browse
   properties</a></span>
 
 

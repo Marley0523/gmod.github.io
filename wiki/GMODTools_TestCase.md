@@ -240,7 +240,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMODTools_TestCase" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODTools_TestCase" rel="smw-browse">Browse
   properties</a></span>
 
 

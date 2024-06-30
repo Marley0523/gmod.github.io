@@ -723,7 +723,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Community_Annotation_-2D_September_2010_Satellite"
+  href="Special%3ABrowse/Community_Annotation_-2D_September_2010_Satellite"
   rel="smw-browse">Browse properties</a></span>
 
 

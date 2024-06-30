@@ -2885,12 +2885,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER Tutorial
-2012](Special:Browse/MAKER-20Tutorial-202012 "Special:Browse/MAKER-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%3ABrowse/MAKER-20Tutorial-202012 "Special%3ABrowse/MAKER-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2012 "Special:ExportRDF/MAKER Tutorial 2012")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/MAKER "Special:SearchByProperty/Has-20topic/MAKER")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
 
 </div>
 
@@ -3021,7 +3021,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MAKER_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

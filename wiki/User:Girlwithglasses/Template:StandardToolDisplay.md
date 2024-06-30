@@ -192,7 +192,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/User:Girlwithglasses-2FTemplate:StandardToolDisplay"
+  href="../Special%3ABrowse/User:Girlwithglasses-2FTemplate:StandardToolDisplay"
   rel="smw-browse">Browse properties</a></span>
 
 

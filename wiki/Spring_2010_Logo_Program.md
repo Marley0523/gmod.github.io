@@ -894,7 +894,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Spring_2010_Logo_Program"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Spring_2010_Logo_Program"
   rel="smw-browse">Browse properties</a></span>
 
 

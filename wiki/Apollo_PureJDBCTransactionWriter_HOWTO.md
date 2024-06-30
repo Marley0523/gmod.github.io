@@ -507,7 +507,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_PureJDBCTransactionWriter_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_PureJDBCTransactionWriter_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -437,7 +437,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Html.tmpl.module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Html.tmpl.module" rel="smw-browse">Browse
   properties</a></span>
 
 

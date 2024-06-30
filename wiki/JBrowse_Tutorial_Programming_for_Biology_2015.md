@@ -762,12 +762,12 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial Programming for
 Biology
-2015](Special:Browse/JBrowse-20Tutorial-20Programming-20for-20Biology-202015 "Special:Browse/JBrowse-20Tutorial-20Programming-20for-20Biology-202015")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2015](Special%3ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202015 "Special%3ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202015")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Biology_2015 "Special:ExportRDF/JBrowse Tutorial Programming for Biology 2015")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/JBrowse "Special:SearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
 
@@ -898,7 +898,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse_Tutorial_Programming_for_Biology_2015"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_Programming_for_Biology_2015"
   rel="smw-browse">Browse properties</a></span>
 
 

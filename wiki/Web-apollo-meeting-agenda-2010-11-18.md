@@ -188,7 +188,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Web-2Dapollo-2Dmeeting-2Dagenda-2D2010-2D11-2D18"
+  href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2Dagenda-2D2010-2D11-2D18"
   rel="smw-browse">Browse properties</a></span>
 
 

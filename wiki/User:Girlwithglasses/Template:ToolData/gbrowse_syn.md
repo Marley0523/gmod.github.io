@@ -379,7 +379,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../../Special:Browse/User:Girlwithglasses-2FTemplate:ToolData-2Fgbrowse_syn"
+  href="../../Special%3ABrowse/User:Girlwithglasses-2FTemplate:ToolData-2Fgbrowse_syn"
   rel="smw-browse">Browse properties</a></span>
 
 

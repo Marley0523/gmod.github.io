@@ -240,7 +240,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FNGS_Analyses_in_Galaxy"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FNGS_Analyses_in_Galaxy"
   rel="smw-browse">Browse properties</a></span>
 
 

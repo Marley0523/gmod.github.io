@@ -236,7 +236,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FProspecting_for_Proposals_for_GSoC_2020"
+  href="../Special%3ABrowse/News-2FProspecting_for_Proposals_for_GSoC_2020"
   rel="smw-browse">Browse properties</a></span>
 
 

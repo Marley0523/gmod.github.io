@@ -225,7 +225,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Updating_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Updating_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

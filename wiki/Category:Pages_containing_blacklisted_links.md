@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Pages_containing_blacklisted_links"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Pages_containing_blacklisted_links"
   rel="smw-browse">Browse properties</a></span>
 
 

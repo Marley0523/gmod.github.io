@@ -407,7 +407,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_Program_Structure"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Program_Structure"
   rel="smw-browse">Browse properties</a></span>
 
 

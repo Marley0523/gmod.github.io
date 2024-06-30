@@ -196,7 +196,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FLast_Chance_To_Be_Surveyed"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FLast_Chance_To_Be_Surveyed"
   rel="smw-browse">Browse properties</a></span>
 
 

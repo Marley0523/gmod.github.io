@@ -229,7 +229,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FRegistration_Open_for_GMOD_2012_Meeting"
+  href="../Special%3ABrowse/News-2FRegistration_Open_for_GMOD_2012_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

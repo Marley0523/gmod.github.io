@@ -243,7 +243,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/C_briggsae.syn" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/C_briggsae.syn" rel="smw-browse">Browse
   properties</a></span>
 
 

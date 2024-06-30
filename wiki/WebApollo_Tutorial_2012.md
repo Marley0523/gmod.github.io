@@ -1591,12 +1591,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[WebApollo Tutorial
-2012](Special:Browse/WebApollo-20Tutorial-202012 "Special:Browse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%3ABrowse/WebApollo-20Tutorial-202012 "Special%3ABrowse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:ExportRDF/WebApollo Tutorial 2012")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/WebApollo "Special:SearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 </div>
 
@@ -1727,7 +1727,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

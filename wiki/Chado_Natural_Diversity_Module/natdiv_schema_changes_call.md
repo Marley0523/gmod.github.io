@@ -483,7 +483,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/Chado_Natural_Diversity_Module-2Fnatdiv_schema_changes_call"
+  href="../Special%3ABrowse/Chado_Natural_Diversity_Module-2Fnatdiv_schema_changes_call"
   rel="smw-browse">Browse properties</a></span>
 
 

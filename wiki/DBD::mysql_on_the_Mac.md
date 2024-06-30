@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/DBD::mysql_on_the_Mac" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/DBD::mysql_on_the_Mac" rel="smw-browse">Browse
   properties</a></span>
 
 

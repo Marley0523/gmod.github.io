@@ -192,7 +192,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/ProteinDumper.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ProteinDumper.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

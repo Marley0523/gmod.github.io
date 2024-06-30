@@ -3046,12 +3046,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial (pre version
-0.3b)](Special:Browse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special:Browse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+0.3b)](Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) "Special:ExportRDF/Tripal Tutorial (pre version 0.3b)")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Tripal "Special:SearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 
@@ -3182,7 +3182,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Tutorial_(pre_version_0.3b)"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(pre_version_0.3b)"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -220,7 +220,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Web-2Dapollo-2Dmeeting-2D2010-2D12-2D16"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2D2010-2D12-2D16"
   rel="smw-browse">Browse properties</a></span>
 
 

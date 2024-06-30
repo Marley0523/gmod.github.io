@@ -256,7 +256,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/JBrowseDev-2FThe_UrlTemplate_Option"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowseDev-2FThe_UrlTemplate_Option"
   rel="smw-browse">Browse properties</a></span>
 
 

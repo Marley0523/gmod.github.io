@@ -474,8 +474,8 @@ pages to RDF</a></li>
 </ul></td>
 <td style="width: 10%"></td>
 <td style="width: 30%"><ul>
-<li><a href="/wiki/Special:SearchByProperty"
-title="Special:SearchByProperty">Search by property</a></li>
+<li><a href="/wiki/Special%3ASearchByProperty"
+title="Special%3ASearchByProperty">Search by property</a></li>
 <li><a href="/wiki/Special:Ask" title="Special:Ask">Semantic
 search</a></li>
 </ul></td>

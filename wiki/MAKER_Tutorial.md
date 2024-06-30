@@ -2948,7 +2948,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MAKER_Tutorial_2013" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2013" rel="smw-browse">Browse
   properties</a></span>
 
 

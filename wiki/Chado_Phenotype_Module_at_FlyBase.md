@@ -1588,7 +1588,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Phenotype_Module_at_FlyBase"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_at_FlyBase"
   rel="smw-browse">Browse properties</a></span>
 
 

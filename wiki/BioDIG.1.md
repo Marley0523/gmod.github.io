@@ -205,15 +205,15 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[BioDIG](Special:Browse/BioDIG "Special:Browse/BioDIG")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[BioDIG](Special%3ABrowse/BioDIG "Special%3ABrowse/BioDIG")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/BioDIG "Special:ExportRDF/BioDIG")</span></span>
 
 |  |  |
 |----|----|
 | [Has download URL](Property:Has_download_URL "Property:Has download URL") | <a href="http://github.com/idoerg/BioDIG" class="external free"
-rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special:SearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
+rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
 | [Has website](Property:Has_website "Property:Has website") | <a href="http://biodig.org" class="external free"
-rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20website/http:-2F-2Fbiodig.org "Special:SearchByProperty/Has-20website/http:-2F-2Fbiodig.org")</span> |
+rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org")</span> |
 
 </div>
 
@@ -344,7 +344,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/BioDIG" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioDIG" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

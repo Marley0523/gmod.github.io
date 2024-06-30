@@ -310,7 +310,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Load_a_custom_ontology_in_Chado"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_a_custom_ontology_in_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 

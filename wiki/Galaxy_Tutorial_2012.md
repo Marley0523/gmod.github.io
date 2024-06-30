@@ -845,7 +845,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Galaxy_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

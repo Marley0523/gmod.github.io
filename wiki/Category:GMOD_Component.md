@@ -173,12 +173,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Component](Special:Browse/Category:GMOD-20Component "Special:Browse/Category:GMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Component](Special%3ABrowse/Category:GMOD-20Component "Special%3ABrowse/Category:GMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Category:GMOD_Component "Special:ExportRDF/Category:GMOD Component")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form:Tool_data "Form:Tool data") <span class="smwsearch">[+](Special:SearchByProperty/Has-20default-20form/Tool-20data "Special:SearchByProperty/Has-20default-20form/Tool-20data")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form:Tool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
 
 </div>
 
@@ -310,7 +310,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:GMOD_Component" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:GMOD_Component" rel="smw-browse">Browse
   properties</a></span>
 
 

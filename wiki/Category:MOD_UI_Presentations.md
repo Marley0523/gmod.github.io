@@ -429,7 +429,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:MOD_UI_Presentations"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:MOD_UI_Presentations"
   rel="smw-browse">Browse properties</a></span>
 
 

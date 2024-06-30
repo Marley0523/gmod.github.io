@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FModware_Feedback_Wanted"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FModware_Feedback_Wanted"
   rel="smw-browse">Browse properties</a></span>
 
 

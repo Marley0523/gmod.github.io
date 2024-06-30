@@ -932,7 +932,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/BioGraphics:vista_plot_glyph"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioGraphics:vista_plot_glyph"
   rel="smw-browse">Browse properties</a></span>
 
 

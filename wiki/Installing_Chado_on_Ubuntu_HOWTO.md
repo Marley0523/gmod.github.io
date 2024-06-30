@@ -308,7 +308,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Installing_Chado_on_Ubuntu_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Installing_Chado_on_Ubuntu_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

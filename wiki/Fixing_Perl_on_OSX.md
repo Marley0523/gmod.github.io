@@ -226,7 +226,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Fixing_Perl_on_OSX" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Fixing_Perl_on_OSX" rel="smw-browse">Browse
   properties</a></span>
 
 

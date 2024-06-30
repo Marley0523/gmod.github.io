@@ -276,7 +276,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interface_Caucus"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_User_Interface_Caucus"
   rel="smw-browse">Browse properties</a></span>
 
 

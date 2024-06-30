@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Source_Code_Repositories"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Source_Code_Repositories"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -190,7 +190,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/User:Colin_Diesh" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User:Colin_Diesh" rel="smw-browse">Browse
   properties</a></span>
 
 

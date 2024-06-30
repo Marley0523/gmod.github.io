@@ -220,7 +220,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FMAKER-2DP:_an_annotation_pipeline_for_plants"
+  href="../Special%3ABrowse/News-2FMAKER-2DP:_an_annotation_pipeline_for_plants"
   rel="smw-browse">Browse properties</a></span>
 
 

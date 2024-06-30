@@ -275,7 +275,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Migrating_from_GBrowse_to_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Migrating_from_GBrowse_to_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -216,7 +216,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Modifying_the_mediawiki_footer"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Modifying_the_mediawiki_footer"
   rel="smw-browse">Browse properties</a></span>
 
 

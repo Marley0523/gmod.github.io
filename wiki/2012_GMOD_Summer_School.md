@@ -405,7 +405,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/2012_GMOD_Summer_School" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2012_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
 
 

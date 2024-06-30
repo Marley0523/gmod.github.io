@@ -317,7 +317,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/WebApollo-2Drelevant-2Dmeetings"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo-2Drelevant-2Dmeetings"
   rel="smw-browse">Browse properties</a></span>
 
 

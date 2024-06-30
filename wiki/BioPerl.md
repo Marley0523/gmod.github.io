@@ -411,7 +411,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/BioPerl" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioPerl" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

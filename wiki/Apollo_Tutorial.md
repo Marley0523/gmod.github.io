@@ -1330,12 +1330,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Apollo Tutorial
-2011](Special:Browse/Apollo-20Tutorial-202011 "Special:Browse/Apollo-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2011](Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2011 "Special:ExportRDF/Apollo Tutorial 2011")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Apollo "Special:SearchByProperty/Has-20topic/Apollo")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
 
 </div>
 
@@ -1466,7 +1466,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

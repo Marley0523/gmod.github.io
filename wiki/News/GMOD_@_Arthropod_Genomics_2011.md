@@ -232,7 +232,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_@_Arthropod_Genomics_2011"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_@_Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

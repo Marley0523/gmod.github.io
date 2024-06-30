@@ -75,23 +75,23 @@ this property.
 <tr class="odd">
 <td class="smwpropname"><a href="Category:GMOD_Component"
 title="Category:GMOD Component">GMOD Component</a> <span
-class="smwbrowse"><a href="Special:Browse/Category:GMOD-20Component"
-title="Special:Browse/Category:GMOD-20Component">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Category:GMOD-20Component"
+title="Special%3ABrowse/Category:GMOD-20Component">+</a></span></td>
 <td class="smwprops"><a href="Form:Tool_data"
 title="Form:Tool data">Tool data</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20default-20form/Tool-20data"
-title="Special:SearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20default-20form/Tool-20data"
+title="Special%3ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Category:GMOD_Tools"
 title="Category:GMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
-href="Special:Browse/Category:GMOD-20Tools"
-title="Special:Browse/Category:GMOD-20Tools">+</a></span></td>
+href="Special%3ABrowse/Category:GMOD-20Tools"
+title="Special%3ABrowse/Category:GMOD-20Tools">+</a></span></td>
 <td class="smwprops"><a href="Form:Component_information"
 title="Form:Component information">Component information</a>  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20default-20form/Component-20information"
-title="Special:SearchByProperty/Has-20default-20form/Component-20information">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20default-20form/Component-20information"
+title="Special%3ASearchByProperty/Has-20default-20form/Component-20information">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -236,7 +236,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Has_default_form"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_default_form"
   rel="smw-browse">Browse properties</a></span>
 
 

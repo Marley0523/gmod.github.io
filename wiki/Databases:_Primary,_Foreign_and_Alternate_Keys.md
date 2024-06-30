@@ -326,7 +326,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Databases:_Primary,_Foreign_and_Alternate_Keys"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Databases:_Primary,_Foreign_and_Alternate_Keys"
   rel="smw-browse">Browse properties</a></span>
 
 

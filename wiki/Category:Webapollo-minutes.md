@@ -216,7 +216,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Webapollo-2Dminutes"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Webapollo-2Dminutes"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -341,7 +341,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Java_Testing_-2D_by_Jon_Slenk"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Java_Testing_-2D_by_Jon_Slenk"
   rel="smw-browse">Browse properties</a></span>
 
 

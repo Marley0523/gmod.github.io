@@ -318,7 +318,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Load_RefSeq_Into_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_RefSeq_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

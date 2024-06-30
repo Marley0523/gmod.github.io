@@ -339,7 +339,7 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[JimHu/Gbrowse](../Special:Browse/User:JimHu-2FGbrowse "Special:Browse/User:JimHu-2FGbrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[JimHu/Gbrowse](../Special%3ABrowse/User:JimHu-2FGbrowse "Special%3ABrowse/User:JimHu-2FGbrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/User:JimHu/Gbrowse "Special:ExportRDF/User:JimHu/Gbrowse")</span></span>
 
 |  |  |
@@ -347,30 +347,30 @@ feed](http://gmod.org/wiki/Special:ExportRDF/User:JimHu/Gbrowse "Special:ExportR
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Date_published&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Date published (page does not exist)">Date published</a> | 2002 <span class="smwsearch">[+](../Special:SearchByProperty/Date-20published/2002 "Special:SearchByProperty/Date-20published/2002")</span> |
+title="Property:Date published (page does not exist)">Date published</a> | 2002 <span class="smwsearch">[+](../Special%3ASearchByProperty/Date-20published/2002 "Special%3ASearchByProperty/Date-20published/2002")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Has_DOI&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Has DOI (page does not exist)">Has DOI</a> | 10.1101/gr.403602 <span class="smwsearch">[+](../Special:SearchByProperty/Has-20DOI/10.1101-2Fgr.403602 "Special:SearchByProperty/Has-20DOI/10.1101-2Fgr.403602")</span> |
+class="new" title="Property:Has DOI (page does not exist)">Has DOI</a> | 10.1101/gr.403602 <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20DOI/10.1101-2Fgr.403602 "Special%3ASearchByProperty/Has-20DOI/10.1101-2Fgr.403602")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Has_PMCID&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Has PMCID (page does not exist)">Has PMCID</a> | PMC187535 <span class="smwsearch">[+](../Special:SearchByProperty/Has-20PMCID/PMC187535 "Special:SearchByProperty/Has-20PMCID/PMC187535")</span> |
+title="Property:Has PMCID (page does not exist)">Has PMCID</a> | PMC187535 <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20PMCID/PMC187535 "Special%3ASearchByProperty/Has-20PMCID/PMC187535")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Has_PMID&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Has PMID (page does not exist)">Has PMID</a> | 12368253 <span class="smwsearch">[+](../Special:SearchByProperty/Has-20PMID/12368253 "Special:SearchByProperty/Has-20PMID/12368253")</span> |
+class="new" title="Property:Has PMID (page does not exist)">Has PMID</a> | 12368253 <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20PMID/12368253 "Special%3ASearchByProperty/Has-20PMID/12368253")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Has_author&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Has author (page does not exist)">Has author</a> | Stein LD <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Stein-20LD "Special:SearchByProperty/Has-20author/Stein-20LD")</span>, Mungall C <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Mungall-20C "Special:SearchByProperty/Has-20author/Mungall-20C")</span>, Shu S <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Shu-20S "Special:SearchByProperty/Has-20author/Shu-20S")</span>, Caudy M <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Caudy-20M "Special:SearchByProperty/Has-20author/Caudy-20M")</span>, Mangone M <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Mangone-20M "Special:SearchByProperty/Has-20author/Mangone-20M")</span>, Day A <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Day-20A "Special:SearchByProperty/Has-20author/Day-20A")</span>, Nickerson E <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Nickerson-20E "Special:SearchByProperty/Has-20author/Nickerson-20E")</span>, Stajich JE <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Stajich-20JE "Special:SearchByProperty/Has-20author/Stajich-20JE")</span>, Harris TW <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Harris-20TW "Special:SearchByProperty/Has-20author/Harris-20TW")</span>, Arva A <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Arva-20A "Special:SearchByProperty/Has-20author/Arva-20A")</span> and Lewis S <span class="smwsearch">[+](../Special:SearchByProperty/Has-20author/Lewis-20S "Special:SearchByProperty/Has-20author/Lewis-20S")</span> |
+title="Property:Has author (page does not exist)">Has author</a> | Stein LD <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Stein-20LD "Special%3ASearchByProperty/Has-20author/Stein-20LD")</span>, Mungall C <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Mungall-20C "Special%3ASearchByProperty/Has-20author/Mungall-20C")</span>, Shu S <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Shu-20S "Special%3ASearchByProperty/Has-20author/Shu-20S")</span>, Caudy M <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Caudy-20M "Special%3ASearchByProperty/Has-20author/Caudy-20M")</span>, Mangone M <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Mangone-20M "Special%3ASearchByProperty/Has-20author/Mangone-20M")</span>, Day A <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Day-20A "Special%3ASearchByProperty/Has-20author/Day-20A")</span>, Nickerson E <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Nickerson-20E "Special%3ASearchByProperty/Has-20author/Nickerson-20E")</span>, Stajich JE <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Stajich-20JE "Special%3ASearchByProperty/Has-20author/Stajich-20JE")</span>, Harris TW <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Harris-20TW "Special%3ASearchByProperty/Has-20author/Harris-20TW")</span>, Arva A <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Arva-20A "Special%3ASearchByProperty/Has-20author/Arva-20A")</span> and Lewis S <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20author/Lewis-20S "Special%3ASearchByProperty/Has-20author/Lewis-20S")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Has_publication_details&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Has publication details (page does not exist)">Has publication details</a> | Genome research 12: 1599-610 <span class="smwsearch">[+](../Special:SearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610 "Special:SearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610")</span> |
-| [Has title](../Property:Has_title "Property:Has title") | The generic genome browser: a building block for a model organism system database. <span class="smwsearch">[+](../Special:SearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database. "Special:SearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database.")</span> |
+title="Property:Has publication details (page does not exist)">Has publication details</a> | Genome research 12: 1599-610 <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610 "Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610")</span> |
+| [Has title](../Property:Has_title "Property:Has title") | The generic genome browser: a building block for a model organism system database. <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database. "Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database.")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Published in (page does not exist)">Published in</a> | Genome research <span class="smwsearch">[+](../Special:SearchByProperty/Published-20in/Genome-20research "Special:SearchByProperty/Published-20in/Genome-20research")</span> |
+title="Property:Published in (page does not exist)">Published in</a> | Genome research <span class="smwsearch">[+](../Special%3ASearchByProperty/Published-20in/Genome-20research "Special%3ASearchByProperty/Published-20in/Genome-20research")</span> |
 
 </div>
 
@@ -504,7 +504,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/User:JimHu-2FGbrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/User:JimHu-2FGbrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

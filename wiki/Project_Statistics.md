@@ -686,7 +686,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Project_Statistics" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Project_Statistics" rel="smw-browse">Browse
   properties</a></span>
 
 

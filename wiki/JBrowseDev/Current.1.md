@@ -5214,7 +5214,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/JBrowse_Configuration_Guide"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
 
 

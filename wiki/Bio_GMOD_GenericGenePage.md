@@ -359,7 +359,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Bio_GMOD_GenericGenePage"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio_GMOD_GenericGenePage"
   rel="smw-browse">Browse properties</a></span>
 
 

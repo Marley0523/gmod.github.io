@@ -340,7 +340,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CVS_to_Subversion_Conversion"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CVS_to_Subversion_Conversion"
   rel="smw-browse">Browse properties</a></span>
 
 

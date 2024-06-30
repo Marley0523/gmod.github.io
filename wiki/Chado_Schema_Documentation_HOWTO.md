@@ -671,7 +671,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Schema_Documentation_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Schema_Documentation_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

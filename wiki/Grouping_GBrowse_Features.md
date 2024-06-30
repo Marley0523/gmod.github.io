@@ -250,7 +250,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Grouping_GBrowse_Features"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Grouping_GBrowse_Features"
   rel="smw-browse">Browse properties</a></span>
 
 

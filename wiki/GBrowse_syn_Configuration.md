@@ -481,7 +481,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_Configuration"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Configuration"
   rel="smw-browse">Browse properties</a></span>
 
 

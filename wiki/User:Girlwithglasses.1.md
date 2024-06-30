@@ -181,7 +181,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/User:Girlwithglasses"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/User:Girlwithglasses"
   rel="smw-browse">Browse properties</a></span>
 
 

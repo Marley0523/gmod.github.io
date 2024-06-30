@@ -283,7 +283,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Category:Community_Annotation"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category:Community_Annotation"
   rel="smw-browse">Browse properties</a></span>
 
 

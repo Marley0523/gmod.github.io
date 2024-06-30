@@ -2152,7 +2152,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Developer&#39;s_Handbook"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Developer&#39;s_Handbook"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -827,7 +827,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/NIH_2002_Workshop_on_Model_Organism_Databases"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/NIH_2002_Workshop_on_Model_Organism_Databases"
   rel="smw-browse">Browse properties</a></span>
 
 

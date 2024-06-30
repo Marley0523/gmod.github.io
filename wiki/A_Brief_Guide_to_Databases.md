@@ -333,7 +333,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/A_Brief_Guide_to_Databases"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/A_Brief_Guide_to_Databases"
   rel="smw-browse">Browse properties</a></span>
 
 

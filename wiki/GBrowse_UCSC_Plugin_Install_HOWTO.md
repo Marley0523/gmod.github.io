@@ -740,7 +740,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_UCSC_Plugin_Install_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_UCSC_Plugin_Install_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

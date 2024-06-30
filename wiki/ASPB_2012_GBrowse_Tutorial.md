@@ -280,7 +280,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/ASPB_2012_GBrowse_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ASPB_2012_GBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

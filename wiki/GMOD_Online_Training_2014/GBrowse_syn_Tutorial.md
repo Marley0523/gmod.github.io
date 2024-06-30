@@ -1020,7 +1020,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/GMOD_Online_Training_2014-2FGBrowse_syn_Tutorial"
+  href="../Special%3ABrowse/GMOD_Online_Training_2014-2FGBrowse_syn_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

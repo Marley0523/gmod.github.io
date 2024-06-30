@@ -331,7 +331,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../../Special:Browse/Gbrowse-2Fauthentication_plugins-2FPamAuthenticate"
+  href="../../Special%3ABrowse/Gbrowse-2Fauthentication_plugins-2FPamAuthenticate"
   rel="smw-browse">Browse properties</a></span>
 
 

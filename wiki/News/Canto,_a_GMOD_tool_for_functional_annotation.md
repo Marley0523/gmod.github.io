@@ -248,7 +248,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FCanto,_a_GMOD_tool_for_functional_annotation"
+  href="../Special%3ABrowse/News-2FCanto,_a_GMOD_tool_for_functional_annotation"
   rel="smw-browse">Browse properties</a></span>
 
 

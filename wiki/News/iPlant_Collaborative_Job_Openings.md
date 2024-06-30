@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FiPlant_Collaborative_Job_Openings"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FiPlant_Collaborative_Job_Openings"
   rel="smw-browse">Browse properties</a></span>
 
 
