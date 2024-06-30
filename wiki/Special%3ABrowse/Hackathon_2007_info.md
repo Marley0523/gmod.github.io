@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Community Annotation](/wiki/Category:Community_Annotation "Category:Community Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category:Apollo "Category:Apollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category:TableEdit "Category:TableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> , <span class="smwb-value">[Events](/wiki/Category:Events "Category:Events")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2010 19:54:51  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:51 "Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:51")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

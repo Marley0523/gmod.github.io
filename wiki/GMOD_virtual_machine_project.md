@@ -51,7 +51,7 @@ available.***
 VMware images still exist in GMOD in several places. See:
 
 - [VMware HOWTO](VMware_HOWTO "VMware HOWTO")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Community Annotation
   System](Community_Annotation_System "Community Annotation System")
 
@@ -111,7 +111,7 @@ Any thoughts on these?
 Thanks for your time, Scott
 
 - Ian Holmes suggested their extentions to GBrowse
-  ([AJAX](Category:AJAX "Category:AJAX") and wiki).
+  ([AJAX](Category%3AAJAX "Category%3AAJAX") and wiki).
 - Eric Just suggested [Modware](Modware "Modware").
 
 ## <span id="About_.27when_released.27" class="mw-headline">About 'when released'</span>
@@ -142,7 +142,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
 
 </div>
 
@@ -238,8 +238,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Needs Editing](/wiki/Category:Needs_Editing "Category:Needs Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category:Chado_Modules "Category:Chado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Ontologies](/wiki/Category:Ontologies "Category:Ontologies")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Ontologies "Special%3ASearchByProperty/Ontologies")</span></span> , <span class="smwb-value">[!Lacking ERD](/wiki/Category:!Lacking_ERD "Category:!Lacking ERD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/!Lacking-20ERD "Special%3ASearchByProperty/!Lacking-20ERD")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category%3AChado_Modules "Category%3AChado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Ontologies](/wiki/Category%3AOntologies "Category%3AOntologies")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Ontologies "Special%3ASearchByProperty/Ontologies")</span></span> , <span class="smwb-value">[!Lacking ERD](/wiki/Category%3A!Lacking_ERD "Category%3A!Lacking ERD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/!Lacking-20ERD "Special%3ASearchByProperty/!Lacking-20ERD")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">18 February 2015 04:35:08  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/18-20February-202015-2004:35:08 "Special%3ASearchByProperty/Modification-20date/18-20February-202015-2004:35:08")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

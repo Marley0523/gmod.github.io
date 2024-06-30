@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Category:GBrowse Plugins](/wiki/Category:GBrowse_Plugins "Category:GBrowse Plugins") |  |
+| [Category%3AGBrowse Plugins](/wiki/Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins") |  |
 
 |  |  |
 |----|----|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Category:GBrowse_Plugins>"
+"<http://gmod.org/wiki/Special%3ABrowse/Category%3AGBrowse_Plugins>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:GBrowse_Plugins "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AGBrowse_Plugins "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:GBrowse_Plugins&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGBrowse_Plugins&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

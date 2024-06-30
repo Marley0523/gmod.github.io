@@ -1011,7 +1011,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  This \[\[:Category:Tutorials\|tutorial\]\] walks you through how to
+  This \[\[:Category%3ATutorials\|tutorial\]\] walks you through how to
   <span class="searchmatch">install</span> and configure a \[\[Chado\]\]
   database, Chado being the database {{GlossaryLink ...switch to the
   postgres user (it was created during the PostgreSQL package
@@ -1382,8 +1382,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

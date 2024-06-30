@@ -662,10 +662,10 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
-- [Meetings](Category:Meetings "Category:Meetings")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 - [GMOD Best
-  Practices](Category:GMOD_Best_Practices "Category:GMOD Best Practices")
+  Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")
 
 </div>
 
@@ -761,8 +761,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

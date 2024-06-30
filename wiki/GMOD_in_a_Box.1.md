@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
   
 GMOD in a Box is a [GMOD virtual
-server](Category:GMOD_virtual_server "Category:GMOD virtual server")
+server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
 equipped with a suite of preconfigured GMOD components, including a
 **Chado** database, **GBrowse2**, **JBrowse**, **Tripal**, and **Apollo
 or WebApollo**. Setting up a GMOD in a Box instance is quick and easy;
@@ -395,7 +395,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [GMOD virtual
-  server](Category:GMOD_virtual_server "Category:GMOD virtual server")
+  server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
 
 </div>
 
@@ -491,8 +491,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

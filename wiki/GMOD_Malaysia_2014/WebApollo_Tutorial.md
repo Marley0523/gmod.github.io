@@ -621,11 +621,11 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:WebApollo (page does not exist)">WebApollo</a>
+  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
 
 </div>
 
@@ -740,8 +740,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

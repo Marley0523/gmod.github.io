@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[CMap](/wiki/Category:CMap "Category:CMap")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/CMap "Special%3ASearchByProperty/CMap")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[CMap](/wiki/Category%3ACMap "Category%3ACMap")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/CMap "Special%3ASearchByProperty/CMap")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 September 2009 23:06:15  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20September-202009-2023:06:15 "Special%3ASearchByProperty/Modification-20date/15-20September-202009-2023:06:15")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -421,7 +421,7 @@ href="Glossary#AJAX" title="Glossary">AJAX</a> code in <a
 href="http://www.sanger.ac.uk/Software/analysis/lookseq/"
 class="external text" rel="nofollow">Lookseq</a> could be integrated
 into <a href="JBrowse.1" title="JBrowse">JBrowse</a> or <a
-href="Category:GBrowse_2" title="Category:GBrowse 2">Gbrowse2</a>.</td>
+href="Category%3AGBrowse_2" title="Category%3AGBrowse 2">Gbrowse2</a>.</td>
 <td><a href="http://www.sanger.ac.uk/Software/analysis/lookseq/"
 class="external text" rel="nofollow">Lookseq</a></td>
 </tr>
@@ -1660,9 +1660,9 @@ here.
   [GBrowse](GBrowse.1 "GBrowse") and documentation of track
   configuration and additional data type adding are core requirements
   that could be made better. Although I haven't used [GBrowse
-  2](Category:GBrowse_2 "Category:GBrowse 2") it sounds like the
+  2](Category%3AGBrowse_2 "Category%3AGBrowse 2") it sounds like the
   performance element is being addressed.
-- User [GBrowse v2](Category:GBrowse_2 "Category:GBrowse 2") Tutorial?
+- User [GBrowse v2](Category%3AGBrowse_2 "Category%3AGBrowse 2") Tutorial?
 - part of my job takes place on an academic expression platform. I have
   to deal with expression microarray analyzes comming from 2 colors
   arrays and also from RNA-Seq and ChIP-Seq experiments. We use to give
@@ -1867,9 +1867,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
 </div>
 
@@ -1965,8 +1965,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

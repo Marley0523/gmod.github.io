@@ -305,9 +305,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [Expression](Category:Expression "Category:Expression")
-- [!Lacking ERD](Category:!Lacking_ERD "Category:!Lacking ERD")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Expression](Category%3AExpression "Category%3AExpression")
+- [!Lacking ERD](Category%3A!Lacking_ERD "Category%3A!Lacking ERD")
 
 </div>
 
@@ -403,8 +403,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

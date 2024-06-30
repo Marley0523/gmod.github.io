@@ -543,7 +543,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 Please report bugs to the <a
 href="http://sourceforge.net/tracker/?func=add&amp;group_id=27707&amp;atid=391291SourceForge"
-class="external text" rel="nofollow">Bug Tracker</a> (select 'Category:
+class="external text" rel="nofollow">Bug Tracker</a> (select 'Category%3A
 Gbrowse').
 
 ## <span id="GBrowse_in_the_wild" class="mw-headline">GBrowse in the wild</span>
@@ -569,7 +569,7 @@ JavaScript for a faster, more interactive user experience; and
 
 ## <span id="More_on_GBrowse" class="mw-headline">More on GBrowse</span>
 
-See [Category:GBrowse](Category:GBrowse "Category:GBrowse")
+See [Category%3AGBrowse](Category%3AGBrowse "Category%3AGBrowse")
 
 ### <span id="GBrowse_Logo" class="mw-headline">GBrowse Logo</span>
 
@@ -621,13 +621,13 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -995,8 +995,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

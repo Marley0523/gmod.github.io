@@ -61,7 +61,7 @@ Summer School - Americas, May 2010. The most recent Chado tutorial can
 be found at the <a href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado Tutorial</a> page.
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database,
 Chado being the database [schema](Glossary#Schema "Glossary") of the
@@ -295,7 +295,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -362,7 +362,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](Category:FlyBase "Category:FlyBase") - Chado started here,
+  - [FlyBase](Category%3AFlyBase "Category%3AFlyBase") - Chado started here,
     large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -2144,8 +2144,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Chado](Category:Chado "Category:Chado")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -2258,8 +2258,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

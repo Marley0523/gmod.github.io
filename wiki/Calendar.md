@@ -1350,9 +1350,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [Events](Category:Events "Category:Events")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Events](Category%3AEvents "Category%3AEvents")
 
 </div>
 
@@ -1448,8 +1448,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

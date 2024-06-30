@@ -124,9 +124,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Phenotypes](Category:Phenotypes "Category:Phenotypes")
-- [Java](Category:Java "Category:Java")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")
+- [Java](Category%3AJava "Category%3AJava")
 
 </div>
 
@@ -222,8 +222,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

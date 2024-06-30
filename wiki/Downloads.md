@@ -179,21 +179,21 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](Category:Tool_data "Category:Tool data")
-- [Apollo](Category:Apollo "Category:Apollo")
-- [CMap](Category:CMap "Category:CMap")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [MAKER](Category:MAKER "Category:MAKER")
-- [Pathway Tools](Category:Pathway_Tools "Category:Pathway Tools")
-- [SOBA](Category:SOBA "Category:SOBA")
-- [Tripal](Category:Tripal "Category:Tripal")
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [Annotation](Category:Annotation "Category:Annotation")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](Category%3ATool_data "Category%3ATool data")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [CMap](Category%3ACMap "Category%3ACMap")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
+- [SOBA](Category%3ASOBA "Category%3ASOBA")
+- [Tripal](Category%3ATripal "Category%3ATripal")
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 
 </div>
 
@@ -289,8 +289,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

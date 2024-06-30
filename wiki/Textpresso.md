@@ -150,7 +150,7 @@ rel="nofollow">Textpresso website</a>.
 
 ## <span id="Using_Textpresso" class="mw-headline">Using Textpresso</span>
 
-The package is designed for [Linux](Category:Linux "Category:Linux")
+The package is designed for [Linux](Category%3ALinux "Category%3ALinux")
 operating systems and is tested to run on an Intel x86 based hardware.
 The required minimal disk space is around 6GB per 1000 full text papers;
 half of it is used by the publicly (via WWW) accessible database, while
@@ -269,7 +269,7 @@ Public installations of Textpresso:
 
 ## <span id="More_on_Textpresso" class="mw-headline">More on Textpresso</span>
 
-See [Category:Textpresso](Category:Textpresso "Category:Textpresso")
+See [Category%3ATextpresso](Category%3ATextpresso "Category%3ATextpresso")
 
   
 
@@ -290,14 +290,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Textpresso](Category:Textpresso "Category:Textpresso")
-- [Annotation](Category:Annotation "Category:Annotation")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Textpresso](Category%3ATextpresso "Category%3ATextpresso")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 
 </div>
 
@@ -434,8 +434,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

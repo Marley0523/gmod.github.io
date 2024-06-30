@@ -78,7 +78,7 @@ See also the search results found.
   <div class="searchresult">
 
   \* \[\[GMOD <span class="searchmatch">RPC</span> API Use Cases\]\]
-  \[\[Category:<span class="searchmatch">RPC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">RPC</span>\]\]
 
   </div>
 
@@ -141,7 +141,7 @@ See also the search results found.
   <div class="searchresult">
 
   \* \[\[GMOD <span class="searchmatch">RPC</span> API Use Cases\]\]
-  \[\[Category:<span class="searchmatch">RPC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">RPC</span>\]\]
 
   </div>
 
@@ -353,8 +353,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Webapollo](/wiki/Category:Webapollo "Category:Webapollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo "Special%3ASearchByProperty/Webapollo")</span></span> , <span class="smwb-value">[Webapollo-minutes](/wiki/Category:Webapollo-minutes "Category:Webapollo-minutes")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo-2Dminutes "Special%3ASearchByProperty/Webapollo-2Dminutes")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Webapollo](/wiki/Category%3AWebapollo "Category%3AWebapollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo "Special%3ASearchByProperty/Webapollo")</span></span> , <span class="smwb-value">[Webapollo-minutes](/wiki/Category%3AWebapollo-minutes "Category%3AWebapollo-minutes")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo-2Dminutes "Special%3ASearchByProperty/Webapollo-2Dminutes")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">19 November 2010 18:45:22  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/19-20November-202010-2018:45:22 "Special%3ASearchByProperty/Modification-20date/19-20November-202010-2018:45:22")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

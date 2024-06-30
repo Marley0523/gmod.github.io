@@ -38,10 +38,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Performance&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3APerformance&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Performance (page does not exist)">Performance</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Performance "Special%3ASearchByProperty/Performance")</span></span> , <span class="smwb-value">[PostgreSQL](/wiki/Category:PostgreSQL "Category:PostgreSQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PostgreSQL "Special%3ASearchByProperty/PostgreSQL")</span></span> |
+title="Category%3APerformance (page does not exist)">Performance</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Performance "Special%3ASearchByProperty/Performance")</span></span> , <span class="smwb-value">[PostgreSQL](/wiki/Category%3APostgreSQL "Category%3APostgreSQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PostgreSQL "Special%3ASearchByProperty/PostgreSQL")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">5 February 2014 17:57:16  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/5-20February-202014-2017:57:16 "Special%3ASearchByProperty/Modification-20date/5-20February-202014-2017:57:16")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -168,8 +168,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

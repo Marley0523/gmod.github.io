@@ -481,7 +481,7 @@ at Gramene.org hopes to replace CMap with a lighter, Javascript version.
 
 ## <span id="More_on_CMap" class="mw-headline">More on CMap</span>
 
-See [Category:CMap](/wiki/Category:CMap "Category:CMap")
+See [Category%3ACMap](/wiki/Category%3ACMap "Category%3ACMap")
 
 ### <span id="CMap_Logo" class="mw-headline">CMap Logo</span>
 
@@ -509,22 +509,22 @@ Retrieved from
 [Categories](/wiki/Special:Categories "Special:Categories"):
 
 [GMOD
-Component](/wiki/Category:GMOD_Component "Category:GMOD Component")
+Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")
 
 <a
-href="/mediawiki/ihttp://gmod.org/wiki/ndex.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+href="/mediawiki/ihttp://gmod.org/wiki/ndex.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
-[CMap](/wiki/Category:CMap "Category:CMap")
+[CMap](/wiki/Category%3ACMap "Category%3ACMap")
 
 [Comparative
-Genomics](/wiki/Category:Comparative_Genomics "Category:http://gmod.org/wiki/Comparative Genomics")
+Genomics](/wiki/Category%3AComparative_Genomics "Category%3Ahttp://gmod.org/wiki/Comparative Genomics")
 
 [GMOD
-Components](/wiki/Category:GMOD_Components "Category:GMOD Components")
+Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
 
-[Gramene](/wiki/Category:Gramene "Category:Gramene")
+[Gramene](/wiki/Category%3AGramene "Category%3AGramene")
 
 </div>
 
@@ -919,8 +919,8 @@ role="navigation" aria-labelledby="p-Documentation-label">
 http://gmod.org/wiki/
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

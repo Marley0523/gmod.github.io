@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category:Proposals "Category:Proposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> , <span class="smwb-value">[Sybil](/wiki/Category:Sybil "Category:Sybil")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Sybil "Special%3ASearchByProperty/Sybil")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category%3AProposals "Category%3AProposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> , <span class="smwb-value">[Sybil](/wiki/Category%3ASybil "Category%3ASybil")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Sybil "Special%3ASearchByProperty/Sybil")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">28 January 2008 05:34:51  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/28-20January-202008-2005:34:51 "Special%3ASearchByProperty/Modification-20date/28-20January-202008-2005:34:51")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

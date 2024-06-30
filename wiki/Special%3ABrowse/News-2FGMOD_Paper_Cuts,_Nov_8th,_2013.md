@@ -58,7 +58,7 @@ title="Property:Has publication details (page does not exist)">Has publication�
 href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Published in (page does not exist)">Published in</a> | <span class="smwb-value">BMC Genomics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/BMC-20Genomics "Special%3ASearchByProperty/Published-20in/BMC-20Genomics")</span></span> , <span class="smwb-value">Nucleic Acids Research  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Nucleic-20Acids-20Research "Special%3ASearchByProperty/Published-20in/Nucleic-20Acids-20Research")</span></span> , <span class="smwb-value">Nature Genetics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Nature-20Genetics "Special%3ASearchByProperty/Published-20in/Nature-20Genetics")</span></span> , <span class="smwb-value">Genetics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Genetics "Special%3ASearchByProperty/Published-20in/Genetics")</span></span> , <span class="smwb-value">BMC Bioinformatics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/BMC-20Bioinformatics "Special%3ASearchByProperty/Published-20in/BMC-20Bioinformatics")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[News Items](/wiki/Category:News_Items "Category:News Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[Paper Cuts](/wiki/Category:Paper_Cuts "Category:Paper Cuts")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Paper-20Cuts "Special%3ASearchByProperty/Paper-20Cuts")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[News Items](/wiki/Category%3ANews_Items "Category%3ANews Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[Paper Cuts](/wiki/Category%3APaper_Cuts "Category%3APaper Cuts")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Paper-20Cuts "Special%3ASearchByProperty/Paper-20Cuts")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 November 2013 00:28:48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20November-202013-2000:28:48 "Special%3ASearchByProperty/Modification-20date/9-20November-202013-2000:28:48")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -185,8 +185,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

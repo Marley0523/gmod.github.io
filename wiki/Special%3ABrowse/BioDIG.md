@@ -43,12 +43,12 @@ rel="nofollow">http://github.com/idoerg/BioDIG</a>  <span class="smwsearch">[+
 | [Has website](/wiki/Property:Has_website "Property:Has website") | <span class="smwb-value"><a href="http://biodig.org" class="external"
 rel="nofollow">http://biodig.org</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:BioDIG&amp;action=edit&amp;redlink=1"
-class="new" title="Category:BioDIG (page does not exist)">BioDIG</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BioDIG "Special%3ASearchByProperty/BioDIG")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Tools_using_GMOD&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%3ABioDIG&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3ABioDIG (page does not exist)">BioDIG</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BioDIG "Special%3ASearchByProperty/BioDIG")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Tools using GMOD (page does not exist)">Tools using
-GMOD</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tools-20using-20GMOD "Special%3ASearchByProperty/Tools-20using-20GMOD")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
+title="Category%3ATools using GMOD (page does not exist)">Tools using
+GMOD</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tools-20using-20GMOD "Special%3ASearchByProperty/Tools-20using-20GMOD")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">6 August 2013 22:30:57  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/6-20August-202013-2022:30:57 "Special%3ASearchByProperty/Modification-20date/6-20August-202013-2022:30:57")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -174,8 +174,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

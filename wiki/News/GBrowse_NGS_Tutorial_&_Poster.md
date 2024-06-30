@@ -49,7 +49,7 @@ width="100" height="95" alt="GBrowse NGS Tutorial" />](../GBrowse_NGS_Tutorial "
 
 A tutorial on using [GBrowse 2 to visualize next generation sequencing
 (NGS) data](../GBrowse_NGS_Tutorial "GBrowse NGS Tutorial") is now
-available. The [tutorial](../Category:Tutorials "Category:Tutorials")
+available. The [tutorial](../Category%3ATutorials "Category%3ATutorials")
 walks through how to configure the [GBrowse](../GBrowse.1 "GBrowse") 2
 genome browser to display
 <a href="../Next_generation_sequencing" class="mw-redirect"
@@ -99,7 +99,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -197,8 +197,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

@@ -76,7 +76,7 @@ GMOD held a hackathon November 8-12, 2010, at the
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> in
 Durham, North Carolina. This hackathon focused on improving GMOD's
 support for [evolutionary
-biology](Category:Evolution "Category:Evolution").
+biology](Category%3AEvolution "Category%3AEvolution").
 
 The [Open Call for
 Participation](GMOD_Evo_Hackathon_Open_Call "GMOD Evo Hackathon Open Call")
@@ -569,11 +569,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Evolution](Category:Evolution "Category:Evolution")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [Evolution](Category%3AEvolution "Category%3AEvolution")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 - [GMOD Evo
-  Hackathon](Category:GMOD_Evo_Hackathon "Category:GMOD Evo Hackathon")
-- [Events](Category:Events "Category:Events")
+  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
+- [Events](Category%3AEvents "Category%3AEvents")
 
 </div>
 
@@ -669,8 +669,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

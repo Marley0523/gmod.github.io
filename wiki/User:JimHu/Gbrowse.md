@@ -293,7 +293,7 @@ HOWTO](../GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").
 
 Please report bugs to the SourceForge <a
 href="http://sourceforge.net/tracker/?func=add&amp;group_id=27707&amp;atid=391291"
-class="external text" rel="nofollow">Bug Tracker</a> (select 'Category:
+class="external text" rel="nofollow">Bug Tracker</a> (select 'Category%3A
 Gbrowse').
 
 |  |  |  |  |
@@ -469,8 +469,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

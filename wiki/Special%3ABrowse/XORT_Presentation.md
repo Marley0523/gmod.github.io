@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[FlyBase](/wiki/Category:FlyBase "Category:FlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[XORT](/wiki/Category:XORT "Category:XORT")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/XORT "Special%3ASearchByProperty/XORT")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[XORT](/wiki/Category%3AXORT "Category%3AXORT")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/XORT "Special%3ASearchByProperty/XORT")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 October 2012 18:54:31  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:54:31 "Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:54:31")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

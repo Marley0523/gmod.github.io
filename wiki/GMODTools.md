@@ -83,7 +83,7 @@ Bulkfiles is a GMOD [Perl](Glossary#Perl "Glossary") package that
 generates Fasta, [GFF3](GFF3 "GFF3"), DNA and other bulk genome
 annotation files from
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> databases.
-It works with several [FlyBase](Category:FlyBase "Category:FlyBase")
+It works with several [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 Chado releases, with SGDLite, and has been tested with other Chado
 databases. Once tuned to your project's needs with its organism and site
 configurations, it can generate public data releases on a regular basis.
@@ -109,7 +109,7 @@ Bulkfiles base adaptor object.
 # <span id="Why_Use_Bulkfiles.3F" class="mw-headline">Why Use Bulkfiles?</span>
 
 Why use this package rather than using other [middleware
-layers](Category:Middleware "Category:Middleware") to Chado db - [Chado
+layers](Category%3AMiddleware "Category%3AMiddleware") to Chado db - [Chado
 XML](Chado_XML "Chado XML"),
 [Chado::AutoDBI](Chado::AutoDBI "Chado::AutoDBI"),
 [BioPerl](BioPerl "BioPerl"), ? The general logic is
@@ -369,11 +369,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [BLAST](Category:BLAST "Category:BLAST")
-- [Chado](Category:Chado "Category:Chado")
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [BLAST](Category%3ABLAST "Category%3ABLAST")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -467,8 +467,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

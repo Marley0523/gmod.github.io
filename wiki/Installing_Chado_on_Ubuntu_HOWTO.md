@@ -174,10 +174,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Chado](Category:Chado "Category:Chado")
-- [Linux](Category:Linux "Category:Linux")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Linux](Category%3ALinux "Category%3ALinux")
 
 </div>
 
@@ -273,8 +273,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

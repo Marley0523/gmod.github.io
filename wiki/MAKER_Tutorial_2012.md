@@ -382,9 +382,9 @@ Examples of Annotation Databases:
   rel="nofollow">Ensembl</a>
 - <a href="http://www.ncbi.nlm.nih.gov/RefSeq/" class="external text"
   rel="nofollow">RefSeq</a>
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [WormBase](Category:WormBase "Category:WormBase")
-- [Mouse Genome Informatics](Category:MGI "Category:MGI")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
+- [Mouse Genome Informatics](Category%3AMGI "Category%3AMGI")
 
   
 Every time we use techniques such as RNAi, PCR, gene expression arrays,
@@ -2871,9 +2871,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [MAKER](Category:MAKER "Category:MAKER")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -2986,8 +2986,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

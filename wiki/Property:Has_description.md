@@ -376,7 +376,7 @@ The ant genomes were annotated using MAKER.  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20description/The-20ant-20genomes-20were-20annotated-20using-20MAKER."
 title="Special%3ASearchByProperty/Has-20description/The-20ant-20genomes-20were-20annotated-20using-20MAKER.">+</a></span>,
 MAKER is an easy-to-configure, portable genome
-[[:Category:Annotation|annotation]] pipeline. MAKER allows smaller
+[[:Category%3AAnnotation|annotation]] pipeline. MAKER allows smaller
 ''eukaryotic'' genome projects and ''prokaryotic'' genome projects to
 annotate their genomes and to create genome databases. MAKER identifies
 repeats, aligns ESTs and proteins to a genome, produces ''ab initio''
@@ -788,8 +788,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

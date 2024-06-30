@@ -52,7 +52,7 @@ title="GBrowse syn Tutorial">tutorial</a>.
 There will likely be one more release in the GBrowse 1 development path,
 which will introduce improved support for circular genomes. After that,
 development on this path will end and further development will focus on
-[GBrowse 2](../Category:GBrowse_2 "Category:GBrowse 2").
+[GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2").
 
 GBrowse can be installed with the [GBrowse
 netinstaller](../GBrowse_Install_HOWTO "GBrowse Install HOWTO").
@@ -118,7 +118,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -216,8 +216,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

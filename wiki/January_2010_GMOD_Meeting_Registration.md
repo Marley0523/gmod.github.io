@@ -228,7 +228,7 @@ class="internal" title="Jan2010ErgatisForBiologists.ppt">PPT</a>, <a href="../me
 class="internal" title="Jan2010ErgatisForBiologists.pdf">PDF</a> |
 | 1:45 | Open Mic/Show and Tell |  |  |
 |  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User:MitchSkinner "User:MitchSkinner") | [PDF](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
-|  | Openings at [SGD](Category:SGD "Category:SGD") | Ben Hitz |  |
+|  | Openings at [SGD](Category%3ASGD "Category%3ASGD") | Ben Hitz |  |
 |  | RediscoveryDB: Connecting High-Throughput Data with Testable Hypotheses | Dawei Lin | <a href="../mediawiki/images/6/63/Jan2010RediscoveryDB.pdf"
 class="internal" title="Jan2010RediscoveryDB.pdf">PDF</a> |
 |  | PhaseolusGenes : A Genomics Information Management and Marker Discovery Toolkit For A Non-Model Organism | Dawei Lin | <a href="../mediawiki/images/b/bd/Jan2010PhaseolusGenes.pdf"
@@ -239,7 +239,7 @@ title="PAG2010Tripal.pdf">PAG 2010 Talk</a>) |
 class="internal" title="Jan2010GBrowseCancerGenome.ppt">PPT</a>, <a href="../mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf"
 class="internal" title="Jan2010GBrowseCancerGenome.pdf">PDF</a> |
 |  | <a href="http://flybase.org/cgi-bin/gbrowse/dmelrnaseq/"
-class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category:FlyBase "Category:FlyBase") | [Josh Goodman](User:Jogoodma "User:Jogoodma") | <a href="../mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
+class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | [Josh Goodman](User:Jogoodma "User:Jogoodma") | <a href="../mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
 title="Flybase topoview.pdf">PDF</a> |
 |  | Ceres Genome Browser | Maxim Troukhan |  |
 |  | [InterMine](InterMine "InterMine") | [Richard Smith](User:Rsmith "User:Rsmith") | <a href="http://www.intermine.org/wiki/GMODtalk" class="external text"
@@ -340,7 +340,7 @@ rel="nofollow">http://urgi.versailles.inra.fr/</a> |
 rel="nofollow">http://beespace.uiuc.edu</a> |
 | Yuri | Bendana | USC BISC-MCB |  |
 | Aaron | Buechlein | The Center for Genomics and Bioinformatics |  |
-| [Robert](User:RobertBuels "User:RobertBuels") | [Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category:SGN "Category:SGN") | <a href="http://solgenomics.net" class="external free"
+| [Robert](User:RobertBuels "User:RobertBuels") | [Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category%3ASGN "Category%3ASGN") | <a href="http://solgenomics.net" class="external free"
 rel="nofollow">http://solgenomics.net</a> |
 | [Scott](User:Scott "User:Scott") | [Cain](User:Scott "User:Scott") | GMOD / OICR | <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> / <a href="http://www.oicr.on.ca/" class="external free"
@@ -366,13 +366,13 @@ rel="nofollow">http://EuPathDB.org</a> |
 | [Eric](User:Eric.ganko "User:Eric.ganko") | [Ganko](User:Eric.ganko "User:Eric.ganko") | Syngenta |  |
 | Aureliano Bombarely | Gomez | Boyce Thompson Institute for Plant Research | <a href="http://solgenomics.net/" class="external free"
 rel="nofollow">http://solgenomics.net/</a> |
-| [Josh](User:Jogoodma "User:Jogoodma") | [Goodman](User:Jogoodma "User:Jogoodma") | [FlyBase](Category:FlyBase "Category:FlyBase") | <a href="http://flybase.org/" class="external free"
+| [Josh](User:Jogoodma "User:Jogoodma") | [Goodman](User:Jogoodma "User:Jogoodma") | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | <a href="http://flybase.org/" class="external free"
 rel="nofollow">http://flybase.org/</a> |
 | [Chris](User:Chemmeri "User:Chemmeri") | [Hemmerich](User:Chemmeri "User:Chemmeri") | Center for Genomics and Bioinformatics | <a href="http://cgb.indiana.edu/" class="external free"
 rel="nofollow">http://cgb.indiana.edu/</a> |
 | LE, Quang | Hien | Vilmorin & Cie | <a href="http://www.vilmorin.info" class="external free"
 rel="nofollow">http://www.vilmorin.info</a> |
-| Ben | Hitz | [SGD](Category:SGD "Category:SGD") | <a href="http://www.yeastgenome.org/" class="external free"
+| Ben | Hitz | [SGD](Category%3ASGD "Category%3ASGD") | <a href="http://www.yeastgenome.org/" class="external free"
 rel="nofollow">http://www.yeastgenome.org/</a> |
 | Zhiliang | Hu | Iowa State University | <a href="http://www.animalgenome.org" class="external free"
 rel="nofollow">http://www.animalgenome.org</a> |
@@ -699,7 +699,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -793,8 +793,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

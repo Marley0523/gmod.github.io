@@ -68,7 +68,7 @@ occurred since the last summer school; these include:
 
 The full set of GMOD tutorials, featuring all the material from this
 year's summer school and more, is available from the
-[Tutorials](../Category:Tutorials "Category:Tutorials") section of the
+[Tutorials](../Category%3ATutorials "Category%3ATutorials") section of the
 wiki.
 
   
@@ -94,12 +94,12 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
 
 </div>
@@ -198,8 +198,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

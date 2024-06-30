@@ -197,14 +197,14 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tool data](../Category:Tool_data "Category:Tool data")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:WebGBrowse&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebGBrowse&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:WebGBrowse (page does not exist)">WebGBrowse</a>
-- [GBrowse](../Category:GBrowse "Category:GBrowse")
+  title="Category%3AWebGBrowse (page does not exist)">WebGBrowse</a>
+- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -302,8 +302,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

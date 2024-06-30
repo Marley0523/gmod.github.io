@@ -727,7 +727,7 @@ correct.
 
 ##### <span id="Community_Annotation_at_SGN" class="mw-headline">Community Annotation at SGN</span>
 
-Lukas Mueller discussed [SGN](Category:SGN "Category:SGN").
+Lukas Mueller discussed [SGN](Category%3ASGN "Category%3ASGN").
 
 SGN has data for tomato, potato, eggplant, and many other species. SGN
 is locus centric. Each locus has (or can have) a single person who is
@@ -1002,7 +1002,7 @@ the new [AJAX](Glossary#AJAX "Glossary") [GBrowse](GBrowse.1 "GBrowse").
 
 #### <span id="FlyBase" class="mw-headline">FlyBase</span>
 
-[FlyBase](Category:FlyBase "Category:FlyBase") has migrated their
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase") has migrated their
 production databases to the
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> [database
 schema](Glossary#Database_Schema "Glossary"). FlyBase uses:
@@ -1109,7 +1109,7 @@ Riken uses GBrowse.
 
 Use <a href="Chado" class="mw-redirect" title="Chado">Chado</a> as a
 backend, a lot. Use [Sybil](Sybil "Sybil") for [comparative
-genomics](Category:Comparative_Genomics "Category:Comparative Genomics"),
+genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics"),
 and are a mix of [PostgreSQL](PostgreSQL "PostgreSQL") and Oracle.
 
 #### <span id="WormBase_.2F_CSHL" class="mw-headline">WormBase / CSHL</span>
@@ -1166,19 +1166,19 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [ApiDB](Category:ApiDB "Category:ApiDB")
-- [Apollo](Category:Apollo "Category:Apollo")
+- [ApiDB](Category%3AApiDB "Category%3AApiDB")
+- [Apollo](Category%3AApollo "Category%3AApollo")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [GMODWeb](Category:GMODWeb "Category:GMODWeb")
-- [Meetings](Category:Meetings "Category:Meetings")
-- [ParameciumDB](Category:ParameciumDB "Category:ParameciumDB")
-- [Turnkey](Category:Turnkey "Category:Turnkey")
-- [SGN](Category:SGN "Category:SGN")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [DAS](Category:DAS "Category:DAS")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [GMODWeb](Category%3AGMODWeb "Category%3AGMODWeb")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [ParameciumDB](Category%3AParameciumDB "Category%3AParameciumDB")
+- [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
+- [SGN](Category%3ASGN "Category%3ASGN")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [DAS](Category%3ADAS "Category%3ADAS")
 
 </div>
 
@@ -1274,8 +1274,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -1305,9 +1305,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -1403,8 +1403,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

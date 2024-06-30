@@ -38,9 +38,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[JBrowse](/wiki/Category:JBrowse "Category:JBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[Conferences](/wiki/Category:Conferences "Category:Conferences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Conferences "Special%3ASearchByProperty/Conferences")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Tutorial&amp;action=edit&amp;redlink=1"
-class="new" title="Category:Tutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorial "Special%3ASearchByProperty/Tutorial")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[Conferences](/wiki/Category%3AConferences "Category%3AConferences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Conferences "Special%3ASearchByProperty/Conferences")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorial "Special%3ASearchByProperty/Tutorial")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">18 October 2019 19:41:43  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/18-20October-202019-2019:41:43 "Special%3ASearchByProperty/Modification-20date/18-20October-202019-2019:41:43")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -166,8 +166,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

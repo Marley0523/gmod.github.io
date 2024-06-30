@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Needs Testing](/wiki/Category:Needs_Testing "Category:Needs Testing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Testing "Special%3ASearchByProperty/Needs-20Testing")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category:HOWTO "Category:HOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Needs Testing](/wiki/Category%3ANeeds_Testing "Category%3ANeeds Testing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Testing "Special%3ASearchByProperty/Needs-20Testing")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 July 2015 15:43:37  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/20-20July-202015-2015:43:37 "Special%3ASearchByProperty/Modification-20date/20-20July-202015-2015:43:37")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

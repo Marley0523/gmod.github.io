@@ -70,7 +70,7 @@ class="new" title="VMware (page does not exist)">VMware</a> system image
 to work with, and detailed instructions on how to setup the component on
 that image.
 
-The [tutorials](../Category:Tutorials "Category:Tutorials") are:
+The [tutorials](../Category%3ATutorials "Category%3ATutorials") are:
 
 - **<a href="../Apollo_Tutorial" class="mw-redirect"
   title="Apollo Tutorial">Apollo Tutorial</a>** - by [Ed
@@ -240,7 +240,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -338,8 +338,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

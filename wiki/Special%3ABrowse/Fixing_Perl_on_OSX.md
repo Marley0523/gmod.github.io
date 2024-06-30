@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Perl](/wiki/Category:Perl "Category:Perl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category:Mac_OS_X "Category:Mac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2009 02:50:35  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20June-202009-2002:50:35 "Special%3ASearchByProperty/Modification-20date/9-20June-202009-2002:50:35")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

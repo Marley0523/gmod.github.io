@@ -343,15 +343,15 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [Webapollo](../Category:Webapollo "Category:Webapollo")
-- [Annotation](../Category:Annotation "Category:Annotation")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [Webapollo](../Category%3AWebapollo "Category%3AWebapollo")
+- [Annotation](../Category%3AAnnotation "Category%3AAnnotation")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -449,8 +449,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

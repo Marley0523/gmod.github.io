@@ -218,11 +218,11 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Analysis](../Category:Analysis "Category:Analysis")
+- [Analysis](../Category%3AAnalysis "Category%3AAnalysis")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Annotation](../Category:Annotation "Category:Annotation")
-- [Ergatis](../Category:Ergatis "Category:Ergatis")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Annotation](../Category%3AAnnotation "Category%3AAnnotation")
+- [Ergatis](../Category%3AErgatis "Category%3AErgatis")
 
 </div>
 
@@ -320,8 +320,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

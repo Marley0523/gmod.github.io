@@ -135,10 +135,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [InterMine](Category:InterMine "Category:InterMine")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
 
 </div>
 
@@ -234,8 +234,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -57,9 +57,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
-- [LuceGene](Category:LuceGene "Category:LuceGene")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
 </div>
 
@@ -156,8 +156,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

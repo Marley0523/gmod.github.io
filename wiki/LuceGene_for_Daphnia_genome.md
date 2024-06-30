@@ -121,8 +121,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [LuceGene](Category:LuceGene "Category:LuceGene")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -218,8 +218,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

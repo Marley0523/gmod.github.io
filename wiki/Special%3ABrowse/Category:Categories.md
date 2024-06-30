@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Category:Categories](/wiki/Category:Categories "Category:Categories") |  |
+| [Category%3ACategories](/wiki/Category%3ACategories "Category%3ACategories") |  |
 
 |  |  |
 |----|----|
@@ -48,7 +48,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Category:Biology](/wiki/Category:Biology "Category:Biology") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Biology "Special%3ABrowse/Category:Biology")</span></span> , <span class="smwb-ivalue">[Category:Computing](/wiki/Category:Computing "Category:Computing") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Computing "Special%3ABrowse/Category:Computing")</span></span> , <span class="smwb-ivalue">[Category:Documentation](/wiki/Category:Documentation "Category:Documentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Documentation "Special%3ABrowse/Category:Documentation")</span></span> , <span class="smwb-ivalue">[Category:GMOD Components](/wiki/Category:GMOD_Components "Category:GMOD Components") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:GMOD-20Components "Special%3ABrowse/Category:GMOD-20Components")</span></span> , <span class="smwb-ivalue">[Category:GMOD Project](/wiki/Category:GMOD_Project "Category:GMOD Project") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:GMOD-20Project "Special%3ABrowse/Category:GMOD-20Project")</span></span> , <span class="smwb-ivalue">[Category:Help](/wiki/Category:Help "Category:Help") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Help "Special%3ABrowse/Category:Help")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3ABiology](/wiki/Category%3ABiology "Category%3ABiology") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ABiology "Special%3ABrowse/Category%3ABiology")</span></span> , <span class="smwb-ivalue">[Category%3AComputing](/wiki/Category%3AComputing "Category%3AComputing") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AComputing "Special%3ABrowse/Category%3AComputing")</span></span> , <span class="smwb-ivalue">[Category%3ADocumentation](/wiki/Category%3ADocumentation "Category%3ADocumentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ADocumentation "Special%3ABrowse/Category%3ADocumentation")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Components "Special%3ABrowse/Category%3AGMOD-20Components")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Project "Special%3ABrowse/Category%3AGMOD-20Project")</span></span> , <span class="smwb-ivalue">[Category%3AHelp](/wiki/Category%3AHelp "Category%3AHelp") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AHelp "Special%3ABrowse/Category%3AHelp")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Category:Categories>"
+"<http://gmod.org/wiki/Special%3ABrowse/Category%3ACategories>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Categories "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3ACategories "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Categories&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ACategories&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

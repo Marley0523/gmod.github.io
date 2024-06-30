@@ -141,7 +141,7 @@ Relevant documentations and guidelines will also be added to this wiki.
 The first CPAN release is expected to be early next year.
 
 *Siddhartha Basu, Modware developer,
-[dictyBase](Category:DictyBase "Category:DictyBase"), 2010/10/28*
+[dictyBase](Category%3ADictyBase "Category%3ADictyBase"), 2010/10/28*
 
 ## <span id="Getting_Started" class="mw-headline">Getting Started</span>
 
@@ -207,10 +207,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [DictyBase](Category:DictyBase "Category:DictyBase")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Middleware](Category:Middleware "Category:Middleware")
-- [Modware](Category:Modware "Category:Modware")
+- [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [Modware](Category%3AModware "Category%3AModware")
 
 </div>
 
@@ -306,8 +306,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

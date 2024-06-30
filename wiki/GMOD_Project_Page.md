@@ -94,7 +94,7 @@ comments and suggestions.
 <!-- -->
 
 - **[comparative
-  genomics](Category:Comparative_Genomics "Category:Comparative Genomics")**
+  genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")**
   improvements. Projects in this area include the widely used
   [CMap](CMap.1 "CMap"), and current
   <a href="Synteny" class="mw-redirect" title="Synteny">syntenic</a> map
@@ -123,7 +123,7 @@ comments and suggestions.
 ## <span id="Chado_Documentation_Reorganization" class="mw-headline">Chado Documentation Reorganization</span>
 
 We are reorganizing the [Chado related
-documentation](Category:Chado "Category:Chado") in this web site. See
+documentation](Category%3AChado "Category%3AChado") in this web site. See
 the [Chado Documentation
 Reorganization](Chado_Documentation_Reorganization "Chado Documentation Reorganization")
 page for more on this effort and how you can help direct it.
@@ -143,8 +143,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
 </div>
 
@@ -238,8 +238,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

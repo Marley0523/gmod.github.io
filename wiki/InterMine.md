@@ -240,7 +240,7 @@ Public installations of InterMine:
 
 ## <span id="More_on_InterMine" class="mw-headline">More on InterMine</span>
 
-See [Category:InterMine](Category:InterMine "Category:InterMine")
+See [Category%3AInterMine](Category%3AInterMine "Category%3AInterMine")
 
   
 
@@ -261,11 +261,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -414,8 +414,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

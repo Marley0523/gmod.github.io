@@ -712,9 +712,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
 </div>
 
@@ -810,8 +810,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 GMOD includes several components for managing and visualizing
 [comparative genomics and
-synteny](Category:Comparative_Genomics "Category:Comparative Genomics")
+synteny](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 data.
 
 <div id="toc" class="toc">
@@ -74,7 +74,7 @@ data.
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
 [Comparative
-genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 and synteny are hot topics in biology and are frequently discussed at
 GMOD [Meetings](Meetings "Meetings"). GMOD offers several solutions for
 managing and [visualizing](Visualization "Visualization") comparative
@@ -209,7 +209,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 
 </div>
 
@@ -305,8 +305,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

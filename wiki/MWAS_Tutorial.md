@@ -190,9 +190,9 @@ annotations a lot of thought, they use them everyday.
   
 Examples of Annotation Databases:
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [WormBase](Category:WormBase "Category:WormBase")
-- [Mouse Genome Informatics Group](Category:MGI "Category:MGI")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
+- [Mouse Genome Informatics Group](Category%3AMGI "Category%3AMGI")
 
   
 Every time we use techniques such as RNAi, PCR, gene expression arrays,
@@ -1058,12 +1058,12 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Pages with broken file links (page does not exist)">Pages
+  title="Category%3APages with broken file links (page does not exist)">Pages
   with broken file links</a>
-- [MAKER](Category:MAKER "Category:MAKER")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -1159,8 +1159,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

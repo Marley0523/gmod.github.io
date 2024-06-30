@@ -332,7 +332,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 Please report bugs to the <a
 href="http://sourceforge.net/tracker/?func=add&amp;group_id=27707&amp;atid=391291SourceForge"
-class="external text" rel="nofollow">Bug Tracker</a> (select 'Category:
+class="external text" rel="nofollow">Bug Tracker</a> (select 'Category%3A
 Gbrowse').
 
 \| logo_info = The [GBrowse
@@ -391,16 +391,16 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [GBrowse](../Category:GBrowse "Category:GBrowse")
+- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [GBrowse 2](../Category:GBrowse_2 "Category:GBrowse 2")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 
 </div>
 
@@ -498,8 +498,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

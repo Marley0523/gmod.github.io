@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Linux](/wiki/Category:Linux "Category:Linux")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linux "Special%3ASearchByProperty/Linux")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category:Mac_OS_X "Category:Mac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[Windows](/wiki/Category:Windows "Category:Windows")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Windows "Special%3ASearchByProperty/Windows")</span></span> , <span class="smwb-value">[Help](/wiki/Category:Help "Category:Help")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category:Computing "Category:Computing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Linux](/wiki/Category%3ALinux "Category%3ALinux")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linux "Special%3ASearchByProperty/Linux")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[Windows](/wiki/Category%3AWindows "Category%3AWindows")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Windows "Special%3ASearchByProperty/Windows")</span></span> , <span class="smwb-value">[Help](/wiki/Category%3AHelp "Category%3AHelp")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 November 2013 05:03:03  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03 "Special%3ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

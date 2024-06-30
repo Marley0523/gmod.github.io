@@ -157,7 +157,7 @@ Resources
 ## <span id="About_MAKER" class="mw-headline">About MAKER</span>
 
 MAKER is an easy-to-configure, portable genome
-[annotation](Category:Annotation "Category:Annotation") pipeline. MAKER
+[annotation](Category%3AAnnotation "Category%3AAnnotation") pipeline. MAKER
 allows smaller *eukaryotic* genome projects and *prokaryotic* genome
 projects to annotate their genomes and to create genome databases. MAKER
 identifies repeats, aligns ESTs and proteins to a genome, produces *ab
@@ -409,7 +409,7 @@ independently annotated with MAKER.
 
 ## <span id="More_on_MAKER" class="mw-headline">More on MAKER</span>
 
-See [Category:MAKER](Category:MAKER "Category:MAKER")
+See [Category%3AMAKER](Category%3AMAKER "Category%3AMAKER")
 
   
 
@@ -444,14 +444,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [MAKER](Category:MAKER "Category:MAKER")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
 
 </div>
 
@@ -533,7 +533,7 @@ title="Property:Has description">Has description</a></td>
 class="smw-highlighter" data-type="2" data-state="persistent"
 data-title="Information"><span class="smwtext"> … </span><span
 class="smwttcontent">MAKER is an easy-to-configure, portable genome <a
-href="Category:Annotation" title="Category:Annotation">annotation</a>
+href="Category%3AAnnotation" title="Category%3AAnnotation">annotation</a>
 pipeline. MAKER allows smaller <em>eukaryotic</em> genome projects and
 <em>prokaryotic</em> genome projects to annotate their genomes and to
 create genome databases. MAKER identifies repeats, aligns ESTs and
@@ -890,8 +890,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

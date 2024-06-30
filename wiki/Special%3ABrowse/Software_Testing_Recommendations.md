@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Best Practices](/wiki/Category:GMOD_Best_Practices "Category:GMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> , <span class="smwb-value">[GMOD Developers](/wiki/Category:GMOD_Developers "Category:GMOD Developers")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Developers "Special%3ASearchByProperty/GMOD-20Developers")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Best Practices](/wiki/Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> , <span class="smwb-value">[GMOD Developers](/wiki/Category%3AGMOD_Developers "Category%3AGMOD Developers")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Developers "Special%3ASearchByProperty/GMOD-20Developers")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">5 April 2007 17:14:42  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/5-20April-202007-2017:14:42 "Special%3ASearchByProperty/Modification-20date/5-20April-202007-2017:14:42")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

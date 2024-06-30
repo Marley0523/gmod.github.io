@@ -47,7 +47,7 @@ height="123" alt="TopoView from FlyBase" />](../File:Flybase_topoview.pdf "TopoV
 
 [TopoView](../File:Flybase_topoview.pdf "File:Flybase topoview.pdf") is
 a [GBrowse](../GBrowse.1 "GBrowse") glyph created by Victor Strelets at
-[FlyBase](../Category:FlyBase "Category:FlyBase") to show large amounts
+[FlyBase](../Category%3AFlyBase "Category%3AFlyBase") to show large amounts
 of quantitative data in limited screen space. TopoView does this with a
 3D plot, showing each new set of data just below and offset from the
 previous data set. It was developed to display RNA-Seq data.
@@ -101,7 +101,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -199,8 +199,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

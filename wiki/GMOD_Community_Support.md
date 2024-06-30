@@ -144,12 +144,12 @@ rel="nofollow">NESCent</a>, as the result of a collaboration between
 GMOD and NESCent. One of NESCent's goals is to promote the adoption of
 GMOD for data management, analysis, and visualization needs for the
 genome-scale information being generated in [evolutionary
-research](Category:Evolution "Category:Evolution"), in particular for
+research](Category%3AEvolution "Category%3AEvolution"), in particular for
 emerging model organisms. This initiative includes extending the
 functionality of GMOD tools for evolutionary applications, particularly
 in the areas of managing and visualizing information about genotypic
 variation, [phenotypic
-variation](Category:Phenotypes "Category:Phenotypes"), and
+variation](Category%3APhenotypes "Category%3APhenotypes"), and
 phylogenetics.
 
 ## <span id="Please_share_your_feedback" class="mw-headline">Please share your feedback</span>
@@ -229,7 +229,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Help](Category:Help "Category:Help")
+- [Help](Category%3AHelp "Category%3AHelp")
 
 </div>
 
@@ -325,8 +325,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

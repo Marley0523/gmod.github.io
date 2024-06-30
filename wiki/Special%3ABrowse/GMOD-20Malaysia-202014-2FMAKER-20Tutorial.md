@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category:Tutorials "Category:Tutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category:GMOD_Schools "Category:GMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value">[MAKER](/wiki/Category:MAKER "Category:MAKER")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MAKER "Special%3ASearchByProperty/MAKER")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value">[MAKER](/wiki/Category%3AMAKER "Category%3AMAKER")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MAKER "Special%3ASearchByProperty/MAKER")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 February 2014 00:56:09  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/27-20February-202014-2000:56:09 "Special%3ASearchByProperty/Modification-20date/27-20February-202014-2000:56:09")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -166,8 +166,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

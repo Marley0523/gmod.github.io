@@ -432,17 +432,17 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [AJAX](Category:AJAX "Category:AJAX")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -849,8 +849,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

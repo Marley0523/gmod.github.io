@@ -618,8 +618,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -732,8 +732,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

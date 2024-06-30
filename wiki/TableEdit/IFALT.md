@@ -171,7 +171,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [TableEdit](../Category:TableEdit "Category:TableEdit")
+- [TableEdit](../Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -269,8 +269,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

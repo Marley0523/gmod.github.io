@@ -52,7 +52,7 @@ alt="BioPerl" /></a>
 
 <a href="http://www.bioperl.org/" class="external text"
 rel="nofollow">BioPerl</a> is a set of modules that support
-bioinformatics programming in [Perl](Category:Perl "Category:Perl")
+bioinformatics programming in [Perl](Category%3APerl "Category%3APerl")
 programs. BioPerl is used extensively by several GMOD components. You
 will need to install it before you can use those components.
 
@@ -278,9 +278,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [External](Category:External "Category:External")
-- [Perl](Category:Perl "Category:Perl")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
+- [External](Category%3AExternal "Category%3AExternal")
+- [Perl](Category%3APerl "Category%3APerl")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
 </div>
 
@@ -376,8 +376,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

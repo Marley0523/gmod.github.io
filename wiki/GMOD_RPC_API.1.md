@@ -340,7 +340,7 @@ or if individual records within a data class are updated and released
 asynchronously then a timestamp derived from the time of query execution
 should be used.
 
-For example, [FlyBase](/wiki/Category:FlyBase "Category:FlyBase")
+For example, [FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")
 releases its data on a roughly monthly basis and tags all data contained
 in that release with a release number (e.g. FB2008_10). If a release
 number was not used then a date stamp for when the entire genes data
@@ -1188,12 +1188,12 @@ Retrieved from
 [Categories](/wiki/Special:Categories "Special:Categories"):
 
 - <a
-  href="/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Web services](/wiki/Category:Web_services "Category:Web services")
+  href="/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Web services](/wiki/Category%3AWeb_services "Category%3AWeb services")
 - <a
-  href="/mediawiki/index.php?title=Category:RPC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:RPC (page does not exist)">RPC</a>
+  href="/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ARPC (page does not exist)">RPC</a>
 
 </div>
 
@@ -1291,8 +1291,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

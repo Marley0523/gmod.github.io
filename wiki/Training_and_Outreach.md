@@ -452,7 +452,7 @@ title="2013 GMOD Summer School">2013 GMOD Summer School</a>
 </table>
 
 This website also has a large collection of
-[HOWTOs](Category:HOWTO "Category:HOWTO") on more specific tasks.
+[HOWTOs](Category%3AHOWTO "Category%3AHOWTO") on more specific tasks.
 
 ## <span id="GMOD_Schools" class="mw-headline">GMOD Schools</span>
 
@@ -533,8 +533,8 @@ Promotion](GMOD_Promotion#Presentation_and_Event_Promotion "GMOD Promotion")
 if you have an event or presentation you would like to promote within
 GMOD.
 
-See the [Posters](Category:Posters "Category:Posters") and
-[Presentations](Category:Presentations "Category:Presentations")
+See the [Posters](Category%3APosters "Category%3APosters") and
+[Presentations](Category%3APresentations "Category%3APresentations")
 categories for many additional presentations by GMOD staff, developers
 and users.
 
@@ -1766,27 +1766,27 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Tool data](Category:Tool_data "Category:Tool data")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Apollo](Category:Apollo "Category:Apollo")
-- [CMap](Category:CMap "Category:CMap")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [MAKER](Category:MAKER "Category:MAKER")
-- [Pathway Tools](Category:Pathway_Tools "Category:Pathway Tools")
-- [SOBA](Category:SOBA "Category:SOBA")
-- [Tripal](Category:Tripal "Category:Tripal")
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [Annotation](Category:Annotation "Category:Annotation")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tool data](Category%3ATool_data "Category%3ATool data")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [CMap](Category%3ACMap "Category%3ACMap")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
+- [SOBA](Category%3ASOBA "Category%3ASOBA")
+- [Tripal](Category%3ATripal "Category%3ATripal")
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [Events](Category:Events "Category:Events")
-- [GMOD Schools](Category:GMOD_Schools "Category:GMOD Schools")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [Events](Category%3AEvents "Category%3AEvents")
+- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -1882,8 +1882,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

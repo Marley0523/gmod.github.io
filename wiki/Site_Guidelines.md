@@ -327,7 +327,7 @@ For example, the file
 title="Gkl777.pdf">Gkl777.pdf</a> is an article on
 [ParameciumDB](ParameciumDB "ParameciumDB") from *Nucleic Acids
 Research*, but if you look at the file's listing in the [Publications
-category](Category:Publications "Category:Publications") all you see is
+category](Category%3APublications "Category%3APublications") all you see is
 "Gkl777.pdf". You have to follow the link to find out what the file is
 about.
 
@@ -336,8 +336,8 @@ about.
 <div class="guideline">
 
 When uploading a presentation or a paper, please add it to the
-[Presentations](Category:Presentations "Category:Presentations") or
-[Publications](Category:Publications "Category:Publications")
+[Presentations](Category%3APresentations "Category%3APresentations") or
+[Publications](Category%3APublications "Category%3APublications")
 categories. Also add the file to any other appropriate categories.
 
 </div>
@@ -773,12 +773,12 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Pages with broken file links (page does not exist)">Pages
+  title="Category%3APages with broken file links (page does not exist)">Pages
   with broken file links</a>
-- [GMOD Web Site](Category:GMOD_Web_Site "Category:GMOD Web Site")
-- [Help](Category:Help "Category:Help")
+- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
+- [Help](Category%3AHelp "Category%3AHelp")
 
 </div>
 
@@ -874,8 +874,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

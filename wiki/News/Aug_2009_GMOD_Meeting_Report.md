@@ -81,7 +81,7 @@ Some highlights:
   [Perl](../August_2009_GMOD_Meeting#A_DBIx_Class_layer_for_Chado "August 2009 GMOD Meeting")
   and
   [Java](../August_2009_GMOD_Meeting#GMOD_Biological_Object_Layer "August 2009 GMOD Meeting")
-  [middleware](../Category:Middleware "Category:Middleware") packages
+  [middleware](../Category%3AMiddleware "Category%3AMiddleware") packages
   for <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>.
 
 Plus many other excellent presentations on topics ranging from
@@ -126,7 +126,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -224,8 +224,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

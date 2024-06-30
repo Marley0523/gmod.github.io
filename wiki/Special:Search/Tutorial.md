@@ -97,7 +97,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to install and configure a \[\[Chado\]\]
   database, Chad ...this course you'll be working with genome annotation
   data from the \[\[MAKER
@@ -380,7 +380,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running a \[\[JBrowse\]\] server.
   ...latfile-to-json.pl\</tt\>. We'll use some more of the data from the
   \[\[MAKER <span class="searchmatch">Tutorial</span>\|MAKER
@@ -446,7 +446,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to use the Artemis annotation editor with a
   \[\[Chado ...this is included for completeness only and you should
   refer to the \[\[Chado
@@ -563,7 +563,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to configure the \[\[GBrowse\]\] genome browser
   to disp This <span class="searchmatch">tutorial</span> was taught
   using a \[\[VMware\]\] system image as a starting point. If you wan
@@ -1050,7 +1050,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running a \[\[Galaxy\]\] server.
   ...ttp://bitbucket.org/galaxy/galaxy-central/wiki/ExternalDisplayApplications/<span class="searchmatch">Tutorial</span>
   You can customize what external applications are available for
@@ -1114,7 +1114,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running the \[\[MAKER\]\] genome
   annotation
 
@@ -1486,7 +1486,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   The images from most 2009
-  \[\[:Category:Tutorials\|<span class="searchmatch">Tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">Tutorial</span>\]\]
   pages include a basic ''{{GlossaryLink\|GUI\|graphical user
   interface}}'' c
 
@@ -1526,7 +1526,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to install and configure a \[\[Chado\]\]
   database, Chad ...this course you'll be working with genome annotation
   data from the \[\[MAKER
@@ -1673,7 +1673,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">Tutorial</span>\]\]
+  \[\[Category%3A<span class="searchmatch">Tutorial</span>\]\]
 
   </div>
 
@@ -2309,8 +2309,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

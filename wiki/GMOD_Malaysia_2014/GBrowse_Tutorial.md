@@ -65,9 +65,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
-- [GBrowse](../Category:GBrowse "Category:GBrowse")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -182,8 +182,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

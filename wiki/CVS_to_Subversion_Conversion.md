@@ -93,7 +93,7 @@ Help Desk</a>.
 
 GMOD's CVS source code repository will be converted to Subversion (SVN)
 on September 15, 2009. [Rob Buels](User:RobertBuels "User:RobertBuels")
-of Cornell / [SGN](Category:SGN "Category:SGN") has generously offered
+of Cornell / [SGN](Category%3ASGN "Category%3ASGN") has generously offered
 to to do this. The discussion leading up to this decision on the
 <a href="http://comments.gmane.org/gmane.science.biology.gmod.devel/364"
 class="external text" rel="nofollow">GMOD Developers mailing list</a>.
@@ -208,8 +208,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
-- [Computing](Category:Computing "Category:Computing")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Computing](Category%3AComputing "Category%3AComputing")
 
 </div>
 
@@ -305,8 +305,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

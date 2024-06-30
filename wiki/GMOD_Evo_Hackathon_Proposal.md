@@ -381,7 +381,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [GMOD Evo
-  Hackathon](Category:GMOD_Evo_Hackathon "Category:GMOD Evo Hackathon")
+  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
 
 </div>
 
@@ -475,8 +475,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

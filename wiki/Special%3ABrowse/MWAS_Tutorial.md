@@ -39,10 +39,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Pages with broken file links (page does not exist)">Pages
-with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[MAKER](/wiki/Category:MAKER "Category:MAKER")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MAKER "Special%3ASearchByProperty/MAKER")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category:Tutorials "Category:Tutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> |
+title="Category%3APages with broken file links (page does not exist)">Pages
+with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[MAKER](/wiki/Category%3AMAKER "Category%3AMAKER")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MAKER "Special%3ASearchByProperty/MAKER")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">3 October 2012 22:03:32  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/3-20October-202012-2022:03:32 "Special%3ASearchByProperty/Modification-20date/3-20October-202012-2022:03:32")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -168,8 +168,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

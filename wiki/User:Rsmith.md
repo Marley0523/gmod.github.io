@@ -44,8 +44,8 @@ rel="nofollow">FlyMine</a>,
 <a href="http://modencode.org" class="external text"
 rel="nofollow">modENCODE</a> and contribute to a [joint
 project](August_2009_GMOD_Meeting#InterMine_update "August 2009 GMOD Meeting")
-with [SGD](Category:SGD "Category:SGD"),
-[RGD](Category:RGD "Category:RGD") and
+with [SGD](Category%3ASGD "Category%3ASGD"),
+[RGD](Category%3ARGD "Category%3ARGD") and
 <a href="http://zfin.org" class="external text" rel="nofollow">ZFIN</a>.
 
 </div>
@@ -63,7 +63,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [InterMine](Category:InterMine "Category:InterMine")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
 
 </div>
 
@@ -160,8 +160,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

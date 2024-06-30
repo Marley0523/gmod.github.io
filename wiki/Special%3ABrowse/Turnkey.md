@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Turnkey](/wiki/Category:Turnkey "Category:Turnkey")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Turnkey "Special%3ASearchByProperty/Turnkey")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Turnkey](/wiki/Category%3ATurnkey "Category%3ATurnkey")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Turnkey "Special%3ASearchByProperty/Turnkey")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 April 2011 19:31:23  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/4-20April-202011-2019:31:23 "Special%3ASearchByProperty/Modification-20date/4-20April-202011-2019:31:23")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

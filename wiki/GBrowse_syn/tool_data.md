@@ -146,7 +146,7 @@ rel="nofollow">European Bioinformatics Institute</a>, Hinxton, UK.
   href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
   class="external text" rel="nofollow">SMBE 2009 GMOD Workshop</a> on
   using [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") for [comparative
-  genomics](../Category:Comparative_Genomics "Category:Comparative Genomics").
+  genomics](../Category%3AComparative_Genomics "Category%3AComparative Genomics").
 - [GBrowse_syn at
   PAG](../GBrowse_syn_PAG_2009_Workshop "GBrowse syn PAG 2009 Workshop") -
   Presentation by [Sheldon McKay](../User:Mckays "User:Mckays") at the
@@ -269,14 +269,14 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](../Category:Tool_data "Category:Tool data")
-- [GBrowse syn](../Category:GBrowse_syn "Category:GBrowse syn")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
+- [GBrowse syn](../Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
 </div>
 
@@ -374,8 +374,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

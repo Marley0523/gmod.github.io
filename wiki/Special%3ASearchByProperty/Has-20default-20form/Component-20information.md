@@ -40,8 +40,8 @@ property is a special property in this wiki.</span></span>" with value
 "[Component
 information](/wiki/Form:Component_information "Form:Component information")"  
 
-- [Category:GMOD
-  Tools](/wiki/Category:GMOD_Tools "Category:GMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:GMOD-20Tools "Special%3ABrowse/Category:GMOD-20Tools")</span>
+- [Category%3AGMOD
+  Tools](/wiki/Category%3AGMOD_Tools "Category%3AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Tools "Special%3ABrowse/Category%3AGMOD-20Tools")</span>
 
  
 
@@ -153,8 +153,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

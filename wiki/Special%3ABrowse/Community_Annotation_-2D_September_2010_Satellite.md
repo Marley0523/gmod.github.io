@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Education and Outreach](/wiki/Category:Education_and_Outreach "Category:Education and Outreach")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Education-20and-20Outreach "Special%3ASearchByProperty/Education-20and-20Outreach")</span></span> , <span class="smwb-value">[Community Annotation](/wiki/Category:Community_Annotation "Category:Community Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category:Annotation "Category:Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category:Meetings "Category:Meetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Education and Outreach](/wiki/Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Education-20and-20Outreach "Special%3ASearchByProperty/Education-20and-20Outreach")</span></span> , <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">8 October 2012 18:52:34  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/8-20October-202012-2018:52:34 "Special%3ASearchByProperty/Modification-20date/8-20October-202012-2018:52:34")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

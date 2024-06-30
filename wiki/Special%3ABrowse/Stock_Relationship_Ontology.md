@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Natural Diversity](/wiki/Category:Natural_Diversity "Category:Natural Diversity")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Natural-20Diversity "Special%3ASearchByProperty/Natural-20Diversity")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category:Proposals "Category:Proposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Natural Diversity](/wiki/Category%3ANatural_Diversity "Category%3ANatural Diversity")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Natural-20Diversity "Special%3ASearchByProperty/Natural-20Diversity")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category%3AProposals "Category%3AProposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">1 June 2010 10:25:37  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/1-20June-202010-2010:25:37 "Special%3ASearchByProperty/Modification-20date/1-20June-202010-2010:25:37")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

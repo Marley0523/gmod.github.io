@@ -433,7 +433,7 @@ development.
 
 ## <span id="More_on_JBrowse" class="mw-headline">More on JBrowse</span>
 
-See [Category:JBrowse](../Category:JBrowse "Category:JBrowse")
+See [Category%3AJBrowse](../Category%3AJBrowse "Category%3AJBrowse")
 
   
 
@@ -465,15 +465,15 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [GMOD Component](../Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](../Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [AJAX](../Category:AJAX "Category:AJAX")
-- [JBrowse](../Category:JBrowse "Category:JBrowse")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [AJAX](../Category%3AAJAX "Category%3AAJAX")
+- [JBrowse](../Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -649,8 +649,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

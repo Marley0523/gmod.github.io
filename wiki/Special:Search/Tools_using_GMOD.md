@@ -209,7 +209,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   for a <span class="searchmatch">GMOD</span> \[\[Standard URL\]\]
   genome data download folder. Why use this package rather than
   <span class="searchmatch">using</span> other
-  \[\[:Category:Middleware\|middleware layers\]\] to Chado db -
+  \[\[:Category%3AMiddleware\|middleware layers\]\] to Chado db -
   \[\[Chado XML\]
 
   </div>
@@ -233,7 +233,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   have a good idea of a recommended set of
   <span class="searchmatch">tools</span> and practices that one should
   employ to develop reliable software.
-  \[\[Category:<span class="searchmatch">GMOD</span> Developers\]\]
+  \[\[Category%3A<span class="searchmatch">GMOD</span> Developers\]\]
 
   </div>
 
@@ -384,7 +384,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...reusable Java UI component -- and a set of parsing utilities,
   command line <span class="searchmatch">tools</span> and an application
   GUI -- for viewing gene expression data in a whole-genom
-  \[\[Category:<span class="searchmatch">GMOD</span> Components\]\]
+  \[\[Category%3A<span class="searchmatch">GMOD</span> Components\]\]
 
   </div>
 
@@ -471,7 +471,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...ic Genome Browser (GBrowse)\]\] is one of the most widely used
   visualization <span class="searchmatch">tools</span> for sequence
   display characterized by a rich set of utilities helpful in pr
-  \[\[Category:<span class="searchmatch">GMOD</span> Components\]\]
+  \[\[Category%3A<span class="searchmatch">GMOD</span> Components\]\]
 
   </div>
 
@@ -1049,7 +1049,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...="/w/images/e/ef/Nihlogo.gif" alt="National Institutes of
   Health"\>\</td\>\<td\><span class="searchmatch">GMOD</span> is
   supported by a specific cooperative agreement from the USDA
-  Agricultural \[\[Category:Wiki
+  Agricultural \[\[Category%3AWiki
   <span class="searchmatch">Tools</span>\]\]
 
   </div>
@@ -1294,8 +1294,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

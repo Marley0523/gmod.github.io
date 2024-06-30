@@ -413,10 +413,10 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Apollo](Category:Apollo "Category:Apollo")
-- [TableEdit](Category:TableEdit "Category:TableEdit")
-- [Events](Category:Events "Category:Events")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
+- [Events](Category%3AEvents "Category%3AEvents")
 
 </div>
 
@@ -510,8 +510,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

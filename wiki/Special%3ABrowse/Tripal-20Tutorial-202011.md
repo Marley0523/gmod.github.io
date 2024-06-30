@@ -39,11 +39,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category:Tutorials "Category:Tutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Pages with broken file links (page does not exist)">Pages
-with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category:2011_Spring_Training "Category:2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[Tripal](/wiki/Category:Tripal "Category:Tripal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tripal "Special%3ASearchByProperty/Tripal")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category:Needs_Editing "Category:Needs Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> |
+title="Category%3APages with broken file links (page does not exist)">Pages
+with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[Tripal](/wiki/Category%3ATripal "Category%3ATripal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tripal "Special%3ASearchByProperty/Tripal")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 February 2013 22:37:52  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/14-20February-202013-2022:37:52 "Special%3ASearchByProperty/Modification-20date/14-20February-202013-2022:37:52")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -170,8 +170,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

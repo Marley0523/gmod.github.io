@@ -602,15 +602,15 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
 - [GMOD in the
-  Cloud](Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Screenshots](Category:Screenshots "Category:Screenshots")
+  Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Screenshots](Category%3AScreenshots "Category%3AScreenshots")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
 
 </div>
@@ -707,8 +707,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

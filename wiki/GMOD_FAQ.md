@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 A list of **F**requently **A**sked **Q**uestions about the GMOD project.
-See [FAQ](Category:FAQ "Category:FAQ") for a list of FAQ pages on
+See [FAQ](Category%3AFAQ "Category%3AFAQ") for a list of FAQ pages on
 specific [GMOD Components](GMOD_Components "GMOD Components"). See the
 [Glossary](Glossary "Glossary") for definitions of commonly used terms
 in GMOD.
@@ -129,7 +129,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [FAQ](Category:FAQ "Category:FAQ")
+- [FAQ](Category%3AFAQ "Category%3AFAQ")
 
 </div>
 
@@ -225,8 +225,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -144,9 +144,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [FAQ](Category:FAQ "Category:FAQ")
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [Microarrays](Category:Microarrays "Category:Microarrays")
+- [FAQ](Category%3AFAQ "Category%3AFAQ")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
 
 </div>
 
@@ -242,8 +242,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

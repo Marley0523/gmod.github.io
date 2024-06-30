@@ -103,8 +103,8 @@ candidate has the technical qualifications or not.
 **Installing and Configuring Software**
 
 Most GMOD software relies on well-established programming languages and
-technologies such as [Perl](Category:Perl "Category:Perl"), CPAN,
-[Java](Category:Java "Category:Java"),
+technologies such as [Perl](Category%3APerl "Category%3APerl"), CPAN,
+[Java](Category%3AJava "Category%3AJava"),
 [PostgreSQL](PostgreSQL "PostgreSQL"), [MySQL](MySQL "MySQL"), and
 Apache. There are also a number of packages and systems that are
 specific to bioinformatics, such as [BioPerl](BioPerl "BioPerl"), that
@@ -345,11 +345,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Linux](Category:Linux "Category:Linux")
-- [Mac OS X](Category:Mac_OS_X "Category:Mac OS X")
-- [Windows](Category:Windows "Category:Windows")
-- [Help](Category:Help "Category:Help")
-- [Computing](Category:Computing "Category:Computing")
+- [Linux](Category%3ALinux "Category%3ALinux")
+- [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
+- [Windows](Category%3AWindows "Category%3AWindows")
+- [Help](Category%3AHelp "Category%3AHelp")
+- [Computing](Category%3AComputing "Category%3AComputing")
 
 </div>
 
@@ -445,8 +445,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

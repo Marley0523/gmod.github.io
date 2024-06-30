@@ -160,10 +160,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [PostgreSQL](Category:PostgreSQL "Category:PostgreSQL")
-- [External](Category:External "Category:External")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -259,8 +259,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

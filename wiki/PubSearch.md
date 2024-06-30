@@ -45,7 +45,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 PubSearch is a web-based literature curation tool to allow curators to
 search and annotate genes to keywords from articles. It has a simple,
 [MySQL](MySQL "MySQL") database backend and uses a set of
-[Java](Category:Java "Category:Java") Servlets and JSPs for querying,
+[Java](Category%3AJava "Category%3AJava") Servlets and JSPs for querying,
 modifying, and adding gene, gene-annotation, and literature information.
 
 See the <a href="http://pubsearch.org" class="external text"
@@ -129,11 +129,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Java](Category:Java "Category:Java")
-- [MySQL](Category:MySQL "Category:MySQL")
-- [PubSearch](Category:PubSearch "Category:PubSearch")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Java](Category%3AJava "Category%3AJava")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [PubSearch](Category%3APubSearch "Category%3APubSearch")
 
 </div>
 
@@ -229,8 +229,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

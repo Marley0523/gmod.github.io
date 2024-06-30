@@ -38,10 +38,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Schools](/wiki/Category:GMOD_Schools "Category:GMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value">[GBrowse syn](/wiki/Category:GBrowse_syn "Category:GBrowse syn")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20syn "Special%3ASearchByProperty/GBrowse-20syn")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Tools_using_GMOD&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value">[GBrowse syn](/wiki/Category%3AGBrowse_syn "Category%3AGBrowse syn")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20syn "Special%3ASearchByProperty/GBrowse-20syn")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Tools using GMOD (page does not exist)">Tools using
+title="Category%3ATools using GMOD (page does not exist)">Tools using
 GMOD</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tools-20using-20GMOD "Special%3ASearchByProperty/Tools-20using-20GMOD")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">22 May 2014 19:05:53  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/22-20May-202014-2019:05:53 "Special%3ASearchByProperty/Modification-20date/22-20May-202014-2019:05:53")</span></span> |
 
@@ -169,8 +169,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

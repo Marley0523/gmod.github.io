@@ -61,7 +61,7 @@ May 2010. The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">Tripal Tutorial</a> page.
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through installing and configuring [Tripal](Tripal.1 "Tripal"), a web
 front end to <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 databases. This tutorial references (and complements) the
@@ -239,7 +239,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -2233,8 +2233,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Tripal](Category:Tripal "Category:Tripal")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 
 </div>
 
@@ -2347,8 +2347,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

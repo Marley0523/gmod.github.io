@@ -272,8 +272,8 @@ the types of data that are stored in a PGDB.
 
 ## <span id="More_on_Pathway_Tools" class="mw-headline">More on Pathway Tools</span>
 
-See [Category:Pathway
-Tools](Category:Pathway_Tools "Category:Pathway Tools")
+See [Category%3APathway
+Tools](Category%3APathway_Tools "Category%3APathway Tools")
 
   
 
@@ -310,14 +310,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
-- [Pathway Tools](Category:Pathway_Tools "Category:Pathway Tools")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](Category:Tool_data "Category:Tool data")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](Category%3ATool_data "Category%3ATool data")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -507,8 +507,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -290,7 +290,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](../Category:FlyBase "Category:FlyBase") - Chado started
+  - [FlyBase](../Category%3AFlyBase "Category%3AFlyBase") - Chado started
     here, large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -1942,9 +1942,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
-- [Chado](../Category:Chado "Category:Chado")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [Chado](../Category%3AChado "Category%3AChado")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -2059,8 +2059,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

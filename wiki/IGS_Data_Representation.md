@@ -601,8 +601,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [IGS](Category:IGS "Category:IGS")
+- [Chado](Category%3AChado "Category%3AChado")
+- [IGS](Category%3AIGS "Category%3AIGS")
 
 </div>
 
@@ -698,8 +698,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

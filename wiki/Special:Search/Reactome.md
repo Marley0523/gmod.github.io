@@ -228,7 +228,7 @@ wiki!** See also the search results found.
   \[http://www.<span class="searchmatch">reactome</span>.org
   <span class="searchmatch">Reactome</span>\]; \[http://www.wormbase.org
   WormBase\]; and \[https://bioconda.github.io/ Bioc
-  \[\[Category:<span class="searchmatch">Reactome</span>\]\]
+  \[\[Category%3A<span class="searchmatch">Reactome</span>\]\]
 
   </div>
 
@@ -833,8 +833,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

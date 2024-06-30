@@ -92,7 +92,7 @@ GMOD offers several possibilities specifically for visualizing
 ## <span id="Gene_Expression_Visualization" class="mw-headline">Gene Expression Visualization</span>
 
 Components for visualizing [gene
-expression](Category:Expression "Category:Expression") results;
+expression](Category%3AExpression "Category%3AExpression") results;
 currently focused on microarray based experiments.
 
 - [Caryoscope](Caryoscope "Caryoscope")
@@ -104,7 +104,7 @@ currently focused on microarray based experiments.
 
 ## <span id="Ontology_Visualization" class="mw-headline">Ontology Visualization</span>
 
-[Ontology](Category:Ontologies "Category:Ontologies") visualization is
+[Ontology](Category%3AOntologies "Category%3AOntologies") visualization is
 currently supported by:
 
 - [GO Graphic Viewer](GO_Graphic_Viewer.1 "GO Graphic Viewer")
@@ -124,11 +124,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
-- [Expression](Category:Expression "Category:Expression")
-- [Ontologies](Category:Ontologies "Category:Ontologies")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+- [Expression](Category%3AExpression "Category%3AExpression")
+- [Ontologies](Category%3AOntologies "Category%3AOntologies")
 
 </div>
 
@@ -224,8 +224,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

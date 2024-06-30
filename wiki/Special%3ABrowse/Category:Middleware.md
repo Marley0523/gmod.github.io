@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Category:Middleware](/wiki/Category:Middleware "Category:Middleware") |  |
+| [Category%3AMiddleware](/wiki/Category%3AMiddleware "Category%3AMiddleware") |  |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">1 March 2008 05:54:36  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/1-20March-202008-2005:54:36 "Special%3ASearchByProperty/Modification-20date/1-20March-202008-2005:54:36")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Computing](/wiki/Category:Computing "Category:Computing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Computing "Special%3ASearchByProperty/Subcategory-20of/Computing")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Computing "Special%3ASearchByProperty/Subcategory-20of/Computing")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -50,7 +50,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smwb-ivalue">[August 2009 GMOD Meeting](/wiki/August_2009_GMOD_Meeting "August 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/August-202009-20GMOD-20Meeting "Special%3ABrowse/August-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema "Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema")</span></span> , <span class="smwb-ivalue">[Chado::AutoDBI](/wiki/Chado::AutoDBI "Chado::AutoDBI") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado::AutoDBI "Special%3ABrowse/Chado::AutoDBI")</span></span> , <span class="smwb-ivalue">[Chado::AutoDBI Presentation](/wiki/Chado::AutoDBI_Presentation "Chado::AutoDBI Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado::AutoDBI-20Presentation "Special%3ABrowse/Chado::AutoDBI-20Presentation")</span></span> , <span class="smwb-ivalue">[Comparison of XORT and Hibernate for Chado reporting](/wiki/Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of XORT and Hibernate for Chado reporting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Comparison-20of-20XORT-20and-20Hibernate-20for-20Chado-20reporting "Special%3ABrowse/Comparison-20of-20XORT-20and-20Hibernate-20for-20Chado-20reporting")</span></span> , <span class="smwb-ivalue">[FakeChromosome](/wiki/FakeChromosome "FakeChromosome") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FakeChromosome "Special%3ABrowse/FakeChromosome")</span></span> , <span class="smwb-ivalue">[GMOD Middleware](/wiki/GMOD_Middleware "GMOD Middleware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Middleware "Special%3ABrowse/GMOD-20Middleware")</span></span> , <span class="smwb-ivalue">[Hibernate Presentation](/wiki/Hibernate_Presentation "Hibernate Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Hibernate-20Presentation "Special%3ABrowse/Hibernate-20Presentation")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting "Special%3ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting "Special%3ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Modware](/wiki/Modware "Modware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware "Special%3ABrowse/Modware")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
-| <span class="smwb-ivalue">[Category:Middleware Presentations](/wiki/Category:Middleware_Presentations "Category:Middleware Presentations") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Middleware-20Presentations "Special%3ABrowse/Category:Middleware-20Presentations")</span></span> , <span class="smwb-ivalue">[Category:Modware](/wiki/Category:Modware "Category:Modware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Modware "Special%3ABrowse/Category:Modware")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3AMiddleware Presentations](/wiki/Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AMiddleware-20Presentations "Special%3ABrowse/Category%3AMiddleware-20Presentations")</span></span> , <span class="smwb-ivalue">[Category%3AModware](/wiki/Category%3AModware "Category%3AModware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AModware "Special%3ABrowse/Category%3AModware")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -65,7 +65,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Category:Middleware>"
+"<http://gmod.org/wiki/Special%3ABrowse/Category%3AMiddleware>"
 
 </div>
 
@@ -97,7 +97,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Middleware "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AMiddleware "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -166,8 +166,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -204,7 +204,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Middleware&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AMiddleware&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

@@ -56,7 +56,7 @@ VMware images are used in several places in GMOD:
 - The [Community Annotation
   System](Community_Annotation_System "Community Annotation System") is
   packaged as a VMware image.
-- Many GMOD [tutorials](Category:Tutorials "Category:Tutorials") use
+- Many GMOD [tutorials](Category%3ATutorials "Category%3ATutorials") use
   VMware images as starting points.
 
   
@@ -107,8 +107,8 @@ alt="Linux" /></a>
 </div>
 
 A free VMware player is available for [Microsoft
-Windows](Category:Windows "Category:Windows") and
-[Linux](Category:Linux "Category:Linux") [operating
+Windows](Category%3AWindows "Category%3AWindows") and
+[Linux](Category%3ALinux "Category%3ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -130,7 +130,7 @@ alt="Apple" /></a>
 Participants can also bring *newer Macs with Intel processors*. The
 Intel processor is a requirement for all the packages discussed below.
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category:Mac_OS_X "Category:Mac OS X"). However, there are several
+X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
 other options, **all of which require an Intel Mac**:
 
   
@@ -244,7 +244,7 @@ client for windows.
 # <span id="Fluxbox" class="mw-headline">Fluxbox</span>
 
 The images from most 2009
-[Tutorial](Category:Tutorials "Category:Tutorials") pages include a
+[Tutorial](Category%3ATutorials "Category%3ATutorials") pages include a
 basic *[graphical user interface](Glossary#GUI "Glossary")* called
 *<a href="http://fluxbox.org/" class="external text"
 rel="nofollow">Fluxbox</a>*. Fluxbox is a minimal GUI.
@@ -274,7 +274,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -370,8 +370,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -73,8 +73,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 # <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category:HOWTO "Category:HOWTO") describes steps to add a
-[BLAST](Category:BLAST "Category:BLAST") analysis to a [Chado
+This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes steps to add a
+[BLAST](Category%3ABLAST "Category%3ABLAST") analysis to a [Chado
 database](Chado_-_Getting_Started "Chado - Getting Started").
 
 # <span id="Have_an_existing_Chado_genome_database" class="mw-headline">Have an existing Chado genome database</span>
@@ -250,9 +250,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [BLAST](Category:BLAST "Category:BLAST")
-- [Chado](Category:Chado "Category:Chado")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [BLAST](Category%3ABLAST "Category%3ABLAST")
+- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -348,8 +348,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

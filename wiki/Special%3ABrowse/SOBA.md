@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external"
 rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Components](/wiki/Category:GMOD_Components "Category:GMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[SOBA](/wiki/Category:SOBA "Category:SOBA")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SOBA "Special%3ASearchByProperty/SOBA")</span></span> , <span class="smwb-value">[Tool data](/wiki/Category:Tool_data "Category:Tool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[SOBA](/wiki/Category%3ASOBA "Category%3ASOBA")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SOBA "Special%3ASearchByProperty/SOBA")</span></span> , <span class="smwb-value">[Tool data](/wiki/Category%3ATool_data "Category%3ATool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">13 February 2013 21:43:22  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/13-20February-202013-2021:43:22 "Special%3ASearchByProperty/Modification-20date/13-20February-202013-2021:43:22")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -168,8 +168,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

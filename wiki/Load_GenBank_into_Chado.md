@@ -65,7 +65,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 ## <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category:HOWTO "Category:HOWTO") describes how to load
+This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes how to load
 GenBank format files into
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>. For a
 thorough discussion of this topic, including all the files that will
@@ -222,8 +222,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Chado](Category:Chado "Category:Chado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -319,8 +319,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

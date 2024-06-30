@@ -548,7 +548,7 @@ is coming
 
 [GBrowse](GBrowse.1 "GBrowse")
 
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
   - Distributed databases and render servers
   - AJAX track loading
   - Improved configuration management
@@ -696,7 +696,7 @@ There may be a GMOD hackathon this coming spring (March to May) at
 <a href="http://nescent.org" class="external text" rel="nofollow">US
 National Evolutionary Synthesis Center (NESCent)</a> in Durham, NC, USA.
 If this happens the focus will be on extending GMOD for [evolutionary
-biology](Category:Evolution "Category:Evolution"). Contact
+biology](Category%3AEvolution "Category%3AEvolution"). Contact
 [Dave](User:Clements "User:Clements") if you want to be on organizing
 committee or participate.
 
@@ -726,7 +726,7 @@ rel="nofollow">SPARQL language</a> for querying it.
 Jun discussed her group's efforts to build an RDF
 <a href="http://en.wikipedia.org/wiki/Triplestore" class="external text"
 rel="nofollow">triple store</a> from several very different data
-sources: [FlyBase](Category:FlyBase "Category:FlyBase") (a
+sources: [FlyBase](Category%3AFlyBase "Category%3AFlyBase") (a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database),
 <a href="http://www.fruitfly.org/" class="external text"
 rel="nofollow">BDGP</a>,
@@ -922,12 +922,12 @@ height="28" alt="Sol Genomics Network" />](User:RobertBuels "Sol Genomics Networ
 
 *[Scott Cain](User:Scott "User:Scott"), OICR, for [Robert
 Buels](User:RobertBuels "User:RobertBuels"), [Sol Genomics Network
-(SGN)](Category:SGN "Category:SGN"),
+(SGN)](Category%3ASGN "Category%3ASGN"),
 <a href="http://gmod.org/dbic_chado_slides/start.html"
 class="external text" rel="nofollow">S5 Slides</a>*
 
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> needs
-[middleware](Category:Middleware "Category:Middleware"), a layer of
+[middleware](Category%3AMiddleware "Category%3AMiddleware"), a layer of
 software between the application (*e.g.* a website) and the database.
 Chado's flexible design makes for complex queries and a steep learning
 curve. It is also hard to get good performance. This talk introduces a
@@ -1078,7 +1078,7 @@ models. That type of aggregation is performed by higher levels.
 ## <span id="A_Restful_interface_for_MODs" class="mw-headline">A Restful interface for MODs</span>
 
 *[Josh Goodman](User:Jogoodma "User:Jogoodma"),
-[FlyBase](Category:FlyBase "Category:FlyBase")*
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase")*
 
 Josh talked about the progress of the
 <a href="GMOD_REST_API" class="mw-redirect" title="GMOD REST API">GMOD
@@ -1261,7 +1261,7 @@ data stored in the
 rel="nofollow">BAM format</a> that Heng Li [described in his
 talk](#SAMtools_for_NextGen_Sequence_Data). This is currently in Alpha
 release, and works only with [GBrowse
-2](Category:GBrowse_2 "Category:GBrowse 2"). It is in available in the
+2](Category%3AGBrowse_2 "Category%3AGBrowse 2"). It is in available in the
 gbrowse-adaptors project of GMOD's
 <a href="CVS" class="mw-redirect" title="CVS">CVS</a> repository. Short
 read, next generation sequence data can be directly represented in
@@ -1965,7 +1965,7 @@ Some bullet points from Julie's talk on
 ### <span id="Mines4Mods" class="mw-headline">Mines4Mods</span>
 
 The Mines4Mods project started May 2009. It is a 2 year grant.
-[RGD](Category:RGD "Category:RGD"), [SGD](Category:SGD "Category:SGD"),
+[RGD](Category%3ARGD "Category%3ARGD"), [SGD](Category%3ASGD "Category%3ASGD"),
 and
 <a href="http://zfin.org" class="external text" rel="nofollow">ZFIN</a>
 are all participating. Each has half a developer working on it. The
@@ -1997,7 +1997,7 @@ this meeting, please add them here.
 - <a href="DAS" class="mw-redirect" title="DAS">DAS</a>: Current
   Situation and Developments -- JWarren
 - [InterMine](InterMine "InterMine") - update and new project with
-  [SGD](Category:SGD "Category:SGD"), [RGD](Category:RGD "Category:RGD")
+  [SGD](Category%3ASGD "Category%3ASGD"), [RGD](Category%3ARGD "Category%3ARGD")
   and
   <a href="http://zfin.org" class="external text" rel="nofollow">ZFIN</a>
   -- Julie Sullivan
@@ -2278,26 +2278,26 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
-- [Chado](Category:Chado "Category:Chado")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [Chado](Category%3AChado "Category%3AChado")
 - [Chado
-  Presentations](Category:Chado_Presentations "Category:Chado Presentations")
+  Presentations](Category%3AChado_Presentations "Category%3AChado Presentations")
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
-- [DAS](Category:DAS "Category:DAS")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [InterMine](Category:InterMine "Category:InterMine")
-- [Java](Category:Java "Category:Java")
-- [Middleware](Category:Middleware "Category:Middleware")
-- [Presentations](Category:Presentations "Category:Presentations")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [Java](Category%3AJava "Category%3AJava")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [Presentations](Category%3APresentations "Category%3APresentations")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Semantic web](Category:Semantic_web "Category:Semantic web")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -2393,8 +2393,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -479,9 +479,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Documentation](Category:Documentation "Category:Documentation")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -577,8 +577,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -60,7 +60,7 @@ The most recent GBrowse tutorial can be found at the [GBrowse
 Tutorial](GBrowse_Tutorial "GBrowse Tutorial") page.
 
   
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to configure the [GBrowse](GBrowse.1 "GBrowse") genome
 browser to display [Next Generation
 Sequencing](Next_Generation_Sequencing "Next Generation Sequencing")
@@ -212,7 +212,7 @@ Password: gmod</p></td>
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -227,7 +227,7 @@ available.
 
 The tutorial will show how to display [next generation
 sequence](Next_Generation_Sequencing "Next Generation Sequencing") (NGS)
-data in [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2") using
+data in [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") using
 <a href="http://samtools.sourceforge.net" class="external text"
 rel="nofollow">SAMtools</a>. We'll use the example human data that comes
 with SAMtools to do that. First we'll load the reference sequence and
@@ -1482,8 +1482,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 
 </div>
 
@@ -1594,8 +1594,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

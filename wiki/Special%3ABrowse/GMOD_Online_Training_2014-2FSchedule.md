@@ -38,10 +38,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Schools](/wiki/Category:GMOD_Schools "Category:GMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:GMOD_Online_Training&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3AGMOD_Online_Training&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:GMOD Online Training (page does not exist)">GMOD Online
+title="Category%3AGMOD Online Training (page does not exist)">GMOD Online
 Training</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Online-20Training "Special%3ASearchByProperty/GMOD-20Online-20Training")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">22 May 2014 07:42:11  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/22-20May-202014-2007:42:11 "Special%3ASearchByProperty/Modification-20date/22-20May-202014-2007:42:11")</span></span> |
 
@@ -169,8 +169,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -288,7 +288,7 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School")
   href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
   class="external text" rel="nofollow">SMBE 2009 GMOD Workshop</a> on
   using **GBrowse_syn** for [comparative
-  genomics](Category:Comparative_Genomics "Category:Comparative Genomics").
+  genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics").
 - [GBrowse_syn at
   PAG](GBrowse_syn_PAG_2009_Workshop "GBrowse syn PAG 2009 Workshop") -
   Presentation by [Sheldon McKay](User:Mckays "User:Mckays") at the
@@ -358,7 +358,7 @@ background reading is listed below:
 
 ## <span id="More_on_GBrowse_syn" class="mw-headline">More on GBrowse_syn</span>
 
-See [Category:GBrowse_syn](Category:GBrowse_syn "Category:GBrowse syn")
+See [Category%3AGBrowse_syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
 ### <span id="GBrowse_syn_Logo" class="mw-headline">GBrowse_syn Logo</span>
 
@@ -396,24 +396,24 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](Category:Tool_data "Category:Tool data")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
+  Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](Category%3ATool_data "Category%3ATool data")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
-- [WormBase](Category:WormBase "Category:WormBase")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -558,8 +558,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

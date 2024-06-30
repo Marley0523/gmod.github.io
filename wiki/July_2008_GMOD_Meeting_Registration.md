@@ -215,7 +215,7 @@ class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
 | 10:10 | break |  |  |
 | 10:40 | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping | [Jim Hu](User:JimHu.1 "User:JimHu") |  |
 | 11:00 | More MediaWiki enhancements | [Sheldon McKay](User:Mckays "User:Mckays") | [Links...](User:Mckays#Links "User:Mckays") |
-|  | [SGN](Category:SGN "Category:SGN") Community Annotation | Lukas Mueller | <a
+|  | [SGN](Category%3ASGN "Category%3ASGN") Community Annotation | Lukas Mueller | <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
 class="new" title="SGNGMOD2008.pdf">PDF</a> |
 |  | WikiMods & Chado API | Brad Arshinoff | <a href="../mediawiki/images/6/65/PerlChadoGMOD2008.pdf"
@@ -274,7 +274,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
 4.  [Robert Buels](User:RobertBuels "User:RobertBuels") -
     <a href="http://www.sgn.cornell.edu" class="external text"
     rel="nofollow">Sol Genomics Network</a>
-    ([SGN](Category:SGN "Category:SGN"))
+    ([SGN](Category%3ASGN "Category%3ASGN"))
 5.  [Scott Cain](User:Scott "User:Scott") - GMOD
 6.  [Dave Clements](User:Clements "User:Clements") -
     <a href="http://nescent.org" class="external text"
@@ -291,7 +291,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
 11. Yunchen Gong - <a href="http://utoronto.ca" class="external text"
     rel="nofollow">University of Toronto</a>
 12. [Josh Goodman](User:Jogoodma "User:Jogoodma") -
-    [FlyBase](Category:FlyBase "Category:FlyBase")
+    [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 13. [Todd Harris](User:Tharris "User:Tharris") -
     <a href="http://www.wormbase.org/" class="external text"
     rel="nofollow">WormBase</a>
@@ -315,11 +315,11 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
 21. [Sheldon McKay](User:Mckays "User:Mckays") -
     <a href="http://modencode.org" class="external text"
     rel="nofollow">modENCODE</a>,
-    [WormBase](Category:WormBase "Category:WormBase")
+    [WormBase](Category%3AWormBase "Category%3AWormBase")
 22. Lukas Mueller
     <a href="http://www.sgn.cornell.edu" class="external text"
     rel="nofollow">Sol Genomics Network</a>
-    ([SGN](Category:SGN "Category:SGN"))
+    ([SGN](Category%3ASGN "Category%3ASGN"))
 23. Brian O'Connor -
     <a href="http://ucla.edu" class="external text" rel="nofollow">UCLA</a>
 24. [Joshua Orvis](User:Jorvis "User:Jorvis") -
@@ -339,7 +339,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     <a href="http://www.xenbase.org" class="external text"
     rel="nofollow">Xenbase</a>; University Of Calgary
 29. Jason Stajich - UC Berkeley
-30. Haiyan Zhang - [FlyBase](Category:FlyBase "Category:FlyBase")
+30. Haiyan Zhang - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 31. [Junjun Zhang](User:Junjun "User:Junjun") -
     <a href="http://www.tcag.ca" class="external text" rel="nofollow">The
     Hospital for Sick Children, Toronto</a>
@@ -429,7 +429,7 @@ cas-utils is a set of tools that tie together
 includes
 
 - A CGI for selecting a region in GBrowse, extracting the data for that
-  region from Apollo and creating an [XML](Category:XML "Category:XML")
+  region from Apollo and creating an [XML](Category%3AXML "Category%3AXML")
   file and a jnlp (webstart) file for Apollo.
 - A CGI for accepting uploads of edited XML files to either be
   immediately loaded into Chado or to be held for validation.
@@ -473,7 +473,7 @@ this from the GUI) in response to popular query patterns. Also supports
 query templates, which are fill-in-the blank versions of popular
 queries.
 
-InterMine is written in [Java](Category:Java "Category:Java"). It has
+InterMine is written in [Java](Category%3AJava "Category%3AJava"). It has
 one class per Sequence Ontology (SO) term, and use Java class
 inheritance for *is_a* relationships. *part_of* relationships are
 implemented with Java references and collections.
@@ -515,7 +515,7 @@ in the upcoming (some would say imminent) 1.69 release of GBrowse.
 - Design Primers
 - Rubberbanding
 - Popup windows (with a nice example showing
-  [WormBase](Category:WormBase "Category:WormBase") anatomy cartoons)
+  [WormBase](Category%3AWormBase "Category%3AWormBase") anatomy cartoons)
 - Draggable tracks
 - Easy-share tracks
   - DAS server is inside GBrowse. Also a web service.
@@ -540,7 +540,7 @@ stability. GBrowse 2 will be cluster aware:
   - A server can be a data server or a render server or both,
   - A track may have multiple data and render servers.
   - A single node can serve data and rendering for one or more tracks.
-- Tracks loaded with [AJAX](Category:AJAX "Category:AJAX"). Grayed out
+- Tracks loaded with [AJAX](Category%3AAJAX "Category%3AAJAX"). Grayed out
   until they load.
 - Turning tracks on and off no longer requires a reload.
 
@@ -646,7 +646,7 @@ a framework that can be used across mutliple organizations and that will
 always produce structurally identical XML, no matter how it is
 originally stored.
 
-Rob Buells from [SGN](Category:SGN "Category:SGN") produced a prototype
+Rob Buells from [SGN](Category%3ASGN "Category%3ASGN") produced a prototype
 of this program while at the meeting.
 
 **Action Items:**
@@ -727,8 +727,8 @@ titled *Perl based Schema Abstraction Layer for
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>*. Brad's <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
 class="new" title="SGNGMOD2008.pdf">talk</a> gave an overview of a
-[Perl](Category:Perl "Category:Perl")
-[middleware](Category:Middleware "Category:Middleware") package for
+[Perl](Category%3APerl "Category%3APerl")
+[middleware](Category%3AMiddleware "Category%3AMiddleware") package for
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> that was
 developed at XanthusBase.
 
@@ -742,7 +742,7 @@ already exists. Why not use it?
 out that way.
 
 Eric Just, the developer of Modware, is no longer at
-[DictyBase](Category:DictyBase "Category:DictyBase"). Someone has
+[DictyBase](Category%3ADictyBase "Category%3ADictyBase"). Someone has
 replaced him, but we don't know if that person is supporting Modware.
 
 It seems that we have a lot of Perl and Java APIs to Chado, perhaps too
@@ -789,7 +789,7 @@ height="148" alt="GMOD2008Lukas.JPG" /></a>
 
 </div>
 
-Lukas Mueller from [SGN](Category:SGN "Category:SGN") spoke about
+Lukas Mueller from [SGN](Category%3ASGN "Category%3ASGN") spoke about
 community annotation at the
 <a href="http://www.sgn.cornell.edu/" class="external text"
 rel="nofollow">Sol Genomics Network</a>.
@@ -829,7 +829,7 @@ It is scheduled to launch on July 30 2008 with these sites:
   rel="nofollow">http://demo.wikimods.org</a>
 
 They have migrated Chado from Oracle to
-[MySQL](Category:MySQL "Category:MySQL").
+[MySQL](Category%3AMySQL "Category%3AMySQL").
 
 ## <span id="CellFrame" class="mw-headline">CellFrame</span>
 
@@ -1092,20 +1092,20 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [AJAX](Category:AJAX "Category:AJAX")
-- [Analysis](Category:Analysis "Category:Analysis")
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Java](Category:Java "Category:Java")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [InterMine](Category:InterMine "Category:InterMine")
-- [Javascript](Category:Javascript "Category:Javascript")
-- [Middleware](Category:Middleware "Category:Middleware")
-- [SGN](Category:SGN "Category:SGN")
-- [XML](Category:XML "Category:XML")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [TableEdit](Category:TableEdit "Category:TableEdit")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
+- [Analysis](Category%3AAnalysis "Category%3AAnalysis")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Java](Category%3AJava "Category%3AJava")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [Javascript](Category%3AJavascript "Category%3AJavascript")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [SGN](Category%3ASGN "Category%3ASGN")
+- [XML](Category%3AXML "Category%3AXML")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -1201,8 +1201,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

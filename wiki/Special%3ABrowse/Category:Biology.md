@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                               |     |
 |---------------------------------------------------------------|-----|
-| [Category:Biology](/wiki/Category:Biology "Category:Biology") |     |
+| [Category%3ABiology](/wiki/Category%3ABiology "Category%3ABiology") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 March 2008 20:25:30  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:25:30 "Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:25:30")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Categories](/wiki/Category:Categories "Category:Categories")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Categories "Special%3ASearchByProperty/Subcategory-20of/Categories")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Categories](/wiki/Category%3ACategories "Category%3ACategories")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Categories "Special%3ASearchByProperty/Subcategory-20of/Categories")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -50,7 +50,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smwb-ivalue">[Overview](/wiki/Overview "Overview") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Overview "Special%3ABrowse/Overview")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
-| <span class="smwb-ivalue">[Category:Analysis](/wiki/Category:Analysis "Category:Analysis") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Analysis "Special%3ABrowse/Category:Analysis")</span></span> , <span class="smwb-ivalue">[Category:Annotation](/wiki/Category:Annotation "Category:Annotation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Annotation "Special%3ABrowse/Category:Annotation")</span></span> , <span class="smwb-ivalue">[Category:Comparative Genomics](/wiki/Category:Comparative_Genomics "Category:Comparative Genomics") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Comparative-20Genomics "Special%3ABrowse/Category:Comparative-20Genomics")</span></span> , <span class="smwb-ivalue">[Category:Evolution](/wiki/Category:Evolution "Category:Evolution") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Evolution "Special%3ABrowse/Category:Evolution")</span></span> , <span class="smwb-ivalue">[Category:Expression](/wiki/Category:Expression "Category:Expression") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Expression "Special%3ABrowse/Category:Expression")</span></span> , <span class="smwb-ivalue">[Category:Ontologies](/wiki/Category:Ontologies "Category:Ontologies") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Ontologies "Special%3ABrowse/Category:Ontologies")</span></span> , <span class="smwb-ivalue">[Category:Phenotypes](/wiki/Category:Phenotypes "Category:Phenotypes") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Phenotypes "Special%3ABrowse/Category:Phenotypes")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3AAnalysis](/wiki/Category%3AAnalysis "Category%3AAnalysis") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AAnalysis "Special%3ABrowse/Category%3AAnalysis")</span></span> , <span class="smwb-ivalue">[Category%3AAnnotation](/wiki/Category%3AAnnotation "Category%3AAnnotation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AAnnotation "Special%3ABrowse/Category%3AAnnotation")</span></span> , <span class="smwb-ivalue">[Category%3AComparative Genomics](/wiki/Category%3AComparative_Genomics "Category%3AComparative Genomics") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AComparative-20Genomics "Special%3ABrowse/Category%3AComparative-20Genomics")</span></span> , <span class="smwb-ivalue">[Category%3AEvolution](/wiki/Category%3AEvolution "Category%3AEvolution") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AEvolution "Special%3ABrowse/Category%3AEvolution")</span></span> , <span class="smwb-ivalue">[Category%3AExpression](/wiki/Category%3AExpression "Category%3AExpression") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AExpression "Special%3ABrowse/Category%3AExpression")</span></span> , <span class="smwb-ivalue">[Category%3AOntologies](/wiki/Category%3AOntologies "Category%3AOntologies") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AOntologies "Special%3ABrowse/Category%3AOntologies")</span></span> , <span class="smwb-ivalue">[Category%3APhenotypes](/wiki/Category%3APhenotypes "Category%3APhenotypes") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3APhenotypes "Special%3ABrowse/Category%3APhenotypes")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category:Biology>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category%3ABiology>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Biology "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3ABiology "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Biology&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ABiology&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

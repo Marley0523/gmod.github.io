@@ -98,8 +98,8 @@ class="external text" rel="nofollow">Google: genome teragrid</a>
 # <span id="Genome_analysis_and_annotation_via_Grid_computing" class="mw-headline">Genome analysis and annotation via Grid computing</span>
 
 This subproject builds re-usable tools and workflows for [genome
-analyses](Category:Analysis "Category:Analysis") and
-[annotation](Category:Annotation "Category:Annotation"), using shared
+analyses](Category%3AAnalysis "Category%3AAnalysis") and
+[annotation](Category%3AAnnotation "Category%3AAnnotation"), using shared
 cyberinfrastructure (Grids or clusters). Here within are collections of
 scripts, documents and workflows for employing existing genome analysis
 tools (BLAST, homology tools, predictors, comparative and phylogenetic
@@ -240,10 +240,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Analysis](Category:Analysis "Category:Analysis")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Analysis](Category%3AAnalysis "Category%3AAnalysis")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -339,8 +339,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

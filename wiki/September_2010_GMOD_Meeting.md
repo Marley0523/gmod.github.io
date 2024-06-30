@@ -2375,8 +2375,8 @@ the web interface. The web interface includes:
 ### <span id="Mines_for_MODs" class="mw-headline">Mines for MODs</span>
 
 This project is creating *mines* at several large MODs. FlyMine was the
-original application for InterMine. [RGD](Category:RGD "Category:RGD")'s
-mine has been released. [SGD](Category:SGD "Category:SGD") and
+original application for InterMine. [RGD](Category%3ARGD "Category%3ARGD")'s
+mine has been released. [SGD](Category%3ASGD "Category%3ASGD") and
 <a href="http://zfin.org" class="external text"
 rel="nofollow">ZFIN's</a> mines are in beta. There is a common interface
 across all of the mines. Each organization supports their with mine with
@@ -2512,7 +2512,7 @@ class="internal" title="GO Curation Sept2010.key">Keynote</a>
 
 ### <span id="The_Challenge" class="mw-headline">The Challenge</span>
 
-[FlyBase](Category:FlyBase "Category:FlyBase") (and other) literature
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase") (and other) literature
 curators read papers, extract information per paper, recording new
 constructs, phenotypes, and allele construction. FlyBase also does gene
 ontology (GO) annotation and wants to make this easy for curators or the
@@ -3287,22 +3287,22 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [AJAX](Category:AJAX "Category:AJAX")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Chado](Category:Chado "Category:Chado")
-- [DAS](Category:DAS "Category:DAS")
-- [Ergatis](Category:Ergatis "Category:Ergatis")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMOD Web Site](Category:GMOD_Web_Site "Category:GMOD Web Site")
-- [InterMine](Category:InterMine "Category:InterMine")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Chado](Category%3AChado "Category%3AChado")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [Ergatis](Category%3AErgatis "Category%3AErgatis")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 - [Natural
-  Diversity](Category:Natural_Diversity "Category:Natural Diversity")
+  Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
 
 </div>
 
@@ -3398,8 +3398,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

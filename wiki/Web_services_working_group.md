@@ -144,11 +144,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Web services](Category:Web_services "Category:Web services")
+- [Web services](Category%3AWeb_services "Category%3AWeb services")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Semantic web](Category:Semantic_web "Category:Semantic web")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
 
 </div>
 
@@ -244,8 +244,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

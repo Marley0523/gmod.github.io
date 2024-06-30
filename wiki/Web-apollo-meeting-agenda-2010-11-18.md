@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-None Category:Webapollo-minutes
+None Category%3AWebapollo-minutes
 
 </div>
 
@@ -55,8 +55,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [Webapollo-minutes](Category:Webapollo-minutes "Category:Webapollo-minutes")
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [Webapollo-minutes](Category%3AWebapollo-minutes "Category%3AWebapollo-minutes")
 
 </div>
 
@@ -152,8 +152,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

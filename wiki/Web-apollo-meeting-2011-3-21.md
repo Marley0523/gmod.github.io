@@ -81,9 +81,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -179,8 +179,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

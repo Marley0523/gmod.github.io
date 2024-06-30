@@ -61,7 +61,7 @@ Meeting](../January_2009_GMOD_Meeting "January 2009 GMOD Meeting") page.
 We'll update that page as we have more. If you want to know what happens
 at a GMOD meeting see the notes from the [July 2008 GMOD
 Meeting](../July_2008_GMOD_Meeting "July 2008 GMOD Meeting") or any of
-the other [previous meetings](../Category:Meetings "Category:Meetings").
+the other [previous meetings](../Category%3AMeetings "Category%3AMeetings").
 
 It's also worth noting that GMOD will again have a [strong
 presence](../PAG_2009 "PAG 2009") at the PAG 2009 meeting itself. If you
@@ -103,7 +103,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -201,8 +201,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

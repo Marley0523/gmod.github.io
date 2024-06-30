@@ -38,12 +38,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Galaxy](/wiki/Category:Galaxy "Category:Galaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category:JBrowse "Category:JBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category:WormBase "Category:WormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category:GSoC "Category:GSoC")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GSoC "Special%3ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Reactome&amp;action=edit&amp;redlink=1"
-class="new" title="Category:Reactome (page does not exist)">Reactome</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Reactome "Special%3ASearchByProperty/Reactome")</span></span> , <span class="smwb-value">[MGI](/wiki/Category:MGI "Category:MGI")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MGI "Special%3ASearchByProperty/MGI")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Galaxy](/wiki/Category%3AGalaxy "Category%3AGalaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%3AGSoC "Category%3AGSoC")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GSoC "Special%3ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3AReactome&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3AReactome (page does not exist)">Reactome</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Reactome "Special%3ASearchByProperty/Reactome")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%3AMGI "Category%3AMGI")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MGI "Special%3ASearchByProperty/MGI")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:WebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
+title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">12 February 2024 16:07:23  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23 "Special%3ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -170,8 +170,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

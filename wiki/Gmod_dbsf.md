@@ -190,10 +190,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Drupal](Category:Drupal "Category:Drupal")
-- [Chado](Category:Chado "Category:Chado")
-- [Web services](Category:Web_services "Category:Web services")
-- [External](Category:External "Category:External")
+- [Drupal](Category%3ADrupal "Category%3ADrupal")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Web services](Category%3AWeb_services "Category%3AWeb services")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -289,8 +289,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

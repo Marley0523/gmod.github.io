@@ -241,7 +241,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 ## <span id="More_on_Tripal" class="mw-headline">More on Tripal</span>
 
-See [Category:Tripal](Category:Tripal "Category:Tripal")
+See [Category%3ATripal](Category%3ATripal "Category%3ATripal")
 
   
 
@@ -292,14 +292,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
-- [Chado](Category:Chado "Category:Chado")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Tripal](Category:Tripal "Category:Tripal")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -698,8 +698,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

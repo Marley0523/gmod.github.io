@@ -86,7 +86,7 @@ hackathon help on --18:00, 26 July 2007 (EDT)
   This one is relatively simple and we might have a prototype before the
   hackathon - modify the wiki search system to restrict searching to a
   particular class of tables or fields.
-- [AJAX](Category:AJAX "Category:AJAX")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
 
 ### <span id="Other_possible_wiki_for_gmod_goals" class="mw-headline">Other possible wiki for gmod goals</span>
 
@@ -95,7 +95,7 @@ hackathon help on --18:00, 26 July 2007 (EDT)
 - Displaying Category intersections, unions, and disjoints.
 - Displaying more levels of the Category DAG
 - Allow user-defined filtering of Category members
-- {{:Category:AJAX\|AJAX\]\] (buiid on
+- {{:Category%3AAJAX\|AJAX\]\] (buiid on
   <a href="http://www.mediawiki.org/wiki/Extension:CategoryTree"
   class="external text">this</a>?)
 
@@ -128,7 +128,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [TableEdit](Category:TableEdit "Category:TableEdit")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -222,8 +222,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

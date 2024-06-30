@@ -62,7 +62,7 @@ May 2010. The most recent JBrowse tutorial can be found at the
 title="JBrowse Tutorial">JBrowse Tutorial</a> page.
 
   
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
 
   
@@ -153,7 +153,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -511,8 +511,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -625,8 +625,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

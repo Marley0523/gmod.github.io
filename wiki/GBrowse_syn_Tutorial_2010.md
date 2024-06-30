@@ -52,7 +52,7 @@ width="250" height="80" alt="GBrowse_syn" /></a>
 
 </div>
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") comparative genomics viewer.
 
@@ -719,8 +719,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -816,8 +816,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

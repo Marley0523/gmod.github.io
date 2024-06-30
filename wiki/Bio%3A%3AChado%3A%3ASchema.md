@@ -149,10 +149,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Middleware](Category:Middleware "Category:Middleware")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Middleware
-  Presentations](Category:Middleware_Presentations "Category:Middleware Presentations")
-- [Chado](Category:Chado "Category:Chado")
+  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -267,8 +267,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

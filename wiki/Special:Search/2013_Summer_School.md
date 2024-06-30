@@ -328,7 +328,7 @@ School</a>" on this wiki!** See also the search results found.
   <div class="searchresult">
 
   \#REDIRECT \[\[JBrowse Tutorial
-  <span class="searchmatch">2013</span>\]\] \[\[Category:2012
+  <span class="searchmatch">2013</span>\]\] \[\[Category%3A2012
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -522,9 +522,9 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:2012 <span class="searchmatch">Summer</span>
+  \[\[Category%3A2012 <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
-  \[\[Category:<span class="searchmatch">2013</span>
+  \[\[Category%3A<span class="searchmatch">2013</span>
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -596,7 +596,7 @@ School</a>" on this wiki!** See also the search results found.
   <span class="searchmatch">School</span>\]\] and the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
-  <span class="searchmatch">School</span>\]\]. \[\[Category:2012
+  <span class="searchmatch">School</span>\]\]. \[\[Category%3A2012
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -1128,8 +1128,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

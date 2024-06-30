@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Apollo](/wiki/Category:Apollo "Category:Apollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[User Experiences](/wiki/Category:User_Experiences "Category:User Experiences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/User-20Experiences "Special%3ASearchByProperty/User-20Experiences")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[User Experiences](/wiki/Category%3AUser_Experiences "Category%3AUser Experiences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/User-20Experiences "Special%3ASearchByProperty/User-20Experiences")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 March 2008 15:04:48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/25-20March-202008-2015:04:48 "Special%3ASearchByProperty/Modification-20date/25-20March-202008-2015:04:48")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

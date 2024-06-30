@@ -66,10 +66,10 @@ href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redli
 class="new"
 title="Property:Published in (page does not exist)">Published in</a> | <span class="smwb-value">BMC Genomics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/BMC-20Genomics "Special%3ASearchByProperty/Published-20in/BMC-20Genomics")</span></span> , <span class="smwb-value">Database : the journal of biological databases and curation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Database-20:-20the-20journal-20of-20biological-20databases-20and-20curation "Special%3ASearchByProperty/Published-20in/Database-20:-20the-20journal-20of-20biological-20databases-20and-20curation")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Pages with broken file links (page does not exist)">Pages
-with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[GMOD Web Site](/wiki/Category:GMOD_Web_Site "Category:GMOD Web Site")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Web-20Site "Special%3ASearchByProperty/GMOD-20Web-20Site")</span></span> , <span class="smwb-value">[Help](/wiki/Category:Help "Category:Help")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> |
+title="Category%3APages with broken file links (page does not exist)">Pages
+with broken file links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20broken-20file-20links "Special%3ASearchByProperty/Pages-20with-20broken-20file-20links")</span></span> , <span class="smwb-value">[GMOD Web Site](/wiki/Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Web-20Site "Special%3ASearchByProperty/GMOD-20Web-20Site")</span></span> , <span class="smwb-value">[Help](/wiki/Category%3AHelp "Category%3AHelp")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">8 November 2013 23:18:14  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/8-20November-202013-2023:18:14 "Special%3ASearchByProperty/Modification-20date/8-20November-202013-2023:18:14")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -195,8 +195,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

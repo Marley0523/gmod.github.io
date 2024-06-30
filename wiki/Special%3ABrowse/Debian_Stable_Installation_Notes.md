@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Linux](/wiki/Category:Linux "Category:Linux")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linux "Special%3ASearchByProperty/Linux")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Linux](/wiki/Category%3ALinux "Category%3ALinux")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linux "Special%3ASearchByProperty/Linux")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 September 2009 06:14:07  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/25-20September-202009-2006:14:07 "Special%3ASearchByProperty/Modification-20date/25-20September-202009-2006:14:07")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

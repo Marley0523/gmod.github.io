@@ -39,8 +39,8 @@ form](/wiki/Property:Has_default_form "Property:Has default form")</span><span c
 property is a special property in this wiki.</span></span>" with value
 "[Tool data](/wiki/Form:Tool_data "Form:Tool data")"  
 
-- [Category:GMOD
-  Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:GMOD-20Component "Special%3ABrowse/Category:GMOD-20Component")</span>
+- [Category%3AGMOD
+  Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Component "Special%3ABrowse/Category%3AGMOD-20Component")</span>
 
  
 
@@ -152,8 +152,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

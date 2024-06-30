@@ -91,13 +91,13 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [DAS](Category:DAS "Category:DAS")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
-- [Chado](Category:Chado "Category:Chado")
-- [LuceGene](Category:LuceGene "Category:LuceGene")
-- [MySQL](Category:MySQL "Category:MySQL")
-- [PostgreSQL](Category:PostgreSQL "Category:PostgreSQL")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [Chado](Category%3AChado "Category%3AChado")
+- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
 
 </div>
 
@@ -191,8 +191,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

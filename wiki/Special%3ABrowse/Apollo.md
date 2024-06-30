@@ -38,10 +38,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Components](/wiki/Category:GMOD_Components "Category:GMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category:Apollo "Category:Apollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category:Annotation "Category:Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Java](/wiki/Category:Java "Category:Java")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category:GMOD_Component "Category:GMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Java](/wiki/Category%3AJava "Category%3AJava")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:WebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
+title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">16 February 2017 22:45:48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/16-20February-202017-2022:45:48 "Special%3ASearchByProperty/Modification-20date/16-20February-202017-2022:45:48")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -167,8 +167,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

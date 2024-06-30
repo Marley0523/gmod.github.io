@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado Modules](/wiki/Category:Chado_Modules "Category:Chado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Wiki Tools](/wiki/Category:Wiki_Tools "Category:Wiki Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Wiki-20Tools "Special%3ASearchByProperty/Wiki-20Tools")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado Modules](/wiki/Category%3AChado_Modules "Category%3AChado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Wiki Tools](/wiki/Category%3AWiki_Tools "Category%3AWiki Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Wiki-20Tools "Special%3ASearchByProperty/Wiki-20Tools")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">29 January 2013 20:28:42  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/29-20January-202013-2020:28:42 "Special%3ASearchByProperty/Modification-20date/29-20January-202013-2020:28:42")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

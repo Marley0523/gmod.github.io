@@ -56,13 +56,13 @@ Animal Genome Conference (PAG 2009)](../PAG_2009 "PAG 2009").
 **Registration is free.**
 
 If you haven't attended a [GMOD
-Meeting](../Category:Meetings "Category:Meetings") before then you are
+Meeting](../Category%3AMeetings "Category%3AMeetings") before then you are
 encouraged to find out why the [overwhelming majority of past
 attendees](../2008_GMOD_Community_Survey#GMOD_Meetings "2008 GMOD Community Survey")
 have found meetings to be useful and well organized. See the [July 2008
 GMOD Meeting](../July_2008_GMOD_Meeting "July 2008 GMOD Meeting") report
 (or any of the other [previous
-report](../Category:Meetings "Category:Meetings")) for an idea of what
+report](../Category%3AMeetings "Category%3AMeetings")) for an idea of what
 goes on at GMOD Meetings.
 
 Finally, if you have items that you would like on the agenda, please add
@@ -101,7 +101,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -199,8 +199,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

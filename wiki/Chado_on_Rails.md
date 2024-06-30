@@ -312,11 +312,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Rails&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Rails (page does not exist)">Rails</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ARails&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ARails (page does not exist)">Rails</a>
 
 </div>
 
@@ -412,8 +412,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

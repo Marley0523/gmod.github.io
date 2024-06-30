@@ -73,9 +73,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Mac OS X](Category:Mac_OS_X "Category:Mac OS X")
-- [MySQL](Category:MySQL "Category:MySQL")
-- [Perl](Category:Perl "Category:Perl")
+- [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [Perl](Category%3APerl "Category%3APerl")
 
 </div>
 
@@ -171,8 +171,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

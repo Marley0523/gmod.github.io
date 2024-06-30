@@ -39,8 +39,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-class="new" title="Category:Template (page does not exist)">Template</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Template "Special%3ASearchByProperty/Template")</span></span> , <span class="smwb-value">[GMOD in the Cloud](/wiki/Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20in-20the-20Cloud "Special%3ASearchByProperty/GMOD-20in-20the-20Cloud")</span></span> , <span class="smwb-value">[Webapollo](/wiki/Category:Webapollo "Category:Webapollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo "Special%3ASearchByProperty/Webapollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category:Annotation "Category:Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Tool data](/wiki/Category:Tool_data "Category:Tool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category:GMOD_Components "Category:GMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> |
+href="/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3ATemplate (page does not exist)">Template</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Template "Special%3ASearchByProperty/Template")</span></span> , <span class="smwb-value">[GMOD in the Cloud](/wiki/Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20in-20the-20Cloud "Special%3ASearchByProperty/GMOD-20in-20the-20Cloud")</span></span> , <span class="smwb-value">[Webapollo](/wiki/Category%3AWebapollo "Category%3AWebapollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Webapollo "Special%3ASearchByProperty/Webapollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Tool data](/wiki/Category%3ATool_data "Category%3ATool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 October 2013 20:34:20  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20October-202013-2020:34:20 "Special%3ASearchByProperty/Modification-20date/15-20October-202013-2020:34:20")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -167,8 +167,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

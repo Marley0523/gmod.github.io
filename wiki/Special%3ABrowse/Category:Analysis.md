@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                                  |     |
 |------------------------------------------------------------------|-----|
-| [Category:Analysis](/wiki/Category:Analysis "Category:Analysis") |     |
+| [Category%3AAnalysis](/wiki/Category%3AAnalysis "Category%3AAnalysis") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 March 2008 17:40:46  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/10-20March-202008-2017:40:46 "Special%3ASearchByProperty/Modification-20date/10-20March-202008-2017:40:46")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Biology](/wiki/Category:Biology "Category:Biology")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Biology "Special%3ASearchByProperty/Subcategory-20of/Biology")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Biology](/wiki/Category%3ABiology "Category%3ABiology")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Biology "Special%3ASearchByProperty/Subcategory-20of/Biology")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -50,7 +50,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[Chado Companalysis Module](/wiki/Chado_Companalysis_Module "Chado Companalysis Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Companalysis-20Module "Special%3ABrowse/Chado-20Companalysis-20Module")</span></span> , <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> , <span class="smwb-ivalue">[Genome grid](/wiki/Genome_grid "Genome grid") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genome-20grid "Special%3ABrowse/Genome-20grid")</span></span> , <span class="smwb-ivalue">[File:Gmod-datagrid.ppt](/wiki/File:Gmod-datagrid.ppt "File:Gmod-datagrid.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Gmod-2Ddatagrid.ppt "Special%3ABrowse/File:Gmod-2Ddatagrid.ppt")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting "Special%3ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[TIGR-Workflow / Ergatis](/wiki/TIGR-Workflow_/_Ergatis "TIGR-Workflow / Ergatis") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/TIGR-2DWorkflow-20-2F-20Ergatis "Special%3ABrowse/TIGR-2DWorkflow-20-2F-20Ergatis")</span></span> , <span class="smwb-ivalue">[File:Terry 040526.ppt](/wiki/File:Terry_040526.ppt "File:Terry 040526.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Terry-20040526.ppt "Special%3ABrowse/File:Terry-20040526.ppt")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
-| <span class="smwb-ivalue">[Category:BLAST](/wiki/Category:BLAST "Category:BLAST") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:BLAST "Special%3ABrowse/Category:BLAST")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3ABLAST](/wiki/Category%3ABLAST "Category%3ABLAST") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ABLAST "Special%3ABrowse/Category%3ABLAST")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category:Analysis>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category%3AAnalysis>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Analysis "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AAnalysis "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Analysis&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AAnalysis&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

@@ -138,10 +138,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [Documentation](Category:Documentation "Category:Documentation")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
 </div>
 
@@ -237,8 +237,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

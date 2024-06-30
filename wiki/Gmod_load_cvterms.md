@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 gmod_load_cvterms.pl is a perl script for loading and more importantly,
 updating controlled vocabulary and
-[ontology](Category:Ontologies "Category:Ontologies") terms in the
+[ontology](Category%3AOntologies "Category%3AOntologies") terms in the
 [cvterm table](Chado_CV_Module#Table:_cvterm "Chado CV Module"). This
 script was contributed by [Naama
 Menda](User:NaamaMenda "User:NaamaMenda") and the developers at the
@@ -169,9 +169,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [Ontologies](Category:Ontologies "Category:Ontologies")
-- [SGN](Category:SGN "Category:SGN")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Ontologies](Category%3AOntologies "Category%3AOntologies")
+- [SGN](Category%3ASGN "Category%3ASGN")
 
 </div>
 
@@ -267,8 +267,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

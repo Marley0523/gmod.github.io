@@ -61,15 +61,15 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Java](Category:Java "Category:Java")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Java](Category%3AJava "Category%3AJava")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:WebApollo (page does not exist)">WebApollo</a>
+  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
 
 </div>
 
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

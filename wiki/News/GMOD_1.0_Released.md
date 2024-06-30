@@ -56,10 +56,10 @@ In addition to the Chado schema, this release includes:
 
 - Tools for creating a new database.
 - Tools for populating it with
-  [ontology](../Category:Ontologies "Category:Ontologies") data (using
+  [ontology](../Category%3AOntologies "Category%3AOntologies") data (using
   go-perl).
 - A fairly new tool for updating ontologies contributed by the
-  developers of [SGN](../Category:SGN "Category:SGN"), the Sol Genomics
+  developers of [SGN](../Category%3ASGN "Category%3ASGN"), the Sol Genomics
   Network.
 - Tools for loading sequence feature (i.e. [GFF3](../GFF3 "GFF3")) data.
 - GMODTools for creating bulk download files like GFF and Fasta (See
@@ -75,7 +75,7 @@ should also work well with
 With this release, there are so many people in the GMOD community that I
 would like to thank that I couldn't possibly list them all, but at a
 bare minimum, I would like to thank the developers at
-[FlyBase](../Category:FlyBase "Category:FlyBase") and the Berkeley
+[FlyBase](../Category%3AFlyBase "Category%3AFlyBase") and the Berkeley
 Drosophila Genome Project, especially Chris Mungall and Dave Emmert, as
 well as others who have contributed code to the GMOD project over the
 past several years.
@@ -110,7 +110,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -208,8 +208,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

@@ -213,11 +213,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [Perl](Category:Perl "Category:Perl")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Perl](Category%3APerl "Category%3APerl")
 - [Middleware
-  Presentations](Category:Middleware_Presentations "Category:Middleware Presentations")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
+  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
 </div>
 
@@ -313,8 +313,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

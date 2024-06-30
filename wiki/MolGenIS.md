@@ -158,8 +158,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [External](Category:External "Category:External")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -255,8 +255,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

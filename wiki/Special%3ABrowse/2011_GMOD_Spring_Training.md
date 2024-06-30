@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Events](/wiki/Category:Events "Category:Events")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> , <span class="smwb-value">[Education and Outreach](/wiki/Category:Education_and_Outreach "Category:Education and Outreach")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Education-20and-20Outreach "Special%3ASearchByProperty/Education-20and-20Outreach")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category:2011_Spring_Training "Category:2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category:GMOD_Schools "Category:GMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> , <span class="smwb-value">[Education and Outreach](/wiki/Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Education-20and-20Outreach "Special%3ASearchByProperty/Education-20and-20Outreach")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 February 2020 23:28:01  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20February-202020-2023:28:01 "Special%3ASearchByProperty/Modification-20date/11-20February-202020-2023:28:01")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

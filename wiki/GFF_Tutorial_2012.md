@@ -726,18 +726,18 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF (page does not exist)">GFF</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF (page does not exist)">GFF</a>
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF3 (page does not exist)">GFF3</a>
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:File_Formats&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:File Formats (page does not exist)">File
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AFile_Formats&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AFile Formats (page does not exist)">File
   Formats</a>
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
 
 </div>
 
@@ -833,8 +833,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

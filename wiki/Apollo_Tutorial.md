@@ -1315,10 +1315,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Apollo](Category:Apollo "Category:Apollo")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Apollo](Category%3AApollo "Category%3AApollo")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 
 </div>
 
@@ -1431,8 +1431,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -86,10 +86,10 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Jobs&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Jobs (page does not exist)">Jobs</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AJobs&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AJobs (page does not exist)">Jobs</a>
 
 </div>
 
@@ -187,8 +187,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

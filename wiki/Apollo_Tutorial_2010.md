@@ -154,7 +154,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -1282,9 +1282,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Apollo](Category:Apollo "Category:Apollo")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Apollo](Category%3AApollo "Category%3AApollo")
 
 </div>
 
@@ -1397,8 +1397,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

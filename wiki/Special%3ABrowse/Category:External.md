@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                                  |     |
 |------------------------------------------------------------------|-----|
-| [Category:External](/wiki/Category:External "Category:External") |     |
+| [Category%3AExternal](/wiki/Category%3AExternal "Category%3AExternal") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 March 2008 21:15:06  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20March-202008-2021:15:06 "Special%3ASearchByProperty/Modification-20date/11-20March-202008-2021:15:06")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Computing](/wiki/Category:Computing "Category:Computing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Computing "Special%3ASearchByProperty/Subcategory-20of/Computing")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Computing "Special%3ASearchByProperty/Subcategory-20of/Computing")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -50,7 +50,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smwb-ivalue">[Artemis](/wiki/Artemis "Artemis") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Artemis "Special%3ABrowse/Artemis")</span></span> , <span class="smwb-ivalue">[BioPerl](/wiki/BioPerl "BioPerl") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioPerl "Special%3ABrowse/BioPerl")</span></span> , <span class="smwb-ivalue">[BioSQL](/wiki/BioSQL "BioSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioSQL "Special%3ABrowse/BioSQL")</span></span> , <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[CMap3D](/wiki/CMap3D "CMap3D") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap3D "Special%3ABrowse/CMap3D")</span></span> , <span class="smwb-ivalue">[Drupal](/wiki/Drupal "Drupal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Drupal "Special%3ABrowse/Drupal")</span></span> , <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Est2assembly "Special%3ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GMODviews](/wiki/GMODviews "GMODviews") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMODviews "Special%3ABrowse/GMODviews")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genes4all "Special%3ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-2Ddbsf "Special%3ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[IGB](/wiki/IGB "IGB") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/IGB "Special%3ABrowse/IGB")</span></span> , <span class="smwb-ivalue">[Java TreeView](/wiki/Java_TreeView "Java TreeView") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Java-20TreeView "Special%3ABrowse/Java-20TreeView")</span></span> , <span class="smwb-ivalue">[MolGenIS](/wiki/MolGenIS "MolGenIS") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MolGenIS "Special%3ABrowse/MolGenIS")</span></span> , <span class="smwb-ivalue">[MySQL](/wiki/MySQL "MySQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MySQL "Special%3ABrowse/MySQL")</span></span> , <span class="smwb-ivalue">[NBrowse](/wiki/NBrowse "NBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/NBrowse "Special%3ABrowse/NBrowse")</span></span> , <span class="smwb-ivalue">[PostgreSQL](/wiki/PostgreSQL "PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL "Special%3ABrowse/PostgreSQL")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
-| <span class="smwb-ivalue">[Category:MySQL](/wiki/Category:MySQL "Category:MySQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:MySQL "Special%3ABrowse/Category:MySQL")</span></span> , <span class="smwb-ivalue">[Category:PostgreSQL](/wiki/Category:PostgreSQL "Category:PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:PostgreSQL "Special%3ABrowse/Category:PostgreSQL")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3AMySQL](/wiki/Category%3AMySQL "Category%3AMySQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AMySQL "Special%3ABrowse/Category%3AMySQL")</span></span> , <span class="smwb-ivalue">[Category%3APostgreSQL](/wiki/Category%3APostgreSQL "Category%3APostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3APostgreSQL "Special%3ABrowse/Category%3APostgreSQL")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category:External>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category%3AExternal>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:External "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AExternal "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:External&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AExternal&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

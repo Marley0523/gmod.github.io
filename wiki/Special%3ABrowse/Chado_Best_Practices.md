@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Pages with problems or questions](/wiki/Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions "Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category:Needs_Editing "Category:Needs Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[BLAST](/wiki/Category:BLAST "Category:BLAST")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BLAST "Special%3ASearchByProperty/BLAST")</span></span> , <span class="smwb-value">[Chado](/wiki/Category:Chado "Category:Chado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Pages with problems or questions](/wiki/Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions "Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[BLAST](/wiki/Category%3ABLAST "Category%3ABLAST")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BLAST "Special%3ASearchByProperty/BLAST")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">16 April 2013 08:47:12  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/16-20April-202013-2008:47:12 "Special%3ASearchByProperty/Modification-20date/16-20April-202013-2008:47:12")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

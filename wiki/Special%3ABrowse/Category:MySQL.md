@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                         |     |
 |---------------------------------------------------------|-----|
-| [Category:MySQL](/wiki/Category:MySQL "Category:MySQL") |     |
+| [Category%3AMySQL](/wiki/Category%3AMySQL "Category%3AMySQL") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 March 2008 20:55:33  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:55:33 "Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:55:33")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[External](/wiki/Category:External "Category:External")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/External "Special%3ASearchByProperty/Subcategory-20of/External")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category:Database_Tools "Category:Database Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Database-20Tools "Special%3ASearchByProperty/Subcategory-20of/Database-20Tools")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/External "Special%3ASearchByProperty/Subcategory-20of/External")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Database-20Tools "Special%3ASearchByProperty/Subcategory-20of/Database-20Tools")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category:MySQL>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/Category%3AMySQL>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:MySQL "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AMySQL "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -164,8 +164,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:MySQL&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AMySQL&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

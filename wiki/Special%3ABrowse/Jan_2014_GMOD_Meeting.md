@@ -38,10 +38,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Meetings](/wiki/Category:Meetings "Category:Meetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category:GMOD_Community "Category:GMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Pages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category%3AGMOD_Community "Category%3AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3APages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Pages containing blacklisted links (page does not exist)">Pages
+title="Category%3APages containing blacklisted links (page does not exist)">Pages
 containing blacklisted links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20containing-20blacklisted-20links "Special%3ASearchByProperty/Pages-20containing-20blacklisted-20links")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">8 May 2014 07:49:43  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/8-20May-202014-2007:49:43 "Special%3ASearchByProperty/Modification-20date/8-20May-202014-2007:49:43")</span></span> |
 
@@ -169,8 +169,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -244,15 +244,15 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [Gramene](Category:Gramene "Category:Gramene")
-- [MGI](Category:MGI "Category:MGI")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [Gramene](Category%3AGramene "Category%3AGramene")
+- [MGI](Category%3AMGI "Category%3AMGI")
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
-- [RGD](Category:RGD "Category:RGD")
-- [SGD](Category:SGD "Category:SGD")
-- [TAIR](Category:TAIR "Category:TAIR")
-- [WormBase](Category:WormBase "Category:WormBase")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+- [RGD](Category%3ARGD "Category%3ARGD")
+- [SGD](Category%3ASGD "Category%3ASGD")
+- [TAIR](Category%3ATAIR "Category%3ATAIR")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
 
 </div>
 
@@ -348,8 +348,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -197,7 +197,7 @@ Heidelberg RNAi) by genes hit by the screens. Initially the plan is to
 store the dsRNA primers and amplicons with there chromosomal locations
 mapped to the current release. The goal is to link the libraries, dsRNA
 amplicons with genes and
-[phenotypes](Category:Phenotypes "Category:Phenotypes").
+[phenotypes](Category%3APhenotypes "Category%3APhenotypes").
 
 - dsRNA library: contains collections of dsRNA amplicons, primarily from
   the screening centers. Currently it holds the DRSC collection.
@@ -504,9 +504,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [!Lacking ERD](Category:!Lacking_ERD "Category:!Lacking ERD")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [!Lacking ERD](Category%3A!Lacking_ERD "Category%3A!Lacking ERD")
 
 </div>
 
@@ -602,8 +602,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

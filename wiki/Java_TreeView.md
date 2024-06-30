@@ -118,9 +118,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Java](Category:Java "Category:Java")
-- [Microarrays](Category:Microarrays "Category:Microarrays")
-- [External](Category:External "Category:External")
+- [Java](Category%3AJava "Category%3AJava")
+- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -216,8 +216,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

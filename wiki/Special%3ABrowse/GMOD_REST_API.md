@@ -40,10 +40,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-class="new" title="Category:REST (page does not exist)">REST</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/REST "Special%3ASearchByProperty/REST")</span></span> , <span class="smwb-value">[Web services](/wiki/Category:Web_services "Category:Web services")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Web-20services "Special%3ASearchByProperty/Web-20services")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:RPC&amp;action=edit&amp;redlink=1"
-class="new" title="Category:RPC (page does not exist)">RPC</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/RPC "Special%3ASearchByProperty/RPC")</span></span> |
+href="/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3AREST (page does not exist)">REST</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/REST "Special%3ASearchByProperty/REST")</span></span> , <span class="smwb-value">[Web services](/wiki/Category%3AWeb_services "Category%3AWeb services")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Web-20services "Special%3ASearchByProperty/Web-20services")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3ARPC (page does not exist)">RPC</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/RPC "Special%3ASearchByProperty/RPC")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 August 2013 23:02:09  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20August-202013-2023:02:09 "Special%3ASearchByProperty/Modification-20date/15-20August-202013-2023:02:09")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -170,8 +170,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

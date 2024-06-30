@@ -718,17 +718,17 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Computing](Category:Computing "Category:Computing")
-- [Annotation](Category:Annotation "Category:Annotation")
+- [Computing](Category%3AComputing "Category%3AComputing")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF (page does not exist)">GFF</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF (page does not exist)">GFF</a>
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF3 (page does not exist)">GFF3</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:File_Formats&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:File Formats (page does not exist)">File
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AFile_Formats&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AFile Formats (page does not exist)">File
   Formats</a>
 
 </div>
@@ -823,8 +823,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

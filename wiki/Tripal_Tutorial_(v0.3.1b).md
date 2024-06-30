@@ -3300,8 +3300,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tripal](Category:Tripal "Category:Tripal")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tripal](Category%3ATripal "Category%3ATripal")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -3397,8 +3397,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

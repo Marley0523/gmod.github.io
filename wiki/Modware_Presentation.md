@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 Eric Just, Senior Bioinformatics Scientist,
-[dictyBase](Category:DictyBase "Category:DictyBase"):
+[dictyBase](Category%3ADictyBase "Category%3ADictyBase"):
 <a href="http://dictybase.org" class="external free"
 rel="nofollow">http://dictybase.org</a> Center for Genetic Medicine,
 Northwestern University. This is an edited version of
@@ -656,7 +656,7 @@ sub Write_search_results {
 
 - [BioPerl](BioPerl "BioPerl")
 - GMOD
-- [SGD](Category:SGD "Category:SGD")
+- [SGD](Category%3ASGD "Category%3ASGD")
 
 </div>
 
@@ -673,8 +673,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Modware](Category:Modware "Category:Modware")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
+- [Modware](Category%3AModware "Category%3AModware")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
 </div>
 
@@ -770,8 +770,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

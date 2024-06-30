@@ -163,9 +163,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [DAS](Category:DAS "Category:DAS")
-- [CMap](Category:CMap "Category:CMap")
-- [Proposals](Category:Proposals "Category:Proposals")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [CMap](Category%3ACMap "Category%3ACMap")
+- [Proposals](Category%3AProposals "Category%3AProposals")
 
 </div>
 
@@ -261,8 +261,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

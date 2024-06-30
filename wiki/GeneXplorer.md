@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 GeneXplorer is a web application that allows clustered
-[microarray](Category:Microarrays "Category:Microarrays") data to be
+[microarray](Category%3AMicroarrays "Category%3AMicroarrays") data to be
 browsed interactively via the web, and can be used either for research
 purposes, or for providing web supplements to accompany microarray
 publication.
@@ -155,9 +155,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Expression](Category:Expression "Category:Expression")
-- [Microarrays](Category:Microarrays "Category:Microarrays")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [Expression](Category%3AExpression "Category%3AExpression")
+- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -253,8 +253,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

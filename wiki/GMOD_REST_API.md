@@ -342,7 +342,7 @@ individual records within a data class are updated and released
 asynchronously then a timestamp derived from the time of query execution
 should be used.
 
-For example, [FlyBase](Category:FlyBase "Category:FlyBase") releases its
+For example, [FlyBase](Category%3AFlyBase "Category%3AFlyBase") releases its
 data on a roughly monthly basis and tags all data contained in that
 release with a release number (e.g. FB2008_10). If a release number was
 not used then a date stamp for when the entire genes data class was
@@ -1190,12 +1190,12 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Web services](Category:Web_services "Category:Web services")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Web services](Category%3AWeb_services "Category%3AWeb services")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:RPC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:RPC (page does not exist)">RPC</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ARPC (page does not exist)">RPC</a>
 
 </div>
 
@@ -1291,8 +1291,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -72,7 +72,7 @@ rel="nofollow">NESCent</a>, Durham, NC
   class="internal"
   title="Stajich GMOD 2006-06-30.pdf">Stajich_GMOD_2006-06-30.pdf</a>‎ -
   Fungal [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 - <a href="../mediawiki/images/b/bc/Vision.pdf" class="internal"
   title="Vision.pdf">Vision.pdf</a>‎
 - <a href="../mediawiki/images/4/49/Whats_new.ppt" class="internal"
@@ -173,7 +173,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -269,8 +269,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -184,13 +184,13 @@ Topics covered:
 - Architecture
   - Testing recommendations
   - Volunteers to examine [Java ORMs Hibernate and
-    iBatis](Category:Middleware "Category:Middleware")
+    iBatis](Category%3AMiddleware "Category%3AMiddleware")
   - How to get various chado instances to conform to a standard method
     of encoding data? Documentation: Joshua (TIGR) volunteered to
     document how TIGR is using chado to encode data and make it public
     as a first step in a collaborative effort among current users of
     chado (including TIGR,
-    [FlyBase](Category:FlyBase "Category:FlyBase"), and GMOD
+    [FlyBase](Category%3AFlyBase "Category%3AFlyBase"), and GMOD
     developers).
 - [www.gmod.org](Main_Page "Main Page")
   - In the evening of the first day, Allen Day, Brian O'Connor and Scott
@@ -218,7 +218,7 @@ Topics covered:
 - demos
   - <a href="Ergatis" class="mw-redirect" title="Ergatis">TIGR pipeline
     tool</a>
-  - Princeton/[SGD](Category:SGD "Category:SGD") web-based data curation
+  - Princeton/[SGD](Category%3ASGD "Category%3ASGD") web-based data curation
     tool (talks directly to chado)
   - [DAS2](Distributed_Annotation_System "Distributed Annotation System")
     java tool for querying [chado microarray
@@ -227,7 +227,7 @@ Topics covered:
     (<a href="http://xenbase.org" class="external text"
     rel="nofollow">XenBase</a>\])
   - PuMA, java tool for pubmed query building
-  - [ApiDB](Category:ApiDB "Category:ApiDB") [GBrowse for
+  - [ApiDB](Category%3AApiDB "Category%3AApiDB") [GBrowse for
     synteny](SynView "SynView")
   - flybase gbrowse for synteny
   - flybase query builder
@@ -245,8 +245,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [DictyBase](Category:DictyBase "Category:DictyBase")
-- [Meetings](Category:Meetings "Category:Meetings")
+- [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -338,8 +338,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

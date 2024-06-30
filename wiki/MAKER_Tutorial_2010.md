@@ -62,7 +62,7 @@ May 2010. The most recent MAKER tutorial can be found at the
 title="MAKER Tutorial">MAKER Tutorial</a> page.
 
   
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running the [MAKER](MAKER.1 "MAKER") genome
 annotation pipeline with some sample data.
 
@@ -213,7 +213,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -316,9 +316,9 @@ give annotations a lot of thought, they use them everyday.
   
 Examples of Annotation Databases:
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [WormBase](Category:WormBase "Category:WormBase")
-- [Mouse Genome Informatics Group](Category:MGI "Category:MGI")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
+- [Mouse Genome Informatics Group](Category%3AMGI "Category%3AMGI")
 
   
 Every time we use techniques such as RNAi, PCR, gene expression arrays,
@@ -2476,8 +2476,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [MAKER](Category:MAKER "Category:MAKER")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
 
 </div>
 
@@ -2590,8 +2590,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

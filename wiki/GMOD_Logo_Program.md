@@ -230,8 +230,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [Logos and Icons](Category:Logos_and_Icons "Category:Logos and Icons")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
 
 </div>
 
@@ -327,8 +327,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

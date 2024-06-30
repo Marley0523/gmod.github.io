@@ -58,7 +58,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [Pages with problems or
-  questions](Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")
+  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
 
 </div>
 
@@ -152,8 +152,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

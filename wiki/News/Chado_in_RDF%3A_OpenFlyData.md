@@ -62,7 +62,7 @@ programmatic
 rel="nofollow">SPARQL-based</a> interface to each. Source databases
 include the
 <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> database
-from [FlyBase](../Category:FlyBase "Category:FlyBase"),
+from [FlyBase](../Category%3AFlyBase "Category%3AFlyBase"),
 <a href="http://www.fruitfly.org/" class="external text"
 rel="nofollow">BDGP</a>,
 <a href="http://www.flyatlas.org/" class="external text"
@@ -112,7 +112,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -210,8 +210,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

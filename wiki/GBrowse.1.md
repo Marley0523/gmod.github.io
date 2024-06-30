@@ -582,7 +582,7 @@ class="external text" rel="nofollow">Sourceforge</a> |  |
 
 Please report bugs to the <a
 href="http://sourceforge.net/tracker/?func=add&amp;group_id=27707&amp;atid=391291SourceForge"
-class="external text" rel="nofollow">Bug Tracker</a> (select 'Category:
+class="external text" rel="nofollow">Bug Tracker</a> (select 'Category%3A
 Gbrowshttp://gmod.org/wiki/e').
 
 ## <span id="GBrowse_in_the_wild" class="mw-headline">GBrowse in the wild</span>
@@ -614,7 +614,7 @@ for configuring GBrowse.
 
 http://gmod.org/wiki/
 
-See [Category:GBrowse](/wiki/Category:GBrowse "Category:GBrowse")
+See [Category%3AGBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
 
 ### <span id="GBrowse_Lhttp://gmod.org/wiki/ogo" class="mw-headline">GBrowse Logo</span>
 
@@ -669,15 +669,15 @@ class="mw-normal-cahttp://gmod.org/wiki/tlinks">
 
 [Categories](/wiki/Special:Categories "Special:Categories"):
 
-- [GBrowse](/wiki/Category:GBrowse "Category:GBrowse")
+- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
 - [GMOD
-  Component](/wiki/Category:GMOD_Component "Category:GMOD Component")
+  Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")
 - [GMOD
-  Components](/wiki/Category:GMOD_Components "Category:GMOD Components")
+  Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
 - <a
-  href="/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLihttp://gmod.org/wiki/nk</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLihttp://gmod.org/wiki/nk</a>
 
 </div>
 
@@ -1073,8 +1073,8 @@ aria-labelledby="p-Documentationhttp://gmod.org/wiki/-label">
 ### Documentation
 
 - <span id="n-Overview"><a href="/wiki/Overview" http:="" data-gmod.org="" data-wiki=""></a>Overview</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -363,10 +363,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse Plugins](Category:GBrowse_Plugins "Category:GBrowse Plugins")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Help](Category:Help "Category:Help")
+- [GBrowse Plugins](Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Help](Category%3AHelp "Category%3AHelp")
 
 </div>
 
@@ -462,8 +462,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

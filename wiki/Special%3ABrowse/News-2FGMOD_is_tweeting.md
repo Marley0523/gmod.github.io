@@ -38,9 +38,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[News Items](/wiki/Category:News_Items "Category:News Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category:GMOD_Community "Category:GMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category:Social_Media&amp;action=edit&amp;redlink=1"
-class="new" title="Category:Social Media (page does not exist)">Social
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[News Items](/wiki/Category%3ANews_Items "Category%3ANews Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category%3AGMOD_Community "Category%3AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%3ASocial_Media&amp;action=edit&amp;redlink=1"
+class="new" title="Category%3ASocial Media (page does not exist)">Social
 Media</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Social-20Media "Special%3ASearchByProperty/Social-20Media")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">16 November 2012 21:25:25  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/16-20November-202012-2021:25:25 "Special%3ASearchByProperty/Modification-20date/16-20November-202012-2021:25:25")</span></span> |
 
@@ -168,8 +168,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

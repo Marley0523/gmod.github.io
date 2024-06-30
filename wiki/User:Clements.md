@@ -344,7 +344,7 @@ presentations.
   class="external text" rel="nofollow">IGERT Symposium on Evolution,
   Development, and Genomics</a>, April 4-6, Eugene, OR. Highlights GMOD
   components particularly useful for [comparative
-  genomics](Category:Comparative_Genomics "Category:Comparative Genomics"):
+  genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics"):
   [CMap](CMap.1 "CMap"), [Sybil](Sybil "Sybil"),
   [SynView](SynView "SynView"), [SynBrowse](SynBrowse "SynBrowse") and
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn").
@@ -361,7 +361,7 @@ presentations.
   class="external text" rel="nofollow">IGERT Symposium on Evolution,
   Development, and Genomics</a>, April 4-6, 2008, in Eugene OR.
   Highlights GMOD tools particularly useful for
-  [evolutionary](Category:Evolution "Category:Evolution") research:
+  [evolutionary](Category%3AEvolution "Category%3AEvolution") research:
   [GBrowse](GBrowse.1 "GBrowse"), [Apollo](Apollo.1 "Apollo"), [Pathway
   Tools](Pathway_Tools.1 "Pathway Tools"), and
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.*
@@ -404,7 +404,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Galaxy](Category:Galaxy "Category:Galaxy")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
 </div>
 
@@ -501,8 +501,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

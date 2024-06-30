@@ -60,112 +60,112 @@ href="/mediawiki/index.php?title=Special:Categories&amp;offset=&amp;limit=500"
 class="mw-numlink" title="Special:Categories">500</a>)
 
 - <a
-  href="/mediawiki/index.php?title=Category:!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Category%3A!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>‏‎
+  title="Category%3A!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>‏‎
   (2 members)
-- [!Lacking ERD](/wiki/Category:!Lacking_ERD "Category:!Lacking ERD")‏‎
+- [!Lacking ERD](/wiki/Category%3A!Lacking_ERD "Category%3A!Lacking ERD")‏‎
   (14 members)
 - [2011 Spring
-  Training](/wiki/Category:2011_Spring_Training "Category:2011 Spring Training")‏‎
+  Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")‏‎
   (14 members)
 - [2012 Summer
-  School](/wiki/Category:2012_Summer_School "Category:2012 Summer School")‏‎
+  School](/wiki/Category%3A2012_Summer_School "Category%3A2012 Summer School")‏‎
   (16 members)
 - <a
-  href="/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>‏‎ (7 members)
-- [AJAX](/wiki/Category:AJAX "Category:AJAX")‏‎ (7 members)
-- [Analysis](/wiki/Category:Analysis "Category:Analysis")‏‎ (9 members)
-- [Annotation](/wiki/Category:Annotation "Category:Annotation")‏‎ (38
+- [AJAX](/wiki/Category%3AAJAX "Category%3AAJAX")‏‎ (7 members)
+- [Analysis](/wiki/Category%3AAnalysis "Category%3AAnalysis")‏‎ (9 members)
+- [Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")‏‎ (38
   members)
-- [ApiDB](/wiki/Category:ApiDB "Category:ApiDB")‏‎ (4 members)
-- [Apollo](/wiki/Category:Apollo "Category:Apollo")‏‎ (33 members)
-- [BLAST](/wiki/Category:BLAST "Category:BLAST")‏‎ (9 members)
+- [ApiDB](/wiki/Category%3AApiDB "Category%3AApiDB")‏‎ (4 members)
+- [Apollo](/wiki/Category%3AApollo "Category%3AApollo")‏‎ (33 members)
+- [BLAST](/wiki/Category%3ABLAST "Category%3ABLAST")‏‎ (9 members)
 - <a
-  href="/mediawiki/index.php?title=Category:BioDIG&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:BioDIG (page does not exist)">BioDIG</a>‏‎
+  href="/mediawiki/index.php?title=Category%3ABioDIG&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ABioDIG (page does not exist)">BioDIG</a>‏‎
   (1 member)
-- [BioMart](/wiki/Category:BioMart "Category:BioMart")‏‎ (11 members)
-- [BioPerl](/wiki/Category:BioPerl "Category:BioPerl")‏‎ (14 members)
-- [Biology](/wiki/Category:Biology "Category:Biology")‏‎ (8 members)
-- [CMap](/wiki/Category:CMap "Category:CMap")‏‎ (29 members)
+- [BioMart](/wiki/Category%3ABioMart "Category%3ABioMart")‏‎ (11 members)
+- [BioPerl](/wiki/Category%3ABioPerl "Category%3ABioPerl")‏‎ (14 members)
+- [Biology](/wiki/Category%3ABiology "Category%3ABiology")‏‎ (8 members)
+- [CMap](/wiki/Category%3ACMap "Category%3ACMap")‏‎ (29 members)
 - <a
-  href="/mediawiki/index.php?title=Category:Canto&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Canto (page does not exist)">Canto</a>‏‎ (4
+  href="/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ACanto (page does not exist)">Canto</a>‏‎ (4
   members)
-- [Categories](/wiki/Category:Categories "Category:Categories")‏‎ (6
+- [Categories](/wiki/Category%3ACategories "Category%3ACategories")‏‎ (6
   members)
-- [Chado](/wiki/Category:Chado "Category:Chado")‏‎ (86 members)
-- [Chado FlyBase](/wiki/Category:Chado_FlyBase "Category:Chado FlyBase")‏‎
+- [Chado](/wiki/Category%3AChado "Category%3AChado")‏‎ (86 members)
+- [Chado FlyBase](/wiki/Category%3AChado_FlyBase "Category%3AChado FlyBase")‏‎
   (3 members)
-- [Chado Modules](/wiki/Category:Chado_Modules "Category:Chado Modules")‏‎
+- [Chado Modules](/wiki/Category%3AChado_Modules "Category%3AChado Modules")‏‎
   (35 members)
 - [Chado
-  Presentations](/wiki/Category:Chado_Presentations "Category:Chado Presentations")‏‎
+  Presentations](/wiki/Category%3AChado_Presentations "Category%3AChado Presentations")‏‎
   (24 members)
 - <a
-  href="/mediawiki/index.php?title=Category:Cloud&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Cloud (page does not exist)">Cloud</a>‏‎ (3
+  href="/mediawiki/index.php?title=Category%3ACloud&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ACloud (page does not exist)">Cloud</a>‏‎ (3
   members)
 - [Community
-  Annotation](/wiki/Category:Community_Annotation "Category:Community Annotation")‏‎
+  Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")‏‎
   (10 members)
 - [Comparative
-  Genomics](/wiki/Category:Comparative_Genomics "Category:Comparative Genomics")‏‎
+  Genomics](/wiki/Category%3AComparative_Genomics "Category%3AComparative Genomics")‏‎
   (32 members)
-- [Computing](/wiki/Category:Computing "Category:Computing")‏‎ (20
+- [Computing](/wiki/Category%3AComputing "Category%3AComputing")‏‎ (20
   members)
-- [Conferences](/wiki/Category:Conferences "Category:Conferences")‏‎ (27
+- [Conferences](/wiki/Category%3AConferences "Category%3AConferences")‏‎ (27
   members)
-- [Configuration](/wiki/Category:Configuration "Category:Configuration")‏‎
+- [Configuration](/wiki/Category%3AConfiguration "Category%3AConfiguration")‏‎
   (11 members)
-- [DAS](/wiki/Category:DAS "Category:DAS")‏‎ (10 members)
+- [DAS](/wiki/Category%3ADAS "Category%3ADAS")‏‎ (10 members)
 - <a
-  href="/mediawiki/index.php?title=Category:Database&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Database (page does not exist)">Database</a>‏‎
+  href="/mediawiki/index.php?title=Category%3ADatabase&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ADatabase (page does not exist)">Database</a>‏‎
   (1 member)
 - [Database
-  Tools](/wiki/Category:Database_Tools "Category:Database Tools")‏‎ (19
+  Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")‏‎ (19
   members)
 - <a
-  href="/mediawiki/index.php?title=Category:Deprecated&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Category%3ADeprecated&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Deprecated (page does not exist)">Deprecated</a>‏‎ (1
+  title="Category%3ADeprecated (page does not exist)">Deprecated</a>‏‎ (1
   member)
-- [DictyBase](/wiki/Category:DictyBase "Category:DictyBase")‏‎ (8 members)
-- [Documentation](/wiki/Category:Documentation "Category:Documentation")‏‎
+- [DictyBase](/wiki/Category%3ADictyBase "Category%3ADictyBase")‏‎ (8 members)
+- [Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")‏‎
   (11 members)
-- [Drupal](/wiki/Category:Drupal "Category:Drupal")‏‎ (6 members)
-- [ERD](/wiki/Category:ERD "Category:ERD")‏‎ (5 members)
+- [Drupal](/wiki/Category%3ADrupal "Category%3ADrupal")‏‎ (6 members)
+- [ERD](/wiki/Category%3AERD "Category%3AERD")‏‎ (5 members)
 - [Education and
-  Outreach](/wiki/Category:Education_and_Outreach "Category:Education and Outreach")‏‎
+  Outreach](/wiki/Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")‏‎
   (25 members)
-- [Ergatis](/wiki/Category:Ergatis "Category:Ergatis")‏‎ (7 members)
-- [Events](/wiki/Category:Events "Category:Events")‏‎ (21 members)
-- [Evolution](/wiki/Category:Evolution "Category:Evolution")‏‎ (11
+- [Ergatis](/wiki/Category%3AErgatis "Category%3AErgatis")‏‎ (7 members)
+- [Events](/wiki/Category%3AEvents "Category%3AEvents")‏‎ (21 members)
+- [Evolution](/wiki/Category%3AEvolution "Category%3AEvolution")‏‎ (11
   members)
-- [Expression](/wiki/Category:Expression "Category:Expression")‏‎ (7
+- [Expression](/wiki/Category%3AExpression "Category%3AExpression")‏‎ (7
   members)
-- [External](/wiki/Category:External "Category:External")‏‎ (18 members)
-- [FAQ](/wiki/Category:FAQ "Category:FAQ")‏‎ (6 members)
+- [External](/wiki/Category%3AExternal "Category%3AExternal")‏‎ (18 members)
+- [FAQ](/wiki/Category%3AFAQ "Category%3AFAQ")‏‎ (6 members)
 - <a
-  href="/mediawiki/index.php?title=Category:File_Formats&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:File Formats (page does not exist)">File
+  href="/mediawiki/index.php?title=Category%3AFile_Formats&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AFile Formats (page does not exist)">File
   Formats</a>‏‎ (3 members)
-- [FlyBase](/wiki/Category:FlyBase "Category:FlyBase")‏‎ (16 members)
-- [GBrowse](/wiki/Category:GBrowse "Category:GBrowse")‏‎ (108 members)
-- [GBrowse 2](/wiki/Category:GBrowse_2 "Category:GBrowse 2")‏‎ (30
+- [FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")‏‎ (16 members)
+- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")‏‎ (108 members)
+- [GBrowse 2](/wiki/Category%3AGBrowse_2 "Category%3AGBrowse 2")‏‎ (30
   members)
 - [GBrowse
-  Developer](/wiki/Category:GBrowse_Developer "Category:GBrowse Developer")‏‎
+  Developer](/wiki/Category%3AGBrowse_Developer "Category%3AGBrowse Developer")‏‎
   (5 members)
 - [GBrowse
-  Plugins](/wiki/Category:GBrowse_Plugins "Category:GBrowse Plugins")‏‎
+  Plugins](/wiki/Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")‏‎
   (25 members)
-- [GBrowse syn](/wiki/Category:GBrowse_syn "Category:GBrowse syn")‏‎ (29
+- [GBrowse syn](/wiki/Category%3AGBrowse_syn "Category%3AGBrowse syn")‏‎ (29
   members)
 
 (first \|
@@ -293,8 +293,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

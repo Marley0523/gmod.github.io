@@ -614,12 +614,12 @@ less fragile.)
   class="internal" title="Jan2009RESTfulMODs.pdf">A RESTful interface for
   MODs?</a>, [Josh Goodman](User:Jogoodma "User:Jogoodma")
 
-Josh Goodman of the [FlyBase](Category:FlyBase "Category:FlyBase")
+Josh Goodman of the [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 project proposed that GMOD support a
 <a href="http://tomayko.com/writings/rest-to-my-wife"
 class="external text" rel="nofollow">RESTful interface</a> for
 biological data. Josh started by listing many of the
-[APIs](Category:Middleware "Category:Middleware") that already exist in
+[APIs](Category%3AMiddleware "Category%3AMiddleware") that already exist in
 GMOD or at GMOD user sites, and then asked the question "Why have
 another one?" Here's why:
 
@@ -721,8 +721,8 @@ Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting").
 There are now at least three servers that generate GMOD Generic Gene
 Page XML:
 
-- [SGN](Category:SGN "Category:SGN")
-- [FlyBase](Category:FlyBase "Category:FlyBase")
+- [SGN](Category%3ASGN "Category%3ASGN")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - Sample yeast at GMOD.org
 
 The Perl implementation has 11 or so abstract classes that need to be
@@ -1139,7 +1139,7 @@ BerkeleyDB database. This approach results in a very responsive (as in
 first half of 2009.
 
 GeneDB developed a [Hibernate
-mapping](Category:Middleware "Category:Middleware") for Chado. The
+mapping](Category%3AMiddleware "Category%3AMiddleware") for Chado. The
 feature hierarchy is represented using single table inheritance.
 
 ### <span id="Chado_and_GUS_at_SBRI" class="mw-headline">Chado and GUS at SBRI</span>
@@ -1475,7 +1475,7 @@ rel="nofollow">BeeSpace</a> |
 | Saravanaraj Ayyampalayam | University of Georgia |
 | Hugo Berube | <a href="http://www.nrc-cnrc.gc.ca/" class="external text"
 rel="nofollow">National Research Council Canada</a> |
-| [Robert Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category:SGN "Category:SGN") |
+| [Robert Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category%3ASGN "Category%3ASGN") |
 | Ramesh Buyyarapu | Alabama A&M University |
 | [Scott Cain](User:Scott "User:Scott") | GMOD, Ontario Institute for Cancer Research (OICR) |
 | Jing Chen | UCSD |
@@ -1696,25 +1696,25 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [BioMart](Category:BioMart "Category:BioMart")
-- [Chado](Category:Chado "Category:Chado")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMODWeb](Category:GMODWeb "Category:GMODWeb")
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [BioMart](Category%3ABioMart "Category%3ABioMart")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMODWeb](Category%3AGMODWeb "Category%3AGMODWeb")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Generic Gene Pages (page does not exist)">Generic Gene
+  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
   Pages</a>
-- [Middleware](Category:Middleware "Category:Middleware")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Semantic web](Category:Semantic_web "Category:Semantic web")
-- [Turnkey](Category:Turnkey "Category:Turnkey")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [TableEdit](Category:TableEdit "Category:TableEdit")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
+- [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -1810,8 +1810,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

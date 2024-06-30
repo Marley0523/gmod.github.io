@@ -188,14 +188,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Ontologies](Category:Ontologies "Category:Ontologies")
-- [SGD](Category:SGD "Category:SGD")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Ontologies](Category%3AOntologies "Category%3AOntologies")
+- [SGD](Category%3ASGD "Category%3ASGD")
 
 </div>
 
@@ -327,8 +327,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                                     |     |
 |---------------------------------------------------------------------|-----|
-| [Category:Computing](/wiki/Category:Computing "Category:Computing") |     |
+| [Category%3AComputing](/wiki/Category%3AComputing "Category%3AComputing") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 March 2008 20:27:17  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:27:17 "Special%3ASearchByProperty/Modification-20date/11-20March-202008-2020:27:17")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Categories](/wiki/Category:Categories "Category:Categories")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Categories "Special%3ASearchByProperty/Subcategory-20of/Categories")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Categories](/wiki/Category%3ACategories "Category%3ACategories")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Categories "Special%3ASearchByProperty/Subcategory-20of/Categories")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -50,7 +50,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smwb-ivalue">[File:Aug2009Sam.pdf](/wiki/File:Aug2009Sam.pdf "File:Aug2009Sam.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009Sam.pdf "Special%3ABrowse/File:Aug2009Sam.pdf")</span></span> , <span class="smwb-ivalue">[CVS to Subversion Conversion](/wiki/CVS_to_Subversion_Conversion "CVS to Subversion Conversion") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CVS-20to-20Subversion-20Conversion "Special%3ABrowse/CVS-20to-20Subversion-20Conversion")</span></span> , <span class="smwb-ivalue">[Computing Requirements](/wiki/Computing_Requirements "Computing Requirements") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Computing-20Requirements "Special%3ABrowse/Computing-20Requirements")</span></span> , <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF "Special%3ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF2 "Special%3ABrowse/GFF2")</span></span> , <span class="smwb-ivalue">[Glossary](/wiki/Glossary "Glossary") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Glossary "Special%3ABrowse/Glossary")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
-| <span class="smwb-ivalue">[Category:AJAX](/wiki/Category:AJAX "Category:AJAX") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:AJAX "Special%3ABrowse/Category:AJAX")</span></span> , <span class="smwb-ivalue">[Category:DAS](/wiki/Category:DAS "Category:DAS") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:DAS "Special%3ABrowse/Category:DAS")</span></span> , <span class="smwb-ivalue">[Category:Database Tools](/wiki/Category:Database_Tools "Category:Database Tools") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Database-20Tools "Special%3ABrowse/Category:Database-20Tools")</span></span> , <span class="smwb-ivalue">[Category:External](/wiki/Category:External "Category:External") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:External "Special%3ABrowse/Category:External")</span></span> , <span class="smwb-ivalue">[Category:Java](/wiki/Category:Java "Category:Java") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Java "Special%3ABrowse/Category:Java")</span></span> , <span class="smwb-ivalue">[Category:Javascript](/wiki/Category:Javascript "Category:Javascript") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Javascript "Special%3ABrowse/Category:Javascript")</span></span> , <span class="smwb-ivalue">[Category:Linux](/wiki/Category:Linux "Category:Linux") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Linux "Special%3ABrowse/Category:Linux")</span></span> , <span class="smwb-ivalue">[Category:Mac OS X](/wiki/Category:Mac_OS_X "Category:Mac OS X") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Mac-20OS-20X "Special%3ABrowse/Category:Mac-20OS-20X")</span></span> , <span class="smwb-ivalue">[Category:Middleware](/wiki/Category:Middleware "Category:Middleware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Middleware "Special%3ABrowse/Category:Middleware")</span></span> , <span class="smwb-ivalue">[Category:Perl](/wiki/Category:Perl "Category:Perl") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Perl "Special%3ABrowse/Category:Perl")</span></span> , <span class="smwb-ivalue">[Category:Semantic web](/wiki/Category:Semantic_web "Category:Semantic web") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Semantic-20web "Special%3ABrowse/Category:Semantic-20web")</span></span> , <span class="smwb-ivalue">[Category:Web services](/wiki/Category:Web_services "Category:Web services") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Web-20services "Special%3ABrowse/Category:Web-20services")</span></span> , <span class="smwb-ivalue">[Category:Windows](/wiki/Category:Windows "Category:Windows") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:Windows "Special%3ABrowse/Category:Windows")</span></span> , <span class="smwb-ivalue">[Category:XML](/wiki/Category:XML "Category:XML") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category:XML "Special%3ABrowse/Category:XML")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3AAJAX](/wiki/Category%3AAJAX "Category%3AAJAX") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AAJAX "Special%3ABrowse/Category%3AAJAX")</span></span> , <span class="smwb-ivalue">[Category%3ADAS](/wiki/Category%3ADAS "Category%3ADAS") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ADAS "Special%3ABrowse/Category%3ADAS")</span></span> , <span class="smwb-ivalue">[Category%3ADatabase Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ADatabase-20Tools "Special%3ABrowse/Category%3ADatabase-20Tools")</span></span> , <span class="smwb-ivalue">[Category%3AExternal](/wiki/Category%3AExternal "Category%3AExternal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AExternal "Special%3ABrowse/Category%3AExternal")</span></span> , <span class="smwb-ivalue">[Category%3AJava](/wiki/Category%3AJava "Category%3AJava") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AJava "Special%3ABrowse/Category%3AJava")</span></span> , <span class="smwb-ivalue">[Category%3AJavascript](/wiki/Category%3AJavascript "Category%3AJavascript") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AJavascript "Special%3ABrowse/Category%3AJavascript")</span></span> , <span class="smwb-ivalue">[Category%3ALinux](/wiki/Category%3ALinux "Category%3ALinux") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ALinux "Special%3ABrowse/Category%3ALinux")</span></span> , <span class="smwb-ivalue">[Category%3AMac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AMac-20OS-20X "Special%3ABrowse/Category%3AMac-20OS-20X")</span></span> , <span class="smwb-ivalue">[Category%3AMiddleware](/wiki/Category%3AMiddleware "Category%3AMiddleware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AMiddleware "Special%3ABrowse/Category%3AMiddleware")</span></span> , <span class="smwb-ivalue">[Category%3APerl](/wiki/Category%3APerl "Category%3APerl") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3APerl "Special%3ABrowse/Category%3APerl")</span></span> , <span class="smwb-ivalue">[Category%3ASemantic web](/wiki/Category%3ASemantic_web "Category%3ASemantic web") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ASemantic-20web "Special%3ABrowse/Category%3ASemantic-20web")</span></span> , <span class="smwb-ivalue">[Category%3AWeb services](/wiki/Category%3AWeb_services "Category%3AWeb services") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AWeb-20services "Special%3ABrowse/Category%3AWeb-20services")</span></span> , <span class="smwb-ivalue">[Category%3AWindows](/wiki/Category%3AWindows "Category%3AWindows") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AWindows "Special%3ABrowse/Category%3AWindows")</span></span> , <span class="smwb-ivalue">[Category%3AXML](/wiki/Category%3AXML "Category%3AXML") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AXML "Special%3ABrowse/Category%3AXML")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -65,7 +65,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Category:Computing>"
+"<http://gmod.org/wiki/Special%3ABrowse/Category%3AComputing>"
 
 </div>
 
@@ -97,7 +97,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Computing "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AComputing "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -166,8 +166,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -204,7 +204,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Computing&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AComputing&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

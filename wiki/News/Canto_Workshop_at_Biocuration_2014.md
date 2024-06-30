@@ -93,12 +93,12 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Canto&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Canto (page does not exist)">Canto</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ACanto (page does not exist)">Canto</a>
 
 </div>
 
@@ -196,8 +196,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

@@ -355,7 +355,7 @@ so, we need to run another script that comes with Bio::DB::Das::Chado:
 
 This does several things (including poorly estimating how long it will
 take to finish), including creating materialized views, using a tool
-provided by [SOL Genomics Network (SGN)](Category:SGN "Category:SGN").
+provided by [SOL Genomics Network (SGN)](Category%3ASGN "Category%3ASGN").
 In practice, it would be a good idea to read the documentation of
 `gmod_materialized_view_tool.pl` for information on keeping the view up
 to date.
@@ -384,10 +384,10 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 
 </div>
 
@@ -500,8 +500,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

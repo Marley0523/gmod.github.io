@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Category:Conferences](/wiki/Category:Conferences "Category:Conferences") |  |
+| [Category%3AConferences](/wiki/Category%3AConferences "Category%3AConferences") |  |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2010 19:43:53  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:43:53 "Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:43:53")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Events](/wiki/Category:Events "Category:Events")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Events "Special%3ASearchByProperty/Subcategory-20of/Events")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Events "Special%3ASearchByProperty/Subcategory-20of/Events")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Category:Conferences>"
+"<http://gmod.org/wiki/Special%3ABrowse/Category%3AConferences>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category:Conferences "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Category%3AConferences "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Category:Conferences&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AConferences&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

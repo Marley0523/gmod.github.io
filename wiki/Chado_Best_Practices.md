@@ -1111,10 +1111,10 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Pages with problems or
-  questions](Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [BLAST](Category:BLAST "Category:BLAST")
-- [Chado](Category:Chado "Category:Chado")
+  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [BLAST](Category%3ABLAST "Category%3ABLAST")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -1210,8 +1210,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

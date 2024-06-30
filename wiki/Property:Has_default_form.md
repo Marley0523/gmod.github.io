@@ -73,20 +73,20 @@ this property.
 </thead>
 <tbody>
 <tr class="odd">
-<td class="smwpropname"><a href="Category:GMOD_Component"
-title="Category:GMOD Component">GMOD Component</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Category:GMOD-20Component"
-title="Special%3ABrowse/Category:GMOD-20Component">+</a></span></td>
+<td class="smwpropname"><a href="Category%3AGMOD_Component"
+title="Category%3AGMOD Component">GMOD Component</a> <span
+class="smwbrowse"><a href="Special%3ABrowse/Category%3AGMOD-20Component"
+title="Special%3ABrowse/Category%3AGMOD-20Component">+</a></span></td>
 <td class="smwprops"><a href="Form:Tool_data"
 title="Form:Tool data">Tool data</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20default-20form/Tool-20data"
 title="Special%3ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="Category:GMOD_Tools"
-title="Category:GMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Category:GMOD-20Tools"
-title="Special%3ABrowse/Category:GMOD-20Tools">+</a></span></td>
+<td class="smwpropname"><a href="Category%3AGMOD_Tools"
+title="Category%3AGMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
+href="Special%3ABrowse/Category%3AGMOD-20Tools"
+title="Special%3ABrowse/Category%3AGMOD-20Tools">+</a></span></td>
 <td class="smwprops"><a href="Form:Component_information"
 title="Form:Component information">Component information</a>  <span
 class="smwsearch"><a
@@ -201,8 +201,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 class="internal" title="Mod-face-07jan-SGN.pdf">SGN: Associating
 Solanaceae loci with phenotypes</a>
 
-The Sol Genomics Network ([SGN](Category:SGN "Category:SGN"),
+The Sol Genomics Network ([SGN](Category%3ASGN "Category%3ASGN"),
 <a href="http://www.sgn.cornell.edu/" class="external free"
 rel="nofollow">http://www.sgn.cornell.edu/</a>) is a Clade Oriented
 Database (COD) containing genomic, genetic and taxonomic information for
@@ -89,11 +89,11 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
-- [Phenotypes](Category:Phenotypes "Category:Phenotypes")
-- [SGN](Category:SGN "Category:SGN")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+- [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")
+- [SGN](Category%3ASGN "Category%3ASGN")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
 
 </div>
 
@@ -189,8 +189,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

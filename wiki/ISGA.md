@@ -119,8 +119,8 @@ used for prokarytic annotation and assembly.
   genome annotation web server"</a> in
   *<a href="http://bioinformatics.oxfordjournals.org/"
   class="external text" rel="nofollow">Bioinformatics</a>*
-- [Presentations](Category:Presentations "Category:Presentations") and
-  [Posters](Category:Posters "Category:Posters")
+- [Presentations](Category%3APresentations "Category%3APresentations") and
+  [Posters](Category%3APosters "Category%3APosters")
   - [Automated Annotation of NGS Transcriptome Data using ISGA and
     Ergatis](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
     presented by [Chris Hemmerich](User:Chemmeri "User:Chemmeri") at
@@ -164,8 +164,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Ergatis](Category:Ergatis "Category:Ergatis")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [Ergatis](Category%3AErgatis "Category%3AErgatis")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -261,8 +261,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

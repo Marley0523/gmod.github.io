@@ -58,7 +58,7 @@ Should be done before Jan 1, 2011
 
 The [Chado Phenotype
 module](Chado_Phenotype_Module "Chado Phenotype Module") was developed
-at [FlyBase](Category:FlyBase "Category:FlyBase").
+at [FlyBase](Category%3AFlyBase "Category%3AFlyBase").
 
 To try and understand the existing phenotype module during the [GMOD Evo
 Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon"), participants spent
@@ -1452,12 +1452,12 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Under
-  Construction](Category:Under_Construction "Category:Under Construction")
-- [Phenotypes](Category:Phenotypes "Category:Phenotypes")
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [Chado](Category:Chado "Category:Chado")
+  Construction](Category%3AUnder_Construction "Category%3AUnder Construction")
+- [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [Chado](Category%3AChado "Category%3AChado")
 - [GMOD Evo
-  Hackathon](Category:GMOD_Evo_Hackathon "Category:GMOD Evo Hackathon")
+  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
 
 </div>
 
@@ -1553,8 +1553,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

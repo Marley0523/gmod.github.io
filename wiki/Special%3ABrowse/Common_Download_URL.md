@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Best Practices](/wiki/Category:GMOD_Best_Practices "Category:GMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category:MOD_User_Interfaces "Category:MOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category:WFleaBase "Category:WFleaBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WFleaBase "Special%3ASearchByProperty/WFleaBase")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category:WormBase "Category:WormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> |
+| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Best Practices](/wiki/Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category%3AWFleaBase "Category%3AWFleaBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WFleaBase "Special%3ASearchByProperty/WFleaBase")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 September 2009 22:44:40  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20September-202009-2022:44:40 "Special%3ASearchByProperty/Modification-20date/15-20September-202009-2022:44:40")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -169,8 +169,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

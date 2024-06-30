@@ -482,8 +482,8 @@ alt="Linux" /></a>
 </div>
 
 A free VMware player is available for [Microsoft
-Windows](Category:Windows "Category:Windows") and
-[Linux](Category:Linux "Category:Linux") [operating
+Windows](Category%3AWindows "Category%3AWindows") and
+[Linux](Category%3ALinux "Category%3ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -504,7 +504,7 @@ alt="Apple" /></a>
 </div>
 
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category:Mac_OS_X "Category:Mac OS X"). However, there are several
+X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
 other options, *all of which require an Intel Mac*:
 
   
@@ -627,11 +627,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [Events](Category:Events "Category:Events")
-- [GMOD Schools](Category:GMOD_Schools "Category:GMOD Schools")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [Events](Category%3AEvents "Category%3AEvents")
+- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -727,8 +727,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

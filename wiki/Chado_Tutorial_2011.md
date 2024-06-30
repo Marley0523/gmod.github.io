@@ -2048,13 +2048,13 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Session&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Session (page does not exist)">Session</a>
-- [Chado](Category:Chado "Category:Chado")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ASession (page does not exist)">Session</a>
+- [Chado](Category%3AChado "Category%3AChado")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 
 </div>
 
@@ -2167,8 +2167,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
