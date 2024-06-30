@@ -57,9 +57,9 @@ The file "Dow_AgroSciences_logo.gif" has 1 identical duplication.
 1.  [Das header
     logo.gif](/wiki/File:Das_header_logo.gif "File:Das header logo.gif")
     . . <a
-    href="/mediawiki/index.php?title=User:Navin_elango&amp;action=edit&amp;redlink=1"
+    href="/mediawiki/index.php?title=User%3ANavin_elango&amp;action=edit&amp;redlink=1"
     class="new mw-userlink"
-    title="User:Navin elango (page does not exist)">Navin elango</a>
+    title="User%3ANavin elango (page does not exist)">Navin elango</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Navin_elango&amp;action=edit&amp;redlink=1"
@@ -69,8 +69,8 @@ The file "Dow_AgroSciences_logo.gif" has 1 identical duplication.
     . . 02:10, 17 March 2010
 2.  [Dow AgroSciences
     logo.gif](/wiki/File:Dow_AgroSciences_logo.gif "File:Dow AgroSciences logo.gif")
-    . . <a href="/wiki/User:Clements" class="mw-userlink"
-    title="User:Clements">Clements</a>
+    . . <a href="/wiki/User%3AClements" class="mw-userlink"
+    title="User%3AClements">Clements</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"

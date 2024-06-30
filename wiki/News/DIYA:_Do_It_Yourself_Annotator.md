@@ -74,12 +74,12 @@ DIYA is part of the
 *<a href="http://sourceforge.net/projects/diyg/" class="external text"
 rel="nofollow">Do It Yourself Genomics (DIYG) Project</a>*. Developers
 of DIYA (and DIYG) include Andrew Stewart and [Brian
-Osborne](../User:Bosborne "User:Bosborne") (formerly of the [GMOD Help
+Osborne](../User%3ABosborne "User%3ABosborne") (formerly of the [GMOD Help
 Desk](../GMOD_Help_Desk "GMOD Help Desk")). The DIYA community is
 looking for interested developers to contribute to DIYA. See the
 [DIYA](../DIYA "DIYA") page for more.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

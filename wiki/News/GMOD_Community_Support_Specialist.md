@@ -65,7 +65,7 @@ short courses, conference sessions, GMOD meetings and other community
 building activities; survey user needs; liaise between users and
 developers on GMOD mailing lists; and oversee the community wiki and
 news feeds. The incumbent will collaborate closely with the GMOD
-Coordinator ([Scott Cain](../User:Scott "User:Scott"), The Ontario
+Coordinator ([Scott Cain](../User%3AScott "User%3AScott"), The Ontario
 Institute for Cancer Research) and other distributed personnel. See
 [GMOD Community
 Support](../GMOD_Community_Support "GMOD Community Support") for more

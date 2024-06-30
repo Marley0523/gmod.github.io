@@ -43,7 +43,7 @@ in the
 [**`phylotree`**](Chado_Phylogeny_Module#Table:_phylotree "Chado Phylogeny Module")[phylotree
 table](Chado_Phylogeny_Module#Table:_phylotree "Chado Phylogeny Module").
 This script was contributed by [Naama
-Menda](User:NaamaMenda "User:NaamaMenda") at
+Menda](User%3ANaamaMenda "User%3ANaamaMenda") at
 <a href="http://www.sgn.cornell.edu/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> led by Lukas Mueller.
 

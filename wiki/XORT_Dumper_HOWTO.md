@@ -87,7 +87,7 @@ using XORT and what is involved to do so.
 
 ## <span id="Author" class="mw-headline">Author</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma")
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 

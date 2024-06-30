@@ -56,7 +56,7 @@ Robin Haw Manager of Reactome Outreach Outreach \[at\] reactome.org
 <a href="http://www.reactome.org" class="external free"
 rel="nofollow">http://www.reactome.org</a>
 
-Posted by [Scott Cain](../User:Scott "User:Scott")
+Posted by [Scott Cain](../User%3AScott "User%3AScott")
 
   
 

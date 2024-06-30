@@ -103,7 +103,7 @@ title="Daphnia-genepage.png">daphnia gene page</a> and
 class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
   
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:23, 4 September 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:23, 4 September 2007
 (EDT)
 
 </div>

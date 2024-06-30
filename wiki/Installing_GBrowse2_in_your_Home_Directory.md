@@ -65,7 +65,7 @@ Once you have local::lib correctly installed...
 
 *I believe there must be a trick to configuring cpan at this point that
 is left out of this narrative. It is probably in the lib::local docs.*
-[Scott](User:Scott "User:Scott") 18:47, 3 June 2011 (UTC)
+[Scott](User%3AScott "User%3AScott") 18:47, 3 June 2011 (UTC)
 
 Test that cpan is working for you as a non-root user (install a random
 module or two).

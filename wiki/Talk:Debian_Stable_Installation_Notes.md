@@ -43,7 +43,7 @@ part of default debian so I think this page may need to be retired in
 favor of the apt-get or aptitude binary install
 
 - True, but the debian packages for GBrowse is quite old too--it's 2.38,
-  right? [Scott](User:Scott "User:Scott")
+  right? [Scott](User%3AScott "User%3AScott")
   ([talk](User_talk:Scott "User talk:Scott")) 10:05, 9 January 2014
   (EST)
 

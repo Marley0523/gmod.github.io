@@ -54,7 +54,7 @@ width="250" height="55" alt="JBrowse" /></a>
 </div>
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Mitch
-Skinner](User:MitchSkinner "User:MitchSkinner") at the [2010 GMOD Summer
+Skinner](User%3AMitchSkinner "User%3AMitchSkinner") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent JBrowse tutorial can be found at the

@@ -47,7 +47,7 @@ height="161" alt="PrimerDesigner.png" /></a>
 </div>
 
 PrimerDesigner is a [GBrowse](GBrowse.1 "GBrowse") plugin, written by
-[Sheldon McKay](User:Mckays "User:Mckays"), that uses use the
+[Sheldon McKay](User%3AMckays "User%3AMckays"), that uses use the
 <a href="http://primer3.sourceforge.net" class="external text"
 rel="nofollow">primer3</a> program to design PCR primers for selected
 regions within the genome browser. Please feel free to <a

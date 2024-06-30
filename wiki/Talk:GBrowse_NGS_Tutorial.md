@@ -46,7 +46,7 @@ complaining
 
      libbam.a(bgzf.o): relocation R_X86_64_32 against `a local symbol' can not be used when making a shared object; recompile with -fPIC
 
-\-[Stajich](User:Stajich "User:Stajich") 19:03, 14 November 2009 (UTC)
+\-[Stajich](User%3AStajich "User%3AStajich") 19:03, 14 November 2009 (UTC)
 
 </div>
 

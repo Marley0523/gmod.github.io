@@ -55,7 +55,7 @@ going on this month:
   href="http://gmod.827538.n3.nabble.com/Around-Pittsburgh-on-April-6-Attend-the-Intro-to-Galaxy-Sessions-Pitt-td2760070.html"
   class="external text" rel="nofollow">Intro to Galaxy</a>* workshops,
   April 6 at University of Pittsburgh, [Dan
-  Blankenberg](../User:DanB "User:DanB")
+  Blankenberg](../User%3ADanB "User%3ADanB")
 - *<a
   href="http://www.bio-itworldexpo.com/Bio-It_Expo_Content.aspx?id=101298"
   class="external text" rel="nofollow">Dynamically Scalable, Accessible
@@ -72,7 +72,7 @@ going on this month:
   rel="nofollow">2011 Galaxy Community Conference</a>, April 24.
   Register early and save 20%.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Project
 
   

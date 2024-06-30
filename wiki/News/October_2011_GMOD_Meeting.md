@@ -66,7 +66,7 @@ I may need to close registration when we are full.
 
 Thanks and I look forward to seeing you in Toronto,
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

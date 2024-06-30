@@ -88,8 +88,8 @@ page](Talk:Stock_Relationship_Ontology "Talk:Stock Relationship Ontology").
   - is_a subterm
 
 ## <span id="Proposed_relations_.28by_Pantelis_Topalis_28_May_2010.29" class="mw-headline">Proposed relations (by <a
-href="http://gmod.org/mediawiki/index.php?title=User:Pantelis_Topalis&amp;action=edit&amp;redlink=1"
-class="new" title="User:Pantelis Topalis (page does not exist)">Pantelis
+href="http://gmod.org/mediawiki/index.php?title=User%3APantelis_Topalis&amp;action=edit&amp;redlink=1"
+class="new" title="User%3APantelis Topalis (page does not exist)">Pantelis
 Topalis</a> 28 May 2010)</span>
 
 Based on what it is written in this page, we can use the following
@@ -109,8 +109,8 @@ relations (please comment / add / modify as required).
 class="external text" rel="nofollow">wiki</a> dealing with the same
 issue. I've put them here as a conversation starter only - feel free to
 delete / alter / extend as required) <a
-href="http://gmod.org/mediawiki/index.php?title=User:Sethnr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Sethnr (page does not exist)">Sethnr</a> 13:12,
+href="http://gmod.org/mediawiki/index.php?title=User%3ASethnr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ASethnr (page does not exist)">Sethnr</a> 13:12,
 11 May 2010 (UTC)
 
 ### <span id="individual_-.3E_individual" class="mw-headline">individual -\> individual</span>
@@ -141,8 +141,8 @@ class="new" title="User:Sethnr (page does not exist)">Sethnr</a> 13:12,
 Here is one distinction we may all need to make: assays that **use**
 stocks and assays that **generate** stocks. I suggest the following but
 it is a bit computer-sciency! <a
-href="http://gmod.org/mediawiki/index.php?title=User:Maccallr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Maccallr (page does not exist)">Maccallr</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AMaccallr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 10:25, 1 June 2010 (UTC)
 
 - assay_input_stock
@@ -151,8 +151,8 @@ class="new" title="User:Maccallr (page does not exist)">Maccallr</a>
 Should the amount of stock used/generated be recorded in
 nd_assay_stockprop? Or should we have nd_assay_stock.types like 'stock
 sample', 'entire stock'? <a
-href="http://gmod.org/mediawiki/index.php?title=User:Maccallr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Maccallr (page does not exist)">Maccallr</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AMaccallr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 10:25, 1 June 2010 (UTC)
 
 ## <span id="nd_assay_types" class="mw-headline">nd_assay types</span>

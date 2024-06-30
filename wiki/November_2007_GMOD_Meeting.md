@@ -234,9 +234,9 @@ on the main CSHL campus.
 - James Abbott, Imperial College, London
 - Sam Angiuoli, University of Maryland Medical School
 - Tim Burgis, Imperial College, London
-- [Scott Cain](User:Scott "User:Scott"), GMOD Coordinator
-- [Mike Caudy](User:Mcaudy "User:Mcaudy"), CSHL
-- [Dave Clements](User:Clements "User:Clements"), [GMOD Help
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Coordinator
+- [Mike Caudy](User%3AMcaudy "User%3AMcaudy"), CSHL
+- [Dave Clements](User%3AClements "User%3AClements"), [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://nescent.org" class="external text"
   rel="nofollow">NESCent</a>
@@ -244,35 +244,35 @@ on the main CSHL campus.
 - Quenfen Dong, Indiana University
 - Dave Emmert, <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
-- [Ben Faga](User:Faga "User:Faga"), CSHL
+- [Ben Faga](User%3AFaga "User%3AFaga"), CSHL
 - Kathleen Falls, <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
-- [Steve Fischer](User:Stevef "User:Stevef"),
+- [Steve Fischer](User%3AStevef "User%3AStevef"),
   <a href="http://apidb.org" class="external text"
   rel="nofollow">ApiDB</a>
-- [Don Gilbert](User:Dongilbert "User:Dongilbert")
-- [Josh Goodman](User:Jogoodma "User:Jogoodma"), FlyBase - Indiana
+- [Don Gilbert](User%3ADongilbert "User%3ADongilbert")
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma"), FlyBase - Indiana
   University
-- [Jay Hannah](User:Jhannah "User:Jhannah"), University of Nebraska
-- [Todd Harris](User:Tharris "User:Tharris"), WormBase - Cold Spring
+- [Jay Hannah](User%3AJhannah "User%3AJhannah"), University of Nebraska
+- [Todd Harris](User%3ATharris "User%3ATharris"), WormBase - Cold Spring
   Harbor Laboratory
 - Sven Heinicke, Princeton
 - Kevin Galens, JCVI
-- [Gregg Helt](User:GreggHelt2 "User:GreggHelt2"), DAS/2
-- [Chris Hemmerich](User:Chemmeri "User:Chemmeri"),
+- [Gregg Helt](User%3AGreggHelt2 "User%3AGreggHelt2"), DAS/2
+- [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Hideya Kiwaji, <a href="http://www.riken.go.jp/" class="external text"
   rel="nofollow">Riken</a>
-- [Ed Lee](User:Elee "User:Elee"), Lawrence Berkeley Labs
+- [Ed Lee](User%3AElee "User%3AElee"), Lawrence Berkeley Labs
 - Suzi Lewis, <a href="http://bioontology.org/" class="external text"
   rel="nofollow">National Center for Biomedical Ontology</a>
-- [Sheldon McKay](User:Mckays "User:Mckays"), WormBase/modENCODE - Cold
+- [Sheldon McKay](User%3AMckays "User%3AMckays"), WormBase/modENCODE - Cold
   Spring Harbor Laboratory
 - Lukas Mueller,
   <a href="http://soldb.cit.cornell.edu/" class="external text"
   rel="nofollow">Sol Genomics Network</a>
-- [Joshua Orvis](User:Jorvis "User:Jorvis"), University of Maryland
+- [Joshua Orvis](User%3AJorvis "User%3AJorvis"), University of Maryland
   Medical Center
 - Suzanne Paley, <a href="http://ecocyc.org" class="external text"
   rel="nofollow">EcoCyc</a>
@@ -282,10 +282,10 @@ on the main CSHL campus.
   rel="nofollow">FlyBase</a>
 - Taner Sen, <a href="http://maizegdb.org" class="external text"
   rel="nofollow">MaizeGDB</a>
-- [Linda Sperling](User:Sperling "User:Sperling"),
+- [Linda Sperling](User%3ASperling "User%3ASperling"),
   [ParameciumDB](ParameciumDB "ParameciumDB") - CNRS
-- [Jason Stajich](User:Stajich "User:Stajich")
-- [Lincoln Stein](User:Lstein "User:Lstein"), CSHL
+- [Jason Stajich](User%3AStajich "User%3AStajich")
+- [Lincoln Stein](User%3ALstein "User%3ALstein"), CSHL
 - Victor Strelets, <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Haiming Wang <a href="http://apidb.org" class="external text"
@@ -377,7 +377,7 @@ agenda.
 
 1:00 Standards and applications for storing comparative genome data
 
-- [Steve Fisher](User:Stevef "User:Stevef") -
+- [Steve Fisher](User%3AStevef "User%3AStevef") -
   [GBrowse](GBrowse.1 "GBrowse"): [SynView](SynView "SynView") and the
   Generic database adaptor
 - Victor Strelets - FlyBase Orthoview (GBrowse)
@@ -411,7 +411,7 @@ agenda.
 - <a href="http://eugenes.org/gmod/docs/gmod-update-07nov.ppt"
   class="external text" rel="nofollow">GMOD Indiana update</a> slides,
   Don Gilbert
-- WormBase update, [Todd Harris](User:Tharris "User:Tharris"); Slides:
+- WormBase update, [Todd Harris](User%3ATharris "User%3ATharris"); Slides:
   <a
   href="http://dev.wormbase.org/presentations/2007/2007.11-GMOD-WormBase/2007.11-GMOD-WormBase.key.tgz"
   class="external text" rel="nofollow">Keynote</a>, <a
@@ -427,17 +427,17 @@ agenda.
   Haiming Wang
 - <a href="../mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
   class="internal" title="2007 11 05 CMap GMOD.ppt">CMap/CMAE Progress
-  Report</a>, [Ben Faga](User:Faga "User:Faga")
+  Report</a>, [Ben Faga](User%3AFaga "User%3AFaga")
 - <a href="../mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
   title="Gbrowse syn.pdf">Gbrowse_syn</a> Sheldon McKay
 - <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
-  Annotation</a> [Linda Sperling](User:Sperling "User:Sperling")
+  Annotation</a> [Linda Sperling](User%3ASperling "User%3ASperling")
 - <a href="../mediawiki/images/b/be/Workshop.pdf" class="internal"
   title="Workshop.pdf">Community Annotation</a> Chinmay Patel
 - <a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
   title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
-  SynView</a> [Steve Fischer](User:Stevef "User:Stevef")
+  SynView</a> [Steve Fischer](User%3AStevef "User%3AStevef")
 - <a href="../mediawiki/images/c/c8/GMOD-Nov-2007.ppt" class="internal"
   title="GMOD-Nov-2007.ppt">Recent Developments in Pathway Tools</a>,
   Suzanne Paley
@@ -529,7 +529,7 @@ Talks on synteny are spread throughout this document.
 ##### <span id="New_Development" class="mw-headline">New Development</span>
 
 Work has resumed on developing [Apollo](Apollo.1 "Apollo"). [Ed
-Lee](User:Elee "User:Elee") formerly of TIGR/JCVI started working for
+Lee](User%3AElee "User%3AElee") formerly of TIGR/JCVI started working for
 Suzi Lewis at Berkeley this fall and is working on it. Work is being
 done on
 
@@ -672,7 +672,7 @@ Some bits:
 **Presentation:**
 <a href="../mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
 class="internal" title="2007 11 05 CMap GMOD.ppt">CMap Progress
-Report</a>, [Ben Faga](User:Faga "User:Faga")
+Report</a>, [Ben Faga](User%3AFaga "User%3AFaga")
 
 New CMap release (1.0) is on its way. Will have an assembly editor.
 Includes a dot plot, new glyphs, and an install script based on the
@@ -693,7 +693,7 @@ This was a popular motif in the meeting.
 **Presentation:**
 <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
-Annotation</a>, [Linda Sperling](User:Sperling "User:Sperling")
+Annotation</a>, [Linda Sperling](User%3ASperling "User%3ASperling")
 
 Linda Sperling discussed ParameciumDB. Paramecium is a small community
 with few resources and no dedicated curators.
@@ -766,7 +766,7 @@ consists of:
     Provide PubMed ID and it finds and grabs extract from PubMed.
 
 Note that it does not include Turnkey and/or
-[GMODWeb](GMODWeb "GMODWeb"). [Lincoln](User:Lstein "User:Lstein") would
+[GMODWeb](GMODWeb "GMODWeb"). [Lincoln](User%3ALstein "User%3ALstein") would
 like to add GMODweb, [Textpresso](Textpresso "Textpresso") and
 [BioMart](BioMart "BioMart") to that list.
 
@@ -817,7 +817,7 @@ default. Gregg would like to see GBrowse get a DAS/2 adapter.
 
 ##### <span id="Roadmap" class="mw-headline">Roadmap</span>
 
-[Lincoln Stein](User:Lstein "User:Lstein") talked about upcoming
+[Lincoln Stein](User%3ALstein "User%3ALstein") talked about upcoming
 releases of [GBrowse](GBrowse.1 "GBrowse").
 
 - 1.69
@@ -906,9 +906,9 @@ Tools](Pathway_Tools.1 "Pathway Tools"), including:
 **Presentation:**
 <a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
 title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
-SynView</a>, [Steve Fischer](User:Stevef "User:Stevef")
+SynView</a>, [Steve Fischer](User%3AStevef "User%3AStevef")
 
-[Steve Fischer](User:Stevef "User:Stevef") of ApiDB (see below) spoke
+[Steve Fischer](User%3AStevef "User%3AStevef") of ApiDB (see below) spoke
 about SynView. SynView is a synteny browser based on GBrowse. It is
 described in a <a
 href="http://bioinformatics.oxfordjournals.org/cgi/content/full/22/18/2308"
@@ -934,7 +934,7 @@ These are all web interface layers that lay on top of Chado databases.
 
 [GMODWeb](GMODWeb "GMODWeb") is currently not working, we think because
 SQLTranslator has not been upgraded to deal with recent versions of
-Postgres. [Ben Faga](User:Faga "User:Faga") agreed to actively work on
+Postgres. [Ben Faga](User%3AFaga "User%3AFaga") agreed to actively work on
 this.
 
 Michael Caudy argued that even if GMODWeb did work right now that it is
@@ -944,7 +944,7 @@ framework for providing a web interface to Chado databases. Mike
 demonstrated a prototype called DrupalFly that presents FlyBase data in
 an alternative organization.
 
-[Lincoln](User:Lstein "User:Lstein") has an opening in Toronto for a
+[Lincoln](User%3ALstein "User%3ALstein") has an opening in Toronto for a
 full time programmer. Lincoln will talk with Brian about
 [GMODWeb](GMODWeb "GMODWeb")'s future. We will put something on web site
 asking for volunteers to take on GMODweb.
@@ -966,7 +966,7 @@ href="http://mango.ctegd.uga.edu/jkissingLab/presentations/GMOD_Nov_2007.ppt"
 class="external text" rel="nofollow">ApiDB GBrowse update</a>, Haiming
 Wang
 
-[Steve Fischer](User:Stevef "User:Stevef") talked about ApiDB. ApiDB
+[Steve Fischer](User%3AStevef "User%3AStevef") talked about ApiDB. ApiDB
 uses GUS as their schema. They do multispecies comparative analysis.
 They have a database adapter link from GBrowse to GUS. It is based on
 the Chado adapter. They use materialized views in Oracle 10G and it is
@@ -985,7 +985,7 @@ outside standard GUS schema. In the synteny schema, everything is
 defined relative to the reference sequence. Also need a table to define
 anchors.
 
-[Steve Fischer](User:Stevef "User:Stevef") showed an 11 track page,
+[Steve Fischer](User%3AStevef "User%3AStevef") showed an 11 track page,
 which has about 5000 popups in it.
 
 ApiDB has a release cycle. They discard and recalculate synteny with
@@ -1070,7 +1070,7 @@ considering using GBrowse.
 **Presentation:**
 <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
-Annotation</a>, [Linda Sperling](User:Sperling "User:Sperling")
+Annotation</a>, [Linda Sperling](User%3ASperling "User%3ASperling")
 
 Use GMOD for almost everything:
 
@@ -1123,7 +1123,7 @@ href="http://dev.wormbase.org/presentations/2007/2007.11-GMOD-WormBase/2007.11-G
 class="external text" rel="nofollow">PDF</a>, <a
 href="http://dev.wormbase.org/presentations/2007/2007.11-GMOD-WormBase/2007.11-GMOD-WormBase.mov"
 class="external text" rel="nofollow">Mov</a>, [Todd
-Harris](User:Tharris "User:Tharris")
+Harris](User%3ATharris "User%3ATharris")
 
 Wormbase is migrating to Chado slowly. There is currently very little
 Chado there.
@@ -1135,7 +1135,7 @@ Chado there.
 **Presentation:**
 <a href="../mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
 title="Gbrowse syn.pdf">Gbrowse_syn</a>, [Sheldon
-McKay](User:Mckays "User:Mckays")
+McKay](User%3AMckays "User%3AMckays")
 
 Sheldon McKay talked about [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), a
 prototype extension to [GBrowse](GBrowse.1 "GBrowse") for viewing

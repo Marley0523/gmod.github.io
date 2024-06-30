@@ -162,7 +162,7 @@ class="external text" rel="nofollow">Citrina discussion list</a>
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-[Josh Goodman](User:Jogoodma "User:Jogoodma") (jogoodma A\*T indiana
+[Josh Goodman](User%3AJogoodma "User%3AJogoodma") (jogoodma A\*T indiana
 D\*O\*T edu )
 
 </div>

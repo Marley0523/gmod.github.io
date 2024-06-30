@@ -39,7 +39,7 @@ author</a>" with value "Stajich JE"
 
 - [GBrowse
   syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>
-- [User:JimHu/Gbrowse](/wiki/User:JimHu/Gbrowse "User:JimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:JimHu-2FGbrowse "Special%3ABrowse/User:JimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
 
  
 

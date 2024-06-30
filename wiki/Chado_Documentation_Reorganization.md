@@ -116,7 +116,7 @@ Chado</em> page - a Chado Cookbook page.</td>
 <tr class="odd">
 <td><a href="Chado_Doc_Project" title="Chado Doc Project">Chado Doc
 Project</a></td>
-<td><a href="User:Bosborne" title="User:Bosborne">Brian Osborne's</a>
+<td><a href="User%3ABosborne" title="User%3ABosborne">Brian Osborne's</a>
 call-to-arms to write "material that is very practical and specific"
 meaning "Best Practices" and "module pages". Brian broke Chado up into 8
 workpackages and sent out a call for volunteers. 3 of the 8 packages

@@ -66,8 +66,8 @@ Visit us at <a href="http://spbase.org" class="external text"
 rel="nofollow">SpBase</a>.
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Acameron&amp;action=edit&amp;redlink=1"
-class="new" title="User:Acameron (page does not exist)">Andy Cameron</a>  
+href="http://gmod.org/mediawiki/index.php?title=User%3AAcameron&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AAcameron (page does not exist)">Andy Cameron</a>  
 
   
 

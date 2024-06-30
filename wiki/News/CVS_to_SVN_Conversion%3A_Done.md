@@ -77,10 +77,10 @@ rel="nofollow">email</a> the [GMOD Help
 Desk](../GMOD_Help_Desk "GMOD Help Desk").
 
 Finally, *many* thanks to [Rob
-Buels](../User:RobertBuels "User:RobertBuels") of Cornell /
+Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
 [SGN](../Category%3ASGN "Category%3ASGN") for doing the work.
 
-[Dave Clements](../User:Clements "User:Clements")
+[Dave Clements](../User%3AClements "User%3AClements")
 
   
 

@@ -93,8 +93,8 @@ title="October 2011 GMOD Meeting">October 2011 GMOD Meeting</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="s">S</h3>
 <ul>
-<li><a href="User:SyedHaider"
-title="User:SyedHaider">User:SyedHaider</a></li>
+<li><a href="User%3ASyedHaider"
+title="User%3ASyedHaider">User%3ASyedHaider</a></li>
 </ul></td>
 </tr>
 </tbody>

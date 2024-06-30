@@ -99,7 +99,7 @@ the conference web site.
 
 Hope to see you in Chicago,
 
-[Dave Clements](../User:Clements "User:Clements"), on behalf of the <a
+[Dave Clements](../User%3AClements "User%3AClements"), on behalf of the <a
 href="http://galaxyproject.org/wiki/Events/GCC2012/Organizing%20Committee"
 class="external text" rel="nofollow">GCC2012 Organizing Committee</a>
 

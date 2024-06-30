@@ -179,7 +179,7 @@ rel="nofollow">cloud.gmod.org</a> is a small instance.
 
 #### <span id="Build_information" class="mw-headline">Build information</span>
 
-[Scott](User:Scott "User:Scott") has fairly extensive notes on the
+[Scott](User%3AScott "User%3AScott") has fairly extensive notes on the
 configuration file edits and the commands used when building GMOD in the
 Cloud. See his <a
 href="https://github.com/scottcain/GMODintheCloud/blob/master/GitC2_build"

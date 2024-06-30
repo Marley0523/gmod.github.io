@@ -167,8 +167,8 @@ title="JBrowseDev/Upcoming">JBrowseDev/Upcoming</a></span></li>
 <li><a href="Migrating_from_GBrowse_to_JBrowse"
 title="Migrating from GBrowse to JBrowse">Migrating from GBrowse to
 JBrowse</a></li>
-<li><a href="User:MitchSkinner"
-title="User:MitchSkinner">User:MitchSkinner</a></li>
+<li><a href="User%3AMitchSkinner"
+title="User%3AMitchSkinner">User%3AMitchSkinner</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
@@ -185,10 +185,10 @@ title="November 2007 GMOD Meeting">November 2007 GMOD Meeting</a></li>
 <li><a href="Reproducing_gbrowse_img_functinality_with_JBrowse"
 title="Reproducing gbrowse img functinality with JBrowse">Reproducing
 gbrowse img functinality with JBrowse</a></li>
-<li><a href="User:RobertBuels"
-title="User:RobertBuels">User:RobertBuels</a></li>
-<li><a href="User:RSCummings"
-title="User:RSCummings">User:RSCummings</a></li>
+<li><a href="User%3ARobertBuels"
+title="User%3ARobertBuels">User%3ARobertBuels</a></li>
+<li><a href="User%3ARSCummings"
+title="User%3ARSCummings">User%3ARSCummings</a></li>
 </ul>
 <h3 id="s">S</h3>
 <ul>

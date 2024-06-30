@@ -98,7 +98,7 @@ what glyphs are available, and what options each glyph supports. Please
 <a href="mailto:biohelp@cgb.indiana.edu" class="external text"
 rel="nofollow">contact the CGB</a> if you have any questions.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

@@ -70,10 +70,10 @@ read-pairs.
 
 A
 [poster](../File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")
-(by [Scott Cain](../User:Scott "User:Scott")) demonstrating how to use
+(by [Scott Cain](../User%3AScott "User%3AScott")) demonstrating how to use
 the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

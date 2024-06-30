@@ -86,8 +86,8 @@ home of the [BioMart](../BioMart "BioMart") and
 
 See you in October,
 
-[Scott Cain](../User:Scott "User:Scott") and [Dave
-Clements](../User:Clements "User:Clements")
+[Scott Cain](../User%3AScott "User%3AScott") and [Dave
+Clements](../User%3AClements "User%3AClements")
 
   
 

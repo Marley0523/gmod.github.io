@@ -99,7 +99,7 @@ probably on MacOS as well. I am considerably less sure that this would
 work out of the box on Windows, but support for that could probably be
 in a future release if the demand is there.
 
-Thanks and happy curating! [Scott Cain](../User:Scott "User:Scott")
+Thanks and happy curating! [Scott Cain](../User%3AScott "User%3AScott")
 
   
 

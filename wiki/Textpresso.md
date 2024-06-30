@@ -234,7 +234,7 @@ class="external text" rel="nofollow">extended version of Textpresso 2 is
 available at SourceForge</a>.
 
 These extensions were written by Nathan Liles of the [Hu
-Lab](User:JimHu.1 "User:JimHu") at Texas A&M University. Nathan
+Lab](User%3AJimHu.1 "User%3AJimHu") at Texas A&M University. Nathan
 [presented this
 work](File:Jan2010Testpresso.pdf "File:Jan2010Testpresso.pdf") at the
 [January 2010 GMOD

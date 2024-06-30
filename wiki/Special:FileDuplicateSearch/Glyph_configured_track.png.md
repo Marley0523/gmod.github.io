@@ -55,8 +55,8 @@ MIME type: image/png
 The file "Glyph_configured_track.png" has 1 identical duplication.
 
 1.  [Figure2.png](/wiki/File:Figure2.png "File:Figure2.png") . .
-    <a href="/wiki/User:Lstein" class="mw-userlink"
-    title="User:Lstein">Lstein</a> <span style="white-space: nowrap;">
+    <a href="/wiki/User%3ALstein" class="mw-userlink"
+    title="User%3ALstein">Lstein</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Lstein&amp;action=edit&amp;redlink=1"
     class="new" title="User talk:Lstein (page does not exist)">Talk</a>
@@ -65,8 +65,8 @@ The file "Glyph_configured_track.png" has 1 identical duplication.
     . . 02:48, 31 January 2009
 2.  [Glyph configured
     track.png](/wiki/File:Glyph_configured_track.png "File:Glyph configured track.png")
-    . . <a href="/wiki/User:Lstein" class="mw-userlink"
-    title="User:Lstein">Lstein</a> <span style="white-space: nowrap;">
+    . . <a href="/wiki/User%3ALstein" class="mw-userlink"
+    title="User%3ALstein">Lstein</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Lstein&amp;action=edit&amp;redlink=1"
     class="new" title="User talk:Lstein (page does not exist)">Talk</a>

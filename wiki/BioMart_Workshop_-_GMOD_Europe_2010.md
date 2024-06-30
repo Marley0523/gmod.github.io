@@ -136,14 +136,14 @@ programming techniques and familiarity with databases
 
 ## <span id="Instructors" class="mw-headline">Instructors</span>
 
-- [Syed Haider](User:SyedHaider "User:SyedHaider")
+- [Syed Haider](User%3ASyedHaider "User%3ASyedHaider")
   (<a href="http://oicr.on.ca" class="external text"
   rel="nofollow">OICR</a> and University of Cambridge)
 - <a href="http://www.ebi.ac.uk/~damian" class="external text"
   rel="nofollow">Damian Smedley</a>
   (<a href="http://www.ebi.ac.uk/" class="external text"
   rel="nofollow">EBI</a>)
-- [Junjun Zhang](User:Junjun "User:Junjun")
+- [Junjun Zhang](User%3AJunjun "User%3AJunjun")
   (<a href="http://oicr.on.ca" class="external text"
   rel="nofollow">OICR</a>)
 - Arek Kasprzyk (<a href="http://oicr.on.ca" class="external text"

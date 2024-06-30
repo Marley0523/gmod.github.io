@@ -102,8 +102,8 @@ Conversion</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User:Dongilbert"
-title="User:Dongilbert">User:Dongilbert</a></li>
+<li><a href="User%3ADongilbert"
+title="User%3ADongilbert">User%3ADongilbert</a></li>
 </ul>
 <h3 id="g-1">G</h3>
 <ul>

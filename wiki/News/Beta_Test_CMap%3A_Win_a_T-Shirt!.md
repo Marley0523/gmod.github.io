@@ -85,7 +85,7 @@ Remember: *If no one beta tests, everyone beta tests.*
 
 Thanks,
 
-[Ben Faga](../User:Faga "User:Faga"),  
+[Ben Faga](../User%3AFaga "User%3AFaga"),  
 <a href="mailto:faga.cshl@gmail.com" class="external text"
 rel="nofollow">faga.cshl@gmail.com</a>
 

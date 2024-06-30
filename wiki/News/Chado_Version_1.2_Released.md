@@ -59,7 +59,7 @@ interest in this release:
 Please follow up with comments or problems with this release to the
 schema mailing list.
 
-Thanks, [Scott](../User:Scott "User:Scott")
+Thanks, [Scott](../User%3AScott "User%3AScott")
 
 Changes in Chado 1.2:
 

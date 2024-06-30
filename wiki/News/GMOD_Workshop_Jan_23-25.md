@@ -81,7 +81,7 @@ class="external text" rel="nofollow">Workshop on Genomics</a> features
 some [Galaxy](../Galaxy.1 "Galaxy") content, and is still accepting
 application as well.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

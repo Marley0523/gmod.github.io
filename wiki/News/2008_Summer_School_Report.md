@@ -61,7 +61,7 @@ started the class with a minimal install of Linux and finished 2 1/2
 [CMap](../CMap.1 "CMap").
 
 I would like to thank the participants, the instructors
-([Scott](../User:Scott "User:Scott"), [Ben](../User:Faga "User:Faga")
+([Scott](../User%3AScott "User%3AScott"), [Ben](../User%3AFaga "User%3AFaga")
 and Ed) and the folks at NESCent for getting the GMOD Summer School off
 to a fabulous start.
 
@@ -77,7 +77,7 @@ and pull it off.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

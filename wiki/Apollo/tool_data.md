@@ -97,7 +97,7 @@ title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajourna
 <a href="../../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation at ParameciumDB</a> - [Linda
-Sperling's](../User:Sperling "User:Sperling") presentation on
+Sperling's](../User%3ASperling "User%3ASperling") presentation on
 [ParameciumDB's](../ParameciumDB "ParameciumDB") [Community
 Annotation](../Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
 process at the [November 2007 GMOD

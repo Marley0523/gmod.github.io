@@ -50,8 +50,8 @@ rel="nofollow">GMOD SourceForge site</a>.
 
 There have been many people who have helped with getting this release
 done and I would like to thank all of them. I would like to especially
-thank [Rob Buels](../User:RobertBuels "User:RobertBuels") and [Naama
-Menda](../User:NaamaMenda "User:NaamaMenda") and the rest of the people
+thank [Rob Buels](../User%3ARobertBuels "User%3ARobertBuels") and [Naama
+Menda](../User%3ANaamaMenda "User%3ANaamaMenda") and the rest of the people
 at the <a href="http://solgenomics.net/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> for their code
 contributions, including a pub table loader that works with PubMed and
@@ -84,7 +84,7 @@ schema modifications being worked on now.
 
 Thanks for your continued support of the GMOD project,
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
   
 

@@ -156,7 +156,7 @@ MAKER on a local machine.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-- [Carson Holt](User:Carsonholt "User:Carsonholt"),
+- [Carson Holt](User%3ACarsonholt "User%3ACarsonholt"),
   <a href="http://www.utah.edu" class="external text"
   rel="nofollow">University of Utah</a>
 

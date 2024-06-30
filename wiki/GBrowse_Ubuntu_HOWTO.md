@@ -227,7 +227,7 @@ rel="nofollow">http://localhost/gbrowse</a>.
 
 # <span id="Author" class="mw-headline">Author</span>
 
-[Lincoln Stein](User:Lstein "User:Lstein") 12:36, 17 April 2007 (EDT)
+[Lincoln Stein](User%3ALstein "User%3ALstein") 12:36, 17 April 2007 (EDT)
 
 </div>
 

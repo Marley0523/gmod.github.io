@@ -96,7 +96,7 @@ title="October 2011 GMOD Meeting">October 2011 GMOD Meeting</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="r">R</h3>
 <ul>
-<li><a href="User:Rsmith" title="User:Rsmith">User:Rsmith</a></li>
+<li><a href="User%3ARsmith" title="User%3ARsmith">User%3ARsmith</a></li>
 </ul>
 <h3 id="s">S</h3>
 <ul>

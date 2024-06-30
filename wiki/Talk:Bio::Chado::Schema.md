@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 Where is the boundary between this and [modware](Modware "Modware")
 then? I thought the point of modware was to provide that level of
-compatibility. [Scott](User:Scott "User:Scott") 17:55, 14 April 2011
+compatibility. [Scott](User%3AScott "User%3AScott") 17:55, 14 April 2011
 (UTC)
 
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ to the Bio::SeqI accessors: \`seq()\` is an alias for \`residues()\`,
 \`display_id()\` is an alias for \`name()\`, etc.
 
 I don't think anything much more involved than that belongs in BCS
-though. --[RobertBuels](User:RobertBuels "User:RobertBuels") 18:15, 14
+though. --[RobertBuels](User%3ARobertBuels "User%3ARobertBuels") 18:15, 14
 April 2011 (UTC)
 
 </div>

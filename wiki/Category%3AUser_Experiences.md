@@ -70,7 +70,7 @@ Users</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User:Dan" title="User:Dan">User:Dan</a></li>
+<li><a href="User%3ADan" title="User%3ADan">User%3ADan</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="i">I</h3>
 <ul>

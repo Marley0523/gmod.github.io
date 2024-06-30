@@ -68,7 +68,7 @@ would be fairly low (I'm guessing in the ballpark of \$50).
 
 Thanks,
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
 </div>
 
@@ -82,7 +82,7 @@ list of what else is going on in July.
 
 Thanks,
 
-[Dave C.](../User:Clements "User:Clements")  
+[Dave C.](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

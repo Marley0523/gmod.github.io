@@ -39,8 +39,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [WebApollo](../WebApollo.1 "WebApollo") tutorial was presented by
-[Scott Cain](../User:Scott "User:Scott") and [User:Michael
-Campbell](../User:Michael_Campbell "User:Michael Campbell") at [GMOD
+[Scott Cain](../User%3AScott "User%3AScott") and [User%3AMichael
+Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014.
 

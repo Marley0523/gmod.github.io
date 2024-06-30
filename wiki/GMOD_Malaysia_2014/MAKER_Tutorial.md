@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [MAKER](../MAKER.1 "MAKER") tutorial was presented by [Michael
-Campbell](../User:Michael_Campbell "User:Michael Campbell") at [GMOD
+Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014. This tutorial requires MAKER version 2.x.
 

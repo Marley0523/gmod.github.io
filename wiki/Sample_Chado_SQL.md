@@ -392,7 +392,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-- [Dongilbert](User:Dongilbert "User:Dongilbert") 16:05, 16 April 2007
+- [Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:05, 16 April 2007
   (EDT)
 
 </div>

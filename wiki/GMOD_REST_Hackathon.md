@@ -105,23 +105,23 @@ hotel room, or in the New England themed bar at the Seven Seas hotel.
 
 ## <span id="Organizing_Committee" class="mw-headline">Organizing Committee</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma")
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 
 ## <span id="Attendees" class="mw-headline">Attendees</span>
 
 - *Please add your name here*
-- [Josh Goodman](User:Jogoodma "User:Jogoodma")
-- [Richard Smith](User:Rsmith "User:Rsmith")
-- [Todd Harris](User:Tharris "User:Tharris")
-- [Robert Buels](User:RobertBuels "User:RobertBuels")
-- [Michael Caudy](User:Mcaudy "User:Mcaudy")
-- [Jim Hu](User:JimHu.1 "User:JimHu")
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
+- [Richard Smith](User%3ARsmith "User%3ARsmith")
+- [Todd Harris](User%3ATharris "User%3ATharris")
+- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels")
+- [Michael Caudy](User%3AMcaudy "User%3AMcaudy")
+- [Jim Hu](User%3AJimHu.1 "User%3AJimHu")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=User:Boconnor&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Boconnor (page does not exist)">Brian
+  href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
+  class="new" title="User%3ABoconnor (page does not exist)">Brian
   O'Connor</a>
-- [Chris Childers](User:Childers "User:Childers")
-- [Justin Reese](User:Justaddcoffee "User:Justaddcoffee")
+- [Chris Childers](User%3AChilders "User%3AChilders")
+- [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee")
 
 ## <span id="Topics" class="mw-headline">Topics</span>
 

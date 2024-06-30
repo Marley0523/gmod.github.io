@@ -190,7 +190,7 @@ assembly and subsequent analysis have resulted in:
 # <span id="ParameciumDB" class="mw-headline">ParameciumDB</span>
 
 ParameciumDB is maintained by two people, [Linda
-Sperling](User:Sperling "User:Sperling") and Olivier Arnaiz at the
+Sperling](User%3ASperling "User%3ASperling") and Olivier Arnaiz at the
 <a href="http://www.cgm.cnrs-gif.fr/version_gb/index_gb.html"
 class="external text" rel="nofollow">Centre de Genetique Moleculaire</a>,
 a part of the
@@ -358,7 +358,7 @@ community for annotation of the gene models. They use
 - <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User:Sperling "User:Sperling") presentation at the
+  Sperling's](User%3ASperling "User%3ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
@@ -432,7 +432,7 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 - <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User:Sperling "User:Sperling") presentation at the
+  Sperling's](User%3ASperling "User%3ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 - <a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"

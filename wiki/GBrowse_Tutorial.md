@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 There are several [GBrowse](GBrowse.1 "GBrowse") tutorials:
 
 [GBrowse tutorial from 2013 GMOD Summer School](GBrowse_Tutorial_2012 "GBrowse Tutorial 2012")  
-This tutorial was taught by [Scott Cain](User:Scott "User:Scott") at the
+This tutorial was taught by [Scott Cain](User%3AScott "User%3AScott") at the
 [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School") and the [2012
 GMOD Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School").
@@ -54,7 +54,7 @@ Cloud](Cloud.1 "Cloud") for more information on getting a GMOD AMI.
 
 [GBrowse tutorial from 2010 GMOD Summer School](GBrowse_Tutorial_2010 "GBrowse Tutorial 2010")  
 This tutorial was originally taught by [Scott
-Cain](User:Scott "User:Scott") at the [2010 GMOD Summer School -
+Cain](User%3AScott "User%3AScott") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas").
 It walks you through setting up and running
 [GBrowse](GBrowse.1 "GBrowse") with some sample data. It provides a <a

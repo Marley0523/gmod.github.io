@@ -72,7 +72,7 @@ No updates to the database or config files are needed.
 If you are updating from an older version, see the documentation in the
 `upgrade/` directory included in the package.
 
-[Ben](../User:Faga "User:Faga")
+[Ben](../User%3AFaga "User%3AFaga")
 
   
 

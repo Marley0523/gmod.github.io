@@ -544,7 +544,7 @@ rel="nofollow">http://abrf2010.jbrowse.org/~profilename/</a>
 SSH into the ABRF jbrowse machine:
 <span style="font-size: large; font-family: monospace">abrf2010.jbrowse.org</span>
 
-User: your profile name from the morning session
+User%3A your profile name from the morning session
 
 Password: abrf_HTS
 
@@ -571,7 +571,7 @@ Add the GFF file to your JBrowse instance:
 ## <span id="Conference_Talk" class="mw-headline">Conference Talk</span>
 
 **Seeing the Forest and the Trees: Visualizing Next Generation Sequence
-Data**, by [Mitch Skinner](User:MitchSkinner "User:MitchSkinner")
+Data**, by [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
 
 Part of the Session *Tools to Facilitate Management, Analysis and
 Visualization of 2nd Generation Sequencing Data*

@@ -65,29 +65,29 @@ The [tutorials](../Category%3ATutorials "Category%3ATutorials") are:
 
 - **<a href="../Apollo_Tutorial" class="mw-redirect"
   title="Apollo Tutorial">Apollo Tutorial</a>** - by [Ed
-  Lee](../User:Elee "User:Elee")
+  Lee](../User%3AElee "User%3AElee")
 - **<a href="../Chado_Tutorial" class="mw-redirect"
   title="Chado Tutorial">Chado Tutorial</a>** - by [Scott
-  Cain](../User:Scott "User:Scott"), [Dave
-  Clements](../User:Clements "User:Clements"), and [Joshua
-  Orvis](../User:Jorvis "User:Jorvis").
+  Cain](../User%3AScott "User%3AScott"), [Dave
+  Clements](../User%3AClements "User%3AClements"), and [Joshua
+  Orvis](../User%3AJorvis "User%3AJorvis").
 - **<a href="../Galaxy_Tutorial" class="mw-redirect"
   title="Galaxy Tutorial">Galaxy Tutorial</a>** - by [James
-  Taylor](../User:JamesTaylor "User:JamesTaylor")
+  Taylor](../User%3AJamesTaylor "User%3AJamesTaylor")
 - **[GBrowse Tutorial](../GBrowse_Tutorial "GBrowse Tutorial")** - by
-  [Scott Cain](../User:Scott "User:Scott")
+  [Scott Cain](../User%3AScott "User%3AScott")
 - **<a href="../GBrowse_syn_Tutorial" class="mw-redirect"
   title="GBrowse syn Tutorial">GBrowse_syn Tutorial</a>** - by [Sheldon
-  McKay](../User:Mckays "User:Mckays")
+  McKay](../User%3AMckays "User%3AMckays")
 - **<a href="../JBrowse_Tutorial" class="mw-redirect"
   title="JBrowse Tutorial">JBrowse Tutorial</a>** - by [Mitch
-  Skinner](../User:MitchSkinner "User:MitchSkinner")
+  Skinner](../User%3AMitchSkinner "User%3AMitchSkinner")
 - **<a href="../MAKER_Tutorial" class="mw-redirect"
   title="MAKER Tutorial">MAKER Tutorial</a>** - by [Carson
-  Holt](../User:Carsonholt "User:Carsonholt")
+  Holt](../User%3ACarsonholt "User%3ACarsonholt")
 - **<a href="../Tripal_Tutorial" class="mw-redirect"
   title="Tripal Tutorial">Tripal Tutorial</a>** - by [Stephen
-  Ficklin](../User:Sficklin "User:Sficklin")
+  Ficklin](../User%3ASficklin "User%3ASficklin")
 
 The [2010 GMOD Summer School -
 Americas](../2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
@@ -100,7 +100,7 @@ success.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

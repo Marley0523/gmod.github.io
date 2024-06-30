@@ -84,7 +84,7 @@ join the
 <a href="https://lists.sourceforge.net/lists/listinfo/isga-users"
 class="external text" rel="nofollow">isga-users mailing list</a>.
 
-[Chris Hemmerich](../User:Chemmeri "User:Chemmeri")
+[Chris Hemmerich](../User%3AChemmeri "User%3AChemmeri")
 
   
 

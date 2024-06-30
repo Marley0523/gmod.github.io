@@ -132,8 +132,8 @@ rel="nofollow">podcast on the BioPerl project</a> is available at
 <a href="http://twit.tv/FLOSS" class="external text"
 rel="nofollow">FLOSS Weekly</a>. It's about an hour long and it's a good
 introduction to the **BioPerl** project. The podcast is an interview
-with BioPerl heavy hitters [Chris Fields](User:Cjfields "User:Cjfields")
-and [Jason Stajich](User:Stajich "User:Stajich").
+with BioPerl heavy hitters [Chris Fields](User%3ACjfields "User%3ACjfields")
+and [Jason Stajich](User%3AStajich "User%3AStajich").
 
 ### <span id="BioPerl_Packages_and_bioperl-live" class="mw-headline">BioPerl Packages and bioperl-live</span>
 

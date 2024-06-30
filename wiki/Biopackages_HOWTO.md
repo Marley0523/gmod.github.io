@@ -211,8 +211,8 @@ operating system will be maintained as a clean, RPM-only environment.
 # <span id="Authors" class="mw-headline">Authors</span>
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Boconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User:Boconnor (page does not exist)">Brian
+href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ABoconnor (page does not exist)">Brian
 O'Connor</a>
 
 </div>

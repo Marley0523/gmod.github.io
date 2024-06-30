@@ -50,7 +50,7 @@ As always, see the updated [JBrowse Configuration
 Guide](../JBrowse_Configuration_Guide "JBrowse Configuration Guide") for
 documentation on how to use the new features.
 
-[RobertBuels](../User:RobertBuels "User:RobertBuels")
+[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels")
 ([talk](../User_talk:RobertBuels "User talk:RobertBuels"))
 
   

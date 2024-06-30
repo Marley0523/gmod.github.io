@@ -57,9 +57,9 @@ width="250" height="80" alt="GBrowse syn" /></a>
 This [Comparative Genomics with GBrowse_syn: A hands on workshop for
 visualizing your syntenic data with
 GBrowse_syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented by
-[Sheldon McKay](User:Mckays "User:Mckays"), [Scott
-Cain](User:Scott "User:Scott"), and [Dave
-Clements](User:Clements "User:Clements") at the
+[Sheldon McKay](User%3AMckays "User%3AMckays"), [Scott
+Cain](User%3AScott "User%3AScott"), and [Dave
+Clements](User%3AClements "User%3AClements") at the
 <a href="http://www.intl-pag.org/" class="external text"
 rel="nofollow">Plant and Animal Genome Conference</a>, January 2009. The
 most recent GBrowse syn tutorial can be found at the
@@ -122,16 +122,16 @@ workshop](GBrowse_PAG_2009_Workshop "GBrowse PAG 2009 Workshop") at [PAG
 
 ## <span id="Workshop_Instructors" class="mw-headline">Workshop Instructors</span>
 
-- [Sheldon McKay](User:Mckays "User:Mckays"),
+- [Sheldon McKay](User%3AMckays "User%3AMckays"),
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">iPlant Collaborative</a> (and author of
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn")),
   <a href="http://www.cshl.edu/" class="external text" rel="nofollow">Cold
   Spring Harbor Laboratory</a>
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca/" class="external text"
   rel="nofollow">Ontario Institute for Cancer Research</a>
-- [Dave Clements](User:Clements "User:Clements"),
+- [Dave Clements](User%3AClements "User%3AClements"),
   [GMOD_Help_Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>

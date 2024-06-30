@@ -63,13 +63,13 @@ GMOD can help you help your researchers.
 
 ## <span id="Organizers" class="mw-headline">Organizers</span>
 
-- [Chris Hemmerich](User:Chemmeri "User:Chemmeri") - Biological Database
+- [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") - Biological Database
   Unit Leader, and Project Lead for [ISGA](ISGA "ISGA") at the
   <a href="http://www.cgb.indiana.edu" class="external text"
   rel="nofollow">Center for Genomics and Bioinformatics (CGB)</a>,
   Indiana University (which is also the home of
   [WebGBrowse](WebGBrowse.1 "WebGBrowse")).
-- [Dave Clements](User:Clements "User:Clements") -
+- [Dave Clements](User%3AClements "User%3AClements") -
   [Galaxy](Galaxy.1 "Galaxy") project, Emory University.
 
 ## <span id="Topics" class="mw-headline">Topics</span>
@@ -107,8 +107,8 @@ free and open to anyone.
 
 | Participant | Email | Comments |
 |----|----|----|
-| [Chris Hemmerich](User:Chemmeri "User:Chemmeri") | chemmeri 'at' cgb dot indiana dpt edu | Organizer. CGB is a sequencing center that uses and develops GMOD tools. |
-| [Dave Clements](User:Clements "User:Clements") | clements@nescent.org | Organizer. Galaxy Project Community Liaison. [Galaxy](Galaxy.1 "Galaxy") includes support for sequencing center sample tracking, and can also be a useful platform for your clients to analyze their data and preserve their workflows. |
+| [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") | chemmeri 'at' cgb dot indiana dpt edu | Organizer. CGB is a sequencing center that uses and develops GMOD tools. |
+| [Dave Clements](User%3AClements "User%3AClements") | clements@nescent.org | Organizer. Galaxy Project Community Liaison. [Galaxy](Galaxy.1 "Galaxy") includes support for sequencing center sample tracking, and can also be a useful platform for your clients to analyze their data and preserve their workflows. |
 | Olen Sluder | olen AT acm DOT org | Texas Biomedical Research Institute |
 | Surya Saha | ss2489 at cornell edu | Cornell University |
 | Zhanji Liu |  | Delaware State |

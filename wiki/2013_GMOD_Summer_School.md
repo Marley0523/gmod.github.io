@@ -91,7 +91,7 @@ The course covers the following topics in detail:
 <td>Day 1, AM</td>
 <td><a href="Cloud.1" title="Cloud">GMOD in the Cloud</a>, <a
 href="AWS_walkthrough" title="AWS walkthrough">AWS walkthrough</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -102,7 +102,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 2, AM</td>
 <td><a href="Chado_Tutorial_2013" title="Chado Tutorial 2013">Chado
 Tutorial</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -113,7 +113,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 5, AM</td>
 <td><a href="Galaxy_Tutorial_2013" title="Galaxy Tutorial 2013">Galaxy
 Tutorial</a></td>
-<td><a href="User:Clements" title="User:Clements">Dave Clements</a></td>
+<td><a href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 <td><a href="http://galaxyproject.org/" class="external text"
 rel="nofollow">Galaxy Project</a>, <a href="http://emory.edu/"
 class="external text" rel="nofollow">Emory University</a><br />
@@ -122,7 +122,7 @@ class="external text" rel="nofollow">Emory University</a><br />
 <tr class="even">
 <td>Day 4, AM</td>
 <td><a href="GBrowse.1" title="GBrowse">GBrowse</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -133,7 +133,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 4, PM</td>
 <td><a href="GBrowse_syn_Tutorial_2013"
 title="GBrowse syn Tutorial 2013">GBrowse syn Tutorial</a></td>
-<td><a href="User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<td><a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 <td><a href="http://iplantcollaborative.org" class="external text"
 rel="nofollow">iPlant Collaborative</a>, <a href="http://www.cshl.edu"
 class="external text" rel="nofollow">CSHL</a><br />
@@ -143,7 +143,7 @@ href="GBrowse.1" title="GBrowse">GBrowse</a></td>
 <tr class="even">
 <td>Day 1, AM</td>
 <td><a href="GFF3" title="GFF3">GFF3</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -154,7 +154,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 3, AM</td>
 <td><a href="JBrowse_Tutorial_2013"
 title="JBrowse Tutorial 2013">JBrowse Tutorial</a></td>
-<td><a href="User:RBuels" class="mw-redirect" title="User:RBuels">Robert
+<td><a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
 Buels</a></td>
 <td><a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a><br />
@@ -182,7 +182,7 @@ rel="nofollow">University of Utah</a><br />
 <td>Day 2, PM</td>
 <td><a href="Tripal_Tutorial_v1.1" title="Tripal Tutorial v1.1">Tripal
 Tutorial</a></td>
-<td><a href="User:Sficklin" title="User:Sficklin">Stephen
+<td><a href="User%3ASficklin" title="User%3ASficklin">Stephen
 Ficklin</a></td>
 <td><a href="http://www.wsu.edu" class="external text"
 rel="nofollow">Washington State University</a><br />
@@ -192,7 +192,7 @@ rel="nofollow">Washington State University</a><br />
 <td>Day 3, PM</td>
 <td><a href="WebApollo_Tutorial_2013"
 title="WebApollo Tutorial 2013">WebApollo Tutorial</a></td>
-<td><a href="User:Childers" title="User:Childers">Chris
+<td><a href="User%3AChilders" title="User%3AChilders">Chris
 Childers</a></td>
 <td><a href="http://genomes.missouri.edu/" class="external text"
 rel="nofollow">University of Missouri</a><br />

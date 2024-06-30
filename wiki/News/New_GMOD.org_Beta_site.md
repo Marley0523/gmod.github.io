@@ -62,7 +62,7 @@ issues. Note that any additions made to the beta site will be lost when
 the final transition is made!
 
 Thanks,  
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

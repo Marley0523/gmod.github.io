@@ -82,7 +82,7 @@ See the
 class="external text" rel="nofollow">full announcement</a> for details.
 **The new application deadline is January 17.**
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

@@ -217,8 +217,8 @@ title="GBrowse/Uploading Wiggle Tracks">GBrowse/Uploading Wiggle
 Tracks</a></li>
 <li><a href="GBrowse2_REST_API" title="GBrowse2 REST API">GBrowse2 REST
 API</a></li>
-<li><a href="User:Girlwithglasses/Template:ToolData/gbrowse"
-title="User:Girlwithglasses/Template:ToolData/gbrowse">User:Girlwithglasses/Template:ToolData/gbrowse</a></li>
+<li><a href="User%3AGirlwithglasses/Template:ToolData/gbrowse"
+title="User%3AGirlwithglasses/Template:ToolData/gbrowse">User%3AGirlwithglasses/Template:ToolData/gbrowse</a></li>
 <li><a href="Glyphs_and_Glyph_Options"
 title="Glyphs and Glyph Options">Glyphs and Glyph Options</a></li>
 <li><a href="GMOD_Malaysia_2014/GBrowse_Tutorial"

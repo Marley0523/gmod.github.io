@@ -53,8 +53,8 @@ bit.
 ------------------------------------------------------------------------
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Arcoleo&amp;action=edit&amp;redlink=1"
-class="new" title="User:Arcoleo (page does not exist)">Arcoleo</a>,
+href="http://gmod.org/mediawiki/index.php?title=User%3AArcoleo&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AArcoleo (page does not exist)">Arcoleo</a>,
 
 I think that's a great format, but we will stick with Mediawiki (the
 wiki package used in the GMOD web site) for the Chado documentation for
@@ -64,7 +64,7 @@ Another is because we want users to be able to update the main
 documentation in true wiki style.
 
 Thanks,  
-[Dave Clements](User:Clements "User:Clements")  
+[Dave Clements](User%3AClements "User%3AClements")  
 [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ------------------------------------------------------------------------

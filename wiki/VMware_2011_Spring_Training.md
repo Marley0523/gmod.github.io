@@ -160,8 +160,8 @@ virtualbox works, out of the box so to speak, with the image: simple
 create a machine, and then go to *settings* --\> *storage*. And then
 change the hard drive you have set up to point to the vmdk virtual hard
 drive in the untarred folder. (reported by <a
-href="http://gmod.org/mediawiki/index.php?title=User:Alex@flymine.org&amp;action=edit&amp;redlink=1"
-class="new" title="User:Alex@flymine.org (page does not exist)">Alex</a>).
+href="http://gmod.org/mediawiki/index.php?title=User%3AAlex@flymine.org&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AAlex@flymine.org (page does not exist)">Alex</a>).
 
 ## <span id="System_Configuration" class="mw-headline">System Configuration</span>
 

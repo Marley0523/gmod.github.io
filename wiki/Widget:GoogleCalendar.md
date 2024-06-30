@@ -44,7 +44,7 @@ class="external text" rel="nofollow">Google Calendar</a>** widget to
 your wiki page.
 
 It was originally created by
-<a href="http://www.mediawiki.org/wiki/User:Sergey_Chernyshev"
+<a href="http://www.mediawiki.org/wiki/User%3ASergey_Chernyshev"
 class="external text">Sergey Chernyshev</a>.
 
 <div id="toc" class="toc">

@@ -120,7 +120,7 @@ gene pages in XML format.
 
 # <span id="Notes_for_Discussion_2008" class="mw-headline">Notes for Discussion 2008</span>
 
-From [Dongilbert](User:Dongilbert "User:Dongilbert") 13:15, 14 July 2008
+From [Dongilbert](User%3ADongilbert "User%3ADongilbert") 13:15, 14 July 2008
 (EDT) :
 
 In hopes there will be a lively discussion on this topic at the [July

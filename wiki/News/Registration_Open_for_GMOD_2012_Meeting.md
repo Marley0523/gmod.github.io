@@ -69,7 +69,7 @@ me or edit the [meeting
 page](../April_2012_GMOD_Meeting "April 2012 GMOD Meeting") directly to
 add your suggested topic.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

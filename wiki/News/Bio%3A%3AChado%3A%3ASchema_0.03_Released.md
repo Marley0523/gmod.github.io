@@ -47,7 +47,7 @@ The project is looking for development help, and discussion is on the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">GMOD Schema mailing list</a>.
 
---[RobertBuels](../User:RobertBuels "User:RobertBuels") 22:10, 29 August
+--[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels") 22:10, 29 August
 2009 (UTC)
 
   

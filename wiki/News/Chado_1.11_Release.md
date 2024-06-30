@@ -49,7 +49,7 @@ In this release, the schema itself has not changed since the 1.1 release
 in May of this year, but there have been bug fixes (see <a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/schema/tags/chado-1.11/chado/Changes?revision=23640&amp;view=markup"
 class="external text" rel="nofollow">release notes</a>; thanks to [Naama
-Menda](../User:NaamaMenda "User:NaamaMenda") for those fixes) and one
+Menda](../User%3ANaamaMenda "User%3ANaamaMenda") for those fixes) and one
 added functionality to the materialized view tool. This functionality
 was required to support full text searching that will be included in the
 up coming release of the
@@ -76,7 +76,7 @@ Happy *GMODing* and please direct questions about this release to the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">schema mailing list</a>,
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

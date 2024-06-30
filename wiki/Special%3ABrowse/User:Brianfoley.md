@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                            |     |
 |------------------------------------------------------------|-----|
-| [User:Brianfoley](/wiki/User:Brianfoley "User:Brianfoley") |     |
+| [User%3ABrianfoley](/wiki/User%3ABrianfoley "User%3ABrianfoley") |     |
 
 |  |  |
 |----|----|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:Brianfoley>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3ABrianfoley>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Brianfoley "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3ABrianfoley "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Brianfoley&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3ABrianfoley&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

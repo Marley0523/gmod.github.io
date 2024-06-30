@@ -77,7 +77,7 @@ on your server.*
 See the <a href="http://jbrowse.org/?p=56" class="external text"
 rel="nofollow">release notes</a> for full details.
 
-[Mitch Skinner](../User:MitchSkinner "User:MitchSkinner")
+[Mitch Skinner](../User%3AMitchSkinner "User%3AMitchSkinner")
 
   
 

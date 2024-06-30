@@ -54,9 +54,9 @@ width="250" height="164" alt="Chado" /></a>
 </div>
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User:Scott "User:Scott"), [Dave
-Clements](User:Clements "User:Clements"), [Joshua
-Orvis](User:Jorvis "User:Jorvis") (*in absentia*) at the 2010 GMOD
+tutorial was presented by [Scott Cain](User%3AScott "User%3AScott"), [Dave
+Clements](User%3AClements "User%3AClements"), [Joshua
+Orvis](User%3AJorvis "User%3AJorvis") (*in absentia*) at the 2010 GMOD
 Summer School - Americas, May 2010. The most recent Chado tutorial can
 be found at the <a href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado Tutorial</a> page.

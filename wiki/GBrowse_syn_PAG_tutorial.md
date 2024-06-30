@@ -44,7 +44,7 @@ This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") comparative genomics viewer.
 This tutorial was originally taught by [Sheldon
-McKay](User:Mckays "User:Mckays") at the 2009 [GMOD
+McKay](User%3AMckays "User%3AMckays") at the 2009 [GMOD
 Schools](GMOD_Schools "GMOD Schools") -
 [Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe")
 &

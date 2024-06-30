@@ -466,7 +466,7 @@ Public installations of CMap:
 
 ### <span id="Development_teamhttp://gmod.org/wiki/" class="mw-headline">Development team</span>
 
-Lincoln Stein, Doreen Ware, [Ben Faga](/wiki/User:Faga "User:Faga"),
+Lincoln Stein, Doreen Ware, [Ben Faga](/wiki/User%3AFaga "User%3AFaga"),
 <a href="mailto:kclark@cshl.edu" class="external text"
 rel="nofollow">Ken Youens-Clark</a>
 

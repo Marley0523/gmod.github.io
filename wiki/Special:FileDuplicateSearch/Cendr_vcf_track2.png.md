@@ -56,16 +56,16 @@ The file "Cendr_vcf_track2.png" has 1 identical duplication.
 
 1.  [Cendr vcf
     track.png](/wiki/File:Cendr_vcf_track.png "File:Cendr vcf track.png")
-    . . <a href="/wiki/User:Scott" class="mw-userlink"
-    title="User:Scott">Scott</a> <span style="white-space: nowrap;">
+    . . <a href="/wiki/User%3AScott" class="mw-userlink"
+    title="User%3AScott">Scott</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">([Talk](/wiki/User_talk:Scott "User talk:Scott")
     \|
     [contribs](/wiki/Special:Contributions/Scott "Special:Contributions/Scott"))</span></span>
     . . 18:11, 26 December 2022
 2.  [Cendr vcf
     track2.png](/wiki/File:Cendr_vcf_track2.png "File:Cendr vcf track2.png")
-    . . <a href="/wiki/User:Scott" class="mw-userlink"
-    title="User:Scott">Scott</a> <span style="white-space: nowrap;">
+    . . <a href="/wiki/User%3AScott" class="mw-userlink"
+    title="User%3AScott">Scott</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">([Talk](/wiki/User_talk:Scott "User talk:Scott")
     \|
     [contribs](/wiki/Special:Contributions/Scott "Special:Contributions/Scott"))</span></span>

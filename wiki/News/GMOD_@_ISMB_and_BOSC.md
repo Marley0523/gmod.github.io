@@ -69,7 +69,7 @@ research that using GMOD components. See [ISMB
 class="internal" title="GMODatISMB2008.pdf">flier we'll be distributing
 at the conference</a>.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

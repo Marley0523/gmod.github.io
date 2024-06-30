@@ -42,9 +42,9 @@ Due to overwhelming wiki-spam over the last few weeks, new account
 creation has been disabled temporarily while we assess methods of
 controlling the spam. In the meantime, new accounts can still be created
 by any of the SysOps for the wiki, including [Scott
-Cain](../User:Scott "User:Scott"). Sorry for any inconvenience.
+Cain](../User%3AScott "User%3AScott"). Sorry for any inconvenience.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

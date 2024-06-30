@@ -79,7 +79,7 @@ class="external text" rel="nofollow">Early Registration</a> Deadline |
 Please contact me if you have any questions, and hope to see you in the
 Netherlands!
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Project
 
   

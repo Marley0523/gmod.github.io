@@ -80,7 +80,7 @@ day). There will be a limited number of scholarships available.
 
 Thanks,
 
-[Scott Cain](../User:Scott "User:Scott")  
+[Scott Cain](../User%3AScott "User%3AScott")  
 
   
 

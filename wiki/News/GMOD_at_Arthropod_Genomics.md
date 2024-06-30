@@ -50,8 +50,8 @@ April 10-13, 2008, in Kansas City.
   install and use the [Apollo](../Apollo.1 "Apollo") genome annotation
   tool.
 - *Chado: A Database Schema for Integrating Biological Data* - [Scott
-  Cain](../User:Scott "User:Scott") and [Dave
-  Clements](../User:Clements "User:Clements") will cover
+  Cain](../User%3AScott "User%3AScott") and [Dave
+  Clements](../User%3AClements "User%3AClements") will cover
   <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>'s
   logical concepts, the types of data it can represent, how to import
   and export data, and how Chado integrates with other GMOD components

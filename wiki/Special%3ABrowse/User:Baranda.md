@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                   |     |
 |---------------------------------------------------|-----|
-| [User:Baranda](/wiki/User:Baranda "User:Baranda") |     |
+| [User%3ABaranda](/wiki/User%3ABaranda "User%3ABaranda") |     |
 
 |  |  |
 |----|----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:Baranda>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3ABaranda>"
 
 </div>
 
@@ -94,7 +94,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Baranda "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3ABaranda "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Baranda&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3ABaranda&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

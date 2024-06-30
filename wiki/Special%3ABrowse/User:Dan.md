@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                       |     |
 |---------------------------------------|-----|
-| [User:Dan](/wiki/User:Dan "User:Dan") |     |
+| [User%3ADan](/wiki/User%3ADan "User%3ADan") |     |
 
 |  |  |
 |----|----|
@@ -49,8 +49,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/User:Dan_Bolser_Bot" class="mw-redirect"
-title="User:Dan Bolser Bot">User:Dan Bolser Bot</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:Dan-20Bolser-20Bot "Special%3ABrowse/User:Dan-20Bolser-20Bot")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/User%3ADan_Bolser_Bot" class="mw-redirect"
+title="User%3ADan Bolser Bot">User%3ADan Bolser Bot</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3ADan-20Bolser-20Bot "Special%3ABrowse/User%3ADan-20Bolser-20Bot")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:Dan>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3ADan>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Dan "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3ADan "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Dan&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3ADan&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

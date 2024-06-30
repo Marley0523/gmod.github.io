@@ -147,7 +147,7 @@ annotated sequence.
 
 Active development of DIYA is currently on hiatus, pending the hiring of
 additional people to work on it. [Andrew
-Stewart](User:Stewarta "User:Stewarta"), one of DIYA's developers also
+Stewart](User%3AStewarta "User%3AStewarta"), one of DIYA's developers also
 has plans to convert the DIYA modules into a series of
 [Galaxy](Galaxy.1 "Galaxy") modules.
 
@@ -285,8 +285,8 @@ href="http://gmod.org/mediawiki/index.php?title=DIYA&amp;action=edit&amp;section
 title="Edit section: Status">edit</a><span
 class="mw-editsection-bracket">]</span></span></h3>
 Active development of DIYA is currently on hiatus, pending the hiring of
-additional people to work on it. <a href="User:Stewarta"
-title="User:Stewarta">Andrew Stewart</a>, one of DIYA's developers also
+additional people to work on it. <a href="User%3AStewarta"
+title="User%3AStewarta">Andrew Stewart</a>, one of DIYA's developers also
 has plans to convert the DIYA modules into a series of <a
 href="Galaxy.1" title="Galaxy">Galaxy</a> modules.dules into a series of
 <a href="Galaxy.1" title="Galaxy">Galaxy</a> modules. <span

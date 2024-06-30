@@ -51,11 +51,11 @@ GMOD will have a large number of representatives at [Plant and Animal
 Genome (PAG)](../PAG_2011 "PAG 2011") in San Diego this month. Three of
 them,
 
-- [Dan Blankenberg](../User:DanB "User:DanB") of the
+- [Dan Blankenberg](../User%3ADanB "User%3ADanB") of the
   [Galaxy](../Galaxy.1 "Galaxy") project,
-- [Mitch Skinner](../User:MitchSkinner "User:MitchSkinner"), lead
+- [Mitch Skinner](../User%3AMitchSkinner "User%3AMitchSkinner"), lead
   [JBrowse](../JBrowse.1 "JBrowse") developer, and
-- [Scott Cain](../User:Scott "User:Scott"), GMOD Project Coordinator
+- [Scott Cain](../User%3AScott "User%3AScott"), GMOD Project Coordinator
 
 are available to visit organizations in the San Diego area during the
 conference.
@@ -71,7 +71,7 @@ rel="nofollow">Mitch</a> and
 <a href="mailto:scott@scottcain.net" class="external text"
 rel="nofollow">Scott</a> directly.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy Project](../Galaxy.1 "Galaxy")
 
   

@@ -163,7 +163,7 @@ package for release</td>
 ## <span id="Meeting_Report" class="mw-headline">Meeting Report</span>
 
 Meeting report for October, 2005 GMOD meeting. This is an outline by
-[Scott Cain](User:Scott "User:Scott").
+[Scott Cain](User%3AScott "User%3AScott").
 
 Topics covered:
 

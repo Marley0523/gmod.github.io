@@ -43,7 +43,7 @@ updating controlled vocabulary and
 [ontology](Category%3AOntologies "Category%3AOntologies") terms in the
 [cvterm table](Chado_CV_Module#Table:_cvterm "Chado CV Module"). This
 script was contributed by [Naama
-Menda](User:NaamaMenda "User:NaamaMenda") and the developers at the
+Menda](User%3ANaamaMenda "User%3ANaamaMenda") and the developers at the
 <a href="http://www.sgn.cornell.edu/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> lead by Lukas Mueller.
 

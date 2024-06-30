@@ -82,7 +82,7 @@ Both positions will work with Chado and
 [GBrowse](../GBrowse.1 "GBrowse"), and will help evaluate the adoption
 of additional GMOD tools. See the links for more details.
 
-[Eric Ganko](../User:Eric.ganko "User:Eric.ganko")
+[Eric Ganko](../User%3AEric.ganko "User%3AEric.ganko")
 
   
 

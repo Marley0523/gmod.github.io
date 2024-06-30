@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User:Scott "User:Scott") at the
+Cain](User%3AScott "User%3AScott") at the
 <a href="PAG" class="mw-redirect" title="PAG">Plant and Animal Genomes
 Meeting</a> in January 2016 using JBrowse 1.12.0.
 

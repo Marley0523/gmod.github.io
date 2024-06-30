@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial will be taught by
-[Dave Clements](User:Clements "User:Clements") at the [2013 GMOD Summer
+[Dave Clements](User%3AClements "User%3AClements") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 <div id="toc" class="toc">

@@ -282,7 +282,7 @@ memory.
 
 ## <span id="PAG_Poster" class="mw-headline">PAG Poster</span>
 
-[Robert Buels](User:RobertBuels "User:RobertBuels") gave a <a
+[Robert Buels](User%3ARobertBuels "User%3ARobertBuels") gave a <a
 href="http://www.nescent.org/wg/gmodevohackathon/images/3/3f/Gmod_evohack_poster.pdf"
 class="external text" rel="nofollow">poster on the hackathon</a> at [PAG
 2011](PAG_2011 "PAG 2011").
@@ -545,14 +545,14 @@ boundaries.
 
 # <span id="Organizing_Committee" class="mw-headline">Organizing Committee</span>
 
-- [Nicole Washington](User:NLWashington "User:NLWashington"), chair
-- [Sheldon McKay](User:Mckays "User:Mckays")
-- [Scott Cain](User:Scott "User:Scott")
-- <a href="User:RBuels" class="mw-redirect" title="User:RBuels">Robert
+- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), chair
+- [Sheldon McKay](User%3AMckays "User%3AMckays")
+- [Scott Cain](User%3AScott "User%3AScott")
+- <a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
   Buels</a>
-- <a href="http://informatics.nescent.org/wiki/User:Hlapp"
+- <a href="http://informatics.nescent.org/wiki/User%3AHlapp"
   class="external text" rel="nofollow">Hilmar Lapp</a>
-- [Dave Clements](User:Clements "User:Clements")
+- [Dave Clements](User%3AClements "User%3AClements")
 
 </div>
 

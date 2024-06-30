@@ -105,7 +105,7 @@ class="external text" rel="nofollow">bugs</a> or <a
 href="https://sourceforge.net/tracker/?atid=391294&amp;group_id=27707&amp;func=browse"
 class="external text" rel="nofollow">feature requests</a>.
 
-[Lincoln Stein](../User:Lstein "User:Lstein")
+[Lincoln Stein](../User%3ALstein "User%3ALstein")
 
   
 

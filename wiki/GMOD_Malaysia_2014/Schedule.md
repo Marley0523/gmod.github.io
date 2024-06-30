@@ -52,15 +52,15 @@ course begins.
 
 |  |  |  |
 |----|----|----|
-| Day 1, AM | [GMOD in the Cloud](../Cloud.1 "Cloud"), AWS walkthrough | [Scott Cain](../User:Scott "User:Scott") |
-| Day 1, AM | [GFF3](GFF3_Tutorial "GMOD Malaysia 2014/GFF3 Tutorial") | [Michael Campbell](../User:Michael_Campbell "User:Michael Campbell") |
-| Day 1, AM/PM | [MAKER](MAKER_Tutorial "GMOD Malaysia 2014/MAKER Tutorial") | [Michael Campbell](../User:Michael_Campbell "User:Michael Campbell") |
-| Day 1, PM/Day 2 AM | [Tripal](Tripal_Tutorial "GMOD Malaysia 2014/Tripal Tutorial") | [Scott Cain](../User:Scott "User:Scott") |
-| Day 2, AM | [Chado](Chado_Tutorial "GMOD Malaysia 2014/Chado Tutorial") | [Scott Cain](../User:Scott "User:Scott") |
-| Day 2, AM/PM | [Galaxy](Galaxy_Tutorial "GMOD Malaysia 2014/Galaxy Tutorial") | [Dave Clements](../User:Clements "User:Clements") |
-| Day 2, PM | Genome Browsers: [JBrowse](JBrowse_Tutorial "GMOD Malaysia 2014/JBrowse Tutorial") and [GBrowse](GBrowse_Tutorial "GMOD Malaysia 2014/GBrowse Tutorial") | [Scott Cain](../User:Scott "User:Scott") |
-| Day 3, AM | [InterMine](Intermine_Tutorial "GMOD Malaysia 2014/Intermine Tutorial") | [Alex Kalderimis](../User:Alexkalderimis "User:Alexkalderimis") |
-| Day 3, PM | [WebApollo](WebApollo_Tutorial "GMOD Malaysia 2014/WebApollo Tutorial") | [Scott Cain](../User:Scott "User:Scott")/[Michael Campbell](../User:Michael_Campbell "User:Michael Campbell") |
+| Day 1, AM | [GMOD in the Cloud](../Cloud.1 "Cloud"), AWS walkthrough | [Scott Cain](../User%3AScott "User%3AScott") |
+| Day 1, AM | [GFF3](GFF3_Tutorial "GMOD Malaysia 2014/GFF3 Tutorial") | [Michael Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") |
+| Day 1, AM/PM | [MAKER](MAKER_Tutorial "GMOD Malaysia 2014/MAKER Tutorial") | [Michael Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") |
+| Day 1, PM/Day 2 AM | [Tripal](Tripal_Tutorial "GMOD Malaysia 2014/Tripal Tutorial") | [Scott Cain](../User%3AScott "User%3AScott") |
+| Day 2, AM | [Chado](Chado_Tutorial "GMOD Malaysia 2014/Chado Tutorial") | [Scott Cain](../User%3AScott "User%3AScott") |
+| Day 2, AM/PM | [Galaxy](Galaxy_Tutorial "GMOD Malaysia 2014/Galaxy Tutorial") | [Dave Clements](../User%3AClements "User%3AClements") |
+| Day 2, PM | Genome Browsers: [JBrowse](JBrowse_Tutorial "GMOD Malaysia 2014/JBrowse Tutorial") and [GBrowse](GBrowse_Tutorial "GMOD Malaysia 2014/GBrowse Tutorial") | [Scott Cain](../User%3AScott "User%3AScott") |
+| Day 3, AM | [InterMine](Intermine_Tutorial "GMOD Malaysia 2014/Intermine Tutorial") | [Alex Kalderimis](../User%3AAlexkalderimis "User%3AAlexkalderimis") |
+| Day 3, PM | [WebApollo](WebApollo_Tutorial "GMOD Malaysia 2014/WebApollo Tutorial") | [Scott Cain](../User%3AScott "User%3AScott")/[Michael Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") |
 
 **Please fill out the <a
 href="https://docs.google.com/forms/d/1BB1PUjlEH7NGcUVIWbDC2FBfu1DGMBILARzVNJdzw_4/viewform"
@@ -68,11 +68,11 @@ class="external text" rel="nofollow">end of course survey</a>**
 
 ## <span id="Course_Tutors" class="mw-headline">Course Tutors</span>
 
-**[Scott Cain](../User:Scott "User:Scott")**
+**[Scott Cain](../User%3AScott "User%3AScott")**
 
-**[Michael Campbell](../User:Michael_Campbell "User:Michael Campbell")**
+**[Michael Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell")**
 
-**[Dave Clements](../User:Clements "User:Clements")**
+**[Dave Clements](../User%3AClements "User%3AClements")**
 
 I work on the [Galaxy](../Galaxy.1 "Galaxy") Project for Johns Hopkins
 University, where I organize meetings and courses, prepare training
@@ -98,7 +98,7 @@ rel="nofollow">Phillips Lab</a> in the
 rel="nofollow">Center for Ecology and Evolutionary Biology (CEEB)</a>,
 also at Oregon.
 
-**[Alex Kalderimis](../User:Alexkalderimis "User:Alexkalderimis")**
+**[Alex Kalderimis](../User%3AAlexkalderimis "User%3AAlexkalderimis")**
 
 I work on the [InterMine](../InterMine "InterMine") project for the
 University of Cambridge, developing the core InterMine data-warehouse

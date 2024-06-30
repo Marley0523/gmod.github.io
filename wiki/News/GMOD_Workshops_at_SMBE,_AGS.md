@@ -74,10 +74,10 @@ href="../Apollo.1" title="Apollo">Apollo</a> genome curation tool. The
 workshop will also cover, in some depth, the <a href="../GBrowse_syn.1"
 title="GBrowse syn">GBrowse_syn</a> comparative genomics viewer, and the
 <a href="../MAKER.1" title="MAKER">MAKER</a> genome annotation pipeline
-for eukaryotes. Speakers (<a href="../User:Faga" title="User:Faga">Ben
-Faga</a>, <a href="../User:Mckays" title="User:Mckays">Sheldon
-McKay</a>, Mark Yandell, and <a href="../User:Clements"
-title="User:Clements">Dave Clements</a>) will address both existing
+for eukaryotes. Speakers (<a href="../User%3AFaga" title="User%3AFaga">Ben
+Faga</a>, <a href="../User%3AMckays" title="User%3AMckays">Sheldon
+McKay</a>, Mark Yandell, and <a href="../User%3AClements"
+title="User%3AClements">Dave Clements</a>) will address both existing
 functionality and ongoing developments specifically targeted at better
 supporting evolutionary data and research. No knowledge of programming
 is necessary.</p></td>
@@ -97,7 +97,7 @@ Kansas City, Missouri</td>
 class="external text" rel="nofollow">Chado Databases and Integration
 with GMOD Tools</a></strong><br />
 &#10;<p>Pre-Symposium Workshop - Thursday, June 11, 4:30-6:30 p.m.<br />
-<a href="../User:Scott" title="User:Scott">Scott Cain</a>, Ontario
+<a href="../User%3AScott" title="User%3AScott">Scott Cain</a>, Ontario
 Institute for Cancer Research, will provide training on <a
 href="../Chado" class="mw-redirect" title="Chado">Chado</a> database
 design, data loading and exporting, and integration with other GMOD
@@ -109,13 +109,13 @@ this optional workshop, but registration is requested.</p></td>
 </tbody>
 </table>
 
-Please let [Dave](../User:Clements "User:Clements") (SMBE) or
-[Scott](../User:Scott "User:Scott") (AGS) know if you have any questions
+Please let [Dave](../User%3AClements "User%3AClements") (SMBE) or
+[Scott](../User%3AScott "User%3AScott") (AGS) know if you have any questions
 about the workshops.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

@@ -43,8 +43,8 @@ was released today. This release of GBrowse comes with a variety of user
 interface enhancements, performance improvements, bug fixes and a
 security fix. This release come courtesy of considerable work from the
 GBrowse developers, most notably [Lincoln
-Stein](../User:Lstein "User:Lstein"), the lead developer and [Sheldon
-McKay](../User:Mckays "User:Mckays") who did much of the JavaScript
+Stein](../User%3ALstein "User%3ALstein"), the lead developer and [Sheldon
+McKay](../User%3AMckays "User%3AMckays") who did much of the JavaScript
 work. The release can be obtained from <a
 href="http://sourceforge.net/project/showfiles.php?group_id=27707&amp;package_id=34513&amp;release_id=621342"
 class="external text" rel="nofollow">SourceForge</a>, or, you can use
@@ -84,7 +84,7 @@ Finally, here is a list of the major changes since the 1.68 release:
 
 Thank you and happy GBrowsing,
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
 GMOD Project Coordinator
 

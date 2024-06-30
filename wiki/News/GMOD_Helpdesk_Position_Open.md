@@ -63,7 +63,7 @@ documentation; respond to mailing list help requests; present tutorials;
 organize short courses, conference sessions and other community building
 activities; survey user needs, and recruit members of the community to
 assist with these functions. The incumbent will collaborate closely with
-the GMOD Coordinator ([Scott Cain](../User:Scott "User:Scott"), The
+the GMOD Coordinator ([Scott Cain](../User%3AScott "User%3AScott"), The
 Ontario Institute for Cancer Research) and other distributed personnel.
 See [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk") for more
 background on the activities of the user support specialist. The salary

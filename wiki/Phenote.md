@@ -96,7 +96,7 @@ See
 
 - <a href="http://www.phenote.org/contact.shtml" class="external free"
   rel="nofollow">http://www.phenote.org/contact.shtml</a>
-- [Nicole Washington](User:NLWashington "User:NLWashington")
+- [Nicole Washington](User%3ANLWashington "User%3ANLWashington")
 
 ## <span id="Logo" class="mw-headline">Logo</span>
 

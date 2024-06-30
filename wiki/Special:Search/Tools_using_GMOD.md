@@ -1112,7 +1112,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...tutorial was presented by \[\[User:Scott\|Scott Cain\]\] as part of
+  ...tutorial was presented by \[\[User%3AScott\|Scott Cain\]\] as part of
   the \[\[2012 <span class="searchmatch">GMOD</span> Summer School\]\].
   Chado is the database schema of the
   <span class="searchmatch">GMOD</span> project. This session introduces

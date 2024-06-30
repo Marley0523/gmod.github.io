@@ -136,14 +136,14 @@ information on other events.
 
 | Participant | Affilliation(s) | URL |
 |----|----|----|
-| [Dave Clements](User:Clements "User:Clements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
+| [Dave Clements](User%3AClements "User%3AClements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
 rel="nofollow">http://nescent.org</a> <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> |
 | Fengyuan Hu | Department of Genetics, University of Cambridge |  |
 | Ellen Adlem | Cambridge University Cambridge Institue of Medical Research | <a href="http://www.t1dbase.org" class="external free"
 rel="nofollow">http://www.t1dbase.org</a> |
 | seth redmond | Imperial College / Vectorbase |  |
-| [Chris Hemmerich](User:Chemmeri "User:Chemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
+| [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
 rel="nofollow">http://cgb.indiana.edu</a> |
 | Jerven Bolleman | UniProt Swiss-Prot |  |
 | Oksana Riba Grognuz | Swiss Institute of Bioinformatics (SIB) Department of Ecology and Evolution, University of Lausanne |  |
@@ -151,12 +151,12 @@ rel="nofollow">http://cgb.indiana.edu</a> |
 rel="nofollow">http://www.pombase.org/</a> |
 | Stephen Taylor | CBRG, Oxford University | <a href="http://www.cbrg.ox.ac.uk/" class="external free"
 rel="nofollow">http://www.cbrg.ox.ac.uk/</a> |
-| [Scott Cain](User:Scott "User:Scott") | OICR | <a href="http://gmod.org/" class="external free"
+| [Scott Cain](User%3AScott "User%3AScott") | OICR | <a href="http://gmod.org/" class="external free"
 rel="nofollow">http://gmod.org/</a> |
 | joan pontius | SAIC-NCI-FREDERICK Laboratory of Genomic Diversity | <a href="http://lgd.abcc.ncifcrf.gov/cgi-bin/gbrowse/cat/"
 class="external free"
 rel="nofollow">http://lgd.abcc.ncifcrf.gov/cgi-bin/gbrowse/cat/</a> |
-| [Don Gilbert](User:Dongilbert "User:Dongilbert") | Indiana University (Don participated in a key pre-meeting discussion) | <a href="http://arthropods.eugenes.org/" class="external free"
+| [Don Gilbert](User%3ADongilbert "User%3ADongilbert") | Indiana University (Don participated in a key pre-meeting discussion) | <a href="http://arthropods.eugenes.org/" class="external free"
 rel="nofollow">http://arthropods.eugenes.org/</a> |
 
 ## <span id="Summary" class="mw-headline">Summary</span>
@@ -324,7 +324,7 @@ model could also be adopted.
 Key ideas here are network representation and navigation.
 
 Clade databases can also provide some insights here. An excerpt from and
-email from [Don Gilbert](User:Dongilbert "User:Dongilbert"):
+email from [Don Gilbert](User%3ADongilbert "User%3ADongilbert"):
 
 <div class="quotebox">
 

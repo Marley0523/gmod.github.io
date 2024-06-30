@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 Spectrogram.pm is a [GBrowse](GBrowse.1 "GBrowse") plugin written by
-[Sheldon McKay](User:Mckays "User:Mckays"). It draws DNA spectrograms of
+[Sheldon McKay](User%3AMckays "User%3AMckays"). It draws DNA spectrograms of
 DNA of digitized DNA sequences using techniques borrowed from the
 digital signal processing world. Graphical rendering is accomplished
 using the HSV color space. The color of the spot on the spectrogram

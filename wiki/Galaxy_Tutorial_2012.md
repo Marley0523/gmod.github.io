@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial was originally taught
-by [Dave Clements](User:Clements "User:Clements") at the [2012 GMOD
+by [Dave Clements](User%3AClements "User%3AClements") at the [2012 GMOD
 Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:

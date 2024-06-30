@@ -56,9 +56,9 @@ alt="Artemis" /></a>
 </div>
 
 This [Artemis-Chado Integration](Artemis "Artemis") tutorial was
-presented by [Robin Houston](User:RobinHouston "User:RobinHouston"),
-[Tim Carver](User:TimCarver "User:TimCarver") and [Giles
-Velarde](User:Buggy "User:Buggy") at the 2009 GMOD Summer School -
+presented by [Robin Houston](User%3ARobinHouston "User%3ARobinHouston"),
+[Tim Carver](User%3ATimCarver "User%3ATimCarver") and [Giles
+Velarde](User%3ABuggy "User%3ABuggy") at the 2009 GMOD Summer School -
 Europe, August 2009. The most recent Artemis tutorial can be found at
 the <a href="Artemis_Tutorial" class="mw-redirect"
 title="Artemis Tutorial">Artemis Tutorial</a> page.

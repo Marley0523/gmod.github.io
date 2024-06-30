@@ -54,7 +54,7 @@ width="250" height="59" alt="GBrowse" /></a>
 </div>
 
 This [GBrowse Next Generation Sequencing](GBrowse.1 "GBrowse") tutorial
-was presented by [Dave Clements](User:Clements "User:Clements") at the
+was presented by [Dave Clements](User%3AClements "User%3AClements") at the
 [Bioinformatics Australia 2009 (BA2009)](BA2009 "BA2009"), October 2009.
 The most recent GBrowse tutorial can be found at the [GBrowse
 Tutorial](GBrowse_Tutorial "GBrowse Tutorial") page.

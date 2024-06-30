@@ -82,7 +82,7 @@ rel="nofollow">membership requirements thread on the gmod-devel list</a>
 in the next two weeks. If we reach consensus and approval, we'll update
 the requirements.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

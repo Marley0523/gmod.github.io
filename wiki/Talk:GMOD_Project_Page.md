@@ -39,12 +39,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 How to create a new project in GMOD? --<a
-href="http://gmod.org/mediawiki/index.php?title=User:Mohpur&amp;action=edit&amp;redlink=1"
-class="new" title="User:Mohpur (page does not exist)">Mohpur</a> 11:58,
+href="http://gmod.org/mediawiki/index.php?title=User%3AMohpur&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AMohpur (page does not exist)">Mohpur</a> 11:58,
 30 June 2007 (EDT)
 
 - Hi Mohpur, the easiest thing to do is to contact
-  [me](User:Scott "User:Scott"). --[Scott](User:Scott "User:Scott")
+  [me](User%3AScott "User%3AScott"). --[Scott](User%3AScott "User%3AScott")
   12:19, 2 July 2007 (EDT)
 
 </div>

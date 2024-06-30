@@ -269,21 +269,21 @@ project staff:
 
 | Instructor | GMOD Affiliation | Affiliation |
 |----|----|----|
-| [Scott Cain](User:Scott "User:Scott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
+| [Scott Cain](User%3AScott "User%3AScott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a> |
-| [Dave Clements](User:Clements "User:Clements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> |
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.wsu.edu" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.wsu.edu" class="external text"
 rel="nofollow">Washington State University</a> |
 | Alex Kalderimis | [InterMine](InterMine "InterMine") | <a href="http://flymine.org" class="external text"
 rel="nofollow">FlyMine</a> |
-| [Barry Moore](User:Bmoore "User:Bmoore") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
+| [Barry Moore](User%3ABmoore "User%3ABmoore") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
 rel="nofollow">University of Utah</a> |
-| [Ed Lee](User:Elee "User:Elee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
+| [Ed Lee](User%3AElee "User%3AElee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects (BBOP)</a> |
-| [Sheldon McKay](User:Mckays "User:Mckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://iplantcollaborarive" class="external text"
+| [Sheldon McKay](User%3AMckays "User%3AMckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://iplantcollaborarive" class="external text"
 rel="nofollow">iPlant Collaborative</a> |
-| [Mitch Skinner](User:MitchSkinner "User:MitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
+| [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a> |
 
 # <span id="Prerequisites" class="mw-headline">Prerequisites</span>

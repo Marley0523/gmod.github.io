@@ -410,7 +410,7 @@ to look like this:
 
 # <span id="AUTHORS" class="mw-headline">AUTHORS</span>
 
-[Lincoln D. Stein](User:Lstein "User:Lstein") \<steinl@cshl.edu\> 20:24,
+[Lincoln D. Stein](User%3ALstein "User%3ALstein") \<steinl@cshl.edu\> 20:24,
 16 April 2007 (EDT) Adapted from instructions contributed by Yair Benita
 \<y.benita@wanadoo.nl\>.
 

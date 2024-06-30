@@ -288,13 +288,13 @@ University of Missouri.
 
 The personnel involved in WebApollo are: Suzanna Lewis (PI, LBNL); Ian
 Holmes (PI, UC Berkeley); Chris Elsik (PI, University of Missouri); [Ed
-Lee](../User:Elee "User:Elee") (LBNL); [Gregg
-Helt](../User:GreggHelt2 "User:GreggHelt2") (LBNL); [Justin
-Reese](../User:Justaddcoffee "User:Justaddcoffee") (University of
-Missouri); [Monica Munoz-Torres](../User:Moni "User:Moni") (LBNL);
-[Chris Childers](../User:Childers "User:Childers") (University of
+Lee](../User%3AElee "User%3AElee") (LBNL); [Gregg
+Helt](../User%3AGreggHelt2 "User%3AGreggHelt2") (LBNL); [Justin
+Reese](../User%3AJustaddcoffee "User%3AJustaddcoffee") (University of
+Missouri); [Monica Munoz-Torres](../User%3AMoni "User%3AMoni") (LBNL);
+[Chris Childers](../User%3AChilders "User%3AChilders") (University of
 Missouri); Rob Buels (UC Berkeley); [Mitch
-Skinner](../User:MitchSkinner "User:MitchSkinner") (UC Berkeley)
+Skinner](../User%3AMitchSkinner "User%3AMitchSkinner") (UC Berkeley)
 (Emeritus - developed first version of JBrowse); and Nomi Harris (LBNL)
 (Emeritus).
 

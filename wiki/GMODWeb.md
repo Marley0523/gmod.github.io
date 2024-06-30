@@ -92,9 +92,9 @@ rel="nofollow">http://sourceforge.net/projects/turnkey</a>.
 <a href="http://genomebiology.com/2008/9/6/R102" class="external text"
 rel="nofollow">GMODWeb: a web framework for the generic model organism
 database</a>,  
-by Brian D O'Connor, Allen Day, [Scott Cain](User:Scott "User:Scott"),
-Olivier Arnaiz, [Linda Sperling](User:Sperling "User:Sperling") and
-[Lincoln D Stein](User:Lstein "User:Lstein"), Genome Biology 2008,
+by Brian D O'Connor, Allen Day, [Scott Cain](User%3AScott "User%3AScott"),
+Olivier Arnaiz, [Linda Sperling](User%3ASperling "User%3ASperling") and
+[Lincoln D Stein](User%3ALstein "User%3ALstein"), Genome Biology 2008,
 9:R102. The publication describing GMODWeb
 
 [GMODWeb and Package Management](File:Jan2009GMODWebAndPackages.pdf "File:Jan2009GMODWebAndPackages.pdf")  

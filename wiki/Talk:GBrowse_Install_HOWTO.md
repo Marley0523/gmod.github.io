@@ -66,7 +66,7 @@ It would be good if the content of this page could be re-organized, as
 it seems to jump around a bit, and I think several sections could be
 placed on other (sub) pages. I'd do it... but I'm lazy, no wait, what I
 mean is that I don't want to start cutting and hacking away before I
-know what I am doing. --[DanBolser](User:DanBolser "User:DanBolser")
+know what I am doing. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 12:21, 28 October 2008 (UTC)
 
   
@@ -93,7 +93,7 @@ At least part of the answer to this question is: "Yes, you can use
 gbrowse_netinstall.pl as 'non-root', however, you should have your cpan
 configuration set up so that you can install Perl modules as a non-root
 user. It seems that mostly gbrowse_netinstall.pl uses cpan, so lets
-see... --[DanBolser](User:DanBolser "User:DanBolser") 15:00, 28 October
+see... --[DanBolser](User%3ADanBolser "User%3ADanBolser") 15:00, 28 October
 2008 (UTC)
 
   
@@ -121,14 +121,14 @@ More importantly see:
 <a href="http://search.cpan.org/search?query=local-lib"
 class="external free"
 rel="nofollow">http://search.cpan.org/search?query=local-lib</a>
---[DanBolser](User:DanBolser "User:DanBolser") 15:36, 14 January 2009
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 15:36, 14 January 2009
 (UTC)
 
 ## <span id="Question_about_Optional_Perl_modules" class="mw-headline">Question about **Optional Perl modules**</span>
 
 Are the Bio:: Perl modules listed in this section not part of BioPerl?
 Why are these modules listed separately from BioPerl?
---[DanBolser](User:DanBolser "User:DanBolser") 15:35, 14 January 2009
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 15:35, 14 January 2009
 (UTC)
 
 ## <span id="GBrowse_Quick_Install" class="mw-headline">GBrowse Quick Install</span>
@@ -159,7 +159,7 @@ Assuming:
     ## Aparently unused
       BIN=$HOME/perl5/bin
 
---[DanBolser](User:DanBolser "User:DanBolser") 13:35, 16 January 2009
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 13:35, 16 January 2009
 (UTC)
 
 </div>

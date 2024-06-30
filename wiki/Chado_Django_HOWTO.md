@@ -39,8 +39,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 --<a
-href="http://gmod.org/mediawiki/index.php?title=User:Vdejager&amp;action=edit&amp;redlink=1"
-class="new" title="User:Vdejager (page does not exist)">Vdejager</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AVdejager&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
 11:07, 1 September 2008 (UTC)
 
 <div id="toc" class="toc">

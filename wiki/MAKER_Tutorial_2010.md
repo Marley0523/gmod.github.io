@@ -54,7 +54,7 @@ width="250" height="85" alt="MAKER" /></a>
 </div>
 
 This [MAKER](MAKER.1 "MAKER") tutorial was presented by [Carson
-Holt](User:Carsonholt "User:Carsonholt") at the [2010 GMOD Summer
+Holt](User%3ACarsonholt "User%3ACarsonholt") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent MAKER tutorial can be found at the
@@ -2045,7 +2045,7 @@ The results window will provide a brief summery of the status of each
 contig in your job, and will give you the opportunity to download the
 data, or view the results for individual contigs. Click on **View in
 Apollo**. This will open your data in Apollo ([Ed
-Lee](User:Elee "User:Elee") will describe just how launching Apollo over
+Lee](User%3AElee "User%3AElee") will describe just how launching Apollo over
 the web works during the [Apollo](Apollo.1 "Apollo") section). Then
 close Apollo and click on **SOBA statistics**. This will open up a tool
 from the Sequence Ontology Consortium that provides simple summery

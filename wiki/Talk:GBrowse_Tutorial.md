@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 The links to the Administration Tutorials above are broken!
 
 - *Fixed now; thanks for pointing that out.*
-  [Scott](User:Scott "User:Scott") 19:57, 5 August 2011 (UTC)
+  [Scott](User%3AScott "User%3AScott") 19:57, 5 August 2011 (UTC)
 
 </div>
 

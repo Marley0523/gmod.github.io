@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Robert
-Buels](User:RobertBuels "User:RobertBuels") at the [2013 GMOD Summer
+Buels](User%3ARobertBuels "User%3ARobertBuels") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School") in July 2013
 using JBrowse 1.9.8.
 

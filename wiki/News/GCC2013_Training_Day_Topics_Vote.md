@@ -99,7 +99,7 @@ As always, please let me know if you have any questions.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")
+[Dave Clements](../User%3AClements "User%3AClements")
 
 |  |
 |----|

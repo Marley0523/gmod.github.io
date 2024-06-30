@@ -39,11 +39,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 I'm going to work intermittently on a
-[draft](User:JimHu/Gbrowse "User:JimHu/Gbrowse") for reorganizing the
+[draft](User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse") for reorganizing the
 Gbrowse documentation. My plan is to build it in my user namespace and
 show it to Dave to see if he wants to use it to replace the main docs.
 Since this is a wiki, others are welcome to modify what I'm doing.
---[JimHu](User:JimHu.1 "User:JimHu") 19:51, 10 August 2010 (UTC)
+--[JimHu](User%3AJimHu.1 "User%3AJimHu") 19:51, 10 August 2010 (UTC)
 
 </div>
 

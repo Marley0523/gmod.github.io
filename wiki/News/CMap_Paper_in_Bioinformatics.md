@@ -61,8 +61,8 @@ class="external text" rel="nofollow">Bioinformatics</a>*:
 href="http://bioinformatics.oxfordjournals.org/cgi/content/full/25/22/3040"
 class="external text" rel="nofollow">CMap 1.01: a comparative mapping
 application for the Internet</a>, by Ken Youens-Clark, [Ben
-Faga](../User:Faga "User:Faga"), Immanuel V. Yap, [Lincoln
-Stein](../User:Lstein "User:Lstein") and Doreen Ware.
+Faga](../User%3AFaga "User%3AFaga"), Immanuel V. Yap, [Lincoln
+Stein](../User%3ALstein "User%3ALstein") and Doreen Ware.
 
 [CMap](../CMap.1 "CMap") is a web-based tool for displaying and
 comparing maps of any type and from any species. Users can compare an
@@ -75,7 +75,7 @@ covered in the <a href="http://www.intl-pag.org/18/18-gramene.html"
 class="external text" rel="nofollow">Gramene workshop</a> and in a
 poster at [PAG 2010](../PAG_2010 "PAG 2010").
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

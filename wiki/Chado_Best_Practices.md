@@ -383,7 +383,7 @@ data-align="right" width="200px">
 all of prokaryotic molecular biology to being outside the realm of
 biologists who use the term "gene". Note that although the test refers
 to two proposals, they are not linked/or described. What the heck are
-they?!!! <a href="User:JimHu.1" title="User:JimHu">JimHu</a> 13:33, 10
+they?!!! <a href="User%3AJimHu.1" title="User%3AJimHu">JimHu</a> 13:33, 10
 April 2007 (EDT)</p></td>
 </tr>
 </tbody>

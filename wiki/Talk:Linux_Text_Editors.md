@@ -39,12 +39,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 Did an emacs lover write this page?
---[Cjfields](User:Cjfields "User:Cjfields") (<a
+--[Cjfields](User%3ACjfields "User%3ACjfields") (<a
 href="http://gmod.org/mediawiki/index.php?title=User_talk:Cjfields&amp;action=edit&amp;redlink=1"
 class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 23:01, 2 October 2013 (EDT)
 
-- I believe so :-) [Scott](User:Scott "User:Scott")
+- I believe so :-) [Scott](User%3AScott "User%3AScott")
   ([talk](User_talk:Scott "User talk:Scott")) 09:47, 3 October 2013
   (EDT)
 

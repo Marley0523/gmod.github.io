@@ -142,7 +142,7 @@ to the tool.
 ### <span id="Evaluation" class="mw-headline">Evaluation</span>
 
 Nominated software is first evaluated by GMOD staff (currently the [GMOD
-Project Coordinator](User:Scott "User:Scott") and the [GMOD Help
+Project Coordinator](User%3AScott "User%3AScott") and the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk")) to see if it meets basic
 [requirements](#Requirements) such as *open source licensing* and *GMOD
 interoperability*. We'll also confirm a *good faith commitment of

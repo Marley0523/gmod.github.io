@@ -89,7 +89,7 @@ rel="nofollow">here</a> or send your CV to
 <a href="mailto:Laurent.viau@bayercropscience.com" class="external text"
 rel="nofollow">Laurent Viau</a>
 
-[Erick Antezana](../User:ErickAntezana "User:ErickAntezana")
+[Erick Antezana](../User%3AErickAntezana "User%3AErickAntezana")
 
   
 

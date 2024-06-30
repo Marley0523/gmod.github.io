@@ -54,7 +54,7 @@ The following 3 pages are in this category, out of 3 total.
 
 ### B
 
-- [User:Brianfoley](User:Brianfoley "User:Brianfoley")
+- [User%3ABrianfoley](User%3ABrianfoley "User%3ABrianfoley")
 
 ### C
 

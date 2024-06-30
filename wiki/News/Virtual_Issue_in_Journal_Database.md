@@ -80,7 +80,7 @@ meeting last year</a>.
 
 I look forward to your ideas and commitments!
 
-[Scott Cain](../User:Scott "User:Scott")  
+[Scott Cain](../User%3AScott "User%3AScott")  
 GMOD Project Coordinator
 
   

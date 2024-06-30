@@ -1441,7 +1441,7 @@ Presentation](Hibernate_Presentation "Hibernate Presentation")
 *I think this eventually became what is described in the [Artemis-Chado
 Integration
 Tutorial](Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial").
-[Dave C.](User:Clements "User:Clements")*
+[Dave C.](User%3AClements "User%3AClements")*
 
 </div>
 
@@ -1616,14 +1616,14 @@ Presentation](InterMine_Presentation "InterMine Presentation")
 
 - Jeff Bowes, XenBase
 - Robert Bruggner, VectorBase
-- [Scott Cain](User:Scott "User:Scott"), GMOD
-- [Steve Fischer](User:Stevef "User:Stevef"), PlasmoDB/GUS
-- [Josh Goodman](User:Jogoodma "User:Jogoodma"),
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD
+- [Steve Fischer](User%3AStevef "User%3AStevef"), PlasmoDB/GUS
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma"),
   [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - Eric Just, [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
 - Sohel Merchant, DictyBase
 - Brian O'Connor, UCLA
-- [Brian Osborne](User:Bosborne "User:Bosborne"), GMOD
+- [Brian Osborne](User%3ABosborne "User%3ABosborne"), GMOD
 - Chinmay Patel, GeneDB
 - Pinglei Zhou, FlyBase
 - Gos Micklem, FlyMine/InterMine

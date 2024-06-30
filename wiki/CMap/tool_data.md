@@ -287,7 +287,7 @@ Program](../Spring_2010_Logo_Program "Spring 2010 Logo Program"), while
 a design student at
 <a href="http://www.linn-benton.edu" class="external text"
 rel="nofollow">Linn-Benton Community College</a>. \| dev_ppl = Lincoln
-Stein, Doreen Ware, [Ben Faga](../User:Faga "User:Faga"),
+Stein, Doreen Ware, [Ben Faga](../User%3AFaga "User%3AFaga"),
 <a href="mailto:kclark@cshl.edu" class="external text"
 rel="nofollow">Ken Youens-Clark</a> \| dev_status = No development in
 several years. Future development at Gramene.org hopes to replace CMap

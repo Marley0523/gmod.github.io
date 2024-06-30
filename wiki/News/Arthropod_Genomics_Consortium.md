@@ -74,7 +74,7 @@ If you are an arthropod researcher, please consider <a
 href="http://arthropodgenomes.org/wiki/Main_Page#tab=Adding_data_to_this_wiki#tab=Adding_data_to_this_wiki"
 class="external text" rel="nofollow">joining this growing consortium</a>.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

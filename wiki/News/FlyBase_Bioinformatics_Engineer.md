@@ -74,7 +74,7 @@ databases (MODs). Loading and preprocessing of data for these systems
 will be performed at the Harvard University FlyBase site so close
 coordination with developers there will also be required.
 
-[Josh Goodman](../User:Jogoodma "User:Jogoodma")
+[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
 
   
 

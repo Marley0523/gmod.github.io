@@ -455,7 +455,7 @@ There is no set maximum number of tracks. As of about GBrowse 2.13,
 GBrowse works with more than 1,000 tracks. From this <a
 href="http://gmod.827538.n3.nabble.com/http://gmod.827538.n3.nabble.com/Turn-some-Wiggle-tracks-off-when-no-value-in-selected-region-tp946842p946842.html"
 class="external text" rel="nofollow">email thread (Kai Xia, 2010/07</a>,
-[Lincoln Stein](User:Lstein "User:Lstein") said:
+[Lincoln Stein](User%3ALstein "User%3ALstein") said:
 
 <div class="quotebox">
 

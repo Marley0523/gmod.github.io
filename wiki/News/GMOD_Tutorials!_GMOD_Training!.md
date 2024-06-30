@@ -74,35 +74,35 @@ The [tutorials](../Category%3ATutorials "Category%3ATutorials") are:
 
 - **<a href="../Apollo_Tutorial" class="mw-redirect"
   title="Apollo Tutorial">Apollo Tutorial</a>** - by [Ed
-  Lee](../User:Elee "User:Elee")
+  Lee](../User%3AElee "User%3AElee")
 - **[Artemis-Chado Integration
   Tutorial](../Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial")** -
-  by [Robin Houston](../User:RobinHouston "User:RobinHouston"), [Tim
-  Carver](../User:TimCarver "User:TimCarver") and [Giles
-  Velarde](../User:Buggy "User:Buggy")
+  by [Robin Houston](../User%3ARobinHouston "User%3ARobinHouston"), [Tim
+  Carver](../User%3ATimCarver "User%3ATimCarver") and [Giles
+  Velarde](../User%3ABuggy "User%3ABuggy")
 - **[BioMart Tutorial](../BioMart_Tutorial "BioMart Tutorial")** - by
-  [Junjun Zhang](../User:Junjun "User:Junjun") and [Syed
-  Haider](../User:SyedHaider "User:SyedHaider")
+  [Junjun Zhang](../User%3AJunjun "User%3AJunjun") and [Syed
+  Haider](../User%3ASyedHaider "User%3ASyedHaider")
 - **<a href="../Chado_Tutorial" class="mw-redirect"
   title="Chado Tutorial">Chado Tutorial</a>** - by [Scott
-  Cain](../User:Scott "User:Scott"), [Joshua
-  Orvis](../User:Jorvis "User:Jorvis"), and [Dave
-  Clements](../User:Clements "User:Clements")
+  Cain](../User%3AScott "User%3AScott"), [Joshua
+  Orvis](../User%3AJorvis "User%3AJorvis"), and [Dave
+  Clements](../User%3AClements "User%3AClements")
 - **[GBrowse Tutorial](../GBrowse_Tutorial "GBrowse Tutorial")** - by
-  [Scott Cain](../User:Scott "User:Scott") and [Sheldon
-  McKay](../User:Mckays "User:Mckays")
+  [Scott Cain](../User%3AScott "User%3AScott") and [Sheldon
+  McKay](../User%3AMckays "User%3AMckays")
 - **<a href="../GBrowse_syn_Tutorial" class="mw-redirect"
   title="GBrowse syn Tutorial">GBrowse_syn Tutorial</a>** - by [Sheldon
-  McKay](../User:Mckays "User:Mckays")
+  McKay](../User%3AMckays "User%3AMckays")
 - **<a href="../JBrowse_Tutorial" class="mw-redirect"
   title="JBrowse Tutorial">JBrowse Tutorial</a>** - by [Mitch
-  Skinner](../User:MitchSkinner "User:MitchSkinner") and Ian Holmes
+  Skinner](../User%3AMitchSkinner "User%3AMitchSkinner") and Ian Holmes
 - **<a href="../MAKER_Tutorial" class="mw-redirect"
   title="MAKER Tutorial">MAKER Tutorial</a>** - by [Carson
-  Holt](../User:Carsonholt "User:Carsonholt")
+  Holt](../User%3ACarsonholt "User%3ACarsonholt")
 - **<a href="../Tripal_Tutorial" class="mw-redirect"
   title="Tripal Tutorial">Tripal Tutorial</a>** - by [Stephen
-  Ficklin](../User:Sficklin "User:Sficklin")
+  Ficklin](../User%3ASficklin "User%3ASficklin")
 
   
 There is also a plethora of GMOD related [training and
@@ -214,7 +214,7 @@ pipeline</a></strong></td>
 </tbody>
 </table>
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

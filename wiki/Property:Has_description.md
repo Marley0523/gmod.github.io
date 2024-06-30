@@ -155,7 +155,7 @@ currently used to take nucleotide sequence contigs as input, either in
 the form of complete genomes or the result of shotgun sequencing, and
 produce an annotated sequence. === Status === Active development of DIYA
 is currently on hiatus, pending the hiring of additional people to work
-on it. [[User:Stewarta|Andrew Stewart]], one of DIYA's developers also
+on it. [[User%3AStewarta|Andrew Stewart]], one of DIYA's developers also
 has plans to convert the DIYA modules into a series of [[Galaxy]]
 modules.  <span class="smwsearch"><a
 href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FDIYA-20%28Do-2DIt-2DYourself-20Annotator%29-20is-20a-20modular-20and-20configurable-20open-20source-20pipeline-20framework%2C-20written-20in-20Perl%2C-20used-20for-20the-20rapid-20annotation-20of-20microbial-20genome-20sequences.-20The-20software-20is-20currently-20used-20to-20take-20nucleotide-20sequence-20contigs-20as-20input%2C-20either-20in-20the-20form-20of-20complete-20genomes-20or-20the-20result-20of-20shotgun-20sequencing%2C-20and-20produce-20an-20annotated-20sequence.-0A-0A%3D%3D%3D-20Status-20%3D%3D%3D-0A-0AActive-20development-20of-20DIYA-20is-20currently-20on-20hiatus%2C-20pending-20the-20hiring-20of-20additional-20people-20to-20work-20on-20it.-20-20-5B-5BUser%3AStewarta-7CAndrew-20Stewart-5D-5D%2C-20one-20of-20DIYA%27s-20developers-20also-20has-20plans-20to-20convert-20the-20DIYA-20modules-20into-20a-20series-20of-20-5B-5BGalaxy-5D-5D-20modules."

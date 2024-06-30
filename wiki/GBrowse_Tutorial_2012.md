@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 This [GBrowse](GBrowse.1 "GBrowse") tutorial was taught at the [2012
 GMOD Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School")
-by [Scott Cain](User:Scott "User:Scott").
+by [Scott Cain](User%3AScott "User%3AScott").
 
 To follow along with the tutorial, you will need to use **AMI ID:
 ami-5bab1c32, name: GMOD 2012 day 4 start**, available in the US East

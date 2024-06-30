@@ -117,7 +117,7 @@ comments and suggestions.
   [Textpresso](Textpresso "Textpresso") and possible improvements,
   additions.
 
-[Dongilbert](User:Dongilbert "User:Dongilbert") 18:14, 7 December 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 18:14, 7 December 2007
 (EST)
 
 ## <span id="Chado_Documentation_Reorganization" class="mw-headline">Chado Documentation Reorganization</span>

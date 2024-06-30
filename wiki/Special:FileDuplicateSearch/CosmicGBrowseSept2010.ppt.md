@@ -54,8 +54,8 @@ MIME type: application/pdf
 The file "CosmicGBrowseSept2010.ppt" has 1 identical duplication.
 
 1.  [CosmicGBrowseSept2010.pdf](/wiki/File:CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")
-    . . <a href="/wiki/User:Clements" class="mw-userlink"
-    title="User:Clements">Clements</a>
+    . . <a href="/wiki/User%3AClements" class="mw-userlink"
+    title="User%3AClements">Clements</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"
@@ -64,8 +64,8 @@ The file "CosmicGBrowseSept2010.ppt" has 1 identical duplication.
     [contribs](/wiki/Special:Contributions/Clements "Special:Contributions/Clements"))</span></span>
     . . 08:22, 23 September 2010
 2.  [CosmicGBrowseSept2010.ppt](/wiki/File:CosmicGBrowseSept2010.ppt "File:CosmicGBrowseSept2010.ppt")
-    . . <a href="/wiki/User:Clements" class="mw-userlink"
-    title="User:Clements">Clements</a>
+    . . <a href="/wiki/User%3AClements" class="mw-userlink"
+    title="User%3AClements">Clements</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"

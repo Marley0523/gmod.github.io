@@ -74,7 +74,7 @@ rel="nofollow">Taverna</a>, and
 <a href="http://weblab.cbi.pku.edu.cn/" class="external text"
 rel="nofollow">WebLab</a>
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

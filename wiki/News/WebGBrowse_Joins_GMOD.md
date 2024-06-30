@@ -90,7 +90,7 @@ class="external text" rel="nofollow">a tutorial</a>,
 class="external text" rel="nofollow">FAQ</a>, and a [user and support
 mailing list](../WebGBrowse.1#Mailing_Lists "WebGBrowse").
 
-[Ram Podicheti](../User:Mnrusimh "User:Mnrusimh")  
+[Ram Podicheti](../User%3AMnrusimh "User%3AMnrusimh")  
 <a href="http://cgb.indiana.edu/" class="external text"
 rel="nofollow">Center for Genomics and Bioinformatics</a>
 

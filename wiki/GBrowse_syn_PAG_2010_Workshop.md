@@ -124,7 +124,7 @@ scientists working with multiple sequence alignment data.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-[Sheldon McKay](User:Mckays "User:Mckays"),
+[Sheldon McKay](User%3AMckays "User%3AMckays"),
 <a href="http://modencode.org" class="external text"
 rel="nofollow">modENCODE</a> and
 <a href="http://www.iplantcollaborative.org/" class="external text"

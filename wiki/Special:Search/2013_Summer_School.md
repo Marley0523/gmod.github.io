@@ -148,7 +148,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...s presented by \[\[User:Scott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
   \[\[2012 GMOD <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. {{Template:AMI
   <span class="searchmatch">Summer</span>
@@ -452,7 +452,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...User:RobertBuels\|Robert Buels\]\] at the
+  ...User%3ARobertBuels\|Robert Buels\]\] at the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\] in July
@@ -570,7 +570,7 @@ School</a>" on this wiki!** See also the search results found.
   If you are <span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>, you are on the wrong
-  tutorial.\<br\> ...taught by \[\[User:Mckays\|Sheldon McKay\]\] as
+  tutorial.\<br\> ...taught by \[\[User%3AMckays\|Sheldon McKay\]\] as
   part of the \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\].
@@ -769,7 +769,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...ill be taught by \[\[User:Clements\|Dave Clements\]\] at the
+  ...ill be taught by \[\[User%3AClements\|Dave Clements\]\] at the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Get the starting image
@@ -793,7 +793,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...s presented by \[\[User:Scott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Or six years of
@@ -816,7 +816,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...s presented by \[\[User:Scott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Or six years of
@@ -862,7 +862,7 @@ School</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...taught by \[\[User:Mckays\|Sheldon McKay\]\] as part of the
+  ...taught by \[\[User%3AMckays\|Sheldon McKay\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. The starting image for

@@ -203,7 +203,7 @@ these errors by hand and reload.
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Don Gilbert](User:Dongilbert "User:Dongilbert")
+- [Don Gilbert](User%3ADongilbert "User%3ADongilbert")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 

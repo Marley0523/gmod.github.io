@@ -55,7 +55,7 @@ title="Category%3ASession (page does not exist)">Session</a></span><br />
 &#10;<p><a href="2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">2013 GMOD Summer School</a><br />
 19-23 July 2013<br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a></p></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><a href="File:2013-summer-school.png"
 class="image"><img
 src="../mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"

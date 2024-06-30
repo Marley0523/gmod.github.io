@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-From [Scott Cain](../User:Scott "User:Scott"):
+From [Scott Cain](../User%3AScott "User%3AScott"):
 
 I've just released Chado 1.23. This is a bug fix release with no changes
 to the schema from the 1.22 release. If you are upgrading from Chado 1.2

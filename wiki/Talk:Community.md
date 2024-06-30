@@ -42,7 +42,7 @@ Hello,
 
 Great idea. Unfortunately demo gives an error: The requested URL
 /communitydemo/demo.html was not found on this server.
-[Alpapan](User:Alpapan "User:Alpapan")
+[Alpapan](User%3AAlpapan "User%3AAlpapan")
 
 </div>
 

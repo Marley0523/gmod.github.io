@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                |     |
 |------------------------------------------------|-----|
-| [User:Junjun](/wiki/User:Junjun "User:Junjun") |     |
+| [User%3AJunjun](/wiki/User%3AJunjun "User%3AJunjun") |     |
 
 |  |  |
 |----|----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:Junjun>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3AJunjun>"
 
 </div>
 
@@ -94,7 +94,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Junjun "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3AJunjun "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Junjun&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3AJunjun&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

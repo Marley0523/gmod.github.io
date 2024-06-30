@@ -88,15 +88,15 @@ taxonomy</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="User:NaamaMenda"
-title="User:NaamaMenda">User:NaamaMenda</a></li>
+<li><a href="User%3ANaamaMenda"
+title="User%3ANaamaMenda">User%3ANaamaMenda</a></li>
 <li><a href="November_2007_GMOD_Meeting"
 title="November 2007 GMOD Meeting">November 2007 GMOD Meeting</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="r">R</h3>
 <ul>
-<li><a href="User:RobertBuels"
-title="User:RobertBuels">User:RobertBuels</a></li>
+<li><a href="User%3ARobertBuels"
+title="User%3ARobertBuels">User%3ARobertBuels</a></li>
 </ul></td>
 </tr>
 </tbody>

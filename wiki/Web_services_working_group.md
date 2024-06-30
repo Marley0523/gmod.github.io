@@ -74,7 +74,7 @@ the various MODs.
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma") -
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -

@@ -166,8 +166,8 @@ data-cellspacing="0">
 <td
 style="text-align: center; background-color: #ddffff;"><strong>Introduction
 and Overview</strong><br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a> and <a
-href="User:Clements" title="User:Clements">Dave Clements</a><br />
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
+href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
 Participant and instructor introductions, how the GMOD project works,
 what software tools are available in GMOD, how they interoperate, what
 resources are needed to get a GMOD installation up and running, and
@@ -196,7 +196,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="MAKER_Tutorial" class="mw-redirect" title="MAKER Tutorial">MAKER
 I</a></strong><br />
-<a href="User:Carsonholt" title="User:Carsonholt">Carson Holt</a><br />
+<a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson Holt</a><br />
 <a href="MAKER.1" title="MAKER">MAKER</a> overview, installation, basic
 configuration for annotating genomic sequence, re-annotation options,
 and improving annotation quality</td>
@@ -215,7 +215,7 @@ class="external text" rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="MAKER_Tutorial" class="mw-redirect" title="MAKER Tutorial">MAKER
 II</a></strong><br />
-<a href="User:Carsonholt" title="User:Carsonholt">Carson Holt</a><br />
+<a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson Holt</a><br />
 Advanced <a href="MAKER.1" title="MAKER">MAKER</a> configuration,
 re-annotation options, and improving annotation quality</td>
 </tr>
@@ -248,7 +248,7 @@ their projects with the rest of the group.
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="GBrowse_Tutorial"
 title="GBrowse Tutorial">GBrowse</a></strong><br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a><br />
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a><br />
 </td>
 </tr>
 <tr class="even">
@@ -263,7 +263,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="Galaxy_Tutorial" class="mw-redirect"
 title="Galaxy Tutorial">Galaxy</a></strong><br />
-<a href="User:JamesTaylor" title="User:JamesTaylor">James
+<a href="User%3AJamesTaylor" title="User%3AJamesTaylor">James
 Taylor</a><br />
 Introduction; Installation and configuration of Galaxy; Defining your
 own tools; ...</td>
@@ -273,7 +273,7 @@ own tools; ...</td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="JBrowse_Tutorial" class="mw-redirect"
 title="JBrowse Tutorial">JBrowse</a></strong><br />
-<a href="User:MitchSkinner" title="User:MitchSkinner">Mitch
+<a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
 Skinner</a><br />
 <a href="JBrowse.1" title="JBrowse">JBrowse</a> installation,
 configuration and administration; converting <a href="GFF3"
@@ -295,8 +295,8 @@ title="Glossary">JSON</a> and loading it into JBrowse.</td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="Chado_Tutorial" class="mw-redirect" title="Chado Tutorial">Chado
 I</a></strong><br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a> and <a
-href="User:Clements" title="User:Clements">Dave Clements</a></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
+href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 </tr>
 <tr class="odd">
 <td style="background-color: #ffffbb">1:00pm</td>
@@ -310,15 +310,15 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="Chado_Tutorial" class="mw-redirect" title="Chado Tutorial">Chado
 II</a></strong><br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a> and <a
-href="User:Clements" title="User:Clements">Dave Clements</a></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
+href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 </tr>
 <tr class="odd">
 <td style="background-color: #ffffbb">3:00pm</td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="Apollo_Tutorial" class="mw-redirect"
 title="Apollo Tutorial">Apollo</a></strong><br />
-<a href="User:Elee" title="User:Elee">Ed Lee</a><br />
+<a href="User%3AElee" title="User%3AElee">Ed Lee</a><br />
 Overview, basic installation, basic configuration, reading/writing data,
 and remote analyses. Custom installation (building Apollo from source),
 advanced configuration, and setting up customized Java Web Start
@@ -339,7 +339,7 @@ instance.</td>
 <td style="text-align: center; background-color: #ffeedd;"><strong><a
 href="GBrowse_syn_Tutorial" class="mw-redirect"
 title="GBrowse syn Tutorial">GBrowse_syn</a></strong><br />
-<a href="User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="even">
 <td style="background-color: #ffddcc">12:30pm</td>
@@ -353,7 +353,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ffeedd;"><strong><a
 href="Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">Tripal</a></strong><br />
-<a href="User:Sficklin" title="User:Sficklin">Stephen Ficklin</a><br />
+<a href="User%3ASficklin" title="User%3ASficklin">Stephen Ficklin</a><br />
 <a href="Tripal.1" title="Tripal">Tripal</a> is a web front end to <a
 href="Chado" class="mw-redirect" title="Chado">Chado</a> databases built
 on <a href="http://www.drupal.org/" class="external text"
@@ -366,8 +366,8 @@ administration.</td>
 <td
 style="text-align: center; background-color: #ffeedd;"><strong>Wrapup
 and Resources</strong><br />
-<a href="User:Clements" title="User:Clements">Dave Clements</a> and <a
-href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<a href="User%3AClements" title="User%3AClements">Dave Clements</a> and <a
+href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 </tr>
 <tr class="odd">
 <td style="background-color: #ffddcc">6:30pm</td>
@@ -381,21 +381,21 @@ Ends</td>
 
 | Instructor | GMOD Affiliation | Affiliation |
 |----|----|----|
-| [Scott Cain](User:Scott "User:Scott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
+| [Scott Cain](User%3AScott "User%3AScott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a> |
-| [Dave Clements](User:Clements "User:Clements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> |
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.genome.clemson.edu/" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">Clemson University Genomics Institute</a> |
-| [Carson Holt](User:Carsonholt "User:Carsonholt") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
+| [Carson Holt](User%3ACarsonholt "User%3ACarsonholt") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
 rel="nofollow">University of Utah</a> |
-| [Ed Lee](User:Elee "User:Elee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
+| [Ed Lee](User%3AElee "User%3AElee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects (BBOP)</a> |
-| [Sheldon McKay](User:Mckays "User:Mckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
+| [Sheldon McKay](User%3AMckays "User%3AMckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory</a> |
-| [Mitch Skinner](User:MitchSkinner "User:MitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
+| [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a> |
-| [James Taylor](User:JamesTaylor "User:JamesTaylor") | [Galaxy](Galaxy.1 "Galaxy") | <a href="http://www.emory.edu" class="external text"
+| [James Taylor](User%3AJamesTaylor "User%3AJamesTaylor") | [Galaxy](Galaxy.1 "Galaxy") | <a href="http://www.emory.edu" class="external text"
 rel="nofollow">Emory University</a> |
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>

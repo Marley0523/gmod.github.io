@@ -107,7 +107,7 @@ The course covered the following topics in detail:
 <tr class="odd">
 <td>Amazon Web Services set up</td>
 <td><a href="AWS_walkthrough" title="AWS walkthrough">Tutorial</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -118,7 +118,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a href="Chado" class="mw-redirect" title="Chado">Chado</a></td>
 <td><a href="Chado_Tutorial_2012"
 title="Chado Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -129,7 +129,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a href="Galaxy.1" title="Galaxy">Galaxy</a></td>
 <td><a href="Galaxy_Tutorial_2012"
 title="Galaxy Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Clements" title="User:Clements">Dave Clements</a></td>
+<td><a href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 <td><a href="http://galaxyproject.org/" class="external text"
 rel="nofollow">Galaxy Project</a>, <a href="http://emory.edu/"
 class="external text" rel="nofollow">Emory University</a><br />
@@ -139,7 +139,7 @@ class="external text" rel="nofollow">Emory University</a><br />
 <td><a href="GBrowse.1" title="GBrowse">GBrowse</a></td>
 <td><a href="GBrowse_Tutorial_2012"
 title="GBrowse Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -150,7 +150,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse syn</a></td>
 <td><a href="GBrowse_syn_Tutorial_2012"
 title="GBrowse syn Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<td><a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 <td><a href="http://iplantcollaborative.org" class="external text"
 rel="nofollow">iPlant Collaborative</a>, <a href="http://www.cshl.edu"
 class="external text" rel="nofollow">CSHL</a><br />
@@ -161,7 +161,7 @@ href="GBrowse.1" title="GBrowse">GBrowse</a></td>
 <td><a href="GFF3" title="GFF3">GFF3</a></td>
 <td><a href="GFF_Tutorial_2012"
 title="GFF Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="Chado" class="mw-redirect"
@@ -172,7 +172,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a href="JBrowse.1" title="JBrowse">JBrowse</a></td>
 <td><a href="JBrowse_Tutorial_2012" class="mw-redirect"
 title="JBrowse Tutorial 2012">Tutorial</a></td>
-<td><a href="User:RBuels" class="mw-redirect" title="User:RBuels">Robert
+<td><a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
 Buels</a></td>
 <td><a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a><br />
@@ -182,7 +182,7 @@ rel="nofollow">University of California, Berkeley</a><br />
 <td><a href="MAKER.1" title="MAKER">MAKER</a></td>
 <td><a href="MAKER_Tutorial_2012"
 title="MAKER Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Bmoore" title="User:Bmoore">Barry Moore</a></td>
+<td><a href="User%3ABmoore" title="User%3ABmoore">Barry Moore</a></td>
 <td><a href="http://utah.edu" class="external text"
 rel="nofollow">University of Utah</a><br />
 <a href="MAKER.1" title="MAKER">MAKER</a></td>
@@ -191,7 +191,7 @@ rel="nofollow">University of Utah</a><br />
 <td><a href="SOBA.1" title="SOBA">SOBA</a></td>
 <td><a href="SOBA_Tutorial_2012"
 title="SOBA Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Bmoore" title="User:Bmoore">Barry Moore</a></td>
+<td><a href="User%3ABmoore" title="User%3ABmoore">Barry Moore</a></td>
 <td><a href="http://www.utah.edu" class="external text"
 rel="nofollow">University of Utah</a><br />
 <a href="MAKER.1" title="MAKER">MAKER</a></td>
@@ -200,7 +200,7 @@ rel="nofollow">University of Utah</a><br />
 <td><a href="Tripal.1" title="Tripal">Tripal</a></td>
 <td><a href="Tripal_Tutorial_(v1.0)"
 title="Tripal Tutorial (v1.0)">Tutorial</a></td>
-<td><a href="User:Sficklin" title="User:Sficklin">Stephen
+<td><a href="User%3ASficklin" title="User%3ASficklin">Stephen
 Ficklin</a></td>
 <td><a href="http://www.wsu.edu" class="external text"
 rel="nofollow">Washington State University</a><br />
@@ -210,7 +210,7 @@ rel="nofollow">Washington State University</a><br />
 <td><a href="WebApollo.1" title="WebApollo">WebApollo</a></td>
 <td><a href="WebApollo_Tutorial_2012"
 title="WebApollo Tutorial 2012">Tutorial</a></td>
-<td><a href="User:Elee" title="User:Elee">Ed Lee</a></td>
+<td><a href="User%3AElee" title="User%3AElee">Ed Lee</a></td>
 <td><a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects
 (BBOP)</a><br />

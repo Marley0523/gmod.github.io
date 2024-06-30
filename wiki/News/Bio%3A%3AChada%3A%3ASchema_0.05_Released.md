@@ -60,7 +60,7 @@ wiki page for more on what
 [Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") is and
 what it's for.
 
-[Rob Buels](../User:RobertBuels "User:RobertBuels")  
+[Rob Buels](../User%3ARobertBuels "User%3ARobertBuels")  
 [SGN](../Category%3ASGN "Category%3ASGN")
 
   

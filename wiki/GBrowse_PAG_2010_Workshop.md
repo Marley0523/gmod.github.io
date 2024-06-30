@@ -153,7 +153,7 @@ material presented at this workshop.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca/" class="external text"
   rel="nofollow">Ontario Institute for Cancer Research</a>
 

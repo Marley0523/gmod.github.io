@@ -73,8 +73,8 @@ Page</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User:Dongilbert"
-title="User:Dongilbert">User:Dongilbert</a></li>
+<li><a href="User%3ADongilbert"
+title="User%3ADongilbert">User%3ADongilbert</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="g">G</h3>
 <ul>

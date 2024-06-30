@@ -157,7 +157,7 @@ rel="nofollow">http://www.uniprot.org/</a>
   - newly updated with full Daphnia genome, see notes at
     [LuceGene_for_Daphnia_genome](LuceGene_for_Daphnia_genome "LuceGene for Daphnia genome")
 
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:25, 4 September 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:25, 4 September 2007
 (EDT)
 
 - Demonstration server is available at

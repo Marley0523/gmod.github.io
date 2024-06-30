@@ -86,8 +86,8 @@ Meeting](../August_2009_GMOD_Meeting "August 2009 GMOD Meeting"), and
 the <a href="http://openflydata.org" class="external text"
 rel="nofollow">OpenFlyData web site</a>.
 
-[Jun Zhou](../User:JunZhao "User:JunZhao") and [Dave
-Clements](../User:Clements "User:Clements")
+[Jun Zhou](../User%3AJunZhao "User%3AJunZhao") and [Dave
+Clements](../User%3AClements "User%3AClements")
 
   
 

@@ -180,16 +180,16 @@ was initially managed by NESCent.
 title="bp:Brian">Brian Osborne</a> started the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk") in 2006 and, among other things,
 created this wiki. In 2007 [Dave
-Clements](User:Clements "User:Clements") took over, who held the
+Clements](User%3AClements "User%3AClements") took over, who held the
 position until the end of 2010 (when he moved to the
 [Galaxy](Galaxy.1 "Galaxy") project). [Amelia
-Ireland](User:Girlwithglasses "User:Girlwithglasses") was Community
+Ireland](User%3AGirlwithglasses "User%3AGirlwithglasses") was Community
 Support Specialist from July 2012 to May 2014, when grant funding ran
 out.
 
 Some community support functions are also provided by several other
 members of the GMOD community, notably [Scott
-Cain](User:Scott "User:Scott"), the GMOD Project Coordinator.
+Cain](User%3AScott "User%3AScott"), the GMOD Project Coordinator.
 
 The GMOD Help Desk was funded by <a
 href="http://crisp.cit.nih.gov/crisp/CRISP_LIB.getdoc?textkey=7234938&amp;p_grant_num=1R01HG004483-01&amp;p_query=&amp;ticket=&amp;p_audit_session_id=&amp;p_keywords="

@@ -55,7 +55,7 @@ title="Category%3ASession (page does not exist)">Session</a></span><br />
 &#10;<p><a href="2011_GMOD_Spring_Training"
 title="2011 GMOD Spring Training">2011 GMOD Spring Training</a><br />
 8-12 March 2011<br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a></p></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><a href="File:GMODAmericas2011Logo.png"
 class="image"><img
 src="../mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/200px-GMODAmericas2011Logo.png"

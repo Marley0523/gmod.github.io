@@ -74,7 +74,7 @@ ISGA available for download -
 
 Cheers,
 
-[Chris Hemmerich](../User:Chemmeri "User:Chemmeri")
+[Chris Hemmerich](../User%3AChemmeri "User%3AChemmeri")
 
 <div class="newsfooter">
 

@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                            |     |
 |------------------------------------------------------------|-----|
-| [User:GreggHelt2](/wiki/User:GreggHelt2 "User:GreggHelt2") |     |
+| [User%3AGreggHelt2](/wiki/User%3AGreggHelt2 "User%3AGreggHelt2") |     |
 
 |  |  |
 |----|----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:GreggHelt2>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3AGreggHelt2>"
 
 </div>
 
@@ -94,7 +94,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:GreggHelt2 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3AGreggHelt2 "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:GreggHelt2&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3AGreggHelt2&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

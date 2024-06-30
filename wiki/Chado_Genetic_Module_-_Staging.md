@@ -312,7 +312,7 @@ Tables referencing this one via Foreign Key Constraints:
 Discussion  
 
 OPEN QUESTION: for multicopy transgenes, should we include a 'n_copies'
-column as well? -- [Brain Osborne](User:Bosborne "User:Bosborne"), Feb
+column as well? -- [Brain Osborne](User%3ABosborne "User%3ABosborne"), Feb
 2007
 
 ------------------------------------------------------------------------

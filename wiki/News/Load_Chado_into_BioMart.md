@@ -70,7 +70,7 @@ with this guide.
 
 Thanks,
 
-[Dave C.](../User:Clements "User:Clements")  
+[Dave C.](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

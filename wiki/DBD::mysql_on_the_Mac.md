@@ -56,7 +56,7 @@ in the comments.
   read, write and create databases). The stuff that Jay Allen mentioned
   about having to set lib and include directories should be handled
   properly by the* perl Makefile.PL *command, but aparently not in this
-  case.* [Scott](User:Scott "User:Scott") 13:49, 6 August 2007 (EDT)
+  case.* [Scott](User%3AScott "User%3AScott") 13:49, 6 August 2007 (EDT)
 
 </div>
 

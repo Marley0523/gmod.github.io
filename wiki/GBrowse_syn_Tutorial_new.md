@@ -56,7 +56,7 @@ width="250" height="80" alt="GBrowse syn" /></a>
 
 This [GBrowse syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented
 by [Sheldon McKay, iPlant Collaborative, University of
-Arizona](User:Mckays "User:Mckays") at the
+Arizona](User%3AMckays "User%3AMckays") at the
 <a href="http://www.k-state.edu/agc/symp2011/" class="external text"
 rel="nofollow">Arthropod Genomics Symposium 2011</a>, June 2011. The
 most recent GBrowse syn tutorial can be found at the

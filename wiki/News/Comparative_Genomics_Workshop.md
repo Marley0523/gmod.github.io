@@ -56,7 +56,7 @@ class="external text" rel="nofollow">series of lectures, demonstrations
 and computer laboratories</a> that cover various aspects of comparative
 genomics. Faculty include Anton Nekrutenko leading a session on
 [Galaxy](../Galaxy.1 "Galaxy") and [Sheldon
-McKay](../User:Mckays "User:Mckays") leading a session on
+McKay](../User%3AMckays "User%3AMckays") leading a session on
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn").
 
 The course is designed for established investigators, postdoctoral

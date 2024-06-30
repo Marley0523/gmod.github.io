@@ -80,7 +80,7 @@ We hope to see you at the upcoming [August 2009 GMOD
 Meeting](../August_2009_GMOD_Meeting "August 2009 GMOD Meeting"), in
 Oxford UK (and our first meeting in Europe).
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

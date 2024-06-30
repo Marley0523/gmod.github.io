@@ -56,7 +56,7 @@ register before September 13, the fee is \$40; after September 13, the
 fee goes to \$50. Note that due to space limitations, the attendance for
 the meeting is limited to 40 people.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

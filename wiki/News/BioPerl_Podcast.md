@@ -55,10 +55,10 @@ rel="nofollow">FLOSS Weekly</a>. It's about an hour long and it's a good
 introduction to [BioPerl](../BioPerl "BioPerl"), a set of libraries that
 many popular [GMOD Components](../GMOD_Components "GMOD Components") are
 built upon. The podcast is an interview with BioPerl heavy hitters
-[Chris Fields](../User:Cjfields "User:Cjfields") and [Jason
-Stajich](../User:Stajich "User:Stajich").
+[Chris Fields](../User%3ACjfields "User%3ACjfields") and [Jason
+Stajich](../User%3AStajich "User%3AStajich").
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 
   
 

@@ -123,18 +123,18 @@ used for prokarytic annotation and assembly.
   [Posters](Category%3APosters "Category%3APosters")
   - [Automated Annotation of NGS Transcriptome Data using ISGA and
     Ergatis](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
-    presented by [Chris Hemmerich](User:Chemmeri "User:Chemmeri") at
+    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at
     [BOSC 2010](ISMB_2010 "ISMB 2010")
   - [Integrative Services for Genomic Analysis (ISGA) - An Intuitive Web
     Server for Prokaryotic Genome Annotation and Other
     Analyses](File:ISGAISMB2010Poster.pdf "File:ISGAISMB2010Poster.pdf"),
-    poster by [Chris Hemmerich](User:Chemmeri "User:Chemmeri"), Aaron
+    poster by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"), Aaron
     Buechlein, Ram Podicheti, and Jeong-Hyeon Choi, presented at [ISMB
     2010](ISMB_2010 "ISMB 2010").
   - [Web-Based Bioinformatics Pipelines For Biologists: Integrative
     Services for Genomic Analysis
     (ISGA)](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
-    presented by [Chris Hemmerich](User:Chemmeri "User:Chemmeri") at the
+    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at the
     [January 2010 GMOD
     Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting").
 

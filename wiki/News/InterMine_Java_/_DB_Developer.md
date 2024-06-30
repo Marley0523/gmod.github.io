@@ -72,7 +72,7 @@ See the
 rel="nofollow">position announcement</a> for full details. The closing
 date for applications is 24 September 2010.
 
-[Richard Smith](../../User:Rsmith "User:Rsmith")
+[Richard Smith](../../User%3ARsmith "User%3ARsmith")
 
   
 

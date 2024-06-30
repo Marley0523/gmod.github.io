@@ -154,16 +154,16 @@ proposed by Kim Rutherford.
   rel="nofollow">T1DBase</a>
 - Gerd Anders, Max-Delbrueck-Centrum Berlin (MDC)
 - Jerven Bolleman, UniProt Swiss-Prot
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca" class="external text"
   rel="nofollow">OICR</a>
-- [Dave Clements](User:Clements "User:Clements"), [GMOD Help
+- [Dave Clements](User%3AClements "User%3AClements"), [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://nescent.org" class="external text"
   rel="nofollow">NESCent</a>
 - Oskana Riba Grognuz, Swiss Institute of Bioinformatics (SIB)
   Department of Ecology and Evolution, University of Lausanne
-- [Chris Hemmerich](User:Chemmeri "User:Chemmeri"),
+- [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
   <a href="http://cgb.indiana.edu" class="external text"
   rel="nofollow">CGB, Indiana University</a>
 - Joan Pontius, National Cancer Institute, SAIC

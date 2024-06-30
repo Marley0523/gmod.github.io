@@ -63,7 +63,7 @@ access to the materials and methods used in the life sciences.
 </div>
 
 This year's nominees include longtime GMOD contributor [Don
-Gilbert](../User:Dongilbert "User:Dongilbert"), of Indiana University.
+Gilbert](../User%3ADongilbert "User%3ADongilbert"), of Indiana University.
 Other 2010 nominees are Alex Bateman, David J. Lipman, G.P.S. Raghava,
 and John Quakenbush. Previous winners of the BFA include
 <a href="http://www.bioinformatics.org/franklin/2003/"
@@ -80,7 +80,7 @@ your vote.* If you are not already a member you will need to
 class="external text" rel="nofollow">join</a>, but basic membership is
 free.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

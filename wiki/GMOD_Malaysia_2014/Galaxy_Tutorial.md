@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [Galaxy](../Galaxy.1 "Galaxy") tutorial was presented by [Dave
-Clements](../User:Clements "User:Clements") at [GMOD Malaysia
+Clements](../User%3AClements "User%3AClements") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014.
 
 The most recent Galaxy tutorial can be found at the

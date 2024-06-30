@@ -174,7 +174,7 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Scott Cain](User:Scott "User:Scott")
+- [Scott Cain](User%3AScott "User%3AScott")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 

@@ -54,7 +54,7 @@ width="250" height="91" alt="Apollo" /></a>
 </div>
 
 This [Apollo](Apollo.1 "Apollo") tutorial was presented by [Ed
-Lee](User:Elee "User:Elee") at the [2010 GMOD Summer School -
+Lee](User%3AElee "User%3AElee") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Apollo tutorial can be found at the
 <a href="Apollo_Tutorial" class="mw-redirect"

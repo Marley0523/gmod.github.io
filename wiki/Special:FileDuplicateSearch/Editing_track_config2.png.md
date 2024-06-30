@@ -56,8 +56,8 @@ The file "Editing_track_config2.png" has 1 identical duplication.
 
 1.  [Editing track
     config.png](/wiki/File:Editing_track_config.png "File:Editing track config.png")
-    . . <a href="/wiki/User:Lstein" class="mw-userlink"
-    title="User:Lstein">Lstein</a> <span style="white-space: nowrap;">
+    . . <a href="/wiki/User%3ALstein" class="mw-userlink"
+    title="User%3ALstein">Lstein</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Lstein&amp;action=edit&amp;redlink=1"
     class="new" title="User talk:Lstein (page does not exist)">Talk</a>
@@ -66,8 +66,8 @@ The file "Editing_track_config2.png" has 1 identical duplication.
     . . 16:41, 25 January 2010
 2.  [Editing track
     config2.png](/wiki/File:Editing_track_config2.png "File:Editing track config2.png")
-    . . <a href="/wiki/User:Lstein" class="mw-userlink"
-    title="User:Lstein">Lstein</a> <span style="white-space: nowrap;">
+    . . <a href="/wiki/User%3ALstein" class="mw-userlink"
+    title="User%3ALstein">Lstein</a> <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Lstein&amp;action=edit&amp;redlink=1"
     class="new" title="User talk:Lstein (page does not exist)">Talk</a>

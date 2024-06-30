@@ -201,7 +201,7 @@ used successfully on TeraGrid clusters for analyzing several arthropod
 genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 "as-is" on computer clusters with PBS or LoadLeveler batch queues
 (TeraGrid is not required).
-[Dongilbert](User:Dongilbert "User:Dongilbert") 19:56, 26 June 2008
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 19:56, 26 June 2008
 (EDT)
 
 # <span id="References" class="mw-headline">References</span>
@@ -219,7 +219,7 @@ genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-[Don Gilbert](User:Dongilbert "User:Dongilbert")
+[Don Gilbert](User%3ADongilbert "User%3ADongilbert")
 
 Support provided by a grant from <a
 href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0640462"

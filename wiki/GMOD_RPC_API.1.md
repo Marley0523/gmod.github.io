@@ -264,7 +264,7 @@ In progress.
 ## <span id="Background" class="mw-headline">Background</span>
 
 This effort was started after [Josh
-Goodman](/wiki/User:Jogoodma "User:Jogoodma")'s talk at the [January
+Goodman](/wiki/User%3AJogoodma "User%3AJogoodma")'s talk at the [January
 2009 GMOD
 Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting")
 meeting titled "[MOD Web API (A RESTful interface for
@@ -277,7 +277,7 @@ currently in the proposal stage and have no been implemented at any
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](/wiki/User:Jogoodma "User:Jogoodma") -
+- [Josh Goodman](/wiki/User%3AJogoodma "User%3AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -
@@ -288,13 +288,13 @@ currently in the proposal stage and have no been implemented at any
   rel="nofollow">InterMine</a>
 - Giles Velarde - <a href="http://www.genedb.org" class="external text"
   rel="nofollow">GeneDB</a>
-- [Todd Harris](/wiki/User:Tharris "User:Tharris") -
+- [Todd Harris](/wiki/User%3ATharris "User%3ATharris") -
   <a href="http://www.wormbase.org" class="external text"
   rel="nofollow">WormBase</a>
-- [Jim Hu](/wiki/User:JimHu "User:JimHu") -
+- [Jim Hu](/wiki/User%3AJimHu "User%3AJimHu") -
   <a href="http://ecoliwiki.net" class="external text"
   rel="nofollow">EcoliWiki</a>
-- [Alex Kalderimis](/wiki/User:Alexkalderimis "User:Alexkalderimis") -
+- [Alex Kalderimis](/wiki/User%3AAlexkalderimis "User%3AAlexkalderimis") -
   <a href="http://www.intermine.org" class="external text"
   rel="nofollow">InterMine</a>
 - *Add your name here*

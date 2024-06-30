@@ -61,7 +61,7 @@ ISGA (pronounced "I-S-G-A") was created at
 <a href="http://cgb.indiana.edu/" class="external text"
 rel="nofollow">Indiana University's Center for Genomics and
 Bioinformatics (CGB)</a> by [Chris
-Hemmerich](../User:Chemmeri "User:Chemmeri"), Aaron Buechlein, Ram
+Hemmerich](../User%3AChemmeri "User%3AChemmeri"), Aaron Buechlein, Ram
 Podicheti, Kashi Revanna, and Qunfeng Dong. CGB also hosts a
 <a href="http://isga.cgb.indiana.edu/" class="external text"
 rel="nofollow">public installation of ISGA</a>.
@@ -81,7 +81,7 @@ it to the help desk</a> by August 6.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

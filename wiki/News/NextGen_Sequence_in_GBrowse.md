@@ -69,7 +69,7 @@ class="external text" rel="nofollow">SMBE</a> and the
 <a href="http://www.k-state.edu/agc/symp2009/seminar.html"
 class="external text" rel="nofollow">Arthropod Genomics Symposium</a>.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

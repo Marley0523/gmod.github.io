@@ -75,7 +75,7 @@ See the <a href="http://www.ebi.ac.uk/training/handson/DAS_070410.html"
 class="external text" rel="nofollow">workshop page</a> for more
 information and registration details.
 
-[Jonathan Warren](../User:JWarren "User:JWarren")
+[Jonathan Warren](../User%3AJWarren "User%3AJWarren")
 
   
 

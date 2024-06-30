@@ -135,7 +135,7 @@ The CMAE specific information is located in the "editor" directory.
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-- [Ben Faga](User:Faga "User:Faga")
+- [Ben Faga](User%3AFaga "User%3AFaga")
 
 </div>
 

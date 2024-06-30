@@ -81,8 +81,8 @@ and [BioMart
 Workshop](../BioMart_Workshop_-_GMOD_Europe_2010 "BioMart Workshop - GMOD Europe 2010")
 are **free**.
 
-[Scott Cain](../User:Scott "User:Scott") and [Dave
-Clements](../User:Clements "User:Clements")
+[Scott Cain](../User%3AScott "User%3AScott") and [Dave
+Clements](../User%3AClements "User%3AClements")
 
   
 

@@ -39,14 +39,14 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 How about making the list into a table?
---[DanBolser](User:DanBolser "User:DanBolser") 08:19, 13 August 2010
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 08:19, 13 August 2010
 (UTC)
 
 That sounds like a good idea, although IMO a definition list would be
 more semantically "correct". Needs to improve readability &
 organization, I agree. <a
-href="http://gmod.org/mediawiki/index.php?title=User:Cvandevelde&amp;action=edit&amp;redlink=1"
-class="new" title="User:Cvandevelde (page does not exist)">Chris</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3ACvandevelde&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
 18:07, 19 August 2010 (UTC)
 
 </div>

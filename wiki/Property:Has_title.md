@@ -237,10 +237,10 @@ href="Special%3ASearchByProperty/Has-20title/JBrowse-20demos"
 title="Special%3ASearchByProperty/Has-20title/JBrowse-20demos">+</a></span></td>
 </tr>
 <tr class="odd">
-<td class="smwpropname"><a href="User:JimHu/Gbrowse"
-title="User:JimHu/Gbrowse">JimHu/Gbrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/User:JimHu-2FGbrowse"
-title="Special%3ABrowse/User:JimHu-2FGbrowse">+</a></span></td>
+<td class="smwpropname"><a href="User%3AJimHu/Gbrowse"
+title="User%3AJimHu/Gbrowse">JimHu/Gbrowse</a> <span class="smwbrowse"><a
+href="Special%3ABrowse/User%3AJimHu-2FGbrowse"
+title="Special%3ABrowse/User%3AJimHu-2FGbrowse">+</a></span></td>
 <td class="smwprops">The generic genome browser: a building block for a
 model organism system database.  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database."

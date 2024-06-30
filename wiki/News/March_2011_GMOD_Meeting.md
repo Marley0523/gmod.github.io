@@ -102,7 +102,7 @@ This meeting, and all [GMOD Americas
 2011](../GMOD_Americas_2011 "GMOD Americas 2011") events, are jointly
 sponsored by NESCent and the [Galaxy](../Galaxy.1 "Galaxy") Project.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Project
 
   

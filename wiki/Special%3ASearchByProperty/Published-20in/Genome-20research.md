@@ -38,7 +38,7 @@ class="new"
 title="Property:Published in (page does not exist)">Published in</a>"
 with value "Genome research"  
 
-- [User:JimHu/Gbrowse](/wiki/User:JimHu/Gbrowse "User:JimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:JimHu-2FGbrowse "Special%3ABrowse/User:JimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
 
  
 

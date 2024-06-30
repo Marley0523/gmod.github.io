@@ -87,7 +87,7 @@ Meeting](../August_2009_GMOD_Meeting#GBrowse.org "August 2009 GMOD Meeting").
 
 Ciao,
 
-[Alessandra Bilardi](../User:Bilardi "User:Bilardi")  
+[Alessandra Bilardi](../User%3ABilardi "User%3ABilardi")  
 <a href="http://genomics.cribi.unipd.it/Main_Page" class="external text"
 rel="nofollow">CRIBI Genomics, University of Padua</a>
 

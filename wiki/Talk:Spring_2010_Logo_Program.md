@@ -44,7 +44,7 @@ This is awesome! We here at EcoliWiki are duly impressed with all the
 logos that the students came up with. Now, can we do something about the
 GBrowse interface?
 
---[DanielRenfro](User:DanielRenfro "User:DanielRenfro") 15:55, 15 July
+--[DanielRenfro](User%3ADanielRenfro "User%3ADanielRenfro") 15:55, 15 July
 2010 (UTC)
 
 </div>

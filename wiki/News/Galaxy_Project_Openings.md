@@ -76,7 +76,7 @@ rel="nofollow">any of us</a>, know if you have any questions.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Training and Outreach
 
   

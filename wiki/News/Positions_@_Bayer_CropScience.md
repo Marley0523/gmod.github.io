@@ -92,7 +92,7 @@ class="external text" rel="nofollow">here</a> or send your CV to
 <a href="mailto:yann-francois.bizouerne@bayer.com" class="external text"
 rel="nofollow">Yann-Francois Bizouerne</a>
 
-[Erick Antezana](../User:ErickAntezana "User:ErickAntezana")  
+[Erick Antezana](../User%3AErickAntezana "User%3AErickAntezana")  
 
   
 

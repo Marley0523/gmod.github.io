@@ -40,11 +40,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 What glyphs? Mine don't look like example (heatmap not histogram). Is
 example wrong? is settings missing? What?
---[DanBolser](User:DanBolser "User:DanBolser") 10:34, 4 May 2011 (UTC)
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 10:34, 4 May 2011 (UTC)
 
 - Hi Dan, you should get a density plot/heatmap. Can you please point
   out where there is an example with a histogram so it can be fixed?
-  Thanks, [Scott](User:Scott "User:Scott") 13:42, 4 May 2011 (UTC)
+  Thanks, [Scott](User%3AScott "User%3AScott") 13:42, 4 May 2011 (UTC)
 
 </div>
 

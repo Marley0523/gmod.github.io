@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [User:Girlwithglasses](/wiki/User:Girlwithglasses "User:Girlwithglasses") |  |
+| [User%3AGirlwithglasses](/wiki/User%3AGirlwithglasses "User%3AGirlwithglasses") |  |
 
 |  |  |
 |----|----|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/User:Girlwithglasses>"
+"<http://gmod.org/wiki/Special%3ABrowse/User%3AGirlwithglasses>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Girlwithglasses "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3AGirlwithglasses "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Girlwithglasses&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3AGirlwithglasses&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

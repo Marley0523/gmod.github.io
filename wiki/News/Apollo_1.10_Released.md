@@ -66,7 +66,7 @@ As always, you can download the current version at:
 class="external free"
 rel="nofollow">http://apollo.berkeleybop.org/current/install.html</a>
 
-[Ed Lee](../User:Elee "User:Elee")
+[Ed Lee](../User%3AElee "User%3AElee")
 
   
 

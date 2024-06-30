@@ -480,7 +480,7 @@ See also the search results found.
 
   <div class="searchresult">
 
-  ...\[\[User:RobertBuels\|Rob Buels\]\] and \[\[User:NaamaMenda\|Naama
+  ...\[\[User%3ARobertBuels\|Rob Buels\]\] and \[\[User%3ANaamaMenda\|Naama
   Menda\]\] and the <span class="searchmatch">rest</span> of the people
   at the \[http://solgenomics.net/ Sol Genomics Network (SGN)\] f
 

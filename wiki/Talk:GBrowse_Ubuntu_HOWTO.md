@@ -87,8 +87,8 @@ Then, the script can download the nightly bioperl-live file correctly
 and install it.
 
 --<a
-href="http://gmod.org/mediawiki/index.php?title=User:Mgenome&amp;action=edit&amp;redlink=1"
-class="new" title="User:Mgenome (page does not exist)">Mgenome</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AMgenome&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
 09:56, 18 March 2009 (UTC)
 
 </div>

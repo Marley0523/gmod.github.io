@@ -430,8 +430,8 @@ to create a new stock entity to represent the (temporarily) genetically
 altered organisms.
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Sethnr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Sethnr (page does not exist)">Sethnr</a> 11:37,
+href="http://gmod.org/mediawiki/index.php?title=User%3ASethnr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ASethnr (page does not exist)">Sethnr</a> 11:37,
 27 May 2010 (UTC) *even if described by two protocols we would then have
 to distinguish which genotype/phenotype/assay_prop values arose from
 which protocol. Simple in this case, but perhaps not in others. I
@@ -458,8 +458,8 @@ suspect adding the second assay will be less of a headache*
     as in approach 1
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Sethnr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Sethnr (page does not exist)">Sethnr</a> 11:37,
+href="http://gmod.org/mediawiki/index.php?title=User%3ASethnr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ASethnr (page does not exist)">Sethnr</a> 11:37,
 27 May 2010 (UTC) *it is arguable we could get away without a separate
 control stock. Whilst the knockdown is genotypically (-ish) different
 than the G3 line, and as such needs a separate entry in the stock table,

@@ -191,7 +191,7 @@ and 'every day of the week' respectively.
 ## <span id="Authors" class="mw-headline">Authors</span>
 
 The script described in this page was originally written by Chris
-Carpita and modified by [Scott Cain](User:Scott "User:Scott")
+Carpita and modified by [Scott Cain](User%3AScott "User%3AScott")
 
 </div>
 

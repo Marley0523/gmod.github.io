@@ -54,7 +54,7 @@ width="250" height="89" alt="Galaxy" /></a>
 </div>
 
 This [Galaxy](Galaxy.1 "Galaxy") tutorial was presented by [James
-Taylor](User:JamesTaylor "User:JamesTaylor") at the [2010 GMOD Summer
+Taylor](User%3AJamesTaylor "User%3AJamesTaylor") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Galaxy tutorial can be found at the

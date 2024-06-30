@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User:Scott "User:Scott") at the Programming for Biology at Cold
+Cain](User%3AScott "User%3AScott") at the Programming for Biology at Cold
 Spring Harbor Laboratory in October 2016 using JBrowse 1.12.1.
 
 This tutorial assumes an Ubuntu virtual machine at AWS (ami-47f1b050, in

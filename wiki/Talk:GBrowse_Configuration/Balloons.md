@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 You can use \$name when creating a custom balloon... What other
 variables can be used please?
---[DanBolser](../User:DanBolser "User:DanBolser") 09:44, 12 August 2010
+--[DanBolser](../User%3ADanBolser "User%3ADanBolser") 09:44, 12 August 2010
 (UTC)
 
 </div>

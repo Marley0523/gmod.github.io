@@ -50,7 +50,7 @@ The following 5 pages are in this category, out of 5 total.
 
 ### D
 
-- [User:Dongilbert](User:Dongilbert "User:Dongilbert")
+- [User%3ADongilbert](User%3ADongilbert "User%3ADongilbert")
 
 ### G
 

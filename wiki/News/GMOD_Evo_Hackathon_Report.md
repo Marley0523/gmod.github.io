@@ -157,7 +157,7 @@ handling of very large trees or large numbers of small trees. BioPerl
 now supports storing such trees in a lightweight database instead of in
 memory.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

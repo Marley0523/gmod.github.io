@@ -55,8 +55,8 @@ The file "PAG2010BovineGenomeDatabaseInfra.ppt" has 1 identical
 duplication.
 
 1.  [PAG2010BovineGenomeDatabase.ppt](/wiki/File:PAG2010BovineGenomeDatabase.ppt "File:PAG2010BovineGenomeDatabase.ppt")
-    . . <a href="/wiki/User:Clements" class="mw-userlink"
-    title="User:Clements">Clements</a>
+    . . <a href="/wiki/User%3AClements" class="mw-userlink"
+    title="User%3AClements">Clements</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"
@@ -65,8 +65,8 @@ duplication.
     [contribs](/wiki/Special:Contributions/Clements "Special:Contributions/Clements"))</span></span>
     . . 17:58, 21 January 2010
 2.  [PAG2010BovineGenomeDatabaseInfra.ppt](/wiki/File:PAG2010BovineGenomeDatabaseInfra.ppt "File:PAG2010BovineGenomeDatabaseInfra.ppt")
-    . . <a href="/wiki/User:Clements" class="mw-userlink"
-    title="User:Clements">Clements</a>
+    . . <a href="/wiki/User%3AClements" class="mw-userlink"
+    title="User%3AClements">Clements</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"

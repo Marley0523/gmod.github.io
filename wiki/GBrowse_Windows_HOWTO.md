@@ -186,8 +186,8 @@ ActiveState and/or Apache!). A few notes:
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Lincoln Stein](User:Lstein "User:Lstein")
-- [Scott Cain](User:Scott "User:Scott")
+- [Lincoln Stein](User%3ALstein "User%3ALstein")
+- [Scott Cain](User%3AScott "User%3AScott")
 
 </div>
 

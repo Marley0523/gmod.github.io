@@ -137,10 +137,10 @@ Bioinformatics Training Facility</a> for sponsoring and hosting the
 [GMOD Europe 2010](../GMOD_Europe_2010 "GMOD Europe 2010") events. I
 would also like to heap copious gratitude on Gos Micklem, Shelley
 Lawson, Dave Judge, Xose Fernandez, Syed Haider, and [Richard
-Smith](../User:Rsmith "User:Rsmith") for their work on making this event
+Smith](../User%3ARsmith "User%3ARsmith") for their work on making this event
 happen.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [Tripal](../Tripal.1 "Tripal") tutorial was presented by [Scott
-Cain](../User:Scott "User:Scott") at [GMOD Malaysia
+Cain](../User%3AScott "User%3AScott") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014. This
 tutorial requires Tripal version 1.1.
 

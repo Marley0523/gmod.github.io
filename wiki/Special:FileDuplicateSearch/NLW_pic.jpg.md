@@ -54,8 +54,8 @@ MIME type: image/jpeg
 The file "NLW_pic.jpg" has 1 identical duplication.
 
 1.  [NLW.jpg](/wiki/File:NLW.jpg "File:NLW.jpg") . .
-    <a href="/wiki/User:NLWashington" class="mw-userlink"
-    title="User:NLWashington">NLWashington</a>
+    <a href="/wiki/User%3ANLWashington" class="mw-userlink"
+    title="User%3ANLWashington">NLWashington</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:NLWashington&amp;action=edit&amp;redlink=1"
@@ -64,8 +64,8 @@ The file "NLW_pic.jpg" has 1 identical duplication.
     [contribs](/wiki/Special:Contributions/NLWashington "Special:Contributions/NLWashington"))</span></span>
     . . 02:14, 21 December 2009
 2.  [NLW pic.jpg](/wiki/File:NLW_pic.jpg "File:NLW pic.jpg") . .
-    <a href="/wiki/User:NLWashington" class="mw-userlink"
-    title="User:NLWashington">NLWashington</a>
+    <a href="/wiki/User%3ANLWashington" class="mw-userlink"
+    title="User%3ANLWashington">NLWashington</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:NLWashington&amp;action=edit&amp;redlink=1"

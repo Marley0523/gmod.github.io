@@ -61,7 +61,7 @@ If you have any statistics related to the project or GMOD Components,
 please add them to the [Project
 Statistics](../Project_Statistics "Project Statistics") page.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

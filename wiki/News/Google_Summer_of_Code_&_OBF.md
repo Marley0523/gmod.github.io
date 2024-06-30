@@ -72,7 +72,7 @@ project's GSoC wiki page.
 Thanks to all who helped make OBF's application to GSoC a success, and
 let's have a great, productive summer of code!
 
-[Rob Buels](../User:RobertBuels "User:RobertBuels")
+[Rob Buels](../User%3ARobertBuels "User%3ARobertBuels")
 
 <a href="http://open-bio.org/wiki/Google_Summer_of_Code"
 class="external text" rel="nofollow">OBF GSoC 2010 Administrator</a>

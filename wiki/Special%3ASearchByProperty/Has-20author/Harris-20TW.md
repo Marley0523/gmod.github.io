@@ -37,7 +37,7 @@ href="/mediawiki/index.php?title=Property:Has_author&amp;action=edit&amp;redlink
 class="new" title="Property:Has author (page does not exist)">Has
 author</a>" with value "Harris TW"  
 
-- [User:JimHu/Gbrowse](/wiki/User:JimHu/Gbrowse "User:JimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:JimHu-2FGbrowse "Special%3ABrowse/User:JimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
 - [News/GMOD Paper Cuts, Nov 15th,
   2013](/wiki/News/GMOD_Paper_Cuts,_Nov_15th,_2013 "News/GMOD Paper Cuts, Nov 15th, 2013")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013 "Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013")</span>
 

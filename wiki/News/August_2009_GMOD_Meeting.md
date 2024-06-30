@@ -83,7 +83,7 @@ Meeting](../August_2009_GMOD_Meeting "August 2009 GMOD Meeting") page.
 
 Please join us in Oxford this August,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

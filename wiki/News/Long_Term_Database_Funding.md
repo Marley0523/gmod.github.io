@@ -107,7 +107,7 @@ site</a>. And, if you aren't already doing so, make it easy for your
 users to cite your database by including an easy to find "Citing this
 resource" link on your site.
 
-[Dave Clements](../User:Clements "User:Clements")
+[Dave Clements](../User%3AClements "User%3AClements")
 
   
 

@@ -55,15 +55,15 @@ in Kansas City, Missouri, United States.
 
 - **Genome Project 101: We’ve got an assembly! Now What?**
 
-Thursday, June 9, 4:00-6:00pm, [Scott Cain](../User:Scott "User:Scott"),
-[Dave Clements](../User:Clements "User:Clements")
+Thursday, June 9, 4:00-6:00pm, [Scott Cain](../User%3AScott "User%3AScott"),
+[Dave Clements](../User%3AClements "User%3AClements")
 
 - **Comparative genomics with the generic synteny browser
   ([GBrowse_syn](../GBrowse_syn.1 "GBrowse syn")): Configuration and
   display of various co-linearity data types.**
 
 Saturday, June 11, 10:30-Noon, [Sheldon
-McKay](../User:Mckays "User:Mckays")
+McKay](../User%3AMckays "User%3AMckays")
 
 GMOD has a strong presence in the arthropod community and many GMOD
 users will also be attendance. Watch the [Arthropod Genomics
@@ -72,9 +72,9 @@ for additional talks and posters as the conference approaches.
 
 See you in Kansas City!
 
-[Scott Cain](../User:Scott "User:Scott"), [Dave
-Clements](../User:Clements "User:Clements"), and [Sheldon
-McKay](../User:Mckays "User:Mckays")
+[Scott Cain](../User%3AScott "User%3AScott"), [Dave
+Clements](../User%3AClements "User%3AClements"), and [Sheldon
+McKay](../User%3AMckays "User%3AMckays")
 
   
 

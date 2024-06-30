@@ -82,7 +82,7 @@ Components](../GMOD_Components "GMOD Components"), including
 [BioMart](../BioMart "BioMart"), and
 <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>.
 
-[Dave C.](../User:Clements "User:Clements")  
+[Dave C.](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

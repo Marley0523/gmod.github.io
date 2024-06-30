@@ -78,7 +78,7 @@ class="external text" rel="nofollow">call for nominations</a>.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")
+[Dave Clements](../User%3AClements "User%3AClements")
 
 on behalf of the ISB Nominating Committee:  
 Maria Costanzo, Dave Clements, Dawn Field, Mike Livstone, and Michele

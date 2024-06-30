@@ -67,7 +67,7 @@ JBrowse is a Web 2.0 genome browser that features:
 JBrowse features smooth panning, zooming, navigation, and track
 selection and sets a new standard for the genome browser interface.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

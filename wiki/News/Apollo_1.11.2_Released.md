@@ -48,7 +48,7 @@ rel="nofollow">http://apollo.berkeleybop.org/current/</a>
 
 Cheers,
 
-[Ed Lee](../User:Elee "User:Elee")
+[Ed Lee](../User%3AElee "User%3AElee")
 
   
 

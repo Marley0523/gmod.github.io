@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                |     |
 |------------------------------------------------|-----|
-| [User:Stevef](/wiki/User:Stevef "User:Stevef") |     |
+| [User%3AStevef](/wiki/User%3AStevef "User%3AStevef") |     |
 
 |  |  |
 |----|----|
@@ -48,8 +48,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/User:Sfischer_16" class="mw-redirect"
-title="User:Sfischer 16">User:Sfischer 16</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:Sfischer-2016 "Special%3ABrowse/User:Sfischer-2016")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/User%3ASfischer_16" class="mw-redirect"
+title="User%3ASfischer 16">User%3ASfischer 16</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3ASfischer-2016 "Special%3ABrowse/User%3ASfischer-2016")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 
 <div class="printfooter">
 
-Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User:Stevef>"
+Retrieved from "<http://gmod.org/wiki/Special%3ABrowse/User%3AStevef>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User:Stevef "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/User%3AStevef "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/User:Stevef&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/User%3AStevef&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

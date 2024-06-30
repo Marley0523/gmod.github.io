@@ -76,7 +76,7 @@ community members interested in contributing should join the
 <a href="http://sourceforge.net/mail/?group_id=295836"
 class="external text" rel="nofollow">mailing list</a>.
 
-[Chris Hemmerich](../User:Chemmeri "User:Chemmeri")
+[Chris Hemmerich](../User%3AChemmeri "User%3AChemmeri")
 
   
 

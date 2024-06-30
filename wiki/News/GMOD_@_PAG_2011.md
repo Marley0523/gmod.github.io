@@ -110,26 +110,26 @@ class="external text" rel="nofollow">GMOD Evo Hackathon</a>.
 
 Many [GMOD users](../PAG_2011#Projects_Using_GMOD_Components "PAG 2011")
 and GMOD developers, including [Stephen
-Ficklin](../User:Sficklin "User:Sficklin")
+Ficklin](../User%3ASficklin "User%3ASficklin")
 ([Tripal](../Tripal.1 "Tripal")), [Carson
-Holt](../User:Carsonholt "User:Carsonholt")
+Holt](../User%3ACarsonholt "User%3ACarsonholt")
 ([MAKER](../MAKER.1 "MAKER")), [Barry
-Moore](../User:Bmoore "User:Bmoore") ([SOBA](../SOBA.1 "SOBA"),
+Moore](../User%3ABmoore "User%3ABmoore") ([SOBA](../SOBA.1 "SOBA"),
 [MAKER](../MAKER.1 "MAKER")), [Dan
-Blankenberg](../User:DanB "User:DanB") ([Galaxy](../Galaxy.1 "Galaxy")),
-[Mitch Skinner](../User:MitchSkinner "User:MitchSkinner")
+Blankenberg](../User%3ADanB "User%3ADanB") ([Galaxy](../Galaxy.1 "Galaxy")),
+[Mitch Skinner](../User%3AMitchSkinner "User%3AMitchSkinner")
 ([JBrowse](../JBrowse.1 "JBrowse")), Ken Youens-Clark
-([CMap](../CMap.1 "CMap")), [Mike Caudy](../User:Mcaudy "User:Mcaudy")
+([CMap](../CMap.1 "CMap")), [Mike Caudy](../User%3AMcaudy "User%3AMcaudy")
 ([GMODviews](../GMODviews "GMODviews")), [Rob
-Buels](../User:RobertBuels "User:RobertBuels")
+Buels](../User%3ARobertBuels "User%3ARobertBuels")
 ([Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn")), and [Scott
-Cain](../User:Scott "User:Scott")
+Cain](../User%3AScott "User%3AScott")
 (<a href="../Chado" class="mw-redirect" title="Chado">Chado</a>,
 [GBrowse](../GBrowse.1 "GBrowse"), ...) will be attending PAG this year.
 Please seek each other out.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy Project](../Galaxy.1 "Galaxy")
 
 PS: In addition, three of the GMOD developers (Dan, Mitch, Scott) are

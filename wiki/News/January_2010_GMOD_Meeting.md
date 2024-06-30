@@ -83,7 +83,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>).
 
 Thanks and I look forward to seeing you in San Diego!
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
   
 

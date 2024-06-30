@@ -44,7 +44,7 @@ I believe the link
 <a href="http://sgdlite.princeton.edu/download/sgdlite/sgdlite.sql.gz"
 class="external free"
 rel="nofollow">http://sgdlite.princeton.edu/download/sgdlite/sgdlite.sql.gz</a>
-is dead... [Alpapan](User:Alpapan "User:Alpapan")
+is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
 
 </div>
 

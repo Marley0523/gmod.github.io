@@ -206,19 +206,19 @@ groups.
 
 | Time | Topic | Who | Presentation |
 |----|----|----|----|
-| 9:00 | Introductions | [Scott Cain](User:Scott "User:Scott") |  |
+| 9:00 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
 | 9:30 | The State of GMOD | Scott Cain | <a href="../mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt"
 class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
 | 10:10 | break |  |  |
-| 10:40 | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping | [Jim Hu](User:JimHu.1 "User:JimHu") |  |
-| 11:00 | More MediaWiki enhancements | [Sheldon McKay](User:Mckays "User:Mckays") | [Links...](User:Mckays#Links "User:Mckays") |
+| 10:40 | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping | [Jim Hu](User%3AJimHu.1 "User%3AJimHu") |  |
+| 11:00 | More MediaWiki enhancements | [Sheldon McKay](User%3AMckays "User%3AMckays") | [Links...](User%3AMckays#Links "User%3AMckays") |
 |  | [SGN](Category%3ASGN "Category%3ASGN") Community Annotation | Lukas Mueller | <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
 class="new" title="SGNGMOD2008.pdf">PDF</a> |
 |  | WikiMods & Chado API | Brad Arshinoff | <a href="../mediawiki/images/6/65/PerlChadoGMOD2008.pdf"
 class="internal" title="PerlChadoGMOD2008.pdf">PDF</a> |
 | 11:30 | Lunch |  |  |
-| 1:30 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User:Clements "User:Clements") | <a href="../mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal"
+| 1:30 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal"
 title="HelpDeskGMOD2008.pdf">PDF</a> <a href="../mediawiki/images/8/88/HelpDeskGMOD2008.ppt" class="internal"
 title="HelpDeskGMOD2008.ppt">PPT</a> |
 | 2:15 | Rearchitecting [Apollo](Apollo.1 "Apollo") and the need for a database independent Biological API layer | Ed Lee |  |
@@ -226,14 +226,14 @@ title="HelpDeskGMOD2008.ppt">PPT</a> |
 | 3:20 | [InterMine](InterMine "InterMine") and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | Richard Smith | <a href="../mediawiki/images/b/b3/IntermineGMOD2008.pdf"
 class="internal" title="IntermineGMOD2008.pdf">PDF</a> |
 | 3:50 | Show and Tell | "What I did with my Summer" |  |
-|  | [CMap](CMap.1 "CMap") | [Ben Faga](User:Faga "User:Faga") |  |
+|  | [CMap](CMap.1 "CMap") | [Ben Faga](User%3AFaga "User%3AFaga") |  |
 
 ## <span id="July_17" class="mw-headline">July 17</span>
 
 | Time | Topic | Who | Presentation |
 |----|----|----|----|
-| 9:00 | New things for [GBrowse](GBrowse.1 "GBrowse") 1.69 | [Sheldon McKay](User:Mckays "User:Mckays") |  |
-|  | GBrowse 2.0 and Roadmap | [Lincoln Stein](User:Lstein "User:Lstein") |  |
+| 9:00 | New things for [GBrowse](GBrowse.1 "GBrowse") 1.69 | [Sheldon McKay](User%3AMckays "User%3AMckays") |  |
+|  | GBrowse 2.0 and Roadmap | [Lincoln Stein](User%3ALstein "User%3ALstein") |  |
 | 9:30 | New things for GBrowse 3.0 | Ian Holmes | <a href="../mediawiki/images/2/23/GBrowse3GMOD2008.pdf" class="internal"
 title="GBrowse3GMOD2008.pdf">PDF</a> |
 | 10:00 | break |  |  |
@@ -268,12 +268,12 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     rel="nofollow">XanthusBase</a>
 3.  Jeff Bowes - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a>
-4.  [Robert Buels](User:RobertBuels "User:RobertBuels") -
+4.  [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") -
     <a href="http://www.sgn.cornell.edu" class="external text"
     rel="nofollow">Sol Genomics Network</a>
     ([SGN](Category%3ASGN "Category%3ASGN"))
-5.  [Scott Cain](User:Scott "User:Scott") - GMOD
-6.  [Dave Clements](User:Clements "User:Clements") -
+5.  [Scott Cain](User%3AScott "User%3AScott") - GMOD
+6.  [Dave Clements](User%3AClements "User%3AClements") -
     <a href="http://nescent.org" class="external text"
     rel="nofollow">NESCent</a>, GMOD
 7.  Sean Davey - BirdBase, U of Arizona
@@ -284,32 +284,32 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
 9.  Mary E Dolan
     <a href="http://www.informatics.jax.org/" class="external text"
     rel="nofollow">Mouse Genome Informatics, The Jackson Laboratory</a>
-10. [Ben Faga](User:Faga "User:Faga") - CSHL
+10. [Ben Faga](User%3AFaga "User%3AFaga") - CSHL
 11. Yunchen Gong - <a href="http://utoronto.ca" class="external text"
     rel="nofollow">University of Toronto</a>
-12. [Josh Goodman](User:Jogoodma "User:Jogoodma") -
+12. [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
     [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-13. [Todd Harris](User:Tharris "User:Tharris") -
+13. [Todd Harris](User%3ATharris "User%3ATharris") -
     <a href="http://www.wormbase.org/" class="external text"
     rel="nofollow">WormBase</a>
-14. [Chris Hemmerich](User:Chemmeri "User:Chemmeri") - Center for
+14. [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") - Center for
     Genomics and Bioinformatics, Indiana U.
 15. <a href="http://biowiki.org/IanHolmes" class="external text"
     rel="nofollow">Ian Holmes</a> - UC Berkeley
-16. [Jim Hu](User:JimHu.1 "User:JimHu") -
+16. [Jim Hu](User%3AJimHu.1 "User%3AJimHu") -
     <a href="http://ecoliwiki.net/" class="external text"
     rel="nofollow">EcoliWiki</a>, Texas A&M
 17. Thomas Keane -
     <a href="http://www/sanger.ac.uk" class="external text"
     rel="nofollow">Wellcome Trust Sanger Institute</a>
-18. [Ed Lee](User:Elee "User:Elee") -
+18. [Ed Lee](User%3AElee "User%3AElee") -
     <a href="http://www.berkeleybop.org" class="external text"
     rel="nofollow">BBOP</a> and [Apollo](Apollo.1 "Apollo")
 19. Suzi Lewis - BBOP
 20. Margie Manker -
     <a href="http://populargenetics.ca" class="external text"
     rel="nofollow">The Centre for Applied Genomics, Toronto</a>
-21. [Sheldon McKay](User:Mckays "User:Mckays") -
+21. [Sheldon McKay](User%3AMckays "User%3AMckays") -
     <a href="http://modencode.org" class="external text"
     rel="nofollow">modENCODE</a>,
     [WormBase](Category%3AWormBase "Category%3AWormBase")
@@ -319,7 +319,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     ([SGN](Category%3ASGN "Category%3ASGN"))
 23. Brian O'Connor -
     <a href="http://ucla.edu" class="external text" rel="nofollow">UCLA</a>
-24. [Joshua Orvis](User:Jorvis "User:Jorvis") -
+24. [Joshua Orvis](User%3AJorvis "User%3AJorvis") -
     <a href="http://www.igs.umaryland.edu" class="external text"
     rel="nofollow">Institute for Genome Sciences</a>, University of
     Maryland
@@ -328,7 +328,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     rel="nofollow">BeeSpace</a>, University of Illinois
 26. Stéphanie Sidibe Bocs -
     <a href="http://cirad.fr" class="external text" rel="nofollow">CIRAD</a>
-27. [Richard Smith](User:Rsmith "User:Rsmith") -
+27. [Richard Smith](User%3ARsmith "User%3ARsmith") -
     <a href="http://www.intermine.org" class="external text"
     rel="nofollow">InterMine</a> (and
     [InterMine](InterMine "InterMine"))
@@ -337,7 +337,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     rel="nofollow">Xenbase</a>; University Of Calgary
 29. Jason Stajich - UC Berkeley
 30. Haiyan Zhang - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-31. [Junjun Zhang](User:Junjun "User:Junjun") -
+31. [Junjun Zhang](User%3AJunjun "User%3AJunjun") -
     <a href="http://www.tcag.ca" class="external text" rel="nofollow">The
     Hospital for Sick Children, Toronto</a>
 
@@ -362,7 +362,7 @@ databases, see the [GMOD User Community](#GMOD_User_Community) section.
 
 ## <span id="Chado" class="mw-headline">Chado</span>
 
-[Scott Cain](User:Scott "User:Scott") spoke on
+[Scott Cain](User%3AScott "User%3AScott") spoke on
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
 
 The GMOD 1.1 release is in the works. There are no schema changes yet.
@@ -393,7 +393,7 @@ general approval.
 
 ### <span id="Natural_Diversity_Module" class="mw-headline">Natural Diversity Module</span>
 
-[Dave Clements](User:Clements "User:Clements") discussed the Chado
+[Dave Clements](User%3AClements "User%3AClements") discussed the Chado
 Natural Diversity Module. It was developed at
 <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a> and NCSU to enable
@@ -409,7 +409,7 @@ pointed out there was grant money to do exactly this.
 
 ## <span id="Community_Annotation_System" class="mw-headline">Community Annotation System</span>
 
-[Scott Cain](User:Scott "User:Scott") also spoke about his work on the
+[Scott Cain](User%3AScott "User%3AScott") also spoke about his work on the
 [Community Annotation
 System](Community_Annotation_System "Community Annotation System")
 (CAS). The next release of CAS, 1.1, will feature
@@ -440,7 +440,7 @@ class="external text" rel="nofollow">download</a>.
 
 ## <span id="TableEdit" class="mw-headline">TableEdit</span>
 
-[Jim Hu](User:JimHu.1 "User:JimHu") spoke about progress on
+[Jim Hu](User%3AJimHu.1 "User%3AJimHu") spoke about progress on
 [TableEdit](TableEdit.1 "TableEdit"), currently at release 0.8.
 
 - Now refuses edits until user entered HTML tags are closed, thus
@@ -479,7 +479,7 @@ implemented with Java references and collections.
 
 ## <span id="CMap" class="mw-headline">CMap</span>
 
-[Ben Faga](User:Faga "User:Faga") gave a talk on what's new in
+[Ben Faga](User%3AFaga "User%3AFaga") gave a talk on what's new in
 [CMap](CMap.1 "CMap"). Some highlights:
 
 - CMap 1.0 came out in March 2008.
@@ -499,8 +499,8 @@ releases (2 and 3).
 
 ### <span id="GBrowse_1.69" class="mw-headline">GBrowse 1.69</span>
 
-[Sheldon McKay](User:Mckays "User:Mckays") and [Lincoln
-Stein](User:Lstein "User:Lstein") spoke about recent enhancements to
+[Sheldon McKay](User%3AMckays "User%3AMckays") and [Lincoln
+Stein](User%3ALstein "User%3ALstein") spoke about recent enhancements to
 [GBrowse](GBrowse.1 "GBrowse"). These features are available in the
 current development version ("stable") of GBrowse and will be included
 in the upcoming (some would say imminent) 1.69 release of GBrowse.
@@ -527,7 +527,7 @@ in the upcoming (some would say imminent) 1.69 release of GBrowse.
 
 ### <span id="GBrowse_2" class="mw-headline">GBrowse 2</span>
 
-[Lincoln Stein](User:Lstein "User:Lstein") talked about GBrowse 2, the
+[Lincoln Stein](User%3ALstein "User%3ALstein") talked about GBrowse 2, the
 next major release of GBrowse. This release focuses on performance and
 stability. GBrowse 2 will be cluster aware:
 
@@ -609,8 +609,8 @@ GBrowse distribution.
 
 ## <span id="Common_Gene_Page" class="mw-headline">Common Gene Page</span>
 
-[Scott Cain](User:Scott "User:Scott") eerily yet effectively channeled
-[Don Gilbert](User:Dongilbert "User:Dongilbert") on the topic of a
+[Scott Cain](User%3AScott "User%3AScott") eerily yet effectively channeled
+[Don Gilbert](User%3ADongilbert "User%3ADongilbert") on the topic of a
 [Common Gene Page](Common_Gene_Page "Common Gene Page").
 
 This not the gene page that people see when they come to your web site.
@@ -667,7 +667,7 @@ Common Web Pages.
 
 ## <span id="MediaWiki_Enhancements" class="mw-headline">MediaWiki Enhancements</span>
 
-[Sheldon McKay](User:Mckays "User:Mckays") spoke about MediaWiki related
+[Sheldon McKay](User%3AMckays "User%3AMckays") spoke about MediaWiki related
 work he's been doing for the
 <a href="http://www.modencode.org" class="external text"
 rel="nofollow">modENCODE project</a>.
@@ -744,7 +744,7 @@ replaced him, but we don't know if that person is supporting Modware.
 
 It seems that we have a lot of Perl and Java APIs to Chado, perhaps too
 many. What should we do about that? [Lincoln
-Stein](User:Lstein "User:Lstein") suggested that we document them all
+Stein](User%3ALstein "User%3ALstein") suggested that we document them all
 and provide a list of pros and cons for each. That will allow new users
 to make the best informed choice about what they want to do.
 
@@ -897,7 +897,7 @@ after that.
 
 ## <span id="GMOD_Help_Desk" class="mw-headline">GMOD Help Desk</span>
 
-[Dave Clements](User:Clements "User:Clements") gave a talk on his first
+[Dave Clements](User%3AClements "User%3AClements") gave a talk on his first
 10 months at the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk"), and
 what he is planning doing in the coming months.
 
@@ -986,7 +986,7 @@ communicate what ZFIN was all about and at the end of the quarter we had
 about 20 designs to pick from, and most of them were spectacularly good.
 
 Many GMOD user databases, web sites, and GMOD components don't have
-snazzy logos. [Dave](User:Clements "User:Clements") offered to contact
+snazzy logos. [Dave](User%3AClements "User%3AClements") offered to contact
 the same department and the local community college as well, and ask if
 they would be interested in doing something similar GMOD community. This
 time around I would propose that each student or team get a different
@@ -1033,7 +1033,7 @@ please add it below.
   rel="nofollow">http://genome.biowiki.org/</a> - Ian Holmes
 - [InterMine](InterMine "InterMine") and
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a> Richard
-  Smith ([Scott](User:Scott "User:Scott") 14:04, 6 June 2008 (EDT))
+  Smith ([Scott](User%3AScott "User%3AScott") 14:04, 6 June 2008 (EDT))
 - Advances in the [Common Gene
   Page](Common_Gene_Page "Common Gene Page") effort (see also here an
   old page at blog.gmod.org:
@@ -1043,22 +1043,22 @@ please add it below.
   <a href="http://eugenes.org/gmod/gene-report-examples/"
   class="external free"
   rel="nofollow">http://eugenes.org/gmod/gene-report-examples/</a> )
-  ([Scott](User:Scott "User:Scott") 14:04, 6 June 2008 (EDT))
+  ([Scott](User%3AScott "User%3AScott") 14:04, 6 June 2008 (EDT))
 - TableEdit round trip/integration progress and plans
-  --[JimHu](User:JimHu.1 "User:JimHu") 18:35, 6 June 2008 (EDT)
+  --[JimHu](User%3AJimHu.1 "User%3AJimHu") 18:35, 6 June 2008 (EDT)
 - Java Chado data model API with higher level, user friendly
-  "Biological" layer [Ed](User:Elee "User:Elee")
-- GBrowse 1.69 show and tell [Sheldon McKay](User:Mckays "User:Mckays")
-- MediaWiki enhancements [Sheldon McKay](User:Mckays "User:Mckays")
+  "Biological" layer [Ed](User%3AElee "User%3AElee")
+- GBrowse 1.69 show and tell [Sheldon McKay](User%3AMckays "User%3AMckays")
+- MediaWiki enhancements [Sheldon McKay](User%3AMckays "User%3AMckays")
 
 <!-- -->
 
 - [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") - [Dave
-  Clements](User:Clements "User:Clements")
+  Clements](User%3AClements "User%3AClements")
   - priorities for 2008-2009
   - Evaluation - Has the Help Desk been helpful? -
-    [Dave](User:Clements "User:Clements") and [Don
-    Gilbert](User:Dongilbert "User:Dongilbert")
+    [Dave](User%3AClements "User%3AClements") and [Don
+    Gilbert](User%3ADongilbert "User%3ADongilbert")
   - Grant review service
   - Funding GMOD
   - GMOD and the Google Summer of Code in 2009?

@@ -86,7 +86,7 @@ There is also
 Please post any issues or questions about this new version to the
 [Tripal Mailing List](../Tripal.1#Mailing_Lisgts "Tripal")
 
-[Stephen Ficklin](../User:Sficklin "User:Sficklin")
+[Stephen Ficklin](../User%3ASficklin "User%3ASficklin")
 
   
 

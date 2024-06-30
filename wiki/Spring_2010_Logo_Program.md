@@ -135,7 +135,7 @@ rel="nofollow">Audra Radke</a></strong>, <a
 href="mailto:jon.brim@gmail.com" class="external text"
 rel="nofollow">Jon Brim</a>, <a href="mailto:jess.hodgson@gmail.com"
 class="external text" rel="nofollow">Jessica Hodgson</a></td>
-<td><a href="User:Elee" title="User:Elee">Ed Lee</a></td>
+<td><a href="User%3AElee" title="User%3AElee">Ed Lee</a></td>
 </tr>
 <tr class="odd">
 <td colspan="4"><hr /></td>
@@ -166,7 +166,7 @@ width="200" height="47" alt="GBrowseLogo.png" /></a>
 rel="nofollow">Alex Read</a></strong>, Sean O'Connell, <a
 href="mailto:matticusp@gmail.com" class="external text"
 rel="nofollow">Matt Payne</a></td>
-<td><a href="User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<td><a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="odd">
 <td colspan="4"><hr /></td>
@@ -185,7 +185,7 @@ class="external text" rel="nofollow">Darek Lakey</a></strong>, <a
 href="http://visual-mark.com" class="external text" rel="nofollow">Mark
 Meadows</a>, <a href="mailto:thatonechick@gmail.com"
 class="external text" rel="nofollow">Natalie Price</a></td>
-<td><a href="User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<td><a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="odd">
 <td colspan="4"><hr /></td>
@@ -202,7 +202,7 @@ warehouse software</td>
 <td><strong>Sean O'Connell</strong>, Halie French, <a
 href="mailto:lilly_oaks@yahoo.com" class="external text"
 rel="nofollow">Lilly Oaks</a></td>
-<td>Gos Micklem, <a href="User:Rsmith" title="User:Rsmith">Richard
+<td>Gos Micklem, <a href="User%3ARsmith" title="User%3ARsmith">Richard
 Smith</a></td>
 </tr>
 <tr class="odd">
@@ -221,7 +221,7 @@ rel="nofollow">Lilly Oaks</a></strong>, <a
 href="mailto:NextLevelDesignStudios@gmail.com" class="external text"
 rel="nofollow">Darek Lakey</a>, <a href="mailto:dipdoodle9@comcast.net"
 class="external text" rel="nofollow">Audra Radke</a></td>
-<td>Gos Micklem, <a href="User:Rsmith" title="User:Rsmith">Richard
+<td>Gos Micklem, <a href="User%3ARsmith" title="User%3ARsmith">Richard
 Smith</a></td>
 </tr>
 <tr class="odd">

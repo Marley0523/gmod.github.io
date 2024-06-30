@@ -64,7 +64,7 @@ related talk or poster at any ISMB/ECCB event, please add it to the
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Project
 
   

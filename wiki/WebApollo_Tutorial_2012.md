@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [WebApollo](WebApollo.1 "WebApollo") tutorial was presented by [Ed
-Lee](User:Elee "User:Elee") at the [2012 GMOD Summer
+Lee](User%3AElee "User%3AElee") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:

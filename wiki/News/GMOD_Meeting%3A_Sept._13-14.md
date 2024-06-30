@@ -64,7 +64,7 @@ that you think would be interested in this meeting.
 
 I look forward to seeing you in England this Fall.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

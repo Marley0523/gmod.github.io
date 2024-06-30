@@ -352,7 +352,7 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-[Dongilbert](User:Dongilbert "User:Dongilbert")
+[Dongilbert](User%3ADongilbert "User%3ADongilbert")
 
 </div>
 

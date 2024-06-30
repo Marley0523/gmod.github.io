@@ -318,8 +318,8 @@ style="color: #aaaaff">2009 GMOD Summer School - Europe</span></a></td>
 </tr>
 <tr class="even">
 <td>13:30-14:30</td>
-<td style="text-align: center;"><a href="User:Scott"
-title="User:Scott">Scott Cain</a> - Introductions and the State of
+<td style="text-align: center;"><a href="User%3AScott"
+title="User%3AScott">Scott Cain</a> - Introductions and the State of
 GMOD</td>
 <td><a href="http://prezi.com/143773/" class="external text"
 rel="nofollow">Prezi</a>, <a
@@ -331,8 +331,8 @@ href="#GMOD_Project_Talks">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>14:30-15:00</td>
-<td style="text-align: center;"><a href="User:Clements"
-title="User:Clements">Dave Clements</a> - <a href="GMOD_Help_Desk"
+<td style="text-align: center;"><a href="User%3AClements"
+title="User%3AClements">Dave Clements</a> - <a href="GMOD_Help_Desk"
 title="GMOD Help Desk">GMOD Help Desk</a> Stuff</td>
 <td><a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009GMODHelpDesk.ppt"
@@ -343,8 +343,8 @@ href="#GMOD_Project_Talks">Summary</a></td>
 </tr>
 <tr class="even">
 <td>15:00-15:30</td>
-<td style="text-align: center;"><a href="User:JunZhao"
-title="User:JunZhao">Jun Zhao</a> - Linked Data for GMOD Databases</td>
+<td style="text-align: center;"><a href="User%3AJunZhao"
+title="User%3AJunZhao">Jun Zhao</a> - Linked Data for GMOD Databases</td>
 <td><a href="../mediawiki/images/4/4c/Aug2009LinkedData.pdf"
 class="internal" title="Aug2009LinkedData.pdf">PDF</a>, <a
 href="#Linked_Data_for_GMOD_Databases">Summary</a></td>
@@ -364,9 +364,9 @@ href="#GMOD_in_the_Trenches">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>16:15-16:30</td>
-<td style="text-align: center;"><a href="User:Scott"
-title="User:Scott">Scott Cain</a> (for <a href="User:RBuels"
-class="mw-redirect" title="User:RBuels">Robert Buels</a>) - A <a
+<td style="text-align: center;"><a href="User%3AScott"
+title="User%3AScott">Scott Cain</a> (for <a href="User%3ARBuels"
+class="mw-redirect" title="User%3ARBuels">Robert Buels</a>) - A <a
 href="http://search.cpan.org/~ribasushi/DBIx-Class-0.08108/"
 class="external text" rel="nofollow">DBIx::Class</a> layer for <a
 href="Chado" class="mw-redirect" title="Chado">Chado</a></td>
@@ -376,7 +376,7 @@ href="#A_DBIx_Class_layer_for_Chado">Summary</a></td>
 </tr>
 <tr class="even">
 <td>16:30-17:00</td>
-<td style="text-align: center;"><a href="User:Elee" title="User:Elee">Ed
+<td style="text-align: center;"><a href="User%3AElee" title="User%3AElee">Ed
 Lee</a> - <a href="http://code.google.com/p/gbol" class="external text"
 rel="nofollow">GMOD Biological Object Layer</a></td>
 <td><a href="../mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
@@ -385,8 +385,8 @@ href="#GMOD_Biological_Object_Layer">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>17:00-17:30</td>
-<td style="text-align: center;"><a href="User:Jogoodma"
-title="User:Jogoodma">Josh Goodman</a> - A Restful interface for
+<td style="text-align: center;"><a href="User%3AJogoodma"
+title="User%3AJogoodma">Josh Goodman</a> - A Restful interface for
 MODs</td>
 <td><a href="#A_Restful_interface_for_MODs">Summary</a></td>
 </tr>
@@ -413,8 +413,8 @@ href="#Quest_for_Standard:_Sequence_alignment.2Fmap_format_.28SAM.29_and_SAMtool
 </tr>
 <tr class="odd">
 <td>9:15-9:45</td>
-<td style="text-align: center;"><a href="User:Clements"
-title="User:Clements">Dave Clements</a> - Visualising NGS Data in
+<td style="text-align: center;"><a href="User%3AClements"
+title="User%3AClements">Dave Clements</a> - Visualising NGS Data in
 GBrowse 2</td>
 <td><a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009NGSinGBrowse.ppt"
@@ -446,8 +446,8 @@ href="#JBrowse">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>11:00-11:30</td>
-<td style="text-align: center;"><a href="User:Mckays"
-title="User:Mckays">Sheldon McKay</a> - <a href="GBrowse_syn.1"
+<td style="text-align: center;"><a href="User%3AMckays"
+title="User%3AMckays">Sheldon McKay</a> - <a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse_syn</a></td>
 <td><a href="../mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
 class="internal" title="Aug2009GBrowse syn.pdf">PDF</a>, <a
@@ -506,18 +506,18 @@ title="InterMine">InterMine</a> update</td>
 <div class="floatright">
 
 [<img src="../mediawiki/images/1/11/Aug2009Scott.JPG" width="250"
-height="86" alt="Scott" />](User:Scott "Scott")
+height="86" alt="Scott" />](User%3AScott "Scott")
 
 </div>
 
-*[Scott Cain](User:Scott "User:Scott"), Ontario Institute for Cancer
+*[Scott Cain](User%3AScott "User%3AScott"), Ontario Institute for Cancer
 Research, <a href="http://prezi.com/143773/" class="external text"
 rel="nofollow">Intro</a>, What's New
 <a href="../mediawiki/images/1/15/Aug2009StateOfGMOD.ppt"
 class="internal" title="Aug2009StateOfGMOD.ppt">PPT</a>,
 <a href="../mediawiki/images/f/fb/Aug2009StateOfGMOD.pdf"
 class="internal" title="Aug2009StateOfGMOD.pdf">PDF</a>*  
-*[Dave Clements](User:Clements "User:Clements"),
+*[Dave Clements](User%3AClements "User%3AClements"),
 <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a>, Help Desk Update, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009GMODHelpDesk.ppt"
@@ -697,7 +697,7 @@ There may be a GMOD hackathon this coming spring (March to May) at
 National Evolutionary Synthesis Center (NESCent)</a> in Durham, NC, USA.
 If this happens the focus will be on extending GMOD for [evolutionary
 biology](Category%3AEvolution "Category%3AEvolution"). Contact
-[Dave](User:Clements "User:Clements") if you want to be on organizing
+[Dave](User%3AClements "User%3AClements") if you want to be on organizing
 committee or participate.
 
 ## <span id="Linked_Data_for_GMOD_Databases" class="mw-headline"><a href="http://en.wikipedia.org/wiki/Linked_Data" class="external text"
@@ -706,11 +706,11 @@ rel="nofollow">Linked Data</a> for GMOD Databases</span>
 <div class="floatright">
 
 [<img src="../mediawiki/images/f/fb/Aug2009JunPhoto.JPG" width="150"
-height="100" alt="Jun Zhao" />](User:JunZhao "Jun Zhao")
+height="100" alt="Jun Zhao" />](User%3AJunZhao "Jun Zhao")
 
 </div>
 
-*[Jun Zhao](User:JunZhao "User:JunZhao"), Department of Zoology,
+*[Jun Zhao](User%3AJunZhao "User%3AJunZhao"), Department of Zoology,
 University of Oxford,
 <a href="../mediawiki/images/4/4c/Aug2009LinkedData.pdf"
 class="internal" title="Aug2009LinkedData.pdf">PDF</a>*
@@ -916,12 +916,12 @@ external developers:
 <div class="floatright">
 
 [<img src="../mediawiki/images/8/82/Sgn_small_tag.png" width="116"
-height="28" alt="Sol Genomics Network" />](User:RobertBuels "Sol Genomics Network")
+height="28" alt="Sol Genomics Network" />](User%3ARobertBuels "Sol Genomics Network")
 
 </div>
 
-*[Scott Cain](User:Scott "User:Scott"), OICR, for [Robert
-Buels](User:RobertBuels "User:RobertBuels"), [Sol Genomics Network
+*[Scott Cain](User%3AScott "User%3AScott"), OICR, for [Robert
+Buels](User%3ARobertBuels "User%3ARobertBuels"), [Sol Genomics Network
 (SGN)](Category%3ASGN "Category%3ASGN"),
 <a href="http://gmod.org/dbic_chado_slides/start.html"
 class="external text" rel="nofollow">S5 Slides</a>*
@@ -952,7 +952,7 @@ and it can assist in creating indexes and materialized views.
   
 The <a href="http://github.com/rbuels/dbic_chado/" class="external text"
 rel="nofollow">Bio-Chado-Schema</a> project has been set up by [Robert
-Buels](User:RobertBuels "User:RobertBuels"), with source control at
+Buels](User%3ARobertBuels "User%3ARobertBuels"), with source control at
 <a href="http://github.com/rbuels/dbic_chado/" class="external text"
 rel="nofollow">GitHub</a>, and releases available on
 <a href="http://search.cpan.org/perldoc?Bio%3A%3AChado%3A%3ASchema"
@@ -979,18 +979,18 @@ rel="nofollow">GMOD Biological Object Layer</a></span>
 <div class="floatright">
 
 [<img src="../mediawiki/images/e/ea/Aug2009Ed.JPG" width="200"
-height="90" alt="Ed Lee" />](User:Elee "Ed Lee")
+height="90" alt="Ed Lee" />](User%3AElee "Ed Lee")
 
 </div>
 
-*[Ed Lee](User:Elee "User:Elee"),
+*[Ed Lee](User%3AElee "User%3AElee"),
 <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">BBOP</a>,
 <a href="../mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
 title="Aug2009Gobol.pdf">PDF</a>*
 
 Ed has been working with E.O. Stinson and Robert Bruggner at BBOP, and
-[Robin Houston](User:RobinHouston "User:RobinHouston") and Adrian Tivey
+[Robin Houston](User%3ARobinHouston "User%3ARobinHouston") and Adrian Tivey
 at Sanger to create a Java based *biological* object layer (GBOL) for
 genomic features.
 
@@ -1077,7 +1077,7 @@ models. That type of aggregation is performed by higher levels.
 
 ## <span id="A_Restful_interface_for_MODs" class="mw-headline">A Restful interface for MODs</span>
 
-*[Josh Goodman](User:Jogoodma "User:Jogoodma"),
+*[Josh Goodman](User%3AJogoodma "User%3AJogoodma"),
 [FlyBase](Category%3AFlyBase "Category%3AFlyBase")*
 
 Josh talked about the progress of the
@@ -1244,7 +1244,7 @@ an issue. Also have to address bandwidth and caching.
 
 ## <span id="Visualising_NGS_Data_in_GBrowse_2" class="mw-headline">Visualising NGS Data in GBrowse 2</span>
 
-*[Dave Clements](User:Clements "User:Clements"),
+*[Dave Clements](User%3AClements "User%3AClements"),
 <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a>, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009NGSinGBrowse.ppt"
@@ -1252,7 +1252,7 @@ class="external text" rel="nofollow">PPT</a>, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009NGSinGBrowse.pdf"
 class="external text" rel="nofollow">PDF</a>*
 
-[Lincoln Stein](User:Lstein "User:Lstein") has written a [GBrowse
+[Lincoln Stein](User%3ALstein "User%3ALstein") has written a [GBrowse
 adaptor](GBrowse_Adaptors "GBrowse Adaptors"), Bio::DB::Sam, for [Next
 Generation
 Sequencing](Next_Generation_Sequencing "Next Generation Sequencing")
@@ -1396,7 +1396,7 @@ A *better* solution would be to have a better representation of the
 configuration file, [XML](Glossary#XML "Glossary") for instance.
 (*[JBrowse](JBrowse.1 "JBrowse") addresses this issue by using
 [JSON](Glossary#JSON "Glossary") for its configuration files -
-[Dave](User:Clements "User:Clements")*)
+[Dave](User%3AClements "User%3AClements")*)
 
 Would also like the ability to configure the global layout to
 enable/disable components such as disable the custom tracks or display
@@ -1555,7 +1555,7 @@ Some "imminent" developments for JBrowse:
 - Much more at jbrowse.lighthouseapp.com
 
 Ian closed with a very strong acknowledgment of [Mitch
-Skinner's](User:MitchSkinner "User:MitchSkinner") contribution to this
+Skinner's](User%3AMitchSkinner "User%3AMitchSkinner") contribution to this
 work.
 
   
@@ -1565,11 +1565,11 @@ work.
 <div class="floatright">
 
 [<img src="../mediawiki/images/c/ca/Aug2009Sheldon.JPG" width="100"
-height="126" alt="Sheldon McKay" />](User:Mckays "Sheldon McKay")
+height="126" alt="Sheldon McKay" />](User%3AMckays "Sheldon McKay")
 
 </div>
 
-*[Sheldon McKay](User:Mckays "User:Mckays"),
+*[Sheldon McKay](User%3AMckays "User%3AMckays"),
 <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory (CSHL)</a>,
 <a href="../mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
@@ -1761,11 +1761,11 @@ rel="nofollow">GBrowse.org</a></span>
 <div class="floatright">
 
 [<img src="../mediawiki/images/a/a0/Aug2009Alessandra.JPG" width="150"
-height="124" alt="Alessandra" />](User:Bilardi "Alessandra")
+height="124" alt="Alessandra" />](User%3ABilardi "Alessandra")
 
 </div>
 
-*[Alessandra Bilardi](User:Bilardi "User:Bilardi"),
+*[Alessandra Bilardi](User%3ABilardi "User%3ABilardi"),
 <a href="http://www.cribi.unipd.it/" class="external text"
 rel="nofollow">CRIBI Biotech Center Padua University</a>,
 <a href="../mediawiki/images/1/18/Aug2009GBrowseOrg.pdf"
@@ -1802,7 +1802,7 @@ Future plans for GBrowse.org include:
   rel="nofollow">optional</a>)
 
 Finally, if you have a GBrowse site, you are encouraged to notify
-[Alessandra](User:Bilardi "User:Bilardi") for inclusion on
+[Alessandra](User%3ABilardi "User%3ABilardi") for inclusion on
 <a href="http://gbrowse.org" class="external text"
 rel="nofollow">GBrowse.org</a>.
 
@@ -1993,7 +1993,7 @@ this meeting, please add them here.
 - <a href="GMOD_REST_API" class="mw-redirect" title="GMOD REST API">GMOD
   REST API</a> - Presentation of the current draft spec and a
   feedback/discussion period.
-  --[Jogoodma](User:Jogoodma "User:Jogoodma")
+  --[Jogoodma](User%3AJogoodma "User%3AJogoodma")
 - <a href="DAS" class="mw-redirect" title="DAS">DAS</a>: Current
   Situation and Developments -- JWarren
 - [InterMine](InterMine "InterMine") - update and new project with
@@ -2011,14 +2011,14 @@ this meeting, please add them here.
 - [Apollo](Apollo.1 "Apollo") plans for the next generation of Apollo
 - <a href="Chado" class="mw-redirect" title="Chado">Chado</a> 1.1
   release
-- GMOD for Metagenomics? -- [Clements](User:Clements "User:Clements")
+- GMOD for Metagenomics? -- [Clements](User%3AClements "User%3AClements")
 - Assembly life cycle management for beginners
-  --[DanBolser](User:DanBolser "User:DanBolser") 14:04, 20 July 2009
+  --[DanBolser](User%3ADanBolser "User%3ADanBolser") 14:04, 20 July 2009
   (UTC)
 - Linked Data for GMOD Databases - making GMOD databases
   machine-accessible to achieve better data sharing and reuse for
   bioinformaticians and application developers -- [Jun
-  Zhao](User:JunZhao "User:JunZhao")
+  Zhao](User%3AJunZhao "User%3AJunZhao")
 - <a href="http://code.google.com/p/gbol" class="external text"
   rel="nofollow">GMOD Biological Object Layer</a> framework
 
@@ -2075,7 +2075,7 @@ events.
 *I would particularly like to thank Stephen Taylor, Simon McGowan and
 Zong-Pei Han for their help and support during the entire week of [GMOD
 Europe 2009](GMOD_Europe_2009 "GMOD Europe 2009"). We could not have
-done this without you. -- [Dave C.](User:Clements "User:Clements")*
+done this without you. -- [Dave C.](User%3AClements "User%3AClements")*
 
 # <span id="Attendees" class="mw-headline">Attendees</span>
 
@@ -2084,21 +2084,21 @@ done this without you. -- [Dave C.](User:Clements "User:Clements")*
 | Ambrose | Andongabo | Rothamsted Research |
 | ERICK | ANTEZANA | BAYER BIOSCIENCE NV |
 | T. Grant | Belgard | MRC FGU |
-| [Alessandra](User:Bilardi "User:Bilardi") | [Bilardi](User:Bilardi "User:Bilardi") | <a href="http://genomics.cribi.unipd.it/" class="external text"
+| [Alessandra](User%3ABilardi "User%3ABilardi") | [Bilardi](User%3ABilardi "User%3ABilardi") | <a href="http://genomics.cribi.unipd.it/" class="external text"
 rel="nofollow">CRIBI</a> - University of Padova |
-| [Dan](User:DanBolser "User:DanBolser") | [Bolser](User:DanBolser "User:DanBolser") | Dundee University |
+| [Dan](User%3ADanBolser "User%3ADanBolser") | [Bolser](User%3ADanBolser "User%3ADanBolser") | Dundee University |
 | Baptiste | Brault | INRA Versailles |
 | Tim | Burgis | Imperial College- London |
-| [Scott](User:Scott "User:Scott") | [Cain](User:Scott "User:Scott") | Ontario Institute for Cancer Research |
+| [Scott](User%3AScott "User%3AScott") | [Cain](User%3AScott "User%3AScott") | Ontario Institute for Cancer Research |
 | Maria | Cartolano | University of Oxford |
-| [Dave](User:Clements "User:Clements") | [Clements](User:Clements "User:Clements") | <a href="http://nescent.org" class="external text"
+| [Dave](User%3AClements "User%3AClements") | [Clements](User%3AClements "User%3AClements") | <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a> |
 | Ros | Cutts | Imperial College |
 | Etienne P | de Villiers | ILRI |
 | Phil | East | Cancer Research UK |
 | Matt | Eldridge | Cancer Research UK- Cambridge Research Institute |
 | Ben | Elsworth | University of Edinburgh |
-| [Josh](User:Jogoodma "User:Jogoodma") | [Goodman](User:Jogoodma "User:Jogoodma") | FlyBase (Indiana University) |
+| [Josh](User%3AJogoodma "User%3AJogoodma") | [Goodman](User%3AJogoodma "User%3AJogoodma") | FlyBase (Indiana University) |
 | Cyprien | GUERIN | INRA |
 | Zong-Pei | Han | Computational Biology Research Group, Oxford |
 | Andreas | Heger | MRC FGU |
@@ -2106,13 +2106,13 @@ rel="nofollow">NESCent</a> |
 | Jim | Hughes | MRC |
 | Bernd | Jagla | Institut Pasteur |
 | Baptiste | Laporte | IBDML |
-| [Ed](User:Elee "User:Elee") | [Lee](User:Elee "User:Elee") | Lawrence Berkeley National Laboratory |
+| [Ed](User%3AElee "User%3AElee") | [Lee](User%3AElee "User%3AElee") | Lawrence Berkeley National Laboratory |
 | Jacob | Lemieux | Computational Biology Research Group |
 | Siu-wai | Leung | University of Macau |
 | Christopher | Love | Rothamsted Research |
 | Emanuele | Marchi | University of Oxford |
 | Simon | McGowan | Computational Biology Research Group, Oxford |
-| [Sheldon](User:Mckays "User:Mckays") | [McKay](User:Mckays "User:Mckays") | Cold Spring Harbor Laboratory |
+| [Sheldon](User%3AMckays "User%3AMckays") | [McKay](User%3AMckays "User%3AMckays") | Cold Spring Harbor Laboratory |
 | FREDERIC | POTIER | BAYER BIOSCIENCE NV |
 | Peter | Rice | European Bioinformatics Institute |
 | Kim | Rutherford | University of Cambridge |
@@ -2122,11 +2122,11 @@ rel="nofollow">NESCent</a> |
 | Julie | Sullivan | InterMine- Dept of Genetics- Cambridge |
 | Steve | Taylor | Computational Biology Research Group, Oxford |
 | Adrian | Tivey | Wellcome Trust Sanger Institute |
-| [Giles](User:Buggy "User:Buggy") | [Velarde](User:Buggy "User:Buggy") | Welcome Trust Sanger Institute |
+| [Giles](User%3ABuggy "User%3ABuggy") | [Velarde](User%3ABuggy "User%3ABuggy") | Welcome Trust Sanger Institute |
 | Pieter Emiel | Ver Loren van Themaat | Macx Planck Institute for Plant Breeding Research |
 | Jonathan | Warren | The Sanger Institue |
 | Xikun | Wu | Institute for Animal Health |
-| [Jun](User:JunZhao "User:JunZhao") | [Zhao](User:JunZhao "User:JunZhao") | University of Oxford |
+| [Jun](User%3AJunZhao "User%3AJunZhao") | [Zhao](User%3AJunZhao "User%3AJunZhao") | University of Oxford |
 | Pinglei | Zhou | Harvard University/FlyBase |
 
 # <span id="Feedback" class="mw-headline">Feedback</span>

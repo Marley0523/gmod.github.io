@@ -37,7 +37,7 @@ href="/mediawiki/index.php?title=Property:Has_author&amp;action=edit&amp;redlink
 class="new" title="Property:Has author (page does not exist)">Has
 author</a>" with value "Stein LD"  
 
-- [User:JimHu/Gbrowse](/wiki/User:JimHu/Gbrowse "User:JimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User:JimHu-2FGbrowse "Special%3ABrowse/User:JimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
 
  
 

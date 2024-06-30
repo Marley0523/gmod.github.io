@@ -57,7 +57,7 @@ width="250" height="75" alt="Tripal" /></a>
 </div>
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User:Sficklin "User:Sficklin") at the [2013 GMOD Summer
+Ficklin](User%3ASficklin "User%3ASficklin") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School"), July 2013.
 The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"

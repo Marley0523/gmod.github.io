@@ -104,7 +104,7 @@ interested in genome annotation, please consider attending.
 
   
 Thanks,  
-[Carson Holt](../User:Carsonholt "User:Carsonholt")
+[Carson Holt](../User%3ACarsonholt "User%3ACarsonholt")
 
   
 

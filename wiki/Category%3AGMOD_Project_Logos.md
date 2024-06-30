@@ -56,10 +56,10 @@ The [original GMOD
 Logo](File:Gmod_cogTransparent.png "File:Gmod cogTransparent.png") was
 created by Simon Twigger of [RGD](Category%3ARGD "Category%3ARGD"). Most of
 the derivative logos created between 2007 and 2010 were done by [Dave
-Clements](User:Clements "User:Clements") during his time at the [GMOD
+Clements](User%3AClements "User%3AClements") during his time at the [GMOD
 Help Desk](GMOD_Help_Desk "GMOD Help Desk"), and those created between
 2012 and 2014 were by [Amelia
-Ireland](User:Girlwithglasses "User:Girlwithglasses").
+Ireland](User%3AGirlwithglasses "User%3AGirlwithglasses").
 
 You are encouraged to use these graphics in your presentations, posters,
 and web sites. See [GMOD Promotion](GMOD_Promotion "GMOD Promotion") and

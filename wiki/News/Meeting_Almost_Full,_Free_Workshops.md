@@ -75,7 +75,7 @@ not need to attend the main GMOD meeting to attend one of the workshops.
 
 See you in October,
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 

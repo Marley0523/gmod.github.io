@@ -134,7 +134,7 @@ Again, if name, type and srcfeature are the same, allow the delete?
      ChrX    MyDB    gene    .    .   .    .    .      ID=MyGene2;CRUDop=UPDATE;Dbxref=SW:U1234
      ChrX    MyDB    gene    1    2   9    -    .      ID=MyGene3;CRUDop=REPLACE;Dbxref=SW:U1234;..more..
 
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:48, 30 March 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:48, 30 March 2007
 (EDT)
 
 </div>

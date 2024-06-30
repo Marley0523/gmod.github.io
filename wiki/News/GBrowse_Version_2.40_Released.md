@@ -65,7 +65,7 @@ The most significant change is actually the third from the top, which
 improves speed dramatically when used with data sources that have lots
 of complex track definitions.
 
-[Lincoln Stein](../User:Lstein "User:Lstein")
+[Lincoln Stein](../User%3ALstein "User%3ALstein")
 
   
 

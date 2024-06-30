@@ -300,7 +300,7 @@ possibilities. Please feel free to add more.
   (documentation, examples, tutorials, configuration files, installation
   procedures, etc)
 
-[Justin](User:Justaddcoffee "User:Justaddcoffee"): I've written
+[Justin](User%3AJustaddcoffee "User%3AJustaddcoffee"): I've written
 [Apollo-Chado Integration at BovineBase: Bugs and
 Suggestions](Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
 containing a list of bugs and suggestions from our developers and
@@ -343,7 +343,7 @@ coming:
   probably use that.)
 - Also in the vmware instance: ~~phpmyadmin, phppgadmin,~~ mediawiki all
   configured and ready to use.
-  [Scott](User:Scott "User:Scott") 20:46, 30 July 2007 (EDT): *I don't
+  [Scott](User%3AScott "User%3AScott") 20:46, 30 July 2007 (EDT): *I don't
   think the admin stuff needs to be a priority*
 - A printer (maybe--do people use paper anymore?)
 - A computer projector

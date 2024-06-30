@@ -269,7 +269,7 @@ rel="nofollow">Ian Holmes</a>** at the
 rel="nofollow">University of California, Berkeley</a>.
 
 As of January 2012, the lead developer of JBrowse is [Robert
-Buels](../User:RobertBuels "User:RobertBuels"). Most of JBrowse was
+Buels](../User%3ARobertBuels "User%3ARobertBuels"). Most of JBrowse was
 originally written by
 <a href="mailto:mitch_skinner@berkeley.edu" class="external text"
 rel="nofollow">Mitch Skinner</a>.
@@ -277,7 +277,7 @@ rel="nofollow">Mitch Skinner</a>.
 There is a [mailing list for developers](#Mailing_Lists), and there is
 usually a teleconference on the 3rd Monday of the month at 2pm Pacific
 US time. We welcome participation from anyone and everyone. Please
-contact [Robert Buels](../User:RobertBuels "User:RobertBuels") if you
+contact [Robert Buels](../User%3ARobertBuels "User%3ARobertBuels") if you
 would like to listen in or participate.
 
 \| dev_status = The

@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 {{ TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
-\| who = [Scott Cain](User:Scott "User:Scott") \| when = May 2010 \|
+\| who = [Scott Cain](User%3AScott "User%3AScott") \| when = May 2010 \|
 logo = GBrowseLogo.png
 
 <div id="toc" class="toc">

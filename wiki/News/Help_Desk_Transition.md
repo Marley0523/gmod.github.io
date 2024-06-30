@@ -82,7 +82,7 @@ well. It's a great job and there is no better community to work with.
 
 Thanks for everything. It's been a great three years.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk") (for one more
 month)
 

@@ -48,7 +48,7 @@ Use
 
   
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User:Mckays "User:Mckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:

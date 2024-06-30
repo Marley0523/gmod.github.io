@@ -87,7 +87,7 @@ href="http://meetings.cshl.edu/meetings/meetingsregistration_galaxy10.asp"
 class="external text" rel="nofollow">register now</a> if you are
 interested in using and extending [Galaxy](../Galaxy.1 "Galaxy").
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

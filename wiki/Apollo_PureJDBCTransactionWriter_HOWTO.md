@@ -355,8 +355,8 @@ not affect the JDBCTransactionWriter in any way.
 # <span id="Authors" class="mw-headline">Authors</span>
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=User:Jcrabtree&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Jcrabtree (page does not exist)">Jcrabtree</a>
+  href="http://gmod.org/mediawiki/index.php?title=User%3AJcrabtree&amp;action=edit&amp;redlink=1"
+  class="new" title="User%3AJcrabtree (page does not exist)">Jcrabtree</a>
 
 </div>
 

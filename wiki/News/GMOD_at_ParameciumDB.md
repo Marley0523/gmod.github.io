@@ -55,7 +55,7 @@ components, including
 <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>,
 [GMODWeb](../GMODWeb "GMODWeb"), [Apollo](../Apollo.1 "Apollo"), and
 [GBrowse](../GBrowse.1 "GBrowse"). Please contact [Linda
-Sperling](../User:Sperling "User:Sperling")
+Sperling](../User%3ASperling "User%3ASperling")
 \<<a href="mailto:linda.sperling@cgm.cnrs-gif.fr" class="external text"
 rel="nofollow">linda.sperling@cgm.cnrs-gif.fr</a>\> if you have
 questions about GMOD at ParameciumDB.
@@ -74,7 +74,7 @@ so.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

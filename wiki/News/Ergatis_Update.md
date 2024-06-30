@@ -78,7 +78,7 @@ ISGA](../File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.
 which provides a customized, abstract interface to Ergatis designed for
 biologists with specific pipeline needs.
 
-[Joshua Orvis](../User:Jorvis "User:Jorvis")
+[Joshua Orvis](../User%3AJorvis "User%3AJorvis")
 
   
 

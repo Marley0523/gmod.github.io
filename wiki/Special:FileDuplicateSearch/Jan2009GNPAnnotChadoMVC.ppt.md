@@ -55,9 +55,9 @@ The file "Jan2009GNPAnnotChadoMVC.ppt" has 1 identical duplication.
 
 1.  [ChadoController.ppt](/wiki/File:ChadoController.ppt "File:ChadoController.ppt")
     . . <a
-    href="/mediawiki/index.php?title=User:StephanieSidibe&amp;action=edit&amp;redlink=1"
+    href="/mediawiki/index.php?title=User%3AStephanieSidibe&amp;action=edit&amp;redlink=1"
     class="new mw-userlink"
-    title="User:StephanieSidibe (page does not exist)">StephanieSidibe</a>
+    title="User%3AStephanieSidibe (page does not exist)">StephanieSidibe</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:StephanieSidibe&amp;action=edit&amp;redlink=1"
@@ -67,9 +67,9 @@ The file "Jan2009GNPAnnotChadoMVC.ppt" has 1 identical duplication.
     . . 09:41, 2 February 2009
 2.  [Jan2009GNPAnnotChadoMVC.ppt](/wiki/File:Jan2009GNPAnnotChadoMVC.ppt "File:Jan2009GNPAnnotChadoMVC.ppt")
     . . <a
-    href="/mediawiki/index.php?title=User:StephanieSidibe&amp;action=edit&amp;redlink=1"
+    href="/mediawiki/index.php?title=User%3AStephanieSidibe&amp;action=edit&amp;redlink=1"
     class="new mw-userlink"
-    title="User:StephanieSidibe (page does not exist)">StephanieSidibe</a>
+    title="User%3AStephanieSidibe (page does not exist)">StephanieSidibe</a>
     <span style="white-space: nowrap;">
     <span class="mw-usertoollinks">(<a
     href="/mediawiki/index.php?title=User_talk:StephanieSidibe&amp;action=edit&amp;redlink=1"

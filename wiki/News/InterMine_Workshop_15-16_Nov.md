@@ -91,7 +91,7 @@ creating simple 'canned queries', upload and operations on lists,
 graphical and statistical widgets for analysing lists of data and MyMine
 accounts for saving user data.
 
-[Richard Smith](../User:Rsmith "User:Rsmith")
+[Richard Smith](../User%3ARsmith "User%3ARsmith")
 
   
 

@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User:Mckays "User:Mckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 The starting image for this tutorial is **2013 GMOD start day 4

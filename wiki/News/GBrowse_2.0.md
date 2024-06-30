@@ -104,7 +104,7 @@ class="external text" rel="nofollow">bug reports at SourceForge</a>.
 
 On behalf of the GMOD team,
 
-[Lincoln Stein](../User:Lstein "User:Lstein")
+[Lincoln Stein](../User%3ALstein "User%3ALstein")
 
   
 

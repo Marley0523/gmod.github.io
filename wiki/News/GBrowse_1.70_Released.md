@@ -62,8 +62,8 @@ href="http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/GBro
 class="external text" rel="nofollow">downloaded directly from
 SourceForge</a>.
 
-A big thanks to [Lincoln Stein](../User:Lstein "User:Lstein"), the lead
-developer of GBrowse, [Sheldon McKay](../User:Mckays "User:Mckays"), the
+A big thanks to [Lincoln Stein](../User%3ALstein "User%3ALstein"), the lead
+developer of GBrowse, [Sheldon McKay](../User%3AMckays "User%3AMckays"), the
 developer of GBrowse_syn, and all of the GBrowse users who debug and
 provide help on the [GBrowse mailing
 list](../GMOD_Mailing_Lists "GMOD Mailing Lists").
@@ -93,7 +93,7 @@ Changes from 1.69 to 1.70:
 - Made the <a href="../DAS" class="mw-redirect" title="DAS">DAS</a>
   script compatible with DAS Registry
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
   
 

@@ -64,7 +64,7 @@ Please suggest changes!
   - gene_symbol in the example is only one way to get this return. You
     can also use different URLs for locus tags.
 
---[JimHu](User:JimHu.1 "User:JimHu") 08:06, 17 January 2009 (UTC)
+--[JimHu](User%3AJimHu.1 "User%3AJimHu") 08:06, 17 January 2009 (UTC)
 
 </div>
 

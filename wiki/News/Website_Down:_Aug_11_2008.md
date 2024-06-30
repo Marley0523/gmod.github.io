@@ -53,7 +53,7 @@ apologize for any inconvenience this may cause you.
 
 Please let us know if you have any questions.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

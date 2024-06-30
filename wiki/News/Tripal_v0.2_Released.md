@@ -89,7 +89,7 @@ up-to-date code from the GMOD
 
 Best Regards,
 
-[Stephen Ficklin](../User:Sficklin "User:Sficklin")  
+[Stephen Ficklin](../User%3ASficklin "User%3ASficklin")  
 <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">Clemson University Genomics Institute</a>
 

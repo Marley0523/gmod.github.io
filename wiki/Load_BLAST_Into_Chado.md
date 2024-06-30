@@ -216,7 +216,7 @@ Featureloc entries for Target feature_id 88149:
 correct or at least are misleading; see the [Chado Best Practices
 section for handling BLAST
 results](Chado_Best_Practices#Results_from_BLAST "Chado Best Practices")
-for clarification* [Scott](User:Scott "User:Scott") 19:18, 21 November
+for clarification* [Scott](User%3AScott "User%3AScott") 19:18, 21 November
 2008 (UTC)
 
 # <span id="See_also" class="mw-headline">See also</span>
@@ -232,7 +232,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-- [Dongilbert](User:Dongilbert "User:Dongilbert") 23:24, 3 April 2007
+- [Dongilbert](User%3ADongilbert "User%3ADongilbert") 23:24, 3 April 2007
   (EDT)
 
 </div>

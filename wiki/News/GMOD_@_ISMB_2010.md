@@ -65,7 +65,7 @@ listing](../ISMB_2010#Flier "ISMB 2010") you can print in advance. See
 the <a href="http://www.iscb.org/ismb2010" class="external text"
 rel="nofollow">ISMB 2010 web site</a> for more on the conference.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

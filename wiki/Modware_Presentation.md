@@ -645,7 +645,7 @@ sub Write_search_results {
 
 - Rex Chisholm, PhD
 - Warren Kibbe, PhD
-- [Scott Cain](User:Scott "User:Scott")
+- [Scott Cain](User%3AScott "User%3AScott")
 - Brian O’connor
 - Sohel Merchant
 - Petra Fey

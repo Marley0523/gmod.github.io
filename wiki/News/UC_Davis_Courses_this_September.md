@@ -55,7 +55,7 @@ class="external text" rel="nofollow">UC Davis registration site</a> and
 click on **Start Registration** for full information about each course.
 Space is limited (an NGS analysis course is already full).
 
-[Dave Clements](../User:Clements "User:Clements")
+[Dave Clements](../User%3AClements "User%3AClements")
 
   
 

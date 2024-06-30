@@ -145,7 +145,7 @@ program has been built.
 
 ## <span id="Developer_notes" class="mw-headline">Developer notes</span>
 
-Current developers are [Don Gilbert](User:Dongilbert "User:Dongilbert"),
+Current developers are [Don Gilbert](User%3ADongilbert "User%3ADongilbert"),
 Nihar Sheth and Victor Strelets for FlyBase-NG and euGenes uses. We hope
 others will try it and join us in using and developing it. Email us at
 <a href="mailto:argos@eugenes.org" class="external text"

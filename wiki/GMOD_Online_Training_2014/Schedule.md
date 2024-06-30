@@ -65,7 +65,7 @@ The course covers the following topics in detail:
 <td><a href="../Cloud.1" title="Cloud">GMOD in the Cloud</a>, <a
 href="../AWS_walkthrough" title="AWS walkthrough">AWS
 walkthrough</a></td>
-<td><a href="../User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="../User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="../Chado" class="mw-redirect"
@@ -76,7 +76,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 1, AM</td>
 <td><a href="GFF3_Tutorial"
 title="GMOD Online Training 2014/GFF3 Tutorial">GFF3</a></td>
-<td><a href="../User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="../User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="../Chado" class="mw-redirect"
@@ -88,7 +88,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a
 href="http://gmod.org/wiki/GMOD_Online_Training_2014/SOBA_Tutorial"
 title="GMOD Online Training 2014//SOBA Tutorial">SOBA</a></td>
-<td><a href="../User:Bmoore" title="User:Bmoore">Barry Moore</a></td>
+<td><a href="../User%3ABmoore" title="User%3ABmoore">Barry Moore</a></td>
 <td><a href="http://www.sequenceontology.org" class="external text"
 rel="nofollow">Sequence Ontology</a><br />
 </td>
@@ -98,8 +98,8 @@ rel="nofollow">Sequence Ontology</a><br />
 <td><a
 href="http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/MAKER_Tutorial_for_GMOD_Online_Training_2014"
 class="external text" rel="nofollow">MAKER</a></td>
-<td><a href="../User:Bmoore" title="User:Bmoore">Barry Moore</a> / <a
-href="../User:Carsonholt" title="User:Carsonholt">Carson Holt</a></td>
+<td><a href="../User%3ABmoore" title="User%3ABmoore">Barry Moore</a> / <a
+href="../User%3ACarsonholt" title="User%3ACarsonholt">Carson Holt</a></td>
 <td><a href="http://www.yandell-lab.org" class="external text"
 rel="nofollow">Yandell Lab</a><br />
 <a href="../MAKER.1" title="MAKER">MAKER</a></td>
@@ -108,7 +108,7 @@ rel="nofollow">Yandell Lab</a><br />
 <td>Day 2, AM</td>
 <td><a href="Chado_Tutorial"
 title="GMOD Online Training 2014/Chado Tutorial">Chado</a></td>
-<td><a href="../User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="../User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="../Chado" class="mw-redirect"
@@ -119,7 +119,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 2, PM</td>
 <td><a href="../Tripal_Tutorial_v2.0"
 title="Tripal Tutorial v2.0">Tripal</a></td>
-<td><a href="../User:Sficklin" title="User:Sficklin">Stephen
+<td><a href="../User%3ASficklin" title="User%3ASficklin">Stephen
 Ficklin</a></td>
 <td><a href="http://www.wsu.edu" class="external text"
 rel="nofollow">Washington State University</a><br />
@@ -129,7 +129,7 @@ rel="nofollow">Washington State University</a><br />
 <td>Day 3, AM</td>
 <td><a href="JBrowse_Tutorial"
 title="GMOD Online Training 2014/JBrowse Tutorial">JBrowse</a></td>
-<td><a href="../User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="../User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="../Chado" class="mw-redirect"
@@ -140,7 +140,7 @@ title="GBrowse">GBrowse</a></td>
 <td>Day 3, PM</td>
 <td><a href="WebApollo_Tutorial"
 title="GMOD Online Training 2014/WebApollo Tutorial">WebApollo</a></td>
-<td><a href="../User:Elee" title="User:Elee">Ed Lee</a></td>
+<td><a href="../User%3AElee" title="User%3AElee">Ed Lee</a></td>
 <td><a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-Source Projects</a><br />
 <a href="../Apollo.1" title="Apollo">Apollo</a>, <a
@@ -152,7 +152,7 @@ href="../WebApollo.1" title="WebApollo">WebApollo</a></td>
 href="http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/GBrowse_Tutorial&amp;action=edit&amp;redlink=1"
 class="new"
 title="GMOD Online Training 2014/GBrowse Tutorial (page does not exist)">GBrowse</a></td>
-<td><a href="../User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="../User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
 GMOD Project Coordinator; <a href="../Chado" class="mw-redirect"
@@ -164,7 +164,7 @@ title="GBrowse">GBrowse</a></td>
 <td><a href="GBrowse_syn_Tutorial"
 title="GMOD Online Training 2014/GBrowse syn Tutorial">GBrowse
 syn</a></td>
-<td><a href="../User:Mckays" title="User:Mckays">Sheldon McKay</a></td>
+<td><a href="../User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a>, <a
 href="http://www.reactome.org" class="external text"

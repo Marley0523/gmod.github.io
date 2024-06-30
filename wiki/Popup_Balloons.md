@@ -49,7 +49,7 @@ height="105" alt="Sample ballon.png" /></a>
 **balloon.js** is a javascript class for balloon tooltips, otherwise
 known as popup balloons, bubble tooltips, rollover tooltips, etc. It is
 maintained by <span class="pops">[Sheldon
-McKay](User:Mckays "User:Mckays")</span>, a scientist at the
+McKay](User%3AMckays "User%3AMckays")</span>, a scientist at the
 <span class="pops"><a href="http://dnalc.org" class="external text" rel="nofollow">DNA
 Learning center</a></span>,
 <span class="pops"><a href="http://www.cshl.edu" class="external text" rel="nofollow">Cold

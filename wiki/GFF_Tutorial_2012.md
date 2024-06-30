@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This tutorial on [GFF](GFF "GFF") was given by [Scott
-Cain](User:Scott "User:Scott") at the [2012 GMOD Summer
+Cain](User%3AScott "User%3AScott") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 **GFF** is a standard file format for storing genomic features in a text

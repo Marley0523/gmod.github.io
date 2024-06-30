@@ -52,7 +52,7 @@ of quantitative data in limited screen space. TopoView does this with a
 3D plot, showing each new set of data just below and offset from the
 previous data set. It was developed to display RNA-Seq data.
 
-[Josh Goodman](../User:Jogoodma "User:Jogoodma")
+[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
 <a href="../../mediawiki/images/3/3a/Flybase_topoview.pdf"
 class="internal" title="Flybase topoview.pdf">presented</a> TopoView at
 the [January 2010 GMOD
@@ -75,7 +75,7 @@ this out there.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   

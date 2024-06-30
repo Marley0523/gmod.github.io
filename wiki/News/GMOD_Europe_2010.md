@@ -140,8 +140,8 @@ space is limited.
 
 See you in Cambridge!
 
-[Scott Cain](../User:Scott "User:Scott") and [Dave
-Clements](../User:Clements "User:Clements")
+[Scott Cain](../User%3AScott "User%3AScott") and [Dave
+Clements](../User%3AClements "User%3AClements")
 
 *PS: If you have topics you want to have covered (or you want to cover)
 at the [GMOD

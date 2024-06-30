@@ -53,7 +53,7 @@ height="52" alt="Subversion" />](../CVS_to_Subversion_Conversion "Subversion") |
 GMOD's CVS source code repository will be [converted to Subversion
 (SVN)](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 on September 15, 2009. [Rob
-Buels](../User:RobertBuels "User:RobertBuels") of Cornell /
+Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
 [SGN](../Category%3ASGN "Category%3ASGN") has generously offered to to do
 this. Notes on the conversion are described on the [CVS to Subversion
 Conversion](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
@@ -106,8 +106,8 @@ reminder and additional info a few days before the conversion.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements") and [Rob
-Buels](../User:RobertBuels "User:RobertBuels")
+[Dave Clements](../User%3AClements "User%3AClements") and [Rob
+Buels](../User%3ARobertBuels "User%3ARobertBuels")
 
   
 

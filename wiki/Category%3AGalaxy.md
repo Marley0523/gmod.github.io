@@ -79,11 +79,11 @@ title="April 2012 GMOD Meeting">April 2012 GMOD Meeting</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="User:Clements" title="User:Clements">User:Clements</a></li>
+<li><a href="User%3AClements" title="User%3AClements">User%3AClements</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User:DanB" title="User:DanB">User:DanB</a></li>
+<li><a href="User%3ADanB" title="User%3ADanB">User%3ADanB</a></li>
 <li><a href="Downloads" title="Downloads">Downloads</a></li>
 </ul>
 <h3 id="g">G</h3>
@@ -114,8 +114,8 @@ Tutorial</a></li>
 </ul>
 <h3 id="j">J</h3>
 <ul>
-<li><a href="User:JamesTaylor"
-title="User:JamesTaylor">User:JamesTaylor</a></li>
+<li><a href="User%3AJamesTaylor"
+title="User%3AJamesTaylor">User%3AJamesTaylor</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>

@@ -68,7 +68,7 @@ Please see the [workshop page](../BA2009 "BA2009") or
 <a href="mailto:help@gmod.org" class="external text"
 rel="nofollow">contact the GMOD Help Desk</a> for more information.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
