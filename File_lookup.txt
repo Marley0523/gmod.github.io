@@ -1,3 +1,4 @@
+Media:BA2009AdRevised.pdf	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/BA2009AdRevised.pdf
 File:01-NESC_January_2006-LINCOLN.pdf	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/01-NESC_January_2006-LINCOLN.pdf
 File:01_Structural.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/01_Structural.png
 File:02-chado-for-nescent-2006.pdf	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf

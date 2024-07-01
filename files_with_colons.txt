@@ -12,7 +12,6 @@
 ./GO::TermFinder/tool_data.md
 ./Help:Editing.md
 ./LabDoc:_Generic_Laboratory_Protocol_Documentation_System.md
-./Media:BA2009AdRevised.pdf.md
 ./MediaWiki:Common.css.md
 ./News/DIYA:_Do_It_Yourself_Annotator.md
 ./News/GCC2014:_June_30_-_July_2.md
