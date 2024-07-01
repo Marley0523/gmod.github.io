@@ -78,9 +78,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
-- [GMOD Community](../Category:GMOD_Community "Category:GMOD Community")
-- [Meetings](../Category:Meetings "Category:Meetings")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [GMOD Community](../Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Meetings](../Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -178,8 +178,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -213,7 +213,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2F2013_Meeting_Registration_Open"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2F2013_Meeting_Registration_Open"
   rel="smw-browse">Browse properties</a></span>
 
 

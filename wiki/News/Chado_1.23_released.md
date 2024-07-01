@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-From [Scott Cain](../User:Scott "User:Scott"):
+From [Scott Cain](../User%3AScott "User%3AScott"):
 
 I've just released Chado 1.23. This is a bug fix release with no changes
 to the schema from the 1.22 release. If you are upgrading from Chado 1.2
@@ -96,8 +96,8 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
-- [Chado](../Category:Chado "Category:Chado")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [Chado](../Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -195,8 +195,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -230,7 +230,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FChado_1.23_released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FChado_1.23_released"
   rel="smw-browse">Browse properties</a></span>
 
 

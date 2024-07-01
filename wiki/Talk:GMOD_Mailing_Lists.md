@@ -52,7 +52,7 @@ predominantly an 'add on' (documentation, discussion, etc.)? I am happy
 to expand the GMOD related content in MetaBase, but I wonder if it
 belongs in the list of 'BioWikis'?
 
-Cheers, --[Dan](User:Dan "User:Dan") 10:18, 3 May 2008 (EDT)
+Cheers, --[Dan](User%3ADan "User%3ADan") 10:18, 3 May 2008 (EDT)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Please send me an
 <a href="mailto:clements@nescent.org" class="external text"
 rel="nofollow">e-mail</a>.
 
-[Dave Clements](User:Clements "User:Clements"), 7 May 2008
+[Dave Clements](User%3AClements "User%3AClements"), 7 May 2008
 
 </div>
 
@@ -88,7 +88,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 
 </div>
 
@@ -182,8 +182,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

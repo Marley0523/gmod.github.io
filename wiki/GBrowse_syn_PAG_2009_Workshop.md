@@ -57,9 +57,9 @@ width="250" height="80" alt="GBrowse syn" /></a>
 This [Comparative Genomics with GBrowse_syn: A hands on workshop for
 visualizing your syntenic data with
 GBrowse_syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented by
-[Sheldon McKay](User:Mckays "User:Mckays"), [Scott
-Cain](User:Scott "User:Scott"), and [Dave
-Clements](User:Clements "User:Clements") at the
+[Sheldon McKay](User%3AMckays "User%3AMckays"), [Scott
+Cain](User%3AScott "User%3AScott"), and [Dave
+Clements](User%3AClements "User%3AClements") at the
 <a href="http://www.intl-pag.org/" class="external text"
 rel="nofollow">Plant and Animal Genome Conference</a>, January 2009. The
 most recent GBrowse syn tutorial can be found at the
@@ -122,16 +122,16 @@ workshop](GBrowse_PAG_2009_Workshop "GBrowse PAG 2009 Workshop") at [PAG
 
 ## <span id="Workshop_Instructors" class="mw-headline">Workshop Instructors</span>
 
-- [Sheldon McKay](User:Mckays "User:Mckays"),
+- [Sheldon McKay](User%3AMckays "User%3AMckays"),
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">iPlant Collaborative</a> (and author of
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn")),
   <a href="http://www.cshl.edu/" class="external text" rel="nofollow">Cold
   Spring Harbor Laboratory</a>
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca/" class="external text"
   rel="nofollow">Ontario Institute for Cancer Research</a>
-- [Dave Clements](User:Clements "User:Clements"),
+- [Dave Clements](User%3AClements "User%3AClements"),
   [GMOD_Help_Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>
@@ -193,8 +193,8 @@ alt="Linux" /></a>
 </div>
 
 A free VMware player is available for [Microsoft
-Windows](Category:Windows "Category:Windows") and
-[Linux](Category:Linux "Category:Linux") [operating
+Windows](Category%3AWindows "Category%3AWindows") and
+[Linux](Category%3ALinux "Category%3ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -216,7 +216,7 @@ alt="Apple" /></a>
 Participants can also bring *newer Macs with Intel processors*. The
 Intel processor is a requirement for all the packages discussed below.
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category:Mac_OS_X "Category:Mac OS X"). However, there are several
+X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
 other options, **all of which require an Intel Mac**:
 
   
@@ -300,10 +300,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
 </div>
 
@@ -315,12 +315,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn PAG 2009
-Workshop](Special:Browse/GBrowse-20syn-20PAG-202009-20Workshop "Special:Browse/GBrowse-20syn-20PAG-202009-20Workshop")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Workshop](Special%3ABrowse/GBrowse-20syn-20PAG-202009-20Workshop "Special%3ABrowse/GBrowse-20syn-20PAG-202009-20Workshop")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Special:ExportRDF/GBrowse syn PAG 2009 Workshop")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/GBrowse-20syn "Special:SearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 </div>
 
@@ -416,8 +416,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -451,7 +451,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_PAG_2009_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_2009_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

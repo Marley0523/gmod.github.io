@@ -92,9 +92,9 @@ rel="nofollow">http://sourceforge.net/projects/turnkey</a>.
 <a href="http://genomebiology.com/2008/9/6/R102" class="external text"
 rel="nofollow">GMODWeb: a web framework for the generic model organism
 database</a>,  
-by Brian D O'Connor, Allen Day, [Scott Cain](User:Scott "User:Scott"),
-Olivier Arnaiz, [Linda Sperling](User:Sperling "User:Sperling") and
-[Lincoln D Stein](User:Lstein "User:Lstein"), Genome Biology 2008,
+by Brian D O'Connor, Allen Day, [Scott Cain](User%3AScott "User%3AScott"),
+Olivier Arnaiz, [Linda Sperling](User%3ASperling "User%3ASperling") and
+[Lincoln D Stein](User%3ALstein "User%3ALstein"), Genome Biology 2008,
 9:R102. The publication describing GMODWeb
 
 [GMODWeb and Package Management](File:Jan2009GMODWebAndPackages.pdf "File:Jan2009GMODWebAndPackages.pdf")  
@@ -116,9 +116,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
-- [GMODWeb](Category:GMODWeb "Category:GMODWeb")
-- [Turnkey](Category:Turnkey "Category:Turnkey")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [GMODWeb](Category%3AGMODWeb "Category%3AGMODWeb")
+- [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
 
 </div>
 
@@ -214,8 +214,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -249,7 +249,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMODWeb" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODWeb" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

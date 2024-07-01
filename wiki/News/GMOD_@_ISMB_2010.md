@@ -65,7 +65,7 @@ listing](../ISMB_2010#Flier "ISMB 2010") you can print in advance. See
 the <a href="http://www.iscb.org/ismb2010" class="external text"
 rel="nofollow">ISMB 2010 web site</a> for more on the conference.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -91,7 +91,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -189,8 +189,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -224,7 +224,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_@_ISMB_2010"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_@_ISMB_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

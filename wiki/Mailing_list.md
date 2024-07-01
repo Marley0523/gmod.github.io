@@ -479,7 +479,7 @@ class="external text" rel="nofollow">gmod-architecture</a> | GMOD architecture w
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-chado-seq-ad"
 class="external text" rel="nofollow">gmod-chado-seq-ad</a> | Last post November 2006. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-citrina"
-class="external text" rel="nofollow">gmod-citrina</a> | [Citrina](Citrina "Citrina") mailing list. Last post June 2006. Citrina is [no longer supported](Category:Unsupported "Category:Unsupported") by GMOD. |
+class="external text" rel="nofollow">gmod-citrina</a> | [Citrina](Citrina "Citrina") mailing list. Last post June 2006. Citrina is [no longer supported](Category%3AUnsupported "Category%3AUnsupported") by GMOD. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmae"
 class="external text" rel="nofollow">gmod-cmae</a> | [CMAE](CMAE "CMAE") mailing list. Last post July 2007. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-das2-cmts"
@@ -514,7 +514,7 @@ class="external text" rel="nofollow">ISB</a> (formerly <a href="http://mailman.t
 class="external text" rel="nofollow">Biocurator</a>) | List for biological data curators and informatics people who support them. If you are interested in how biological databases are created, maintained and used, then subscribe to this list. | <a href="http://mailman.tairgroup.org/pipermail/biocurator/"
 class="external text" rel="nofollow">TAIR</a> (2009/12-) |
 | <a href="http://lists.open-bio.org/mailman/listinfo/bioperl-l"
-class="external text" rel="nofollow">Bioperl-l</a> | Primary [BioPerl](BioPerl "BioPerl") mailing list and is meant both for developers as well as people who are interested in project issues and internals. The place where usage, code modifications, bugs & feature requests are discussed. If you do development with any of GMOD's [Perl based](Category:Perl "Category:Perl") components then this is a useful list. |  |
+class="external text" rel="nofollow">Bioperl-l</a> | Primary [BioPerl](BioPerl "BioPerl") mailing list and is meant both for developers as well as people who are interested in project issues and internals. The place where usage, code modifications, bugs & feature requests are discussed. If you do development with any of GMOD's [Perl based](Category%3APerl "Category%3APerl") components then this is a useful list. |  |
 | <a href="http://lists.open-bio.org/mailman/listinfo/open-bio-l"
 class="external text" rel="nofollow">OBF cross-project</a> | This list is for <a href="http://open-bio.org" class="external text" rel="nofollow">Open
 Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and BioSQL issues. |  |
@@ -534,9 +534,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Help](Category:Help "Category:Help")
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [Help](Category%3AHelp "Category%3AHelp")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
 </div>
 
@@ -630,8 +630,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -665,7 +665,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Mailing_Lists" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Mailing_Lists" rel="smw-browse">Browse
   properties</a></span>
 
 

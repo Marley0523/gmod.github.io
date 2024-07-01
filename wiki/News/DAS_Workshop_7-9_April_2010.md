@@ -75,7 +75,7 @@ See the <a href="http://www.ebi.ac.uk/training/handson/DAS_070410.html"
 class="external text" rel="nofollow">workshop page</a> for more
 information and registration details.
 
-[Jonathan Warren](../User:JWarren "User:JWarren")
+[Jonathan Warren](../User%3AJWarren "User%3AJWarren")
 
   
 
@@ -100,7 +100,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -198,8 +198,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -233,7 +233,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FDAS_Workshop_7-2D9_April_2010"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDAS_Workshop_7-2D9_April_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

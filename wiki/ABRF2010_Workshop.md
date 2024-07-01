@@ -544,7 +544,7 @@ rel="nofollow">http://abrf2010.jbrowse.org/~profilename/</a>
 SSH into the ABRF jbrowse machine:
 <span style="font-size: large; font-family: monospace">abrf2010.jbrowse.org</span>
 
-User: your profile name from the morning session
+User%3A your profile name from the morning session
 
 Password: abrf_HTS
 
@@ -571,7 +571,7 @@ Add the GFF file to your JBrowse instance:
 ## <span id="Conference_Talk" class="mw-headline">Conference Talk</span>
 
 **Seeing the Forest and the Trees: Visualizing Next Generation Sequence
-Data**, by [Mitch Skinner](User:MitchSkinner "User:MitchSkinner")
+Data**, by [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
 
 Part of the Session *Tools to Facilitate Management, Analysis and
 Visualization of 2nd Generation Sequencing Data*
@@ -593,12 +593,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -694,8 +694,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -729,7 +729,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/ABRF2010_Workshop" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ABRF2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -48,7 +48,7 @@ rel="nofollow">http://apollo.berkeleybop.org/current/</a>
 
 Cheers,
 
-[Ed Lee](../User:Elee "User:Elee")
+[Ed Lee](../User%3AElee "User%3AElee")
 
   
 
@@ -73,7 +73,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -171,8 +171,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FApollo_1.11.2_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FApollo_1.11.2_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

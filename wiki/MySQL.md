@@ -112,7 +112,7 @@ an unfriendly error message, even though the same data loaded without
 incident using the MySQL adaptor. After spending a few days looking for
 bugs in the PostgreSQL adaptor that I'd written, I started looking at
 the data. It turns out that the test data (the entire
-[WormBase](Category:WormBase "Category:WormBase") [GFF](GFF "GFF") at
+[WormBase](Category%3AWormBase "Category%3AWormBase") [GFF](GFF "GFF") at
 the time) had data in it that violated a unique constraint on the fdata
 table. That is the main data table, and the constraint was over
 (fref,fbin,fstart,fstop,ftypeid,gid). Basically, the WormBase GFF had a
@@ -147,8 +147,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [MySQL](Category:MySQL "Category:MySQL")
-- [External](Category:External "Category:External")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -244,8 +244,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -279,7 +279,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MySQL" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MySQL" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

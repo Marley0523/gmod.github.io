@@ -152,7 +152,7 @@ Chado) can be reused across multiple databases.
 #### <span id="Database_Web_Site" class="mw-headline">Database Web Site</span>
 
 Web sites that feature a lot of database driven content, such as
-[FlyBase](Category:FlyBase "Category:FlyBase")
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 (<a href="http://flybase.org" class="external free"
 rel="nofollow">http://flybase.org</a>) or
 [ParameciumDB](ParameciumDB "ParameciumDB")
@@ -193,7 +193,7 @@ Chado.
 
 [BioMart](BioMart "BioMart") is a data warehouse package tailored for
 biological data. It takes existing databases (for example, the
-[FlyBase](Category:FlyBase "Category:FlyBase")
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database),
 transforms them into a data warehouse and then provides a web interface
 for supporting arbitrary queries against the data.
@@ -372,9 +372,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [PostgreSQL](Category:PostgreSQL "Category:PostgreSQL")
-- [MySQL](Category:MySQL "Category:MySQL")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
 
 </div>
 
@@ -470,8 +470,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -505,7 +505,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Databases_and_GMOD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Databases_and_GMOD" rel="smw-browse">Browse
   properties</a></span>
 
 

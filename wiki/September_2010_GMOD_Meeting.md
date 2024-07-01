@@ -387,11 +387,11 @@ division.
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 09:15 | Introductions | [Scott Cain](User:Scott "User:Scott") |  |
-| 10:00 | The State of GMOD | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/7/78/TheStateofGMODSept2010.pdf"
+| 09:15 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
+| 10:00 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/7/78/TheStateofGMODSept2010.pdf"
 class="internal" title="TheStateofGMODSept2010.pdf">PDF</a>, [Summary](#The_State_of_GMOD) |
 | 10:30 | Break |  |  |
-| 11:00 | [Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User:Clements "User:Clements") | <a href="../mediawiki/images/b/bf/HelpDeskSept2010.pdf" class="internal"
+| 11:00 | [Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/b/bf/HelpDeskSept2010.pdf" class="internal"
 title="HelpDeskSept2010.pdf">PDF</a>, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODSeptember/HelpDeskSept2010.ppt"
 class="external text" rel="nofollow">PPT</a>, [Summary](#Help_Desk_Update) |
@@ -403,7 +403,7 @@ href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Op
 class="new" title="OpenMicroscopySept2010.ppt">PPT</a>, [Summary](#The_Open_Microscopy_Environment:_Open_Informatics_for_Biological_Imaging) |
 | 12:30 | Catered Lunch |  |  |
 | 13:45 | <a href="http://psicquic.googlecode.com" class="external text"
-rel="nofollow">PSICQUIC</a>: The PSI Common QUery Interface | [Bruno Aranda](User:Baranda "User:Baranda") | <a href="../mediawiki/images/d/d2/PSICQUICSept2010.pdf" class="internal"
+rel="nofollow">PSICQUIC</a>: The PSI Common QUery Interface | [Bruno Aranda](User%3ABaranda "User%3ABaranda") | <a href="../mediawiki/images/d/d2/PSICQUICSept2010.pdf" class="internal"
 title="PSICQUICSept2010.pdf">PDF</a>, [Summary](#PSICQUIC:_The_PSI_Common_QUery_Interface) |
 | 14:15 | [MolGenIS](MolGenIS "MolGenIS") and <a href="http://www.xgap.org" class="external text"
 rel="nofollow">XGAP</a> | Morris Swertz | <a href="../mediawiki/images/d/df/MolGenISXGAPSept2010.pdf"
@@ -417,7 +417,7 @@ class="external text" rel="nofollow">gdoc</a>, [Summary](#The_GMOD_Chado_Natural
 | 15:45 | Cosmic [GBrowse](GBrowse.1 "GBrowse"): Visualising cancer mutations in genomic context | David Beare | <a href="../mediawiki/images/6/6c/CosmicGBrowseSept2010.pdf"
 class="internal" title="CosmicGBrowseSept2010.pdf">PDF</a>, <a href="../mediawiki/images/0/0e/CosMicGBrowseSept2010.ppt"
 class="internal" title="CosMicGBrowseSept2010.ppt">PPT</a>, [Summary](#Cosmic_GBrowse:_Visualising_cancer_mutations_in_genomic_context) |
-| 16:15 | GMOD Projects at the Center for Genomics and Bioinformatics | [Chris Hemmerich](User:Chemmeri "User:Chemmeri") | <a href="../mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf"
+| 16:15 | GMOD Projects at the Center for Genomics and Bioinformatics | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") | <a href="../mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf"
 class="internal" title="ISGAWebGBrowseSept2010.pdf">PDF</a>, <a href="../mediawiki/images/3/3f/ISGAWebGBrowseSept2010.pptx"
 class="internal" title="ISGAWebGBrowseSept2010.pptx">PPT</a>, [Summary](#GMOD_Projects_at_the_Center_for_Genomics_and_Bioinformatics) |
 
@@ -425,15 +425,15 @@ class="internal" title="ISGAWebGBrowseSept2010.pptx">PPT</a>, [Summary](#GMOD_Pr
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 09:15 | [GMOD RPC API](GMOD_RPC_API "GMOD RPC API"): The almost RESTful GMOD API | [Josh Goodman](User:Jogoodma "User:Jogoodma") | <a href="../mediawiki/images/e/ee/GMOD_RPC_Sept_2010.pdf"
+| 09:15 | [GMOD RPC API](GMOD_RPC_API "GMOD RPC API"): The almost RESTful GMOD API | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="../mediawiki/images/e/ee/GMOD_RPC_Sept_2010.pdf"
 class="internal" title="GMOD RPC Sept 2010.pdf">PDF</a>, [Summary](#GMOD_RPC_API:_The_almost_RESTful_GMOD_API) |
 | 09:45 | Overview of current resources and update on <a href="DAS" class="mw-redirect" title="DAS">DAS</a> Meeting Cambridge 2010 | Jonathan Warren | <a href="../mediawiki/images/e/e6/DAS_Sept2010.pdf" class="internal"
 title="DAS Sept2010.pdf">PDF</a>, <a href="../mediawiki/images/e/e7/DAS_Sept2010.pptx" class="internal"
 title="DAS Sept2010.pptx">PPT</a>, [Summary](#Overview_of_current_resources_and_update_on_DAS_Meeting_Cambridge_2010) |
-| 10:15 | [InterMine](InterMine "InterMine"): new Mines and new features | [Richard Smith](User:Rsmith "User:Rsmith") | <a href="../mediawiki/images/1/1c/InterMine_Sept2010.pdf"
+| 10:15 | [InterMine](InterMine "InterMine"): new Mines and new features | [Richard Smith](User%3ARsmith "User%3ARsmith") | <a href="../mediawiki/images/1/1c/InterMine_Sept2010.pdf"
 class="internal" title="InterMine Sept2010.pdf">PDF</a>, [Summary](#InterMine:_new_Mines_and_new_features) |
 | 10:40 | Break |  |  |
-| 11:00 | Literature Curation in GMOD | [Daniel Renfro](User:DanielRenfro "User:DanielRenfro") | <a href="../mediawiki/images/6/62/Literature_Curation_Sept2010.pdf"
+| 11:00 | Literature Curation in GMOD | [Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro") | <a href="../mediawiki/images/6/62/Literature_Curation_Sept2010.pdf"
 class="internal" title="Literature Curation Sept2010.pdf">PDF</a>, <a href="../mediawiki/images/4/4d/Literature_Curation_Sept2010.ppt"
 class="internal" title="Literature Curation Sept2010.ppt">PPT</a>, [Summary](#Literature_Curation_in_GMOD) |
 | 11:30 | Towards a GO Annotation Tool: Curation Accelerator Software | Helen Field | <a href="../mediawiki/images/7/70/GO_Curation_Sept2010.pdf"
@@ -443,15 +443,15 @@ class="internal" title="GO Curation Sept2010.key">KEY</a>, [Summary](#Towards_a_
 class="internal" title="BioPivot Sept2010.pdf">PDF</a>, <a href="../mediawiki/images/a/a2/BioPivot_Sept2010.ppt"
 class="internal" title="BioPivot Sept2010.ppt">PPT</a>, [Summary](#BioPivot) |
 | 12:30 | Catered Lunch |  |  |
-| 13:45 | CRAWL (<a href="Chado" class="mw-redirect" title="Chado">Chado</a> RESTful Access Web-service Layer) | [Giles Verlarde](User:Buggy "User:Buggy") | <a href="../mediawiki/images/3/3d/CRAWL_Sept2010.pdf" class="internal"
+| 13:45 | CRAWL (<a href="Chado" class="mw-redirect" title="Chado">Chado</a> RESTful Access Web-service Layer) | [Giles Verlarde](User%3ABuggy "User%3ABuggy") | <a href="../mediawiki/images/3/3d/CRAWL_Sept2010.pdf" class="internal"
 title="CRAWL Sept2010.pdf">PDF</a>, [Summary](#CRAWL_.28Chado_RESTful_Access_Web-service_Layer.29_-_a_programmatic_interface_for_querying_pathogen_genomics_data) |
 | 14:15 | Lessons the GMOD community can glean from the <a
 href="http://www.slideshare.net/bosc2010/gardler-bosc2010-communitydevelopmentattheasf"
 class="external text" rel="nofollow">Apache Software Foundation</a> |  | [Summary](#Lessons_from_the_Apache_Community) |
 | 14:45 | Lightning talks |  | [Summary](#Lightning_Talks) |
-|  | [GBrowse 2 and JBrowse Features](#GBrowse_2_and_JBrowse_Features) | [Scott Cain](User:Scott "User:Scott") | [Summary](#GBrowse_2_and_JBrowse_Features) |
+|  | [GBrowse 2 and JBrowse Features](#GBrowse_2_and_JBrowse_Features) | [Scott Cain](User%3AScott "User%3AScott") | [Summary](#GBrowse_2_and_JBrowse_Features) |
 |  | [CpG Island and STR Annotator Plugins](#CpG_Island_and_STR_Annotator_Plugins) | Joan Pontius | [Summary](#CpG_Island_and_STR_Annotator_Plugins) |
-|  | [GMOD Sustainability and Organization](#GMOD_Sustainability_and_Organization) | [Dave Clements](User:Clements "User:Clements") | [Summary](#GMOD_Sustainability_and_Organization) |
+|  | [GMOD Sustainability and Organization](#GMOD_Sustainability_and_Organization) | [Dave Clements](User%3AClements "User%3AClements") | [Summary](#GMOD_Sustainability_and_Organization) |
 | 15:15 | Break |  |  |
 
 ## <span id="Wednesday_.26_Thursday.2C_15-16_September" class="mw-headline">Wednesday & Thursday, 15-16 September</span>
@@ -636,11 +636,11 @@ of current resources and update on DAS Meeting Cambridge 2010</a></li>
 <div class="floatright">
 
 [<img src="../mediawiki/images/c/c0/ScottSept2010.jpg" width="100"
-height="135" alt="Scott Cain" />](User:Scott "Scott Cain")
+height="135" alt="Scott Cain" />](User%3AScott "Scott Cain")
 
 </div>
 
-[Scott Cain](User:Scott "User:Scott"),
+[Scott Cain](User%3AScott "User%3AScott"),
 <a href="../mediawiki/images/7/78/TheStateofGMODSept2010.pdf"
 class="internal" title="TheStateofGMODSept2010.pdf">PDF</a>
 
@@ -800,7 +800,7 @@ part of [GMOD Americas 2011](GMOD_Americas_2011 "GMOD Americas 2011").**
 
 ## <span id="Help_Desk_Update" class="mw-headline">[Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update</span>
 
-[Dave Clements](User:Clements "User:Clements"),
+[Dave Clements](User%3AClements "User%3AClements"),
 <a href="../mediawiki/images/b/bf/HelpDeskSept2010.pdf" class="internal"
 title="HelpDeskSept2010.pdf">PDF</a>, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODSeptember/HelpDeskSept2010.ppt"
@@ -879,8 +879,8 @@ How?
 - [Powered by GMOD](Powered_by_GMOD "Powered by GMOD") icons
 - [Speakers](GMOD_Promotion#Speakers "GMOD Promotion") at [your
   event](Calendar#GMOD_Event_List "Calendar"); not just
-  [Scott](User:Scott "User:Scott") and
-  [Dave](User:Clements "User:Clements"). PIs and developers are also
+  [Scott](User%3AScott "User%3AScott") and
+  [Dave](User%3AClements "User%3AClements"). PIs and developers are also
   available.
 - [Graphics &
   slides](GMOD_Promotion#Presentation_Material "GMOD Promotion") for
@@ -1053,7 +1053,7 @@ GBrowse → JBrowse Migration Support
 
 ### <span id="New_Components" class="mw-headline">New Components</span>
 
-[ISGA](ISGA "ISGA") - [Chris Hemmerich](User:Chemmeri "User:Chemmeri")
+[ISGA](ISGA "ISGA") - [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri")
 *et al.* at Indiana U.
 
 - Bioinformatics pipeline service software built on
@@ -1293,11 +1293,11 @@ rel="nofollow">PSICQUIC</a>: The PSI Common QUery Interface</span>
 <div class="floatright">
 
 [<img src="../mediawiki/images/6/65/Sept2010Bruno.jpg" width="100"
-height="106" alt="Bruno Baranda" />](User:Baranda "Bruno Baranda")
+height="106" alt="Bruno Baranda" />](User%3ABaranda "Bruno Baranda")
 
 </div>
 
-[Bruno Aranda](User:Baranda "User:Baranda"),
+[Bruno Aranda](User%3ABaranda "User%3ABaranda"),
 <a href="../mediawiki/images/d/d2/PSICQUICSept2010.pdf" class="internal"
 title="PSICQUICSept2010.pdf">PDF</a>
 
@@ -1870,7 +1870,7 @@ height="108" alt="Chris Hemmerich" /></a>
 
 </div>
 
-[Chris Hemmerich](User:Chemmeri "User:Chemmeri"),
+[Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
 <a href="../mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf"
 class="internal" title="ISGAWebGBrowseSept2010.pdf">PDF</a>,
 <a href="../mediawiki/images/3/3f/ISGAWebGBrowseSept2010.pptx"
@@ -2059,7 +2059,7 @@ alt="Josh Goodman" /></a>
 
 </div>
 
-[Josh Goodman](User:Jogoodma "User:Jogoodma"),
+[Josh Goodman](User%3AJogoodma "User%3AJogoodma"),
 <a href="../mediawiki/images/e/ee/GMOD_RPC_Sept_2010.pdf"
 class="internal" title="GMOD RPC Sept 2010.pdf">PDF</a>
 
@@ -2109,7 +2109,7 @@ specific
 implementation. However, the proposal is trying to be agnostic in terms
 of what data types are expected. Josh is working on the Perl
 implementation. Others are working on PHP ([Jim
-Hu](User:JimHu.1 "User:JimHu")) and Java implementations.
+Hu](User%3AJimHu.1 "User%3AJimHu")) and Java implementations.
 
 ### <span id="Perl_Implementation" class="mw-headline">Perl Implementation</span>
 
@@ -2307,7 +2307,7 @@ New viewers:
   rel="nofollow">Karyodas</a> (Decipher, mykaryoview)
 - [Apollo](Apollo.1 "Apollo") - new DAS DataAdapter release soon.
   (Written by Jonathon about 6 months ago. Needs to be finished and sent
-  to [Ed Lee](User:Elee "User:Elee").)
+  to [Ed Lee](User%3AElee "User%3AElee").)
 - [JBrowse](JBrowse.1 "JBrowse")? - in current grant proposal.
 
 Other DAS Clients:
@@ -2341,7 +2341,7 @@ height="80" alt="Richard Smith" /></a>
 
 </div>
 
-[Richard Smith](User:Rsmith "User:Rsmith"),
+[Richard Smith](User%3ARsmith "User%3ARsmith"),
 <a href="../mediawiki/images/1/1c/InterMine_Sept2010.pdf"
 class="internal" title="InterMine Sept2010.pdf">PDF</a>
 
@@ -2375,8 +2375,8 @@ the web interface. The web interface includes:
 ### <span id="Mines_for_MODs" class="mw-headline">Mines for MODs</span>
 
 This project is creating *mines* at several large MODs. FlyMine was the
-original application for InterMine. [RGD](Category:RGD "Category:RGD")'s
-mine has been released. [SGD](Category:SGD "Category:SGD") and
+original application for InterMine. [RGD](Category%3ARGD "Category%3ARGD")'s
+mine has been released. [SGD](Category%3ASGD "Category%3ASGD") and
 <a href="http://zfin.org" class="external text"
 rel="nofollow">ZFIN's</a> mines are in beta. There is a common interface
 across all of the mines. Each organization supports their with mine with
@@ -2454,7 +2454,7 @@ InterMine 0.94 also includes
 
 ## <span id="Literature_Curation_in_GMOD" class="mw-headline">Literature Curation in GMOD</span>
 
-[Daniel Renfro](User:DanielRenfro "User:DanielRenfro"),
+[Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro"),
 <a href="../mediawiki/images/6/62/Literature_Curation_Sept2010.pdf"
 class="internal" title="Literature Curation Sept2010.pdf">PDF</a>,
 <a href="../mediawiki/images/4/4d/Literature_Curation_Sept2010.ppt"
@@ -2512,7 +2512,7 @@ class="internal" title="GO Curation Sept2010.key">Keynote</a>
 
 ### <span id="The_Challenge" class="mw-headline">The Challenge</span>
 
-[FlyBase](Category:FlyBase "Category:FlyBase") (and other) literature
+[FlyBase](Category%3AFlyBase "Category%3AFlyBase") (and other) literature
 curators read papers, extract information per paper, recording new
 constructs, phenotypes, and allele construction. FlyBase also does gene
 ontology (GO) annotation and wants to make this easy for curators or the
@@ -2686,7 +2686,7 @@ height="120" alt="Giles Verlarde" /></a>
 
 A programmatic interface for querying pathogen genomics data
 
-[Giles Verlarde](User:Buggy "User:Buggy"),
+[Giles Verlarde](User%3ABuggy "User%3ABuggy"),
 <a href="../mediawiki/images/3/3d/CRAWL_Sept2010.pdf" class="internal"
 title="CRAWL Sept2010.pdf">PDF</a>
 
@@ -2842,7 +2842,7 @@ the GMOD community.
 
 ### <span id="GBrowse_2_and_JBrowse_Features" class="mw-headline">[GBrowse](GBrowse.1 "GBrowse") 2 and [JBrowse](JBrowse.1 "JBrowse") Features</span>
 
-[Scott Cain](User:Scott "User:Scott")
+[Scott Cain](User%3AScott "User%3AScott")
 
 Scott talked about new features in [GBrowse](GBrowse.1 "GBrowse") 2 and
 [JBrowse](JBrowse.1 "JBrowse"). Some topics covered:
@@ -2905,13 +2905,13 @@ temporary flat file.
 
 ### <span id="GMOD_Sustainability_and_Organization" class="mw-headline">GMOD Sustainability and Organization</span>
 
-[Dave Clements](User:Clements "User:Clements")
+[Dave Clements](User%3AClements "User%3AClements")
 
 The GMOD project has no central organization *per se*, and has no legal
 status whatsoever. The GMOD *core*, such as it is, is not particularly
 well funded. It currently consists of [Scott
-Cain](User:Scott "User:Scott"), the GMOD Project Coordinator, and [Dave
-Clements](User:Clements "User:Clements"), the [GMOD Help
+Cain](User%3AScott "User%3AScott"), the GMOD Project Coordinator, and [Dave
+Clements](User%3AClements "User%3AClements"), the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk"). Scott's funding comes entirely
 from WormBase, while Dave is only 60% funded (via the JBrowse/GBrowse
 grant) to work on the Help Desk. This is not particularly good ground to
@@ -2943,22 +2943,22 @@ of thing. Being the BBSRC, it must have some sort of British focus.
 rel="nofollow">BILAT-USA and Link2US</a> as a possible sources of
 general European funding.)
 
-[Josh Goodman](User:Jogoodma "User:Jogoodma") suggested having a *hosted
+[Josh Goodman](User%3AJogoodma "User%3AJogoodma") suggested having a *hosted
 GMOD* service as a possible way to support this. This comes up every
 year and would be a possible way to initially get funding and then
 generate revenue from support fees.
 
 We also discussed if GMOD events should strive to become larger, and if
 the GMOD organization should aim to become more "official". [Daniel
-Renfro](User:DanielRenfro "User:DanielRenfro") stressed that going for
+Renfro](User%3ADanielRenfro "User%3ADanielRenfro") stressed that going for
 larger events should not be done at the expense of the relatively small
 (~40-60 people), informal and networking-intensive GMOD Meetings that we
-currently have. [Scott Cain](User:Scott "User:Scott") posed the question
+currently have. [Scott Cain](User%3AScott "User%3AScott") posed the question
 of becoming a sister organization to the International Society for
 Biocuration. That organization is the natural complement to GMOD, and
 they have (larger) annual meetings and are a legal entity.
 
-[Chris Hemmerich](User:Chemmeri "User:Chemmeri") raised the possibility
+[Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") raised the possibility
 of having more frequent hackathons. This question was spawned by the
 upcoming [GMOD Evo Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon")
 (November 2010). That hackathon is unique event, given its extensive
@@ -2982,14 +2982,14 @@ as another growth area.
 
 | Participant | Affilliation(s) | URL |
 |----|----|----|
-| [Scott Cain](User:Scott "User:Scott") | OICR | <a href="http://gmod.org/" class="external free"
+| [Scott Cain](User%3AScott "User%3AScott") | OICR | <a href="http://gmod.org/" class="external free"
 rel="nofollow">http://gmod.org/</a> |
-| [Dave Clements](User:Clements "User:Clements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
+| [Dave Clements](User%3AClements "User%3AClements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
 rel="nofollow">http://nescent.org</a> <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> |
-| [Josh Goodman](User:Jogoodma "User:Jogoodma") | FlyBase - Indiana University | <a href="http://flybase.org" class="external free"
+| [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | FlyBase - Indiana University | <a href="http://flybase.org" class="external free"
 rel="nofollow">http://flybase.org</a> |
-| [Richard Smith](User:Rsmith "User:Rsmith") | Cambridge University | <a href="http://www.intermine.org" class="external free"
+| [Richard Smith](User%3ARsmith "User%3ARsmith") | Cambridge University | <a href="http://www.intermine.org" class="external free"
 rel="nofollow">http://www.intermine.org</a> |
 | Anup Mahurkar | Institute for Genome Sciences University of Maryland School of Medicine |  |
 | joan pontius | SAIC-NCI-FREDERICK Laboratory of Genomic Diversity | <a href="http://lgd.abcc.ncifcrf.gov/cgi-bin/gbrowse/cat/"
@@ -2998,7 +2998,7 @@ rel="nofollow">http://lgd.abcc.ncifcrf.gov/cgi-bin/gbrowse/cat/</a> |
 | Christelle Robert | The Roslin Institute The University of Edinburgh |  |
 | Matthew Eldridge | Cancer Research UK - Cambridge Research Institute |  |
 | Fengyuan Hu | Department of Genetics, University of Cambridge |  |
-| [Daniel Renfro](User:DanielRenfro "User:DanielRenfro") | EcoliWiki, SubtilisWiki, Hu lab - Texas A&M University | <a href="http://ecoliwiki.net" class="external text"
+| [Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro") | EcoliWiki, SubtilisWiki, Hu lab - Texas A&M University | <a href="http://ecoliwiki.net" class="external text"
 rel="nofollow">EcoliWiki</a>, <a href="http://subtiliswiki.net" class="external text"
 rel="nofollow">SubtilisWiki</a>, <a href="http://gowiki.tamu.edu" class="external text"
 rel="nofollow">GONUTS</a> |
@@ -3017,7 +3017,7 @@ rel="nofollow">http://www.openmicroscopy.org/</a> |
 class="external free"
 rel="nofollow">http://www.sanger.ac.uk/research/projects/cancergenome.html</a> |
 | seth redmond | Imperial College / Vectorbase |  |
-| [Chris Hemmerich](User:Chemmeri "User:Chemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
+| [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
 rel="nofollow">http://cgb.indiana.edu</a> |
 | Emmanuel Quevillon | Institut Pasteur | <a
 href="http://www.pasteur.fr/ip/easysite/go/03b-00000m-0q8/recherche/logiciels-et-banques-de-donnees"
@@ -3063,11 +3063,11 @@ rel="nofollow">http://www.mdc-berlin.de/en/research/core_facilities/cf_bioinform
 rel="nofollow">http://www.dasregistry.org</a> |
 | Stephen Taylor | CBRG, Oxford University | <a href="http://www.cbrg.ox.ac.uk/" class="external free"
 rel="nofollow">http://www.cbrg.ox.ac.uk/</a> |
-| [Bruno Aranda](User:Baranda "User:Baranda") | EMBL-EBI | <a href="http://www.ebi.ac.uk/intact" class="external free"
+| [Bruno Aranda](User%3ABaranda "User%3ABaranda") | EMBL-EBI | <a href="http://www.ebi.ac.uk/intact" class="external free"
 rel="nofollow">http://www.ebi.ac.uk/intact</a>, <a href="http://psicquic.googlecode.com" class="external free"
 rel="nofollow">http://psicquic.googlecode.com</a> |
 | Mahmut Uludag | European Bioinformatics Institute |  |
-| [Giles Velarde](User:Buggy "User:Buggy") | The Sanger Centre | <a href="http://www.genedb.org" class="external free"
+| [Giles Velarde](User%3ABuggy "User%3ABuggy") | The Sanger Centre | <a href="http://www.genedb.org" class="external free"
 rel="nofollow">http://www.genedb.org</a>, <a href="http://www.sanger.ac.uk" class="external free"
 rel="nofollow">http://www.sanger.ac.uk</a> |
 | Andy Jenkinson | European Bioinformatics Institute |  |
@@ -3137,7 +3137,7 @@ excellence in research and teaching and to promote collaborations both
 within the Cambridge area and beyond."
 
 Please thank Gos Miclem, Shelley Lawson, and [Richard
-Smith](User:Rsmith "User:Rsmith") for hosting the event. We could not
+Smith](User%3ARsmith "User%3ARsmith") for hosting the event. We could not
 have done this without their support, effort and time.
 
   
@@ -3287,22 +3287,22 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [AJAX](Category:AJAX "Category:AJAX")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Chado](Category:Chado "Category:Chado")
-- [DAS](Category:DAS "Category:DAS")
-- [Ergatis](Category:Ergatis "Category:Ergatis")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMOD Web Site](Category:GMOD_Web_Site "Category:GMOD Web Site")
-- [InterMine](Category:InterMine "Category:InterMine")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Chado](Category%3AChado "Category%3AChado")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [Ergatis](Category%3AErgatis "Category%3AErgatis")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 - [Natural
-  Diversity](Category:Natural_Diversity "Category:Natural Diversity")
+  Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
 
 </div>
 
@@ -3398,8 +3398,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -3433,7 +3433,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/September_2010_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/September_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

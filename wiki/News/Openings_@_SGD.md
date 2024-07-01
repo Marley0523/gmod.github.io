@@ -61,7 +61,7 @@ href="http://recruit.trovix.com/jobhostmaster/jobhost/ListJobPosts.do?action=sea
 class="external text" rel="nofollow">job postings</a> for more
 information.
 
-[SGD](../Category:SGD "Category:SGD") is both a GMOD contributor
+[SGD](../Category%3ASGD "Category%3ASGD") is both a GMOD contributor
 (*e.g.*, [BLAST Graphic
 Viewer](../BLAST_Graphic_Viewer.1 "BLAST Graphic Viewer")) and GMOD
 user.
@@ -89,7 +89,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -187,8 +187,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -222,7 +222,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FOpenings_@_SGD"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FOpenings_@_SGD"
   rel="smw-browse">Browse properties</a></span>
 
 

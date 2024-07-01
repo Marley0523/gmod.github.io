@@ -82,7 +82,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 ### <span id="What_is_this_FAQ.3F" class="mw-headline">What is this FAQ?</span>
 
 It is the list of [Frequently Asked
-Questions](Category:FAQ "Category:FAQ") about [CMap](CMap.1 "CMap").
+Questions](Category%3AFAQ "Category%3AFAQ") about [CMap](CMap.1 "CMap").
 
 ### <span id="How_is_it_maintained.3F" class="mw-headline">How is it maintained?</span>
 
@@ -274,8 +274,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [CMap](Category:CMap "Category:CMap")
-- [FAQ](Category:FAQ "Category:FAQ")
+- [CMap](Category%3ACMap "Category%3ACMap")
+- [FAQ](Category%3AFAQ "Category%3AFAQ")
 
 </div>
 
@@ -371,8 +371,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -406,7 +406,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CMap_FAQ" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMap_FAQ" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

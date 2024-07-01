@@ -87,7 +87,7 @@ Meeting](../August_2009_GMOD_Meeting#GBrowse.org "August 2009 GMOD Meeting").
 
 Ciao,
 
-[Alessandra Bilardi](../User:Bilardi "User:Bilardi")  
+[Alessandra Bilardi](../User%3ABilardi "User%3ABilardi")  
 <a href="http://genomics.cribi.unipd.it/Main_Page" class="external text"
 rel="nofollow">CRIBI Genomics, University of Padua</a>
 
@@ -114,7 +114,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -212,8 +212,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -247,7 +247,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGBrowse.org" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse.org" rel="smw-browse">Browse
   properties</a></span>
 
 

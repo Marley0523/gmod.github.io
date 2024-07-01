@@ -54,7 +54,7 @@ width="250" height="85" alt="MAKER" /></a>
 </div>
 
 This [MAKER](MAKER.1 "MAKER") tutorial was presented by [Carson
-Holt](User:Carsonholt "User:Carsonholt") at the [2010 GMOD Summer
+Holt](User%3ACarsonholt "User%3ACarsonholt") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent MAKER tutorial can be found at the
@@ -62,7 +62,7 @@ May 2010. The most recent MAKER tutorial can be found at the
 title="MAKER Tutorial">MAKER Tutorial</a> page.
 
   
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running the [MAKER](MAKER.1 "MAKER") genome
 annotation pipeline with some sample data.
 
@@ -213,7 +213,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -316,9 +316,9 @@ give annotations a lot of thought, they use them everyday.
   
 Examples of Annotation Databases:
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [WormBase](Category:WormBase "Category:WormBase")
-- [Mouse Genome Informatics Group](Category:MGI "Category:MGI")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
+- [Mouse Genome Informatics Group](Category%3AMGI "Category%3AMGI")
 
   
 Every time we use techniques such as RNAi, PCR, gene expression arrays,
@@ -2045,7 +2045,7 @@ The results window will provide a brief summery of the status of each
 contig in your job, and will give you the opportunity to download the
 data, or view the results for individual contigs. Click on **View in
 Apollo**. This will open your data in Apollo ([Ed
-Lee](User:Elee "User:Elee") will describe just how launching Apollo over
+Lee](User%3AElee "User%3AElee") will describe just how launching Apollo over
 the web works during the [Apollo](Apollo.1 "Apollo") section). Then
 close Apollo and click on **SOBA statistics**. This will open up a tool
 from the Sequence Ontology Consortium that provides simple summery
@@ -2476,8 +2476,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [MAKER](Category:MAKER "Category:MAKER")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
 
 </div>
 
@@ -2489,12 +2489,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER Tutorial
-2010](Special:Browse/MAKER-20Tutorial-202010 "Special:Browse/MAKER-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%3ABrowse/MAKER-20Tutorial-202010 "Special%3ABrowse/MAKER-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:ExportRDF/MAKER Tutorial 2010")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/MAKER "Special:SearchByProperty/Has-20topic/MAKER")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
 
 </div>
 
@@ -2590,8 +2590,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2625,7 +2625,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MAKER_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

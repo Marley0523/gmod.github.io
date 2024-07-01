@@ -688,15 +688,15 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Chado](Category:Chado "Category:Chado")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [Meetings](Category:Meetings "Category:Meetings")
-- [MGI](Category:MGI "Category:MGI")
-- [Pathway Tools](Category:Pathway_Tools "Category:Pathway Tools")
-- [PubSearch](Category:PubSearch "Category:PubSearch")
-- [Textpresso](Category:Textpresso "Category:Textpresso")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [MGI](Category%3AMGI "Category%3AMGI")
+- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
+- [PubSearch](Category%3APubSearch "Category%3APubSearch")
+- [Textpresso](Category%3ATextpresso "Category%3ATextpresso")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -792,8 +792,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -827,7 +827,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/September_2003_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/September_2003_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

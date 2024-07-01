@@ -172,7 +172,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Wiki Tools](Category:Wiki_Tools "Category:Wiki Tools")
+- [Wiki Tools](Category%3AWiki_Tools "Category%3AWiki Tools")
 
 </div>
 
@@ -268,8 +268,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -303,7 +303,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Drupal2wiki" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Drupal2wiki" rel="smw-browse">Browse
   properties</a></span>
 
 

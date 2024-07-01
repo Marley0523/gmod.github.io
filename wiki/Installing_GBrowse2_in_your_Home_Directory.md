@@ -65,7 +65,7 @@ Once you have local::lib correctly installed...
 
 *I believe there must be a trick to configuring cpan at this point that
 is left out of this narrative. It is probably in the lib::local docs.*
-[Scott](User:Scott "User:Scott") 18:47, 3 June 2011 (UTC)
+[Scott](User%3AScott "User%3AScott") 18:47, 3 June 2011 (UTC)
 
 Test that cpan is working for you as a non-root user (install a random
 module or two).
@@ -130,17 +130,17 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [Help](Category:Help "Category:Help")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [Help](Category%3AHelp "Category%3AHelp")
 - [Pages with problems or
-  questions](Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")
-- [Perl](Category:Perl "Category:Perl")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
+- [Perl](Category%3APerl "Category%3APerl")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [User
-  Experiences](Category:User_Experiences "Category:User Experiences")
+  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
 
 </div>
 
@@ -236,8 +236,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -271,7 +271,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Installing_GBrowse2_in_your_Home_Directory"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Installing_GBrowse2_in_your_Home_Directory"
   rel="smw-browse">Browse properties</a></span>
 
 

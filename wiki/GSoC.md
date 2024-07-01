@@ -132,8 +132,8 @@ class="external text" rel="nofollow">FAQ</a>.
   class="external text" rel="nofollow">Genome Informatics Google
   Groups</a> - ask about our projects; join the community!
 - Students and Mentors can email both
-  [Robin](User:Robin.haw "User:Robin.haw") and
-  [Scott](User:Scott "User:Scott") to get more information about the
+  [Robin](User%3ARobin.haw "User%3ARobin.haw") and
+  [Scott](User%3AScott "User%3AScott") to get more information about the
   program.
 
 ## <span id="Project_Ideas" class="mw-headline"> [Project Ideas](GSOC_Project_Ideas_2024 "GSOC Project Ideas 2024")</span>
@@ -200,18 +200,18 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Galaxy](Category:Galaxy "Category:Galaxy")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [MGI](Category:MGI "Category:MGI")
-- [WormBase](Category:WormBase "Category:WormBase")
-- [GSoC](Category:GSoC "Category:GSoC")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [MGI](Category%3AMGI "Category%3AMGI")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
+- [GSoC](Category%3AGSoC "Category%3AGSoC")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Reactome&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Reactome (page does not exist)">Reactome</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AReactome&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AReactome (page does not exist)">Reactome</a>
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:WebApollo (page does not exist)">WebApollo</a>
+  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
 
 </div>
 
@@ -307,8 +307,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -342,7 +342,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GSoC" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSoC" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

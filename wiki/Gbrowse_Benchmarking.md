@@ -133,10 +133,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Javascript](Category:Javascript "Category:Javascript")
-- [Documentation](Category:Documentation "Category:Documentation")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Javascript](Category%3AJavascript "Category%3AJavascript")
+- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
 
 </div>
 
@@ -232,8 +232,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -267,7 +267,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Gbrowse_Benchmarking" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gbrowse_Benchmarking" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -310,8 +310,8 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Tutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Tutorial (page does not exist)">Tutorial</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
 
 </div>
 
@@ -407,8 +407,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -442,7 +442,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Using_AWS_S3_For_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_AWS_S3_For_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

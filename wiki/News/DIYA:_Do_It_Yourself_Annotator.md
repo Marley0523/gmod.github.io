@@ -74,12 +74,12 @@ DIYA is part of the
 *<a href="http://sourceforge.net/projects/diyg/" class="external text"
 rel="nofollow">Do It Yourself Genomics (DIYG) Project</a>*. Developers
 of DIYA (and DIYG) include Andrew Stewart and [Brian
-Osborne](../User:Bosborne "User:Bosborne") (formerly of the [GMOD Help
+Osborne](../User%3ABosborne "User%3ABosborne") (formerly of the [GMOD Help
 Desk](../GMOD_Help_Desk "GMOD Help Desk")). The DIYA community is
 looking for interested developers to contribute to DIYA. See the
 [DIYA](../DIYA "DIYA") page for more.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -105,7 +105,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -203,8 +203,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FDIYA:_Do_It_Yourself_Annotator"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDIYA:_Do_It_Yourself_Annotator"
   rel="smw-browse">Browse properties</a></span>
 
 

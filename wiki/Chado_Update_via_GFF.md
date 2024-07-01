@@ -134,7 +134,7 @@ Again, if name, type and srcfeature are the same, allow the delete?
      ChrX    MyDB    gene    .    .   .    .    .      ID=MyGene2;CRUDop=UPDATE;Dbxref=SW:U1234
      ChrX    MyDB    gene    1    2   9    -    .      ID=MyGene3;CRUDop=REPLACE;Dbxref=SW:U1234;..more..
 
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:48, 30 March 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:48, 30 March 2007
 (EDT)
 
 </div>
@@ -152,7 +152,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -248,8 +248,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -283,7 +283,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Update_via_GFF" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Update_via_GFF" rel="smw-browse">Browse
   properties</a></span>
 
 

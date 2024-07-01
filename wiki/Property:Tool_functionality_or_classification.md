@@ -89,26 +89,26 @@ Showing 21 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BLAST_Graphic_Viewer.1"
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/BLAST-20Graphic-20Viewer"
-title="Special:Browse/BLAST-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
+title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">Sequence Alignment  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20Alignment"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20Alignment">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20Alignment"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20Alignment">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart"
-title="Special:Browse/BioMart">+</a></span></td>
+href="Special%3ABrowse/BioMart"
+title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">Community Annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation">+</a></span>,
 Database schema  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span>,
 Database tools  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
 <a
 href="Special:PageProperty/BioMart::Tool_functionality_or_classification"
 title="Special:PageProperty/BioMart::Tool functionality or classification">…</a></td>
@@ -119,32 +119,32 @@ title="Special:PageProperty/BioMart::Tool functionality or classification">…</
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special:Browse/CMap"
-title="Special:Browse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/CMap"
+title="Special%3ABrowse/CMap">+</a></span></td>
 <td class="smwprops">Genome Visualization &amp; Editing  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing">+</a></span>,
 Comparative Genome Visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization">+</a></span>,
 Database schema  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special:Browse/Canto"
-title="Special:Browse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Canto"
+title="Special%3ABrowse/Canto">+</a></span></td>
 <td class="smwprops">literature curation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/literature-20curation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/literature-20curation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation">+</a></span>,
 community annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/community-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/community-20annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation">+</a></span>,
 functional annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -152,17 +152,17 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/funct
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special:Browse/DIYA"
-title="Special:Browse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/DIYA"
+title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">Genome annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20annotation">+</a></span>,
 Workflow management  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Workflow-20management"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Workflow-20management">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Workflow-20management"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Workflow-20management">+</a></span>,
 Tool integration  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20integration"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20integration">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20integration"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20integration">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -171,59 +171,59 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse"
-title="Special:Browse/GBrowse">+</a></span></td>
+href="Special%3ABrowse/GBrowse"
+title="Special%3ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">Genome Visualization &amp; Editing  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20-26-20Editing">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse-20syn"
-title="Special:Browse/GBrowse-20syn">+</a></span></td>
+href="Special%3ABrowse/GBrowse-20syn"
+title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">Comparative genome visualization  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20genome-20visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20genome-20visualization">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20genome-20visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20genome-20visualization">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/GO-20Graphic-20Viewer"
-title="Special:Browse/GO-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
+title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">Ontology Visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special:Browse/GO::TermFinder"
-title="Special:Browse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO::TermFinder"
+title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
 <td class="smwprops">Ontology Visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization">+</a></span>,
 Gene list analysis  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special:Browse/Galaxy"
-title="Special:Browse/Galaxy">+</a></span></td>
+href="Special%3ABrowse/Galaxy"
+title="Special%3ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">Genome Visualization and Editing  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing">+</a></span>,
 Workflow Management  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Workflow-20Management"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Workflow-20Management">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Workflow-20Management"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Workflow-20Management">+</a></span>,
 Tool Integration  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span>,
 <a
 href="Special:PageProperty/Galaxy::Tool_functionality_or_classification"
 title="Special:PageProperty/Galaxy::Tool functionality or classification">…</a></td>
@@ -235,11 +235,11 @@ title="Special:PageProperty/Galaxy::Tool functionality or classification">…</a
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine"
-title="Special:Browse/InterMine">+</a></span></td>
+href="Special%3ABrowse/InterMine"
+title="Special%3ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">Database tools  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -248,20 +248,20 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Datab
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse"
-title="Special:Browse/JBrowse">+</a></span></td>
+href="Special%3ABrowse/JBrowse"
+title="Special%3ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">Genome visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse2"
-title="Special:Browse/JBrowse2">+</a></span></td>
+href="Special%3ABrowse/JBrowse2"
+title="Special%3ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">Genome visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20visualization">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -269,11 +269,11 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genom
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special:Browse/MAKER"
-title="Special:Browse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/MAKER"
+title="Special%3ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">Genome Annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Annotation">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Annotation">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -282,17 +282,17 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genom
 <tr class="even">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special:Browse/Pathway-20Tools"
-title="Special:Browse/Pathway-20Tools">+</a></span></td>
+href="Special%3ABrowse/Pathway-20Tools"
+title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">Community Annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20Annotation">+</a></span>,
 Comparative Genome Visualization  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Comparative-20Genome-20Visualization">+</a></span>,
 Database schema  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span>,
 <a
 href="Special:PageProperty/Pathway_Tools::Tool_functionality_or_classification"
 title="Special:PageProperty/Pathway Tools::Tool functionality or classification">…</a></td>
@@ -304,30 +304,30 @@ title="Special:PageProperty/Pathway Tools::Tool functionality or classification"
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special:Browse/Textpresso"
-title="Special:Browse/Textpresso">+</a></span></td>
+href="Special%3ABrowse/Textpresso"
+title="Special%3ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">Literature tools  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Literature-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Literature-20tools">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Literature-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Literature-20tools">+</a></span>,
 Text mining  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Text-20mining"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Text-20mining">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Text-20mining"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Text-20mining">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal"
-title="Special:Browse/Tripal">+</a></span></td>
+href="Special%3ABrowse/Tripal"
+title="Special%3ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">Database (Chado) web front ends  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends">+</a></span>,
 Database tools  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
 Development Platform (has API)  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -336,39 +336,39 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Devel
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo"
-title="Special:Browse/WebApollo">+</a></span></td>
+href="Special%3ABrowse/WebApollo"
+title="Special%3ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">Community annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>,
 Sequence annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2"
-title="Special:Browse/WebApollo2">+</a></span></td>
+href="Special%3ABrowse/WebApollo2"
+title="Special%3ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">Community annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>,
 Sequence annotation  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/WebGBrowse"
-title="Special:Browse/WebGBrowse">+</a></span></td>
+href="Special%3ABrowse/WebGBrowse"
+title="Special%3ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">Genome Visualization and Editing  <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Genome-20Visualization-20and-20Editing">+</a></span>,
 Tool Integration  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -376,14 +376,14 @@ title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Tool-
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special:Browse/XORT"
-title="Special:Browse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/XORT"
+title="Special%3ABrowse/XORT">+</a></span></td>
 <td class="smwprops">Database tools  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
 Middleware  <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Middleware"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Middleware">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Middleware"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Middleware">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -409,12 +409,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tool functionality or
-classification](Special:Browse/Property:Tool-20functionality-20or-20classification "Special:Browse/Property:Tool-20functionality-20or-20classification")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+classification](Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Tool_functionality_or_classification "Special:ExportRDF/Property:Tool functionality or classification")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -510,8 +510,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -545,7 +545,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Tool_functionality_or_classification"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Tool_functionality_or_classification"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -157,7 +157,7 @@ rel="nofollow">http://www.uniprot.org/</a>
   - newly updated with full Daphnia genome, see notes at
     [LuceGene_for_Daphnia_genome](LuceGene_for_Daphnia_genome "LuceGene for Daphnia genome")
 
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:25, 4 September 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:25, 4 September 2007
 (EDT)
 
 - Demonstration server is available at
@@ -233,9 +233,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [LuceGene](Category:LuceGene "Category:LuceGene")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -329,8 +329,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -364,7 +364,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/LuceGene" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LuceGene" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

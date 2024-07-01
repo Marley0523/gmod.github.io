@@ -79,7 +79,7 @@ A <a href="http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?id=2039"
 class="external text" rel="nofollow">related position</a> in the same
 group is also open. Applications close 12 November.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -105,7 +105,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -203,8 +203,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FOpening_at_Cancer_Research_UK"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FOpening_at_Cancer_Research_UK"
   rel="smw-browse">Browse properties</a></span>
 
 

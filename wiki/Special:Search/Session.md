@@ -431,7 +431,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   ...eading a <span class="searchmatch">session</span> on \[\[Galaxy\]\]
-  and \[\[User:Mckays\|Sheldon McKay\]\] leading a
+  and \[\[User%3AMckays\|Sheldon McKay\]\] leading a
   <span class="searchmatch">session</span> on \[\[GBrowse_syn\]\].
 
   </div>
@@ -581,7 +581,7 @@ wiki!** See also the search results found.
 
   ! style="background-color: \#d6eee4" \|
   <span class="searchmatch">Session</span> ...s\|Dave\]\],
-  \[\[User:Faga\|Ben\]\], Ed, and '''''You!'''''\<br /\>This
+  \[\[User%3AFaga\|Ben\]\], Ed, and '''''You!'''''\<br /\>This
   ''optional'' <span class="searchmatch">session</span> is open to any
   and all questions you have on the GMOD Project, GMOD compone
 
@@ -832,7 +832,7 @@ wiki!** See also the search results found.
   ...ng biology within \[\[Chado\]\] in the same way across
   organizations. In this <span class="searchmatch">session</span> we
   proposed converging on common representations by having organizations
-  po ...itional discussion during \[\[User:Sivam\|Dhileep Sivam\]\] and
+  po ...itional discussion during \[\[User%3ASivam\|Dhileep Sivam\]\] and
   Isabelle Phan's <span class="searchmatch">session</span> on \[\[#Chado
   and GUS at SBRI\|Chado and GUS at SBRI\]\]. \[http://dev.isb-sib.c
 
@@ -1243,8 +1243,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 This [GBrowse](GBrowse.1 "GBrowse") tutorial was taught at the [2012
 GMOD Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School")
-by [Scott Cain](User:Scott "User:Scott").
+by [Scott Cain](User%3AScott "User%3AScott").
 
 To follow along with the tutorial, you will need to use **AMI ID:
 ami-5bab1c32, name: GMOD 2012 day 4 start**, available in the US East
@@ -355,7 +355,7 @@ so, we need to run another script that comes with Bio::DB::Das::Chado:
 
 This does several things (including poorly estimating how long it will
 take to finish), including creating materialized views, using a tool
-provided by [SOL Genomics Network (SGN)](Category:SGN "Category:SGN").
+provided by [SOL Genomics Network (SGN)](Category%3ASGN "Category%3ASGN").
 In practice, it would be a good idea to read the documentation of
 `gmod_materialized_view_tool.pl` for information on keeping the view up
 to date.
@@ -384,10 +384,10 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 
 </div>
 
@@ -399,12 +399,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse Tutorial
-2012](Special:Browse/GBrowse-20Tutorial-202012 "Special:Browse/GBrowse-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%3ABrowse/GBrowse-20Tutorial-202012 "Special%3ABrowse/GBrowse-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_Tutorial_2012 "Special:ExportRDF/GBrowse Tutorial 2012")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/GBrowse "Special:SearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 </div>
 
@@ -500,8 +500,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -535,7 +535,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

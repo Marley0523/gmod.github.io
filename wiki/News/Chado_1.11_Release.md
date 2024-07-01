@@ -49,7 +49,7 @@ In this release, the schema itself has not changed since the 1.1 release
 in May of this year, but there have been bug fixes (see <a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/schema/tags/chado-1.11/chado/Changes?revision=23640&amp;view=markup"
 class="external text" rel="nofollow">release notes</a>; thanks to [Naama
-Menda](../User:NaamaMenda "User:NaamaMenda") for those fixes) and one
+Menda](../User%3ANaamaMenda "User%3ANaamaMenda") for those fixes) and one
 added functionality to the materialized view tool. This functionality
 was required to support full text searching that will be included in the
 up coming release of the
@@ -76,7 +76,7 @@ Happy *GMODing* and please direct questions about this release to the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">schema mailing list</a>,
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 
@@ -101,7 +101,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -199,8 +199,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FChado_1.11_Release"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FChado_1.11_Release"
   rel="smw-browse">Browse properties</a></span>
 
 

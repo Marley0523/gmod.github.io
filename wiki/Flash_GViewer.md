@@ -57,7 +57,7 @@ inserted into a web page to display each chromosome in a genome along
 with the locations of individual features on the chromosomes. It is
 **intended to provide an overview of the genomic locations of a specific
 set of features** - eg. genes and QTLs associated with a specific
-[phenotype](Category:Phenotypes "Category:Phenotypes"), etc. rather than
+[phenotype](Category%3APhenotypes "Category%3APhenotypes"), etc. rather than
 as a way to view all features on the genome. The features can hyperlink
 out to a detail page to enable to GViewer to be used as a navigation
 tool. In addition the bands on the chromosomes can link to defineable
@@ -187,8 +187,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [RGD](Category:RGD "Category:RGD")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [RGD](Category%3ARGD "Category%3ARGD")
 
 </div>
 
@@ -284,8 +284,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -319,7 +319,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Flash_GViewer" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer" rel="smw-browse">Browse
   properties</a></span>
 
 

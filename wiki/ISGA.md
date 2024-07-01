@@ -119,22 +119,22 @@ used for prokarytic annotation and assembly.
   genome annotation web server"</a> in
   *<a href="http://bioinformatics.oxfordjournals.org/"
   class="external text" rel="nofollow">Bioinformatics</a>*
-- [Presentations](Category:Presentations "Category:Presentations") and
-  [Posters](Category:Posters "Category:Posters")
+- [Presentations](Category%3APresentations "Category%3APresentations") and
+  [Posters](Category%3APosters "Category%3APosters")
   - [Automated Annotation of NGS Transcriptome Data using ISGA and
     Ergatis](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
-    presented by [Chris Hemmerich](User:Chemmeri "User:Chemmeri") at
+    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at
     [BOSC 2010](ISMB_2010 "ISMB 2010")
   - [Integrative Services for Genomic Analysis (ISGA) - An Intuitive Web
     Server for Prokaryotic Genome Annotation and Other
     Analyses](File:ISGAISMB2010Poster.pdf "File:ISGAISMB2010Poster.pdf"),
-    poster by [Chris Hemmerich](User:Chemmeri "User:Chemmeri"), Aaron
+    poster by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"), Aaron
     Buechlein, Ram Podicheti, and Jeong-Hyeon Choi, presented at [ISMB
     2010](ISMB_2010 "ISMB 2010").
   - [Web-Based Bioinformatics Pipelines For Biologists: Integrative
     Services for Genomic Analysis
     (ISGA)](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
-    presented by [Chris Hemmerich](User:Chemmeri "User:Chemmeri") at the
+    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at the
     [January 2010 GMOD
     Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting").
 
@@ -164,8 +164,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Ergatis](Category:Ergatis "Category:Ergatis")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+- [Ergatis](Category%3AErgatis "Category%3AErgatis")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -261,8 +261,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -296,7 +296,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/ISGA" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ISGA" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

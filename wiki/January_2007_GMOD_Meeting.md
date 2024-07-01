@@ -113,27 +113,27 @@ of organizations:
 | Richard Bruskiewich | IRRI/IRIS + Generation Challenge Programme |
 | Kate Rosenbloom | UCSC Genome Bioinformatics Group |
 | Zhiliang Hu | Iowa State University |
-| Robert Wilson | [FlyBase](Category:FlyBase "Category:FlyBase") |
-| Sohel Merchant | [DictyBase](Category:DictyBase "Category:DictyBase") |
+| Robert Wilson | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
+| Sohel Merchant | [DictyBase](Category%3ADictyBase "Category%3ADictyBase") |
 | Chinmay Patel | GeneDB |
-| pinglei zhou | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| pinglei zhou | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
 | Prachi Shah | Candida Genome Database |
 | Vivien Bonazzi | NHGRI |
 | Jay Sundaram | TIGR |
-| [Ben Faga](User:Faga "User:Faga") | GMOD |
-| George Kowalski | [RGD](Category:RGD "Category:RGD") |
+| [Ben Faga](User%3AFaga "User%3AFaga") | GMOD |
+| George Kowalski | [RGD](Category%3ARGD "Category%3ARGD") |
 | Dave Matthews | GrainGenes |
 | Brian Osborne | NESCent |
-| Eric Just | [DictyBase](Category:DictyBase "Category:DictyBase") |
-| Susan Bromberg | [RGD](Category:RGD "Category:RGD") |
-| Eva Huala | [TAIR](Category:TAIR "Category:TAIR") |
+| Eric Just | [DictyBase](Category%3ADictyBase "Category%3ADictyBase") |
+| Susan Bromberg | [RGD](Category%3ARGD "Category%3ARGD") |
+| Eva Huala | [TAIR](Category%3ATAIR "Category%3ATAIR") |
 | Allen | GMOD |
-| [Sheldon McKay](User:Mckays "User:Mckays") | [WormBase](Category:WormBase "Category:WormBase") |
-| [Todd Harris](User:Tharris "User:Tharris") | [WormBase](Category:WormBase "Category:WormBase") |
+| [Sheldon McKay](User%3AMckays "User%3AMckays") | [WormBase](Category%3AWormBase "Category%3AWormBase") |
+| [Todd Harris](User%3ATharris "User%3ATharris") | [WormBase](Category%3AWormBase "Category%3AWormBase") |
 | Kim Pruitt | NCBI |
 | Karla Gendler | <a href="http://www.chromdb.org" class="external text"
 rel="nofollow">ChromDB</a> |
-| Donghui Li | [TAIR](Category:TAIR "Category:TAIR") |
+| Donghui Li | [TAIR](Category%3ATAIR "Category%3ATAIR") |
 | Gos Micklem | FlyMine/[InterMine](InterMine "InterMine") |
 | Ning Wei | TAMU |
 | Sofia Robb | PlanariaDB |
@@ -142,34 +142,34 @@ rel="nofollow">ChromDB</a> |
 | Arek Kasprzyk | EBI |
 | Robert Bruggner | VectorBase |
 | Susan Bridges | AgBase |
-| [Lincoln Stein](User:Lstein "User:Lstein") | [WormBase](Category:WormBase "Category:WormBase") |
-| Madeline A. Crosby | [FlyBase](Category:FlyBase "Category:FlyBase") |
-| [Robert Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category:SGN "Category:SGN") |
-| Dianna Fisk | [SGD](Category:SGD "Category:SGD") |
-| Bob Muller | [TAIR](Category:TAIR "Category:TAIR") |
+| [Lincoln Stein](User%3ALstein "User%3ALstein") | [WormBase](Category%3AWormBase "Category%3AWormBase") |
+| Madeline A. Crosby | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
+| [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") | [SGN](Category%3ASGN "Category%3ASGN") |
+| Dianna Fisk | [SGD](Category%3ASGD "Category%3ASGD") |
+| Bob Muller | [TAIR](Category%3ATAIR "Category%3ATAIR") |
 | Suzanne Paley | EcoCyc |
 | Hanni Salih | BovineGenome.org |
-| Peili Zhang | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Peili Zhang | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
 | Eric Ross | PlanariaDB |
 | Manuel J Torres | Plant Genome Mapping Lab, UGA |
 | James Reecy | Animalgenome.org |
 | Eileen Kraemer | ApiDB |
-| [Jim Hu](User:JimHu.1 "User:JimHu") | EcoliHub/EcoliWiki |
+| [Jim Hu](User%3AJimHu.1 "User%3AJimHu") | EcoliHub/EcoliWiki |
 | Justin Reese | BeeBase, Bovine Genome Database |
-| Victor Strelets | [FlyBase](Category:FlyBase "Category:FlyBase") |
-| [Josh Goodman](User:Jogoodma "User:Jogoodma") | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| Victor Strelets | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
+| [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
 | Christine Elsik | BeeBase, Bovine Genome Database |
 | Anand Venkatraman | BeeBase |
-| Haiyan Zhang | [FlyBase](Category:FlyBase "Category:FlyBase") |
-| [Don Gilbert](User:Dongilbert "User:Dongilbert") | wFleaBase, DroSpeGe |
+| Haiyan Zhang | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
+| [Don Gilbert](User%3ADongilbert "User%3ADongilbert") | wFleaBase, DroSpeGe |
 | David Adelson | bovinegenome.org |
 | Ceri Van Slyke | ZFIN |
-| [Joshua Orvis](User:Jorvis "User:Jorvis") | TIGR |
-| Kathleen Falls | [FlyBase](Category:FlyBase "Category:FlyBase") |
+| [Joshua Orvis](User%3AJorvis "User%3AJorvis") | TIGR |
+| Kathleen Falls | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") |
 | Jeff Bowes | XenBase |
-| Susan Bello | [MGI](Category:MGI "Category:MGI") |
-| Joel Richardson | [MGI](Category:MGI "Category:MGI") |
-| [Scott Cain](User:Scott "User:Scott") | GMOD |
+| Susan Bello | [MGI](Category%3AMGI "Category%3AMGI") |
+| Joel Richardson | [MGI](Category%3AMGI "Category%3AMGI") |
+| [Scott Cain](User%3AScott "User%3AScott") | GMOD |
 
 </div>
 
@@ -186,7 +186,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -282,8 +282,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -317,7 +317,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/January_2007_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2007_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

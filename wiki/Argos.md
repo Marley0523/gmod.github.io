@@ -145,7 +145,7 @@ program has been built.
 
 ## <span id="Developer_notes" class="mw-headline">Developer notes</span>
 
-Current developers are [Don Gilbert](User:Dongilbert "User:Dongilbert"),
+Current developers are [Don Gilbert](User%3ADongilbert "User%3ADongilbert"),
 Nihar Sheth and Victor Strelets for FlyBase-NG and euGenes uses. We hope
 others will try it and join us in using and developing it. Email us at
 <a href="mailto:argos@eugenes.org" class="external text"
@@ -551,9 +551,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -649,8 +649,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -684,7 +684,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Argos" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Argos" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

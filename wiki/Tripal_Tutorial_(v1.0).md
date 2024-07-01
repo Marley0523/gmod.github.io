@@ -54,7 +54,7 @@ width="250" height="75" alt="Tripal" /></a>
 </div>
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User:Sficklin "User:Sficklin") at the [2012 GMOD Summer
+Ficklin](User%3ASficklin "User%3ASficklin") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School"), August 2012.
 The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
@@ -3404,10 +3404,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tripal](Category:Tripal "Category:Tripal")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 
 </div>
 
@@ -3419,12 +3419,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
-(v1.0)](Special:Browse/Tripal-20Tutorial-20(v1.0) "Special:Browse/Tripal-20Tutorial-20(v1.0)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+(v1.0)](Special%3ABrowse/Tripal-20Tutorial-20(v1.0) "Special%3ABrowse/Tripal-20Tutorial-20(v1.0)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(v1.0) "Special:ExportRDF/Tripal Tutorial (v1.0)")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Tripal "Special:SearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 
@@ -3520,8 +3520,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -3555,7 +3555,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Tutorial_(v1.0)" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(v1.0)" rel="smw-browse">Browse
   properties</a></span>
 
 

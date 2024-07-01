@@ -248,14 +248,14 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Tripal](../Category:Tripal "Category:Tripal")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tripal](../Category%3ATripal "Category%3ATripal")
 
 </div>
 
@@ -353,8 +353,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -388,7 +388,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/Tripal-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Tripal-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

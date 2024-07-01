@@ -223,12 +223,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -244,26 +244,26 @@ feed</span></span>
 
 |  |  |
 |----|----|
-| [Available on platform](Property:Available_on_platform "Property:Available on platform") | linux <span class="smwsearch">[+](Special:SearchByProperty/Available-20on-20platform/linux "Special:SearchByProperty/Available-20on-20platform/linux")</span>, os x <span class="smwsearch">[+](Special:SearchByProperty/Available-20on-20platform/os-20x "Special:SearchByProperty/Available-20on-20platform/os-20x")</span>, unix <span class="smwsearch">[+](Special:SearchByProperty/Available-20on-20platform/unix "Special:SearchByProperty/Available-20on-20platform/unix")</span> and web <span class="smwsearch">[+](Special:SearchByProperty/Available-20on-20platform/web "Special:SearchByProperty/Available-20on-20platform/web")</span> |
+| [Available on platform](Property:Available_on_platform "Property:Available on platform") | linux <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/linux "Special%3ASearchByProperty/Available-20on-20platform/linux")</span>, os x <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/os-20x "Special%3ASearchByProperty/Available-20on-20platform/os-20x")</span>, unix <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/unix "Special%3ASearchByProperty/Available-20on-20platform/unix")</span> and web <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span> |
 | [Has URL](Property:Has_URL "Property:Has URL") | <a href="http://search.cpan.org/dist/GO-TermFinder/"
 class="external free"
-rel="nofollow">http://search.cpan.org/dist/GO-TermFinder/</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20URL/http:-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F "Special:SearchByProperty/Has-20URL/http:-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F")</span> and <a href="http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder"
+rel="nofollow">http://search.cpan.org/dist/GO-TermFinder/</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F")</span> and <a href="http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder"
 class="external free"
-rel="nofollow">http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20URL/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder "Special:SearchByProperty/Has-20URL/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder")</span> |
+rel="nofollow">http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder")</span> |
 | [Has description](Property:Has_description "Property:Has description") | GO TermFinder takes a list of genes as inp<span class="smw-highlighter" data-type="2" state="persistent" data-title="Information"><span class="smwtext"> … </span><span class="smwttcontent">GO TermFinder takes a list of genes as input, and determines whether there are enriched GO terms for that list. These modules provide an object oriented set of libraries for dealing with files produced by the <a href="http://www.geneontology.org/" class="external text"
 rel="nofollow">Gene Ontology project</a>. In particular, the GO TermFinder object allows a client program to provide a list of genes, from which it will determine p-values for the annotation associated with that list of genes. It does this using the hypergeometric distribution. In addition, a corrected p-value is calculated, to correct for multiple hypothesis testing. This distribution also contains a version of Shuai Weng's GO-View module (and associated classes), such that you can graphically display the output of the GO TermFinder. Some simple clients of these modules are provided in the examples directory of the download.</span></span>in the examples directory of the download. <span class="smwsearch"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:SearchByProperty&amp;x=Has-20description%2FGO-20TermFinder-20takes-20a-20list-20of-20genes-20as-20input%2C-20and-20determines-20whether-20there-20are-20enriched-20GO-20terms-20for-20that-20list.-20These-20modules-20provide-20an-20object-20oriented-20set-20of-20libraries-20for-20dealing-20with-20files-20produced-20by-20the-20-5Bhttp%3A-2F-2Fwww.geneontology.org-2F-20Gene-20Ontology-20project-5D.-20In-20particular%2C-20the-20GO-20TermFinder-20object-20allows-20a-20client-20program-20to-20provide-20a-20list-20of-20genes%2C-20from-20which-20it-20will-20determine-20p-2Dvalues-20for-20the-20annotation-20associated-20with-20that-20list-20of-20genes.-20It-20does-20this-20using-20the-20hypergeometric-20distribution.-20In-20addition%2C-20a-20corrected-20p-2Dvalue-20is-20calculated%2C-20to-20correct-20for-20multiple-20hypothesis-20testing.-20-20This-20distribution-20also-20contains-20a-20version-20of-20Shuai-20Weng%27s-20GO-2DView-20module-20%28and-20associated-20classes%29%2C-20such-20that-20you-20can-20graphically-20display-20the-20output-20of-20the-20GO-20TermFinder.-20Some-20simple-20clients-20of-20these-20modules-20are-20provided-20in-20the-20examples-20directory-20of-20the-20download."
+href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FGO-20TermFinder-20takes-20a-20list-20of-20genes-20as-20input%2C-20and-20determines-20whether-20there-20are-20enriched-20GO-20terms-20for-20that-20list.-20These-20modules-20provide-20an-20object-20oriented-20set-20of-20libraries-20for-20dealing-20with-20files-20produced-20by-20the-20-5Bhttp%3A-2F-2Fwww.geneontology.org-2F-20Gene-20Ontology-20project-5D.-20In-20particular%2C-20the-20GO-20TermFinder-20object-20allows-20a-20client-20program-20to-20provide-20a-20list-20of-20genes%2C-20from-20which-20it-20will-20determine-20p-2Dvalues-20for-20the-20annotation-20associated-20with-20that-20list-20of-20genes.-20It-20does-20this-20using-20the-20hypergeometric-20distribution.-20In-20addition%2C-20a-20corrected-20p-2Dvalue-20is-20calculated%2C-20to-20correct-20for-20multiple-20hypothesis-20testing.-20-20This-20distribution-20also-20contains-20a-20version-20of-20Shuai-20Weng%27s-20GO-2DView-20module-20%28and-20associated-20classes%29%2C-20such-20that-20you-20can-20graphically-20display-20the-20output-20of-20the-20GO-20TermFinder.-20Some-20simple-20clients-20of-20these-20modules-20are-20provided-20in-20the-20examples-20directory-20of-20the-20download."
 class="external text" rel="nofollow">+</a></span> |
-| [Has development status](Property:Has_development_status "Property:Has development status") | maintenance <span class="smwsearch">[+](Special:SearchByProperty/Has-20development-20status/maintenance "Special:SearchByProperty/Has-20development-20status/maintenance")</span> |
-| [Has input format](Property:Has_input_format "Property:Has input format") | gene list <span class="smwsearch">[+](Special:SearchByProperty/Has-20input-20format/gene-20list "Special:SearchByProperty/Has-20input-20format/gene-20list")</span> |
-| [Has software maturity status](Property:Has_software_maturity_status "Property:Has software maturity status") | mature <span class="smwsearch">[+](Special:SearchByProperty/Has-20software-20maturity-20status/mature "Special:SearchByProperty/Has-20software-20maturity-20status/mature")</span> |
-| [Has support status](Property:Has_support_status "Property:Has support status") | active <span class="smwsearch">[+](Special:SearchByProperty/Has-20support-20status/active "Special:SearchByProperty/Has-20support-20status/active")</span> |
+| [Has development status](Property:Has_development_status "Property:Has development status") | maintenance <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20development-20status/maintenance "Special%3ASearchByProperty/Has-20development-20status/maintenance")</span> |
+| [Has input format](Property:Has_input_format "Property:Has input format") | gene list <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20input-20format/gene-20list "Special%3ASearchByProperty/Has-20input-20format/gene-20list")</span> |
+| [Has software maturity status](Property:Has_software_maturity_status "Property:Has software maturity status") | mature <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20software-20maturity-20status/mature "Special%3ASearchByProperty/Has-20software-20maturity-20status/mature")</span> |
+| [Has support status](Property:Has_support_status "Property:Has support status") | active <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20support-20status/active "Special%3ASearchByProperty/Has-20support-20status/active")</span> |
 | [Has topic](Property:Has_topic "Property:Has topic") | **GO::TermFinder** <span class="smwsearch">+</span> |
-| [Is open source](Property:Is_open_source "Property:Is open source") | Yes <span class="smwsearch">[+](Special:SearchByProperty/Is-20open-20source/Yes "Special:SearchByProperty/Is-20open-20source/Yes")</span> |
-| [Link type](Property:Link_type "Property:Link type") | download <span class="smwsearch">[+](Special:SearchByProperty/Link-20type/download "Special:SearchByProperty/Link-20type/download")</span> and public server <span class="smwsearch">[+](Special:SearchByProperty/Link-20type/public-20server "Special:SearchByProperty/Link-20type/public-20server")</span> |
-| [Release date](Property:Release_date "Property:Release date") | 2003 <span class="smwsearch">[+](Special:SearchByProperty/Release-20date/2003 "Special:SearchByProperty/Release-20date/2003")</span> |
-| [Tool functionality or classification](Property:Tool_functionality_or_classification "Property:Tool functionality or classification") | Ontology Visualization <span class="smwsearch">[+](Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization "Special:SearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization")</span> and Gene list analysis <span class="smwsearch">[+](Special:SearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis "Special:SearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis")</span> |
-| [Written in language](Property:Written_in_language "Property:Written in language") | Perl <span class="smwsearch">[+](Special:SearchByProperty/Written-20in-20language/Perl "Special:SearchByProperty/Written-20in-20language/Perl")</span> |
+| [Is open source](Property:Is_open_source "Property:Is open source") | Yes <span class="smwsearch">[+](Special%3ASearchByProperty/Is-20open-20source/Yes "Special%3ASearchByProperty/Is-20open-20source/Yes")</span> |
+| [Link type](Property:Link_type "Property:Link type") | download <span class="smwsearch">[+](Special%3ASearchByProperty/Link-20type/download "Special%3ASearchByProperty/Link-20type/download")</span> and public server <span class="smwsearch">[+](Special%3ASearchByProperty/Link-20type/public-20server "Special%3ASearchByProperty/Link-20type/public-20server")</span> |
+| [Release date](Property:Release_date "Property:Release date") | 2003 <span class="smwsearch">[+](Special%3ASearchByProperty/Release-20date/2003 "Special%3ASearchByProperty/Release-20date/2003")</span> |
+| [Tool functionality or classification](Property:Tool_functionality_or_classification "Property:Tool functionality or classification") | Ontology Visualization <span class="smwsearch">[+](Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization "Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization")</span> and Gene list analysis <span class="smwsearch">[+](Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis "Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Gene-20list-20analysis")</span> |
+| [Written in language](Property:Written_in_language "Property:Written in language") | Perl <span class="smwsearch">[+](Special%3ASearchByProperty/Written-20in-20language/Perl "Special%3ASearchByProperty/Written-20in-20language/Perl")</span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/](GO::TermFinder.1#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F "GO::TermFinder") <span class="smwsearch">+</span> and [GO::TermFinder#http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder](GO::TermFinder.1#http:.2F.2Fgo.princeton.edu.2Fcgi-bin.2FGOTermFinder.2FGOTermFinder "GO::TermFinder") <span class="smwsearch">+</span> |
 
 </div>
@@ -360,8 +360,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -395,7 +395,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GO::TermFinder" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GO::TermFinder" rel="smw-browse">Browse
   properties</a></span>
 
 

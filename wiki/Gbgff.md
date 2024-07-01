@@ -73,7 +73,7 @@ with [GBrowse](GBrowse.1 "GBrowse") version 1.69 and later.  Its purpose
 is to export configured annotations from one instance of GBrowse to
 another.
 
-- It is analogous to [DAS](Category:DAS "Category:DAS"), except that:
+- It is analogous to [DAS](Category%3ADAS "Category%3ADAS"), except that:
   - It supports both server and client-side configuration of glyph
     rendering
   - It supports 3-level gene models and other multi-level features made
@@ -160,9 +160,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -258,8 +258,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -293,7 +293,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Gbgff" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gbgff" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

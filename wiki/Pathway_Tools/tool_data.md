@@ -178,10 +178,10 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Pathway Tools](../Category:Pathway_Tools "Category:Pathway Tools")
+- [Pathway Tools](../Category%3APathway_Tools "Category%3APathway Tools")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 
 </div>
 
@@ -279,8 +279,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -314,7 +314,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/Pathway_Tools-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Pathway_Tools-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

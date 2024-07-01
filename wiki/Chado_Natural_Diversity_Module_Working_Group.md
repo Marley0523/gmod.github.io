@@ -163,24 +163,24 @@ rel="nofollow">Dave Clements</a>.)
 
 | Name | Email | Affiliation | Comments |
 |----|----|----|----|
-| [Dave Clements](User:Clements "User:Clements") (organizer) | <a href="mailto:clements@nescent.org" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") (organizer) | <a href="mailto:clements@nescent.org" class="external text"
 rel="nofollow">clements@nescent.org</a> | <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a>, GMOD | Please let me know if you are interested in participating in this group, or if you have any questions. |
 | Sook Jung | sook \* bioinfo.wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
 rel="nofollow">GDR</a> |  |
 | Meg Staton | mestato \* yahoo.com | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | ficklin \* clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | ficklin \* clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
 | Dorrie Main | dorrie \* wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
 rel="nofollow">GDR</a> |  |
-| [Scott Cain](User:Scott "User:Scott") |  | OICR / GMOD |  |
+| [Scott Cain](User%3AScott "User%3AScott") |  | OICR / GMOD |  |
 | Genevieve DeClerk |  | Cornell / Gramene |  |
 | Bob MacCallum | r.maccallum#imperial.ac.uk | <a href="http://vectorbase.org" class="external text"
 rel="nofollow">VectorBase</a> | mosquitoes, ticks and other nasties... |
 | Seth Redmond | seth.redmond \* imperial.ac.uk | Imperial / <a href="http://vectorbase.org" class="external text"
 rel="nofollow">VectorBase</a> |  |
-| [Naama Menda](User:NaamaMenda "User:NaamaMenda") | naama.menda \* cornell.edu | sol genomics network / <a href="http://solgenomics.net" class="external text"
+| [Naama Menda](User%3ANaamaMenda "User%3ANaamaMenda") | naama.menda \* cornell.edu | sol genomics network / <a href="http://solgenomics.net" class="external text"
 rel="nofollow">SGN</a> |  |
 | Maren Friesen |  | University of Southern California | Medicago ecological genomics |
 | Yuri Bendana |  | University of southern California | Medicago ecological genomics |
@@ -218,10 +218,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
 - [Natural
-  Diversity](Category:Natural_Diversity "Category:Natural Diversity")
+  Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")
 
 </div>
 
@@ -316,8 +316,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -351,7 +351,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Natural_Diversity_Module_Working_Group"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Natural_Diversity_Module_Working_Group"
   rel="smw-browse">Browse properties</a></span>
 
 

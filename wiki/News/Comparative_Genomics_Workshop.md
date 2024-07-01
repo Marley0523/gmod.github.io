@@ -56,7 +56,7 @@ class="external text" rel="nofollow">series of lectures, demonstrations
 and computer laboratories</a> that cover various aspects of comparative
 genomics. Faculty include Anton Nekrutenko leading a session on
 [Galaxy](../Galaxy.1 "Galaxy") and [Sheldon
-McKay](../User:Mckays "User:Mckays") leading a session on
+McKay](../User%3AMckays "User%3AMckays") leading a session on
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn").
 
 The course is designed for established investigators, postdoctoral
@@ -96,7 +96,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -194,8 +194,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -229,7 +229,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FComparative_Genomics_Workshop"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FComparative_Genomics_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 You can use \$name when creating a custom balloon... What other
 variables can be used please?
---[DanBolser](../User:DanBolser "User:DanBolser") 09:44, 12 August 2010
+--[DanBolser](../User%3ADanBolser "User%3ADanBolser") 09:44, 12 August 2010
 (UTC)
 
 </div>
@@ -148,8 +148,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>

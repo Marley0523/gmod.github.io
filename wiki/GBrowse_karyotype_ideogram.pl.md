@@ -181,9 +181,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
 </div>
 
@@ -279,8 +279,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -314,7 +314,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_karyotype_ideogram.pl"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_karyotype_ideogram.pl"
   rel="smw-browse">Browse properties</a></span>
 
 

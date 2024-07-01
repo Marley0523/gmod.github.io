@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User:Scott "User:Scott") at the Programming for Biology at Cold
+Cain](User%3AScott "User%3AScott") at the Programming for Biology at Cold
 Spring Harbor Laboratory in October 2014 using JBrowse 1.11.5.
 
 This tutorial assumes a Mac OS X computer with apache configured to
@@ -608,8 +608,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -622,12 +622,12 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial Programming for
 Biology
-2014](Special:Browse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014 "Special:Browse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2014](Special%3ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014 "Special%3ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Biology_2014 "Special:ExportRDF/JBrowse Tutorial Programming for Biology 2014")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/JBrowse "Special:SearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
 
@@ -723,8 +723,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -758,7 +758,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse_Tutorial_Programming_for_Biology_2014"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_Programming_for_Biology_2014"
   rel="smw-browse">Browse properties</a></span>
 
 

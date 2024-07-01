@@ -264,11 +264,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [AJAX](Category:AJAX "Category:AJAX")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
-- [Javascript](Category:Javascript "Category:Javascript")
-- [Documentation](Category:Documentation "Category:Documentation")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Javascript](Category%3AJavascript "Category%3AJavascript")
+- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
 
 </div>
 
@@ -364,8 +364,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -399,7 +399,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/RubberBandSelection" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/RubberBandSelection" rel="smw-browse">Browse
   properties</a></span>
 
 

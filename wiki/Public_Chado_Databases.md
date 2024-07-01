@@ -68,7 +68,7 @@ These projects provide
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database
 dumps that you can copy and learn from.
 
-- [FlyBase](Category:FlyBase "Category:FlyBase"):
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase"):
   <a href="ftp://ftp.flybase.org/releases/current/psql/"
   class="external free"
   rel="nofollow">ftp://ftp.flybase.org/releases/current/psql/</a> -
@@ -77,7 +77,7 @@ dumps that you can copy and learn from.
   <a href="http://paramecium.cgm.cnrs-gif.fr/download/sql/"
   class="external free"
   rel="nofollow">http://paramecium.cgm.cnrs-gif.fr/download/sql/</a>
-- [Yeast](Category:SGD "Category:SGD"):
+- [Yeast](Category%3ASGD "Category%3ASGD"):
   <a href="http://sgdlite.princeton.edu/download/sgdlite/"
   class="external free"
   rel="nofollow">http://sgdlite.princeton.edu/download/sgdlite/</a>
@@ -136,10 +136,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [ParameciumDB](Category:ParameciumDB "Category:ParameciumDB")
-- [FlyBase](Category:FlyBase "Category:FlyBase")
-- [SGD](Category:SGD "Category:SGD")
-- [Chado](Category:Chado "Category:Chado")
+- [ParameciumDB](Category%3AParameciumDB "Category%3AParameciumDB")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- [SGD](Category%3ASGD "Category%3ASGD")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -235,8 +235,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -270,7 +270,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Public_Chado_Databases" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Public_Chado_Databases" rel="smw-browse">Browse
   properties</a></span>
 
 

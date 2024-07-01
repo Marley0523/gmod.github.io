@@ -241,7 +241,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 ## <span id="More_on_Tripal" class="mw-headline">More on Tripal</span>
 
-See [Category:Tripal](Category:Tripal "Category:Tripal")
+See [Category%3ATripal](Category%3ATripal "Category%3ATripal")
 
   
 
@@ -292,14 +292,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
-- [Chado](Category:Chado "Category:Chado")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Tripal](Category:Tripal "Category:Tripal")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 </div>
 
@@ -310,7 +310,7 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Tripal](Special:Browse/Tripal "Special:Browse/Tripal")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[Tripal](Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal "Special:ExportRDF/Tripal")</span></span>
 
 <table class="smwfacttable">
@@ -323,31 +323,31 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal "Special:ExportRDF/Tripal")<
 <td class="smwpropname"><a href="Property:Available_on_platform"
 title="Property:Available on platform">Available on platform</a></td>
 <td class="smwprops">linux <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 os x <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>
 and web <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_URL"
 title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://tripal.info" class="external free"
 rel="nofollow">http://tripal.info</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Ftripal.info"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Ftripal.info">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info">+</a></span>
 and <a href="http://tripal.info/tutorials/v2.x/installation"
 class="external free"
 rel="nofollow">http://tripal.info/tutorials/v2.x/installation</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_description"
@@ -412,91 +412,91 @@ href="http://www.tripal.info" class="external text"
 rel="nofollow">here</a>.bout Tripal <a href="http://www.tripal.info"
 class="external text" rel="nofollow">here</a>. <span
 class="smwsearch"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:SearchByProperty&amp;x=Has-20description%2FTripal-20is-20a-20web-20front-20end-20for-20-5B-5BChado-5D-5D-20databases%2C-20based-20on-20the-20-5Bhttp%3A-2F-2Fwww.drupal.org-20Drupal-5D-20content-20management-20system.-20Tripal-20leverages-20many-20of-20the-20features-20of-20Drupal-2D-2Dability-20to-20search-20and-20edit-20content%2C-20detail-20pages-20for-20different-20types-20of-20content%2C-20customizable-20page-20layouts%2C-20and-20so-20on-2D-2Dto-20provide-20users-20with-20an-20intuitive%2C-20flexible-20interface-20to-20a-20database.-0A-0AFeatures-20and-20advantages-20of-20Tripal%3A-0A-0A%2A-20Allows-20rapid-20development-20of-20an-20online-20genomic-20database.-0A%2A-20Site-20administrators-20can-20add-20non-2Dbiological-20content-20to-20their-20sites-20and-20allow-20editing-20of-20content-20by-20non-2Dtechnical-20users.-0A%2A-20Integrates-20directly-20with-20GMOD-20-5B-5BChado-5D-5D.-0A%2A-20Provides-20visualizations-20for-20Chado-20%22modules%22-20such-20as-20-5B-5BChado-20Sequence-20Module-7Cfeatures-5D-5D%2C-20-5B-5BChado-20Companalysis-20Module-7Canalyses-5D-5D%2C-20-5B-5BChado-20Library-20Module-7Clibraries-5D-5D%2C-20-5B-5BChado-20Stock-20Module-7Cstocks-5D-5D%2C-20-5B-5BChado-20Modules-7Cand-20others-5D-5D.-0A%2A-20Provides-20an-20interface-20for-20easy-20editing-2Fupdating-20of-20data-20in-20Chado.-0A%2A-20Provides-20full-20text-20and-20categorical-20search-20capabilities-20for-20Chado-20content.-0A%2A-20Can-20integrate-20GMOD-20tools-20such-20as-20-5B-5BCMap-5D-5D-20and-20-5B-5BGBrowse-5D-5D.-0A%2A-20Integrates-20with-20powerful-20Drupal-20features-20like-20-5Bhttp%3A-2F-2Fdrupal.org-2Fproject-2Fviews-20Drupal-20views-5D-20and-20-5Bhttp%3A-2F-2Fdrupal.org-2Fproject-2Fpanels-20panels-5D-0A%2A-20Provides-20fully-20customizable-20PHP-2Dbased-20templates-20to-20allow-20users-20to-20change-20the-20look-20and-20feel-20of-20their-20installation-0A%2A-20Web-2Dbased-20management-20of-20Chado-20%28i.e.-20installation-20of-20Chado-20v1.11-20and-20loading-20of-20ontologies%29-0A%2A-20Loaders-20for-20GFF3-20and-20FASTA-20format-20files.-0A%2A-20Provides-20an-20API-20to-20allow-20for-20creation-20of-20custom-20extensions-20by-20anyone.-0A-0AWhat-20is-20Tripal-20capable-20of-3F-20Check-20out-20the-20-5Bhttp%3A-2F-2Ftripal.gmod.oicr.on.ca-2F1.1-2F-20Tripal-20demo-20server-5D.-0A-0A%3D%3D%3D%3D-20Tripal-20Homepage-20%3D%3D%3D%3D-0AGet-20the-20most-20up-2Dto-2Ddate-20information-20about-20Tripal-20-5Bhttp%3A-2F-2Fwww.tripal.info-20here-5D."
+href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FTripal-20is-20a-20web-20front-20end-20for-20-5B-5BChado-5D-5D-20databases%2C-20based-20on-20the-20-5Bhttp%3A-2F-2Fwww.drupal.org-20Drupal-5D-20content-20management-20system.-20Tripal-20leverages-20many-20of-20the-20features-20of-20Drupal-2D-2Dability-20to-20search-20and-20edit-20content%2C-20detail-20pages-20for-20different-20types-20of-20content%2C-20customizable-20page-20layouts%2C-20and-20so-20on-2D-2Dto-20provide-20users-20with-20an-20intuitive%2C-20flexible-20interface-20to-20a-20database.-0A-0AFeatures-20and-20advantages-20of-20Tripal%3A-0A-0A%2A-20Allows-20rapid-20development-20of-20an-20online-20genomic-20database.-0A%2A-20Site-20administrators-20can-20add-20non-2Dbiological-20content-20to-20their-20sites-20and-20allow-20editing-20of-20content-20by-20non-2Dtechnical-20users.-0A%2A-20Integrates-20directly-20with-20GMOD-20-5B-5BChado-5D-5D.-0A%2A-20Provides-20visualizations-20for-20Chado-20%22modules%22-20such-20as-20-5B-5BChado-20Sequence-20Module-7Cfeatures-5D-5D%2C-20-5B-5BChado-20Companalysis-20Module-7Canalyses-5D-5D%2C-20-5B-5BChado-20Library-20Module-7Clibraries-5D-5D%2C-20-5B-5BChado-20Stock-20Module-7Cstocks-5D-5D%2C-20-5B-5BChado-20Modules-7Cand-20others-5D-5D.-0A%2A-20Provides-20an-20interface-20for-20easy-20editing-2Fupdating-20of-20data-20in-20Chado.-0A%2A-20Provides-20full-20text-20and-20categorical-20search-20capabilities-20for-20Chado-20content.-0A%2A-20Can-20integrate-20GMOD-20tools-20such-20as-20-5B-5BCMap-5D-5D-20and-20-5B-5BGBrowse-5D-5D.-0A%2A-20Integrates-20with-20powerful-20Drupal-20features-20like-20-5Bhttp%3A-2F-2Fdrupal.org-2Fproject-2Fviews-20Drupal-20views-5D-20and-20-5Bhttp%3A-2F-2Fdrupal.org-2Fproject-2Fpanels-20panels-5D-0A%2A-20Provides-20fully-20customizable-20PHP-2Dbased-20templates-20to-20allow-20users-20to-20change-20the-20look-20and-20feel-20of-20their-20installation-0A%2A-20Web-2Dbased-20management-20of-20Chado-20%28i.e.-20installation-20of-20Chado-20v1.11-20and-20loading-20of-20ontologies%29-0A%2A-20Loaders-20for-20GFF3-20and-20FASTA-20format-20files.-0A%2A-20Provides-20an-20API-20to-20allow-20for-20creation-20of-20custom-20extensions-20by-20anyone.-0A-0AWhat-20is-20Tripal-20capable-20of-3F-20Check-20out-20the-20-5Bhttp%3A-2F-2Ftripal.gmod.oicr.on.ca-2F1.1-2F-20Tripal-20demo-20server-5D.-0A-0A%3D%3D%3D%3D-20Tripal-20Homepage-20%3D%3D%3D%3D-0AGet-20the-20most-20up-2Dto-2Ddate-20information-20about-20Tripal-20-5Bhttp%3A-2F-2Fwww.tripal.info-20here-5D."
 class="external text" rel="nofollow">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_development_status"
 title="Property:Has development status">Has development status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20development-20status/active"
-title="Special:SearchByProperty/Has-20development-20status/active">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20development-20status/active"
+title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_input_format"
 title="Property:Has input format">Has input format</a></td>
 <td class="smwprops"><a href="GFF3" title="GFF3">GFF3</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D"
-title="Special:SearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a></span>,
+href="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D"
+title="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a></span>,
 FASTA <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/FASTA"
-title="Special:SearchByProperty/Has-20input-20format/FASTA">+</a></span>,
+href="Special%3ASearchByProperty/Has-20input-20format/FASTA"
+title="Special%3ASearchByProperty/Has-20input-20format/FASTA">+</a></span>,
 Chado DB <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/Chado-20DB"
-title="Special:SearchByProperty/Has-20input-20format/Chado-20DB">+</a></span>,
+href="Special%3ASearchByProperty/Has-20input-20format/Chado-20DB"
+title="Special%3ASearchByProperty/Has-20input-20format/Chado-20DB">+</a></span>,
 tab-separated data <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/tab-2Dseparated-20data"
-title="Special:SearchByProperty/Has-20input-20format/tab-2Dseparated-20data">+</a></span>
+href="Special%3ASearchByProperty/Has-20input-20format/tab-2Dseparated-20data"
+title="Special%3ASearchByProperty/Has-20input-20format/tab-2Dseparated-20data">+</a></span>
 and OBO ontology files <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/OBO-20ontology-20files"
-title="Special:SearchByProperty/Has-20input-20format/OBO-20ontology-20files">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20input-20format/OBO-20ontology-20files"
+title="Special%3ASearchByProperty/Has-20input-20format/OBO-20ontology-20files">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_licence"
 title="Property:Has licence">Has licence</a></td>
 <td class="smwprops">GPLv2 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20licence/GPLv2"
-title="Special:SearchByProperty/Has-20licence/GPLv2">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/GPLv2"
+title="Special%3ASearchByProperty/Has-20licence/GPLv2">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_logo"
 title="Property:Has logo">Has logo</a></td>
 <td class="smwprops">TripalLogo.png <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20logo/TripalLogo.png"
-title="Special:SearchByProperty/Has-20logo/TripalLogo.png">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20logo/TripalLogo.png"
+title="Special%3ASearchByProperty/Has-20logo/TripalLogo.png">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a></td>
 <td class="smwprops">mature <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20software-20maturity-20status/mature"
-title="Special:SearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
+title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_support_status"
 title="Property:Has support status">Has support status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20support-20status/active"
-title="Special:SearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20support-20status/active"
+title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_title"
 title="Property:Has title">Has title</a></td>
 <td class="smwprops">Tripal Home <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/Tripal-20Home"
-title="Special:SearchByProperty/Has-20title/Tripal-20Home">+</a></span>
+href="Special%3ASearchByProperty/Has-20title/Tripal-20Home"
+title="Special%3ASearchByProperty/Has-20title/Tripal-20Home">+</a></span>
 and Download and Install Tripal <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/Download-20and-20Install-20Tripal"
-title="Special:SearchByProperty/Has-20title/Download-20and-20Install-20Tripal">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/Download-20and-20Install-20Tripal"
+title="Special%3ASearchByProperty/Has-20title/Download-20and-20Install-20Tripal">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_topic"
 title="Property:Has topic">Has topic</a></td>
 <td class="smwprops"><strong>Tripal</strong> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20topic/Tripal"
-title="Special:SearchByProperty/Has-20topic/Tripal">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20topic/Tripal"
+title="Special%3ASearchByProperty/Has-20topic/Tripal">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Interaction_type"
 title="Property:Interaction type">Interaction type</a></td>
 <td class="smwprops">can embed <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/can-20embed"
-title="Special:SearchByProperty/Interaction-20type/can-20embed">+</a></span>
+href="Special%3ASearchByProperty/Interaction-20type/can-20embed"
+title="Special%3ASearchByProperty/Interaction-20type/can-20embed">+</a></span>
 and provides interface for <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/provides-20interface-20for"
-title="Special:SearchByProperty/Interaction-20type/provides-20interface-20for">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/provides-20interface-20for"
+title="Special%3ASearchByProperty/Interaction-20type/provides-20interface-20for">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
@@ -504,40 +504,40 @@ href="http://gmod.org/mediawiki/index.php?title=Property:Interactor&amp;action=e
 class="new"
 title="Property:Interactor (page does not exist)">Interactor</a></td>
 <td class="smwprops">Tripal <span class="smwsearch"><a
-href="Special:SearchByProperty/Interactor/Tripal"
-title="Special:SearchByProperty/Interactor/Tripal">+</a></span></td>
+href="Special%3ASearchByProperty/Interactor/Tripal"
+title="Special%3ASearchByProperty/Interactor/Tripal">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Interacts_with"
 title="Property:Interacts with">Interacts with</a></td>
 <td class="smwprops"><a href="GBrowse.1" title="GBrowse">GBrowse</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/GBrowse"
-title="Special:SearchByProperty/Interacts-20with/GBrowse">+</a></span>,
+href="Special%3ASearchByProperty/Interacts-20with/GBrowse"
+title="Special%3ASearchByProperty/Interacts-20with/GBrowse">+</a></span>,
 <a href="CMap.1" title="CMap">CMap</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/CMap"
-title="Special:SearchByProperty/Interacts-20with/CMap">+</a></span>, <a
+href="Special%3ASearchByProperty/Interacts-20with/CMap"
+title="Special%3ASearchByProperty/Interacts-20with/CMap">+</a></span>, <a
 href="Galaxy.1" title="Galaxy">Galaxy</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/Galaxy"
-title="Special:SearchByProperty/Interacts-20with/Galaxy">+</a></span>
+href="Special%3ASearchByProperty/Interacts-20with/Galaxy"
+title="Special%3ASearchByProperty/Interacts-20with/Galaxy">+</a></span>
 and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/Chado"
-title="Special:SearchByProperty/Interacts-20with/Chado">+</a></span></td>
+href="Special%3ASearchByProperty/Interacts-20with/Chado"
+title="Special%3ASearchByProperty/Interacts-20with/Chado">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Is_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Link_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">download <span class="smwsearch"><a
-href="Special:SearchByProperty/Link-20type/download"
-title="Special:SearchByProperty/Link-20type/download">+</a></span></td>
+href="Special%3ASearchByProperty/Link-20type/download"
+title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
@@ -546,27 +546,27 @@ title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Database (Chado) web front ends <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends">+</a></span>,
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20(Chado)-20web-20front-20ends">+</a></span>,
 Database tools <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>
 and Development Platform (has API) <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Development-20Platform-20(has-20API)">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Written_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">PHP <span class="smwsearch"><a
-href="Special:SearchByProperty/Written-20in-20language/PHP"
-title="Special:SearchByProperty/Written-20in-20language/PHP">+</a></span>,
+href="Special%3ASearchByProperty/Written-20in-20language/PHP"
+title="Special%3ASearchByProperty/Written-20in-20language/PHP">+</a></span>,
 Javascript <span class="smwsearch"><a
-href="Special:SearchByProperty/Written-20in-20language/Javascript"
-title="Special:SearchByProperty/Written-20in-20language/Javascript">+</a></span>
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>
 and HTML <span class="smwsearch"><a
-href="Special:SearchByProperty/Written-20in-20language/HTML"
-title="Special:SearchByProperty/Written-20in-20language/HTML">+</a></span></td>
+href="Special%3ASearchByProperty/Written-20in-20language/HTML"
+title="Special%3ASearchByProperty/Written-20in-20language/HTML">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
@@ -576,30 +576,30 @@ subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Tripal.1#http:.2F.2Ftripal.info"
 title="Tripal">Tripal#http://tripal.info</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info">+</a></span>,
 <a
 href="Tripal.1#http:.2F.2Ftripal.info.2Ftutorials.2Fv2.x.2Finstallation"
 title="Tripal">Tripal#http://tripal.info/tutorials/v2.x/installation</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span>,
 <a href="Tripal.1#_c72e4a5953ad38254b5ae05e4fca68cf"
 title="Tripal">Tripal</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23_c72e4a5953ad38254b5ae05e4fca68cf"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23 c72e4a5953ad38254b5ae05e4fca68cf">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23_c72e4a5953ad38254b5ae05e4fca68cf"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c72e4a5953ad38254b5ae05e4fca68cf">+</a></span>,
 <a href="Tripal.1#_8904ca0c9942fceca83d1637dceaa4e9"
 title="Tripal">Tripal</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23 8904ca0c9942fceca83d1637dceaa4e9">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 8904ca0c9942fceca83d1637dceaa4e9">+</a></span>,
 <a href="Tripal.1#_780a3bd63980716b96e285070f997e2a"
 title="Tripal">Tripal</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23_780a3bd63980716b96e285070f997e2a"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23 780a3bd63980716b96e285070f997e2a">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23_780a3bd63980716b96e285070f997e2a"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 780a3bd63980716b96e285070f997e2a">+</a></span>
 and <a href="Tripal.1#_c5e2b05d4750eb0951eb1ad5fced6761"
 title="Tripal">Tripal</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/Tripal-23_c5e2b05d4750eb0951eb1ad5fced6761"
-title="Special:SearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb1ad5fced6761">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23_c5e2b05d4750eb0951eb1ad5fced6761"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb1ad5fced6761">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -698,8 +698,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -733,7 +733,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

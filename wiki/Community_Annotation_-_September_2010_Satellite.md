@@ -154,16 +154,16 @@ proposed by Kim Rutherford.
   rel="nofollow">T1DBase</a>
 - Gerd Anders, Max-Delbrueck-Centrum Berlin (MDC)
 - Jerven Bolleman, UniProt Swiss-Prot
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca" class="external text"
   rel="nofollow">OICR</a>
-- [Dave Clements](User:Clements "User:Clements"), [GMOD Help
+- [Dave Clements](User%3AClements "User%3AClements"), [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://nescent.org" class="external text"
   rel="nofollow">NESCent</a>
 - Oskana Riba Grognuz, Swiss Institute of Bioinformatics (SIB)
   Department of Ecology and Evolution, University of Lausanne
-- [Chris Hemmerich](User:Chemmeri "User:Chemmeri"),
+- [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
   <a href="http://cgb.indiana.edu" class="external text"
   rel="nofollow">CGB, Indiana University</a>
 - Joan Pontius, National Cancer Institute, SAIC
@@ -347,7 +347,7 @@ can create a login for someone else. Editors have full update access.
 
 <!-- -->
 
-[SGN](Category:SGN "Category:SGN") - Locus boss!  
+[SGN](Category%3ASGN "Category%3ASGN") - Locus boss!  
 SGN locus pages list the set of community members who can update
 information about that locus. Every locus page includes "Request editor
 privileges" link. This model allows specific people to control and "own"
@@ -588,11 +588,11 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Meetings](Category:Meetings "Category:Meetings")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -687,8 +687,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -723,7 +723,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Community_Annotation_-2D_September_2010_Satellite"
+  href="Special%3ABrowse/Community_Annotation_-2D_September_2010_Satellite"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -467,7 +467,7 @@ See also:
 - [A Brief Guide to
   Databases](A_Brief_Guide_to_Databases "A Brief Guide to Databases")
 - [Databases and GMOD](Databases_and_GMOD "Databases and GMOD")
-- [Database Tools](Category:Database_Tools "Category:Database Tools")
+- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
 
 #### <span id="Chado_and_BioSQL" class="mw-headline">Chado and BioSQL</span>
 
@@ -622,7 +622,7 @@ JBrowse's fast, flexible browsing interface, and users require only a
 web browser to use it.
 
 [Apollo](Apollo.1 "Apollo") is a standalone [Java
-application](Category:Java "Category:Java") for manual sequence
+application](Category%3AJava "Category%3AJava") for manual sequence
 annotation, and is the predecessor of WebApollo. Apollo can read and
 write to Chado databases, but lacks the instant updates that WebApollo
 features. We recommend using [WebApollo](WebApollo.1 "WebApollo") as it
@@ -631,7 +631,7 @@ is under active development and has a more full feature set than Apollo.
 ### <span id="What_are_MAKER_and_DIYA.3F" class="mw-headline">What are MAKER and DIYA?</span>
 
 [GBrowse](GBrowse.1 "GBrowse") and [Apollo](Apollo.1 "Apollo") both deal
-with [genome annotations](Category:Annotation "Category:Annotation"),
+with [genome annotations](Category%3AAnnotation "Category%3AAnnotation"),
 but where do these annotations come from? Frequently they come from a
 *genome annotation pipeline*, a software package or series of software
 packages that take an assembly (and other things) as input and produces
@@ -657,7 +657,7 @@ viewer, as well as a large number of interactive annotation tools.
 ### <span id="What_is_CMap.3F" class="mw-headline">What is CMap?</span>
 
 [CMap](CMap.1 "CMap") is a popular
-[comparative](Category:Comparative_Genomics "Category:Comparative Genomics")
+[comparative](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 map viewer. It was initially created for use at
 <a href="http://gramene.org" class="external text"
 rel="nofollow">Gramene</a> but was redesigned to be used for any
@@ -675,7 +675,7 @@ relationships, you may need more than [GBrowse](GBrowse.1 "GBrowse").
 #### <span id="And_SynView.3F_or_Sybil.3F_or_GBrowse_Syn.3F" class="mw-headline">And SynView? or Sybil? or GBrowse_Syn?</span>
 
 Yes, there are other [comparative
-genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 viewers. The alternatives to [CMap](CMap.1 "CMap") are
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [Sybil](Sybil "Sybil"), and
 [SynView](SynView "SynView"). [Sybil](Sybil "Sybil") stores its data in
@@ -1188,11 +1188,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [Help](Category:Help "Category:Help")
-- [Biology](Category:Biology "Category:Biology")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Help](Category%3AHelp "Category%3AHelp")
+- [Biology](Category%3ABiology "Category%3ABiology")
 
 </div>
 
@@ -1286,8 +1286,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1321,7 +1321,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Overview" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Overview" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

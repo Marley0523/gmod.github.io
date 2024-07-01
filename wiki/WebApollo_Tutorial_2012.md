@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [WebApollo](WebApollo.1 "WebApollo") tutorial was presented by [Ed
-Lee](User:Elee "User:Elee") at the [2012 GMOD Summer
+Lee](User%3AElee "User%3AElee") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -1577,9 +1577,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -1591,12 +1591,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[WebApollo Tutorial
-2012](Special:Browse/WebApollo-20Tutorial-202012 "Special:Browse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%3ABrowse/WebApollo-20Tutorial-202012 "Special%3ABrowse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:ExportRDF/WebApollo Tutorial 2012")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/WebApollo "Special:SearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 </div>
 
@@ -1692,8 +1692,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1727,7 +1727,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

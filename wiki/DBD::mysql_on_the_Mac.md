@@ -56,7 +56,7 @@ in the comments.
   read, write and create databases). The stuff that Jay Allen mentioned
   about having to set lib and include directories should be handled
   properly by the* perl Makefile.PL *command, but aparently not in this
-  case.* [Scott](User:Scott "User:Scott") 13:49, 6 August 2007 (EDT)
+  case.* [Scott](User%3AScott "User%3AScott") 13:49, 6 August 2007 (EDT)
 
 </div>
 
@@ -73,9 +73,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Mac OS X](Category:Mac_OS_X "Category:Mac OS X")
-- [MySQL](Category:MySQL "Category:MySQL")
-- [Perl](Category:Perl "Category:Perl")
+- [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
+- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [Perl](Category%3APerl "Category%3APerl")
 
 </div>
 
@@ -171,8 +171,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/DBD::mysql_on_the_Mac" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/DBD::mysql_on_the_Mac" rel="smw-browse">Browse
   properties</a></span>
 
 

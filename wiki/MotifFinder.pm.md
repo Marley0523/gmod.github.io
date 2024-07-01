@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 MotifFinder.pm is a [GBrowse](GBrowse.1 "GBrowse") plugin written by
-[Xiaoqi Shi](User:Xshi "User:Xshi"). It finds sequence specific motifs
+[Xiaoqi Shi](User%3AXshi "User%3AXshi"). It finds sequence specific motifs
 using Position Weight Matrix and display results graphically as tracks
 in the genome browser.
 
@@ -242,7 +242,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [GBrowse Plugins](Category:GBrowse_Plugins "Category:GBrowse Plugins")
+- [GBrowse Plugins](Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
 
 </div>
 
@@ -338,8 +338,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -373,7 +373,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MotifFinder.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MotifFinder.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

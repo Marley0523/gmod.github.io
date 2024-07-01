@@ -155,7 +155,7 @@ Neither group is opposed to the other group's goal *per se* - they just
 happened to be incompatible goals.
 
 To address both these needs, [Rob
-Buells](User:RobertBuels "User:RobertBuels") proposed
+Buells](User%3ARobertBuels "User%3ARobertBuels") proposed
 
 - multiple incremental releases,
 - with perhaps some backwards incompatability,
@@ -331,7 +331,7 @@ well.
 ### <span id="Phenotypes" class="mw-headline">Phenotypes</span>
 
 Phenotypes are not particularly well defined in Chado.
-[Scott](User:Scott "User:Scott") says that there are two sets of
+[Scott](User%3AScott "User%3AScott") says that there are two sets of
 phenotype tables in Chado. One is a first rough draft that snuck in (and
 is used by some), and the other is a more robust set, which is used by
 others (including FlyBase). Too make things worse, which tables are in
@@ -450,7 +450,7 @@ Anything else?
 # <span id="February_2010" class="mw-headline">February 2010</span>
 
 The first meeting in February will be held Monday February 8, at 11am
-Eastern US. Contact [Dave C](User:Clements "User:Clements") if you are
+Eastern US. Contact [Dave C](User%3AClements "User%3AClements") if you are
 interested in participating in this meeting.
 
 Meetings after that will be scheduled at a regular time according to
@@ -630,8 +630,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

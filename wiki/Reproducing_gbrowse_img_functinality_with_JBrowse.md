@@ -292,7 +292,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [JBrowse](Category:JBrowse "Category:JBrowse")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -388,8 +388,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -424,7 +424,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Reproducing_gbrowse_img_functinality_with_JBrowse"
+  href="Special%3ABrowse/Reproducing_gbrowse_img_functinality_with_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

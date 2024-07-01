@@ -695,8 +695,8 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [GMOD Best
-  Practices](Category:GMOD_Best_Practices "Category:GMOD Best Practices")
-- [Meetings](Category:Meetings "Category:Meetings")
+  Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -792,8 +792,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -827,7 +827,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/NIH_2002_Workshop_on_Model_Organism_Databases"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/NIH_2002_Workshop_on_Model_Organism_Databases"
   rel="smw-browse">Browse properties</a></span>
 
 

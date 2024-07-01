@@ -715,11 +715,11 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF3 (page does not exist)">GFF3</a>
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -815,8 +815,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -850,7 +850,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GFF3_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF3_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

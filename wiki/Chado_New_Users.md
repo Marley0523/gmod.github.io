@@ -203,7 +203,7 @@ Note that proteins ≠ polypeptides. Hemoglobin is a heterotetramer of two
 - [Chado -
   Getting_Started](Chado_-_Getting_Started "Chado - Getting Started") -
   and documentation links from there.
-- [Category:Chado](Category:Chado "Category:Chado") - the Category page
+- [Category%3AChado](Category%3AChado "Category%3AChado") - the Category page
   for all pages about Chado in this wiki
 
 </div>
@@ -221,9 +221,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
+- [Chado](Category%3AChado "Category%3AChado")
 - [User
-  Experiences](Category:User_Experiences "Category:User Experiences")
+  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
 
 </div>
 
@@ -317,8 +317,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -352,7 +352,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_New_Users" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_New_Users" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -165,12 +165,12 @@ The registration fee includes lunch on June 30th.
 |----|----|----|----|
 | 08:50 | Pre-meeting continental breakfast |  |  |
 | 09:15 | Introductions |  |  |
-| 09:40 | The State of GMOD | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/3/3e/GMOD2016_GMOD.pdf" class="internal"
+| 09:40 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/3/3e/GMOD2016_GMOD.pdf" class="internal"
 title="GMOD2016 GMOD.pdf">Intro</a>, <a href="../mediawiki/images/3/34/GMOD2016_InterMine.pdf"
 class="internal" title="GMOD2016 InterMine.pdf">InterMine</a>, <a
 href="https://www.dropbox.com/s/7i39svwlegfr4rq/MAKER_GMOD_2016.pdf?dl=0"
 class="external text" rel="nofollow">MAKER</a> |
-| 10:10 | Introduction to uMOD | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/7/7e/GMOD2016_uMOD.pdf" class="internal"
+| 10:10 | Introduction to uMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/7/7e/GMOD2016_uMOD.pdf" class="internal"
 title="GMOD2016 uMOD.pdf">Slides</a> |
 | 10:35 | Coffee |  |  |
 | 10:50 | GMOD in Action: The Legume Federation Project | Ethalinda Cannon | <a href="../mediawiki/images/2/24/LegFed_GMOD2016.pdf" class="internal"
@@ -184,13 +184,13 @@ rel="nofollow">Nathan Dunn</a> | <a href="http://f1000research.com/slides/5-1389
 rel="nofollow">Slides</a> |
 | 1:30 | [Tripal](Tripal.1 "Tripal") Update | Lacey-Anne Sanderson |  |
 | 2:30 | Coffee |  |  |
-| 2:45 | [Galaxy](Galaxy.1 "Galaxy") Update | [Dave Clements](User:Clements "User:Clements"), <a href="https://github.com/bgruening" class="external text"
+| 2:45 | [Galaxy](Galaxy.1 "Galaxy") Update | [Dave Clements](User%3AClements "User%3AClements"), <a href="https://github.com/bgruening" class="external text"
 rel="nofollow">Bjöern Grüning</a> | [Slides](File:GMOD2016_Galaxy.pdf "File:GMOD2016 Galaxy.pdf") |
 | 3:15 | EvidentialGene project at <a href="http://eugenes.org/EvidentialGene/" class="external free"
 rel="nofollow">http://eugenes.org/EvidentialGene/</a> | Don Gilbert | <a
 href="http://arthropods.eugenes.org/EvidentialGene/about/evigenegmod1606iu.pdf"
 class="external text" rel="nofollow">Slides</a> |
-| 3:45 | FlyBase Update and Chado discussion | [Josh Goodman](User:Jogoodma "User:Jogoodma") |  |
+| 3:45 | FlyBase Update and Chado discussion | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") |  |
 
 ### <span id="Friday.2C_July_1" class="mw-headline">Friday, July 1</span>
 
@@ -214,7 +214,7 @@ help desk</a>.
   [Galaxy](Galaxy.1 "Galaxy"), [JBrowse](JBrowse.1 "JBrowse"),
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>,
   [MAKER](MAKER.1 "MAKER").
-- Introduction to umod ([Scott Cain](User:Scott "User:Scott"))
+- Introduction to umod ([Scott Cain](User%3AScott "User%3AScott"))
 - "Apollo: Collaborative Manual Annotation in the GMOD Workflow" (Nathan
   Dunn)
 - Tripal update (Lacey Sanderson)
@@ -222,7 +222,7 @@ help desk</a>.
 - EvidentialGene project at
   <a href="http://eugenes.org/EvidentialGene/" class="external free"
   rel="nofollow">http://eugenes.org/EvidentialGene/</a> ([Don
-  Gilbert](User:Dongilbert "User:Dongilbert"))
+  Gilbert](User%3ADongilbert "User%3ADongilbert"))
 - DictyBase on using and extending GMOD tools (Chado, JBrowse) and new
   infrastructure(docker and possibly kubernetes) (Siddhartha Basu)
 - GMOD in Action: The Legume Federation Project (Ethalinda Cannon)
@@ -265,7 +265,7 @@ rel="nofollow">SBRI</a>, and past GMOD meeting participant
 
 </div>
 
-(Thanks to [Dave Clements](User:Clements "User:Clements") for the nice
+(Thanks to [Dave Clements](User%3AClements "User%3AClements") for the nice
 logo)
 
 </div>
@@ -283,8 +283,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 
 </div>
 
@@ -380,8 +380,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -415,7 +415,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Jun_2016_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jun_2016_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

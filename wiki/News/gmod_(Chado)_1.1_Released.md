@@ -50,8 +50,8 @@ rel="nofollow">GMOD SourceForge site</a>.
 
 There have been many people who have helped with getting this release
 done and I would like to thank all of them. I would like to especially
-thank [Rob Buels](../User:RobertBuels "User:RobertBuels") and [Naama
-Menda](../User:NaamaMenda "User:NaamaMenda") and the rest of the people
+thank [Rob Buels](../User%3ARobertBuels "User%3ARobertBuels") and [Naama
+Menda](../User%3ANaamaMenda "User%3ANaamaMenda") and the rest of the people
 at the <a href="http://solgenomics.net/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> for their code
 contributions, including a pub table loader that works with PubMed and
@@ -84,7 +84,7 @@ schema modifications being worked on now.
 
 Thanks for your continued support of the GMOD project,
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
   
 
@@ -109,7 +109,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -207,8 +207,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -242,7 +242,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2Fgmod_(Chado)_1.1_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2Fgmod_(Chado)_1.1_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

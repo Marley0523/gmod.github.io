@@ -103,7 +103,7 @@ title="Daphnia-genepage.png">daphnia gene page</a> and
 class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
   
-[Dongilbert](User:Dongilbert "User:Dongilbert") 16:23, 4 September 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:23, 4 September 2007
 (EDT)
 
 </div>
@@ -121,8 +121,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [LuceGene](Category:LuceGene "Category:LuceGene")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -218,8 +218,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -253,7 +253,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/LuceGene_for_Daphnia_genome"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LuceGene_for_Daphnia_genome"
   rel="smw-browse">Browse properties</a></span>
 
 

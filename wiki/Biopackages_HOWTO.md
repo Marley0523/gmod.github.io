@@ -211,8 +211,8 @@ operating system will be maintained as a clean, RPM-only environment.
 # <span id="Authors" class="mw-headline">Authors</span>
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Boconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User:Boconnor (page does not exist)">Brian
+href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ABoconnor (page does not exist)">Brian
 O'Connor</a>
 
 </div>
@@ -230,9 +230,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Linux](Category:Linux "Category:Linux")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Linux](Category%3ALinux "Category%3ALinux")
 
 </div>
 
@@ -328,8 +328,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -363,7 +363,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Biopackages_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Biopackages_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

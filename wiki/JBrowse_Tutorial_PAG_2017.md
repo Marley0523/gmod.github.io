@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User:Scott "User:Scott") at the
+Cain](User%3AScott "User%3AScott") at the
 <a href="http://www.intlpag.org" class="external text"
 rel="nofollow">Plant and Animal Genomes</a> meeting using JBrowse
 1.12.1.
@@ -812,8 +812,8 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Tutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Tutorial (page does not exist)">Tutorial</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
 
 </div>
 
@@ -825,12 +825,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial PAG
-2017](Special:Browse/JBrowse-20Tutorial-20PAG-202017 "Special:Browse/JBrowse-20Tutorial-20PAG-202017")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2017](Special%3ABrowse/JBrowse-20Tutorial-20PAG-202017 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202017")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:ExportRDF/JBrowse Tutorial PAG 2017")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/JBrowse "Special:SearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
 
@@ -926,8 +926,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -961,7 +961,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse_Tutorial_PAG_2017"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_PAG_2017"
   rel="smw-browse">Browse properties</a></span>
 
 

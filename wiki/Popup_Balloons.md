@@ -49,7 +49,7 @@ height="105" alt="Sample ballon.png" /></a>
 **balloon.js** is a javascript class for balloon tooltips, otherwise
 known as popup balloons, bubble tooltips, rollover tooltips, etc. It is
 maintained by <span class="pops">[Sheldon
-McKay](User:Mckays "User:Mckays")</span>, a scientist at the
+McKay](User%3AMckays "User%3AMckays")</span>, a scientist at the
 <span class="pops"><a href="http://dnalc.org" class="external text" rel="nofollow">DNA
 Learning center</a></span>,
 <span class="pops"><a href="http://www.cshl.edu" class="external text" rel="nofollow">Cold
@@ -1518,10 +1518,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Javascript](Category:Javascript "Category:Javascript")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [Javascript](Category%3AJavascript "Category%3AJavascript")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -1617,8 +1617,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1652,7 +1652,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Popup_Balloons" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
 

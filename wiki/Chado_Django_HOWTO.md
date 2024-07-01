@@ -39,8 +39,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 --<a
-href="http://gmod.org/mediawiki/index.php?title=User:Vdejager&amp;action=edit&amp;redlink=1"
-class="new" title="User:Vdejager (page does not exist)">Vdejager</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AVdejager&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
 11:07, 1 September 2008 (UTC)
 
 <div id="toc" class="toc">
@@ -122,7 +122,7 @@ class="new" title="User:Vdejager (page does not exist)">Vdejager</a>
 
 ## <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category:HOWTO "Category:HOWTO") describes how to use the
+This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes how to use the
 <a href="http://www.djangoproject.com/" class="external text"
 rel="nofollow">Django</a> (Python based) framework for accessing a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database.
@@ -344,7 +344,7 @@ command.
       ./manage.py inspectdb > unsortedmodels.py
 
 This will create a raw `models.py` with a model for each table and view
-in the specified [Postgres](Category:PostgreSQL "Category:PostgreSQL")
+in the specified [Postgres](Category%3APostgreSQL "Category%3APostgreSQL")
 database. We will need to edit this file a bit with a Perl script.
 
 Each foreign key relation should have a unique name in Django to support
@@ -619,13 +619,13 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 - [Pages with problems or
-  questions](Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")
-- [Needs Testing](Category:Needs_Testing "Category:Needs Testing")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
+  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
+- [Needs Testing](Category%3ANeeds_Testing "Category%3ANeeds Testing")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
 
 </div>
 
@@ -721,8 +721,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -756,7 +756,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Django_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Django_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

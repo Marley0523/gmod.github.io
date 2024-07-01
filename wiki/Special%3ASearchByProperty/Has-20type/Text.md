@@ -1,0 +1,249 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+
+
+# <span dir="auto">Has type Text</span>
+
+<div id="bodyContent">
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text">
+
+A list of all pages that have property "<span class="smw-highlighter"
+data-type="1" state="inline"
+data-title="Property"><span class="smwbuiltin">[Has
+type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This
+property is a special property in this wiki.</span></span>" with value
+"[Text](/wiki/Special:Types/Text "Special:Types/Text")"  
+
+- [Property:Available on
+  platform](/wiki/Property:Available_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>
+- [Property:Has
+  description](/wiki/Property:Has_description "Property:Has description")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20description "Special%3ABrowse/Property:Has-20description")</span>
+- [Property:Has development
+  status](/wiki/Property:Has_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>
+- [Property:Has input
+  format](/wiki/Property:Has_input_format "Property:Has input format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20input-20format "Special%3ABrowse/Property:Has-20input-20format")</span>
+- [Property:Has
+  licence](/wiki/Property:Has_licence "Property:Has licence")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20licence "Special%3ABrowse/Property:Has-20licence")</span>
+- [Property:Has
+  logo](/wiki/Property:Has_logo "Property:Has logo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20logo "Special%3ABrowse/Property:Has-20logo")</span>
+- [Property:Has output
+  format](/wiki/Property:Has_output_format "Property:Has output format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20output-20format "Special%3ABrowse/Property:Has-20output-20format")</span>
+- [Property:Has software maturity
+  status](/wiki/Property:Has_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>
+- [Property:Has software
+  prerequisite](/wiki/Property:Has_software_prerequisite "Property:Has software prerequisite")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>
+- [Property:Has support
+  status](/wiki/Property:Has_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20support-20status "Special%3ABrowse/Property:Has-20support-20status")</span>
+- [Property:Has
+  title](/wiki/Property:Has_title "Property:Has title")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20title "Special%3ABrowse/Property:Has-20title")</span>
+- [Property:Interaction
+  type](/wiki/Property:Interaction_type "Property:Interaction type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interaction-20type "Special%3ABrowse/Property:Interaction-20type")</span>
+- [Property:Is open
+  source](/wiki/Property:Is_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>
+- [Property:Link
+  type](/wiki/Property:Link_type "Property:Link type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Link-20type "Special%3ABrowse/Property:Link-20type")</span>
+- [Property:Linktitle](/wiki/Property:Linktitle "Property:Linktitle")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Linktitle "Special%3ABrowse/Property:Linktitle")</span>
+- [Property:Linktype](/wiki/Property:Linktype "Property:Linktype")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Linktype "Special%3ABrowse/Property:Linktype")</span>
+- [Property:Tool functionality or
+  classification](/wiki/Property:Tool_functionality_or_classification "Property:Tool functionality or classification")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>
+- [Property:Written in
+  language](/wiki/Property:Written_in_language "Property:Written in language")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Written-20in-20language "Special%3ABrowse/Property:Written-20in-20language")</span>
+
+ 
+
+Property:     Value:
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/wiki/Special%3ASearchByProperty/Has-20type/Text>"
+
+</div>
+
+<div id="catlinks" class="catlinks catlinks-allhidden">
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-special">[Special
+  page](/wiki/Special%3ASearchByProperty/Has-20type/Text "This is a special page, you cannot edit the page itself")</span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="/wiki/Main_Page"
+style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](/wiki/Main_Page)</span>
+- <span id="n-Software">[Software](/wiki/GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](/wiki/Categories)</span>
+- <span id="n-View-all-pages">[View all
+  pages](/wiki/Special:AllPages)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](/wiki/Overview)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](/wiki/GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](/wiki/Training_and_Outreach)</span>
+- <span id="n-Support">[Support](/wiki/Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD
+  Promotion](/wiki/GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
+- <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+  title="A list of all special pages [q]">Special pages</a></span>
+- <span id="t-print"><a
+  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20type/Text&amp;printable=yes"
+  rel="alternate" accesskey="p"
+  title="Printable version of this page [p]">Printable version</a></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-places-about">[About
+  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+
+
+
+
+
+</div>

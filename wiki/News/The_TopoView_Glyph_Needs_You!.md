@@ -47,12 +47,12 @@ height="123" alt="TopoView from FlyBase" />](../File:Flybase_topoview.pdf "TopoV
 
 [TopoView](../File:Flybase_topoview.pdf "File:Flybase topoview.pdf") is
 a [GBrowse](../GBrowse.1 "GBrowse") glyph created by Victor Strelets at
-[FlyBase](../Category:FlyBase "Category:FlyBase") to show large amounts
+[FlyBase](../Category%3AFlyBase "Category%3AFlyBase") to show large amounts
 of quantitative data in limited screen space. TopoView does this with a
 3D plot, showing each new set of data just below and offset from the
 previous data set. It was developed to display RNA-Seq data.
 
-[Josh Goodman](../User:Jogoodma "User:Jogoodma")
+[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
 <a href="../../mediawiki/images/3/3a/Flybase_topoview.pdf"
 class="internal" title="Flybase topoview.pdf">presented</a> TopoView at
 the [January 2010 GMOD
@@ -75,7 +75,7 @@ this out there.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -101,7 +101,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -199,8 +199,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FThe_TopoView_Glyph_Needs_You!"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FThe_TopoView_Glyph_Needs_You!"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 GMOD includes several components for managing and visualizing
 [comparative genomics and
-synteny](Category:Comparative_Genomics "Category:Comparative Genomics")
+synteny](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 data.
 
 <div id="toc" class="toc">
@@ -71,7 +71,7 @@ data.
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
 [Comparative
-genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 and synteny are hot topics in biology and are frequently discussed at
 GMOD [Meetings](Meetings "Meetings"). GMOD offers several solutions for
 managing and [visualizing](Visualization "Visualization") comparative
@@ -93,12 +93,12 @@ genomics data.
 - **<a href="../mediawiki/images/d/d1/BoG2006.pdf" class="internal"
   title="BoG2006.pdf">An Example Comparative Genome Database for Yeasts
   Using GMOD Tools</a>** - poster by [Scott
-  Cain](User:Scott "User:Scott") showing how six GMOD tools are used to
+  Cain](User%3AScott "User%3AScott") showing how six GMOD tools are used to
   create an example comparative genome model organism database.
 - **<a href="../mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
   class="internal" title="04-Stajich NESCENT GMOD.pdf">Comparative
   Genomics With GMOD and BioPerl</a>** - a 2004 presentation by [Jason
-  Stajich](User:Stajich "User:Stajich").
+  Stajich](User%3AStajich "User%3AStajich").
 
 ## <span id="GMOD_Components" class="mw-headline">GMOD Components</span>
 
@@ -206,7 +206,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 
 </div>
 
@@ -302,8 +302,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -337,7 +337,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Comparative_Genomics" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Comparative_Genomics" rel="smw-browse">Browse
   properties</a></span>
 
 

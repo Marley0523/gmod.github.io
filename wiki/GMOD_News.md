@@ -1577,7 +1577,7 @@ Please follow these guidelines when adding a news item.
         <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
         page.
     - You can include images in your news item. See [preexisting news
-      items](Category:News_Items "Category:News Items") for what markup
+      items](Category%3ANews_Items "Category%3ANews Items") for what markup
       to use to do this.
 
 3.  Preview / save your changes. Edit and save the page until the news
@@ -1618,7 +1618,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 
 </div>
 
@@ -1714,8 +1714,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1749,7 +1749,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_News" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_News" rel="smw-browse">Browse
   properties</a></span>
 
 

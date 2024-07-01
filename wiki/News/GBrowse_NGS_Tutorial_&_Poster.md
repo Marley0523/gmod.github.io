@@ -49,7 +49,7 @@ width="100" height="95" alt="GBrowse NGS Tutorial" />](../GBrowse_NGS_Tutorial "
 
 A tutorial on using [GBrowse 2 to visualize next generation sequencing
 (NGS) data](../GBrowse_NGS_Tutorial "GBrowse NGS Tutorial") is now
-available. The [tutorial](../Category:Tutorials "Category:Tutorials")
+available. The [tutorial](../Category%3ATutorials "Category%3ATutorials")
 walks through how to configure the [GBrowse](../GBrowse.1 "GBrowse") 2
 genome browser to display
 <a href="../Next_generation_sequencing" class="mw-redirect"
@@ -70,10 +70,10 @@ read-pairs.
 
 A
 [poster](../File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")
-(by [Scott Cain](../User:Scott "User:Scott")) demonstrating how to use
+(by [Scott Cain](../User%3AScott "User%3AScott")) demonstrating how to use
 the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -99,7 +99,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -197,8 +197,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -232,7 +232,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGBrowse_NGS_Tutorial_-26_Poster"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse_NGS_Tutorial_-26_Poster"
   rel="smw-browse">Browse properties</a></span>
 
 

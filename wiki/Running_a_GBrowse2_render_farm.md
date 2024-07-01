@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-[GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2") can be configured
+[GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") can be configured
 to use one or more "render slave" daemons. A render slave is a small
 Perl process that runs in the background, processing requests to render
 GBrowse tracks. By distributing several render slaves across one or more
@@ -511,7 +511,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 
 </div>
 
@@ -607,8 +607,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -642,7 +642,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Running_a_GBrowse2_render_farm"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Running_a_GBrowse2_render_farm"
   rel="smw-browse">Browse properties</a></span>
 
 

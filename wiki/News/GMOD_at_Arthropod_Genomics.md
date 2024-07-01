@@ -50,8 +50,8 @@ April 10-13, 2008, in Kansas City.
   install and use the [Apollo](../Apollo.1 "Apollo") genome annotation
   tool.
 - *Chado: A Database Schema for Integrating Biological Data* - [Scott
-  Cain](../User:Scott "User:Scott") and [Dave
-  Clements](../User:Clements "User:Clements") will cover
+  Cain](../User%3AScott "User%3AScott") and [Dave
+  Clements](../User%3AClements "User%3AClements") will cover
   <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>'s
   logical concepts, the types of data it can represent, how to import
   and export data, and how Chado integrates with other GMOD components
@@ -100,7 +100,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -198,8 +198,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -233,7 +233,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_at_Arthropod_Genomics"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_at_Arthropod_Genomics"
   rel="smw-browse">Browse properties</a></span>
 
 

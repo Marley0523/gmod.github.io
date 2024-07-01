@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 Lincoln and I talked about a possible GBrowse enhancement this morning.
 This page is to discuss the design and progress of that potential
-enhancement. --[Jhannah](User:Jhannah "User:Jhannah") 10:57, 1 June 2007
+enhancement. --[Jhannah](User%3AJhannah "User%3AJhannah") 10:57, 1 June 2007
 (EDT)
 
 ## <span id="The_Idea" class="mw-headline">The Idea</span>
@@ -59,20 +59,20 @@ usernames? -ponder- DAS integration? -ponder-
 
 ## <span id="Status" class="mw-headline">Status</span>
 
-- Closing ticket on my side. --[Jhannah](User:Jhannah "User:Jhannah")
+- Closing ticket on my side. --[Jhannah](User%3AJhannah "User%3AJhannah")
   15:34, 30 November 2007 (EST)
   - Just returned from the GMOD meeting @ CSHL. I don't think I'm going
     to get around to this project any time soon. If anyone else picks it
     up be aware that GBrowse 3.0 (the AJAX / Google Maps style version)
     is a complete re-write. Should this feature be written into that
     version as well whenever it comes out?
-    --[Jhannah](User:Jhannah "User:Jhannah") 10:30, 11 November 2007
+    --[Jhannah](User%3AJhannah "User%3AJhannah") 10:30, 11 November 2007
     (EST)
     - I'm
       <a href="http://scratchpad.wikia.com/wiki/2007_Hannah_Walkabout"
       class="external text" rel="nofollow">in Australia for 3 weeks</a>.
       When I return I'll try to noodle through a design and post it
-      here. --[Jhannah](User:Jhannah "User:Jhannah") 10:57, 1 June 2007
+      here. --[Jhannah](User%3AJhannah "User%3AJhannah") 10:57, 1 June 2007
       (EDT)
       - I opened ticket \# 5 (-laugh-) for this project in our
         ultra-brand-new <a
@@ -95,8 +95,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [Proposals](Category:Proposals "Category:Proposals")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Proposals](Category%3AProposals "Category%3AProposals")
 
 </div>
 
@@ -192,8 +192,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -227,7 +227,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_Annotation_File_Management_Proposal"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Annotation_File_Management_Proposal"
   rel="smw-browse">Browse properties</a></span>
 
 

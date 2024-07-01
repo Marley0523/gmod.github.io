@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 We are going to reorganize the [Chado related
-documentation](Category:Chado "Category:Chado") in this web site.
+documentation](Category%3AChado "Category%3AChado") in this web site.
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> is the
 database schema of GMOD and it has quite a bit of documentation in this
 web site. However, the doc could be better organized and integrated.
@@ -77,7 +77,7 @@ going.
 This summarizes the major Chado related pages that existed when the
 reorganization began in early April 2008. It is not an exhaustive list
 of pages related to Chado. See the [Chado
-Category](Category:Chado "Category:Chado") for that.
+Category](Category%3AChado "Category%3AChado") for that.
 
 <table class="wikitable">
 <colgroup>
@@ -116,7 +116,7 @@ Chado</em> page - a Chado Cookbook page.</td>
 <tr class="odd">
 <td><a href="Chado_Doc_Project" title="Chado Doc Project">Chado Doc
 Project</a></td>
-<td><a href="User:Bosborne" title="User:Bosborne">Brian Osborne's</a>
+<td><a href="User%3ABosborne" title="User%3ABosborne">Brian Osborne's</a>
 call-to-arms to write "material that is very practical and specific"
 meaning "Best Practices" and "module pages". Brian broke Chado up into 8
 workpackages and sent out a call for volunteers. 3 of the 8 packages
@@ -333,8 +333,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Proposals](Category:Proposals "Category:Proposals")
-- [GMOD Web Site](Category:GMOD_Web_Site "Category:GMOD Web Site")
+- [Proposals](Category%3AProposals "Category%3AProposals")
+- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
 
 </div>
 
@@ -428,8 +428,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -463,7 +463,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Documentation_Reorganization"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Documentation_Reorganization"
   rel="smw-browse">Browse properties</a></span>
 
 

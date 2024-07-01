@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [MAKER](MAKER.1 "MAKER") tutorial was taught by [Barry
-Moore](User:Bmoore "User:Bmoore") as part of the [2011 GMOD Spring
+Moore](User%3ABmoore "User%3ABmoore") as part of the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training").
 
 <div id="toc" class="toc">
@@ -2034,7 +2034,7 @@ The results window will provide a brief summary of the status of each
 contig in your job, and will give you the opportunity to download the
 data, or view the results for individual contigs. Click on **View in
 Apollo**. This will open your data in Apollo ([Ed
-Lee](User:Elee "User:Elee") will describe just how launching Apollo over
+Lee](User%3AElee "User%3AElee") will describe just how launching Apollo over
 the web works during the [Apollo](Apollo.1 "Apollo") section). Then
 close Apollo and click on **SOBA statistics**. This will open up a tool
 from the Sequence Ontology Consortium that provides simple summary
@@ -2633,9 +2633,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
-- [MAKER](Category:MAKER "Category:MAKER")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
+- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -2647,12 +2647,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER Tutorial
-2011](Special:Browse/MAKER-20Tutorial-202011 "Special:Browse/MAKER-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2011](Special%3ABrowse/MAKER-20Tutorial-202011 "Special%3ABrowse/MAKER-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2011 "Special:ExportRDF/MAKER Tutorial 2011")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/MAKER "Special:SearchByProperty/Has-20topic/MAKER")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
 
 </div>
 
@@ -2748,8 +2748,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2783,7 +2783,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MAKER_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

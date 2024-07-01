@@ -73,8 +73,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 # <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category:HOWTO "Category:HOWTO") describes steps to add a
-[BLAST](Category:BLAST "Category:BLAST") analysis to a [Chado
+This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes steps to add a
+[BLAST](Category%3ABLAST "Category%3ABLAST") analysis to a [Chado
 database](Chado_-_Getting_Started "Chado - Getting Started").
 
 # <span id="Have_an_existing_Chado_genome_database" class="mw-headline">Have an existing Chado genome database</span>
@@ -216,7 +216,7 @@ Featureloc entries for Target feature_id 88149:
 correct or at least are misleading; see the [Chado Best Practices
 section for handling BLAST
 results](Chado_Best_Practices#Results_from_BLAST "Chado Best Practices")
-for clarification* [Scott](User:Scott "User:Scott") 19:18, 21 November
+for clarification* [Scott](User%3AScott "User%3AScott") 19:18, 21 November
 2008 (UTC)
 
 # <span id="See_also" class="mw-headline">See also</span>
@@ -232,7 +232,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-- [Dongilbert](User:Dongilbert "User:Dongilbert") 23:24, 3 April 2007
+- [Dongilbert](User%3ADongilbert "User%3ADongilbert") 23:24, 3 April 2007
   (EDT)
 
 </div>
@@ -250,9 +250,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [BLAST](Category:BLAST "Category:BLAST")
-- [Chado](Category:Chado "Category:Chado")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [BLAST](Category%3ABLAST "Category%3ABLAST")
+- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -348,8 +348,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -383,7 +383,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Load_BLAST_Into_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_BLAST_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -109,9 +109,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Sybil](Category:Sybil "Category:Sybil")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Sybil](Category%3ASybil "Category%3ASybil")
 
 </div>
 
@@ -207,8 +207,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -242,7 +242,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Sybil" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sybil" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

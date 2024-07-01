@@ -98,8 +98,8 @@ class="external text" rel="nofollow">Google: genome teragrid</a>
 # <span id="Genome_analysis_and_annotation_via_Grid_computing" class="mw-headline">Genome analysis and annotation via Grid computing</span>
 
 This subproject builds re-usable tools and workflows for [genome
-analyses](Category:Analysis "Category:Analysis") and
-[annotation](Category:Annotation "Category:Annotation"), using shared
+analyses](Category%3AAnalysis "Category%3AAnalysis") and
+[annotation](Category%3AAnnotation "Category%3AAnnotation"), using shared
 cyberinfrastructure (Grids or clusters). Here within are collections of
 scripts, documents and workflows for employing existing genome analysis
 tools (BLAST, homology tools, predictors, comparative and phylogenetic
@@ -201,7 +201,7 @@ used successfully on TeraGrid clusters for analyzing several arthropod
 genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 "as-is" on computer clusters with PBS or LoadLeveler batch queues
 (TeraGrid is not required).
-[Dongilbert](User:Dongilbert "User:Dongilbert") 19:56, 26 June 2008
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 19:56, 26 June 2008
 (EDT)
 
 # <span id="References" class="mw-headline">References</span>
@@ -219,7 +219,7 @@ genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-[Don Gilbert](User:Dongilbert "User:Dongilbert")
+[Don Gilbert](User%3ADongilbert "User%3ADongilbert")
 
 Support provided by a grant from <a
 href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0640462"
@@ -240,10 +240,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Analysis](Category:Analysis "Category:Analysis")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Analysis](Category%3AAnalysis "Category%3AAnalysis")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
 
 </div>
 
@@ -339,8 +339,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -374,7 +374,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Genome_grid" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Genome_grid" rel="smw-browse">Browse
   properties</a></span>
 
 

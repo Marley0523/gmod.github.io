@@ -76,12 +76,12 @@ due August 25.
 
 The GMOD Evo Hackathon Organizing Committee:
 
-[Nicole Washington](../User:NLWashington "User:NLWashington"), [Robert
-Buels](../User:RobertBuels "User:RobertBuels"), [Scott
-Cain](../User:Scott "User:Scott"), [Dave
-Clements](../User:Clements "User:Clements"), [Hilmar
-Lapp](../User:Hlapp "User:Hlapp"), and [Sheldon
-McKay](../User:Mckays "User:Mckays")
+[Nicole Washington](../User%3ANLWashington "User%3ANLWashington"), [Robert
+Buels](../User%3ARobertBuels "User%3ARobertBuels"), [Scott
+Cain](../User%3AScott "User%3AScott"), [Dave
+Clements](../User%3AClements "User%3AClements"), [Hilmar
+Lapp](../User%3AHlapp "User%3AHlapp"), and [Sheldon
+McKay](../User%3AMckays "User%3AMckays")
 
   
 
@@ -106,7 +106,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -204,8 +204,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -239,7 +239,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Evo_Hackathon_Open_Call"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Evo_Hackathon_Open_Call"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -734,7 +734,7 @@ represents the class of things that happen during the larval stage.
 Two views: *cvterm_genus* and *cvterm_differentium* views are in
 chado/modules/cv/views.
 
-### <span id="Example_Use_Case:_Phenotypes" class="mw-headline">Example Use Case: [Phenotypes](Category:Phenotypes "Category:Phenotypes")</span>
+### <span id="Example_Use_Case:_Phenotypes" class="mw-headline">Example Use Case: [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")</span>
 
 The idea here is that queries for composed term "syndactyly" should
 automatically return the same results as a boolean query for "fusion" +
@@ -1680,10 +1680,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [Ontologies](Category:Ontologies "Category:Ontologies")
-- [!Lacking ERD](Category:!Lacking_ERD "Category:!Lacking ERD")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Ontologies](Category%3AOntologies "Category%3AOntologies")
+- [!Lacking ERD](Category%3A!Lacking_ERD "Category%3A!Lacking ERD")
 
 </div>
 
@@ -1779,8 +1779,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1814,7 +1814,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_CV_Module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_CV_Module" rel="smw-browse">Browse
   properties</a></span>
 
 

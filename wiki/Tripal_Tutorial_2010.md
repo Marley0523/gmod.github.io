@@ -54,14 +54,14 @@ width="250" height="75" alt="Tripal" /></a>
 </div>
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User:Sficklin "User:Sficklin") at the [2010 GMOD Summer
+Ficklin](User%3ASficklin "User%3ASficklin") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">Tripal Tutorial</a> page.
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through installing and configuring [Tripal](Tripal.1 "Tripal"), a web
 front end to <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 databases. This tutorial references (and complements) the
@@ -239,7 +239,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -2233,8 +2233,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Tripal](Category:Tripal "Category:Tripal")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 
 </div>
 
@@ -2246,12 +2246,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
-2010](Special:Browse/Tripal-20Tutorial-202010 "Special:Browse/Tripal-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%3ABrowse/Tripal-20Tutorial-202010 "Special%3ABrowse/Tripal-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:ExportRDF/Tripal Tutorial 2010")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Tripal "Special:SearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 
@@ -2347,8 +2347,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2382,7 +2382,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -267,7 +267,7 @@ In progress.
 ## <span id="Background" class="mw-headline">Background</span>
 
 This effort was started after [Josh
-Goodman](User:Jogoodma "User:Jogoodma")'s talk at the [January 2009 GMOD
+Goodman](User%3AJogoodma "User%3AJogoodma")'s talk at the [January 2009 GMOD
 Meeting](January_2009_GMOD_Meeting "January 2009 GMOD Meeting") meeting
 titled "[MOD Web API (A RESTful interface for
 MODs)](January_2009_GMOD_Meeting#A_RESTful_Interface_for_MODs.3F "January 2009 GMOD Meeting")".
@@ -279,7 +279,7 @@ in the proposal stage and have no been implemented at any
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma") -
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -
@@ -290,13 +290,13 @@ in the proposal stage and have no been implemented at any
   rel="nofollow">InterMine</a>
 - Giles Velarde - <a href="http://www.genedb.org" class="external text"
   rel="nofollow">GeneDB</a>
-- [Todd Harris](User:Tharris "User:Tharris") -
+- [Todd Harris](User%3ATharris "User%3ATharris") -
   <a href="http://www.wormbase.org" class="external text"
   rel="nofollow">WormBase</a>
-- [Jim Hu](User:JimHu.1 "User:JimHu") -
+- [Jim Hu](User%3AJimHu.1 "User%3AJimHu") -
   <a href="http://ecoliwiki.net" class="external text"
   rel="nofollow">EcoliWiki</a>
-- [Alex Kalderimis](User:Alexkalderimis "User:Alexkalderimis") -
+- [Alex Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis") -
   <a href="http://www.intermine.org" class="external text"
   rel="nofollow">InterMine</a>
 - *Add your name here*
@@ -342,7 +342,7 @@ individual records within a data class are updated and released
 asynchronously then a timestamp derived from the time of query execution
 should be used.
 
-For example, [FlyBase](Category:FlyBase "Category:FlyBase") releases its
+For example, [FlyBase](Category%3AFlyBase "Category%3AFlyBase") releases its
 data on a roughly monthly basis and tags all data contained in that
 release with a release number (e.g. FB2008_10). If a release number was
 not used then a date stamp for when the entire genes data class was
@@ -1190,12 +1190,12 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Web services](Category:Web_services "Category:Web services")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Web services](Category%3AWeb_services "Category%3AWeb services")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:RPC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:RPC (page does not exist)">RPC</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ARPC (page does not exist)">RPC</a>
 
 </div>
 
@@ -1291,8 +1291,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1326,7 +1326,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_RPC_API" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_RPC_API" rel="smw-browse">Browse
   properties</a></span>
 
 

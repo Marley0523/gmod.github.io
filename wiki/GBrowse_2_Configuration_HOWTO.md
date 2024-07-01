@@ -3213,11 +3213,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [GBrowse 2](Category:GBrowse_2 "Category:GBrowse 2")
-- [Configuration](Category:Configuration "Category:Configuration")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [Configuration](Category%3AConfiguration "Category%3AConfiguration")
 
 </div>
 
@@ -3311,8 +3311,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -3346,7 +3346,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

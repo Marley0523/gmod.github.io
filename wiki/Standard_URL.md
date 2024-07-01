@@ -214,11 +214,11 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [GMOD Best
-  Practices](Category:GMOD_Best_Practices "Category:GMOD Best Practices")
+  Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
-- [WormBase](Category:WormBase "Category:WormBase")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [WormBase](Category%3AWormBase "Category%3AWormBase")
 
 </div>
 
@@ -314,8 +314,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -349,7 +349,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Standard_URL" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Standard_URL" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -265,7 +265,7 @@ Mailing list</a>.
 
 ## <span id="More_on_SOBA" class="mw-headline">More on SOBA</span>
 
-See [Category:SOBA](Category:SOBA "Category:SOBA")
+See [Category%3ASOBA](Category%3ASOBA "Category%3ASOBA")
 
   
 
@@ -289,10 +289,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [SOBA](Category:SOBA "Category:SOBA")
-- [Tool data](Category:Tool_data "Category:Tool data")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [SOBA](Category%3ASOBA "Category%3ASOBA")
+- [Tool data](Category%3ATool_data "Category%3ATool data")
 
 </div>
 
@@ -303,7 +303,7 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[SOBA](Special:Browse/SOBA "Special:Browse/SOBA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[SOBA](Special%3ABrowse/SOBA "Special%3ABrowse/SOBA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</span></span>
 
 |  |  |
@@ -311,7 +311,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</spa
 | [Has website](Property:Has_website "Property:Has website") | <a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external free"
-rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special:SearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span> |
+rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span> |
 
 </div>
 
@@ -407,8 +407,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -442,7 +442,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SOBA" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

@@ -629,9 +629,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Java](Category:Java "Category:Java")
+- [Java](Category%3AJava "Category%3AJava")
 - [Middleware
-  Presentations](Category:Middleware_Presentations "Category:Middleware Presentations")
+  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
 
 </div>
 
@@ -727,8 +727,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -762,7 +762,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/IBatis_Presentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/IBatis_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 

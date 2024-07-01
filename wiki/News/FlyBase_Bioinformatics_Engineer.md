@@ -74,7 +74,7 @@ databases (MODs). Loading and preprocessing of data for these systems
 will be performed at the Harvard University FlyBase site so close
 coordination with developers there will also be required.
 
-[Josh Goodman](../User:Jogoodma "User:Jogoodma")
+[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
 
   
 
@@ -99,7 +99,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -197,8 +197,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -232,7 +232,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FFlyBase_Bioinformatics_Engineer"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FFlyBase_Bioinformatics_Engineer"
   rel="smw-browse">Browse properties</a></span>
 
 

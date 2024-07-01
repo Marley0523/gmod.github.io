@@ -94,7 +94,7 @@ evolutionary science</a> presentation discusses the Phenotype module.
 
 The phenotype tables are spread across the Phenotype and
 [Genetic](Chado_Genetic_Module "Chado Genetic Module") modules. Both
-modules originated at [FlyBase](Category:FlyBase "Category:FlyBase").
+modules originated at [FlyBase](Category%3AFlyBase "Category%3AFlyBase").
 There were actually two versions of the Phenotype module that came out
 of FlyBase: An early one that included the
 [**`feature_phenotype`**](Chado_Phenotype_Module#Table:_feature_phenotype "Chado Phenotype Module")
@@ -359,7 +359,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [Under
-  Construction](Category:Under_Construction "Category:Under Construction")
+  Construction](Category%3AUnder_Construction "Category%3AUnder Construction")
 
 </div>
 
@@ -455,8 +455,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -490,7 +490,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Phenotype_Module_-2D_Staging"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_-2D_Staging"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -53,14 +53,14 @@ alt="Artemis" /></a>
 </div>
 
 This [Artemis-Chado Integration](Artemis "Artemis") tutorial was
-presented by [Robin Houston](User:RobinHouston "User:RobinHouston"),
-[Tim Carver](User:TimCarver "User:TimCarver") and [Giles
-Velarde](User:Buggy "User:Buggy") at the 2009 GMOD Summer School -
+presented by [Robin Houston](User%3ARobinHouston "User%3ARobinHouston"),
+[Tim Carver](User%3ATimCarver "User%3ATimCarver") and [Giles
+Velarde](User%3ABuggy "User%3ABuggy") at the 2009 GMOD Summer School -
 Europe, August 2009. The most recent Artemis tutorial can be found at
 the <a href="Artemis_Tutorial" class="mw-redirect"
 title="Artemis Tutorial">Artemis Tutorial</a> page.
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to use the Artemis annotation editor with a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database.
 
@@ -84,7 +84,7 @@ through how to use the Artemis annotation editor with a
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -142,7 +142,7 @@ available.
 
 ## <span id="Overview" class="mw-headline">Overview</span>
 
-In this [tutorial](Category:Tutorials "Category:Tutorials") we present
+In this [tutorial](Category%3ATutorials "Category%3ATutorials") we present
 how to install and configure
 <a href="http://www.sanger.ac.uk/Software/Artemis/"
 class="external text" rel="nofollow">Artemis</a> and
@@ -686,8 +686,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Annotation](Category:Annotation "Category:Annotation")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 
 </div>
 
@@ -699,12 +699,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Artemis-Chado Integration
-Tutorial](Special:Browse/Artemis-2DChado-20Integration-20Tutorial "Special:Browse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial "Special:ExportRDF/Artemis-Chado Integration Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Artemis "Special:SearchByProperty/Has-20topic/Artemis")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Artemis "Special%3ASearchByProperty/Has-20topic/Artemis")</span> |
 
 </div>
 
@@ -800,8 +800,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -835,7 +835,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Artemis-2DChado_Integration_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Artemis-2DChado_Integration_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

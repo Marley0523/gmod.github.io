@@ -238,7 +238,7 @@ account" link on the top-right corner of the screen:
 
 <a href="File:User_db_enabled.png" class="image"><img
 src="../mediawiki/images/9/9c/User_db_enabled.png" width="504"
-height="296" alt="User db enabled.png" /></a>\[\[Category:\]\]
+height="296" alt="User db enabled.png" /></a>\[\[Category%3A\]\]
 
 </div>
 
@@ -255,11 +255,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [Documentation](Category:Documentation "Category:Documentation")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 - [GBrowse
-  Developer](Category:GBrowse_Developer "Category:GBrowse Developer")
+  Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")
 
 </div>
 
@@ -355,8 +355,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -390,7 +390,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_User_Database" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_User_Database" rel="smw-browse">Browse
   properties</a></span>
 
 

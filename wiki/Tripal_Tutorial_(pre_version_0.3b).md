@@ -54,7 +54,7 @@ width="250" height="75" alt="Tripal" /></a>
 </div>
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User:Sficklin "User:Sficklin") at the [2011 GMOD Spring
+Ficklin](User%3ASficklin "User%3ASficklin") at the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training"), 8-12
 March 2011. The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
@@ -3031,10 +3031,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tripal](Category:Tripal "Category:Tripal")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tripal](Category%3ATripal "Category%3ATripal")
 
 </div>
 
@@ -3046,12 +3046,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial (pre version
-0.3b)](Special:Browse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special:Browse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+0.3b)](Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) "Special:ExportRDF/Tripal Tutorial (pre version 0.3b)")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Tripal "Special:SearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 
@@ -3147,8 +3147,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -3182,7 +3182,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Tutorial_(pre_version_0.3b)"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(pre_version_0.3b)"
   rel="smw-browse">Browse properties</a></span>
 
 

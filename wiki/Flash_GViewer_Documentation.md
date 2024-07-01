@@ -824,7 +824,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [RGD](Category:RGD "Category:RGD")
+- [RGD](Category%3ARGD "Category%3ARGD")
 
 </div>
 
@@ -920,8 +920,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -955,7 +955,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Flash_GViewer_Documentation"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
 
 

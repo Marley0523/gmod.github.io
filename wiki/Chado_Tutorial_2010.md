@@ -54,14 +54,14 @@ width="250" height="164" alt="Chado" /></a>
 </div>
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User:Scott "User:Scott"), [Dave
-Clements](User:Clements "User:Clements"), [Joshua
-Orvis](User:Jorvis "User:Jorvis") (*in absentia*) at the 2010 GMOD
+tutorial was presented by [Scott Cain](User%3AScott "User%3AScott"), [Dave
+Clements](User%3AClements "User%3AClements"), [Joshua
+Orvis](User%3AJorvis "User%3AJorvis") (*in absentia*) at the 2010 GMOD
 Summer School - Americas, May 2010. The most recent Chado tutorial can
 be found at the <a href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado Tutorial</a> page.
 
-This [tutorial](Category:Tutorials "Category:Tutorials") walks you
+This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database,
 Chado being the database [schema](Glossary#Schema "Glossary") of the
@@ -295,7 +295,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -362,7 +362,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](Category:FlyBase "Category:FlyBase") - Chado started here,
+  - [FlyBase](Category%3AFlyBase "Category%3AFlyBase") - Chado started here,
     large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -2144,8 +2144,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Chado](Category:Chado "Category:Chado")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -2157,12 +2157,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Chado Tutorial
-2010](Special:Browse/Chado-20Tutorial-202010 "Special:Browse/Chado-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%3ABrowse/Chado-20Tutorial-202010 "Special%3ABrowse/Chado-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:ExportRDF/Chado Tutorial 2010")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Chado "Special:SearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
 
 </div>
 
@@ -2258,8 +2258,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2293,7 +2293,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -145,10 +145,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
-- [RGD](Category:RGD "Category:RGD")
-- [TAIR](Category:TAIR "Category:TAIR")
-- [PubSearch](Category:PubSearch "Category:PubSearch")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [RGD](Category%3ARGD "Category%3ARGD")
+- [TAIR](Category%3ATAIR "Category%3ATAIR")
+- [PubSearch](Category%3APubSearch "Category%3APubSearch")
 
 </div>
 
@@ -244,8 +244,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -279,7 +279,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/PubFetch" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PubFetch" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

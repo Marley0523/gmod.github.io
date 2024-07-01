@@ -55,10 +55,10 @@ from ISMB 2010](../ISMB_2010 "ISMB 2010"). This includes
   Enis Afgan
 - [Automated Annotation of NGS Transcriptome Data using ISGA and
   Ergatis](../File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
-  [Chris Hemmerich](../User:Chemmeri "User:Chemmeri")
+  [Chris Hemmerich](../User%3AChemmeri "User%3AChemmeri")
 - <a href="http://prezi.com/nx4jy4etq-ug/gbrowse-20-and-jbrowse-for-ismb/"
   class="external text" rel="nofollow">GMOD Presents GBrowse 2.0 and
-  JBrowse</a>, [Scott Cain](../User:Scott "User:Scott")
+  JBrowse</a>, [Scott Cain](../User%3AScott "User%3AScott")
 - [An Advanced Web Query Interface for Biological
   Databases](../File:PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")
   ([Pathway Tools](../Pathway_Tools.1 "Pathway Tools")), Peter Karp
@@ -71,7 +71,7 @@ Plus additional talks and posters on [GBrowse](../GBrowse.1 "GBrowse"),
 Tools](../Pathway_Tools.1 "Pathway Tools"), and
 [Galaxy](../Galaxy.1 "Galaxy").
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -97,7 +97,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -195,8 +195,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -230,7 +230,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FISMB_2010_Talks_-26_Posters"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FISMB_2010_Talks_-26_Posters"
   rel="smw-browse">Browse properties</a></span>
 
 

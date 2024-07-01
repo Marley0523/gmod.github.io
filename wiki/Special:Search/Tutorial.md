@@ -97,7 +97,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to install and configure a \[\[Chado\]\]
   database, Chad ...this course you'll be working with genome annotation
   data from the \[\[MAKER
@@ -122,7 +122,7 @@ wiki!** See also the search results found.
 
   This \[\[Has topic::Chado\]\]
   <span class="searchmatch">tutorial</span> was presented by
-  \[\[User:Scott\|Scott Cain\]\] as part of the \[\[2012 GMOD Summe
+  \[\[User%3AScott\|Scott Cain\]\] as part of the \[\[2012 GMOD Summe
 
   </div>
 
@@ -180,7 +180,7 @@ wiki!** See also the search results found.
   ; \[\[GBrowse <span class="searchmatch">Tutorial</span> 2012\|GBrowse
   <span class="searchmatch">tutorial</span> from 2013 GMOD Summer
   School\]\] : This <span class="searchmatch">tutorial</span> was taught
-  by \[\[User:Scott\|Scott Cain\]\] at the \[\[2013 GMOD Summer
+  by \[\[User%3AScott\|Scott Cain\]\] at the \[\[2013 GMOD Summer
   School\]\]
 
   </div>
@@ -380,7 +380,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running a \[\[JBrowse\]\] server.
   ...latfile-to-json.pl\</tt\>. We'll use some more of the data from the
   \[\[MAKER <span class="searchmatch">Tutorial</span>\|MAKER
@@ -446,7 +446,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to use the Artemis annotation editor with a
   \[\[Chado ...this is included for completeness only and you should
   refer to the \[\[Chado
@@ -563,7 +563,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to configure the \[\[GBrowse\]\] genome browser
   to disp This <span class="searchmatch">tutorial</span> was taught
   using a \[\[VMware\]\] system image as a starting point. If you wan
@@ -621,7 +621,7 @@ wiki!** See also the search results found.
 
   ...stall and configure the \[\[GBrowse_syn\]\] comparative genomics
   viewer. This <span class="searchmatch">tutorial</span> was originally
-  taught by \[\[User:Mckays\|Sheldon McKay\]\] at the 2009 \[\[GMOD S \|
+  taught by \[\[User%3AMckays\|Sheldon McKay\]\] at the 2009 \[\[GMOD S \|
   valign="top" \|This <span class="searchmatch">tutorial</span> was
   taught using a \[\[VMware\]\] system image as a starting point. If you
   wan
@@ -785,7 +785,7 @@ wiki!** See also the search results found.
 
   This \[\[Has topic::WebApollo\]\]
   <span class="searchmatch">tutorial</span> was presented by
-  \[\[User:Elee\|Ed Lee\]\] at the \[\[2012 GMOD Summer School\]\].
+  \[\[User%3AElee\|Ed Lee\]\] at the \[\[2012 GMOD Summer School\]\].
   ...bApollo was not officially released when this session was taught,
   and this <span class="searchmatch">tutorial</span> was run using a
   beta version of the tool.'''
@@ -966,7 +966,7 @@ wiki!** See also the search results found.
 
   This \[\[Has topic::JBrowse\]\]
   <span class="searchmatch">tutorial</span> was presented by
-  \[\[User:RobertBuels\|Robert Buels\]\] at the \[\[2013 GMOD Summe This
+  \[\[User%3ARobertBuels\|Robert Buels\]\] at the \[\[2013 GMOD Summe This
   <span class="searchmatch">tutorial</span> uses the AWS AMI
   '''ami-d2c8b1bb''' named '''2013 GMOD start day 3''' in th
 
@@ -1027,7 +1027,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This <span class="searchmatch">tutorial</span> on \[\[GFF\]\] was
-  given by \[\[User:Scott\|Scott Cain\]\] at the \[\[2012 GMOD Summer
+  given by \[\[User%3AScott\|Scott Cain\]\] at the \[\[2012 GMOD Summer
   ...<span class="searchmatch">tutorial</span>/<span class="searchmatch">tutorial</span>.html?content-type=text%2Fhtml
   The GBrowse Administration <span class="searchmatch">Tutorial</span>\]
   for more information.
@@ -1050,7 +1050,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running a \[\[Galaxy\]\] server.
   ...ttp://bitbucket.org/galaxy/galaxy-central/wiki/ExternalDisplayApplications/<span class="searchmatch">Tutorial</span>
   You can customize what external applications are available for
@@ -1094,7 +1094,7 @@ wiki!** See also the search results found.
 
   This \[\[Has topic::GBrowse\]\]
   <span class="searchmatch">tutorial</span> was taught at the \[\[2012
-  GMOD Summer School\]\] by \[\[User:Scott\|Scott Cain\]\].
+  GMOD Summer School\]\] by \[\[User%3AScott\|Scott Cain\]\].
   ==<span class="searchmatch">Tutorial</span>==
 
   </div>
@@ -1114,7 +1114,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through setting up and running the \[\[MAKER\]\] genome
   annotation
 
@@ -1138,7 +1138,7 @@ wiki!** See also the search results found.
 
   ...his eventually became what is described in the \[\[Artemis-Chado
   Integration <span class="searchmatch">Tutorial</span>\]\].
-  \[\[User:Clements\|Dave C.\]\]''
+  \[\[User%3AClements\|Dave C.\]\]''
 
   </div>
 
@@ -1486,7 +1486,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   The images from most 2009
-  \[\[:Category:Tutorials\|<span class="searchmatch">Tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">Tutorial</span>\]\]
   pages include a basic ''{{GlossaryLink\|GUI\|graphical user
   interface}}'' c
 
@@ -1526,7 +1526,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   This
-  \[\[:Category:Tutorials\|<span class="searchmatch">tutorial</span>\]\]
+  \[\[:Category%3ATutorials\|<span class="searchmatch">tutorial</span>\]\]
   walks you through how to install and configure a \[\[Chado\]\]
   database, Chad ...this course you'll be working with genome annotation
   data from the \[\[MAKER
@@ -1551,7 +1551,7 @@ wiki!** See also the search results found.
 
   This \[\[Has topic::Chado\]\]
   <span class="searchmatch">tutorial</span> was presented by
-  \[\[User:Scott\|Scott Cain\]\] as part of the \[\[2012 GMOD Summe
+  \[\[User%3AScott\|Scott Cain\]\] as part of the \[\[2012 GMOD Summe
 
   </div>
 
@@ -1673,7 +1673,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">Tutorial</span>\]\]
+  \[\[Category%3A<span class="searchmatch">Tutorial</span>\]\]
 
   </div>
 
@@ -1840,7 +1840,7 @@ wiki!** See also the search results found.
   <span class="searchmatch">Tutorial</span>\|JBrowse\]\]. \|
   style="background-color: \#ddffff" align="center" \| '''\[\[Chado
   <span class="searchmatch">Tutorial</span>\|Chado\]\]'''\<br
-  /\>\[\[User:Scott\|Scott Cain\]\] and \[\[User:Clements\|Dave Clements
+  /\>\[\[User%3AScott\|Scott Cain\]\] and \[\[User%3AClements\|Dave Clements
 
   </div>
 
@@ -1865,7 +1865,7 @@ wiki!** See also the search results found.
   \[\[Tripal <span class="searchmatch">Tutorial</span>\|Tripal\]\] \|
   style="background-color: \#ddffff" align="center" \| '''\[\[MAKER
   <span class="searchmatch">Tutorial</span>\|MAKER I\]\]'''\<br
-  /\>\[\[User:Carsonholt\|Carson Holt\]\]\<br /\>\[\[MAKER\]\] overview,
+  /\>\[\[User%3ACarsonholt\|Carson Holt\]\]\<br /\>\[\[MAKER\]\] overview,
 
   </div>
 
@@ -1906,7 +1906,7 @@ wiki!** See also the search results found.
   ; \[\[GBrowse <span class="searchmatch">Tutorial</span> 2012\|GBrowse
   <span class="searchmatch">tutorial</span> from 2013 GMOD Summer
   School\]\] : This <span class="searchmatch">tutorial</span> was taught
-  by \[\[User:Scott\|Scott Cain\]\] at the \[\[2013 GMOD Summer
+  by \[\[User%3AScott\|Scott Cain\]\] at the \[\[2013 GMOD Summer
   School\]\]
 
   </div>
@@ -2154,7 +2154,7 @@ wiki!** See also the search results found.
   Schools\]\]. Each <span class="searchmatch">tutorial</span> includes a
   \[\[VMware\]\] system image to work with, and detailed instructions \*
   '''\[\[Apollo <span class="searchmatch">Tutorial</span>\]\]''' - by
-  \[\[User:Elee\|Ed Lee\]\]
+  \[\[User%3AElee\|Ed Lee\]\]
 
   </div>
 
@@ -2309,8 +2309,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

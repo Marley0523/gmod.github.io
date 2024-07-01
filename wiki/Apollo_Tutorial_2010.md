@@ -54,7 +54,7 @@ width="250" height="91" alt="Apollo" /></a>
 </div>
 
 This [Apollo](Apollo.1 "Apollo") tutorial was presented by [Ed
-Lee](User:Elee "User:Elee") at the [2010 GMOD Summer School -
+Lee](User%3AElee "User%3AElee") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Apollo tutorial can be found at the
 <a href="Apollo_Tutorial" class="mw-redirect"
@@ -154,7 +154,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category:Tutorials "Category:Tutorials") describes the
+This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -1282,9 +1282,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [Apollo](Category:Apollo "Category:Apollo")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Apollo](Category%3AApollo "Category%3AApollo")
 
 </div>
 
@@ -1296,12 +1296,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Apollo Tutorial
-2010](Special:Browse/Apollo-20Tutorial-202010 "Special:Browse/Apollo-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%3ABrowse/Apollo-20Tutorial-202010 "Special%3ABrowse/Apollo-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2010 "Special:ExportRDF/Apollo Tutorial 2010")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Apollo "Special:SearchByProperty/Has-20topic/Apollo")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
 
 </div>
 
@@ -1397,8 +1397,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1432,7 +1432,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

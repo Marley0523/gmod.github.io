@@ -47,7 +47,7 @@ height="161" alt="PrimerDesigner.png" /></a>
 </div>
 
 PrimerDesigner is a [GBrowse](GBrowse.1 "GBrowse") plugin, written by
-[Sheldon McKay](User:Mckays "User:Mckays"), that uses use the
+[Sheldon McKay](User%3AMckays "User%3AMckays"), that uses use the
 <a href="http://primer3.sourceforge.net" class="external text"
 rel="nofollow">primer3</a> program to design PCR primers for selected
 regions within the genome browser. Please feel free to <a
@@ -363,10 +363,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse Plugins](Category:GBrowse_Plugins "Category:GBrowse Plugins")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Help](Category:Help "Category:Help")
+- [GBrowse Plugins](Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Help](Category%3AHelp "Category%3AHelp")
 
 </div>
 
@@ -462,8 +462,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -497,7 +497,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/PrimerDesigner.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PrimerDesigner.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

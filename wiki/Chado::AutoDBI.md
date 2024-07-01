@@ -118,10 +118,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Middleware](Category:Middleware "Category:Middleware")
-- [Perl](Category:Perl "Category:Perl")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [Perl](Category%3APerl "Category%3APerl")
 
 </div>
 
@@ -217,8 +217,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -252,7 +252,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado::AutoDBI" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado::AutoDBI" rel="smw-browse">Browse
   properties</a></span>
 
 

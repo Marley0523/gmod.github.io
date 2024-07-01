@@ -883,7 +883,7 @@ wiki!** See also the search results found.
 
   ...h and annotate genes to keywords from articles. It has a simple,
   \[\[MySQL\]\] <span class="searchmatch">database</span> backend and
-  uses a set of \[\[:Category:Java\|Java\]\] Servlets and JSPs for que
+  uses a set of \[\[:Category%3AJava\|Java\]\] Servlets and JSPs for que
 
   </div>
 
@@ -1355,7 +1355,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...k (\[\[:Category:SGN\|SGN\]\], http://www.sgn.cornell.edu/) is a
+  ...k (\[\[:Category%3ASGN\|SGN\]\], http://www.sgn.cornell.edu/) is a
   Clade Oriented <span class="searchmatch">Database</span> (COD)
   containing genomic, genetic and taxonomic information for species in
   ...permissions vary according to the user-type. The framework for
@@ -1559,8 +1559,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

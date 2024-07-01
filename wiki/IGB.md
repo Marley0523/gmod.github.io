@@ -50,7 +50,7 @@ also a client for the DAS (Distributed Annotation System) protocol.
 I'm going to see if I can get IGB on my Mac to connect to a local Perl
 DAS/2 server I'm writing. This section is for Gregg to see my progress
 (more likely lack thereof) and slap me if I stray too far.
---[Jhannah](User:Jhannah "User:Jhannah") 14:30, 7 November 2007 (EST)
+--[Jhannah](User%3AJhannah "User%3AJhannah") 14:30, 7 November 2007 (EST)
 
 Gregg instructions from a Windows client:
 
@@ -127,8 +127,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [DAS](Category:DAS "Category:DAS")
-- [External](Category:External "Category:External")
+- [DAS](Category%3ADAS "Category%3ADAS")
+- [External](Category%3AExternal "Category%3AExternal")
 
 </div>
 
@@ -224,8 +224,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -259,7 +259,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/IGB" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/IGB" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

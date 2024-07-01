@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 Um, so to sign up for talks/timeslots, do we just add things to the
 agenda tables, and they'll get rearranged and sort themselves out? That
 kind of makes sense to me.
---[RobertBuels](User:RobertBuels "User:RobertBuels") 17:07, 2 December
+--[RobertBuels](User%3ARobertBuels "User%3ARobertBuels") 17:07, 2 December
 2009 (UTC)
 
 Hi Robert,
@@ -56,7 +56,7 @@ he has received.
 Dave C.
 
 Ah yes, I'm a little slow this morning.
---[RobertBuels](User:RobertBuels "User:RobertBuels") 17:26, 2 December
+--[RobertBuels](User%3ARobertBuels "User%3ARobertBuels") 17:26, 2 December
 2009 (UTC)
 
 </div>
@@ -160,8 +160,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

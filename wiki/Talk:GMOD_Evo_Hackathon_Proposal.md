@@ -108,7 +108,7 @@ minutes for some of those meetings are here.
 ## <span id="2010.2F02.2F12_Conference_Call.2C_February_12.2C_2010_2pm_EST" class="mw-headline">2010/02/12 Conference Call, February 12, 2010 2pm EST</span>
 
 The minutes taken by
-[User:RobertBuels](User:RobertBuels "User:RobertBuels"), any
+[User%3ARobertBuels](User%3ARobertBuels "User%3ARobertBuels"), any
 inaccuracies or omissions are his.
 
 ### <span id="Agenda" class="mw-headline">Agenda</span>
@@ -128,7 +128,7 @@ the focus on this topic. Some ideas I have are:
     bycurrent MSA formats.
 2.  Others...
 
-[mckays](User:Mckays "User:Mckays") 14:55, 12 February 2010 (UTC)
+[mckays](User%3AMckays "User%3AMckays") 14:55, 12 February 2010 (UTC)
 
 - focus in on one or at most two implementation goals for the hackathon
 - identify which type of person we need to invite
@@ -137,7 +137,7 @@ the focus on this topic. Some ideas I have are:
   - drafting the proposal?
   - securing the venue?
     - NESCent has blocked out the second week of June or the last two
-      weeks of July for us [mckays](User:Mckays "User:Mckays") 14:55, 12
+      weeks of July for us [mckays](User%3AMckays "User%3AMckays") 14:55, 12
       February 2010 (UTC)
       - June timeframe overlaps with Arthropod Genomics (at this time,
         only Carson Holt is going from GMOD); nothing overlaps yet with
@@ -586,8 +586,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

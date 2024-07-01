@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial was originally taught
-by [Dave Clements](User:Clements "User:Clements") at the [2012 GMOD
+by [Dave Clements](User%3AClements "User%3AClements") at the [2012 GMOD
 Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -712,9 +712,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
 </div>
 
@@ -810,8 +810,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -845,7 +845,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Galaxy_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

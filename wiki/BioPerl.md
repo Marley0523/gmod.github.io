@@ -52,7 +52,7 @@ alt="BioPerl" /></a>
 
 <a href="http://www.bioperl.org/" class="external text"
 rel="nofollow">BioPerl</a> is a set of modules that support
-bioinformatics programming in [Perl](Category:Perl "Category:Perl")
+bioinformatics programming in [Perl](Category%3APerl "Category%3APerl")
 programs. BioPerl is used extensively by several GMOD components. You
 will need to install it before you can use those components.
 
@@ -132,8 +132,8 @@ rel="nofollow">podcast on the BioPerl project</a> is available at
 <a href="http://twit.tv/FLOSS" class="external text"
 rel="nofollow">FLOSS Weekly</a>. It's about an hour long and it's a good
 introduction to the **BioPerl** project. The podcast is an interview
-with BioPerl heavy hitters [Chris Fields](User:Cjfields "User:Cjfields")
-and [Jason Stajich](User:Stajich "User:Stajich").
+with BioPerl heavy hitters [Chris Fields](User%3ACjfields "User%3ACjfields")
+and [Jason Stajich](User%3AStajich "User%3AStajich").
 
 ### <span id="BioPerl_Packages_and_bioperl-live" class="mw-headline">BioPerl Packages and bioperl-live</span>
 
@@ -278,9 +278,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [External](Category:External "Category:External")
-- [Perl](Category:Perl "Category:Perl")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
+- [External](Category%3AExternal "Category%3AExternal")
+- [Perl](Category%3APerl "Category%3APerl")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
 </div>
 
@@ -376,8 +376,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -411,7 +411,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/BioPerl" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioPerl" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

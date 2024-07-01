@@ -60,10 +60,10 @@ The procedure for creating a news entry is described at the [bottom of
 the News page](../GMOD_News#Adding_a_News_Item "GMOD News").
 
 I would like to sincerely thank [Dave
-Clements](../User:Clements "User:Clements") for his considerable help
+Clements](../User%3AClements "User%3AClements") for his considerable help
 getting this new News page and feed set up.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 
@@ -88,7 +88,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -186,8 +186,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -221,7 +221,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Wiki_Migration_Complete"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Wiki_Migration_Complete"
   rel="smw-browse">Browse properties</a></span>
 
 

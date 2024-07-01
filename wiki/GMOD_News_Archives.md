@@ -3238,8 +3238,8 @@ submitting many letters of support from users. We would be very grateful
 if you could take a couple of minutes to write such a letter; it should
 include information about how you use or plan to use GMOD software.
 There are <a
-href="http://gmod.org/wiki/User:Scott#Support_letter_templates#58;//gmod.org/wiki/User:Scott#Support_letter_templates"
-title="User:Scott">some template paragraphs</a> provided for
+href="http://gmod.org/wiki/User%3AScott#Support_letter_templates#58;//gmod.org/wiki/User%3AScott#Support_letter_templates"
+title="User%3AScott">some template paragraphs</a> provided for
 inspiration.</p>
 <p>The letters should be on institutional letterhead, signed, and then
 scanned to a PDF, or you could mail the original to Scott Cain and he
@@ -3254,8 +3254,8 @@ willing to write a letter or if you need any help.</p>
 <p>This grant would help to secure the future of important parts of the
 GMOD project, so we would be very grateful for your help!</p>
 <p><em>Via <a
-href="http://gmod.org/wiki/User:Scott#58;//gmod.org/wiki/User:Scott"
-title="User:Scott">Scott Cain</a></em></p>
+href="http://gmod.org/wiki/User%3AScott#58;//gmod.org/wiki/User%3AScott"
+title="User%3AScott">Scott Cain</a></em></p>
 <p><br />
 </p>
 <div class="newsfooter">
@@ -3308,8 +3308,8 @@ class="mw-redirect" title="WebApollo Tutorial">WebApollo</a></li>
 </ul>
 <p>The full set of GMOD tutorials, featuring all the material from this
 year's summer school and more, is available from the <a
-href="http://gmod.org/wiki/Category:Tutorials#58;//gmod.org/wiki/Category:Tutorials"
-title="Category:Tutorials">Tutorials</a> section of the wiki.</p>
+href="http://gmod.org/wiki/Category%3ATutorials#58;//gmod.org/wiki/Category%3ATutorials"
+title="Category%3ATutorials">Tutorials</a> section of the wiki.</p>
 <p><br />
 </p>
 <div class="newsfooter">
@@ -3334,8 +3334,8 @@ href="http://gmod.org/wiki/http://gmod.org/wiki/JBrowse_Configuration_Guide#58;/
 title="JBrowse Configuration Guide">JBrowse Configuration Guide</a> for
 documentation on how to use the new features.</p>
 <p><a
-href="http://gmod.org/wiki/User:RobertBuels#58;//gmod.org/wiki/User:RobertBuels"
-title="User:RobertBuels">RobertBuels</a> (<a
+href="http://gmod.org/wiki/User%3ARobertBuels#58;//gmod.org/wiki/User%3ARobertBuels"
+title="User%3ARobertBuels">RobertBuels</a> (<a
 href="http://gmod.org/wiki/User_talk:RobertBuels#58;//gmod.org/wiki/User_talk:RobertBuels"
 title="User talk:RobertBuels">talk</a>)</p>
 <p><br />
@@ -3668,11 +3668,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>
+  title="Category%3A!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>
 
 </div>
 
@@ -3768,8 +3768,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -3803,7 +3803,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_News_Archives" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_News_Archives" rel="smw-browse">Browse
   properties</a></span>
 
 

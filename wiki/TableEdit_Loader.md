@@ -292,7 +292,7 @@ new = a | b | c | d | e</code></pre></td>
 <li>merge the two rows, keeping the <em>old row</em> data and adding-in
 the <em>new row</em> data to the blank fields.</li>
 <li>append the <em>new row</em></li>
-<li>throw a [[Category:NeedsManualCuration]]</li>
+<li>throw a [[Category%3ANeedsManualCuration]]</li>
 </ol></td>
 <td><p>A is a subset of B</p></td>
 <td><p>$new_row_obj</p></td>
@@ -323,7 +323,7 @@ old = a | g | h |   | e</code></pre></td>
 <li>append
 <ul>
 <li>this is a better solution, and can be made to through a
-[[Category:Needs Manual Curation]] tag</li>
+[[Category%3ANeeds Manual Curation]] tag</li>
 </ul></li>
 </ol></td>
 <td><p>A ∩ B = ø<br />
@@ -490,7 +490,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [TableEdit](Category:TableEdit "Category:TableEdit")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -586,8 +586,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -621,7 +621,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/TableEdit_Loader" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit_Loader" rel="smw-browse">Browse
   properties</a></span>
 
 

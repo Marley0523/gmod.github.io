@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   ge<span class="smw-highlighter" data-type="2" state="persistent"
   data-title="Information"><span class="smwtext"> …
   </span><span class="smwttcontent">MAKER is an easy-to-configure,
-  portable genome \[\[:Category:Annotation\|annotation\]\] pipeline.
+  portable genome \[\[:Category%3AAnnotation\|annotation\]\] pipeline.
   MAKER allows smaller ''eukaryotic'' genome projects and
   ''prokaryotic'' genome projects to annotate their genomes and to
   create genome databases. MAKER identifies repeats, aligns ESTs and
@@ -193,8 +193,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

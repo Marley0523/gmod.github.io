@@ -767,8 +767,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [SOBA](Category:SOBA "Category:SOBA")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [SOBA](Category%3ASOBA "Category%3ASOBA")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -864,8 +864,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -899,7 +899,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SOBA_2011_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_2011_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

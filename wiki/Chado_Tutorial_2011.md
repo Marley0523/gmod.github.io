@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User:Scott "User:Scott") as part
+tutorial was presented by [Scott Cain](User%3AScott "User%3AScott") as part
 of the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training").
 
@@ -2048,13 +2048,13 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [FlyBase](Category:FlyBase "Category:FlyBase")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Session&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Session (page does not exist)">Session</a>
-- [Chado](Category:Chado "Category:Chado")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ASession (page does not exist)">Session</a>
+- [Chado](Category%3AChado "Category%3AChado")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 
 </div>
 
@@ -2066,12 +2066,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Chado Tutorial
-2011](Special:Browse/Chado-20Tutorial-202011 "Special:Browse/Chado-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2011](Special%3ABrowse/Chado-20Tutorial-202011 "Special%3ABrowse/Chado-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:ExportRDF/Chado Tutorial 2011")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Chado "Special:SearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
 
 </div>
 
@@ -2167,8 +2167,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2202,7 +2202,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

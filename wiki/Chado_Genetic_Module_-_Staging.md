@@ -312,7 +312,7 @@ Tables referencing this one via Foreign Key Constraints:
 Discussion  
 
 OPEN QUESTION: for multicopy transgenes, should we include a 'n_copies'
-column as well? -- [Brain Osborne](User:Bosborne "User:Bosborne"), Feb
+column as well? -- [Brain Osborne](User%3ABosborne "User%3ABosborne"), Feb
 2007
 
 ------------------------------------------------------------------------
@@ -400,7 +400,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [Under
-  Construction](Category:Under_Construction "Category:Under Construction")
+  Construction](Category%3AUnder_Construction "Category%3AUnder Construction")
 
 </div>
 
@@ -496,8 +496,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -531,7 +531,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Genetic_Module_-2D_Staging"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Genetic_Module_-2D_Staging"
   rel="smw-browse">Browse properties</a></span>
 
 

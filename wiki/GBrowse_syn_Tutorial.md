@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User:Mckays "User:Mckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 The starting image for this tutorial is **2013 GMOD start day 4
@@ -930,8 +930,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -965,7 +965,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_Tutorial_2013"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2013"
   rel="smw-browse">Browse properties</a></span>
 
 

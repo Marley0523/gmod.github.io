@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 The links to the Administration Tutorials above are broken!
 
 - *Fixed now; thanks for pointing that out.*
-  [Scott](User:Scott "User:Scott") 19:57, 5 August 2011 (UTC)
+  [Scott](User%3AScott "User%3AScott") 19:57, 5 August 2011 (UTC)
 
 </div>
 
@@ -144,8 +144,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

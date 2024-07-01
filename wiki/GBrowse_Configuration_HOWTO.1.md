@@ -2409,10 +2409,10 @@ Retrieved from
 
 [Categories](/wiki/Special:Categories "Special:Categories"):
 
-- [HOWTO](/wiki/Category:HOWTO "Category:HOWTO")
-- [GBrowse](/wiki/Category:GBrowse "Category:GBrowse")
-- [Documentation](/wiki/Category:Documentation "Category:Documentation")
-- [Needs Editing](/wiki/Category:Needs_Editing "Category:Needs Editing")
+- [HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")
+- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
+- [Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")
+- [Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
 </div>
 
@@ -2508,8 +2508,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -2544,7 +2544,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/GBrowse_1_Configuration_HOWTO"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse_1_Configuration_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

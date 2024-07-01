@@ -133,14 +133,14 @@ rel="nofollow">http://localhost/cgi-bin/gbrowse/gbrowse/yeast_chr1</a>.
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-[Lincoln Stein](User:Lstein "User:Lstein") 12:51, 17 April 2007 (EDT)
+[Lincoln Stein](User%3ALstein "User%3ALstein") 12:51, 17 April 2007 (EDT)
 
 Some material cut and paste from www.biopackages.net, with permission
 from Allen Day.
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Boconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User:Boconnor (page does not exist)">Brian
+href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ABoconnor (page does not exist)">Brian
 O'Connor</a> 12:12, 19 April 2007 (PDT)
 
 Updated the install description of Biopackages to use our new
@@ -148,8 +148,8 @@ configuration RPMs.
 
   
 <a
-href="http://gmod.org/mediawiki/index.php?title=User:Boconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User:Boconnor (page does not exist)">Brian
+href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ABoconnor (page does not exist)">Brian
 O'Connor</a> 12:18, 05 June 2007 (PDT)
 
 Added note about install path for gbrowse.
@@ -169,10 +169,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Linux](Category:Linux "Category:Linux")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Linux](Category%3ALinux "Category%3ALinux")
 
 </div>
 
@@ -268,8 +268,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -303,7 +303,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -154,7 +154,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
 
 </div>
 
@@ -250,8 +250,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -285,7 +285,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interfaces%3A_outline_of_topics"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_User_Interfaces%3A_outline_of_topics"
   rel="smw-browse">Browse properties</a></span>
 
 

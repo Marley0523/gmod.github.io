@@ -39,12 +39,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 Where can I read about how to use these adaptors in GBrowse?
---[DanBolser](User:DanBolser "User:DanBolser") 11:15, 4 March 2011 (UTC)
+--[DanBolser](User%3ADanBolser "User%3ADanBolser") 11:15, 4 March 2011 (UTC)
 
 What sort of thing are you looking for? Each of the adaptors has a link
 to some form of help text, typically perldoc-like stuff. Additionally,
 GBrowse comes with a tutorial that covers using some of the different
-adaptors. [Scott](User:Scott "User:Scott") 16:30, 9 March 2011 (UTC)
+adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
 
 </div>
 
@@ -147,8 +147,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

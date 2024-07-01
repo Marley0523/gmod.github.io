@@ -47,10 +47,10 @@ modeling metabolic pathways and regulatory networks. There will also be
 presentations by these GMOD [member databases](../MOD "MOD") that use
 [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") in their databases:
 
-- [Mouse](../Category:MGI "Category:MGI")
-- [dictyBase](../Category:DictyBase "Category:DictyBase")
-- [SGD](../Category:SGD "Category:SGD")
-- [Solanaceae Genomics Network](../Category:SGN "Category:SGN")
+- [Mouse](../Category%3AMGI "Category%3AMGI")
+- [dictyBase](../Category%3ADictyBase "Category%3ADictyBase")
+- [SGD](../Category%3ASGD "Category%3ASGD")
+- [Solanaceae Genomics Network](../Category%3ASGN "Category%3ASGN")
 
 Early registration is available until February 22, 2008
 
@@ -77,7 +77,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -175,8 +175,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -210,7 +210,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FPathway_Tools_Workshop"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FPathway_Tools_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

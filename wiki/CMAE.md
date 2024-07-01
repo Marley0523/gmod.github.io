@@ -135,7 +135,7 @@ The CMAE specific information is located in the "editor" directory.
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-- [Ben Faga](User:Faga "User:Faga")
+- [Ben Faga](User%3AFaga "User%3AFaga")
 
 </div>
 
@@ -152,8 +152,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
-- [CMap](Category:CMap "Category:CMap")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [CMap](Category%3ACMap "Category%3ACMap")
 
 </div>
 
@@ -249,8 +249,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -284,7 +284,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CMAE" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMAE" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

@@ -87,7 +87,7 @@ using XORT and what is involved to do so.
 
 ## <span id="Author" class="mw-headline">Author</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma")
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -409,9 +409,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [XORT](Category:XORT "Category:XORT")
-- [Chado](Category:Chado "Category:Chado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [XORT](Category%3AXORT "Category%3AXORT")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -507,8 +507,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -542,7 +542,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/XORT_Dumper_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT_Dumper_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

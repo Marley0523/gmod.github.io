@@ -42,8 +42,8 @@ I think it would be very useful to post more information about how to
 construct/revise the textpresso lexica. this information is not covered
 well in either the papaers or installation guide. Or perhaps someone can
 point to more information? <a
-href="http://gmod.org/mediawiki/index.php?title=User:Gribskov&amp;action=edit&amp;redlink=1"
-class="new" title="User:Gribskov (page does not exist)">Gribskov</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AGribskov&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
 11:26, 9 July 2008 (EDT)
 
 </div>
@@ -147,8 +147,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

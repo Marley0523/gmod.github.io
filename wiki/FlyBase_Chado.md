@@ -107,7 +107,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Chado FlyBase](Category:Chado_FlyBase "Category:Chado FlyBase")
+- [Chado FlyBase](Category%3AChado_FlyBase "Category%3AChado FlyBase")
 
 </div>
 
@@ -203,8 +203,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/FlyBase_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

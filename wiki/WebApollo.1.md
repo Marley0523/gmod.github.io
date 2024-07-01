@@ -432,17 +432,17 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:SemanticLink&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:SemanticLink (page does not exist)">SemanticLink</a>
-- [Webapollo](Category:Webapollo "Category:Webapollo")
-- [AJAX](Category:AJAX "Category:AJAX")
+  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [AJAX](Category%3AAJAX "Category%3AAJAX")
 - [Community
-  Annotation](Category:Community_Annotation "Category:Community Annotation")
-- [Annotation](Category:Annotation "Category:Annotation")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
+  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -453,7 +453,7 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[WebApollo](Special:Browse/WebApollo "Special:Browse/WebApollo")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[WebApollo](Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo "Special:ExportRDF/WebApollo")</span></span>
 
 <table class="smwfacttable">
@@ -466,8 +466,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo "Special:ExportRDF/WebApo
 <td class="smwpropname"><a href="Property:Available_on_platform"
 title="Property:Available on platform">Available on platform</a></td>
 <td class="smwprops">web <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_URL"
@@ -475,30 +475,30 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://genomearchitect.org"
 class="external free" rel="nofollow">http://genomearchitect.org</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="https://github.com/gmod/apollo" class="external free"
 rel="nofollow">https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special:SearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a href="http://code.google.com/p/genomancer" class="external free"
 rel="nofollow">http://code.google.com/p/genomancer</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
 <a href="http://genomearchitect.org:8080/WebApolloDemo/"
 class="external free"
 rel="nofollow">http://genomearchitect.org:8080/WebApolloDemo/</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>
 and <a href="http://genomearchitect.org/webapollo/releases/"
 class="external free"
 rel="nofollow">http://genomearchitect.org/webapollo/releases/</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
-title="Special:SearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
+title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_description"
@@ -547,94 +547,94 @@ href="http://genomearchitect.org/WebApolloDemo" class="external free"
 rel="nofollow">http://genomearchitect.org/WebApolloDemo</a> (<em>Apis
 mellifera</em> genome).ebApolloDemo] (<em>Apis mellifera</em> genome).
 <span class="smwsearch"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:SearchByProperty&amp;x=Has-20description%2FWebApollo-20is-20a-20browser-2Dbased-20tool-20for-20visualization-20and-20editing-20of-20sequence-20annotations.-20It-20is-20designed-20for-20distributed-20community-20annotation-20efforts%2C-20where-20numerous-20people-20may-20be-20working-20on-20the-20same-20sequences-20in-20geographically-20different-20locations%3B-20real-2Dtime-20updating-20keeps-20all-20users-20in-20sync-20during-20the-20editing-20process.-0A-0AThe-20features-20of-20WebApollo-20include%3A-0A%2AHistory-20tracking%2C-20including-20browsing-20of-20an-20annotation%27s-20edit-20history-20and-20full-20undo-2Fredo-20functions-0A%2AReal-20time-20updating%3A-20edits-20in-20one-20client-20are-20instantly-20pushed-20to-20all-20other-20clients-0A%2AConvenient-20management-20of-20user-20login%2C-20authentication%2C-20and-20edit-20permissions-0A%2ATwo-2Dstage-20curation-20process%3A-20edit-20within-20a-20temporary-20workspace%2C-20then-20publish-20to-20a-20curated-20database-0A%2AAbility-20to-20add-20comments%2C-20either-20chosen-20from-20a-20pre-2Ddefined-20set-20of-20comments-20or-20as-20freeform-20text.-0A%2AAbility-20to-20add-20dbxrefs-20-5Bdatabase-20crossreferences-5D-20-2D-2D-20e.g.-20for-20GO-20functional-20annotation-0A%2ACan-20set-20start-20of-20translation-20for-20a-20transcript-20or-20let-20server-20determine-20automatically-0A%2AFlagging-20of-20non-2Dcanonical-20splice-20sites-20in-20curated-20annotations-0A%2AEdge-20matching-20to-20selected-20feature%3A-20matching-20edges-20across-20annotations-20and-20evidence-20tracks-20are-20highlighted-0A%2AOption-20to-20color-20transcript-20CDS-20by-20reading-20frame-0A%2ALoading-20of-20data-20directly-20from-20GFF3%2C-20BigWig%2C-20and-20BAM-20files%2C-20both-20remotely-20and-20from-20user%27s-20local-20machine.-0A%2AConfigurable-20heat-20map-20rendering-20of-20BigWig-20data-0A%2APer-2Dsession-20track-20configuration-20to-20set-20annotation-20colors%2C-20height%2C-20and-20other-20properties-0A%2AExport-20of-20annotation-20tracks-20as-20GFF3-20and-20optionally-20other-20formats-0A%2ASearch-20by-20sequence-20residues-20using-20server-2Dside-20interface-20to-20BLAT-20or-20other-20sequence-20search-20programs-0A-0AThe-20public-20demo-20can-20be-20accessed-20at%3A-20-5Bhttp%3A-2F-2Fgenomearchitect.org-2FWebApolloDemo-20http%3A-2F-2Fgenomearchitect.org-2FWebApolloDemo-5D-20%28-27-27Apis-20mellifera-27-27-20genome%29."
+href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FWebApollo-20is-20a-20browser-2Dbased-20tool-20for-20visualization-20and-20editing-20of-20sequence-20annotations.-20It-20is-20designed-20for-20distributed-20community-20annotation-20efforts%2C-20where-20numerous-20people-20may-20be-20working-20on-20the-20same-20sequences-20in-20geographically-20different-20locations%3B-20real-2Dtime-20updating-20keeps-20all-20users-20in-20sync-20during-20the-20editing-20process.-0A-0AThe-20features-20of-20WebApollo-20include%3A-0A%2AHistory-20tracking%2C-20including-20browsing-20of-20an-20annotation%27s-20edit-20history-20and-20full-20undo-2Fredo-20functions-0A%2AReal-20time-20updating%3A-20edits-20in-20one-20client-20are-20instantly-20pushed-20to-20all-20other-20clients-0A%2AConvenient-20management-20of-20user-20login%2C-20authentication%2C-20and-20edit-20permissions-0A%2ATwo-2Dstage-20curation-20process%3A-20edit-20within-20a-20temporary-20workspace%2C-20then-20publish-20to-20a-20curated-20database-0A%2AAbility-20to-20add-20comments%2C-20either-20chosen-20from-20a-20pre-2Ddefined-20set-20of-20comments-20or-20as-20freeform-20text.-0A%2AAbility-20to-20add-20dbxrefs-20-5Bdatabase-20crossreferences-5D-20-2D-2D-20e.g.-20for-20GO-20functional-20annotation-0A%2ACan-20set-20start-20of-20translation-20for-20a-20transcript-20or-20let-20server-20determine-20automatically-0A%2AFlagging-20of-20non-2Dcanonical-20splice-20sites-20in-20curated-20annotations-0A%2AEdge-20matching-20to-20selected-20feature%3A-20matching-20edges-20across-20annotations-20and-20evidence-20tracks-20are-20highlighted-0A%2AOption-20to-20color-20transcript-20CDS-20by-20reading-20frame-0A%2ALoading-20of-20data-20directly-20from-20GFF3%2C-20BigWig%2C-20and-20BAM-20files%2C-20both-20remotely-20and-20from-20user%27s-20local-20machine.-0A%2AConfigurable-20heat-20map-20rendering-20of-20BigWig-20data-0A%2APer-2Dsession-20track-20configuration-20to-20set-20annotation-20colors%2C-20height%2C-20and-20other-20properties-0A%2AExport-20of-20annotation-20tracks-20as-20GFF3-20and-20optionally-20other-20formats-0A%2ASearch-20by-20sequence-20residues-20using-20server-2Dside-20interface-20to-20BLAT-20or-20other-20sequence-20search-20programs-0A-0AThe-20public-20demo-20can-20be-20accessed-20at%3A-20-5Bhttp%3A-2F-2Fgenomearchitect.org-2FWebApolloDemo-20http%3A-2F-2Fgenomearchitect.org-2FWebApolloDemo-5D-20%28-27-27Apis-20mellifera-27-27-20genome%29."
 class="external text" rel="nofollow">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_development_status"
 title="Property:Has development status">Has development status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20development-20status/active"
-title="Special:SearchByProperty/Has-20development-20status/active">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20development-20status/active"
+title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_input_format"
 title="Property:Has input format">Has input format</a></td>
 <td class="smwprops">GFF3 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/GFF3"
-title="Special:SearchByProperty/Has-20input-20format/GFF3">+</a></span>,
+href="Special%3ASearchByProperty/Has-20input-20format/GFF3"
+title="Special%3ASearchByProperty/Has-20input-20format/GFF3">+</a></span>,
 BigWig <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/BigWig"
-title="Special:SearchByProperty/Has-20input-20format/BigWig">+</a></span>
+href="Special%3ASearchByProperty/Has-20input-20format/BigWig"
+title="Special%3ASearchByProperty/Has-20input-20format/BigWig">+</a></span>
 and BAM <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20input-20format/BAM"
-title="Special:SearchByProperty/Has-20input-20format/BAM">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20input-20format/BAM"
+title="Special%3ASearchByProperty/Has-20input-20format/BAM">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_logo"
 title="Property:Has logo">Has logo</a></td>
 <td class="smwprops">WebApolloLogo.png <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20logo/WebApolloLogo.png"
-title="Special:SearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png"
+title="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_output_format"
 title="Property:Has output format">Has output format</a></td>
 <td class="smwprops">GFF3 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20output-20format/GFF3"
-title="Special:SearchByProperty/Has-20output-20format/GFF3">+</a></span>
+href="Special%3ASearchByProperty/Has-20output-20format/GFF3"
+title="Special%3ASearchByProperty/Has-20output-20format/GFF3">+</a></span>
 and others <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20output-20format/others"
-title="Special:SearchByProperty/Has-20output-20format/others">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20output-20format/others"
+title="Special%3ASearchByProperty/Has-20output-20format/others">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a></td>
 <td class="smwprops">mature <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20software-20maturity-20status/mature"
-title="Special:SearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
+title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_support_status"
 title="Property:Has support status">Has support status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20support-20status/active"
-title="Special:SearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20support-20status/active"
+title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Has_title"
 title="Property:Has title">Has title</a></td>
 <td class="smwprops">Client and server <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/Client-20and-20server"
-title="Special:SearchByProperty/Has-20title/Client-20and-20server">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/Client-20and-20server"
+title="Special%3ASearchByProperty/Has-20title/Client-20and-20server">+</a></span>,
 Trellis server <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/Trellis-20server"
-title="Special:SearchByProperty/Has-20title/Trellis-20server">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/Trellis-20server"
+title="Special%3ASearchByProperty/Has-20title/Trellis-20server">+</a></span>,
 WebApollo demo - Bos taurus genome <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/WebApollo-20demo-20-2D-20Bos-20taurus-20genome"
-title="Special:SearchByProperty/Has-20title/WebApollo-20demo-20-2D-20Bos-20taurus-20genome">+</a></span>
+href="Special%3ASearchByProperty/Has-20title/WebApollo-20demo-20-2D-20Bos-20taurus-20genome"
+title="Special%3ASearchByProperty/Has-20title/WebApollo-20demo-20-2D-20Bos-20taurus-20genome">+</a></span>
 and WebApollo download <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20title/WebApollo-20download"
-title="Special:SearchByProperty/Has-20title/WebApollo-20download">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/WebApollo-20download"
+title="Special%3ASearchByProperty/Has-20title/WebApollo-20download">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Has_topic"
 title="Property:Has topic">Has topic</a></td>
 <td class="smwprops"><strong>WebApollo</strong> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20topic/WebApollo"
-title="Special:SearchByProperty/Has-20topic/WebApollo">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20topic/WebApollo"
+title="Special%3ASearchByProperty/Has-20topic/WebApollo">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Interaction_type"
 title="Property:Interaction type">Interaction type</a></td>
 <td class="smwprops">receives input from <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/receives-20input-20from"
-title="Special:SearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>
+href="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from"
+title="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>
 and is based on <span class="smwsearch"><a
-href="Special:SearchByProperty/Interaction-20type/is-20based-20on"
-title="Special:SearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
+href="Special%3ASearchByProperty/Interaction-20type/is-20based-20on"
+title="Special%3ASearchByProperty/Interaction-20type/is-20based-20on">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
@@ -642,50 +642,50 @@ href="http://gmod.org/mediawiki/index.php?title=Property:Interactor&amp;action=e
 class="new"
 title="Property:Interactor (page does not exist)">Interactor</a></td>
 <td class="smwprops">WebApollo <span class="smwsearch"><a
-href="Special:SearchByProperty/Interactor/WebApollo"
-title="Special:SearchByProperty/Interactor/WebApollo">+</a></span></td>
+href="Special%3ASearchByProperty/Interactor/WebApollo"
+title="Special%3ASearchByProperty/Interactor/WebApollo">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Interacts_with"
 title="Property:Interacts with">Interacts with</a></td>
 <td class="smwprops"><a href="MAKER.1" title="MAKER">MAKER</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/MAKER"
-title="Special:SearchByProperty/Interacts-20with/MAKER">+</a></span> and
+href="Special%3ASearchByProperty/Interacts-20with/MAKER"
+title="Special%3ASearchByProperty/Interacts-20with/MAKER">+</a></span> and
 <a href="JBrowse.1" title="JBrowse">JBrowse</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Interacts-20with/JBrowse"
-title="Special:SearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
+href="Special%3ASearchByProperty/Interacts-20with/JBrowse"
+title="Special%3ASearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Is_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
-href="Special:SearchByProperty/Is-20open-20source/Yes"
-title="Special:SearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%3ASearchByProperty/Is-20open-20source/Yes"
+title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property:Link_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">website <span class="smwsearch"><a
-href="Special:SearchByProperty/Link-20type/website"
-title="Special:SearchByProperty/Link-20type/website">+</a></span>,
+href="Special%3ASearchByProperty/Link-20type/website"
+title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
 source code <span class="smwsearch"><a
-href="Special:SearchByProperty/Link-20type/source-20code"
-title="Special:SearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%3ASearchByProperty/Link-20type/source-20code"
+title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server <span class="smwsearch"><a
-href="Special:SearchByProperty/Link-20type/demo-20server"
-title="Special:SearchByProperty/Link-20type/demo-20server">+</a></span>
+href="Special%3ASearchByProperty/Link-20type/demo-20server"
+title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>
 and download <span class="smwsearch"><a
-href="Special:SearchByProperty/Link-20type/download"
-title="Special:SearchByProperty/Link-20type/download">+</a></span></td>
+href="Special%3ASearchByProperty/Link-20type/download"
+title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Release_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">2012 <span class="smwsearch"><a
-href="Special:SearchByProperty/Release-20date/2012"
-title="Special:SearchByProperty/Release-20date/2012">+</a></span></td>
+href="Special%3ASearchByProperty/Release-20date/2012"
+title="Special%3ASearchByProperty/Release-20date/2012">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a
@@ -693,21 +693,21 @@ href="Property:Tool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Community annotation <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>
 and Sequence annotation <span class="smwsearch"><a
-href="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
-title="Special:SearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
+href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
+title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property:Written_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Javascript <span class="smwsearch"><a
-href="Special:SearchByProperty/Written-20in-20language/Javascript"
-title="Special:SearchByProperty/Written-20in-20language/Javascript">+</a></span>
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>
 and Java <span class="smwsearch"><a
-href="Special:SearchByProperty/Written-20in-20language/Java"
-title="Special:SearchByProperty/Written-20in-20language/Java">+</a></span></td>
+href="Special%3ASearchByProperty/Written-20in-20language/Java"
+title="Special%3ASearchByProperty/Written-20in-20language/Java">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
@@ -719,38 +719,38 @@ special property in this wiki.</span></span></td>
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org"
 title="WebApollo">WebApollo#http://genomearchitect.org</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="WebApollo.1#https:.2F.2Fgithub.com.2Fgmod.2Fapollo"
 title="WebApollo">WebApollo#https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a href="WebApollo.1#http:.2F.2Fcode.google.com.2Fp.2Fgenomancer"
 title="WebApollo">WebApollo#http://code.google.com/p/genomancer</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
 <a
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F"
 title="WebApollo">WebApollo#http://genomearchitect.org:8080/WebApolloDemo/</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>,
 <a
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org.2Fwebapollo.2Freleases.2F"
 title="WebApollo">WebApollo#http://genomearchitect.org/webapollo/releases/</a>
 <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span>,
 <a href="WebApollo.1#_0d2bc0e8d059cba6cefd439a084fc7c8"
 title="WebApollo">WebApollo</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23 0d2bc0e8d059cba6cefd439a084fc7c8">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 0d2bc0e8d059cba6cefd439a084fc7c8">+</a></span>
 and <a href="WebApollo.1#_e25e09b3c3c15a82835f7fa1b510fe42"
 title="WebApollo">WebApollo</a> <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20subobject/WebApollo-23_e25e09b3c3c15a82835f7fa1b510fe42"
-title="Special:SearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a82835f7fa1b510fe42">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23_e25e09b3c3c15a82835f7fa1b510fe42"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a82835f7fa1b510fe42">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -849,8 +849,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -884,7 +884,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/WebApollo" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo" rel="smw-browse">Browse
   properties</a></span>
 
 

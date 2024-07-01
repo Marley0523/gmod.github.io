@@ -63,7 +63,7 @@ documentation; respond to mailing list help requests; present tutorials;
 organize short courses, conference sessions and other community building
 activities; survey user needs, and recruit members of the community to
 assist with these functions. The incumbent will collaborate closely with
-the GMOD Coordinator ([Scott Cain](../User:Scott "User:Scott"), The
+the GMOD Coordinator ([Scott Cain](../User%3AScott "User%3AScott"), The
 Ontario Institute for Cancer Research) and other distributed personnel.
 See [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk") for more
 background on the activities of the user support specialist. The salary
@@ -112,7 +112,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -210,8 +210,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -245,7 +245,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Helpdesk_Position_Open"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Helpdesk_Position_Open"
   rel="smw-browse">Browse properties</a></span>
 
 

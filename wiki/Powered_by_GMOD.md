@@ -100,8 +100,8 @@ width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /></a> |  |  |
 
 - [GMOD Promotion](GMOD_Promotion "GMOD Promotion")
 - [GMOD Project
-  Logos](Category:GMOD_Project_Logos "Category:GMOD Project Logos")
-- [Logos and Icons](Category:Logos_and_Icons "Category:Logos and Icons")
+  Logos](Category%3AGMOD_Project_Logos "Category%3AGMOD Project Logos")
+- [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
 
 </div>
 
@@ -119,8 +119,8 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [GMOD Project
-  Logos](Category:GMOD_Project_Logos "Category:GMOD Project Logos")
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
+  Logos](Category%3AGMOD_Project_Logos "Category%3AGMOD Project Logos")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 
 </div>
 
@@ -216,8 +216,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -251,7 +251,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Powered_by_GMOD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Powered_by_GMOD" rel="smw-browse">Browse
   properties</a></span>
 
 

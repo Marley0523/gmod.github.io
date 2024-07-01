@@ -94,9 +94,9 @@ rel="nofollow">http://github.com/solgenomics/bio-chado-schema</a>
 
 ### <span id="Contributors" class="mw-headline">Contributors</span>
 
-- [Robert Buels](User:RobertBuels "User:RobertBuels") (Sol Genomics
+- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") (Sol Genomics
   Network)
-- [Naama Menda](User:NaamaMenda "User:NaamaMenda") (Sol Genomics
+- [Naama Menda](User%3ANaamaMenda "User%3ANaamaMenda") (Sol Genomics
   Network)
 - Aureliano Bombarely (Sol Genomics Network)
 - Jonathan "Duke" Leto (Sol Genomics Network)
@@ -149,10 +149,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Middleware](Category:Middleware "Category:Middleware")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Middleware
-  Presentations](Category:Middleware_Presentations "Category:Middleware Presentations")
-- [Chado](Category:Chado "Category:Chado")
+  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -170,10 +170,10 @@ feed</span></span>
 |----|----|
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special:SearchByProperty/Chado/Schema "Special:SearchByProperty/Chado/Schema")</span> |
+class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Chado/Schema "Special%3ASearchByProperty/Chado/Schema")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special:SearchByProperty/Talk:Bio/Schema "Special:SearchByProperty/Talk:Bio/Schema")</span> |
+class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Talk:Bio/Schema "Special%3ASearchByProperty/Talk:Bio/Schema")</span> |
 
 </div>
 
@@ -267,8 +267,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -302,7 +302,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
   properties</a></span>
 
 

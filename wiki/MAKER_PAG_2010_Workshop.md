@@ -156,7 +156,7 @@ MAKER on a local machine.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-- [Carson Holt](User:Carsonholt "User:Carsonholt"),
+- [Carson Holt](User%3ACarsonholt "User%3ACarsonholt"),
   <a href="http://www.utah.edu" class="external text"
   rel="nofollow">University of Utah</a>
 
@@ -308,8 +308,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -343,7 +343,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MAKER_PAG_2010_Workshop" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_PAG_2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
 
 

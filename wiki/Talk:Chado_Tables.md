@@ -42,7 +42,7 @@ Are the 'wwwuser' tables a standard part of chado schema? If not, they
 probably should be moved out of this document into a subsidiary one.
 Maybe also to streamline this document into an easier one to read. They
 are not in my chado schema installs.
-[Dongilbert](User:Dongilbert "User:Dongilbert") 19:34, 28 September 2007
+[Dongilbert](User%3ADongilbert "User%3ADongilbert") 19:34, 28 September 2007
 (EDT)
 
 </div>
@@ -146,8 +146,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

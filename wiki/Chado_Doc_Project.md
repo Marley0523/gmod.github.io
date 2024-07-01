@@ -101,7 +101,7 @@ its comrades in terms of its expressiveness, logic and coherence, and
 extensibility. It is truly a work of conceptual art. It is also not the
 easiest schema to use, compared to its comrades. Let us complete this
 work that needs to be done on Chado so that the largest number of people
-can benefit from it. [Bosborne](User:Bosborne "User:Bosborne") 11:24, 8
+can benefit from it. [Bosborne](User%3ABosborne "User%3ABosborne") 11:24, 8
 May 2007 (EDT)
 
   
@@ -254,9 +254,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [Proposals](Category:Proposals "Category:Proposals")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Proposals](Category%3AProposals "Category%3AProposals")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
 </div>
 
@@ -352,8 +352,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -387,7 +387,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Doc_Project" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Doc_Project" rel="smw-browse">Browse
   properties</a></span>
 
 

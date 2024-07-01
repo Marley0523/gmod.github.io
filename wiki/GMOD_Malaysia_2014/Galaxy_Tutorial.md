@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [Galaxy](../Galaxy.1 "Galaxy") tutorial was presented by [Dave
-Clements](../User:Clements "User:Clements") at [GMOD Malaysia
+Clements](../User%3AClements "User%3AClements") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014.
 
 The most recent Galaxy tutorial can be found at the
@@ -74,9 +74,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
-- [Galaxy](../Category:Galaxy "Category:Galaxy")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [Galaxy](../Category%3AGalaxy "Category%3AGalaxy")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -88,12 +88,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/Galaxy
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Galaxy_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/Galaxy Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [Galaxy](../Galaxy.1 "Galaxy") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/Galaxy "Special:SearchByProperty/Has-20topic/Galaxy")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [Galaxy](../Galaxy.1 "Galaxy") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
 
 </div>
 
@@ -191,8 +191,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -226,7 +226,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FGalaxy_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FGalaxy_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

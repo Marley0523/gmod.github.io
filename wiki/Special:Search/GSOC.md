@@ -143,8 +143,8 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
 
   </div>
 
@@ -208,7 +208,7 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
 
   </div>
 
@@ -312,7 +312,7 @@ See also the search results found.
   If you have any thoughts or suggestions on the
   <span class="searchmatch">GSoC</span> project, please send them along
   to \[mailto:help@gmod.org the GMOD helpdesk\]
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
 
   </div>
 
@@ -488,8 +488,8 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
 
   </div>
 
@@ -792,8 +792,8 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
 
   </div>
 
@@ -857,7 +857,7 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
 
   </div>
 
@@ -980,7 +980,7 @@ See also the search results found.
   If you have any thoughts or suggestions on the
   <span class="searchmatch">GSoC</span> project, please send them along
   to \[mailto:help@gmod.org the GMOD helpdesk\]
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
 
   </div>
 
@@ -1177,8 +1177,8 @@ See also the search results found.
 
   <div class="searchresult">
 
-  \[\[Category:<span class="searchmatch">GSOC</span>\]\]
-  \[\[Category:<span class="searchmatch">GSoC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSOC</span>\]\]
+  \[\[Category%3A<span class="searchmatch">GSoC</span>\]\]
 
   </div>
 
@@ -1521,8 +1521,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

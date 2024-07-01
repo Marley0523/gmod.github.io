@@ -190,7 +190,7 @@ assembly and subsequent analysis have resulted in:
 # <span id="ParameciumDB" class="mw-headline">ParameciumDB</span>
 
 ParameciumDB is maintained by two people, [Linda
-Sperling](User:Sperling "User:Sperling") and Olivier Arnaiz at the
+Sperling](User%3ASperling "User%3ASperling") and Olivier Arnaiz at the
 <a href="http://www.cgm.cnrs-gif.fr/version_gb/index_gb.html"
 class="external text" rel="nofollow">Centre de Genetique Moleculaire</a>,
 a part of the
@@ -358,7 +358,7 @@ community for annotation of the gene models. They use
 - <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User:Sperling "User:Sperling") presentation at the
+  Sperling's](User%3ASperling "User%3ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
@@ -368,7 +368,7 @@ community for annotation of the gene models. They use
 
 The <a href="http://paramecium.cgm.cnrs-gif.fr/chadoapi/"
 class="external text" rel="nofollow">Bio::Chado API</a> is Perl
-[Category:middleware](Category:Middleware "Category:Middleware") module
+[Category%3Amiddleware](Category%3AMiddleware "Category%3AMiddleware") module
 for working with
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> databases.
 It was developed specifically for the
@@ -432,7 +432,7 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 - <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User:Sperling "User:Sperling") presentation at the
+  Sperling's](User%3ASperling "User%3ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 - <a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"
@@ -454,9 +454,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [ParameciumDB](Category:ParameciumDB "Category:ParameciumDB")
+- [ParameciumDB](Category%3AParameciumDB "Category%3AParameciumDB")
 - [User
-  Experiences](Category:User_Experiences "Category:User Experiences")
+  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
 
 </div>
 
@@ -552,8 +552,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -587,7 +587,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/ParameciumDB" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ParameciumDB" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -380,7 +380,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [User
-  Experiences](Category:User_Experiences "Category:User Experiences")
+  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
 
 </div>
 
@@ -476,8 +476,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -511,7 +511,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Zheng&#39;s_installation_notes"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Zheng&#39;s_installation_notes"
   rel="smw-browse">Browse properties</a></span>
 
 

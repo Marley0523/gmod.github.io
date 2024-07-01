@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 This is the species database for *C. briggsae*. This is one of the three
 species currently represented in the instance of
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") that is installed at
-[WormBase](Category:WormBase "Category:WormBase"). The species config
+[WormBase](Category%3AWormBase "Category%3AWormBase"). The species config
 file con be a normal
 <a href="GBrowse_Configuration_HOWTO" class="mw-redirect"
 title="GBrowse Configuration HOWTO">GBrowse config file</a> or can a a
@@ -112,7 +112,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
 </div>
 
@@ -208,8 +208,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -243,7 +243,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/C_briggsae.syn" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/C_briggsae.syn" rel="smw-browse">Browse
   properties</a></span>
 
 

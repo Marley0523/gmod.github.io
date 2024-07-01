@@ -98,12 +98,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [Conferences](Category:Conferences "Category:Conferences")
-- [GMOD Component](Category:GMOD_Component "Category:GMOD Component")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [Conferences](Category%3AConferences "Category%3AConferences")
+- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Tutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Tutorial (page does not exist)">Tutorial</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
 
 </div>
 
@@ -199,8 +199,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse_PSB_2020" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_PSB_2020" rel="smw-browse">Browse
   properties</a></span>
 
 

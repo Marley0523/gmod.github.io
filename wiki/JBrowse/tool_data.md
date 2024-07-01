@@ -269,7 +269,7 @@ rel="nofollow">Ian Holmes</a>** at the
 rel="nofollow">University of California, Berkeley</a>.
 
 As of January 2012, the lead developer of JBrowse is [Robert
-Buels](../User:RobertBuels "User:RobertBuels"). Most of JBrowse was
+Buels](../User%3ARobertBuels "User%3ARobertBuels"). Most of JBrowse was
 originally written by
 <a href="mailto:mitch_skinner@berkeley.edu" class="external text"
 rel="nofollow">Mitch Skinner</a>.
@@ -277,7 +277,7 @@ rel="nofollow">Mitch Skinner</a>.
 There is a [mailing list for developers](#Mailing_Lists), and there is
 usually a teleconference on the 3rd Monday of the month at 2pm Pacific
 US time. We welcome participation from anyone and everyone. Please
-contact [Robert Buels](../User:RobertBuels "User:RobertBuels") if you
+contact [Robert Buels](../User%3ARobertBuels "User%3ARobertBuels") if you
 would like to listen in or participate.
 
 \| dev_status = The
@@ -330,14 +330,14 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [JBrowse](../Category:JBrowse "Category:JBrowse")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [JBrowse](../Category%3AJBrowse "Category%3AJBrowse")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 
 </div>
 
@@ -435,8 +435,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -470,7 +470,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/JBrowse-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowse-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

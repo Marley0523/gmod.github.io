@@ -162,7 +162,7 @@ class="external text" rel="nofollow">Citrina discussion list</a>
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-[Josh Goodman](User:Jogoodma "User:Jogoodma") (jogoodma A\*T indiana
+[Josh Goodman](User%3AJogoodma "User%3AJogoodma") (jogoodma A\*T indiana
 D\*O\*T edu )
 
 </div>
@@ -180,7 +180,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Unsupported](Category:Unsupported "Category:Unsupported")
+- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
 
 </div>
 
@@ -276,8 +276,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -311,7 +311,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Citrina" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Citrina" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

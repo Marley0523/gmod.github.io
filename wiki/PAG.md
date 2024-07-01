@@ -91,17 +91,17 @@ class="external text" rel="nofollow">Web Apollo 2.0: A Scalable,
 Distributed Sequence Annotation Editor</a> | [WebApollo](WebApollo.1 "WebApollo") | Nathan Dunn | California Room | <a href="http://genomearchitect.org/pag-2015" class="external text"
 rel="nofollow">Poster</a> |
 | Jan 11 (Sun) | 1:30 - 3:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17123.html"
-class="external text" rel="nofollow">W367</a>: [JBrowse](JBrowse.1 "JBrowse") Installation and Configuration | [JBrowse](JBrowse.1 "JBrowse") | [Scott Cain](User:Scott "User:Scott") | California Room | [Tutorial page](JBrowse_Tutorial_PAG_2015 "JBrowse Tutorial PAG 2015") |
+class="external text" rel="nofollow">W367</a>: [JBrowse](JBrowse.1 "JBrowse") Installation and Configuration | [JBrowse](JBrowse.1 "JBrowse") | [Scott Cain](User%3AScott "User%3AScott") | California Room | [Tutorial page](JBrowse_Tutorial_PAG_2015 "JBrowse Tutorial PAG 2015") |
 | Jan 12 (Mon) | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper14964.html"
 class="external text" rel="nofollow">P1154: WebApollo 2.0: A Scalable,
 Distributed Sequence Annotation Editor for Multiple Genomes</a> | [WebApollo](WebApollo.1 "WebApollo") | Nathan Dunn | Poster Session | <a href="http://genomearchitect.org/pag-2015" class="external text"
 rel="nofollow">Poster</a> |
 | Jan 11 (Sun) | 4:00 - 6:10 | [Tripal Database Network and Initiatives](#Tripal_Database_Network_and_Initiatives_Workshop) | [Tripal](Tripal.1 "Tripal") | Stephen Ficklin and Dorrie Main | California Room | [See below](#Tripal_Database_Network_and_Initiatives_Workshop) |
 | Jan 13 (Tue) | 4:00 - 6:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Session2641.html"
-class="external text" rel="nofollow">W354</a>: [Galaxy](Galaxy.1 "Galaxy") for SNP and Variant Data Analysis | [Galaxy](Galaxy.1 "Galaxy") | [Dave Clements](User:Clements "User:Clements") | California Room | <a
+class="external text" rel="nofollow">W354</a>: [Galaxy](Galaxy.1 "Galaxy") for SNP and Variant Data Analysis | [Galaxy](Galaxy.1 "Galaxy") | [Dave Clements](User%3AClements "User%3AClements") | California Room | <a
 href="https://wiki.galaxyproject.org/Documents/Presentations?action=AttachFile&amp;do=view&amp;target=2015_PAG_Variant.pdf"
 class="external text" rel="nofollow">Slides</a> |
-| Jan 14 (Wed) | 10:30 - 2:30 | [GMOD Workshop](#GMOD_Workshop) | GMOD | [Scott Cain](User:Scott "User:Scott") | California Room | [See below](#GMOD_Workshop) |
+| Jan 14 (Wed) | 10:30 - 2:30 | [GMOD Workshop](#GMOD_Workshop) | GMOD | [Scott Cain](User%3AScott "User%3AScott") | California Room | [See below](#GMOD_Workshop) |
 
 ## <span id="Tripal_Database_Network_and_Initiatives_Workshop" class="mw-headline">Tripal Database Network and Initiatives Workshop</span>
 
@@ -147,7 +147,7 @@ January 14th will be held in the Golden West room. The schedule is:
 | Time | Topic | Presenter | Links |
 |----|----|----|----|
 | 10:30 - 10:50 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17188.html"
-class="external text" rel="nofollow">W407</a> - The Future of GMOD and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/9/97/The_future_of_GMOD_and_Chado.pdf"
+class="external text" rel="nofollow">W407</a> - The Future of GMOD and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/9/97/The_future_of_GMOD_and_Chado.pdf"
 class="internal" title="The future of GMOD and Chado.pdf">Slides</a> |
 | 10:50 - 11:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17190.html"
 class="external text" rel="nofollow">W408</a> - KnowPulse: A Breeder-Focused Web Portal That Integrates Genetics and Genomics of Pulse Crops with Model Genomes | Lacey-Anne Sanderson |  |
@@ -318,11 +318,11 @@ class="external text" rel="nofollow">Slides</a> |
 class="external text" rel="nofollow">Programmatic Interfaces to Plant
 Genomic Data</a> | Paul Kersey | California |  |
 | 4:00 - 6:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Session2641.html"
-class="external text" rel="nofollow">W354</a>: [Galaxy](Galaxy.1 "Galaxy") for SNP and Variant Data Analysis | [Dave Clements](User:Clements "User:Clements") | California | <a
+class="external text" rel="nofollow">W354</a>: [Galaxy](Galaxy.1 "Galaxy") for SNP and Variant Data Analysis | [Dave Clements](User%3AClements "User%3AClements") | California | <a
 href="https://wiki.galaxyproject.org/Documents/Presentations?action=AttachFile&amp;do=view&amp;target=2015_PAG_Variant.pdf"
 class="external text" rel="nofollow">Slides</a> |
 | <span id="Wednesday">**Wednesday January 14**</span> |  |  |  |  |
-| 10:30 - 2:30 | [GMOD Workshop](#GMOD_Workshop) | [Scott Cain](User:Scott "User:Scott") and the GMOD Community | Golden West | [See above](#GMOD_Workshop) |
+| 10:30 - 2:30 | [GMOD Workshop](#GMOD_Workshop) | [Scott Cain](User%3AScott "User%3AScott") and the GMOD Community | Golden West | [See above](#GMOD_Workshop) |
 
 </div>
 
@@ -339,7 +339,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Conferences](Category:Conferences "Category:Conferences")
+- [Conferences](Category%3AConferences "Category%3AConferences")
 
 </div>
 
@@ -435,8 +435,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -470,7 +470,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/PAG_2015" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PAG_2015" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

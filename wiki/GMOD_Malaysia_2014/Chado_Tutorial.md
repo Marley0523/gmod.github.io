@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](../User:Scott "User:Scott") at
+tutorial was presented by [Scott Cain](../User%3AScott "User%3AScott") at
 [GMOD Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"),
 February 2014. This tutorial requires Chado version 1.22.
 
@@ -290,7 +290,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](../Category:FlyBase "Category:FlyBase") - Chado started
+  - [FlyBase](../Category%3AFlyBase "Category%3AFlyBase") - Chado started
     here, large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -1942,9 +1942,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
-- [Chado](../Category:Chado "Category:Chado")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [Chado](../Category%3AChado "Category%3AChado")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -1956,12 +1956,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/Chado
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FChado-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FChado-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Chado_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/Chado Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/Chado "Special:SearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
 
 </div>
 
@@ -2059,8 +2059,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -2094,7 +2094,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FChado_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FChado_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -91,12 +91,12 @@ height="107" alt="GMOD @ PAG" />](../PAG_2010 "GMOD @ PAG")
   Online Genomic Databases</a>, Wednesday
 
 Many GMOD staff and developers ([Scott
-Cain](../User:Scott "User:Scott"), [Dave
-Clements](../User:Clements "User:Clements"), [Stephen
-Ficklin](../User:Sficklin "User:Sficklin"), [Carson
-Holt](../User:Carsonholt "User:Carsonholt"), [Sheldon
-McKay](../User:Mckays "User:Mckays"), Anton Nekrutenko, [Mitch
-Skinner](../User:MitchSkinner "User:MitchSkinner"), Ken Youens-Clark)
+Cain](../User%3AScott "User%3AScott"), [Dave
+Clements](../User%3AClements "User%3AClements"), [Stephen
+Ficklin](../User%3ASficklin "User%3ASficklin"), [Carson
+Holt](../User%3ACarsonholt "User%3ACarsonholt"), [Sheldon
+McKay](../User%3AMckays "User%3AMckays"), Anton Nekrutenko, [Mitch
+Skinner](../User%3AMitchSkinner "User%3AMitchSkinner"), Ken Youens-Clark)
 and even more GMOD users will be at PAG. If you are attending please
 keep an eye open for us.
 
@@ -111,7 +111,7 @@ GMOD Meeting.
 
 See you in San Diego,
 
-[Dave Clements](../User:Clements "User:Clements")  
+[Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -137,7 +137,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -235,8 +235,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -270,7 +270,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_at_PAG_2010"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_at_PAG_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

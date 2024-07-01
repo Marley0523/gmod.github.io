@@ -355,8 +355,8 @@ not affect the JDBCTransactionWriter in any way.
 # <span id="Authors" class="mw-headline">Authors</span>
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=User:Jcrabtree&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Jcrabtree (page does not exist)">Jcrabtree</a>
+  href="http://gmod.org/mediawiki/index.php?title=User%3AJcrabtree&amp;action=edit&amp;redlink=1"
+  class="new" title="User%3AJcrabtree (page does not exist)">Jcrabtree</a>
 
 </div>
 
@@ -373,10 +373,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Chado](Category:Chado "Category:Chado")
-- [Java](Category:Java "Category:Java")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Java](Category%3AJava "Category%3AJava")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -472,8 +472,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -507,7 +507,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_PureJDBCTransactionWriter_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_PureJDBCTransactionWriter_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

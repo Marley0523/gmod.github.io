@@ -47,7 +47,7 @@ The project is looking for development help, and discussion is on the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">GMOD Schema mailing list</a>.
 
---[RobertBuels](../User:RobertBuels "User:RobertBuels") 22:10, 29 August
+--[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels") 22:10, 29 August
 2009 (UTC)
 
   
@@ -73,7 +73,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -171,8 +171,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

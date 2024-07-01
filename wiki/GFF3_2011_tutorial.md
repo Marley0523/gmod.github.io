@@ -48,14 +48,14 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <td><span style="font-size: 160%; line-height: 120%"> <a
 href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
 class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category:Session&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Session (page does not exist)">Session</a></span><br />
+title="Category%3ASession (page does not exist)">Session</a></span><br />
 <br />
 &#10;<p><a href="2011_GMOD_Spring_Training"
 title="2011 GMOD Spring Training">2011 GMOD Spring Training</a><br />
 8-12 March 2011<br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a></p></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><a href="File:GMODAmericas2011Logo.png"
 class="image"><img
 src="../mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/200px-GMODAmericas2011Logo.png"
@@ -784,12 +784,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF3 (page does not exist)">GFF3</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
 
 </div>
 
@@ -885,8 +885,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -920,7 +920,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GFF3_2011_tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF3_2011_tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

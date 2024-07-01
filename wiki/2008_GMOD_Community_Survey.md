@@ -268,10 +268,10 @@ Operating systems in use had a definite skew towards Unix based systems:
 
 | \# Responses | Operating System                                  |
 |-------------:|---------------------------------------------------|
-|           55 | [Linux](Category:Linux "Category:Linux")          |
-|            8 | [Mac OS X](Category:Mac_OS_X "Category:Mac OS X") |
+|           55 | [Linux](Category%3ALinux "Category%3ALinux")          |
+|            8 | [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X") |
 |            6 | Solaris                                           |
-|            2 | [Windows](Category:Windows "Category:Windows")    |
+|            2 | [Windows](Category%3AWindows "Category%3AWindows")    |
 |            1 | Unspecified Unix                                  |
 
 ### <span id="Current_Server_Sufficient.3F" class="mw-headline">Current Server Sufficient?</span>
@@ -487,10 +487,10 @@ Respondents were given a list of choices along with *Other*
 | 39 | [Next generation sequence](Next_Generation_Sequencing "Next Generation Sequencing") |
 | 38 | [Annotation](Annotation "Annotation") pipelines |
 | 32 | Community [annotation](Annotation "Annotation") |
-| 29 | [Microarrays](Category:Microarrays "Category:Microarrays") |
-| 29 | [Ontologies](Category:Ontologies "Category:Ontologies") |
+| 29 | [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays") |
+| 29 | [Ontologies](Category%3AOntologies "Category%3AOntologies") |
 | 24 | [Mapping](CMap.1 "CMap") (genetic, physical, QTL, ...) |
-| 22 | [Phenotypes](Category:Phenotypes "Category:Phenotypes") |
+| 22 | [Phenotypes](Category%3APhenotypes "Category%3APhenotypes") |
 | 20 | Pathways |
 | 19 | Literature curation |
 | 18 | Other expression (besides microarrays) |
@@ -532,8 +532,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 
 </div>
 
@@ -629,8 +629,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -664,7 +664,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/2008_GMOD_Community_Survey"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2008_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
 
 

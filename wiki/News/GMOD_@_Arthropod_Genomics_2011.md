@@ -55,15 +55,15 @@ in Kansas City, Missouri, United States.
 
 - **Genome Project 101: We’ve got an assembly! Now What?**
 
-Thursday, June 9, 4:00-6:00pm, [Scott Cain](../User:Scott "User:Scott"),
-[Dave Clements](../User:Clements "User:Clements")
+Thursday, June 9, 4:00-6:00pm, [Scott Cain](../User%3AScott "User%3AScott"),
+[Dave Clements](../User%3AClements "User%3AClements")
 
 - **Comparative genomics with the generic synteny browser
   ([GBrowse_syn](../GBrowse_syn.1 "GBrowse syn")): Configuration and
   display of various co-linearity data types.**
 
 Saturday, June 11, 10:30-Noon, [Sheldon
-McKay](../User:Mckays "User:Mckays")
+McKay](../User%3AMckays "User%3AMckays")
 
 GMOD has a strong presence in the arthropod community and many GMOD
 users will also be attendance. Watch the [Arthropod Genomics
@@ -72,9 +72,9 @@ for additional talks and posters as the conference approaches.
 
 See you in Kansas City!
 
-[Scott Cain](../User:Scott "User:Scott"), [Dave
-Clements](../User:Clements "User:Clements"), and [Sheldon
-McKay](../User:Mckays "User:Mckays")
+[Scott Cain](../User%3AScott "User%3AScott"), [Dave
+Clements](../User%3AClements "User%3AClements"), and [Sheldon
+McKay](../User%3AMckays "User%3AMckays")
 
   
 
@@ -99,7 +99,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -197,8 +197,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -232,7 +232,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_@_Arthropod_Genomics_2011"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_@_Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

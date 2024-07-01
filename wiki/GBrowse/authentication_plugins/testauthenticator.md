@@ -91,9 +91,9 @@ Retrieved from
 
 [Categories](../../Special:Categories "Special:Categories"):
 
-- [GBrowse](../../Category:GBrowse "Category:GBrowse")
+- [GBrowse](../../Category%3AGBrowse "Category%3AGBrowse")
 - [GBrowse
-  Plugins](../../Category:GBrowse_Plugins "Category:GBrowse Plugins")
+  Plugins](../../Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
 
 </div>
 
@@ -191,8 +191,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../../Overview)</span>
-- <span id="n-FAQs">[FAQs](../../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../../Glossary)</span>
 
 </div>
@@ -228,7 +228,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../../Special:Browse/Gbrowse-2Fauthentication_plugins-2Ftestauthenticator"
+  href="../../Special%3ABrowse/Gbrowse-2Fauthentication_plugins-2Ftestauthenticator"
   rel="smw-browse">Browse properties</a></span>
 
 

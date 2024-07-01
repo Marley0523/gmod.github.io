@@ -1,0 +1,334 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+
+
+# <span dir="auto">Category%3AMOD User Interfaces</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+The user interface (UI) is the most visible aspect of a model organism
+database (MOD), and arguably has the most direct impact on the
+satisfaction of its users. On the first day of the [January 2007 GMOD
+Meeting](January_2007_GMOD_Meeting "January 2007 GMOD Meeting"), we
+shared experiences, discussed lessons learned, and identified unsolved
+problems in the field of MOD user interface design [\[ ..
+more\]](MOD_Face_Summary "MOD Face Summary")
+
+<div lang="en" dir="ltr">
+
+<div id="mw-subcategories">
+
+## Subcategories
+
+This category has only the following subcategory.
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+### M
+
+- [MOD UI
+  Presentations](Category%3AMOD_UI_Presentations "Category%3AMOD UI Presentations")
+
+</div>
+
+</div>
+
+<div id="mw-pages">
+
+## Pages in category "MOD User Interfaces"
+
+The following 15 pages are in this category, out of 15 total.
+
+<div class="mw-content-ltr" lang="en" dir="ltr">
+
+<table style="width: 100%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd" style="vertical-align: top;">
+<td style="width: 33.3%"><h3 id="c">C</h3>
+<ul>
+<li><a href="Chado_Django_HOWTO" title="Chado Django HOWTO">Chado Django
+HOWTO</a></li>
+<li><a href="Common_Gene_Page" title="Common Gene Page">Common Gene
+Page</a></li>
+</ul>
+<h3 id="f">F</h3>
+<ul>
+<li><a href="Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development"
+title="Face Caucus ApiDB: User Studies and Impact on Development">Face
+Caucus ApiDB: User Studies and Impact on Development</a></li>
+<li><a
+href="Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
+title="Face Caucus SGN: Associating Solanaceae loci with phenotype">Face
+Caucus SGN: Associating Solanaceae loci with phenotype</a></li>
+<li><a href="Face_Caucus_UCSC%3A_User_Interface_Issues"
+title="Face Caucus UCSC: User Interface Issues">Face Caucus UCSC: User
+Interface Issues</a></li>
+</ul></td>
+<td style="width: 33.3%"><h3 id="g">G</h3>
+<ul>
+<li><a href="GBrowse_DAS_HOWTO" title="GBrowse DAS HOWTO">GBrowse DAS
+HOWTO</a></li>
+</ul>
+<h3 id="i">I</h3>
+<ul>
+<li><a href="Interface_test" title="Interface test">Interface
+test</a></li>
+</ul>
+<h3 id="m-1">M</h3>
+<ul>
+<li><a href="MOD_Face_Summary" title="MOD Face Summary">MOD Face
+Summary</a></li>
+<li><a href="MOD_Face_Talks" title="MOD Face Talks">MOD Face
+Talks</a></li>
+<li><a href="MOD_Participants" title="MOD Participants">MOD
+Participants</a></li>
+</ul></td>
+<td style="width: 33.3%"><h3 id="m-cont.">M cont.</h3>
+<ul>
+<li><a href="MOD_User_Interface_Caucus"
+title="MOD User Interface Caucus">MOD User Interface Caucus</a></li>
+<li><a href="MOD_User_Interfaces%3A_outline_of_topics"
+title="MOD User Interfaces: outline of topics">MOD User Interfaces:
+outline of topics</a></li>
+<li><a
+href="MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions"
+title="MOD User Interfaces: Sample of several MOD Top Level functions">MOD
+User Interfaces: Sample of several MOD Top Level functions</a></li>
+</ul>
+<h3 id="s">S</h3>
+<ul>
+<li><a href="Standard_URL" title="Standard URL">Standard URL</a></li>
+</ul>
+<h3 id="t">T</h3>
+<ul>
+<li><a href="TableEdit.1" title="TableEdit">TableEdit</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=Category%3AMOD_User_Interfaces&oldid=6509>"
+
+</div>
+
+<div id="catlinks" class="catlinks">
+
+<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+[Category](Special:Categories "Special:Categories"):
+
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+
+</div>
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+- <span id="ca-nstab-category"><a href="Category%3AMOD_User_Interfaces" accesskey="c"
+  title="View the category page [c]">Category</a></span>
+- <span id="ca-talk"><a
+  href="http://gmod.org/mediawiki/index.php?title=Category_talk:MOD_User_Interfaces&amp;action=edit&amp;redlink=1"
+  accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AMOD_User_Interfaces"
+  rel="smw-browse">Browse properties</a></span>
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 00:24 on 22 November
+  2008.</span>
+<!-- - <span id="footer-info-viewcount">28,525 page views.</span> -->
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD:About "GMOD:About")</span>
+
+<!-- -->
+
+
+
+
+
+
+</div>

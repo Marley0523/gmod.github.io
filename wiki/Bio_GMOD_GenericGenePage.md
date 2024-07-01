@@ -50,7 +50,7 @@ Bio::GMOD::GenericGenePage with the data to create the XML.
 There are two example implementations included with this module.
 Bio::GMOD::GenericGenePage::Chado is a simple implementation for a Chado
 database populated with *S. cerevisiae* data obtained from
-[SGD](Category:SGD "Category:SGD") as GFF3. Currently, the output of
+[SGD](Category%3ASGD "Category%3ASGD") as GFF3. Currently, the output of
 this implementation can be seen at
 
 <a href="http://gmod.org/cgi-bin/gbrowse/chado_yeast/"
@@ -60,7 +60,7 @@ rel="nofollow">http://gmod.org/cgi-bin/gbrowse/chado_yeast/</a>
 and by clicking on any of the genes (red arrows).
 
 The other implementation, CXGN::Phenome::GenericGenePage, is from [SGN,
-the Sol Genomics Network](Category:SGN "Category:SGN"). The XML they
+the Sol Genomics Network](Category%3ASGN "Category%3ASGN"). The XML they
 provide can be seen by clicking on the "Download GMOD XML" link on any
 of there locus pages; for example, this one:
 
@@ -225,11 +225,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [XML](Category:XML "Category:XML")
+- [XML](Category%3AXML "Category%3AXML")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Generic Gene Pages (page does not exist)">Generic Gene
+  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
   Pages</a>
 
 </div>
@@ -324,8 +324,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -359,7 +359,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Bio_GMOD_GenericGenePage"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio_GMOD_GenericGenePage"
   rel="smw-browse">Browse properties</a></span>
 
 

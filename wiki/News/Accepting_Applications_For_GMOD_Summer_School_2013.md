@@ -91,12 +91,12 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
 
 </div>
@@ -195,8 +195,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -231,7 +231,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/News-2FAccepting_Applications_For_GMOD_Summer_School_2013"
+  href="../Special%3ABrowse/News-2FAccepting_Applications_For_GMOD_Summer_School_2013"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -120,7 +120,7 @@ gene pages in XML format.
 
 # <span id="Notes_for_Discussion_2008" class="mw-headline">Notes for Discussion 2008</span>
 
-From [Dongilbert](User:Dongilbert "User:Dongilbert") 13:15, 14 July 2008
+From [Dongilbert](User%3ADongilbert "User%3ADongilbert") 13:15, 14 July 2008
 (EDT) :
 
 In hopes there will be a lively discussion on this topic at the [July
@@ -263,15 +263,15 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Presentations](Category:Presentations "Category:Presentations")
-- [WFleaBase](Category:WFleaBase "Category:WFleaBase")
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Presentations](Category%3APresentations "Category%3APresentations")
+- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Generic Gene Pages (page does not exist)">Generic Gene
+  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
   Pages</a>
 
 </div>
@@ -368,8 +368,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -403,7 +403,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Common_Gene_Page" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Common_Gene_Page" rel="smw-browse">Browse
   properties</a></span>
 
 

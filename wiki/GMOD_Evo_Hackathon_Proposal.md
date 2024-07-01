@@ -332,24 +332,24 @@ license.
 
 The following people comprise the organizing committee:
 
-- [Nicole Washington](User:NLWashington "User:NLWashington"), Chair
+- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), Chair
   (Lawrence Berkeley National Laboratory;
   <a href="http://www.modencode.org" class="external text"
   rel="nofollow">modENCODE</a> and developer of
   [Phenote](Phenote "Phenote"))
-- [Sheldon McKay](User:Mckays "User:Mckays") (University of Arizona;
+- [Sheldon McKay](User%3AMckays "User%3AMckays") (University of Arizona;
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">The iPlant collaborative</a> and developer of
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"))
-- [Robert Buels](User:RobertBuels "User:RobertBuels") (Cornell
+- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") (Cornell
   University; <a href="http://solgenomics.net/" class="external text"
   rel="nofollow">Solanaceae Genomics Network (SGN)</a>)
-- [Scott Cain](User:Scott "User:Scott") (Ontario Institute for Cancer
+- [Scott Cain](User%3AScott "User%3AScott") (Ontario Institute for Cancer
   Research; GMOD Program Coordinator)
-- [Hilmar Lapp](User:Hlapp "User:Hlapp")
+- [Hilmar Lapp](User%3AHlapp "User%3AHlapp")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>)
-- [Dave Clements](User:Clements "User:Clements")
+- [Dave Clements](User%3AClements "User%3AClements")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>; [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"))
@@ -381,7 +381,7 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - [GMOD Evo
-  Hackathon](Category:GMOD_Evo_Hackathon "Category:GMOD Evo Hackathon")
+  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
 
 </div>
 
@@ -475,8 +475,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -510,7 +510,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Evo_Hackathon_Proposal"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Evo_Hackathon_Proposal"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -60,8 +60,8 @@ Isn't this really a controlled vocabulary?
 
 At VectorBase we have decided to get a set of terms together and share
 with GMOD partners ASAP via these wiki pages. <a
-href="http://gmod.org/mediawiki/index.php?title=User:Maccallr&amp;action=edit&amp;redlink=1"
-class="new" title="User:Maccallr (page does not exist)">Maccallr</a>
+href="http://gmod.org/mediawiki/index.php?title=User%3AMaccallr&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 14:44, 26 May 2010 (UTC)
 
 </div>
@@ -165,8 +165,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

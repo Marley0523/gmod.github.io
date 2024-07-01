@@ -187,7 +187,7 @@ The current public release is: **beta**
 
 This software is GPLv2+ licensed as part of the Drupal package. It is
 currently supported by [Alexie
-Papanicolaou](User:Alpapan "User:Alpapan") while at CSIRO, the
+Papanicolaou](User%3AAlpapan "User%3AAlpapan") while at CSIRO, the
 Australian Commonwealth Scientific and Research Organization
 (<a href="http://www.csiro.au" class="external free"
 rel="nofollow">http://www.csiro.au</a>).
@@ -207,9 +207,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
-- [Drupal](Category:Drupal "Category:Drupal")
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Drupal](Category%3ADrupal "Category%3ADrupal")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 
 </div>
 
@@ -305,8 +305,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -340,7 +340,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/InsectaCentral" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/InsectaCentral" rel="smw-browse">Browse
   properties</a></span>
 
 

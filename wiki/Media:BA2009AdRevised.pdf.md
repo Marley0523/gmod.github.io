@@ -77,8 +77,8 @@ Click on a date/time to view the file as it appeared at that time.
 |  |  |  |  |  |
 |----|----|----|----|----|
 |  | Date/Time | Dimensions | User | Comment |
-| current | [23:47, 2 October 2009](../mediawiki/images/e/eb/BA2009AdRevised.pdf) | <span style="white-space: nowrap;">(305 KB)</span> | <a href="User:Clements" class="mw-userlink"
-title="User:Clements">Clements</a> <span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a
+| current | [23:47, 2 October 2009](../mediawiki/images/e/eb/BA2009AdRevised.pdf) | <span style="white-space: nowrap;">(305 KB)</span> | <a href="User%3AClements" class="mw-userlink"
+title="User%3AClements">Clements</a> <span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a
 href="http://gmod.org/mediawiki/index.php?title=User_talk:Clements&amp;action=edit&amp;redlink=1"
 class="new" title="User talk:Clements (page does not exist)">Talk</a> \| [contribs](Special:Contributions/Clements "Special:Contributions/Clements"))</span></span> |  |
 
@@ -202,8 +202,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -237,7 +237,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/File:BA2009AdRevised.pdf"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/File:BA2009AdRevised.pdf"
   rel="smw-browse">Browse properties</a></span>
 
 </div>

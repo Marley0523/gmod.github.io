@@ -2406,10 +2406,10 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [HOWTO](../Category:HOWTO "Category:HOWTO")
-- [GBrowse](../Category:GBrowse "Category:GBrowse")
-- [Documentation](../Category:Documentation "Category:Documentation")
-- [Needs Editing](../Category:Needs_Editing "Category:Needs Editing")
+- [HOWTO](../Category%3AHOWTO "Category%3AHOWTO")
+- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
+- [Documentation](../Category%3ADocumentation "Category%3ADocumentation")
+- [Needs Editing](../Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
 </div>
 
@@ -2505,8 +2505,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -2540,7 +2540,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GBrowse_1_Configuration_HOWTO"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_1_Configuration_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

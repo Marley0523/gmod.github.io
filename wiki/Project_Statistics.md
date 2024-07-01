@@ -554,8 +554,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
-- [GMOD Web Site](Category:GMOD_Web_Site "Category:GMOD Web Site")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
 
 </div>
 
@@ -651,8 +651,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -686,7 +686,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Project_Statistics" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Project_Statistics" rel="smw-browse">Browse
   properties</a></span>
 
 

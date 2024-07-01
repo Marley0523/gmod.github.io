@@ -44,7 +44,7 @@ class="external text" rel="nofollow">Google Calendar</a>** widget to
 your wiki page.
 
 It was originally created by
-<a href="http://www.mediawiki.org/wiki/User:Sergey_Chernyshev"
+<a href="http://www.mediawiki.org/wiki/User%3ASergey_Chernyshev"
 class="external text">Sergey Chernyshev</a>.
 
 <div id="toc" class="toc">
@@ -247,8 +247,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

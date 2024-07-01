@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This tutorial on [GBrowse syn](../GBrowse_syn.1 "GBrowse syn") was
-taught by [Sheldon McKay](../User:Mckays "User:Mckays") as part of the
+taught by [Sheldon McKay](../User%3AMckays "User%3AMckays") as part of the
 [GMOD_Online_Training_2014](../GMOD_Online_Training_2014.1 "GMOD Online Training 2014").
 
 The starting image for this tutorial is **GMOD 2014 online school -
@@ -879,13 +879,13 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
-- [GMOD Component](../Category:GMOD_Component "Category:GMOD Component")
-- [GBrowse syn](../Category:GBrowse_syn "Category:GBrowse syn")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [GMOD Component](../Category%3AGMOD_Component "Category%3AGMOD Component")
+- [GBrowse syn](../Category%3AGBrowse_syn "Category%3AGBrowse syn")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Tools_using_GMOD&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Tools using GMOD (page does not exist)">Tools using
+  title="Category%3ATools using GMOD (page does not exist)">Tools using
   GMOD</a>
 
 </div>
@@ -984,8 +984,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -1020,7 +1020,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="../Special:Browse/GMOD_Online_Training_2014-2FGBrowse_syn_Tutorial"
+  href="../Special%3ABrowse/GMOD_Online_Training_2014-2FGBrowse_syn_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

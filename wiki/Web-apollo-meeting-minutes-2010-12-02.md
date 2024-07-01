@@ -148,8 +148,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -184,7 +184,7 @@ aria-labelledby="p-tb-label">
 
 
 - <span id="t-smwbrowselink"><a
-  href="Special:Browse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D12-2D02"
+  href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D12-2D02"
   rel="smw-browse">Browse properties</a></span>
 
 

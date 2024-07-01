@@ -287,7 +287,7 @@ Program](../Spring_2010_Logo_Program "Spring 2010 Logo Program"), while
 a design student at
 <a href="http://www.linn-benton.edu" class="external text"
 rel="nofollow">Linn-Benton Community College</a>. \| dev_ppl = Lincoln
-Stein, Doreen Ware, [Ben Faga](../User:Faga "User:Faga"),
+Stein, Doreen Ware, [Ben Faga](../User%3AFaga "User%3AFaga"),
 <a href="mailto:kclark@cshl.edu" class="external text"
 rel="nofollow">Ken Youens-Clark</a> \| dev_status = No development in
 several years. Future development at Gramene.org hopes to replace CMap
@@ -313,9 +313,9 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [CMap](../Category:CMap "Category:CMap")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [CMap](../Category%3ACMap "Category%3ACMap")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 
 </div>
 
@@ -413,8 +413,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -448,7 +448,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/CMap-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/CMap-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

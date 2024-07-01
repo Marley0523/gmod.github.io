@@ -234,12 +234,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
+- [Chado](Category%3AChado "Category%3AChado")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Performance&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3APerformance&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Performance (page does not exist)">Performance</a>
-- [PostgreSQL](Category:PostgreSQL "Category:PostgreSQL")
+  title="Category%3APerformance (page does not exist)">Performance</a>
+- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
 
 </div>
 
@@ -335,8 +335,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -370,7 +370,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/PostgreSQL_Performance_Tips"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PostgreSQL_Performance_Tips"
   rel="smw-browse">Browse properties</a></span>
 
 

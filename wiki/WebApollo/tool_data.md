@@ -288,13 +288,13 @@ University of Missouri.
 
 The personnel involved in WebApollo are: Suzanna Lewis (PI, LBNL); Ian
 Holmes (PI, UC Berkeley); Chris Elsik (PI, University of Missouri); [Ed
-Lee](../User:Elee "User:Elee") (LBNL); [Gregg
-Helt](../User:GreggHelt2 "User:GreggHelt2") (LBNL); [Justin
-Reese](../User:Justaddcoffee "User:Justaddcoffee") (University of
-Missouri); [Monica Munoz-Torres](../User:Moni "User:Moni") (LBNL);
-[Chris Childers](../User:Childers "User:Childers") (University of
+Lee](../User%3AElee "User%3AElee") (LBNL); [Gregg
+Helt](../User%3AGreggHelt2 "User%3AGreggHelt2") (LBNL); [Justin
+Reese](../User%3AJustaddcoffee "User%3AJustaddcoffee") (University of
+Missouri); [Monica Munoz-Torres](../User%3AMoni "User%3AMoni") (LBNL);
+[Chris Childers](../User%3AChilders "User%3AChilders") (University of
 Missouri); Rob Buels (UC Berkeley); [Mitch
-Skinner](../User:MitchSkinner "User:MitchSkinner") (UC Berkeley)
+Skinner](../User%3AMitchSkinner "User%3AMitchSkinner") (UC Berkeley)
 (Emeritus - developed first version of JBrowse); and Nomi Harris (LBNL)
 (Emeritus).
 
@@ -343,15 +343,15 @@ Retrieved from
 [Categories](../Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Template&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Template (page does not exist)">Template</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
-  Cloud](../Category:GMOD_in_the_Cloud "Category:GMOD in the Cloud")
-- [Webapollo](../Category:Webapollo "Category:Webapollo")
-- [Annotation](../Category:Annotation "Category:Annotation")
-- [Tool data](../Category:Tool_data "Category:Tool data")
+  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+- [Webapollo](../Category%3AWebapollo "Category%3AWebapollo")
+- [Annotation](../Category%3AAnnotation "Category%3AAnnotation")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
 
 </div>
 
@@ -449,8 +449,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -484,7 +484,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/WebApollo-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/WebApollo-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-This [HOWTO](Category:HOWTO "Category:HOWTO") describes a method for
+This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes a method for
 loading the sequence data in Genbank RefSeq files into the [Chado
 database](Chado_-_Getting_Started "Chado - Getting Started").
 
@@ -167,7 +167,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Scott Cain](User:Scott "User:Scott")
+- [Scott Cain](User%3AScott "User%3AScott")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 
@@ -186,8 +186,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Chado](Category:Chado "Category:Chado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -283,8 +283,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -318,7 +318,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Load_RefSeq_Into_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_RefSeq_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

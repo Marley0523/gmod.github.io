@@ -153,7 +153,7 @@ material presented at this workshop.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-- [Scott Cain](User:Scott "User:Scott"), GMOD Project Coordinator,
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca/" class="external text"
   rel="nofollow">Ontario Institute for Cancer Research</a>
 
@@ -278,8 +278,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -313,7 +313,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_PAG_2010_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_PAG_2010_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

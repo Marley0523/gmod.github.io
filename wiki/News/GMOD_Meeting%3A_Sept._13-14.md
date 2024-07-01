@@ -64,7 +64,7 @@ that you think would be interested in this meeting.
 
 I look forward to seeing you in England this Fall.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 
@@ -89,7 +89,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -187,8 +187,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -222,7 +222,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGMOD_Meeting:_Sept._13-2D14"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Meeting:_Sept._13-2D14"
   rel="smw-browse">Browse properties</a></span>
 
 

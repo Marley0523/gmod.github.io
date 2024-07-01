@@ -186,30 +186,30 @@ height="100" alt="Jan 2009 Meeting" /></a>
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
 | 10:00 AM | Registration |  |  |
-| 10:30 AM | Introductions | [Scott Cain](User:Scott "User:Scott") |  |
-| 11:00 AM | The State of GMOD | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
+| 10:30 AM | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
+| 11:00 AM | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
 class="internal" title="Jan2009StateOfGMOD.ppt">PPT</a>, [Summary](#The_State_of_GMOD) |
-| 11:30 AM | A variety of [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") stuff | [Dave Clements](User:Clements "User:Clements") | <a href="../mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
+| 11:30 AM | A variety of [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") stuff | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
 title="Jan2009HelpDesk.pdf">PDF</a>, [Summary](#GMOD_Help_Desk) |
 | 12:00 PM | Lunch | *one hour 30 minutes* |  |
 | 1:30 PM | <a href="http://drupal.org" class="external text"
 rel="nofollow">Drupal</a> and <a href="http://www.marinegenomics.org" class="external text"
-rel="nofollow">MarineGenomics.org</a> | [Stephen Ficklin](User:Sficklin "User:Sficklin") | <a href="../mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
+rel="nofollow">MarineGenomics.org</a> | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | <a href="../mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
 class="internal" title="Jan2009MarineGenomics.pdf">PDF</a>, [Summary](#Drupal_and_MarineGenomics.org) |
 | 2:00 PM | <a href="http://www.sanger.ac.uk/Software/Artemis/"
 class="external text" rel="nofollow">Artemis</a> and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> at <a href="http://www.genedb.org/" class="external text"
 rel="nofollow">GeneDB</a> | Robin Houston | <a href="../mediawiki/images/5/5c/Jan2009ArtemisChadoGeneDB.ppt"
 class="internal" title="Jan2009ArtemisChadoGeneDB.ppt">PPT</a>, <a href="../mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
 class="internal" title="Jan2009ArtemisChadoGeneDB.pdf">PDF</a>, [Summary](#Artemis_and_Chado_at_GeneDB) |
-| 2:30 PM | modENCODE: extending <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, BIR-TAB, & GBrowse for automating data validation & display | [Nicole Washington](User:NLWashington "User:NLWashington") | <a href="../mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
+| 2:30 PM | modENCODE: extending <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, BIR-TAB, & GBrowse for automating data validation & display | [Nicole Washington](User%3ANLWashington "User%3ANLWashington") | <a href="../mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
 title="Jan2009modENCODE.pdf">PDF</a>, [Summary](#modENCODE:_extending_Chado.2C_BIR-TAB.2C_.26_GBrowse_for_automating_data_validation_.26_display) |
 | 3:00 PM | Break |  |  |
-| 3:30 PM | A RESTful interface for [MODs](MOD "MOD")? | [Josh Goodman](User:Jogoodma "User:Jogoodma") | <a href="../mediawiki/images/6/63/Jan2009RESTfulMODs.ppt"
+| 3:30 PM | A RESTful interface for [MODs](MOD "MOD")? | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="../mediawiki/images/6/63/Jan2009RESTfulMODs.ppt"
 class="internal" title="Jan2009RESTfulMODs.ppt">PPT</a>, <a href="../mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
 class="internal" title="Jan2009RESTfulMODs.pdf">PDF</a>, [Summary](#A_RESTful_Interface_for_MODs.3F), [Discussion](#Data_Sharing) |
 | 4:00 PM | Metadata Input and Submission Tool and GIS linked metagenomic database | Iddo Friedberg and Christopher Condit | <a href="../mediawiki/images/c/c7/Jan2009MIST.pdf" class="internal"
 title="Jan2009MIST.pdf">PDF</a>, [Summary](#Metadata_Input_and_Submission_Tool_and_GIS_linked_metagenomic_database) |
-| 4:30 PM | Data Representation in <a href="Chado" class="mw-redirect" title="Chado">Chado</a>: Best Practices | [Joshua Orvis](User:Jorvis "User:Jorvis") and/or Scott Cain | [Summary](#Data_Representation_in_Chado:_Best_Practices), [Discussion](#Data_Sharing) |
+| 4:30 PM | Data Representation in <a href="Chado" class="mw-redirect" title="Chado">Chado</a>: Best Practices | [Joshua Orvis](User%3AJorvis "User%3AJorvis") and/or Scott Cain | [Summary](#Data_Representation_in_Chado:_Best_Practices), [Discussion](#Data_Sharing) |
 | 5:00 PM | Dinner (on your own) |  |  |
 
 ### <span id="Friday.2C_January_16" class="mw-headline">Friday, January 16</span>
@@ -236,7 +236,7 @@ title="Jan2009MIST.pdf">PDF</a>, [Summary](#Metadata_Input_and_Submission_Tool_a
 href="http://www.gusdb.org/" class="external text"
 rel="nofollow">GUS</a> at <a href="http://www.sbri.org"
 class="external text" rel="nofollow">SBRI</a></td>
-<td><a href="User:Sivam" title="User:Sivam">Dhileep Sivam</a> and
+<td><a href="User%3ASivam" title="User%3ASivam">Dhileep Sivam</a> and
 Isabelle Phan</td>
 <td><a
 href="../mediawiki/images/4/43/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.ppt"
@@ -287,7 +287,7 @@ href="#WebGBrowse:_GBrowse_Configuration_Management">Summary</a></td>
 <td>11:30 AM</td>
 <td><a href="http://genome.biowiki.org" class="external text"
 rel="nofollow">JBrowse</a> (aka GBrowse 3.0)</td>
-<td><a href="User:MitchSkinner" title="User:MitchSkinner">Mitch
+<td><a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
 Skinner</a></td>
 <td><a href="../mediawiki/images/3/32/Jan2009JBrowse.odp"
 class="internal" title="Jan2009JBrowse.odp">ODP</a>, <a
@@ -305,7 +305,7 @@ title="Jan2009JBrowse.pdf">PDF</a>, <a href="#JBrowse">Summary</a></td>
 <td><a href="http://ecoliwiki.net" class="external text"
 rel="nofollow">EcoliWiki</a> and <a href="TableEdit.1"
 title="TableEdit">TableEdit</a></td>
-<td><a href="User:DanielRenfro" title="User:DanielRenfro">Daniel
+<td><a href="User%3ADanielRenfro" title="User%3ADanielRenfro">Daniel
 Renfro</a></td>
 <td><span style="font-size:smaller;">I tried, but all I get is
 errors.<br />
@@ -384,7 +384,7 @@ modest goals, or should we aim for a sweet spot in the middle? Should we
 emphasize robustness or ease of implementation? Should GMOD support
 *semantic web* efforts?
 
-[Josh Goodman](User:Jogoodma "User:Jogoodma")
+[Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 [argued](#A_RESTful_Interface_for_MODs.3F) that RESTful interfaces
 provide the highest payoff for the least amount of effort -- that
 RESTful was both useful and the easiest to implement.
@@ -406,7 +406,7 @@ services working
 group](Web_services_working_group "Web services working group") and will
 continue and expand this discussion with the GMOD community.**
 
-[Joshua Orvis](User:Jorvis "User:Jorvis")'s "[Data Representation in
+[Joshua Orvis](User%3AJorvis "User%3AJorvis")'s "[Data Representation in
 Chado: Best Practices](#Data_Representation_in_Chado:_Best_Practices)"
 session dealt with the same issue, this time in the context of
 representing biology within
@@ -421,7 +421,7 @@ the ball rolling by describing IGS's Chado practices on the [IGS Data
 Representation](IGS_Data_Representation "IGS Data Representation") page.
 
 RDF got additional discussion during [Dhileep
-Sivam](User:Sivam "User:Sivam") and Isabelle Phan's session on [Chado
+Sivam](User%3ASivam "User%3ASivam") and Isabelle Phan's session on [Chado
 and GUS at SBRI](#Chado_and_GUS_at_SBRI).
 <a href="http://dev.isb-sib.ch/projects/uniprot-rdf/intro.html"
 class="external text" rel="nofollow">Uniprot uses RDF</a> to represent
@@ -441,7 +441,7 @@ The presentations are listed here in a very approximate order:
 
 - <a href="../mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
   class="internal" title="Jan2009StateOfGMOD.ppt">The State of GMOD</a>,
-  [Scott Cain](User:Scott "User:Scott")
+  [Scott Cain](User%3AScott "User%3AScott")
 
 [Activity](GMOD_News "GMOD News") since the [July 2008 GMOD
 Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting"):
@@ -471,7 +471,7 @@ A program set up by the
 rel="nofollow">Science Education Alliance (SEA)</a> staff of the
 <a href="http://www.hhmi.org/" class="external text"
 rel="nofollow">Howard Hughes Medical Institute (HHMI)</a>, in close
-collaboration with [Ed Lee](User:Elee "User:Elee") of Lawrence Berkeley
+collaboration with [Ed Lee](User%3AElee "User%3AElee") of Lawrence Berkeley
 National Laboratory, uses [GMOD
 Components](GMOD_Components "GMOD Components") to teach sequencing from
 sample collection to annotation to submission to GenBank. College
@@ -490,7 +490,7 @@ School](2008_GMOD_Summer_School "2008 GMOD Summer School").
 **Roadmap:**
 
 - 1.69 released in August. Lots of new stuff
-- Popups (from [Sheldon McKay](User:Mckays "User:Mckays"))
+- Popups (from [Sheldon McKay](User%3AMckays "User%3AMckays"))
 - Vertical dragging of tracks
 - Rubber banding (also Sheldon)
 - Quantitative data (Wiggle tracks)
@@ -521,7 +521,7 @@ School](2008_GMOD_Summer_School "2008 GMOD Summer School").
 
 - <a href="../mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
   title="Jan2009HelpDesk.pdf">GMOD Help Desk</a>, [Dave
-  Clements](User:Clements "User:Clements")
+  Clements](User%3AClements "User%3AClements")
 
 Dave gave an update on what the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk") has been up to since the [July
@@ -603,7 +603,7 @@ highlights:
 - Document what variables are available in
   [GBrowse](GBrowse.1 "GBrowse") callbacks.
 
-([Russell Smithies](User:Russellsmithies "User:Russellsmithies") also
+([Russell Smithies](User%3ARussellsmithies "User%3ARussellsmithies") also
 mentioned that if you put [GBrowse](GBrowse.1 "GBrowse") callbacks in a
 separate file and then include them, the GBrowse parser becomes much
 less fragile.)
@@ -612,14 +612,14 @@ less fragile.)
 
 - <a href="../mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
   class="internal" title="Jan2009RESTfulMODs.pdf">A RESTful interface for
-  MODs?</a>, [Josh Goodman](User:Jogoodma "User:Jogoodma")
+  MODs?</a>, [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 
-Josh Goodman of the [FlyBase](Category:FlyBase "Category:FlyBase")
+Josh Goodman of the [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 project proposed that GMOD support a
 <a href="http://tomayko.com/writings/rest-to-my-wife"
 class="external text" rel="nofollow">RESTful interface</a> for
 biological data. Josh started by listing many of the
-[APIs](Category:Middleware "Category:Middleware") that already exist in
+[APIs](Category%3AMiddleware "Category%3AMiddleware") that already exist in
 GMOD or at GMOD user sites, and then asked the question "Why have
 another one?" Here's why:
 
@@ -663,7 +663,7 @@ alt="Jan2009Orvis.JPG" /></a>
 
 </div>
 
-[Joshua Orvis](User:Jorvis "User:Jorvis")'s talk was the second to
+[Joshua Orvis](User%3AJorvis "User%3AJorvis")'s talk was the second to
 specifically address [common data representations and
 formats](#Data_Sharing).
 
@@ -685,7 +685,7 @@ This led to two questions:
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> schema
 happen?**
 
-[Scott](User:Scott "User:Scott"): Post your ideas to the [GMOD-Schema
+[Scott](User%3AScott "User%3AScott"): Post your ideas to the [GMOD-Schema
 maililng list](GMOD_Mailing_Lists "GMOD Mailing Lists"), people will
 discsuss it, and then Scott (or you) will fold the changes into Chado.
 
@@ -711,7 +711,7 @@ best practices.
 
 - <a href="../mediawiki/images/7/7d/Jan2009GenericGenePage.ppt"
   class="internal" title="Jan2009GenericGenePage.ppt">Generic Gene Page
-  XML</a>, [Scott Cain](User:Scott "User:Scott")
+  XML</a>, [Scott Cain](User%3AScott "User%3AScott")
 
 A Perl implementation of the [Generic Gene Page
 XML](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage") was released
@@ -721,8 +721,8 @@ Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting").
 There are now at least three servers that generate GMOD Generic Gene
 Page XML:
 
-- [SGN](Category:SGN "Category:SGN")
-- [FlyBase](Category:FlyBase "Category:FlyBase")
+- [SGN](Category%3ASGN "Category%3ASGN")
+- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - Sample yeast at GMOD.org
 
 The Perl implementation has 11 or so abstract classes that need to be
@@ -791,7 +791,7 @@ and the data model that each uses.
 
 - <a href="../mediawiki/images/c/ca/Jan2009JBrowse.pdf" class="internal"
   title="Jan2009JBrowse.pdf">JBrowse</a> (aka GBrowse 3.0), [Mitch
-  Skinner](User:MitchSkinner "User:MitchSkinner")
+  Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
 
 [JBrowse](JBrowse.1 "JBrowse"), formerly known as GBrowse 3.0 is a
 reimplementation of GBrowse functionality in JavaScript.
@@ -887,7 +887,7 @@ way around this is to use
 machines</a>. Currently working on a prototype CentOS4 machine with
 Chado 1.0, recent [BioPerl](BioPerl "BioPerl"), and Turnkey/GMODWeb 1.4
 installed. After this meeting [Dave
-Clements](User:Clements "User:Clements") is going to UCLA for two days
+Clements](User%3AClements "User%3AClements") is going to UCLA for two days
 to learn about RPM generations and the BioPackages.net infrastructure.
 
   
@@ -913,10 +913,10 @@ rel="nofollow">contact him</a> ...
 
 - <a href="../mediawiki/images/d/d9/Jan2009TableEdit.pdf" class="internal"
   title="Jan2009TableEdit.pdf">EcoliWiki and TableEdit</a>, [Daniel
-  Renfro](User:DanielRenfro "User:DanielRenfro")
+  Renfro](User%3ADanielRenfro "User%3ADanielRenfro")
 
-[Daniel Renfro](User:DanielRenfro "User:DanielRenfro") of the [Jim
-Hu](User:JimHu.1 "User:JimHu") lab spoke about
+[Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro") of the [Jim
+Hu](User%3AJimHu.1 "User%3AJimHu") lab spoke about
 <a href="http://ecoliwiki.net/colipedia/index.php/Welcome_to_EcoliWiki"
 class="external text" rel="nofollow">EcoliWiki</a> and the
 [TableEdit](TableEdit.1 "TableEdit") MediaWiki extension.
@@ -1021,9 +1021,9 @@ height="121" alt="Jan2009Ficklin.JPG" /></a>
 - <a href="../mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
   class="internal" title="Jan2009MarineGenomics.pdf">Drupal and
   MarineGenomics.org</a>, [Stephen
-  Ficklin](User:Sficklin "User:Sficklin")
+  Ficklin](User%3ASficklin "User%3ASficklin")
 
-[Stephen Ficklin](User:Sficklin "User:Sficklin") of the
+[Stephen Ficklin](User%3ASficklin "User%3ASficklin") of the
 <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">Clemson Univerisity Genomics Institute (CUGI)</a> spoke
 about his group's work using GMOD components to power a number of web
@@ -1139,7 +1139,7 @@ BerkeleyDB database. This approach results in a very responsive (as in
 first half of 2009.
 
 GeneDB developed a [Hibernate
-mapping](Category:Middleware "Category:Middleware") for Chado. The
+mapping](Category%3AMiddleware "Category%3AMiddleware") for Chado. The
 feature hierarchy is represented using single table inheritance.
 
 ### <span id="Chado_and_GUS_at_SBRI" class="mw-headline">Chado and GUS at SBRI</span>
@@ -1148,10 +1148,10 @@ feature hierarchy is represented using single table inheritance.
   href="../mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
   class="internal"
   title="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf">Chado and
-  GUS at SBRI</a>, [Dhileep Sivam](User:Sivam "User:Sivam") and Isabelle
+  GUS at SBRI</a>, [Dhileep Sivam](User%3ASivam "User%3ASivam") and Isabelle
   Phan
 
-[Dhileep Sivam](User:Sivam "User:Sivam") introduced how GMOD is used at
+[Dhileep Sivam](User%3ASivam "User%3ASivam") introduced how GMOD is used at
 the
 <a href="http://sbri.org" class="external text" rel="nofollow">Seattle
 Biomedical Research Institute (SBRI)</a>. Currently using Nimblegen's
@@ -1214,7 +1214,7 @@ height="100" alt="Jan2009Washington.JPG" /></a>
 - <a href="../mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
   title="Jan2009modENCODE.pdf">modENCODE: extending Chado, BIR-TAB, &amp;
   GBrowse for automating data validation &amp; display</a>, [Nicole
-  Washington](User:NLWashington "User:NLWashington")
+  Washington](User%3ANLWashington "User%3ANLWashington")
 
 The <a href="http://modencode.org" class="external text"
 rel="nofollow">modENCODE</a> project is working to identify all
@@ -1222,7 +1222,7 @@ functional elements and find evidence for every gene prediction in worm
 and fly. They were originally using ChIP-chip, but have now switched to
 ChIP-Seq technology.
 
-[Nicole](User:NLWashington "User:NLWashington") works at the modENCODE
+[Nicole](User%3ANLWashington "User%3ANLWashington") works at the modENCODE
 Data Coordination Center (DCC). The DCC is a central collection and
 validation point for modENCODE's many data providers. They also provide
 project statistics. The DCC uses
@@ -1442,28 +1442,28 @@ please add it below.
 
 - Natural Diversity Module in
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a> --
-  [Clements](User:Clements "User:Clements") 14:23, 13 November 2008
+  [Clements](User%3AClements "User%3AClements") 14:23, 13 November 2008
   (UTC)
 - Using the [2008 GMOD Community
   Survey](2008_GMOD_Community_Survey "2008 GMOD Community Survey") for
-  guidance -- [Clements](User:Clements "User:Clements") 21:46, 20
+  guidance -- [Clements](User%3AClements "User%3AClements") 21:46, 20
   November 2008 (UTC)
 - Common data representation (best practices)
-  --[Jorvis](User:Jorvis "User:Jorvis") 23:29, 20 November 2008 (UTC)
+  --[Jorvis](User%3AJorvis "User%3AJorvis") 23:29, 20 November 2008 (UTC)
   - Including high throughput sequencing data
-    --[Scott](User:Scott "User:Scott") 18:07, 8 December 2008 (UTC)
+    --[Scott](User%3AScott "User%3AScott") 18:07, 8 December 2008 (UTC)
 - <a href="GMOD_Summer_School" class="mw-redirect"
   title="GMOD Summer School">2009 GMOD Summer School</a>, in Durham
   North Carolina, and [possibly in Oxford,
   UK](2008_GMOD_Community_Survey#GMOD_Course_in_Europe "2008 GMOD Community Survey").
-  [Clements](User:Clements "User:Clements") 19:50, 24 November 2008
+  [Clements](User%3AClements "User%3AClements") 19:50, 24 November 2008
   (UTC)
 - <a href="http://www.beespace.uiuc.edu/" class="external text"
   rel="nofollow">Beespace</a> Navigator 4.0 and the Gene Summarizer
   automatic gene curation engine. -- Barry Sanders, 03 December 2008
 - [Common Gene Page](Common_Gene_Page "Common Gene Page") XML format.
   Status update and discussion of future directions.
-  --[Jogoodma](User:Jogoodma "User:Jogoodma") 18:38, 11 December 2008
+  --[Jogoodma](User%3AJogoodma "User%3AJogoodma") 18:38, 11 December 2008
   (UTC)
 
 ## <span id="Meeting_Participants" class="mw-headline">Meeting Participants</span>
@@ -1475,20 +1475,20 @@ rel="nofollow">BeeSpace</a> |
 | Saravanaraj Ayyampalayam | University of Georgia |
 | Hugo Berube | <a href="http://www.nrc-cnrc.gc.ca/" class="external text"
 rel="nofollow">National Research Council Canada</a> |
-| [Robert Buels](User:RobertBuels "User:RobertBuels") | [SGN](Category:SGN "Category:SGN") |
+| [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") | [SGN](Category%3ASGN "Category%3ASGN") |
 | Ramesh Buyyarapu | Alabama A&M University |
-| [Scott Cain](User:Scott "User:Scott") | GMOD, Ontario Institute for Cancer Research (OICR) |
+| [Scott Cain](User%3AScott "User%3AScott") | GMOD, Ontario Institute for Cancer Research (OICR) |
 | Jing Chen | UCSD |
-| [Chris Childers](User:Childers "User:Childers") | Georgetown University |
+| [Chris Childers](User%3AChilders "User%3AChilders") | Georgetown University |
 | Kevin Clancy | Life Technologies |
-| [Dave Clements](User:Clements "User:Clements") | <a href="http://nescent.org" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") | <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a> / GMOD |
 | Christopher Condit | <a href="http://iddo-friedberg.org" class="external text"
 rel="nofollow">University of California San Diego</a> |
 | Heather Estrella | Pfizer |
 | Kathleen Falls | <a href="http://flybase.org/" class="external text"
 rel="nofollow">FlyBase</a> |
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | <a href="http://www.genome.clemson.edu" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | <a href="http://www.genome.clemson.edu" class="external text"
 rel="nofollow">Clemson University Genomics Institute</a> / <a href="http://www.marinegenomics.org" class="external text"
 rel="nofollow">MarineGenomics.org</a>, <a href="http://www.fagaceae.org" class="external text"
 rel="nofollow">Fagaceae.org</a> |
@@ -1497,14 +1497,14 @@ rel="nofollow">UCSD</a> |
 | Iddo Friedberg | <a href="http://iddo-friedberg.org" class="external text"
 rel="nofollow">University of California San Diego</a> |
 | Carol Germain | Pfizer |
-| [Josh Goodman](User:Jogoodma "User:Jogoodma") | <a href="http://flybase.org/" class="external text"
+| [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="http://flybase.org/" class="external text"
 rel="nofollow">FlyBase</a> |
 | Dong He | <a href="http://www.spbase.org/" class="external text"
 rel="nofollow">CalTech, SpBase</a> |
-| [Christopher Hemmerich](User:Chemmeri "User:Chemmeri") | Indiana University - Center for Genomics and Bioinformatics |
+| [Christopher Hemmerich](User%3AChemmeri "User%3AChemmeri") | Indiana University - Center for Genomics and Bioinformatics |
 | Ian Holmes | UC Berkeley |
-| [Robin Houston](User:RobinHouston "User:RobinHouston") | Pathogen Informatics, Sanger Institute |
-| [Jim Hu](User:JimHu.1 "User:JimHu") | Texas A&M University/<a href="http://ecoliwiki.net" class="external text"
+| [Robin Houston](User%3ARobinHouston "User%3ARobinHouston") | Pathogen Informatics, Sanger Institute |
+| [Jim Hu](User%3AJimHu.1 "User%3AJimHu") | Texas A&M University/<a href="http://ecoliwiki.net" class="external text"
 rel="nofollow">EcoliWiki</a> and <a href="http://gowiki.tamu.edu" class="external text"
 rel="nofollow">GONUTS</a> |
 | Ying Huang | University of California, San Diego |
@@ -1519,11 +1519,11 @@ Improvement</a> |
 | Dorrie Main | <a href="http://www.rosaceae.org" class="external text"
 rel="nofollow">Genome Database for Rosaceae</a> |
 | Weidong Mao | Virginia State Unviersity |
-| [Sheldon McKay](User:Mckays "User:Mckays") | Cold Spring Harbor Laboratory iPlant/GMOD |
+| [Sheldon McKay](User%3AMckays "User%3AMckays") | Cold Spring Harbor Laboratory iPlant/GMOD |
 | Rex Nelson | <a href="http://soybase.org" class="external text"
 rel="nofollow">SoyBase</a> |
 | Brian O'Connor | UCLA |
-| [Joshua Orvis](User:Jorvis "User:Jorvis") | <a href="http://www.igs.umaryland.edu/" class="external text"
+| [Joshua Orvis](User%3AJorvis "User%3AJorvis") | <a href="http://www.igs.umaryland.edu/" class="external text"
 rel="nofollow">Institute for Genome Sciences</a> |
 | Georgios Pappas, Jr | EMBRAPA/Brazil |
 | Isabelle Phan | <a href="http://www.sbri.org" class="external text"
@@ -1535,17 +1535,17 @@ rel="nofollow">Seattle Biomedical Research Institue (SBRI)</a>, Seattle,WA |
 | Robert Reed | <a href="http://reedlab.org" class="external text" rel="nofollow">U.C.
 Irvine</a> |
 | Justin Reese | Georgetown University, BeeBase and Bovine Genome Database |
-| [Daniel Renfro](User:DanielRenfro "User:DanielRenfro") | <a href="http://ecoliwiki.net" class="external text"
+| [Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro") | <a href="http://ecoliwiki.net" class="external text"
 rel="nofollow">EcoliWiki</a> |
 | Peter Rose | <a href="http://www.rcsb.org" class="external text" rel="nofollow">UCSD
 - Protein Data Bank</a> |
 | Barry Sanders | <a href="http://www.beespace.uiuc.edu/" class="external text"
 rel="nofollow">BeeSpace</a> |
 | Andy Schroeder | FlyBase |
-| [Dhileep Sivam](User:Sivam "User:Sivam") | University of Washington & <a href="http://www.sbri.org" class="external text"
+| [Dhileep Sivam](User%3ASivam "User%3ASivam") | University of Washington & <a href="http://www.sbri.org" class="external text"
 rel="nofollow">Seattle Biomedical Research Institute (SBRI)</a> |
-| [Mitch Skinner](User:MitchSkinner "User:MitchSkinner") | UC Berkeley, JBrowse project |
-| [Russell Smithies](User:Russellsmithies "User:Russellsmithies") | <a href="http://www.agresearch.co.nz" class="external text"
+| [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | UC Berkeley, JBrowse project |
+| [Russell Smithies](User%3ARussellsmithies "User%3ARussellsmithies") | <a href="http://www.agresearch.co.nz" class="external text"
 rel="nofollow">AgResearch</a> |
 | Weijia Su | Tyler Applied Systems, Inc. |
 | Shulei Sun | UCSD |
@@ -1553,7 +1553,7 @@ rel="nofollow">AgResearch</a> |
 rel="nofollow">Genome Database for Rosaceae</a> |
 | Adrian Tivey | <a href="http://www.genedb.org/" class="external text"
 rel="nofollow">Pathogen Informatics, Sanger Institute</a> |
-| [Nicole Washington](User:NLWashington "User:NLWashington") | <a href="http://www.lbl.gov" class="external text"
+| [Nicole Washington](User%3ANLWashington "User%3ANLWashington") | <a href="http://www.lbl.gov" class="external text"
 rel="nofollow">LBNL</a>, <a href="http://www.modencode.org" class="external text"
 rel="nofollow">modENCODE</a>, [GBrowse](GBrowse.1 "GBrowse"), <a href="http://www.phenote.org" class="external text"
 rel="nofollow">Phenote</a> |
@@ -1696,25 +1696,25 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [BioMart](Category:BioMart "Category:BioMart")
-- [Chado](Category:Chado "Category:Chado")
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GMODWeb](Category:GMODWeb "Category:GMODWeb")
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [BioMart](Category%3ABioMart "Category%3ABioMart")
+- [Chado](Category%3AChado "Category%3AChado")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GMODWeb](Category%3AGMODWeb "Category%3AGMODWeb")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Generic_Gene_Pages&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Generic Gene Pages (page does not exist)">Generic Gene
+  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
   Pages</a>
-- [Middleware](Category:Middleware "Category:Middleware")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Semantic web](Category:Semantic_web "Category:Semantic web")
-- [Turnkey](Category:Turnkey "Category:Turnkey")
-- [JBrowse](Category:JBrowse "Category:JBrowse")
-- [TableEdit](Category:TableEdit "Category:TableEdit")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
+- [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
+- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
 </div>
 
@@ -1810,8 +1810,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1845,7 +1845,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/January_2009_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2009_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

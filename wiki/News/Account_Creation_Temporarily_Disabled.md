@@ -42,9 +42,9 @@ Due to overwhelming wiki-spam over the last few weeks, new account
 creation has been disabled temporarily while we assess methods of
 controlling the spam. In the meantime, new accounts can still be created
 by any of the SysOps for the wiki, including [Scott
-Cain](../User:Scott "User:Scott"). Sorry for any inconvenience.
+Cain](../User%3AScott "User%3AScott"). Sorry for any inconvenience.
 
-[Scott Cain](../User:Scott "User:Scott")
+[Scott Cain](../User%3AScott "User%3AScott")
 
   
 
@@ -69,7 +69,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -167,8 +167,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FAccount_Creation_Temporarily_Disabled"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FAccount_Creation_Temporarily_Disabled"
   rel="smw-browse">Browse properties</a></span>
 
 

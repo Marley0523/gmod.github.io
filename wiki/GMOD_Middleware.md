@@ -555,8 +555,8 @@ presentations themselves for these details.
 ## <span id="The_Middleware_Packages" class="mw-headline">The Middleware Packages</span>
 
 The one day meeting heard presentations from developers using both
-[Perl](Category:Perl "Category:Perl") and
-[Java](Category:Java "Category:Java") middleware and a number of
+[Perl](Category%3APerl "Category%3APerl") and
+[Java](Category%3AJava "Category%3AJava") middleware and a number of
 satisfactory solutions were described. The focus in almost all cases was
 some sort of system that connected to the
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> relational
@@ -824,7 +824,7 @@ rel="nofollow">http://trac.flymine.org</a>
 
 #### <span id="Perl_Middleware" class="mw-headline">Perl Middleware</span>
 
-The [Perl](Category:Perl "Category:Perl")\] approaches used only the
+The [Perl](Category%3APerl "Category%3APerl")\] approaches used only the
 Perl language (the Java packages all used Java plus XML, to some
 degree). The [XORT](XORT.1 "XORT") application is not, strictly
 speaking, *middleware* but has proven to be very useful in bulk
@@ -1441,7 +1441,7 @@ Presentation](Hibernate_Presentation "Hibernate Presentation")
 *I think this eventually became what is described in the [Artemis-Chado
 Integration
 Tutorial](Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial").
-[Dave C.](User:Clements "User:Clements")*
+[Dave C.](User%3AClements "User%3AClements")*
 
 </div>
 
@@ -1616,14 +1616,14 @@ Presentation](InterMine_Presentation "InterMine Presentation")
 
 - Jeff Bowes, XenBase
 - Robert Bruggner, VectorBase
-- [Scott Cain](User:Scott "User:Scott"), GMOD
-- [Steve Fischer](User:Stevef "User:Stevef"), PlasmoDB/GUS
-- [Josh Goodman](User:Jogoodma "User:Jogoodma"),
-  [FlyBase](Category:FlyBase "Category:FlyBase")
-- Eric Just, [DictyBase](Category:DictyBase "Category:DictyBase")
+- [Scott Cain](User%3AScott "User%3AScott"), GMOD
+- [Steve Fischer](User%3AStevef "User%3AStevef"), PlasmoDB/GUS
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma"),
+  [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+- Eric Just, [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
 - Sohel Merchant, DictyBase
 - Brian O'Connor, UCLA
-- [Brian Osborne](User:Bosborne "User:Bosborne"), GMOD
+- [Brian Osborne](User%3ABosborne "User%3ABosborne"), GMOD
 - Chinmay Patel, GeneDB
 - Pinglei Zhou, FlyBase
 - Gos Micklem, FlyMine/InterMine
@@ -1643,15 +1643,15 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [InterMine](Category:InterMine "Category:InterMine")
-- [Java](Category:Java "Category:Java")
-- [Middleware](Category:Middleware "Category:Middleware")
-- [Modware](Category:Modware "Category:Modware")
-- [Perl](Category:Perl "Category:Perl")
-- [XORT](Category:XORT "Category:XORT")
-- [BioPerl](Category:BioPerl "Category:BioPerl")
-- [Events](Category:Events "Category:Events")
+- [Chado](Category%3AChado "Category%3AChado")
+- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [Java](Category%3AJava "Category%3AJava")
+- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [Modware](Category%3AModware "Category%3AModware")
+- [Perl](Category%3APerl "Category%3APerl")
+- [XORT](Category%3AXORT "Category%3AXORT")
+- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [Events](Category%3AEvents "Category%3AEvents")
 
 </div>
 
@@ -1747,8 +1747,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1782,7 +1782,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Middleware" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Middleware" rel="smw-browse">Browse
   properties</a></span>
 
 

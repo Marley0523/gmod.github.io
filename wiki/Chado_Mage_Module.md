@@ -1086,9 +1086,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
-- [Expression](Category:Expression "Category:Expression")
-- [Microarrays](Category:Microarrays "Category:Microarrays")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Expression](Category%3AExpression "Category%3AExpression")
+- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
 
 </div>
 
@@ -1184,8 +1184,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1219,7 +1219,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Mage_Module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Mage_Module" rel="smw-browse">Browse
   properties</a></span>
 
 

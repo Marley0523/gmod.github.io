@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 Spectrogram.pm is a [GBrowse](GBrowse.1 "GBrowse") plugin written by
-[Sheldon McKay](User:Mckays "User:Mckays"). It draws DNA spectrograms of
+[Sheldon McKay](User%3AMckays "User%3AMckays"). It draws DNA spectrograms of
 DNA of digitized DNA sequences using techniques borrowed from the
 digital signal processing world. Graphical rendering is accomplished
 using the HSV color space. The color of the spot on the spectrogram
@@ -145,10 +145,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [GBrowse Plugins](Category:GBrowse_Plugins "Category:GBrowse Plugins")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse Plugins](Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
 - [Pages with problems or
-  questions](Category:Pages_with_problems_or_questions "Category:Pages with problems or questions")
+  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
 
 </div>
 
@@ -244,8 +244,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -279,7 +279,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Spectrogram.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Spectrogram.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

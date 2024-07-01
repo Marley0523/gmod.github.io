@@ -48,7 +48,7 @@ Use
 
   
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User:Mckays "User:Mckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -791,9 +791,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -889,8 +889,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -924,7 +924,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_Tutorial_2012"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2012"
   rel="smw-browse">Browse properties</a></span>
 
 

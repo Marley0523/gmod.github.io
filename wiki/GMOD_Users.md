@@ -144,7 +144,7 @@ rel="nofollow">http://www.aphidbase.com/</a></td>
 <tr class="even">
 <td><a href="http://www.arabidopsis.org" class="external free"
 rel="nofollow">http://www.arabidopsis.org</a></td>
-<td><a href="Category:TAIR" title="Category:TAIR">TAIR</a></td>
+<td><a href="Category%3ATAIR" title="Category%3ATAIR">TAIR</a></td>
 <td></td>
 <td></td>
 <td>2013</td>
@@ -548,8 +548,8 @@ rel="nofollow">http://diagcomputing.org/resources/software.php</a></td>
 <tr class="odd">
 <td><a href="http://www.dictybase.org" class="external free"
 rel="nofollow">http://www.dictybase.org</a></td>
-<td><a href="Category:DictyBase"
-title="Category:DictyBase">DictyBase</a></td>
+<td><a href="Category%3ADictyBase"
+title="Category%3ADictyBase">DictyBase</a></td>
 <td></td>
 <td>Chado, GBrowse, more</td>
 <td>2013</td>
@@ -628,7 +628,7 @@ rel="nofollow">http://fagaceae.org</a></td>
 <tr class="even">
 <td><a href="http://www.flybase.org" class="external free"
 rel="nofollow">http://www.flybase.org</a></td>
-<td><a href="Category:FlyBase" title="Category:FlyBase">FlyBase</a></td>
+<td><a href="Category%3AFlyBase" title="Category%3AFlyBase">FlyBase</a></td>
 <td>A Database of Drosophila Genes &amp; Genomes</td>
 <td>Chado, GBrowse, more</td>
 <td>2013</td>
@@ -892,7 +892,7 @@ class="external text" rel="nofollow">Chado controller</a></td>
 <tr class="even">
 <td><a href="http://www.gramene.org" class="external free"
 rel="nofollow">http://www.gramene.org</a></td>
-<td><a href="Category:Gramene" title="Category:Gramene">Gramene</a></td>
+<td><a href="Category%3AGramene" title="Category%3AGramene">Gramene</a></td>
 <td>Grain resources</td>
 <td></td>
 <td>2013</td>
@@ -1494,7 +1494,7 @@ rel="nofollow">http://research.nhgri.nih.gov/mnemiopsis/</a></td>
 <tr class="even">
 <td><a href="http://rgd.mcw.edu" class="external free"
 rel="nofollow">http://rgd.mcw.edu</a></td>
-<td><a href="Category:RGD" title="Category:RGD">RGD</a></td>
+<td><a href="Category%3ARGD" title="Category%3ARGD">RGD</a></td>
 <td>Rat Genome Database</td>
 <td></td>
 <td>2013</td>
@@ -1612,7 +1612,7 @@ rel="nofollow">http://smedgd.neuro.utah.edu/</a></td>
 <tr class="even">
 <td><a href="http://solgenomics.net/" class="external free"
 rel="nofollow">http://solgenomics.net/</a></td>
-<td><a href="Category:SGN" title="Category:SGN">Sol Genomics
+<td><a href="Category%3ASGN" title="Category%3ASGN">Sol Genomics
 Network</a></td>
 <td></td>
 <td>Chado</td>
@@ -1833,8 +1833,8 @@ rel="nofollow">http://wildsoydb.org/</a></td>
 <tr class="odd">
 <td><a href="http://www.wormbase.org" class="external free"
 rel="nofollow">http://www.wormbase.org</a></td>
-<td><a href="Category:WormBase"
-title="Category:WormBase">WormBase</a></td>
+<td><a href="Category%3AWormBase"
+title="Category%3AWormBase">WormBase</a></td>
 <td>C. elegans</td>
 <td></td>
 <td>2013</td>
@@ -1875,7 +1875,7 @@ rel="nofollow">http://yandell-lab.org/software/cgl/</a></td>
 <tr class="even">
 <td><a href="http://yeastgenome.org/" class="external free"
 rel="nofollow">http://yeastgenome.org/</a></td>
-<td><a href="Category:SGD" title="Category:SGD">SGD</a></td>
+<td><a href="Category%3ASGD" title="Category%3ASGD">SGD</a></td>
 <td>S. cerevisiae resources</td>
 <td></td>
 <td>2013</td>
@@ -2001,8 +2001,8 @@ Retrieved from
 [Category](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Users&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:Users (page does not exist)">Users</a>
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AUsers&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AUsers (page does not exist)">Users</a>
 
 </div>
 
@@ -2098,8 +2098,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -2133,7 +2133,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Users" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Users" rel="smw-browse">Browse
   properties</a></span>
 
 

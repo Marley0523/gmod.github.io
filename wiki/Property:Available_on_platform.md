@@ -75,26 +75,26 @@ Showing 21 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BLAST_Graphic_Viewer.1"
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/BLAST-20Graphic-20Viewer"
-title="Special:Browse/BLAST-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
+title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special:Browse/BioMart"
-title="Special:Browse/BioMart">+</a></span></td>
+href="Special%3ABrowse/BioMart"
+title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
 <a href="Special:PageProperty/BioMart::Available_on_platform"
 title="Special:PageProperty/BioMart::Available on platform">…</a></td>
 </tr>
@@ -104,25 +104,25 @@ title="Special:PageProperty/BioMart::Available on platform">…</a></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special:Browse/CMap"
-title="Special:Browse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/CMap"
+title="Special%3ABrowse/CMap">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special:Browse/Canto"
-title="Special:Browse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Canto"
+title="Special%3ABrowse/Canto">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span>,
 <a href="Special:PageProperty/Canto::Available_on_platform"
 title="Special:PageProperty/Canto::Available on platform">…</a></td>
 </tr>
@@ -132,17 +132,17 @@ title="Special:PageProperty/Canto::Available on platform">…</a></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special:Browse/DIYA"
-title="Special:Browse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/DIYA"
+title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -151,63 +151,63 @@ title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span></
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse"
-title="Special:Browse/GBrowse">+</a></span></td>
+href="Special%3ABrowse/GBrowse"
+title="Special%3ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special:Browse/GBrowse-20syn"
-title="Special:Browse/GBrowse-20syn">+</a></span></td>
+href="Special%3ABrowse/GBrowse-20syn"
+title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special:Browse/GO-20Graphic-20Viewer"
-title="Special:Browse/GO-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
+title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span>,
 linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
 <a href="Special:PageProperty/GO_Graphic_Viewer::Available_on_platform"
 title="Special:PageProperty/GO Graphic Viewer::Available on platform">…</a></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special:Browse/GO::TermFinder"
-title="Special:Browse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO::TermFinder"
+title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 <a href="Special:PageProperty/GO::TermFinder::Available_on_platform"
 title="Special:PageProperty/GO::TermFinder::Available on platform">…</a></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special:Browse/Galaxy"
-title="Special:Browse/Galaxy">+</a></span></td>
+href="Special%3ABrowse/Galaxy"
+title="Special%3ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -216,11 +216,11 @@ title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special:Browse/InterMine"
-title="Special:Browse/InterMine">+</a></span></td>
+href="Special%3ABrowse/InterMine"
+title="Special%3ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -229,20 +229,20 @@ title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse"
-title="Special:Browse/JBrowse">+</a></span></td>
+href="Special%3ABrowse/JBrowse"
+title="Special%3ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special:Browse/JBrowse2"
-title="Special:Browse/JBrowse2">+</a></span></td>
+href="Special%3ABrowse/JBrowse2"
+title="Special%3ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -250,17 +250,17 @@ title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special:Browse/MAKER"
-title="Special:Browse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/MAKER"
+title="Special%3ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -269,17 +269,17 @@ title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span></td
 <tr class="even">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special:Browse/Pathway-20Tools"
-title="Special:Browse/Pathway-20Tools">+</a></span></td>
+href="Special%3ABrowse/Pathway-20Tools"
+title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span>,
 linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/os-20x"
-title="Special:SearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
+title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
 <a href="Special:PageProperty/Pathway_Tools::Available_on_platform"
 title="Special:PageProperty/Pathway Tools::Available on platform">…</a></td>
 </tr>
@@ -290,26 +290,26 @@ title="Special:PageProperty/Pathway Tools::Available on platform">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special:Browse/Textpresso"
-title="Special:Browse/Textpresso">+</a></span></td>
+href="Special%3ABrowse/Textpresso"
+title="Special%3ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special:Browse/Tripal"
-title="Special:Browse/Tripal">+</a></span></td>
+href="Special%3ABrowse/Tripal"
+title="Special%3ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span>,
 linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 <a href="Special:PageProperty/Tripal::Available_on_platform"
 title="Special:PageProperty/Tripal::Available on platform">…</a></td>
 </tr>
@@ -320,29 +320,29 @@ title="Special:PageProperty/Tripal::Available on platform">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo"
-title="Special:Browse/WebApollo">+</a></span></td>
+href="Special%3ABrowse/WebApollo"
+title="Special%3ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special:Browse/WebApollo2"
-title="Special:Browse/WebApollo2">+</a></span></td>
+href="Special%3ABrowse/WebApollo2"
+title="Special%3ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special:Browse/WebGBrowse"
-title="Special:Browse/WebGBrowse">+</a></span></td>
+href="Special%3ABrowse/WebGBrowse"
+title="Special%3ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">web  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/web"
-title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/web"
+title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -350,14 +350,14 @@ title="Special:SearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special:Browse/XORT"
-title="Special:Browse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/XORT"
+title="Special%3ABrowse/XORT">+</a></span></td>
 <td class="smwprops">linux  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/linux"
-title="Special:SearchByProperty/Available-20on-20platform/linux">+</a></span>,
+href="Special%3ASearchByProperty/Available-20on-20platform/linux"
+title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
-href="Special:SearchByProperty/Available-20on-20platform/unix"
-title="Special:SearchByProperty/Available-20on-20platform/unix">+</a></span></td>
+href="Special%3ASearchByProperty/Available-20on-20platform/unix"
+title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -383,13 +383,13 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Available on
-platform](Special:Browse/Property:Available-20on-20platform "Special:Browse/Property:Available-20on-20platform")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+platform](Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property:Available_on_platform "Special:ExportRDF/Property:Available on platform")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | web <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/web "Special:SearchByProperty/Allows-20value/web")</span>, linux <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/linux "Special:SearchByProperty/Allows-20value/linux")</span>, os x <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/os-20x "Special:SearchByProperty/Allows-20value/os-20x")</span>, unix <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/unix "Special:SearchByProperty/Allows-20value/unix")</span>, windows <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/windows "Special:SearchByProperty/Allows-20value/windows")</span>, vm <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/vm "Special:SearchByProperty/Allows-20value/vm")</span> and cloud <span class="smwsearch">[+](Special:SearchByProperty/Allows-20value/cloud "Special:SearchByProperty/Allows-20value/cloud")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special:SearchByProperty/Has-20type/Text "Special:SearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | web <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/web "Special%3ASearchByProperty/Allows-20value/web")</span>, linux <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/linux "Special%3ASearchByProperty/Allows-20value/linux")</span>, os x <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/os-20x "Special%3ASearchByProperty/Allows-20value/os-20x")</span>, unix <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/unix "Special%3ASearchByProperty/Allows-20value/unix")</span>, windows <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/windows "Special%3ASearchByProperty/Allows-20value/windows")</span>, vm <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/vm "Special%3ASearchByProperty/Allows-20value/vm")</span> and cloud <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/cloud "Special%3ASearchByProperty/Allows-20value/cloud")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -485,8 +485,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -520,7 +520,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Available_on_platform"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Available_on_platform"
   rel="smw-browse">Browse properties</a></span>
 
 

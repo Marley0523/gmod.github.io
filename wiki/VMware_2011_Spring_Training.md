@@ -160,8 +160,8 @@ virtualbox works, out of the box so to speak, with the image: simple
 create a machine, and then go to *settings* --\> *storage*. And then
 change the hard drive you have set up to point to the vmdk virtual hard
 drive in the untarred folder. (reported by <a
-href="http://gmod.org/mediawiki/index.php?title=User:Alex@flymine.org&amp;action=edit&amp;redlink=1"
-class="new" title="User:Alex@flymine.org (page does not exist)">Alex</a>).
+href="http://gmod.org/mediawiki/index.php?title=User%3AAlex@flymine.org&amp;action=edit&amp;redlink=1"
+class="new" title="User%3AAlex@flymine.org (page does not exist)">Alex</a>).
 
 ## <span id="System_Configuration" class="mw-headline">System Configuration</span>
 
@@ -623,8 +623,8 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
 </div>
 
@@ -720,8 +720,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -755,7 +755,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/VMware_2011_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/VMware_2011_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

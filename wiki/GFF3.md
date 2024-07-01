@@ -48,14 +48,14 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <td><span style="font-size: 160%; line-height: 120%"> <a
 href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
 class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category:Session&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category:Session (page does not exist)">Session</a></span><br />
+title="Category%3ASession (page does not exist)">Session</a></span><br />
 <br />
 &#10;<p><a href="2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">2013 GMOD Summer School</a><br />
 19-23 July 2013<br />
-<a href="User:Scott" title="User:Scott">Scott Cain</a></p></td>
+<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><a href="File:2013-summer-school.png"
 class="image"><img
 src="../mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
@@ -740,13 +740,13 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:GFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:GFF3 (page does not exist)">GFF3</a>
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
 
 </div>
@@ -843,8 +843,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -878,7 +878,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GFF3" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF3" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

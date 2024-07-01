@@ -97,9 +97,9 @@ title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajourna
 <a href="../../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation at ParameciumDB</a> - [Linda
-Sperling's](../User:Sperling "User:Sperling") presentation on
+Sperling's](../User%3ASperling "User%3ASperling") presentation on
 [ParameciumDB's](../ParameciumDB "ParameciumDB") [Community
-Annotation](../Category:Community_Annotation "Category:Community Annotation")
+Annotation](../Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
 process at the [November 2007 GMOD
 Meeting](../November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
@@ -194,10 +194,10 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tool data](../Category:Tool_data "Category:Tool data")
+- [Tool data](../Category%3ATool_data "Category%3ATool data")
 - [GMOD
-  Components](../Category:GMOD_Components "Category:GMOD Components")
-- [Apollo](../Category:Apollo "Category:Apollo")
+  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Apollo](../Category%3AApollo "Category%3AApollo")
 
 </div>
 
@@ -295,8 +295,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -330,7 +330,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/Apollo-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Apollo-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

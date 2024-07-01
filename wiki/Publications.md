@@ -390,9 +390,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Community](Category:GMOD_Community "Category:GMOD Community")
-- [Help](Category:Help "Category:Help")
-- [Publications](Category:Publications "Category:Publications")
+- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Help](Category%3AHelp "Category%3AHelp")
+- [Publications](Category%3APublications "Category%3APublications")
 
 </div>
 
@@ -488,8 +488,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -523,7 +523,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Publications" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Publications" rel="smw-browse">Browse
   properties</a></span>
 
 

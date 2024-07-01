@@ -179,29 +179,29 @@ change (likely even) until this note goes away.
 
 | Time | Topic | Presenter(s) | Presentation |
 |----|----|----|----|
-| 9:15 | Introductions | [Scott Cain](User:Scott "User:Scott") |  |
-| 9:45 | The State of GMOD | [Scott Cain](User:Scott "User:Scott") | <a href="../mediawiki/images/4/41/State_of_GMOD_2012.pdf"
+| 9:15 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
+| 9:45 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/4/41/State_of_GMOD_2012.pdf"
 class="internal" title="State of GMOD 2012.pdf">PDF</a> |
 | 10:15 | Coffee break |  |  |
 | 10:30 | <a href="http://www.reactome.org" class="external text"
-rel="nofollow">Reactome</a> | [Robin Haw](User:Robin.haw "User:Robin.haw") | <a href="../mediawiki/images/3/34/2012_Reactome_GMOD.pdf"
+rel="nofollow">Reactome</a> | [Robin Haw](User%3ARobin.haw "User%3ARobin.haw") | <a href="../mediawiki/images/3/34/2012_Reactome_GMOD.pdf"
 class="internal" title="2012 Reactome GMOD.pdf">Slides</a> |
 | 11:00 | Keynote: Navigating genomics resources at NCBI | Deanna Church |  |
 | 12:00 | Lunch |  |  |
 | 1:15 | GLEAN and [MAKER](MAKER.1 "MAKER") | Aaron Mackey | <a href="../mediawiki/images/5/5a/Aarom_mackey.pptx" class="internal"
 title="Aarom mackey.pptx">PPTX</a> |
-| 1:45 | Integration of NGS and Population Data with the Phytozome Plant Comparative Genomics Portal | [Richard Hayes](User:Richard_Hayes "User:Richard Hayes") |  |
+| 1:45 | Integration of NGS and Population Data with the Phytozome Plant Comparative Genomics Portal | [Richard Hayes](User%3ARichard_Hayes "User%3ARichard Hayes") |  |
 | 2:15 | InterMOD | Ben Hitz | <a href="../mediawiki/images/3/3b/Bhitz_InterMOD_2012.pdf"
 class="internal" title="Bhitz InterMOD 2012.pdf">PDF</a> |
 | 2:45 | Coffee break |  |  |
-| 3:30 | [JBrowse](JBrowse.1 "JBrowse") | <a href="User:RBuels" class="mw-redirect" title="User:RBuels">Robert
+| 3:30 | [JBrowse](JBrowse.1 "JBrowse") | <a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
 Buels</a> | <a href="../mediawiki/images/b/ba/RBuels_JBrowse_apr2012.pdf"
 class="internal" title="RBuels JBrowse apr2012.pdf">PDF</a> |
-|  | [WebApollo](WebApollo.1 "WebApollo") | [Ed Lee](User:Elee "User:Elee") |  |
-|  | Tengcha (A generic middle-ware for retrieving data from Chado databases) | [Justin Reese](User:Justaddcoffee "User:Justaddcoffee") | <a href="../mediawiki/images/6/61/JustinReese_April2012.pptx"
+|  | [WebApollo](WebApollo.1 "WebApollo") | [Ed Lee](User%3AElee "User%3AElee") |  |
+|  | Tengcha (A generic middle-ware for retrieving data from Chado databases) | [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee") | <a href="../mediawiki/images/6/61/JustinReese_April2012.pptx"
 class="internal" title="JustinReese April2012.pptx">PPTX</a> |
 | 5:00 | Dinner (on your own) |  |  |
-| 7:00 | [Galaxy CloudMan Workshop](#Galaxy_Workshop) | [Dave Clements](User:Clements "User:Clements") | <a href="../mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf"
+| 7:00 | [Galaxy CloudMan Workshop](#Galaxy_Workshop) | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf"
 class="internal" title="April2012GalaxyCloudManWorkshop.pdf">slides</a>, <a href="http://galaxyproject.org/wiki/Admin/Cloud/Getting%20Started"
 class="external text" rel="nofollow">Hands-on</a> |
 
@@ -226,7 +226,7 @@ class="external text" rel="nofollow">Hands-on</a> |
 <tr class="odd">
 <td>9:15</td>
 <td><a href="Galaxy.1" title="Galaxy">Galaxy</a> Update</td>
-<td><a href="User:Clements" title="User:Clements">Dave Clements</a></td>
+<td><a href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 <td><a href="../mediawiki/images/5/50/April2012GalaxyUpdate.pdf"
 class="internal" title="April2012GalaxyUpdate.pdf">slides</a>, <a
 href="http://usegalaxy.org/" class="external text" rel="nofollow">Web
@@ -236,8 +236,8 @@ site</a></td>
 <td>9:45</td>
 <td><a href="Tripal.1" title="Tripal">Tripal</a></td>
 <td><a
-href="http://gmod.org/mediawiki/index.php?title=User:Laceyanne_sanderson&amp;action=edit&amp;redlink=1"
-class="new" title="User:Laceyanne sanderson (page does not exist)">Lacey
+href="http://gmod.org/mediawiki/index.php?title=User%3ALaceyanne_sanderson&amp;action=edit&amp;redlink=1"
+class="new" title="User%3ALaceyanne sanderson (page does not exist)">Lacey
 Sanderson</a></td>
 <td><a
 href="../mediawiki/images/0/09/LaceySanderson_Tripal_GMOD2012.ppt"
@@ -284,7 +284,7 @@ class="internal" title="QunfengDong April2012.pdf">PDF</a></td>
 <tr class="even">
 <td>1:00</td>
 <td>GMOD's Future: Meetings and Focus, a discussion</td>
-<td><a href="User:Scott" title="User:Scott">Scott Cain</a></td>
+<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -336,7 +336,7 @@ title="April2012 FlexibleDatabaseIntegrator.pdf">PDF</a></td>
 <tr class="even">
 <td><a href="http://opossumbase.org/" class="external text"
 rel="nofollow">OpossumBase</a></td>
-<td><a href="User:Childers" title="User:Childers">Chris
+<td><a href="User%3AChilders" title="User%3AChilders">Chris
 Childers</a></td>
 <td></td>
 </tr>
@@ -347,7 +347,7 @@ Childers</a></td>
 </tr>
 <tr class="even">
 <td>Community Building, Outreach and Support</td>
-<td><a href="User:Clements" title="User:Clements">Dave
+<td><a href="User%3AClements" title="User%3AClements">Dave
 Clements</a><br />
 (+ Robin Haw)</td>
 <td><a href="../mediawiki/images/7/79/April2012_CommunityBuilding.pdf"
@@ -359,19 +359,19 @@ class="internal" title="April2012 CommunityBuilding.pdf">PDF</a></td>
 ## <span id="Suggested_Agenda_Items" class="mw-headline">Suggested Agenda Items</span>
 
 - GMOD/<a href="Chado" class="mw-redirect" title="Chado">Chado</a>/[GBrowse](GBrowse.1 "GBrowse")
-  update --[Scott Cain](User:Scott "User:Scott")
+  update --[Scott Cain](User%3AScott "User%3AScott")
 - GLEAN and [MAKER](MAKER.1 "MAKER") --Aaron Mackey
 - [Galaxy](Galaxy.1 "Galaxy") Update -- [Dave
-  Clements](User:Clements "User:Clements")
+  Clements](User%3AClements "User%3AClements")
 - Future [GMOD Meetings](Meetings "Meetings")? -- suggested by [Dave
-  Clements](User:Clements "User:Clements")
+  Clements](User%3AClements "User%3AClements")
   1.  Stay the course or shift in emphasis?
   2.  Consistently co-locate with [another
-      meeting](Category:Conferences "Category:Conferences"):
+      meeting](Category%3AConferences "Category%3AConferences"):
       Biocuration, [PAG](PAG_2012 "PAG 2012"),
       [ISMB](ISMB_2010 "ISMB 2010"), Genome Informatics, ...?
 - GMOD in the Cloud -- suggested by [Dave
-  Clements](User:Clements "User:Clements")
+  Clements](User%3AClements "User%3AClements")
 - <a href="http://www.abrowse.org/" class="external text"
   rel="nofollow">ABrowse</a> a new genome browser -- Kong Lei
 - <a href="http://reactome.org/" class="external text"
@@ -379,7 +379,7 @@ class="internal" title="April2012 CommunityBuilding.pdf">PDF</a></td>
 - InterMOD update -- Ben Hitz
 - Integration of NGS and Population Data with the Phytozome Plant
   Comparative Genomics Portal -- [Richard
-  Hayes](User:Richard_Hayes "User:Richard Hayes")
+  Hayes](User%3ARichard_Hayes "User%3ARichard Hayes")
 - BioStudio genome editor -- Sarah Richardson
 - <a href="http://epigenomegateway.wustl.edu/" class="external text"
   rel="nofollow">Epigenome Browser</a> -- Xin Zhou
@@ -452,7 +452,7 @@ Please [register](#Registration) for the workshop when you register for
 the meeting. The workshop is free, but space is limited and
 [registration](#Registration) is required.
 
-Please contact [Dave Clements](User:Clements "User:Clements") if you
+Please contact [Dave Clements](User%3AClements "User%3AClements") if you
 have any questions.
 
 ## <span id="Registration" class="mw-headline">Registration</span>
@@ -514,8 +514,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Meetings](Category:Meetings "Category:Meetings")
-- [Galaxy](Category:Galaxy "Category:Galaxy")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
 </div>
 
@@ -611,8 +611,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -646,7 +646,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/April_2012_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/April_2012_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

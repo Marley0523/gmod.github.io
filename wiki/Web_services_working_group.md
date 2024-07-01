@@ -74,7 +74,7 @@ the various MODs.
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](User:Jogoodma "User:Jogoodma") -
+- [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -
@@ -144,11 +144,11 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Web services](Category:Web_services "Category:Web services")
+- [Web services](Category%3AWeb_services "Category%3AWeb services")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:REST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category:REST (page does not exist)">REST</a>
-- [Semantic web](Category:Semantic_web "Category:Semantic web")
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
+  class="new" title="Category%3AREST (page does not exist)">REST</a>
+- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
 
 </div>
 
@@ -244,8 +244,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -279,7 +279,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Web_services_working_group"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Web_services_working_group"
   rel="smw-browse">Browse properties</a></span>
 
 

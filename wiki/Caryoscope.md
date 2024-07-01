@@ -152,10 +152,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Expression](Category:Expression "Category:Expression")
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [Java](Category:Java "Category:Java")
-- [Microarrays](Category:Microarrays "Category:Microarrays")
+- [Expression](Category%3AExpression "Category%3AExpression")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Java](Category%3AJava "Category%3AJava")
+- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
 
 </div>
 
@@ -251,8 +251,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -286,7 +286,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Caryoscope" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Caryoscope" rel="smw-browse">Browse
   properties</a></span>
 
 

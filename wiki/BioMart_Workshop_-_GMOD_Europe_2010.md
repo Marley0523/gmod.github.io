@@ -136,14 +136,14 @@ programming techniques and familiarity with databases
 
 ## <span id="Instructors" class="mw-headline">Instructors</span>
 
-- [Syed Haider](User:SyedHaider "User:SyedHaider")
+- [Syed Haider](User%3ASyedHaider "User%3ASyedHaider")
   (<a href="http://oicr.on.ca" class="external text"
   rel="nofollow">OICR</a> and University of Cambridge)
 - <a href="http://www.ebi.ac.uk/~damian" class="external text"
   rel="nofollow">Damian Smedley</a>
   (<a href="http://www.ebi.ac.uk/" class="external text"
   rel="nofollow">EBI</a>)
-- [Junjun Zhang](User:Junjun "User:Junjun")
+- [Junjun Zhang](User%3AJunjun "User%3AJunjun")
   (<a href="http://oicr.on.ca" class="external text"
   rel="nofollow">OICR</a>)
 - Arek Kasprzyk (<a href="http://oicr.on.ca" class="external text"
@@ -222,9 +222,9 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [Meetings](Category:Meetings "Category:Meetings")
-- [BioMart](Category:BioMart "Category:BioMart")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [BioMart](Category%3ABioMart "Category%3ABioMart")
 
 </div>
 
@@ -320,8 +320,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -355,7 +355,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/BioMart_Workshop_-2D_GMOD_Europe_2010"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioMart_Workshop_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

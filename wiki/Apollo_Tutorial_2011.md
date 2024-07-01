@@ -54,7 +54,7 @@ width="250" height="91" alt="Apollo" /></a>
 </div>
 
 This [Apollo](Apollo.1 "Apollo") tutorial was presented by [Ed
-Lee](User:Elee "User:Elee") at the [2011 GMOD Spring
+Lee](User%3AElee "User%3AElee") at the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training"), Spring
 2011. The most recent Apollo tutorial can be found at the
 <a href="Apollo_Tutorial" class="mw-redirect"
@@ -1312,10 +1312,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
-- [Apollo](Category:Apollo "Category:Apollo")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Apollo](Category%3AApollo "Category%3AApollo")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 
 </div>
 
@@ -1327,12 +1327,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Apollo Tutorial
-2011](Special:Browse/Apollo-20Tutorial-202011 "Special:Browse/Apollo-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2011](Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2011 "Special:ExportRDF/Apollo Tutorial 2011")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/Apollo "Special:SearchByProperty/Has-20topic/Apollo")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
 
 </div>
 
@@ -1428,8 +1428,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1463,7 +1463,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

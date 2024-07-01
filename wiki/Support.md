@@ -77,12 +77,12 @@ website](Special:Search "Special:Search") or exploring it through
 particularly useful places to start for support questions:
 
 - [Overview](Overview "Overview") - an introduction to GMOD.
-- [FAQs](Category:FAQ "Category:FAQ") - List of Frequently Asked
+- [FAQs](Category%3AFAQ "Category%3AFAQ") - List of Frequently Asked
   Questions pages.
 - [GMOD Components](GMOD_Components "GMOD Components") - Links to pages
   about each of the GMOD components.
 - [Glossary](Glossary "Glossary") - List of commonly used terms in GMOD.
-- [HOWTOs](Category:HOWTO "Category:HOWTO") - List of HOWTO pages
+- [HOWTOs](Category%3AHOWTO "Category%3AHOWTO") - List of HOWTO pages
 
 ## <span id="GMOD_Mailing_Lists" class="mw-headline">[GMOD Mailing Lists](GMOD_Mailing_Lists "GMOD Mailing Lists")</span>
 
@@ -158,7 +158,7 @@ Retrieved from
 
 [Category](Special:Categories "Special:Categories"):
 
-- [Help](Category:Help "Category:Help")
+- [Help](Category%3AHelp "Category%3AHelp")
 
 </div>
 
@@ -254,8 +254,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -289,7 +289,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Support" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Support" rel="smw-browse">Browse properties</a></span>
 
 
 </div>

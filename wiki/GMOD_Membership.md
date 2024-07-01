@@ -142,7 +142,7 @@ to the tool.
 ### <span id="Evaluation" class="mw-headline">Evaluation</span>
 
 Nominated software is first evaluated by GMOD staff (currently the [GMOD
-Project Coordinator](User:Scott "User:Scott") and the [GMOD Help
+Project Coordinator](User%3AScott "User%3AScott") and the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk")) to see if it meets basic
 [requirements](#Requirements) such as *open source licensing* and *GMOD
 interoperability*. We'll also confirm a *good faith commitment of
@@ -171,8 +171,8 @@ butterfly wings), is probably not a good match for GMOD. Tools must be
 useful across a wide range of biology, and meet a widespread need. Tools
 that support <a href="Next_generation_sequencing" class="mw-redirect"
 title="Next generation sequencing">next generation sequencing</a>, [gene
-expression](Category:Expression "Category:Expression"),
-[phenotypes](Category:Phenotypes "Category:Phenotypes"), or [comparative
+expression](Category%3AExpression "Category%3AExpression"),
+[phenotypes](Category%3APhenotypes "Category%3APhenotypes"), or [comparative
 genomics](Comparative_Genomics "Comparative Genomics") are good examples
 of broadly applicable tools.
 
@@ -259,7 +259,7 @@ Being officially part of GMOD has several advantages:
 
 However, a component does not need to be officially part of GMOD to have
 a presence in GMOD. Any software that is useful to the GMOD community is
-of interest. See [External](Category:External "Category:External") for a
+of interest. See [External](Category%3AExternal "Category%3AExternal") for a
 list of such software that currently has a page on the GMOD web site.
 GMOD is particularly interested in tools (such as
 [Artemis](Artemis "Artemis")) that interoperate with GMOD components.
@@ -381,8 +381,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -416,7 +416,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Membership" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Membership" rel="smw-browse">Browse
   properties</a></span>
 
 

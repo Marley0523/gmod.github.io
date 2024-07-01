@@ -153,22 +153,22 @@ Sincerely,
 The [GMOD EvoHack](GMOD_Evo_Hackathon "GMOD Evo Hackathon") Organizing
 Committee (and project affiliations as relevant):
 
-- [Nicole Washington](User:NLWashington "User:NLWashington"), Chair
+- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), Chair
   (Lawrence Berkeley National Laboratory;
   <a href="http://www.modencode.org" class="external text"
   rel="nofollow">modENCODE</a>, [Phenote](Phenote "Phenote"))
-- [Robert Buels](User:RobertBuels "User:RobertBuels")
+- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels")
   (<a href="http://solgenomics.net/" class="external text"
   rel="nofollow">Solanaceae Genomics Network (SGN)</a>, Chado NatDiv)
-- [Scott Cain](User:Scott "User:Scott") (Ontario Institute for Cancer
+- [Scott Cain](User%3AScott "User%3AScott") (Ontario Institute for Cancer
   Research, GMOD)
-- [Dave Clements](User:Clements "User:Clements")
+- [Dave Clements](User%3AClements "User%3AClements")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>, GMOD)
-- [Hilmar Lapp](User:Hlapp "User:Hlapp")
+- [Hilmar Lapp](User%3AHlapp "User%3AHlapp")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>, Phenoscape, Chado NatDiv)
-- [Sheldon McKay](User:Mckays "User:Mckays") (University of Arizona;
+- [Sheldon McKay](User%3AMckays "User%3AMckays") (University of Arizona;
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">iPlant</a>, [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"))
 
@@ -354,8 +354,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -389,7 +389,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Evo_Hackathon_Open_Call"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Evo_Hackathon_Open_Call"
   rel="smw-browse">Browse properties</a></span>
 
 

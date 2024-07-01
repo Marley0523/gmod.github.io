@@ -85,7 +85,7 @@ Remember: *If no one beta tests, everyone beta tests.*
 
 Thanks,
 
-[Ben Faga](../User:Faga "User:Faga"),  
+[Ben Faga](../User%3AFaga "User%3AFaga"),  
 <a href="mailto:faga.cshl@gmail.com" class="external text"
 rel="nofollow">faga.cshl@gmail.com</a>
 
@@ -112,7 +112,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -210,8 +210,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -245,7 +245,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FBeta_Test_CMap:_Win_a_T-2DShirt!"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBeta_Test_CMap:_Win_a_T-2DShirt!"
   rel="smw-browse">Browse properties</a></span>
 
 

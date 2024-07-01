@@ -53,8 +53,8 @@ height="52" alt="Subversion" />](../CVS_to_Subversion_Conversion "Subversion") |
 GMOD's CVS source code repository will be [converted to Subversion
 (SVN)](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 on September 15, 2009. [Rob
-Buels](../User:RobertBuels "User:RobertBuels") of Cornell /
-[SGN](../Category:SGN "Category:SGN") has generously offered to to do
+Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
+[SGN](../Category%3ASGN "Category%3ASGN") has generously offered to to do
 this. Notes on the conversion are described on the [CVS to Subversion
 Conversion](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 page. The discussion leading up to this decision on the
@@ -106,8 +106,8 @@ reminder and additional info a few days before the conversion.
 
 Thanks,
 
-[Dave Clements](../User:Clements "User:Clements") and [Rob
-Buels](../User:RobertBuels "User:RobertBuels")
+[Dave Clements](../User%3AClements "User%3AClements") and [Rob
+Buels](../User%3ARobertBuels "User%3ARobertBuels")
 
   
 
@@ -132,7 +132,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -230,8 +230,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -265,7 +265,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FCVS_to_SVN_Conversion%3A_Sept_15"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FCVS_to_SVN_Conversion%3A_Sept_15"
   rel="smw-browse">Browse properties</a></span>
 
 

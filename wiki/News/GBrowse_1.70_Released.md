@@ -52,7 +52,7 @@ title="GBrowse syn Tutorial">tutorial</a>.
 There will likely be one more release in the GBrowse 1 development path,
 which will introduce improved support for circular genomes. After that,
 development on this path will end and further development will focus on
-[GBrowse 2](../Category:GBrowse_2 "Category:GBrowse 2").
+[GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2").
 
 GBrowse can be installed with the [GBrowse
 netinstaller](../GBrowse_Install_HOWTO "GBrowse Install HOWTO").
@@ -62,8 +62,8 @@ href="http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/GBro
 class="external text" rel="nofollow">downloaded directly from
 SourceForge</a>.
 
-A big thanks to [Lincoln Stein](../User:Lstein "User:Lstein"), the lead
-developer of GBrowse, [Sheldon McKay](../User:Mckays "User:Mckays"), the
+A big thanks to [Lincoln Stein](../User%3ALstein "User%3ALstein"), the lead
+developer of GBrowse, [Sheldon McKay](../User%3AMckays "User%3AMckays"), the
 developer of GBrowse_syn, and all of the GBrowse users who debug and
 provide help on the [GBrowse mailing
 list](../GMOD_Mailing_Lists "GMOD Mailing Lists").
@@ -93,7 +93,7 @@ Changes from 1.69 to 1.70:
 - Made the <a href="../DAS" class="mw-redirect" title="DAS">DAS</a>
   script compatible with DAS Registry
 
-[Scott](../User:Scott "User:Scott")
+[Scott](../User%3AScott "User%3AScott")
 
   
 
@@ -118,7 +118,7 @@ Retrieved from
 
 [Category](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -216,8 +216,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -251,7 +251,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FGBrowse_1.70_Released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse_1.70_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

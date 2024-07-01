@@ -232,8 +232,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Chado](Category:Chado "Category:Chado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Chado](Category%3AChado "Category%3AChado")
 
 </div>
 
@@ -329,8 +329,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -364,7 +364,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Store_an_unigene_in_Chado_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Store_an_unigene_in_Chado_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

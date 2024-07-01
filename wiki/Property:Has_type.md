@@ -76,12 +76,12 @@ this property.
 <td class="smwpropname"><a href="Property:Available_on_platform"
 title="Property:Available on platform">Available on platform</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Available-20on-20platform"
-title="Special:Browse/Property:Available-20on-20platform">+</a></span></td>
+href="Special%3ABrowse/Property:Available-20on-20platform"
+title="Special%3ABrowse/Property:Available-20on-20platform">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="h">H</h3></td>
@@ -90,147 +90,147 @@ title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_URL"
 title="Property:Has URL">Has URL</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20URL"
-title="Special:Browse/Property:Has-20URL">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20URL"
+title="Special%3ABrowse/Property:Has-20URL">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/URL"
 title="Special:Types/URL">URL</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/URL"
-title="Special:SearchByProperty/Has-20type/URL">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/URL"
+title="Special%3ASearchByProperty/Has-20type/URL">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_description"
 title="Property:Has description">Has description</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Has-20description"
-title="Special:Browse/Property:Has-20description">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Has-20description"
+title="Special%3ABrowse/Property:Has-20description">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_development_status"
 title="Property:Has development status">Has development status</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Has-20development-20status"
-title="Special:Browse/Property:Has-20development-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20development-20status"
+title="Special%3ABrowse/Property:Has-20development-20status">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_download_URL"
 title="Property:Has download URL">Has download URL</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Has-20download-20URL"
-title="Special:Browse/Property:Has-20download-20URL">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Has-20download-20URL"
+title="Special%3ABrowse/Property:Has-20download-20URL">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/URL"
 title="Special:Types/URL">URL</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/URL"
-title="Special:SearchByProperty/Has-20type/URL">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/URL"
+title="Special%3ASearchByProperty/Has-20type/URL">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_input_format"
 title="Property:Has input format">Has input format</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Has-20input-20format"
-title="Special:Browse/Property:Has-20input-20format">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Has-20input-20format"
+title="Special%3ABrowse/Property:Has-20input-20format">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_licence"
 title="Property:Has licence">Has licence</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20licence"
-title="Special:Browse/Property:Has-20licence">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20licence"
+title="Special%3ABrowse/Property:Has-20licence">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_logo"
 title="Property:Has logo">Has logo</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20logo"
-title="Special:Browse/Property:Has-20logo">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20logo"
+title="Special%3ABrowse/Property:Has-20logo">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_output_format"
 title="Property:Has output format">Has output format</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Has-20output-20format"
-title="Special:Browse/Property:Has-20output-20format">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20output-20format"
+title="Special%3ABrowse/Property:Has-20output-20format">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20software-20maturity-20status"
-title="Special:Browse/Property:Has-20software-20maturity-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20software-20maturity-20status"
+title="Special%3ABrowse/Property:Has-20software-20maturity-20status">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_software_prerequisite"
 title="Property:Has software prerequisite">Has software
 prerequisite</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20software-20prerequisite"
-title="Special:Browse/Property:Has-20software-20prerequisite">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20software-20prerequisite"
+title="Special%3ABrowse/Property:Has-20software-20prerequisite">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_support_status"
 title="Property:Has support status">Has support status</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Has-20support-20status"
-title="Special:Browse/Property:Has-20support-20status">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20support-20status"
+title="Special%3ABrowse/Property:Has-20support-20status">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_title"
 title="Property:Has title">Has title</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20title"
-title="Special:Browse/Property:Has-20title">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20title"
+title="Special%3ABrowse/Property:Has-20title">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Has_topic"
 title="Property:Has topic">Has topic</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20topic"
-title="Special:Browse/Property:Has-20topic">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20topic"
+title="Special%3ABrowse/Property:Has-20topic">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Page"
 title="Special:Types/Page">Page</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Page"
-title="Special:SearchByProperty/Has-20type/Page">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Page"
+title="Special%3ASearchByProperty/Has-20type/Page">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Has_website"
 title="Property:Has website">Has website</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Has-20website"
-title="Special:Browse/Property:Has-20website">+</a></span></td>
+href="Special%3ABrowse/Property:Has-20website"
+title="Special%3ABrowse/Property:Has-20website">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/URL"
 title="Special:Types/URL">URL</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/URL"
-title="Special:SearchByProperty/Has-20type/URL">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/URL"
+title="Special%3ASearchByProperty/Has-20type/URL">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -239,32 +239,32 @@ title="Special:SearchByProperty/Has-20type/URL">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Interaction_type"
 title="Property:Interaction type">Interaction type</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Interaction-20type"
-title="Special:Browse/Property:Interaction-20type">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Interaction-20type"
+title="Special%3ABrowse/Property:Interaction-20type">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Interacts_with"
 title="Property:Interacts with">Interacts with</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Interacts-20with"
-title="Special:Browse/Property:Interacts-20with">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Interacts-20with"
+title="Special%3ABrowse/Property:Interacts-20with">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Page"
 title="Special:Types/Page">Page</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Page"
-title="Special:SearchByProperty/Has-20type/Page">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Page"
+title="Special%3ASearchByProperty/Has-20type/Page">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Is_open_source"
 title="Property:Is open source">Is open source</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Is-20open-20source"
-title="Special:Browse/Property:Is-20open-20source">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Is-20open-20source"
+title="Special%3ABrowse/Property:Is-20open-20source">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="l">L</h3></td>
@@ -273,32 +273,32 @@ title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Link_type"
 title="Property:Link type">Link type</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Link-20type"
-title="Special:Browse/Property:Link-20type">+</a></span></td>
+href="Special%3ABrowse/Property:Link-20type"
+title="Special%3ABrowse/Property:Link-20type">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Property:Linktitle"
 title="Property:Linktitle">Linktitle</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Linktitle"
-title="Special:Browse/Property:Linktitle">+</a></span></td>
+href="Special%3ABrowse/Property:Linktitle"
+title="Special%3ABrowse/Property:Linktitle">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Linktype"
 title="Property:Linktype">Linktype</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Linktype"
-title="Special:Browse/Property:Linktype">+</a></span></td>
+href="Special%3ABrowse/Property:Linktype"
+title="Special%3ABrowse/Property:Linktype">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="r">R</h3></td>
@@ -307,12 +307,12 @@ title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Release_date"
 title="Property:Release date">Release date</a> <span
-class="smwbrowse"><a href="Special:Browse/Property:Release-20date"
-title="Special:Browse/Property:Release-20date">+</a></span></td>
+class="smwbrowse"><a href="Special%3ABrowse/Property:Release-20date"
+title="Special%3ABrowse/Property:Release-20date">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Date"
 title="Special:Types/Date">Date</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Date"
-title="Special:SearchByProperty/Has-20type/Date">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Date"
+title="Special%3ASearchByProperty/Has-20type/Date">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="s">S</h3></td>
@@ -321,12 +321,12 @@ title="Special:SearchByProperty/Has-20type/Date">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="Property:Subject"
 title="Property:Subject">Subject</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Subject"
-title="Special:Browse/Property:Subject">+</a></span></td>
+href="Special%3ABrowse/Property:Subject"
+title="Special%3ABrowse/Property:Subject">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Page"
 title="Special:Types/Page">Page</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Page"
-title="Special:SearchByProperty/Has-20type/Page">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Page"
+title="Special%3ASearchByProperty/Has-20type/Page">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -337,12 +337,12 @@ title="Special:SearchByProperty/Has-20type/Page">+</a></span></td>
 href="Property:Tool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality
 or classification</a> <span class="smwbrowse"><a
-href="Special:Browse/Property:Tool-20functionality-20or-20classification"
-title="Special:Browse/Property:Tool-20functionality-20or-20classification">+</a></span></td>
+href="Special%3ABrowse/Property:Tool-20functionality-20or-20classification"
+title="Special%3ABrowse/Property:Tool-20functionality-20or-20classification">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -352,12 +352,12 @@ title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
 <td class="smwpropname"><a href="Property:Written_in_language"
 title="Property:Written in language">Written in language</a> <span
 class="smwbrowse"><a
-href="Special:Browse/Property:Written-20in-20language"
-title="Special:Browse/Property:Written-20in-20language">+</a></span></td>
+href="Special%3ABrowse/Property:Written-20in-20language"
+title="Special%3ABrowse/Property:Written-20in-20language">+</a></span></td>
 <td class="smwprops"><a href="Special:Types/Text"
 title="Special:Types/Text">Text</a>  <span class="smwsearch"><a
-href="Special:SearchByProperty/Has-20type/Text"
-title="Special:SearchByProperty/Has-20type/Text">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20type/Text"
+title="Special%3ASearchByProperty/Has-20type/Text">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -467,8 +467,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -502,7 +502,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Property:Has_type" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_type" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -56,7 +56,7 @@ width="250" height="80" alt="GBrowse syn" /></a>
 
 This [GBrowse syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented
 by [Sheldon McKay, iPlant Collaborative, University of
-Arizona](User:Mckays "User:Mckays") at the
+Arizona](User%3AMckays "User%3AMckays") at the
 <a href="http://www.k-state.edu/agc/symp2011/" class="external text"
 rel="nofollow">Arthropod Genomics Symposium 2011</a>, June 2011. The
 most recent GBrowse syn tutorial can be found at the
@@ -893,14 +893,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Pages with broken file links (page does not exist)">Pages
+  title="Category%3APages with broken file links (page does not exist)">Pages
   with broken file links</a>
-- [GMOD Components](Category:GMOD_Components "Category:GMOD Components")
-- [GBrowse syn](Category:GBrowse_syn "Category:GBrowse syn")
+- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
 </div>
 
@@ -912,12 +912,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn Tutorial
-new](Special:Browse/GBrowse-20syn-20Tutorial-20new "Special:Browse/GBrowse-20syn-20Tutorial-20new")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+new](Special%3ABrowse/GBrowse-20syn-20Tutorial-20new "Special%3ABrowse/GBrowse-20syn-20Tutorial-20new")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:ExportRDF/GBrowse syn Tutorial new")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/GBrowse-20syn "Special:SearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 </div>
 
@@ -1013,8 +1013,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1048,7 +1048,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_syn_Tutorial_new"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_new"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -144,8 +144,8 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - [MOD User
-  Interfaces](Category:MOD_User_Interfaces "Category:MOD User Interfaces")
-- [Meetings](Category:Meetings "Category:Meetings")
+  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -241,8 +241,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -276,7 +276,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/MOD_User_Interface_Caucus"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_User_Interface_Caucus"
   rel="smw-browse">Browse properties</a></span>
 
 

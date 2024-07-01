@@ -51,7 +51,7 @@ which has the standards like 'book', 'journal', and the odd ones like
 'death certificate' and 'postage stamp'.
 
 The other cvterms seem to be common chado ones for pubrelation,
-pubproperty [Dongilbert](User:Dongilbert "User:Dongilbert")
+pubproperty [Dongilbert](User%3ADongilbert "User%3ADongilbert")
 
 </div>
 
@@ -154,8 +154,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

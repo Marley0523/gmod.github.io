@@ -138,10 +138,10 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [Chado Modules](Category:Chado_Modules "Category:Chado Modules")
+- [Chado](Category%3AChado "Category%3AChado")
+- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
 - [Comparative
-  Genomics](Category:Comparative_Genomics "Category:Comparative Genomics")
+  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 
 </div>
 
@@ -237,8 +237,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -272,7 +272,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Chado_Group_Module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Group_Module" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -184,21 +184,21 @@ that can help you.
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=GMOD-three-cogs-200.png"
 class="new" title="File:GMOD-three-cogs-200.png">GMOD Logo</a> [GMOD
 Project
-Logos](Category:GMOD_Project_Logos "Category:GMOD Project Logos") -
+Logos](Category%3AGMOD_Project_Logos "Category%3AGMOD Project Logos") -
 Logos related to the project as a whole.
 
 [<img src="../mediawiki/images/thumb/3/33/CMapLogo.png/50px-CMapLogo.png"
 srcset="../mediawiki/images/thumb/3/33/CMapLogo.png/75px-CMapLogo.png 1.5x, ../mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png 2x"
-width="50" height="58" alt="Component Logos" />](Category:Logos_and_Icons "Component Logos")
-[Logos and Icons](Category:Logos_and_Icons "Category:Logos and Icons") -
+width="50" height="58" alt="Component Logos" />](Category%3ALogos_and_Icons "Component Logos")
+[Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons") -
 Logos and icons, including [GMOD
 component](GMOD_Components "GMOD Components") logos.
 
 [<img
 src="../mediawiki/images/thumb/9/9b/InsectaCentralLogo.png/70px-InsectaCentralLogo.png"
 srcset="../mediawiki/images/9/9b/InsectaCentralLogo.png 1.5x, ../mediawiki/images/9/9b/InsectaCentralLogo.png 2x"
-width="70" height="56" alt="Member Logos" />](Category:Member_Logos "Member Logos")
-[Member Logos](Category:Member_Logos "Category:Member Logos") - logos of
+width="70" height="56" alt="Member Logos" />](Category%3AMember_Logos "Member Logos")
+[Member Logos](Category%3AMember_Logos "Category%3AMember Logos") - logos of
 organizations that contribute to or use GMOD.
 
 ### <span id="Slides" class="mw-headline">Slides</span>
@@ -210,8 +210,8 @@ organizations that contribute to or use GMOD.
   - A slide explaining the project
   - Slides showing logos of ~50 GMOD community members
   - Animated slide describing many of the GMOD components
-- [Presentations](Category:Presentations "Category:Presentations") and
-  [Posters](Category:Posters "Category:Posters") - GMOD.org has an
+- [Presentations](Category%3APresentations "Category%3APresentations") and
+  [Posters](Category%3APosters "Category%3APosters") - GMOD.org has an
   extensive collection of GMOD related presentations and posters. As
   well as being informative, these can also be mined for graphics. If
   you do see anything that looks useful to you, please contact the
@@ -240,7 +240,7 @@ we can help you spread the word about it in a number of ways:
 
 If you are organizing or presenting at an event with significant GMOD
 content, then we can help create both a [web
-page](Category:Conferences "Category:Conferences"), and a flier for the
+page](Category%3AConferences "Category%3AConferences"), and a flier for the
 event, highlighting that content. We have created fliers in the past for
 [ISMB 2010](ISMB_2010 "ISMB 2010"), [PAG 2010](PAG_2010 "PAG 2010"),
 [ISMB 2008](ISMB_2008 "ISMB 2008"), and
@@ -319,15 +319,15 @@ Retrieved from
 [Categories](Special:Categories "Special:Categories"):
 
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:Pages with broken file links (page does not exist)">Pages
+  title="Category%3APages with broken file links (page does not exist)">Pages
   with broken file links</a>
-- [Conferences](Category:Conferences "Category:Conferences")
+- [Conferences](Category%3AConferences "Category%3AConferences")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
-- [Events](Category:Events "Category:Events")
-- [GMOD Project](Category:GMOD_Project "Category:GMOD Project")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+- [Events](Category%3AEvents "Category%3AEvents")
+- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 
 </div>
 
@@ -421,8 +421,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -456,7 +456,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GMOD_Promotion" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Promotion" rel="smw-browse">Browse
   properties</a></span>
 
 

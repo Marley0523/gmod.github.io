@@ -269,21 +269,21 @@ project staff:
 
 | Instructor | GMOD Affiliation | Affiliation |
 |----|----|----|
-| [Scott Cain](User:Scott "User:Scott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
+| [Scott Cain](User%3AScott "User%3AScott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse") | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a> |
-| [Dave Clements](User:Clements "User:Clements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> |
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.wsu.edu" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | [Tripal](Tripal.1 "Tripal") | <a href="http://www.wsu.edu" class="external text"
 rel="nofollow">Washington State University</a> |
 | Alex Kalderimis | [InterMine](InterMine "InterMine") | <a href="http://flymine.org" class="external text"
 rel="nofollow">FlyMine</a> |
-| [Barry Moore](User:Bmoore "User:Bmoore") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
+| [Barry Moore](User%3ABmoore "User%3ABmoore") | [MAKER](MAKER.1 "MAKER") | <a href="http://www.utah.edu" class="external text"
 rel="nofollow">University of Utah</a> |
-| [Ed Lee](User:Elee "User:Elee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
+| [Ed Lee](User%3AElee "User%3AElee") | [Apollo](Apollo.1 "Apollo") | <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects (BBOP)</a> |
-| [Sheldon McKay](User:Mckays "User:Mckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://iplantcollaborarive" class="external text"
+| [Sheldon McKay](User%3AMckays "User%3AMckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), [GBrowse](GBrowse.1 "GBrowse") | <a href="http://iplantcollaborarive" class="external text"
 rel="nofollow">iPlant Collaborative</a> |
-| [Mitch Skinner](User:MitchSkinner "User:MitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
+| [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") | <a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a> |
 
 # <span id="Prerequisites" class="mw-headline">Prerequisites</span>
@@ -340,7 +340,7 @@ course:
 src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windows" /></a> | <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
 src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a> | A free VMware player is available for [Microsoft Windows](Category:Windows "Category:Windows") and [Linux](Category:Linux "Category:Linux") [operating systems](Glossary#Operating_System "Glossary") from <a href="http://vmware.com/products/player/" class="external text"
+alt="Linux" /></a> | A free VMware player is available for [Microsoft Windows](Category%3AWindows "Category%3AWindows") and [Linux](Category%3ALinux "Category%3ALinux") [operating systems](Glossary#Operating_System "Glossary") from <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it. There are multiple versions. Be sure to download a version that can run on your laptop. |
 
   
@@ -351,7 +351,7 @@ rel="nofollow">VMware</a>. You will need to register to download it. There are m
 |----|----|
 | <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
 src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
-alt="Apple" /></a> | Participants can also bring *newer Macs with Intel processors*. The Intel processor is a requirement for all the packages discussed below. There is no free VMware player that runs *directly* under [Mac OS X](Category:Mac_OS_X "Category:Mac OS X"). However, there are several other options, **all of which require an Intel Mac**: |
+alt="Apple" /></a> | Participants can also bring *newer Macs with Intel processors*. The Intel processor is a requirement for all the packages discussed below. There is no free VMware player that runs *directly* under [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several other options, **all of which require an Intel Mac**: |
 
 VMware Fusion
 
@@ -614,12 +614,12 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Events](Category:Events "Category:Events")
+- [Events](Category%3AEvents "Category%3AEvents")
 - [Education and
-  Outreach](Category:Education_and_Outreach "Category:Education and Outreach")
+  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 - [2011 Spring
-  Training](Category:2011_Spring_Training "Category:2011 Spring Training")
-- [GMOD Schools](Category:GMOD_Schools "Category:GMOD Schools")
+  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
+- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -715,8 +715,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -750,7 +750,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/2011_GMOD_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2011_GMOD_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

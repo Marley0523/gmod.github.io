@@ -51,7 +51,7 @@ submitting many letters of support from users. We would be very grateful
 if you could take a couple of minutes to write such a letter; it should
 include information about how you use or plan to use GMOD software.
 There are [some template
-paragraphs](../User:Scott#Support_letter_templates "User:Scott")
+paragraphs](../User%3AScott#Support_letter_templates "User%3AScott")
 provided for inspiration.
 
 The letters should be on institutional letterhead, signed, and then
@@ -68,7 +68,7 @@ letter or if you need any help.
 This grant would help to secure the future of important parts of the
 GMOD project, so we would be very grateful for your help!
 
-*Via [Scott Cain](../User:Scott "User:Scott")*
+*Via [Scott Cain](../User%3AScott "User%3AScott")*
 
   
 
@@ -93,8 +93,8 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [News Items](../Category:News_Items "Category:News Items")
-- [GMOD Community](../Category:GMOD_Community "Category:GMOD Community")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [GMOD Community](../Category%3AGMOD_Community "Category%3AGMOD Community")
 
 </div>
 
@@ -192,8 +192,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -227,7 +227,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FSupport_Your_Friendly_Local_GMOD"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FSupport_Your_Friendly_Local_GMOD"
   rel="smw-browse">Browse properties</a></span>
 
 

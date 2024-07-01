@@ -67,7 +67,7 @@ Done
 &#10;</tbody>
 </table>
 
-[Rob Buels](User:RobertBuels "User:RobertBuels") ran the conversion on
+[Rob Buels](User%3ARobertBuels "User%3ARobertBuels") ran the conversion on
 September 15, 2009. The conversion finished around 12:45pm, Eastern US.
 See <a href="Subversion" class="mw-redirect"
 title="Subversion">Subversion</a> for how to access the new repository.
@@ -92,8 +92,8 @@ Help Desk</a>.
 ## <span id="Announcement" class="mw-headline">Announcement</span>
 
 GMOD's CVS source code repository will be converted to Subversion (SVN)
-on September 15, 2009. [Rob Buels](User:RobertBuels "User:RobertBuels")
-of Cornell / [SGN](Category:SGN "Category:SGN") has generously offered
+on September 15, 2009. [Rob Buels](User%3ARobertBuels "User%3ARobertBuels")
+of Cornell / [SGN](Category%3ASGN "Category%3ASGN") has generously offered
 to to do this. The discussion leading up to this decision on the
 <a href="http://comments.gmane.org/gmane.science.biology.gmod.devel/364"
 class="external text" rel="nofollow">GMOD Developers mailing list</a>.
@@ -135,8 +135,8 @@ Please let Rob and Dave know if you have any questions.
 
 Thanks,
 
-[Dave Clements](User:Clements "User:Clements") and [Rob
-Buels](User:RobertBuels "User:RobertBuels")
+[Dave Clements](User%3AClements "User%3AClements") and [Rob
+Buels](User%3ARobertBuels "User%3ARobertBuels")
 
 ## <span id="Projects" class="mw-headline">Projects</span>
 
@@ -208,8 +208,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GMOD Developers](Category:GMOD_Developers "Category:GMOD Developers")
-- [Computing](Category:Computing "Category:Computing")
+- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Computing](Category%3AComputing "Category%3AComputing")
 
 </div>
 
@@ -305,8 +305,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -340,7 +340,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/CVS_to_Subversion_Conversion"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CVS_to_Subversion_Conversion"
   rel="smw-browse">Browse properties</a></span>
 
 

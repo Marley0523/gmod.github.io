@@ -474,8 +474,8 @@ pages to RDF</a></li>
 </ul></td>
 <td style="width: 10%"></td>
 <td style="width: 30%"><ul>
-<li><a href="/wiki/Special:SearchByProperty"
-title="Special:SearchByProperty">Search by property</a></li>
+<li><a href="/wiki/Special%3ASearchByProperty"
+title="Special%3ASearchByProperty">Search by property</a></li>
 <li><a href="/wiki/Special:Ask" title="Special:Ask">Semantic
 search</a></li>
 </ul></td>
@@ -609,8 +609,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>

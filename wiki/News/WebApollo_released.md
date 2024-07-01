@@ -87,8 +87,8 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Webapollo](../Category:Webapollo "Category:Webapollo")
-- [News Items](../Category:News_Items "Category:News Items")
+- [Webapollo](../Category%3AWebapollo "Category%3AWebapollo")
+- [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
 </div>
 
@@ -186,8 +186,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -221,7 +221,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/News-2FWebApollo_released"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FWebApollo_released"
   rel="smw-browse">Browse properties</a></span>
 
 

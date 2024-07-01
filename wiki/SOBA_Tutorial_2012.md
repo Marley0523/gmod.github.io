@@ -809,14 +809,14 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [SOBA](Category:SOBA "Category:SOBA")
-- [Tutorials](Category:Tutorials "Category:Tutorials")
+- [SOBA](Category%3ASOBA "Category%3ASOBA")
+- [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [2012 Summer
-  School](Category:2012_Summer_School "Category:2012 Summer School")
+  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:2013_Summer_School&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:2013 Summer School (page does not exist)">2013 Summer
+  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
 
 </div>
@@ -829,12 +829,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[SOBA Tutorial
-2012](Special:Browse/SOBA-20Tutorial-202012 "Special:Browse/SOBA-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%3ABrowse/SOBA-20Tutorial-202012 "Special%3ABrowse/SOBA-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportRDF/SOBA Tutorial 2012")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/SOBA "Special:SearchByProperty/Has-20topic/SOBA")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/SOBA "Special%3ASearchByProperty/Has-20topic/SOBA")</span> |
 
 </div>
 
@@ -930,8 +930,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -965,7 +965,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/SOBA_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

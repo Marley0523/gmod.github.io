@@ -44,9 +44,9 @@ class="external text" rel="nofollow">Google Presentations</a>** to your
 wiki page.
 
 It was originally created by <a
-href="http://gmod.org/mediawiki/index.php?title=Mediawikiwiki:User:Sergey_Chernyshev&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Mediawikiwiki:User%3ASergey_Chernyshev&amp;action=edit&amp;redlink=1"
 class="new"
-title="Mediawikiwiki:User:Sergey Chernyshev (page does not exist)">Sergey
+title="Mediawikiwiki:User%3ASergey Chernyshev (page does not exist)">Sergey
 Chernyshev</a> for
 <a href="http://www.semanticcommunities.com/" class="external text"
 rel="nofollow">Semantic Communities LLC.</a>
@@ -201,8 +201,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

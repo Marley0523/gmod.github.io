@@ -186,8 +186,8 @@ ActiveState and/or Apache!). A few notes:
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Lincoln Stein](User:Lstein "User:Lstein")
-- [Scott Cain](User:Scott "User:Scott")
+- [Lincoln Stein](User%3ALstein "User%3ALstein")
+- [Scott Cain](User%3AScott "User%3AScott")
 
 </div>
 
@@ -204,9 +204,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [GBrowse](Category:GBrowse "Category:GBrowse")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
-- [Windows](Category:Windows "Category:Windows")
+- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Windows](Category%3AWindows "Category%3AWindows")
 
 </div>
 
@@ -302,8 +302,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -337,7 +337,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/GBrowse_Windows_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Windows_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

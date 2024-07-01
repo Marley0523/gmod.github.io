@@ -92,9 +92,9 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Apollo](Category:Apollo "Category:Apollo")
-- [Java](Category:Java "Category:Java")
-- [Needs Editing](Category:Needs_Editing "Category:Needs Editing")
+- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Java](Category%3AJava "Category%3AJava")
+- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
 </div>
 
@@ -190,8 +190,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -225,7 +225,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Apollo_webstart" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_webstart" rel="smw-browse">Browse
   properties</a></span>
 
 

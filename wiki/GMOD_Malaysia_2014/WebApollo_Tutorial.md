@@ -39,8 +39,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [WebApollo](../WebApollo.1 "WebApollo") tutorial was presented by
-[Scott Cain](../User:Scott "User:Scott") and [User:Michael
-Campbell](../User:Michael_Campbell "User:Michael Campbell") at [GMOD
+[Scott Cain](../User%3AScott "User%3AScott") and [User%3AMichael
+Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014.
 
@@ -621,11 +621,11 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
 - <a
-  href="http://gmod.org/mediawiki/index.php?title=Category:WebApollo&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
   class="new"
-  title="Category:WebApollo (page does not exist)">WebApollo</a>
+  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
 
 </div>
 
@@ -637,12 +637,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/WebApollo
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/WebApollo Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [WebApollo](../WebApollo.1 "WebApollo") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/WebApollo "Special:SearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [WebApollo](../WebApollo.1 "WebApollo") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 </div>
 
@@ -740,8 +740,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -775,7 +775,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FWebApollo_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FWebApollo_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

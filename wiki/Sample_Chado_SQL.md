@@ -392,7 +392,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-- [Dongilbert](User:Dongilbert "User:Dongilbert") 16:05, 16 April 2007
+- [Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:05, 16 April 2007
   (EDT)
 
 </div>
@@ -410,8 +410,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Chado](Category:Chado "Category:Chado")
-- [HOWTO](Category:HOWTO "Category:HOWTO")
+- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
 </div>
 
@@ -507,8 +507,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -542,7 +542,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Sample_Chado_SQL" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sample_Chado_SQL" rel="smw-browse">Browse
   properties</a></span>
 
 

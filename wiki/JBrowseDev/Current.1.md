@@ -5080,7 +5080,7 @@ Retrieved from
 
 [Category](/wiki/Special:Categories "Special:Categories"):
 
-- [JBrowse](/wiki/Category:JBrowse "Category:JBrowse")
+- [JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")
 
 </div>
 
@@ -5178,8 +5178,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 </div>
@@ -5214,7 +5214,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special:Browse/JBrowse_Configuration_Guide"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User:Scott "User:Scott") at the
+Cain](User%3AScott "User%3AScott") at the
 <a href="http://www.intlpag.org" class="external text"
 rel="nofollow">Plant and Animal Genomes</a> meeting using JBrowse
 1.16.1.
@@ -873,12 +873,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial PAG
-2019](Special:Browse/JBrowse-20Tutorial-20PAG-202019 "Special:Browse/JBrowse-20Tutorial-20PAG-202019")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2019](Special%3ABrowse/JBrowse-20Tutorial-20PAG-202019 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202019")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2019 "Special:ExportRDF/JBrowse Tutorial PAG 2019")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special:SearchByProperty/Has-20topic/JBrowse "Special:SearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property:Has_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
 
@@ -974,8 +974,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -1009,7 +1009,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/JBrowse_Tutorial_PAG_2019"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_PAG_2019"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -42,7 +42,7 @@ Hello,
 
 Great idea. Unfortunately demo gives an error: The requested URL
 /communitydemo/demo.html was not found on this server.
-[Alpapan](User:Alpapan "User:Alpapan")
+[Alpapan](User%3AAlpapan "User%3AAlpapan")
 
 </div>
 
@@ -145,8 +145,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>

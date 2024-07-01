@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This [JBrowse](../JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](../User:Scott "User:Scott") at [GMOD Malaysia
+Cain](../User%3AScott "User%3AScott") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014. This
 tutorial requires JBrowse version 1.11.x.
 
@@ -622,9 +622,9 @@ Retrieved from
 
 [Categories](../Special:Categories "Special:Categories"):
 
-- [Tutorials](../Category:Tutorials "Category:Tutorials")
-- [JBrowse](../Category:JBrowse "Category:JBrowse")
-- [GMOD Schools](../Category:GMOD_Schools "Category:GMOD Schools")
+- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [JBrowse](../Category%3AJBrowse "Category%3AJBrowse")
+- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 </div>
 
@@ -636,12 +636,12 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/JBrowse
-Tutorial](../Special:Browse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial "Special:Browse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/JBrowse_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/JBrowse Tutorial")</span></span>
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [JBrowse](../JBrowse.1 "JBrowse") <span class="smwsearch">[+](../Special:SearchByProperty/Has-20topic/JBrowse "Special:SearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](../Property:Has_topic "Property:Has topic") | [JBrowse](../JBrowse.1 "JBrowse") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
 
@@ -739,8 +739,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 </div>
@@ -774,7 +774,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special:Browse/GMOD_Malaysia_2014-2FJBrowse_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FJBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

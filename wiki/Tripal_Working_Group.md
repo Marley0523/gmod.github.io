@@ -109,15 +109,15 @@ subscribe to the Tripal mailing list.
 
 | Name | Email | Affiliation | Comments |
 |----|----|----|----|
-| [Stephen Ficklin](User:Sficklin "User:Sficklin") | ficklin\<\*\>clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
+| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | ficklin\<\*\>clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
 | Meg Staton | mestato\<\*\>yahoo.com | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
 | Sook Jung | sook\<\*\>bioinfo.wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
 rel="nofollow">GDR</a> |  |
-| [Michael Caudy](User:Mcaudy "User:Mcaudy") | mcaudy\<\*\>gmail.com | <a href="http://www.reactome.org" class="external text"
+| [Michael Caudy](User%3AMcaudy "User%3AMcaudy") | mcaudy\<\*\>gmail.com | <a href="http://www.reactome.org" class="external text"
 rel="nofollow">Reactome</a> |  |
-| [Dave Clements](User:Clements "User:Clements") | clements\<\*\>nescent.org | GMOD, <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%3AClements "User%3AClements") | clements\<\*\>nescent.org | GMOD, <a href="http://nescent.org/" class="external text"
 rel="nofollow">NESCent</a> |  |
 
 </div>
@@ -135,8 +135,8 @@ Retrieved from
 
 [Categories](Special:Categories "Special:Categories"):
 
-- [Tripal](Category:Tripal "Category:Tripal")
-- [Meetings](Category:Meetings "Category:Meetings")
+- [Tripal](Category%3ATripal "Category%3ATripal")
+- [Meetings](Category%3AMeetings "Category%3AMeetings")
 
 </div>
 
@@ -232,8 +232,8 @@ aria-labelledby="p-Documentation-label">
 <div class="body">
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category:FAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category:HOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 </div>
@@ -267,7 +267,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special:Browse/Tripal_Working_Group" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Working_Group" rel="smw-browse">Browse
   properties</a></span>
 
 
