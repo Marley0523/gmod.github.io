@@ -96,19 +96,19 @@ The following 12 pages are in this category, out of 12 total.
 <tr class="odd" style="vertical-align: top;">
 <td style="width: 33.3%"><h3 id="b-1">B</h3>
 <ul>
-<li><a href="Bio::GMOD" title="Bio::GMOD">Bio::GMOD</a></li>
+<li><a href="Bio%3A%3AGMOD" title="Bio%3A%3AGMOD">Bio%3A%3AGMOD</a></li>
 <li><a href="BioPerl" title="BioPerl">BioPerl</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a></li>
-<li><a href="Chado::AutoDBI_Presentation"
-title="Chado::AutoDBI Presentation">Chado::AutoDBI Presentation</a></li>
+<li><a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
+<li><a href="Chado%3A%3AAutoDBI_Presentation"
+title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="d">D</h3>
 <ul>
-<li><a href="DBD::mysql_on_the_Mac"
+<li><a href="DBD%3A%3Amysql_on_the_Mac"
 title="DBD::mysql on the Mac">DBD::mysql on the Mac</a></li>
 <li><a href="DBStag" title="DBStag">DBStag</a></li>
 </ul>
@@ -380,7 +380,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

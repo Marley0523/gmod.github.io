@@ -72,7 +72,7 @@ Headline features for this release:
 Happy browsing!
 
 --[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels")
-([talk](../User_talk:RobertBuels "User talk:RobertBuels")) 10:09, 17
+([talk](../User_talk%3ARobertBuels "User talk:RobertBuels")) 10:09, 17
 April 2013 (EDT)
 
   
@@ -256,7 +256,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

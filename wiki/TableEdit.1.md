@@ -245,7 +245,7 @@ Making the Table Editor more useful and integrating it better with other
 GMOD tools was our goal for the wiki part of [Hackathon
 2007](Hackathon_2007_info "Hackathon 2007 info"). See [Possible
 TableEdit/Wiki hackathon
-projects](Talk:Hackathon_2007_info#Possible_TableEdit.2FWiki_hackathon_projects "Talk:Hackathon 2007 info")
+projects](Talk%3AHackathon_2007_info#Possible_TableEdit.2FWiki_hackathon_projects "Talk:Hackathon 2007 info")
 for more.
 
 ### <span id="TableEdit_Chado_round_trip" class="mw-headline">TableEdit Chado round trip</span>
@@ -521,7 +521,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

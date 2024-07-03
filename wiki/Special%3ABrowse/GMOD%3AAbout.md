@@ -34,8 +34,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                |     |
 |------------------------------------------------|-----|
-| <a href="/wiki/GMOD:About" class="mw-redirect" 
- title="GMOD:About">GMOD:About</a>               |     |
+| <a href="/wiki/GMOD%3AAbout" class="mw-redirect" 
+ title="GMOD%3AAbout">GMOD%3AAbout</a>               |     |
 
 |  |  |
 |----|----|
@@ -49,8 +49,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/GMOD:About" class="mw-redirect"
-title="GMOD:About">GMOD:About</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD%3AAbout "Special%3ABrowse/GMOD%3AAbout")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD" class="mw-redirect" title="GMOD">GMOD</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD "Special%3ABrowse/GMOD")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Home" class="mw-redirect" title="Home">Home</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Home "Special%3ABrowse/Home")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/GMOD%3AAbout" class="mw-redirect"
+title="GMOD%3AAbout">GMOD%3AAbout</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD%3AAbout "Special%3ABrowse/GMOD%3AAbout")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD" class="mw-redirect" title="GMOD">GMOD</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD "Special%3ABrowse/GMOD")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Home" class="mw-redirect" title="Home">Home</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Home "Special%3ABrowse/Home")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

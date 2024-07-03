@@ -83,7 +83,7 @@ module](../Chado_Natural_Diversity_Module.1 "Chado Natural Diversity Module").
 ## <span id="Participants" class="mw-headline">Participants</span>
 
 - Seth
-- Bob [Made some notes here](../User_talk:Maccallr "User talk:Maccallr")
+- Bob [Made some notes here](../User_talk%3AMaccallr "User talk:Maccallr")
 - Scott
 - Rob
 - Naama
@@ -380,7 +380,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="../Talk:Chado_Natural_Diversity_Module/natdiv_schema_changes_call"
+  href="../Talk%3AChado_Natural_Diversity_Module/natdiv_schema_changes_call"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -508,7 +508,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

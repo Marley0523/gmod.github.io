@@ -313,9 +313,9 @@ available.
 Or, *Six years of school in 15 minutes or less.*
 
 - [Tables, Rows, and
-  Columns](Databases:_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns")
+  Columns](Databases%3A_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns")
 - [Primary, Foreign and Alternate
-  Keys](Databases:_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys")
+  Keys](Databases%3A_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys")
 - [Chado Tables](Chado_Tables "Chado Tables")
 
 #### <span id="What.27s_a_database.3F" class="mw-headline">What's a [database](Databases_and_GMOD "Databases and GMOD")?</span>
@@ -2318,7 +2318,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -87,7 +87,7 @@ Middleware](GMOD_Middleware "GMOD Middleware")
 - 9:05 AM - 9:30 AM **Object/relational Mapping Principles, Sohel
   Merchant**
 - 9:30 AM - 9:55 AM **XORT, Pinglei Zhou**
-- 9:55 AM - 10:20 AM **Chado::AutoDBI, Brian O'Connor**
+- 9:55 AM - 10:20 AM **Chado%3A%3AAutoDBI, Brian O'Connor**
 - 10:20 AM - 10:35 AM **Coffee Break**
 - 10:35 AM - 11:00 AM **Modware, Eric Just**
 - 11:00 AM - 11:20 AM **GBrowse (DasI) Adaptor, Scott Cain**
@@ -342,7 +342,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

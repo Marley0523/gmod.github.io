@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [DBD::mysql on the Mac](/wiki/DBD::mysql_on_the_Mac "DBD::mysql on the Mac") |  |
+| [DBD::mysql on the Mac](/wiki/DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac") |  |
 
 |  |  |
 |----|----|
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

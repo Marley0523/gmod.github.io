@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 September 2013 21:41:29  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/4-20September-202013-2021:41:29 "Special%3ASearchByProperty/Modification-20date/4-20September-202013-2021:41:29")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Tool data](/wiki/Form:Tool_data "Form:Tool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Tool data](/wiki/Form%3ATool_data "Form:Tool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

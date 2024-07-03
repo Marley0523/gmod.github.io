@@ -622,7 +622,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Community_Annotation_-_September_2010_Satellite"
+- <span id="ca-talk"><a href="Talk%3ACommunity_Annotation_-_September_2010_Satellite"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -748,7 +748,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -134,8 +134,8 @@ link in this list.
     class="external text" rel="nofollow">Caryoscope</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#Chado"
     class="external text" rel="nofollow">Chado</a>
-  - <a href="../extras/2008GMODCommunitySurvey.html#Chado::AutoDBI"
-    class="external text" rel="nofollow">Chado::AutoDBI</a>
+  - <a href="../extras/2008GMODCommunitySurvey.html#Chado%3A%3AAutoDBI"
+    class="external text" rel="nofollow">Chado%3A%3AAutoDBI</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#CMap"
     class="external text" rel="nofollow">CMap</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#Ergatis"
@@ -689,7 +689,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

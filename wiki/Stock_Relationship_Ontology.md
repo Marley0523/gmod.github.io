@@ -78,7 +78,7 @@ Ontology.
 
 If you are too shy to edit this page, then please add your suggested
 terms or comments on the [talk
-page](Talk:Stock_Relationship_Ontology "Talk:Stock Relationship Ontology").
+page](Talk%3AStock_Relationship_Ontology "Talk:Stock Relationship Ontology").
 
   
 
@@ -205,7 +205,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Stock_Relationship_Ontology" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3AStock_Relationship_Ontology" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -329,7 +329,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

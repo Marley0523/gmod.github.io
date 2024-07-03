@@ -293,7 +293,7 @@ This results in lots of errors
     this type are being stored in the database as is.
     Unable to find srcfeature NC_004567.1 in the database.
     Perhaps you need to rerun your data load with the '--recreate_cache' option. at /usr/local/share/perl/5.8.8/Bio/GMOD/DB/Adapter.pm line 4026
-    Bio::GMOD::DB::Adapter::src_second_chance('Bio::GMOD::DB::Adapter=HASH(0x8bba494)', 'Bio::SeqFeature::Annotated=HASH(0x8c4be6c)') called
+    Bio%3A%3AGMOD::DB::Adapter::src_second_chance('Bio%3A%3AGMOD::DB::Adapter=HASH(0x8bba494)', 'Bio::SeqFeature::Annotated=HASH(0x8c4be6c)') called
     at /usr/local/bin/gmod_bulk_load_gff3.pl line 758
     Issuing rollback() for database handle being DESTROY'd without explicit disconnect().
 
@@ -402,7 +402,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Debian_Stable_Installation_Notes" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3ADebian_Stable_Installation_Notes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -526,7 +526,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

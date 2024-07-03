@@ -111,7 +111,7 @@ aria-labelledby="p-namespaces-label">
 
 - <span id="ca-nstab-user"><a href="User%3AScott" accesskey="c" title="View the user page [c]">User
   page</a></span>
-- <span id="ca-talk"><a href="User_talk:Scott" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%3AScott" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -235,7 +235,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

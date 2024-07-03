@@ -110,7 +110,7 @@ Resources
 
 ## <span id="About_GO_Graphic_Viewer" class="mw-headline">About GO Graphic Viewer</span>
 
-The GO Graphic Viewer module (Bio::GMOD::GO::View) generates a graphic
+The GO Graphic Viewer module (Bio%3A%3AGMOD::GO::View) generates a graphic
 that displays the parent and child relationships of a selected GO term.
 It also provides the visualization for the result from the
 GO::TermFinder Perl module created by the Stanford Microarray Database
@@ -218,7 +218,7 @@ class="external free"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/GOView/</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGOView-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGOView-2F")</span> and <a href="http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl"
 class="external free"
 rel="nofollow">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl")</span> |
-| [Has description](Property%3AHas_description "Property:Has description") | The GO Graphic Viewer module (Bio::GMOD::G<span class="smw-highlighter" data-type="2" state="persistent" data-title="Information"><span class="smwtext"> … </span><span class="smwttcontent">The GO Graphic Viewer module (Bio::GMOD::GO::View) generates a graphic that displays the parent and child relationships of a selected GO term. It also provides the visualization for the result from the GO::TermFinder Perl module created by the Stanford Microarray Database (SMD). This module is useful when analyzing experimental or computational results that produce a set of gene products that may have a common function or process. This distribution also includes two examples of its use in web browser-based user interfaces (goView.pl and goTermFinder.pl).</span></span>nterfaces (goView.pl and goTermFinder.pl). <span class="smwsearch"><a
+| [Has description](Property%3AHas_description "Property:Has description") | The GO Graphic Viewer module (Bio%3A%3AGMOD::G<span class="smw-highlighter" data-type="2" state="persistent" data-title="Information"><span class="smwtext"> … </span><span class="smwttcontent">The GO Graphic Viewer module (Bio%3A%3AGMOD::GO::View) generates a graphic that displays the parent and child relationships of a selected GO term. It also provides the visualization for the result from the GO::TermFinder Perl module created by the Stanford Microarray Database (SMD). This module is useful when analyzing experimental or computational results that produce a set of gene products that may have a common function or process. This distribution also includes two examples of its use in web browser-based user interfaces (goView.pl and goTermFinder.pl).</span></span>nterfaces (goView.pl and goTermFinder.pl). <span class="smwsearch"><a
 href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FThe-20GO-20Graphic-20Viewer-20module-20%28Bio%3A%3AGMOD%3A%3AGO%3A%3AView%29-20generates-20a-20graphic-20that-20displays-20the-20parent-20and-20child-20relationships-20of-20a-20selected-20GO-20term.-20It-20also-20provides-20the-20visualization-20for-20the-20result-20from-20the-20GO%3A%3ATermFinder-20Perl-20module-20created-20by-20the-20Stanford-20Microarray-20Database-20%28SMD%29.-20This-20module-20is-20useful-20when-20analyzing-20experimental-20or-20computational-20results-20that-20produce-20a-20set-20of-20gene-20products-20that-20may-20have-20a-20common-20function-20or-20process.-20This-20distribution-20also-20includes-20two-20examples-20of-20its-20use-20in-20web-20browser-2Dbased-20user-20interfaces-20%28goView.pl-20and-20goTermFinder.pl%29."
 class="external text" rel="nofollow">+</a></span> |
 | [Has development status](Property%3AHas_development_status "Property:Has development status") | inactive <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20development-20status/inactive "Special%3ASearchByProperty/Has-20development-20status/inactive")</span> |
@@ -387,7 +387,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

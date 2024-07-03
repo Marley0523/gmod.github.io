@@ -172,7 +172,7 @@ Secondary Entity 2
 ## <span id="Older_proposals" class="mw-headline">Older proposals</span>
 
 See
-[Talk:Chado_Post-Composed_Phenotypes](Talk:Chado_Post-Composed_Phenotypes "Talk:Chado Post-Composed Phenotypes")
+[Talk%3AChado_Post-Composed_Phenotypes](Talk%3AChado_Post-Composed_Phenotypes "Talk:Chado Post-Composed Phenotypes")
 for the older versions of this schema proposal
 
 </div>
@@ -212,7 +212,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Chado_Post-Composed_Phenotypes" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3AChado_Post-Composed_Phenotypes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -336,7 +336,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

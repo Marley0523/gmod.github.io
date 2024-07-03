@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Databases: Primary, Foreign and Alternate Keys](/wiki/Databases:_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys") |  |
+| [Databases: Primary, Foreign and Alternate Keys](/wiki/Databases%3A_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys") |  |
 
 |  |  |
 |----|----|
@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

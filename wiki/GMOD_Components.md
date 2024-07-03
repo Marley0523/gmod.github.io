@@ -132,8 +132,8 @@ title="TIGR-Workflow / Ergatis">Ergatis</a></p>
 <p><br />
 <strong>Middleware</strong></p>
 <p><a href="Modware" title="Modware">Modware</a></p>
-<p><a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a></p>
+<p><a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></p>
 <p><a href="Bio%3A%3AChado%3A%3ASchema"
 title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></p>
 <p><br />
@@ -321,7 +321,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

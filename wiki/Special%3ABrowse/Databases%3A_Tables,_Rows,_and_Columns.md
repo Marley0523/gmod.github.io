@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Databases: Tables, Rows, and Columns](/wiki/Databases:_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns") |  |
+| [Databases: Tables, Rows, and Columns](/wiki/Databases%3A_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns") |  |
 
 |  |  |
 |----|----|
@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

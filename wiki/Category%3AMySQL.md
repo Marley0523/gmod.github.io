@@ -55,7 +55,7 @@ The following 6 pages are in this category, out of 6 total.
 ### D
 
 - [Databases and GMOD](Databases_and_GMOD "Databases and GMOD")
-- [DBD::mysql on the Mac](DBD::mysql_on_the_Mac "DBD::mysql on the Mac")
+- [DBD::mysql on the Mac](DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac")
 
 ### G
 
@@ -250,7 +250,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

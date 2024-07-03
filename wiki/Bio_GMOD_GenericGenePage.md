@@ -38,17 +38,17 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-Bio::GMOD::GenericGenePage is an abstract
+Bio%3A%3AGMOD::GenericGenePage is an abstract
 [Perl](Glossary#Perl "Glossary") class that provides a render_xml method
 to crete [Common Gene Page](Common_Gene_Page "Common Gene Page")
 [XML](Glossary#XML "Glossary"), but does not fetch the data. In order to
 effectively use this module, you need to subclass it and implement all
 of the methods that are listed under ABSTRACT CLASSES below for your
 database. These abstract methods are responsible for providing
-Bio::GMOD::GenericGenePage with the data to create the XML.
+Bio%3A%3AGMOD::GenericGenePage with the data to create the XML.
 
 There are two example implementations included with this module.
-Bio::GMOD::GenericGenePage::Chado is a simple implementation for a Chado
+Bio%3A%3AGMOD::GenericGenePage::Chado is a simple implementation for a Chado
 database populated with *S. cerevisiae* data obtained from
 [SGD](Category%3ASGD "Category%3ASGD") as GFF3. Currently, the output of
 this implementation can be seen at
@@ -260,7 +260,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Bio_GMOD_GenericGenePage" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3ABio_GMOD_GenericGenePage" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -384,7 +384,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

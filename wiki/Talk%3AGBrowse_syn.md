@@ -1,0 +1,306 @@
+<div id="mw-page-base" class="noprint">
+
+</div>
+
+<div id="mw-head-base" class="noprint">
+
+</div>
+
+<div id="content" class="mw-body" role="main">
+
+<span id="top"></span>
+
+<div id="mw-js-message" style="display:none;">
+
+</div>
+
+
+
+# <span dir="auto">Talk%3AGBrowse syn</span>
+
+<div id="bodyContent">
+
+<div id="siteSub">
+
+From GMOD
+
+</div>
+
+<div id="contentSub">
+
+</div>
+
+<div id="jump-to-nav" class="mw-jump">
+
+Jump to: [navigation](#mw-navigation), [search](#p-search)
+
+</div>
+
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+<div id="toc" class="toc">
+
+<div id="toctitle">
+
+## Contents
+
+</div>
+
+- [<span class="tocnumber">1</span> <span class="toctext">Upcoming
+  Hackathon (7/11/2010)</span>](#Upcoming_Hackathon_.287.2F11.2F2010.29)
+  - [<span class="tocnumber">1.1</span> <span class="toctext">User
+    interface</span>](#User_interface)
+    - [<span class="tocnumber">1.1.1</span> <span class="toctext">YES WE
+      CAN!</span>](#YES_WE_CAN.21)
+  - [<span class="tocnumber">1.2</span>
+    <span class="toctext">Database</span>](#Database)
+  - [<span class="tocnumber">1.3</span> <span class="toctext">Behind the
+    scenes</span>](#Behind_the_scenes)
+  - [<span class="tocnumber">1.4</span>
+    <span class="toctext">Miscellaneous</span>](#Miscellaneous)
+- [<span class="tocnumber">2</span> <span class="toctext">Report on the
+  hackathon failure (and lessons to be
+  learned)</span>](#Report_on_the_hackathon_failure_.28and_lessons_to_be_learned.29)
+
+</div>
+
+## <span id="Upcoming_Hackathon_.287.2F11.2F2010.29" class="mw-headline">Upcoming Hackathon (7/11/2010)</span>
+
+Here are some ideas for things to work on w.r.t GBsyn dev. etc.
+
+### <span id="User_interface" class="mw-headline">User interface</span>
+
+- The tracks don't 'feel' like GB 2.0 tracks, and are described in the
+  manual as 'gbrowse-like'. Why can't we have proper GBrowse tracks?
+  Wouldn't this allow a lot of code to be refactored?
+- I'd like to use my existing track configuration to configure tracks in
+  GBsyn. Additional options could be added to the GBsyn conf to turn
+  tracks off, because its a pain to reconfigure them all from scratch
+  again (especially using GBrowse 1.7 syntax) for GBsyn.
+- I'd like a global configuration file, like GBrowse 2.0 now has. To get
+  anything up and running you need a specific config file, which feels
+  wrong somehow.
+- Sometimes the alignment is broken into blocks (each one should be a
+  bona fide GB track remember) can we have a uniform scale across all
+  blocks? I think small blocks are sometimes drawn to a different scale.
+  - The rendering of rulers in small blocks is crappy.
+
+<!-- -->
+
+- People like circos output. I'm not crazy about it, but it could be a
+  nice feature to develop, esp. w.r.t. gbrowse 'overview' tracks.
+
+<!-- -->
+
+- Debugging mode would be nice, mysterious failures are a pain in the
+  assets.
+
+#### <span id="YES_WE_CAN.21" class="mw-headline">YES WE CAN!</span>
+
+- Allow users to re-position and re-orient blocks of the sequence. For
+  example, one sequence may be composed of a set of 'BAC' features. You
+  could allow users to flip and drag BACs around on the sequence so as
+  to maximize synteny (while also visualizing the associated paired end
+  data, naturally), and then write out the changes in some format.
+  - By looking at the sequence ontology, you can determine which
+    features are sequence components, and can therefore be moved in such
+    a way.
+
+### <span id="Database" class="mw-headline">Database</span>
+
+- Make the use of 'namespace' (database table prefixes) for alignment
+  data the norm.
+  - Add support for namespaces. (It's all too easy for one dataset to
+    trash another).
+  - Make a GFF3 loader, dammit!
+
+### <span id="Behind_the_scenes" class="mw-headline">Behind the scenes</span>
+
+- Oh, also, could you go ahead and make GBrowse_syn run under fastcgi?
+  kthxbai
+
+### <span id="Miscellaneous" class="mw-headline">Miscellaneous</span>
+
+- The GBsyn 'alignment blocks' look really nice. Can you add something
+  similar to GBrowse to guide the eye between the overview, region and
+  details panels?
+
+## <span id="Report_on_the_hackathon_failure_.28and_lessons_to_be_learned.29" class="mw-headline">Report on the hackathon failure (and lessons to be learned)</span>
+
+Only joking, there was a lot of basic ground work to get through before
+the above feature requests could even begin to be tackled efficiently.
+Here is the skinny:
+
+<a href="https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2"
+class="external free"
+rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
+
+</div>
+
+<div class="printfooter">
+
+Retrieved from
+"<http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn&oldid=15073>"
+
+</div>
+
+<div id="catlinks" class="catlinks catlinks-allhidden">
+
+</div>
+
+<div class="visualClear">
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-navigation">
+
+## Navigation menu
+
+<div id="mw-head">
+
+
+
+<div id="left-navigation">
+
+<div id="p-namespaces" class="vectorTabs" role="navigation"
+aria-labelledby="p-namespaces-label">
+
+### Namespaces
+
+
+- <span id="ca-talk"><a href="Talk%3AGBrowse_syn" accesskey="t"
+  title="Discussion about the content page [t]">Discussion</a></span>
+
+</div>
+
+<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
+aria-labelledby="p-variants-label">
+
+### 
+
+### Variants[](#)
+
+<div class="menu">
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mw-panel">
+
+<div id="p-logo" role="banner">
+
+<a href="Main_Page"
+style="background-image: url(../images/GMOD-cogs.png);"
+title="Visit the main page"></a>
+
+</div>
+
+<div id="p-Navigation" class="portal" role="navigation"
+aria-labelledby="p-Navigation-label">
+
+### Navigation
+
+<div class="body">
+
+- <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
+- <span id="n-Software">[Software](GMOD_Components)</span>
+- <span id="n-Categories-.2F-Tags">[Categories /
+  Tags](Categories)</span>
+
+</div>
+
+</div>
+
+<div id="p-Documentation" class="portal" role="navigation"
+aria-labelledby="p-Documentation-label">
+
+### Documentation
+
+<div class="body">
+
+- <span id="n-Overview">[Overview](Overview)</span>
+- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-Glossary">[Glossary](Glossary)</span>
+
+</div>
+
+</div>
+
+<div id="p-Community" class="portal" role="navigation"
+aria-labelledby="p-Community-label">
+
+### Community
+
+<div class="body">
+
+- <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
+- <span id="n-Training-.2F-Outreach">[Training /
+  Outreach](Training_and_Outreach)</span>
+- <span id="n-Support">[Support](Support)</span>
+- <span id="n-GMOD-Promotion">[GMOD Promotion](GMOD_Promotion)</span>
+- <span id="n-Meetings">[Meetings](Meetings)</span>
+- <span id="n-Calendar">[Calendar](Calendar)</span>
+
+</div>
+
+</div>
+
+<div id="p-tb" class="portal" role="navigation"
+aria-labelledby="p-tb-label">
+
+### Tools
+
+<div class="body">
+
+
+
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 18:02 on 15 November
+  2010.</span>
+<!-- - <span id="footer-info-viewcount">24,848 page views.</span> -->
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
+
+- <span id="footer-places-about">[About
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
+<!-- -->
+
+
+
+
+
+
+</div>

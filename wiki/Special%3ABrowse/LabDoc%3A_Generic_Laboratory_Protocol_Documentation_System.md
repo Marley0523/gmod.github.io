@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [LabDoc: Generic Laboratory Protocol Documentation System](/wiki/LabDoc:_Generic_Laboratory_Protocol_Documentation_System "LabDoc: Generic Laboratory Protocol Documentation System") |  |
+| [LabDoc: Generic Laboratory Protocol Documentation System](/wiki/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System "LabDoc: Generic Laboratory Protocol Documentation System") |  |
 
 |  |  |
 |----|----|
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

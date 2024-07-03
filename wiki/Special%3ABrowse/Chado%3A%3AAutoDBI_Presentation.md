@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Chado::AutoDBI Presentation](/wiki/Chado::AutoDBI_Presentation "Chado::AutoDBI Presentation") |  |
+| [Chado%3A%3AAutoDBI Presentation](/wiki/Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation") |  |
 
 |  |  |
 |----|----|
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

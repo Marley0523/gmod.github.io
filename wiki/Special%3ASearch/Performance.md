@@ -246,8 +246,8 @@ on this wiki!** See also the search results found.
 
 - <div class="mw-search-result-heading">
 
-  [Chado::AutoDBI
-  Presentation](/wiki/Chado::AutoDBI_Presentation "Chado::AutoDBI Presentation")
+  [Chado%3A%3AAutoDBI
+  Presentation](/wiki/Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation")
 
   </div>
 
@@ -256,7 +256,7 @@ on this wiki!** See also the search results found.
   \* <span class="searchmatch">Performance</span> is not as bad as you
   might guess Note that speed is relative: one can find bad
   <span class="searchmatch">performance</span> using the wrong SQL and
-  Chado::AutoDBI approach will be speedier.
+  Chado%3A%3AAutoDBI approach will be speedier.
 
   </div>
 
@@ -1320,7 +1320,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

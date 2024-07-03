@@ -61,7 +61,7 @@ The following 6 pages are in this category, out of 6 total.
   Directory](Installing_GBrowse2_in_your_Home_Directory "Installing GBrowse2 in your Home Directory")
 - [Introduction to Chado](Introduction_to_Chado "Introduction to Chado")
 - [Talk:Introduction to
-  Chado](Talk:Introduction_to_Chado "Talk:Introduction to Chado")
+  Chado](Talk%3AIntroduction_to_Chado "Talk:Introduction to Chado")
 
 ### S
 
@@ -245,7 +245,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

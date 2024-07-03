@@ -62,7 +62,7 @@ class="external text" rel="nofollow">downloaded from SourceForge</a>.
   
 Here are the changes from the last release:
 
-- Added \$VERSION to Bio::GMOD::DB::Config so that when installing
+- Added \$VERSION to Bio%3A%3AGMOD::DB::Config so that when installing
   Bio::DB::Das::Chado it would be happy.
 - Changed all perl script \#! lines to use /usr/bin/env perl instead of
   the mishmash that was being used in various scripts.
@@ -255,7 +255,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

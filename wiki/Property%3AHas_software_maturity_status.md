@@ -152,7 +152,7 @@ href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="GO::TermFinder.1"
+<td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GO%3A%3ATermFinder"
 title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
@@ -480,7 +480,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -144,8 +144,8 @@ title="GBrowse Configuration/Balloons">GBrowse
 Configuration/Balloons</a></li>
 <li><a href="GBrowse_Configuration/DAS"
 title="GBrowse Configuration/DAS">GBrowse Configuration/DAS</a></li>
-<li><a href="Talk:GBrowse_Configuration/DAS"
-title="Talk:GBrowse Configuration/DAS">Talk:GBrowse
+<li><a href="Talk%3AGBrowse_Configuration/DAS"
+title="Talk%3AGBrowse Configuration/DAS">Talk%3AGBrowse
 Configuration/DAS</a></li>
 <li><a href="GBrowse_Configuration/Feature_frequency_histograms"
 title="GBrowse Configuration/Feature frequency histograms">GBrowse
@@ -1066,7 +1066,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

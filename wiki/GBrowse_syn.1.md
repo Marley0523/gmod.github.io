@@ -334,7 +334,7 @@ Public installations of GBrowse_syn:
 
 ### <span id="Current_status" class="mw-headline">Current status</span>
 
-See the [discussion page](Talk:GBrowse_syn "Talk:GBrowse syn") for notes
+See the [discussion page](Talk%3AGBrowse_syn "Talk%3AGBrowse syn") for notes
 on further GBrowse_syn development.
 
 ## <span id="See_also" class="mw-headline">See also</span>
@@ -494,7 +494,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:GBrowse_syn" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3AGBrowse_syn" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -618,7 +618,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 
