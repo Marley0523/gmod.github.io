@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/CMap "Special%3ASearchByProperty/Linktopic/CMap")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/demo-20server "Special%3ASearchByProperty/Linktype/demo-20server")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/demo-20server "Special%3ASearchByProperty/Linktype/demo-20server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://www.gramene.org/db/cmap  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap "Special%3ASearchByProperty/Linkurl/http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap")</span></span> |
@@ -55,7 +55,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

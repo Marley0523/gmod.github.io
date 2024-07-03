@@ -79,7 +79,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/InterMine_Tutori
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/InterMine "Special%3ASearchByProperty/Has-20topic/InterMine")</span> |
+| [Has topic](../Property%3AHas_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/InterMine "Special%3ASearchByProperty/Has-20topic/InterMine")</span> |
 
 </div>
 

@@ -113,7 +113,7 @@ data</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/MAKER-P:_an_annotation_pipeline_for_plants"
+<li><a href="News/MAKER-P%3A_an_annotation_pipeline_for_plants"
 title="News/MAKER-P: an annotation pipeline for plants">News/MAKER-P: an
 annotation pipeline for plants</a></li>
 </ul>

@@ -1224,7 +1224,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
 
 </div>
 

@@ -43,7 +43,7 @@ Showing 1 property using this type.
 ### R
 
 - [Property:Release
-  date](../Property:Release_date "Property:Release date")
+  date](../Property%3ARelease_date "Property:Release date")
 
 </div>
 

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "website"  
 
 - [BioMart#http://www.biomart.org/](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2F "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2F "Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2F")</span>

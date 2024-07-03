@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has development
-status](/wiki/Property:Has_development_status "Property:Has development status")"
+status](/wiki/Property%3AHas_development_status "Property:Has development status")"
 with value "active"  
 
 - [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>

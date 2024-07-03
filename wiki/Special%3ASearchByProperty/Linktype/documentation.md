@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "documentation"  
 
 - [Canto#https://github.com/pombase/canto/blob/master/documentation/canto_admin.md](/wiki/Canto#https:.2F.2Fgithub.com.2Fpombase.2Fcanto.2Fblob.2Fmaster.2Fdocumentation.2Fcanto_admin.md "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md "Special%3ABrowse/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md")</span>

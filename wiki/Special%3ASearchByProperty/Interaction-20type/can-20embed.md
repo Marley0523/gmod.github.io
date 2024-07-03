@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Interaction
-type](/wiki/Property:Interaction_type "Property:Interaction type")" with
+type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
 value "can embed"  
 
 - [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-licence](/wiki/Property:Has_licence "Property:Has licence")" with value
+licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "GPLv2"  
 
 - [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>

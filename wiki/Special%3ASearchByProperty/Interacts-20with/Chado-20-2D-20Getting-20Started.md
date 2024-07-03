@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Interacts
-with](/wiki/Property:Interacts_with "Property:Interacts with")" with
+with](/wiki/Property%3AInteracts_with "Property:Interacts with")" with
 value "[Chado - Getting
 Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started")"  
 

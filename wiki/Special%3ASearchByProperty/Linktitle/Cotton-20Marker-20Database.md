@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Cotton Marker Database"  
 
 - [CMap#http://www.cottonmarker.org/](/wiki/CMap#http:.2F.2Fwww.cottonmarker.org.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http:-2F-2Fwww.cottonmarker.org-2F "Special%3ABrowse/CMap-23http:-2F-2Fwww.cottonmarker.org-2F")</span>

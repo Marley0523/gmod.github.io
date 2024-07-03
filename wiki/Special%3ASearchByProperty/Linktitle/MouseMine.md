@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "MouseMine"  
 
 - [InterMine#http://www.mousemine.org/](/wiki/InterMine#http:.2F.2Fwww.mousemine.org.2F "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.mousemine.org-2F "Special%3ABrowse/InterMine-23http:-2F-2Fwww.mousemine.org-2F")</span>

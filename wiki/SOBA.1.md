@@ -308,7 +308,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</spa
 
 |  |  |
 |----|----|
-| [Has website](Property:Has_website "Property:Has website") | <a
+| [Has website](Property%3AHas_website "Property:Has website") | <a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external free"
 rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span> |

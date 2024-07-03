@@ -2890,7 +2890,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2012 "Special:Export
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
 
 </div>
 

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "publication"  
 
 - [MAKER#https://www.e-biogenouest.org/resources/48](/wiki/MAKER#https:.2F.2Fwww.e-biogenouest.org.2Fresources.2F48 "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48 "Special%3ABrowse/MAKER-23https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48")</span>

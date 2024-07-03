@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "wild URL"  
 Previous     **Results 1–
 20**    [Next](/mediawiki/index.php?title=Special%3ASearchByProperty&offset=20&limit=20&property=Linktype&value=wild+URL)        (**20**

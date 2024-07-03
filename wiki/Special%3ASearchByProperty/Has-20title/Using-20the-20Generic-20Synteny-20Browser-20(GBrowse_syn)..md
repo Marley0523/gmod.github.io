@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value "Using
+title](/wiki/Property%3AHas_title "Property:Has title")" with value "Using
 the Generic Synteny Browser (GBrowse_syn)."  
 
 - [GBrowse

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Link
-type](/wiki/Property:Link_type "Property:Link type")" with value "social
+type](/wiki/Property%3ALink_type "Property:Link type")" with value "social
 media"  
 
 - [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>

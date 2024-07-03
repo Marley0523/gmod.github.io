@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Is open
-source](/wiki/Property:Is_open_source "Property:Is open source")" with
+source](/wiki/Property%3AIs_open_source "Property:Is open source")" with
 value "Yes"  
 
 - [BLAST Graphic

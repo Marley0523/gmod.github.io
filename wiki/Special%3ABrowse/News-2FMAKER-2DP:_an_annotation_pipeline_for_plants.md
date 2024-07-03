@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/MAKER-P: an annotation pipeline for plants](/wiki/News/MAKER-P:_an_annotation_pipeline_for_plants "News/MAKER-P: an annotation pipeline for plants") |  |
+| [News/MAKER-P: an annotation pipeline for plants](/wiki/News/MAKER-P%3A_an_annotation_pipeline_for_plants "News/MAKER-P: an annotation pipeline for plants") |  |
 
 |  |  |
 |----|----|

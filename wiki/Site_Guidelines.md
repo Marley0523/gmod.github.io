@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Site Guidelines</span>
 
 <div id="bodyContent">
@@ -87,13 +85,7 @@ updating or creating content in the GMOD web site.
     <span class="toctext">Format</span>](#Format)
 - [<span class="tocnumber">4</span> <span class="toctext">Embedding
   Media</span>](#Embedding_Media)
-  - [<span class="tocnumber">4.1</span> <span class="toctext">Google
-    Documents</span>](#Google_Documents)
-  - [<span class="tocnumber">4.2</span> <span class="toctext">Google
-    Presentations</span>](#Google_Presentations)
-  - [<span class="tocnumber">4.3</span> <span class="toctext">Google
-    Calendars</span>](#Google_Calendars)
-  - [<span class="tocnumber">4.4</span>
+  - [<span class="tocnumber">4.1</span>
     <span class="toctext">Flash</span>](#Flash)
 - [<span class="tocnumber">5</span> <span class="toctext">Writing
   Code</span>](#Writing_Code)
@@ -112,7 +104,7 @@ The GMOD web site editorial policies and best practices are defined
 here. Consistent use of these policies and practices will hopefully lead
 to a consistent and readable web site.
 
-This page first introduces *meta-guidelines*. These are guidelines about
+This page first introduces _meta-guidelines_. These are guidelines about
 these guidelines and cover things like how to update the guidelines, and
 when you can ignore them. These are followed by the actual guidelines,
 describing how content should be created.
@@ -190,7 +182,7 @@ Discussion is shown as regular text.
 
 <div class="guideline">
 
-Use *Generous Capitalization* instead of *Parsimonious capitalization*.
+Use _Generous Capitalization_ instead of _Parsimonious capitalization_.
 
 </div>
 
@@ -219,13 +211,10 @@ In our example, you would enter/search for "Generic Genome Browser".
 
 This will display an empty page. Enter
 
-  
-
 \#REDIRECT \[\[Page Name to Redirect to\]\]
 
 In our example this would be:
 
-  
 \#REDIRECT \[\[GBrowse\]\]
 
 and then save the page.
@@ -239,17 +228,17 @@ turns into more of an index than a listing of all pages.
 
 <div class="guideline">
 
-If you do not want the page you are editing to be listed in the *New &
-Revised Pages* list on the GMOD home page, then mark your edit as
-*minor*.
+If you do not want the page you are editing to be listed in the _New &
+Revised Pages_ list on the GMOD home page, then mark your edit as
+_minor_.
 
 </div>
 
-When you update a page in this web site you can flag it as a *minor
-edit*. As of December 2007, the minor/major edit distinction is used in
+When you update a page in this web site you can flag it as a _minor
+edit_. As of December 2007, the minor/major edit distinction is used in
 one place in the GMOD web site: Major edits (that is, edits that are
-*not* marked as minor) cause the page to be listed in the *New & Revised
-Pages* list on the [GMOD home page](Main_Page "Main Page"). That list is
+_not_ marked as minor) cause the page to be listed in the _New & Revised
+Pages_ list on the [GMOD home page](Main_Page "Main Page"). That list is
 a reverse chronological ordering of all recent non-minor edits
 
 If your edit is small, such as a spelling or other typo correction, then
@@ -270,7 +259,7 @@ subdivide that category.
 This web site makes extensive use of tags, called
 [categories](Special:Categories "Special:Categories") in MediaWiki, to
 flag pages as being related to different topics. To encourage the use of
-categories, an input field and *tag cloud* listing existing categories
+categories, an input field and _tag cloud_ listing existing categories
 is shown at the bottom of every edit page. You can either type in the
 category name or click on the category in the tag cloud to add it to the
 current page.
@@ -325,8 +314,8 @@ is. Therefore the filename should describe the contents of the file.
 For example, the file
 <a href="../mediawiki/images/a/a8/Gkl777.pdf" class="internal"
 title="Gkl777.pdf">Gkl777.pdf</a> is an article on
-[ParameciumDB](ParameciumDB "ParameciumDB") from *Nucleic Acids
-Research*, but if you look at the file's listing in the [Publications
+[ParameciumDB](ParameciumDB "ParameciumDB") from _Nucleic Acids
+Research_, but if you look at the file's listing in the [Publications
 category](Category%3APublications "Category%3APublications") all you see is
 "Gkl777.pdf". You have to follow the link to find out what the file is
 about.
@@ -584,52 +573,12 @@ Reloaded''' button.</p>
 </tbody>
 </table>
 
-  
-
 ## <span id="Embedding_Media" class="mw-headline">Embedding Media</span>
 
 The GMOD wiki uses
 <a href="http://www.mediawikiwidgets.org/Widgets_Catalog"
 class="external text" rel="nofollow">Widgets</a> to embed various types
 of file.
-
-### <span id="Google_Documents" class="mw-headline">Google Documents</span>
-
-    {{#widget: GoogleDocument
-    |id=<document ID>
-    |width=<width>
-    |height=<height>
-    }}
-
-Full documentation at
-[Widget:GoogleDocument](Widget:GoogleDocument "Widget:GoogleDocument").
-
-### <span id="Google_Presentations" class="mw-headline">Google Presentations</span>
-
-    {{#widget: GooglePresentation
-    |id=<presentation ID>
-    |width=<width>
-    |height=<height>
-    |border=<border>
-    }}
-
-Full documentation at
-[Widget:GooglePresentation](Widget:GooglePresentation "Widget:GooglePresentation").
-
-  
-
-### <span id="Google_Calendars" class="mw-headline">Google Calendars</span>
-
-    {{#widget :GoogleCalendar
-    |id=usa@holiday.calendar.google.com
-    |color=B1440E
-    |title=US Holidays
-    }}
-
-Full documentation at
-[Widget:GoogleCalendar](Widget:GoogleCalendar "Widget:GoogleCalendar").
-
-  
 
 ### <span id="Flash" class="mw-headline">Flash</span>
 
@@ -648,8 +597,6 @@ The GMOD wiki employs the extension
 class="external text">Syntax Highlight GeSHi</a> to produce code with
 highlighting. For coloured code, use the ` <syntaxhighlight>` tag:
 
-  
-
     <syntaxhighlight lang="perl">
     #!/usr/bin/perl
     my $life = "over";
@@ -660,7 +607,7 @@ highlighting. For coloured code, use the ` <syntaxhighlight>` tag:
 
 <div class="perl source-perl">
 
-``` de1
+```de1
  #!/usr/bin/perl
  my $life = "over";
  die("Goodbye, cruel world!");
@@ -686,7 +633,7 @@ the `<ref />` tag:
 
 <div class="html5 source-html5">
 
-``` de1
+```de1
 <ref name=PMID:15752432 />
 ```
 
@@ -711,16 +658,13 @@ in place of the `<references />` tag.
 
     <references />
 
-  
 **Result**
 
-The 2013 paper by Leite *et al.* on the grooved shell carpet
+The 2013 paper by Leite _et al._ on the grooved shell carpet
 clam<sup>[\[1\]](#cite_note-DOI:10.1186.2F1471-2164-14-741-1)</sup>
-represents a first attempt to characterize *Ruditapes decussatus*
-transcriptome; it cites the classic Ficklin *et al.* Tripal paper
+represents a first attempt to characterize _Ruditapes decussatus_
+transcriptome; it cites the classic Ficklin _et al._ Tripal paper
 <sup>[\[2\]](#cite_note-PMID:21959868-2)</sup>.
-
-  
 
 1.  <span id="cite_note-DOI:10.1186.2F1471-2164-14-741"><span class="mw-cite-backlink">[↑](#cite_ref-DOI:10.1186.2F1471-2164-14-741_0)</span>
     **Cite error: Invalid `<ref>` tag; no text was provided for refs
@@ -798,15 +742,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Site_Guidelines&amp;action=edit&amp;redlink=1"
@@ -818,7 +759,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -829,10 +770,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -908,10 +845,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Site_Guidelines" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -923,8 +858,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:18 on 8 November
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 23:18 on 8 November 2013.</span>
 <!-- - <span id="footer-info-viewcount">216,156 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -937,10 +871,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD:About "GMOD:About")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

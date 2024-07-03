@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"

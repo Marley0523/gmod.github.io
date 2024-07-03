@@ -257,7 +257,7 @@ title="News/DAS Workshop 7-9 April 2010">News/DAS Workshop 7-9 April
 title="News/December 2010 Calendar">News/December 2010 Calendar</a></li>
 <li><a href="News/dictyBase_is_Hiring"
 title="News/dictyBase is Hiring">News/dictyBase is Hiring</a></li>
-<li><a href="News/DIYA:_Do_It_Yourself_Annotator"
+<li><a href="News/DIYA%3A_Do_It_Yourself_Annotator"
 title="News/DIYA: Do It Yourself Annotator">News/DIYA: Do It Yourself
 Annotator</a></li>
 <li><a href="News/Don_Gilbert_Nominated_for_BFA"
@@ -360,7 +360,7 @@ Present!</a></li>
 <li><a href="News/GCC2014_Registration_is_Open"
 title="News/GCC2014 Registration is Open">News/GCC2014 Registration is
 Open</a></li>
-<li><a href="News/GCC2014:_June_30_-_July_2"
+<li><a href="News/GCC2014%3A_June_30_-_July_2"
 title="News/GCC2014: June 30 - July 2">News/GCC2014: June 30 - July
 2</a></li>
 <li><a href="News/GCC2016" title="News/GCC2016">News/GCC2016</a></li>
@@ -521,7 +521,7 @@ Great Guns!</a></li>
 <li><a href="News/GMOD-JBrowse_2016_Survey"
 title="News/GMOD-JBrowse 2016 Survey">News/GMOD-JBrowse 2016
 Survey</a></li>
-<li><a href="News/GMOD:_Spread_the_Word!"
+<li><a href="News/GMOD%3A_Spread_the_Word!"
 title="News/GMOD: Spread the Word!">News/GMOD: Spread the Word!</a></li>
 <li><a href="News/GMODTools_1.1_Released"
 title="News/GMODTools 1.1 Released">News/GMODTools 1.1 Released</a></li>
@@ -588,7 +588,7 @@ title="News/ISGA Pipeline Service">News/ISGA Pipeline Service</a></li>
 <li><a href="News/ISMB_2010_Talks_&amp;_Posters"
 title="News/ISMB 2010 Talks &amp; Posters">News/ISMB 2010 Talks &amp;
 Posters</a></li>
-<li><a href="News/ISMB_2013:_Automated_Function_Prediction"
+<li><a href="News/ISMB_2013%3A_Automated_Function_Prediction"
 title="News/ISMB 2013: Automated Function Prediction">News/ISMB 2013:
 Automated Function Prediction</a></li>
 <li><a href="News/ISMB/Bioinformatics_Chado_Paper"

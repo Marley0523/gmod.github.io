@@ -41,12 +41,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">list of PGDBs hosted elsewhere  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/list-20of-20PGDBs-20hosted-20elsewhere "Special%3ASearchByProperty/Linkdesc/list-20of-20PGDBs-20hosted-20elsewhere")</span></span> |
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">Other PGDBs  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Other-20PGDBs "Special%3ASearchByProperty/Linktitle/Other-20PGDBs")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">Other PGDBs  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Other-20PGDBs "Special%3ASearchByProperty/Linktitle/Other-20PGDBs")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Pathway Tools  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Pathway-20Tools "Special%3ASearchByProperty/Linktopic/Pathway-20Tools")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://biocyc.org/otherpgdbs.shtml  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ASearchByProperty/Linkurl/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span></span> |
@@ -59,7 +59,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Pathway Tools](/wiki/Pathway_Tools "Pathway Tools") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Pathway Tools](/wiki/Pathway_Tools "Pathway Tools") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

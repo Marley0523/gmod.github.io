@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Artemis-Chado Integration Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span></span> | [Has topic](/wiki/Property:Has_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[Artemis-Chado Integration Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|

@@ -332,7 +332,7 @@ Retrieved from
 Tools](Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Pathway_Tools "Special:ExportRDF/Pathway Tools")</span></span>
 
-[Available on platform](Property:Available_on_platform "Property:Available on platform")
+[Available on platform](Property%3AAvailable_on_platform "Property:Available on platform")
 
 </div>
 
@@ -351,7 +351,7 @@ os x
 and windows
 <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/windows "Special%3ASearchByProperty/Available-20on-20platform/windows")</span>
 
-[Has URL](Property:Has_URL "Property:Has URL")
+[Has URL](Property%3AHas_URL "Property:Has URL")
 
 <a href="http://biocyc.org/download.shtml" class="external free"
 rel="nofollow">http://biocyc.org/download.shtml</a>
@@ -369,7 +369,7 @@ and <a href="http://biocyc.org/otherpgdbs.shtml" class="external free"
 rel="nofollow">http://biocyc.org/otherpgdbs.shtml</a>
 <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
 
-[Has description](Property:Has_description "Property:Has description")
+[Has description](Property%3AHas_description "Property:Has description")
 
 Pathway Tools is a comprehensive symbolic <span class="smw-highlighter"
 data-type="2" state="persistent"

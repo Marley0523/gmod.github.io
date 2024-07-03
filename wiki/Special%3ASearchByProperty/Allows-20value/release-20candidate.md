@@ -35,12 +35,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Allows
-value](/wiki/Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This
+value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "release candidate"  
 
 - [Property:Has software maturity
-  status](/wiki/Property:Has_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>
+  status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>
 
  
 

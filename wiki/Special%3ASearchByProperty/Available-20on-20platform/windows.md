@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Available on
-platform](/wiki/Property:Available_on_platform "Property:Available on platform")"
+platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")"
 with value "windows"  
 
 - [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>

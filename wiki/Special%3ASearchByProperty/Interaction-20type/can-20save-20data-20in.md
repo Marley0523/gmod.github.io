@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Interaction
-type](/wiki/Property:Interaction_type "Property:Interaction type")" with
+type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
 value "can save data in"  
 
 - [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>

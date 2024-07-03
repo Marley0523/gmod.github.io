@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value "The
+title](/wiki/Property%3AHas_title "Property:Has title")" with value "The
 king cobra genome reveals dynamic gene evolution and adaptation in the
 snake venom system"  
 

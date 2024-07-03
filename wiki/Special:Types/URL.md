@@ -42,10 +42,10 @@ Showing 3 properties using this type.
 
 ### H
 
-- [Property:Has URL](../Property:Has_URL "Property:Has URL")
+- [Property:Has URL](../Property%3AHas_URL "Property:Has URL")
 - [Property:Has download
-  URL](../Property:Has_download_URL "Property:Has download URL")
-- [Property:Has website](../Property:Has_website "Property:Has website")
+  URL](../Property%3AHas_download_URL "Property:Has download URL")
+- [Property:Has website](../Property%3AHas_website "Property:Has website")
 
 </div>
 

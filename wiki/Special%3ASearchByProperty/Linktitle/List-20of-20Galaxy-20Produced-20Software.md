@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "List of Galaxy Produced Software"  
 
 - [Galaxy#https://galaxyproject.github.io](/wiki/Galaxy#https:.2F.2Fgalaxyproject.github.io "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy-23https:-2F-2Fgalaxyproject.github.io "Special%3ABrowse/Galaxy-23https:-2F-2Fgalaxyproject.github.io")</span>

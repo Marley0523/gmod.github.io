@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Property:Has download URL](/wiki/Property:Has_download_URL "Property:Has download URL") |  |
+| [Property:Has download URL](/wiki/Property%3AHas_download_URL "Property:Has download URL") |  |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 August 2013 18:59:46  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20August-202013-2018:59:46 "Special%3ASearchByProperty/Modification-20date/9-20August-202013-2018:59:46")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[URL](/wiki/Special:Types/URL "Special:Types/URL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[URL](/wiki/Special:Types/URL "Special:Types/URL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

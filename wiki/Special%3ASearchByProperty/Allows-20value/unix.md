@@ -35,12 +35,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Allows
-value](/wiki/Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This
+value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "unix"  
 
 - [Property:Available on
-  platform](/wiki/Property:Available_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>
+  platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>
 
  
 

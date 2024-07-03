@@ -38,12 +38,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">WebApollo demo - Bos taurus genome  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome "Special%3ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">WebApollo demo - Bos taurus genome  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome "Special%3ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/WebApollo "Special%3ASearchByProperty/Linktopic/WebApollo")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/demo-20server "Special%3ASearchByProperty/Linktype/demo-20server")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/demo-20server "Special%3ASearchByProperty/Linktype/demo-20server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://genomearchitect.org:8080/WebApolloDemo/  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%3ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span></span> |
@@ -56,7 +56,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

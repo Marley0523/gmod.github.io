@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "wild urls"  
 
 - [MAKER#http://hymenopteragenome.org/ant_genomes/](/wiki/MAKER#http:.2F.2Fhymenopteragenome.org.2Fant_genomes.2F "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23http:-2F-2Fhymenopteragenome.org-2Fant_genomes-2F "Special%3ABrowse/MAKER-23http:-2F-2Fhymenopteragenome.org-2Fant genomes-2F")</span>

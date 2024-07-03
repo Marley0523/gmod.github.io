@@ -84,7 +84,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GBrowse_Tutorial
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [GBrowse](../GBrowse.1 "GBrowse") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](../Property%3AHas_topic "Property:Has topic") | [GBrowse](../GBrowse.1 "GBrowse") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 </div>
 

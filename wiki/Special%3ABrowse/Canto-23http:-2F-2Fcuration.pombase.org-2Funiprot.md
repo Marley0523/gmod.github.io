@@ -41,12 +41,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Curate GO annotations for proteins using UniProtKB identifiers  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20proteins-20using-20UniProtKB-20identifiers "Special%3ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20proteins-20using-20UniProtKB-20identifiers")</span></span> |
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">Generic Gene Ontology Canto  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto "Special%3ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">Generic Gene Ontology Canto  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto "Special%3ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Canto "Special%3ASearchByProperty/Linktopic/Canto")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://curation.pombase.org/uniprot  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Funiprot "Special%3ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Funiprot")</span></span> |
@@ -59,7 +59,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

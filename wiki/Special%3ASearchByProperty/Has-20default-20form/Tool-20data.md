@@ -35,7 +35,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has default
-form](/wiki/Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This
+form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Tool data](/wiki/Form:Tool_data "Form:Tool data")"  
 

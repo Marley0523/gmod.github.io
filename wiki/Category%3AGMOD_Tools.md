@@ -91,7 +91,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form:Component_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form:Component_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
 
 </div>
 

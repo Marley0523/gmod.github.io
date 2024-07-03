@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GCC2014: June 30 - July 2](/wiki/News/GCC2014:_June_30_-_July_2 "News/GCC2014: June 30 - July 2") |  |
+| [News/GCC2014: June 30 - July 2](/wiki/News/GCC2014%3A_June_30_-_July_2 "News/GCC2014: June 30 - July 2") |  |
 
 |  |  |
 |----|----|

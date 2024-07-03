@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Trellis server"  
 
 - [WebApollo#http://code.google.com/p/genomancer](/wiki/WebApollo#http:.2F.2Fcode.google.com.2Fp.2Fgenomancer "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer "Special%3ABrowse/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer")</span>

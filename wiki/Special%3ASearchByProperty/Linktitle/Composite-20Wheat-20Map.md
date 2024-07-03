@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Composite Wheat Map"  
 
 - [CMap#http://map.lab.nig.ac.jp:8080/cmap/](/wiki/CMap#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F "Special%3ABrowse/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F")</span>

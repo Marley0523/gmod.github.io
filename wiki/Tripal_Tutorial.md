@@ -4289,7 +4289,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_v1.1 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
 </div>
 

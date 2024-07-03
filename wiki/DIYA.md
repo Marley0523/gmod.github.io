@@ -245,7 +245,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/DIYA "Special:ExportRDF/DIYA")</spa
 </colgroup>
 <tbody>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Available_on_platform"
+<td class="smwpropname"><a href="Property%3AAvailable_on_platform"
 title="Property:Available on platform">Available on platform</a></td>
 <td class="smwprops">linux <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/linux"
@@ -258,7 +258,7 @@ href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
 title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_URL"
+<td class="smwpropname"><a href="Property%3AHas_URL"
 title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="https://github.com/bioteam/DIYA"
 class="external free" rel="nofollow">https://github.com/bioteam/DIYA</a>
@@ -267,7 +267,7 @@ href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fbioteam-2FDI
 title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fbioteam-2FDIYA">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_description"
+<td class="smwpropname"><a href="Property%3AHas_description"
 title="Property:Has description">Has description</a></td>
 <td class="smwprops">DIYA (Do-It-Yourself Annotator) is a modul<span
 class="smw-highlighter" data-type="2" data-state="persistent"
@@ -295,7 +295,7 @@ href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x
 class="external text" rel="nofollow">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_development_status"
+<td class="smwpropname"><a href="Property%3AHas_development_status"
 title="Property:Has development status">Has development status</a></td>
 <td class="smwprops">inactive <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20development-20status/inactive"
@@ -311,7 +311,7 @@ href="Special%3ASearchByProperty/Has-20full-20name/Do-2DIt-2DYourself-20Annotato
 title="Special%3ASearchByProperty/Has-20full-20name/Do-2DIt-2DYourself-20Annotator">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_input_format"
+<td class="smwpropname"><a href="Property%3AHas_input_format"
 title="Property:Has input format">Has input format</a></td>
 <td class="smwprops">FASTA <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/FASTA"
@@ -324,7 +324,7 @@ href="Special%3ASearchByProperty/Has-20input-20format/Genbank"
 title="Special%3ASearchByProperty/Has-20input-20format/Genbank">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_licence"
+<td class="smwpropname"><a href="Property%3AHas_licence"
 title="Property:Has licence">Has licence</a></td>
 <td class="smwprops"><a
 href="http://opensource.org/licenses/gpl-license" class="external text"
@@ -333,14 +333,14 @@ href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Fli
 title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_logo"
+<td class="smwpropname"><a href="Property%3AHas_logo"
 title="Property:Has logo">Has logo</a></td>
 <td class="smwprops">DIYALogo.png <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20logo/DIYALogo.png"
 title="Special%3ASearchByProperty/Has-20logo/DIYALogo.png">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_output_format"
+<td class="smwpropname"><a href="Property%3AHas_output_format"
 title="Property:Has output format">Has output format</a></td>
 <td class="smwprops">FASTA <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20output-20format/FASTA"
@@ -353,7 +353,7 @@ href="Special%3ASearchByProperty/Has-20output-20format/Genbank"
 title="Special%3ASearchByProperty/Has-20output-20format/Genbank">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_software_maturity_status"
+<td class="smwpropname"><a href="Property%3AHas_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a></td>
 <td class="smwprops">beta release <span class="smwsearch"><a
@@ -361,21 +361,21 @@ href="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20relea
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20release">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_support_status"
+<td class="smwpropname"><a href="Property%3AHas_support_status"
 title="Property:Has support status">Has support status</a></td>
 <td class="smwprops">inactive <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20support-20status/inactive"
 title="Special%3ASearchByProperty/Has-20support-20status/inactive">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_topic"
+<td class="smwpropname"><a href="Property%3AHas_topic"
 title="Property:Has topic">Has topic</a></td>
 <td class="smwprops"><strong>DIYA</strong> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20topic/DIYA"
 title="Special%3ASearchByProperty/Has-20topic/DIYA">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Interaction_type"
+<td class="smwpropname"><a href="Property%3AInteraction_type"
 title="Property:Interaction type">Interaction type</a></td>
 <td class="smwprops">provides input for <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for"
@@ -391,7 +391,7 @@ href="Special%3ASearchByProperty/Interactor/DIYA"
 title="Special%3ASearchByProperty/Interactor/DIYA">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Interacts_with"
+<td class="smwpropname"><a href="Property%3AInteracts_with"
 title="Property:Interacts with">Interacts with</a></td>
 <td class="smwprops"><a href="GBrowse.1" title="GBrowse">GBrowse</a>
 <span class="smwsearch"><a
@@ -399,14 +399,14 @@ href="Special%3ASearchByProperty/Interacts-20with/GBrowse"
 title="Special%3ASearchByProperty/Interacts-20with/GBrowse">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Is_open_source"
+<td class="smwpropname"><a href="Property%3AIs_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Is-20open-20source/Yes"
 title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Link_type"
+<td class="smwpropname"><a href="Property%3ALink_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">download <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/download"
@@ -416,7 +416,7 @@ href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Release_date"
+<td class="smwpropname"><a href="Property%3ARelease_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">2008 <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Release-20date/2008"
@@ -424,7 +424,7 @@ title="Special%3ASearchByProperty/Release-20date/2008">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
-href="Property:Tool_functionality_or_classification"
+href="Property%3ATool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Genome annotation <span class="smwsearch"><a
@@ -438,7 +438,7 @@ href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20integration">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Written_in_language"
+<td class="smwpropname"><a href="Property%3AWritten_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Perl <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Written-20in-20language/Perl"
@@ -447,7 +447,7 @@ title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td
 <tr class="odd row-odd">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
 data-state="inline" data-title="Property"><span class="smwbuiltin"><a
-href="Property:Has_subobject" title="Property:Has subobject">Has
+href="Property%3AHas_subobject" title="Property:Has subobject">Has
 subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a

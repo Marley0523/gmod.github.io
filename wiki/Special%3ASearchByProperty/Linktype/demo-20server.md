@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "demo server"  
 
 - [CMap#http://www.gramene.org/db/cmap](/wiki/CMap#http:.2F.2Fwww.gramene.org.2Fdb.2Fcmap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap "Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap")</span>

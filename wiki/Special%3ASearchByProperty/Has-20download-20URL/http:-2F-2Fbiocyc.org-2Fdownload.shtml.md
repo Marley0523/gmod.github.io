@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has download
-URL](/wiki/Property:Has_download_URL "Property:Has download URL")" with
+URL](/wiki/Property%3AHas_download_URL "Property:Has download URL")" with
 value "<a href="http://biocyc.org/download.shtml" class="external"
 rel="nofollow">http://biocyc.org/download.shtml</a>"  
 

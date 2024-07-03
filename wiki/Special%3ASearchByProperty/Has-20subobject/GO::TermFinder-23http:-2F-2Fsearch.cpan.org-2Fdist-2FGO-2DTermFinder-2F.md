@@ -35,7 +35,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This
+subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/](/wiki/GO::TermFinder#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F "GO::TermFinder")"  
 

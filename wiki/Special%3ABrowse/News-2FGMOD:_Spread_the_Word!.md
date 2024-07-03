@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/GMOD: Spread the Word!](/wiki/News/GMOD:_Spread_the_Word! "News/GMOD: Spread the Word!") |  |
+| [News/GMOD: Spread the Word!](/wiki/News/GMOD%3A_Spread_the_Word! "News/GMOD: Spread the Word!") |  |
 
 |  |  |
 |----|----|

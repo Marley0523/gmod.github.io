@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/DIYA: Do It Yourself Annotator](/wiki/News/DIYA:_Do_It_Yourself_Annotator "News/DIYA: Do It Yourself Annotator") |  |
+| [News/DIYA: Do It Yourself Annotator](/wiki/News/DIYA%3A_Do_It_Yourself_Annotator "News/DIYA: Do It Yourself Annotator") |  |
 
 |  |  |
 |----|----|

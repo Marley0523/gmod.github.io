@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "source code"  
 
 - [CMap#https://gmod.svn.sourceforge.net/svnroot/gmod/cmap](/wiki/CMap#https:.2F.2Fgmod.svn.sourceforge.net.2Fsvnroot.2Fgmod.2Fcmap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap "Special%3ABrowse/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap")</span>

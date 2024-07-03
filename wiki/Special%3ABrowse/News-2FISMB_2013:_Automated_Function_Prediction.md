@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/ISMB 2013: Automated Function Prediction](/wiki/News/ISMB_2013:_Automated_Function_Prediction "News/ISMB 2013: Automated Function Prediction") |  |
+| [News/ISMB 2013: Automated Function Prediction](/wiki/News/ISMB_2013%3A_Automated_Function_Prediction "News/ISMB 2013: Automated Function Prediction") |  |
 
 |  |  |
 |----|----|

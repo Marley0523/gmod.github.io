@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">DIYA  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/DIYA "Special%3ASearchByProperty/Linktopic/DIYA")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> , <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/website "Special%3ASearchByProperty/Linktype/website")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> , <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/website "Special%3ASearchByProperty/Linktype/website")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://github.com/bioteam/DIYA  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fbioteam-2FDIYA "Special%3ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fbioteam-2FDIYA")</span></span> |
@@ -55,7 +55,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[DIYA](/wiki/DIYA "DIYA") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[DIYA](/wiki/DIYA "DIYA") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

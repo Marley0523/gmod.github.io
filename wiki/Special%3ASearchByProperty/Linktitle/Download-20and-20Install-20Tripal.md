@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Download and Install Tripal"  
 
 - [Tripal#http://tripal.info/tutorials/v2.x/installation](/wiki/Tripal#http:.2F.2Ftripal.info.2Ftutorials.2Fv2.x.2Finstallation "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation "Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation")</span>

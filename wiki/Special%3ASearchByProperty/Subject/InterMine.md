@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Subject](/wiki/Property:Subject "Property:Subject")" with value
+"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[InterMine](/wiki/InterMine "InterMine")"  
 
 - [InterMine](/wiki/InterMine#_35f0a4dfb21d901063f9534114909319 "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23_35f0a4dfb21d901063f9534114909319 "Special%3ABrowse/InterMine-23 35f0a4dfb21d901063f9534114909319")</span>

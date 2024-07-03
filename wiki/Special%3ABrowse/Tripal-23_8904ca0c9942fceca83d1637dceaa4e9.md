@@ -45,7 +45,7 @@ class="new" title="Property:Object (page does not exist)">Object</a> | <span cla
 href="/mediawiki/index.php?title=Property:Relationship&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Relationship (page does not exist)">Relationship</a> | <span class="smwb-value">can embed  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Relationship/can-20embed "Special%3ASearchByProperty/Relationship/can-20embed")</span></span> |
-| [Subject](/wiki/Property:Subject "Property:Subject") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> |
+| [Subject](/wiki/Property%3ASubject "Property%3ASubject") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -55,7 +55,7 @@ title="Property:Relationship (page does not exist)">Relationship</a> | <span cla
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

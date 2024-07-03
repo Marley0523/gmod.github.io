@@ -41,12 +41,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">online version of the MAKER tool  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool "Special%3ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool")</span></span> |
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">MAKER Web Annotation Server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server "Special%3ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">MAKER Web Annotation Server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server "Special%3ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/MAKER "Special%3ASearchByProperty/Linktopic/MAKER")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/public-20server "Special%3ASearchByProperty/Linktype/public-20server")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/public-20server "Special%3ASearchByProperty/Linktype/public-20server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%3ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span></span> |
@@ -59,7 +59,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

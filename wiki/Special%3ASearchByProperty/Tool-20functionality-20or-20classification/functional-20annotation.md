@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Tool functionality or
-classification](/wiki/Property:Tool_functionality_or_classification "Property:Tool functionality or classification")"
+classification](/wiki/Property%3ATool_functionality_or_classification "Property:Tool functionality or classification")"
 with value "functional annotation"  
 
 - [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>

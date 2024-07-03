@@ -35,15 +35,15 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This
+type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Page](/wiki/Special:Types/Page "Special:Types/Page")"  
 
 - [Property:Has
-  topic](/wiki/Property:Has_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20topic "Special%3ABrowse/Property:Has-20topic")</span>
+  topic](/wiki/Property%3AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20topic "Special%3ABrowse/Property:Has-20topic")</span>
 - [Property:Interacts
-  with](/wiki/Property:Interacts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interacts-20with "Special%3ABrowse/Property:Interacts-20with")</span>
-- [Property:Subject](/wiki/Property:Subject "Property:Subject")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Subject "Special%3ABrowse/Property:Subject")</span>
+  with](/wiki/Property%3AInteracts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interacts-20with "Special%3ABrowse/Property:Interacts-20with")</span>
+- [Property%3ASubject](/wiki/Property%3ASubject "Property%3ASubject")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ASubject "Special%3ABrowse/Property%3ASubject")</span>
 
  
 

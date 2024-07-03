@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Release
-date](/wiki/Property:Release_date "Property:Release date")" with value
+date](/wiki/Property%3ARelease_date "Property:Release date")" with value
 "November 2020". Since there have been only a few results, also nearby
 values are displayed.  
 

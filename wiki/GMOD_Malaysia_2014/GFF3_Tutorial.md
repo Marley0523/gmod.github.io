@@ -88,7 +88,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GFF3_Tutorial "S
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GFF3 "Special%3ASearchByProperty/Has-20topic/GFF3")</span> |
+| [Has topic](../Property%3AHas_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GFF3 "Special%3ASearchByProperty/Has-20topic/GFF3")</span> |
 
 </div>
 

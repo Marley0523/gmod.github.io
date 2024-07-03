@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">13 January 2019 21:05:10  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/13-20January-202019-2021:05:10 "Special%3ASearchByProperty/Modification-20date/13-20January-202019-2021:05:10")</span></span> |
 
 <span id="smw_browse_incoming"></span>

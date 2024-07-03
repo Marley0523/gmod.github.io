@@ -324,14 +324,14 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebGBrowse "Special:ExportRDF/WebGB
 </colgroup>
 <tbody>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Available_on_platform"
+<td class="smwpropname"><a href="Property%3AAvailable_on_platform"
 title="Property:Available on platform">Available on platform</a></td>
 <td class="smwprops">web <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/web"
 title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_URL"
+<td class="smwpropname"><a href="Property%3AHas_URL"
 title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a
 href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
@@ -347,7 +347,7 @@ href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu
 title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_description"
+<td class="smwpropname"><a href="Property%3AHas_description"
 title="Property:Has description">Has description</a></td>
 <td class="smwprops">The [[GBrowse|Generic Genome Browser (GBro<span
 class="smw-highlighter" data-type="2" data-state="persistent"
@@ -390,14 +390,14 @@ href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x
 class="external text" rel="nofollow">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_development_status"
+<td class="smwpropname"><a href="Property%3AHas_development_status"
 title="Property:Has development status">Has development status</a></td>
 <td class="smwprops">inactive <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20development-20status/inactive"
 title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_download_URL"
+<td class="smwpropname"><a href="Property%3AHas_download_URL"
 title="Property:Has download URL">Has download URL</a></td>
 <td class="smwprops"><a
 href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
@@ -408,7 +408,7 @@ href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.
 title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_input_format"
+<td class="smwpropname"><a href="Property%3AHas_input_format"
 title="Property:Has input format">Has input format</a></td>
 <td class="smwprops"><a href="GFF3" title="GFF3">GFF3</a> <span
 class="smwsearch"><a
@@ -416,14 +416,14 @@ href="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D"
 title="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_logo"
+<td class="smwpropname"><a href="Property%3AHas_logo"
 title="Property:Has logo">Has logo</a></td>
 <td class="smwprops">WebGBrowseLogo.png <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20logo/WebGBrowseLogo.png"
 title="Special%3ASearchByProperty/Has-20logo/WebGBrowseLogo.png">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_output_format"
+<td class="smwpropname"><a href="Property%3AHas_output_format"
 title="Property:Has output format">Has output format</a></td>
 <td class="smwprops">GBrowse configuration file <span
 class="smwsearch"><a
@@ -431,7 +431,7 @@ href="Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-2
 title="Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-20file">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_software_maturity_status"
+<td class="smwpropname"><a href="Property%3AHas_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a></td>
 <td class="smwprops">mature <span class="smwsearch"><a
@@ -439,14 +439,14 @@ href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_support_status"
+<td class="smwpropname"><a href="Property%3AHas_support_status"
 title="Property:Has support status">Has support status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20support-20status/active"
 title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_topic"
+<td class="smwpropname"><a href="Property%3AHas_topic"
 title="Property:Has topic">Has topic</a></td>
 <td class="smwprops"><strong>WebGBrowse</strong> <span
 class="smwsearch"><a
@@ -454,7 +454,7 @@ href="Special%3ASearchByProperty/Has-20topic/WebGBrowse"
 title="Special%3ASearchByProperty/Has-20topic/WebGBrowse">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_website"
+<td class="smwpropname"><a href="Property%3AHas_website"
 title="Property:Has website">Has website</a></td>
 <td class="smwprops"><a href="http://webgbrowse.cgb.indiana.edu"
 class="external free"
@@ -464,7 +464,7 @@ href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana
 title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Link_type"
+<td class="smwpropname"><a href="Property%3ALink_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">download <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/download"
@@ -480,7 +480,7 @@ href="Special%3ASearchByProperty/Link-20type/public-20server"
 title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Release_date"
+<td class="smwpropname"><a href="Property%3ARelease_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">1 January 2009 <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Release-20date/1-20January-202009"
@@ -488,7 +488,7 @@ title="Special%3ASearchByProperty/Release-20date/1-20January-202009">+</a></span
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
-href="Property:Tool_functionality_or_classification"
+href="Property%3ATool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Genome Visualization and Editing <span
@@ -500,7 +500,7 @@ href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Written_in_language"
+<td class="smwpropname"><a href="Property%3AWritten_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Perl <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Written-20in-20language/Perl"
@@ -512,7 +512,7 @@ title="Special%3ASearchByProperty/Written-20in-20language/GBrowse-20config-20fil
 <tr class="odd row-odd">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
 data-state="inline" data-title="Property"><span class="smwbuiltin"><a
-href="Property:Has_subobject" title="Property:Has subobject">Has
+href="Property%3AHas_subobject" title="Property:Has subobject">Has
 subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a

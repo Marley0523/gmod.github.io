@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value "List
+title](/wiki/Property%3AHas_title "Property:Has title")" with value "List
 of Galaxy Produced Software"  
 
 - [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>

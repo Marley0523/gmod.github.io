@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "WebApollo demo - Bos taurus genome"  
 
 - [WebApollo#http://genomearchitect.org:8080/WebApolloDemo/](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%3ABrowse/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span>

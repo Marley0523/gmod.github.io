@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "The Jane-Ome, medicinal marijuana project"  
 
 - [JBrowse#http://www.medicinalgenomics.com/the-jane-ome/](/wiki/JBrowse#http:.2F.2Fwww.medicinalgenomics.com.2Fthe-jane-ome.2F "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-23http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%3ABrowse/JBrowse-23http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>

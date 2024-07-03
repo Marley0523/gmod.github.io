@@ -35,7 +35,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This
+subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Textpresso#http://textpresso-www.caltech.edu/cgi-bin/celegans/user_guide](/wiki/Textpresso#http:.2F.2Ftextpresso-www.caltech.edu.2Fcgi-bin.2Fcelegans.2Fuser_guide "Textpresso")"  
 

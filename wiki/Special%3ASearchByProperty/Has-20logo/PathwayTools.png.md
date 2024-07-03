@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-logo](/wiki/Property:Has_logo "Property:Has logo")" with value
+logo](/wiki/Property%3AHas_logo "Property:Has logo")" with value
 "PathwayTools.png"  
 
 - [Pathway

@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Galaxy "Special%3ASearchByProperty/Linktopic/Galaxy")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/website "Special%3ASearchByProperty/Linktype/website")</span></span> , <span class="smwb-value">documentation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/documentation "Special%3ASearchByProperty/Linktype/documentation")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/website "Special%3ASearchByProperty/Linktype/website")</span></span> , <span class="smwb-value">documentation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/documentation "Special%3ASearchByProperty/Linktype/documentation")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://galaxyproject.org/  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2F "Special%3ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2F")</span></span> |
@@ -55,7 +55,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

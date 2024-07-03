@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-description](/wiki/Property:Has_description "Property:Has description")"
+description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "BLAST Graphic Viewer provides a graphical visualization of
 the regions contained within HSPs relative to the query sequence. BLAST
 Graphic Viewer is also known as blastGraphic."  

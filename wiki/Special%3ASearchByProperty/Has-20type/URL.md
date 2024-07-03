@@ -35,16 +35,16 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This
+type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[URL](/wiki/Special:Types/URL "Special:Types/URL")"  
 
 - [Property:Has
-  URL](/wiki/Property:Has_URL "Property:Has URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20URL "Special%3ABrowse/Property:Has-20URL")</span>
+  URL](/wiki/Property%3AHas_URL "Property:Has URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20URL "Special%3ABrowse/Property:Has-20URL")</span>
 - [Property:Has download
-  URL](/wiki/Property:Has_download_URL "Property:Has download URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20download-20URL "Special%3ABrowse/Property:Has-20download-20URL")</span>
+  URL](/wiki/Property%3AHas_download_URL "Property:Has download URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20download-20URL "Special%3ABrowse/Property:Has-20download-20URL")</span>
 - [Property:Has
-  website](/wiki/Property:Has_website "Property:Has website")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>
+  website](/wiki/Property%3AHas_website "Property:Has website")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>
 
  
 

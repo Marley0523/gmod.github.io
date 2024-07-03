@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/YAPC::NA 2010 is Almost Here!](/wiki/News/YAPC::NA_2010_is_Almost_Here! "News/YAPC::NA 2010 is Almost Here!") |  |
+| [News/YAPC::NA 2010 is Almost Here!](/wiki/News/YAPC%3A%3ANA_2010_is_Almost_Here! "News/YAPC::NA 2010 is Almost Here!") |  |
 
 |  |  |
 |----|----|

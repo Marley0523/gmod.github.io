@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Interacts
-with](/wiki/Property:Interacts_with "Property:Interacts with")" with
+with](/wiki/Property%3AInteracts_with "Property:Interacts with")" with
 value "[Galaxy](/wiki/Galaxy "Galaxy")"  
 
 - [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>

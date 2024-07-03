@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Link
-type](/wiki/Property:Link_type "Property:Link type")" with value "public
+type](/wiki/Property%3ALink_type "Property:Link type")" with value "public
 server"  
 
 - [BLAST Graphic

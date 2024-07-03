@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Link
-type](/wiki/Property:Link_type "Property:Link type")" with value "wild
+type](/wiki/Property%3ALink_type "Property:Link type")" with value "wild
 URL"  
 
 - [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>

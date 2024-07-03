@@ -35,14 +35,14 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Allows
-value](/wiki/Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This
+value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "inactive"  
 
 - [Property:Has development
-  status](/wiki/Property:Has_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>
+  status](/wiki/Property%3AHas_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>
 - [Property:Has support
-  status](/wiki/Property:Has_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20support-20status "Special%3ABrowse/Property:Has-20support-20status")</span>
+  status](/wiki/Property%3AHas_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20support-20status "Special%3ABrowse/Property:Has-20support-20status")</span>
 
  
 

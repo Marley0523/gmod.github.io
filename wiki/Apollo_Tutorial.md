@@ -1335,7 +1335,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2011 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
 
 </div>
 

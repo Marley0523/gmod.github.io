@@ -1931,7 +1931,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Online_Training_2014/Chado_Tut
 
 |  |  |
 |----|----|
-| [Has topic](../Property:Has_topic "Property:Has topic") | <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](../Property%3AHas_topic "Property:Has topic") | <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
 
 </div>
 

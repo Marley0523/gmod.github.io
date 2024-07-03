@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "TropGene"  
 
 - [CMap#http://tropgenedb.cirad.fr](/wiki/CMap#http:.2F.2Ftropgenedb.cirad.fr "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http:-2F-2Ftropgenedb.cirad.fr "Special%3ABrowse/CMap-23http:-2F-2Ftropgenedb.cirad.fr")</span>

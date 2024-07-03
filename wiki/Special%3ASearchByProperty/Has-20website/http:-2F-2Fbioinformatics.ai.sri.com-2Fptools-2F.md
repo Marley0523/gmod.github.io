@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-website](/wiki/Property:Has_website "Property:Has website")" with value
+website](/wiki/Property%3AHas_website "Property:Has website")" with value
 "<a href="http://bioinformatics.ai.sri.com/ptools/" class="external"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>"  
 
