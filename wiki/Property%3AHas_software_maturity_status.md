@@ -154,8 +154,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -318,7 +318,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has software maturity
-status](Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+status](Special%3ABrowse/Property%3AHas-20software-20maturity-20status "Special%3ABrowse/Property%3AHas-20software-20maturity-20status")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_maturity_status "Special:ExportRDF/Property:Has software maturity status")</span></span>
 
 |  |  |

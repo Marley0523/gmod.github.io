@@ -200,8 +200,8 @@ title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ont
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">Ontology Visualization  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization"
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Ontology-20Visualization">+</a></span>,
@@ -409,7 +409,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tool functionality or
-classification](Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+classification](Special%3ABrowse/Property%3ATool-20functionality-20or-20classification "Special%3ABrowse/Property%3ATool-20functionality-20or-20classification")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ATool_functionality_or_classification "Special:ExportRDF/Property:Tool functionality or classification")</span></span>
 
 |  |  |

@@ -211,7 +211,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Interacts
-with](Special%3ABrowse/Property:Interacts-20with "Special%3ABrowse/Property:Interacts-20with")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+with](Special%3ABrowse/Property%3AInteracts-20with "Special%3ABrowse/Property%3AInteracts-20with")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:ExportRDF/Property:Interacts with")</span></span>
 
 |  |  |

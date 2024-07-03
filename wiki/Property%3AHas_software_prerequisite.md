@@ -60,7 +60,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has software
-prerequisite](Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+prerequisite](Special%3ABrowse/Property%3AHas-20software-20prerequisite "Special%3ABrowse/Property%3AHas-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
 
 |  |  |

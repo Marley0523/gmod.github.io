@@ -37,7 +37,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="http://search.cpan.org/dist/GO-TermFinder/" class="external"
 rel="nofollow">http://search.cpan.org/dist/GO-TermFinder/</a>"  
 
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO::TermFinder "Special%3ABrowse/GO::TermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO%3A%3ATermFinder "Special%3ABrowse/GO%3A%3ATermFinder")</span>
 
  
 

@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "RatMine"  
 
-- [InterMine#http://ratmine.mcw.edu/](/wiki/InterMine#http:.2F.2Fratmine.mcw.edu.2F "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fratmine.mcw.edu-2F "Special%3ABrowse/InterMine-23http:-2F-2Fratmine.mcw.edu-2F")</span>
+- [InterMine#http://ratmine.mcw.edu/](/wiki/InterMine#http:.2F.2Fratmine.mcw.edu.2F "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F")</span>
 
  
 

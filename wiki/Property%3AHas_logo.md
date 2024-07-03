@@ -271,7 +271,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-logo](Special%3ABrowse/Property:Has-20logo "Special%3ABrowse/Property:Has-20logo")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+logo](Special%3ABrowse/Property%3AHas-20logo "Special%3ABrowse/Property%3AHas-20logo")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_logo "Special:ExportRDF/Property:Has logo")</span></span>
 
 |  |  |

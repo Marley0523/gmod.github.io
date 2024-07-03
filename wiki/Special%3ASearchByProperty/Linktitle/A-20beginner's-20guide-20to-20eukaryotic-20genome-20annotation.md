@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "A beginner's guide to eukaryotic genome annotation"  
 
-- [MAKER#https://www.e-biogenouest.org/resources/48](/wiki/MAKER#https:.2F.2Fwww.e-biogenouest.org.2Fresources.2F48 "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48 "Special%3ABrowse/MAKER-23https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48")</span>
+- [MAKER#https://www.e-biogenouest.org/resources/48](/wiki/MAKER#https:.2F.2Fwww.e-biogenouest.org.2Fresources.2F48 "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23https%3A-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48 "Special%3ABrowse/MAKER-23https%3A-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48")</span>
 
  
 

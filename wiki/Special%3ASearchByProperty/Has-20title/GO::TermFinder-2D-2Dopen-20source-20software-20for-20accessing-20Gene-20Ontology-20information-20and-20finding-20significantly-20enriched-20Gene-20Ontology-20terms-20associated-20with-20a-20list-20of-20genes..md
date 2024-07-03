@@ -38,7 +38,7 @@ title](/wiki/Property%3AHas_title "Property:Has title")" with value
 information and finding significantly enriched Gene Ontology terms
 associated with a list of genes."  
 
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO::TermFinder "Special%3ABrowse/GO::TermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO%3A%3ATermFinder "Special%3ABrowse/GO%3A%3ATermFinder")</span>
 
  
 

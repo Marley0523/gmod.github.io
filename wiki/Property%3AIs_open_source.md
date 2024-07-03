@@ -152,8 +152,8 @@ title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">Yes  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Is-20open-20source/Yes"
 title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
@@ -307,7 +307,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Is open
-source](Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+source](Special%3ABrowse/Property%3AIs-20open-20source "Special%3ABrowse/Property%3AIs-20open-20source")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AIs_open_source "Special:ExportRDF/Property:Is open source")</span></span>
 
 |  |  |

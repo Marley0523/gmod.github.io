@@ -165,8 +165,8 @@ title="Special%3ASearchByProperty/Has-20input-20format/OBO-20ontology">+</a></sp
 <tr class="odd">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">gene list  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/gene-20list"
 title="Special%3ASearchByProperty/Has-20input-20format/gene-20list">+</a></span></td>
@@ -381,7 +381,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has input
-format](Special%3ABrowse/Property:Has-20input-20format "Special%3ABrowse/Property:Has-20input-20format")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+format](Special%3ABrowse/Property%3AHas-20input-20format "Special%3ABrowse/Property%3AHas-20input-20format")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_input_format "Special:ExportRDF/Property:Has input format")</span></span>
 
 |  |  |

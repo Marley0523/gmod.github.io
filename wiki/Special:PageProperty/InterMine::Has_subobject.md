@@ -45,21 +45,21 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [InterMine](/wiki/InterMine#_1974840c5524f47e32e34fbc09fa67f4 "InterMine")
    <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23_1974840c5524f47e32e34fbc09fa67f4 "Special%3ABrowse/InterMine-23 1974840c5524f47e32e34fbc09fa67f4")</span>
 - [InterMine#http://www.wormbase.org/tools/wormmine](/wiki/InterMine#http:.2F.2Fwww.wormbase.org.2Ftools.2Fwormmine "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "Special%3ABrowse/InterMine-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine")</span>
 - [InterMine#http://zmine.zfin.org/](/wiki/InterMine#http:.2F.2Fzmine.zfin.org.2F "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fzmine.zfin.org-2F "Special%3ABrowse/InterMine-23http:-2F-2Fzmine.zfin.org-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F")</span>
 - [InterMine#http://www.flymine.org](/wiki/InterMine#http:.2F.2Fwww.flymine.org "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.flymine.org "Special%3ABrowse/InterMine-23http:-2F-2Fwww.flymine.org")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org")</span>
 - [InterMine#http://www.intermine.org](/wiki/InterMine#http:.2F.2Fwww.intermine.org "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.intermine.org "Special%3ABrowse/InterMine-23http:-2F-2Fwww.intermine.org")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.intermine.org "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.intermine.org")</span>
 - [InterMine#http://yeastmine.yeastgenome.org/](/wiki/InterMine#http:.2F.2Fyeastmine.yeastgenome.org.2F "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fyeastmine.yeastgenome.org-2F "Special%3ABrowse/InterMine-23http:-2F-2Fyeastmine.yeastgenome.org-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fyeastmine.yeastgenome.org-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fyeastmine.yeastgenome.org-2F")</span>
 - [InterMine#http://www.mousemine.org/](/wiki/InterMine#http:.2F.2Fwww.mousemine.org.2F "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.mousemine.org-2F "Special%3ABrowse/InterMine-23http:-2F-2Fwww.mousemine.org-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.mousemine.org-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.mousemine.org-2F")</span>
 - [InterMine#http://ratmine.mcw.edu/](/wiki/InterMine#http:.2F.2Fratmine.mcw.edu.2F "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fratmine.mcw.edu-2F "Special%3ABrowse/InterMine-23http:-2F-2Fratmine.mcw.edu-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F")</span>
 - [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%3ABrowse/InterMine-23https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
+   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%3ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
 
  
 

@@ -156,7 +156,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-website](Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+website](Special%3ABrowse/Property%3AHas-20website "Special%3ABrowse/Property%3AHas-20website")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_website "Special:ExportRDF/Property:Has website")</span></span>
 
 |  |  |
