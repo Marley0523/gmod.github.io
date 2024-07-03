@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Textpresso User Guide"  
 
-- [Textpresso#http://textpresso-www.caltech.edu/cgi-bin/celegans/user_guide](/wiki/Textpresso#http:.2F.2Ftextpresso-www.caltech.edu.2Fcgi-bin.2Fcelegans.2Fuser_guide "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso-23http:-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser_guide "Special%3ABrowse/Textpresso-23http:-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser guide")</span>
+- [Textpresso#http://textpresso-www.caltech.edu/cgi-bin/celegans/user_guide](/wiki/Textpresso#http:.2F.2Ftextpresso-www.caltech.edu.2Fcgi-bin.2Fcelegans.2Fuser_guide "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso-23http%3A-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser_guide "Special%3ABrowse/Textpresso-23http:-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser guide")</span>
 
  
 

@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "WebApollo demo - Bos taurus genome"  
 
-- [WebApollo#http://genomearchitect.org:8080/WebApolloDemo/](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%3ABrowse/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span>
+- [WebApollo#http://genomearchitect.org:8080/WebApolloDemo/](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%3ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span>
 
  
 

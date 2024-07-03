@@ -98,7 +98,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/CMap-23http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid=PM;ref_map_aids=109 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/CMap-23http%3A-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid=PM;ref_map_aids=109 "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 

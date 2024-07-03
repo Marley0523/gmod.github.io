@@ -206,8 +206,8 @@ title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/download"
 title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
@@ -453,7 +453,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Link
-type](Special%3ABrowse/Property:Link-20type "Special%3ABrowse/Property:Link-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+type](Special%3ABrowse/Property%3ALink-20type "Special%3ABrowse/Property%3ALink-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:ExportRDF/Property:Link type")</span></span>
 
 |  |  |

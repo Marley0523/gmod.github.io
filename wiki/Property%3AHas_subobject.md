@@ -264,8 +264,8 @@ title="Special%3ASearchByProperty/Has-20subobject/GO-20Graphic-20Viewer-23http:-
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops"><a
 href="GO::TermFinder.1#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F"
 title="GO::TermFinder">GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/</a>  <span

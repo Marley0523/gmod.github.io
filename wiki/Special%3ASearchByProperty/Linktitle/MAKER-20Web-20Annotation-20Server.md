@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "MAKER Web Annotation Server"  
 
-- [MAKER#http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi](/wiki/MAKER#http:.2F.2Fderringer.genetics.utah.edu.2Fcgi-bin.2FMWAS.2Fmaker.cgi "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%3ABrowse/MAKER-23http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span>
+- [MAKER#http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi](/wiki/MAKER#http:.2F.2Fderringer.genetics.utah.edu.2Fcgi-bin.2FMWAS.2Fmaker.cgi "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%3ABrowse/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span>
 
  
 

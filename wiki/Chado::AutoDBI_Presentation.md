@@ -606,7 +606,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado::AutoDBI_Presentation"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado%3A%3AAutoDBI_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 

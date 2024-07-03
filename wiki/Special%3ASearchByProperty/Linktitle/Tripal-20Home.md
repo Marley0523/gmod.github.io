@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Tripal Home"  
 
-- [Tripal#http://tripal.info](/wiki/Tripal#http:.2F.2Ftripal.info "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info "Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info")</span>
+- [Tripal#http://tripal.info](/wiki/Tripal#http:.2F.2Ftripal.info "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal-23http%3A-2F-2Ftripal.info "Special%3ABrowse/Tripal-23http%3A-2F-2Ftripal.info")</span>
 
  
 

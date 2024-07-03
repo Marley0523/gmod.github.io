@@ -238,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GO::TermFinder-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GO%3A%3ATermFinder-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

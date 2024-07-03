@@ -162,7 +162,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has download
-URL](Special%3ABrowse/Property:Has-20download-20URL "Special%3ABrowse/Property:Has-20download-20URL")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+URL](Special%3ABrowse/Property%3AHas-20download-20URL "Special%3ABrowse/Property%3AHas-20download-20URL")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_download_URL "Special:ExportRDF/Property:Has download URL")</span></span>
 
 |  |  |

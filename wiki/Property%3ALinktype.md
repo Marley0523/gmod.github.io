@@ -71,8 +71,8 @@ href="BLAST_Graphic_Viewer.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffile
 title="BLAST Graphic Viewer">BLAST Graphic
 Viewer#http://sourceforge.net/projects/gmod/files/blastGraphic/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FblastGraphic-2F"
-title="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FblastGraphic-2F">+</a></span></td>
+href="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FblastGraphic-2F"
+title="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FblastGraphic-2F">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/download"
 title="Special%3ASearchByProperty/Linktype/download">+</a></span></td>
@@ -83,8 +83,8 @@ href="BLAST_Graphic_Viewer.1#http:.2F.2Fwww.yeastgenome.org.2Fcgi-bin.2Fblast-sg
 title="BLAST Graphic Viewer">BLAST Graphic
 Viewer#http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl"
-title="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl">+</a></span></td>
+href="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl"
+title="Special%3ABrowse/BLAST-20Graphic-20Viewer-23http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl">+</a></span></td>
 <td class="smwprops">public server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/public-20server"
 title="Special%3ASearchByProperty/Linktype/public-20server">+</a></span></td>
@@ -93,8 +93,8 @@ title="Special%3ASearchByProperty/Linktype/public-20server">+</a></span></td>
 <td class="smwpropname"><a href="BioMart#http:.2F.2Fwww.biomart.org.2F"
 title="BioMart">BioMart#http://www.biomart.org/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2F"
-title="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2F">+</a></span></td>
+href="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F"
+title="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F">+</a></span></td>
 <td class="smwprops">website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/website"
 title="Special%3ASearchByProperty/Linktype/website">+</a></span></td>
@@ -104,8 +104,8 @@ title="Special%3ASearchByProperty/Linktype/website">+</a></span></td>
 href="BioMart#http:.2F.2Fwww.biomart.org.2Fdownload.html"
 title="BioMart">BioMart#http://www.biomart.org/download.html</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fdownload.html"
-title="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fdownload.html">+</a></span></td>
+href="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html"
+title="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/download"
 title="Special%3ASearchByProperty/Linktype/download">+</a></span></td>
@@ -115,8 +115,8 @@ title="Special%3ASearchByProperty/Linktype/download">+</a></span></td>
 href="BioMart#http:.2F.2Fwww.biomart.org.2Fcommunity.html"
 title="BioMart">BioMart#http://www.biomart.org/community.html</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fcommunity.html"
-title="Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fcommunity.html">+</a></span></td>
+href="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html"
+title="Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -130,7 +130,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Frye.pw.usda.gov.2Fcgi-bin.2Fcmap.2Fmap_set_info.3Fmap_set_aid.3DBarley_consensus_2003"
 title="CMap">CMap#http://rye.pw.usda.gov/cgi-bin/cmap/map_set_info?map_set_aid=Barley_consensus_2003</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Frye.pw.usda.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info-3Fmap_set_aid=Barley_consensus_2003"
+href="Special%3ABrowse/CMap-23http%3A-2F-2Frye.pw.usda.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info-3Fmap_set_aid=Barley_consensus_2003"
 title="Special%3ABrowse/CMap-23http:-2F-2Frye.pw.usda.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info-3Fmap set aid=Barley consensus 2003">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
@@ -141,8 +141,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.gramene.org.2Fdb.2Fcmap"
 title="CMap">CMap#http://www.gramene.org/db/cmap</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap"
-title="Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.gramene.org-2Fdb-2Fcmap"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.gramene.org-2Fdb-2Fcmap">+</a></span></td>
 <td class="smwprops">demo server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/demo-20server"
 title="Special%3ASearchByProperty/Linktype/demo-20server">+</a></span></td>
@@ -152,8 +152,8 @@ title="Special%3ASearchByProperty/Linktype/demo-20server">+</a></span></td>
 href="CMap.1#http:.2F.2Fsoybeanbreederstoolbox.org.2Findex.php"
 title="CMap">CMap#http://soybeanbreederstoolbox.org/index.php</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php"
-title="Special%3ABrowse/CMap-23http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -163,7 +163,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fmagi.plantgenomics.iastate.edu.2Fcgi-bin.2Fcmap.2Fmap_set_info"
 title="CMap">CMap#http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info"
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info"
 title="Special%3ABrowse/CMap-23http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap set info">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
@@ -174,8 +174,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F"
 title="CMap">CMap#http://map.lab.nig.ac.jp:8080/cmap/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -185,7 +185,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.bioinfo.wsu.edu.2Fcgi-bin.2Fgdr.2Fcmap.2Fmap_set_info.3Fmap_set_aid.3D17"
 title="CMap">CMap#http://www.bioinfo.wsu.edu/cgi-bin/gdr/cmap/map_set_info?map_set_aid=17</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.bioinfo.wsu.edu-2Fcgi-2Dbin-2Fgdr-2Fcmap-2Fmap_set_info-3Fmap_set_aid=17"
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.bioinfo.wsu.edu-2Fcgi-2Dbin-2Fgdr-2Fcmap-2Fmap_set_info-3Fmap_set_aid=17"
 title="Special%3ABrowse/CMap-23http:-2F-2Fwww.bioinfo.wsu.edu-2Fcgi-2Dbin-2Fgdr-2Fcmap-2Fmap set info-3Fmap set aid=17">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
@@ -196,8 +196,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fpeanutgenetics.tamu.edu.2Fcmap.2F"
 title="CMap">CMap#http://peanutgenetics.tamu.edu/cmap/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -207,8 +207,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2Fcmap.2F"
 title="CMap">CMap#http://sourceforge.net/projects/gmod/files/cmap/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/download"
 title="Special%3ASearchByProperty/Linktype/download">+</a></span></td>
@@ -218,8 +218,8 @@ title="Special%3ASearchByProperty/Linktype/download">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.cottonmarker.org.2F"
 title="CMap">CMap#http://www.cottonmarker.org/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.cottonmarker.org-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fwww.cottonmarker.org-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.cottonmarker.org-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.cottonmarker.org-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -229,8 +229,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.comparative-legumes.org.2F"
 title="CMap">CMap#http://www.comparative-legumes.org/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.comparative-2Dlegumes.org-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fwww.comparative-2Dlegumes.org-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -240,8 +240,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.cottondb.org.2Fcmap.2F"
 title="CMap">CMap#http://www.cottondb.org/cmap/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.cottondb.org-2Fcmap-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fwww.cottondb.org-2Fcmap-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.cottondb.org-2Fcmap-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.cottondb.org-2Fcmap-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -251,8 +251,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#https:.2F.2Fgmod.svn.sourceforge.net.2Fsvnroot.2Fgmod.2Fcmap"
 title="CMap">CMap#https://gmod.svn.sourceforge.net/svnroot/gmod/cmap</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap"
-title="Special%3ABrowse/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap">+</a></span></td>
+href="Special%3ABrowse/CMap-23https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap"
+title="Special%3ABrowse/CMap-23https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap">+</a></span></td>
 <td class="smwprops">source code  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/source-20code"
 title="Special%3ASearchByProperty/Linktype/source-20code">+</a></span></td>
@@ -262,8 +262,8 @@ title="Special%3ASearchByProperty/Linktype/source-20code">+</a></span></td>
 href="CMap.1#http:.2F.2Fbioinf.scri.sari.ac.uk.2F"
 title="CMap">CMap#http://bioinf.scri.sari.ac.uk/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fbioinf.scri.sari.ac.uk-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fbioinf.scri.sari.ac.uk-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -273,8 +273,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fracerx00.tamu.edu.2Fcgi-bin.2Fcmap.2Fviewer"
 title="CMap">CMap#http://racerx00.tamu.edu/cgi-bin/cmap/viewer</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer"
-title="Special%3ABrowse/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -284,8 +284,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.gramene.org.2Fcmap"
 title="CMap">CMap#http://www.gramene.org/cmap</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fcmap"
-title="Special%3ABrowse/CMap-23http:-2F-2Fwww.gramene.org-2Fcmap">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.gramene.org-2Fcmap"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.gramene.org-2Fcmap">+</a></span></td>
 <td class="smwprops">public server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/public-20server"
 title="Special%3ASearchByProperty/Linktype/public-20server">+</a></span>,
@@ -297,8 +297,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 <td class="smwpropname"><a href="CMap.1#http:.2F.2Ftropgenedb.cirad.fr"
 title="CMap">CMap#http://tropgenedb.cirad.fr</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Ftropgenedb.cirad.fr"
-title="Special%3ABrowse/CMap-23http:-2F-2Ftropgenedb.cirad.fr">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -308,7 +308,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fwww.pristionchus.org.2Fcgi-bin.2Fcmap.2Fviewer.3Fref_map_set_aid.3DPM.3Bref_map_aids.3D109"
 title="CMap">CMap#http://www.pristionchus.org/cgi-bin/cmap/viewer?ref_map_set_aid=PM;ref_map_aids=109</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid=PM;ref_map_aids=109"
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid=PM;ref_map_aids=109"
 title="Special%3ABrowse/CMap-23http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref map set aid=PM;ref map aids=109">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
@@ -319,8 +319,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fbioinformatics.pbcbasc.latrobe.edu.au.2Fbasc.2Fcgi-bin.2Findex.cgi"
 title="CMap">CMap#http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi"
-title="Special%3ABrowse/CMap-23http:-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
@@ -330,7 +330,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fcricket.ornl.gov.2Fcgi-bin.2Fcmap.2Fmap_set_info"
 title="CMap">CMap#http://cricket.ornl.gov/cgi-bin/cmap/map_set_info</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info"
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info"
 title="Special%3ABrowse/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
@@ -341,8 +341,8 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 href="CMap.1#http:.2F.2Fmedvet.angis.org.au.2Fcmap.2F"
 title="CMap">CMap#http://medvet.angis.org.au/cmap/</a> <span
 class="smwbrowse"><a
-href="Special%3ABrowse/CMap-23http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F"
-title="Special%3ABrowse/CMap-23http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F">+</a></span></td>
+href="Special%3ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F"
+title="Special%3ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F">+</a></span></td>
 <td class="smwprops">wild URL  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Linktype/wild-20URL"
 title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>

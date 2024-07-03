@@ -40,9 +40,9 @@ property is a special property in this wiki.</span></span>" with value
 "[Page](/wiki/Special:Types/Page "Special:Types/Page")"  
 
 - [Property:Has
-  topic](/wiki/Property%3AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20topic "Special%3ABrowse/Property:Has-20topic")</span>
+  topic](/wiki/Property%3AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20topic "Special%3ABrowse/Property%3AHas-20topic")</span>
 - [Property:Interacts
-  with](/wiki/Property%3AInteracts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interacts-20with "Special%3ABrowse/Property:Interacts-20with")</span>
+  with](/wiki/Property%3AInteracts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AInteracts-20with "Special%3ABrowse/Property%3AInteracts-20with")</span>
 - [Property%3ASubject](/wiki/Property%3ASubject "Property%3ASubject")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ASubject "Special%3ABrowse/Property%3ASubject")</span>
 
  

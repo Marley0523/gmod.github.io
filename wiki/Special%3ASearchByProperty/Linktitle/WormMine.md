@@ -36,7 +36,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "WormMine"  
 
-- [InterMine#http://www.wormbase.org/tools/wormmine](/wiki/InterMine#http:.2F.2Fwww.wormbase.org.2Ftools.2Fwormmine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "Special%3ABrowse/InterMine-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine")</span>
+- [InterMine#http://www.wormbase.org/tools/wormmine](/wiki/InterMine#http:.2F.2Fwww.wormbase.org.2Ftools.2Fwormmine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine")</span>
 
  
 

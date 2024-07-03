@@ -227,8 +227,8 @@ title="Special%3ASearchByProperty">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">GO TermFinder takes a list of genes as input, and
 determines whether there are enriched GO terms for that list. These
 modules provide an object oriented set of libraries for dealing with
@@ -687,7 +687,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-description](Special%3ABrowse/Property:Has-20description "Special%3ABrowse/Property:Has-20description")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+description](Special%3ABrowse/Property%3AHas-20description "Special%3ABrowse/Property%3AHas-20description")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_description "Special:ExportRDF/Property:Has description")</span></span>
 
 |  |  |

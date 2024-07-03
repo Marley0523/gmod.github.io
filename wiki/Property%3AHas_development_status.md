@@ -152,8 +152,8 @@ title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></sp
 <tr class="even">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO::TermFinder"
-title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
+href="Special%3ABrowse/GO%3A%3ATermFinder"
+title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">maintenance  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20development-20status/maintenance"
 title="Special%3ASearchByProperty/Has-20development-20status/maintenance">+</a></span></td>
@@ -316,7 +316,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has development
-status](Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+status](Special%3ABrowse/Property%3AHas-20development-20status "Special%3ABrowse/Property%3AHas-20development-20status")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_development_status "Special:ExportRDF/Property:Has development status")</span></span>
 
 |  |  |

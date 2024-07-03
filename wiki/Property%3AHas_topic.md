@@ -362,7 +362,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
-topic](Special%3ABrowse/Property:Has-20topic "Special%3ABrowse/Property:Has-20topic")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+topic](Special%3ABrowse/Property%3AHas-20topic "Special%3ABrowse/Property%3AHas-20topic")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_topic "Special:ExportRDF/Property:Has topic")</span></span>
 
 |  |  |

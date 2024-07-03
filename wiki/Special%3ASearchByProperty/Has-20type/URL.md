@@ -40,11 +40,11 @@ property is a special property in this wiki.</span></span>" with value
 "[URL](/wiki/Special:Types/URL "Special:Types/URL")"  
 
 - [Property:Has
-  URL](/wiki/Property%3AHas_URL "Property:Has URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20URL "Special%3ABrowse/Property:Has-20URL")</span>
+  URL](/wiki/Property%3AHas_URL "Property:Has URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20URL "Special%3ABrowse/Property%3AHas-20URL")</span>
 - [Property:Has download
-  URL](/wiki/Property%3AHas_download_URL "Property:Has download URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20download-20URL "Special%3ABrowse/Property:Has-20download-20URL")</span>
+  URL](/wiki/Property%3AHas_download_URL "Property:Has download URL")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20download-20URL "Special%3ABrowse/Property%3AHas-20download-20URL")</span>
 - [Property:Has
-  website](/wiki/Property%3AHas_website "Property:Has website")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>
+  website](/wiki/Property%3AHas_website "Property:Has website")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20website "Special%3ABrowse/Property%3AHas-20website")</span>
 
  
 

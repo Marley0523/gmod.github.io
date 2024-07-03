@@ -195,7 +195,7 @@ Retrieved from
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Interaction
-type](Special%3ABrowse/Property:Interaction-20type "Special%3ABrowse/Property:Interaction-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+type](Special%3ABrowse/Property%3AInteraction-20type "Special%3ABrowse/Property%3AInteraction-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteraction_type "Special:ExportRDF/Property:Interaction type")</span></span>
 
 |  |  |
