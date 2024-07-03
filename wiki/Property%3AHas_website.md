@@ -142,7 +142,7 @@ title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fgmod.org-2Fwiki-2FXOR
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Has_website&oldid=24306#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Has_website&oldid=24306#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AHas_website&oldid=24306#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AHas_website&oldid=24306#SMWResults#SMWResults)"
 
 </div>
 
@@ -157,11 +157,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
 website](Special%3ABrowse/Property:Has-20website "Special%3ABrowse/Property:Has-20website")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_website "Special:ExportRDF/Property:Has website")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_website "Special:ExportRDF/Property:Has website")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special:Types/URL "Special:Types/URL") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special:Types/URL "Special:Types/URL") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span> |
 
 </div>
 
@@ -190,7 +190,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_website)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_website)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_website&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -292,7 +292,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_website" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_website" rel="smw-browse">Browse
   properties</a></span>
 
 

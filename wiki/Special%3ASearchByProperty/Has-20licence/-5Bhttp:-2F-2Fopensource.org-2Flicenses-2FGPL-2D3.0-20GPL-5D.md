@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-licence](/wiki/Property:Has_licence "Property:Has licence")" with value
+licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "\[http://opensource.org/licenses/GPL-3.0 GPL\]"  
 
 - [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>

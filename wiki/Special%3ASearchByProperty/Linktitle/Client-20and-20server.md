@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Client and server"  
 
 - [WebApollo#https://github.com/gmod/apollo](/wiki/WebApollo#https:.2F.2Fgithub.com.2Fgmod.2Fapollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo "Special%3ABrowse/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo")</span>

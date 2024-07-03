@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "HapMap"  
 
 - [GBrowse#http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/gbrowse](/wiki/GBrowse#http:.2F.2Fhapmap.ncbi.nlm.nih.gov.2Fcgi-perl.2Fgbrowse.2Fgbrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-23http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse "Special%3ABrowse/GBrowse-23http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse")</span>

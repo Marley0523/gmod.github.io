@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Property:Linktitle</span>
+# <span dir="auto">Property%3ALinktitle</span>
 
 <div id="bodyContent">
 
@@ -51,7 +51,7 @@ This is a property of type
 Showing 25 pages using this property.
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Linktitle&from=GBrowse+syn#SMWResults#SMWResults "Property:Linktitle"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3ALinktitle&from=GBrowse+syn#SMWResults#SMWResults "Property%3ALinktitle"))
 
 <table style="width: 100%; ">
 <colgroup>
@@ -361,7 +361,7 @@ title="Special%3ASearchByProperty/Linktitle/The-20Arabidopsis-20Information-20Re
 </table>
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Linktitle&from=GBrowse+syn#SMWResults#SMWResults "Property:Linktitle"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3ALinktitle&from=GBrowse+syn#SMWResults#SMWResults "Property%3ALinktitle"))
 
 </div>
 
@@ -370,7 +370,7 @@ title="Special%3ASearchByProperty/Linktitle/The-20Arabidopsis-20Information-20Re
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Linktitle&oldid=24579#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Linktitle&oldid=24579#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3ALinktitle&oldid=24579#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ALinktitle&oldid=24579#SMWResults#SMWResults)"
 
 </div>
 
@@ -383,12 +383,12 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Linktitle](Special%3ABrowse/Property:Linktitle "Special%3ABrowse/Property:Linktitle")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Linktitle "Special:ExportRDF/Property:Linktitle")</span></span>
+"<span class="swmfactboxheadbrowse">[Linktitle](Special%3ABrowse/Property%3ALinktitle "Special%3ABrowse/Property%3ALinktitle")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALinktitle "Special:ExportRDF/Property%3ALinktitle")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -417,7 +417,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Linktitle)</span>
+- <span id="ca-nstab-property">[Property](Property%3ALinktitle)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Linktitle&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -519,7 +519,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Linktitle" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ALinktitle" rel="smw-browse">Browse
   properties</a></span>
 
 

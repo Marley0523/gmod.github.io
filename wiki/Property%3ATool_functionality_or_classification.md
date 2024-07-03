@@ -395,7 +395,7 @@ title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Mid
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Tool_functionality_or_classification&oldid=24860#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Tool_functionality_or_classification&oldid=24860#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3ATool_functionality_or_classification&oldid=24860#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ATool_functionality_or_classification&oldid=24860#SMWResults#SMWResults)"
 
 </div>
 
@@ -410,11 +410,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tool functionality or
 classification](Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Tool_functionality_or_classification "Special:ExportRDF/Property:Tool functionality or classification")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ATool_functionality_or_classification "Special:ExportRDF/Property:Tool functionality or classification")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -443,7 +443,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Tool_functionality_or_classification)</span>
+- <span id="ca-nstab-property">[Property](Property%3ATool_functionality_or_classification)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Tool_functionality_or_classification&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -545,7 +545,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Tool_functionality_or_classification"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ATool_functionality_or_classification"
   rel="smw-browse">Browse properties</a></span>
 
 

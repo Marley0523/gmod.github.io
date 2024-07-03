@@ -35,12 +35,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Allows
-value](/wiki/Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This
+value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "Yes"  
 
 - [Property:Is open
-  source](/wiki/Property:Is_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>
+  source](/wiki/Property%3AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>
 
  
 

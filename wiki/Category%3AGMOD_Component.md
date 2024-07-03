@@ -178,7 +178,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property:Has_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form:Tool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form:Tool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
 
 </div>
 

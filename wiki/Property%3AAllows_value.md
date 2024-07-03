@@ -73,7 +73,7 @@ this property.
 </thead>
 <tbody>
 <tr class="odd">
-<td class="smwpropname"><a href="Property:Available_on_platform"
+<td class="smwpropname"><a href="Property%3AAvailable_on_platform"
 title="Property:Available on platform">Available on platform</a> <span
 class="smwbrowse"><a
 href="Special%3ABrowse/Property:Available-20on-20platform"
@@ -87,7 +87,7 @@ title="Special%3ASearchByProperty/Allows-20value/linux">+</a></span>, os
 x  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Allows-20value/os-20x"
 title="Special%3ASearchByProperty/Allows-20value/os-20x">+</a></span>, <a
-href="Special:PageProperty/Property:Available_on_platform::Allows_value"
+href="Special:PageProperty/Property%3AAvailable_on_platform::Allows_value"
 title="Special:PageProperty/Property:Available on platform::Allows value">…</a></td>
 </tr>
 <tr class="even">
@@ -95,7 +95,7 @@ title="Special:PageProperty/Property:Available on platform::Allows value">…</a
 <td></td>
 </tr>
 <tr class="odd">
-<td class="smwpropname"><a href="Property:Has_development_status"
+<td class="smwpropname"><a href="Property%3AHas_development_status"
 title="Property:Has development status">Has development status</a> <span
 class="smwbrowse"><a
 href="Special%3ABrowse/Property:Has-20development-20status"
@@ -111,7 +111,7 @@ href="Special%3ASearchByProperty/Allows-20value/inactive"
 title="Special%3ASearchByProperty/Allows-20value/inactive">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="Property:Has_software_maturity_status"
+<td class="smwpropname"><a href="Property%3AHas_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/Property:Has-20software-20maturity-20status"
@@ -126,11 +126,11 @@ alpha release  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Allows-20value/alpha-20release"
 title="Special%3ASearchByProperty/Allows-20value/alpha-20release">+</a></span>,
 <a
-href="Special:PageProperty/Property:Has_software_maturity_status::Allows_value"
+href="Special:PageProperty/Property%3AHas_software_maturity_status::Allows_value"
 title="Special:PageProperty/Property:Has software maturity status::Allows value">…</a></td>
 </tr>
 <tr class="odd">
-<td class="smwpropname"><a href="Property:Has_support_status"
+<td class="smwpropname"><a href="Property%3AHas_support_status"
 title="Property:Has support status">Has support status</a> <span
 class="smwbrowse"><a
 href="Special%3ABrowse/Property:Has-20support-20status"
@@ -147,7 +147,7 @@ title="Special%3ASearchByProperty/Allows-20value/inactive">+</a></span></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td class="smwpropname"><a href="Property:Is_open_source"
+<td class="smwpropname"><a href="Property%3AIs_open_source"
 title="Property:Is open source">Is open source</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/Property:Is-20open-20source"
 title="Special%3ABrowse/Property:Is-20open-20source">+</a></span></td>
@@ -166,7 +166,7 @@ title="Special%3ASearchByProperty/Allows-20value/Caveats-20apply">+</a></span></
 <td></td>
 </tr>
 <tr class="odd">
-<td class="smwpropname"><a href="Property:Link_type"
+<td class="smwpropname"><a href="Property%3ALink_type"
 title="Property:Link type">Link type</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/Property:Link-20type"
 title="Special%3ABrowse/Property:Link-20type">+</a></span></td>
@@ -179,7 +179,7 @@ title="Special%3ASearchByProperty/Allows-20value/download">+</a></span>,
 source code  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Allows-20value/source-20code"
 title="Special%3ASearchByProperty/Allows-20value/source-20code">+</a></span>,
-<a href="Special:PageProperty/Property:Link_type::Allows_value"
+<a href="Special:PageProperty/Property%3ALink_type::Allows_value"
 title="Special:PageProperty/Property:Link type::Allows value">…</a></td>
 </tr>
 </tbody>
@@ -192,7 +192,7 @@ title="Special:PageProperty/Property:Link type::Allows value">…</a></td>
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/wiki/Property:Allows_value#SMWResults](Property:Allows_value#SMWResults)"
+"[http://gmod.org/wiki/Property%3AAllows_value#SMWResults](Property%3AAllows_value#SMWResults)"
 
 </div>
 
@@ -223,7 +223,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Allows_value)</span>
+- <span id="ca-nstab-property">[Property](Property%3AAllows_value)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Allows_value&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -325,7 +325,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Allows_value" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AAllows_value" rel="smw-browse">Browse
   properties</a></span>
 
 

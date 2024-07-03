@@ -439,7 +439,7 @@ title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Link_type&oldid=24614#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Link_type&oldid=24614#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3ALink_type&oldid=24614#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ALink_type&oldid=24614#SMWResults#SMWResults)"
 
 </div>
 
@@ -454,12 +454,12 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Link
 type](Special%3ABrowse/Property:Link-20type "Special%3ABrowse/Property:Link-20type")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Link_type "Special:ExportRDF/Property:Link type")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:ExportRDF/Property:Link type")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | website <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/website "Special%3ASearchByProperty/Allows-20value/website")</span>, download <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/download "Special%3ASearchByProperty/Allows-20value/download")</span>, source code <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/source-20code "Special%3ASearchByProperty/Allows-20value/source-20code")</span>, public server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/public-20server "Special%3ASearchByProperty/Allows-20value/public-20server")</span>, demo server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/demo-20server "Special%3ASearchByProperty/Allows-20value/demo-20server")</span>, wild URL <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/wild-20URL "Special%3ASearchByProperty/Allows-20value/wild-20URL")</span>, documentation <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/documentation "Special%3ASearchByProperty/Allows-20value/documentation")</span>, publication <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/publication "Special%3ASearchByProperty/Allows-20value/publication")</span>, social media <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/social-20media "Special%3ASearchByProperty/Allows-20value/social-20media")</span> and other <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/other "Special%3ASearchByProperty/Allows-20value/other")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | website <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/website "Special%3ASearchByProperty/Allows-20value/website")</span>, download <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/download "Special%3ASearchByProperty/Allows-20value/download")</span>, source code <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/source-20code "Special%3ASearchByProperty/Allows-20value/source-20code")</span>, public server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/public-20server "Special%3ASearchByProperty/Allows-20value/public-20server")</span>, demo server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/demo-20server "Special%3ASearchByProperty/Allows-20value/demo-20server")</span>, wild URL <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/wild-20URL "Special%3ASearchByProperty/Allows-20value/wild-20URL")</span>, documentation <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/documentation "Special%3ASearchByProperty/Allows-20value/documentation")</span>, publication <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/publication "Special%3ASearchByProperty/Allows-20value/publication")</span>, social media <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/social-20media "Special%3ASearchByProperty/Allows-20value/social-20media")</span> and other <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/other "Special%3ASearchByProperty/Allows-20value/other")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -488,7 +488,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Link_type)</span>
+- <span id="ca-nstab-property">[Property](Property%3ALink_type)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Link_type&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -590,7 +590,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Link_type" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ALink_type" rel="smw-browse">Browse
   properties</a></span>
 
 

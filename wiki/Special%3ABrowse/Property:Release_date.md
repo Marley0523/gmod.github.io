@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Property:Release date](/wiki/Property:Release_date "Property:Release date") |  |
+| [Property:Release date](/wiki/Property%3ARelease_date "Property:Release date") |  |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">21 August 2013 20:27:58  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/21-20August-202013-2020:27:58 "Special%3ASearchByProperty/Modification-20date/21-20August-202013-2020:27:58")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Date](/wiki/Special:Types/Date "Special:Types/Date")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Date "Special%3ASearchByProperty/Has-20type/Date")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Date](/wiki/Special:Types/Date "Special:Types/Date")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Date "Special%3ASearchByProperty/Has-20type/Date")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Property:Release_date>"
+"<http://gmod.org/wiki/Special%3ABrowse/Property%3ARelease_date>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property:Release_date "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Property%3ARelease_date "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Property:Release_date&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Property%3ARelease_date&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

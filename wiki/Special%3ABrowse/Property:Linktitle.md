@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                                                     |     |
 |---------------------------------------------------------------------|-----|
-| [Property:Linktitle](/wiki/Property:Linktitle "Property:Linktitle") |     |
+| [Property%3ALinktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") |     |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">1 October 2013 23:12:55  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/1-20October-202013-2023:12:55 "Special%3ASearchByProperty/Modification-20date/1-20October-202013-2023:12:55")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special:Types/Text "Special:Types/Text")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special:Types/Text "Special:Types/Text")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Property:Linktitle>"
+"<http://gmod.org/wiki/Special%3ABrowse/Property%3ALinktitle>"
 
 </div>
 
@@ -96,7 +96,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property:Linktitle "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Property%3ALinktitle "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Property:Linktitle&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Property%3ALinktitle&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

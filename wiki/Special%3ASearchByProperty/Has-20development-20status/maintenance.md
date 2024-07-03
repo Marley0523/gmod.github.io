@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has development
-status](/wiki/Property:Has_development_status "Property:Has development status")"
+status](/wiki/Property%3AHas_development_status "Property:Has development status")"
 with value "maintenance"  
 
 - [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO::TermFinder "Special%3ABrowse/GO::TermFinder")</span>

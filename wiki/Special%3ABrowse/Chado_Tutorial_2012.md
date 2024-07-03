@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20-2D-20Getting-20Started "Special%3ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20-2D-20Getting-20Started "Special%3ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Presentations](/wiki/Category%3APresentations "Category%3APresentations")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Presentations "Special%3ASearchByProperty/Presentations")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
 class="new"

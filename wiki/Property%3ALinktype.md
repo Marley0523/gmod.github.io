@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Property:Linktype</span>
+# <span dir="auto">Property%3ALinktype</span>
 
 <div id="bodyContent">
 
@@ -51,7 +51,7 @@ This is a property of type
 Showing 25 pages using this property.
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Linktype&from=Canto#SMWResults#SMWResults "Property:Linktype"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3ALinktype&from=Canto#SMWResults#SMWResults "Property%3ALinktype"))
 
 <table style="width: 100%; ">
 <colgroup>
@@ -351,7 +351,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 </table>
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Linktype&from=Canto#SMWResults#SMWResults "Property:Linktype"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3ALinktype&from=Canto#SMWResults#SMWResults "Property%3ALinktype"))
 
 </div>
 
@@ -360,7 +360,7 @@ title="Special%3ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Linktype&oldid=24580#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Linktype&oldid=24580#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3ALinktype&oldid=24580#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ALinktype&oldid=24580#SMWResults#SMWResults)"
 
 </div>
 
@@ -373,12 +373,12 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Linktype](Special%3ABrowse/Property:Linktype "Special%3ABrowse/Property:Linktype")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Linktype "Special:ExportRDF/Property:Linktype")</span></span>
+"<span class="swmfactboxheadbrowse">[Linktype](Special%3ABrowse/Property%3ALinktype "Special%3ABrowse/Property%3ALinktype")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALinktype "Special:ExportRDF/Property%3ALinktype")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -407,7 +407,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Linktype)</span>
+- <span id="ca-nstab-property">[Property](Property%3ALinktype)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Linktype&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -509,7 +509,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Linktype" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ALinktype" rel="smw-browse">Browse
   properties</a></span>
 
 

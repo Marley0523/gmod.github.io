@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-topic](/wiki/Property:Has_topic "Property:Has topic")" with value
+topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[WebGBrowse](/wiki/WebGBrowse "WebGBrowse")"  
 
 - [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span>

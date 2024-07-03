@@ -41,12 +41,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Review article on eukaryotic genome annotation from the MAKER team.  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/Review-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team. "Special%3ASearchByProperty/Linkdesc/Review-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team.")</span></span> |
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">A beginner's guide to eukaryotic genome annotation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/A-20beginner%27s-20guide-20to-20eukaryotic-20genome-20annotation "Special%3ASearchByProperty/Linktitle/A-20beginner's-20guide-20to-20eukaryotic-20genome-20annotation")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">A beginner's guide to eukaryotic genome annotation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/A-20beginner%27s-20guide-20to-20eukaryotic-20genome-20annotation "Special%3ASearchByProperty/Linktitle/A-20beginner's-20guide-20to-20eukaryotic-20genome-20annotation")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/MAKER "Special%3ASearchByProperty/Linktopic/MAKER")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">publication  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/publication "Special%3ASearchByProperty/Linktype/publication")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">publication  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/publication "Special%3ASearchByProperty/Linktype/publication")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://www.e-biogenouest.org/resources/48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48 "Special%3ASearchByProperty/Linkurl/https:-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48")</span></span> |
@@ -59,7 +59,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

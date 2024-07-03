@@ -38,12 +38,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">WebApollo download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/WebApollo-20download "Special%3ASearchByProperty/Linktitle/WebApollo-20download")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">WebApollo download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/WebApollo-20download "Special%3ASearchByProperty/Linktitle/WebApollo-20download")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo2  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/WebApollo2 "Special%3ASearchByProperty/Linktopic/WebApollo2")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://github.com/GMOD/Apollo/releases  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases "Special%3ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases")</span></span> |
@@ -56,7 +56,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

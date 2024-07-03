@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Subject](/wiki/Property:Subject "Property:Subject")" with value
+"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[DIYA](/wiki/DIYA "DIYA")"  
 
 - [DIYA](/wiki/DIYA#_2957d43c15df6d72a07738da3e51a062 "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA-23_2957d43c15df6d72a07738da3e51a062 "Special%3ABrowse/DIYA-23 2957d43c15df6d72a07738da3e51a062")</span>

@@ -45,7 +45,7 @@ title="Chado">Chado#https://sourceforge.net/projects/gmod/files/gmod/</a> |  |
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Chado  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Chado "Special%3ASearchByProperty/Linktopic/Chado")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://sourceforge.net/projects/gmod/files/gmod/  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fgmod-2F "Special%3ASearchByProperty/Linkurl/https:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fgmod-2F")</span></span> |

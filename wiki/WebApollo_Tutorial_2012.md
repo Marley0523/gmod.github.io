@@ -1596,7 +1596,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:Ex
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 </div>
 

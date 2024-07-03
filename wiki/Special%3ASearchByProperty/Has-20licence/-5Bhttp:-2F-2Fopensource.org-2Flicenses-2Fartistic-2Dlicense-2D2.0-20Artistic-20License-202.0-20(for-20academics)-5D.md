@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-licence](/wiki/Property:Has_licence "Property:Has licence")" with value
+licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "\[http://opensource.org/licenses/artistic-license-2.0 Artistic License
 2.0 (for academics)\]"  
 

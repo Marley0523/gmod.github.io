@@ -367,7 +367,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a></
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Has_input_format&oldid=24457#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Has_input_format&oldid=24457#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AHas_input_format&oldid=24457#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AHas_input_format&oldid=24457#SMWResults#SMWResults)"
 
 </div>
 
@@ -382,11 +382,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has input
 format](Special%3ABrowse/Property:Has-20input-20format "Special%3ABrowse/Property:Has-20input-20format")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_input_format "Special:ExportRDF/Property:Has input format")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_input_format "Special:ExportRDF/Property:Has input format")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -415,7 +415,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_input_format)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_input_format)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_input_format&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -517,7 +517,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_input_format"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_input_format"
   rel="smw-browse">Browse properties</a></span>
 
 

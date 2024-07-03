@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[MAKER](/wiki/Category%3AMAKER "Category%3AMAKER")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MAKER "Special%3ASearchByProperty/MAKER")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 February 2013 22:41:20  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/14-20February-202013-2022:41:20 "Special%3ASearchByProperty/Modification-20date/14-20February-202013-2022:41:20")</span></span> |
 

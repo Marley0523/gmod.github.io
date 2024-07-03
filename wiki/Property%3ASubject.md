@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Property:Subject</span>
+# <span dir="auto">Property%3ASubject</span>
 
 <div id="bodyContent">
 
@@ -275,7 +275,7 @@ title="Special%3ASearchByProperty/Subject/XORT">+</a></span></td>
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Subject&oldid=24584#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Subject&oldid=24584#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3ASubject&oldid=24584#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ASubject&oldid=24584#SMWResults#SMWResults)"
 
 </div>
 
@@ -288,12 +288,12 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Subject](Special%3ABrowse/Property:Subject "Special%3ABrowse/Property:Subject")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Subject "Special:ExportRDF/Property:Subject")</span></span>
+"<span class="swmfactboxheadbrowse">[Subject](Special%3ABrowse/Property%3ASubject "Special%3ABrowse/Property%3ASubject")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ASubject "Special:ExportRDF/Property%3ASubject")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
 
 </div>
 
@@ -322,7 +322,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Subject)</span>
+- <span id="ca-nstab-property">[Property](Property%3ASubject)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Subject&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -424,7 +424,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Subject" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ASubject" rel="smw-browse">Browse
   properties</a></span>
 
 

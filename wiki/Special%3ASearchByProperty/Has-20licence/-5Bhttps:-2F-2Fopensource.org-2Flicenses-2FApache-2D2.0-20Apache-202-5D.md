@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-licence](/wiki/Property:Has_licence "Property:Has licence")" with value
+licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "\[https://opensource.org/licenses/Apache-2.0 Apache 2\]"  
 
 - [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>

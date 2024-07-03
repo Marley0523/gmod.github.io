@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Property:Has default form](/wiki/Property:Has_default_form "Property:Has default form") |  |
+| [Property:Has default form](/wiki/Property%3AHas_default_form "Property:Has default form") |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -63,7 +63,7 @@ Enter the name of the page to start browsing from.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special%3ABrowse/Property:Has_default_form>"
+"<http://gmod.org/wiki/Special%3ABrowse/Property%3AHas_default_form>"
 
 </div>
 
@@ -95,7 +95,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property:Has_default_form "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%3ABrowse/Property%3AHas_default_form "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Property:Has_default_form&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special%3ABrowse/Property%3AHas_default_form&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

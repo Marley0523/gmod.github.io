@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Property:Has default form</span>
+# <span dir="auto">Property:Has software prerequisite</span>
 
 <div id="bodyContent">
 
@@ -36,78 +36,38 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 </div>
 
-<div id="mw-content-text">
+<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="smw-pa-property-predefined-intro">
-
-Has default form is a predefined property (also known as <a
-href="https://www.semantic-mediawiki.org/wiki/Help:Special_properties"
-class="external text" rel="nofollow">special property</a>). It is a
-built-in property that comes with additional administrative privileges
-but can be used just like any other
-<a href="https://www.semantic-mediawiki.org/wiki/Property"
-class="external text" rel="nofollow">user-defined property</a>.
-
-</div>
-
-  
-<span id="SMWResults"></span>
-
-<div id="mw-pages">
-
-## Pages using the property "Has default form"
-
-This property is a special property in this wiki. Showing 2 pages using
-this property.
-
-<table style="width: 100%; ">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th class="smwpropname"><h3 id="g">G</h3></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td class="smwpropname"><a href="Category%3AGMOD_Component"
-title="Category%3AGMOD Component">GMOD Component</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Category%3AGMOD-20Component"
-title="Special%3ABrowse/Category%3AGMOD-20Component">+</a></span></td>
-<td class="smwprops"><a href="Form:Tool_data"
-title="Form:Tool data">Tool data</a>  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20default-20form/Tool-20data"
-title="Special%3ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
-</tr>
-<tr class="even">
-<td class="smwpropname"><a href="Category%3AGMOD_Tools"
-title="Category%3AGMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Category%3AGMOD-20Tools"
-title="Special%3ABrowse/Category%3AGMOD-20Tools">+</a></span></td>
-<td class="smwprops"><a href="Form:Component_information"
-title="Form:Component information">Component information</a>  <span
-class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20default-20form/Component-20information"
-title="Special%3ASearchByProperty/Has-20default-20form/Component-20information">+</a></span></td>
-</tr>
-</tbody>
-</table>
-
-</div>
+This is a property of type
+[Text](Special:Types/Text "Special:Types/Text").
 
 </div>
 
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/wiki/Property:Has_default_form#SMWResults](Property:Has_default_form#SMWResults)"
+"<http://gmod.org/mediawiki/index.php?title=Property%3AHas_software_prerequisite&oldid=24410>"
 
 </div>
 
 <div id="catlinks" class="catlinks catlinks-allhidden">
+
+</div>
+
+<div id="mw-data-after-content">
+
+<div class="smwfact">
+
+<span class="smwfactboxhead">Facts about
+"<span class="swmfactboxheadbrowse">[Has software
+prerequisite](Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
+
+|  |  |
+|----|----|
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+
+</div>
 
 </div>
 
@@ -134,9 +94,9 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_default_form)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_software_prerequisite)</span>
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_default_form&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_software_prerequisite&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -236,7 +196,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_default_form"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_software_prerequisite"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -249,6 +209,16 @@ aria-labelledby="p-tb-label">
 </div>
 
 <div id="footer" role="contentinfo">
+
+- <span id="footer-info-lastmod">Last updated at 02:50 on 22 August
+  2013.</span>
+<!-- - <span id="footer-info-viewcount">4,081 page views.</span> -->
+- <span id="footer-info-copyright">Content is available under
+  <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
+  rel="nofollow">a GNU Free Documentation License</a> unless otherwise
+  noted.</span>
+
+<!-- -->
 
 - <span id="footer-places-about">[About
   GMOD](GMOD:About "GMOD:About")</span>

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-URL](/wiki/Property:Has_URL "Property:Has URL")" with value
+URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder"
 class="external"
 rel="nofollow">http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder</a>"  

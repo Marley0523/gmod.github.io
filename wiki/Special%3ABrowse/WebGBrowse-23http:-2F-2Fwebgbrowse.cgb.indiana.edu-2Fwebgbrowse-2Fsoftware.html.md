@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebGBrowse  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/WebGBrowse "Special%3ASearchByProperty/Linktopic/WebGBrowse")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/source-20code "Special%3ASearchByProperty/Linktype/source-20code")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/download "Special%3ASearchByProperty/Linktype/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/source-20code "Special%3ASearchByProperty/Linktype/source-20code")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html "Special%3ASearchByProperty/Linkurl/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html")</span></span> |
@@ -55,7 +55,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

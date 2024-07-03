@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property:Has_topic "Property:Has topic") | <span class="smwb-value">[GFF3](/wiki/GFF3 "GFF3") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF3 "Special%3ABrowse/GFF3")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[GFF3](/wiki/GFF3 "GFF3") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF3 "Special%3ABrowse/GFF3")</span></span> |
 | [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GFF3 "Special%3ASearchByProperty/GFF3")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> |

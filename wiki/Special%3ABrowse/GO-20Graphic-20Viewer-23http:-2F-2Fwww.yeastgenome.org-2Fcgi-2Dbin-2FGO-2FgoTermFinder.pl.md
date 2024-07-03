@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">GO Graphic Viewer  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/GO-20Graphic-20Viewer "Special%3ASearchByProperty/Linktopic/GO-20Graphic-20Viewer")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/public-20server "Special%3ASearchByProperty/Linktype/public-20server")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/public-20server "Special%3ASearchByProperty/Linktype/public-20server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "Special%3ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl")</span></span> |
@@ -55,7 +55,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

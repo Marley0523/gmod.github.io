@@ -837,7 +837,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 |  |  |
 |----|----|
-| [Has topic](Property:Has_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/SOBA "Special%3ASearchByProperty/Has-20topic/SOBA")</span> |
+| [Has topic](Property%3AHas_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/SOBA "Special%3ASearchByProperty/Has-20topic/SOBA")</span> |
 
 </div>
 

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Written in
-language](/wiki/Property:Written_in_language "Property:Written in language")"
+language](/wiki/Property%3AWritten_in_language "Property:Written in language")"
 with value "React"  
 
 - [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>

@@ -35,12 +35,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This
+type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Date](/wiki/Special:Types/Date "Special:Types/Date")"  
 
 - [Property:Release
-  date](/wiki/Property:Release_date "Property:Release date")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Release-20date "Special%3ABrowse/Property:Release-20date")</span>
+  date](/wiki/Property%3ARelease_date "Property:Release date")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Release-20date "Special%3ABrowse/Property:Release-20date")</span>
 
  
 

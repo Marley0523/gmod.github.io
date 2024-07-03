@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "InterMine source at GitHub"  
 
 - [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%3ABrowse/InterMine-23https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>

@@ -42,16 +42,16 @@ Showing 3 properties using this type.
 
 ### H
 
-- [Property:Has topic](../Property:Has_topic "Property:Has topic")
+- [Property:Has topic](../Property%3AHas_topic "Property:Has topic")
 
 ### I
 
 - [Property:Interacts
-  with](../Property:Interacts_with "Property:Interacts with")
+  with](../Property%3AInteracts_with "Property:Interacts with")
 
 ### S
 
-- [Property:Subject](../Property:Subject "Property:Subject")
+- [Property%3ASubject](../Property%3ASubject "Property%3ASubject")
 
 </div>
 

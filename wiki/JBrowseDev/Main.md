@@ -487,7 +487,7 @@ Retrieved from
 "<span class="swmfactboxheadbrowse">[JBrowse](../Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
 
-[Available on platform](../Property:Available_on_platform "Property:Available on platform")
+[Available on platform](../Property%3AAvailable_on_platform "Property:Available on platform")
 
 </div>
 
@@ -500,7 +500,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse"
 web
 <span class="smwsearch">[+](../Special%3ASearchByProperty/Available-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>
 
-[Has URL](../Property:Has_URL "Property:Has URL")
+[Has URL](../Property%3AHas_URL "Property:Has URL")
 
 <a href="http://jbrowse.org/install/" class="external free"
 rel="nofollow">http://jbrowse.org/install/</a>
@@ -531,7 +531,7 @@ class="external free"
 rel="nofollow">http://www.medicinalgenomics.com/the-jane-ome/</a>
 <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>
 
-[Has description](../Property:Has_description "Property:Has description")
+[Has description](../Property%3AHas_description "Property:Has description")
 
 JBrowse is a genome browser with a fully d<span class="smw-highlighter"
 data-type="2" state="persistent"

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value
+title](/wiki/Property%3AHas_title "Property:Has title")" with value
 "GO::TermFinder--open source software for accessing Gene Ontology
 information and finding significantly enriched Gene Ontology terms
 associated with a list of genes."  

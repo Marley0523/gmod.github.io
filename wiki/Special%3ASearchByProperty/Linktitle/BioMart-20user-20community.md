@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "BioMart user community"  
 
 - [BioMart#http://www.biomart.org/community.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fcommunity.html "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fcommunity.html "Special%3ABrowse/BioMart-23http:-2F-2Fwww.biomart.org-2Fcommunity.html")</span>

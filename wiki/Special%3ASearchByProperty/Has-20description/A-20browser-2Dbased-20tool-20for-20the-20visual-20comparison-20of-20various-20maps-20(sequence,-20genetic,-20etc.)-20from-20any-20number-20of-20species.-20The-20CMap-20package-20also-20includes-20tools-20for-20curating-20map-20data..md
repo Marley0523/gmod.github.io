@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-description](/wiki/Property:Has_description "Property:Has description")"
+description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "A browser-based tool for the visual comparison of various
 maps (sequence, genetic, etc.) from any number of species. The CMap
 package also includes tools for curating map data."  

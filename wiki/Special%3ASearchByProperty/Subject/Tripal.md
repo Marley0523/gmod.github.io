@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Subject](/wiki/Property:Subject "Property:Subject")" with value
+"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[Tripal](/wiki/Tripal "Tripal")"  
 
 - [Tripal](/wiki/Tripal#_780a3bd63980716b96e285070f997e2a "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal-23_780a3bd63980716b96e285070f997e2a "Special%3ABrowse/Tripal-23 780a3bd63980716b96e285070f997e2a")</span>

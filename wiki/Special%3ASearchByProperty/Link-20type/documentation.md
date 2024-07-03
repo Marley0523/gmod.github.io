@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Link
-type](/wiki/Property:Link_type "Property:Link type")" with value
+type](/wiki/Property%3ALink_type "Property:Link type")" with value
 "documentation"  
 
 - [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>

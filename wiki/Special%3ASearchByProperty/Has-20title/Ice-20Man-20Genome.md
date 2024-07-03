@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value "Ice
+title](/wiki/Property%3AHas_title "Property:Has title")" with value "Ice
 Man Genome"  
 
 - [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>

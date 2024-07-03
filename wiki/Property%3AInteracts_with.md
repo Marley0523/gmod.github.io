@@ -197,7 +197,7 @@ title="Special%3ASearchByProperty/Interacts-20with/Chado-20-2D-20Getting-20Start
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Interacts_with&oldid=24589#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Interacts_with&oldid=24589#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AInteracts_with&oldid=24589#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AInteracts_with&oldid=24589#SMWResults#SMWResults)"
 
 </div>
 
@@ -212,11 +212,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Interacts
 with](Special%3ABrowse/Property:Interacts-20with "Special%3ABrowse/Property:Interacts-20with")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Interacts_with "Special:ExportRDF/Property:Interacts with")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:ExportRDF/Property:Interacts with")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
 
 </div>
 
@@ -245,7 +245,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Interacts_with)</span>
+- <span id="ca-nstab-property">[Property](Property%3AInteracts_with)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Interacts_with&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -347,7 +347,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Interacts_with" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AInteracts_with" rel="smw-browse">Browse
   properties</a></span>
 
 

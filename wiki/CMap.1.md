@@ -538,7 +538,7 @@ Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
 "<span class="http://gmod.org/wiki/"swmfactboxheadbrowse"">[CMap](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
 
-[Available on platform](/wiki/Property:Available_on_platform "Property:Available on platform")
+[Available on platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")
 
 </div>
 
@@ -547,7 +547,7 @@ feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
 web
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Avaihttp://gmod.org/wiki/lable-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>
 
-[Has URL](/wiki/Property:Has_URL "Property:Has URL")
+[Has URL](/wiki/Property%3AHas_URL "Property:Has URL")
 
 <a href="http://sourceforge.net/projects/gmod/files/cmap/"
 class="external free"
@@ -625,7 +625,7 @@ class="external free"
 rel="nofollow">http://cricket.ornl.gov/cgi-bin/cmap/map_set_info</a>
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
 
-[Has description](/wiki/Property:Has_description "Property:Has description")
+[Has description](/wiki/Property%3AHas_description "Property:Has description")
 
 A browser-based tool for the visual comparison of various maps
 (sequence, genetic, etc.) from any number of species. The CMap package
@@ -642,46 +642,46 @@ The Honey Bee genome database
 and Brassica database
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20description/Brassica-20database "Special%3ASearchByProperty/Has-20description/Brassica-20database")</span>
 
-[Has&##160;development status](/wiki/Property:Has_development_status "Property:Has development status")
+[Has&##160;development status](/wiki/Property%3AHas_development_status "Property:Has development status")
 
 inactive
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20developmehttp://gmod.org/wiki/nt-20status/inactive "Special%3ASearchByProperty/Has-20development-20status/inactive")</span>
 
-[Has&##160;input format](/wikihttp://gmod.org/Property:Has_input_format "Property:Has input format")
+[Has&##160;input format](/wikihttp://gmod.org/Property%3AHas_input_format "Property:Has input format")
 
 tab-delimited
 <span class="smwsearch">[+](/wiki/Special:SearchByProperhttp://gmod.org/wiki/ty/Has-20input-20format/tab-2Ddelimited "Special%3ASearchByProperty/Has-20input-20format/tab-2Ddelimited")</span>
 and GFF
 <span class="smwsearch">[+](/wiki/Special:SearchByProhttp://gmod.org/wiki/perty/Has-20input-20format/GFF "Special%3ASearchByProperty/Has-20input-20format/GFF")</span>
 
-[Has licence](/wiki/Property:Has_licence "Property:Has licence")
+[Has licence](/wiki/Property%3AHas_licence "Property:Has licence")
 
 <a href="http://opensource.org/licenses/GPL-3.0" class="external text"
 rel="nofollow">GPL</a>
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D "Special:Sehttp://gmod.org/wiki/archByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D")</span>
 
-[Has logo](/wiki/Property:Has_logo "Property:Has logo")
+[Has logo](/wiki/Property%3AHas_logo "Property:Has logo")
 
 CMapLogo-horiz.png
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20lohttp://gmod.org/wiki/go/CMapLogo-2Dhoriz.png "Special%3ASearchByProperty/Has-20logo/CMapLogo-2Dhoriz.png")</span>
 
-[Has output format](/wiki/Property:Has_output_format "Property:Has output format")
+[Has output format](/wiki/Property%3AHas_output_format "Property:Has output format")
 
 tab-delimited
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20output-20format/tab-2Ddelimited "Special%3ASearchByProperty/Has-20output-20format/tab-2Ddelimited")</span>
 
 [Has softwa#160;software maturity
-status](/wiki/Property:Has_software_maturity_status "Property:Has software maturity status")
+status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")
 
 mature
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20software-20maturity-20status/mature "Special%3ASearchByProperty/Has-20software-20maturity-20status/mature")</span>
 
-[Has support status](/wiki/Property:Has_support_status "Property:Has support status")
+[Has support status](/wiki/Property%3AHas_support_status "Property:Has support status")
 
 active
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Hashttp://gmod.org/wiki/-20support-20status/active "Special%3ASearchByProperty/Has-20support-20status/active")</span>
 
-[Has title](/wiki/Property:Has_title "Property:Has title")
+[Has title](/wiki/Property%3AHas_title "Property:Has title")
 
 Gramene
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20title/Gramene "Special%3ASearchByProperty/Has-20title/Gramene")</span>,
@@ -718,17 +718,17 @@ TropGene
 and Populus at Oak Ridge
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20title/Populus-20http://gmod.org/wiki/at-20Oak-20Ridge "Special%3ASearchByProperty/Has-20title/Populus-20at-20Oak-20Ridge")</span>
 
-[Has topic](/wiki/Property:Has_topic "Property:Has topic")
+[Has topic](/wiki/Property%3AHas_topic "Property:Has topic")
 
 **CMap**
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20topic/CMap "Special%3ASearchByProperty/Has-20topic/CMap")</span>
 
-[Is open source](/wiki/Property:Is_open_source "Property:Is open source")
+[Is open source](/wiki/Property%3AIs_open_source "Property:Is open source")
 
 Yes
 <span class="smwsearch">[+](/wiki/Special:SearchBhttp://gmod.org/wiki/yProperty/Is-20open-20source/Yes "Special%3ASearchByProperty/Is-20open-20source/Yes")</span>
 
-[Link type](/wiki/Property:Link_type "Property:Link type")
+[Link type](/wiki/Property%3ALink_type "Property:Link type")
 
 download
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/download "Special%3ASearchByProperty/Link-20type/download")</span>,
@@ -741,13 +741,13 @@ public server
 and wild URL
 <span class="smwsearch">[+](/wiki/Special:Searchhttp://gmod.org/wiki/ByProperty/Link-20type/wild-20URL "Special%3ASearchByProperty/Link-20type/wild-20URL")</span>
 
-[Release date](/wiki/Property:Release_date "Property:Release date")
+[Release date](/wiki/Property%3ARelease_date "Property:Release date")
 
 2002
 <span class="smwsearch">[+](/wiki/Special:Shttp://gmod.org/wiki/earchByProperty/Release-20date/2002 "Special%3ASearchByProperty/Release-20date/2002")</span>
 
 [Tool functionality or
-classification](/wiki/Property:Tool_functionality_or_classification "Property:Tool functionalithttp://gmod.org/wiki/y or classification")
+classification](/wiki/Property%3ATool_functionality_or_classification "Property:Tool functionalithttp://gmod.org/wiki/y or classification")
 
 Genome Visualiz#160;functionality or classification
 
@@ -758,14 +758,14 @@ Comparative Genome Visualization
 and Database schema
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema "Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema")</span>
 
-[Written in language](/wikihttp://gmod.org/Property:Written_in_language "Property:Written in language")
+[Written in language](/wikihttp://gmod.org/Property%3AWritten_in_language "Property:Written in language")
 
 Perl
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Written-20in-20language/Perl "Special%3ASearchByProperty/Written-20in-20language/Perl")</span>
 
 <span class="smw-highlighter" data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This
+subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>
 
 [CMap#http://sourceforge.net/projects/gmod/files/cmap/](/wiki/CMap#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2Fcmap.2F "CMap")

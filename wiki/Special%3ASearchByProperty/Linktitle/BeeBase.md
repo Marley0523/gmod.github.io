@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "BeeBase"  
 
 - [CMap#http://racerx00.tamu.edu/cgi-bin/cmap/viewer](/wiki/CMap#http:.2F.2Fracerx00.tamu.edu.2Fcgi-bin.2Fcmap.2Fviewer "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ABrowse/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span>

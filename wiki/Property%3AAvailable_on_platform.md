@@ -369,7 +369,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span></
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Available_on_platform&oldid=24876#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Available_on_platform&oldid=24876#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AAvailable_on_platform&oldid=24876#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AAvailable_on_platform&oldid=24876#SMWResults#SMWResults)"
 
 </div>
 
@@ -384,12 +384,12 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Available on
 platform](Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Available_on_platform "Special:ExportRDF/Property:Available on platform")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "Special:ExportRDF/Property:Available on platform")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | web <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/web "Special%3ASearchByProperty/Allows-20value/web")</span>, linux <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/linux "Special%3ASearchByProperty/Allows-20value/linux")</span>, os x <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/os-20x "Special%3ASearchByProperty/Allows-20value/os-20x")</span>, unix <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/unix "Special%3ASearchByProperty/Allows-20value/unix")</span>, windows <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/windows "Special%3ASearchByProperty/Allows-20value/windows")</span>, vm <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/vm "Special%3ASearchByProperty/Allows-20value/vm")</span> and cloud <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/cloud "Special%3ASearchByProperty/Allows-20value/cloud")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | web <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/web "Special%3ASearchByProperty/Allows-20value/web")</span>, linux <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/linux "Special%3ASearchByProperty/Allows-20value/linux")</span>, os x <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/os-20x "Special%3ASearchByProperty/Allows-20value/os-20x")</span>, unix <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/unix "Special%3ASearchByProperty/Allows-20value/unix")</span>, windows <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/windows "Special%3ASearchByProperty/Allows-20value/windows")</span>, vm <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/vm "Special%3ASearchByProperty/Allows-20value/vm")</span> and cloud <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/cloud "Special%3ASearchByProperty/Allows-20value/cloud")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -418,7 +418,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Available_on_platform)</span>
+- <span id="ca-nstab-property">[Property](Property%3AAvailable_on_platform)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Available_on_platform&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -520,7 +520,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Available_on_platform"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AAvailable_on_platform"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -51,7 +51,7 @@ From page     Property
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/wiki/Special:PageProperty/Property:Available_on_platform::Allows_value>"
+"<http://gmod.org/wiki/Special:PageProperty/Property%3AAvailable_on_platform::Allows_value>"
 
 </div>
 
@@ -83,7 +83,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special:PageProperty/Property:Available_on_platform::Allows_value "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special:PageProperty/Property%3AAvailable_on_platform::Allows_value "This is a special page, you cannot edit the page itself")</span>
 
 </div>
 
@@ -190,7 +190,7 @@ aria-labelledby="p-tb-label">
 - <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special:PageProperty/Property:Available_on_platform::Allows_value&amp;printable=yes"
+  href="/mediawiki/index.php?title=Special:PageProperty/Property%3AAvailable_on_platform::Allows_value&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 

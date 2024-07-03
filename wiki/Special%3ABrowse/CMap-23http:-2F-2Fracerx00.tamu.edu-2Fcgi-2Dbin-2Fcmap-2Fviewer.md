@@ -41,12 +41,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">The Honey Bee genome database  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database "Special%3ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database")</span></span> |
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">BeeBase  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/BeeBase "Special%3ASearchByProperty/Linktitle/BeeBase")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">BeeBase  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/BeeBase "Special%3ASearchByProperty/Linktitle/BeeBase")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/CMap "Special%3ASearchByProperty/Linktopic/CMap")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://racerx00.tamu.edu/cgi-bin/cmap/viewer  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span></span> |
@@ -59,7 +59,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

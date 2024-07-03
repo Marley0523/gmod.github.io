@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has input
-format](/wiki/Property:Has_input_format "Property:Has input format")"
+format](/wiki/Property%3AHas_input_format "Property:Has input format")"
 with value "UCSC"  
 
 - [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>

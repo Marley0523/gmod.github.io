@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Subject](/wiki/Property:Subject "Property:Subject")" with value
+"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[WebApollo2](/wiki/WebApollo2 "WebApollo2")"  
 
 - [WebApollo2](/wiki/WebApollo2#_7aa3d428be4e2b3632dc7e1d8733182f "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f "Special%3ABrowse/WebApollo2-23 7aa3d428be4e2b3632dc7e1d8733182f")</span>

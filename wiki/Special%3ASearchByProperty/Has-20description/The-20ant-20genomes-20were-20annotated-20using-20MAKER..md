@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-description](/wiki/Property:Has_description "Property:Has description")"
+description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "The ant genomes were annotated using MAKER."  
 
 - [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>

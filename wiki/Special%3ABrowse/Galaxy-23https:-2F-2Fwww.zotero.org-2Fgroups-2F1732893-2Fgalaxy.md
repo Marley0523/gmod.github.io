@@ -38,12 +38,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Linktitle](/wiki/Property:Linktitle "Property:Linktitle") | <span class="smwb-value">Galaxy publication library  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Galaxy-20publication-20library "Special%3ASearchByProperty/Linktitle/Galaxy-20publication-20library")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">Galaxy publication library  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Galaxy-20publication-20library "Special%3ASearchByProperty/Linktitle/Galaxy-20publication-20library")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Galaxy "Special%3ASearchByProperty/Linktopic/Galaxy")</span></span> |
-| [Linktype](/wiki/Property:Linktype "Property:Linktype") | <span class="smwb-value">other  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/other "Special%3ASearchByProperty/Linktype/other")</span></span> |
+| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">other  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/other "Special%3ASearchByProperty/Linktype/other")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://www.zotero.org/groups/1732893/galaxy  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy "Special%3ASearchByProperty/Linkurl/https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy")</span></span> |
@@ -56,7 +56,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property:Has_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|

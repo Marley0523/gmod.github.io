@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has output
-format](/wiki/Property:Has_output_format "Property:Has output format")"
+format](/wiki/Property%3AHas_output_format "Property:Has output format")"
 with value "GAF"  
 
 - [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>

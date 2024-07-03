@@ -465,14 +465,14 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy "Special:ExportRDF/Galaxy")<
 </colgroup>
 <tbody>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Available_on_platform"
+<td class="smwpropname"><a href="Property%3AAvailable_on_platform"
 title="Property:Available on platform">Available on platform</a></td>
 <td class="smwprops">web <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/web"
 title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_URL"
+<td class="smwpropname"><a href="Property%3AHas_URL"
 title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://getgalaxy.org/"
 class="external free" rel="nofollow">http://getgalaxy.org/</a> <span
@@ -522,7 +522,7 @@ href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.github.io"
 title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.github.io">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_description"
+<td class="smwpropname"><a href="Property%3AHas_description"
 title="Property:Has description">Has description</a></td>
 <td class="smwprops"><a href="https://galaxyproject.org/"
 class="external text" rel="nofollow">Galaxy</a> is an <span
@@ -588,14 +588,14 @@ href="Special%3ASearchByProperty/Has-20description/Fully-20supported,-20publicly
 title="Special%3ASearchByProperty/Has-20description/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_development_status"
+<td class="smwpropname"><a href="Property%3AHas_development_status"
 title="Property:Has development status">Has development status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20development-20status/active"
 title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_input_format"
+<td class="smwpropname"><a href="Property%3AHas_input_format"
 title="Property:Has input format">Has input format</a></td>
 <td class="smwprops">Roadmaps <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/Roadmaps"
@@ -830,7 +830,7 @@ href="Special%3ASearchByProperty/Has-20input-20format/xml"
 title="Special%3ASearchByProperty/Has-20input-20format/xml">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_licence"
+<td class="smwpropname"><a href="Property%3AHas_licence"
 title="Property:Has licence">Has licence</a></td>
 <td class="smwprops"><a href="http://opensource.org/licenses/AFL-3.0"
 class="external text" rel="nofollow">Academic Free License 3.0</a> <span
@@ -839,21 +839,21 @@ href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Fli
 title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_logo"
+<td class="smwpropname"><a href="Property%3AHas_logo"
 title="Property:Has logo">Has logo</a></td>
 <td class="smwprops">GalaxyLogoBigger.png <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20logo/GalaxyLogoBigger.png"
 title="Special%3ASearchByProperty/Has-20logo/GalaxyLogoBigger.png">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_output_format"
+<td class="smwpropname"><a href="Property%3AHas_output_format"
 title="Property:Has output format">Has output format</a></td>
 <td class="smwprops">zillions! <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20output-20format/zillions!"
 title="Special%3ASearchByProperty/Has-20output-20format/zillions!">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_software_maturity_status"
+<td class="smwpropname"><a href="Property%3AHas_software_maturity_status"
 title="Property:Has software maturity status">Has software maturity
 status</a></td>
 <td class="smwprops">mature <span class="smwsearch"><a
@@ -861,14 +861,14 @@ href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_support_status"
+<td class="smwpropname"><a href="Property%3AHas_support_status"
 title="Property:Has support status">Has support status</a></td>
 <td class="smwprops">active <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20support-20status/active"
 title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Has_title"
+<td class="smwpropname"><a href="Property%3AHas_title"
 title="Property:Has title">Has title</a></td>
 <td class="smwprops">Galaxy source code documentation <span
 class="smwsearch"><a
@@ -886,21 +886,21 @@ href="Special%3ASearchByProperty/Has-20title/List-20of-20Galaxy-20Produced-20Sof
 title="Special%3ASearchByProperty/Has-20title/List-20of-20Galaxy-20Produced-20Software">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Has_topic"
+<td class="smwpropname"><a href="Property%3AHas_topic"
 title="Property:Has topic">Has topic</a></td>
 <td class="smwprops"><strong>Galaxy</strong> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20topic/Galaxy"
 title="Special%3ASearchByProperty/Has-20topic/Galaxy">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Is_open_source"
+<td class="smwpropname"><a href="Property%3AIs_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Is-20open-20source/Yes"
 title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property:Link_type"
+<td class="smwpropname"><a href="Property%3ALink_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">download <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/download"
@@ -928,7 +928,7 @@ href="Special%3ASearchByProperty/Link-20type/wild-20URL"
 title="Special%3ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Release_date"
+<td class="smwpropname"><a href="Property%3ARelease_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">2005 <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Release-20date/2005"
@@ -936,7 +936,7 @@ title="Special%3ASearchByProperty/Release-20date/2005">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a
-href="Property:Tool_functionality_or_classification"
+href="Property%3ATool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Genome Visualization and Editing <span
@@ -954,7 +954,7 @@ href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Anal
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Analysis">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property:Written_in_language"
+<td class="smwpropname"><a href="Property%3AWritten_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Python <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Written-20in-20language/Python"
@@ -966,7 +966,7 @@ title="Special%3ASearchByProperty/Written-20in-20language/XML">+</a></span></td>
 <tr class="even row-even">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
 data-state="inline" data-title="Property"><span class="smwbuiltin"><a
-href="Property:Has_subobject" title="Property:Has subobject">Has
+href="Property%3AHas_subobject" title="Property:Has subobject">Has
 subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Galaxy.1#http:.2F.2Fgetgalaxy.org.2F"

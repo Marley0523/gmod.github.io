@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-URL](/wiki/Property:Has_URL "Property:Has URL")" with value
+URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="https://twitter.com/galaxyproject" class="external"
 rel="nofollow">https://twitter.com/galaxyproject</a>"  
 

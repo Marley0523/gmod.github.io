@@ -265,7 +265,7 @@ title="Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Has_output_format&oldid=24453#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Has_output_format&oldid=24453#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AHas_output_format&oldid=24453#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AHas_output_format&oldid=24453#SMWResults#SMWResults)"
 
 </div>
 
@@ -280,11 +280,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has output
 format](Special%3ABrowse/Property:Has-20output-20format "Special%3ABrowse/Property:Has-20output-20format")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_output_format "Special:ExportRDF/Property:Has output format")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_output_format "Special:ExportRDF/Property:Has output format")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -313,7 +313,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_output_format)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_output_format)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_output_format&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -415,7 +415,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_output_format"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_output_format"
   rel="smw-browse">Browse properties</a></span>
 
 

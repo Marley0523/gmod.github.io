@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-title](/wiki/Property:Has_title "Property:Has title")" with value
+title](/wiki/Property%3AHas_title "Property:Has title")" with value
 "Meta-analysis of 74,046 individuals identifies 11 new susceptibility
 loci for Alzheimer's disease"  
 

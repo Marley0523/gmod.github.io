@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">Property:Has development status</span>
+# <span dir="auto">Property:Written in language</span>
 
 <div id="bodyContent">
 
@@ -41,20 +41,14 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 This is a property of type
 [Text](Special:Types/Text "Special:Types/Text").
 
-The allowed values for this property are:
-
-- active
-- maintenance
-- inactive
-
   
 <span id="SMWResults"></span>
 
 <div id="mw-pages">
 
-## Pages using the property "Has development status"
+## Pages using the property "Written in language"
 
-Showing 21 pages using this property.
+Showing 19 pages using this property.
 
 <table style="width: 100%; ">
 <colgroup>
@@ -73,224 +67,235 @@ Showing 21 pages using this property.
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
 title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="BioMart"
-title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioMart"
-title="Special%3ABrowse/BioMart">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
-</tr>
-<tr class="odd">
 <td class="smwpropname"><h3 id="c">C</h3></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/CMap"
 title="Special%3ABrowse/CMap">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/Canto"
 title="Special%3ABrowse/Canto">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="d">D</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/DIYA"
 title="Special%3ABrowse/DIYA">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="g">G</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GBrowse"
 title="Special%3ABrowse/GBrowse">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GBrowse-20syn"
 title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
 title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="GO::TermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GO::TermFinder"
 title="Special%3ABrowse/GO::TermFinder">+</a></span></td>
-<td class="smwprops">maintenance  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/maintenance"
-title="Special%3ASearchByProperty/Has-20development-20status/maintenance">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/Galaxy"
 title="Special%3ABrowse/Galaxy">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Python  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Python"
+title="Special%3ASearchByProperty/Written-20in-20language/Python">+</a></span>,
+XML  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/XML"
+title="Special%3ASearchByProperty/Written-20in-20language/XML">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="i">I</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/InterMine"
 title="Special%3ABrowse/InterMine">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Java  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Java"
+title="Special%3ASearchByProperty/Written-20in-20language/Java">+</a></span>,
+Python  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Python"
+title="Special%3ASearchByProperty/Written-20in-20language/Python">+</a></span>,
+JavaScript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/JavaScript"
+title="Special%3ASearchByProperty/Written-20in-20language/JavaScript">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="j">J</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/JBrowse"
 title="Special%3ABrowse/JBrowse">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Javascript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>,
+Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/JBrowse2"
 title="Special%3ABrowse/JBrowse2">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Javascript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>,
+Typescript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Typescript"
+title="Special%3ASearchByProperty/Written-20in-20language/Typescript">+</a></span>,
+React  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/React"
+title="Special%3ASearchByProperty/Written-20in-20language/React">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><h3 id="m">M</h3></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/MAKER"
 title="Special%3ABrowse/MAKER">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
-</tr>
-<tr class="odd">
-<td class="smwpropname"><h3 id="p">P</h3></td>
-<td></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="Pathway_Tools.1"
-title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Pathway-20Tools"
-title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
-</tr>
-<tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/Textpresso"
 title="Special%3ABrowse/Textpresso">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/Tripal"
 title="Special%3ABrowse/Tripal">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">PHP  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/PHP"
+title="Special%3ASearchByProperty/Written-20in-20language/PHP">+</a></span>,
+Javascript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>,
+HTML  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/HTML"
+title="Special%3ASearchByProperty/Written-20in-20language/HTML">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="w">W</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/WebApollo"
 title="Special%3ABrowse/WebApollo">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Javascript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>,
+Java  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Java"
+title="Special%3ASearchByProperty/Written-20in-20language/Java">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/WebApollo2"
 title="Special%3ABrowse/WebApollo2">+</a></span></td>
-<td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/active"
-title="Special%3ASearchByProperty/Has-20development-20status/active">+</a></span></td>
+<td class="smwprops">Javascript  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>,
+Java  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Java"
+title="Special%3ASearchByProperty/Written-20in-20language/Java">+</a></span></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/WebGBrowse"
 title="Special%3ABrowse/WebGBrowse">+</a></span></td>
-<td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/inactive"
-title="Special%3ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span>,
+GBrowse config file  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/GBrowse-20config-20file"
+title="Special%3ASearchByProperty/Written-20in-20language/GBrowse-20config-20file">+</a></span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="smwpropname"><h3 id="x">X</h3></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/XORT"
 title="Special%3ABrowse/XORT">+</a></span></td>
-<td class="smwprops">maintenance  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20development-20status/maintenance"
-title="Special%3ASearchByProperty/Has-20development-20status/maintenance">+</a></span></td>
+<td class="smwprops">Perl  <span class="smwsearch"><a
+href="Special%3ASearchByProperty/Written-20in-20language/Perl"
+title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +307,7 @@ title="Special%3ASearchByProperty/Has-20development-20status/maintenance">+</a><
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Has_development_status&oldid=24541#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Has_development_status&oldid=24541#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AWritten_in_language&oldid=24545#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AWritten_in_language&oldid=24545#SMWResults#SMWResults)"
 
 </div>
 
@@ -315,14 +320,13 @@ Retrieved from
 <div class="smwfact">
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Has development
-status](Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_development_status "Special:ExportRDF/Property:Has development status")</span></span>
+"<span class="swmfactboxheadbrowse">[Written in
+language](Special%3ABrowse/Property:Written-20in-20language "Special%3ABrowse/Property:Written-20in-20language")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AWritten_in_language "Special:ExportRDF/Property:Written in language")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property:Allows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | active <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/active "Special%3ASearchByProperty/Allows-20value/active")</span>, maintenance <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/maintenance "Special%3ASearchByProperty/Allows-20value/maintenance")</span> and inactive <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/inactive "Special%3ASearchByProperty/Allows-20value/inactive")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 
@@ -351,9 +355,9 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_development_status)</span>
+- <span id="ca-nstab-property">[Property](Property%3AWritten_in_language)</span>
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_development_status&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Written_in_language&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -453,7 +457,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_development_status"
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AWritten_in_language"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -467,9 +471,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 00:02 on 24 September
+- <span id="footer-info-lastmod">Last updated at 00:03 on 24 September
   2013.</span>
-<!-- - <span id="footer-info-viewcount">19,405 page views.</span> -->
+<!-- - <span id="footer-info-viewcount">13,146 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

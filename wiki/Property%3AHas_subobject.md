@@ -591,7 +591,7 @@ title="Special%3ASearchByProperty/Has-20subobject/XORT-23 117f6d7d3f08ff9b448827
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/wiki/Property:Has_subobject#SMWResults](Property:Has_subobject#SMWResults)"
+"[http://gmod.org/wiki/Property%3AHas_subobject#SMWResults](Property%3AHas_subobject#SMWResults)"
 
 </div>
 
@@ -622,7 +622,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_subobject)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_subobject)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_subobject&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -724,7 +724,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_subobject" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_subobject" rel="smw-browse">Browse
   properties</a></span>
 
 

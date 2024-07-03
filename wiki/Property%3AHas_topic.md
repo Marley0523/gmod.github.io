@@ -51,7 +51,7 @@ This is a property of type
 Showing 25 pages using this property.
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Has_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3AHas_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
 
 <table style="width: 100%; ">
 <colgroup>
@@ -339,7 +339,7 @@ title="Special%3ASearchByProperty/Has-20topic/JBrowse">+</a></span></td>
 </table>
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property:Has_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
+25](http://gmod.org/mediawiki/index.php?title=Property%3AHas_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
 
 </div>
 
@@ -348,7 +348,7 @@ title="Special%3ASearchByProperty/Has-20topic/JBrowse">+</a></span></td>
 <div class="printfooter">
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property:Has_topic&oldid=24431#SMWResults](http://gmod.org/mediawiki/index.php?title=Property:Has_topic&oldid=24431#SMWResults#SMWResults)"
+"[http://gmod.org/mediawiki/index.php?title=Property%3AHas_topic&oldid=24431#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AHas_topic&oldid=24431#SMWResults#SMWResults)"
 
 </div>
 
@@ -363,11 +363,11 @@ Retrieved from
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has
 topic](Special%3ABrowse/Property:Has-20topic "Special%3ABrowse/Property:Has-20topic")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property:Has_topic "Special:ExportRDF/Property:Has topic")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_topic "Special:ExportRDF/Property:Has topic")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
 
 </div>
 
@@ -396,7 +396,7 @@ aria-labelledby="p-namespaces-label">
 
 ### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property:Has_topic)</span>
+- <span id="ca-nstab-property">[Property](Property%3AHas_topic)</span>
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_topic&amp;action=edit&amp;redlink=1"
   accesskey="t"
@@ -498,7 +498,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property:Has_topic" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_topic" rel="smw-browse">Browse
   properties</a></span>
 
 

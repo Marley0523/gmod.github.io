@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has support
-status](/wiki/Property:Has_support_status "Property:Has support status")"
+status](/wiki/Property%3AHas_support_status "Property:Has support status")"
 with value "inactive"  
 
 - [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>

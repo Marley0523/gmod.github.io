@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 Enter a valid value for the property, or view all property values for
-"[Has URL](/wiki/Property:Has_URL "Property:Has URL")".
+"[Has URL](/wiki/Property%3AHas_URL "Property:Has URL")".
 
 Property:     Value:
 

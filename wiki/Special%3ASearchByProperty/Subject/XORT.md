@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Subject](/wiki/Property:Subject "Property:Subject")" with value
+"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[XORT](/wiki/XORT "XORT")"  
 
 - [XORT](/wiki/XORT#_117f6d7d3f08ff9b4488276387dfdcc4 "XORT")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT-23_117f6d7d3f08ff9b4488276387dfdcc4 "Special%3ABrowse/XORT-23 117f6d7d3f08ff9b4488276387dfdcc4")</span>

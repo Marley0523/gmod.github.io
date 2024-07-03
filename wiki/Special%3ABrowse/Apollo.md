@@ -52,7 +52,7 @@ title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class=
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Apollo Tutorial 2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202010 "Special%3ABrowse/Apollo-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[Apollo Tutorial 2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span></span> | [Has topic](/wiki/Property:Has_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[Apollo Tutorial 2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202010 "Special%3ABrowse/Apollo-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[Apollo Tutorial 2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|

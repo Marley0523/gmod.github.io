@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktype](/wiki/Property:Linktype "Property:Linktype")" with value
+"[Linktype](/wiki/Property%3ALinktype "Property%3ALinktype")" with value
 "home page"  
 
 - [Tripal#http://tripal.info](/wiki/Tripal#http:.2F.2Ftripal.info "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info "Special%3ABrowse/Tripal-23http:-2F-2Ftripal.info")</span>

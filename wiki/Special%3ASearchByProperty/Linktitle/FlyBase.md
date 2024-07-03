@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "FlyBase"  
 
 - [GBrowse#http://flybase.org/cgi-bin/gbrowse/dmel](/wiki/GBrowse#http:.2F.2Fflybase.org.2Fcgi-bin.2Fgbrowse.2Fdmel "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-23http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel "Special%3ABrowse/GBrowse-23http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel")</span>

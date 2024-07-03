@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has software maturity
-status](/wiki/Property:Has_software_maturity_status "Property:Has software maturity status")"
+status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")"
 with value "mature"  
 
 - [BLAST Graphic

@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "MAKER-P"  
 
 - [MAKER#http://www.yandell-lab.org/software/maker-p.html](/wiki/MAKER#http:.2F.2Fwww.yandell-lab.org.2Fsoftware.2Fmaker-p.html "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23http:-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html "Special%3ABrowse/MAKER-23http:-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html")</span>

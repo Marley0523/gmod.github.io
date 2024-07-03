@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Has website](/wiki/Property:Has_website "Property:Has website") | <span class="smwb-value"><a
+| [Has website](/wiki/Property%3AHas_website "Property:Has website") | <span class="smwb-value"><a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external"
 rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span></span> |
@@ -53,7 +53,7 @@ rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_On
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA-20Tutorial-202012 "Special%3ABrowse/SOBA-20Tutorial-202012")</span></span> | [Has topic](/wiki/Property:Has_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA-20Tutorial-202012 "Special%3ABrowse/SOBA-20Tutorial-202012")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|

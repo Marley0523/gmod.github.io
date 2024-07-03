@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property "[Has
-description](/wiki/Property:Has_description "Property:Has description")"
+description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "Browse the genome of Ötzi the ice man"  
 
 - [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>

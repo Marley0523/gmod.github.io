@@ -35,44 +35,44 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This
+type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Text](/wiki/Special:Types/Text "Special:Types/Text")"  
 
 - [Property:Available on
-  platform](/wiki/Property:Available_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>
+  platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Available-20on-20platform "Special%3ABrowse/Property:Available-20on-20platform")</span>
 - [Property:Has
-  description](/wiki/Property:Has_description "Property:Has description")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20description "Special%3ABrowse/Property:Has-20description")</span>
+  description](/wiki/Property%3AHas_description "Property:Has description")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20description "Special%3ABrowse/Property:Has-20description")</span>
 - [Property:Has development
-  status](/wiki/Property:Has_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>
+  status](/wiki/Property%3AHas_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20development-20status "Special%3ABrowse/Property:Has-20development-20status")</span>
 - [Property:Has input
-  format](/wiki/Property:Has_input_format "Property:Has input format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20input-20format "Special%3ABrowse/Property:Has-20input-20format")</span>
+  format](/wiki/Property%3AHas_input_format "Property:Has input format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20input-20format "Special%3ABrowse/Property:Has-20input-20format")</span>
 - [Property:Has
-  licence](/wiki/Property:Has_licence "Property:Has licence")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20licence "Special%3ABrowse/Property:Has-20licence")</span>
+  licence](/wiki/Property%3AHas_licence "Property:Has licence")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20licence "Special%3ABrowse/Property:Has-20licence")</span>
 - [Property:Has
-  logo](/wiki/Property:Has_logo "Property:Has logo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20logo "Special%3ABrowse/Property:Has-20logo")</span>
+  logo](/wiki/Property%3AHas_logo "Property:Has logo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20logo "Special%3ABrowse/Property:Has-20logo")</span>
 - [Property:Has output
-  format](/wiki/Property:Has_output_format "Property:Has output format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20output-20format "Special%3ABrowse/Property:Has-20output-20format")</span>
+  format](/wiki/Property%3AHas_output_format "Property:Has output format")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20output-20format "Special%3ABrowse/Property:Has-20output-20format")</span>
 - [Property:Has software maturity
-  status](/wiki/Property:Has_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>
+  status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20maturity-20status "Special%3ABrowse/Property:Has-20software-20maturity-20status")</span>
 - [Property:Has software
-  prerequisite](/wiki/Property:Has_software_prerequisite "Property:Has software prerequisite")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>
+  prerequisite](/wiki/Property%3AHas_software_prerequisite "Property:Has software prerequisite")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20software-20prerequisite "Special%3ABrowse/Property:Has-20software-20prerequisite")</span>
 - [Property:Has support
-  status](/wiki/Property:Has_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20support-20status "Special%3ABrowse/Property:Has-20support-20status")</span>
+  status](/wiki/Property%3AHas_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20support-20status "Special%3ABrowse/Property:Has-20support-20status")</span>
 - [Property:Has
-  title](/wiki/Property:Has_title "Property:Has title")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20title "Special%3ABrowse/Property:Has-20title")</span>
+  title](/wiki/Property%3AHas_title "Property:Has title")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Has-20title "Special%3ABrowse/Property:Has-20title")</span>
 - [Property:Interaction
-  type](/wiki/Property:Interaction_type "Property:Interaction type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interaction-20type "Special%3ABrowse/Property:Interaction-20type")</span>
+  type](/wiki/Property%3AInteraction_type "Property:Interaction type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Interaction-20type "Special%3ABrowse/Property:Interaction-20type")</span>
 - [Property:Is open
-  source](/wiki/Property:Is_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>
+  source](/wiki/Property%3AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Is-20open-20source "Special%3ABrowse/Property:Is-20open-20source")</span>
 - [Property:Link
-  type](/wiki/Property:Link_type "Property:Link type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Link-20type "Special%3ABrowse/Property:Link-20type")</span>
-- [Property:Linktitle](/wiki/Property:Linktitle "Property:Linktitle")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Linktitle "Special%3ABrowse/Property:Linktitle")</span>
-- [Property:Linktype](/wiki/Property:Linktype "Property:Linktype")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Linktype "Special%3ABrowse/Property:Linktype")</span>
+  type](/wiki/Property%3ALink_type "Property:Link type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Link-20type "Special%3ABrowse/Property:Link-20type")</span>
+- [Property%3ALinktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ALinktitle "Special%3ABrowse/Property%3ALinktitle")</span>
+- [Property%3ALinktype](/wiki/Property%3ALinktype "Property%3ALinktype")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ALinktype "Special%3ABrowse/Property%3ALinktype")</span>
 - [Property:Tool functionality or
-  classification](/wiki/Property:Tool_functionality_or_classification "Property:Tool functionality or classification")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>
+  classification](/wiki/Property%3ATool_functionality_or_classification "Property:Tool functionality or classification")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Tool-20functionality-20or-20classification "Special%3ABrowse/Property:Tool-20functionality-20or-20classification")</span>
 - [Property:Written in
-  language](/wiki/Property:Written_in_language "Property:Written in language")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Written-20in-20language "Special%3ABrowse/Property:Written-20in-20language")</span>
+  language](/wiki/Property%3AWritten_in_language "Property:Written in language")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property:Written-20in-20language "Special%3ABrowse/Property:Written-20in-20language")</span>
 
  
 

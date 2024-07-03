@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Textpresso for S. cerevisiae"  
 
 - [Textpresso#http://textpresso.yeastgenome.org/textpresso/](/wiki/Textpresso#http:.2F.2Ftextpresso.yeastgenome.org.2Ftextpresso.2F "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso-23http:-2F-2Ftextpresso.yeastgenome.org-2Ftextpresso-2F "Special%3ABrowse/Textpresso-23http:-2F-2Ftextpresso.yeastgenome.org-2Ftextpresso-2F")</span>

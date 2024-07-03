@@ -34,12 +34,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Property:Has input format](/wiki/Property:Has_input_format "Property:Has input format") |  |
+| [Property:Has input format](/wiki/Property%3AHas_input_format "Property:Has input format") |  |
 
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">30 August 2013 21:39:48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/30-20August-202013-2021:39:48 "Special%3ASearchByProperty/Modification-20date/30-20August-202013-2021:39:48")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property:Has_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special:Types/Text "Special:Types/Text")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special:Types/Text "Special:Types/Text")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

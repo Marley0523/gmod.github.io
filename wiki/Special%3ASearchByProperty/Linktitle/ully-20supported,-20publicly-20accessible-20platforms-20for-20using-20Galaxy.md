@@ -33,7 +33,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text">
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property:Linktitle "Property:Linktitle")" with value
+"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "ully supported, publicly accessible platforms for using Galaxy"  
 
 - [Galaxy#http://wiki.galaxyproject.org/PublicGalaxyServers](/wiki/Galaxy#http:.2F.2Fwiki.galaxyproject.org.2FPublicGalaxyServers "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy-23http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers "Special%3ABrowse/Galaxy-23http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers")</span>
