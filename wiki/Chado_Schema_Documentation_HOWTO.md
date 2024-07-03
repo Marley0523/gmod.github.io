@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Chado Schema Documentation HOWTO</span>
 
 <div id="bodyContent">
@@ -100,124 +98,21 @@ dictionary.
 
 ## <span id="Using_Module_and_Table_Documentation" class="mw-headline">Using Module and Table Documentation</span>
 
-This section describes how to *use* the Chado Schema Documentation when
-updating/creating content on this wiki.
-
-### <span id="Showing_a_Table_Description" class="mw-headline">Showing a Table Description</span>
-
-To show the information about any table, use the *Chado Table Template*
-for that table:
-
-     {{ChadoTable_tablename}}
-
-For example,
-
-     {{ChadoTable_cv}}
-
-will show the table description for **`cv`**:
-
-<div class="indent">
-
-|             |                                             |
-|-------------|---------------------------------------------|
-| **Table:**  | **`cv`**                                    |
-| **Module:** | **[CV](Chado_CV_Module "Chado CV Module")** |
-
-A controlled vocabulary or ontology. A cv is composed of cvterms (AKA
-terms, classes, types, universals - relations and properties are also
-stored in cvterm) and the relationships between them.
-
-<table class="wikitable chadotable">
-<caption><strong><code>cv</code></strong> columns</caption>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><a href="Glossary#Foreign_Key" title="Glossary">FK</a></th>
-<th>Name</th>
-<th>Type</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>cv_id</td>
-<td>serial</td>
-<td><em>PRIMARY KEY</em><br />
-</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>name</td>
-<td>character varying(255)</td>
-<td><em>UNIQUE</em><br />
-&#10;<p><em>NOT NULL</em><br />
-The name of the ontology. This corresponds to the obo-format
--namespace-. cv names uniquely identify the cv. In OBO file format, the
-cv.name is known as the namespace.</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>definition</td>
-<td>text</td>
-<td>A text description of the criteria for
-<p>membership of this ontology.</p></td>
-</tr>
-</tbody>
-</table>
-
-**`cv`** columns
-
-Tables referencing **`cv`** via [foreign
-key](Glossary#Foreign_Key "Glossary") constraints:
-
-- [**`cvterm`**](Chado_CV_Module#Table:_cvterm "Chado CV Module")
-- [**`cvtermpath`**](Chado_CV_Module#Table:_cvtermpath "Chado CV Module")
-
-</div>
+Add to this documentation that makes sense for markdown pages.
 
 ### <span id="Linking_to_Module_Documentation" class="mw-headline">Linking to Module Documentation</span>
 
-To link to a module page from another wiki page use:
-
-     {{ChadoModuleLink|Module Name|text to show}}
-
-For example:
-
-     {{ChadoModuleLink|Publication|pub module}}
-
-Which is shown as:
-
-[pub module](Chado_Publication_Module "Chado Publication Module")
+Add to this documentation that makes sense for markdown pages.
 
 ### <span id="Linking_to_Table_Documentation" class="mw-headline">Linking to Table Documentation</span>
 
-To link to a specific table's description on a wiki page, use one of
-these:
-
-     {{ChadoModuleTableLink|Module Name|table_name}}
-     {{ChadoTableLink|table_name}}
-
-For example:
-
-     {{ChadoModuleTableLink|Sequence|feature}}
-     {{ChadoTableLink|feature}}
-
-will result in:
-
-|  |  |
-|----|----|
-| [**`feature`**](Chado_Sequence_Module#Table:_feature "Chado Sequence Module") | which links to the table on the table's module page |
-| [**`feature`**](Chado_Tables#Table:_feature "Chado Tables") | which links to the table on the [Chado Tables](Chado_Tables "Chado Tables") page. |
+Add to this documentation that makes sense for markdown pages.
 
 ## <span id="Updating_Table_Documentation_Part_I" class="mw-headline">Updating Table Documentation Part I</span>
 
-*Chado Table Templates* are the building blocks of the Chado schema
+This vvv is what used to be done in mediawiki. I'm leaving it here for historical purposes.
+
+_Chado Table Templates_ are the building blocks of the Chado schema
 documentation. They are also auto-generated, and cannot be directly
 updated by editing them on the wiki. Preventing editing of the templates
 ensures that user updates are not just written over and lost the next
@@ -247,8 +142,6 @@ process and you must take the first step. Here's the recipe:
 See [Updating Table Documentation Part
 II](#Updating_Table_Documentation_Part_II) for more on how step \#2 is
 done.
-
-  
 
 ## <span id="Updating_Module_and_Table_Documentation_Part_II" class="mw-headline">Updating Module and Table Documentation Part II</span>
 
@@ -296,7 +189,7 @@ you need to:
 
 <div class="python source-python">
 
-``` de1
+```de1
 # UPDATE THESE 4 BEFORE RUNNING THE PROGRAM.
 DB_NAME           = "testdb"
 DB_USER           = "gmodhack"
@@ -315,7 +208,7 @@ package is installed. The script won't run without it. Now run:
     Producing testdb.wiki from ./wiki.tmpl
     $
 
-**Note:** This script will run for a *looong* time. It takes 18 minutes
+**Note:** This script will run for a _looong_ time. It takes 18 minutes
 on my laptop.
 
 This script places generated wiki content in the `WIKI_DIR` directory,
@@ -323,12 +216,12 @@ which by default is `/tmp/ChadoWikiFiles/`:
 
 <div class="indent">
 
-|  |  |
-|----|----|
-| `/tmp/ChadoWikiFiles/` | Determined by what `WIKI_DIR` is set to. |
-| ` Modules/` | Contains one file per module. These become the "Tables" sections of the [Chado module pages](Template:ChadoModules "Template:ChadoModules") |
-| ` Tables/` | Contains one file per table; these will become Table Templates. |
-| ` allTables.wiki` | List of all tables; will become the module/table list on [Chado Tables](Chado_Tables "Chado Tables"). |
+|                        |                                                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/tmp/ChadoWikiFiles/` | Determined by what `WIKI_DIR` is set to.                                                                                                    |
+| ` Modules/`            | Contains one file per module. These become the "Tables" sections of the [Chado module pages](Template:ChadoModules "Template:ChadoModules") |
+| ` Tables/`             | Contains one file per table; these will become Table Templates.                                                                             |
+| ` allTables.wiki`      | List of all tables; will become the module/table list on [Chado Tables](Chado_Tables "Chado Tables").                                       |
 
 </div>
 
@@ -351,7 +244,7 @@ On the GMOD web server create this script:
 
 <div class="python source-python">
 
-``` de1
+```de1
 #!/usr/bin/python
 # ===================
 #
@@ -395,7 +288,7 @@ Table Templates.
 We don't yet have an automated way to synchronize the [module
 pages](Template:ChadoModules "Template:ChadoModules") with the update.
 
-The *first time* this process is done (the process described on this
+The _first time_ this process is done (the process described on this
 page), you'll probably want to do a wholesale replacement of the
 "Tables" section of each page. This will replace the current hard-coded
 table defs, with the Table Templates. It will also update the table list
@@ -436,93 +329,6 @@ We've tackled this for Chado with MediaWiki Templates:
 5.  The Chado Table templates are regenerated and reloaded for every
     Chado release.
 
-## <span id="Internals" class="mw-headline">Internals</span>
-
-Documentation on the internals of how all this is done.
-
-### <span id="wiki.tmpl" class="mw-headline">`wiki.tmpl`</span>
-
-`wiki.tmpl` defines the template used by `postgresql_autodoc` to
-generate the initial MediaWiki definitions of the tables. Since it
-generates MediaWiki markup and that markup is sensitive to newlines and
-blank lines, this template is unreadable. Therefore, a version is
-included below that is indented and has newlines. Note that this version
-won't work, but hopefully it will make the version that is used be more
-readable.
-
-    <!-- TMPL_LOOP name="schemas" -->
-      <!-- TMPL_LOOP name="tables" -->
-        <!-- TMPL_UNLESS name="view_definition" -->
-          __TABLE_START__
-          
-            <noinclude>{{ChadoTableTemplateHeader}}</noinclude>
-            {{ChadoTableDesc
-                |__MODULE__
-                |<!-- TMPL_VAR ESCAPE="HTML" name="table" -->
-                |<!-- TMPL_IF name="table_comment" -->
-                   <!-- TMPL_VAR ESCAPE="HTML" name="table_comment" -->
-                 <!-- /TMPL_IF name="table_comment" -->
-            }}
-            {{ChadoColumnsHeader
-                |__MODULE__
-                |<!-- TMPL_VAR ESCAPE="HTML" name="table" -->
-            }}
-            <!-- TMPL_LOOP name="columns" -->
-              {{ChadoColumnDesc
-                |<!-- TMPL_LOOP name="column_constraints" -->
-                   <!-- TMPL_VAR name="column_constraints" -->
-                   <!-- TMPL_IF name="column_fk" -->
-                     {{ChadoModuleTableLink
-                         |__FK_MODULE__
-                         |<!-- TMPL_VAR ESCAPE="HTML" name="column_fk_table" -->}}
-                   <!-- /TMPL_IF name="column_fk" -->
-                 <!-- /TMPL_LOOP name="column_constraints" -->
-                |<!-- TMPL_VAR ESCAPE="HTML" name="column" -->
-                |<!-- TMPL_VAR ESCAPE="HTML" name="column_type" -->
-                |<!-- TMPL_LOOP name="column_constraints" -->
-                   <!-- TMPL_IF name="column_primary_key" -->
-                     ''PRIMARY KEY''<br />
-                   <!-- /TMPL_IF name="column_primary_key" -->
-                   <!-- TMPL_IF name="column_unique" -->
-                     ''UNIQUE
-                     <!-- TMPL_IF name="column_unique_keygroup" -->
-                       #<!-- TMPL_VAR name="column_unique_keygroup" -->
-                     <!-- /TMPL_IF name="column_unique_keygroup" -->''<br />
-                   <!-- /TMPL_IF name="column_unique" -->
-                 <!-- /TMPL_LOOP name="column_constraints" -->
-                 <!-- TMPL_IF name="column_constraint_notnull" -->
-                   ''NOT NULL''<br />
-                 <!-- /TMPL_IF name="column_constraint_notnull" -->
-                 <!-- TMPL_IF name="column_default" -->
-                   ''DEFAULT ''<!-- TMPL_VAR ESCAPE="HTML" name="column_default" --><br />
-                 <!-- /TMPL_IF name="column_default" -->
-                 <!-- TMPL_IF name="column_comment" -->
-                   <!-- TMPL_VAR ESCAPE="HTML" name="column_comment" -->
-                 <!-- /TMPL_IF name="column_comment" -->
-              }}
-            <!-- /TMPL_LOOP name="columns" -->
-            {{ChadoColumnsFooter}}
-
-            {{ChadoTablesReferencingHeader
-                |<!-- TMPL_VAR ESCAPE="HTML" name="table" -->
-            }}
-            <!-- TMPL_IF name="fk_schemas" -->
-              <!-- TMPL_LOOP name="fk_schemas" -->
-                {{ChadoReferencingTable
-                    |__FK_MODULE__
-                    |<!-- TMPL_VAR ESCAPE="HTML" name="fk_table" -->
-                }}
-              <!-- /TMPL_LOOP name="fk_schemas" -->
-            <!-- TMPL_ELSE name="fk_schemas" -->
-              * None.
-            <!-- /TMPL_IF name="fk_schemas" -->
-          
-        <!-- /TMPL_UNLESS name="view_definition">
-      <!-- /TMPL_LOOP name="tables" -->
-    <!-- /TMPL_LOOP name="schemas" -->
-
-There ya go. Clear as mud.
-
 </div>
 
 <div class="printfooter">
@@ -560,15 +366,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Schema_Documentation_HOWTO&amp;action=edit&amp;redlink=1"
@@ -580,7 +383,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -591,10 +394,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -670,10 +469,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Schema_Documentation_HOWTO"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -685,8 +482,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 20:28 on 29 January
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 20:28 on 29 January 2013.</span>
 <!-- - <span id="footer-info-viewcount">64,827 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -699,10 +495,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
