@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Java](/wiki/Category%3AJava "Category%3AJava")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Java](/wiki/Category%3AJava "Category%3AJava")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Apollo&amp;printable=yes"

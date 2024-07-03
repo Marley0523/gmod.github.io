@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/Software_Engineer "Special:Search/Software Engineer")
+title](Special%3ASearch/Software_Engineer "Special:Search/Software Engineer")
 in other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ASoftware_Engineer"
 class="external text" rel="nofollow">search the related logs</a></span>,

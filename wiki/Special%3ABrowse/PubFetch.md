@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Unsupported](/wiki/Category%3AUnsupported "Category%3AUnsupported")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Unsupported "Special%3ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[RGD](/wiki/Category%3ARGD "Category%3ARGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/RGD "Special%3ASearchByProperty/RGD")</span></span> , <span class="smwb-value">[TAIR](/wiki/Category%3ATAIR "Category%3ATAIR")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TAIR "Special%3ASearchByProperty/TAIR")</span></span> , <span class="smwb-value">[PubSearch](/wiki/Category%3APubSearch "Category%3APubSearch")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PubSearch "Special%3ASearchByProperty/PubSearch")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Unsupported](/wiki/Category%3AUnsupported "Category%3AUnsupported")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Unsupported "Special%3ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[RGD](/wiki/Category%3ARGD "Category%3ARGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/RGD "Special%3ASearchByProperty/RGD")</span></span> , <span class="smwb-value">[TAIR](/wiki/Category%3ATAIR "Category%3ATAIR")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TAIR "Special%3ASearchByProperty/TAIR")</span></span> , <span class="smwb-value">[PubSearch](/wiki/Category%3APubSearch "Category%3APubSearch")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PubSearch "Special%3ASearchByProperty/PubSearch")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 October 2008 16:31:47  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20October-202008-2016:31:47 "Special%3ASearchByProperty/Modification-20date/15-20October-202008-2016:31:47")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/PubFetch&amp;printable=yes"

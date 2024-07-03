@@ -99,7 +99,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](../../Special:Categories "Special:Categories"):
+[Category](../../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../../Category%3ANews_Items "Category%3ANews Items")
 

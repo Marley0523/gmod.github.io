@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[Apollo](/wiki/Category%3AApollo "Category%3AApollo")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Apollo "Special%3ASearchByProperty/Apollo")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2010 19:54:51  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:51 "Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:51")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Hackathon_2007_info&amp;printable=yes"

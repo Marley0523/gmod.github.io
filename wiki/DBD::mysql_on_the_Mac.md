@@ -71,7 +71,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
 - [MySQL](Category%3AMySQL "Category%3AMySQL")

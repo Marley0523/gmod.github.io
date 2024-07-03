@@ -90,7 +90,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Apollo](Category%3AApollo "Category%3AApollo")
 - [Java](Category%3AJava "Category%3AJava")

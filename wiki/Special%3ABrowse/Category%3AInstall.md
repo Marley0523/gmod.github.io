@@ -51,7 +51,7 @@ title="Category%3AInstall (page does not exist)">Category%3AInstall</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO](/wiki/GBrowse_2.0_Install_HOWTO "GBrowse 2.0 Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO "Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO/Advanced](/wiki/GBrowse_2.0_Install_HOWTO/Advanced "GBrowse 2.0 Install HOWTO/Advanced") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced "Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO](/wiki/GBrowse_2.0_Install_HOWTO "GBrowse 2.0 Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO "Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO/Advanced](/wiki/GBrowse_2.0_Install_HOWTO/Advanced "GBrowse 2.0 Install HOWTO/Advanced") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced "Special%3ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AInstall&amp;printable=yes"

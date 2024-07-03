@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GBrowse-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F&amp;printable=yes"

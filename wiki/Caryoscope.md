@@ -150,7 +150,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Expression](Category%3AExpression "Category%3AExpression")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")

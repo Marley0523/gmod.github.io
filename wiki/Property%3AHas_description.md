@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
   
 <span id="SMWResults"></span>
@@ -111,7 +111,7 @@ title="Special%3ASearchByProperty/Has-20description/A-20publicly-20accessible-20
 The Honey Bee genome database  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20description/The-20Honey-20Bee-20genome-20database"
 title="Special%3ASearchByProperty/Has-20description/The-20Honey-20Bee-20genome-20database">+</a></span>,
-<a href="Special:PageProperty/CMap::Has_description"
+<a href="Special%3APageProperty/CMap%3A%3AHas_description"
 title="Special:PageProperty/CMap::Has description">…</a></td>
 </tr>
 <tr class="odd">
@@ -415,7 +415,7 @@ sample data for testing purposes. See the &lt;tt&gt;/data&lt;/tt&gt;
 directory in the download.  <span class="smwsearch"><a
 href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FMAKER-20is-20an-20easy-2Dto-2Dconfigure%2C-20portable-20genome-20-5B-5B%3ACategory%3AAnnotation-7Cannotation-5D-5D-20pipeline.-20MAKER-20allows-20smaller-20-27-27eukaryotic-27-27-20genome-20projects-20and-20-27-27prokaryotic-27-27-20genome-20projects-20to-20annotate-20their-20genomes-20and-20to-20create-20genome-20databases.-20MAKER-20identifies-20repeats%2C-20aligns-20ESTs-20and-20proteins-20to-20a-20genome%2C-20produces-20-27-27ab-20initio-27-27-20gene-20predictions-20and-20automatically-20synthesizes-20these-20data-20into-20gene-20annotations-20with-20evidence-2Dbased-20quality-20values.-20MAKER-20is-20also-20easily-20trainable%3A-20outputs-20of-20preliminary-20runs-20can-20be-20used-20to-20automatically-20retrain-20its-20gene-20prediction-20algorithm%2C-20producing-20higher-20quality-20gene-2Dmodels-20on-20subsequent-20runs.-20MAKER%27s-20inputs-20are-20minimal.-20-20Its-20outputs-20are-20in-20-5B-5BGFF3-5D-5D-20or-20-5B-5BGlossary-23FASTA-7CFASTA-5D-5D-20format%2C-20and-20can-20be-20directly-20loaded-20into-20-5B-5BChado-5D-5D%2C-20-5B-5BGBrowse-5D-5D%2C-20-5B-5BJBrowse-5D-5D%2C-20-5B-5BWebApollo-5D-5D-20or-20-5B-5BApollo-5D-5D.-0A-0AFor-20those-20annotating-20novel-20plant-20genomes%2C-20the-20-5Bhttp%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html-20MAKER-2DP-20pipeline-5D-20is-20designed-20to-20make-20the-20annotation-20tractable-20for-20small-20groups-20with-20limited-20bioinformatics-20experience-20and-20resources%2C-20and-20faster-20and-20more-20transparent-20for-20large-20groups-20with-20more-20experience-20and-20resources.-20The-20MAKER-2DP-20pipeline-20generates-20species-2Dspecific-20repeat-20libraries%2C-20as-20well-20as-20structural-20annotations-20of-20protein-20coding-20genes%2C-20non-2Dcoding-20RNAs%2C-20and-20pseudogenes.-20The-20-5Bhttp%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html-20MAKER-2DP-20website-5D-20has-20more-20information-20on-20the-20additional-20protocols-20for-20plant-20genome-20annotation.-0A-0AAdditional-20MAKER-20options-20and-20capabilities-20include%3A-0A%2A-20Map-20old-20annotation-20sets-20on-20to-20new-20assemblies.-0A%2A-20Merge-20multiple-20legacy-20annotation-20sets-20into-20a-20consensus-20set-20of-20annotations.-0A%2A-20Update-20existing-20annotations-20to-20take-20new-20evidence-20into-20account.-0A%2A-20Tag-20pre-2Dexisting-20gene-20models-20with-20evidence-20alignments-20and-20quality-20control-20metrics-20to-20assist-20in-20downstream-20manual-20curation.-0A%2A-20Use-20GFF3-20pass-2Dthrough-20to-20include-20both-20evidence-20alignments-20and-20predicted-20gene-20models-20from-20algorithms-20not-20natively-20supported-20by-20MAKER.-0A%2A-20MAKER-20is-20-3Cabbr-20title%3D%22message-2Dpassing-20interface%22-3EMPI-3C-2Fabbr-3E-2Dcapable-20for-20rapid-20parallelization-20across-20computer-20clusters.-0A%2A-20You-20can-20also-20easily-20integrate-20raw-20InterProScan-20results-20into-20MAKER%2C-20which-20will-20identify-20protein-20domains%3B-20add-20GO-20functional-20categories%3B-20and-20help-20assign-20putative-20gene-20functions-20to-20genome-20annotations.-20This-20data-20then-20becomes-20accessible-20as-20part-20of-20the-20GFF3-20output-20and-20can-20be-20loaded-20into-20a-20-5B-5BChado-5D-5D-20database%2C-20-5B-5BJBrowse-5D-5D%2C-20-5B-5BGBrowse-5D-5D%2C-20-5B-5BWebApollo-5D-5D-20or-20-5B-5BApollo-5D-5D.-0A-0AMAKER-20comes-20with-20sample-20data-20for-20testing-20purposes.-20-20See-20the-20-3Ctt-3E-2Fdata-3C-2Ftt-3E-20directory-20in-20the-20download."
 title="Special%3ASearchByProperty">+</a></span>, <a
-href="Special:PageProperty/MAKER::Has_description"
+href="Special%3APageProperty/MAKER%3A%3AHas_description"
 title="Special:PageProperty/MAKER::Has description">…</a></td>
 </tr>
 <tr class="odd">
@@ -692,7 +692,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_description "Special
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

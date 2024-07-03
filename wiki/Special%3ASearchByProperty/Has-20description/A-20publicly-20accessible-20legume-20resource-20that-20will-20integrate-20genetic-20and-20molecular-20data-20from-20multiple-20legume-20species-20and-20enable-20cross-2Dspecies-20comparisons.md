@@ -185,7 +185,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20description/A-20publicly-20accessible-20legume-20resource-20that-20will-20integrate-20genetic-20and-20molecular-20data-20from-20multiple-20legume-20species-20and-20enable-20cross-2Dspecies-20comparisons&amp;printable=yes"

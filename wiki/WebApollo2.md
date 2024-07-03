@@ -273,7 +273,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
@@ -321,25 +321,25 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://genomearchitect.org"
 class="external free" rel="nofollow">http://genomearchitect.org</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="https://github.com/gmod/apollo" class="external free"
 rel="nofollow">https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a href="http://icebox.lbl.gov/Apollo2/annotator/index"
 class="external free"
 rel="nofollow">http://icebox.lbl.gov/Apollo2/annotator/index</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>
 and <a href="https://github.com/GMOD/Apollo/releases"
 class="external free"
 rel="nofollow">https://github.com/GMOD/Apollo/releases</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -562,24 +562,24 @@ special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="WebApollo2#http:.2F.2Fgenomearchitect.org"
 title="WebApollo2">WebApollo2#http://genomearchitect.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http:-2F-2Fgenomearchitect.org"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="WebApollo2#https:.2F.2Fgithub.com.2Fgmod.2Fapollo"
 title="WebApollo2">WebApollo2#https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a
 href="WebApollo2#http:.2F.2Ficebox.lbl.gov.2FApollo2.2Fannotator.2Findex"
 title="WebApollo2">WebApollo2#http://icebox.lbl.gov/Apollo2/annotator/index</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>,
 <a href="WebApollo2#https:.2F.2Fgithub.com.2FGMOD.2FApollo.2Freleases"
 title="WebApollo2">WebApollo2#https://github.com/GMOD/Apollo/releases</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https:-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span>,
 <a href="WebApollo2#_7aa3d428be4e2b3632dc7e1d8733182f"
 title="WebApollo2">WebApollo2</a> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f"

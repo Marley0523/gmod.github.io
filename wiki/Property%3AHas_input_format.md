@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
   
 <span id="SMWResults"></span>
@@ -185,7 +185,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/Sequences">+</a></span>,
 ab1  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/ab1"
 title="Special%3ASearchByProperty/Has-20input-20format/ab1">+</a></span>,
-<a href="Special:PageProperty/Galaxy::Has_input_format"
+<a href="Special%3APageProperty/Galaxy%3A%3AHas_input_format"
 title="Special:PageProperty/Galaxy::Has input format">…</a></td>
 </tr>
 <tr class="odd">
@@ -206,7 +206,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a></
 [[FASTA]]  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/-5B-5BFASTA-5D-5D"
 title="Special%3ASearchByProperty/Has-20input-20format/-5B-5BFASTA-5D-5D">+</a></span>,
-<a href="Special:PageProperty/InterMine::Has_input_format"
+<a href="Special%3APageProperty/InterMine%3A%3AHas_input_format"
 title="Special:PageProperty/InterMine::Has input format">…</a></td>
 </tr>
 <tr class="odd">
@@ -227,7 +227,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/BED">+</a></span>,
 FASTA  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/FASTA"
 title="Special%3ASearchByProperty/Has-20input-20format/FASTA">+</a></span>,
-<a href="Special:PageProperty/JBrowse::Has_input_format"
+<a href="Special%3APageProperty/JBrowse%3A%3AHas_input_format"
 title="Special:PageProperty/JBrowse::Has input format">…</a></td>
 </tr>
 <tr class="odd">
@@ -244,7 +244,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/BigWig">+</a></span>,
 BAM  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/BAM"
 title="Special%3ASearchByProperty/Has-20input-20format/BAM">+</a></span>,
-<a href="Special:PageProperty/JBrowse2::Has_input_format"
+<a href="Special%3APageProperty/JBrowse2%3A%3AHas_input_format"
 title="Special:PageProperty/JBrowse2::Has input format">…</a></td>
 </tr>
 <tr class="even">
@@ -311,7 +311,7 @@ title="Special%3ASearchByProperty/Has-20input-20format/FASTA">+</a></span>,
 Chado DB  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20input-20format/Chado-20DB"
 title="Special%3ASearchByProperty/Has-20input-20format/Chado-20DB">+</a></span>,
-<a href="Special:PageProperty/Tripal::Has_input_format"
+<a href="Special%3APageProperty/Tripal%3A%3AHas_input_format"
 title="Special:PageProperty/Tripal::Has input format">…</a></td>
 </tr>
 <tr class="odd">
@@ -386,7 +386,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_input_format "Specia
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

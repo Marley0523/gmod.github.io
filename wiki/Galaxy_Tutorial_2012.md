@@ -709,7 +709,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2012 Summer
   School](Category%3A2012_Summer_School "Category%3A2012 Summer School")

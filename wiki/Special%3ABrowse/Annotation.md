@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">29 October 2010 22:08:11  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/29-20October-202010-2022:08:11 "Special%3ASearchByProperty/Modification-20date/29-20October-202010-2022:08:11")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Annotation&amp;printable=yes"

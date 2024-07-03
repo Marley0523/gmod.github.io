@@ -463,7 +463,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](../Special:Categories "Special:Categories"):
+[Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](../Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
@@ -504,32 +504,32 @@ web
 
 <a href="http://jbrowse.org/install/" class="external free"
 rel="nofollow">http://jbrowse.org/install/</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org-2Finstall-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org-2Finstall-2F")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org-2Finstall-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org-2Finstall-2F")</span>,
 <a href="http://jbrowse.org" class="external free"
 rel="nofollow">http://jbrowse.org</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org")</span>,
 <a href="http://twitter.com/usejbrowse" class="external free"
 rel="nofollow">http://twitter.com/usejbrowse</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftwitter.com-2Fusejbrowse "Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftwitter.com-2Fusejbrowse")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftwitter.com-2Fusejbrowse "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftwitter.com-2Fusejbrowse")</span>,
 <a href="http://github.com/GMOD/jbrowse" class="external free"
 rel="nofollow">http://github.com/GMOD/jbrowse</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgithub.com-2FGMOD-2Fjbrowse "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgithub.com-2FGMOD-2Fjbrowse")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgithub.com-2FGMOD-2Fjbrowse "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgithub.com-2FGMOD-2Fjbrowse")</span>,
 <a href="http://jbrowse.org/demos" class="external free"
 rel="nofollow">http://jbrowse.org/demos</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org-2Fdemos "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fjbrowse.org-2Fdemos")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org-2Fdemos "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fjbrowse.org-2Fdemos")</span>,
 <a href="http://icemangenome.net/%E2%80%8E" class="external free"
 rel="nofollow">http://icemangenome.net/%E2%80%8E</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Ficemangenome.net-2F-25E2-2580-258E "Special%3ASearchByProperty/Has-20URL/http:-2F-2Ficemangenome.net-2F-25E2-2580-258E")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ficemangenome.net-2F-25E2-2580-258E "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ficemangenome.net-2F-25E2-2580-258E")</span>,
 <a href="http://genomesunzipped.org/jbrowse" class="external free"
 rel="nofollow">http://genomesunzipped.org/jbrowse</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomesunzipped.org-2Fjbrowse "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomesunzipped.org-2Fjbrowse")</span>,
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse")</span>,
 <a href="http://beetlebase.org" class="external free"
 rel="nofollow">http://beetlebase.org</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbeetlebase.org "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbeetlebase.org")</span>
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbeetlebase.org "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbeetlebase.org")</span>
 and <a href="http://www.medicinalgenomics.com/the-jane-ome/"
 class="external free"
 rel="nofollow">http://www.medicinalgenomics.com/the-jane-ome/</a>
-<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>
+<span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>
 
 [Has description](../Property%3AHas_description "Property:Has description")
 

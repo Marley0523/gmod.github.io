@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Drupal](/wiki/Category%3ADrupal "Category%3ADrupal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Drupal "Special%3ASearchByProperty/Drupal")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Web services](/wiki/Category%3AWeb_services "Category%3AWeb services")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Web-20services "Special%3ASearchByProperty/Web-20services")</span></span> , <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/External "Special%3ASearchByProperty/External")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Drupal](/wiki/Category%3ADrupal "Category%3ADrupal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Drupal "Special%3ASearchByProperty/Drupal")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Web services](/wiki/Category%3AWeb_services "Category%3AWeb services")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Web-20services "Special%3ASearchByProperty/Web-20services")</span></span> , <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/External "Special%3ASearchByProperty/External")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">29 December 2010 22:27:56  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/29-20December-202010-2022:27:56 "Special%3ASearchByProperty/Modification-20date/29-20December-202010-2022:27:56")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Gmod_dbsf&amp;printable=yes"

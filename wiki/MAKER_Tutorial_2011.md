@@ -2630,7 +2630,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2011 Spring
   Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")

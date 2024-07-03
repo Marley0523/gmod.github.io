@@ -5078,7 +5078,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](/wiki/Special:Categories "Special:Categories"):
+[Category](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")
 

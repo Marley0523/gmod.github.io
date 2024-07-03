@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
 The allowed values for this property are:
 
@@ -322,7 +322,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_development_status "
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | active <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/active "Special%3ASearchByProperty/Allows-20value/active")</span>, maintenance <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/maintenance "Special%3ASearchByProperty/Allows-20value/maintenance")</span> and inactive <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/inactive "Special%3ASearchByProperty/Allows-20value/inactive")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

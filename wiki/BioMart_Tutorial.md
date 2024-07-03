@@ -67,7 +67,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [BioMart](Category%3ABioMart "Category%3ABioMart")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")

@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD Middleware](/wiki/GMOD_Middleware "GMOD Middleware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Middleware "Special%3ABrowse/GMOD-20Middleware")</span></span> , <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June-202007-20Progress-20Report "Special%3ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[Modware](/wiki/Modware "Modware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware "Special%3ABrowse/Modware")</span></span> , <span class="smwb-ivalue">[Modware Presentation](/wiki/Modware_Presentation "Modware Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware-20Presentation "Special%3ABrowse/Modware-20Presentation")</span></span> , <span class="smwb-ivalue">[File:Modware.pdf](/wiki/File:Modware.pdf "File:Modware.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Modware.pdf "Special%3ABrowse/File:Modware.pdf")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GMOD Middleware](/wiki/GMOD_Middleware "GMOD Middleware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Middleware "Special%3ABrowse/GMOD-20Middleware")</span></span> , <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June-202007-20Progress-20Report "Special%3ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[Modware](/wiki/Modware "Modware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware "Special%3ABrowse/Modware")</span></span> , <span class="smwb-ivalue">[Modware Presentation](/wiki/Modware_Presentation "Modware Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware-20Presentation "Special%3ABrowse/Modware-20Presentation")</span></span> , <span class="smwb-ivalue">[File:Modware.pdf](/wiki/File:Modware.pdf "File:Modware.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Modware.pdf "Special%3ABrowse/File:Modware.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AModware&amp;printable=yes"

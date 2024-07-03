@@ -287,7 +287,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
@@ -311,7 +311,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</spa
 | [Has website](Property%3AHas_website "Property:Has website") | <a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external free"
-rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span> |
+rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA_-2D_Sequence_Ontology_Bioinformatics_Analysis "Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.org-2Fwiki-2Findex.php-2FSOBA -2D Sequence Ontology Bioinformatics Analysis")</span> |
 
 </div>
 

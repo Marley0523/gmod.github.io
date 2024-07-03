@@ -1185,7 +1185,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](/wiki/Special:Categories "Special:Categories"):
+[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - <a
   href="/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"

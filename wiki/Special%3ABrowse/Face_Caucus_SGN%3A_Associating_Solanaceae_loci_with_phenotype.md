@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[Phenotypes](/wiki/Category%3APhenotypes "Category%3APhenotypes")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Phenotypes "Special%3ASearchByProperty/Phenotypes")</span></span> , <span class="smwb-value">[SGN](/wiki/Category%3ASGN "Category%3ASGN")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SGN "Special%3ASearchByProperty/SGN")</span></span> , <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[Phenotypes](/wiki/Category%3APhenotypes "Category%3APhenotypes")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Phenotypes "Special%3ASearchByProperty/Phenotypes")</span></span> , <span class="smwb-value">[SGN](/wiki/Category%3ASGN "Category%3ASGN")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SGN "Special%3ASearchByProperty/SGN")</span></span> , <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">19 August 2009 01:15:02  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/19-20August-202009-2001:15:02 "Special%3ASearchByProperty/Modification-20date/19-20August-202009-2001:15:02")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype&amp;printable=yes"

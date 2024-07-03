@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3AGFF (page does not exist)">GFF</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GFF "Special%3ASearchByProperty/GFF")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GFF&amp;printable=yes"

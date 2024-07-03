@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Help](/wiki/Category%3AHelp "Category%3AHelp")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Help](/wiki/Category%3AHelp "Category%3AHelp")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 March 2014 02:50:06  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/14-20March-202014-2002:50:06 "Special%3ASearchByProperty/Modification-20date/14-20March-202014-2002:50:06")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Glossary&amp;printable=yes"

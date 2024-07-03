@@ -173,7 +173,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](/wiki/Special:Categories "Special:Categories"):
+[Category](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [Conferences](/wiki/Category%3AConferences "Category%3AConferences")
 

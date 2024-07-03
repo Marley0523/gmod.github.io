@@ -48,7 +48,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Phenotype Module at FlyBase](/wiki/Chado_Phenotype_Module_at_FlyBase "Chado Phenotype Module at FlyBase") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase "Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon](/wiki/GMOD_Evo_Hackathon "GMOD Evo Hackathon") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon "Special%3ABrowse/GMOD-20Evo-20Hackathon")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon Proposal](/wiki/GMOD_Evo_Hackathon_Proposal "GMOD Evo Hackathon Proposal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal "Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon Proposal Supplemental Information](/wiki/GMOD_Evo_Hackathon_Proposal_Supplemental_Information "GMOD Evo Hackathon Proposal Supplemental Information") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal-20Supplemental-20Information "Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal-20Supplemental-20Information")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Chado Phenotype Module at FlyBase](/wiki/Chado_Phenotype_Module_at_FlyBase "Chado Phenotype Module at FlyBase") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase "Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon](/wiki/GMOD_Evo_Hackathon "GMOD Evo Hackathon") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon "Special%3ABrowse/GMOD-20Evo-20Hackathon")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon Proposal](/wiki/GMOD_Evo_Hackathon_Proposal "GMOD Evo Hackathon Proposal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal "Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal")</span></span> , <span class="smwb-ivalue">[GMOD Evo Hackathon Proposal Supplemental Information](/wiki/GMOD_Evo_Hackathon_Proposal_Supplemental_Information "GMOD Evo Hackathon Proposal Supplemental Information") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal-20Supplemental-20Information "Special%3ABrowse/GMOD-20Evo-20Hackathon-20Proposal-20Supplemental-20Information")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGMOD_Evo_Hackathon&amp;printable=yes"

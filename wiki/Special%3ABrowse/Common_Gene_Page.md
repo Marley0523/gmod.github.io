@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Presentations](/wiki/Category%3APresentations "Category%3APresentations")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Presentations "Special%3ASearchByProperty/Presentations")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category%3AWFleaBase "Category%3AWFleaBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WFleaBase "Special%3ASearchByProperty/WFleaBase")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Presentations](/wiki/Category%3APresentations "Category%3APresentations")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Presentations "Special%3ASearchByProperty/Presentations")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category%3AWFleaBase "Category%3AWFleaBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WFleaBase "Special%3ASearchByProperty/WFleaBase")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Common_Gene_Page&amp;printable=yes"

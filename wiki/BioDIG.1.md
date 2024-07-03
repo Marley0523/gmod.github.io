@@ -184,7 +184,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
@@ -211,9 +211,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/BioDIG "Special:ExportRDF/BioDIG")<
 |  |  |
 |----|----|
 | [Has download URL](Property%3AHas_download_URL "Property:Has download URL") | <a href="http://github.com/idoerg/BioDIG" class="external free"
-rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
+rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
 | [Has website](Property%3AHas_website "Property:Has website") | <a href="http://biodig.org" class="external free"
-rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org")</span> |
+rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org")</span> |
 
 </div>
 

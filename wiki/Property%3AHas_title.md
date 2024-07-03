@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
   
 <span id="SMWResults"></span>
@@ -88,7 +88,7 @@ title="Special%3ASearchByProperty/Has-20title/NCGR&#39;s-20Legume-20Information-
 BeeBase  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/BeeBase"
 title="Special%3ASearchByProperty/Has-20title/BeeBase">+</a></span>, <a
-href="Special:PageProperty/CMap::Has_title"
+href="Special%3APageProperty/CMap%3A%3AHas_title"
 title="Special:PageProperty/CMap::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -113,8 +113,8 @@ class="smwbrowse"><a href="Special%3ABrowse/DIYA"
 title="Special%3ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">DIYA: a bacterial annotation pipeline for any
 genomics lab.  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/DIYA:-20a-20bacterial-20annotation-20pipeline-20for-20any-20genomics-20lab."
-title="Special%3ASearchByProperty/Has-20title/DIYA:-20a-20bacterial-20annotation-20pipeline-20for-20any-20genomics-20lab.">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/DIYA%3A-20a-20bacterial-20annotation-20pipeline-20for-20any-20genomics-20lab."
+title="Special%3ASearchByProperty/Has-20title/DIYA%3A-20a-20bacterial-20annotation-20pipeline-20for-20any-20genomics-20lab.">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -150,7 +150,7 @@ title="Special%3ASearchByProperty/Has-20title/WormBase">+</a></span>, Sol
 Genomics  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Sol-20Genomics"
 title="Special%3ASearchByProperty/Has-20title/Sol-20Genomics">+</a></span>,
-<a href="Special:PageProperty/GBrowse_syn::Has_title"
+<a href="Special%3APageProperty/GBrowse_syn%3A%3AHas_title"
 title="Special:PageProperty/GBrowse syn::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -162,8 +162,8 @@ title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 Gene Ontology information and finding significantly enriched Gene
 Ontology terms associated with a list of genes.  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/GO::TermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes."
-title="Special%3ASearchByProperty/Has-20title/GO::TermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes.">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/GO%3A%3ATermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes."
+title="Special%3ASearchByProperty/Has-20title/GO%3A%3ATermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes.">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
@@ -181,7 +181,7 @@ ully supported, publicly accessible platforms for using Galaxy  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/ully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy"
 title="Special%3ASearchByProperty/Has-20title/ully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy">+</a></span>,
-<a href="Special:PageProperty/Galaxy::Has_title"
+<a href="Special%3APageProperty/Galaxy%3A%3AHas_title"
 title="Special:PageProperty/Galaxy::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -203,7 +203,7 @@ title="Special%3ASearchByProperty/Has-20title/FlyMine">+</a></span>,
 YeastMine  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/YeastMine"
 title="Special%3ASearchByProperty/Has-20title/YeastMine">+</a></span>, <a
-href="Special:PageProperty/InterMine::Has_title"
+href="Special%3APageProperty/InterMine%3A%3AHas_title"
 title="Special:PageProperty/InterMine::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -222,9 +222,9 @@ Ice Man Genome  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Ice-20Man-20Genome"
 title="Special%3ASearchByProperty/Has-20title/Ice-20Man-20Genome">+</a></span>,
 Genomes Unzipped: Public Personal Genomics  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/Genomes-20Unzipped:-20Public-20Personal-20Genomics"
-title="Special%3ASearchByProperty/Has-20title/Genomes-20Unzipped:-20Public-20Personal-20Genomics">+</a></span>,
-<a href="Special:PageProperty/JBrowse::Has_title"
+href="Special%3ASearchByProperty/Has-20title/Genomes-20Unzipped%3A-20Public-20Personal-20Genomics"
+title="Special%3ASearchByProperty/Has-20title/Genomes-20Unzipped%3A-20Public-20Personal-20Genomics">+</a></span>,
+<a href="Special%3APageProperty/JBrowse%3A%3AHas_title"
 title="Special:PageProperty/JBrowse::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -243,8 +243,8 @@ href="Special%3ABrowse/User%3AJimHu-2FGbrowse"
 title="Special%3ABrowse/User%3AJimHu-2FGbrowse">+</a></span></td>
 <td class="smwprops">The generic genome browser: a building block for a
 model organism system database.  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database."
-title="Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database.">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser%3A-20a-20building-20block-20for-20a-20model-20organism-20system-20database."
+title="Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser%3A-20a-20building-20block-20for-20a-20model-20organism-20system-20database.">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -264,7 +264,7 @@ title="Special%3ASearchByProperty/Has-20title/Ant-20Genomes-20Portal">+</a></spa
 MAKER-P  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/MAKER-2DP"
 title="Special%3ASearchByProperty/Has-20title/MAKER-2DP">+</a></span>, <a
-href="Special:PageProperty/MAKER::Has_title"
+href="Special%3APageProperty/MAKER%3A%3AHas_title"
 title="Special:PageProperty/MAKER::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -288,10 +288,10 @@ href="Special%3ASearchByProperty/Has-20title/The-20Burmese-20python-20genome-20r
 title="Special%3ASearchByProperty/Has-20title/The-20Burmese-20python-20genome-20reveals-20the-20molecular-20basis-20for-20extreme-20adaptation-20in-20snakes">+</a></span>,
 PortEco: a resource for exploring bacterial biology through
 high-throughput data and analysis tools  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/PortEco:-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools"
-title="Special%3ASearchByProperty/Has-20title/PortEco:-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/PortEco%3A-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools"
+title="Special%3ASearchByProperty/Has-20title/PortEco%3A-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools">+</a></span>,
 <a
-href="Special:PageProperty/News/GMOD_Paper_Cuts,_Dec_6th,_2013::Has_title"
+href="Special%3APageProperty/News/GMOD_Paper_Cuts,_Dec_6th,_2013%3A%3AHas_title"
 title="Special:PageProperty/News/GMOD Paper Cuts, Dec 6th, 2013::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -302,8 +302,8 @@ href="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Feb-2010th,-202014"
 title="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Feb-2010th,-202014">+</a></span></td>
 <td class="smwprops">Finding the missing honey bee genes: lessons
 learned from a genome upgrade  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes:-20lessons-20learned-20from-20a-20genome-20upgrade"
-title="Special%3ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes:-20lessons-20learned-20from-20a-20genome-20upgrade">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes%3A-20lessons-20learned-20from-20a-20genome-20upgrade"
+title="Special%3ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes%3A-20lessons-20learned-20from-20a-20genome-20upgrade">+</a></span>,
 Highly Specific and Efficient CRISPR/Cas9-Catalyzed Homology-Directed
 Repair in Drosophila  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Highly-20Specific-20and-20Efficient-20CRISPR-2FCas9-2DCatalyzed-20Homology-2DDirected-20Repair-20in-20Drosophila"
@@ -314,7 +314,7 @@ class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Analysis-20of-20Global-20Gene-20Expression-20in-20Brachypodium-20distachyon-20Reveals-20Extensive-20Network-20Plasticity-20in-20Response-20to-20Abiotic-20Stress"
 title="Special%3ASearchByProperty/Has-20title/Analysis-20of-20Global-20Gene-20Expression-20in-20Brachypodium-20distachyon-20Reveals-20Extensive-20Network-20Plasticity-20in-20Response-20to-20Abiotic-20Stress">+</a></span>,
 <a
-href="Special:PageProperty/News/GMOD_Paper_Cuts,_Feb_10th,_2014::Has_title"
+href="Special%3APageProperty/News/GMOD_Paper_Cuts,_Feb_10th,_2014%3A%3AHas_title"
 title="Special:PageProperty/News/GMOD Paper Cuts, Feb 10th, 2014::Has title">…</a></td>
 </tr>
 <tr class="odd">
@@ -325,8 +325,8 @@ href="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Jan-2024th,-202014"
 title="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Jan-2024th,-202014">+</a></span></td>
 <td class="smwprops">CoryneBase: Corynebacterium Genomic Resources and
 Analysis Tools at Your Fingertips  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/CoryneBase:-20Corynebacterium-20Genomic-20Resources-20and-20Analysis-20Tools-20at-20Your-20Fingertips"
-title="Special%3ASearchByProperty/Has-20title/CoryneBase:-20Corynebacterium-20Genomic-20Resources-20and-20Analysis-20Tools-20at-20Your-20Fingertips">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/CoryneBase%3A-20Corynebacterium-20Genomic-20Resources-20and-20Analysis-20Tools-20at-20Your-20Fingertips"
+title="Special%3ASearchByProperty/Has-20title/CoryneBase%3A-20Corynebacterium-20Genomic-20Resources-20and-20Analysis-20Tools-20at-20Your-20Fingertips">+</a></span>,
 The Genome Sequence of the Fungal Pathogen Fusarium virguliforme That
 Causes Sudden Death Syndrome in Soybean  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/The-20Genome-20Sequence-20of-20the-20Fungal-20Pathogen-20Fusarium-20virguliforme-20That-20Causes-20Sudden-20Death-20Syndrome-20in-20Soybean"
@@ -345,17 +345,17 @@ title="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013">+</a><
 <td class="smwprops">The Aspergillus genome database: multispecies
 curation and incorporation of RNA-Seq data to improve structural gene
 annotations  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database:-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations"
-title="Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database:-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database%3A-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations"
+title="Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database%3A-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations">+</a></span>,
 CottonGen: a genomics, genetics and breeding database for cotton
 research  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/CottonGen:-20a-20genomics,-20genetics-20and-20breeding-20database-20for-20cotton-20research"
-title="Special%3ASearchByProperty/Has-20title/CottonGen:-20a-20genomics,-20genetics-20and-20breeding-20database-20for-20cotton-20research">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/CottonGen%3A-20a-20genomics,-20genetics-20and-20breeding-20database-20for-20cotton-20research"
+title="Special%3ASearchByProperty/Has-20title/CottonGen%3A-20a-20genomics,-20genetics-20and-20breeding-20database-20for-20cotton-20research">+</a></span>,
 WormBase 2014: new views of curated biology  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/WormBase-202014:-20new-20views-20of-20curated-20biology"
-title="Special%3ASearchByProperty/Has-20title/WormBase-202014:-20new-20views-20of-20curated-20biology">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/WormBase-202014%3A-20new-20views-20of-20curated-20biology"
+title="Special%3ASearchByProperty/Has-20title/WormBase-202014%3A-20new-20views-20of-20curated-20biology">+</a></span>,
 <a
-href="Special:PageProperty/News/GMOD_Paper_Cuts,_Nov_15th,_2013::Has_title"
+href="Special%3APageProperty/News/GMOD_Paper_Cuts,_Nov_15th,_2013%3A%3AHas_title"
 title="Special:PageProperty/News/GMOD Paper Cuts, Nov 15th, 2013::Has title">…</a></td>
 </tr>
 <tr class="odd">
@@ -377,7 +377,7 @@ class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/FlyBase-20101-20-2D-20the-20basics-20of-20navigating-20FlyBase"
 title="Special%3ASearchByProperty/Has-20title/FlyBase-20101-20-2D-20the-20basics-20of-20navigating-20FlyBase">+</a></span>,
 <a
-href="Special:PageProperty/News/GMOD_Paper_Cuts,_Nov_22nd,_2013::Has_title"
+href="Special%3APageProperty/News/GMOD_Paper_Cuts,_Nov_22nd,_2013%3A%3AHas_title"
 title="Special:PageProperty/News/GMOD Paper Cuts, Nov 22nd, 2013::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -389,18 +389,18 @@ title="Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013">+</a></
 <td class="smwprops">mRNA-Seq and microarray development for the Grooved
 carpet shell clam, Ruditapes decussatus: a functional approach to
 unravel host -parasite interaction  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus:-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction"
-title="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus:-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction"
+title="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction">+</a></span>,
 The database of genomic variants: a curated collection of structural
 variation in the human genome  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/The-20database-20of-20genomic-20variants:-20a-20curated-20collection-20of-20structural-20variation-20in-20the-20human-20genome"
-title="Special%3ASearchByProperty/Has-20title/The-20database-20of-20genomic-20variants:-20a-20curated-20collection-20of-20structural-20variation-20in-20the-20human-20genome">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/The-20database-20of-20genomic-20variants%3A-20a-20curated-20collection-20of-20structural-20variation-20in-20the-20human-20genome"
+title="Special%3ASearchByProperty/Has-20title/The-20database-20of-20genomic-20variants%3A-20a-20curated-20collection-20of-20structural-20variation-20in-20the-20human-20genome">+</a></span>,
 Meta-analysis of 74,046 individuals identifies 11 new susceptibility
 loci for Alzheimer's disease  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Meta-2Danalysis-20of-2074,046-20individuals-20identifies-2011-20new-20susceptibility-20loci-20for-20Alzheimer&#39;s-20disease"
 title="Special%3ASearchByProperty/Has-20title/Meta-2Danalysis-20of-2074,046-20individuals-20identifies-2011-20new-20susceptibility-20loci-20for-20Alzheimer&#39;s-20disease">+</a></span>,
 <a
-href="Special:PageProperty/News/GMOD_Paper_Cuts,_Nov_8th,_2013::Has_title"
+href="Special%3APageProperty/News/GMOD_Paper_Cuts,_Nov_8th,_2013%3A%3AHas_title"
 title="Special:PageProperty/News/GMOD Paper Cuts, Nov 8th, 2013::Has title">…</a></td>
 </tr>
 <tr class="odd">
@@ -415,8 +415,8 @@ title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">Pathway Tools version 13.0: integrated software for
 pathway/genome informatics and systems biology.  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/Pathway-20Tools-20version-2013.0:-20integrated-20software-20for-20pathway-2Fgenome-20informatics-20and-20systems-20biology."
-title="Special%3ASearchByProperty/Has-20title/Pathway-20Tools-20version-2013.0:-20integrated-20software-20for-20pathway-2Fgenome-20informatics-20and-20systems-20biology.">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/Pathway-20Tools-20version-2013.0%3A-20integrated-20software-20for-20pathway-2Fgenome-20informatics-20and-20systems-20biology."
+title="Special%3ASearchByProperty/Has-20title/Pathway-20Tools-20version-2013.0%3A-20integrated-20software-20for-20pathway-2Fgenome-20informatics-20and-20systems-20biology.">+</a></span>,
 An advanced web query interface for biological databases.  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/An-20advanced-20web-20query-20interface-20for-20biological-20databases."
@@ -425,7 +425,7 @@ The pathway tools pathway prediction algorithm.  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/The-20pathway-20tools-20pathway-20prediction-20algorithm."
 title="Special%3ASearchByProperty/Has-20title/The-20pathway-20tools-20pathway-20prediction-20algorithm.">+</a></span>,
-<a href="Special:PageProperty/Pathway_Tools::Has_title"
+<a href="Special%3APageProperty/Pathway_Tools%3A%3AHas_title"
 title="Special:PageProperty/Pathway Tools::Has title">…</a></td>
 </tr>
 <tr class="odd">
@@ -440,12 +440,12 @@ title="Special%3ABrowse/Site-20Guidelines">+</a></span></td>
 <td class="smwprops">mRNA-Seq and microarray development for the Grooved
 carpet shell clam, Ruditapes decussatus: a functional approach to
 unravel host -parasite interaction  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus:-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction"
-title="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus:-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction">+</a></span>,
+href="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction"
+title="Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction">+</a></span>,
 Tripal: a construction toolkit for online genome databases.  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20title/Tripal:-20a-20construction-20toolkit-20for-20online-20genome-20databases."
-title="Special%3ASearchByProperty/Has-20title/Tripal:-20a-20construction-20toolkit-20for-20online-20genome-20databases.">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20title/Tripal%3A-20a-20construction-20toolkit-20for-20online-20genome-20databases."
+title="Special%3ASearchByProperty/Has-20title/Tripal%3A-20a-20construction-20toolkit-20for-20online-20genome-20databases.">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -465,7 +465,7 @@ title="Special%3ASearchByProperty/Has-20title/Textpresso-20for-20Sea-20Urchin">+
 Textpresso for S. cerevisiae  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/Textpresso-20for-20S.-20cerevisiae"
 title="Special%3ASearchByProperty/Has-20title/Textpresso-20for-20S.-20cerevisiae">+</a></span>,
-<a href="Special:PageProperty/Textpresso::Has_title"
+<a href="Special%3APageProperty/Textpresso%3A%3AHas_title"
 title="Special:PageProperty/Textpresso::Has title">…</a></td>
 </tr>
 <tr class="odd">
@@ -498,7 +498,7 @@ title="Special%3ASearchByProperty/Has-20title/WebApollo-20demo-20-2D-20Bos-20tau
 WebApollo download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20title/WebApollo-20download"
 title="Special%3ASearchByProperty/Has-20title/WebApollo-20download">+</a></span>,
-<a href="Special:PageProperty/WebApollo::Has_title"
+<a href="Special%3APageProperty/WebApollo%3A%3AHas_title"
 title="Special:PageProperty/WebApollo::Has title">…</a></td>
 </tr>
 <tr class="even">
@@ -545,7 +545,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_title "Special:Expor
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

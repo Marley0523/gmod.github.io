@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Mac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[MySQL](/wiki/Category%3AMySQL "Category%3AMySQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MySQL "Special%3ASearchByProperty/MySQL")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Mac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[MySQL](/wiki/Category%3AMySQL "Category%3AMySQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MySQL "Special%3ASearchByProperty/MySQL")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 January 2008 18:54:30  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/23-20January-202008-2018:54:30 "Special%3ASearchByProperty/Modification-20date/23-20January-202008-2018:54:30")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/DBD%3A%3Amysql_on_the_Mac&amp;printable=yes"

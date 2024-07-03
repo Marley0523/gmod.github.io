@@ -1516,7 +1516,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Javascript](Category%3AJavascript "Category%3AJavascript")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")

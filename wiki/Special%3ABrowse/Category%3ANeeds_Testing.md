@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Django-20HOWTO "Special%3ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Load GFF Into Chado](/wiki/Load_GFF_Into_Chado "Load GFF Into Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Load-20GFF-20Into-20Chado "Special%3ABrowse/Load-20GFF-20Into-20Chado")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Django-20HOWTO "Special%3ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Load GFF Into Chado](/wiki/Load_GFF_Into_Chado "Load GFF Into Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Load-20GFF-20Into-20Chado "Special%3ABrowse/Load-20GFF-20Into-20Chado")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ANeeds_Testing&amp;printable=yes"

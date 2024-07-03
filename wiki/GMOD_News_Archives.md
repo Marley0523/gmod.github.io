@@ -3354,8 +3354,8 @@ Fixed</a></h3>
 <p>Account creation using OpenID is currently disabled due to problems
 with the OpenID plugin. New wiki users wishing to create accounts should
 use the 'Log in / create account' link and <a
-href="http://gmod.org/wiki/Special:RequestAccount#58;//gmod.org/wiki/Special:RequestAccount"
-title="Special:RequestAccount">request an account</a>; your request
+href="http://gmod.org/wiki/Special%3ARequestAccount#58;//gmod.org/wiki/Special%3ARequestAccount"
+title="Special%3ARequestAccount">request an account</a>; your request
 should be dealt with within 24-48 hours. Unfortunately, due to spammers
 and others creating bogus accounts, we have to had to put protective
 measures in place.</p>
@@ -3666,7 +3666,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 - <a

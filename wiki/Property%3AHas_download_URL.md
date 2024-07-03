@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-This is a property of type [URL](Special:Types/URL "Special:Types/URL").
+This is a property of type [URL](Special%3ATypes/URL "Special%3ATypes/URL").
 
   
 <span id="SMWResults"></span>
@@ -70,8 +70,8 @@ title="Special%3ABrowse/BioDIG">+</a></span></td>
 class="external"
 rel="nofollow">http://github.com/idoerg/BioDIG</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG"
-title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG"
+title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -86,8 +86,8 @@ title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
 class="external"
 rel="nofollow">https://github.com/GMOD/GBrowse</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/https:-2F-2Fgithub.com-2FGMOD-2FGBrowse"
-title="Special%3ASearchByProperty/Has-20download-20URL/https:-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse"
+title="Special%3ASearchByProperty/Has-20download-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -102,8 +102,8 @@ title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
 class="external"
 rel="nofollow">http://biocyc.org/download.shtml</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fbiocyc.org-2Fdownload.shtml"
-title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fbiocyc.org-2Fdownload.shtml">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml"
+title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -119,8 +119,8 @@ href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
 class="external"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
-title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
+title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -135,8 +135,8 @@ href="http://sourceforge.net/projects/gmod/files/OldFiles/"
 class="external"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/OldFiles/</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F"
-title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F"
+title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +167,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_download_URL "Specia
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special:Types/URL "Special:Types/URL") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [URL](Special%3ATypes/URL "Special%3ATypes/URL") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/URL "Special%3ASearchByProperty/Has-20type/URL")</span> |
 
 </div>
 

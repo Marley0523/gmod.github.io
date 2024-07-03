@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Date](Special:Types/Date "Special:Types/Date").
+[Date](Special%3ATypes/Date "Special%3ATypes/Date").
 
   
 <span id="SMWResults"></span>
@@ -281,7 +281,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:Ex
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Date](Special:Types/Date "Special:Types/Date") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Date "Special%3ASearchByProperty/Has-20type/Date")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Date](Special%3ATypes/Date "Special%3ATypes/Date") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Date "Special%3ASearchByProperty/Has-20type/Date")</span> |
 
 </div>
 

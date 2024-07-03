@@ -187,7 +187,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ASearchByProperty/Published-20in/Current-20protocols-20in-20bioinformatics-20-2F-20editoral-20board,-20Andreas-20D.-20Baxevanis-20...-20-5Bet-20al.-5D&amp;printable=yes"

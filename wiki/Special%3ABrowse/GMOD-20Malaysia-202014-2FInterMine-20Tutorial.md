@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[InterMine](/wiki/InterMine "InterMine") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[InterMine](/wiki/Category%3AInterMine "Category%3AInterMine")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/InterMine "Special%3ASearchByProperty/InterMine")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[InterMine](/wiki/Category%3AInterMine "Category%3AInterMine")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/InterMine "Special%3ASearchByProperty/InterMine")</span></span> , <span class="smwb-value">[GMOD Schools](/wiki/Category%3AGMOD_Schools "Category%3AGMOD Schools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Schools "Special%3ASearchByProperty/GMOD-20Schools")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">19 February 2014 22:41:33  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/19-20February-202014-2022:41:33 "Special%3ASearchByProperty/Modification-20date/19-20February-202014-2022:41:33")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GMOD-20Malaysia-202014-2FInterMine-20Tutorial&amp;printable=yes"

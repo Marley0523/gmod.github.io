@@ -290,7 +290,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [Tool data](Category%3ATool_data "Category%3ATool data")
@@ -338,13 +338,13 @@ href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
 class="external free"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span>
 and <a href="http://webgbrowse.cgb.indiana.edu" class="external free"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -404,8 +404,8 @@ href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
 class="external free"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
-title="Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
+title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property%3AHas_input_format"
@@ -460,8 +460,8 @@ title="Property:Has website">Has website</a></td>
 class="external free"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu"
-title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu"
+title="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3ALink_type"
@@ -519,13 +519,13 @@ special property in this wiki.</span></span></td>
 href="WebGBrowse.1#http:.2F.2Fwebgbrowse.cgb.indiana.edu.2Fwebgbrowse.2Fsoftware.html"
 title="WebGBrowse">WebGBrowse#http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
-title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http:-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html"
+title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html">+</a></span>
 and <a href="WebGBrowse.1#http:.2F.2Fwebgbrowse.cgb.indiana.edu"
 title="WebGBrowse">WebGBrowse#http://webgbrowse.cgb.indiana.edu</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http:-2F-2Fwebgbrowse.cgb.indiana.edu"
-title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http:-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu"
+title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu">+</a></span></td>
 </tr>
 </tbody>
 </table>

@@ -1084,7 +1084,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
 - [Expression](Category%3AExpression "Category%3AExpression")

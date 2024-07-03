@@ -37,7 +37,7 @@ data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
 type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
-"[Date](/wiki/Special:Types/Date "Special:Types/Date")"  
+"[Date](/wiki/Special%3ATypes/Date "Special%3ATypes/Date")"  
 
 - [Property:Release
   date](/wiki/Property%3ARelease_date "Property:Release date")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ARelease-20date "Special%3ABrowse/Property%3ARelease-20date")</span>
@@ -187,7 +187,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20type/Date&amp;printable=yes"

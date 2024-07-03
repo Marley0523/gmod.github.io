@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Unsupported](/wiki/Category%3AUnsupported "Category%3AUnsupported")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Unsupported "Special%3ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Java](/wiki/Category%3AJava "Category%3AJava")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[MySQL](/wiki/Category%3AMySQL "Category%3AMySQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MySQL "Special%3ASearchByProperty/MySQL")</span></span> , <span class="smwb-value">[PubSearch](/wiki/Category%3APubSearch "Category%3APubSearch")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PubSearch "Special%3ASearchByProperty/PubSearch")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Unsupported](/wiki/Category%3AUnsupported "Category%3AUnsupported")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Unsupported "Special%3ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Java](/wiki/Category%3AJava "Category%3AJava")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Java "Special%3ASearchByProperty/Java")</span></span> , <span class="smwb-value">[MySQL](/wiki/Category%3AMySQL "Category%3AMySQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MySQL "Special%3ASearchByProperty/MySQL")</span></span> , <span class="smwb-value">[PubSearch](/wiki/Category%3APubSearch "Category%3APubSearch")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PubSearch "Special%3ASearchByProperty/PubSearch")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">18 November 2010 00:52:52  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/18-20November-202010-2000:52:52 "Special%3ASearchByProperty/Modification-20date/18-20November-202010-2000:52:52")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/PubSearch&amp;printable=yes"

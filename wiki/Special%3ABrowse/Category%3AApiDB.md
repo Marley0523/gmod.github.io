@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Face Caucus ApiDB: User Studies and Impact on Development](/wiki/Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development "Face Caucus ApiDB: User Studies and Impact on Development") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Face-20Caucus-20ApiDB:-20User-20Studies-20and-20Impact-20on-20Development "Special%3ABrowse/Face-20Caucus-20ApiDB:-20User-20Studies-20and-20Impact-20on-20Development")</span></span> , <span class="smwb-ivalue">[GUS WDK Presentation](/wiki/GUS_WDK_Presentation "GUS WDK Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GUS-20WDK-20Presentation "Special%3ABrowse/GUS-20WDK-20Presentation")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-ApiDB.pdf](/wiki/File:Mod-face-07jan-ApiDB.pdf "File:Mod-face-07jan-ApiDB.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mod-2Dface-2D07jan-2DApiDB.pdf "Special%3ABrowse/File:Mod-2Dface-2D07jan-2DApiDB.pdf")</span></span> , <span class="smwb-ivalue">[November 2007 GMOD Meeting](/wiki/November_2007_GMOD_Meeting "November 2007 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/November-202007-20GMOD-20Meeting "Special%3ABrowse/November-202007-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Face Caucus ApiDB: User Studies and Impact on Development](/wiki/Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development "Face Caucus ApiDB: User Studies and Impact on Development") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Face-20Caucus-20ApiDB:-20User-20Studies-20and-20Impact-20on-20Development "Special%3ABrowse/Face-20Caucus-20ApiDB:-20User-20Studies-20and-20Impact-20on-20Development")</span></span> , <span class="smwb-ivalue">[GUS WDK Presentation](/wiki/GUS_WDK_Presentation "GUS WDK Presentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GUS-20WDK-20Presentation "Special%3ABrowse/GUS-20WDK-20Presentation")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-ApiDB.pdf](/wiki/File:Mod-face-07jan-ApiDB.pdf "File:Mod-face-07jan-ApiDB.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mod-2Dface-2D07jan-2DApiDB.pdf "Special%3ABrowse/File:Mod-2Dface-2D07jan-2DApiDB.pdf")</span></span> , <span class="smwb-ivalue">[November 2007 GMOD Meeting](/wiki/November_2007_GMOD_Meeting "November 2007 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/November-202007-20GMOD-20Meeting "Special%3ABrowse/November-202007-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AApiDB&amp;printable=yes"

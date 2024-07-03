@@ -51,7 +51,7 @@ title="Category%3ACanto (page does not exist)">Category%3ACanto</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[News/Canto Workshop at Biocuration 2014](/wiki/News/Canto_Workshop_at_Biocuration_2014 "News/Canto Workshop at Biocuration 2014") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014 "Special%3ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014")</span></span> , <span class="smwb-ivalue">[News/Canto, a GMOD tool for functional annotation](/wiki/News/Canto,_a_GMOD_tool_for_functional_annotation "News/Canto, a GMOD tool for functional annotation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation "Special%3ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[News/Canto Workshop at Biocuration 2014](/wiki/News/Canto_Workshop_at_Biocuration_2014 "News/Canto Workshop at Biocuration 2014") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014 "Special%3ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014")</span></span> , <span class="smwb-ivalue">[News/Canto, a GMOD tool for functional annotation](/wiki/News/Canto,_a_GMOD_tool_for_functional_annotation "News/Canto, a GMOD tool for functional annotation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation "Special%3ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ACanto&amp;printable=yes"

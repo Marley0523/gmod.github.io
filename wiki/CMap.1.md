@@ -506,7 +506,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](/wiki/Special:Categories "Special:Categories"):
+[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
 [GMOD
 Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -552,29 +552,29 @@ web
 <a href="http://sourceforge.net/projects/gmod/files/cmap/"
 class="external free"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/cmap/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F")</span>,
 <a href="https://gmod.svn.sourceforge.net/svnroot/gmod/cmap"
 class="external free"
 rel="nofollow">https://gmod.svn.sourceforge.net/svnroot/gmod/cmap</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap "Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap "Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap")</span>,
 <a href="http://www.gramene.org/db/cmap" class="external free"
 rel="nofollow">http://www.gramene.org/db/cmap</a>
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.ghttp://gmod.org/wiki/ramene.org-2Fdb-2Fcmap "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.gramene.org-2Fhttp://gmod.org/wiki/db-2Fcmap")</span>,
 <a href="http://www.gramene.org/cmap" class="external free"
 rel="nofollow">http://www.gramene.org/cmap</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-http://gmod.org/wiki/2F-2Fwww.gramene.org-2Fcmap "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.gramene.org-2Fcmap")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-http://gmod.org/wiki/2F-2Fwww.gramene.org-2Fcmap "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.gramene.org-2Fcmap")</span>,
 <a href="http://www.comparative-legumes.org/" class="external free"
 rel="nofollow">http://www.comparative-legumes.org/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.comparative-2Dlegumes.org-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.comparative-2Dlegumes.org-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F")</span>,
 <a href="http://racerx00.tamu.edu/cgi-bin/cmap/viewer"
 class="external free"
 rel="nofollow">http://racerx00.tamu.edu/cgi-bin/cmap/viewer</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span>,
 <a
 href="http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi"
 class="external free"
 rel="nofollow">http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>,
 <a
 href="http://rye.pw.usda.gov/cgi-bin/cmap/map_set_info?map_set_aid=Barley_consensus_2003"
 class="external free"
@@ -584,7 +584,7 @@ rel="nofollow">http://rye.pw.usda.gov/cgi-bin/cmap/map_set_info?map_set_aid=Barl
 href="http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info"
 class="external free"
 rel="nofollow">http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>,
 <a
 href="http://www.bioinfo.wsu.edu/cgi-bin/gdr/cmap/map_set_info?map_set_aid=17"
 class="external free"
@@ -592,10 +592,10 @@ rel="nofollow">http://www.bioinfo.wsu.edu/cgi-bin/gdr/cmap/map_set_info?map_set_
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.bioinfo.wsu.edu-2Fcgi-2Dbin-2Fgdr-2Fcmap-2Fmap_set_info-3Fmap_set_aid%3D17 "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.bioinfo.wsu.edu-2Fcgi-2Dbin-2Fgdr-2Fcmap-2Fmap set info-3Fmap set aid=17")</span>,
 <a href="http://www.cottonmarker.org/" class="external free"
 rel="nofollow">http://www.cottonmarker.org/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2Fhttp://gmod.org/wiki/-2Fwww.cottonmarker.org-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.cottonmarker.org-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2Fhttp://gmod.org/wiki/-2Fwww.cottonmarker.org-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.cottonmarker.org-2F")</span>,
 <a href="http://bioinf.scri.sari.ac.uk/" class="external free"
 rel="nofollow">http://bioinf.scri.sari.ac.uk/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinf.scri.sari.ac.uk-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinf.scri.sari.ac.uk-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F")</span>,
 <a
 href="http://www.pristionchus.org/cgi-bin/cmap/viewer?ref_map_set_aid=PM%3Bref_map_aids=109"
 class="external free"
@@ -603,27 +603,27 @@ rel="nofollow">http://www.pristionchus.org/cgi-bin/cmap/viewer?ref_map_set_aid=P
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid%3DPM-253Bref_map_aids%3D109 "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref map set aid=PM-253Bref map aids=109")</span>,
 <a href="http://medvet.angis.org.au/cmap/" class="external free"
 rel="nofollow">http://medvet.angis.org.au/cmap/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>,
 <a href="http://soybeanbreederstoolbox.org/index.php"
 class="external free"
 rel="nofollow">http://soybeanbreederstoolbox.org/index.php</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>,
 <a href="http://map.lab.nig.ac.jp:8080/cmap/" class="external free"
 rel="nofollow">http://map.lab.nig.ac.jp:8080/cmap/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F")</span>,
 <a href="http://peanutgenetics.tamu.edu/cmap/" class="external free"
 rel="nofollow">http://peanutgenetics.tamu.edu/cmap/</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fpeanutgenetics.tahttp://gmod.org/wiki/mu.edu-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fpeanutgenetics.tahttp://gmod.org/wiki/mu.edu-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span>,
 <a href="http://www.cottondb.org/cmap/" class="external free"
 rel="nofollow">http://www.cottondb.org/cmap/</a>
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwwwhttp://gmod.org/wiki/.cottondb.org-2Fcmap-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.cottondb.orhttp://gmod.org/wiki/g-2Fcmap-2F")</span>,
 <a href="http://tropgenedb.cirad.fr" class="external free"
 rel="nofollow">http://tropgenedb.cirad.fr</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftropgenedb.cirad.fr "Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftropgenedb.cirad.fr")</span>
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftropgenedb.cirad.fr "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftropgenedb.cirad.fr")</span>
 and <a href="http://cricket.ornl.gov/cgi-bin/cmap/map_set_info"
 class="external free"
 rel="nofollow">http://cricket.ornl.gov/cgi-bin/cmap/map_set_info</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
 
 [Has description](/wiki/Property%3AHas_description "Property:Has description")
 
@@ -658,7 +658,7 @@ and GFF
 
 <a href="http://opensource.org/licenses/GPL-3.0" class="external text"
 rel="nofollow">GPL</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D "Special:Sehttp://gmod.org/wiki/archByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D")</span>
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20licence/-5Bhttp%3A-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D "Special:Sehttp://gmod.org/wiki/archByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FGPL-2D3.0-20GPL-5D")</span>
 
 [Has logo](/wiki/Property%3AHas_logo "Property:Has logo")
 
@@ -769,58 +769,58 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>
 
 [CMap#http://sourceforge.net/projects/gmod/files/cmap/](/wiki/CMap#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2Fcmap.2F "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2Fcmap-2F")</span>,
 [CMap#https://gmod.svn.sourceforge.net/svnroot/gmod/cmap](/wiki/CMap#https:.2F.2Fgmod.svn.sourceforge.net.2Fsvnroot.2Fgmod.2Fcmap "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23https:-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23https%3A-2F-2Fgmod.svn.sourceforge.net-2Fsvnroot-2Fgmod-2Fcmap")</span>,
 [\#http:.2F.2Fwww.gramene.org.2Fdb.2Fcmap"
 title="CMap"\>CMap#http://www.gramene.org/db/cmap](/wiki/CMap#http:.2F.2Fwww.gramene.org.2Fdb.2Fcmap "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobjecthttp://gmod.org/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobjecthttp://gmod.org/CMap-23http:-2F-2Fwww.gramene.org-2Fdb-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.gramene.org-2Fdb-2Fcmap")</span>,
 <a href="/wiki/CMap#http:.2F.2Fwww.gramene.org.2Fcmap"
 title#http:.2f.2fwww.gramene.org.2fcmap"=""
 title="CMap">CMap#http://www.gramene.org/cmap</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.gramene.org-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.gramene.org-2Fcmap")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.gramene.org-2Fcmap "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.gramene.org-2Fcmap")</span>,
 [CMap#http:#http:.2F.2Fwww.comparative-legumes.org.2F"
 title="CMap"\>CMap#http://www.comparative-legumes.org/](/wiki/CMap#http:.2F.2Fwww.comparative-legumes.org.2F "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.comparative-2Dlegumes.org-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.comparative-2Dlegumes.org-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.comparative-2Dlegumes.org-2F")</span>,
 [CMap#http://racerx00.tamu.edu/cg#http:.2F.2Fracerx00.tamu.edu.2Fcgi-bin.2Fcmap.2Fviewer"
 title="CMap"\>CMap#http://racerx00.tamu.edu/cgi-bin/cmap/viewer](/wiki/CMap#http:.2F.2Fracerx00.tamu.edu.2Fcgi-bin.2Fcmap.2Fviewer "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span>,
 [CMap#http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi](/wiki/CMap#http:.2F.2Fbioinformatics.pbcbasc.latrobe.edu.au.2Fbasc.2Fcgi-bin.2Findex.cgi "CMap")
 \#http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fbioinformatics.pbcbasc.latrobhttp://gmod.org/wiki/e.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fbioinformatics.pbcbasc.latrobhttp://gmod.org/wiki/e.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>,
 [CMap](/wiki/CMap#_75eaf265155#_75eaf2651555527ffa7f7d99f9d9c15a "CMap")
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23_75eaf2651555527ffa7f7d99f9d9c15a "Special%3ASearchByProperty/Has-20subobject/CMap-23 75eaf2651555527ffa7f7d99f9d9c15a")</span>,
 [CMap#http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmagi.plantgenomics.iastathttp://gmod.org/wiki/e.edu-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>,](/wiki/CMap#http:.2F.2Fmagi.plantgenomics.iastate.edu.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fmagi.plantgenomics.iastate.edu-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmagi.plantgenomics.iastathttp://gmod.org/wiki/e.edu-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>,](/wiki/CMap#http:.2F.2Fmagi.plantgenomics.iastate.edu.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")
 [CMap](/wiki/CMap#_3f80769a1aa#_3f80769a1aa74f5a952bb5529f11eaa7 "CMap")
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-2http://gmod.org/wiki/0subobject/CMap-23_3f80769a1aa74f5a952bb5529f11eaa7 "Special%3ASearchByProperty/Has-20subobject/CMap-23 3f80769a1aa74f5a952bb5529f11eaa7")</span>,
 [CMap#http://www.cottonmarker.org/](/wiki/CMap#http:.2F.2Fwww.cottonmarker.org.2F "#http:.2F.2Fwww.cottonmarker.org.2F")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.cottonmarker.org-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.cottonmarker.org-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.cottonmarker.org-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.cottonmarker.org-2F")</span>,
 [CMap#http://bioinf.scri.sari.ac.uk/](/wiki/CMap#http:.2F.2Fbioinf.scri.sari.ac.uk.2F "CMap#http:.2F.2Fbioinf.scri.sari.ac.uk.2F")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fbioinf.scri.sari.ac.uk-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fbioinf.scri.sari.ac.uk-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fbioinf.scri.sari.ac.uk-2F")</span>,
 [CMap](/wiki/CMap#_36c139c5a97#_36c139c5a97dd9e21a9bae4c4daf99fb "CMap")
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-2http://gmod.org/wiki/0subobject/CMap-23_36c139c5a97dd9e21a9bae4c4daf99fb "Special%3ASearchByProperty/Has-20subobject/CMap-23 36c139c5a97dd9e21a9bae4c4daf99fb")</span>,
 [CMap#http:.2F.2Fmedvet.angis.org.au.2Fcmap.2F"
 title="CMap"\>CMap#http://medvet.angis.org.au/cmap/](/wiki/CMap#http:.2F.2Fmedvet.angis.org.au.2Fcmap.2F "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>,
 [CMap#http://soybeanbreed#http:.2F.2Fsoybeanbreederstoolbox.org.2Findex.php"
 title="CMap"\>CMap#http://soybeanbreederstoolbox.org/index.php](/wiki/CMap#http:.2F.2Fsoybeanbreederstoolbox.org.2Findex.php "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>,
 [CMap#http:#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F"
 title="CMap"\>CMap#http://map.lab.nig.ac.jp:8080/cmap/](/wiki/CMap#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fmap.lab.nig.ac.jp:8080-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F")</span>,
 [CMap#http://#http:.2F.2Fpeanutgenetics.tamu.edu.2Fcmap.2F"
 title="CMap"\>CMap#http://peanutgenetics.tamu.edu/cmap/](/wiki/CMap#http:.2F.2Fpeanutgenetics.tamu.edu.2Fcmap.2F "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span>,
 [CMap#http://www.cottondb.org/cmap/](/wiki/CMap#http:.2F.2Fwww.cottondb.org.2Fcmap.2F "CMap#http:.2F.2Fwww.cottondb.org.2Fcmap.2F")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.cottondb.org-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fwww.cottondb.org-2Fcmap-2F")</span>,
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.cottondb.org-2Fcmap-2F "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fwww.cottondb.org-2Fcmap-2F")</span>,
 <a href="/wiki/CMap#http:.2F.2Ftropgenedb.cirad.fr"
 t#http:.2f.2ftropgenedb.cirad.fr"=""
 title="CMap">CMap#http://tropgenedb.cirad.fr</a>
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Ftropgenedb.cirad.fr "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Ftropgenedb.cirad.fr")</span>
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr "Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr")</span>
 and
 [CMap#http://cricket.ornl.gov/cgi-bin/cmap/map_set_info](/wiki/CMap#http:.2F.2Fcricket.ornl.gov.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
+<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
 
 <div class="visualClear">
 
@@ -960,7 +960,7 @@ role="navigation" aria-labelledby="p-tb-label">
 - <span id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/CMap" accesskey="k"
   title="Recent changes in pages linked from this page [k]">Related
   changes</a></span>
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.phttp://gmod.org/wiki/hp?title=CMap&amp;printable=yes"

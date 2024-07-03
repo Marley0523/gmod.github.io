@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse Popup Balloons](/wiki/GBrowse_Popup_Balloons "GBrowse Popup Balloons") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Popup-20Balloons "Special%3ABrowse/GBrowse-20Popup-20Balloons")</span></span> , <span class="smwb-ivalue">[Gbrowse Benchmarking](/wiki/Gbrowse_Benchmarking "Gbrowse Benchmarking") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gbrowse-20Benchmarking "Special%3ABrowse/Gbrowse-20Benchmarking")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting "Special%3ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Popup Balloons](/wiki/Popup_Balloons "Popup Balloons") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Popup-20Balloons "Special%3ABrowse/Popup-20Balloons")</span></span> , <span class="smwb-ivalue">[RubberBandSelection](/wiki/RubberBandSelection "RubberBandSelection") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/RubberBandSelection "Special%3ABrowse/RubberBandSelection")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GBrowse Popup Balloons](/wiki/GBrowse_Popup_Balloons "GBrowse Popup Balloons") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Popup-20Balloons "Special%3ABrowse/GBrowse-20Popup-20Balloons")</span></span> , <span class="smwb-ivalue">[Gbrowse Benchmarking](/wiki/Gbrowse_Benchmarking "Gbrowse Benchmarking") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gbrowse-20Benchmarking "Special%3ABrowse/Gbrowse-20Benchmarking")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting "Special%3ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Popup Balloons](/wiki/Popup_Balloons "Popup Balloons") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Popup-20Balloons "Special%3ABrowse/Popup-20Balloons")</span></span> , <span class="smwb-ivalue">[RubberBandSelection](/wiki/RubberBandSelection "RubberBandSelection") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/RubberBandSelection "Special%3ABrowse/RubberBandSelection")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AJavascript&amp;printable=yes"

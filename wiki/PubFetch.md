@@ -143,7 +143,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
 - [RGD](Category%3ARGD "Category%3ARGD")

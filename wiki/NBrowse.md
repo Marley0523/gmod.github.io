@@ -283,7 +283,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](Special:Categories "Special:Categories"):
+[Category](Special%3ACategories "Special%3ACategories"):
 
 - [External](Category%3AExternal "Category%3AExternal")
 

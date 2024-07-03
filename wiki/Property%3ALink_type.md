@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
 The allowed values for this property are:
 
@@ -119,7 +119,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/demo-20server"
 title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special:PageProperty/CMap::Link_type"
+<a href="Special%3APageProperty/CMap%3A%3ALink_type"
 title="Special:PageProperty/CMap::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -135,7 +135,7 @@ title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
 documentation  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/documentation"
 title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special:PageProperty/Canto::Link_type"
+<a href="Special%3APageProperty/Canto%3A%3ALink_type"
 title="Special:PageProperty/Canto::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special:PageProperty/GBrowse::Link_type"
+href="Special%3APageProperty/GBrowse%3A%3ALink_type"
 title="Special:PageProperty/GBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/demo-20server"
 title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special:PageProperty/GBrowse_syn::Link_type"
+<a href="Special%3APageProperty/GBrowse_syn%3A%3ALink_type"
 title="Special:PageProperty/GBrowse syn::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -229,7 +229,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 documentation  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/documentation"
 title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special:PageProperty/Galaxy::Link_type"
+<a href="Special%3APageProperty/Galaxy%3A%3ALink_type"
 title="Special:PageProperty/Galaxy::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -250,7 +250,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special:PageProperty/InterMine::Link_type"
+href="Special%3APageProperty/InterMine%3A%3ALink_type"
 title="Special:PageProperty/InterMine::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -271,7 +271,7 @@ title="Special%3ASearchByProperty/Link-20type/social-20media">+</a></span>,
 website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special:PageProperty/JBrowse::Link_type"
+href="Special%3APageProperty/JBrowse%3A%3ALink_type"
 title="Special:PageProperty/JBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -288,7 +288,7 @@ title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
 social media  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/social-20media"
 title="Special%3ASearchByProperty/Link-20type/social-20media">+</a></span>,
-<a href="Special:PageProperty/JBrowse2::Link_type"
+<a href="Special%3APageProperty/JBrowse2%3A%3ALink_type"
 title="Special:PageProperty/JBrowse2::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -308,7 +308,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special:PageProperty/MAKER::Link_type"
+href="Special%3APageProperty/MAKER%3A%3ALink_type"
 title="Special:PageProperty/MAKER::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -329,7 +329,7 @@ title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
 public server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/public-20server"
 title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span>,
-<a href="Special:PageProperty/Pathway_Tools::Link_type"
+<a href="Special%3APageProperty/Pathway_Tools%3A%3ALink_type"
 title="Special:PageProperty/Pathway Tools::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -350,7 +350,7 @@ title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
 documentation  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/documentation"
 title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special:PageProperty/Textpresso::Link_type"
+<a href="Special%3APageProperty/Textpresso%3A%3ALink_type"
 title="Special:PageProperty/Textpresso::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -380,7 +380,7 @@ title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
 download  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/download"
 title="Special%3ASearchByProperty/Link-20type/download">+</a></span>, <a
-href="Special:PageProperty/WebApollo::Link_type"
+href="Special%3APageProperty/WebApollo%3A%3ALink_type"
 title="Special:PageProperty/WebApollo::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -397,7 +397,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/demo-20server"
 title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special:PageProperty/WebApollo2::Link_type"
+<a href="Special%3APageProperty/WebApollo2%3A%3ALink_type"
 title="Special:PageProperty/WebApollo2::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -414,7 +414,7 @@ title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Link-20type/website"
 title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special:PageProperty/WebGBrowse::Link_type"
+href="Special%3APageProperty/WebGBrowse%3A%3ALink_type"
 title="Special:PageProperty/WebGBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -459,7 +459,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:Expor
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | website <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/website "Special%3ASearchByProperty/Allows-20value/website")</span>, download <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/download "Special%3ASearchByProperty/Allows-20value/download")</span>, source code <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/source-20code "Special%3ASearchByProperty/Allows-20value/source-20code")</span>, public server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/public-20server "Special%3ASearchByProperty/Allows-20value/public-20server")</span>, demo server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/demo-20server "Special%3ASearchByProperty/Allows-20value/demo-20server")</span>, wild URL <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/wild-20URL "Special%3ASearchByProperty/Allows-20value/wild-20URL")</span>, documentation <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/documentation "Special%3ASearchByProperty/Allows-20value/documentation")</span>, publication <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/publication "Special%3ASearchByProperty/Allows-20value/publication")</span>, social media <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/social-20media "Special%3ASearchByProperty/Allows-20value/social-20media")</span> and other <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/other "Special%3ASearchByProperty/Allows-20value/other")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

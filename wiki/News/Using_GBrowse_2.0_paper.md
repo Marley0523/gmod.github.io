@@ -77,7 +77,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](../Special:Categories "Special:Categories"):
+[Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2")

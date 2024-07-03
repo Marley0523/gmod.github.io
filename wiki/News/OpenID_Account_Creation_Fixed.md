@@ -43,7 +43,7 @@ Update on July 11:
 Account creation using OpenID is currently disabled due to problems with
 the OpenID plugin. New wiki users wishing to create accounts should use
 the 'Log in / create account' link and [request an
-account](../Special:RequestAccount "Special:RequestAccount"); your
+account](../Special%3ARequestAccount "Special%3ARequestAccount"); your
 request should be dealt with within 24-48 hours. Unfortunately, due to
 spammers and others creating bogus accounts, we have to had to put
 protective measures in place.
@@ -74,7 +74,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](../Special:Categories "Special:Categories"):
+[Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GMOD Web Site](../Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")

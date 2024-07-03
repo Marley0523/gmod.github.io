@@ -50,7 +50,7 @@ class="new" title="Category%3AGFF (page does not exist)">Category%3AGFF</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF "Special%3ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF-20Tutorial-202012 "Special%3ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF2 "Special%3ABrowse/GFF2")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF "Special%3ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF-20Tutorial-202012 "Special%3ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF2 "Special%3ABrowse/GFF2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGFF&amp;printable=yes"

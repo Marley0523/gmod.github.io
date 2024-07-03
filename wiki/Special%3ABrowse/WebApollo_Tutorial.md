@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> |
@@ -205,7 +205,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/WebApollo_Tutorial&amp;printable=yes"

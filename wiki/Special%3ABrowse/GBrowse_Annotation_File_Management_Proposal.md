@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category%3AProposals "Category%3AProposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[Proposals](/wiki/Category%3AProposals "Category%3AProposals")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Proposals "Special%3ASearchByProperty/Proposals")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 January 2008 23:04:05  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/25-20January-202008-2023:04:05 "Special%3ASearchByProperty/Modification-20date/25-20January-202008-2023:04:05")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GBrowse_Annotation_File_Management_Proposal&amp;printable=yes"

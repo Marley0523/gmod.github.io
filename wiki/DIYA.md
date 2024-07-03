@@ -216,7 +216,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
@@ -263,8 +263,8 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="https://github.com/bioteam/DIYA"
 class="external free" rel="nofollow">https://github.com/bioteam/DIYA</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fbioteam-2FDIYA"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fbioteam-2FDIYA">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fbioteam-2FDIYA"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fbioteam-2FDIYA">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -329,8 +329,8 @@ title="Property:Has licence">Has licence</a></td>
 <td class="smwprops"><a
 href="http://opensource.org/licenses/gpl-license" class="external text"
 rel="nofollow">Gnu GPL</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D"
-title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp%3A-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp%3A-2F-2Fopensource.org-2Flicenses-2Fgpl-2Dlicense-20Gnu-20GPL-5D">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property%3AHas_logo"
@@ -454,8 +454,8 @@ special property in this wiki.</span></span></td>
 href="DIYA#https:.2F.2Fgithub.com.2Fbioteam.2FDIYA"
 title="DIYA">DIYA#https://github.com/bioteam/DIYA</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/DIYA-23https:-2F-2Fgithub.com-2Fbioteam-2FDIYA"
-title="Special%3ASearchByProperty/Has-20subobject/DIYA-23https:-2F-2Fgithub.com-2Fbioteam-2FDIYA">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/DIYA-23https%3A-2F-2Fgithub.com-2Fbioteam-2FDIYA"
+title="Special%3ASearchByProperty/Has-20subobject/DIYA-23https%3A-2F-2Fgithub.com-2Fbioteam-2FDIYA">+</a></span>
 and <a href="DIYA#_b8d8e90ce8e883d5ee6b571c9f48e1bb"
 title="DIYA">DIYA</a> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/DIYA-23_b8d8e90ce8e883d5ee6b571c9f48e1bb"

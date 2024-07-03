@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009LinkedData.pdf "Special%3ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[August 2009 GMOD Meeting](/wiki/August_2009_GMOD_Meeting "August 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/August-202009-20GMOD-20Meeting "Special%3ABrowse/August-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting "Special%3ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Web-20services-20working-20group "Special%3ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009LinkedData.pdf "Special%3ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[August 2009 GMOD Meeting](/wiki/August_2009_GMOD_Meeting "August 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/August-202009-20GMOD-20Meeting "Special%3ABrowse/August-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting "Special%3ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Web-20services-20working-20group "Special%3ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ASemantic_web&amp;printable=yes"

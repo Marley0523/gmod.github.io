@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[ParameciumDB](/wiki/Category%3AParameciumDB "Category%3AParameciumDB")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/ParameciumDB "Special%3ASearchByProperty/ParameciumDB")</span></span> , <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[SGD](/wiki/Category%3ASGD "Category%3ASGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SGD "Special%3ASearchByProperty/SGD")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[ParameciumDB](/wiki/Category%3AParameciumDB "Category%3AParameciumDB")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/ParameciumDB "Special%3ASearchByProperty/ParameciumDB")</span></span> , <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[SGD](/wiki/Category%3ASGD "Category%3ASGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SGD "Special%3ASearchByProperty/SGD")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 June 2019 14:56:06  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/25-20June-202019-2014:56:06 "Special%3ASearchByProperty/Modification-20date/25-20June-202019-2014:56:06")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Public_Chado_Databases&amp;printable=yes"

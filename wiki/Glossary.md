@@ -669,7 +669,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Help](Category%3AHelp "Category%3AHelp")
 - [Computing](Category%3AComputing "Category%3AComputing")

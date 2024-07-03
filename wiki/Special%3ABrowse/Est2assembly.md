@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ANGS&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ANGS (page does not exist)">NGS</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/NGS "Special%3ASearchByProperty/NGS")</span></span> , <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/External "Special%3ASearchByProperty/External")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 August 2010 22:51:32  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/23-20August-202010-2022:51:32 "Special%3ASearchByProperty/Modification-20date/23-20August-202010-2022:51:32")</span></span> |
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Est2assembly&amp;printable=yes"

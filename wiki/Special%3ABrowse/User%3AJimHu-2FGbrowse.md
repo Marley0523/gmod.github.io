@@ -59,8 +59,8 @@ title="Property:Has author (page does not exist)">Has author</a> | <span class=
 | <a
 href="/mediawiki/index.php?title=Property:Has_publication_details&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Has publication details (page does not exist)">Has publication details</a> | <span class="smwb-value">Genome research 12: 1599-610  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610 "Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012:-201599-2D610")</span></span> |
-| [Has title](/wiki/Property%3AHas_title "Property:Has title") | <span class="smwb-value">The generic genome browser: a building block for a model organism system database.  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database. "Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser:-20a-20building-20block-20for-20a-20model-20organism-20system-20database.")</span></span> |
+title="Property:Has publication details (page does not exist)">Has publication details</a> | <span class="smwb-value">Genome research 12: 1599-610  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012%3A-201599-2D610 "Special%3ASearchByProperty/Has-20publication-20details/Genome-20research-2012%3A-201599-2D610")</span></span> |
+| [Has title](/wiki/Property%3AHas_title "Property:Has title") | <span class="smwb-value">The generic genome browser: a building block for a model organism system database.  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser%3A-20a-20building-20block-20for-20a-20model-20organism-20system-20database. "Special%3ASearchByProperty/Has-20title/The-20generic-20genome-20browser%3A-20a-20building-20block-20for-20a-20model-20organism-20system-20database.")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
 class="new"
@@ -226,7 +226,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/User%3AJimHu-2FGbrowse&amp;printable=yes"

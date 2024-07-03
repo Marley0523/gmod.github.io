@@ -51,7 +51,7 @@ title="Category%3AWebApollo (page does not exist)">Category%3AWebApollo</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Apollo](/wiki/Apollo "Apollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo "Special%3ABrowse/Apollo")</span></span> , <span class="smwb-ivalue">[GMOD Malaysia 2014/WebApollo Tutorial](/wiki/GMOD_Malaysia_2014/WebApollo_Tutorial "GMOD Malaysia 2014/WebApollo Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial")</span></span> , <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GSoC "Special%3ABrowse/GSoC")</span></span> , <span class="smwb-ivalue">[News/New WebApollo Release](/wiki/News/New_WebApollo_Release "News/New WebApollo Release") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FNew-20WebApollo-20Release "Special%3ABrowse/News-2FNew-20WebApollo-20Release")</span></span> , <span class="smwb-ivalue">[WebApollo Tutorial 2013](/wiki/WebApollo_Tutorial_2013 "WebApollo Tutorial 2013") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-20Tutorial-202013 "Special%3ABrowse/WebApollo-20Tutorial-202013")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Apollo](/wiki/Apollo "Apollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo "Special%3ABrowse/Apollo")</span></span> , <span class="smwb-ivalue">[GMOD Malaysia 2014/WebApollo Tutorial](/wiki/GMOD_Malaysia_2014/WebApollo_Tutorial "GMOD Malaysia 2014/WebApollo Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FWebApollo-20Tutorial")</span></span> , <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GSoC "Special%3ABrowse/GSoC")</span></span> , <span class="smwb-ivalue">[News/New WebApollo Release](/wiki/News/New_WebApollo_Release "News/New WebApollo Release") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FNew-20WebApollo-20Release "Special%3ABrowse/News-2FNew-20WebApollo-20Release")</span></span> , <span class="smwb-ivalue">[WebApollo Tutorial 2013](/wiki/WebApollo_Tutorial_2013 "WebApollo Tutorial 2013") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-20Tutorial-202013 "Special%3ABrowse/WebApollo-20Tutorial-202013")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AWebApollo&amp;printable=yes"

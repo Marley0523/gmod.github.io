@@ -308,7 +308,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
@@ -355,19 +355,19 @@ and windows
 
 <a href="http://biocyc.org/download.shtml" class="external free"
 rel="nofollow">http://biocyc.org/download.shtml</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fdownload.shtml "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fdownload.shtml")</span>,
+<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml")</span>,
 <a href="http://bioinformatics.ai.sri.com/ptools/" class="external free"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>,
+<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>,
 <a href="http://biocyc.org/" class="external free"
 rel="nofollow">http://biocyc.org/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2F")</span>,
+<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2F")</span>,
 <a href="http://biocyc.org/ECOLI/" class="external free"
 rel="nofollow">http://biocyc.org/ECOLI/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2FECOLI-2F "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2FECOLI-2F")</span>
+<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2FECOLI-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2FECOLI-2F")</span>
 and <a href="http://biocyc.org/otherpgdbs.shtml" class="external free"
 rel="nofollow">http://biocyc.org/otherpgdbs.shtml</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ASearchByProperty/Has-20URL/http:-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
+<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
 
 [Has description](Property%3AHas_description "Property:Has description")
 

@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/File_Formats "Special:Search/File Formats") in
+title](Special%3ASearch/File_Formats "Special:Search/File Formats") in
 other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AFile_Formats"
 class="external text" rel="nofollow">search the related logs</a></span>,

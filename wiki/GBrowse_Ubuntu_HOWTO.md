@@ -242,7 +242,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Linux](Category%3ALinux "Category%3ALinux")
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")

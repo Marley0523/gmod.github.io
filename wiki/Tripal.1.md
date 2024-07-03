@@ -290,7 +290,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [Chado](Category%3AChado "Category%3AChado")
@@ -340,14 +340,14 @@ title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span></t
 title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://tripal.info" class="external free"
 rel="nofollow">http://tripal.info</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftripal.info"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftripal.info">+</a></span>
 and <a href="http://tripal.info/tutorials/v2.x/installation"
 class="external free"
 rel="nofollow">http://tripal.info/tutorials/v2.x/installation</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -576,14 +576,14 @@ subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Tripal.1#http:.2F.2Ftripal.info"
 title="Tripal">Tripal#http://tripal.info</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info"
-title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http%3A-2F-2Ftripal.info"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http%3A-2F-2Ftripal.info">+</a></span>,
 <a
 href="Tripal.1#http:.2F.2Ftripal.info.2Ftutorials.2Fv2.x.2Finstallation"
 title="Tripal">Tripal#http://tripal.info/tutorials/v2.x/installation</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
-title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http:-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation"
+title="Special%3ASearchByProperty/Has-20subobject/Tripal-23http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation">+</a></span>,
 <a href="Tripal.1#_c72e4a5953ad38254b5ae05e4fca68cf"
 title="Tripal">Tripal</a> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/Tripal-23_c72e4a5953ad38254b5ae05e4fca68cf"

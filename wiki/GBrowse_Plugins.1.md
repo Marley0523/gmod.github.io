@@ -145,7 +145,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](/wiki/Special:Categories "Special:Categories"):
+[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
 - [GBrowse

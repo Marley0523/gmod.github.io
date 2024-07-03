@@ -147,7 +147,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Middleware
@@ -173,7 +173,7 @@ href="http://gmod.org/mediawiki/index.php?title=Property:Chado&amp;action=edit&a
 class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Chado/Schema "Special%3ASearchByProperty/Chado/Schema")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Talk:Bio/Schema "Special%3ASearchByProperty/Talk:Bio/Schema")</span> |
+class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Talk%3ABio/Schema "Special%3ASearchByProperty/Talk%3ABio/Schema")</span> |
 
 </div>
 

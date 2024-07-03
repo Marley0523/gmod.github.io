@@ -432,7 +432,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
@@ -477,49 +477,49 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://getgalaxy.org/"
 class="external free" rel="nofollow">http://getgalaxy.org/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgetgalaxy.org-2F"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgetgalaxy.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgetgalaxy.org-2F"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgetgalaxy.org-2F">+</a></span>,
 <a href="https://github.com/galaxyproject/galaxy/" class="external free"
 rel="nofollow">https://github.com/galaxyproject/galaxy/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F">+</a></span>,
 <a href="https://docs.galaxyproject.org" class="external free"
 rel="nofollow">https://docs.galaxyproject.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fdocs.galaxyproject.org"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fdocs.galaxyproject.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fdocs.galaxyproject.org"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fdocs.galaxyproject.org">+</a></span>,
 <a href="https://galaxyproject.org/" class="external free"
 rel="nofollow">https://galaxyproject.org/</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.org-2F"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.org-2F"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.org-2F">+</a></span>,
 <a href="https://twitter.com/galaxyproject" class="external free"
 rel="nofollow">https://twitter.com/galaxyproject</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Ftwitter.com-2Fgalaxyproject"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Ftwitter.com-2Fgalaxyproject">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Ftwitter.com-2Fgalaxyproject"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Ftwitter.com-2Fgalaxyproject">+</a></span>,
 <a href="https://www.zotero.org/groups/1732893/galaxy"
 class="external free"
 rel="nofollow">https://www.zotero.org/groups/1732893/galaxy</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy">+</a></span>,
 <a href="https://galaxyproject.org/use/" class="external free"
 rel="nofollow">https://galaxyproject.org/use/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.org-2Fuse-2F"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.org-2Fuse-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.org-2Fuse-2F"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.org-2Fuse-2F">+</a></span>,
 <a href="http://wiki.galaxyproject.org/PublicGalaxyServers"
 class="external free"
 rel="nofollow">http://wiki.galaxyproject.org/PublicGalaxyServers</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers">+</a></span>
 and <a href="https://galaxyproject.github.io" class="external free"
 rel="nofollow">https://galaxyproject.github.io</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.github.io"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgalaxyproject.github.io">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.github.io"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgalaxyproject.github.io">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -835,8 +835,8 @@ title="Property:Has licence">Has licence</a></td>
 <td class="smwprops"><a href="http://opensource.org/licenses/AFL-3.0"
 class="external text" rel="nofollow">Academic Free License 3.0</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D"
-title="Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20licence/-5Bhttp%3A-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D"
+title="Special%3ASearchByProperty/Has-20licence/-5Bhttp%3A-2F-2Fopensource.org-2Flicenses-2FAFL-2D3.0-20Academic-20Free-20License-203.0-5D">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_logo"
@@ -972,50 +972,50 @@ special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Galaxy.1#http:.2F.2Fgetgalaxy.org.2F"
 title="Galaxy">Galaxy#http://getgalaxy.org/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http:-2F-2Fgetgalaxy.org-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http:-2F-2Fgetgalaxy.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http%3A-2F-2Fgetgalaxy.org-2F"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http%3A-2F-2Fgetgalaxy.org-2F">+</a></span>,
 <a href="Galaxy.1#https:.2F.2Fgithub.com.2Fgalaxyproject.2Fgalaxy.2F"
 title="Galaxy">Galaxy#https://github.com/galaxyproject/galaxy/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgithub.com-2Fgalaxyproject-2Fgalaxy-2F">+</a></span>,
 <a href="Galaxy.1#https:.2F.2Fdocs.galaxyproject.org"
 title="Galaxy">Galaxy#https://docs.galaxyproject.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fdocs.galaxyproject.org"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fdocs.galaxyproject.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org">+</a></span>,
 <a href="Galaxy.1#https:.2F.2Fgalaxyproject.org.2F"
 title="Galaxy">Galaxy#https://galaxyproject.org/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.org-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.org-2F"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.org-2F">+</a></span>,
 <a href="Galaxy.1#https:.2F.2Ftwitter.com.2Fgalaxyproject"
 title="Galaxy">Galaxy#https://twitter.com/galaxyproject</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Ftwitter.com-2Fgalaxyproject"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Ftwitter.com-2Fgalaxyproject">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Ftwitter.com-2Fgalaxyproject"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Ftwitter.com-2Fgalaxyproject">+</a></span>,
 <a
 href="Galaxy.1#https:.2F.2Fwww.zotero.org.2Fgroups.2F1732893.2Fgalaxy"
 title="Galaxy">Galaxy#https://www.zotero.org/groups/1732893/galaxy</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy">+</a></span>,
 <a href="Galaxy.1#https:.2F.2Fgalaxyproject.org.2Fuse.2F"
 title="Galaxy">Galaxy#https://galaxyproject.org/use/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.org-2Fuse-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.org-2Fuse-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.org-2Fuse-2F"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.org-2Fuse-2F">+</a></span>,
 <a
 href="Galaxy.1#http:.2F.2Fwiki.galaxyproject.org.2FPublicGalaxyServers"
 title="Galaxy">Galaxy#http://wiki.galaxyproject.org/PublicGalaxyServers</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http:-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers">+</a></span>
 and <a href="Galaxy.1#https:.2F.2Fgalaxyproject.github.io"
 title="Galaxy">Galaxy#https://galaxyproject.github.io</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.github.io"
-title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https:-2F-2Fgalaxyproject.github.io">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.github.io"
+title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyproject.github.io">+</a></span></td>
 </tr>
 </tbody>
 </table>

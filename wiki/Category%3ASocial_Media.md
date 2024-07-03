@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/Social_Media "Special:Search/Social Media") in
+title](Special%3ASearch/Social_Media "Special:Search/Social Media") in
 other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ASocial_Media"
 class="external text" rel="nofollow">search the related logs</a></span>,

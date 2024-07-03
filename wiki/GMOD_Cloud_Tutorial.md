@@ -747,7 +747,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD in the
   Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")

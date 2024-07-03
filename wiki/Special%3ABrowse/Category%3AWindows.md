@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Computing Requirements](/wiki/Computing_Requirements "Computing Requirements") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Computing-20Requirements "Special%3ABrowse/Computing-20Requirements")</span></span> , <span class="smwb-ivalue">[GBrowse Cygwin HOWTO](/wiki/GBrowse_Cygwin_HOWTO "GBrowse Cygwin HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Cygwin-20HOWTO "Special%3ABrowse/GBrowse-20Cygwin-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse Windows HOWTO](/wiki/GBrowse_Windows_HOWTO "GBrowse Windows HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Windows-20HOWTO "Special%3ABrowse/GBrowse-20Windows-20HOWTO")</span></span> , <span class="smwb-ivalue">[File:WindowsLogoSmall.jpg](/wiki/File:WindowsLogoSmall.jpg "File:WindowsLogoSmall.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:WindowsLogoSmall.jpg "Special%3ABrowse/File:WindowsLogoSmall.jpg")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Computing Requirements](/wiki/Computing_Requirements "Computing Requirements") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Computing-20Requirements "Special%3ABrowse/Computing-20Requirements")</span></span> , <span class="smwb-ivalue">[GBrowse Cygwin HOWTO](/wiki/GBrowse_Cygwin_HOWTO "GBrowse Cygwin HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Cygwin-20HOWTO "Special%3ABrowse/GBrowse-20Cygwin-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse Windows HOWTO](/wiki/GBrowse_Windows_HOWTO "GBrowse Windows HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Windows-20HOWTO "Special%3ABrowse/GBrowse-20Windows-20HOWTO")</span></span> , <span class="smwb-ivalue">[File:WindowsLogoSmall.jpg](/wiki/File:WindowsLogoSmall.jpg "File:WindowsLogoSmall.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:WindowsLogoSmall.jpg "Special%3ABrowse/File:WindowsLogoSmall.jpg")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AWindows&amp;printable=yes"

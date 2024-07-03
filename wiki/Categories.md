@@ -51,7 +51,7 @@ Category tags are shown here in two formats:
 - [Alphabetical List](#Alphabetical_List_of_Categories)
 
 There is also a list of [pages without any category
-tags](Special:UncategorizedPages "Special:UncategorizedPages").
+tags](Special%3AUncategorizedPages "Special%3AUncategorizedPages").
 
 ## <span id="Category_Tag_Cloud" class="mw-headline">Category <a href="http://en.wikipedia.org/wiki/Tag_Cloud" class="extiw"
 title="wp:Tag Cloud">Tag Cloud</a></span>
@@ -377,7 +377,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
 - [Help](Category%3AHelp "Category%3AHelp")

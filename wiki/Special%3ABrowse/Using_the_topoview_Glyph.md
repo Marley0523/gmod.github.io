@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GBrowse Developer](/wiki/Category%3AGBrowse_Developer "Category%3AGBrowse Developer")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20Developer "Special%3ASearchByProperty/GBrowse-20Developer")</span></span> , <span class="smwb-value">[Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Documentation "Special%3ASearchByProperty/Documentation")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GBrowse Developer](/wiki/Category%3AGBrowse_Developer "Category%3AGBrowse Developer")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20Developer "Special%3ASearchByProperty/GBrowse-20Developer")</span></span> , <span class="smwb-value">[Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Documentation "Special%3ASearchByProperty/Documentation")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[GMOD Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Component "Special%3ASearchByProperty/GMOD-20Component")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">6 April 2018 22:29:10  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/6-20April-202018-2022:29:10 "Special%3ASearchByProperty/Modification-20date/6-20April-202018-2022:29:10")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Using_the_topoview_Glyph&amp;printable=yes"

@@ -144,7 +144,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
 - [BioPerl](Category%3ABioPerl "Category%3ABioPerl")

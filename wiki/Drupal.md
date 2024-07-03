@@ -94,7 +94,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Drupal](Category%3ADrupal "Category%3ADrupal")
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")

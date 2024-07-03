@@ -51,7 +51,7 @@ title="Category%3AReactome (page does not exist)">Category%3AReactome</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GSoC "Special%3ABrowse/GSoC")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GSoC "Special%3ABrowse/GSoC")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AReactome&amp;printable=yes"

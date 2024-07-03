@@ -105,7 +105,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](../Special:Categories "Special:Categories"):
+[Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tool data](../Category%3ATool_data "Category%3ATool data")
 - [GMOD

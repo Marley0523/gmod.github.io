@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/2013_Summer_School "Special:Search/2013 Summer School")
+title](Special%3ASearch/2013_Summer_School "Special:Search/2013 Summer School")
 in other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3A2013_Summer_School"
 class="external text" rel="nofollow">search the related logs</a></span>,

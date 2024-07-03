@@ -37,7 +37,7 @@ data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
 type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
-"[Page](/wiki/Special:Types/Page "Special:Types/Page")"  
+"[Page](/wiki/Special%3ATypes/Page "Special%3ATypes/Page")"  
 
 - [Property:Has
   topic](/wiki/Property%3AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20topic "Special%3ABrowse/Property%3AHas-20topic")</span>
@@ -190,7 +190,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20type/Page&amp;printable=yes"

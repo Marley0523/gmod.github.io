@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
   
 <span id="SMWResults"></span>
@@ -80,8 +80,8 @@ title="BioMart">BioMart</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/BioMart"
 title="Special%3ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">APIs: REST/SOAP  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20output-20format/APIs:-20REST-2FSOAP"
-title="Special%3ASearchByProperty/Has-20output-20format/APIs:-20REST-2FSOAP">+</a></span>,
+href="Special%3ASearchByProperty/Has-20output-20format/APIs%3A-20REST-2FSOAP"
+title="Special%3ASearchByProperty/Has-20output-20format/APIs%3A-20REST-2FSOAP">+</a></span>,
 JAVA  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20output-20format/JAVA"
 title="Special%3ASearchByProperty/Has-20output-20format/JAVA">+</a></span>,
@@ -161,7 +161,7 @@ title="Special%3ASearchByProperty/Has-20output-20format/csv)">+</a></span>,
 JSON  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20output-20format/JSON"
 title="Special%3ASearchByProperty/Has-20output-20format/JSON">+</a></span>,
-<a href="Special:PageProperty/InterMine::Has_output_format"
+<a href="Special%3APageProperty/InterMine%3A%3AHas_output_format"
 title="Special:PageProperty/InterMine::Has output format">…</a></td>
 </tr>
 <tr class="even">
@@ -284,7 +284,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_output_format "Speci
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

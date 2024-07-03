@@ -119,7 +119,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Perl](Category%3APerl "Category%3APerl")
