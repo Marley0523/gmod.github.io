@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/Tools_using_GMOD "Special:Search/Tools using GMOD")
+title](Special%3ASearch/Tools_using_GMOD "Special:Search/Tools using GMOD")
 in other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ATools_using_GMOD"
 class="external text" rel="nofollow">search the related logs</a></span>,

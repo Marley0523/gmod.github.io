@@ -211,7 +211,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Best
   Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")

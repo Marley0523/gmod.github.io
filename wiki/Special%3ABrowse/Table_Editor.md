@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 October 2012 18:12:53  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53 "Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Table_Editor&amp;printable=yes"

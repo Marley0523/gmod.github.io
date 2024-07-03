@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/Users "Special:Search/Users") in other pages, or
+title](Special%3ASearch/Users "Special%3ASearch/Users") in other pages, or
 <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AUsers"
 class="external text" rel="nofollow">search the related logs</a></span>,

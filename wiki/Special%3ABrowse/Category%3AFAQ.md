@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[CMap FAQ](/wiki/CMap_FAQ "CMap FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-20FAQ "Special%3ABrowse/CMap-20FAQ")</span></span> , <span class="smwb-ivalue">[Chado FAQ](/wiki/Chado_FAQ "Chado FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20FAQ "Special%3ABrowse/Chado-20FAQ")</span></span> , <span class="smwb-ivalue">[GBrowse FAQ](/wiki/GBrowse_FAQ "GBrowse FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20FAQ "Special%3ABrowse/GBrowse-20FAQ")</span></span> , <span class="smwb-ivalue">[GMOD FAQ](/wiki/GMOD_FAQ "GMOD FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20FAQ "Special%3ABrowse/GMOD-20FAQ")</span></span> , <span class="smwb-ivalue">[MOD](/wiki/MOD "MOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD "Special%3ABrowse/MOD")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mage-20FAQ "Special%3ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[CMap FAQ](/wiki/CMap_FAQ "CMap FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-20FAQ "Special%3ABrowse/CMap-20FAQ")</span></span> , <span class="smwb-ivalue">[Chado FAQ](/wiki/Chado_FAQ "Chado FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20FAQ "Special%3ABrowse/Chado-20FAQ")</span></span> , <span class="smwb-ivalue">[GBrowse FAQ](/wiki/GBrowse_FAQ "GBrowse FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20FAQ "Special%3ABrowse/GBrowse-20FAQ")</span></span> , <span class="smwb-ivalue">[GMOD FAQ](/wiki/GMOD_FAQ "GMOD FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20FAQ "Special%3ABrowse/GMOD-20FAQ")</span></span> , <span class="smwb-ivalue">[MOD](/wiki/MOD "MOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD "Special%3ABrowse/MOD")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mage-20FAQ "Special%3ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AFAQ&amp;printable=yes"

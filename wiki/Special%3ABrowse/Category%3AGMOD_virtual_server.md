@@ -48,7 +48,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Cloud](/wiki/Cloud "Cloud") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Cloud "Special%3ABrowse/Cloud")</span></span> , <span class="smwb-ivalue">[GMOD in a Box](/wiki/GMOD_in_a_Box "GMOD in a Box") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20in-20a-20Box "Special%3ABrowse/GMOD-20in-20a-20Box")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Cloud](/wiki/Cloud "Cloud") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Cloud "Special%3ABrowse/Cloud")</span></span> , <span class="smwb-ivalue">[GMOD in a Box](/wiki/GMOD_in_a_Box "GMOD in a Box") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20in-20a-20Box "Special%3ABrowse/GMOD-20in-20a-20Box")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGMOD_virtual_server&amp;printable=yes"

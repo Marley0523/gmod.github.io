@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[Windows](/wiki/Category%3AWindows "Category%3AWindows")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Windows "Special%3ASearchByProperty/Windows")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[Windows](/wiki/Category%3AWindows "Category%3AWindows")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Windows "Special%3ASearchByProperty/Windows")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 July 2011 15:07:28  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/27-20July-202011-2015:07:28 "Special%3ASearchByProperty/Modification-20date/27-20July-202011-2015:07:28")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GBrowse_Windows_HOWTO&amp;printable=yes"

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Evolution](/wiki/Category%3AEvolution "Category%3AEvolution")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Evolution "Special%3ASearchByProperty/Evolution")</span></span> , <span class="smwb-value">[GMOD Developers](/wiki/Category%3AGMOD_Developers "Category%3AGMOD Developers")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Developers "Special%3ASearchByProperty/GMOD-20Developers")</span></span> , <span class="smwb-value">[GMOD Evo Hackathon](/wiki/Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Evo-20Hackathon "Special%3ASearchByProperty/GMOD-20Evo-20Hackathon")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Evolution](/wiki/Category%3AEvolution "Category%3AEvolution")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Evolution "Special%3ASearchByProperty/Evolution")</span></span> , <span class="smwb-value">[GMOD Developers](/wiki/Category%3AGMOD_Developers "Category%3AGMOD Developers")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Developers "Special%3ASearchByProperty/GMOD-20Developers")</span></span> , <span class="smwb-value">[GMOD Evo Hackathon](/wiki/Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Evo-20Hackathon "Special%3ASearchByProperty/GMOD-20Evo-20Hackathon")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">13 November 2015 13:22:15  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/13-20November-202015-2013:22:15 "Special%3ASearchByProperty/Modification-20date/13-20November-202015-2013:22:15")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GMOD_Evo_Hackathon&amp;printable=yes"

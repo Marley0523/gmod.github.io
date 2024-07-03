@@ -530,7 +530,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 - [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")

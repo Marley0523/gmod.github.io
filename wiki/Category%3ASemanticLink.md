@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/SemanticLink "Special:Search/SemanticLink") in
+title](Special%3ASearch/SemanticLink "Special%3ASearch/SemanticLink") in
 other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ASemanticLink"
 class="external text" rel="nofollow">search the related logs</a></span>,

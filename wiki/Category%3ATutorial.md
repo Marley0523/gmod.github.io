@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/Tutorial "Special:Search/Tutorial") in other
+title](Special%3ASearch/Tutorial "Special%3ASearch/Tutorial") in other
 pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ATutorial"
 class="external text" rel="nofollow">search the related logs</a></span>,

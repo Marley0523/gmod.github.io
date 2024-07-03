@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3AREST (page does not exist)">REST</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/REST "Special%3ASearchByProperty/REST")</span></span> , <span class="smwb-value">[Events](/wiki/Category%3AEvents "Category%3AEvents")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Events "Special%3ASearchByProperty/Events")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2010 19:54:05  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:05 "Special%3ASearchByProperty/Modification-20date/9-20June-202010-2019:54:05")</span></span> |
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GMOD_REST_Hackathon&amp;printable=yes"

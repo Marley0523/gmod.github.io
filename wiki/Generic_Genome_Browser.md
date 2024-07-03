@@ -619,7 +619,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -662,34 +662,34 @@ href="http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/"
 class="external free"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F">+</a></span>,
 <a href="https://github.com/GMOD/GBrowse" class="external free"
 rel="nofollow">https://github.com/GMOD/GBrowse</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2FGMOD-2FGBrowse"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span>,
 <a href="http://gbrowse.org" class="external free"
 rel="nofollow">http://gbrowse.org</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgbrowse.org"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgbrowse.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgbrowse.org"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgbrowse.org">+</a></span>,
 <a href="http://www.wormbase.org/tools/genome/gbrowse/c_elegans/"
 class="external free"
 rel="nofollow">http://www.wormbase.org/tools/genome/gbrowse/c_elegans/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc_elegans-2F"
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc_elegans-2F"
 title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc elegans-2F">+</a></span>,
 <a href="http://flybase.org/cgi-bin/gbrowse/dmel" class="external free"
 rel="nofollow">http://flybase.org/cgi-bin/gbrowse/dmel</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel">+</a></span>
 and <a href="http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/gbrowse"
 class="external free"
 rel="nofollow">http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/gbrowse</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -870,35 +870,35 @@ special property in this wiki.</span></span></td>
 href="GBrowse.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FGeneric_Genome_Browser.2F"
 title="GBrowse">GBrowse#http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F"
-title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F"
+title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FGeneric-2520Genome-2520Browser-2F">+</a></span>,
 <a href="GBrowse.1#https:.2F.2Fgithub.com.2FGMOD.2FGBrowse"
 title="GBrowse">GBrowse#https://github.com/GMOD/GBrowse</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23https:-2F-2Fgithub.com-2FGMOD-2FGBrowse"
-title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23https:-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse"
+title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse">+</a></span>,
 <a href="GBrowse.1#http:.2F.2Fgbrowse.org"
 title="GBrowse">GBrowse#http://gbrowse.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fgbrowse.org"
-title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fgbrowse.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fgbrowse.org"
+title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fgbrowse.org">+</a></span>,
 <a
 href="GBrowse.1#http:.2F.2Fwww.wormbase.org.2Ftools.2Fgenome.2Fgbrowse.2Fc_elegans.2F"
 title="GBrowse">GBrowse#http://www.wormbase.org/tools/genome/gbrowse/c_elegans/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc_elegans-2F"
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc_elegans-2F"
 title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc elegans-2F">+</a></span>,
 <a href="GBrowse.1#http:.2F.2Fflybase.org.2Fcgi-bin.2Fgbrowse.2Fdmel"
 title="GBrowse">GBrowse#http://flybase.org/cgi-bin/gbrowse/dmel</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel"
-title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel"
+title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel">+</a></span>
 and <a
 href="GBrowse.1#http:.2F.2Fhapmap.ncbi.nlm.nih.gov.2Fcgi-perl.2Fgbrowse.2Fgbrowse"
 title="GBrowse">GBrowse#http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/gbrowse</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse"
-title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http:-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse"
+title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.ncbi.nlm.nih.gov-2Fcgi-2Dperl-2Fgbrowse-2Fgbrowse">+</a></span></td>
 </tr>
 </tbody>
 </table>

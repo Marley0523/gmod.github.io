@@ -185,7 +185,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20title/Meta-2Danalysis-20of-2074,046-20individuals-20identifies-2011-20new-20susceptibility-20loci-20for-20Alzheimer%27s-20disease&amp;printable=yes"

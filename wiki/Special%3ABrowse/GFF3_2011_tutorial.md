@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GFF3 "Special%3ASearchByProperty/GFF3")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 February 2014 22:13:00  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20February-202014-2022:13:00 "Special%3ASearchByProperty/Modification-20date/11-20February-202014-2022:13:00")</span></span> |
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GFF3_2011_tutorial&amp;printable=yes"

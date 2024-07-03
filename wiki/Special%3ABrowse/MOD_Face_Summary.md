@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Best Practices](/wiki/Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Best Practices](/wiki/Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Best-20Practices "Special%3ASearchByProperty/GMOD-20Best-20Practices")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">11 August 2008 16:54:44  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/11-20August-202008-2016:54:44 "Special%3ASearchByProperty/Modification-20date/11-20August-202008-2016:54:44")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/MOD_Face_Summary&amp;printable=yes"

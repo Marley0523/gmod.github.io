@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Middleware](/wiki/Category%3AMiddleware "Category%3AMiddleware")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware "Special%3ASearchByProperty/Middleware")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Middleware](/wiki/Category%3AMiddleware "Category%3AMiddleware")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware "Special%3ASearchByProperty/Middleware")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 August 2013 21:23:04  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20August-202013-2021:23:04 "Special%3ASearchByProperty/Modification-20date/15-20August-202013-2021:23:04")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Chado%3A%3AAutoDBI&amp;printable=yes"

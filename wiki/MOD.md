@@ -73,7 +73,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [FAQ](Category%3AFAQ "Category%3AFAQ")
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")

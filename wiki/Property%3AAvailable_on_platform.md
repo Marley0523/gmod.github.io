@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
 The allowed values for this property are:
 
@@ -95,7 +95,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 os x  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
 title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
-<a href="Special:PageProperty/BioMart::Available_on_platform"
+<a href="Special%3APageProperty/BioMart%3A%3AAvailable_on_platform"
 title="Special:PageProperty/BioMart::Available on platform">…</a></td>
 </tr>
 <tr class="odd">
@@ -123,7 +123,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
 web  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/web"
 title="Special%3ASearchByProperty/Available-20on-20platform/web">+</a></span>,
-<a href="Special:PageProperty/Canto::Available_on_platform"
+<a href="Special%3APageProperty/Canto%3A%3AAvailable_on_platform"
 title="Special:PageProperty/Canto::Available on platform">…</a></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
 title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
-<a href="Special:PageProperty/GO_Graphic_Viewer::Available_on_platform"
+<a href="Special%3APageProperty/GO_Graphic_Viewer%3A%3AAvailable_on_platform"
 title="Special:PageProperty/GO Graphic Viewer::Available on platform">…</a></td>
 </tr>
 <tr class="even">
@@ -197,7 +197,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>
 unix  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/unix"
 title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
-<a href="Special:PageProperty/GO::TermFinder::Available_on_platform"
+<a href="Special%3APageProperty/GO%3A%3ATermFinder%3A%3AAvailable_on_platform"
 title="Special:PageProperty/GO::TermFinder::Available on platform">…</a></td>
 </tr>
 <tr class="odd">
@@ -280,7 +280,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 os x  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/os-20x"
 title="Special%3ASearchByProperty/Available-20on-20platform/os-20x">+</a></span>,
-<a href="Special:PageProperty/Pathway_Tools::Available_on_platform"
+<a href="Special%3APageProperty/Pathway_Tools%3A%3AAvailable_on_platform"
 title="Special:PageProperty/Pathway Tools::Available on platform">…</a></td>
 </tr>
 <tr class="odd">
@@ -310,7 +310,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/linux">+</a></span>,
 unix  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Available-20on-20platform/unix"
 title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span>,
-<a href="Special:PageProperty/Tripal::Available_on_platform"
+<a href="Special%3APageProperty/Tripal%3A%3AAvailable_on_platform"
 title="Special:PageProperty/Tripal::Available on platform">…</a></td>
 </tr>
 <tr class="even">
@@ -389,7 +389,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "S
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | web <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/web "Special%3ASearchByProperty/Allows-20value/web")</span>, linux <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/linux "Special%3ASearchByProperty/Allows-20value/linux")</span>, os x <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/os-20x "Special%3ASearchByProperty/Allows-20value/os-20x")</span>, unix <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/unix "Special%3ASearchByProperty/Allows-20value/unix")</span>, windows <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/windows "Special%3ASearchByProperty/Allows-20value/windows")</span>, vm <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/vm "Special%3ASearchByProperty/Allows-20value/vm")</span> and cloud <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/cloud "Special%3ASearchByProperty/Allows-20value/cloud")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

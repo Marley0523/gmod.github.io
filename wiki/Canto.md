@@ -236,7 +236,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - <a
   href="http://gmod.org/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
@@ -288,35 +288,35 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://curation.pombase.org/"
 class="external free" rel="nofollow">http://curation.pombase.org/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2F"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2F"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2F">+</a></span>,
 <a href="http://curation.pombase.org/demo" class="external free"
 rel="nofollow">http://curation.pombase.org/demo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Fdemo"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Fdemo"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
 <a href="https://github.com/pombase/canto" class="external free"
 rel="nofollow">https://github.com/pombase/canto</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fpombase-2Fcanto"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
 <a
 href="https://github.com/pombase/canto/blob/master/documentation/canto_admin.md"
 class="external free"
 rel="nofollow">https://github.com/pombase/canto/blob/master/documentation/canto_admin.md</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
 <a href="http://curation.pombase.org/pombe" class="external free"
 rel="nofollow">http://curation.pombase.org/pombe</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Fpombe"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Fpombe"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>
 and <a href="http://curation.pombase.org/uniprot" class="external free"
 rel="nofollow">http://curation.pombase.org/uniprot</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Funiprot"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcuration.pombase.org-2Funiprot">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Funiprot"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcuration.pombase.org-2Funiprot">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -513,34 +513,34 @@ special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Canto#http:.2F.2Fcuration.pombase.org.2F"
 title="Canto">Canto#http://curation.pombase.org/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2F"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2F">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Fdemo"
 title="Canto">Canto#http://curation.pombase.org/demo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Fdemo"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fdemo"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
 <a href="Canto#https:.2F.2Fgithub.com.2Fpombase.2Fcanto"
 title="Canto">Canto#https://github.com/pombase/canto</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
 <a
 href="Canto#https:.2F.2Fgithub.com.2Fpombase.2Fcanto.2Fblob.2Fmaster.2Fdocumentation.2Fcanto_admin.md"
 title="Canto">Canto#https://github.com/pombase/canto/blob/master/documentation/canto_admin.md</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23https:-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Fpombe"
 title="Canto">Canto#http://curation.pombase.org/pombe</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Fpombe"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Funiprot"
 title="Canto">Canto#http://curation.pombase.org/uniprot</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Funiprot"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http:-2F-2Fcuration.pombase.org-2Funiprot">+</a></span>
+href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot"
+title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot">+</a></span>
 and <a href="Canto#_564f9c71bf2847fc3c542a7b9ac7927f"
 title="Canto">Canto</a> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f"

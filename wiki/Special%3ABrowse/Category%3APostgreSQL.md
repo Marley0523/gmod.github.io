@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Databases-20and-20GMOD "Special%3ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Adaptors "Special%3ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[Materialized views](/wiki/Materialized_views "Materialized views") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Materialized-20views "Special%3ABrowse/Materialized-20views")</span></span> , <span class="smwb-ivalue">[PostgreSQL](/wiki/PostgreSQL "PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL "Special%3ABrowse/PostgreSQL")</span></span> , <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Databases-20and-20GMOD "Special%3ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Adaptors "Special%3ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[Materialized views](/wiki/Materialized_views "Materialized views") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Materialized-20views "Special%3ABrowse/Materialized-20views")</span></span> , <span class="smwb-ivalue">[PostgreSQL](/wiki/PostgreSQL "PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL "Special%3ABrowse/PostgreSQL")</span></span> , <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3APostgreSQL&amp;printable=yes"

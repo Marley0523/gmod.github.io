@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 February 2013 17:58:59  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/14-20February-202013-2017:58:59 "Special%3ASearchByProperty/Modification-20date/14-20February-202013-2017:58:59")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/JBrowse_Tutorial_2011&amp;printable=yes"

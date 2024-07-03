@@ -2407,7 +2407,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](/wiki/Special:Categories "Special:Categories"):
+[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")
 - [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")

@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009LinkedData.pdf "Special%3ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Chado "Special%3ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009LinkedData.pdf "Special%3ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Chado "Special%3ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AChado_FlyBase&amp;printable=yes"

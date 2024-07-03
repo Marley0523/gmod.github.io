@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GBrowse Plugins](/wiki/Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20Plugins "Special%3ASearchByProperty/GBrowse-20Plugins")</span></span> , <span class="smwb-value">[Pages with problems or questions](/wiki/Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions "Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GBrowse Plugins](/wiki/Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-20Plugins "Special%3ASearchByProperty/GBrowse-20Plugins")</span></span> , <span class="smwb-value">[Pages with problems or questions](/wiki/Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions "Special%3ASearchByProperty/Pages-20with-20problems-20or-20questions")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 May 2011 14:21:30  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/4-20May-202011-2014:21:30 "Special%3ASearchByProperty/Modification-20date/4-20May-202011-2014:21:30")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Spectrogram.pm&amp;printable=yes"

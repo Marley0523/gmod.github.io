@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June-202007-20Progress-20Report "Special%3ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-TAIR.pdf](/wiki/File:Mod-face-07jan-TAIR.pdf "File:Mod-face-07jan-TAIR.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mod-2Dface-2D07jan-2DTAIR.pdf "Special%3ABrowse/File:Mod-2Dface-2D07jan-2DTAIR.pdf")</span></span> , <span class="smwb-ivalue">[PubFetch](/wiki/PubFetch "PubFetch") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PubFetch "Special%3ABrowse/PubFetch")</span></span> , <span class="smwb-ivalue">[File:TAIR logo.gif](/wiki/File:TAIR_logo.gif "File:TAIR logo.gif") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:TAIR-20logo.gif "Special%3ABrowse/File:TAIR-20logo.gif")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June-202007-20Progress-20Report "Special%3ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-TAIR.pdf](/wiki/File:Mod-face-07jan-TAIR.pdf "File:Mod-face-07jan-TAIR.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mod-2Dface-2D07jan-2DTAIR.pdf "Special%3ABrowse/File:Mod-2Dface-2D07jan-2DTAIR.pdf")</span></span> , <span class="smwb-ivalue">[PubFetch](/wiki/PubFetch "PubFetch") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PubFetch "Special%3ABrowse/PubFetch")</span></span> , <span class="smwb-ivalue">[File:TAIR logo.gif](/wiki/File:TAIR_logo.gif "File:TAIR logo.gif") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:TAIR-20logo.gif "Special%3ABrowse/File:TAIR-20logo.gif")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -199,7 +199,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ATAIR&amp;printable=yes"

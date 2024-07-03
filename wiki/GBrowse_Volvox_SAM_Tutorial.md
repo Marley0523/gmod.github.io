@@ -247,7 +247,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")

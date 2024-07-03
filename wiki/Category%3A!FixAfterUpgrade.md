@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="noarticletext">
 
 There is currently no text in this page. You can [search for this page
-title](Special:Search/!FixAfterUpgrade "Special:Search/!FixAfterUpgrade")
+title](Special%3ASearch/!FixAfterUpgrade "Special%3ASearch/!FixAfterUpgrade")
 in other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3A!FixAfterUpgrade"
 class="external text" rel="nofollow">search the related logs</a></span>,

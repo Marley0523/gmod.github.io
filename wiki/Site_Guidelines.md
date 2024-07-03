@@ -257,7 +257,7 @@ pages in it then the [help desk](GMOD_Help_Desk "GMOD Help Desk") will
 subdivide that category.
 
 This web site makes extensive use of tags, called
-[categories](Special:Categories "Special:Categories") in MediaWiki, to
+[categories](Special%3ACategories "Special%3ACategories") in MediaWiki, to
 flag pages as being related to different topics. To encourage the use of
 categories, an input field and _tag cloud_ listing existing categories
 is shown at the bottom of every edit page. You can either type in the
@@ -714,7 +714,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - <a
   href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"

@@ -1291,7 +1291,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Natural
   Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")

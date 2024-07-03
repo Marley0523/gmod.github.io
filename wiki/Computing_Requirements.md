@@ -343,7 +343,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Linux](Category%3ALinux "Category%3ALinux")
 - [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")

@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Page](Special:Types/Page "Special:Types/Page").
+[Page](Special%3ATypes/Page "Special%3ATypes/Page").
 
   
 <span id="SMWResults"></span>
@@ -118,7 +118,7 @@ title="Special%3ASearchByProperty/Interacts-20with/GBrowse">+</a></span>,
 <a href="Galaxy.1" title="Galaxy">Galaxy</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/Galaxy"
 title="Special%3ASearchByProperty/Interacts-20with/Galaxy">+</a></span>,
-<a href="Special:PageProperty/InterMine::Interacts_with"
+<a href="Special%3APageProperty/InterMine%3A%3AInteracts_with"
 title="Special:PageProperty/InterMine::Interacts with">…</a></td>
 </tr>
 <tr class="even">
@@ -140,7 +140,7 @@ title="Special%3ASearchByProperty/Interacts-20with/CMap">+</a></span>, <a
 href="Galaxy.1" title="Galaxy">Galaxy</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/Galaxy"
 title="Special%3ASearchByProperty/Interacts-20with/Galaxy">+</a></span>,
-<a href="Special:PageProperty/Tripal::Interacts_with"
+<a href="Special%3APageProperty/Tripal%3A%3AInteracts_with"
 title="Special:PageProperty/Tripal::Interacts with">…</a></td>
 </tr>
 <tr class="even">
@@ -216,7 +216,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special:Types/Page "Special:Types/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Page](Special%3ATypes/Page "Special%3ATypes/Page") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Page "Special%3ASearchByProperty/Has-20type/Page")</span> |
 
 </div>
 

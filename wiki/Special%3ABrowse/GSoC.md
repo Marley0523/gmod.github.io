@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Galaxy](/wiki/Category%3AGalaxy "Category%3AGalaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%3AGSoC "Category%3AGSoC")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GSoC "Special%3ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Galaxy](/wiki/Category%3AGalaxy "Category%3AGalaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%3AGSoC "Category%3AGSoC")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GSoC "Special%3ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AReactome&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3AReactome (page does not exist)">Reactome</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Reactome "Special%3ASearchByProperty/Reactome")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%3AMGI "Category%3AMGI")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MGI "Special%3ASearchByProperty/MGI")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
@@ -205,7 +205,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GSoC&amp;printable=yes"

@@ -55,7 +55,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](Special:Categories "Special:Categories"):
+[Category](Special%3ACategories "Special%3ACategories"):
 
 - [Pages with problems or
   questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[XML](/wiki/Category%3AXML "Category%3AXML")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/XML "Special%3ASearchByProperty/XML")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[XML](/wiki/Category%3AXML "Category%3AXML")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/XML "Special%3ASearchByProperty/XML")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
@@ -204,7 +204,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Bio_GMOD_GenericGenePage&amp;printable=yes"

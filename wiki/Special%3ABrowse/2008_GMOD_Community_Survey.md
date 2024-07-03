@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GMOD Community](/wiki/Category%3AGMOD_Community "Category%3AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value">[GMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Project "Special%3ASearchByProperty/GMOD-20Project")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GMOD Community](/wiki/Category%3AGMOD_Community "Category%3AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Community "Special%3ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value">[GMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Project "Special%3ASearchByProperty/GMOD-20Project")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">5 October 2009 21:33:13  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/5-20October-202009-2021:33:13 "Special%3ASearchByProperty/Modification-20date/5-20October-202009-2021:33:13")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/2008_GMOD_Community_Survey&amp;printable=yes"

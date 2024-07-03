@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tool data](/wiki/Category%3ATool_data "Category%3ATool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tool data](/wiki/Category%3ATool_data "Category%3ATool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AWebGBrowse&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AWebGBrowse (page does not exist)">WebGBrowse</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebGBrowse "Special%3ASearchByProperty/WebGBrowse")</span></span> , <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> |
@@ -203,7 +203,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/WebGBrowse-2Ftool_data&amp;printable=yes"

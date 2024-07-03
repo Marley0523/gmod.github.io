@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This is a property of type
-[Text](Special:Types/Text "Special:Types/Text").
+[Text](Special%3ATypes/Text "Special%3ATypes/Text").
 
 Example values:
 
@@ -110,7 +110,7 @@ Database tools  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools"
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20tools">+</a></span>,
 <a
-href="Special:PageProperty/BioMart::Tool_functionality_or_classification"
+href="Special%3APageProperty/BioMart%3A%3ATool_functionality_or_classification"
 title="Special:PageProperty/BioMart::Tool functionality or classification">…</a></td>
 </tr>
 <tr class="odd">
@@ -225,7 +225,7 @@ Tool Integration  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration"
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Tool-20Integration">+</a></span>,
 <a
-href="Special:PageProperty/Galaxy::Tool_functionality_or_classification"
+href="Special%3APageProperty/Galaxy%3A%3ATool_functionality_or_classification"
 title="Special:PageProperty/Galaxy::Tool functionality or classification">…</a></td>
 </tr>
 <tr class="even">
@@ -294,7 +294,7 @@ Database schema  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema"
 title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Database-20schema">+</a></span>,
 <a
-href="Special:PageProperty/Pathway_Tools::Tool_functionality_or_classification"
+href="Special%3APageProperty/Pathway_Tools%3A%3ATool_functionality_or_classification"
 title="Special:PageProperty/Pathway Tools::Tool functionality or classification">…</a></td>
 </tr>
 <tr class="odd">
@@ -414,7 +414,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ATool_functionality_or_cl
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special:Types/Text "Special:Types/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
 
 </div>
 

@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorial "Special%3ASearchByProperty/Tutorial")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">2 January 2014 21:53:30  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/2-20January-202014-2021:53:30 "Special%3ASearchByProperty/Modification-20date/2-20January-202014-2021:53:30")</span></span> |
@@ -204,7 +204,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Tripal-20Tutorial-20v1.1&amp;printable=yes"

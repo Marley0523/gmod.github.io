@@ -58,7 +58,7 @@ title="Property:Has publication details (page does not exist)">Has publication�
 href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Published in (page does not exist)">Published in</a> | <span class="smwb-value">Nucleic Acids Research  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Nucleic-20Acids-20Research "Special%3ASearchByProperty/Published-20in/Nucleic-20Acids-20Research")</span></span> , <span class="smwb-value">Epigenetics & Chromatin  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/Epigenetics-20-26-20Chromatin "Special%3ASearchByProperty/Published-20in/Epigenetics-20-26-20Chromatin")</span></span> , <span class="smwb-value">PLoS ONE  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Published-20in/PLoS-20ONE "Special%3ASearchByProperty/Published-20in/PLoS-20ONE")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[News Items](/wiki/Category%3ANews_Items "Category%3ANews Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[Paper Cuts](/wiki/Category%3APaper_Cuts "Category%3APaper Cuts")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Paper-20Cuts "Special%3ASearchByProperty/Paper-20Cuts")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[News Items](/wiki/Category%3ANews_Items "Category%3ANews Items")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/News-20Items "Special%3ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[Paper Cuts](/wiki/Category%3APaper_Cuts "Category%3APaper Cuts")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Paper-20Cuts "Special%3ASearchByProperty/Paper-20Cuts")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 November 2013 00:10:02  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/23-20November-202013-2000:10:02 "Special%3ASearchByProperty/Modification-20date/23-20November-202013-2000:10:02")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -220,7 +220,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2022nd,-202013&amp;printable=yes"

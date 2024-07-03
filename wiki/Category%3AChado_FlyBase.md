@@ -104,7 +104,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - [Chado](Category%3AChado "Category%3AChado")

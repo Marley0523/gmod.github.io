@@ -232,7 +232,7 @@ consistency.
 
 #### <span id="See_Also" class="mw-headline">See Also</span>
 
-- [Special:PopularPages](Special:PopularPages "Special:PopularPages") -
+- [Special%3APopularPages](Special%3APopularPages "Special%3APopularPages") -
   List of wiki pages, showing and ranked by number of visits.
 
   
@@ -552,7 +552,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
 - [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")

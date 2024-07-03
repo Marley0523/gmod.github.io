@@ -179,7 +179,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")

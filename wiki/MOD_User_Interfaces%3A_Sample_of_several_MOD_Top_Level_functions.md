@@ -242,7 +242,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 - [Gramene](Category%3AGramene "Category%3AGramene")

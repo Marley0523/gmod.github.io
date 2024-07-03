@@ -51,7 +51,7 @@ title="Category%3AWebGBrowse (page does not exist)">Category%3AWebGBrowse</a> | 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> , <span class="smwb-ivalue">[WebGBrowse/tool data](/wiki/WebGBrowse/tool_data "WebGBrowse/tool data") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse-2Ftool-20data "Special%3ABrowse/WebGBrowse-2Ftool-20data")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> , <span class="smwb-ivalue">[WebGBrowse/tool data](/wiki/WebGBrowse/tool_data "WebGBrowse/tool data") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse-2Ftool-20data "Special%3ABrowse/WebGBrowse-2Ftool-20data")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AWebGBrowse&amp;printable=yes"

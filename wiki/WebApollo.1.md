@@ -430,7 +430,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - <a
@@ -475,30 +475,30 @@ title="Property:Has URL">Has URL</a></td>
 <td class="smwprops"><a href="http://genomearchitect.org"
 class="external free" rel="nofollow">http://genomearchitect.org</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="https://github.com/gmod/apollo" class="external free"
 rel="nofollow">https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special%3ASearchByProperty/Has-20URL/https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a href="http://code.google.com/p/genomancer" class="external free"
 rel="nofollow">http://code.google.com/p/genomancer</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
 <a href="http://genomearchitect.org:8080/WebApolloDemo/"
 class="external free"
 rel="nofollow">http://genomearchitect.org:8080/WebApolloDemo/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>
 and <a href="http://genomearchitect.org/webapollo/releases/"
 class="external free"
 rel="nofollow">http://genomearchitect.org/webapollo/releases/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
-title="Special%3ASearchByProperty/Has-20URL/http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span></td>
+href="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
+title="Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a href="Property%3AHas_description"
@@ -719,30 +719,30 @@ special property in this wiki.</span></span></td>
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org"
 title="WebApollo">WebApollo#http://genomearchitect.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="WebApollo.1#https:.2F.2Fgithub.com.2Fgmod.2Fapollo"
 title="WebApollo">WebApollo#https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https:-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a href="WebApollo.1#http:.2F.2Fcode.google.com.2Fp.2Fgenomancer"
 title="WebApollo">WebApollo#http://code.google.com/p/genomancer</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer">+</a></span>,
 <a
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F"
 title="WebApollo">WebApollo#http://genomearchitect.org:8080/WebApolloDemo/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F">+</a></span>,
 <a
 href="WebApollo.1#http:.2F.2Fgenomearchitect.org.2Fwebapollo.2Freleases.2F"
 title="WebApollo">WebApollo#http://genomearchitect.org/webapollo/releases/</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http:-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span>,
+href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F"
+title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F">+</a></span>,
 <a href="WebApollo.1#_0d2bc0e8d059cba6cefd439a084fc7c8"
 title="WebApollo">WebApollo</a> <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8"

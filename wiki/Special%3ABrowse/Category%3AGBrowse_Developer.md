@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse Persistent Variables](/wiki/GBrowse_Persistent_Variables "GBrowse Persistent Variables") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Persistent-20Variables "Special%3ABrowse/GBrowse-20Persistent-20Variables")</span></span> , <span class="smwb-ivalue">[GBrowse Program Structure](/wiki/GBrowse_Program_Structure "GBrowse Program Structure") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Program-20Structure "Special%3ABrowse/GBrowse-20Program-20Structure")</span></span> , <span class="smwb-ivalue">[GBrowse Run Process](/wiki/GBrowse_Run_Process "GBrowse Run Process") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Run-20Process "Special%3ABrowse/GBrowse-20Run-20Process")</span></span> , <span class="smwb-ivalue">[GBrowse User Database](/wiki/GBrowse_User_Database "GBrowse User Database") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20User-20Database "Special%3ABrowse/GBrowse-20User-20Database")</span></span> , <span class="smwb-ivalue">[Using the topoview Glyph](/wiki/Using_the_topoview_Glyph "Using the topoview Glyph") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Using-20the-20topoview-20Glyph "Special%3ABrowse/Using-20the-20topoview-20Glyph")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[GBrowse Persistent Variables](/wiki/GBrowse_Persistent_Variables "GBrowse Persistent Variables") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Persistent-20Variables "Special%3ABrowse/GBrowse-20Persistent-20Variables")</span></span> , <span class="smwb-ivalue">[GBrowse Program Structure](/wiki/GBrowse_Program_Structure "GBrowse Program Structure") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Program-20Structure "Special%3ABrowse/GBrowse-20Program-20Structure")</span></span> , <span class="smwb-ivalue">[GBrowse Run Process](/wiki/GBrowse_Run_Process "GBrowse Run Process") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Run-20Process "Special%3ABrowse/GBrowse-20Run-20Process")</span></span> , <span class="smwb-ivalue">[GBrowse User Database](/wiki/GBrowse_User_Database "GBrowse User Database") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20User-20Database "Special%3ABrowse/GBrowse-20User-20Database")</span></span> , <span class="smwb-ivalue">[Using the topoview Glyph](/wiki/Using_the_topoview_Glyph "Using the topoview Glyph") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Using-20the-20topoview-20Glyph "Special%3ABrowse/Using-20the-20topoview-20Glyph")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGBrowse_Developer&amp;printable=yes"

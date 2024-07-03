@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20RPC-20API "Special%3ABrowse/GMOD-20RPC-20API")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genes4all "Special%3ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-2Ddbsf "Special%3ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Web-20services-20working-20group "Special%3ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20RPC-20API "Special%3ABrowse/GMOD-20RPC-20API")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genes4all "Special%3ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-2Ddbsf "Special%3ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Web-20services-20working-20group "Special%3ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AWeb_services&amp;printable=yes"

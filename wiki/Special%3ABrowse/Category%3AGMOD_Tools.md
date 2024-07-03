@@ -49,7 +49,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[JBrowse Tutorial PAG 2018](/wiki/JBrowse_Tutorial_PAG_2018 "JBrowse Tutorial PAG 2018") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[JBrowse Tutorial PAG 2018](/wiki/JBrowse_Tutorial_PAG_2018 "JBrowse Tutorial PAG 2018") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3AGMOD_Tools&amp;printable=yes"

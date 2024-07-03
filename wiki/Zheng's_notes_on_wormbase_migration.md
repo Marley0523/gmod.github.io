@@ -312,7 +312,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [User
   Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")

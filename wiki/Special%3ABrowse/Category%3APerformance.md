@@ -51,7 +51,7 @@ title="Category%3APerformance (page does not exist)">Category%3APerformance</a> 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3APerformance&amp;printable=yes"

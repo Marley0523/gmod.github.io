@@ -50,7 +50,7 @@ class="new" title="Category%3ANGS (page does not exist)">Category%3ANGS</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Est2assembly "Special%3ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GalaxyNGSISMB2010.pdf "Special%3ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Est2assembly "Special%3ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GalaxyNGSISMB2010.pdf "Special%3ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ANGS&amp;printable=yes"

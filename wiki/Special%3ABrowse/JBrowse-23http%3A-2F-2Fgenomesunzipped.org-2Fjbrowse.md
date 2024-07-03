@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">Genomes Unzipped: Public Personal Genomics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Genomes-20Unzipped:-20Public-20Personal-20Genomics "Special%3ASearchByProperty/Linktitle/Genomes-20Unzipped:-20Public-20Personal-20Genomics")</span></span> |
+| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">Genomes Unzipped: Public Personal Genomics  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/Genomes-20Unzipped%3A-20Public-20Personal-20Genomics "Special%3ASearchByProperty/Linktitle/Genomes-20Unzipped%3A-20Public-20Personal-20Genomics")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
@@ -207,7 +207,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/JBrowse-23http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse&amp;printable=yes"

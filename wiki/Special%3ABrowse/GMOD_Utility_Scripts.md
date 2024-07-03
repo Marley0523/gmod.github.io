@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Database-20Tools "Special%3ASearchByProperty/Database-20Tools")</span></span> , <span class="smwb-value">[Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Documentation "Special%3ASearchByProperty/Documentation")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Database-20Tools "Special%3ASearchByProperty/Database-20Tools")</span></span> , <span class="smwb-value">[Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Documentation "Special%3ASearchByProperty/Documentation")</span></span> , <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">24 March 2008 17:55:17  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/24-20March-202008-2017:55:17 "Special%3ASearchByProperty/Modification-20date/24-20March-202008-2017:55:17")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GMOD_Utility_Scripts&amp;printable=yes"

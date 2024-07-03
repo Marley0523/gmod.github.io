@@ -342,7 +342,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 - [Proposals](Category%3AProposals "Category%3AProposals")

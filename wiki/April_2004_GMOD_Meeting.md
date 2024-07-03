@@ -1273,7 +1273,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Apollo](Category%3AApollo "Category%3AApollo")
 - [CMap](Category%3ACMap "Category%3ACMap")

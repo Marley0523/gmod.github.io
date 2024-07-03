@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ATemplate (page does not exist)">Template</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Template "Special%3ASearchByProperty/Template")</span></span> , <span class="smwb-value">[GMOD in the Cloud](/wiki/Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20in-20the-20Cloud "Special%3ASearchByProperty/GMOD-20in-20the-20Cloud")</span></span> , <span class="smwb-value">[GBrowse 2](/wiki/Category%3AGBrowse_2 "Category%3AGBrowse 2")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-202 "Special%3ASearchByProperty/GBrowse-202")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Tool data](/wiki/Category%3ATool_data "Category%3ATool data")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tool-20data "Special%3ASearchByProperty/Tool-20data")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 September 2013 18:35:37  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/10-20September-202013-2018:35:37 "Special%3ASearchByProperty/Modification-20date/10-20September-202013-2018:35:37")</span></span> |
@@ -202,7 +202,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/GBrowse-2Ftool_data&amp;printable=yes"

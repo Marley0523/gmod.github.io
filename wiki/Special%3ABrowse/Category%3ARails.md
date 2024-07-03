@@ -51,7 +51,7 @@ title="Category%3ARails (page does not exist)">Category%3ARails</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20on-20Rails "Special%3ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special:Categories "Special:Categories") |
+| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20on-20Rails "Special%3ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -201,7 +201,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Category%3ARails&amp;printable=yes"

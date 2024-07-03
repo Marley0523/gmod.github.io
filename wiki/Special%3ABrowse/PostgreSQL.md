@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Database-20Tools "Special%3ASearchByProperty/Database-20Tools")</span></span> , <span class="smwb-value">[PostgreSQL](/wiki/Category%3APostgreSQL "Category%3APostgreSQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PostgreSQL "Special%3ASearchByProperty/PostgreSQL")</span></span> , <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/External "Special%3ASearchByProperty/External")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Needs-20Editing "Special%3ASearchByProperty/Needs-20Editing")</span></span> , <span class="smwb-value">[Database Tools](/wiki/Category%3ADatabase_Tools "Category%3ADatabase Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Database-20Tools "Special%3ASearchByProperty/Database-20Tools")</span></span> , <span class="smwb-value">[PostgreSQL](/wiki/Category%3APostgreSQL "Category%3APostgreSQL")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/PostgreSQL "Special%3ASearchByProperty/PostgreSQL")</span></span> , <span class="smwb-value">[External](/wiki/Category%3AExternal "Category%3AExternal")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/External "Special%3ASearchByProperty/External")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">18 November 2010 00:52:22  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/18-20November-202010-2000:52:22 "Special%3ASearchByProperty/Modification-20date/18-20November-202010-2000:52:22")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/PostgreSQL&amp;printable=yes"

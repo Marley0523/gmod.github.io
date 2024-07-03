@@ -43,8 +43,8 @@ href="/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Chado (page does not exist)">Chado</a> | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado/Schema "Special%3ASearchByProperty/Chado/Schema")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Talk:Bio/Schema "Special%3ASearchByProperty/Talk:Bio/Schema")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Middleware](/wiki/Category%3AMiddleware "Category%3AMiddleware")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware "Special%3ASearchByProperty/Middleware")</span></span> , <span class="smwb-value">[Middleware Presentations](/wiki/Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware-20Presentations "Special%3ASearchByProperty/Middleware-20Presentations")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
+class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Talk%3ABio/Schema "Special%3ASearchByProperty/Talk%3ABio/Schema")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Middleware](/wiki/Category%3AMiddleware "Category%3AMiddleware")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware "Special%3ASearchByProperty/Middleware")</span></span> , <span class="smwb-value">[Middleware Presentations](/wiki/Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Middleware-20Presentations "Special%3ASearchByProperty/Middleware-20Presentations")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 April 2011 18:15:29  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/14-20April-202011-2018:15:29 "Special%3ASearchByProperty/Modification-20date/14-20April-202011-2018:15:29")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema&amp;printable=yes"

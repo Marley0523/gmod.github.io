@@ -39,10 +39,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | [Has download URL](/wiki/Property%3AHas_download_URL "Property:Has download URL") | <span class="smwb-value"><a href="http://github.com/idoerg/BioDIG" class="external"
-rel="nofollow">http://github.com/idoerg/BioDIG</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http:-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span></span> |
+rel="nofollow">http://github.com/idoerg/BioDIG</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span></span> |
 | [Has website](/wiki/Property%3AHas_website "Property:Has website") | <span class="smwb-value"><a href="http://biodig.org" class="external"
-rel="nofollow">http://biodig.org</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http:-2F-2Fbiodig.org")</span></span> |
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value"><a
+rel="nofollow">http://biodig.org</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ABioDIG&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ABioDIG (page does not exist)">BioDIG</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BioDIG "Special%3ASearchByProperty/BioDIG")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
@@ -209,7 +209,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/BioDIG&amp;printable=yes"

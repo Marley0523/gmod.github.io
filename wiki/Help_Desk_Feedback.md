@@ -97,7 +97,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](Special:Categories "Special:Categories"):
+[Category](Special%3ACategories "Special%3ACategories"):
 
 - [Help](Category%3AHelp "Category%3AHelp")
 

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[BioMart](/wiki/Category%3ABioMart "Category%3ABioMart")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BioMart "Special%3ASearchByProperty/BioMart")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GMODWeb](/wiki/Category%3AGMODWeb "Category%3AGMODWeb")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMODWeb "Special%3ASearchByProperty/GMODWeb")</span></span> , <span class="smwb-value">[GMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Project "Special%3ASearchByProperty/GMOD-20Project")</span></span> , <span class="smwb-value"><a
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Meetings](/wiki/Category%3AMeetings "Category%3AMeetings")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Meetings "Special%3ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[BioMart](/wiki/Category%3ABioMart "Category%3ABioMart")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/BioMart "Special%3ASearchByProperty/BioMart")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[GMODWeb](/wiki/Category%3AGMODWeb "Category%3AGMODWeb")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMODWeb "Special%3ASearchByProperty/GMODWeb")</span></span> , <span class="smwb-value">[GMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Project "Special%3ASearchByProperty/GMOD-20Project")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
 class="new"
 title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
@@ -209,7 +209,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/January_2009_GMOD_Meeting&amp;printable=yes"

@@ -75,7 +75,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](Special:Categories "Special:Categories"):
+[Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse
   Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")

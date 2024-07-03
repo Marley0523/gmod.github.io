@@ -116,7 +116,7 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](Special:Categories "Special:Categories"):
+[Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Java](Category%3AJava "Category%3AJava")
 - [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")

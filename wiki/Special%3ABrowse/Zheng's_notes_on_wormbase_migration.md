@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special:Categories "Special:Categories") | <span class="smwb-value">[User Experiences](/wiki/Category%3AUser_Experiences "Category%3AUser Experiences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/User-20Experiences "Special%3ASearchByProperty/User-20Experiences")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> |
+| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[User Experiences](/wiki/Category%3AUser_Experiences "Category%3AUser Experiences")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/User-20Experiences "Special%3ASearchByProperty/User-20Experiences")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">28 January 2008 05:57:46  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/28-20January-202008-2005:57:46 "Special%3ASearchByProperty/Modification-20date/28-20January-202008-2005:57:46")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -200,7 +200,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-- <span id="t-specialpages"><a href="/wiki/Special:SpecialPages" accesskey="q"
+- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
 - <span id="t-print"><a
   href="/mediawiki/index.php?title=Special%3ABrowse/Zheng%27s_notes_on_wormbase_migration&amp;printable=yes"
