@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">2008 GMOD Summer School</span>
 
 <div id="bodyContent">
@@ -74,7 +72,6 @@ height="120" alt="SummerSchool2008Class2.jpg" /></a>
 </tbody>
 </table>
 
-  
 The first annual <a href="GMOD_Summer_School" class="mw-redirect"
 title="GMOD Summer School">GMOD Summer School</a> was a 2 1/2 day
 hands-on workshop aimed at teaching new GMOD users how to get up and
@@ -120,9 +117,10 @@ Durham, North Carolina, USA, July 11-13, 2008.
 
 # <span id="Program" class="mw-headline">Program</span>
 
-|  |  |
-|----|----|
-| The program featured two and half days of hands on training starting with an overview of GMOD and then covering installation and configuration of popular GMOD tools, include <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse"), [CMap](CMap.1 "CMap"), [Apollo](Apollo.1 "Apollo"), and the [Community Annotation System](Community_Annotation_System "Community Annotation System"). | <a href="File:SummerSchool2008GBrowse.jpg" class="image"><img
+|                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| The program featured two and half days of hands on training starting with an overview of GMOD and then covering installation and configuration of popular GMOD tools, include <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse"), [CMap](CMap.1 "CMap"), [Apollo](Apollo.1 "Apollo"), and the [Community Annotation System](Community_Annotation_System "Community Annotation System"). | <a href="File:SummerSchool2008GBrowse.jpg" class="image"><img |
+
 src="../mediawiki/images/1/1d/SummerSchool2008GBrowse.jpg" width="311"
 height="120" alt="SummerSchool2008GBrowse.jpg" /></a> |
 
@@ -330,50 +328,50 @@ people who actually implement and manage a GMOD installation on a day to
 day basis. This course was for organizations either planning to use GMOD
 components, or in the early phases of implementing GMOD.
 
-| Participant | Affiliation |
-|----|----|
-| Feseha Abebe-Akele | University of New Hampshire |
-| Parker Antin | University of Arizona |
-| Burcu Bakir-Gungor | Medical College of Wisconsin, RGD |
-| [Scott Cain](User%3AScott "User%3AScott") | CSHL |
-| [Dave Clements](User%3AClements "User%3AClements") | NESCent |
-| Matthew Conte | Howard Hughes Medical Institute |
-| Sean Davey | University of Arizona, BirdBase |
-| Victor de Jager | Radboud University Nijmegen Medical Centre |
-| Jason Dzurisin | University of Notre Dame |
-| [Ben Faga](User%3AFaga "User%3AFaga") | CSHL |
-| Bob Freeman | Harvard University Medical School |
-| Jean-Pierre Gauthier | INRA |
-| Glenn Harris | Virgina State University |
-| Erik Hom | Harvard University |
-| Zhiliang Hu | Iowa State University |
-| Li Jin | University of Delaware |
-| Ed Johnson | University of Georgia |
-| Ed Lee | BBOP |
-| Fabrice Legeai | INRA |
-| Xianhua Liu | NESCent |
-| Prashanti Manda | Mississippi State University |
-| Tom McNeill | Syngenta Biotechnology |
-| Christos Noutsos | University of Chicago |
-| Jason Phillips | University of North Carolina |
-| Joan Pontius | National Cancer Institute |
-| Sarah Richardson | Johns Hopkins University |
-| Stéphanie Sidibe-Bocs | CIRAD |
-| Brett Whitty | Michigan State University |
-| Andy Wu | Washington State University |
+| Participant                                        | Affiliation                                |
+| -------------------------------------------------- | ------------------------------------------ |
+| Feseha Abebe-Akele                                 | University of New Hampshire                |
+| Parker Antin                                       | University of Arizona                      |
+| Burcu Bakir-Gungor                                 | Medical College of Wisconsin, RGD          |
+| [Scott Cain](User%3AScott "User%3AScott")          | CSHL                                       |
+| [Dave Clements](User%3AClements "User%3AClements") | NESCent                                    |
+| Matthew Conte                                      | Howard Hughes Medical Institute            |
+| Sean Davey                                         | University of Arizona, BirdBase            |
+| Victor de Jager                                    | Radboud University Nijmegen Medical Centre |
+| Jason Dzurisin                                     | University of Notre Dame                   |
+| [Ben Faga](User%3AFaga "User%3AFaga")              | CSHL                                       |
+| Bob Freeman                                        | Harvard University Medical School          |
+| Jean-Pierre Gauthier                               | INRA                                       |
+| Glenn Harris                                       | Virgina State University                   |
+| Erik Hom                                           | Harvard University                         |
+| Zhiliang Hu                                        | Iowa State University                      |
+| Li Jin                                             | University of Delaware                     |
+| Ed Johnson                                         | University of Georgia                      |
+| Ed Lee                                             | BBOP                                       |
+| Fabrice Legeai                                     | INRA                                       |
+| Xianhua Liu                                        | NESCent                                    |
+| Prashanti Manda                                    | Mississippi State University               |
+| Tom McNeill                                        | Syngenta Biotechnology                     |
+| Christos Noutsos                                   | University of Chicago                      |
+| Jason Phillips                                     | University of North Carolina               |
+| Joan Pontius                                       | National Cancer Institute                  |
+| Sarah Richardson                                   | Johns Hopkins University                   |
+| Stéphanie Sidibe-Bocs                              | CIRAD                                      |
+| Brett Whitty                                       | Michigan State University                  |
+| Andy Wu                                            | Washington State University                |
 
 # <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
-*The course requires a minimal level of Linux systems administration
-knowledge* (see [Computing
+_The course requires a minimal level of Linux systems administration
+knowledge_ (see [Computing
 Requirements](Computing_Requirements "Computing Requirements")). By "a
 minimal level of Linux systems administration knowledge" we mean that
-participants should be comfortable installing packages under Linux. *A
+participants should be comfortable installing packages under Linux. _A
 good benchmark for this level of knowledge is that you should be able to
 get a basic [GBrowse
 installation](GBrowse_Install_HOWTO "GBrowse Install HOWTO") (that is,
 GBrowse without [MySQL](MySQL "MySQL")) up and running with the example
-GBrowse data.* This also requires installing Apache, and
+GBrowse data._ This also requires installing Apache, and
 [BioPerl](BioPerl "BioPerl") and all its dependencies.
 
 ## <span id="System_Requirements" class="mw-headline">System Requirements</span>
@@ -403,11 +401,9 @@ systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
 
-  
-
 VMware on Mac OS X
 
-Participants can also bring *newer Macs with Intel processors*. The
+Participants can also bring _newer Macs with Intel processors_. The
 Intel processor is a requirement for all the packages discussed below.
 
 <div class="floatleft">
@@ -418,11 +414,9 @@ alt="Apple" /></a>
 
 </div>
 
-There is no free VMware player that runs *directly* under [Mac OS
+There is no free VMware player that runs _directly_ under [Mac OS
 X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
-other options, *all of which require an Intel Mac*:
-
-  
+other options, _all of which require an Intel Mac_:
 
 VMware Fusion
 
@@ -435,12 +429,10 @@ height="48" alt="VMWareFusionsLogo.jpg" /></a>
 </div>
 
 <a href="http://www.vmware.com/products/fusion/" class="external text"
-rel="nofollow">VMware Fusion</a> ({{{1}}}) allows you to run VMware
+rel="nofollow">VMware Fusion</a> allows you to run VMware
 images, Windows and Linux under Mac OS. **We recommend this option for
 Mac users. There is a fully functional, 30 day free trial version of
 VMware Fusion available for download.**
-
-  
 
 Mac OS 10.5 (Leopard) and Boot Camp
 
@@ -461,9 +453,9 @@ allows you to boot your Mac into another operating system, including
 Windows or Linux. From there you can install the VMware player for your
 OS.\*
 
-**\*** *Apple tells you that you can partition your disk drive at any
+**\*** _Apple tells you that you can partition your disk drive at any
 time using Boot Camp. In practice, this appears to only work easily when
-you first get your system.*
+you first get your system._
 
 # <span id="Cost_and_Registration" class="mw-headline">Cost and Registration</span>
 
@@ -536,7 +528,7 @@ rel="nofollow">Ian Holmes</a>.
 
 <div style="text-align: center; font-size: 160%">
 
-*Comments on the **2008 GMOD Summer School***
+\*Comments on the **2008 GMOD Summer School\***
 
 </div>
 
@@ -620,15 +612,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:2008_GMOD_Summer_School&amp;action=edit&amp;redlink=1"
@@ -640,7 +629,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -651,10 +640,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -730,10 +715,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2008_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -745,8 +728,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 22:11 on 16 April
-  2014.</span>
+- <span id="footer-info-lastmod">Last updated at 22:11 on 16 April 2014.</span>
 <!-- - <span id="footer-info-viewcount">314,604 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -759,10 +741,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
