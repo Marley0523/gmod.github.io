@@ -262,18 +262,18 @@ href="Special%3ASearchByProperty/Has-20subobject/GO-20Graphic-20Viewer-23http%3A
 title="Special%3ASearchByProperty/Has-20subobject/GO-20Graphic-20Viewer-23http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="GO::TermFinder.1"
+<td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GO%3A%3ATermFinder"
 title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops"><a
-href="GO::TermFinder.1#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F"
+href="GO%3A%3ATermFinder.1#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F"
 title="GO::TermFinder">GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/</a>  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/GO%3A%3ATermFinder-23http%3A-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F"
 title="Special%3ASearchByProperty/Has-20subobject/GO%3A%3ATermFinder-23http%3A-2F-2Fsearch.cpan.org-2Fdist-2FGO-2DTermFinder-2F">+</a></span>,
 <a
-href="GO::TermFinder.1#http:.2F.2Fgo.princeton.edu.2Fcgi-bin.2FGOTermFinder.2FGOTermFinder"
+href="GO%3A%3ATermFinder.1#http:.2F.2Fgo.princeton.edu.2Fcgi-bin.2FGOTermFinder.2FGOTermFinder"
 title="GO::TermFinder">GO::TermFinder#http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder</a>  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/GO%3A%3ATermFinder-23http%3A-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder"
@@ -739,7 +739,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

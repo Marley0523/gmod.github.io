@@ -133,7 +133,7 @@ data</a></li>
 <ul>
 <li><a href="GO_Graphic_Viewer/tool_data"
 title="GO Graphic Viewer/tool data">GO Graphic Viewer/tool data</a></li>
-<li><a href="GO::TermFinder/tool_data"
+<li><a href="GO%3A%3ATermFinder/tool_data"
 title="GO::TermFinder/tool data">GO::TermFinder/tool data</a></li>
 </ul>
 <h3 id="j">J</h3>
@@ -350,7 +350,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -200,9 +200,9 @@ a design student at
 <a href="http://www.linnbenton.edu" class="external text"
 rel="nofollow">Linn-Benton Community College</a>. \| dev_ppl = \|
 dev_status = See the <a
-href="http://gmod.org/mediawiki/index.php?title=Talk:GBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
 class="new"
-title="Talk:GBrowse syn/tool data (page does not exist)">discussion
+title="Talk%3AGBrowse syn/tool data (page does not exist)">discussion
 page</a> for notes on further GBrowse_syn development. \| contact_email
 = <a href="mailto:mckays@cshl.edu" class="external text"
 rel="nofollow">Sheldon Mckay</a> \| input = \| output = \| see_also =
@@ -307,7 +307,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:GBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -434,7 +434,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

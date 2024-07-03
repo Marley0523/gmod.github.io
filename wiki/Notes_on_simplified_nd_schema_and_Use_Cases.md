@@ -100,9 +100,9 @@ rel="nofollow">https://gmod.svn.sourceforge.net/svnroot/gmod/schema/branches/int
 ## <span id="Schema_Drawing" class="mw-headline">Schema Drawing</span>
 
 <a
-href="http://gmod.org/w/index.php?title=Talk:Chado_Natural_Diversity_Module_Working_Group#April_2010#April_2010"
+href="http://gmod.org/w/index.php?title=Talk%3AChado_Natural_Diversity_Module_Working_Group#April_2010#April_2010"
 class="external free"
-rel="nofollow">http://gmod.org/w/index.php?title=Talk:Chado_Natural_Diversity_Module_Working_Group#April_2010</a>
+rel="nofollow">http://gmod.org/w/index.php?title=Talk%3AChado_Natural_Diversity_Module_Working_Group#April_2010</a>
 
 ## <span id="Notes_on_the_tables" class="mw-headline">Notes on the tables</span>
 
@@ -685,7 +685,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -79,7 +79,7 @@ aria-labelledby="p-namespaces-label">
 
 - <span id="ca-nstab-user"><a href="/wiki/User%3AGirlwithglasses" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="/wiki/User_talk:Girlwithglasses" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/User_talk%3AGirlwithglasses" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

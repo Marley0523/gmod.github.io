@@ -90,10 +90,10 @@ title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a></li>
-<li><a href="Chado::AutoDBI_Presentation"
-title="Chado::AutoDBI Presentation">Chado::AutoDBI Presentation</a></li>
+<li><a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
+<li><a href="Chado%3A%3AAutoDBI_Presentation"
+title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="c-cont.">C cont.</h3>
 <ul>
@@ -309,7 +309,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

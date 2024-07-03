@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |                                          |     |
 |------------------------------------------|-----|
-| [Bio::GMOD](/wiki/Bio::GMOD "Bio::GMOD") |     |
+| [Bio%3A%3AGMOD](/wiki/Bio%3A%3AGMOD "Bio%3A%3AGMOD") |     |
 
 |  |  |
 |----|----|
@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

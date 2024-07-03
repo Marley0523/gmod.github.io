@@ -94,7 +94,7 @@ class="mw-redirect" title="Chado">Chado</a></span></li>
 <li><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse syn</a></li>
 <li><a href="GO_Graphic_Viewer.1" title="GO Graphic Viewer">GO Graphic
 Viewer</a></li>
-<li><a href="GO::TermFinder.1"
+<li><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a></li>
 </ul>
 <h3 id="i">I</h3>
@@ -300,7 +300,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

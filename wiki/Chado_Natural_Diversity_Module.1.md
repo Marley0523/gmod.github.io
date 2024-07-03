@@ -263,7 +263,7 @@ insert your data in the database.
 - [Chado Natural Diversity Module Working
   Group](Chado_Natural_Diversity_Module_Working_Group "Chado Natural Diversity Module Working Group")
   page, and the [group's discussion
-  page](Talk:Chado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
+  page](Talk%3AChado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
   for background on how this module was created.
 
 ### <span id="Email_Threads" class="mw-headline">Email Threads</span>
@@ -1451,7 +1451,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

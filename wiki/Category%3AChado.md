@@ -125,7 +125,7 @@ title="Chado Phenotype Module">Chado Phenotype Module</a></li>
 <li><a href="Chado_Phenotype_Module_at_FlyBase"
 title="Chado Phenotype Module at FlyBase">Chado Phenotype Module at
 FlyBase</a></li>
-<li><a href="Talk:Chado_Post-Composed_Phenotypes"
+<li><a href="Talk%3AChado_Post-Composed_Phenotypes"
 title="Talk:Chado Post-Composed Phenotypes">Talk:Chado Post-Composed
 Phenotypes</a></li>
 <li><a href="Chado_Schema_Documentation_HOWTO"
@@ -153,10 +153,10 @@ Tutorial 2013</a></li>
 <li><a href="Chado_Update_via_GFF" title="Chado Update via GFF">Chado
 Update via GFF</a></li>
 <li><a href="Chado_XML" title="Chado XML">Chado XML</a></li>
-<li><a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a></li>
-<li><a href="Chado::AutoDBI_Presentation"
-title="Chado::AutoDBI Presentation">Chado::AutoDBI Presentation</a></li>
+<li><a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
+<li><a href="Chado%3A%3AAutoDBI_Presentation"
+title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
 <li><a href="Chaos_XML" title="Chaos XML">Chaos XML</a></li>
 <li><a href="Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
 title="Comparison of XORT and Hibernate for Chado reporting">Comparison
@@ -622,7 +622,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

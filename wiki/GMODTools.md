@@ -111,7 +111,7 @@ Bulkfiles base adaptor object.
 Why use this package rather than using other [middleware
 layers](Category%3AMiddleware "Category%3AMiddleware") to Chado db - [Chado
 XML](Chado_XML "Chado XML"),
-[Chado::AutoDBI](Chado::AutoDBI "Chado::AutoDBI"),
+[Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI"),
 [BioPerl](BioPerl "BioPerl"), ? The general logic is
 
 1.  dump all Chado db features using simple (and quick) sql, to common
@@ -403,7 +403,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:GMODTools" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3AGMODTools" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -527,7 +527,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

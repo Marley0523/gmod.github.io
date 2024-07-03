@@ -180,7 +180,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:GBrowse_Plugins&amp;action=edit&amp;redlink=1"
+  href="/mediawiki/index.php?title=Talk%3AGBrowse_Plugins&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -308,7 +308,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

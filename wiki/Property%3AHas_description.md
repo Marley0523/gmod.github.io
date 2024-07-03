@@ -212,7 +212,7 @@ title="Special%3ASearchByProperty">+</a></span></td>
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
 title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
-<td class="smwprops">The GO Graphic Viewer module (Bio::GMOD::GO::View)
+<td class="smwprops">The GO Graphic Viewer module (Bio%3A%3AGMOD::GO::View)
 generates a graphic that displays the parent and child relationships of
 a selected GO term. It also provides the visualization for the result
 from the GO::TermFinder Perl module created by the Stanford Microarray
@@ -225,7 +225,7 @@ href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x
 title="Special%3ASearchByProperty">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="GO::TermFinder.1"
+<td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
 href="Special%3ABrowse/GO%3A%3ATermFinder"
 title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
@@ -848,7 +848,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

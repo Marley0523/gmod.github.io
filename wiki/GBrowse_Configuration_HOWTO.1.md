@@ -2442,7 +2442,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="/wiki/Talk:GBrowse_1_Configuration_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -2569,7 +2569,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

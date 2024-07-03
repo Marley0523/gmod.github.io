@@ -310,7 +310,7 @@ currently in the proposal stage and have no been implemented at any
 
 - <a href="/wiki/Common_url" class="mw-redirect" title="Common url">Common
   url</a>
-- [Bio::GMOD](/wiki/Bio::GMOD "Bio::GMOD")
+- [Bio%3A%3AGMOD](/wiki/Bio%3A%3AGMOD "Bio%3A%3AGMOD")
 - [Bio GMOD
   GenericGenePage](/wiki/Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
 
@@ -1352,7 +1352,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

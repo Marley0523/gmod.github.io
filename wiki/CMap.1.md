@@ -995,7 +995,7 @@ role="navigation" aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](/wikihttp://gmod.org/GMOD:About "GMOD:About")</span>
+  GMOD](/wikihttp://gmod.org/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

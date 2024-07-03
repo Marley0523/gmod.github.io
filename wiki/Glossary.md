@@ -209,7 +209,7 @@ See also
 
 - <a href="http://www.w3.org/Style/CSS/" class="external text"
   rel="nofollow">CSS Home Page @ W3C</a>
-- [MediaWiki:Common.css](MediaWiki:Common.css "MediaWiki:Common.css") -
+- [MediaWiki%3ACommon.css](MediaWiki%3ACommon.css "MediaWiki%3ACommon.css") -
   Extensions to MediaWiki's default CSS that we have made on this web
   site.
 
@@ -827,7 +827,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

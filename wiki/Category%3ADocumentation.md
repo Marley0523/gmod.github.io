@@ -83,7 +83,7 @@ Utility Scripts</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="o">O</h3>
 <ul>
-<li><a href="Talk:Overview" title="Talk:Overview">Talk:Overview</a></li>
+<li><a href="Talk%3AOverview" title="Talk%3AOverview">Talk%3AOverview</a></li>
 </ul>
 <h3 id="r">R</h3>
 <ul>
@@ -277,7 +277,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

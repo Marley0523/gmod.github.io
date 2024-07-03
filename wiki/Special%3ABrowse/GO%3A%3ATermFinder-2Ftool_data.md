@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [GO::TermFinder/tool data](/wiki/GO::TermFinder/tool_data "GO::TermFinder/tool data") |  |
+| [GO::TermFinder/tool data](/wiki/GO%3A%3ATermFinder/tool_data "GO::TermFinder/tool data") |  |
 
 |  |  |
 |----|----|
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

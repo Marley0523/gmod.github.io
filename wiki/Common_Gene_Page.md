@@ -114,7 +114,7 @@ One outline for these attributes is to have main sections as:
 at the [July 2008 GMOD
 Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") resulted in
 the
-[Bio::GMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
+[Bio%3A%3AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
 Perl abstract class that can be used by organizations to generate common
 gene pages in XML format.
 
@@ -175,7 +175,7 @@ Page](July_2008_GMOD_Meeting#Common_Gene_Page "July 2008 GMOD Meeting")
 section of the [July 2008 GMOD
 Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") notes. This
 discussion resulted in implementation of the
-[Bio::GMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
+[Bio%3A%3AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
 Perl abstract class.
 
 # <span id="Example_uses" class="mw-headline">Example uses</span>
@@ -428,7 +428,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -222,8 +222,8 @@ title="Chado">Chado</a></td>
 <td><a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">gmod-schema</a></td>
 <td>All issues regarding <a href="Chado" class="mw-redirect"
-title="Chado">Chado</a>, <a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a>, and <a
+title="Chado">Chado</a>, <a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a>, and <a
 href="Bio%3A%3AChado%3A%3ASchema"
 title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></td>
 <td><a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
@@ -566,7 +566,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:GMOD_Mailing_Lists" accesskey="t"
+- <span id="ca-talk"><a href="Talk%3AGMOD_Mailing_Lists" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -690,7 +690,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

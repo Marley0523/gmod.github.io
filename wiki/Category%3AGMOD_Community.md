@@ -158,7 +158,7 @@ title="2013 GMOD Community Survey">2013 GMOD Community Survey</a></li>
 Program</a></li>
 <li><a href="GMOD_Mailing_Lists" title="GMOD Mailing Lists">GMOD Mailing
 Lists</a></li>
-<li><a href="Talk:GMOD_Mailing_Lists"
+<li><a href="Talk%3AGMOD_Mailing_Lists"
 title="Talk:GMOD Mailing Lists">Talk:GMOD Mailing Lists</a></li>
 <li><a href="GMOD_News" title="GMOD News">GMOD News</a></li>
 </ul></td>
@@ -460,7 +460,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -50,8 +50,8 @@ The following 5 pages are in this category, out of 5 total.
 
 ### C
 
-- [Chado::AutoDBI
-  Presentation](Chado::AutoDBI_Presentation "Chado::AutoDBI Presentation")
+- [Chado%3A%3AAutoDBI
+  Presentation](Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation")
 
 ### G
 
@@ -304,7 +304,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

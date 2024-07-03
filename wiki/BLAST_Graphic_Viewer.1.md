@@ -129,8 +129,8 @@ Viewer is also known as blastGraphic.
   rel="nofollow">Apache web server</a>
 - Perl 5.005 or higher
 - Perl modules from CPAN:
-  <a href="http://search.cpan.org/perldoc?Bio::GMOD::Blast::Graph"
-  class="external text" rel="nofollow">Bio::GMOD::Blast::Graph</a>,
+  <a href="http://search.cpan.org/perldoc?Bio%3A%3AGMOD::Blast::Graph"
+  class="external text" rel="nofollow">Bio%3A%3AGMOD::Blast::Graph</a>,
   Bio::Perl
 - BLAST or BLAT applications
 
@@ -364,7 +364,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

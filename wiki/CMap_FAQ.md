@@ -154,7 +154,7 @@ file that accesses the database through the sql() object.
 In the area_code portion of the feature/map type, the sql object can be
 accessed using \$self-\>sql(). The resulting object has methods that
 interact with the database. For more information about the methods that
-can be called execute "perldoc Bio::GMOD::CMap::Data::Generic" on the
+can be called execute "perldoc Bio%3A%3AGMOD::CMap::Data::Generic" on the
 command line. In this instance, we want to use get_attributes() to read
 through the attributes and look for the one to display.
 
@@ -168,7 +168,7 @@ Here is an example of how to do this:
          # Generic.pm object.  This object queries the database.
          # In this case we are getting attributes.
          # For more information:
-         #   perldoc Bio::GMOD::CMap::Data::Generic
+         #   perldoc Bio%3A%3AGMOD::CMap::Data::Generic
          my $conf_attributes = $self->sql->get_attributes(
              object_type => 'feature',
              object_id   => $feature->{'feature_id'},
@@ -430,7 +430,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

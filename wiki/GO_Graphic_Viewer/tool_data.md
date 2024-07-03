@@ -46,7 +46,7 @@ x, unix, win\|platform = linux, os x, unix, win\| platform = web \| logo
 <a href="http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl"
 class="external free"
 rel="nofollow">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl</a>
-\| about = The GO Graphic Viewer module (Bio::GMOD::GO::View) generates
+\| about = The GO Graphic Viewer module (Bio%3A%3AGMOD::GO::View) generates
 a graphic that displays the parent and child relationships of a selected
 GO term. It also provides the visualization for the results from the
 <a href="http://search.cpan.org/perldoc?GO::TermFinder"
@@ -267,7 +267,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

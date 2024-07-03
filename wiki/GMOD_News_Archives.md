@@ -3336,7 +3336,7 @@ documentation on how to use the new features.</p>
 <p><a
 href="http://gmod.org/wiki/User%3ARobertBuels#58;//gmod.org/wiki/User%3ARobertBuels"
 title="User%3ARobertBuels">RobertBuels</a> (<a
-href="http://gmod.org/wiki/User_talk:RobertBuels#58;//gmod.org/wiki/User_talk:RobertBuels"
+href="http://gmod.org/wiki/User_talk%3ARobertBuels#58;//gmod.org/wiki/User_talk%3ARobertBuels"
 title="User talk:RobertBuels">talk</a>)</p>
 <p><br />
 </p>
@@ -3828,7 +3828,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

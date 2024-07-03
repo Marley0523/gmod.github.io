@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 August 2013 18:59:45  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20August-202013-2018:59:45 "Special%3ASearchByProperty/Modification-20date/9-20August-202013-2018:59:45")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Component information](/wiki/Form:Component_information "Form:Component information")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Component information](/wiki/Form%3AComponent_information "Form:Component information")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -218,7 +218,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

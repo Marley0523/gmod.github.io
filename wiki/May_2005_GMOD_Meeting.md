@@ -238,7 +238,7 @@ Frank Smutniak</td>
 </tr>
 <tr class="odd">
 <td data-valign="top" width="15%">1:15</td>
-<td width="85%">harris-050517.ppt Bio::GMOD and standard URLs<br />
+<td width="85%">harris-050517.ppt Bio%3A%3AGMOD and standard URLs<br />
 Todd Harris</td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-[Tool data](Form:Tool_data "Form:Tool data")
+[Tool data](Form%3ATool_data "Form:Tool data")
 
 <div lang="en" dir="ltr">
 
@@ -93,7 +93,7 @@ title="GMOD Online Training 2014/GBrowse syn Tutorial">GMOD Online
 Training 2014/GBrowse syn Tutorial</a></li>
 <li><a href="GO_Graphic_Viewer.1" title="GO Graphic Viewer">GO Graphic
 Viewer</a></li>
-<li><a href="GO::TermFinder.1"
+<li><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a></li>
 </ul>
 <h3 id="i">I</h3>
@@ -178,7 +178,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form:Tool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form%3ATool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
 
 </div>
 
@@ -335,7 +335,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

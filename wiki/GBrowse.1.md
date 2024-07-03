@@ -1003,7 +1003,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="/wiki/Talk:GBrowse" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 </div>
@@ -1133,7 +1133,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[Abouthttp://gmod.org/wiki/
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

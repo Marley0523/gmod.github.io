@@ -159,7 +159,7 @@ rel="nofollow">Middleware for Chado databases</a>
 | 9:00  | Introduction, Eric Just                                    |
 | 9:05  | Object/relational Mapping Principles, Sohel Merchant       |
 | 9:30  | XORT, Pinglei Zhou                                         |
-| 9:55  | Chado::AutoDBI, Brian O'Connor                             |
+| 9:55  | Chado%3A%3AAutoDBI, Brian O'Connor                             |
 | 10:20 | Coffee Break                                               |
 | 10:35 | Modware, Eric Just                                         |
 | 11:00 | GBrowse (DasI) Adaptor, Scott Cain                         |
@@ -343,7 +343,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

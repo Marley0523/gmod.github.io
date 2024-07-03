@@ -79,7 +79,7 @@ Natural Diversity Module into the production version of
 # <span id="Discussion" class="mw-headline">Discussion</span>
 
 See the [discussion
-page](Talk:Chado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
+page](Talk%3AChado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
 for notes on what we've talked about and where we are heading. Once the
 discussion settle, a summary of decisions will appear here.
 
@@ -254,7 +254,7 @@ aria-labelledby="p-namespaces-label">
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Chado_Natural_Diversity_Module_Working_Group"
+- <span id="ca-talk"><a href="Talk%3AChado_Natural_Diversity_Module_Working_Group"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -379,7 +379,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

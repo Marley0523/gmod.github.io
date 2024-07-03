@@ -38,7 +38,7 @@ data-title="Property"><span class="smwbuiltin">[Has default
 form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Component
-information](/wiki/Form:Component_information "Form:Component information")"  
+information](/wiki/Form%3AComponent_information "Form:Component information")"  
 
 - [Category%3AGMOD
   Tools](/wiki/Category%3AGMOD_Tools "Category%3AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Tools "Special%3ABrowse/Category%3AGMOD-20Tools")</span>
@@ -206,7 +206,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

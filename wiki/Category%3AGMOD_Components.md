@@ -171,8 +171,8 @@ data</a></li>
 <li><a href="Caryoscope" title="Caryoscope">Caryoscope</a></li>
 <li><a href="Chado_-_Getting_Started"
 title="Chado - Getting Started">Chado - Getting Started</a></li>
-<li><a href="Chado::AutoDBI"
-title="Chado::AutoDBI">Chado::AutoDBI</a></li>
+<li><a href="Chado%3A%3AAutoDBI"
+title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
 <li><a href="CMap.1" title="CMap">CMap</a></li>
 <li><a href="CMap/tool_data" title="CMap/tool data">CMap/tool
 data</a></li>
@@ -226,9 +226,9 @@ title="Template:GMODComponents">Template:GMODComponents</a></li>
 Viewer</a></li>
 <li><a href="GO_Graphic_Viewer/tool_data"
 title="GO Graphic Viewer/tool data">GO Graphic Viewer/tool data</a></li>
-<li><a href="GO::TermFinder.1"
+<li><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a></li>
-<li><a href="GO::TermFinder/tool_data"
+<li><a href="GO%3A%3ATermFinder/tool_data"
 title="GO::TermFinder/tool data">GO::TermFinder/tool data</a></li>
 </ul>
 <h3 id="i">I</h3>
@@ -499,7 +499,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

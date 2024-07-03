@@ -60,7 +60,7 @@ The following 9 pages are in this category, out of 9 total.
 <ul>
 <li><a href="Hackathon_2007_info" title="Hackathon 2007 info">Hackathon
 2007 info</a></li>
-<li><a href="Talk:Hackathon_2007_info"
+<li><a href="Talk%3AHackathon_2007_info"
 title="Talk:Hackathon 2007 info">Talk:Hackathon 2007 info</a></li>
 <li><a href="Hackathon_wikidb" title="Hackathon wikidb">Hackathon
 wikidb</a></li>
@@ -344,7 +344,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

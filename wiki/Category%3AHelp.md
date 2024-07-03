@@ -105,7 +105,7 @@ title="Computing Requirements">Computing Requirements</a></li>
 </ul>
 <h3 id="e">E</h3>
 <ul>
-<li><a href="Help:Editing" title="Help:Editing">Help:Editing</a></li>
+<li><a href="Help%3AEditing" title="Help%3AEditing">Help%3AEditing</a></li>
 </ul>
 <h3 id="g">G</h3>
 <ul>
@@ -336,7 +336,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

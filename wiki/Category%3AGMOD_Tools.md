@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This category uses the form [Component
-information](Form:Component_information "Form:Component information").
+information](Form%3AComponent_information "Form:Component information").
 
 <div lang="en" dir="ltr">
 
@@ -91,7 +91,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form:Component_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form%3AComponent_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
 
 </div>
 
@@ -248,7 +248,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [BioGraphics:vista plot glyph](/wiki/BioGraphics:vista_plot_glyph "BioGraphics:vista plot glyph") |  |
+| [BioGraphics:vista plot glyph](/wiki/BioGraphics%3Avista_plot_glyph "BioGraphics:vista plot glyph") |  |
 
 |  |  |
 |----|----|
@@ -217,7 +217,7 @@ aria-labelledby="p-tb-label">
 <div id="footer" role="contentinfo">
 
 - <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD:About "GMOD:About")</span>
+  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

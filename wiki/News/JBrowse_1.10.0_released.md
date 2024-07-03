@@ -51,7 +51,7 @@ Guide](../JBrowse_Configuration_Guide "JBrowse Configuration Guide") for
 documentation on how to use the new features.
 
 [RobertBuels](../User%3ARobertBuels "User%3ARobertBuels")
-([talk](../User_talk:RobertBuels "User talk:RobertBuels"))
+([talk](../User_talk%3ARobertBuels "User talk:RobertBuels"))
 
   
 
@@ -234,7 +234,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](../GMOD:About "GMOD:About")</span>
+  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 

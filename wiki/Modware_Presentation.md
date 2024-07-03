@@ -156,7 +156,7 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 
 - Object-oriented Perl interface to
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-- Built on top of [Chado::AutoDBI](Chado::AutoDBI "Chado::AutoDBI")
+- Built on top of [Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI")
 - Connection handled by GMOD
 - Database transactions supported
 - [BioPerl](BioPerl "BioPerl") used to represent and manipulate sequence
@@ -612,7 +612,7 @@ sub Write_search_results {
 - If <a href="Chado" class="mw-redirect" title="Chado">Chado</a> changes
   then...
   - Manually change [Modware](Modware "Modware") or ...
-  - [Chado::AutoDBI](Chado::AutoDBI "Chado::AutoDBI") will automatically
+  - [Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI") will automatically
     adjust to the change, depends on the change
 - Can set multiple connections through AutoDBI's `set_connection`
 
@@ -830,7 +830,7 @@ aria-labelledby="p-tb-label">
 <!-- -->
 
 - <span id="footer-places-about">[About
-  GMOD](GMOD:About "GMOD:About")</span>
+  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
 
