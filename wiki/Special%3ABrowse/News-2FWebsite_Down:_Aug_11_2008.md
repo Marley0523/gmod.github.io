@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Website Down: Aug 11 2008](/wiki/News/Website_Down:_Aug_11_2008 "News/Website Down: Aug 11 2008") |  |
+| [News/Website Down: Aug 11 2008](/wiki/News/Website_Down%3A_Aug_11_2008 "News/Website Down: Aug 11 2008") |  |
 
 |  |  |
 |----|----|

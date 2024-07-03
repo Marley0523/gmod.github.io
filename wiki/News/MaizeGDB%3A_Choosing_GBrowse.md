@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/Server Maintenance: Sept 9</span>
+# <span dir="auto">News/MaizeGDB: Choosing GBrowse</span>
 
 <div id="bodyContent">
 
@@ -38,21 +38,65 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatleft">
+<div class="floatright">
 
-<a href="../File:WorkInProgressTools.gif" class="image"><img
-src="../../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
-height="48" alt="WorkInProgressTools.gif" /></a>
+<a href="http://database.oxfordjournals.org/cgi/content/abstract/baq007"
+rel="nofollow" title="Database Paper"><img
+src="../../mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
+alt="Database Paper" /></a>
 
 </div>
 
-The [GMOD website](../Main_Page "Main Page") and server will be down for
-maintenance on Wednesday, September 9, 2009 for up to 90 minutes,
-sometime between 1pm and 5pm Eastern US time. The server is being moved
-to a new a data center. We apologize for any inconvenience this may
-cause you.
+A paper,
+"<a href="http://database.oxfordjournals.org/cgi/content/abstract/baq007"
+class="external text" rel="nofollow">Choosing a genome browser for a
+Model Organism Database: surveying the Maize community</a>," by the
+<a href="http://maizegdb.org" class="external text"
+rel="nofollow">MaizeGDB</a> team has been published in
+*<a href="http://database.oxfordjournals.org/" class="external text"
+rel="nofollow">Database</a>.* To prepare for the availability of a
+reference genome, MaizeGDB surveyed their community to assess genome
+visualization needs. This paper summarizes the survey and MaizeGDB's
+review of available browsers, and describes why they chose
+[GBrowse](../GBrowse.1 "GBrowse"). The paper finishes by describing how
+they implemented GBrowse, including the *locus lookup tool* (<a
+href="http://bioinformatics.oxfordjournals.org/cgi/content/short/26/3/434"
+class="external text" rel="nofollow">described here</a>), a MaizeGDB
+extension that uses maize's extensive physical and genetic mapping data
+to localize genomic regions in GBrowse. This is a great paper for anyone
+considering which genome browser to use.
 
-Please let us know if you have any questions.
+<div class="floatright">
+
+<a href="http://database.oxfordjournals.org/" rel="nofollow"
+title="Database Journal"><img
+src="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/265px-DatabaseJournal.jpg.png"
+srcset="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/398px-DatabaseJournal.jpg.png 1.5x, ../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/530px-DatabaseJournal.jpg.png 2x"
+width="265" height="32" alt="Database Journal" /></a>
+
+</div>
+
+I'd also like to highlight the journal the paper appears in:
+*<a href="http://database.oxfordjournals.org/" class="external text"
+rel="nofollow">Database: The Journal of Biological Databases and
+Curation</a>.* "Biological Databases and Curation" are what GMOD is
+about and many of the papers cover issues and resources that are widely
+applicable in the GMOD community. The <a
+href="http://database.oxfordjournals.org/content/vol2010/issue0/index.dtl"
+class="external text" rel="nofollow">current issue</a> also includes
+papers on <a
+href="http://database.oxfordjournals.org/cgi/content/abstract/2010/0/baq009"
+class="external text" rel="nofollow">community annotation using
+wikis</a>, and <a
+href="http://database.oxfordjournals.org/cgi/content/abstract/2010/0/baq001"
+class="external text" rel="nofollow">a report on best practices in
+genome annotation</a> from the
+<a href="http://biocurator.org/" class="external text"
+rel="nofollow">ISB</a> <a
+href="http://projects.eml.org/sdbv/events/BiocurationMeeting/index.html"
+class="external text" rel="nofollow">3<sup>rd</sup> International
+Biocuration Conference</a>. *Database* is an open access publication,
+making it an even better match for GMOD.
 
 [Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
@@ -61,7 +105,7 @@ Please let us know if you have any questions.
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/08*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/04/19*
 
 </div>
 
@@ -70,7 +114,7 @@ Please let us know if you have any questions.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Server_Maintenance:_Sept_9&oldid=21898>"
+"<http://gmod.org/mediawiki/index.php?title=News/MaizeGDB%3A_Choosing_GBrowse&oldid=22350>"
 
 </div>
 
@@ -111,7 +155,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Server_Maintenance:_Sept_9&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/MaizeGDB%3A_Choosing_GBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -213,7 +257,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FServer_Maintenance:_Sept_9"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FMaizeGDB:_Choosing_GBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -227,9 +271,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:24 on 3 October
+- <span id="footer-info-lastmod">Last updated at 23:13 on 9 October
   2012.</span>
-<!-- - <span id="footer-info-viewcount">7,906 page views.</span> -->
+<!-- - <span id="footer-info-viewcount">5,863 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

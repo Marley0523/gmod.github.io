@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/MAKER-P: an annotation pipeline for plants</span>
+# <span dir="auto">News/Tripal: A Web Front End for Chado</span>
 
 <div id="bodyContent">
 
@@ -38,35 +38,53 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-The popular [MAKER](../MAKER.1 "MAKER") annotation pipeline has been
-extended and optimised to allow the annotation of plant species:
+<div class="floatright">
 
-> Sequencing diverse plant species of evolutionary, agricultural, and
-> medicinal interest is becoming routine for even small groups; genome
-> annotation and analysis is much less so. The MAKER-P pipeline is
-> designed to make the annotation of novel plant genomes tractable for
-> small groups with limited bioinformatics experience and resources, and
-> faster and more transparent for large groups with more experience and
-> resources. The MAKER-P pipeline generates species-specific repeat
-> libraries, as well as structural annotations of protein coding genes,
-> non-coding RNAs, and pseudogenes.  
->
-> —Michael Campbell, MAKER development team
+[<img
+src="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
+srcset="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, ../../mediawiki/images/5/5c/TripalLogo.jpg 2x"
+width="200" height="60" alt="Tripal" />](../Tripal.1 "Tripal")
 
-- Read the publication on MAKER-P:
-  <a href="http://dx.doi.org/​10.​1104/​pp.​113.​230144" class="external text"
-  rel="nofollow">MAKER-P: a tool-kit for the rapid creation, management,
-  and quality control of plant genome annotations</a>
+</div>
 
-<!-- -->
+[Tripal](../Tripal.1 "Tripal") is a new web front end for
+<a href="../Chado" class="mw-redirect" title="Chado">Chado</a> databases
+and is now a part of GMOD. Tripal is a collection of
+<a href="http://www.drupal.org" class="external text"
+rel="nofollow">Drupal</a> modules initially developed by the
+<a href="http://www.genome.clemson.edu/" class="external text"
+rel="nofollow">Clemson University Genomics Institute (CUGI)</a>. Tripal
+is already powering several web sites, including the
+<a href="http://www.marinegenomics.org" class="external text"
+rel="nofollow">Marine Genomics Project</a> and
+<a href="http://www.fagaceae.org/" class="external text"
+rel="nofollow">Fagaceae Genomics Web</a>.
 
-- Download and install [MAKER and MAKER-P](../MAKER.1 "MAKER").
+Tripal supports Drupal themes, page content and look and feel
+customization, materialized views, searching, and job management out of
+the box.
+
+Tripal can be downloaded from the GMOD
+<a href="../SVN" class="mw-redirect" title="SVN">SVN</a> repository.
+Tripal (already!) has an extensive
+<a href="../../mediawiki/images/0/00/TripalUsersGuideJune2009.pdf"
+class="internal" title="TripalUsersGuideJune2009.pdf">User's Guide</a>
+and a <a href="../Tripal_Tutorial" class="mw-redirect"
+title="Tripal Tutorial">tutorial</a> to help users install, configure
+and extend Tripal.
+
+If you use or are considering using
+<a href="../Chado" class="mw-redirect" title="Chado">Chado</a>, please
+take a look at [Tripal](../Tripal.1 "Tripal").
+
+[Dave Clements](../User%3AClements "User%3AClements")  
+[GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013/12/16*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/28*
 
 </div>
 
@@ -75,7 +93,7 @@ extended and optimised to allow the annotation of plant species:
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/MAKER-P:_an_annotation_pipeline_for_plants&oldid=24937>"
+"<http://gmod.org/mediawiki/index.php?title=News/Tripal%3A_A_Web_Front_End_for_Chado&oldid=22361>"
 
 </div>
 
@@ -83,10 +101,9 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Categories](../Special:Categories "Special:Categories"):
+[Category](../Special:Categories "Special:Categories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [MAKER](../Category%3AMAKER "Category%3AMAKER")
 
 </div>
 
@@ -117,7 +134,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/MAKER-P:_an_annotation_pipeline_for_plants&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Tripal%3A_A_Web_Front_End_for_Chado&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -219,8 +236,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FMAKER-2DP:_an_annotation_pipeline_for_plants"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FTripal:_A_Web_Front_End_for_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -234,9 +250,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 16:57 on 16 December
-  2013.</span>
-<!-- - <span id="footer-info-viewcount">17,370 page views.</span> -->
+- <span id="footer-info-lastmod">Last updated at 23:14 on 9 October
+  2012.</span>
+<!-- - <span id="footer-info-viewcount">6,661 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

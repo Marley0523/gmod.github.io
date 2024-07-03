@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/MaizeGDB: Choosing GBrowse</span>
+# <span dir="auto">News/GMOD: Spread the Word!</span>
 
 <div id="bodyContent">
 
@@ -40,63 +40,44 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-<a href="http://database.oxfordjournals.org/cgi/content/abstract/baq007"
-rel="nofollow" title="Database Paper"><img
-src="../../mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
-alt="Database Paper" /></a>
+[<img src="../../mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
+height="95" alt="Help spread the word about GMOD" />](../GMOD_Promotion "Help spread the word about GMOD")
 
 </div>
 
-A paper,
-"<a href="http://database.oxfordjournals.org/cgi/content/abstract/baq007"
-class="external text" rel="nofollow">Choosing a genome browser for a
-Model Organism Database: surveying the Maize community</a>," by the
-<a href="http://maizegdb.org" class="external text"
-rel="nofollow">MaizeGDB</a> team has been published in
-*<a href="http://database.oxfordjournals.org/" class="external text"
-rel="nofollow">Database</a>.* To prepare for the availability of a
-reference genome, MaizeGDB surveyed their community to assess genome
-visualization needs. This paper summarizes the survey and MaizeGDB's
-review of available browsers, and describes why they chose
-[GBrowse](../GBrowse.1 "GBrowse"). The paper finishes by describing how
-they implemented GBrowse, including the *locus lookup tool* (<a
-href="http://bioinformatics.oxfordjournals.org/cgi/content/short/26/3/434"
-class="external text" rel="nofollow">described here</a>), a MaizeGDB
-extension that uses maize's extensive physical and genetic mapping data
-to localize genomic regions in GBrowse. This is a great paper for anyone
-considering which genome browser to use.
+Do you use GMOD tools in your research? If so, then you can help others
+and GMOD by [getting the word out about GMOD and its
+tools](../GMOD_Promotion "GMOD Promotion").
 
-<div class="floatright">
+There are many ways to do this: [cite
+GMOD](../GMOD_Promotion#Citing_GMOD "GMOD Promotion") in publications,
+put a [Powered by GMOD](../Powered_by_GMOD "Powered by GMOD") icon on
+your web pages, invite a [GMOD
+speaker](../GMOD_Promotion#Speakers "GMOD Promotion") to your
+institution or event, include [information on
+GMOD](../GMOD_Promotion#Presentation_Material "GMOD Promotion") in your
+presentations. See the [GMOD
+Promotion](../GMOD_Promotion "GMOD Promotion") page for these and other
+ideas.
 
-<a href="http://database.oxfordjournals.org/" rel="nofollow"
-title="Database Journal"><img
-src="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/265px-DatabaseJournal.jpg.png"
-srcset="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/398px-DatabaseJournal.jpg.png 1.5x, ../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/530px-DatabaseJournal.jpg.png 2x"
-width="265" height="32" alt="Database Journal" /></a>
+Increasing GMOD's visibility has many benefits:
 
-</div>
+- It introduces biologists to tools that can help them learn from and
+  exploit their data.
+- Increased visibility will lead to increased adoption of GMOD tools.
+- Increased adoption leads to more people contributing back to the
+  project.
+- Increased adoption and development helps GMOD and GMOD components get
+  grant funding.
 
-I'd also like to highlight the journal the paper appears in:
-*<a href="http://database.oxfordjournals.org/" class="external text"
-rel="nofollow">Database: The Journal of Biological Databases and
-Curation</a>.* "Biological Databases and Curation" are what GMOD is
-about and many of the papers cover issues and resources that are widely
-applicable in the GMOD community. The <a
-href="http://database.oxfordjournals.org/content/vol2010/issue0/index.dtl"
-class="external text" rel="nofollow">current issue</a> also includes
-papers on <a
-href="http://database.oxfordjournals.org/cgi/content/abstract/2010/0/baq009"
-class="external text" rel="nofollow">community annotation using
-wikis</a>, and <a
-href="http://database.oxfordjournals.org/cgi/content/abstract/2010/0/baq001"
-class="external text" rel="nofollow">a report on best practices in
-genome annotation</a> from the
-<a href="http://biocurator.org/" class="external text"
-rel="nofollow">ISB</a> <a
-href="http://projects.eml.org/sdbv/events/BiocurationMeeting/index.html"
-class="external text" rel="nofollow">3<sup>rd</sup> International
-Biocuration Conference</a>. *Database* is an open access publication,
-making it an even better match for GMOD.
+Finally, GMOD can also help raise the profile of your GMOD-related talk
+or event by [advertising it on GMOD
+resources](../GMOD_Promotion#Presentation_and_Event_Promotion "GMOD Promotion").
+
+Please let me know if you have any questions or requests, and please
+help get the word out.
+
+Thanks,
 
 [Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
@@ -105,7 +86,7 @@ making it an even better match for GMOD.
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/04/19*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/07/26*
 
 </div>
 
@@ -114,7 +95,7 @@ making it an even better match for GMOD.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/MaizeGDB:_Choosing_GBrowse&oldid=22350>"
+"<http://gmod.org/mediawiki/index.php?title=News/GMOD%3A_Spread_the_Word!&oldid=22252>"
 
 </div>
 
@@ -155,7 +136,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/MaizeGDB:_Choosing_GBrowse&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD%3A_Spread_the_Word!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -257,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FMaizeGDB:_Choosing_GBrowse"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD:_Spread_the_Word!"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -271,9 +252,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:13 on 9 October
+- <span id="footer-info-lastmod">Last updated at 23:07 on 9 October
   2012.</span>
-<!-- - <span id="footer-info-viewcount">5,863 page views.</span> -->
+<!-- - <span id="footer-info-viewcount">7,496 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

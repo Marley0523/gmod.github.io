@@ -117,7 +117,7 @@ rel="nofollow">afp.cafa.2013@gmail.com</a>.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/ISMB_2013:_Automated_Function_Prediction&oldid=23268>"
+"<http://gmod.org/mediawiki/index.php?title=News/ISMB_2013%3A_Automated_Function_Prediction&oldid=23268>"
 
 </div>
 
@@ -159,7 +159,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/ISMB_2013:_Automated_Function_Prediction&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/ISMB_2013%3A_Automated_Function_Prediction&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/Website Down: Aug 11 2008</span>
+# <span dir="auto">News/Server Maintenance: Sept 9</span>
 
 <div id="bodyContent">
 
@@ -46,10 +46,11 @@ height="48" alt="WorkInProgressTools.gif" /></a>
 
 </div>
 
-The [GMOD website](../Main_Page "Main Page") will be down for
-maintenance on Monday, August 11, 2008 starting at 8pm Eastern / 5pm
-Pacific (both US). We expect it to be down for about an hour. We
-apologize for any inconvenience this may cause you.
+The [GMOD website](../Main_Page "Main Page") and server will be down for
+maintenance on Wednesday, September 9, 2009 for up to 90 minutes,
+sometime between 1pm and 5pm Eastern US time. The server is being moved
+to a new a data center. We apologize for any inconvenience this may
+cause you.
 
 Please let us know if you have any questions.
 
@@ -60,7 +61,7 @@ Please let us know if you have any questions.
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2008/08/08*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/08*
 
 </div>
 
@@ -69,7 +70,7 @@ Please let us know if you have any questions.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Website_Down:_Aug_11_2008&oldid=21895>"
+"<http://gmod.org/mediawiki/index.php?title=News/Server_Maintenance%3A_Sept_9&oldid=21898>"
 
 </div>
 
@@ -110,7 +111,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Website_Down:_Aug_11_2008&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Server_Maintenance%3A_Sept_9&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -212,7 +213,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FWebsite_Down:_Aug_11_2008"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FServer_Maintenance:_Sept_9"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -226,9 +227,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:21 on 3 October
+- <span id="footer-info-lastmod">Last updated at 23:24 on 3 October
   2012.</span>
-<!-- - <span id="footer-info-viewcount">7,233 page views.</span> -->
+<!-- - <span id="footer-info-viewcount">7,906 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

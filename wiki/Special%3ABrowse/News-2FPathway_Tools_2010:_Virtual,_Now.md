@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Pathway Tools 2010: Virtual, Now](/wiki/News/Pathway_Tools_2010:_Virtual,_Now "News/Pathway Tools 2010: Virtual, Now") |  |
+| [News/Pathway Tools 2010: Virtual, Now](/wiki/News/Pathway_Tools_2010%3A_Virtual,_Now "News/Pathway Tools 2010: Virtual, Now") |  |
 
 |  |  |
 |----|----|

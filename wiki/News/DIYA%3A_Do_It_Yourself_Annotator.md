@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/GCC2014: June 30 - July 2</span>
+# <span dir="auto">News/DIYA: Do It Yourself Annotator</span>
 
 <div id="bodyContent">
 
@@ -38,41 +38,55 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatleft">
+<div class="floatright">
 
-<a href="http://wiki.galaxyproject.org/Events/GCC2014" rel="nofollow"
-title="2014 Galaxy Community Conference"><img
-src="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/250px-GCC2014Logo.png"
-srcset="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png 1.5x, ../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png 2x"
-width="250" height="105" alt="2014 Galaxy Community Conference" /></a>
+[<img
+src="../../mediawiki/images/thumb/5/57/DIYALogo.png/100px-DIYALogo.png"
+srcset="../../mediawiki/images/thumb/5/57/DIYALogo.png/150px-DIYALogo.png 1.5x, ../../mediawiki/images/thumb/5/57/DIYALogo.png/200px-DIYALogo.png 2x"
+width="100" height="100" alt="DIYA" />](../DIYA "DIYA")
 
 </div>
 
-The <a href="http://wiki.galaxyproject.org/Events/GCC2014"
-class="external text" rel="nofollow">2014 Galaxy Community Conference
-(GCC2013)</a> will be held June 30 through July 2, at the <a
-href="http://webapps.jhu.edu/jhuniverse/information_about_hopkins/campuses/homewood_campus/"
-class="external text" rel="nofollow">Homewood Campus</a> of
-<a href="http://jhu.edu" class="external text" rel="nofollow">Johns
-Hopkins University</a>\], in
-<a href="http://visitors.baltimorecity.gov/" class="external text"
-rel="nofollow">Baltimore, Maryland</a>, United States.
+[DIYA](../DIYA "DIYA"), the *Do It Yourself Annotator* is now officially
+a part of GMOD. DIYA is a modular and configurable open source pipeline
+framework, written in Perl, used (initially) for the rapid
+[annotation](../Annotation "Annotation") of microbial genome sequences.
+The software is currently used to take nucleotide sequence contigs as
+input, either in the form of complete genomes or the result of shotgun
+sequencing, and produce an annotated sequence in [GFF](../GFF "GFF")
+format. Current development seeks to integrate DIYA with the <a
+href="http://sourceforge.net/apps/mediawiki/amos/index.php?title=AMOS"
+class="external text" rel="nofollow">AMOS</a> collection of assembly
+tools.
 
-Galaxy Community Conferences are an opportunity to participate in
-presentations, discussions, poster sessions, lightning talks and
-breakouts, all about high-throughput biology and the tools that support
-it.  The conference will also includes a *Training Day* offering
-in-depth topic coverage, across several concurrent sessions.  See
-<a href="http://wiki.galaxyproject.org/Events/GCC201"
-class="external text" rel="nofollow">the GCC2013 web site</a> for an
-idea of what happens at a Galaxy Community Conference. The GCC2013 site
-includes links to slides and videos for all accepted talks.
+DIYA
+<a href="http://sourceforge.net/projects/diyg/" class="external text"
+rel="nofollow">resides in Sourceforge</a>, where it has
+<a href="http://sourceforge.net/mail/?group_id=205628"
+class="external text" rel="nofollow">mailing lists</a> and a
+<a href="http://sourceforge.net/apps/wordpress/diyg/"
+class="external text" rel="nofollow">blog</a>, and uses
+<a href="http://sourceforge.net/apps/trac/diyg/" class="external text"
+rel="nofollow">Trac</a> for development tracking. DIYA is stable and
+version 1.0 has been released.
+
+DIYA is part of the
+*<a href="http://sourceforge.net/projects/diyg/" class="external text"
+rel="nofollow">Do It Yourself Genomics (DIYG) Project</a>*. Developers
+of DIYA (and DIYG) include Andrew Stewart and [Brian
+Osborne](../User%3ABosborne "User%3ABosborne") (formerly of the [GMOD Help
+Desk](../GMOD_Help_Desk "GMOD Help Desk")). The DIYA community is
+looking for interested developers to contribute to DIYA. See the
+[DIYA](../DIYA "DIYA") page for more.
+
+[Dave Clements](../User%3AClements "User%3AClements")  
+[GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2014/10/02*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/23*
 
 </div>
 
@@ -81,7 +95,7 @@ includes links to slides and videos for all accepted talks.
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GCC2014:_June_30_-_July_2&oldid=24600>"
+"<http://gmod.org/mediawiki/index.php?title=News/DIYA%3A_Do_It_Yourself_Annotator&oldid=22315>"
 
 </div>
 
@@ -122,7 +136,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GCC2014:_June_30_-_July_2&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/DIYA%3A_Do_It_Yourself_Annotator&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -224,7 +238,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2014:_June_30_-2D_July_2"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDIYA:_Do_It_Yourself_Annotator"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -238,9 +252,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 00:16 on 3 October
-  2013.</span>
-<!-- - <span id="footer-info-viewcount">12,225 page views.</span> -->
+- <span id="footer-info-lastmod">Last updated at 23:10 on 9 October
+  2012.</span>
+<!-- - <span id="footer-info-viewcount">7,108 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

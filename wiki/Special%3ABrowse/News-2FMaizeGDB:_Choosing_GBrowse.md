@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/MaizeGDB: Choosing GBrowse](/wiki/News/MaizeGDB:_Choosing_GBrowse "News/MaizeGDB: Choosing GBrowse") |  |
+| [News/MaizeGDB: Choosing GBrowse](/wiki/News/MaizeGDB%3A_Choosing_GBrowse "News/MaizeGDB: Choosing GBrowse") |  |
 
 |  |  |
 |----|----|

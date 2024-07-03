@@ -108,7 +108,7 @@ for Proposals for GSoC 2014</a></li>
 <li><a href="News/GMOD_At_PAG_2014">GMOD At PAG 2014</a></li>
 <li><a href="News/Announcing_GMOD_Malaysia_2014">Announcing GMOD
 Malaysia 2014</a></li>
-<li><a href="News/MAKER-P:_an_annotation_pipeline_for_plants">MAKER-P:
+<li><a href="News/MAKER-P%3A_an_annotation_pipeline_for_plants">MAKER-P:
 an annotation pipeline for plants</a></li>
 <li><a href="News/GMOD_Paper_Cuts,_Dec_6th,_2013">GMOD Paper Cuts, Dec
 6th, 2013</a></li>
@@ -129,7 +129,7 @@ dictyBase</a></li>
 Publication</a></li>
 <li><a href="News/San_Diego_2014_Registration_Open">San Diego 2014
 Registration Open</a></li>
-<li><a href="News/GCC2014:_June_30_-_July_2">GCC2014: June 30 - July
+<li><a href="News/GCC2014%3A_June_30_-_July_2">GCC2014: June 30 - July
 2</a></li>
 <li><a href="News/Get_the_Full_ImpactStory">Get the Full
 ImpactStory</a></li>
@@ -2096,7 +2096,7 @@ title="GMOD News">GMOD News</a> on 2013/12/28</em>
 </div>
 <div class="rss">
 <h3 id="maker-p-an-annotation-pipeline-for-plants"><a
-href="News/MAKER-P:_an_annotation_pipeline_for_plants">MAKER-P: an
+href="News/MAKER-P%3A_an_annotation_pipeline_for_plants">MAKER-P: an
 annotation pipeline for plants</a></h3>
 <p>The popular <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/MAKER#58;//gmod.org/wiki/MAKER"
@@ -3031,7 +3031,7 @@ title="GMOD News">GMOD News</a> on 2013/10/25</em>
 </div>
 <div class="rss">
 <h3 id="gcc2014-june-30---july-2"><a
-href="News/GCC2014:_June_30_-_July_2">GCC2014: June 30 - July 2</a></h3>
+href="News/GCC2014%3A_June_30_-_July_2">GCC2014: June 30 - July 2</a></h3>
 <div class="floatleft">
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wiki.galaxyproject.org/Events/GCC2014"

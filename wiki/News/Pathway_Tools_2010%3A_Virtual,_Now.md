@@ -88,7 +88,7 @@ Pathway Tools Workshop Coordinator
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Pathway_Tools_2010:_Virtual,_Now&oldid=22360>"
+"<http://gmod.org/mediawiki/index.php?title=News/Pathway_Tools_2010%3A_Virtual,_Now&oldid=22360>"
 
 </div>
 
@@ -129,7 +129,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Pathway_Tools_2010:_Virtual,_Now&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Pathway_Tools_2010%3A_Virtual,_Now&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 

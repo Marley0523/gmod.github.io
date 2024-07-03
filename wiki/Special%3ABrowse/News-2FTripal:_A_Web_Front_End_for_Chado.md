@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Tripal: A Web Front End for Chado](/wiki/News/Tripal:_A_Web_Front_End_for_Chado "News/Tripal: A Web Front End for Chado") |  |
+| [News/Tripal: A Web Front End for Chado](/wiki/News/Tripal%3A_A_Web_Front_End_for_Chado "News/Tripal: A Web Front End for Chado") |  |
 
 |  |  |
 |----|----|

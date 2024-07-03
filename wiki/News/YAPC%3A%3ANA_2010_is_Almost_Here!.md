@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/Tripal: A Web Front End for Chado</span>
+# <span dir="auto">News/YAPC::NA 2010 is Almost Here!</span>
 
 <div id="bodyContent">
 
@@ -40,51 +40,48 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img
-src="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
-srcset="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, ../../mediawiki/images/5/5c/TripalLogo.jpg 2x"
-width="200" height="60" alt="Tripal" />](../Tripal.1 "Tripal")
+<a href="http://conferences.mongueurs.net/yn2010/" rel="nofollow"
+title="YAPC: NA 2010"><img
+src="../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/220px-Yapc2010Logo.png"
+srcset="../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/330px-Yapc2010Logo.png 1.5x, ../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/440px-Yapc2010Logo.png 2x"
+width="220" height="39" alt="YAPC: NA 2010" /></a>
 
 </div>
 
-[Tripal](../Tripal.1 "Tripal") is a new web front end for
-<a href="../Chado" class="mw-redirect" title="Chado">Chado</a> databases
-and is now a part of GMOD. Tripal is a collection of
-<a href="http://www.drupal.org" class="external text"
-rel="nofollow">Drupal</a> modules initially developed by the
-<a href="http://www.genome.clemson.edu/" class="external text"
-rel="nofollow">Clemson University Genomics Institute (CUGI)</a>. Tripal
-is already powering several web sites, including the
-<a href="http://www.marinegenomics.org" class="external text"
-rel="nofollow">Marine Genomics Project</a> and
-<a href="http://www.fagaceae.org/" class="external text"
-rel="nofollow">Fagaceae Genomics Web</a>.
+June 21st – 23rd 2010 is quickly approaching and Columbus.PM is getting
+very excited. Hotel reservation information is available, dorm
+reservation details are up and ready, the conference is quickly
+approaching. For everyone still looking for
+<a href="http://conferences.mongueurs.net/yn2010/" class="external text"
+rel="nofollow">YAPC: NA 2010 (Yet Another Perl Conference North
+America)</a> details, here is what we have planned. The conference will
+be held in the brand new beautiful <a
+href="http://conferences.mongueurs.net/yn2010/wiki?node=ConferenceSummary"
+class="external text" rel="nofollow">The Ohio State Union</a>.
 
-Tripal supports Drupal themes, page content and look and feel
-customization, materialized views, searching, and job management out of
-the box.
+Larry Wall, Damian Conway, Randal Schwartz, and many others will be in
+attendance.
 
-Tripal can be downloaded from the GMOD
-<a href="../SVN" class="mw-redirect" title="SVN">SVN</a> repository.
-Tripal (already!) has an extensive
-<a href="../../mediawiki/images/0/00/TripalUsersGuideJune2009.pdf"
-class="internal" title="TripalUsersGuideJune2009.pdf">User's Guide</a>
-and a <a href="../Tripal_Tutorial" class="mw-redirect"
-title="Tripal Tutorial">tutorial</a> to help users install, configure
-and extend Tripal.
+The main dorm location is Morrison Tower and the Hotel conference block
+is in The Blackwell Inn (see <a
+href="http://conferences.mongueurs.net/yn2010/wiki?node=Accommodations"
+class="external text" rel="nofollow">Accommodations</a>). Early
+registration is quickly coming to an end so make sure that you forward
+this to all of your friends and coworkers and get signed up today!
 
-If you use or are considering using
-<a href="../Chado" class="mw-redirect" title="Chado">Chado</a>, please
-take a look at [Tripal](../Tripal.1 "Tripal").
+I hope to see you all at
+<a href="http://conferences.mongueurs.net/yn2010/" class="external text"
+rel="nofollow">YAPC: NA 2010</a> in beautiful Columbus, Ohio.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
-[GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
+Heath Bair  
+<a href="http://conferences.mongueurs.net/yn2010/" class="external text"
+rel="nofollow">YAPC: NA 2010</a> Conference Chairman
 
   
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/28*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/04/13*
 
 </div>
 
@@ -93,7 +90,7 @@ take a look at [Tripal](../Tripal.1 "Tripal").
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Tripal:_A_Web_Front_End_for_Chado&oldid=22361>"
+"<http://gmod.org/mediawiki/index.php?title=News/YAPC%3A%3ANA_2010_is_Almost_Here!&oldid=24485>"
 
 </div>
 
@@ -134,7 +131,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Tripal:_A_Web_Front_End_for_Chado&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/YAPC%3A%3ANA_2010_is_Almost_Here!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -236,7 +233,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FTripal:_A_Web_Front_End_for_Chado"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FYAPC::NA_2010_is_Almost_Here!"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -250,9 +247,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:14 on 9 October
-  2012.</span>
-<!-- - <span id="footer-info-viewcount">6,661 page views.</span> -->
+- <span id="footer-info-lastmod">Last updated at 19:40 on 4 September
+  2013.</span>
+<!-- - <span id="footer-info-viewcount">5,236 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

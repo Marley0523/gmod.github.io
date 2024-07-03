@@ -2122,7 +2122,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [News/Tripal: A Web Front End for
-  Chado](/wiki/News/Tripal:_A_Web_Front_End_for_Chado "News/Tripal: A Web Front End for Chado")
+  Chado](/wiki/News/Tripal%3A_A_Web_Front_End_for_Chado "News/Tripal: A Web Front End for Chado")
 
   </div>
 

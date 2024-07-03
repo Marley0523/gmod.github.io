@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/GMOD: Spread the Word!</span>
+# <span dir="auto">News/MAKER-P: an annotation pipeline for plants</span>
 
 <div id="bodyContent">
 
@@ -38,55 +38,35 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatright">
+The popular [MAKER](../MAKER.1 "MAKER") annotation pipeline has been
+extended and optimised to allow the annotation of plant species:
 
-[<img src="../../mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
-height="95" alt="Help spread the word about GMOD" />](../GMOD_Promotion "Help spread the word about GMOD")
+> Sequencing diverse plant species of evolutionary, agricultural, and
+> medicinal interest is becoming routine for even small groups; genome
+> annotation and analysis is much less so. The MAKER-P pipeline is
+> designed to make the annotation of novel plant genomes tractable for
+> small groups with limited bioinformatics experience and resources, and
+> faster and more transparent for large groups with more experience and
+> resources. The MAKER-P pipeline generates species-specific repeat
+> libraries, as well as structural annotations of protein coding genes,
+> non-coding RNAs, and pseudogenes.  
+>
+> —Michael Campbell, MAKER development team
 
-</div>
+- Read the publication on MAKER-P:
+  <a href="http://dx.doi.org/​10.​1104/​pp.​113.​230144" class="external text"
+  rel="nofollow">MAKER-P: a tool-kit for the rapid creation, management,
+  and quality control of plant genome annotations</a>
 
-Do you use GMOD tools in your research? If so, then you can help others
-and GMOD by [getting the word out about GMOD and its
-tools](../GMOD_Promotion "GMOD Promotion").
+<!-- -->
 
-There are many ways to do this: [cite
-GMOD](../GMOD_Promotion#Citing_GMOD "GMOD Promotion") in publications,
-put a [Powered by GMOD](../Powered_by_GMOD "Powered by GMOD") icon on
-your web pages, invite a [GMOD
-speaker](../GMOD_Promotion#Speakers "GMOD Promotion") to your
-institution or event, include [information on
-GMOD](../GMOD_Promotion#Presentation_Material "GMOD Promotion") in your
-presentations. See the [GMOD
-Promotion](../GMOD_Promotion "GMOD Promotion") page for these and other
-ideas.
-
-Increasing GMOD's visibility has many benefits:
-
-- It introduces biologists to tools that can help them learn from and
-  exploit their data.
-- Increased visibility will lead to increased adoption of GMOD tools.
-- Increased adoption leads to more people contributing back to the
-  project.
-- Increased adoption and development helps GMOD and GMOD components get
-  grant funding.
-
-Finally, GMOD can also help raise the profile of your GMOD-related talk
-or event by [advertising it on GMOD
-resources](../GMOD_Promotion#Presentation_and_Event_Promotion "GMOD Promotion").
-
-Please let me know if you have any questions or requests, and please
-help get the word out.
-
-Thanks,
-
-[Dave Clements](../User%3AClements "User%3AClements")  
-[GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
+- Download and install [MAKER and MAKER-P](../MAKER.1 "MAKER").
 
   
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/07/26*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013/12/16*
 
 </div>
 
@@ -95,7 +75,7 @@ Thanks,
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GMOD:_Spread_the_Word!&oldid=22252>"
+"<http://gmod.org/mediawiki/index.php?title=News/MAKER-P%3A_an_annotation_pipeline_for_plants&oldid=24937>"
 
 </div>
 
@@ -103,9 +83,10 @@ Retrieved from
 
 <div id="mw-normal-catlinks" class="mw-normal-catlinks">
 
-[Category](../Special:Categories "Special:Categories"):
+[Categories](../Special:Categories "Special:Categories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [MAKER](../Category%3AMAKER "Category%3AMAKER")
 
 </div>
 
@@ -136,7 +117,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD:_Spread_the_Word!&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/MAKER-P%3A_an_annotation_pipeline_for_plants&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -238,7 +219,8 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD:_Spread_the_Word!"
+- <span id="t-smwbrowselink"><a
+  href="../Special%3ABrowse/News-2FMAKER-2DP:_an_annotation_pipeline_for_plants"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -252,9 +234,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:07 on 9 October
-  2012.</span>
-<!-- - <span id="footer-info-viewcount">7,496 page views.</span> -->
+- <span id="footer-info-lastmod">Last updated at 16:57 on 16 December
+  2013.</span>
+<!-- - <span id="footer-info-viewcount">17,370 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

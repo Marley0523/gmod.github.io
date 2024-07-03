@@ -16,7 +16,7 @@
 
 
 
-# <span dir="auto">News/DIYA: Do It Yourself Annotator</span>
+# <span dir="auto">News/Website Down: Aug 11 2008</span>
 
 <div id="bodyContent">
 
@@ -38,46 +38,20 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatright">
+<div class="floatleft">
 
-[<img
-src="../../mediawiki/images/thumb/5/57/DIYALogo.png/100px-DIYALogo.png"
-srcset="../../mediawiki/images/thumb/5/57/DIYALogo.png/150px-DIYALogo.png 1.5x, ../../mediawiki/images/thumb/5/57/DIYALogo.png/200px-DIYALogo.png 2x"
-width="100" height="100" alt="DIYA" />](../DIYA "DIYA")
+<a href="../File:WorkInProgressTools.gif" class="image"><img
+src="../../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
+height="48" alt="WorkInProgressTools.gif" /></a>
 
 </div>
 
-[DIYA](../DIYA "DIYA"), the *Do It Yourself Annotator* is now officially
-a part of GMOD. DIYA is a modular and configurable open source pipeline
-framework, written in Perl, used (initially) for the rapid
-[annotation](../Annotation "Annotation") of microbial genome sequences.
-The software is currently used to take nucleotide sequence contigs as
-input, either in the form of complete genomes or the result of shotgun
-sequencing, and produce an annotated sequence in [GFF](../GFF "GFF")
-format. Current development seeks to integrate DIYA with the <a
-href="http://sourceforge.net/apps/mediawiki/amos/index.php?title=AMOS"
-class="external text" rel="nofollow">AMOS</a> collection of assembly
-tools.
+The [GMOD website](../Main_Page "Main Page") will be down for
+maintenance on Monday, August 11, 2008 starting at 8pm Eastern / 5pm
+Pacific (both US). We expect it to be down for about an hour. We
+apologize for any inconvenience this may cause you.
 
-DIYA
-<a href="http://sourceforge.net/projects/diyg/" class="external text"
-rel="nofollow">resides in Sourceforge</a>, where it has
-<a href="http://sourceforge.net/mail/?group_id=205628"
-class="external text" rel="nofollow">mailing lists</a> and a
-<a href="http://sourceforge.net/apps/wordpress/diyg/"
-class="external text" rel="nofollow">blog</a>, and uses
-<a href="http://sourceforge.net/apps/trac/diyg/" class="external text"
-rel="nofollow">Trac</a> for development tracking. DIYA is stable and
-version 1.0 has been released.
-
-DIYA is part of the
-*<a href="http://sourceforge.net/projects/diyg/" class="external text"
-rel="nofollow">Do It Yourself Genomics (DIYG) Project</a>*. Developers
-of DIYA (and DIYG) include Andrew Stewart and [Brian
-Osborne](../User%3ABosborne "User%3ABosborne") (formerly of the [GMOD Help
-Desk](../GMOD_Help_Desk "GMOD Help Desk")). The DIYA community is
-looking for interested developers to contribute to DIYA. See the
-[DIYA](../DIYA "DIYA") page for more.
+Please let us know if you have any questions.
 
 [Dave Clements](../User%3AClements "User%3AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
@@ -86,7 +60,7 @@ looking for interested developers to contribute to DIYA. See the
 
 <div class="newsfooter">
 
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2009/09/23*
+*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2008/08/08*
 
 </div>
 
@@ -95,7 +69,7 @@ looking for interested developers to contribute to DIYA. See the
 <div class="printfooter">
 
 Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/DIYA:_Do_It_Yourself_Annotator&oldid=22315>"
+"<http://gmod.org/mediawiki/index.php?title=News/Website_Down%3A_Aug_11_2008&oldid=21895>"
 
 </div>
 
@@ -136,7 +110,7 @@ aria-labelledby="p-namespaces-label">
 
 
 - <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/DIYA:_Do_It_Yourself_Annotator&amp;action=edit&amp;redlink=1"
+  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Website_Down%3A_Aug_11_2008&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -238,7 +212,7 @@ aria-labelledby="p-tb-label">
 <div class="body">
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDIYA:_Do_It_Yourself_Annotator"
+- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FWebsite_Down:_Aug_11_2008"
   rel="smw-browse">Browse properties</a></span>
 
 
@@ -252,9 +226,9 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:10 on 9 October
+- <span id="footer-info-lastmod">Last updated at 23:21 on 3 October
   2012.</span>
-<!-- - <span id="footer-info-viewcount">7,108 page views.</span> -->
+<!-- - <span id="footer-info-viewcount">7,233 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise

@@ -34,7 +34,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 |  |  |
 |----|----|
-| [News/Server Maintenance: Sept 9](/wiki/News/Server_Maintenance:_Sept_9 "News/Server Maintenance: Sept 9") |  |
+| [News/Server Maintenance: Sept 9](/wiki/News/Server_Maintenance%3A_Sept_9 "News/Server Maintenance: Sept 9") |  |
 
 |  |  |
 |----|----|
