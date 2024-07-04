@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GO Graphic Viewer/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = GO Graphic Viewer \| full_name = \| status =
+\| name = GO Graphic Viewer \| full_name = \| status =
 mature \| dev = inactive \| support = active \| type = Ontology
 Visualization \| platform = linux, os x, unix, win\|platform = linux, os
 x, unix, win\|platform = linux, os x, unix, win\| platform = web \| logo
@@ -90,7 +88,7 @@ package</a>. \| papers = \| presentations = \| tutorials = \| wild_urls
 University \| dev_status = \| contact_email =
 <a href="mailto:sweng@stanford.edu" class="external text"
 rel="nofollow">Shuai Weng</a> \| input = \| output = \| see_also = \|
-demo_server = \| survey_link = \|release date=2003 }}
+demo_server = \| survey_link = \|release date=2003
 
 </div>
 
@@ -129,15 +127,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:GO_Graphic_Viewer/tool_data&amp;action=edit&amp;redlink=1"
@@ -149,7 +144,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -160,10 +155,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -241,10 +232,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GO_Graphic_Viewer-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -256,8 +245,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:38 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:38 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">12,057 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -270,10 +258,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

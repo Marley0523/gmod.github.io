@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GBrowse syn/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = GBrowse_syn \| full_name = Generic Synteny
+\| name = GBrowse_syn \| full_name = Generic Synteny
 Browser \| status = beta release \| dev = active \| support = active \|
 type = Comparative genome visualization \| platform = web \| logo =
 GBrowse_syn_logo.png \| home = \| about = GBrowse_syn, or the Generic
@@ -177,15 +175,16 @@ Resource</a>
 
 \| mail = Support is via the GBrowse mailing list:
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [GBrowse](../GBrowse.1 "GBrowse") & [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"
-class="external text" rel="nofollow">gmod-gbrowse</a> | [GBrowse](../GBrowse.1 "GBrowse") and [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") users and developers. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.gbrowse"
+|                                                                                   |                                                                                                           |                                                                   |            |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+|                                                                                   | Mailing List Link                                                                                         | Description                                                       | Archive(s) |
+| [GBrowse](../GBrowse.1 "GBrowse") & [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"                                       |
+| class="external text" rel="nofollow">gmod-gbrowse</a>                             | [GBrowse](../GBrowse.1 "GBrowse") and [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") users and developers. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.gbrowse" |
+
 class="external text" rel="nofollow">Gmane</a>, <a href="http://gmod.827538.n3.nabble.com/GBrowse-f815907.html"
 class="external text" rel="nofollow">Nabble (2010/05+)</a>, <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"
 class="external text" rel="nofollow">Sourceforge</a> |
-|  | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse-cmts"
+| | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse-cmts"
 class="external text" rel="nofollow">gmod-gbrowse-cmts</a> | Code updates. | <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-gbrowse-cmts"
 class="external text" rel="nofollow">Sourceforge</a> |
@@ -250,7 +249,6 @@ width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 </div>
 
-}}  
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>
@@ -296,15 +294,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
@@ -316,7 +311,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -327,10 +322,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -408,10 +399,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_syn-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -423,8 +412,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:33 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:33 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">28,800 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -437,10 +425,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

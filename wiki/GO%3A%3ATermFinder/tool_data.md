@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GO::TermFinder/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = GO::TermFinder \| full_name = \| status =
+\| name = GO::TermFinder \| full_name = \| status =
 mature \| dev = maintenance \| support = active \| type = Ontology
 Visualization, Gene list analysis \| platform = linux, os x, unix,
 win\|platform = linux, os x, unix, win\| platform = web \| logo = \|
@@ -80,9 +78,7 @@ papers =
 \| contact_email =
 <a href="mailto:gsherloc@stanford.edu" class="external text"
 rel="nofollow">Gavin Sherlock</a> \| input = \| output = \| see_also =
-\| demo_server = \|release date=2003 \| survey_link = }}
-
-  
+\| demo_server = \|release date=2003 \| survey_link =
 
 1.  <span id="cite_note-PMID:15297299"><span class="mw-cite-backlink">[↑](#cite_ref-PMID:15297299_0)</span>
     **Cite error: Invalid `<ref>` tag; no text was provided for refs
@@ -125,15 +121,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:GO%3A%3ATermFinder/tool_data&amp;action=edit&amp;redlink=1"
@@ -145,7 +138,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -156,10 +149,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -237,10 +226,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GO%3A%3ATermFinder-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -252,8 +239,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:48 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:48 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">12,204 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -266,10 +252,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
