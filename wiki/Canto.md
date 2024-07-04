@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Canto</span>
 
 <div id="bodyContent">
@@ -74,7 +72,7 @@ Licence
 <a href="http://opensource.org/" rel="nofollow"><img
 src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
-width="40" height="39" alt="{{{PAGENAME}}} is open source" /></a>
+width="40" height="39" alt="is open source" /></a>
 
 </div>
 
@@ -107,8 +105,6 @@ Interoperable Components
 </div>
 
 - - <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-
-  
 
 </div>
 
@@ -162,18 +158,13 @@ individual paper or in bulk. The JSON data from Canto can be loaded into
 a relational database using the Chado schema (as at PomBase) or
 alternative schemas.
 
-  
 Visit the <a href="http://curation.pombase.org/" class="external text"
 rel="nofollow">Canto website</a>.
-
-  
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
 - <a href="https://github.com/pombase/canto" class="external text"
   rel="nofollow">Download Canto</a>.
-
-  
 
 ## <span id="Using_Canto" class="mw-headline">Using Canto</span>
 
@@ -199,12 +190,12 @@ class="external text" rel="nofollow">PomBase Canto site</a>.
 
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| **Canto** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto"
-class="external text" rel="nofollow">gmod-canto</a> | **Canto** help and general questions. | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto"
-class="external text" rel="nofollow">Sourceforge</a> |
+|                                                      |                                                                   |                                                                   |            |
+| ---------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+|                                                      | Mailing List Link                                                 | Description                                                       | Archive(s) |
+| **Canto**                                            | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto" |
+| class="external text" rel="nofollow">gmod-canto</a>  | **Canto** help and general questions.                             | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto" |
+| class="external text" rel="nofollow">Sourceforge</a> |
 
 ## <span id="Canto_in_the_wild" class="mw-headline">Canto in the wild</span>
 
@@ -216,10 +207,6 @@ Public installations of Canto:
 - <a href="http://curation.pombase.org/pombe" class="external text"
   rel="nofollow">PomBase Canto</a>
   Curate GO annotations for S. pombe
-
-  
-
-  
 
 ## <span id="More_on_Canto" class="mw-headline">More on Canto</span>
 
@@ -567,15 +554,12 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Canto&amp;action=edit&amp;redlink=1"
@@ -587,7 +571,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -598,10 +582,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -677,9 +657,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Canto" rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -691,8 +669,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:11 on 18 April
-  2014.</span>
+- <span id="footer-info-lastmod">Last updated at 23:11 on 18 April 2014.</span>
 <!-- - <span id="footer-info-viewcount">117,661 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -705,10 +682,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">BLAST Graphic Viewer/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = BLAST Graphic Viewer \| full_name = \|
+\| name = BLAST Graphic Viewer \| full_name = \|
 status = mature \| dev = inactive \| support = active \| type = Sequence
 Alignment \| platform = web \| logo = \| home =
 <a href="http://www.yeastgenome.org/cgi-bin/blast-sgd.pl"
@@ -71,7 +69,7 @@ tutorials = \| wild_urls = \| mail = \| logo_info = \| dev_ppl = \|
 dev_status = \| contact_email =
 <a href="mailto:sweng@stanford.edu" class="external text"
 rel="nofollow">Shuai Weng</a> \| input = \| output = \| see_also = \|
-demo_server = \| survey_link = \|release date=2003 }}
+demo_server = \| survey_link = \|release date=2003
 
 </div>
 
@@ -110,15 +108,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:BLAST_Graphic_Viewer/tool_data&amp;action=edit&amp;redlink=1"
@@ -130,7 +125,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -141,10 +136,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -222,10 +213,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BLAST_Graphic_Viewer-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -237,8 +226,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:37 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:37 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">13,451 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -251,10 +239,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

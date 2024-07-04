@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GBrowse Tutorial 2010</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer
+TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
 \| who = [Scott Cain](User%3AScott "User%3AScott") \| when = May 2010 \|
@@ -92,7 +90,7 @@ class="external text" rel="nofollow">end image</a>.
 **Logins**:
 
 | Purpose | Username | Password         |
-|---------|----------|------------------|
+| ------- | -------- | ---------------- |
 | Shell   | gmod     | gmodamericas2010 |
 | MySQL   | root     | gmodamericas2010 |
 
@@ -128,10 +126,6 @@ Which gets all of the prereqs that aren't installed on the machine.
 
 Go to <a href="http://localhost/gbrowse" class="external free"
 rel="nofollow">http://localhost/gbrowse</a>
-
-  
-
-  
 
 ## <span id="Basic_Chado_Configuration_.28if_we_have_time.29" class="mw-headline">Basic <a href="Chado" class="mw-redirect" title="Chado">Chado</a> Configuration (if we have time)</span>
 
@@ -234,15 +228,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Tutorial_2010&amp;action=edit&amp;redlink=1"
@@ -254,7 +245,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -265,10 +256,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -344,10 +331,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -359,8 +344,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 21:38 on 2 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 21:38 on 2 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">16,535 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -373,10 +357,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GBrowse</span>
 
 <div id="bodyContent">
@@ -80,7 +78,7 @@ Licence
 src="/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="/mediawiki/images/thttp://gmod.org/wiki/humb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, /mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39"
-alt="{{{PAGENAME}}} is opehttp://gmod.org/wiki/n source" /></a>
+alt=" is open source" /></a>
 
 </div>
 
@@ -109,8 +107,6 @@ Resources
 
 - <a href="https:/http://gmod.org/github.com/GMOD/GBrowse"
   class="external text" rel="nofollow">Source code</a>
-
-  
 
 </div>
 
@@ -214,11 +210,9 @@ manipulating and displaying annotations on genomes. Features include:
   primers](/wiki/PrimerDesigner.pm "PrimerDesigner.pm"), create
   restriction maps, edit features)
 
-Note that the information on this page refers to GBrowse 2; GBrowse
-1.http://gmod.org/wiki/x is recommended only for applications where
+Note that the information on this page refers to GBrowse 2; GBrowse 1.http://gmod.org/wiki/x is recommended only for applications where
 legacy browser support is required and a single database is used.
 
-  
 Visit the
 <a href="http://gbrowse.http://gmod.org/wiki/org" class="external text"
 rel="nofollow">GBrowse website</a>.
@@ -562,14 +556,13 @@ rel="nofollow">OpenHelix</a>. Tutorial includes slides, handouts and
 exercises. NB: this tutorial is for [GBrowse
 1.x](/wiki/GBrowse_1.x "GBrowse 1.x")
 
-  
-
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| **GBrowse** & [GBrowse_syn](/wiki/GBrowse_syn "GBrowse syn") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"
+|                                                              |                                                                     |             |            |
+| ------------------------------------------------------------ | ------------------------------------------------------------------- | ----------- | ---------- |
+|                                                              | Mailing List Link                                                   | Description | Archive(s) |
+| **GBrowse** & [GBrowse_syn](/wiki/GBrowse_syn "GBrowse syn") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse" |
+
 class="external text"
 rel="http://gmod.org/wiki/&quot;nofollow&quot;">gmod-gbrowse</a> | **GBrowse** and [GBrowse_syn](/wiki/GBrowse_syn "GBrowse syn") users and dehttp://gmod.org/wiki/velopers. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.gbrowse"
 class="external text" rel="nofollow">http://gmod.org/wiki/Gmane</a>, <a href="http://gmod.827538.n3.nabble.com/GBrowse-f815907.html"
@@ -578,7 +571,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse-cmts"
 class="external text" rel="nofollow">gmod-gbrowse-cmts</a> | Code updates. | <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-gbrowse-cmts"
-class="external text" rel="nofollow">Sourceforge</a> |  |
+class="external text" rel="nofollow">Sourceforge</a> | |
 
 Please report bugs to the <a
 href="http://sourceforge.net/tracker/?func=add&amp;group_id=27707&amp;atid=391291SourceForge"
@@ -598,10 +591,6 @@ rel="nofollow">FlyBase</a>
 
 <a href="http://hapmap.ncbi.nlm.nih.gov/cgi-perl/gbrowse/gbrowse"
 class="external text" rel="nofollow">HapMap</a>
-
-  
-
-  
 
 ## <span id="See_also" class="mw-headline">See ahttp://gmod.org/wiki/lso</span>
 
@@ -992,8 +981,6 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 <div ihttp:="" gmod.org="" wiki="" d="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs"
@@ -1001,7 +988,6 @@ role="http://gmod.org/wiki/navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
@@ -1012,7 +998,7 @@ aria-labelledby="p-namespaces-label">
 role="nhttp://gmod.org/wiki/avigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1024,13 +1010,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1111,10 +1091,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -1122,8 +1100,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 16:47 on 10 April
-  2023.</span>
+- <span id="footer-info-lastmod">Last updated at 16:47 on 10 April 2023.</span>
 <!-- - <span id="footer-info-viewcount">1,682,147 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/lichttp://gmod.org/wiki/enses/fdl-1.3.html"
@@ -1136,10 +1113,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

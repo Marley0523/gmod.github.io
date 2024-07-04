@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">CMap/tool data</span>
 
 <div id="bodyContent">
@@ -38,12 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page stores the data that populates the [CMap](../CMap.1 "CMap")
 wiki page.
 
-  
-{{ {{{template}}} \| name = CMap \| full_name = \| status = mature \|
+\| name = CMap \| full_name = \| status = mature \|
 dev = inactive \| support = active \| type = Genome Visualization &
 Editing \| platform = web \| logo = CMapLogo-horiz.png \| home =
 <a href="../CMap.1" class="external free"
@@ -269,14 +265,15 @@ class="external text" rel="nofollow">Tutorial @ Gramene</a>
 
 \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [CMap](../CMap.1 "CMap") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap"
-class="external text" rel="nofollow">gmod-cmap</a> | Discussion of [CMap](../CMap.1 "CMap") development, installation problems, *etc.* | <a href="http://gmod.827538.n3.nabble.com/CMap-f815601.html"
+|                                                    |                                                                                   |                                                              |            |
+| -------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+|                                                    | Mailing List Link                                                                 | Description                                                  | Archive(s) |
+| [CMap](../CMap.1 "CMap")                           | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap"                  |
+| class="external text" rel="nofollow">gmod-cmap</a> | Discussion of [CMap](../CMap.1 "CMap") development, installation problems, _etc._ | <a href="http://gmod.827538.n3.nabble.com/CMap-f815601.html" |
+
 class="external text" rel="nofollow">Nabble (2010/05+)</a>, <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap"
 class="external text" rel="nofollow">Sourceforge</a> |
-|  | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap-commits"
+| | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap-commits"
 class="external text" rel="nofollow">gmod-cmap-commits</a> | Notification of <a href="../SVN" class="mw-redirect" title="SVN">SVN</a> activity for [CMap](../CMap.1 "CMap"). | <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-cmap-commits"
 class="external text" rel="nofollow">Sourceforge</a> |
@@ -294,7 +291,7 @@ several years. Future development at Gramene.org hopes to replace CMap
 with a lighter, Javascript version. \| contact_email = Ken Youens-Clark
 \<kclark@cshl.edu\> \| input = \| output = \| see_also =
 [CMap3D](../CMap3D "CMap3D") \| demo_server = \| survey_link = CMap \|
-release date = 2002 \| more_info = }}  
+release date = 2002 \| more_info =  
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>
@@ -335,15 +332,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:CMap/tool_data&amp;action=edit&amp;redlink=1"
@@ -355,7 +349,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -366,10 +360,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -447,10 +437,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/CMap-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -462,8 +450,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:31 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:31 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">54,577 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -476,10 +463,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
