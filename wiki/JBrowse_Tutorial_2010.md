@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">JBrowse Tutorial 2010</span>
 
 <div id="bodyContent">
@@ -38,8 +36,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
-
 <div class="center">
 
 <div class="floatnone">
@@ -61,11 +57,8 @@ May 2010. The most recent JBrowse tutorial can be found at the
 <a href="JBrowse_Tutorial" class="mw-redirect"
 title="JBrowse Tutorial">JBrowse Tutorial</a> page.
 
-  
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
-
-  
 
 <div id="toc" class="toc">
 
@@ -143,7 +136,7 @@ class="external text" rel="nofollow">end image</a>.
 **Logins**:
 
 | Purpose | Username | Password         |
-|---------|----------|------------------|
+| ------- | -------- | ---------------- |
 | Shell   | gmod     | gmodamericas2010 |
 | MySQL   | root     | gmodamericas2010 |
 
@@ -190,7 +183,7 @@ Optional, for BAM files:
 And this is how they were installed: **(don't do this, this has already
 been done in the VM)**
 
-``` dont
+```dont
 $ sudo apt-get install git-core libpng12-0 libpng12-dev libncurses5-dev
 $ cd ~/Documents/Software
 $ wget http://sourceforge.net/projects/samtools/files/samtools/0.1.7/samtools-0.1.7a.tar.bz2/download
@@ -210,10 +203,6 @@ Shell tricks:
 - Tab completion
 - History
 - History search
-
-  
-  
-  
 
 ## <span id="JBrowse_Introduction" class="mw-headline">JBrowse Introduction</span>
 
@@ -244,7 +233,7 @@ width="600" height="776" alt="Jbrowse arch.png" /></a>
 
 - Git
 
-``` dont
+```dont
 $ sudo apt-get install git-core
 $ cd /var/www
 $ sudo mkdir jbrowse
@@ -277,8 +266,6 @@ steps:
 1.  Specify reference sequences
 2.  Load feature data
 3.  Collect feature names
-
-  
 
 ### <span id="Data_from_a_database" class="mw-headline">Data from a database</span>
 
@@ -320,7 +307,7 @@ all the way in, some sequence)
 #### <span id="Load_Feature_Data" class="mw-headline">Load Feature Data</span>
 
 Next, we'll use `biodb-to-json.pl` to get feature data out of the
-database and turn it into {{GlossaryLink\|JSON\|JSON}\] data that the
+database and turn it into JSON data that the
 web browser can use.
 
 Add a basic track definition; this will tell `biodb-to-json.pl` what
@@ -473,10 +460,6 @@ Now you can process the wiggle file:
 
 Visit in web browser
 
-  
-  
-  
-
 ## <span id="See_also" class="mw-headline">See also</span>
 
 - Documentation: <a href="JBrowseDev/Main" class="mw-redirect"
@@ -527,8 +510,8 @@ Retrieved from
 2010](Special%3ABrowse/JBrowse-20Tutorial-202010 "Special%3ABrowse/JBrowse-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:ExportRDF/JBrowse Tutorial 2010")</span></span>
 
-|  |  |
-|----|----|
+|                                                        |                                                                                                                                                                    |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 </div>
@@ -549,15 +532,12 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse_Tutorial_2010&amp;action=edit&amp;redlink=1"
@@ -569,7 +549,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -580,10 +560,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -659,10 +635,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -674,8 +648,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 22:46 on 3 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 22:46 on 3 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">10,893 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -688,10 +661,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

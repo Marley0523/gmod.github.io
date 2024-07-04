@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">GMOD News</span>
 
 <div id="bodyContent">
@@ -44,6 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 data-widget-id="268391087838728192">Tweets by gmodproject</a>
 
 </div>
+
+this is a snapshot of the news page from right before MW was shutdown.
 
 News that is relevant to the GMOD user and developer communities. This
 page only shows recent news; to see all news items since autumn 2007, go
@@ -1539,8 +1539,8 @@ news tracker on the [home page](Main_Page "Main Page").
 
 Please follow these guidelines when adding a news item.
 
-1.  Create a new page named "**News/***News Item Title*".
-    - Please make *News Item Title* be as short as possible, **and no
+1.  Create a new page named "**News/\***News Item Title\*".
+    - Please make _News Item Title_ be as short as possible, **and no
       more 35 characters at most**.
 2.  Enter the text of your news item.
     - **The first link in the news item should point to the page/URL you
@@ -1552,19 +1552,21 @@ Please follow these guidelines when adding a news item.
 
 <!-- -->
 
-    {{NewsItem|yyyy/mm/dd}}
+     (don't do this--it was for the mediawiki instance)
 
 ### <span id="Longer_Instructions" class="mw-headline">Longer Instructions</span>
 
 Please follow these guidelines when adding a news item.
 
-1.  Create a new page named "**News/***News Item Title*".
-    - Please make *News Item Title* be as short as possible, **and no
+1.  Create a new page named "**News/\***News Item Title\*".
+
+    - Please make _News Item Title_ be as short as possible, **and no
       more 35 characters at most**.
     - The page must start with **News/**, otherwise it won't be picked
       by the RSS news feed.
 
 2.  Enter the text of your news item.
+
     - Make the news item succinct.
     - Do not start the item with a MediaWiki header ("== Header ==").
       - It won't render very well. You should be able to avoid headers
@@ -1586,9 +1588,9 @@ Please follow these guidelines when adding a news item.
 4.  Once you are happy with how the item looks, insert this line at the
     end of it:
 
-        {{NewsItem|yyyy/mm/dd}}
+        No--this was for MW
 
-    Where *yyyy/mm/dd* is the current date. This line will cause it to
+    Where _yyyy/mm/dd_ is the current date. This line will cause it to
     be added to the GMOD News RSS feed. The item will show up in the
     feed within an hour.
 
@@ -1638,15 +1640,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_News&amp;action=edit&amp;redlink=1"
@@ -1658,7 +1657,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1669,10 +1668,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -1748,10 +1743,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_News" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -1763,8 +1756,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 19:40 on 13 December
-  2018.</span>
+- <span id="footer-info-lastmod">Last updated at 19:40 on 13 December 2018.</span>
 <!-- - <span id="footer-info-viewcount">2,097,518 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1777,10 +1769,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

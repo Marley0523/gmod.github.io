@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Galaxy/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = Galaxy \| full_name = \| status = mature \|
+\| name = Galaxy \| full_name = \| status = mature \|
 dev = active \| support = active \| type = Genome Visualization and
 Editing, Workflow Management, Tool Integration, Analysis \| platform =
 web \| logo = GalaxyLogoBigger.png \| home =
@@ -46,14 +44,14 @@ web \| logo = GalaxyLogoBigger.png \| home =
 rel="nofollow">http://galaxyproject.org</a> \| about =
 <a href="http://usegalaxy.org" class="external text"
 rel="nofollow">Galaxy</a> is an open, web-based platform for
-*accessible, reproducible, and transparent* computational biomedical
+_accessible, reproducible, and transparent_ computational biomedical
 research.
 
-- *Accessibility:* Galaxy enables users without programming experience
+- _Accessibility:_ Galaxy enables users without programming experience
   to easily specify parameters and run tools and workflows.
-- *Reproducibility:* Galaxy captures all information necessary so that
+- _Reproducibility:_ Galaxy captures all information necessary so that
   any user can repeat and understand a complete computational analysis.
-- *Transparency:* Galaxy enables users to share and publish analyses via
+- _Transparency:_ Galaxy enables users to share and publish analyses via
   the web and create Pages--interactive, web-based documents that
   describe a complete analysis.
 
@@ -92,7 +90,7 @@ rel="nofollow">Baltimore, Maryland</a>, United States.
 Galaxy Community Conferences are an opportunity to participate in
 presentations, discussions, poster sessions, lightning talks and
 breakouts, all about high-throughput biology and the tools that support
-it.  The conference will also includes a *Training Day* offering
+it.  The conference will also includes a _Training Day_ offering
 in-depth topic coverage, across several concurrent sessions.  See
 <a href="http://wiki.galaxyproject.org/Events/GCC201"
 class="external text" rel="nofollow">the GCC2013 web site</a> for an
@@ -339,7 +337,7 @@ qualsolid sam scf sff snpmatrix snptest tabular taxonomy twobit txt vcf
 velvet wig xml \| output = zillions! \| see_also = \| demo_server =
 <a href="http://usegalaxy.org/" class="external free"
 rel="nofollow">http://usegalaxy.org/</a> \| survey_link = Galaxy \|
-extras = \|release date=2005 }}
+extras = \|release date=2005
 
 </div>
 
@@ -379,15 +377,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy/tool_data&amp;action=edit&amp;redlink=1"
@@ -399,7 +394,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -410,10 +405,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -491,10 +482,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Galaxy-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -506,8 +495,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 00:12 on 3 October
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 00:12 on 3 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">28,014 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -520,10 +508,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -73,7 +73,7 @@ Licence
 <a href="http://opensource.org/" rel="nofollow"><img
 src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
-width="40" height="39" alt="{{{PAGENAME}}} is open source" /></a>
+width="40" height="39" alt="} is open source" /></a>
 
 </div>
 

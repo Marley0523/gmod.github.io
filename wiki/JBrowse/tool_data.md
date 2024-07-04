@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">JBrowse/tool data</span>
 
 <div id="bodyContent">
@@ -38,12 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page stores the data that populates the
 [JBrowse](../JBrowse.1 "JBrowse") wiki page.
 
-  
-{{ {{{template}}} \| name = JBrowse \| full_name = \| contact_email =
+\| name = JBrowse \| full_name = \| contact_email =
 rbuels@gmail.com \| status = mature \| dev = active \| support = active
 \| type = Genome visualization \| platform = web \| logo =
 JBrowseLogo.png \| input = [GFF3](../GFF3 "GFF3"), BED, FASTA, Wiggle,
@@ -244,18 +240,19 @@ rel="nofollow">http://www.tomatogenome.net</a>) using JBrowse
 \| mail = Please direct questions and inquiries regarding JBrowse to the
 mailing lists below.
 
-*Requests for help should be directed to
+_Requests for help should be directed to
 <a href="mailto:gmod-ajax@lists.sourceforge.net" class="external text"
-rel="nofollow">gmod-ajax@lists.sourceforge.net</a>.*
+rel="nofollow">gmod-ajax@lists.sourceforge.net</a>._
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [JBrowse](../JBrowse.1 "JBrowse") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax"
-class="external text" rel="nofollow">gmod-ajax</a> | [JBrowse](../JBrowse.1 "JBrowse") help and general questions. | <a href="http://gmod.827538.n3.nabble.com/JBrowse-Support-f815920.html"
+|                                                    |                                                                  |                                                                         |            |
+| -------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+|                                                    | Mailing List Link                                                | Description                                                             | Archive(s) |
+| [JBrowse](../JBrowse.1 "JBrowse")                  | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax" |
+| class="external text" rel="nofollow">gmod-ajax</a> | [JBrowse](../JBrowse.1 "JBrowse") help and general questions.    | <a href="http://gmod.827538.n3.nabble.com/JBrowse-Support-f815920.html" |
+
 class="external text" rel="nofollow">Nabble</a> (2010/05+), <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax"
 class="external text" rel="nofollow">Sourceforge</a> |
-|  | <a
+| | <a
 href="https://calmail.berkeley.edu/manage/list/listinfo/jbrowse-dev@lists.berkeley.edu"
 class="external text" rel="nofollow">jbrowse-dev</a> | [JBrowse](../JBrowse.1 "JBrowse") development discussions. | <a
 href="http://gmod.827538.n3.nabble.com/JBrowse-Development-f3296666.html"
@@ -357,15 +354,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse/tool_data&amp;action=edit&amp;redlink=1"
@@ -377,7 +371,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -388,10 +382,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -469,10 +459,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowse-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -484,8 +472,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 08:09 on 28 January
-  2014.</span>
+- <span id="footer-info-lastmod">Last updated at 08:09 on 28 January 2014.</span>
 <!-- - <span id="footer-info-viewcount">52,030 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -498,10 +485,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
