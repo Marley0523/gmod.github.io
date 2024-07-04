@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Hackathon wikidb</span>
 
 <div id="bodyContent">
@@ -95,11 +93,11 @@ of common gene page templates for this example.
 
 ### <span id="gene_page_template_.28simple.29" class="mw-headline">gene page template (simple)</span>
 
-    {{{GENE_INFO_TABLE}}}
+    (there was a mediawiki template here)
 
-    ==Notes== 
+    ==Notes==
 
-    ==References== 
+    ==References==
     <references/>
 
 ### <span id="gene_info_table_template" class="mw-headline">gene info table template</span>
@@ -140,7 +138,7 @@ template, per row of data information.
     pagename [tab] page_template [tab] table_template [tab] row_data (wiki-string) [tab] metadata [return]
     sadA \t  gene \t gene_basics \t sadA||EGF repeat-containing 9 transmembrane molecule involved in substrate adhesion.||sadA-like,sadA-by-another-name \t metastring \n
     sadA \t gene \t gene_location \t gene-location-wiki-string \t metastring \n
-    sadA \t gene \t gene_function \t gene-function-value-string \t metastring \n 
+    sadA \t gene \t gene_function \t gene-function-value-string \t metastring \n
     notA \t gene \t gene_basics \t notA||Another gene ...
 
 ### <span id="format_notes" class="mw-headline">format notes</span>
@@ -235,15 +233,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Hackathon_wikidb&amp;action=edit&amp;redlink=1"
@@ -255,7 +250,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -266,10 +261,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -345,10 +336,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Hackathon_wikidb" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -360,8 +349,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 01:23 on 10 December
-  2009.</span>
+- <span id="footer-info-lastmod">Last updated at 01:23 on 10 December 2009.</span>
 <!-- - <span id="footer-info-viewcount">29,522 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -374,10 +362,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
