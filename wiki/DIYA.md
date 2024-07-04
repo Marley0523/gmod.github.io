@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">DIYA</span>
 
 <div id="bodyContent">
@@ -73,7 +71,7 @@ Licence
 <a href="http://opensource.org/" rel="nofollow"><img
 src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
-width="40" height="39" alt="{{{PAGENAME}}} is open source" /></a>
+width="40" height="39" alt=" is open source" /></a>
 
 </div>
 
@@ -101,8 +99,6 @@ Interoperable Components
 </div>
 
 - - [GBrowse](GBrowse.1 "GBrowse")
-
-  
 
 </div>
 
@@ -151,25 +147,14 @@ Stewart](User%3AStewarta "User%3AStewarta"), one of DIYA's developers also
 has plans to convert the DIYA modules into a series of
 [Galaxy](Galaxy.1 "Galaxy") modules.
 
-  
 Visit the
 <a href="https://github.com/bioteam/DIYA" class="external text"
 rel="nofollow">DIYA website</a>.
-
-  
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
 - <a href="https://github.com/bioteam/DIYA" class="external text"
   rel="nofollow">Download DIYA</a>.
-
-  
-
-  
-
-  
-
-  
 
 ## <span id="Publications.2C_Tutorials.2C_and_Presentations" class="mw-headline">Publications, Tutorials, and Presentations</span>
 
@@ -178,24 +163,16 @@ rel="nofollow">DIYA website</a>.
 DIYA: a bacterial annotation pipeline for any genomics lab.
 <sup>[\[1\]](#cite_note-PMID:19254921-1)</sup>
 
-  
-
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| **DIYA** | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-pub-l"
-class="external text" rel="nofollow">diyg-pub-l</a> | **DIYA** general discussion and support. | <a href="http://gmod.827538.n3.nabble.com/DIYA-f835548.html"
-class="external text" rel="nofollow">Nabble</a> (2010/05+) |
-|  | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-dev-l"
-class="external text" rel="nofollow">diyg-dev-l</a> | **DIYA** developer discussion. |  |
-
-  
-
-  
-
-  
+|                                                            |                                                                     |                                                              |            |
+| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+|                                                            | Mailing List Link                                                   | Description                                                  | Archive(s) |
+| **DIYA**                                                   | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-pub-l" |
+| class="external text" rel="nofollow">diyg-pub-l</a>        | **DIYA** general discussion and support.                            | <a href="http://gmod.827538.n3.nabble.com/DIYA-f835548.html" |
+| class="external text" rel="nofollow">Nabble</a> (2010/05+) |
+|                                                            | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-dev-l" |
+| class="external text" rel="nofollow">diyg-dev-l</a>        | **DIYA** developer discussion.                                      |                                                              |
 
 ## <span id="More_on_DIYA" class="mw-headline">More on DIYA</span>
 
@@ -482,15 +459,12 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:DIYA&amp;action=edit&amp;redlink=1"
@@ -502,7 +476,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -513,10 +487,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -592,9 +562,7 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/DIYA" rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -606,8 +574,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 14:58 on 17 October
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 14:58 on 17 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">211,361 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -620,10 +587,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

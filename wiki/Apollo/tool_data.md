@@ -43,7 +43,7 @@ This page stores the data that populates the
 [Apollo](../Apollo.1 "Apollo") wiki page.
 
   
-{{ {{{template}}} \| name = Apollo \| full_name = \| status = mature \|
+\| name = Apollo \| full_name = \| status = mature \|
 dev = inactive \| support = active \| platform = linux, os x, unix, win
 \| logo = ApolloLogo.png \| home =
 <a href="http://apollo.berkeleybop.org/" class="external free"
@@ -176,7 +176,7 @@ the focus has shifted to [WebApollo](../WebApollo.1 "WebApollo"), a
 web-based version of the tool.
 
 \| contact_email = \| input = \| output = \| see_also = \| demo_server =
-\|release date=2002 \| survey_link = Apollo }}  
+\|release date=2002 \| survey_link = Apollo   
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>

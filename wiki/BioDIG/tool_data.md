@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">BioDIG/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = BioDIG \| full_name = Biological Database of
+\| name = BioDIG \| full_name = Biological Database of
 Images and Genomes \| status = alpha release \| dev = active \| support
 = active \| type = Community Annotation, Database schema, Database
 (Chado) web front ends, Database tools, Genome Visualization and
@@ -79,7 +77,7 @@ Swaminathan\]; \[idoerg@gmail.com Iddo Friedberg\] \| input = GFF3;
 common image formats \| output = \| see_also = \| demo_server =
 <a href="http://mydig.biodig.org" class="external free"
 rel="nofollow">http://mydig.biodig.org</a> \| survey_link = \|release
-date=2013 }}
+date=2013
 
 </div>
 
@@ -108,15 +106,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:BioDIG/tool_data&amp;action=edit&amp;redlink=1"
@@ -128,7 +123,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -139,10 +134,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -220,10 +211,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BioDIG-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -235,8 +224,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 19:05 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 19:05 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">12,135 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -249,10 +237,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

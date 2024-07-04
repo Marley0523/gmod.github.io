@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">CMap</span>
 
 <div id="bodyContent">
@@ -42,8 +40,6 @@ Jump to: [navigation](#mw-navigation),
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en"
 dir="http://gmod.org/wiki/ltr">
-
-  
 
 <div class="center">
 
@@ -83,7 +79,7 @@ Licence
 rel="nofollow"><img
 src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="/mediawiki/images/thumb/6/66/Osi_shttp://gmod.org/wiki/ymbol.png/60px-Osi_symbol.png 1.5x, /mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
-width="40" height="39" alt="{{{PAGENAME}}} is open source" /></a>
+width="40" height="39" alt=" is open source" /></a>
 
 </div>
 
@@ -114,8 +110,6 @@ Resources
 
 - <a href="http://www.gramene.orhttp://gmod.org/wiki/g/db/cmap"
   class="external text" rel="nofollow">Demo server</a>
-
-  
 
 </div>
 
@@ -277,8 +271,6 @@ width="131" height="120" alt="Cmap sample3.jpg" /></a>
   <a href="http://www.cpan.org/" class="external text"
   rel="nofollow">Chttp://gmod.org/wiki/PAN</a>
 
-  
-
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
 - <a href="http://www.gramene.org/tutorials/cmap.html"
@@ -393,7 +385,7 @@ Archive(s)
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmap"
 class="external text" rel="nofollow">gmod-cmap</a>
 
-Discussion of **CMap** development, installation problems, *etc.*
+Discussion of **CMap** development, installation problems, _etc._
 
 <a href="http://gmod.827538.n3.nabble.com/CMap-f815601.html"
 class="external text" rel="nofollow">Nabble (2010/05+)</a>,
@@ -630,9 +622,9 @@ rel="nofollow">http://cricket.ornl.gov/cgi-bin/cmap/map_set_info</a>
 A browser-based tool for the visual comparison of various maps
 (sequence, genetic, etc.) from any number of species. The CMap package
 also includes tools for curating map data.
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMap-20package-20also-20includes-20tools-20for-20curating-20map-20data. "Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMaphttp://gmod.org/wiki/-20package-20also-20includes-20tools-20for-20curating-20map-20data.")</span>,
+<span class="smwsearch">[+](</wiki/Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMap-20package-20also-20includes-20tools-20for-20curating-20map-20data.> "Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMaphttp://gmod.org/wiki/-20package-20also-20includes-20tools-20for-20curating-20map-20data.")</span>,
 Comparative mapping resource for grasses (plant)
-<span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20description/Comparative-20mapping-20resource-20for-20grasses-20(plant) "Special%3ASearchByProperty/Has-20description/Comparative-20mapping-20resource-20for-20grasses-20(plant)")</span>,
+<span class="smwsearch">[+](</wiki/Special%3ASearchByProperty/Has-20description/Comparative-20mapping-20resource-20for-20grasses-20(plant)> "Special%3ASearchByProperty/Has-20description/Comparative-20mapping-20resource-20for-20grasses-20(plant)")</span>,
 A publicly accessible legume resource that will integrate genetic and
 molecular data from multiple legume species and enable cross-species
 comparisons
@@ -834,8 +826,6 @@ and
 
 http://gmod.org/wiki/
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" role="navigation" clahttp:="" gmod.org="" wiki=""
@@ -855,7 +845,7 @@ ss="vectorTabs" aria-labelledby="p-namespaces-label">
 <div id="p-variants" role="navigation" clashttp:="" gmod.org="" wiki=""
 s="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -866,10 +856,6 @@ s="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 http://gmod.org/wiki/
 
@@ -973,7 +959,6 @@ role="navigation" aria-labelledby="p-tb-label">
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/CMap" rel="smw-browse">Browse
   properties</a></span>
 
-
 </div>
 
 </div>
@@ -984,8 +969,7 @@ role="navigation" aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 23:40 on 17 October
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 23:40 on 17 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">692,728 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.hhttp://gmod.org/wiki/tml"
@@ -998,11 +982,6 @@ role="navigation" aria-labelledby="p-tb-label">
   GMOD](/wikihttp://gmod.org/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
 

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Category%3ATool data</span>
 
 <div id="bodyContent">
@@ -50,11 +48,10 @@ text followed by equals sign.
 
 Sample of data arrangement:
 
-    {{ {{{template}}}
     | name = MAT
     | full_name = My Awesome Tool
     | status = beta
-    | dl = 
+    | dl =
     My Awesome Tool (MAT) is currently in beta,
     so it is not available for download yet.
 
@@ -63,7 +60,6 @@ Sample of data arrangement:
       svn co http://svn.nonsense.com/source/mat/
 
     | doc = [http://nonsense.com/mat.html MAT documentation]
-    }}
 
 <div lang="en" dir="ltr">
 
@@ -213,8 +209,6 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -234,7 +228,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -245,10 +239,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -324,10 +314,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ATool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -339,8 +327,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 01:15 on 13 February
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 01:15 on 13 February 2013.</span>
 <!-- - <span id="footer-info-viewcount">10,820 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -353,10 +340,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
