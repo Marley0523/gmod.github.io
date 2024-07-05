@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below up to **50** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -138,8 +134,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  This is the <span class="searchmatch">GMOD</span> Developer's Guide.
-  \*
+  This is the <span class="searchmatch">GMOD</span> Developer's Guide. \*
   \$GMOD_HOME=\<b\>/usr/local/<span class="searchmatch">gmod</span>/\</b\>
   (default -- set before installing)
 
@@ -353,7 +348,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Insertional Mutagenesis Database
-  (IMDB)](/wiki/Insertional_Mutagenesis_Database_(IMDB) "Insertional Mutagenesis Database (IMDB)")
+  (IMDB)](</wiki/Insertional_Mutagenesis_Database_(IMDB)> "Insertional Mutagenesis Database (IMDB)")
 
   </div>
 
@@ -539,8 +534,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  <span class="searchmatch">GMOD</span> Generic Model Organism Database
-  \*
+  <span class="searchmatch">GMOD</span> Generic Model Organism Database \*
   \[\[Media:Biocyc-<span class="searchmatch">GMOD</span>-2006.ppt\|Biocyc-<span class="searchmatch">GMOD</span>-2006.ppt\]\]
 
   </div>
@@ -1092,7 +1086,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 
   \| where = 2010 <span class="searchmatch">GMOD</span> Summer School -
   Americas ...\] database, Chado being the database
-  {{GlossaryLink\|Schema\|schema}} of the
+  schema of the
   <span class="searchmatch">GMOD</span> project. This session introduces
   database concepts, provides an overview of
 
@@ -1215,8 +1209,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Tools_using_GMOD>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1232,7 +1224,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1244,13 +1236,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1350,10 +1336,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

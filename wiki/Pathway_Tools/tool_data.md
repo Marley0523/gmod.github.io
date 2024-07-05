@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Pathway Tools/tool data</span>
 
 <div id="bodyContent">
@@ -38,13 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page contains the data that populates the [Pathway
 Tools](../Pathway_Tools.1 "Pathway Tools") page.
 
-  
-
-{{ {{{template}}} \| name = Pathway Tools \| full_name = \| status =
+\| name = Pathway Tools \| full_name = \| status =
 mature \| dev = active \| support = active \| type = Community
 Annotation, Comparative Genome Visualization , Database schema, Database
 tools, Gene Expression Visualization, Genome Visualization & Editing,
@@ -140,10 +135,10 @@ rel="nofollow">E. coli PGDB</a>, as well as
 <a href="http://biocyc.org/otherpgdbs.shtml" class="external text"
 rel="nofollow">a list of PGDBs hosted elsewhere</a>. \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") | ptools-users@ai.sri.com | [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") users list. To subscribe to this list, send a request to ptools-support@ai.sri.com. | *None* |
+|                                                     |                         |                                                                                                                                         |            |
+| --------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+|                                                     | Mailing List Link       | Description                                                                                                                             | Archive(s) |
+| [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") | ptools-users@ai.sri.com | [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") users list. To subscribe to this list, send a request to ptools-support@ai.sri.com. | _None_     |
 
 \| logo_info = \| dev_ppl = Pathway Tools was developed by
 <a href="http://www.ai.sri.com/pkarp/" class="external text"
@@ -160,7 +155,7 @@ Genbank format; SBML; BioPAX \| see_also = See the
 <a href="http://biocyc.org/samples.shtml" class="external text"
 rel="nofollow">samples section</a> of the BioCyc website for details of
 the types of data that are stored in a PGDB. \| demo_server = \|
-survey_link = Pathway_Tools \|release date=1999 }}  
+survey_link = Pathway_Tools \|release date=1999  
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>
@@ -201,15 +196,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Pathway_Tools/tool_data&amp;action=edit&amp;redlink=1"
@@ -221,7 +213,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -232,10 +224,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -313,10 +301,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Pathway_Tools-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -328,8 +314,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:32 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:32 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">28,596 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -342,10 +327,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

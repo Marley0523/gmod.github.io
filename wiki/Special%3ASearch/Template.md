@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -56,8 +54,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 </div>
 
-
-
 </div>
 
 <div class="searchresults">
@@ -94,8 +90,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  \<!-- {{<span class="searchmatch">Template</span>:Organisations}} --\>
 
   </div>
 
@@ -229,8 +223,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{ {{{<span class="searchmatch">template</span>}}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -246,10 +238,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  {{ :Pathway_Tools/tool_data \|
-  <span class="searchmatch">template</span> =
-  <span class="searchmatch">Template</span>:ToolDisplay }}
 
   </div>
 
@@ -306,9 +294,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{ :XORT/tool_data \| <span class="searchmatch">template</span> =
-  <span class="searchmatch">Template</span>:ToolDisplay }}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -326,8 +311,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{ {{{<span class="searchmatch">template</span>}}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -343,10 +326,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  \| {{:Apollo/tool_data \| <span class="searchmatch">template</span> =
-  DownloadLink }} \| {{:BLAST Graphic Viewer/tool_data \|
-  <span class="searchmatch">template</span> = DownloadLink }}
 
   </div>
 
@@ -589,8 +568,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{<span class="searchmatch">Template</span>:AMI Summer School day 5}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -729,11 +706,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  Point your browser to
-  \<tt\>\<nowiki\>http://\</nowiki\>{{<span class="searchmatch">Template</span>:AWSurl}}/WebApolloDemo\</tt\>.\<br/\>
-  ...out our installation. Point your browser to
-  \<tt\>\<nowiki\>http://\</nowiki\>{{<span class="searchmatch">Template</span>:AWSurl}}/WebApollo\</tt\>\<br/\>
-
   </div>
 
   <div class="mw-search-result-data">
@@ -792,9 +764,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  {{ :GBrowse_syn/tool_data \| <span class="searchmatch">template</span>
-  = <span class="searchmatch">Template</span>:ToolDisplay }}
 
   </div>
 
@@ -913,9 +882,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{<span class="searchmatch">Template</span>:2009SummerSchoolSystemOptions}}
-  {{<span class="searchmatch">Template</span>:2008GMODSummerSchoolFeedback‎}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -933,8 +899,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{<span class="searchmatch">Template</span>:VMwareOptions}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -950,8 +914,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  {{ {{{<span class="searchmatch">template</span>}}}
 
   </div>
 
@@ -1028,8 +990,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  {{<span class="searchmatch">Template</span>:2008GMODSummerSchoolFeedback}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -1098,8 +1058,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Template>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1115,7 +1073,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1127,13 +1085,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1233,10 +1185,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

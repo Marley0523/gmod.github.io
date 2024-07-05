@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Talk:Hackathon 2007 info</span>
 
 <div id="bodyContent">
@@ -74,9 +72,9 @@ hackathon help on --18:00, 26 July 2007 (EDT)
   We would like to have Wiki tables populated from Chado (this is
   relatively easy) and Chado data updated or created from the wiki. The
   hard part is probably resolving edit conflicts.
-  *Since you are mostly dealing with textual information, maybe this
+  _Since you are mostly dealing with textual information, maybe this
   isn't too much of a problem; just let everything in. If people put in
-  conflicting information, let the community sort it out.*
+  conflicting information, let the community sort it out._
   [Scott](User%3AScott "User%3AScott") 10:09, 27 July 2007 (EDT)
 - TableEdit IntraWiki Interaction
   Two or more tables in a wiki could be interconnected so that updating
@@ -95,7 +93,7 @@ hackathon help on --18:00, 26 July 2007 (EDT)
 - Displaying Category intersections, unions, and disjoints.
 - Displaying more levels of the Category DAG
 - Allow user-defined filtering of Category members
-- {{:Category%3AAJAX\|AJAX\]\] (buiid on
+- AJAX (buiid on
   <a href="http://www.mediawiki.org/wiki/Extension:CategoryTree"
   class="external text">this</a>?)
 
@@ -106,9 +104,9 @@ hackathon help on --18:00, 26 July 2007 (EDT)
   <a href="http://mediawiki.org" class="external text">MediaWiki</a>
   plus needed code patches and extensions to be a "GMOD wiki"?
 
-*Perhaps, but unless it's easy, I wouldn't make this a priority for the
+_Perhaps, but unless it's easy, I wouldn't make this a priority for the
 hackathon. I'm hoping to leave the hackathon with a working VMware
-appliance that already has MW installed.*
+appliance that already has MW installed._
 [Scott](User%3AScott "User%3AScott") 10:11, 27 July 2007 (EDT)
 
 - Could this include an update installer?
@@ -148,15 +146,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="Talk%3AHackathon_2007_info" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
@@ -166,7 +161,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -177,10 +172,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -256,9 +247,6 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
-
-
 </div>
 
 </div>
@@ -269,8 +257,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 01:04 on 10 December
-  2009.</span>
+- <span id="footer-info-lastmod">Last updated at 01:04 on 10 December 2009.</span>
 <!-- - <span id="footer-info-viewcount">13,304 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -283,10 +270,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below up to **50** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -231,7 +227,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [GBrowse (DasI)
-  Presentation](/wiki/GBrowse_(DasI)_Presentation "GBrowse (DasI) Presentation")
+  Presentation](</wiki/GBrowse_(DasI)_Presentation> "GBrowse (DasI) Presentation")
 
   </div>
 
@@ -296,12 +292,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...and GMOD\]\] for more discussion.) Once you've installed your RDBMS
-  you can <span class="searchmatch">install</span> Chado. \* Follow the
-  instructions in the
-  {{CVS\|schema/chado/<span class="searchmatch">INSTALL</span>.Chado}}
-  file
-
   </div>
 
   <div class="mw-search-result-data">
@@ -358,9 +348,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  \|<span class="searchmatch">install</span>= \*
-  {{SF_SVN\|cmap/trunk/<span class="searchmatch">INSTALL</span>.pod\|<span class="searchmatch">INSTALL</span>.pod}}
 
   </div>
 
@@ -582,10 +569,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...uctions}}\</nowiki\>\</tt\> \|\|
-  {{SF_SVN\|schema/trunk/chado/<span class="searchmatch">INSTALL</span>.Chado\|Chado
-  <span class="searchmatch">install</span> instructions}}
-
   </div>
 
   <div class="mw-search-result-data">
@@ -733,7 +716,7 @@ wiki!** See also the search results found.
   <div class="searchresult">
 
   \* <span class="searchmatch">Install</span>
-  \[\[Chado\_-\_Getting_Started\|Chado\]\] ...ware, and there is an
+  \[\[Chado\_-_Getting_Started\|Chado\]\] ...ware, and there is an
   option to \<code\>make install_sample\</code\> that will
   <span class="searchmatch">install</span> the Dictyostelium Genome
 
@@ -837,10 +820,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  ...ite code using {{CPAN\|Class::DBI}} classes that are created at the
-  time of <span class="searchmatch">install</span>. For more information
-  on using these classes, see \[\[Modware\]\] for a {{CPAN
 
   </div>
 
@@ -1010,12 +989,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  This \[\[:Category%3ATutorials\|tutorial\]\] walks you through how to
-  <span class="searchmatch">install</span> and configure a \[\[Chado\]\]
-  database, Chado being the database {{GlossaryLink ...switch to the
-  postgres user (it was created during the PostgreSQL package
-  <span class="searchmatch">install</span>):
 
   </div>
 
@@ -1303,8 +1276,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Install>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1320,7 +1291,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1332,13 +1303,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1438,10 +1403,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">MAKER/tool data</span>
 
 <div id="bodyContent">
@@ -38,12 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page stores the data that populates the [MAKER](../MAKER.1 "MAKER")
 wiki page.
 
-  
-{{ {{{template}}} \| name = MAKER \| full_name = \| status = mature \|
+\| name = MAKER \| full_name = \| status = mature \|
 dev = active \| support = active \| type = Genome Annotation \| platform
 = linux, os x, unix \| logo = MAKERLogo.png \| home =
 <a href="http://www.yandell-lab.org/software/maker.html"
@@ -51,10 +47,10 @@ class="external free"
 rel="nofollow">http://www.yandell-lab.org/software/maker.html</a> \|
 about = MAKER is a portable and easy to configure genome
 [annotation](../Category%3AAnnotation "Category%3AAnnotation") pipeline.
-MAKER allows smaller *eukaryotic* genome projects and *prokaryotic*
+MAKER allows smaller _eukaryotic_ genome projects and _prokaryotic_
 genome projects to annotate their genomes and to create genome
 databases. MAKER identifies repeats, aligns ESTs and proteins to a
-genome, produces *ab initio* gene predictions and automatically
+genome, produces _ab initio_ gene predictions and automatically
 synthesizes these data into gene annotations with evidence-based quality
 values. MAKER is also easily trainable: outputs of preliminary runs can
 be used to automatically retrain its gene prediction algorithm,
@@ -189,7 +185,7 @@ more information.
 The MAKER genome annotation pipeline generates several different types
 of annotations, including
 
-- *Ab initio* gene predictions from SNAP, Augustus, FGENESH, and
+- _Ab initio_ gene predictions from SNAP, Augustus, FGENESH, and
   GeneMark
 - Final gene models from MAKER
 - EST alignments from both EXONERATE and BLASTN
@@ -220,10 +216,11 @@ School](../2013_GMOD_Summer_School "2013 GMOD Summer School")
 
 \| wild_urls = \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [MAKER](../MAKER.1 "MAKER") | <a
+|                             |                   |             |            |
+| --------------------------- | ----------------- | ----------- | ---------- |
+|                             | Mailing List Link | Description | Archive(s) |
+| [MAKER](../MAKER.1 "MAKER") | <a                |
+
 href="http://box290.bluehost.com/mailman/listinfo/maker-devel_yandell-lab.org"
 class="external text" rel="nofollow">maker-devel</a> | [MAKER](../MAKER.1 "MAKER") developers and users list. | <a href="http://groups.google.com/group/maker-devel?lnk=srg"
 class="external text" rel="nofollow">Google</a>, <a href="http://gmod.827538.n3.nabble.com/MAKER-f815929.html"
@@ -261,7 +258,7 @@ but switching soon to:
 <a href="http://weatherby.genetics.utah.edu/cgi-bin/mwas/maker.cgi"
 class="external free"
 rel="nofollow">http://weatherby.genetics.utah.edu/cgi-bin/mwas/maker.cgi</a>
-\| survey_link = MAKER \|release date=2008 \| extras = }}  
+\| survey_link = MAKER \|release date=2008 \| extras =  
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>
@@ -302,15 +299,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:MAKER/tool_data&amp;action=edit&amp;redlink=1"
@@ -322,7 +316,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -333,10 +327,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -414,10 +404,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/MAKER-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -429,8 +417,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:29 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:29 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">26,050 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -443,10 +430,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

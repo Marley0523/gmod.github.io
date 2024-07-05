@@ -458,7 +458,7 @@ Edit the configuration file: gedit thingy.conf</p>
 <pre><code>gedit thingy.conf</code></pre></td>
 <td><p><br />
 Edit the configuration file: gedit thingy.conf
-{{TextEditorLink|gedit}}</p>
+TextEditorLink|gedit</p>
 <hr />
 <p>Edit the configuration file:</p>
 <pre><code>gedit thingy.conf</code></pre>
@@ -694,7 +694,7 @@ numerous lines. For example:
     Some more wikitext here
 
     [[Site Guidelines|A link to another page]]
-    | tag = {{Include A Template}}
+    | tag = Include A Template
 
 The `tool_data` pages essentially act as a data store, and the page
 [Template:ToolDisplay](Template:ToolDisplay "Template:ToolDisplay")

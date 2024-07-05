@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below up to **50** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -677,7 +673,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Tripal Tutorial (pre version
-  0.3b)](/wiki/Tripal_Tutorial_(pre_version_0.3b) "Tripal Tutorial (pre version 0.3b)")
+  0.3b)](</wiki/Tripal_Tutorial_(pre_version_0.3b)> "Tripal Tutorial (pre version 0.3b)")
 
   </div>
 
@@ -753,7 +749,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Tripal Tutorial
-  (v0.3.1b)](/wiki/Tripal_Tutorial_(v0.3.1b) "Tripal Tutorial (v0.3.1b)")
+  (v0.3.1b)](</wiki/Tripal_Tutorial_(v0.3.1b)> "Tripal Tutorial (v0.3.1b)")
 
   </div>
 
@@ -825,7 +821,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Tripal Tutorial (v0.3.1b
-  VM)](/wiki/Tripal_Tutorial_(v0.3.1b_VM) "Tripal Tutorial (v0.3.1b VM)")
+  VM)](</wiki/Tripal_Tutorial_(v0.3.1b_VM)> "Tripal Tutorial (v0.3.1b VM)")
 
   </div>
 
@@ -866,7 +862,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Tripal Tutorial
-  (v1.0)](/wiki/Tripal_Tutorial_(v1.0) "Tripal Tutorial (v1.0)")
+  (v1.0)](</wiki/Tripal_Tutorial_(v1.0)> "Tripal Tutorial (v1.0)")
 
   </div>
 
@@ -1236,12 +1232,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...s relies heavily on the {{GBrowseAdminTutorialLink\| GBrowse
-  Administration <span class="searchmatch">Tutorial</span>}}. ;
-  \[\[GBrowse <span class="searchmatch">Tutorial</span> 2010\|GBrowse
-  <span class="searchmatch">tutorial</span> from 2010 GMOD Summer
-  School\]\]
-
   </div>
 
   <div class="mw-search-result-data">
@@ -1484,11 +1474,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  The images from most 2009
-  \[\[:Category%3ATutorials\|<span class="searchmatch">Tutorial</span>\]\]
-  pages include a basic ''{{GlossaryLink\|GUI\|graphical user
-  interface}}'' c
 
   </div>
 
@@ -1770,11 +1755,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  See the {{GBrowseAdminTutorialLink\|GBrowse Administration
-  <span class="searchmatch">Tutorial</span>}} for more details. See the
-  {{GBrowseAdminTutorialLink\|<span class="searchmatch">tutorial</span>}}
-  for more details.
-
   </div>
 
   <div class="mw-search-result-data">
@@ -1924,10 +1904,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  ...gured as normal (see the {{GBrowseAdminTutorialLink\|GBrowse
-  Administration <span class="searchmatch">Tutorial</span>}} and the
-  \[\[GBrowse Configuration HOWTO\]\] for details)
 
   </div>
 
@@ -2230,8 +2206,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Tutorial>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -2247,7 +2221,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -2259,13 +2233,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -2365,10 +2333,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">WebApollo/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = WebApollo \| full_name = \| status = mature
+\| name = WebApollo \| full_name = \| status = mature
 \| dev = active \| support = active \| type = Community annotation \|
 platform = web \| logo = WebApolloLogo.png \| home = \| about =
 WebApollo is a browser-based tool for visualisation and editing of
@@ -78,8 +76,8 @@ The features of WebApollo include:
 
 The public demo can be accessed at:
 <a href="http://genomearchitect.org/WebApolloDemo" class="external free"
-rel="nofollow">http://genomearchitect.org/WebApolloDemo</a> (*Bos
-taurus* genome).
+rel="nofollow">http://genomearchitect.org/WebApolloDemo</a> (_Bos
+taurus_ genome).
 
 \| screenshot = \| public_server = \| dl = \| dl_url =
 <a href="http://genomearchitect.org/webapollo/releases/"
@@ -258,15 +256,16 @@ School](../2013_GMOD_Summer_School "2013 GMOD Summer School")
 
 \| wild_urls = \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") | <a href="https://lists.lbl.gov/sympa/info/apollo" class="external text"
-rel="nofollow">apollo</a> | [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") mailing list | <a href="http://dir.gmane.org/gmane.science.biology.gmod.apollo"
+|                                                                            |                                                                                         |                                                                  |            |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+|                                                                            | Mailing List Link                                                                       | Description                                                      | Archive(s) |
+| [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") | <a href="https://lists.lbl.gov/sympa/info/apollo" class="external text"                 |
+| rel="nofollow">apollo</a>                                                  | [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") mailing list | <a href="http://dir.gmane.org/gmane.science.biology.gmod.apollo" |
+
 class="external text" rel="nofollow">Gmane</a> (2008/04-2010/10), <a href="http://gmod.827538.n3.nabble.com/Apollo-f815553.html"
 class="external text" rel="nofollow">Nabble</a> (2010/05+) |
-|  | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-apollo-cmts"
-class="external text" rel="nofollow">gmod-apollo-cmts</a> | [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") code updates. |  |
+| | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-apollo-cmts"
+class="external text" rel="nofollow">gmod-apollo-cmts</a> | [Apollo](../Apollo.1 "Apollo") and [WebApollo](../WebApollo.1 "WebApollo") code updates. | |
 
 \| logo_info = The [WebApollo
 logo](../File:ApolloLogo.png "File:ApolloLogo.png") was created by
@@ -299,8 +298,7 @@ Skinner](../User%3AMitchSkinner "User%3AMitchSkinner") (UC Berkeley)
 (Emeritus).
 
 \| dev_status = \| contact_email = elee@berkeleybop.org \| input = GFF3,
-BigWig, BAM \| output = GFF3, others \| see_also = \| demo_server =
-\*<a href="http://genomearchitect.org:8080/WebApolloDemo/"
+BigWig, BAM \| output = GFF3, others \| see_also = \| demo_server = \*<a href="http://genomearchitect.org:8080/WebApolloDemo/"
 class="external text" rel="nofollow">Demo (Bos taurus genome)</a> \|
 survey_link = \|release date=2012 \| extras =
 
@@ -324,8 +322,6 @@ width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 </div>
 
 </div>
-
-}}
 
 </div>
 
@@ -371,15 +367,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:WebApollo/tool_data&amp;action=edit&amp;redlink=1"
@@ -391,7 +384,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -402,10 +395,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -483,10 +472,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/WebApollo-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -498,8 +485,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 20:34 on 15 October
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 20:34 on 15 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">52,058 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -512,10 +498,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
