@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://galaxyproject.org/wiki/News/Galaxy%20is%20Hiring"
 rel="nofollow" title="Galaxy Project is hiring"><img
-src="../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/170px-GalaxyLogoBigger.png"
-srcset="../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/255px-GalaxyLogoBigger.png 1.5x, ../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/340px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/170px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/255px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/340px-GalaxyLogoBigger.png 2x"
 width="170" height="60" alt="Galaxy Project is hiring" /></a>
 
 </div>
@@ -57,7 +57,7 @@ State and Emory University groups.
 
 <a href="../File:PennState.gif" class="image"
 title="Galaxy is hiring"><img
-src="../../mediawiki/images/8/83/PennState.gif" width="121" height="70"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/PennState.gif" width="121" height="70"
 alt="Galaxy is hiring" /></a>
 
 </div>
@@ -91,7 +91,7 @@ rel="nofollow">jobs@galaxyproject.org</a>.
 
 <a href="http://bx.mathcs.emory.edu/joining/" rel="nofollow"
 title="Openings at Emory University"><img
-src="../../mediawiki/images/7/7a/EmoryLogoSmall.gif" width="70"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/EmoryLogoSmall.gif" width="70"
 height="70" alt="Openings at Emory University" /></a>
 
 </div>

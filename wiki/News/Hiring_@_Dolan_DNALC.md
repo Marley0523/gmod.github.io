@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.cshl.edu/hr/jobs.html" rel="nofollow"
 title="Opening @ Dolan DNA Learning Center, job ID 934"><img
-src="../../mediawiki/images/b/b6/DolanDNALCLogo.jpg" width="104"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/DolanDNALCLogo.jpg" width="104"
 height="150"
 alt="Opening @ Dolan DNA Learning Center, job ID 934" /></a>
 

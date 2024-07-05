@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.mybayerjob.com/en" rel="nofollow"
 title="Open positions at Bayer CropScience"><img
-src="../../mediawiki/images/7/7e/Logo_BayerCropScience.gif" width="241"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/Logo_BayerCropScience.gif" width="241"
 height="43" alt="Open positions at Bayer CropScience" /></a>
 
 </div>

@@ -60,7 +60,7 @@ with a hackathon on April 24 and 25. From the meeting website:
 
 <a href="http://gensc.org/gc_wiki/index.php/GSC_15" rel="nofollow"
 title="Genomic Standards Council"><img
-src="../../mediawiki/images/6/6c/Gsc-standard.png" width="309"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/Gsc-standard.png" width="309"
 height="72" alt="Genomic Standards Council" /></a>
 
 </div>

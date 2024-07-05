@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/GalaxyIsHiring"
 rel="nofollow"><img
-src="../../mediawiki/images/a/a6/GalaxyIsHiringWordCloud.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/GalaxyIsHiringWordCloud.png"
 width="300" height="200" alt="GalaxyIsHiringWordCloud.png" /></a>
 
 </div>

@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://www.isb-sib.ch/about-sib/jobs/details/91-sib-bioinformatician-at-sib--unil.html"
 rel="nofollow" title="Fourmidable opening"><img
-src="../../mediawiki/images/7/70/Sib_logo.gif" width="199" height="106"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Sib_logo.gif" width="199" height="106"
 alt="Fourmidable opening" /></a>
 
 </div>

@@ -77,9 +77,9 @@ Resources
 <div class="thumbinner" style="width:302px;">
 
 <a href="../File:Ergatis_monitor.png" class="image"><img
-src="../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, ../../mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
 width="300" height="169" /></a>
 
 <div class="thumbcaption">
@@ -134,9 +134,9 @@ vaginalis*.
 <div class="thumbinner" style="width:302px;">
 
 <a href="../File:Ergatis_builder.png" class="image"><img
-src="../../mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, ../../mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
 width="300" height="351" /></a>
 
 <div class="thumbcaption">

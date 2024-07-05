@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/0/06/TripalLogo.png/170px-TripalLogo.png"
-srcset="../../mediawiki/images/thumb/0/06/TripalLogo.png/255px-TripalLogo.png 1.5x, ../../mediawiki/images/thumb/0/06/TripalLogo.png/340px-TripalLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/170px-TripalLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/255px-TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/340px-TripalLogo.png 2x"
 width="170" height="51" alt="Tripal v0.3.1b released" />](../Tripal.1 "Tripal v0.3.1b released")
 
 </div>

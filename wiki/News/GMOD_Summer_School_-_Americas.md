@@ -66,7 +66,7 @@ Components](../GMOD_Components "GMOD Components") will be covered:
 <div class="floatnone">
 <a href="../2010_GMOD_Summer_School_-_Americas"
 title="GMOD Summer School"><img
-src="../../mediawiki/images/0/0b/2010SummerSchoolAmericas170.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/2010SummerSchoolAmericas170.png"
 width="170" height="124" alt="GMOD Summer School" /></a>
 </div>
 </div>

@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/120px-Gmod-2013-mtg-alt.png"
-srcset="../../mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/180px-Gmod-2013-mtg-alt.png 1.5x, ../../mediawiki/images/0/0b/Gmod-2013-mtg-alt.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/120px-Gmod-2013-mtg-alt.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/180px-Gmod-2013-mtg-alt.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Gmod-2013-mtg-alt.png 2x"
 width="120" height="120" alt="Gmod-2013-mtg-alt.png" />](../April_2013_GMOD_Meeting "April 2013 GMOD Meeting")
 
 </div>

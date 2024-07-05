@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="../File:Gmod-2013-mtg-alt.png" class="image"><img
-src="../../mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/150px-Gmod-2013-mtg-alt.png"
-srcset="../../mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/225px-Gmod-2013-mtg-alt.png 1.5x, ../../mediawiki/images/0/0b/Gmod-2013-mtg-alt.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/150px-Gmod-2013-mtg-alt.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Gmod-2013-mtg-alt.png/225px-Gmod-2013-mtg-alt.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Gmod-2013-mtg-alt.png 2x"
 width="150" height="150" alt="Gmod-2013-mtg-alt.png" /></a>
 
 </div>

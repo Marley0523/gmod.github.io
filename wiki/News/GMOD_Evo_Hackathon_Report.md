@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/170px-EvoHackLaptops2010.jpg"
-srcset="../../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/255px-EvoHackLaptops2010.jpg 1.5x, ../../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/340px-EvoHackLaptops2010.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/170px-EvoHackLaptops2010.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/255px-EvoHackLaptops2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/340px-EvoHackLaptops2010.jpg 2x"
 width="170" height="101" alt="GMOD Evo Hackathon" />](../GMOD_Evo_Hackathon "GMOD Evo Hackathon")
 
 </div>

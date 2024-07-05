@@ -49,7 +49,7 @@ rel="nofollow">Gramene</a> projects are both hiring.
 
 <a href="http://blog.modencode.org/" rel="nofollow"
 title="modENCODE Project Openings"><img
-src="../../mediawiki/images/3/35/ModENCODE_logo.png" width="151"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/ModENCODE_logo.png" width="151"
 height="148" alt="modENCODE Project Openings" /></a>
 
 </div>
@@ -94,7 +94,7 @@ some details on how they are used.)
 
 <a href="http://news.gramene.org/" rel="nofollow"
 title="Grameene Project Opening"><img
-src="../../mediawiki/images/5/59/Gramene_logo180.jpg" width="180"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Gramene_logo180.jpg" width="180"
 height="58" alt="Grameene Project Opening" /></a>
 
 </div>

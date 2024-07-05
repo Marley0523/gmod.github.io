@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a href="http://webapps.qmul.ac.uk/hr/vacancies/jobs.php?id=2042"
 rel="nofollow"
 title="Bioinformatician and Pancreatic Expression Database"><img
-src="../../mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/180px-CancerResearchUKLogo.jpg"
-srcset="../../mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/270px-CancerResearchUKLogo.jpg 1.5x, ../../mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/360px-CancerResearchUKLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/180px-CancerResearchUKLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/270px-CancerResearchUKLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/21/CancerResearchUKLogo.jpg/360px-CancerResearchUKLogo.jpg 2x"
 width="180" height="54"
 alt="Bioinformatician and Pancreatic Expression Database" /></a>
 

@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/180px-GMOD2010Europe300.png"
-srcset="../../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/270px-GMOD2010Europe300.png 1.5x, ../../mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/180px-GMOD2010Europe300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/270px-GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="180" height="154"
 alt="Community Annotation Satellite Meeting Report" />](../Community_Annotation_-_September_2010_Satellite "Community Annotation Satellite Meeting Report")
 

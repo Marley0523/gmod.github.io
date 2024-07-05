@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://conferences.mongueurs.net/yn2010/" rel="nofollow"
 title="YAPC: NA 2010"><img
-src="../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/220px-Yapc2010Logo.png"
-srcset="../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/330px-Yapc2010Logo.png 1.5x, ../../mediawiki/images/thumb/7/72/Yapc2010Logo.png/440px-Yapc2010Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Yapc2010Logo.png/220px-Yapc2010Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Yapc2010Logo.png/330px-Yapc2010Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Yapc2010Logo.png/440px-Yapc2010Logo.png 2x"
 width="220" height="39" alt="YAPC: NA 2010" /></a>
 
 </div>

@@ -63,8 +63,8 @@ which covered all of GMOD.
 
 <a href="http://www.cafepress.com/GenericMOD/" rel="nofollow"
 title="GMOD Mug"><img
-src="../../mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
-srcset="../../mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, ../../mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
 width="100" height="100" alt="GMOD Mug" /></a> And, finally, we have our
 3 winners of
 <a href="http://www.cafepress.com/GenericMOD/" class="external text"

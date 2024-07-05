@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatleft">
 
-[<img src="../../mediawiki/images/2/26/Calendar_icon.gif" width="36"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Calendar_icon.gif" width="36"
 height="35" alt="GMOD Calendar" />](../Calendar "GMOD Calendar")
 
 </div>

@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/events/GCC2013" rel="nofollow"
 title="2013 Galaxy Community Conference"><img
-src="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/300px-GCC2013Logo.png"
-srcset="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/450px-GCC2013Logo.png 1.5x, ../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/600px-GCC2013Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/300px-GCC2013Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/450px-GCC2013Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/600px-GCC2013Logo.png 2x"
 width="300" height="200" alt="2013 Galaxy Community Conference" /></a>
 
 </div>
@@ -83,8 +83,8 @@ high-throughput biological research, then please consider attending.
 <a href="http://galaxyproject.org/events/GCC2013/TrainingDay"
 rel="nofollow"
 title="2013 Galaxy Community Conference (GCC2013) Training Day"><img
-src="../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/200px-GCC2013TrainingDayLogo.png"
-srcset="../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/300px-GCC2013TrainingDayLogo.png 1.5x, ../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/400px-GCC2013TrainingDayLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/200px-GCC2013TrainingDayLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/300px-GCC2013TrainingDayLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/400px-GCC2013TrainingDayLogo.png 2x"
 width="200" height="102"
 alt="2013 Galaxy Community Conference (GCC2013) Training Day" /></a>
 

@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://galaxy.psu.edu/gcc2011/" rel="nofollow"
 title="Galaxy Community Conference Abstracts Due February 28"><img
-src="../../mediawiki/images/thumb/a/a5/GCC2011Logo.png/300px-GCC2011Logo.png"
-srcset="../../mediawiki/images/thumb/a/a5/GCC2011Logo.png/450px-GCC2011Logo.png 1.5x, ../../mediawiki/images/thumb/a/a5/GCC2011Logo.png/600px-GCC2011Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/300px-GCC2011Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/450px-GCC2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/600px-GCC2011Logo.png 2x"
 width="300" height="154"
 alt="Galaxy Community Conference Abstracts Due February 28" /></a>
 

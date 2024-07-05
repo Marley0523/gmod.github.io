@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2014" rel="nofollow"
 title="2014 Galaxy Community Conference"><img
-src="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/250px-GCC2014Logo.png"
-srcset="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png 1.5x, ../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/250px-GCC2014Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png 2x"
 width="250" height="105" alt="2014 Galaxy Community Conference" /></a>
 
 </div>

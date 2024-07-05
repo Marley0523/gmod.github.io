@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://recruit.trovix.com/jobhostmaster/jobhost/ListJobPosts.do?action=search&amp;searchSectionActive=false&amp;accountId=de85ad313f8598db1c42b567a3df24a00497ba22&amp;searchCategory=1424&amp;searchStatus=226&amp;searchKeywords=Scientific+Application+Programmer"
 rel="nofollow" title="Scientific Application Programmers at SGD"><img
-src="../../mediawiki/images/8/8f/SGD-t.gif" width="91" height="60"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/SGD-t.gif" width="91" height="60"
 alt="Scientific Application Programmers at SGD" /></a>
 
 </div>

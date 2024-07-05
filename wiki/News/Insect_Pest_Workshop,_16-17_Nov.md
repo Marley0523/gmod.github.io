@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://colloque.inra.fr/isyip" rel="nofollow"
 title="Information Systems for Insect Pests"><img
-src="../../mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/400px-InformationSystemsForInsectPests.gif"
-srcset="../../mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/600px-InformationSystemsForInsectPests.gif 1.5x, ../../mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/800px-InformationSystemsForInsectPests.gif 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/400px-InformationSystemsForInsectPests.gif"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/600px-InformationSystemsForInsectPests.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/800px-InformationSystemsForInsectPests.gif 2x"
 width="400" height="43"
 alt="Information Systems for Insect Pests" /></a>
 

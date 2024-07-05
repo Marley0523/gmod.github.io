@@ -43,11 +43,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |
 |----|----|
 | <a href="../File:GMODMug150x150.jpg" class="image" title="GMOD Mug"><img
-src="../../mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
-srcset="../../mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, ../../mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
 width="100" height="100" alt="GMOD Mug" /></a> | <a href="../File:TShirtThumb.jpg" class="image"
 title="GMOD T Shirt"><img
-src="../../mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
 height="150" alt="GMOD T Shirt" /></a> |
 
 </div>

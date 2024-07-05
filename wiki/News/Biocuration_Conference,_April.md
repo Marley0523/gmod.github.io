@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://projects.eml.org/sdbv/events/BiocurationMeeting/index.html"
 rel="nofollow" title="3rd International Biocuration Conference"><img
-src="../../mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/400px-2009BiocurationLogo.jpg"
-srcset="../../mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/600px-2009BiocurationLogo.jpg 1.5x, ../../mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/800px-2009BiocurationLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/400px-2009BiocurationLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/600px-2009BiocurationLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/28/2009BiocurationLogo.jpg/800px-2009BiocurationLogo.jpg 2x"
 width="400" height="87"
 alt="3rd International Biocuration Conference" /></a>
 

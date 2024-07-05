@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:Logo-mendeley.png" class="image"
 title="Mendeley logo"><img
-src="../../mediawiki/images/7/78/Logo-mendeley.png" width="345"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/Logo-mendeley.png" width="345"
 height="81" alt="Mendeley logo" /></a>
 
 </div>

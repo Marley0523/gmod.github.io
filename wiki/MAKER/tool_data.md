@@ -89,7 +89,7 @@ directory in the download. \| screenshot =
 <div class="thumbinner" style="width:502px;">
 
 <a href="../File:MAKER_Apollo_view.jpg" class="image"><img
-src="../../mediawiki/images/f/fb/MAKER_Apollo_view.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg"
 class="thumbimage" width="500" height="301" /></a>
 
 <div class="thumbcaption">

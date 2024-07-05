@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.cafepress.com/GenericMOD/" rel="nofollow"
 title="GMOD Mug"><img
-src="../../mediawiki/images/b/b3/GMODMug150x150.jpg" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg" width="150"
 height="150" alt="GMOD Mug" /></a>
 
 </div>
@@ -51,7 +51,7 @@ height="150" alt="GMOD Mug" /></a>
 
 <a href="http://www.cafepress.com/GenericMOD/" rel="nofollow"
 title="GMOD T Shirt"><img
-src="../../mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
 height="150" alt="GMOD T Shirt" /></a>
 
 </div>

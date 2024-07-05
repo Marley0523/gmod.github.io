@@ -43,9 +43,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |  |  |  |
 |----|----|----|
 | [<img
-src="../../mediawiki/images/thumb/0/0e/Cvs_logo.gif/70px-Cvs_logo.gif"
-srcset="../../mediawiki/images/0/0e/Cvs_logo.gif 1.5x, ../../mediawiki/images/0/0e/Cvs_logo.gif 2x"
-width="70" height="54" alt="CVS" />](../CVS_to_Subversion_Conversion "CVS") | <span style="font-size: 200%; font-weight: bold">⇒</span> | [<img src="../../mediawiki/images/9/9c/Subversion_logo.jpg" width="73"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0e/Cvs_logo.gif/70px-Cvs_logo.gif"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Cvs_logo.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Cvs_logo.gif 2x"
+width="70" height="54" alt="CVS" />](../CVS_to_Subversion_Conversion "CVS") | <span style="font-size: 200%; font-weight: bold">⇒</span> | [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Subversion_logo.jpg" width="73"
 height="52" alt="Subversion" />](../CVS_to_Subversion_Conversion "Subversion") |
 
 </div>

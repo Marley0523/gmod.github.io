@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://isga.cgb.indiana.edu/" rel="nofollow"
 title="ISGA at the Center for Genomics and Bioinformatics"><img
-src="../../mediawiki/images/5/52/ISGAHomePageThumb.png" width="202"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/ISGAHomePageThumb.png" width="202"
 height="143"
 alt="ISGA at the Center for Genomics and Bioinformatics" /></a>
 

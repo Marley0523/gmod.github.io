@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.bioinformatics.org/franklin/" rel="nofollow"
 title="Don Gilbert Nominated for Benjamin Franklin Award"><img
-src="../../mediawiki/images/thumb/6/62/BioinformaticsOrganization.png/140px-BioinformaticsOrganization.png"
-srcset="../../mediawiki/images/thumb/6/62/BioinformaticsOrganization.png/210px-BioinformaticsOrganization.png 1.5x, ../../mediawiki/images/6/62/BioinformaticsOrganization.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/BioinformaticsOrganization.png/140px-BioinformaticsOrganization.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/BioinformaticsOrganization.png/210px-BioinformaticsOrganization.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/BioinformaticsOrganization.png 2x"
 width="140" height="36"
 alt="Don Gilbert Nominated for Benjamin Franklin Award" /></a>
 

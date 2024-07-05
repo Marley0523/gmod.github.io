@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://meetings.cshl.edu/meetings/meetingsregistration_galaxy10.asp"
 rel="nofollow" title="Galaxy Developer Conference"><img
-src="../../mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
 height="25" alt="Galaxy Developer Conference" /></a>
 
 </div>
@@ -53,7 +53,7 @@ height="25" alt="Galaxy Developer Conference" /></a>
 <a
 href="http://meetings.cshl.edu/meetings/meetingsregistration_galaxy10.asp"
 rel="nofollow" title="Galaxy Developer Conference"><img
-src="../../mediawiki/images/2/24/CSHL_Logo75x75.gif" width="75"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/CSHL_Logo75x75.gif" width="75"
 height="75" alt="Galaxy Developer Conference" /></a>
 
 </div>

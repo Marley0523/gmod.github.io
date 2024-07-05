@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/5/52/ISGAHomePageThumb.png" width="202"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/ISGAHomePageThumb.png" width="202"
 height="143" alt="ISGA" />](../ISGA "ISGA")
 
 </div>

@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/e/e3/ModwareLogo.png/200px-ModwareLogo.png"
-srcset="../../mediawiki/images/thumb/e/e3/ModwareLogo.png/300px-ModwareLogo.png 1.5x, ../../mediawiki/images/e/e3/ModwareLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/ModwareLogo.png/200px-ModwareLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/ModwareLogo.png/300px-ModwareLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/ModwareLogo.png 2x"
 width="200" height="106" alt="Modware Middleware" />](../Modware "Modware Middleware")
 
 </div>

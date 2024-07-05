@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://biocurator.org/" rel="nofollow"
 title="International Society for Biocuration"><img
-src="../../mediawiki/images/2/26/ISBLogo.png" width="113" height="106"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/ISBLogo.png" width="113" height="106"
 alt="International Society for Biocuration" /></a>
 
 </div>

@@ -90,11 +90,11 @@ title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajourna
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F12537571">PMID:12537571</span>
   <sup>[\[2\]](#cite_note-PMID:12537571-2)</sup>
-  <a href="../../mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf"
   class="internal" title="Gb-2002-3-12-research0082.pdf">PDF</a>
 
 \| presentations = \*
-<a href="../../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation at ParameciumDB</a> - [Linda
 Sperling's](../User%3ASperling "User%3ASperling") presentation on
@@ -103,17 +103,17 @@ Annotation](../Category%3ACommunity_Annotation "Category%3ACommunity Annotation"
 process at the [November 2007 GMOD
 Meeting](../November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
-- <a href="../../mediawiki/images/4/4c/Apollo.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Apollo.ppt" class="internal"
   title="Apollo.ppt">Progress Report</a> - from [May 2005 GMOD
   Meeting](../May_2005_GMOD_Meeting "May 2005 GMOD Meeting")
-- <a href="../../mediawiki/images/c/cb/Harris_040527.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Harris_040527.ppt" class="internal"
   title="Harris 040527.ppt">Future Plans</a> - from [April 2004 GMOD
   Meeting](../April_2004_GMOD_Meeting "April 2004 GMOD Meeting")
-- <a href="../../mediawiki/images/e/ed/Apollo.GMOD.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Apollo.GMOD.ppt" class="internal"
   title="Apollo.GMOD.ppt">Progress Report</a> - from [September 2003
   GMOD
   Meeting](../September_2003_GMOD_Meeting "September 2003 GMOD Meeting")
-- <a href="../../mediawiki/images/a/a4/Apollo.GMOD.May2003.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Apollo.GMOD.May2003.ppt"
   class="internal" title="Apollo.GMOD.May2003.ppt">Progress Report</a> -
   from [May 2003 GMOD
   Meeting](../May_2003_GMOD_Meeting "May 2003 GMOD Meeting")

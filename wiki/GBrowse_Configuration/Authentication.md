@@ -351,7 +351,7 @@ their account settings.
 <div class="thumbinner" style="width:439px;">
 
 <a href="../File:Gbrowse_login.png" class="image"><img
-src="../../mediawiki/images/5/50/Gbrowse_login.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_login.png" class="thumbimage"
 width="437" height="262" alt="Gbrowse login.png" /></a>
 
 <div class="thumbcaption">

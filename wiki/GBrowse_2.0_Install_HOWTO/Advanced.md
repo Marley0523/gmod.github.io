@@ -445,9 +445,9 @@ shown in the illustration below.
 <div class="thumbinner" style="width:252px;">
 
 <a href="../File:Editing_track_config2.png" class="image"><img
-src="../../mediawiki/images/thumb/3/34/Editing_track_config2.png/250px-Editing_track_config2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/250px-Editing_track_config2.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/3/34/Editing_track_config2.png/375px-Editing_track_config2.png 1.5x, ../../mediawiki/images/thumb/3/34/Editing_track_config2.png/500px-Editing_track_config2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/375px-Editing_track_config2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/500px-Editing_track_config2.png 2x"
 width="250" height="170" /></a>
 
 <div class="thumbcaption">
@@ -462,7 +462,7 @@ height="11" /></a>
 </div>
 
 editing_track_config2.png\]
-<a href="../../mediawiki/images/3/34/Editing_track_config2.png"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/Editing_track_config2.png"
 class="internal" title="Editing track config2.png">View at full
 resolution</a>
 

@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:SanDiegoConvention.gif" class="image"
 title="January in San Diego - think about that"><img
-src="../../mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
 height="97" alt="January in San Diego - think about that" /></a>
 
 </div>

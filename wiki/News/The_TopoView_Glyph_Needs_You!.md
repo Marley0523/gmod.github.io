@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/7/71/TopoViewThumb.png" width="190"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/TopoViewThumb.png" width="190"
 height="123" alt="TopoView from FlyBase" />](../File:Flybase_topoview.pdf "TopoView from FlyBase")
 
 </div>
@@ -53,7 +53,7 @@ of quantitative data in limited screen space. TopoView does this with a
 previous data set. It was developed to display RNA-Seq data.
 
 [Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
-<a href="../../mediawiki/images/3/3a/Flybase_topoview.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf"
 class="internal" title="Flybase topoview.pdf">presented</a> TopoView at
 the [January 2010 GMOD
 Meeting](../January_2010_GMOD_Meeting "January 2010 GMOD Meeting"), and

@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://bitbucket.org/galaxy/galaxy-central/wiki/job_rc2"
 rel="nofollow" title="Galaxy Project Hiring"><img
-src="../../mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
 height="25" alt="Galaxy Project Hiring" /></a>
 
 </div>

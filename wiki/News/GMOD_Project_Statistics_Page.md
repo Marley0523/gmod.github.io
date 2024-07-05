@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/350px-GMOD.orgMonthlyVisitorsChart.png"
-srcset="../../mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/525px-GMOD.orgMonthlyVisitorsChart.png 1.5x, ../../mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/700px-GMOD.orgMonthlyVisitorsChart.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/350px-GMOD.orgMonthlyVisitorsChart.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/525px-GMOD.orgMonthlyVisitorsChart.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/700px-GMOD.orgMonthlyVisitorsChart.png 2x"
 width="350" height="169" alt="GMOD Project Statistics Page" />](../Project_Statistics "GMOD Project Statistics Page")
 
 </div>

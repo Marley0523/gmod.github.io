@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.aniseed.cnrs.fr/" rel="nofollow"
 title="ANISEED seeking interns to work on Chado"><img
-src="../../mediawiki/images/thumb/2/27/ANISEEDImage.jpg/150px-ANISEEDImage.jpg"
-srcset="../../mediawiki/images/thumb/2/27/ANISEEDImage.jpg/225px-ANISEEDImage.jpg 1.5x, ../../mediawiki/images/thumb/2/27/ANISEEDImage.jpg/300px-ANISEEDImage.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/ANISEEDImage.jpg/150px-ANISEEDImage.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/ANISEEDImage.jpg/225px-ANISEEDImage.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/ANISEEDImage.jpg/300px-ANISEEDImage.jpg 2x"
 width="150" height="175"
 alt="ANISEED seeking interns to work on Chado" /></a>
 

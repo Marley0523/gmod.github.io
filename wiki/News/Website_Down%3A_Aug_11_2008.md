@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatleft">
 
 <a href="../File:WorkInProgressTools.gif" class="image"><img
-src="../../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
 height="48" alt="WorkInProgressTools.gif" /></a>
 
 </div>

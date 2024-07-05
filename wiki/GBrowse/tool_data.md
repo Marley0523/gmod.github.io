@@ -85,9 +85,9 @@ required and a single database is used.
 <div class="thumbinner" style="width:502px;">
 
 <a href="../File:GBrowse_screenshot1.png" class="image"><img
-src="../../mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/500px-GBrowse_screenshot1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/500px-GBrowse_screenshot1.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, ../../mediawiki/images/1/10/GBrowse_screenshot1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png 2x"
 width="500" height="345" /></a>
 
 <div class="thumbcaption">
@@ -104,7 +104,7 @@ height="11" /></a>
 GBrowse running on
 <a href="http://hapmap.ncbi.nlm.nih.gov/downloads/index.html"
 class="external text" rel="nofollow">HapMap.org</a>
-<a href="../../mediawiki/images/1/10/GBrowse_screenshot1.png"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png"
 class="internal" title="GBrowse screenshot1.png">Click to view at full
 resolution</a>
 
@@ -246,7 +246,7 @@ GBrowse 2.x pod documents can also be viewed online at CPAN:
 - The [generic genome browser (GBrowse)](../GBrowse.1 "GBrowse"): a
   building block for a model organism system database.
   <sup>[\[8\]](#cite_note-PMID:12368253-8)</sup>
-  <a href="../../mediawiki/images/e/e7/1599-1.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/1599-1.pdf" class="internal"
   title="1599-1.pdf">PDF</a>
 
 \| presentations = \| tutorials =
@@ -362,8 +362,8 @@ Included in
 <div class="floatnone">
 
 [<img
-src="../../mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
-srcset="../../mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, ../../mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 </div>

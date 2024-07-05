@@ -101,7 +101,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:752px;">
 
 <a href="../File:Fly_12pt_spen.png" class="image"><img
-src="../../mediawiki/images/6/61/Fly_12pt_spen.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/Fly_12pt_spen.png" class="thumbimage"
 width="750" height="258" /></a>
 
 <div class="thumbcaption">
@@ -370,7 +370,7 @@ the following trim functions are recognized:
 
 The two images below represent various diplay and loading configurations
 at high and low magnification for the same set of
-<a href="../../mediawiki/images/1/19/Fly_sample.txt" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/Fly_sample.txt" class="internal"
 title="Fly sample.txt">sample data</a> (Affymetrix tiling data for fly).
 
 **Note:** The example data used here have an extremely wide range in
@@ -385,7 +385,7 @@ lost in the middle range.
   array element being represented as 1bp in width
 
 <a href="../File:DisplayOptions2.png" class="image"><img
-src="../../mediawiki/images/7/76/DisplayOptions2.png" width="850"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/DisplayOptions2.png" width="850"
 height="242" alt="DisplayOptions2.png" /></a>
 
   
@@ -395,7 +395,7 @@ height="242" alt="DisplayOptions2.png" /></a>
   resolution
 
 <a href="../File:DisplayOptions1.png" class="image"><img
-src="../../mediawiki/images/9/9c/DisplayOptions1.png" width="826"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/DisplayOptions1.png" width="826"
 height="239" alt="DisplayOptions1.png" /></a>
 
 ##### <span id="Smoothing" class="mw-headline">Smoothing</span>
@@ -406,12 +406,12 @@ blending the transitions between scores within a set number of pixels.
 The examples below demonstrate smoothing at a resolution of 10px:
 
 <a href="../File:Smooth_low.png" class="image"><img
-src="../../mediawiki/images/b/b9/Smooth_low.png" width="851" height="97"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b9/Smooth_low.png" width="851" height="97"
 alt="Smooth low.png" /></a>
 
   
 <a href="../File:Smooth_high.png" class="image"><img
-src="../../mediawiki/images/c/ca/Smooth_high.png" width="836"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Smooth_high.png" width="836"
 height="94" alt="Smooth high.png" /></a>
 
 ### <span id="Quantitative_Data_Examples:_C._elegans_Tiling_Arrays" class="mw-headline">Quantitative Data Examples: *C. elegans* Tiling Arrays</span>
@@ -420,7 +420,7 @@ height="94" alt="Smooth high.png" /></a>
 
 - This is an example of *C. elegans* tiling array data in BED format
   <span class="pops">
-  <a href="../../mediawiki/images/d/d9/PolyA_I_sample_bed.txt"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d9/PolyA_I_sample_bed.txt"
   class="internal" title="PolyA I sample bed.txt">(Click here to view the
   file)</a></span>.
 - The first few lines of the example file
@@ -443,7 +443,7 @@ height="94" alt="Smooth high.png" /></a>
 - The file looks lihe this when uploaded to the modENCODE genome browser
 
 <a href="../File:Worm_bed.png" class="image"><img
-src="../../mediawiki/images/b/b7/Worm_bed.png" width="931" height="266"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/Worm_bed.png" width="931" height="266"
 alt="Worm bed.png" /></a>
 
 - **Try it yourself:** <span class="pops"><a
@@ -456,7 +456,7 @@ alt="Worm bed.png" /></a>
 
 - This is an example of *C. elegans* tiling array data in variable step
   wiggle format
-  <span class="pops"><a href="../../mediawiki/images/9/9c/PolyA_I_sample_wig.txt"
+  <span class="pops"><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/PolyA_I_sample_wig.txt"
   class="internal" title="PolyA I sample wig.txt">(Click here to view the
   file)</a></span>.
 - The first few lines of the example file:
@@ -481,7 +481,7 @@ alt="Worm bed.png" /></a>
   genome browser
 
 <a href="../File:Worm_wiggle.png" class="image"><img
-src="../../mediawiki/images/4/47/Worm_wiggle.png" width="922"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/Worm_wiggle.png" width="922"
 height="260" alt="Worm wiggle.png" /></a>
 
 ## <span id="Uploading_the_tracks" class="mw-headline">Uploading the tracks</span>
@@ -498,7 +498,7 @@ In the image below, there are three ways to upload your data:
     entry form.
 
 <a href="../File:Uploader.png" class="image"><img
-src="../../mediawiki/images/5/55/Uploader.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Uploader.png" class="thumbborder"
 width="1254" height="123" alt="Uploader.png" /></a>
 
   

@@ -50,7 +50,7 @@ rel="nofollow">Registration</a> is now open for this workshop.
 
 <a href="http://brg.ai.sri.com/ptools09/" rel="nofollow"
 title="Pathway Tools Workshop"><img
-src="../../mediawiki/images/6/60/SRILogo.png" width="128" height="91"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/SRILogo.png" width="128" height="91"
 alt="Pathway Tools Workshop" /></a>
 
 </div>

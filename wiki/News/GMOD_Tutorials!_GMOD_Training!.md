@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../Training_and_Outreach#Online_Tutorials" rel="nofollow"
 title="Summer School - Europe"><img
-src="../../mediawiki/images/thumb/b/b5/GMOD2009Europe170.png/120px-GMOD2009Europe170.png"
-srcset="../../mediawiki/images/b/b5/GMOD2009Europe170.png 1.5x, ../../mediawiki/images/b/b5/GMOD2009Europe170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GMOD2009Europe170.png/120px-GMOD2009Europe170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 2x"
 width="120" height="102" alt="Summer School - Europe" /></a>
 
 </div>
@@ -52,8 +52,8 @@ width="120" height="102" alt="Summer School - Europe" /></a>
 
 <a href="../Training_and_Outreach#Online_Tutorials" rel="nofollow"
 title="Summer School - Americas"><img
-src="../../mediawiki/images/thumb/2/2d/2009SummerSchoolAmericas170.png/120px-2009SummerSchoolAmericas170.png"
-srcset="../../mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 1.5x, ../../mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/2009SummerSchoolAmericas170.png/120px-2009SummerSchoolAmericas170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 2x"
 width="120" height="97" alt="Summer School - Americas" /></a>
 
 </div>

@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/250px-Soc-logo-google-blue.jpg"
-srcset="../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/375px-Soc-logo-google-blue.jpg 1.5x, ../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/500px-Soc-logo-google-blue.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/250px-Soc-logo-google-blue.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/375px-Soc-logo-google-blue.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/500px-Soc-logo-google-blue.jpg 2x"
 width="250" height="133" alt="Soc-logo-google-blue.jpg" />](../GSoC "GSoC")
 
 </div>

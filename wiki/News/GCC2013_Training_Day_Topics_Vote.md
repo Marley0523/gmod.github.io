@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2013/TrainingDay"
 rel="nofollow"><img
-src="../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/180px-GCC2013TrainingDayLogo.png"
-srcset="../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/270px-GCC2013TrainingDayLogo.png 1.5x, ../../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/360px-GCC2013TrainingDayLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/180px-GCC2013TrainingDayLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/270px-GCC2013TrainingDayLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/360px-GCC2013TrainingDayLogo.png 2x"
 width="180" height="92" alt="GCC2013TrainingDayLogo.png" /></a>
 
 </div>
@@ -52,8 +52,8 @@ width="180" height="92" alt="GCC2013TrainingDayLogo.png" /></a>
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2013"
 rel="nofollow"><img
-src="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/170px-GCC2013Logo.png"
-srcset="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/255px-GCC2013Logo.png 1.5x, ../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/340px-GCC2013Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/170px-GCC2013Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/255px-GCC2013Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/340px-GCC2013Logo.png 2x"
 width="170" height="113" alt="GCC2013Logo.png" /></a>
 
 </div>

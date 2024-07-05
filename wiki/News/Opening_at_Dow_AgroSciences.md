@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.dowagro.com/" rel="nofollow"
 title="Dow AgroSciences"><img
-src="../../mediawiki/images/0/0c/Dow_AgroSciences_logo.gif" width="290"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0c/Dow_AgroSciences_logo.gif" width="290"
 height="91" alt="Dow AgroSciences" /></a>
 
 </div>

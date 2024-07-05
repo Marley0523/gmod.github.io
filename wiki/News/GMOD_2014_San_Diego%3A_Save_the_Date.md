@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatleft">
 
 <a href="../File:2014-gmod-san-diego.png" class="image"><img
-src="../../mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/300px-2014-gmod-san-diego.png"
-srcset="../../mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/450px-2014-gmod-san-diego.png 1.5x, ../../mediawiki/images/e/e1/2014-gmod-san-diego.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/300px-2014-gmod-san-diego.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/450px-2014-gmod-san-diego.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/2014-gmod-san-diego.png 2x"
 width="300" height="188" alt="2014-gmod-san-diego.png" /></a>
 
 </div>

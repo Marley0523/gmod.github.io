@@ -51,8 +51,8 @@ There will be GMOD workshops at two major conferences in June 2009:
 <td><a
 href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
 rel="nofollow" title="SMBE 2009"><img
-src="../../mediawiki/images/thumb/f/ff/SMBE2009Corn.png/120px-SMBE2009Corn.png"
-srcset="../../mediawiki/images/thumb/f/ff/SMBE2009Corn.png/180px-SMBE2009Corn.png 1.5x, ../../mediawiki/images/f/ff/SMBE2009Corn.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/SMBE2009Corn.png/120px-SMBE2009Corn.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/SMBE2009Corn.png/180px-SMBE2009Corn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/SMBE2009Corn.png 2x"
 width="120" height="78" alt="SMBE 2009" /></a></td>
 <td><strong><a href="http://ccg.biology.uiowa.edu/smbe/"
 class="external text" rel="nofollow">Annual Meeting of the Society for
@@ -85,8 +85,8 @@ is necessary.</p></td>
 <tr class="even">
 <td><a href="http://www.k-state.edu/agc/symp2009/seminar.html"
 rel="nofollow" title="Arthropod Genomics Symposium"><img
-src="../../mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
-srcset="../../mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, ../../mediawiki/images/c/c1/AGSBug170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/AGSBug170.png 2x"
 width="100" height="108" alt="Arthropod Genomics Symposium" /></a></td>
 <td><strong><a href="http://www.k-state.edu/agc/symp2009/"
 class="external text" rel="nofollow">3rd Annual Arthropod Genomics

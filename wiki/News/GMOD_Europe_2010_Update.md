@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
-srcset="../../mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, ../../mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="200" height="171" alt="GMOD Europe 2010" />](../GMOD_Europe_2010 "GMOD Europe 2010")
 
 </div>

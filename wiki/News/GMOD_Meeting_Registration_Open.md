@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/3/3e/Jan2009MtgLogoNoText.png"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/Jan2009MtgLogoNoText.png"
 width="170" height="121"
 alt="January in San Diego - think about that" />](../January_2009_GMOD_Meeting "January in San Diego - think about that")
 

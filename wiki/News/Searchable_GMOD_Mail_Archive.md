@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="thumbinner" style="width:52px;">
 
-[<img src="../../mediawiki/images/8/84/NAbbleNLogo.jpg"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/NAbbleNLogo.jpg"
 class="thumbimage" width="50" height="50" />](http://gmod.827538.n3.nabble.com/)
 
 <div class="thumbcaption">

@@ -216,8 +216,8 @@ Included in
 <div class="floatnone">
 
 [<img
-src="../../mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
-srcset="../../mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, ../../mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 </div>

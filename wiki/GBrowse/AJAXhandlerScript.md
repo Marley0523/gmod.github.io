@@ -71,7 +71,7 @@ provide a built-in ajax handler for Gbrowse**
   gbrowse_details and the ***params*** callback shown below
 
 <a href="../File:Sample1b.png" class="image"><img
-src="../../mediawiki/images/e/eb/Sample1b.png" width="492" height="239"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Sample1b.png" width="492" height="239"
 alt="Sample1b.png" /></a>
 
   
@@ -80,7 +80,7 @@ alt="Sample1b.png" /></a>
   \<iframe\> element) and the ***default*** callback shown below.
 
 <a href="../File:Sample2b.png" class="image"><img
-src="../../mediawiki/images/8/8d/Sample2b.png" width="454" height="364"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/Sample2b.png" width="454" height="364"
 alt="Sample2b.png" /></a>
 
 ## <span id="Changes_to_gbrowse_details" class="mw-headline">Changes to gbrowse_details</span>
@@ -154,7 +154,7 @@ alt="Sample2b.png" /></a>
     section.
 
 <a href="../File:Callbacks" class="image"><img
-src="../../mediawiki/images/9/92/Callbacks" width="687" height="408"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Callbacks" width="687" height="408"
 alt="Callbacks" /></a>
 
   
@@ -163,7 +163,7 @@ alt="Callbacks" /></a>
   The relevant section is highlighted
 
 <a href="../File:Orf_stanza" class="image"><img
-src="../../mediawiki/images/3/30/Orf_stanza" width="749" height="267"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Orf_stanza" width="749" height="267"
 alt="Orf stanza" /></a>
 
 ## <span id="Changes_to_Bio::Graphics::Browser" class="mw-headline">Changes to Bio::Graphics::Browser</span>
@@ -173,7 +173,7 @@ alt="Orf stanza" /></a>
   make the contents stay inside the balloon boundaries.
 
 <a href="../File:Browsercode" class="image"><img
-src="../../mediawiki/images/b/b2/Browsercode" width="666" height="385"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/Browsercode" width="666" height="385"
 alt="Browsercode" /></a>
 
 </div>

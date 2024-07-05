@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/24163125"
 rel="nofollow"><img
-src="../../mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
-srcset="../../mediawiki/images/0/06/TripalLogo.png 1.5x, ../../mediawiki/images/0/06/TripalLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" alt="TripalLogo.png" /></a>
 
 </div>

@@ -155,7 +155,7 @@ Point your browser to
 
 <a href="../File:Web_apollo_demo_login_page_with_credentials_2014.jpg"
 class="image" title="WebApollo login page"><img
-src="../../mediawiki/images/1/17/Web_apollo_demo_login_page_with_credentials_2014.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/17/Web_apollo_demo_login_page_with_credentials_2014.jpg"
 class="thumbborder" width="200" height="104"
 alt="WebApollo login page" /></a>
 
@@ -171,7 +171,7 @@ The user name and password are both `demo`.
 
 <a href="../File:Web_apollo_select_refseq_2014.jpg" class="image"
 title="WebApollo reference sequence selection"><img
-src="../../mediawiki/images/d/dd/Web_apollo_select_refseq_2014.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dd/Web_apollo_select_refseq_2014.jpg"
 class="thumbborder" width="760" height="57"
 alt="WebApollo reference sequence selection" /></a>
 
@@ -2880,7 +2880,7 @@ Let's test out our installation. Point your browser to
 
 <a href="../File:Web_apollo_login_page_with_credentials.jpg"
 class="image" title="WebApollo login page"><img
-src="../../mediawiki/images/0/04/Web_apollo_login_page_with_credentials.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/Web_apollo_login_page_with_credentials.jpg"
 class="thumbborder" width="320" height="85"
 alt="WebApollo login page" /></a>
 
@@ -2897,7 +2897,7 @@ earlier.
 
 <a href="../File:Web_apollo_select_refseq_2014.jpg" class="image"
 title="WebApollo reference sequence selection"><img
-src="../../mediawiki/images/d/dd/Web_apollo_select_refseq_2014.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dd/Web_apollo_select_refseq_2014.jpg"
 class="thumbborder" width="760" height="57"
 alt="WebApollo reference sequence selection" /></a>
 

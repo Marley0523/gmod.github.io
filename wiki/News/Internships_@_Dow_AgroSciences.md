@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:Das_header_logo.gif" class="image"
 title="Dow AgroSciences"><img
-src="../../mediawiki/images/thumb/d/d7/Das_header_logo.gif/200px-Das_header_logo.gif"
-srcset="../../mediawiki/images/d/d7/Das_header_logo.gif 1.5x, ../../mediawiki/images/d/d7/Das_header_logo.gif 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/Das_header_logo.gif/200px-Das_header_logo.gif"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/Das_header_logo.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/Das_header_logo.gif 2x"
 width="200" height="63" alt="Dow AgroSciences" /></a>
 
 </div>

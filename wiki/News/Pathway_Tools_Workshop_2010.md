@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://bioinformatics.ai.sri.com/ptools10/" rel="nofollow"
 title="Pathway Tools Workshop 2010"><img
-src="../../mediawiki/images/6/60/SRILogo.png" width="128" height="91"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/SRILogo.png" width="128" height="91"
 alt="Pathway Tools Workshop 2010" /></a>
 
 </div>

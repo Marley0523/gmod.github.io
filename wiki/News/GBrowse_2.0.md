@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/c/c2/GBrowse2Thumb.png" width="200"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/GBrowse2Thumb.png" width="200"
 height="135" alt="GBrowse" />](../GBrowse_2.0_HOWTO "GBrowse")
 
 </div>

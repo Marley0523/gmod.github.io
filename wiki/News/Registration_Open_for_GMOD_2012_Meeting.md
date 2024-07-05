@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/170px-April2012MeetingLogo.png"
-srcset="../../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/255px-April2012MeetingLogo.png 1.5x, ../../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/340px-April2012MeetingLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/170px-April2012MeetingLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/255px-April2012MeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/340px-April2012MeetingLogo.png 2x"
 width="170" height="134" alt="April 2012 GMOD Meeting" />](../April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 </div>

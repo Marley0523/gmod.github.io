@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/7/7e/CantoTextLogo.png/240px-CantoTextLogo.png"
-srcset="../../mediawiki/images/thumb/7/7e/CantoTextLogo.png/360px-CantoTextLogo.png 1.5x, ../../mediawiki/images/thumb/7/7e/CantoTextLogo.png/480px-CantoTextLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/240px-CantoTextLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/360px-CantoTextLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/480px-CantoTextLogo.png 2x"
 width="240" height="59" alt="CantoTextLogo.png" />](../Canto "Canto")
 
 </div>
@@ -50,7 +50,7 @@ width="240" height="59" alt="CantoTextLogo.png" />](../Canto "Canto")
 <div class="floatright">
 
 <a href="http://biocuration2014.events.oicr.on.ca/" rel="nofollow"><img
-src="../../mediawiki/images/8/8d/ISBLogo.jpg" width="240" height="71"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/ISBLogo.jpg" width="240" height="71"
 alt="ISBLogo.jpg" /></a>
 
 </div>

@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://database.oxfordjournals.org/" rel="nofollow"
 title="Database: The Journal of Biological Databases and Curation"><img
-src="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/300px-DatabaseJournal.jpg.png"
-srcset="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/450px-DatabaseJournal.jpg.png 1.5x, ../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/600px-DatabaseJournal.jpg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/300px-DatabaseJournal.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/450px-DatabaseJournal.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/600px-DatabaseJournal.jpg.png 2x"
 width="300" height="37"
 alt="Database: The Journal of Biological Databases and Curation" /></a>
 

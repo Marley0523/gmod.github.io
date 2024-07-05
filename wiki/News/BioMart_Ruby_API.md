@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://github.com/dazoakley/biomart/" rel="nofollow"
 title="BioMart Ruby API"><img
-src="../../mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png"
-srcset="../../mediawiki/images/a/a4/Biomart250.png 1.5x, ../../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="200" height="79" alt="BioMart Ruby API" /></a>
 
 </div>

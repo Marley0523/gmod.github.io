@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.vizbi.org" rel="nofollow"
 title="Visualizing Biological Data (VizBi)"><img
-src="../../mediawiki/images/4/46/EMBO_Logo.png" width="110" height="69"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/EMBO_Logo.png" width="110" height="69"
 alt="Visualizing Biological Data (VizBi)" /></a>
 
 </div>

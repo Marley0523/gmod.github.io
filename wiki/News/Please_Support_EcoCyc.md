@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://ecocyc.org" rel="nofollow"><img
-src="../../mediawiki/images/4/44/BioCyc.gif" width="216" height="60"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/BioCyc.gif" width="216" height="60"
 alt="EcoCyc website" /></a>
 
 </div>

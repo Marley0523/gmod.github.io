@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/2/24/ParameciumDBIcon133x42.png"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/ParameciumDBIcon133x42.png"
 width="133" height="42" alt="ParameciumDB" />](../ParameciumDB "ParameciumDB")
 
 </div>

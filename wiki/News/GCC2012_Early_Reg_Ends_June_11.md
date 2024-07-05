@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://galaxyproject.org/wiki/Events/GCC2012" rel="nofollow"
 title="2012 Galaxy Community Conference (GCC2012) Early Registration ends June 11"><img
-src="../../mediawiki/images/thumb/c/cc/GCC2012Logo.png/170px-GCC2012Logo.png"
-srcset="../../mediawiki/images/thumb/c/cc/GCC2012Logo.png/255px-GCC2012Logo.png 1.5x, ../../mediawiki/images/thumb/c/cc/GCC2012Logo.png/340px-GCC2012Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/GCC2012Logo.png/170px-GCC2012Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/GCC2012Logo.png/255px-GCC2012Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/GCC2012Logo.png/340px-GCC2012Logo.png 2x"
 width="170" height="134"
 alt="2012 Galaxy Community Conference (GCC2012) Early Registration ends June 11" /></a>
 
@@ -79,8 +79,8 @@ of all sizes and around the world.
 <a href="http://galaxyproject.org/wiki/Events/GCC2012/TrainingDay"
 rel="nofollow"
 title="2012 Galaxy Community Conference Training Day"><img
-src="../../mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/170px-GCC2012TrainingDayLogo.png"
-srcset="../../mediawiki/images/2/2e/GCC2012TrainingDayLogo.png 1.5x, ../../mediawiki/images/2/2e/GCC2012TrainingDayLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/170px-GCC2012TrainingDayLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/GCC2012TrainingDayLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/GCC2012TrainingDayLogo.png 2x"
 width="170" height="95"
 alt="2012 Galaxy Community Conference Training Day" /></a>
 

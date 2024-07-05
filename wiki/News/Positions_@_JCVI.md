@@ -55,7 +55,7 @@ rel="nofollow">J.Craig Venter Institute</a>,
 href="https://careers.jcvi.org/careers/Careers.aspx?adata=Q%2fhMgU9ioOU2Q2IBMeDlPzojZaM309CBtHV%2b%2bLtKWW0PRb6H39%2fWK4hiwgS3QLR6dvwqIVTrFzs%3d"
 rel="nofollow"
 title="Galaxy/Python and Bioinformatics Engineers positions at the J.Craig Venter Institute"><img
-src="../../mediawiki/images/4/44/JCVILogo.jpg" width="152" height="65"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/JCVILogo.jpg" width="152" height="65"
 alt="Galaxy/Python and Bioinformatics Engineers positions at the J.Craig Venter Institute" /></a>
 
 </div>

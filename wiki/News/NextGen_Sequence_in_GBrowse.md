@@ -42,13 +42,13 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.regonline.com/Nextgeneration" rel="nofollow"
 title="Next Generation Genome Analysis in Non-Model Organisms--An American Genetic Association Special Event"><img
-src="../../mediawiki/images/e/ea/Aga_logo.png" width="155" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/Aga_logo.png" width="155" height="50"
 alt="Next Generation Genome Analysis in Non-Model Organisms--An American Genetic Association Special Event" /></a>
 
 </div>
 
 There will be a
-<a href="../../mediawiki/images/5/50/AGA_NGS_2009.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/AGA_NGS_2009.pdf" class="internal"
 title="AGA NGS 2009.pdf">talk</a> on visualizing [next generation
 sequence](../Next_Generation_Sequencing "Next Generation Sequencing")
 data in [GBrowse](../GBrowse.1 "GBrowse") at

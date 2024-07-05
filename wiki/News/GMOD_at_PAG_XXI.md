@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.intlpag.org/2013/" rel="nofollow"
 title="Plant and Animal Genomes conference, aka PAG XXI"><img
-src="../../mediawiki/images/c/c9/PAG-2013.jpg" width="413" height="223"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/PAG-2013.jpg" width="413" height="223"
 alt="Plant and Animal Genomes conference, aka PAG XXI" /></a>
 
 </div>

@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
 height="100" alt="January 2009 GMOD Meeting" />](../January_2009_GMOD_Meeting "January 2009 GMOD Meeting")
 
 </div>

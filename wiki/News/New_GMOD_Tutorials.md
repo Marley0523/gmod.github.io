@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../Training_and_Outreach#Online_Tutorials" rel="nofollow"
 title="Summer School - Americas"><img
-src="../../mediawiki/images/0/0b/2010SummerSchoolAmericas170.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/2010SummerSchoolAmericas170.png"
 width="170" height="124" alt="Summer School - Americas" /></a>
 
 </div>

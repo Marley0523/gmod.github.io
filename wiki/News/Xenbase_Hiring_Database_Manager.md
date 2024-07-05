@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:XenbaseLogo.png" class="image"
 title="Xenbase logo"><img
-src="../../mediawiki/images/8/88/XenbaseLogo.png" width="256"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/XenbaseLogo.png" width="256"
 height="48" alt="Xenbase logo" /></a>
 
 </div>

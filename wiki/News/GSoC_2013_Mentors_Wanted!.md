@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://google-melange.com" rel="nofollow"
 title="Google Summer of Code"><img
-src="../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/300px-Soc-logo-google-blue.jpg"
-srcset="../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/450px-Soc-logo-google-blue.jpg 1.5x, ../../mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/600px-Soc-logo-google-blue.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/300px-Soc-logo-google-blue.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/450px-Soc-logo-google-blue.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Soc-logo-google-blue.jpg/600px-Soc-logo-google-blue.jpg 2x"
 width="300" height="160" alt="Google Summer of Code" /></a>
 
 </div>

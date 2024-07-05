@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.openhelix.com/gbrowse" rel="nofollow"
 title="OpenHelix"><img
-src="../../mediawiki/images/8/8c/OpenHelixLogosmaller.jpg" width="180"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/OpenHelixLogosmaller.jpg" width="180"
 height="79" alt="OpenHelix" /></a>
 
 </div>

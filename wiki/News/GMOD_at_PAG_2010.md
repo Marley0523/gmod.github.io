@@ -49,7 +49,7 @@ and a flier showing highlights. Highlights at [PAG
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/c/c2/Paglogo.gif" width="114"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif" width="114"
 height="107" alt="GMOD @ PAG" />](../PAG_2010 "GMOD @ PAG")
 
 </div>

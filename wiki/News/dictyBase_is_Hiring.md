@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://dictybase.org/" rel="nofollow" title="DictyBase"><img
-src="../../mediawiki/images/a/a8/DictyMainPageLogo.png" width="93"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/DictyMainPageLogo.png" width="93"
 height="60" alt="DictyBase" /></a>
 
 </div>

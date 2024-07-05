@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/6/6c/Landing-page-gsoc2014.png/200px-Landing-page-gsoc2014.png"
-srcset="../../mediawiki/images/thumb/6/6c/Landing-page-gsoc2014.png/300px-Landing-page-gsoc2014.png 1.5x, ../../mediawiki/images/6/6c/Landing-page-gsoc2014.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/Landing-page-gsoc2014.png/200px-Landing-page-gsoc2014.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/Landing-page-gsoc2014.png/300px-Landing-page-gsoc2014.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/Landing-page-gsoc2014.png 2x"
 width="200" height="180" alt="Landing-page-gsoc2014.png" />](../GSoC "GSoC")
 
 </div>
