@@ -169,14 +169,14 @@ SQL</a></td>
 SQL with the Chado Cookbook.</td>
 </tr>
 <tr class="odd">
-<td><a href="../mediawiki/images/5/59/A_Chado_Case_Study.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/A_Chado_Case_Study.pdf"
 class="internal" title="A Chado Case Study.pdf">A Chado Case Study
 (pdf)</a></td>
 <td>The official publication about Chado. From ISMB/ECCB 2007.</td>
 <td></td>
 </tr>
 <tr class="even">
-<td><a href="../mediawiki/images/1/1f/Chado-manual.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Chado-manual.pdf" class="internal"
 title="Chado-manual.pdf">Chado Manaul (PDF)</a></td>
 <td>A PDF Chado manual.</td>
 <td>The TOC is extensive, but many sections are empty. Much of this

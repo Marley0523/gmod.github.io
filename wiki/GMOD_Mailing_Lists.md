@@ -105,7 +105,7 @@ lists](#A_Few_Non_GMOD_Lists) that are of general interest.
 <div class="floatnone">
 <a href="http://gmod.827538.n3.nabble.com/" rel="nofollow"
 title="GMOD Archive at Nabble"><img
-src="../mediawiki/images/8/84/NAbbleNLogo.jpg" width="50" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/NAbbleNLogo.jpg" width="50" height="50"
 alt="GMOD Archive at Nabble" /></a>
 </div>
 </div>

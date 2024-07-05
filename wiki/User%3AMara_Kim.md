@@ -49,7 +49,7 @@ rel="nofollow">mara.kim@vanderbilt.edu</a>
 
 ## <span id="Presentations" class="mw-headline">Presentations</span>
 
-<a href="../mediawiki/images/f/f8/MaraKim_GMOD2014.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/MaraKim_GMOD2014.pdf" class="internal"
 title="MaraKim GMOD2014.pdf">Jan 2014 GMOD meeting</a>
 
 </div>

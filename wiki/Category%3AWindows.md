@@ -78,7 +78,7 @@ This category contains only the following file.
   <div style="margin:16px auto;">
 
   <a href="File:WindowsLogoSmall.jpg" class="image"><img
-  src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="120"
   height="118" alt="WindowsLogoSmall.jpg" /></a>
 
   </div>

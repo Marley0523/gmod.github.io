@@ -121,7 +121,7 @@ This category contains only the following file.
   <div style="margin:15px auto;">
 
   <a href="File:LinuxLogoSmall.jpg" class="image"><img
-  src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="108"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="108"
   height="120" alt="LinuxLogoSmall.jpg" /></a>
 
   </div>

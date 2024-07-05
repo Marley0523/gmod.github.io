@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:GalaxyLogoBigger.png" class="image" title="Galaxy"><img
-src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
-srcset="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, ../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
 width="250" height="89" alt="Galaxy" /></a>
 
 </div>
@@ -336,7 +336,7 @@ Load a web browser and access
 rel="nofollow">http://localhost:8080</a>.
 
 <a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
-src="../mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png" width="1049"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png" width="1049"
 height="790" alt="Galaxy FirstAnalysis 1.png" /></a>
 
 #### <span id="2._Upload_TAF1_ChIP-Seq_data" class="mw-headline">2. Upload TAF1 ChIP-Seq data</span>
@@ -367,7 +367,7 @@ history will show you information about the uploaded file, including the
 first few lines.
 
 <a href="File:Galaxy_FirstAnalysis_2.png" class="image"><img
-src="../mediawiki/images/b/bd/Galaxy_FirstAnalysis_2.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/Galaxy_FirstAnalysis_2.png" width="1053"
 height="791" alt="Galaxy FirstAnalysis 2.png" /></a>
 
 #### <span id="3._Edit_Dataset_Attributes" class="mw-headline">3. Edit Dataset Attributes</span>
@@ -388,7 +388,7 @@ correspond to. Under **Database / Build** select **Human Mar. 2006
 (hg18)**. Then click **Save**.
 
 <a href="File:Galaxy_FirstAnalysis_3.png" class="image"><img
-src="../mediawiki/images/a/a6/Galaxy_FirstAnalysis_3.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/Galaxy_FirstAnalysis_3.png" width="1053"
 height="791" alt="Galaxy FirstAnalysis 3.png" /></a>
 
 #### <span id="4._Get_Gene_Annotations_from_UCSC" class="mw-headline">4. Get Gene Annotations from UCSC</span>
@@ -410,7 +410,7 @@ check-box by **Send Output to Galaxy** is **checked**. Finally, click
 **get output**.
 
 <a href="File:Galaxy_FirstAnalysis_4.png" class="image"><img
-src="../mediawiki/images/d/dc/Galaxy_FirstAnalysis_4.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Galaxy_FirstAnalysis_4.png" width="1053"
 height="791" alt="Galaxy FirstAnalysis 4.png" /></a>
 
 A second interface will load allowing you to specify what portion of
@@ -431,7 +431,7 @@ panel. Make sure the dataset **2: UCSC Main...** is **selected** and set
 upstream of each gene.
 
 <a href="File:Galaxy_FirstAnalysis_5.png" class="image"><img
-src="../mediawiki/images/1/1f/Galaxy_FirstAnalysis_5.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Galaxy_FirstAnalysis_5.png" width="1053"
 height="791" alt="Galaxy FirstAnalysis 5.png" /></a>
 
 #### <span id="6._Identify_promoter_regions_containing_TAF1_sites" class="mw-headline">6. Identify promoter regions containing TAF1 sites</span>
@@ -442,7 +442,7 @@ Intervals → Join** and select **3: Get Flanks...** as the first query
 and **1: http:...** as the second query. Click **Execute**.
 
 <a href="File:Galaxy_FirstAnalysis_6.png" class="image"><img
-src="../mediawiki/images/8/8c/Galaxy_FirstAnalysis_6.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/Galaxy_FirstAnalysis_6.png" width="1053"
 height="791" alt="Galaxy FirstAnalysis 6.png" /></a>
 
 The resulting dataset will contain all promoter regions that contain a
@@ -720,14 +720,14 @@ Note: These files were located at Emory at course time.
 and click **Execute**:
 
 <a href="File:Galaxy_SecondAnalysis_1.png" class="image"><img
-src="../mediawiki/images/5/53/Galaxy_SecondAnalysis_1.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/Galaxy_SecondAnalysis_1.png" width="1053"
 height="791" alt="Galaxy SecondAnalysis 1.png" /></a>
 
 After uploading the datasets, expand them in the history. We can see
 that Galaxy has successfully detected the file formats of both files.
 
 <a href="File:Galaxy_SecondAnalysis_2.png" class="image"><img
-src="../mediawiki/images/0/01/Galaxy_SecondAnalysis_2.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/Galaxy_SecondAnalysis_2.png" width="1053"
 height="791" alt="Galaxy SecondAnalysis 2.png" /></a>
 
 However, we need to make one modification. The FASTQ format is
@@ -984,7 +984,7 @@ workflow steps (e.g. uploads) so they will instead be treated as inputs
 to the workflow. This is fine, so click **Create Workflow**.
 
 <a href="File:Galaxy_Misc_1.png" class="image"><img
-src="../mediawiki/images/6/65/Galaxy_Misc_1.png" width="1053"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Galaxy_Misc_1.png" width="1053"
 height="791" alt="Galaxy Misc 1.png" /></a>
 
 Now, from the top bar click **Workflow** to see a list of your
@@ -995,7 +995,7 @@ example, if we click on SAM filter, we can change edit distance from 0
 to 1:
 
 <a href="File:Galaxy_Misc_2.png" class="image"><img
-src="../mediawiki/images/8/88/Galaxy_Misc_2.png" width="1366"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/Galaxy_Misc_2.png" width="1366"
 height="661" alt="Galaxy Misc 2.png" /></a>
 
 ## <span id="Making_genome_.2F_alignment_data_available_to_Galaxy" class="mw-headline">Making genome / alignment data available to Galaxy</span>
@@ -1086,7 +1086,7 @@ your genome by typing** example**.**
 In the **Tools** menu, click **Fetch Sequence → Extract Genomic DNA**.
 
 <a href="File:Galaxy_Fetch_1.png" class="image"><img
-src="../mediawiki/images/1/11/Galaxy_Fetch_1.png" width="1247"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Galaxy_Fetch_1.png" width="1247"
 height="683" alt="Galaxy Fetch 1.png" /></a>
 
 The tool interface should open in the main panel. The default values are
@@ -1099,7 +1099,7 @@ regions of interest.
 In the **Tools** menu, click **Fetch Alignments → Extract MAF Blocks**.
 
 <a href="File:Galaxy_Fetch_2.png" class="image"><img
-src="../mediawiki/images/7/74/Galaxy_Fetch_2.png" width="1246"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Galaxy_Fetch_2.png" width="1246"
 height="681" alt="Galaxy Fetch 2.png" /></a>
 
 The tool interface should open in the main panel. Again, the defaults
@@ -1108,7 +1108,7 @@ other species. Click **Execute**. A new dataset will be created
 containing alignments corresponding to your intervals of interest.
 
 <a href="File:Galaxy_Fetch_3.png" class="image"><img
-src="../mediawiki/images/a/a7/Galaxy_Fetch_3.png" width="1246"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Galaxy_Fetch_3.png" width="1246"
 height="683" alt="Galaxy Fetch 3.png" /></a>
 
 ### <span id="BETA_Features" class="mw-headline">BETA Features</span>
@@ -1139,7 +1139,7 @@ sharing. As a simple example, click **Embed Galaxy Object → Embed
 History**, and then select the history you have been working with.
 
 <a href="File:Galaxy_Misc_3.png" class="image"><img
-src="../mediawiki/images/1/10/Galaxy_Misc_3.png" width="1366"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/Galaxy_Misc_3.png" width="1366"
 height="661" alt="Galaxy Misc 3.png" /></a>
 
 Click **Save** and **Close** to return to the page list, and click on
@@ -1149,7 +1149,7 @@ published publicly. Others can inspect your history, import and work
 with your analysis.
 
 <a href="File:Galaxy_Misc_4.png" class="image"><img
-src="../mediawiki/images/d/d6/Galaxy_Misc_4.png" width="1326"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Galaxy_Misc_4.png" width="1326"
 height="621" alt="Galaxy Misc 4.png" /></a>
 
 You can return to the History view and annotate your history items by

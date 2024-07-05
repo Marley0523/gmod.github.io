@@ -141,7 +141,7 @@ Point your browser to
 
 <a href="File:Web_apollo_demo_login_page_with_credentials.jpg"
 class="image" title="WebApollo login page"><img
-src="../mediawiki/images/1/1f/Web_apollo_demo_login_page_with_credentials.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Web_apollo_demo_login_page_with_credentials.jpg"
 class="thumbborder" width="310" height="83"
 alt="WebApollo login page" /></a>
 
@@ -157,7 +157,7 @@ The user name and password are both `demo`.
 
 <a href="File:Web_apollo_main_options.jpg" class="image"
 title="WebApollo main options"><img
-src="../mediawiki/images/a/aa/Web_apollo_main_options.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Web_apollo_main_options.jpg"
 class="thumbborder" width="214" height="33"
 alt="WebApollo main options" /></a>
 
@@ -173,7 +173,7 @@ Click on the `Edit annotations` button.
 
 <a href="File:Web_apollo_select_refseq.jpg" class="image"
 title="WebApollo reference sequence selection"><img
-src="../mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
 class="thumbborder" width="451" height="33"
 alt="WebApollo reference sequence selection" /></a>
 
@@ -1492,7 +1492,7 @@ You can download the updated `trackList.json` file here (you'll need to
 put the file in your virtual machine and unzip it in
 `/usr/local/tomcat/tomcat7/webapps/WebApollo/jbrowse/data`):  
 <a
-href="../mediawiki/images/8/83/Web_apollo_2012_tutorial_track_list_json.zip"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/Web_apollo_2012_tutorial_track_list_json.zip"
 class="internal"
 title="Web apollo 2012 tutorial track list json.zip">web_apollo_track_list_json.zip</a>
 
@@ -1515,7 +1515,7 @@ Let's test out our installation. Point your browser to
 
 <a href="File:Web_apollo_login_page_with_credentials.jpg" class="image"
 title="WebApollo login page"><img
-src="../mediawiki/images/0/04/Web_apollo_login_page_with_credentials.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/Web_apollo_login_page_with_credentials.jpg"
 class="thumbborder" width="320" height="85"
 alt="WebApollo login page" /></a>
 
@@ -1532,7 +1532,7 @@ earlier.
 
 <a href="File:Web_apollo_main_options.jpg" class="image"
 title="WebApollo main options"><img
-src="../mediawiki/images/a/aa/Web_apollo_main_options.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Web_apollo_main_options.jpg"
 class="thumbborder" width="214" height="33"
 alt="WebApollo main options" /></a>
 
@@ -1548,7 +1548,7 @@ Click on the `Edit annotations` button.
 
 <a href="File:Web_apollo_select_refseq.jpg" class="image"
 title="WebApollo reference sequence selection"><img
-src="../mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
 class="thumbborder" width="451" height="33"
 alt="WebApollo reference sequence selection" /></a>
 

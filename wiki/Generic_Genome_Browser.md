@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:GBrowseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
-srcset="../mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5x, ../mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
 width="400" height="94" alt="GBrowse logo" /></a>
 
 </div>
@@ -75,8 +75,8 @@ Licence
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
 </div>
@@ -211,9 +211,9 @@ rel="nofollow">GBrowse website</a>.
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:GBrowse_screenshot1.png" class="image"><img
-src="../mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/500px-GBrowse_screenshot1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/500px-GBrowse_screenshot1.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, ../mediawiki/images/1/10/GBrowse_screenshot1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png 2x"
 width="500" height="345" /></a>
 
 <div class="thumbcaption">
@@ -230,7 +230,7 @@ height="11" /></a>
 GBrowse running on
 <a href="http://hapmap.ncbi.nlm.nih.gov/downloads/index.html"
 class="external text" rel="nofollow">HapMap.org</a>
-<a href="../mediawiki/images/1/10/GBrowse_screenshot1.png"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png"
 class="internal" title="GBrowse screenshot1.png">Click to view at full
 resolution</a>
 
@@ -469,7 +469,7 @@ GBrowse 2.x pod documents can also be viewed online at CPAN:
 - The **generic genome browser (GBrowse)**: a building block for a model
   organism system database.
   <sup>[\[8\]](#cite_note-PMID:12368253-8)</sup>
-  <a href="../mediawiki/images/e/e7/1599-1.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/1599-1.pdf" class="internal"
   title="1599-1.pdf">PDF</a>
 
 ### <span id="Tutorials" class="mw-headline">Tutorials</span>

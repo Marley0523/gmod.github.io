@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:SynBrowse_logo.png" class="image"><img
-src="../mediawiki/images/a/aa/SynBrowse_logo.png" width="460"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/SynBrowse_logo.png" width="460"
 height="104" alt="SynBrowse logo.png" /></a>
 
 </div>

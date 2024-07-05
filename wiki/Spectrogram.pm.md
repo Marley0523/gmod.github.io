@@ -60,15 +60,15 @@ examples of which are coding DNA and repeat sequences.
 
   
 <a href="File:Spec1.png" class="image"><img
-src="../mediawiki/images/3/3d/Spec1.png" class="thumbborder" width="858"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Spec1.png" class="thumbborder" width="858"
 height="450" alt="Spec1.png" /></a>
 
 <a href="File:Spec2.png" class="image"><img
-src="../mediawiki/images/9/9e/Spec2.png" class="thumbborder" width="877"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Spec2.png" class="thumbborder" width="877"
 height="449" alt="Spec2.png" /></a>
 
 <a href="File:Spec3.png" class="image"><img
-src="../mediawiki/images/3/39/Spec3.png" class="thumbborder" width="869"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Spec3.png" class="thumbborder" width="869"
 height="538" alt="Spec3.png" /></a>
 
 ## <span id="How_is_the_DNA_spectrogram_calculated.3F" class="mw-headline">How is the DNA spectrogram calculated?</span>

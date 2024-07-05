@@ -55,9 +55,9 @@ rel="nofollow">Sheldon McKay &lt;sheldon.mckay@gmail.com&gt;</a>
 
 <a href="File:Topoview_sample.png" class="image"
 title="Sample topoview track"><img
-src="../mediawiki/images/thumb/8/82/Topoview_sample.png/550px-Topoview_sample.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/Topoview_sample.png/550px-Topoview_sample.png"
 class="thumbborder"
-srcset="../mediawiki/images/8/82/Topoview_sample.png 1.5x, ../mediawiki/images/8/82/Topoview_sample.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Topoview_sample.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Topoview_sample.png 2x"
 width="550" height="194" alt="Sample topoview track" /></a>
 
 </div>
@@ -66,9 +66,9 @@ width="550" height="194" alt="Sample topoview track" /></a>
 
 <a href="File:Topoview_sample2.png" class="image"
 title="Sample topoview track"><img
-src="../mediawiki/images/thumb/9/98/Topoview_sample2.png/550px-Topoview_sample2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/98/Topoview_sample2.png/550px-Topoview_sample2.png"
 class="thumbborder"
-srcset="../mediawiki/images/thumb/9/98/Topoview_sample2.png/825px-Topoview_sample2.png 1.5x, ../mediawiki/images/9/98/Topoview_sample2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/98/Topoview_sample2.png/825px-Topoview_sample2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/98/Topoview_sample2.png 2x"
 width="550" height="163" alt="Sample topoview track" /></a>
 
 </div>
@@ -348,7 +348,7 @@ optional.
 ### <span id="Track_has_a_red_error_message" class="mw-headline">Track has a red error message</span>
 
 <a href="File:Bad_topoview.png" class="image"><img
-src="../mediawiki/images/8/81/Bad_topoview.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Bad_topoview.png" class="thumbborder"
 width="895" height="261" alt="Bad topoview.png" /></a>
 
 The glyph uses the Perl interface to BerkeleyDB. If you see a red error
@@ -366,7 +366,7 @@ Debian packages.
 ### <span id="Track_is_present_but_has_no_data" class="mw-headline">Track is present but has no data</span>
 
 <a href="File:Blank_topoview.png" class="image"><img
-src="../mediawiki/images/e/eb/Blank_topoview.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Blank_topoview.png" class="thumbborder"
 width="897" height="358" alt="Blank topoview.png" /></a>
 
 Make sure the "feature=" option is set to the same kind of kind of

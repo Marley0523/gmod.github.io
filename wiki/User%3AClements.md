@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:Clements.jpg" class="image"
 title="Dave Clements looking cheeky"><img
-src="../mediawiki/images/thumb/1/11/Clements.jpg/175px-Clements.jpg"
-srcset="../mediawiki/images/1/11/Clements.jpg 1.5x, ../mediawiki/images/1/11/Clements.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/11/Clements.jpg/175px-Clements.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Clements.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Clements.jpg 2x"
 width="175" height="131" alt="Dave Clements looking cheeky" /></a>
 
 </div>
@@ -167,7 +167,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/9/93/GMODForIEvoBio2010.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODForIEvoBio2010.pdf"
   class="internal" title="GMODForIEvoBio2010.pdf">GMOD for Evolutionary
   Biology</a>*, presentation with [Rob
   Buels](User%3ARobertBuels "User%3ARobertBuels") at
@@ -176,7 +176,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/e/ea/Jan2010HelpDesk.pdf" class="internal"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/Jan2010HelpDesk.pdf" class="internal"
   title="Jan2010HelpDesk.pdf">Help Desk Report</a>*, presentation at
   [January 2010 GMOD
   Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting"), San
@@ -184,7 +184,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/4/4e/PAG2010GMODProjectUpdate.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/PAG2010GMODProjectUpdate.pdf"
   class="internal" title="PAG2010GMODProjectUpdate.pdf">GMOD Project
   Update</a>*, presentation with [Scott Cain](User%3AScott "User%3AScott")
   at [PAG 2010](PAG_2010 "PAG 2010"), San Diego, January 2010.
@@ -192,7 +192,7 @@ presentations.
 <!-- -->
 
 - *<a
-  href="../mediawiki/images/9/99/PAG2010ComparativeGenomicsToolsInGMOD.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/PAG2010ComparativeGenomicsToolsInGMOD.pdf"
   class="internal"
   title="PAG2010ComparativeGenomicsToolsInGMOD.pdf">Comparative Genomics
   Tools in GMOD</a>*, poster with [Sheldon
@@ -202,14 +202,14 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/8/8f/GMODTAMUWorkshop.pdf" class="internal"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/GMODTAMUWorkshop.pdf" class="internal"
   title="GMODTAMUWorkshop.pdf">Database Tools for Biologists</a>*,
   workshop at Department of Biochemistry and Biophysics, Texas A&M
   University, December 2009
 
 <!-- -->
 
-- *<a href="../mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf"
   class="internal" title="ISyIPGMODforComparativeGenomics.pdf">GMOD for
   Comparative Genomics</a>*, presentation at
   <a href="http://colloque.inra.fr/isyip" class="external text"
@@ -242,7 +242,7 @@ presentations.
 
 <!-- -->
 
-- <a href="../mediawiki/images/5/50/AGA_NGS_2009.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/AGA_NGS_2009.pdf" class="internal"
   title="AGA NGS 2009.pdf"><em>Seeing the forest</em> and <em>the trees:
   visualizing next generation sequence data</em></a>, presentation at
   <a href="http://www.regonline.com/Nextgeneration" class="external text"
@@ -251,7 +251,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/9/93/GMODGBrowseSMBE2009.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODGBrowseSMBE2009.pdf"
   class="internal" title="GMODGBrowseSMBE2009.pdf">Using GMOD for
   evolutionary genomics and next generation sequence data</a>*,
   presentation as a part of *<a
@@ -264,7 +264,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/b/b6/NGSWithGMODWorkshop.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/NGSWithGMODWorkshop.pdf"
   class="internal" title="NGSWithGMODWorkshop.pdf">Visualizing and
   Integrating Next Generation Sequence Data using GMOD</a>*, workshop at
   *Evolutionary Genetics - the impact of next generation sequencing
@@ -281,7 +281,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/6/6a/PAG2009NextGenSeqPoster.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/PAG2009NextGenSeqPoster.pdf"
   class="internal" title="PAG2009NextGenSeqPoster.pdf">Managing Next
   Generation Sequence Data with GMOD</a>, poster with [Scott
   Cain](User%3AScott "User%3AScott"), Paul Hohenlohe, Nicholas Stiffler,
@@ -290,7 +290,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/b/b3/ISMB2008PosterManagingGenomicData.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/ISMB2008PosterManagingGenomicData.pdf"
   class="internal" title="ISMB2008PosterManagingGenomicData.pdf">GMOD:
   Managing genomic data from emerging model organisms</a>*, poster with
   Hilmar Lapp and Todd Vision at
@@ -300,7 +300,7 @@ presentations.
 <!-- -->
 
 - *<a
-  href="../mediawiki/images/4/43/GenomicsResourcesForEmergingModelOrganismsPoster.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/GenomicsResourcesForEmergingModelOrganismsPoster.pdf"
   class="internal"
   title="GenomicsResourcesForEmergingModelOrganismsPoster.pdf">GMOD:
   Genomics Resources for Emerging Model Organisms</a>*, poster with
@@ -311,7 +311,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
   class="internal" title="ChadoWorkshopArthopod2008.pdf">Chado - A
   Database Schema for Integrating Biological Data</a>*, workshop with
   [Scott Cain](User%3AScott "User%3AScott") at the
@@ -322,7 +322,7 @@ presentations.
 <!-- -->
 
 - *<a
-  href="../mediawiki/images/2/21/DatabaseResourcesForEmergingModelOrganismsPoster.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/21/DatabaseResourcesForEmergingModelOrganismsPoster.pdf"
   class="internal"
   title="DatabaseResourcesForEmergingModelOrganismsPoster.pdf">GMOD:
   Database Resources for Emerging Model Organisms</a>*, poster with
@@ -334,7 +334,7 @@ presentations.
 <!-- -->
 
 - *<a
-  href="../mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf"
   class="internal"
   title="GMODToolsForComparativeGenomicsIGERTPoster.pdf">GMOD Tools for
   Comparative Genomics</a>*, poster with, David Riley, [Ben
@@ -352,7 +352,7 @@ presentations.
 <!-- -->
 
 - *<a
-  href="../mediawiki/images/8/84/InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf"
   class="internal"
   title="InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf">GMOD:
   Informatics Resources for Evolutionary Research</a>, poster with
@@ -368,7 +368,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/2/28/2007GenomeInformaticsGMODPoster.pdf"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/28/2007GenomeInformaticsGMODPoster.pdf"
   class="internal" title="2007GenomeInformaticsGMODPoster.pdf">Digesting
   the Genome Glut: Promoting the Use and Extension of GMOD To Emerging
   Model Organisms</a>*, poster with [Brian
@@ -381,7 +381,7 @@ presentations.
 
 <!-- -->
 
-- *<a href="../mediawiki/images/d/da/GeneExpressionIWhenWhere.ppt"
+- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/GeneExpressionIWhenWhere.ppt"
   class="internal" title="GeneExpressionIWhenWhere.ppt">Gene Expression
   Databases: Where and When</a>*, presentation given at
   <a href="http://nescent.org" class="external text"

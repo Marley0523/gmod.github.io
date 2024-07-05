@@ -45,9 +45,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:442px;">
 
 <a href="File:Punting_on_the_Cam.jpg" class="image"><img
-src="../mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/440px-Punting_on_the_Cam.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/440px-Punting_on_the_Cam.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/660px-Punting_on_the_Cam.jpg 1.5x, ../mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/880px-Punting_on_the_Cam.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/660px-Punting_on_the_Cam.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/880px-Punting_on_the_Cam.jpg 2x"
 width="440" height="207" /></a>
 
 <div class="thumbcaption">

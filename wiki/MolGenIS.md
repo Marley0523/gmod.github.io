@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="http://www.molgenis.org/" rel="nofollow" title="MOLGENIS"><img
-src="../mediawiki/images/f/fd/Molgenis_logo.jpg" width="500" height="88"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Molgenis_logo.jpg" width="500" height="88"
 alt="MOLGENIS" /></a>
 
 </div>

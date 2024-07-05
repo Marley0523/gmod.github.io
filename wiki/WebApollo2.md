@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:WebApolloLogo.png" class="image"><img
-src="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
-srcset="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, ../mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
 width="400" height="111" alt="WebApollo2 logo" /></a>
 
 </div>
@@ -68,8 +68,8 @@ Status
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
 </div>

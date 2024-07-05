@@ -49,11 +49,11 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="GMOD_Europe_2010" title="GMOD Europe 2010"><img
-src="../mediawiki/images/d/d6/GMOD2010Europe300.png" width="300"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png" width="300"
 height="256" alt="GMOD Europe 2010" /></a></td>
 <td><div style="font-size: 240%; line-height: 140%">
 <a href="BioMart" title="BioMart"><img
-src="../mediawiki/images/a/a4/Biomart250.png" width="250" height="99"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" width="250" height="99"
 alt="BioMart" /></a>
 <hr />
 <a href="BioMart" title="BioMart">BioMart</a> Workshop
@@ -179,8 +179,8 @@ G12-G13</a>, at the University of Cambridge.
 href="http://www.biomed.cam.ac.uk/gradschool/skills/bioinformatics.html"
 rel="nofollow"
 title="School of Biological Sciences Bioinformatics Training Facility"><img
-src="../mediawiki/images/thumb/9/91/CambridgeWide.gif/190px-CambridgeWide.gif"
-srcset="../mediawiki/images/thumb/9/91/CambridgeWide.gif/285px-CambridgeWide.gif 1.5x, ../mediawiki/images/thumb/9/91/CambridgeWide.gif/380px-CambridgeWide.gif 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/190px-CambridgeWide.gif"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/285px-CambridgeWide.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/380px-CambridgeWide.gif 2x"
 width="190" height="55"
 alt="School of Biological Sciences Bioinformatics Training Facility" /></a>
 

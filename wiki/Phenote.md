@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:PhenoteLogo_Medium.png" class="image" title="Phenote"><img
-src="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png"
-srcset="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/450px-PhenoteLogo_Medium.png 1.5x, ../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/600px-PhenoteLogo_Medium.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/450px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/600px-PhenoteLogo_Medium.png 2x"
 width="300" height="57" alt="Phenote" /></a>
 
 </div>

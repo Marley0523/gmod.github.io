@@ -447,7 +447,7 @@ and to the genotype using nd_experiment_genotype table.
 
 A simplified schema diagram by N. Menda and R. Buels
 <a href="File:Natdiv_simplified_SGN.png" class="image"><img
-src="../mediawiki/images/f/fa/Natdiv_simplified_SGN.png" width="1600"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/Natdiv_simplified_SGN.png" width="1600"
 height="943" alt="Natdiv simplified SGN.png" /></a>
 
 # <span id="Tables" class="mw-headline">Tables</span>

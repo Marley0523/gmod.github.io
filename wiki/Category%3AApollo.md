@@ -241,7 +241,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:53px auto;">
 
   <a href="File:ApolloLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/1/1b/ApolloLogo.png/120px-ApolloLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/120px-ApolloLogo.png"
   width="120" height="44" alt="ApolloLogo.png" /></a>
 
   </div>

@@ -177,7 +177,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:28px auto;">
 
   <a href="File:ChadoModules.png" class="image"><img
-  src="../mediawiki/images/thumb/c/cf/ChadoModules.png/120px-ChadoModules.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/ChadoModules.png/120px-ChadoModules.png"
   width="120" height="94" alt="ChadoModules.png" /></a>
 
   </div>
@@ -223,7 +223,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:31px auto;">
 
   <a href="File:ChadoModulesCV.png" class="image"><img
-  src="../mediawiki/images/thumb/b/b5/ChadoModulesCV.png/120px-ChadoModulesCV.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/ChadoModulesCV.png/120px-ChadoModulesCV.png"
   width="120" height="88" alt="ChadoModulesCV.png" /></a>
 
   </div>

@@ -83,12 +83,12 @@ Clements wrote.
 ## <span id="Create_the_BAM_file" class="mw-headline">Create the BAM file</span>
 
 Start with a
-<a href="../mediawiki/images/2/22/Volvox.sam.gz" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Volvox.sam.gz" class="internal"
 title="Volvox.sam.gz">SAM file</a> and save in the GBrowse database
 directory for the volvox tutorial. Also make sure that the volvox fasta
 file, volvox.fa, is in the directory as well. Alternatively, you can
 download this
-<a href="../mediawiki/images/7/70/Volvox_sam.zip" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Volvox_sam.zip" class="internal"
 title="Volvox sam.zip">Volvox_sam.zip</a> file that has a directory with
 all of the files in it. Now convert the SAM file to a BAM file and index
 it:

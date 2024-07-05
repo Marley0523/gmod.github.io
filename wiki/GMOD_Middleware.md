@@ -984,7 +984,7 @@ rel="nofollow">https://lists.sourceforge.net/lists/listinfo/gmod-devel</a>
 Sohel Merchant, Bioinformatics Software Engineer at dictyBase, Center
 for Genetic Medicine, Northwestern University, Chicago. This Wiki
 section is an edited version of
-<a href="../mediawiki/images/2/24/Object_Relational_Mapping_Layer.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/Object_Relational_Mapping_Layer.pdf"
 class="internal" title="Object Relational Mapping Layer.pdf">Sohel's
 presentation</a>.
 

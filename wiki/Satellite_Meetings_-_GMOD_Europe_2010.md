@@ -49,8 +49,8 @@ data-cellpadding="10">
 <tr class="odd">
 <td><a href="September_2010_GMOD_Meeting"
 title="September 2010 GMOD Meeting"><img
-src="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
-srcset="../mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, ../mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="220" height="188" alt="September 2010 GMOD Meeting" /></a></td>
 <td><div style="font-size: 200%; line-height: 120%">
 <strong>Satellite Meetings</strong><br />
@@ -72,8 +72,8 @@ Cambridge, UK
 </div></td>
 <td style="text-align: center;"><a href="GMOD_Europe_2010"
 title="Part of GMOD Europe 2010"><img
-src="../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
-srcset="../mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, ../mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="200" height="171" alt="Part of GMOD Europe 2010" /></a>
 <div style="font-size: 110%;">
 <a href="GMOD_Europe_2010" title="GMOD Europe 2010">Part of GMOD Europe
@@ -171,8 +171,8 @@ rel="nofollow">http://www.mdc-berlin.de/en/research/core_facilities/cf_bioinform
 
 <a href="http://www.ccbi.cam.ac.uk/" rel="nofollow"
 title="Cambridge Computational Biology Institute"><img
-src="../mediawiki/images/thumb/a/ae/CCBILogo.png/150px-CCBILogo.png"
-srcset="../mediawiki/images/thumb/a/ae/CCBILogo.png/225px-CCBILogo.png 1.5x, ../mediawiki/images/a/ae/CCBILogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ae/CCBILogo.png/150px-CCBILogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ae/CCBILogo.png/225px-CCBILogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ae/CCBILogo.png 2x"
 width="150" height="64"
 alt="Cambridge Computational Biology Institute" /></a>
 
@@ -184,8 +184,8 @@ alt="Cambridge Computational Biology Institute" /></a>
 href="http://www.biomed.cam.ac.uk/gradschool/skills/bioinformatics.html"
 rel="nofollow"
 title="School of Biological Sciences Bioinformatics Training Facility"><img
-src="../mediawiki/images/thumb/9/91/CambridgeWide.gif/190px-CambridgeWide.gif"
-srcset="../mediawiki/images/thumb/9/91/CambridgeWide.gif/285px-CambridgeWide.gif 1.5x, ../mediawiki/images/thumb/9/91/CambridgeWide.gif/380px-CambridgeWide.gif 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/190px-CambridgeWide.gif"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/285px-CambridgeWide.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/CambridgeWide.gif/380px-CambridgeWide.gif 2x"
 width="190" height="55"
 alt="School of Biological Sciences Bioinformatics Training Facility" /></a>
 

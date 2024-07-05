@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 ## <span id="Mike_Campbell" class="mw-headline">Mike Campbell</span>
 
 <a href="File:Mike_Campbell.jpg" class="image"><img
-src="../mediawiki/images/thumb/7/73/Mike_Campbell.jpg/200px-Mike_Campbell.jpg"
-srcset="../mediawiki/images/thumb/7/73/Mike_Campbell.jpg/300px-Mike_Campbell.jpg 1.5x, ../mediawiki/images/thumb/7/73/Mike_Campbell.jpg/400px-Mike_Campbell.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/200px-Mike_Campbell.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/300px-Mike_Campbell.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/400px-Mike_Campbell.jpg 2x"
 width="200" height="267" alt="Mike Campbell.jpg" /></a>
 
 As a member of the Yandell lab and a budding MAKER developer, I have

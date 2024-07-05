@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:DIYALogo.png" class="image"><img
-src="../mediawiki/images/5/57/DIYALogo.png" width="400" height="400"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/DIYALogo.png" width="400" height="400"
 alt="DIYA logo" /></a>
 
 </div>
@@ -69,8 +69,8 @@ Licence
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt=" is open source" /></a>
 
 </div>

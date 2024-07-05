@@ -148,7 +148,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:41px auto;">
 
   <a href="File:Cugi_logo6.5.jpg" class="image"><img
-  src="../mediawiki/images/thumb/6/6b/Cugi_logo6.5.jpg/120px-Cugi_logo6.5.jpg.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/Cugi_logo6.5.jpg/120px-Cugi_logo6.5.jpg.png"
   width="120" height="68" alt="Cugi logo6.5.jpg" /></a>
 
   </div>
@@ -171,7 +171,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:41px auto;">
 
   <a href="File:CUGILogoHomePage.png" class="image"><img
-  src="../mediawiki/images/0/01/CUGILogoHomePage.png" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/CUGILogoHomePage.png" width="120"
   height="68" alt="CUGILogoHomePage.png" /></a>
 
   </div>
@@ -217,7 +217,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:57px auto;">
 
   <a href="File:TripalLogo.jpg" class="image"><img
-  src="../mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
   width="120" height="36" alt="TripalLogo.jpg" /></a>
 
   </div>
@@ -240,7 +240,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:57px auto;">
 
   <a href="File:TripalLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/0/06/TripalLogo.png/120px-TripalLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/120px-TripalLogo.png"
   width="120" height="36" alt="TripalLogo.png" /></a>
 
   </div>

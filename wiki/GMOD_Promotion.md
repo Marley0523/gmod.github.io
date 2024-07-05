@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:PoweredByGMOD.png" class="image"
 title="Powered by GMOD"><img
-src="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
-srcset="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, ../mediawiki/images/8/84/PoweredByGMOD.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/PoweredByGMOD.png 2x"
 width="310" height="147" alt="Powered by GMOD" /></a>
 
 </div>
@@ -118,7 +118,7 @@ predates that.
 
 <div class="floatleft">
 
-[<img src="../mediawiki/images/e/e3/PoweredByGMOD80.png" width="80"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/PoweredByGMOD80.png" width="80"
 height="38" alt="Powered by GMOD" />](Powered_by_GMOD "Powered by GMOD")
 
 </div>
@@ -133,7 +133,7 @@ GMOD is.
 
 <div class="floatleft">
 
-[<img src="../mediawiki/images/3/38/MitchSpeaking2009.jpg" width="150"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/MitchSpeaking2009.jpg" width="150"
 height="100" alt="Mitch speaking" />](Training_and_Outreach "Mitch speaking")
 
 </div>
@@ -187,16 +187,16 @@ Project
 Logos](Category%3AGMOD_Project_Logos "Category%3AGMOD Project Logos") -
 Logos related to the project as a whole.
 
-[<img src="../mediawiki/images/thumb/3/33/CMapLogo.png/50px-CMapLogo.png"
-srcset="../mediawiki/images/thumb/3/33/CMapLogo.png/75px-CMapLogo.png 1.5x, ../mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png 2x"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/50px-CMapLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/75px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png 2x"
 width="50" height="58" alt="Component Logos" />](Category%3ALogos_and_Icons "Component Logos")
 [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons") -
 Logos and icons, including [GMOD
 component](GMOD_Components "GMOD Components") logos.
 
 [<img
-src="../mediawiki/images/thumb/9/9b/InsectaCentralLogo.png/70px-InsectaCentralLogo.png"
-srcset="../mediawiki/images/9/9b/InsectaCentralLogo.png 1.5x, ../mediawiki/images/9/9b/InsectaCentralLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9b/InsectaCentralLogo.png/70px-InsectaCentralLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/InsectaCentralLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/InsectaCentralLogo.png 2x"
 width="70" height="56" alt="Member Logos" />](Category%3AMember_Logos "Member Logos")
 [Member Logos](Category%3AMember_Logos "Category%3AMember Logos") - logos of
 organizations that contribute to or use GMOD.
@@ -244,7 +244,7 @@ page](Category%3AConferences "Category%3AConferences"), and a flier for the
 event, highlighting that content. We have created fliers in the past for
 [ISMB 2010](ISMB_2010 "ISMB 2010"), [PAG 2010](PAG_2010 "PAG 2010"),
 [ISMB 2008](ISMB_2008 "ISMB 2008"), and
-<a href="../mediawiki/images/2/20/GMODatAGS2008.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/GMODatAGS2008.pdf" class="internal"
 title="GMODatAGS2008.pdf">Arthropod Genomics 2008</a>.
 
 Please contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
@@ -262,8 +262,8 @@ rel="nofollow">help@gmod.org</a>) if you would like to use this service.
 <tr class="odd">
 <td><p><a href="http://www.cafepress.com/GenericMOD/" rel="nofollow"
 title="GMOD Mug"><img
-src="../mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
-srcset="../mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, ../mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
 width="100" height="100" alt="GMOD Mug" /></a></p></td>
 <td><p>Finally, if you want to let people around you know that you're
 keen on GMOD, you can order shirts, mugs, mouse pads, ... from these
@@ -281,23 +281,23 @@ class="external text" rel="nofollow">MAKER @ CafePress</a></li>
 ## <span id="Brochures" class="mw-headline">Brochures</span>
 
 [<img
-src="../mediawiki/images/2/24/GMODTrifoldBrochure2009Page1Thumb.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GMODTrifoldBrochure2009Page1Thumb.png"
 width="175" height="135" alt="GMOD Brochure" />](http://gmod.org/wiki/Media:GMODTrifoldBrochure2009.ppt "GMOD Brochure")
 
-A <a href="../mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
+A <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
 class="internal" title="GMODTrifoldBrochure2009.ppt">tri-fold
 brochure</a> describing the GMOD project and many of its components was
 created to give newcomers an overview of the project. If you would like
 copies of this brochure:
 
 - Download it and print it yourself
-  - <a href="../mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
+  - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
     class="internal" title="GMODTrifoldBrochure2009.ppt">PowerPoint
     format</a>
-  - <a href="../mediawiki/images/8/85/GMODTrifoldBrochure2009Page1.png"
+  - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/85/GMODTrifoldBrochure2009Page1.png"
     class="internal" title="GMODTrifoldBrochure2009Page1.png">Page 1</a>
     and
-    <a href="../mediawiki/images/f/f6/GMODTrifoldBrochure2009Page2.png"
+    <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/GMODTrifoldBrochure2009Page2.png"
     class="internal" title="GMODTrifoldBrochure2009Page2.png">Page 2</a>
     as high-resolution images, suitable for sending to a printer.
 

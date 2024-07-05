@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:ParameciumDBLogo.png" class="image"><img
-src="../mediawiki/images/6/60/ParameciumDBLogo.png" width="221"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/ParameciumDBLogo.png" width="221"
 height="70" alt="ParameciumDBLogo.png" /></a>
 
 </div>
@@ -209,7 +209,7 @@ implemented, but also touches on toher technologies as well.
 
 **See also:**
 
-- <a href="../mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
   title="Cain-050516.ppt">Setting up ParameciumDB</a> in Scott Cain's
   presentation at the [May 2005 GMOD
   Meeting](May_2005_GMOD_Meeting "May 2005 GMOD Meeting").
@@ -228,7 +228,7 @@ system](Glossary#Database_Management_System "Glossary").
 ### <span id="Design_Overview" class="mw-headline">Design Overview</span>
 
 <a href="File:ParameciumDataModel.jpg" class="image"><img
-src="../mediawiki/images/f/fc/ParameciumDataModel.jpg" width="720"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/ParameciumDataModel.jpg" width="720"
 height="540" alt="ParameciumDataModel.jpg" /></a>
 
 ### <span id="Chado_Modules" class="mw-headline">Chado Modules</span>
@@ -262,7 +262,7 @@ represented in the sequence module using the `feature, featureloc`, and
 
 **See also:**
 
-- <a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf"
   class="internal" title="ParameciumDB synteny.pdf">Synteny data in
   ParameciumDB</a> working document
 
@@ -323,7 +323,7 @@ Collections into ParameciumDB.
 <div class="floatright">
 
 <a href="File:ParameciumDBHomePage.png" class="image"><img
-src="../mediawiki/images/e/e1/ParameciumDBHomePage.png" width="449"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/ParameciumDBHomePage.png" width="449"
 height="193" alt="ParameciumDBHomePage.png" /></a>
 
 </div>
@@ -355,7 +355,7 @@ community for annotation of the gene models. They use
   href="http://paramecium.cgm.cnrs-gif.fr/parawiki/Community_Annotation_Project"
   class="external text" rel="nofollow">Community Annotation Project</a>
   from ParameciumDB web site
-- <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
   Sperling's](User%3ASperling "User%3ASperling") presentation at the
@@ -425,17 +425,17 @@ opposed to an EnsEMBL database) and for ParameciumDB.
   data</a>, in the January 2007 Database Issue of
   <a href="http://nar.oxfordjournals.org/" class="external text"
   rel="nofollow"><em>Nucleic Acids Research</em></a>.
-- <a href="../mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
   title="Cain-050516.ppt">Scott Cain's presentation</a> (the "Setting up
   ParameciumDB" section) from the [May 2005 GMOD
   Meeting](May_2005_GMOD_Meeting "May 2005 GMOD Meeting").
-- <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
   Sperling's](User%3ASperling "User%3ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
-- <a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf"
   class="internal" title="ParameciumDB synteny.pdf">Synteny data in
   ParameciumDB</a> working document.
 

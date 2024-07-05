@@ -48,7 +48,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <tr class="odd">
 <td><a href="http://www.k-state.edu/agc/symp2011" rel="nofollow"
 title="Arthropod Genomics Symposium"><img
-src="/mediawiki/images/c/c1/AGSBug170.png" width="170" height="183"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/AGSBug170.png" width="170" height="183"
 alt="Arthropod Genomics Symposium" /></a></td>
 <td> </td>
 <td><a href="http://www.k-state.edu/agc/symp2011" class="external text"
@@ -87,8 +87,8 @@ and workshops.
 <div class="floatright">
 
 <a href="/wiki/File:Gmod-gears.png" class="image"><img
-src="/mediawiki/images/thumb/4/48/Gmod-gears.png/120px-Gmod-gears.png"
-srcset="/mediawiki/images/4/48/Gmod-gears.png 1.5x, /mediawiki/images/4/48/Gmod-gears.png 2x"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/Gmod-gears.png/120px-Gmod-gears.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gmod-gears.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gmod-gears.png 2x"
 width="120" height="86" alt="Gmod-gears.png" /></a>
 
 </div>
@@ -117,8 +117,8 @@ display of various co-linearity data types.**
 <div class="floatright">
 
 [<img
-src="/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/140px-GBrowse_syn_logo.png"
-srcset="/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/210px-GBrowse_syn_logo.png 1.5x, /mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/280px-GBrowse_syn_logo.png 2x"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/140px-GBrowse_syn_logo.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/210px-GBrowse_syn_logo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/280px-GBrowse_syn_logo.png 2x"
 width="140" height="45" alt="GBrowse syn logo.png" />](/wiki/GBrowse_syn "GBrowse syn")
 
 </div>
@@ -157,7 +157,7 @@ title="Gmod dbsf">gmod_dbsf</a>, [genes4all](/wiki/Genes4all "Genes4all") |
 ## <span id="Brochure" class="mw-headline">Brochure</span>
 
 Download
-<a href="/mediawiki/images/f/fd/AGS2011Brochure.pdf" class="internal"
+<a hrefhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/AGS2011Brochure.pdf" class="internal"
 title="AGS2011Brochure.pdf">conference brochure</a>.
 
 </div>

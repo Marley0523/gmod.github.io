@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This Wiki page is an edited version of
-<a href="../mediawiki/images/5/56/PSU.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/PSU.pdf" class="internal"
 title="PSU.pdf">Chinmay's presentation</a>.
 
 <div id="toc" class="toc">

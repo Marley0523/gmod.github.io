@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.biodas.org/" rel="nofollow"
 title="Distributed Annotation System"><img
-src="../mediawiki/images/3/32/Das_logo_64x64.jpg" width="64" height="64"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Das_logo_64x64.jpg" width="64" height="64"
 alt="Distributed Annotation System" /></a>
 
 </div>
@@ -119,7 +119,7 @@ These components work with DAS servers:
   (DAS/2)](November_2007_GMOD_Meeting#Distributed_Annotation_System.2F2_.28DAS.2F2.29 "November 2007 GMOD Meeting"),
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting")
-- <a href="../mediawiki/images/7/74/Das.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Das.ppt" class="internal"
   title="Das.ppt">DAS2</a>, [May 2005 GMOD
   Meeting](May_2005_GMOD_Meeting "May 2005 GMOD Meeting")
 

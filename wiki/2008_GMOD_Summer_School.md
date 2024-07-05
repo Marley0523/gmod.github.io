@@ -48,7 +48,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:SummerSchoolSmall.png" class="image"><img
-src="../mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
 height="182" alt="SummerSchoolSmall.png" /></a>
 </div>
 </div></td>
@@ -64,7 +64,7 @@ Durham, North Carolina, USA</td>
 <td colspan="2"><div class="center">
 <div class="floatnone">
 <a href="File:SummerSchool2008Class2.jpg" class="image"><img
-src="../mediawiki/images/e/e3/SummerSchool2008Class2.jpg" width="378"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/SummerSchool2008Class2.jpg" width="378"
 height="120" alt="SummerSchool2008Class2.jpg" /></a>
 </div>
 </div></td>
@@ -121,7 +121,7 @@ Durham, North Carolina, USA, July 11-13, 2008.
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | The program featured two and half days of hands on training starting with an overview of GMOD and then covering installation and configuration of popular GMOD tools, include <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse"), [CMap](CMap.1 "CMap"), [Apollo](Apollo.1 "Apollo"), and the [Community Annotation System](Community_Annotation_System "Community Annotation System"). | <a href="File:SummerSchool2008GBrowse.jpg" class="image"><img |
 
-src="../mediawiki/images/1/1d/SummerSchool2008GBrowse.jpg" width="311"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/SummerSchool2008GBrowse.jpg" width="311"
 height="120" alt="SummerSchool2008GBrowse.jpg" /></a> |
 
 <table class="wikitable" data-border="1" data-cellpadding="5"
@@ -314,7 +314,7 @@ Sessions were taught by experienced GMOD personnel, including:
 <div class="floatright">
 
 <a href="File:SummerSchool2008Class.jpg" class="image"><img
-src="../mediawiki/images/7/78/SummerSchool2008Class.jpg" width="411"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/SummerSchool2008Class.jpg" width="411"
 height="120" alt="SummerSchool2008Class.jpg" /></a>
 
 </div>
@@ -381,7 +381,7 @@ VMware on Windows and Linux
 <div class="floatleft">
 
 <a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
 </div>
@@ -389,7 +389,7 @@ height="48" alt="Windoze" /></a>
 <div class="floatleft">
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
 </div>
@@ -409,7 +409,7 @@ Intel processor is a requirement for all the packages discussed below.
 <div class="floatleft">
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
 </div>
@@ -423,7 +423,7 @@ VMware Fusion
 <div class="floatleft">
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"><img
-src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
 height="48" alt="VMWareFusionsLogo.jpg" /></a>
 
 </div>
@@ -440,7 +440,7 @@ Mac OS 10.5 (Leopard) and Boot Camp
 
 <a href="http://www.apple.com/macosx/features/bootcamp.html"
 rel="nofollow" title="Boot Camp"><img
-src="../mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
 height="60" alt="Boot Camp" /></a>
 
 </div>
@@ -498,17 +498,17 @@ details shown on the second one have now changed.
 <td style="text-align: center;" data-valign="top"><a
 href="File:SummerSchoolPoster2008Thumb.png" class="image"
 title="Poster 1"><img
-src="../mediawiki/images/8/80/SummerSchoolPoster2008Thumb.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/SummerSchoolPoster2008Thumb.png"
 width="150" height="196" alt="Poster 1" /></a><br />
-<a href="../mediawiki/images/7/75/SummerSchoolPoster2008.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/75/SummerSchoolPoster2008.pdf"
 class="internal" title="SummerSchoolPoster2008.pdf">Download</a><br />
 A poster (US Letter size) announcing the 2008 GMOD Summer School.</td>
 <td style="text-align: center;" data-valign="top"><a
 href="File:SummerSchoolFlier2008.png" class="image"
 title="Poster 2"><img
-src="../mediawiki/images/c/c9/SummerSchoolFlier2008.png" width="254"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/SummerSchoolFlier2008.png" width="254"
 height="196" alt="Poster 2" /></a><br />
-<a href="../mediawiki/images/3/30/GMODSummerSchoolFlier2008.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GMODSummerSchoolFlier2008.pdf"
 class="internal"
 title="GMODSummerSchoolFlier2008.pdf">Download</a><br />
 A flier with the schedule on it also available.</td>

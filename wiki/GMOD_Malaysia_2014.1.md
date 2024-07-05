@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:GMOD-malaysia.png" class="image"><img
-src="../mediawiki/images/thumb/a/a3/GMOD-malaysia.png/300px-GMOD-malaysia.png"
-srcset="../mediawiki/images/thumb/a/a3/GMOD-malaysia.png/450px-GMOD-malaysia.png 1.5x, ../mediawiki/images/thumb/a/a3/GMOD-malaysia.png/600px-GMOD-malaysia.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/300px-GMOD-malaysia.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/450px-GMOD-malaysia.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/600px-GMOD-malaysia.png 2x"
 width="300" height="190" alt="GMOD-malaysia.png" /></a>
 
 </div>
@@ -52,7 +52,7 @@ width="300" height="190" alt="GMOD-malaysia.png" /></a>
 <div class="floatleft">
 
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/3/3a/NESCentLogo152.jpg" width="152"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg" width="152"
 height="141" alt="NESCent" /></a>
 
 </div>
@@ -154,10 +154,10 @@ secure the discounted rate.
 ## <span id="Participants" class="mw-headline">Participants</span>
 
 <a href="File:GMODMalaysia2014GroupPhoto.jpg" class="image"><img
-src="../mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/200px-GMODMalaysia2014GroupPhoto.jpg"
-srcset="../mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/300px-GMODMalaysia2014GroupPhoto.jpg 1.5x, ../mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/400px-GMODMalaysia2014GroupPhoto.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/200px-GMODMalaysia2014GroupPhoto.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/300px-GMODMalaysia2014GroupPhoto.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/400px-GMODMalaysia2014GroupPhoto.jpg 2x"
 width="200" height="123" alt="GMODMalaysia2014GroupPhoto.jpg" /></a> See
-<a href="../mediawiki/images/7/74/GMODMalaysia2014GroupPhoto.jpg"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/GMODMalaysia2014GroupPhoto.jpg"
 class="internal" title="GMODMalaysia2014GroupPhoto.jpg">the group
 photo</a>.
 

@@ -157,7 +157,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:35.5px auto;">
 
   <a href="File:SGD-t.gif" class="image"><img
-  src="../mediawiki/images/8/8f/SGD-t.gif" width="120" height="79"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/SGD-t.gif" width="120" height="79"
   alt="SGD-t.gif" /></a>
 
   </div>

@@ -544,7 +544,7 @@ fix with:
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:Chado_test_in_gbrowse.jpg" class="image"><img
-src="../mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
 class="thumbimage"
 srcset=" http://gmod.org/wiki/1.5x,  http://gmod.org/wiki/2x"
 width="600" height="436" /></a>

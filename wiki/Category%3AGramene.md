@@ -77,7 +77,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:55.5px auto;">
 
   <a href="File:Gramene_logo180.jpg" class="image"><img
-  src="../mediawiki/images/thumb/5/59/Gramene_logo180.jpg/120px-Gramene_logo180.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Gramene_logo180.jpg/120px-Gramene_logo180.jpg"
   width="120" height="39" alt="Gramene logo180.jpg" /></a>
 
   </div>
@@ -124,7 +124,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:55.5px auto;">
 
   <a href="File:GrameneMainPageIcon.jpg" class="image"><img
-  src="../mediawiki/images/4/49/GrameneMainPageIcon.jpg" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/GrameneMainPageIcon.jpg" width="120"
   height="39" alt="GrameneMainPageIcon.jpg" /></a>
 
   </div>

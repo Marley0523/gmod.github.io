@@ -425,20 +425,20 @@ agenda.
   href="http://mango.ctegd.uga.edu/jkissingLab/presentations/GMOD_Nov_2007.ppt"
   class="external text" rel="nofollow">ApiDB GBrowse update</a> slides,
   Haiming Wang
-- <a href="../mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
   class="internal" title="2007 11 05 CMap GMOD.ppt">CMap/CMAE Progress
   Report</a>, [Ben Faga](User%3AFaga "User%3AFaga")
-- <a href="../mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
   title="Gbrowse syn.pdf">Gbrowse_syn</a> Sheldon McKay
-- <a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation</a> [Linda Sperling](User%3ASperling "User%3ASperling")
-- <a href="../mediawiki/images/b/be/Workshop.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Workshop.pdf" class="internal"
   title="Workshop.pdf">Community Annotation</a> Chinmay Patel
-- <a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
   title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
   SynView</a> [Steve Fischer](User%3AStevef "User%3AStevef")
-- <a href="../mediawiki/images/c/c8/GMOD-Nov-2007.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/GMOD-Nov-2007.ppt" class="internal"
   title="GMOD-Nov-2007.ppt">Recent Developments in Pathway Tools</a>,
   Suzanne Paley
 
@@ -670,7 +670,7 @@ Some bits:
 #### <span id="CMap" class="mw-headline">CMap</span>
 
 **Presentation:**
-<a href="../mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt"
 class="internal" title="2007 11 05 CMap GMOD.ppt">CMap Progress
 Report</a>, [Ben Faga](User%3AFaga "User%3AFaga")
 
@@ -691,7 +691,7 @@ This was a popular motif in the meeting.
 ##### <span id="Community_Annotation_at_ParameciumDB" class="mw-headline">Community Annotation at ParameciumDB</span>
 
 **Presentation:**
-<a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation</a>, [Linda Sperling](User%3ASperling "User%3ASperling")
 
@@ -889,7 +889,7 @@ page](Main_Page "Main Page").
 #### <span id="Pathway_Tools" class="mw-headline">Pathway Tools</span>
 
 **Presentation:**
-<a href="../mediawiki/images/c/c8/GMOD-Nov-2007.ppt" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/GMOD-Nov-2007.ppt" class="internal"
 title="GMOD-Nov-2007.ppt">Recent Developments in Pathway Tools</a>
 
 Suzanne Paley talked about recent developments in [Pathway
@@ -904,7 +904,7 @@ Tools](Pathway_Tools.1 "Pathway Tools"), including:
 #### <span id="SynView" class="mw-headline">SynView</span>
 
 **Presentation:**
-<a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
 title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
 SynView</a>, [Steve Fischer](User%3AStevef "User%3AStevef")
 
@@ -1028,7 +1028,7 @@ visualizing gene interactions. It does not run directly off of the
 #### <span id="GeneDB.2C_Sanger" class="mw-headline">GeneDB, Sanger</span>
 
 **Presentation:**
-<a href="../mediawiki/images/b/be/Workshop.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Workshop.pdf" class="internal"
 title="Workshop.pdf">Community Annotation</a>, Chinmay Patel
 
 Chinmay Patel spoke about a week-long annotation project at Sanger
@@ -1068,7 +1068,7 @@ considering using GBrowse.
 #### <span id="ParameciumDB" class="mw-headline">ParameciumDB</span>
 
 **Presentation:**
-<a href="../mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation</a>, [Linda Sperling](User%3ASperling "User%3ASperling")
 
@@ -1133,7 +1133,7 @@ Chado there.
 ##### <span id="GBrowse_Syn" class="mw-headline">GBrowse_Syn</span>
 
 **Presentation:**
-<a href="../mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
 title="Gbrowse syn.pdf">Gbrowse_syn</a>, [Sheldon
 McKay](User%3AMckays "User%3AMckays")
 

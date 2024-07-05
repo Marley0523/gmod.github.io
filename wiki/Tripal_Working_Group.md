@@ -50,8 +50,8 @@ data-cellpadding="10">
 <tr class="odd">
 <td style="text-align: center;"><a href="January_2010_GMOD_Meeting"
 title="January 2010 GMOD Meeting"><img
-src="../mediawiki/images/thumb/3/39/Jan2010MtgLogo170.png/120px-Jan2010MtgLogo170.png"
-srcset="../mediawiki/images/3/39/Jan2010MtgLogo170.png 1.5x, ../mediawiki/images/3/39/Jan2010MtgLogo170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/39/Jan2010MtgLogo170.png/120px-Jan2010MtgLogo170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Jan2010MtgLogo170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Jan2010MtgLogo170.png 2x"
 width="120" height="114" alt="January 2010 GMOD Meeting" /></a></td>
 <td data-valign="middle"><strong><a href="January_2010_GMOD_Meeting"
 title="January 2010 GMOD Meeting">January 2010 Satellite
@@ -62,7 +62,7 @@ Following <a href="PAG_2010" title="PAG 2010">PAG 2010</a><br />
 San Diego, California, USA</td>
 <td data-valign="middle"><a href="http://www.sandiego.org/nav/Visitors"
 rel="nofollow" title="San Diego Convention and Visitors Bureau"><img
-src="../mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
 height="97" alt="San Diego Convention and Visitors Bureau" /></a></td>
 </tr>
 </tbody>
@@ -73,8 +73,8 @@ height="97" alt="San Diego Convention and Visitors Bureau" /></a></td>
 <div class="floatleft">
 
 [<img
-src="../mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
-srcset="../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, ../mediawiki/images/5/5c/TripalLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/TripalLogo.jpg 2x"
 width="200" height="60" alt="Tripal" />](Tripal.1 "Tripal")
 
 </div>

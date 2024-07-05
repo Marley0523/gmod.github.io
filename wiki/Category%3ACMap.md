@@ -329,7 +329,7 @@ The following 14 files are in this category, out of 14 total.
   <div style="margin:15px auto;">
 
   <a href="File:CMapLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/3/33/CMapLogo.png/103px-CMapLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/103px-CMapLogo.png"
   width="103" height="120" alt="CMapLogo.png" /></a>
 
   </div>

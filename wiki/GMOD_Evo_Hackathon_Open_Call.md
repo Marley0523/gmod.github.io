@@ -47,8 +47,8 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="GMOD_Evo_Hackathon" title="GMOD Evo Hackathon"><img
-src="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
-srcset="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, ../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
 width="200" height="200" alt="GMOD Evo Hackathon" /></a></td>
 <td><span style="font-size: 200%; line-height: 120%"><strong><a
 href="GMOD_Evo_Hackathon" title="GMOD Evo Hackathon">Tools for

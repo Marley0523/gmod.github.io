@@ -87,7 +87,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:15px auto;">
 
   <a href="File:AppleBootCampLogo.jpg" class="image"><img
-  src="../mediawiki/images/0/09/AppleBootCampLogo.jpg" width="96"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="96"
   height="120" alt="AppleBootCampLogo.jpg" /></a>
 
   </div>
@@ -110,7 +110,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:15px auto;">
 
   <a href="File:AppleSmall.gif" class="image"><img
-  src="../mediawiki/images/8/82/AppleSmall.gif" width="120" height="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="120" height="120"
   alt="AppleSmall.gif" /></a>
 
   </div>
@@ -133,7 +133,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:15px auto;">
 
   <a href="File:ParallelsDesktopLogo.gif" class="image"><img
-  src="../mediawiki/images/5/51/ParallelsDesktopLogo.gif" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/ParallelsDesktopLogo.gif" width="120"
   height="120" alt="ParallelsDesktopLogo.gif" /></a>
 
   </div>

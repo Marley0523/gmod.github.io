@@ -69,7 +69,7 @@ MPI and Parallel computation software development
 
 Contact info  
 Email: <a href="File:Holt_email.gif" class="image"><img
-src="../mediawiki/images/0/02/Holt_email.gif" width="122" height="12"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Holt_email.gif" width="122" height="12"
 alt="Holt email.gif" /></a>
 
 </div>

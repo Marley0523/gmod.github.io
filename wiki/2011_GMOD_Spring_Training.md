@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:2011GMODSpringTrainingLogo.png" class="image"
 title="2011 GMOD Spring Training March 8-12, 2011"><img
-src="../mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/600px-2011GMODSpringTrainingLogo.png"
-srcset="../mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/900px-2011GMODSpringTrainingLogo.png 1.5x, ../mediawiki/images/f/f2/2011GMODSpringTrainingLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/600px-2011GMODSpringTrainingLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/900px-2011GMODSpringTrainingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f2/2011GMODSpringTrainingLogo.png 2x"
 width="600" height="238"
 alt="2011 GMOD Spring Training March 8-12, 2011" /></a>
 
@@ -59,8 +59,8 @@ alt="2011 GMOD Spring Training March 8-12, 2011" /></a>
 
 <a href="File:2011GMODSpringTraining.jpg" class="image"
 title="March 2011 GMOD Spring Training Participants, minus a few"><img
-src="../mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/600px-2011GMODSpringTraining.jpg"
-srcset="../mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/900px-2011GMODSpringTraining.jpg 1.5x, ../mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/1200px-2011GMODSpringTraining.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/600px-2011GMODSpringTraining.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/900px-2011GMODSpringTraining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/1200px-2011GMODSpringTraining.jpg 2x"
 width="600" height="177"
 alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
 
@@ -313,7 +313,7 @@ GBrowse data.* This also requires installing Apache, and
 <div class="floatright">
 
 <a href="http://www.vmware.com" rel="nofollow" title="VMware"><img
-src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VMware" /></a>
 
 </div>
@@ -337,9 +337,9 @@ course:
 |  |  |  |
 |----|----|----|
 | <a href="http://www.microsoft.com/" rel="nofollow" title="Windows"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windows" /></a> | <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a> | A free VMware player is available for [Microsoft Windows](Category%3AWindows "Category%3AWindows") and [Linux](Category%3ALinux "Category%3ALinux") [operating systems](Glossary#Operating_System "Glossary") from <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it. There are multiple versions. Be sure to download a version that can run on your laptop. |
 
@@ -350,7 +350,7 @@ rel="nofollow">VMware</a>. You will need to register to download it. There are m
 |  |  |
 |----|----|
 | <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a> | Participants can also bring *newer Macs with Intel processors*. The Intel processor is a requirement for all the packages discussed below. There is no free VMware player that runs *directly* under [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several other options, **all of which require an Intel Mac**: |
 
 VMware Fusion
@@ -358,7 +358,7 @@ VMware Fusion
 |  |  |
 |----|----|
 | <a href="http://www.vmware.com/products/fusion/" rel="nofollow"
-title="Fusion"><img src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg"
+title="Fusion"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg"
 width="48" height="48" alt="Fusion" /></a> | <a href="http://www.vmware.com/products/fusion/" class="external text"
 rel="nofollow">VMware Fusion</a> (<a href="http://www.vmware.com/a/buylink/10" class="external text"
 rel="nofollow">$80/corporate</a>, <a href="http://www.vmware.com/vmwarestore/academicstore.html"
@@ -369,7 +369,7 @@ VirtualBox
 |  |  |
 |----|----|
 | <a href="File:VirtualBox-logo.png" class="image"><img
-src="../mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
 height="48" alt="VirtualBox-logo.png" /></a> | <a href="http://www.virtualbox.org/wiki/Downloads" class="external text"
 rel="nofollow">VirtualBox</a> is free and open source, and runs on Intel Macs (and Windows, Linux and Solaris too). It claims to be capable of running VMware images, *but we have not tested this with our images.* |
 
@@ -395,8 +395,8 @@ instructor costs and incidentals.
 <div class="floatright">
 
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
-srcset="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, ../mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="100" height="93" alt="NESCent" /></a>
 
 </div>
@@ -413,8 +413,8 @@ these goals.
 <div class="floatleft">
 
 <a href="File:GalaxyLogoBoxed.png" class="image" title="Galaxy"><img
-src="../mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
-srcset="../mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, ../mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
 width="130" height="45" alt="Galaxy" /></a>
 
 </div>
@@ -436,7 +436,7 @@ participation in this event.
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170" alt="GMOD Americas 2011 Flier" />](File:GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
 
 </div>

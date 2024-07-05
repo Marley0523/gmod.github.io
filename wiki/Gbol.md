@@ -93,7 +93,7 @@ Object Layer (GBOL).
 
 <a href="File:Gbol_architecture.png" class="image"
 title="Primitive Architecture Diagram"><img
-src="../mediawiki/images/6/6a/Gbol_architecture.png" width="489"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/Gbol_architecture.png" width="489"
 height="406" alt="Primitive Architecture Diagram" /></a>
 
 - The bio object layer contains classes that are extensions of the

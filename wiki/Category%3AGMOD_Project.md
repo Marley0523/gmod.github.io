@@ -137,7 +137,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:31px auto;">
 
   <a href="File:Gmod_cogTransparent.png" class="image"><img
-  src="../mediawiki/images/thumb/5/53/Gmod_cogTransparent.png/120px-Gmod_cogTransparent.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/53/Gmod_cogTransparent.png/120px-Gmod_cogTransparent.png"
   width="120" height="88" alt="Gmod cogTransparent.png" /></a>
 
   </div>
@@ -161,7 +161,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:47px auto;">
 
   <a href="File:GMOD.orgMonthlyHitsChart.png" class="image"><img
-  src="../mediawiki/images/thumb/0/03/GMOD.orgMonthlyHitsChart.png/120px-GMOD.orgMonthlyHitsChart.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/GMOD.orgMonthlyHitsChart.png/120px-GMOD.orgMonthlyHitsChart.png"
   width="120" height="56" alt="GMOD.orgMonthlyHitsChart.png" /></a>
 
   </div>
@@ -254,7 +254,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:47px auto;">
 
   <a href="File:GMOD.orgMonthlyPageViewsChart.png" class="image"><img
-  src="../mediawiki/images/thumb/b/b2/GMOD.orgMonthlyPageViewsChart.png/120px-GMOD.orgMonthlyPageViewsChart.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/GMOD.orgMonthlyPageViewsChart.png/120px-GMOD.orgMonthlyPageViewsChart.png"
   width="120" height="56" alt="GMOD.orgMonthlyPageViewsChart.png" /></a>
 
   </div>
@@ -277,7 +277,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:46px auto;">
 
   <a href="File:GMOD.orgMonthlyVisitorsChart.png" class="image"><img
-  src="../mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/120px-GMOD.orgMonthlyVisitorsChart.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/120px-GMOD.orgMonthlyVisitorsChart.png"
   width="120" height="58" alt="GMOD.orgMonthlyVisitorsChart.png" /></a>
 
   </div>
@@ -323,7 +323,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:15px auto;">
 
   <a href="File:TShirtThumb.jpg" class="image"><img
-  src="../mediawiki/images/thumb/b/bd/TShirtThumb.jpg/120px-TShirtThumb.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bd/TShirtThumb.jpg/120px-TShirtThumb.jpg"
   width="120" height="120" alt="TShirtThumb.jpg" /></a>
 
   </div>

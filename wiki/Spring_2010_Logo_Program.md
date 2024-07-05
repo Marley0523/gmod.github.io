@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.linnbenton.edu/go/graphic-arts" rel="nofollow"
 title="Linn-Benton Community College"><img
-src="../mediawiki/images/f/fe/Lbcclogo.jpg" width="180" height="75"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Lbcclogo.jpg" width="180" height="75"
 alt="Linn-Benton Community College" /></a>
 
 </div>
@@ -56,32 +56,32 @@ alt="Linn-Benton Community College" /></a>
 |  |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|----|
 | <a href="File:ApolloLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1b/ApolloLogo.png/100px-ApolloLogo.png"
-srcset="../mediawiki/images/thumb/1/1b/ApolloLogo.png/150px-ApolloLogo.png 1.5x, ../mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/100px-ApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/150px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png 2x"
 width="100" height="36" alt="ApolloLogo.png" /></a> | <a href="File:GBrowseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/110px-GBrowseLogo.png"
-srcset="../mediawiki/images/thumb/0/04/GBrowseLogo.png/165px-GBrowseLogo.png 1.5x, ../mediawiki/images/thumb/0/04/GBrowseLogo.png/220px-GBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/110px-GBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/165px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/220px-GBrowseLogo.png 2x"
 width="110" height="26" alt="GBrowseLogo.png" /></a> | <a href="File:RedFlyLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/50px-RedFlyLogo.png"
-srcset="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/75px-RedFlyLogo.png 1.5x, ../mediawiki/images/thumb/1/1d/RedFlyLogo.png/100px-RedFlyLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/50px-RedFlyLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/75px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/100px-RedFlyLogo.png 2x"
 width="50" height="35" alt="RedFlyLogo.png" /></a> | <a href="File:MetabolicMineLogoWide.png" class="image"><img
-src="../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/130px-MetabolicMineLogoWide.png"
-srcset="../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/195px-MetabolicMineLogoWide.png 1.5x, ../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/260px-MetabolicMineLogoWide.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/130px-MetabolicMineLogoWide.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/195px-MetabolicMineLogoWide.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/260px-MetabolicMineLogoWide.png 2x"
 width="130" height="28" alt="MetabolicMineLogoWide.png" /></a> | <a href="File:CMapLogo.png" class="image"><img
-src="../mediawiki/images/thumb/3/33/CMapLogo.png/40px-CMapLogo.png"
-srcset="../mediawiki/images/thumb/3/33/CMapLogo.png/60px-CMapLogo.png 1.5x, ../mediawiki/images/thumb/3/33/CMapLogo.png/80px-CMapLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/40px-CMapLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/60px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/80px-CMapLogo.png 2x"
 width="40" height="46" alt="CMapLogo.png" /></a> | <a href="File:PhenoteLogo_Medium.png" class="image"><img
-src="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/100px-PhenoteLogo_Medium.png"
-srcset="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/150px-PhenoteLogo_Medium.png 1.5x, ../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/100px-PhenoteLogo_Medium.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/150px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png 2x"
 width="100" height="19" alt="PhenoteLogo Medium.png" /></a> | <a href="File:PomBaseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/5/5e/PomBaseLogo.png/100px-PomBaseLogo.png"
-srcset="../mediawiki/images/thumb/5/5e/PomBaseLogo.png/150px-PomBaseLogo.png 1.5x, ../mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/100px-PomBaseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/150px-PomBaseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png 2x"
 width="100" height="27" alt="PomBaseLogo.png" /></a> | <a href="File:GBrowse_syn_logo.png" class="image"><img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/100px-GBrowse_syn_logo.png"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/150px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/100px-GBrowse_syn_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/150px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png 2x"
 width="100" height="32" alt="GBrowse syn logo.png" /></a> | <a href="File:InterMineLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
-srcset="../mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png 1.5x, ../mediawiki/images/thumb/1/13/InterMineLogo.png/240px-InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/240px-InterMineLogo.png 2x"
 width="120" height="15" alt="InterMineLogo.png" /></a> |
 
 </div>
@@ -124,8 +124,8 @@ to discuss the project and design ideas.
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:ApolloLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png"
-srcset="../mediawiki/images/thumb/1/1b/ApolloLogo.png/300px-ApolloLogo.png 1.5x, ../mediawiki/images/thumb/1/1b/ApolloLogo.png/400px-ApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/300px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/400px-ApolloLogo.png 2x"
 width="200" height="73" alt="ApolloLogo.png" /></a>
 </div></td>
 <td><a href="Apollo.1" title="Apollo">Apollo</a> genome annotation
@@ -143,8 +143,8 @@ class="external text" rel="nofollow">Jessica Hodgson</a></td>
 <tr class="even">
 <td style="text-align: center;"><div style="margin: 1em">
 <a href="File:CMapLogo.png" class="image"><img
-src="../mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png"
-srcset="../mediawiki/images/thumb/3/33/CMapLogo.png/150px-CMapLogo.png 1.5x, ../mediawiki/images/thumb/3/33/CMapLogo.png/200px-CMapLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/150px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/200px-CMapLogo.png 2x"
 width="100" height="116" alt="CMapLogo.png" /></a>
 </div></td>
 <td><a href="CMap.1" title="CMap">CMap</a> comparative map viewer.</td>
@@ -157,8 +157,8 @@ width="100" height="116" alt="CMapLogo.png" /></a>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:GBrowseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/200px-GBrowseLogo.png"
-srcset="../mediawiki/images/thumb/0/04/GBrowseLogo.png/300px-GBrowseLogo.png 1.5x, ../mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/200px-GBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/300px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png 2x"
 width="200" height="47" alt="GBrowseLogo.png" /></a>
 </div></td>
 <td><a href="GBrowse.1" title="GBrowse">GBrowse</a> genome browser</td>
@@ -174,8 +174,8 @@ rel="nofollow">Matt Payne</a></td>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:GBrowse_syn_logo.png" class="image"><img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/300px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/300px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png 2x"
 width="200" height="64" alt="GBrowse syn logo.png" /></a>
 </div></td>
 <td><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse_syn</a>
@@ -193,8 +193,8 @@ class="external text" rel="nofollow">Natalie Price</a></td>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:InterMineLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
-srcset="../mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, ../mediawiki/images/1/13/InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="200" height="25" alt="InterMineLogo.png" /></a>
 </div></td>
 <td><a href="InterMine" title="InterMine">InterMine</a> biological data
@@ -211,8 +211,8 @@ Smith</a></td>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:MetabolicMineLogoWide.png" class="image"><img
-src="../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/200px-MetabolicMineLogoWide.png"
-srcset="../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/300px-MetabolicMineLogoWide.png 1.5x, ../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/400px-MetabolicMineLogoWide.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/200px-MetabolicMineLogoWide.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/300px-MetabolicMineLogoWide.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/400px-MetabolicMineLogoWide.png 2x"
 width="200" height="43" alt="MetabolicMineLogoWide.png" /></a>
 </div></td>
 <td>metabolicMine data warehouse for metabolic disease data</td>
@@ -230,8 +230,8 @@ Smith</a></td>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:PhenoteLogo_Medium.png" class="image"><img
-src="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png"
-srcset="../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png 1.5x, ../mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/400px-PhenoteLogo_Medium.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/400px-PhenoteLogo_Medium.png 2x"
 width="200" height="38" alt="PhenoteLogo Medium.png" /></a>
 </div></td>
 <td><a href="Phenote" title="Phenote">Phenote</a> ontology based
@@ -248,8 +248,8 @@ rel="nofollow">Matt Payne</a></td>
 <tr class="even">
 <td><div style="margin: 1em">
 <a href="File:PomBaseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png"
-srcset="../mediawiki/images/thumb/5/5e/PomBaseLogo.png/300px-PomBaseLogo.png 1.5x, ../mediawiki/images/thumb/5/5e/PomBaseLogo.png/400px-PomBaseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/300px-PomBaseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/400px-PomBaseLogo.png 2x"
 width="200" height="53" alt="PomBaseLogo.png" /></a>
 </div></td>
 <td><a href="http://www.pombase.org/" class="external text"
@@ -268,8 +268,8 @@ class="external text" rel="nofollow">Natalie Price</a></td>
 <tr class="even">
 <td style="text-align: center;"><div style="margin: 1em">
 <a href="File:RedFlyLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/120px-RedFlyLogo.png"
-srcset="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/180px-RedFlyLogo.png 1.5x, ../mediawiki/images/thumb/1/1d/RedFlyLogo.png/240px-RedFlyLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/120px-RedFlyLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/180px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/240px-RedFlyLogo.png 2x"
 width="120" height="84" alt="RedFlyLogo.png" /></a>
 </div></td>
 <td><a href="http://redfly.ccr.buffalo.edu" class="external text"
@@ -309,9 +309,9 @@ Logos</a> below.</td>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:302px;">
 <a href="File:LBCCGroupPic600.jpg" class="image"><img
-src="../mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/300px-LBCCGroupPic600.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/300px-LBCCGroupPic600.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/450px-LBCCGroupPic600.jpg 1.5x, ../mediawiki/images/d/de/LBCCGroupPic600.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/450px-LBCCGroupPic600.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/LBCCGroupPic600.jpg 2x"
 width="300" height="158" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -377,9 +377,9 @@ highlights some of the logos that were not chosen.
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:152px;">
 <a href="File:ApolloLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/150px-ApolloLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/150px-ApolloLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/225px-ApolloLogoOpt2.png 1.5x, ../mediawiki/images/a/a3/ApolloLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/225px-ApolloLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a3/ApolloLogoOpt2.png 2x"
 width="150" height="183" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -396,9 +396,9 @@ jess.hodgson@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:152px;">
 <a href="File:ApolloLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/150px-ApolloLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/150px-ApolloLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/225px-ApolloLogoOpt3.png 1.5x, ../mediawiki/images/d/d0/ApolloLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/225px-ApolloLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/ApolloLogoOpt3.png 2x"
 width="150" height="178" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -415,9 +415,9 @@ jon.brim@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:152px;">
 <a href="File:CMapLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/3/39/CMapLogoOpt2.png/150px-CMapLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/39/CMapLogoOpt2.png/150px-CMapLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/3/39/CMapLogoOpt2.png/225px-CMapLogoOpt2.png 1.5x, ../mediawiki/images/3/39/CMapLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/39/CMapLogoOpt2.png/225px-CMapLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/CMapLogoOpt2.png 2x"
 width="150" height="170" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -433,9 +433,9 @@ Kathy Bracken
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:152px;">
 <a href="File:MetabolicMineLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/150px-MetabolicMineLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/150px-MetabolicMineLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/225px-MetabolicMineLogoOpt2.png 1.5x, ../mediawiki/images/0/01/MetabolicMineLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/225px-MetabolicMineLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/MetabolicMineLogoOpt2.png 2x"
 width="150" height="127" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -465,9 +465,9 @@ audra.radke@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:GbrowseLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/1/13/GbrowseLogoOpt2.png/220px-GbrowseLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/GbrowseLogoOpt2.png/220px-GbrowseLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/13/GbrowseLogoOpt2.png 1.5x, ../mediawiki/images/1/13/GbrowseLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/GbrowseLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/GbrowseLogoOpt2.png 2x"
 width="220" height="46" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -484,9 +484,9 @@ matticusp@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:GBrowseLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/6/6f/GBrowseLogoOpt3.png/220px-GBrowseLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/GBrowseLogoOpt3.png/220px-GBrowseLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/6/6f/GBrowseLogoOpt3.png 1.5x, ../mediawiki/images/6/6f/GBrowseLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/GBrowseLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/GBrowseLogoOpt3.png 2x"
 width="220" height="68" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -502,9 +502,9 @@ Sean O'Connell
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:GBrowse_synLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/f/f7/GBrowse_synLogoOpt2.png/220px-GBrowse_synLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/GBrowse_synLogoOpt2.png/220px-GBrowse_synLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 1.5x, ../mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 2x"
 width="220" height="73" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -524,9 +524,9 @@ thatonechick@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:GBrowse_synLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/8/8a/GBrowse_synLogoOpt3.png/220px-GBrowse_synLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/GBrowse_synLogoOpt3.png/220px-GBrowse_synLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 1.5x, ../mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 2x"
 width="220" height="51" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -545,9 +545,9 @@ rel="nofollow">http://visual-mark.com/</a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:MetabolicMineLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/e/ed/MetabolicMineLogoOpt3.png/220px-MetabolicMineLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/MetabolicMineLogoOpt3.png/220px-MetabolicMineLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 1.5x, ../mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 2x"
 width="220" height="51" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -565,9 +565,9 @@ NextLevelDesignStudios@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:PhenoteLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/b/b3/PhenoteLogoOpt2.png/220px-PhenoteLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/PhenoteLogoOpt2.png/220px-PhenoteLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/b/b3/PhenoteLogoOpt2.png 1.5x, ../mediawiki/images/b/b3/PhenoteLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/PhenoteLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/PhenoteLogoOpt2.png 2x"
 width="220" height="49" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -585,9 +585,9 @@ Kathy Bracken
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:PhenoteLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/1/1c/PhenoteLogoOpt3.png/220px-PhenoteLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/PhenoteLogoOpt3.png/220px-PhenoteLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/1c/PhenoteLogoOpt3.png 1.5x, ../mediawiki/images/1/1c/PhenoteLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/PhenoteLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/PhenoteLogoOpt3.png 2x"
 width="220" height="64" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -604,9 +604,9 @@ matticusp@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:PomBaseLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/4/45/PomBaseLogoOpt2.png/220px-PomBaseLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/PomBaseLogoOpt2.png/220px-PomBaseLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/4/45/PomBaseLogoOpt2.png 1.5x, ../mediawiki/images/4/45/PomBaseLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/PomBaseLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/PomBaseLogoOpt2.png 2x"
 width="220" height="43" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -624,9 +624,9 @@ thatonechick@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:PomBaseLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/0/0a/PomBaseLogoOpt3.png/220px-PomBaseLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0a/PomBaseLogoOpt3.png/220px-PomBaseLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/0/0a/PomBaseLogoOpt3.png 1.5x, ../mediawiki/images/0/0a/PomBaseLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/PomBaseLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/PomBaseLogoOpt3.png 2x"
 width="220" height="54" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -646,9 +646,9 @@ jon.brim@gmail.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:CMapLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/5/5a/CMapLogoOpt3.png/220px-CMapLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/CMapLogoOpt3.png/220px-CMapLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/5/5a/CMapLogoOpt3.png 1.5x, ../mediawiki/images/5/5a/CMapLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/CMapLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/CMapLogoOpt3.png 2x"
 width="220" height="153" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -664,9 +664,9 @@ Halie French
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:REDflyLogoOpt2.png" class="image"><img
-src="../mediawiki/images/thumb/d/d6/REDflyLogoOpt2.png/220px-REDflyLogoOpt2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/REDflyLogoOpt2.png/220px-REDflyLogoOpt2.png"
 class="thumbimage"
-srcset="../mediawiki/images/d/d6/REDflyLogoOpt2.png 1.5x, ../mediawiki/images/d/d6/REDflyLogoOpt2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/REDflyLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/REDflyLogoOpt2.png 2x"
 width="220" height="127" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -684,9 +684,9 @@ jeffkristen4@msn.com
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:222px;">
 <a href="File:REDflyLogoOpt3.png" class="image"><img
-src="../mediawiki/images/thumb/3/31/REDflyLogoOpt3.png/220px-REDflyLogoOpt3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/REDflyLogoOpt3.png/220px-REDflyLogoOpt3.png"
 class="thumbimage"
-srcset="../mediawiki/images/3/31/REDflyLogoOpt3.png 1.5x, ../mediawiki/images/3/31/REDflyLogoOpt3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/REDflyLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/REDflyLogoOpt3.png 2x"
 width="220" height="71" /></a>
 <div class="thumbcaption">
 <div class="magnify">

@@ -165,9 +165,9 @@ this generates is shown on the right.
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtrack_selection_table_metadata.png" class="image"><img
-src="../mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/180px-Subtrack_selection_table_metadata.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/180px-Subtrack_selection_table_metadata.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/270px-Subtrack_selection_table_metadata.png 1.5x, ../mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/360px-Subtrack_selection_table_metadata.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/270px-Subtrack_selection_table_metadata.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/360px-Subtrack_selection_table_metadata.png 2x"
 width="180" height="67" /></a>
 
 <div class="thumbcaption">
@@ -276,9 +276,9 @@ a gene track that has no subtracks:
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtracks_genes_before.png" class="image"><img
-src="../mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/180px-Subtracks_genes_before.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/180px-Subtracks_genes_before.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/270px-Subtracks_genes_before.png 1.5x, ../mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/360px-Subtracks_genes_before.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/270px-Subtracks_genes_before.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/360px-Subtracks_genes_before.png 2x"
 width="180" height="24" /></a>
 
 <div class="thumbcaption">
@@ -338,9 +338,9 @@ to partition on the strand() method, and to label this dimension
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtracks_genes_first_iteration.png" class="image"><img
-src="../mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/180px-Subtracks_genes_first_iteration.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/180px-Subtracks_genes_first_iteration.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/270px-Subtracks_genes_first_iteration.png 1.5x, ../mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/360px-Subtracks_genes_first_iteration.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/270px-Subtracks_genes_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/360px-Subtracks_genes_first_iteration.png 2x"
 width="180" height="30" /></a>
 
 <div class="thumbcaption">
@@ -368,9 +368,9 @@ First iteration of strand-specific subtracks
 
 <a href="File:Subtracks_genes_dialog_first_iteration.png"
 class="image"><img
-src="../mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/180px-Subtracks_genes_dialog_first_iteration.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/180px-Subtracks_genes_dialog_first_iteration.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/270px-Subtracks_genes_dialog_first_iteration.png 1.5x, ../mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/360px-Subtracks_genes_dialog_first_iteration.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/270px-Subtracks_genes_dialog_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/360px-Subtracks_genes_dialog_first_iteration.png 2x"
 width="180" height="82" /></a>
 
 <div class="thumbcaption">
@@ -412,9 +412,9 @@ lower right.
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtracks_genes_second_iteration.png" class="image"><img
-src="../mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/180px-Subtracks_genes_second_iteration.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/180px-Subtracks_genes_second_iteration.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/270px-Subtracks_genes_second_iteration.png 1.5x, ../mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/360px-Subtracks_genes_second_iteration.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/270px-Subtracks_genes_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/360px-Subtracks_genes_second_iteration.png 2x"
 width="180" height="148" /></a>
 
 <div class="thumbcaption">
@@ -442,9 +442,9 @@ Second iteration of strand-specific subtracks
 
 <a href="File:Subtracks_genes_dialog_second_iteration.png"
 class="image"><img
-src="../mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/180px-Subtracks_genes_dialog_second_iteration.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/180px-Subtracks_genes_dialog_second_iteration.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/270px-Subtracks_genes_dialog_second_iteration.png 1.5x, ../mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/360px-Subtracks_genes_dialog_second_iteration.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/270px-Subtracks_genes_dialog_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/360px-Subtracks_genes_dialog_second_iteration.png 2x"
 width="180" height="88" /></a>
 
 <div class="thumbcaption">
@@ -510,9 +510,9 @@ right.
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtrack_selection_table_overview.png" class="image"><img
-src="../mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/180px-Subtrack_selection_table_overview.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/180px-Subtrack_selection_table_overview.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/270px-Subtrack_selection_table_overview.png 1.5x, ../mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/360px-Subtrack_selection_table_overview.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/270px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/360px-Subtrack_selection_table_overview.png 2x"
 width="180" height="63" /></a>
 
 <div class="thumbcaption">
@@ -539,9 +539,9 @@ ChIP-seq subtracks
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Subtrack_selection_table.png" class="image"><img
-src="../mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, ../mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
 width="180" height="78" /></a>
 
 <div class="thumbcaption">

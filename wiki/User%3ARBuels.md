@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 <a href="File:Rbuels_and_pretty_flowers.jpg" class="image"><img
-src="../mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/300px-Rbuels_and_pretty_flowers.jpg"
-srcset="../mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/450px-Rbuels_and_pretty_flowers.jpg 1.5x, ../mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/600px-Rbuels_and_pretty_flowers.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/300px-Rbuels_and_pretty_flowers.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/450px-Rbuels_and_pretty_flowers.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/600px-Rbuels_and_pretty_flowers.jpg 2x"
 width="300" height="225" alt="Rbuels and pretty flowers.jpg" /></a>
 
 **Robert Buels** is a bioinformatics software developer currently living

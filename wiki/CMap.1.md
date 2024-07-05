@@ -47,8 +47,8 @@ dir="http://gmod.org/wiki/ltr">
 
 <a href="/wiki/File:Chttp://gmod.org/wiki/MapLogo-horiz.png"
 class="image"><img
-src="/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
-srcset="/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/600px-CMapLogo-horiz.png 1.5x, /mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/800px-CMapLogo-horiz.png 2x"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/600px-CMapLogo-horiz.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/800px-CMapLogo-horiz.png 2x"
 width="400" height="115" alt="CMap logo" /></a>
 
 </div>
@@ -77,8 +77,8 @@ Licence
 
 <a href="http://opensourhttp://gmod.org/wiki/ce.org/"
 rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="/mediawiki/images/thumb/6/66/Osi_shttp://gmod.org/wiki/ymbol.png/60px-Osi_symbol.png 1.5x, /mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_shttp://gmod.org/wiki/ymbol.png/60px-Osi_symbol.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt=" is open source" /></a>
 
 </div>
@@ -192,7 +192,7 @@ rel="nofollow">other Gramene views</a>.
 <div style="margin:15px auto;">
 
 <a href="/wiki/File:Cmap_sample1.jpg" class="image"><img
-src="/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
 width="89" height="120" alt="Cmap sample1.jpg" /></a>
 
 </div>
@@ -210,7 +210,7 @@ width="89" height="120" alt="Cmap sample1.jpg" /></a>
 <div style="margin:15px auto;">
 
 <a href="/wiki/File:Cmap_sample2.jpg" class="image"><img
-src="/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
 width="169" height="120" alt="Cmap sample2.jpg" /></a>
 
 </div>
@@ -228,7 +228,7 @@ width="169" height="120" alt="Cmap sample2.jpg" /></a>
 <div style="margin:15px auto;">
 
 <a href="/wiki/File:Cmap_sample3.jpg" class="image"><img
-src="/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
 width="131" height="120" alt="Cmap sample3.jpg" /></a>
 
 </div>

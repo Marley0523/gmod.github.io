@@ -47,7 +47,7 @@ The following diagram describes how protein clusters are stored for
 Sybil:
 
 <a href="File:ChadoSybilComparative.png" class="image"><img
-src="../mediawiki/images/2/2a/ChadoSybilComparative.png" width="621"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/ChadoSybilComparative.png" width="621"
 height="355" alt="ChadoSybilComparative.png" /></a>
 
 The purple line represents the protein cluster and is stored in feature.
@@ -86,7 +86,7 @@ blastp match features that were used to generate this cluster. The new
 picture would look like this:
 
 <a href="File:ChadoSybilComparative_new.png" class="image"><img
-src="../mediawiki/images/9/95/ChadoSybilComparative_new.png" width="604"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/ChadoSybilComparative_new.png" width="604"
 height="398" alt="ChadoSybilComparative new.png" /></a>
 
   

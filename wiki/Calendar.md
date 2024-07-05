@@ -79,14 +79,14 @@ available as RSS feeds:
   class="external text" rel="nofollow">GMOD Calendar</a>
   <a href="File:RSSIcon16x16.gif" class="image"
   title="GMOD Calendar Feed"><img
-  src="../mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
   alt="GMOD Calendar Feed" /></a>
 - <a
   href="https://www.google.com/calendar/feeds/mq93blfvdoosh5unpmivu4kh1c%40group.calendar.google.com/public/basic"
   class="external text" rel="nofollow">Galaxy Calendar</a>
   <a href="File:RSSIcon16x16.gif" class="image"
   title="Galaxy Calendar Feed"><img
-  src="../mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
   alt="Galaxy Calendar Feed" /></a>
 
   
@@ -742,7 +742,7 @@ USA</td>
 </tr>
 <tr class="odd">
 <td>June 29-30</td>
-<td><strong><a href="../mediawiki/images/9/93/GMODForIEvoBio2010.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODForIEvoBio2010.pdf"
 class="internal" title="GMODForIEvoBio2010.pdf">GMOD for Evolutionary
 Biology</a></strong></td>
 <td><a href="http://ievobio.org" class="external text"
@@ -1029,7 +1029,7 @@ rel="nofollow">Mark Yandell</a></td>
 <td><strong><a href="File:NGSWithGMODWorkshop.pdf"
 title="File:NGSWithGMODWorkshop.pdf">Visualizing and Integrating Next
 Generation Sequence Data using GMOD</a></strong></td>
-<td><a href="../mediawiki/images/7/79/EvolutionaryGeneticsNGSPoster.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/EvolutionaryGeneticsNGSPoster.pdf"
 class="internal" title="EvolutionaryGeneticsNGSPoster.pdf">Evolutionary
 Genetics - the impact of next generation sequencing technologies</a>,
 Lutherstadt-Wittenberg, Germany</td>
@@ -1141,7 +1141,7 @@ href="Apollo.1" title="Apollo">Apollo</a>)</strong></td>
 <td rowspan="3"><a href="http://www.k-state.edu/agc/symposium.shtml"
 class="external text" rel="nofollow">Arthropod Genomics Symposium</a>,
 Kansas City, MO, USA<br />
-See <a href="../mediawiki/images/2/20/GMODatAGS2008.pdf"
+See <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/GMODatAGS2008.pdf"
 class="internal" title="GMODatAGS2008.pdf">GMOD at Arthropod
 Genomics</a> for a complete list.</td>
 <td><a

@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:GBrowse_syn_logo.png" class="image"
 title="GBrowse_syn"><img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse_syn" /></a>
 
 </div>
@@ -76,9 +76,9 @@ the standard GBrowse package (version 1.69 and later).
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:Gbrowse_syn2.png" class="image"><img
-src="../mediawiki/images/thumb/8/83/Gbrowse_syn2.png/300px-Gbrowse_syn2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/300px-Gbrowse_syn2.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/8/83/Gbrowse_syn2.png/450px-Gbrowse_syn2.png 1.5x, ../mediawiki/images/thumb/8/83/Gbrowse_syn2.png/600px-Gbrowse_syn2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/450px-Gbrowse_syn2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/600px-Gbrowse_syn2.png 2x"
 width="300" height="171" /></a>
 
 <div class="thumbcaption">
@@ -153,70 +153,70 @@ class="external text" rel="nofollow">WormBase</a>.
 <div id="Introductory_Slides" class="switch">
 
 <a href="File:GBrowse_synSlide1.png" class="image"><img
-src="../mediawiki/images/e/e4/GBrowse_synSlide1.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/GBrowse_synSlide1.png" class="thumbborder"
 width="720" height="540" alt="GBrowse synSlide1.png" /></a>  
   
 <a href="File:GBrowse_synSlide7.png" class="image"><img
-src="../mediawiki/images/9/9b/GBrowse_synSlide7.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/GBrowse_synSlide7.png" class="thumbborder"
 width="720" height="540" alt="GBrowse synSlide7.png" /></a>  
   
 <a href="File:GBrowse_synSlide13.png" class="image"><img
-src="../mediawiki/images/f/ff/GBrowse_synSlide13.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/GBrowse_synSlide13.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide13.png" /></a>  
   
 <a href="File:GBrowse_synSlide14.png" class="image"><img
-src="../mediawiki/images/e/e9/GBrowse_synSlide14.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/GBrowse_synSlide14.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide14.png" /></a>  
   
 <a href="File:GBrowse_synSlide15.png" class="image"><img
-src="../mediawiki/images/c/c9/GBrowse_synSlide15.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/GBrowse_synSlide15.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide15.png" /></a>  
   
 <a href="File:GBrowse_synSlide16.png" class="image"><img
-src="../mediawiki/images/0/0a/GBrowse_synSlide16.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/GBrowse_synSlide16.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide16.png" /></a>  
   
 <a href="File:GBrowse_synSlide17.png" class="image"><img
-src="../mediawiki/images/e/eb/GBrowse_synSlide17.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/GBrowse_synSlide17.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide17.png" /></a>  
   
 <a href="File:GBrowse_synSlide18.png" class="image"><img
-src="../mediawiki/images/a/a3/GBrowse_synSlide18.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a3/GBrowse_synSlide18.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide18.png" /></a>  
   
 <a href="File:GBrowse_synSlide19.png" class="image"><img
-src="../mediawiki/images/a/af/GBrowse_synSlide19.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/GBrowse_synSlide19.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide19.png" /></a>  
   
 <a href="File:GBrowse_synSlide20.png" class="image"><img
-src="../mediawiki/images/1/1d/GBrowse_synSlide20.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/GBrowse_synSlide20.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide20.png" /></a>  
   
 <a href="File:GBrowse_synSlide21.png" class="image"><img
-src="../mediawiki/images/f/fc/GBrowse_synSlide21.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/GBrowse_synSlide21.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide21.png" /></a>  
   
 <a href="File:GBrowse_synSlide22.png" class="image"><img
-src="../mediawiki/images/7/76/GBrowse_synSlide22.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/GBrowse_synSlide22.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide22.png" /></a>  
   
 <a href="File:GBrowse_synSlide23.png" class="image"><img
-src="../mediawiki/images/7/77/GBrowse_synSlide23.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/77/GBrowse_synSlide23.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide23.png" /></a>  
   
 <a href="File:GBrowse_synSlide24.png" class="image"><img
-src="../mediawiki/images/c/c3/GBrowse_synSlide24.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/GBrowse_synSlide24.png"
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide24.png" /></a>  
 
@@ -250,9 +250,9 @@ Note: Gbrowse 2 has been pre-installed for this demonstration
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:GBrowse2_installed.png" class="image"><img
-src="../mediawiki/images/thumb/c/ce/GBrowse2_installed.png/600px-GBrowse2_installed.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ce/GBrowse2_installed.png/600px-GBrowse2_installed.png"
 class="thumbimage"
-srcset="../mediawiki/images/c/ce/GBrowse2_installed.png 1.5x, ../mediawiki/images/c/ce/GBrowse2_installed.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 2x"
 width="600" height="375" /></a>
 
 <div class="thumbcaption">
@@ -286,9 +286,9 @@ GBrowse
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:GBrowse_synWelcom.png" class="image"><img
-src="../mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, ../mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
 width="600" height="375" /></a>
 
 <div class="thumbcaption">
@@ -542,8 +542,8 @@ should see:
 <div class="floatleft">
 
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
-src="../mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
-srcset="../mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, ../mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
 </div>
@@ -559,8 +559,8 @@ width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 <div class="floatleft">
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
-src="../mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
-srcset="../mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, ../mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
 </div>
@@ -816,7 +816,7 @@ and move on to other steps.
 be a second data source in a pull-down menu.  
 
 <a href="File:GBrowse_synPulldown1.png" class="image"><img
-src="../mediawiki/images/4/4a/GBrowse_synPulldown1.png" width="243"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBrowse_synPulldown1.png" width="243"
 height="77" alt="GBrowse synPulldown1.png" /></a>  
 
 9\) Select the other data source and start browsing!  
@@ -824,9 +824,9 @@ height="77" alt="GBrowse synPulldown1.png" /></a>
 <div class="floatleft">
 
 <a href="File:Gbrowse_synEtfinit.png" class="image"><img
-src="../mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
 class="thumbborder"
-srcset="../mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, ../mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
 width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
 
 </div>
@@ -851,12 +851,12 @@ One advantage of MERCATOR is that it can also assemble Contigs into
 The picture below shows a fragmentary nematode genome aligned with the
 complete *C. elegans* genome using PECAN.
 <a href="File:JaponicsPEACAN.png" class="image"><img
-src="../mediawiki/images/3/3f/JaponicsPEACAN.png" width="858"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/JaponicsPEACAN.png" width="858"
 height="292" alt="JaponicsPEACAN.png" /></a>
 
 The Picture below is the same genomic region aligned using a MERCATOR
 pipeline. <a href="File:JaponicaMERCATOR.png" class="image"><img
-src="../mediawiki/images/5/56/JaponicaMERCATOR.png" width="865"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/JaponicaMERCATOR.png" width="865"
 height="334" alt="JaponicaMERCATOR.png" /></a>
 
   
@@ -1004,7 +1004,7 @@ configure and use GBrowse_syn. To get started, browse these pages:
 <div class="floatright">
 
 <a href="File:IPlant.png" class="image"><img
-src="../mediawiki/images/5/58/IPlant.png" width="250" height="87"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/IPlant.png" width="250" height="87"
 alt="IPlant.png" /></a>
 
 </div>

@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:TripalLogo.png" class="image" title="Tripal"><img
-src="../mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
-srcset="../mediawiki/images/0/06/TripalLogo.png 1.5x, ../mediawiki/images/0/06/TripalLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" alt="Tripal" /></a>
 
 </div>
@@ -387,7 +387,7 @@ Tripal is a collection of modules that integrate with Drupal. These
 modules are divided into hierarchical categories:
 
 <a href="File:TripalLayers.png" class="image"><img
-src="../mediawiki/images/0/05/TripalLayers.png" width="393" height="411"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/TripalLayers.png" width="393" height="411"
 alt="TripalLayers.png" /></a>
 
 The Tripal Core level contains supportive functionality for all other
@@ -1549,7 +1549,7 @@ data we want to add a picture of a fruit fly as our logo. We will use
 the following image:
 
 <a href="File:Drosophila.png" class="image"><img
-src="../mediawiki/images/2/2d/Drosophila.png" width="123" height="75"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/Drosophila.png" width="123" height="75"
 alt="Drosophila.png" /></a>
 
   
@@ -2086,7 +2086,7 @@ For the image, download this image below and upload it using the
 interface on the page.
 
 <a href="File:Dmel.jpg" class="image"><img
-src="../mediawiki/images/6/65/Dmel.jpg" width="250" height="196"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Dmel.jpg" width="250" height="196"
 alt="Dmel.jpg" /></a>
 
   
@@ -2319,15 +2319,15 @@ peptide information as well.
 To do this, we will load three FASTA files which you can download from
 these links:
 
-- <a href="../mediawiki/images/3/36/Flybase-tripal-demo.2LHet.fna.txt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/Flybase-tripal-demo.2LHet.fna.txt"
   class="internal"
   title="Flybase-tripal-demo.2LHet.fna.txt">Media:Flybase-tripal-demo.2LHet.fna.txt</a>:
   2LHet chromosomal sequence
-- <a href="../mediawiki/images/f/f4/Flybase-tripal-demo.genes.fna.txt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Flybase-tripal-demo.genes.fna.txt"
   class="internal"
   title="Flybase-tripal-demo.genes.fna.txt">Media:Flybase-tripal-demo.genes.fna.txt</a>:
   nucleotide sequences for genes
-- <a href="../mediawiki/images/a/a2/Flybase-tripal-demo.peptides.fna.txt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Flybase-tripal-demo.peptides.fna.txt"
   class="internal"
   title="Flybase-tripal-demo.peptides.fna.txt">Media:Flybase-tripal-demo.peptides.fna.txt</a>:
   translated peptide sequences
@@ -2562,7 +2562,7 @@ results from that job here:
 
   
 <a
-href="../mediawiki/images/5/56/Flybase-tripal-demo.genes.blastx.xml.txt"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/Flybase-tripal-demo.genes.blastx.xml.txt"
 class="internal"
 title="Flybase-tripal-demo.genes.blastx.xml.txt">Media:Flybase-tripal-demo.genes.blastx.xml.txt</a>.
 

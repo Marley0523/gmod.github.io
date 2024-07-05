@@ -142,7 +142,7 @@ The following 2 files are in this category, out of 2 total.
   <div style="margin:60.5px auto;">
 
   <a href="File:Sgn_small_tag.png" class="image"><img
-  src="../mediawiki/images/8/82/Sgn_small_tag.png" width="120" height="29"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Sgn_small_tag.png" width="120" height="29"
   alt="Sgn small tag.png" /></a>
 
   </div>

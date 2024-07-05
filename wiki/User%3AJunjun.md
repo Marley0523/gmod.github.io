@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:Junjun.jpg" class="image"><img
-src="../mediawiki/images/1/1c/Junjun.jpg" width="268" height="318"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/Junjun.jpg" width="268" height="318"
 alt="Junjun.jpg" /></a>
 
 </div>

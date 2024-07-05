@@ -354,7 +354,7 @@ completely standard as described in the manual. Configuration file goes
 in /etc/apache2/
 
 <a href="File:Gbrowse.png" class="image"><img
-src="../mediawiki/images/e/eb/Gbrowse.png" width="1438" height="932"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Gbrowse.png" width="1438" height="932"
 alt="Gbrowse.png" /></a>
 
 </div>

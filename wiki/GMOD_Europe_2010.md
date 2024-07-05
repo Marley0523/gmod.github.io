@@ -50,8 +50,8 @@ data-cellpadding="10">
 <td rowspan="2"><div class="center">
 <div class="floatnone">
 <a href="File:GMOD2010Europe300.png" class="image"><img
-src="../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/220px-GMOD2010Europe300.png"
-srcset="../mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, ../mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/220px-GMOD2010Europe300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="220" height="188" alt="GMOD2010Europe300.png" /></a>
 </div>
 </div></td>
@@ -62,18 +62,18 @@ Cambridge UK</span></td>
 <td rowspan="2" style="text-align: center;"><p><a
 href="September_2010_GMOD_Meeting"
 title="September 2010 GMOD Meeting"><img
-src="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/150px-Sept2010MtgLogo300.png"
-srcset="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/225px-Sept2010MtgLogo300.png 1.5x, ../mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/150px-Sept2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/225px-Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="150" height="128" alt="September 2010 GMOD Meeting" /></a><br />
 <a href="BioMart_Workshop_-_GMOD_Europe_2010" rel="nofollow"
 title="BioMart Workshop"><img
-src="../mediawiki/images/thumb/a/a4/Biomart250.png/170px-Biomart250.png"
-srcset="../mediawiki/images/a/a4/Biomart250.png 1.5x, ../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/170px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="170" height="67" alt="BioMart Workshop" /></a><br />
 <a href="InterMine_Workshop_-_GMOD_Europe_2010" rel="nofollow"
 title="InterMine Workshop"><img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/150px-InterMineLogo.png"
-srcset="../mediawiki/images/thumb/1/13/InterMineLogo.png/225px-InterMineLogo.png 1.5x, ../mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/150px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/225px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 2x"
 width="150" height="19" alt="InterMine Workshop" /></a></p></td>
 </tr>
 <tr class="even">
@@ -319,8 +319,8 @@ Informatics</span></td>
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/200px-Sept2010MtgLogo300.png"
-srcset="../mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, ../mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/200px-Sept2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="200" height="171" alt="September 2010 GMOD Meeting" />](September_2010_GMOD_Meeting "September 2010 GMOD Meeting")
 
 </div>
@@ -363,8 +363,8 @@ page for more.
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
-srcset="../mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, ../mediawiki/images/1/13/InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="200" height="25" alt="InterMine Workshop" />](InterMine_Workshop_-_GMOD_Europe_2010 "InterMine Workshop")
 
 </div>
@@ -393,8 +393,8 @@ for details.
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png"
-srcset="../mediawiki/images/a/a4/Biomart250.png 1.5x, ../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="200" height="79" alt="BioMart Workshop" />](BioMart_Workshop_-_GMOD_Europe_2010 "BioMart Workshop")
 
 </div>

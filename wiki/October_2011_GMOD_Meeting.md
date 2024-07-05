@@ -49,8 +49,8 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:October2011Logo.png" class="image"><img
-src="../mediawiki/images/thumb/e/e2/October2011Logo.png/250px-October2011Logo.png"
-srcset="../mediawiki/images/thumb/e/e2/October2011Logo.png/375px-October2011Logo.png 1.5x, ../mediawiki/images/thumb/e/e2/October2011Logo.png/500px-October2011Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/250px-October2011Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/375px-October2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/500px-October2011Logo.png 2x"
 width="250" height="225" alt="October2011Logo.png" /></a>
 </div>
 </div></td>
@@ -63,7 +63,7 @@ rel="nofollow">Ontario Institute for Cancer Research</a><br />
 Toronto, Canada<br />
 <a href="http://oicr.on.ca" rel="nofollow"
 title="Ontario Institute for Cancer Research"><img
-src="../mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
 alt="Ontario Institute for Cancer Research" /></a></p></td>
 </tr>
 </tbody>
@@ -166,7 +166,7 @@ Registration is now closed.
 <tr class="odd">
 <td data-valign="top"><div class="floatright">
 <a href="http://baderlab.org/" rel="nofollow" title="Gary D. Bader"><img
-src="../mediawiki/images/4/40/Gary.png" width="150" height="157"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Gary.png" width="150" height="157"
 alt="Gary D. Bader" /></a>
 </div>
 Gary works on biological network analysis and pathway information
@@ -195,7 +195,7 @@ information on Gary.</td>
 <tr class="odd">
 <td><div class="floatleft">
 <a href="http://www.cs.toronto.edu/~brudno/" rel="nofollow"
-title="Michael Brudno"><img src="../mediawiki/images/9/90/Mike.jpg"
+title="Michael Brudno"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/Mike.jpg"
 width="306" height="205" alt="Michael Brudno" /></a>
 </div>
 Mike's main research interest is the development of computational
@@ -270,14 +270,14 @@ Directions to the HL31 are as follows:
 <td>9:35</td>
 <td>Welcome to OICR and the State of GMOD</td>
 <td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
-<td><a href="../mediawiki/images/b/b6/Scott_cain_intro.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Scott_cain_intro.ppt"
 class="internal" title="Scott cain intro.ppt">slides</a></td>
 </tr>
 <tr class="odd">
 <td>10:10</td>
 <td>Keynote: Network and pathway information for systems biology</td>
 <td>Gary Bader</td>
-<td><a href="../mediawiki/images/a/af/Gary_bader.pptx" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/Gary_bader.pptx" class="internal"
 title="Gary bader.pptx">PPT</a></td>
 </tr>
 <tr class="even">
@@ -290,7 +290,7 @@ title="Gary bader.pptx">PPT</a></td>
 <td>11:30</td>
 <td>GBrowse2: What's New</td>
 <td><a href="User%3ALstein" title="User%3ALstein">Lincoln Stein</a></td>
-<td><a href="../mediawiki/images/2/20/Lincoln_stein.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/Lincoln_stein.ppt"
 class="internal" title="Lincoln stein.ppt">PPT</a></td>
 </tr>
 <tr class="even">
@@ -305,7 +305,7 @@ class="internal" title="Lincoln stein.ppt">PPT</a></td>
 href="WebApollo.1" title="WebApollo">WebApollo</a></td>
 <td><a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
 Skinner</a></td>
-<td><a href="../mediawiki/images/e/e7/Mitch_skinner.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Mitch_skinner.pdf"
 class="internal" title="Mitch skinner.pdf">PDF</a></td>
 </tr>
 <tr class="even">
@@ -313,7 +313,7 @@ class="internal" title="Mitch skinner.pdf">PDF</a></td>
 <td>The Mycoplasma Genome Database: marrying microscopy and
 genomics</td>
 <td>Andrew Oberlin</td>
-<td><a href="../mediawiki/images/6/6e/Andrew_oberlin.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/Andrew_oberlin.pdf"
 class="internal" title="Andrew oberlin.pdf">PDF</a></td>
 </tr>
 <tr class="odd">
@@ -327,7 +327,7 @@ class="internal" title="Andrew oberlin.pdf">PDF</a></td>
 <td><a href="MAKER.1" title="MAKER">MAKER</a></td>
 <td><a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson
 Holt</a></td>
-<td><a href="../mediawiki/images/1/1a/Carson_holt.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Carson_holt.pdf" class="internal"
 title="Carson holt.pdf">PDF</a></td>
 </tr>
 <tr class="odd">
@@ -336,7 +336,7 @@ title="Carson holt.pdf">PDF</a></td>
 <td><a href="User%3AAlexkalderimis" title="User%3AAlexkalderimis">Alex
 Kalderimis</a><br />
 and/or <a href="User%3ARsmith" title="User%3ARsmith">Richard Smith</a></td>
-<td><a href="../mediawiki/images/f/f5/Richard_smith.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/Richard_smith.pdf"
 class="internal" title="Richard smith.pdf">PDF</a></td>
 </tr>
 <tr class="even">
@@ -353,7 +353,7 @@ class="new" title="Josh goodman.ppt">PPT</a></td>
 <td>4:45</td>
 <td>Wrap up and dinner Mata Hari Grill 39 Baldwin St. Toronto</td>
 <td></td>
-<td><a href="../mediawiki/images/4/47/Matahari.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/Matahari.pdf" class="internal"
 title="Matahari.pdf">PDF</a></td>
 </tr>
 </tbody>
@@ -368,17 +368,17 @@ href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Mi
 class="new" title="Michael brudno.pdf">PDF</a>,<a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Michael_brudno.ppt"
 class="new" title="Michael brudno.ppt">PPT</a> |
-| 10:00 | [Galaxy](Galaxy.1 "Galaxy") | [Dan Blankenberg](User%3ADanB "User%3ADanB") | <a href="../mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal"
+| 10:00 | [Galaxy](Galaxy.1 "Galaxy") | [Dan Blankenberg](User%3ADanB "User%3ADanB") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal"
 title="2011 10 Galaxy.pdf">PDF</a> |
 | 10:30 | [Coffee](GMOD_Promotion#Mugs.2C_T-Shirts.2C_Buttons.2C_... "GMOD Promotion") |  |  |
 | 11:00 | <a href="http://code.google.com/p/sadi/wiki/SADIforGMOD"
 class="external text" rel="nofollow">SADI for GMOD: An RDF/OWL Interface
 to GMOD Data</a> | Ben Vandervalk | <a
 href="http://prezi.com/sc0jnrbdqu3n/sadi-for-gmod-an-rdfowl-interface-for-gmod/"
-class="external text" rel="nofollow">Prezi</a>, <a href="../mediawiki/images/8/8b/SADIforGMOD.pdf" class="internal"
+class="external text" rel="nofollow">Prezi</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/SADIforGMOD.pdf" class="internal"
 title="SADIforGMOD.pdf">PDF</a> |
-| 11:30 | [The Comprehensive Antibiotic Resistance Database](News/CARD "News/CARD") | Andrew McArthur | <a href="../mediawiki/images/0/02/Andrew_mcarthur.pdf" class="internal"
-title="Andrew mcarthur.pdf">PDF</a>,<a href="../mediawiki/images/5/58/Andrew_mcarthur.ppt" class="internal"
+| 11:30 | [The Comprehensive Antibiotic Resistance Database](News/CARD "News/CARD") | Andrew McArthur | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Andrew_mcarthur.pdf" class="internal"
+title="Andrew mcarthur.pdf">PDF</a>,<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Andrew_mcarthur.ppt" class="internal"
 title="Andrew mcarthur.ppt">PPT</a> |
 | 12:00 | Lunch |  |  |
 | 1:30 | Lightning talks <span class="small">(Please feel free to give a 5-10 minute talk on whatever; if you are interested enough to put together a talk, others will likely be interested in the content! :-)</span> |  |  |
@@ -421,17 +421,17 @@ Please feel free to add suggested talks or topics for the meeting.
 |  |  |  |  |
 |----|----|----|----|
 | <a href="File:Biomart250.png" class="image" title="BioMart"><img
-src="../mediawiki/images/thumb/a/a4/Biomart250.png/110px-Biomart250.png"
-srcset="../mediawiki/images/thumb/a/a4/Biomart250.png/165px-Biomart250.png 1.5x, ../mediawiki/images/thumb/a/a4/Biomart250.png/220px-Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/110px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/165px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/220px-Biomart250.png 2x"
 width="110" height="44" alt="BioMart" /></a> | <a href="File:GalaxyLogoBigger.png" class="image" title="Galaxy"><img
-src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/110px-GalaxyLogoBigger.png"
-srcset="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/165px-GalaxyLogoBigger.png 1.5x, ../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/220px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/110px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/165px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/220px-GalaxyLogoBigger.png 2x"
 width="110" height="39" alt="Galaxy" /></a> | <a href="File:InterMineLogo.png" class="image" title="InterMine"><img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/130px-InterMineLogo.png"
-srcset="../mediawiki/images/thumb/1/13/InterMineLogo.png/195px-InterMineLogo.png 1.5x, ../mediawiki/images/thumb/1/13/InterMineLogo.png/260px-InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/130px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/195px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/260px-InterMineLogo.png 2x"
 width="130" height="16" alt="InterMine" /></a> | <a href="File:MAKERLogo.png" class="image" title="MAKER"><img
-src="../mediawiki/images/thumb/3/37/MAKERLogo.png/110px-MAKERLogo.png"
-srcset="../mediawiki/images/thumb/3/37/MAKERLogo.png/165px-MAKERLogo.png 1.5x, ../mediawiki/images/thumb/3/37/MAKERLogo.png/220px-MAKERLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/110px-MAKERLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/165px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/220px-MAKERLogo.png 2x"
 width="110" height="37" alt="MAKER" /></a> |
 
 - [BioMart workshop](#BioMart_Workshop) (half day, morning), Friday, 14

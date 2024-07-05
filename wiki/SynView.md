@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:SynView_Icon.gif" class="image"><img
-src="../mediawiki/images/b/b3/SynView_Icon.gif" width="173" height="66"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/SynView_Icon.gif" width="173" height="66"
 alt="SynView Icon.gif" /></a>
 
 </div>
@@ -106,7 +106,7 @@ rel="nofollow">http://www.eupathdb.org/apps/SynView/</a>.
 
 ### <span id="Presentations" class="mw-headline">Presentations</span>
 
-- <a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
   title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
   SynView</a> from the [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").

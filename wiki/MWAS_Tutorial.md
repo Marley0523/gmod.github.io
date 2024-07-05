@@ -440,7 +440,7 @@ gene predictors generally perform very poorly on emerging genomes.
 <div class="thumbinner" style="width:850px;">
 
 <a href="File:Maker_performance.jpg" class="image"><img
-src="../mediawiki/images/e/e6/Maker_performance.jpg" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Maker_performance.jpg" class="thumbimage"
 width="848" height="300" /></a>
 
 <div class="thumbcaption">
@@ -1002,8 +1002,8 @@ genome with a single experiment. It may soon make gene predictors
 
   
 <a href="File:MRNAseq.jpg" class="image"><img
-src="../mediawiki/images/thumb/9/9f/MRNAseq.jpg/500px-MRNAseq.jpg"
-srcset="../mediawiki/images/thumb/9/9f/MRNAseq.jpg/750px-MRNAseq.jpg 1.5x, ../mediawiki/images/9/9f/MRNAseq.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/500px-MRNAseq.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/750px-MRNAseq.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/MRNAseq.jpg 2x"
 width="500" height="184" alt="MRNAseq.jpg" /></a>
 
   
@@ -1031,8 +1031,8 @@ Legacy annotations
 
   
 <a href="File:Legacy.png" class="image"><img
-src="../mediawiki/images/thumb/d/d1/Legacy.png/500px-Legacy.png"
-srcset="../mediawiki/images/d/d1/Legacy.png 1.5x, ../mediawiki/images/d/d1/Legacy.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Legacy.png/500px-Legacy.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 2x"
 width="500" height="245" alt="Legacy.png" /></a>
 
   

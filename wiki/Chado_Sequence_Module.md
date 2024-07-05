@@ -344,7 +344,7 @@ uniqueness of the *uniquename, organism id, type id* triple.
 
   
 <a href="File:Feature-tables.png" class="image"><img
-src="../mediawiki/images/2/2e/Feature-tables.png" width="555"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/Feature-tables.png" width="555"
 height="661" alt="Feature-tables.png" /></a>
 
 ## <span id="Feature_Synonyms" class="mw-headline">Feature Synonyms</span>
@@ -450,7 +450,7 @@ more common). Chains may also span sequence alignments.
 
   
 <a href="File:Featureloc-example.png" class="image"><img
-src="../mediawiki/images/2/2d/Featureloc-example.png" width="316"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/Featureloc-example.png" width="316"
 height="148" alt="Featureloc-example.png" /></a>
 
   
@@ -492,7 +492,7 @@ maximum depth of all LGs in a particular database instance i is denoted
 
   
 <a href="File:Featureloc-graph-example.png" class="image"><img
-src="../mediawiki/images/5/56/Featureloc-graph-example.png" width="535"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/Featureloc-graph-example.png" width="535"
 height="372" alt="Featureloc-graph-example.png" /></a>
 
   

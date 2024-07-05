@@ -214,9 +214,9 @@ html variables.
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:StateVariables.png" class="image"><img
-src="../mediawiki/images/thumb/3/33/StateVariables.png/300px-StateVariables.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/300px-StateVariables.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/3/33/StateVariables.png/450px-StateVariables.png 1.5x, ../mediawiki/images/thumb/3/33/StateVariables.png/600px-StateVariables.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/450px-StateVariables.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/600px-StateVariables.png 2x"
 width="300" height="193" /></a>
 
 <div class="thumbcaption">

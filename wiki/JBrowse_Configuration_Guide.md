@@ -1439,9 +1439,9 @@ does, see [\#Click Configuration Options](#Click_Configuration_Options).
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:Jbrowse_rightclick.png" class="image"><img
-src="../mediawiki/images/thumb/f/fe/Jbrowse_rightclick.png/800px-Jbrowse_rightclick.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fe/Jbrowse_rightclick.png/800px-Jbrowse_rightclick.png"
 class="thumbimage"
-srcset="../mediawiki/images/f/fe/Jbrowse_rightclick.png 1.5x, ../mediawiki/images/f/fe/Jbrowse_rightclick.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 2x"
 width="800" height="228" /></a>
 
 <div class="thumbcaption">
@@ -1511,9 +1511,9 @@ This results in a context menu like the one pictured below.
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:Menu-customization2.png" class="image"><img
-src="../mediawiki/images/thumb/0/0b/Menu-customization2.png/600px-Menu-customization2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Menu-customization2.png/600px-Menu-customization2.png"
 class="thumbimage"
-srcset="../mediawiki/images/0/0b/Menu-customization2.png 1.5x, ../mediawiki/images/0/0b/Menu-customization2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 2x"
 width="600" height="349" /></a>
 
 <div class="thumbcaption">
@@ -1838,7 +1838,7 @@ the coverage and a VCF file of putative SNPs, and display those instead.
 <div class="thumbinner" style="width:792px;">
 
 <a href="File:JBrowse_SNP_Coverage.png" class="image"><img
-src="../mediawiki/images/7/78/JBrowse_SNP_Coverage.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/JBrowse_SNP_Coverage.png"
 class="thumbimage" width="790" height="528" /></a>
 
 <div class="thumbcaption">
@@ -1898,7 +1898,7 @@ alignments.
 <div class="floatnone">
 
 <a href="File:JBrowse_alignment_and_coverage.png" class="image"><img
-src="../mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png"
 class="thumbborder" width="1124" height="699"
 alt="JBrowse displaying short-read alignments" /></a>
 
@@ -1978,7 +1978,7 @@ data as varying intensities of color.
 <div class="floatnone">
 
 <a href="File:Jbrowse_wiggle_tracks.png" class="image"><img
-src="../mediawiki/images/7/71/Jbrowse_wiggle_tracks.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Jbrowse_wiggle_tracks.png"
 class="thumbborder" width="915" height="284"
 alt="Jbrowse wiggle tracks.png" /></a>
 
@@ -2105,9 +2105,9 @@ with each variant.
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:JBrowse_variant_details.png" class="image"><img
-src="../mediawiki/images/thumb/3/3c/JBrowse_variant_details.png/800px-JBrowse_variant_details.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/JBrowse_variant_details.png/800px-JBrowse_variant_details.png"
 class="thumbimage"
-srcset="../mediawiki/images/3/3c/JBrowse_variant_details.png 1.5x, ../mediawiki/images/3/3c/JBrowse_variant_details.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 2x"
 width="800" height="771" /></a>
 
 <div class="thumbcaption">
@@ -2342,9 +2342,9 @@ can specify these bounds with the max and min options.
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:Wiggle-options.png" class="image"><img
-src="../mediawiki/images/thumb/2/26/Wiggle-options.png/600px-Wiggle-options.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/600px-Wiggle-options.png"
 class="thumbimage"
-srcset="../mediawiki/images/2/26/Wiggle-options.png 1.5x, ../mediawiki/images/2/26/Wiggle-options.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 2x"
 width="600" height="177" /></a>
 
 <div class="thumbcaption">
@@ -2438,9 +2438,9 @@ the Perl API for writing your own image track generators.
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:Basepair-options.png" class="image"><img
-src="../mediawiki/images/thumb/e/e2/Basepair-options.png/600px-Basepair-options.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/600px-Basepair-options.png"
 class="thumbimage"
-srcset="../mediawiki/images/e/e2/Basepair-options.png 1.5x, ../mediawiki/images/e/e2/Basepair-options.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 2x"
 width="600" height="203" /></a>
 
 <div class="thumbcaption">
@@ -2964,7 +2964,7 @@ An example appears in the Volvox example, on ctgB.
 
   
 <a href="File:JBrowse_bookmarks_example_a.png" class="image"><img
-src="../mediawiki/images/6/68/JBrowse_bookmarks_example_a.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowse_bookmarks_example_a.png"
 width="751" height="233" alt="JBrowse bookmarks example a.png" /></a>
 
 ## <span id="Embedded_mode" class="mw-headline">Embedded mode</span>
@@ -3367,9 +3367,9 @@ track selector.
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:JBrowseFacetedBrowsing.png" class="image"><img
-src="../mediawiki/images/thumb/6/68/JBrowseFacetedBrowsing.png/800px-JBrowseFacetedBrowsing.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/68/JBrowseFacetedBrowsing.png/800px-JBrowseFacetedBrowsing.png"
 class="thumbimage"
-srcset="../mediawiki/images/6/68/JBrowseFacetedBrowsing.png 1.5x, ../mediawiki/images/6/68/JBrowseFacetedBrowsing.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 2x"
 width="800" height="551" /></a>
 
 <div class="thumbcaption">
@@ -5000,8 +5000,8 @@ similar is still recommended for canvasfeatures.
 Example:
 
 <a href="File:ABLo6WJ.jpg" class="image"><img
-src="../mediawiki/images/thumb/5/50/ABLo6WJ.jpg/800px-ABLo6WJ.jpg"
-srcset="../mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1200px-ABLo6WJ.jpg 1.5x, ../mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1600px-ABLo6WJ.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/800px-ABLo6WJ.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1200px-ABLo6WJ.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1600px-ABLo6WJ.jpg 2x"
 width="800" height="433" alt="ABLo6WJ.jpg" /></a>
 
 ## <span id="Rendering_high_resolution_screenshots_using_Puppeteer" class="mw-headline">Rendering high resolution screenshots using Puppeteer</span>

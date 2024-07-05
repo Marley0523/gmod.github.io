@@ -43,7 +43,7 @@ Eric Just, Senior Bioinformatics Scientist,
 <a href="http://dictybase.org" class="external free"
 rel="nofollow">http://dictybase.org</a> Center for Genetic Medicine,
 Northwestern University. This is an edited version of
-<a href="../mediawiki/images/3/3d/Modware.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Modware.pdf" class="internal"
 title="Modware.pdf">Eric's presentation</a>.
 
 <div id="toc" class="toc">

@@ -48,8 +48,8 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="http://www.abrf2010.org/" rel="nofollow" title="ABRF 2010"><img
-src="../mediawiki/images/thumb/3/3c/ABRF2010Header.jpg/600px-ABRF2010Header.jpg"
-srcset="../mediawiki/images/3/3c/ABRF2010Header.jpg 1.5x, ../mediawiki/images/3/3c/ABRF2010Header.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/ABRF2010Header.jpg/600px-ABRF2010Header.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/ABRF2010Header.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/ABRF2010Header.jpg 2x"
 width="600" height="126" alt="ABRF 2010" /></a>
 </div>
 </div></td>
@@ -196,7 +196,7 @@ GBrowse, this is the menu that is give when the user selects a region in
 the details panel:
 
 <a href="File:Details_popup.png" class="image"><img
-src="../mediawiki/images/1/1d/Details_popup.png" width="255"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/Details_popup.png" width="255"
 height="105" alt="Details popup.png" /></a>
 
 When GBrowse navigates to a new location, it uses AJAX (Asynchonous
@@ -340,9 +340,9 @@ Changes:
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Gbrowse2_100bp_trimmed.png" class="image"><img
-src="../mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, ../mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
 width="180" height="207" /></a>
 
 <div class="thumbcaption">
@@ -528,8 +528,8 @@ class="external text" rel="nofollow">HG19 (subset) demo</a>
 The moving parts in JBrowse:
 
 <a href="File:Jbrowse_arch.png" class="image"><img
-src="../mediawiki/images/thumb/d/d0/Jbrowse_arch.png/600px-Jbrowse_arch.png"
-srcset="../mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, ../mediawiki/images/d/d0/Jbrowse_arch.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/600px-Jbrowse_arch.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/Jbrowse_arch.png 2x"
 width="600" height="776" alt="Jbrowse arch.png" /></a>
 
   

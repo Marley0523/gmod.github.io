@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:PrimerDesigner.png" class="image"><img
-src="../mediawiki/images/e/e1/PrimerDesigner.png" width="406"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/PrimerDesigner.png" width="406"
 height="161" alt="PrimerDesigner.png" /></a>
 
 </div>
@@ -122,14 +122,14 @@ PrimerDesigner plugin.
   select 'Design PCR primers' from the menu and click 'Configure'
 
 <a href="File:Reports_and_Analysis.png" class="image"><img
-src="../mediawiki/images/f/ff/Reports_and_Analysis.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/Reports_and_Analysis.png"
 class="thumbborder" width="431" height="104"
 alt="Reports and Analysis.png" /></a>
 
 - You will then see a view similar to this:
 
 <a href="File:PrimerDesigner_Front.png" class="image"><img
-src="../mediawiki/images/a/a2/PrimerDesigner_Front.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/PrimerDesigner_Front.png"
 class="thumbborder" width="886" height="595"
 alt="PrimerDesigner Front.png" /></a>
 
@@ -138,7 +138,7 @@ alt="PrimerDesigner Front.png" /></a>
   user interface.
 
 <a href="File:Zoom_pan.png" class="image"><img
-src="../mediawiki/images/4/40/Zoom_pan.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Zoom_pan.png" class="thumbborder"
 width="271" height="52" alt="Zoom pan.png" /></a>
 
 ### <span id="Selecting_the_target_for_the_PCR_primers" class="mw-headline">Selecting the target for the PCR primers</span>
@@ -157,14 +157,14 @@ width="271" height="52" alt="Zoom pan.png" /></a>
   with rubber-band selection.
 
 <a href="File:Target_Highlight.png" class="image"><img
-src="../mediawiki/images/5/5b/Target_Highlight.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Target_Highlight.png" class="thumbborder"
 width="851" height="288" alt="Target Highlight.png" /></a>
 
 - Once you are done selecting, release the mouse button and the page
   will reload with the selected region targeted for PCR primers
 
 <a href="File:Target_Selected.png" class="image"><img
-src="../mediawiki/images/7/76/Target_Selected.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Target_Selected.png" class="thumbborder"
 width="858" height="272" alt="Target Selected.png" /></a>
 
 ### <span id="PCR_primer_design_parameters" class="mw-headline">PCR primer design parameters</span>
@@ -178,7 +178,7 @@ width="858" height="272" alt="Target Selected.png" /></a>
   selected region. This can be manually adjusted, if desired.
 
 <a href="File:PCR_Params.png" class="image"><img
-src="../mediawiki/images/8/8e/PCR_Params.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/PCR_Params.png" class="thumbborder"
 width="850" height="148" alt="PCR Params.png" /></a>
 
 ### <span id="Predicted_PCR_Primer_Results" class="mw-headline">Predicted PCR Primer Results</span>
@@ -192,7 +192,7 @@ width="850" height="148" alt="PCR Params.png" /></a>
   for more detailed reports.
 
 <a href="File:PCR_Results.png" class="image"><img
-src="../mediawiki/images/4/42/PCR_Results.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/PCR_Results.png" class="thumbborder"
 width="883" height="811" alt="PCR Results.png" /></a>
 
 ### <span id="Note_On_Quality_Scores" class="mw-headline">Note On Quality Scores</span>
@@ -209,7 +209,7 @@ width="883" height="811" alt="PCR Results.png" /></a>
   be selected.
 
 <a href="File:Uh_oh.png" class="image"><img
-src="../mediawiki/images/e/e6/Uh_oh.png" class="thumbborder" width="862"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Uh_oh.png" class="thumbborder" width="862"
 height="198" alt="Uh oh.png" /></a>
 
 ## <span id="How_to_install_the_PrimerDesigner_plugin" class="mw-headline">How to install the PrimerDesigner plugin</span>

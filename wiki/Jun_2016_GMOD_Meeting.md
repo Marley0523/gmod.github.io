@@ -49,8 +49,8 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:GMOD2016ColorsBigLetters_300px.png" class="image"><img
-src="../mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/300px-GMOD2016ColorsBigLetters_300px.png"
-srcset="../mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x, ../mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/300px-GMOD2016ColorsBigLetters_300px.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x"
 width="300" height="252" alt="GMOD2016ColorsBigLetters 300px.png" /></a>
 </div>
 </div></td>
@@ -165,15 +165,15 @@ The registration fee includes lunch on June 30th.
 |----|----|----|----|
 | 08:50 | Pre-meeting continental breakfast |  |  |
 | 09:15 | Introductions |  |  |
-| 09:40 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/3/3e/GMOD2016_GMOD.pdf" class="internal"
-title="GMOD2016 GMOD.pdf">Intro</a>, <a href="../mediawiki/images/3/34/GMOD2016_InterMine.pdf"
+| 09:40 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/GMOD2016_GMOD.pdf" class="internal"
+title="GMOD2016 GMOD.pdf">Intro</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/GMOD2016_InterMine.pdf"
 class="internal" title="GMOD2016 InterMine.pdf">InterMine</a>, <a
 href="https://www.dropbox.com/s/7i39svwlegfr4rq/MAKER_GMOD_2016.pdf?dl=0"
 class="external text" rel="nofollow">MAKER</a> |
-| 10:10 | Introduction to uMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/7/7e/GMOD2016_uMOD.pdf" class="internal"
+| 10:10 | Introduction to uMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/GMOD2016_uMOD.pdf" class="internal"
 title="GMOD2016 uMOD.pdf">Slides</a> |
 | 10:35 | Coffee |  |  |
-| 10:50 | GMOD in Action: The Legume Federation Project | Ethalinda Cannon | <a href="../mediawiki/images/2/24/LegFed_GMOD2016.pdf" class="internal"
+| 10:50 | GMOD in Action: The Legume Federation Project | Ethalinda Cannon | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/LegFed_GMOD2016.pdf" class="internal"
 title="LegFed GMOD2016.pdf">Slides</a> |
 | 11:20 | [JBrowse](JBrowse.1 "JBrowse") Update | Eric Yao | <a
 href="https://drive.google.com/a/berkeley.edu/file/d/0BzJAAJpIcu9hVFloS2R6ZUxhcUE/view?usp=sharing"
@@ -198,7 +198,7 @@ class="external text" rel="nofollow">Slides</a> |
 |----|----|----|----|
 | 08:50 | Pre-meeting continental breakfast |  |  |
 | 09:15 | Tripal Expression module and search | Meg Staton | [Slides](File:GMOD_Staton.pdf "File:GMOD Staton.pdf") |
-| 09:45 | Lightning talks, including Asela Dassanayake, Eric Rasche and Thoba Lose |  | <a href="../mediawiki/images/1/15/GMOD_Asela.pdf" class="internal"
+| 09:45 | Lightning talks, including Asela Dassanayake, Eric Rasche and Thoba Lose |  | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/GMOD_Asela.pdf" class="internal"
 title="GMOD Asela.pdf">Asela/LanzaTech</a> |
 | 11:30 | Lunch (on your own) |  |  |
 | 1:00 | Tripal workshop |  |  |

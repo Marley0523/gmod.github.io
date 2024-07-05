@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:GBrowse_syn_logo.png" class="image"
 title="GBrowse syn"><img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse syn" /></a>
 
 </div>
@@ -179,7 +179,7 @@ VMware on Windows and Linux
 <div class="floatright">
 
 <a href="http://www.microsoft.com/" rel="nofollow" title="Windoze"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
 </div>
@@ -187,7 +187,7 @@ height="48" alt="Windoze" /></a>
 <div class="floatright">
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
 </div>
@@ -208,7 +208,7 @@ VMware on Mac OS X
 <div class="floatright">
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
 </div>
@@ -226,7 +226,7 @@ VMware Fusion
 <div class="floatright">
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"
-title="Fusion"><img src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg"
+title="Fusion"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg"
 width="48" height="48" alt="Fusion" /></a>
 
 </div>
@@ -248,7 +248,7 @@ VirtualBox
 <div class="floatright">
 
 <a href="File:VirtualBox-logo.png" class="image" title="VirtualBox"><img
-src="../mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
 height="48" alt="VirtualBox" /></a>
 
 </div>

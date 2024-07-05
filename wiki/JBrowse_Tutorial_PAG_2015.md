@@ -155,7 +155,7 @@ web-based genome browsers, including [GBrowse](GBrowse.1 "GBrowse").
 More detail: <a href="http://genome.cshlp.org/content/19/9/1630.full"
 class="external text" rel="nofollow">paper</a>
 
-<a href="../mediawiki/images/9/9a/JBrowse_PAG_2015.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9a/JBrowse_PAG_2015.pdf" class="internal"
 title="JBrowse PAG 2015.pdf">JBrowse presentation</a>
 
 ## <span id="Setting_up_JBrowse" class="mw-headline">Setting up JBrowse</span>
@@ -771,7 +771,7 @@ from the old JBrowse directory into the new JBrowse directory.
 ## <span id="Future_JBrowse_Plans" class="mw-headline">Future JBrowse Plans</span>
 
 See the
-<a href="../mediawiki/images/9/90/JBrowse_gmod_summerschool_jul2013.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/JBrowse_gmod_summerschool_jul2013.pdf"
 class="internal"
 title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 (PDF)</a>

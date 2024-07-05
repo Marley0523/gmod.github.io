@@ -140,7 +140,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:15px auto;">
 
   <a href="File:BioPerl_logo.jpg" class="image"><img
-  src="../mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/90px-BioPerl_logo.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/90px-BioPerl_logo.jpg"
   width="90" height="120" alt="BioPerl logo.jpg" /></a>
 
   </div>

@@ -179,9 +179,9 @@ available.
 <div class="thumbinner" style="width:402px;">
 
 <a href="File:GBrowse_syn.png" class="image"><img
-src="../mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, ../mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
 width="400" height="128" /></a>
 
 <div class="thumbcaption">
@@ -222,7 +222,7 @@ class="external text" rel="nofollow">SGN</a>.
 
 ## <span id="Gbrowse_syn_Introduction" class="mw-headline">Gbrowse_syn Introduction</span>
 
-- <span class="pops"><a href="../mediawiki/images/0/0a/GBS_PAG10.pdf" class="internal"
+- <span class="pops"><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/GBS_PAG10.pdf" class="internal"
   title="GBS PAG10.pdf">View introductory presentation in GBrowse_syn</a></span>
 - It would be a good idea to download or acquire the sample data during
   the above presentation.
@@ -373,7 +373,7 @@ alignment data***.
   href="http://feb2006.archive.ensembl.org/info/software/compara/compara_tutorial.html"
   class="external text" rel="nofollow">compara pipeline</a></span>.
 - See
-  <span class="pops"><a href="../mediawiki/images/c/cf/WGA_data.png" class="internal"
+  <span class="pops"><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/WGA_data.png" class="internal"
   title="WGA data.png">this generalized hierarchical whole genome
   alignment workflow</a></span> for general information on how whole
   genome alignment data ca be generated.
@@ -727,7 +727,7 @@ Note you will use 'localhost' if you are running your browser within the
 [VMware](#VMware) player.
 
 <a href="File:Rice_in_gbrowse.png" class="image"><img
-src="../mediawiki/images/6/65/Rice_in_gbrowse.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Rice_in_gbrowse.png" class="thumbborder"
 width="940" height="465" alt="Rice in gbrowse.png" /></a>
 
 ## <span id="Viewing_the_data_in_GBrowse_syn" class="mw-headline">Viewing the data in GBrowse_syn</span>
@@ -740,7 +740,7 @@ width="940" height="465" alt="Rice in gbrowse.png" /></a>
 
   
 <a href="File:Ihopethisworks2.png" class="image"><img
-src="../mediawiki/images/f/f8/Ihopethisworks2.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/Ihopethisworks2.png" class="thumbborder"
 width="1280" height="800" alt="Ihopethisworks2.png" /></a>
 
 # <span id="Optional_Advanced_Section" class="mw-headline">Optional Advanced Section</span>

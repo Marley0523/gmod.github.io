@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This Wiki page is an edited version of
-<a href="../mediawiki/images/2/23/InterMine_middleware.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/InterMine_middleware.pdf"
 class="internal" title="InterMine middleware.pdf">Gos's presentation</a>
 
 <div id="toc" class="toc">
@@ -160,7 +160,7 @@ rel="nofollow">FlyMine Project</a>
 
 <a href="File:Xfile_gene.png" class="image"
 title="xfile Gene details page"><img
-src="../mediawiki/images/e/ef/Xfile_gene.png" width="793" height="595"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Xfile_gene.png" width="793" height="595"
 alt="xfile Gene details page" /></a>
 
 #### <span id="Code_for_Problem_2:_Print_gene_annotation_report" class="mw-headline">Code for Problem 2: Print gene annotation report</span>

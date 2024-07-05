@@ -49,7 +49,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:2010SummerSchoolAmericas300.png" class="image"><img
-src="../mediawiki/images/f/ff/2010SummerSchoolAmericas300.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/2010SummerSchoolAmericas300.png"
 width="300" height="219" alt="2010SummerSchoolAmericas300.png" /></a>
 </div>
 </div></td>
@@ -71,8 +71,8 @@ Durham, NC, USA</span><br />
 <div class="floatnone">
 
 <a href="File:2010GMODSummerSchoolAmParticipants.jpg" class="image"><img
-src="../mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/500px-2010GMODSummerSchoolAmParticipants.jpg"
-srcset="../mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/750px-2010GMODSummerSchoolAmParticipants.jpg 1.5x, ../mediawiki/images/6/6e/2010GMODSummerSchoolAmParticipants.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/500px-2010GMODSummerSchoolAmParticipants.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/750px-2010GMODSummerSchoolAmParticipants.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/2010GMODSummerSchoolAmParticipants.jpg 2x"
 width="500" height="149"
 alt="2010GMODSummerSchoolAmParticipants.jpg" /></a>
 
@@ -425,7 +425,7 @@ GBrowse data.* This also requires installing Apache, and
 <div class="floatright">
 
 <a href="http://www.vmware.com" rel="nofollow" title="VMware"><img
-src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VMware" /></a>
 
 </div>
@@ -445,7 +445,7 @@ image in each succeeding session.
 <div class="floatright">
 
 <a href="http://www.microsoft.com/" rel="nofollow" title="Windows"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windows" /></a>
 
 </div>
@@ -453,7 +453,7 @@ height="48" alt="Windows" /></a>
 <div class="floatright">
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
 </div>
@@ -474,7 +474,7 @@ on your laptop.
 <div class="floatright">
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
 </div>
@@ -488,7 +488,7 @@ other options, **all of which require an Intel Mac**:
 <div class="floatright">
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"
-title="Fusion"><img src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg"
+title="Fusion"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg"
 width="48" height="48" alt="Fusion" /></a>
 
 </div>
@@ -508,7 +508,7 @@ free trial version of VMware Fusion available for download.**
 <div class="floatright">
 
 <a href="File:VirtualBox-logo.png" class="image"><img
-src="../mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
 height="48" alt="VirtualBox-logo.png" /></a>
 
 </div>
@@ -539,8 +539,8 @@ This course is *free* thanks to
 <div class="floatright">
 
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/140px-NESCentLogo152.jpg"
-srcset="../mediawiki/images/3/3a/NESCentLogo152.jpg 1.5x, ../mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/140px-NESCentLogo152.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="140" height="130" alt="NESCent" /></a>
 
 </div>

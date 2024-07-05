@@ -107,7 +107,7 @@ adding questions and answers.
 ### <span id="How_do_you_pronounce_chado.3F" class="mw-headline">How do you pronounce *chado*?</span>
 
 *Chado* is usually pronounced
-<a href="../mediawiki/images/e/e4/Chado.mp3" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/Chado.mp3" class="internal"
 title="Chado.mp3">like this</a>.
 
 ### <span id="How_does_one_represent_BLAST_results_in_Chado.3F_or_alignments.3F_or..." class="mw-headline">How does one represent BLAST results in Chado? or alignments? or...</span>

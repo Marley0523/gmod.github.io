@@ -312,7 +312,7 @@ web site. Why does this matter? Filenames are displayed in
 is. Therefore the filename should describe the contents of the file.
 
 For example, the file
-<a href="../mediawiki/images/a/a8/Gkl777.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/Gkl777.pdf" class="internal"
 title="Gkl777.pdf">Gkl777.pdf</a> is an article on
 [ParameciumDB](ParameciumDB "ParameciumDB") from _Nucleic Acids
 Research_, but if you look at the file's listing in the [Publications

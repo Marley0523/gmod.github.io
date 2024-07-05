@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:WorkInProgressTools.gif" class="image"
 title="Under Construction"><img
-src="../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
 height="48" alt="Under Construction" /></a>
 
 </div>

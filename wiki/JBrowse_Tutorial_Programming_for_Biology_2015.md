@@ -144,7 +144,7 @@ More detail: <a href="http://genome.cshlp.org/content/19/9/1630.full"
 class="external text" rel="nofollow">paper</a>
 
 <a
-href="../mediawiki/images/1/11/JBrowse_programming_for_biology_2015.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/JBrowse_programming_for_biology_2015.pdf"
 class="internal"
 title="JBrowse programming for biology 2015.pdf">JBrowse
 presentation</a>

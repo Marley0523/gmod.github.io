@@ -64,8 +64,8 @@ rel="nofollow">Github</a>.
 <div class="floatnone">
 
 <a href="File:WebApolloLogo.png" class="image"><img
-src="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
-srcset="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, ../mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
 width="400" height="111" alt="WebApollo logo" /></a>
 
 </div>
@@ -89,8 +89,8 @@ Status
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
 </div>
@@ -288,7 +288,7 @@ Community Annotation</td>
 <td>Gregg Helt, Ed Lee, Robert Buels, Christopher Childers, Justin
 Reese, Mónica Muñoz-Torres, Christine Elsik, Ian Holmes, and Suzanna
 Lewis</td>
-<td><a href="../mediawiki/images/e/ec/WebApollo_PAG_2013_Poster.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/WebApollo_PAG_2013_Poster.pdf"
 class="internal" title="WebApollo PAG 2013 Poster.pdf">Poster</a></td>
 </tr>
 <tr class="even">
@@ -307,11 +307,11 @@ rel="nofollow">i5K Community Workshop &amp; Arthropod Genomics
 Symposium</a></td>
 <td>WebApollo Demo</td>
 <td>Gregg Helt, Ed Lee, Monica Muñoz-Torres</td>
-<td><a href="../mediawiki/images/7/72/WebApollo_Demo_i5K-AGS_2012.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/WebApollo_Demo_i5K-AGS_2012.pdf"
 class="internal"
 title="WebApollo Demo i5K-AGS 2012.pdf">Tutorial</a><br />
 <a
-href="../mediawiki/images/e/ea/WebApollo_Arthropod_Genomics_2012_poster.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/WebApollo_Arthropod_Genomics_2012_poster.pdf"
 class="internal"
 title="WebApollo Arthropod Genomics 2012 poster.pdf">Poster</a></td>
 </tr>
@@ -323,7 +323,7 @@ class="external text" rel="nofollow">Biocuration 2012</a></td>
 Distributed Community Annotation</em></td>
 <td>Gregg Helt</td>
 <td><a
-href="../mediawiki/images/0/03/Biocuration-abstract-v1-shortened.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Biocuration-abstract-v1-shortened.pdf"
 class="internal"
 title="Biocuration-abstract-v1-shortened.pdf">Biocuration
 abstract</a></td>
@@ -342,7 +342,7 @@ rel="nofollow">PAG (Plant and Animal Genome) conference</a></td>
 rel="nofollow">Entomological Society of America</a></td>
 <td>WebApollo demo/tutorial</td>
 <td>Gregg Helt, Ed Lee, Monica Muñoz-Torres</td>
-<td><a href="../mediawiki/images/6/6b/WebApollo_at_ESA_Flyer.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WebApollo_at_ESA_Flyer.pdf"
 class="internal" title="WebApollo at ESA Flyer.pdf">Flyer for
 tutorial</a></td>
 </tr>
@@ -352,7 +352,7 @@ tutorial</a></td>
 <td><em>Manual Curation of Automated Gene Models</em></td>
 <td>Mónica Muñoz-Torres</td>
 <td><a
-href="../mediawiki/images/5/53/NGS_workshop_annotation_AP-&amp;-MMT.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/NGS_workshop_annotation_AP-&amp;-MMT.pdf"
 class="internal"
 title="NGS workshop annotation AP-&amp;-MMT.pdf">Slides</a></td>
 </tr>
@@ -366,12 +366,12 @@ Synthesis Center (NESCent))</a></td>
 <td>Talk: <em>Biocuration, Best Practices.</em><br />
 Workshop: <em>Manual Curation of Automated Gene Models.</em></td>
 <td>Mónica Muñoz-Torres</td>
-<td><a href="../mediawiki/images/a/ab/NESCent-NGS-Biocuration-MMT.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/NESCent-NGS-Biocuration-MMT.pdf"
 class="internal" title="NESCent-NGS-Biocuration-MMT.pdf">T: Slides</a>
 <a href="http://academy.nescent.org/wg/academy/images/7/76/Moni1.mp3"
 class="external text" rel="nofollow">T: Audio</a><br />
 <a
-href="../mediawiki/images/5/53/NGS_workshop_annotation_AP-&amp;-MMT.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/NGS_workshop_annotation_AP-&amp;-MMT.pdf"
 class="internal" title="NGS workshop annotation AP-&amp;-MMT.pdf">W:
 Slides</a> <a
 href="http://academy.nescent.org/wg/academy/images/e/e5/Moni2.mp3"
@@ -385,7 +385,7 @@ Conference (BOSC) 2011</a></td>
 <td>'WebApollo: A web-based sequence annotation editor for community
 annotation'</td>
 <td>Nomi Harris</td>
-<td><a href="../mediawiki/images/7/70/BOSC2011-abstract.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/BOSC2011-abstract.pdf"
 class="internal" title="BOSC2011-abstract.pdf">Abstract</a><br />
 <a href="http://www.slideshare.net/bosc2011/webapollo-bosc2011"
 class="external text" rel="nofollow">Slides</a></td>

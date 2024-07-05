@@ -102,7 +102,7 @@ The following 2 files are in this category, out of 2 total.
   <div style="margin:54px auto;">
 
   <a href="File:TAIR_logo.gif" class="image"><img
-  src="../mediawiki/images/7/7c/TAIR_logo.gif" width="120" height="42"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/TAIR_logo.gif" width="120" height="42"
   alt="TAIR logo.gif" /></a>
 
   </div>

@@ -261,7 +261,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:50px auto;">
 
   <a href="File:GCC2014Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
   width="120" height="50" alt="GCC2014Logo.png" /></a>
 
   </div>
@@ -332,7 +332,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:21px auto;">
 
   <a href="File:July2008Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/6/6a/July2008Logo.png/120px-July2008Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6a/July2008Logo.png/120px-July2008Logo.png"
   width="120" height="108" alt="July2008Logo.png" /></a>
 
   </div>

@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:TextpressoLogo.jpg" class="image"><img
-src="../mediawiki/images/c/c4/TextpressoLogo.jpg" width="400"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/TextpressoLogo.jpg" width="400"
 height="126" alt="Textpresso logo" /></a>
 
 </div>

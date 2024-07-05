@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:WebGBrowseLogo.png" class="image"><img
-src="../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/400px-WebGBrowseLogo.png"
-srcset="../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/600px-WebGBrowseLogo.png 1.5x, ../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/800px-WebGBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/400px-WebGBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/600px-WebGBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/800px-WebGBrowseLogo.png 2x"
 width="400" height="78" alt="WebGBrowse logo" /></a>
 
 </div>
@@ -164,9 +164,9 @@ rel="nofollow">WebGBrowse website</a>.
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:WebGBrowseAddTrack.jpg" class="image"><img
-src="../mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/300px-WebGBrowseAddTrack.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/300px-WebGBrowseAddTrack.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/450px-WebGBrowseAddTrack.jpg 1.5x, ../mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/600px-WebGBrowseAddTrack.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/450px-WebGBrowseAddTrack.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/600px-WebGBrowseAddTrack.jpg 2x"
 width="300" height="111" /></a>
 
 <div class="thumbcaption">
@@ -258,7 +258,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 <a href="http://cgb.indiana.edu/" rel="nofollow"
 title="WebGBrowse at the Center for Genomics and Bioinformatics"><img
-src="../mediawiki/images/4/41/Cgb_logo.png" width="164" height="83"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/41/Cgb_logo.png" width="164" height="83"
 alt="WebGBrowse at the Center for Genomics and Bioinformatics" /></a>
 
 </div>

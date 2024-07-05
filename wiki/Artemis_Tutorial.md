@@ -48,7 +48,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:Artemis_logo.gif" class="image" title="Artemis"><img
-src="../mediawiki/images/c/c3/Artemis_logo.gif" width="250" height="159"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Artemis_logo.gif" width="250" height="159"
 alt="Artemis" /></a>
 
 </div>
@@ -313,7 +313,7 @@ This opens the login window:
 
   
 <a href="File:ArtemisLogin.gif" class="image"><img
-src="../mediawiki/images/7/73/ArtemisLogin.gif" width="550" height="253"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/73/ArtemisLogin.gif" width="550" height="253"
 alt="ArtemisLogin.gif" /></a>
 
   
@@ -324,7 +324,7 @@ the bottom comprises the file management:
 
   
 <a href="File:DatabaseManager.gif" class="image"><img
-src="../mediawiki/images/2/27/DatabaseManager.gif" width="434"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/DatabaseManager.gif" width="434"
 height="867" alt="DatabaseManager.gif" /></a>
 
   
@@ -333,7 +333,7 @@ Artemis.
 
   
 <a href="File:Artemis.gif" class="image"><img
-src="../mediawiki/images/5/5d/Artemis.gif" width="900" height="700"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/Artemis.gif" width="900" height="700"
 alt="Artemis.gif" /></a>
 
   
@@ -370,7 +370,7 @@ annotation added.
 
   
 <a href="File:GeneBuilder.gif" class="image" title="GeneBuilder"><img
-src="../mediawiki/images/c/c1/GeneBuilder.gif" width="760" height="921"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/GeneBuilder.gif" width="760" height="921"
 alt="GeneBuilder" /></a>
 
   
@@ -531,7 +531,7 @@ the 'Controlled Vocabulary' section and click the 'ADD' button. This CV
 
   
 <a href="File:AddCV.gif" class="image"><img
-src="../mediawiki/images/b/b8/AddCV.gif" width="284" height="172"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/AddCV.gif" width="284" height="172"
 alt="AddCV.gif" /></a>
 
   
@@ -595,7 +595,7 @@ feature_id):
 
   
 <a href="File:ActSelection2seqs.gif" class="image"><img
-src="../mediawiki/images/a/a3/ActSelection2seqs.gif" width="528"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a3/ActSelection2seqs.gif" width="528"
 height="187" alt="ActSelection2seqs.gif" /></a>
 
   
@@ -605,7 +605,7 @@ indentify the regions that match between these sequences.
 
   
 <a href="File:Pf10_Pk6.gif" class="image"><img
-src="../mediawiki/images/3/3c/Pf10_Pk6.gif" width="900" height="700"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/Pf10_Pk6.gif" width="900" height="700"
 alt="Pf10 Pk6.gif" /></a>
 
   
@@ -617,7 +617,7 @@ files' to add the additional sequence and comparison).
 
   
 <a href="File:ActSelection.gif" class="image"><img
-src="../mediawiki/images/b/b5/ActSelection.gif" width="528" height="245"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/ActSelection.gif" width="528" height="245"
 alt="ActSelection.gif" /></a>
 
   
@@ -626,7 +626,7 @@ regions in *Pknowlesi* chromosome 7 and 9.
 
   
 <a href="File:Pk6_Pf10_Pk8.gif" class="image"><img
-src="../mediawiki/images/2/2a/Pk6_Pf10_Pk8.gif" width="900" height="700"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/Pk6_Pf10_Pk8.gif" width="900" height="700"
 alt="Pk6 Pf10 Pk8.gif" /></a>
 
   

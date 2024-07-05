@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/5/5d/GoogleSummer_2016logo.jpg"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg"
 width="373" height="373" alt="GoogleSummer 2016logo.jpg" />](GSoC "GSoC")
 
 </div>

@@ -47,8 +47,8 @@ Information on and tutorials from the 2012 GMOD Summer School.
 <div class="floatnone">
 
 <a href="File:Summer-school-splash.jpg" class="image"><img
-src="../mediawiki/images/thumb/3/32/Summer-school-splash.jpg/600px-Summer-school-splash.jpg"
-srcset="../mediawiki/images/3/32/Summer-school-splash.jpg 1.5x, ../mediawiki/images/3/32/Summer-school-splash.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/32/Summer-school-splash.jpg/600px-Summer-school-splash.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg 2x"
 width="600" height="304" alt="Summer-school-splash.jpg" /></a>
 
 </div>

@@ -222,8 +222,8 @@ directory, `cd public_html` and do a file list to make sure it looks
 right:
 
 <a href="File:Public_html_listing_updated.png" class="image"><img
-src="../mediawiki/images/thumb/8/80/Public_html_listing_updated.png/500px-Public_html_listing_updated.png"
-srcset="../mediawiki/images/thumb/8/80/Public_html_listing_updated.png/750px-Public_html_listing_updated.png 1.5x, ../mediawiki/images/8/80/Public_html_listing_updated.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Public_html_listing_updated.png/500px-Public_html_listing_updated.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Public_html_listing_updated.png/750px-Public_html_listing_updated.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Public_html_listing_updated.png 2x"
 width="500" height="79" alt="Public html listing updated.png" /></a>
 
 This is all of the software required to run JBrowse, plus soft links to
@@ -237,8 +237,8 @@ substitute in your username in the URL)
 
   
 <a href="File:New_jbrowse_page.png" class="image"><img
-src="../mediawiki/images/thumb/8/8c/New_jbrowse_page.png/800px-New_jbrowse_page.png"
-srcset="../mediawiki/images/thumb/8/8c/New_jbrowse_page.png/1200px-New_jbrowse_page.png 1.5x, ../mediawiki/images/thumb/8/8c/New_jbrowse_page.png/1600px-New_jbrowse_page.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8c/New_jbrowse_page.png/800px-New_jbrowse_page.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8c/New_jbrowse_page.png/1200px-New_jbrowse_page.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8c/New_jbrowse_page.png/1600px-New_jbrowse_page.png 2x"
 width="800" height="138" alt="New jbrowse page.png" /></a>
 
 To make sure it really works, we can click on the *Volvox* (not really
@@ -290,8 +290,8 @@ new session and then launch a LinearGenomeView. You should get a dialog
 to open an assembly with "C. elegans N2" as the only option.
 
 <a href="File:New_assembly.png" class="image"><img
-src="../mediawiki/images/thumb/d/d6/New_assembly.png/800px-New_assembly.png"
-srcset="../mediawiki/images/thumb/d/d6/New_assembly.png/1200px-New_assembly.png 1.5x, ../mediawiki/images/thumb/d/d6/New_assembly.png/1600px-New_assembly.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/New_assembly.png/800px-New_assembly.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/New_assembly.png/1200px-New_assembly.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/New_assembly.png/1600px-New_assembly.png 2x"
 width="800" height="165" alt="New assembly.png" /></a>
 
 Go ahead and open chromosome I.
@@ -381,8 +381,8 @@ usually three characters plus a hyphen plus a number). Try "unc" if
 nothing else comes to mind.
 
 <a href="File:Gene_name_search.png" class="image"><img
-src="../mediawiki/images/thumb/5/51/Gene_name_search.png/500px-Gene_name_search.png"
-srcset="../mediawiki/images/thumb/5/51/Gene_name_search.png/750px-Gene_name_search.png 1.5x, ../mediawiki/images/5/51/Gene_name_search.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/Gene_name_search.png/500px-Gene_name_search.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/Gene_name_search.png/750px-Gene_name_search.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/Gene_name_search.png 2x"
 width="500" height="501" alt="Gene name search.png" /></a>
 
 ## <span id="Adding_a_gene_track_from_a_JBrowse_.28NCList.29_track" class="mw-headline">Adding a gene track from a JBrowse (NCList) track</span>
@@ -405,8 +405,8 @@ here to load a track that has just protein coding genes:
 Note that the --load option isn't required for URLs.
 
 <a href="File:Protein_coding_genes.png" class="image"><img
-src="../mediawiki/images/thumb/5/59/Protein_coding_genes.png/800px-Protein_coding_genes.png"
-srcset="../mediawiki/images/thumb/5/59/Protein_coding_genes.png/1200px-Protein_coding_genes.png 1.5x, ../mediawiki/images/thumb/5/59/Protein_coding_genes.png/1600px-Protein_coding_genes.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Protein_coding_genes.png/800px-Protein_coding_genes.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Protein_coding_genes.png/1200px-Protein_coding_genes.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Protein_coding_genes.png/1600px-Protein_coding_genes.png 2x"
 width="800" height="374" alt="Protein coding genes.png" /></a>
 
 #### <span id="Side_note:_finding_JBrowse_1_data" class="mw-headline">Side note: finding JBrowse 1 data</span>
@@ -417,13 +417,13 @@ config" for a track to get the details of where the data are coming from
 (look for the urlTemplate entry).
 
 <a href="File:Jbrowse1_edit_menu.png" class="image"><img
-src="../mediawiki/images/thumb/2/26/Jbrowse1_edit_menu.png/400px-Jbrowse1_edit_menu.png"
-srcset="../mediawiki/images/thumb/2/26/Jbrowse1_edit_menu.png/600px-Jbrowse1_edit_menu.png 1.5x, ../mediawiki/images/2/26/Jbrowse1_edit_menu.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Jbrowse1_edit_menu.png/400px-Jbrowse1_edit_menu.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Jbrowse1_edit_menu.png/600px-Jbrowse1_edit_menu.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Jbrowse1_edit_menu.png 2x"
 width="400" height="258" alt="Jbrowse1 edit menu.png" /></a>
 
 <a href="File:Jbrowse1_edit_dialog.png" class="image"><img
-src="../mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/400px-Jbrowse1_edit_dialog.png"
-srcset="../mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/600px-Jbrowse1_edit_dialog.png 1.5x, ../mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/800px-Jbrowse1_edit_dialog.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/400px-Jbrowse1_edit_dialog.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/600px-Jbrowse1_edit_dialog.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/Jbrowse1_edit_dialog.png/800px-Jbrowse1_edit_dialog.png 2x"
 width="400" height="290" alt="Jbrowse1 edit dialog.png" /></a>
 
 If the urlTemplate entry is a relative URL, you'll have to combine that
@@ -455,8 +455,8 @@ provide a URL for the file and give the track a name:
      
 
 <a href="File:CENDER_BAM.png" class="image"><img
-src="../mediawiki/images/thumb/b/b6/CENDER_BAM.png/800px-CENDER_BAM.png"
-srcset="../mediawiki/images/thumb/b/b6/CENDER_BAM.png/1200px-CENDER_BAM.png 1.5x, ../mediawiki/images/thumb/b/b6/CENDER_BAM.png/1600px-CENDER_BAM.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/CENDER_BAM.png/800px-CENDER_BAM.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/CENDER_BAM.png/1200px-CENDER_BAM.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/CENDER_BAM.png/1600px-CENDER_BAM.png 2x"
 width="800" height="424" alt="CENDER BAM.png" /></a>
 
 By default, both the coverage plot and individual alignments are shown
@@ -472,8 +472,8 @@ the coloring of the glyphs according to a variety of parameters. Below
 is is an example with the "per base quality" coloring turned on:
 
 <a href="File:Per_base_qual_coloring.png" class="image"><img
-src="../mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/800px-Per_base_qual_coloring.png"
-srcset="../mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/1200px-Per_base_qual_coloring.png 1.5x, ../mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/1600px-Per_base_qual_coloring.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/800px-Per_base_qual_coloring.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/1200px-Per_base_qual_coloring.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Per_base_qual_coloring.png/1600px-Per_base_qual_coloring.png 2x"
 width="800" height="347" alt="Per base qual coloring.png" /></a>
 
 ## <span id="Adding_variant_data_from_a_tabix-indexed_VCF" class="mw-headline">Adding variant data from a tabix-indexed VCF</span>
@@ -499,8 +499,8 @@ track:
 The result up to this point looks something like this:
 
 <a href="File:Cendr_vcf_track2.png" class="image"><img
-src="../mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/800px-Cendr_vcf_track2.png"
-srcset="../mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/1200px-Cendr_vcf_track2.png 1.5x, ../mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/1600px-Cendr_vcf_track2.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/800px-Cendr_vcf_track2.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/1200px-Cendr_vcf_track2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/Cendr_vcf_track2.png/1600px-Cendr_vcf_track2.png 2x"
 width="800" height="172" alt="Cendr vcf track2.png" /></a>
 
 ## <span id="Adding_quantitative_data_from_a_BigWig" class="mw-headline">Adding quantitative data from a BigWig</span>
@@ -520,8 +520,8 @@ command that is again very similar to the previous commands:
      
 
 <a href="File:Frameusage_bigwig.png" class="image"><img
-src="../mediawiki/images/thumb/8/87/Frameusage_bigwig.png/800px-Frameusage_bigwig.png"
-srcset="../mediawiki/images/thumb/8/87/Frameusage_bigwig.png/1200px-Frameusage_bigwig.png 1.5x, ../mediawiki/images/thumb/8/87/Frameusage_bigwig.png/1600px-Frameusage_bigwig.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/Frameusage_bigwig.png/800px-Frameusage_bigwig.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/Frameusage_bigwig.png/1200px-Frameusage_bigwig.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/Frameusage_bigwig.png/1600px-Frameusage_bigwig.png 2x"
 width="800" height="237" alt="Frameusage bigwig.png" /></a>
 
   
@@ -605,8 +605,8 @@ Yes, that is a ridiculously long command. The result with all three
 bigwigs in one track looks like this:
 
 <a href="File:Multiwiggle_frame_usage.png" class="image"><img
-src="../mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/800px-Multiwiggle_frame_usage.png"
-srcset="../mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/1200px-Multiwiggle_frame_usage.png 1.5x, ../mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/1600px-Multiwiggle_frame_usage.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/800px-Multiwiggle_frame_usage.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/1200px-Multiwiggle_frame_usage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Multiwiggle_frame_usage.png/1600px-Multiwiggle_frame_usage.png 2x"
 width="800" height="254" alt="Multiwiggle frame usage.png" /></a>
 
 Note that I use this method of creating tracks pretty frequently: I
@@ -623,8 +623,8 @@ browser, click the "hamburger menu" next to the "filter tracks" field at
 the top of the "Available tracks" panel:
 
 <a href="File:Facet_menu.png" class="image"><img
-src="../mediawiki/images/thumb/9/9e/Facet_menu.png/250px-Facet_menu.png"
-srcset="../mediawiki/images/thumb/9/9e/Facet_menu.png/375px-Facet_menu.png 1.5x, ../mediawiki/images/9/9e/Facet_menu.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9e/Facet_menu.png/250px-Facet_menu.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9e/Facet_menu.png/375px-Facet_menu.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Facet_menu.png 2x"
 width="250" height="331" alt="Facet menu.png" /></a>
 
 In the resulting dialog, the facets that are provided in the
@@ -635,8 +635,8 @@ hundreds of tracks, this provides a way to help users find the data they
 want.
 
 <a href="File:Facet.png" class="image"><img
-src="../mediawiki/images/thumb/b/b3/Facet.png/1000px-Facet.png"
-srcset="../mediawiki/images/thumb/b/b3/Facet.png/1500px-Facet.png 1.5x, ../mediawiki/images/thumb/b/b3/Facet.png/2000px-Facet.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/Facet.png/1000px-Facet.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/Facet.png/1500px-Facet.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/Facet.png/2000px-Facet.png 2x"
 width="1000" height="317" alt="Facet.png" /></a>
 
 ## <span id="Synteny" class="mw-headline">Synteny</span>
@@ -737,8 +737,8 @@ menu, it will open a new synteny display. After opening the gene tracks
 for each assembly, it will look something like this:
 
 <a href="File:Synteny_with_genes.png" class="image"><img
-src="../mediawiki/images/thumb/c/c4/Synteny_with_genes.png/800px-Synteny_with_genes.png"
-srcset="../mediawiki/images/thumb/c/c4/Synteny_with_genes.png/1200px-Synteny_with_genes.png 1.5x, ../mediawiki/images/thumb/c/c4/Synteny_with_genes.png/1600px-Synteny_with_genes.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c4/Synteny_with_genes.png/800px-Synteny_with_genes.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c4/Synteny_with_genes.png/1200px-Synteny_with_genes.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c4/Synteny_with_genes.png/1600px-Synteny_with_genes.png 2x"
 width="800" height="544" alt="Synteny with genes.png" /></a>
 
 Note that the pink/salmon colored synteny regions in the linear genome
@@ -761,16 +761,16 @@ newly created synteny track (otherwise it should already be there).
 Click "Launch."
 
 <a href="File:Briggsae_synteny_launch_dialog.png" class="image"><img
-src="../mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/600px-Briggsae_synteny_launch_dialog.png"
-srcset="../mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/900px-Briggsae_synteny_launch_dialog.png 1.5x, ../mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/1200px-Briggsae_synteny_launch_dialog.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/600px-Briggsae_synteny_launch_dialog.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/900px-Briggsae_synteny_launch_dialog.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/Briggsae_synteny_launch_dialog.png/1200px-Briggsae_synteny_launch_dialog.png 2x"
 width="600" height="271" alt="Briggsae synteny launch dialog.png" /></a>
 
 That will create this moderately messy dotplot (at least we can see
 there are regions in corresponding chromosomes that have synteny!):
 
 <a href="File:Elegans_briggsae_dotplot.png" class="image"><img
-src="../mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/1000px-Elegans_briggsae_dotplot.png"
-srcset="../mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/1500px-Elegans_briggsae_dotplot.png 1.5x, ../mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/2000px-Elegans_briggsae_dotplot.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/1000px-Elegans_briggsae_dotplot.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/1500px-Elegans_briggsae_dotplot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/Elegans_briggsae_dotplot.png/2000px-Elegans_briggsae_dotplot.png 2x"
 width="1000" height="457" alt="Elegans briggsae dotplot.png" /></a>
 
 We can either zoom in or open a synteny view by using the mouse to
@@ -779,8 +779,8 @@ fairly long synteny in *C. elegans* chromosome II and going to the
 synteny view gives us something like this:
 
 <a href="File:Elegans_briggsae_synteny.png" class="image"><img
-src="../mediawiki/images/thumb/9/91/Elegans_briggsae_synteny.png/1200px-Elegans_briggsae_synteny.png"
-srcset="../mediawiki/images/thumb/9/91/Elegans_briggsae_synteny.png/1800px-Elegans_briggsae_synteny.png 1.5x, ../mediawiki/images/9/91/Elegans_briggsae_synteny.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/Elegans_briggsae_synteny.png/1200px-Elegans_briggsae_synteny.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/91/Elegans_briggsae_synteny.png/1800px-Elegans_briggsae_synteny.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/91/Elegans_briggsae_synteny.png 2x"
 width="1200" height="468" alt="Elegans briggsae synteny.png" /></a>
 
 Note that when we have crossing synteny blocks, we can horizontally flip
@@ -789,14 +789,14 @@ rather that the default increasing left to right) by accessing the menu
 in the up left corner of the frame.
 
 <a href="File:Briggsae_synteny_horizontal_flip.png" class="image"><img
-src="../mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/400px-Briggsae_synteny_horizontal_flip.png"
-srcset="../mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/600px-Briggsae_synteny_horizontal_flip.png 1.5x, ../mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/800px-Briggsae_synteny_horizontal_flip.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/400px-Briggsae_synteny_horizontal_flip.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/600px-Briggsae_synteny_horizontal_flip.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Briggsae_synteny_horizontal_flip.png/800px-Briggsae_synteny_horizontal_flip.png 2x"
 width="400" height="321"
 alt="Briggsae synteny horizontal flip.png" /></a>
 
 <a href="File:Post_flip_synteny.png" class="image"><img
-src="../mediawiki/images/thumb/2/2e/Post_flip_synteny.png/1200px-Post_flip_synteny.png"
-srcset="../mediawiki/images/thumb/2/2e/Post_flip_synteny.png/1800px-Post_flip_synteny.png 1.5x, ../mediawiki/images/2/2e/Post_flip_synteny.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/Post_flip_synteny.png/1200px-Post_flip_synteny.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/Post_flip_synteny.png/1800px-Post_flip_synteny.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/Post_flip_synteny.png 2x"
 width="1200" height="468" alt="Post flip synteny.png" /></a>
 
 Now we can more easily zoom into regions we might be interested in.
@@ -819,8 +819,8 @@ reads. To start, we can use this url for the Manta VCF file:
      https://s3.amazonaws.com/agrjbrowse/MOD-jbrowses/WormBase/static_tracks/modencode-bucket/test/maroilley/candidateSV.vcf.gz
 
 <a href="File:SV_new_view_dialog.png" class="image"><img
-src="../mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/400px-SV_new_view_dialog.png"
-srcset="../mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/600px-SV_new_view_dialog.png 1.5x, ../mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/800px-SV_new_view_dialog.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/400px-SV_new_view_dialog.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/600px-SV_new_view_dialog.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/SV_new_view_dialog.png/800px-SV_new_view_dialog.png 2x"
 width="400" height="427" alt="SV new view dialog.png" /></a>
 
 And when we click "Open", we get a view that has a spreadsheet of the
@@ -828,8 +828,8 @@ predictions and a circular genome view with arcs drawn for the predicted
 variants.
 
 <a href="File:SV_spreadsheet_circular.png" class="image"><img
-src="../mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/1000px-SV_spreadsheet_circular.png"
-srcset="../mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/1500px-SV_spreadsheet_circular.png 1.5x, ../mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/2000px-SV_spreadsheet_circular.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/1000px-SV_spreadsheet_circular.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/1500px-SV_spreadsheet_circular.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/SV_spreadsheet_circular.png/2000px-SV_spreadsheet_circular.png 2x"
 width="1000" height="391" alt="SV spreadsheet circular.png" /></a>
 
 To make full use of this view, though, we need two tracks: one for the
@@ -876,8 +876,8 @@ view. Finally, clicking on that arc gives us two stacked linear genome
 views of the two regions with the predicted rearrangement:
 
 <a href="File:Empty_rearrangement_views.png" class="image"><img
-src="../mediawiki/images/thumb/8/87/Empty_rearrangement_views.png/1200px-Empty_rearrangement_views.png"
-srcset="../mediawiki/images/thumb/8/87/Empty_rearrangement_views.png/1800px-Empty_rearrangement_views.png 1.5x, ../mediawiki/images/8/87/Empty_rearrangement_views.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/Empty_rearrangement_views.png/1200px-Empty_rearrangement_views.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/Empty_rearrangement_views.png/1800px-Empty_rearrangement_views.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/87/Empty_rearrangement_views.png 2x"
 width="1200" height="228" alt="Empty rearrangement views.png" /></a>
 
 Now we can click on the open track selector buttons for each of the
@@ -885,8 +885,8 @@ linear genome views, and open the BAM and VCF tracks for each, resulting
 in a view like this:
 
 <a href="File:SV_BAM_view.png" class="image"><img
-src="../mediawiki/images/thumb/4/4b/SV_BAM_view.png/900px-SV_BAM_view.png"
-srcset="../mediawiki/images/thumb/4/4b/SV_BAM_view.png/1350px-SV_BAM_view.png 1.5x, ../mediawiki/images/thumb/4/4b/SV_BAM_view.png/1800px-SV_BAM_view.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/SV_BAM_view.png/900px-SV_BAM_view.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/SV_BAM_view.png/1350px-SV_BAM_view.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/SV_BAM_view.png/1800px-SV_BAM_view.png 2x"
 width="900" height="744" alt="SV BAM view.png" /></a>
 
 This view is a little messy because there are lots of curves showing
@@ -914,8 +914,8 @@ in the track selector, and select "Copy track" from the drop down menu
 wouldn't be greyed out).
 
 <a href="File:Local_copy_track.png" class="image"><img
-src="../mediawiki/images/thumb/4/40/Local_copy_track.png/500px-Local_copy_track.png"
-srcset="../mediawiki/images/thumb/4/40/Local_copy_track.png/750px-Local_copy_track.png 1.5x, ../mediawiki/images/thumb/4/40/Local_copy_track.png/1000px-Local_copy_track.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Local_copy_track.png/500px-Local_copy_track.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Local_copy_track.png/750px-Local_copy_track.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Local_copy_track.png/1000px-Local_copy_track.png 2x"
 width="500" height="353" alt="Local copy track.png" /></a>
 
 ### <span id="Dynamically_changing_the_color" class="mw-headline">Dynamically changing the color</span>
@@ -957,8 +957,8 @@ Enter that in the field where goldenrod used to be, and see the genes
 change to either red or grey depending on which strand they are on.
 
 <a href="File:Jexl_change_glyph_color.png" class="image"><img
-src="../mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/600px-Jexl_change_glyph_color.png"
-srcset="../mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/900px-Jexl_change_glyph_color.png 1.5x, ../mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/1200px-Jexl_change_glyph_color.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/600px-Jexl_change_glyph_color.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/900px-Jexl_change_glyph_color.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/Jexl_change_glyph_color.png/1200px-Jexl_change_glyph_color.png 2x"
 width="600" height="486" alt="Jexl change glyph color.png" /></a>
 
 ### <span id="Dynamically_changing_the_mouseover_text" class="mw-headline">Dynamically changing the mouseover text</span>
@@ -984,8 +984,8 @@ where the "name" JEXL was. This tells JBrowse to get the feature's
 "locus" attribute and then prepend it with "Locus: " in the tooltip.
 
 <a href="File:Jexl_change_mouseover.png" class="image"><img
-src="../mediawiki/images/thumb/3/3b/Jexl_change_mouseover.png/600px-Jexl_change_mouseover.png"
-srcset="../mediawiki/images/thumb/3/3b/Jexl_change_mouseover.png/900px-Jexl_change_mouseover.png 1.5x, ../mediawiki/images/3/3b/Jexl_change_mouseover.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3b/Jexl_change_mouseover.png/600px-Jexl_change_mouseover.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3b/Jexl_change_mouseover.png/900px-Jexl_change_mouseover.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Jexl_change_mouseover.png 2x"
 width="600" height="385" alt="Jexl change mouseover.png" /></a>
 
 ### <span id="Getting_the_config" class="mw-headline">Getting the config</span>
@@ -998,15 +998,15 @@ can select the "About this track" from the "..." menu and then pressing
 the "Copy config" button.
 
 <a href="File:JB2_track_about_box.png" class="image"><img
-src="../mediawiki/images/thumb/7/75/JB2_track_about_box.png/600px-JB2_track_about_box.png"
-srcset="../mediawiki/images/thumb/7/75/JB2_track_about_box.png/900px-JB2_track_about_box.png 1.5x, ../mediawiki/images/thumb/7/75/JB2_track_about_box.png/1200px-JB2_track_about_box.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/75/JB2_track_about_box.png/600px-JB2_track_about_box.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/75/JB2_track_about_box.png/900px-JB2_track_about_box.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/75/JB2_track_about_box.png/1200px-JB2_track_about_box.png 2x"
 width="600" height="289" alt="JB2 track about box.png" /></a>
 
 Pasting that into a text editor will give you the full track json:
 
 <a href="File:JB2_track_json.png" class="image"><img
-src="../mediawiki/images/thumb/f/f5/JB2_track_json.png/600px-JB2_track_json.png"
-srcset="../mediawiki/images/thumb/f/f5/JB2_track_json.png/900px-JB2_track_json.png 1.5x, ../mediawiki/images/thumb/f/f5/JB2_track_json.png/1200px-JB2_track_json.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/JB2_track_json.png/600px-JB2_track_json.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/JB2_track_json.png/900px-JB2_track_json.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/JB2_track_json.png/1200px-JB2_track_json.png 2x"
 width="600" height="600" alt="JB2 track json.png" /></a>
 
 which shows how the changes we made in the user interface gets added to
@@ -1034,8 +1034,8 @@ started up and gives us some URLs to use to access the server. It will
 look something like this:
 
 <a href="File:Admin-server.png" class="image"><img
-src="../mediawiki/images/thumb/6/63/Admin-server.png/1000px-Admin-server.png"
-srcset="../mediawiki/images/thumb/6/63/Admin-server.png/1500px-Admin-server.png 1.5x, ../mediawiki/images/6/63/Admin-server.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/63/Admin-server.png/1000px-Admin-server.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/63/Admin-server.png/1500px-Admin-server.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Admin-server.png 2x"
 width="1000" height="220" alt="Admin-server.png" /></a>
 
 The part we need is the adminKey. In a browser window, enter a URL that
@@ -1066,8 +1066,8 @@ from the "Type" menu. At that point, the dialog will change slightly to
 give you places to put in the above three URLs:
 
 <a href="File:Add_assembly_dialog.png" class="image"><img
-src="../mediawiki/images/thumb/2/25/Add_assembly_dialog.png/500px-Add_assembly_dialog.png"
-srcset="../mediawiki/images/thumb/2/25/Add_assembly_dialog.png/750px-Add_assembly_dialog.png 1.5x, ../mediawiki/images/thumb/2/25/Add_assembly_dialog.png/1000px-Add_assembly_dialog.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/Add_assembly_dialog.png/500px-Add_assembly_dialog.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/Add_assembly_dialog.png/750px-Add_assembly_dialog.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/Add_assembly_dialog.png/1000px-Add_assembly_dialog.png 2x"
 width="500" height="514" alt="Add assembly dialog.png" /></a>
 
 Copy and paste those URLs in to the appropriate fields and then click
@@ -1093,14 +1093,14 @@ Copy and paste those URLs in to the appropriate fields and then click
 
   
 <a href="File:Add_track_dialog.png" class="image"><img
-src="../mediawiki/images/thumb/0/05/Add_track_dialog.png/400px-Add_track_dialog.png"
-srcset="../mediawiki/images/thumb/0/05/Add_track_dialog.png/600px-Add_track_dialog.png 1.5x, ../mediawiki/images/0/05/Add_track_dialog.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/Add_track_dialog.png/400px-Add_track_dialog.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/Add_track_dialog.png/600px-Add_track_dialog.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Add_track_dialog.png 2x"
 width="400" height="603" alt="Add track dialog.png" /></a>
 
   
 <a href="File:Genes_track.png" class="image"><img
-src="../mediawiki/images/thumb/d/d1/Genes_track.png/800px-Genes_track.png"
-srcset="../mediawiki/images/thumb/d/d1/Genes_track.png/1200px-Genes_track.png 1.5x, ../mediawiki/images/thumb/d/d1/Genes_track.png/1600px-Genes_track.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Genes_track.png/800px-Genes_track.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Genes_track.png/1200px-Genes_track.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Genes_track.png/1600px-Genes_track.png 2x"
 width="800" height="224" alt="Genes track.png" /></a>
 
 ## <span id="Using_the_admin-server_to_add_a_synteny_track" class="mw-headline">Using the admin-server to add a synteny track</span>
@@ -1110,8 +1110,8 @@ width="800" height="224" alt="Genes track.png" /></a>
   
 
 <a href="File:Dotplot_config.png" class="image"><img
-src="../mediawiki/images/thumb/7/79/Dotplot_config.png/800px-Dotplot_config.png"
-srcset="../mediawiki/images/thumb/7/79/Dotplot_config.png/1200px-Dotplot_config.png 1.5x, ../mediawiki/images/thumb/7/79/Dotplot_config.png/1600px-Dotplot_config.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/79/Dotplot_config.png/800px-Dotplot_config.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/79/Dotplot_config.png/1200px-Dotplot_config.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/79/Dotplot_config.png/1600px-Dotplot_config.png 2x"
 width="800" height="460" alt="Dotplot config.png" /></a>
 
 </div>

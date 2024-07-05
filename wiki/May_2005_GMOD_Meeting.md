@@ -76,40 +76,40 @@ May 16-17, 2005 SRI, Menlo Park, CA
 
 ## <span id="Presentations" class="mw-headline">Presentations</span>
 
-- <a href="../mediawiki/images/4/4c/Apollo.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Apollo.ppt" class="internal"
   title="Apollo.ppt">Apollo.ppt</a>
-- <a href="../mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt" class="internal"
   title="Cain-050516.ppt">Cain-050516.ppt</a> - GMOD business and
   setting up [ParameciumDB](ParameciumDB "ParameciumDB")
-- <a href="../mediawiki/images/1/16/Cmap-050516.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Cmap-050516.pdf" class="internal"
   title="Cmap-050516.pdf">Cmap-050516.pdf</a>‎
-- <a href="../mediawiki/images/7/74/Das.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Das.ppt" class="internal"
   title="Das.ppt">Das.ppt</a>
-- <a href="../mediawiki/images/2/27/Day-050517.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Day-050517.ppt" class="internal"
   title="Day-050517.ppt">Day-050517.ppt</a>
-- <a href="../mediawiki/images/5/5a/Faga_050517.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Faga_050517.pdf" class="internal"
   title="Faga 050517.pdf">Faga_050517.pdf</a>‎
-- <a href="../mediawiki/images/7/78/Gbrowse-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/Gbrowse-050516.ppt" class="internal"
   title="Gbrowse-050516.ppt">Gbrowse-050516.ppt</a>
-- <a href="../mediawiki/images/e/e7/Just-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Just-050516.ppt" class="internal"
   title="Just-050516.ppt">Just-050516.ppt</a>
-- <a href="../mediawiki/images/3/3c/Kasprzyk-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/Kasprzyk-050516.ppt" class="internal"
   title="Kasprzyk-050516.ppt">Kasprzyk-050516.ppt</a> -
   [BioMart](BioMart "BioMart") and
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-- <a href="../mediawiki/images/1/19/Karp-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/Karp-050516.ppt" class="internal"
   title="Karp-050516.ppt">Karp-050516.ppt</a>
-- <a href="../mediawiki/images/f/f0/Mungall-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Mungall-050516.ppt" class="internal"
   title="Mungall-050516.ppt">Mungall-050516.ppt</a>
-- <a href="../mediawiki/images/c/cd/Oconnor-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cd/Oconnor-050516.ppt" class="internal"
   title="Oconnor-050516.ppt">Oconnor-050516.ppt</a>
-- <a href="../mediawiki/images/8/87/Sgd-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/87/Sgd-050516.ppt" class="internal"
   title="Sgd-050516.ppt">Sgd-050516.ppt</a>
-- <a href="../mediawiki/images/e/e9/Smutniak-050516.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/Smutniak-050516.ppt" class="internal"
   title="Smutniak-050516.ppt">Smutniak-050516.ppt</a>
-- <a href="../mediawiki/images/b/bf/What_next.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/What_next.ppt" class="internal"
   title="What next.ppt">What_next.ppt</a>
-- <a href="../mediawiki/images/8/84/Zhang-050517.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/Zhang-050517.ppt" class="internal"
   title="Zhang-050517.ppt">Zhang-050517.ppt</a>
 
 ## <span id="Agenda" class="mw-headline">Agenda</span>

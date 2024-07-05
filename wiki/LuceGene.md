@@ -183,12 +183,12 @@ required java libraries.
 
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
-- <a href="../mediawiki/images/f/fc/Lucegene-readme.txt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/Lucegene-readme.txt" class="internal"
   title="Lucegene-readme.txt">LuceGene README</a>
-- <a href="../mediawiki/images/f/fd/Lucegene-index-overview.txt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Lucegene-index-overview.txt"
   class="internal" title="Lucegene-index-overview.txt">Indexing methods
   overview</a>
-- <a href="../mediawiki/images/0/07/Gmod-argos-sep03.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Gmod-argos-sep03.pdf" class="internal"
   title="Gmod-argos-sep03.pdf">Talk slides on Argos/LuceGene, Sept
   2003</a>
 

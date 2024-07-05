@@ -49,7 +49,7 @@ Current GMOD virtual servers:
 - <a href="Box" class="mw-redirect" title="Box">GMOD in a Box</a>
 
 Poster from [PAG 2014](PAG_2014 "PAG 2014"):
-<a href="../mediawiki/images/f/fb/Gitc-giab-poster.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Gitc-giab-poster.pdf" class="internal"
 title="Gitc-giab-poster.pdf">GMOD in the Cloud and GMOD in a Box:
 Instant Virtual Servers for Genomics Data</a>
 

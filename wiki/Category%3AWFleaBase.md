@@ -122,7 +122,7 @@ The following 2 files are in this category, out of 2 total.
   <div style="margin:15px auto;">
 
   <a href="File:Daphnia-wfleabase2.png" class="image"><img
-  src="../mediawiki/images/thumb/4/4d/Daphnia-wfleabase2.png/120px-Daphnia-wfleabase2.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4d/Daphnia-wfleabase2.png/120px-Daphnia-wfleabase2.png"
   width="120" height="120" alt="Daphnia-wfleabase2.png" /></a>
 
   </div>
@@ -145,7 +145,7 @@ The following 2 files are in this category, out of 2 total.
   <div style="margin:30px auto;">
 
   <a href="File:WFleaBaseMainPageIcon.png" class="image"><img
-  src="../mediawiki/images/1/15/WFleaBaseMainPageIcon.png" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/WFleaBaseMainPageIcon.png" width="120"
   height="90" alt="WFleaBaseMainPageIcon.png" /></a>
 
   </div>

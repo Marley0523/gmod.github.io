@@ -79,7 +79,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:48.5px auto;">
 
   <a href="File:Mgi_logo.jpg" class="image"><img
-  src="../mediawiki/images/thumb/0/07/Mgi_logo.jpg/120px-Mgi_logo.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/07/Mgi_logo.jpg/120px-Mgi_logo.jpg"
   width="120" height="53" alt="Mgi logo.jpg" /></a>
 
   </div>
@@ -125,7 +125,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:41px auto;">
 
   <a href="File:MgiMainPageLogo.jpg" class="image"><img
-  src="../mediawiki/images/4/4f/MgiMainPageLogo.jpg" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/MgiMainPageLogo.jpg" width="120"
   height="68" alt="MgiMainPageLogo.jpg" /></a>
 
   </div>

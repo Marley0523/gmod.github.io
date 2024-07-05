@@ -64,7 +64,7 @@ This category contains only the following file.
   <div style="margin:50px auto;">
 
   <a href="File:Gmod_OneCogTransparentSmall.png" class="image"><img
-  src="../mediawiki/images/1/1e/Gmod_OneCogTransparentSmall.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1e/Gmod_OneCogTransparentSmall.png"
   width="120" height="50" alt="Gmod OneCogTransparentSmall.png" /></a>
 
   </div>

@@ -385,14 +385,14 @@ this is the only dataset in our history that is valid.
 **value**, and *click* **Execute**.
 
 <a href="File:GalaxyExtras_SamFilter_1.png" class="image"><img
-src="../mediawiki/images/5/57/GalaxyExtras_SamFilter_1.png" width="1059"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyExtras_SamFilter_1.png" width="1059"
 height="325" alt="GalaxyExtras SamFilter 1.png" /></a>
 
 We know have a new dataset **4: Sam Filter on data 3** which contains
 only reads that mapped exactly to the reference.
 
 <a href="File:GalaxyExtras_SamFilter_2.png" class="image"><img
-src="../mediawiki/images/9/97/GalaxyExtras_SamFilter_2.png" width="1059"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/97/GalaxyExtras_SamFilter_2.png" width="1059"
 height="510" alt="GalaxyExtras SamFilter 2.png" /></a>
 
   
@@ -460,7 +460,7 @@ into Galaxy. You can enter multiple URLs into the **URL / Text** box.
 and *click* **Execute**:
 
 <a href="File:GalaxyExtras_SecondAnalysis_1.png" class="image"><img
-src="../mediawiki/images/5/55/GalaxyExtras_SecondAnalysis_1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GalaxyExtras_SecondAnalysis_1.png"
 width="1059" height="599" alt="GalaxyExtras SecondAnalysis 1.png" /></a>
 
 After uploading the datasets, *expand them* in the **History**. We can
@@ -468,7 +468,7 @@ see that Galaxy has successfully detected the file formats of both
 files.
 
 <a href="File:GalaxyExtras_SecondAnalysis_2.png" class="image"><img
-src="../mediawiki/images/f/f6/GalaxyExtras_SecondAnalysis_2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/GalaxyExtras_SecondAnalysis_2.png"
 width="1059" height="661" alt="GalaxyExtras SecondAnalysis 2.png" /></a>
 
 However, we need to make one modification. The FASTQ format is
@@ -493,7 +493,7 @@ ftp.gmod.or...fastqsanger** is selected.
 
 <a href="File:GalaxyExtras_SecondAnalysis_BWASettings.png"
 class="image"><img
-src="../mediawiki/images/a/a7/GalaxyExtras_SecondAnalysis_BWASettings.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/GalaxyExtras_SecondAnalysis_BWASettings.png"
 width="1059" height="621"
 alt="GalaxyExtras SecondAnalysis BWASettings.png" /></a>
 
@@ -501,7 +501,7 @@ A new dataset is generated containing the mapped reads in [SAM
 format](Glossary#SAM "Glossary").
 
 <a href="File:GalaxyExtras_SecondAnalysis_3.png" class="image"><img
-src="../mediawiki/images/b/b2/GalaxyExtras_SecondAnalysis_3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/GalaxyExtras_SecondAnalysis_3.png"
 width="1059" height="660" alt="GalaxyExtras SecondAnalysis 3.png" /></a>
 
 ## <span id="Making_genome_.2F_alignment_data_available_to_Galaxy" class="mw-headline">Making genome / alignment data available to Galaxy</span>
@@ -618,7 +618,7 @@ In the **Tools** menu, *click* **Fetch Sequences → Extract Genomic
 DNA**.
 
 <a href="File:GalaxyExtras_Fetch_1.png" class="image"><img
-src="../mediawiki/images/c/c9/GalaxyExtras_Fetch_1.png" width="1067"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/GalaxyExtras_Fetch_1.png" width="1067"
 height="386" alt="GalaxyExtras Fetch 1.png" /></a>
 
 The tool interface should open in the main panel. The default values are
@@ -627,7 +627,7 @@ probably fine (make sure the dataset you just created is selected).
 for your regions of interest.
 
 <a href="File:GalaxyExtras_Fetch_ExtractedDNA.png" class="image"><img
-src="../mediawiki/images/2/2f/GalaxyExtras_Fetch_ExtractedDNA.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2f/GalaxyExtras_Fetch_ExtractedDNA.png"
 width="1067" height="447"
 alt="GalaxyExtras Fetch ExtractedDNA.png" /></a>
 
@@ -636,7 +636,7 @@ alt="GalaxyExtras Fetch ExtractedDNA.png" /></a>
 In the **Tools** menu, click **Fetch Alignments → Extract MAF Blocks**.
 
 <a href="File:GalaxyExtras_Fetch_2.png" class="image"><img
-src="../mediawiki/images/9/92/GalaxyExtras_Fetch_2.png" width="1067"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/GalaxyExtras_Fetch_2.png" width="1067"
 height="540" alt="GalaxyExtras Fetch 2.png" /></a>
 
 The tool interface will open in the main panel. Again, the defaults
@@ -645,7 +645,7 @@ other species. *Click* **Execute**. A new dataset will be created
 containing alignments corresponding to your intervals of interest.
 
 <a href="File:GalaxyExtras_Fetch_3.png" class="image"><img
-src="../mediawiki/images/2/22/GalaxyExtras_Fetch_3.png" width="1067"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyExtras_Fetch_3.png" width="1067"
 height="580" alt="GalaxyExtras Fetch 3.png" /></a>
 
 </div>

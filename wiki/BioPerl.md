@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="http://www.bioperl.org" rel="nofollow" title="BioPerl"><img
-src="../mediawiki/images/5/5d/BioPerl_logo.jpg" width="128" height="171"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/BioPerl_logo.jpg" width="128" height="171"
 alt="BioPerl" /></a>
 
 </div>
@@ -121,8 +121,8 @@ this is and for how to get it.
 
 <a href="http://twit.tv/floss96" rel="nofollow"
 title="FLOSS Weekly BioPerl Podcast"><img
-src="../mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/60px-FLOSSWeekly.jpg"
-srcset="../mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/90px-FLOSSWeekly.jpg 1.5x, ../mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/120px-FLOSSWeekly.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/60px-FLOSSWeekly.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/90px-FLOSSWeekly.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/120px-FLOSSWeekly.jpg 2x"
 width="60" height="60" alt="FLOSS Weekly BioPerl Podcast" /></a>
 
 </div>

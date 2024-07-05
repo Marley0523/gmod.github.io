@@ -48,7 +48,7 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="http://www.intl-pag.org/" rel="nofollow"
-title="PAG 2009"><img src="../mediawiki/images/c/c2/Paglogo.gif"
+title="PAG 2009"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif"
 width="114" height="107" alt="PAG 2009" /></a></td>
 <td data-valign="center"><strong><a
 href="http://www.intl-pag.org/18/18-maker.html" class="external text"
@@ -107,7 +107,7 @@ online](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf").
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
-src="../mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
 
 <div class="thumbcaption">

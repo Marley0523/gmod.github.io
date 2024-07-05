@@ -92,11 +92,11 @@ describes how FlyBase has implemented comparative data for Dmel\<-\>Dpse
 and also how it plans to implement these analyses for 10 more Drosophila
 species.
 
-## <span id="ParameciumDB" class="mw-headline"><a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"
+## <span id="ParameciumDB" class="mw-headline"><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf"
 class="internal" title="ParameciumDB synteny.pdf">ParameciumDB</a></span>
 
 [ParameciumDB](ParameciumDB "ParameciumDB")
-<a href="../mediawiki/images/2/20/ParameciumDB_synteny.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf"
 class="internal" title="ParameciumDB synteny.pdf">working document</a>
 heavily inspired by the [FlyBase comparative implementation
 standard](FlyBase_Comparative_Genomics_Data "FlyBase Comparative Genomics Data").

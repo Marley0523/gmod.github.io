@@ -641,7 +641,7 @@ The following 25 files are in this category, out of 25 total.
   <div style="margin:61px auto;">
 
   <a href="File:GBrowseLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/120px-GBrowseLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/120px-GBrowseLogo.png"
   width="120" height="28" alt="GBrowseLogo.png" /></a>
 
   </div>

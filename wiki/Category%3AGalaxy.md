@@ -318,7 +318,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:35px auto;">
 
   <a href="File:GalaxyIsHiringWordCloud.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a6/GalaxyIsHiringWordCloud.png/120px-GalaxyIsHiringWordCloud.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/GalaxyIsHiringWordCloud.png/120px-GalaxyIsHiringWordCloud.png"
   width="120" height="80" alt="GalaxyIsHiringWordCloud.png" /></a>
 
   </div>
@@ -460,7 +460,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:46px auto;">
 
   <a href="File:GAW2014Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/1/16/GAW2014Logo.png/120px-GAW2014Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/120px-GAW2014Logo.png"
   width="120" height="58" alt="GAW2014Logo.png" /></a>
 
   </div>
@@ -483,7 +483,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:41.5px auto;">
 
   <a href="File:GCC2012TrainingDayLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/120px-GCC2012TrainingDayLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/120px-GCC2012TrainingDayLogo.png"
   width="120" height="67" alt="GCC2012TrainingDayLogo.png" /></a>
 
   </div>
@@ -506,7 +506,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:35px auto;">
 
   <a href="File:GCC2013Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/c/c3/GCC2013Logo.png/120px-GCC2013Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/120px-GCC2013Logo.png"
   width="120" height="80" alt="GCC2013Logo.png" /></a>
 
   </div>
@@ -529,7 +529,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:44.5px auto;">
 
   <a href="File:GCC2013TrainingDayLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/120px-GCC2013TrainingDayLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/120px-GCC2013TrainingDayLogo.png"
   width="120" height="61" alt="GCC2013TrainingDayLogo.png" /></a>
 
   </div>
@@ -552,7 +552,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:50px auto;">
 
   <a href="File:GCC2014Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
   width="120" height="50" alt="GCC2014Logo.png" /></a>
 
   </div>
@@ -575,7 +575,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:15px auto;">
 
   <a href="File:GCC2014TDLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
   width="80" height="120" alt="GCC2014TDLogo.png" /></a>
 
   </div>
@@ -598,7 +598,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:35px auto;">
 
   <a href="File:GCC2016Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/1/1c/GCC2016Logo.png/120px-GCC2016Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/GCC2016Logo.png/120px-GCC2016Logo.png"
   width="120" height="80" alt="GCC2016Logo.png" /></a>
 
   </div>
@@ -621,7 +621,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:47.5px auto;">
 
   <a href="File:GCC2019Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/e/ed/GCC2019Logo.png/120px-GCC2019Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/120px-GCC2019Logo.png"
   width="120" height="55" alt="GCC2019Logo.png" /></a>
 
   </div>
@@ -716,7 +716,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:54px auto;">
 
   <a href="File:GalaxyLogoBigger.png" class="image"><img
-  src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/120px-GalaxyLogoBigger.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/120px-GalaxyLogoBigger.png"
   width="120" height="42" alt="GalaxyLogoBigger.png" /></a>
 
   </div>
@@ -739,7 +739,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:54px auto;">
 
   <a href="File:GalaxyLogoBoxed.png" class="image"><img
-  src="../mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/120px-GalaxyLogoBoxed.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/120px-GalaxyLogoBoxed.png"
   width="120" height="42" alt="GalaxyLogoBoxed.png" /></a>
 
   </div>
@@ -762,7 +762,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:17.5px auto;">
 
   <a href="File:GalaxyLogoSmall.png" class="image"><img
-  src="../mediawiki/images/2/22/GalaxyLogoSmall.png" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="120"
   height="115" alt="GalaxyLogoSmall.png" /></a>
 
   </div>
@@ -785,7 +785,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:44px auto;">
 
   <a href="File:GCC2011Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
   width="120" height="62" alt="GCC2011Logo.png" /></a>
 
   </div>
@@ -808,7 +808,7 @@ The following 35 files are in this category, out of 35 total.
   <div style="margin:49px auto;">
 
   <a href="File:GCC2011LogoShort.png" class="image"><img
-  src="../mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
   width="120" height="52" alt="GCC2011LogoShort.png" /></a>
 
   </div>

@@ -58,8 +58,8 @@ title="2011 GMOD Spring Training">2011 GMOD Spring Training</a><br />
 <a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><a href="File:GMODAmericas2011Logo.png"
 class="image"><img
-src="../mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/200px-GMODAmericas2011Logo.png"
-srcset="../mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/300px-GMODAmericas2011Logo.png 1.5x, ../mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/400px-GMODAmericas2011Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/200px-GMODAmericas2011Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/300px-GMODAmericas2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/400px-GMODAmericas2011Logo.png 2x"
 width="200" height="200" alt="GMODAmericas2011Logo.png" /></a></td>
 </tr>
 </tbody>

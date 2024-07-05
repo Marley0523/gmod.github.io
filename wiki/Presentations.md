@@ -82,63 +82,63 @@ participants.
 
 ### <span id="The_new_and_improved_Chado_genetics_module" class="mw-headline">The *new and improved* Chado genetics module</span>
 
-<a href="../mediawiki/images/5/5c/Emmert_040526.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Emmert_040526.pdf" class="internal"
 title="Emmert 040526.pdf">Emmert_040526.pdf</a>
 
 ### <span id="Phenotype_Annotation_Tool_and_Ontologies_at_dictyBase" class="mw-headline">Phenotype Annotation Tool and Ontologies at dictyBase</span>
 
-<a href="../mediawiki/images/0/05/DictyBase-phenotypes.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf"
 class="internal"
 title="DictyBase-phenotypes.pdf">DictyBase-phenotypes.pdf</a>
 
 ### <span id="Chado_-_Generic_module_organism_database_schema" class="mw-headline">Chado - Generic module organism database schema</span>
 
-<a href="../mediawiki/images/6/62/ChadoCSHMay03Slides.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/ChadoCSHMay03Slides.pdf"
 class="internal"
 title="ChadoCSHMay03Slides.pdf">ChadoCSHMay03Slides.pdf</a>
 
 ### <span id="Chado_and_Interoperability" class="mw-headline">Chado and Interoperability</span>
 
-<a href="../mediawiki/images/e/eb/Chado-and-XML.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Chado-and-XML.pdf" class="internal"
 title="Chado-and-XML.pdf">Chado-and-XML.pdf</a>
 
 ### <span id="Principles_for_Building_Biomedical_Ontologies" class="mw-headline">Principles for Building Biomedical Ontologies</span>
 
 <a
-href="../mediawiki/images/4/44/2005-10_ISMB_Ontology-Building_various.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/2005-10_ISMB_Ontology-Building_various.pdf"
 class="internal"
 title="2005-10 ISMB Ontology-Building various.pdf">2005-10_ISMB_Ontology-Building_various.pdf</a>
 
 ### <span id="Chado_-_generic_model_organism_database_schema" class="mw-headline">Chado - generic model organism database schema</span>
 
-<a href="../mediawiki/images/f/f8/05-chado_overview.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/05-chado_overview.pdf"
 class="internal" title="05-chado overview.pdf">05-chado_overview.pdf</a>
 
 ### <span id="GMOD_Administrivia" class="mw-headline">GMOD Administrivia</span>
 
-<a href="../mediawiki/images/c/cb/03-NESCent_intro.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/03-NESCent_intro.pdf" class="internal"
 title="03-NESCent intro.pdf">03-NESCent_intro.pdf</a>
 
 ### <span id="Chado_for_evolutionary_science" class="mw-headline">Chado for evolutionary science</span>
 
-<a href="../mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
 class="internal"
 title="02-chado-for-nescent-2006.pdf">02-chado-for-nescent-2006.pdf</a>
 
 ### <span id="Flybase_next-generation" class="mw-headline">Flybase next-generation</span>
 
-<a href="../mediawiki/images/5/5b/Flybase-ng-may03.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Flybase-ng-may03.pdf" class="internal"
 title="Flybase-ng-may03.pdf">Flybase-ng-may03.pdf</a>
 
 ### <span id="Comparitive_Genomics_with_GMOD_and_Bioperl" class="mw-headline">Comparitive Genomics with GMOD and Bioperl</span>
 
-<a href="../mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
 class="internal"
 title="04-Stajich NESCENT GMOD.pdf">04-Stajich_NESCENT_GMOD.pdf</a>
 
 ### <span id="The_GMOD_Project:_Order_from_Chaos" class="mw-headline">The GMOD Project: Order from Chaos</span>
 
-<a href="../mediawiki/images/e/e4/01-NESC_January_2006-LINCOLN.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/01-NESC_January_2006-LINCOLN.pdf"
 class="internal"
 title="01-NESC January 2006-LINCOLN.pdf">01-NESC_January_2006-LINCOLN.pdf</a>
 

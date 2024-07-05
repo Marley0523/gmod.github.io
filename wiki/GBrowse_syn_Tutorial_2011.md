@@ -132,9 +132,9 @@ rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 <div class="thumbinner" style="width:602px;">
 
 <a href="File:GBrowse_synWelcome.png" class="image"><img
-src="../mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, ../mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
 width="600" height="369" /></a>
 
 <div class="thumbcaption">
@@ -388,8 +388,8 @@ should see:
 <div class="floatleft">
 
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
-src="../mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
-srcset="../mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, ../mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
 </div>
@@ -399,8 +399,8 @@ width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 <div class="floatleft">
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
-src="../mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
-srcset="../mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, ../mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
 </div>
@@ -412,7 +412,7 @@ width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 - mouse over one of the genes:
 
 <a href="File:Gbrowse_synBubble1.png" class="image"><img
-src="../mediawiki/images/4/4b/Gbrowse_synBubble1.png" width="369"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/Gbrowse_synBubble1.png" width="369"
 height="148" alt="Gbrowse synBubble1.png" /></a>
 
 - Click on one of the bold blue highlighted section titles. This takes
@@ -668,7 +668,7 @@ and move on to other steps.
 be a second data source in a pull-down menu.
 
 <a href="File:GBrowse_synPulldown1.png" class="image"><img
-src="../mediawiki/images/4/4a/GBrowse_synPulldown1.png" width="243"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBrowse_synPulldown1.png" width="243"
 height="77" alt="GBrowse synPulldown1.png" /></a>
 
 9\) Select the other data source and start browsing!
@@ -676,8 +676,8 @@ height="77" alt="GBrowse synPulldown1.png" /></a>
 <div class="floatleft">
 
 <a href="File:Gbrowse_synEtfinit.png" class="image"><img
-src="../mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
-srcset="../mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, ../mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
 width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
 
 </div>

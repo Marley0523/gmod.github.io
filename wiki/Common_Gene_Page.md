@@ -204,9 +204,9 @@ class="external free"
 rel="nofollow">http://wfleabase.org/lucegene/lookup?id=NCBI_GNO_292134</a>
 (view the page source to see structured gene page XML). Or see these
 screen shots
-<a href="../mediawiki/images/e/e3/Daphnia-genepage.png" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/Daphnia-genepage.png" class="internal"
 title="Daphnia-genepage.png">daphnia gene page</a> and
-<a href="../mediawiki/images/9/96/Daphnia-genepage-xml.png"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/96/Daphnia-genepage-xml.png"
 class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 There is a simple perl tool to turn annotated [GFF](GFF "GFF") data into

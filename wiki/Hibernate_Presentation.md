@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 Chado API via Java & Hibernate, Robert Bruggner, VectorBase.org. This
 Wiki page is an edited version of
-<a href="../mediawiki/images/5/5b/HibernateChadoAPI.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf"
 class="internal" title="HibernateChadoAPI.pdf">Robert's presentation</a>.
 
 <div id="toc" class="toc">

@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://insectacentral.org" rel="nofollow"
 title="InsectaCentral"><img
-src="../mediawiki/images/9/9b/InsectaCentralLogo.png" width="93"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/InsectaCentralLogo.png" width="93"
 height="75" alt="InsectaCentral" /></a>
 
 </div>

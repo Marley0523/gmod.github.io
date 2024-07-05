@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="emphasisbox">
 
 <a href="File:WorkInProgressTools.gif" class="image"><img
-src="../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
 height="48" alt="WorkInProgressTools.gif" /></a> This page is under
 construction. Eventually it will be a hub for all information in the
 GMOD web site related to next generation sequencing.

@@ -176,7 +176,7 @@ packages.
 ## <span id="Demo_.26_Screenshots" class="mw-headline">Demo & Screenshots</span>
 
 A slide set outlines Argos/FlyBase-NG:
-<a href="../mediawiki/images/5/5b/Flybase-ng-may03.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Flybase-ng-may03.pdf" class="internal"
 title="Flybase-ng-may03.pdf">flybase-ng-may03.pdf</a>
 
   

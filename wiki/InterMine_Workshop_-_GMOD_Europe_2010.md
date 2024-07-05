@@ -48,13 +48,13 @@ data-cellpadding="10">
 <tr class="odd">
 <td><a href="September_2010_GMOD_Meeting"
 title="September 2010 GMOD Meeting"><img
-src="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
-srcset="../mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, ../mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="220" height="188" alt="September 2010 GMOD Meeting" /></a></td>
 <td><div style="font-size: 220%; line-height: 140%">
 <a href="InterMine" title="InterMine"><img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png"
-srcset="../mediawiki/images/1/13/InterMineLogo.png 1.5x, ../mediawiki/images/1/13/InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="300" height="38" alt="InterMine" /></a><br />
 <br />
 <a href="InterMine" title="InterMine">InterMine</a> Workshop

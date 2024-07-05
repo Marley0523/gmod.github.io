@@ -111,7 +111,7 @@ The following 2 files are in this category, out of 2 total.
   <div style="margin:15px auto;">
 
   <a href="File:Wdb_small.gif" class="image"><img
-  src="../mediawiki/images/9/9d/Wdb_small.gif" width="120" height="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Wdb_small.gif" width="120" height="120"
   alt="Wdb small.gif" /></a>
 
   </div>

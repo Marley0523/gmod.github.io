@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:2013-summer-school.png" class="image"
 title="2013 GMOD Summer School"><img
-src="../mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png"
-srcset="../mediawiki/images/thumb/f/fc/2013-summer-school.png/450px-2013-summer-school.png 1.5x, ../mediawiki/images/thumb/f/fc/2013-summer-school.png/600px-2013-summer-school.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/450px-2013-summer-school.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/600px-2013-summer-school.png 2x"
 width="300" height="186" alt="2013 GMOD Summer School" /></a>
 
 </div>
@@ -216,8 +216,8 @@ work through.
 <div class="floatright">
 
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
-srcset="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, ../mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="100" height="93" alt="NESCent" /></a>
 
 </div>

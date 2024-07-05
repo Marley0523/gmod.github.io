@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This Wiki page is an edited version of
-<a href="../mediawiki/images/d/d8/DasI_middleware.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/DasI_middleware.pdf" class="internal"
 title="DasI middleware.pdf">Scott's presentation</a>.
 
 <div id="toc" class="toc">

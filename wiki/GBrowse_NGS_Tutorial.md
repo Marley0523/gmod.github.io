@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:GBrowseLogo.png" class="image" title="GBrowse"><img
-src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
-srcset="../mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, ../mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" alt="GBrowse" /></a>
 
 </div>
@@ -1091,8 +1091,8 @@ You should see something like this:
 <div class="floatnone">
 
 <a href="File:GBrowseSAMtools1.png" class="image"><img
-src="../mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/600px-GBrowseSAMtools1.png"
-srcset="../mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/900px-GBrowseSAMtools1.png 1.5x, ../mediawiki/images/6/6b/GBrowseSAMtools1.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/600px-GBrowseSAMtools1.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/900px-GBrowseSAMtools1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/GBrowseSAMtools1.png 2x"
 width="600" height="553" alt="GBrowseSAMtools1.png" /></a>
 
 </div>
@@ -1334,8 +1334,8 @@ You should see something like:
 <div class="floatnone">
 
 <a href="File:GBrowseSAMtoolsCoverageXY.png" class="image"><img
-src="../mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/600px-GBrowseSAMtoolsCoverageXY.png"
-srcset="../mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/900px-GBrowseSAMtoolsCoverageXY.png 1.5x, ../mediawiki/images/f/ff/GBrowseSAMtoolsCoverageXY.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/600px-GBrowseSAMtoolsCoverageXY.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/900px-GBrowseSAMtoolsCoverageXY.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/GBrowseSAMtoolsCoverageXY.png 2x"
 width="600" height="647" alt="GBrowseSAMtoolsCoverageXY.png" /></a>
 
 </div>
@@ -1392,8 +1392,8 @@ track. It should look like:
 <div class="floatnone">
 
 <a href="File:GBrowseSAMtoolsReads1.png" class="image"><img
-src="../mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/600px-GBrowseSAMtoolsReads1.png"
-srcset="../mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/900px-GBrowseSAMtoolsReads1.png 1.5x, ../mediawiki/images/4/4b/GBrowseSAMtoolsReads1.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/600px-GBrowseSAMtoolsReads1.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/900px-GBrowseSAMtoolsReads1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/GBrowseSAMtoolsReads1.png 2x"
 width="600" height="900" alt="GBrowseSAMtoolsReads1.png" /></a>
 
 </div>

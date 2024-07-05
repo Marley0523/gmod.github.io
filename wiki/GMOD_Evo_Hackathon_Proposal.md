@@ -49,8 +49,8 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:EvoHackathonLogo.png" class="image"><img
-src="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
-srcset="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, ../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
 width="200" height="200" alt="EvoHackathonLogo.png" /></a>
 </div>
 </div></td>
