@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Main Page</span>
 
 <div id="bodyContent">
@@ -172,8 +170,6 @@ feedback via [mailing lists](GMOD_Mailing_Lists "GMOD Mailing Lists") or
 the [help desk](GMOD_Help_Desk "GMOD Help Desk"). You can also attend
 project [meetings](Meetings "Meetings").
 
-  
-
 ### <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
 
 See the [full list of GMOD
@@ -185,11 +181,7 @@ components](GMOD_Components "GMOD Components")
 
 <div class="thumbinner" style="width:252px;">
 
-[<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x"
-width="250" height="83" />](JBrowse.1 "JBrowse")
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png" class="thumbimage" srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x" width="250" height="83" />](JBrowse.1 "JBrowse")
 
 <div class="thumbcaption">
 
@@ -574,10 +566,6 @@ Canto: literature annotation tool
 
 </div>
 
-  
-
-  
-
 </div>
 
 <div class="printfooter">
@@ -605,15 +593,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1"
@@ -625,7 +610,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -636,10 +621,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -715,10 +696,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Main_Page" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -730,8 +709,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:39 on 1 June
-  2024.</span>
+- <span id="footer-info-lastmod">Last updated at 18:39 on 1 June 2024.</span>
 <!-- - <span id="footer-info-viewcount">9,978,319 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -744,10 +722,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
