@@ -1,54 +1,54 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse (DasI) Presentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/DasI_middleware.pdf" class="internal"
 title="DasI middleware.pdf">Scott's presentation</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Create the
   database</span>](#Create_the_database)
@@ -67,7 +67,7 @@ title="DasI middleware.pdf">Scott's presentation</a>.
 - [<span class="tocnumber">8</span>
   <span class="toctext">Conclusion</span>](#Conclusion)
 
-</div>
+
 
 ##### <span id="Create_the_database" class="mw-headline">Create the database</span>
 
@@ -105,9 +105,9 @@ Gene inserted as GFF3 using a standard bulk loader:
 
 ##### <span id="Use_Bio::DB::Das::Chado" class="mw-headline">Use Bio::DB::Das::Chado</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 use Bio::DB::Das::Chado;
@@ -122,15 +122,15 @@ my $gene_name = 'xfile';
 my ($gene_fo) = $chado->get_features_by_name($gene_name);
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_2_-_Use_Some_Accessors" class="mw-headline">Problem 2 - Use Some Accessors</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 print "symbol: "      .  $gene_fo->display_name."\n";
@@ -150,15 +150,15 @@ for my $exon (@exons) {
 }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Bulk_Output" class="mw-headline">Bulk Output</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
  my $gene_name = 'x-*';
@@ -175,9 +175,9 @@ for my $exon (@exons) {
  }
 ```
 
-</div>
 
-</div>
+
+
 
 Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
@@ -198,18 +198,18 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
     similar to [GBrowse](GBrowse.1 "GBrowse") or other uses of
     Bio::DB::GFF
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_(DasI)_Presentation&oldid=22093>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -219,30 +219,29 @@ Retrieved from
   Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
 - [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -252,81 +251,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -336,31 +331,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_(DasI)_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:05 on 8 October
   2012.</span>
@@ -382,4 +376,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

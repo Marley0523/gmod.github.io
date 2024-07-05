@@ -1,52 +1,52 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Jim's installation notes</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Back to [Chado New Users](Chado_New_Users "Chado New Users")
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Installation
   on PPC mac</span>](#Installation_on_PPC_mac)
@@ -92,7 +92,7 @@ Back to [Chado New Users](Chado_New_Users "Chado New Users")
     - [<span class="tocnumber">1.5.2</span> <span class="toctext">Make a
       gbrowse conf file</span>](#Make_a_gbrowse_conf_file)
 
-</div>
+
 
 ## <span id="Installation_on_PPC_mac" class="mw-headline">Installation on PPC mac</span>
 
@@ -539,9 +539,9 @@ fix with:
 
     GRANT SELECT ON analysisfeature                  TO www;
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:Chado_test_in_gbrowse.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
@@ -549,69 +549,68 @@ class="thumbimage"
 srcset=" http://gmod.org/wiki/1.5x,  http://gmod.org/wiki/2x"
 width="600" height="436" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Chado_test_in_gbrowse.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Features from yeast sample GFF imported to Chado
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 It works!!!
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Jim%27s_installation_notes&oldid=4304>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [User
   Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -621,81 +620,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -705,31 +700,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jim&#39;s_installation_notes"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:54 on 25 January
   2008.</span>
@@ -751,4 +745,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

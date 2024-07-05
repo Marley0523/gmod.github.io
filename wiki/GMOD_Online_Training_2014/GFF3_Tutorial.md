@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Online Training 2014/GFF3 Tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 **GFF** is a standard file format for storing genomic features in a text
 file. GFF stands for *Generic Feature Format*. GFF files are plain text,
@@ -46,13 +46,13 @@ They use a [schema](../Glossary#Schema "Glossary") custom built to
 represent GFF data. GFF is [frequently used in GMOD](#GFF_in_GMOD) for
 data exchange and representation of genomic data.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Versions</span>](#Versions)
@@ -96,7 +96,7 @@ data exchange and representation of genomic data.
 - [<span class="tocnumber">6</span> <span class="toctext">See
   Also</span>](#See_Also)
 
-</div>
+
 
 # <span id="Versions" class="mw-headline">Versions</span>
 
@@ -251,7 +251,7 @@ or values containing the following characters: ",=;". Spaces are allowed
 in this field, but tabs must be replaced with the %09 URL escape. This
 field is not required.
 
-<div class="indent">
+
 
 **Column 9 Tags**
 
@@ -350,7 +350,7 @@ later use. Attributes that begin with a lowercase letter can be used
 freely by applications. You can stash any semi-structured data into the
 database by using one or more unreserved (lowercase) tags.
 
-</div>
+
 
 ### <span id="Nesting_Features" class="mw-headline">Nesting Features</span>
 
@@ -699,18 +699,18 @@ details.
 - <a href="http://www.bioperl.org/wiki/GFF" class="external text"
   rel="nofollow">BioPerl's GFF page</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/GFF3_Tutorial&oldid=25807>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](../Special%3ACategories "Special%3ACategories"):
 
@@ -718,30 +718,29 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -751,49 +750,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -802,32 +799,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -837,31 +832,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Online_Training_2014-2FGFF3_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 04:56 on 19 May
   2014.</span>
@@ -883,4 +877,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Arthropod Genomics 2011</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="font-size: 180%">
 <colgroup>
@@ -63,13 +63,13 @@ June 9-12</p></td>
 GMOD will have a strong presence again with a mixture of talks, poster,
 and workshops.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Workshops</span>](#Workshops)
@@ -80,18 +80,18 @@ and workshops.
 - [<span class="tocnumber">4</span>
   <span class="toctext">Brochure</span>](#Brochure)
 
-</div>
+
 
 ## <span id="Workshops" class="mw-headline">Workshops</span>
 
-<div class="floatright">
+
 
 <a href="/wiki/File:Gmod-gears.png" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/Gmod-gears.png/120px-Gmod-gears.png"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gmod-gears.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gmod-gears.png 2x"
 width="120" height="86" alt="Gmod-gears.png" /></a>
 
-</div>
+
 
 **[Genome Project
 101](/wiki/Arthropod_Genomics_2011/Genome_Project_101_Workshop "Arthropod Genomics 2011/Genome Project 101 Workshop"):
@@ -114,14 +114,14 @@ but registration is requested.
 ([GBrowse_syn](/wiki/GBrowse_syn "GBrowse syn")): Configuration and
 display of various co-linearity data types.**
 
-<div class="floatright">
+
 
 [<img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/140px-GBrowse_syn_logo.png"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/210px-GBrowse_syn_logo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/280px-GBrowse_syn_logo.png 2x"
 width="140" height="45" alt="GBrowse syn logo.png" />](/wiki/GBrowse_syn "GBrowse syn")
 
-</div>
+
 
 Saturday, June 11, 10:30-12:00pm, [Sheldon
 McKay](/wiki/User%3AMckays "User%3AMckays")
@@ -160,47 +160,46 @@ Download
 <a hrefhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/AGS2011Brochure.pdf" class="internal"
 title="AGS2011Brochure.pdf">conference brochure</a>.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Arthropod_Genomics_2011&oldid=21961>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [Conferences](/wiki/Category%3AConferences "Category%3AConferences")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -210,49 +209,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](/wiki/Main_Page)</span>
 - <span id="n-Software">[Software](/wiki/GMOD_Components)</span>
@@ -261,32 +258,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](/wiki/GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -297,31 +292,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:52 on 8 October
   2012.</span>
@@ -343,4 +337,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

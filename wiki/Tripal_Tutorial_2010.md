@@ -1,57 +1,57 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Tripal Tutorial 2010</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
   
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:TripalLogo.png" class="image" title="Tripal"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" alt="Tripal" /></a>
 
-</div>
 
-</div>
+
+
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
 Ficklin](User%3ASficklin "User%3ASficklin") at the [2010 GMOD Summer
@@ -69,13 +69,13 @@ databases. This tutorial references (and complements) the
 class="internal" title="TripalUsersGuideJan2010.pdf">Tripal User's
 Guide, January 2010 edition</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">VMware</span>](#VMware)
@@ -206,7 +206,7 @@ Guide, January 2010 edition</a>.
       <span class="toctext">Create the tripal_pubs.module
       file</span>](#Create_the_tripal_pubs.module_file)
 
-</div>
+
 
 ## <span id="VMware" class="mw-headline">VMware</span>
 
@@ -235,7 +235,7 @@ class="external text" rel="nofollow">end image</a>.
 
 ## <span id="Caveats" class="mw-headline">Caveats</span>
 
-<div class="emphasisbox">
+
 
 **Important Note**
 
@@ -246,7 +246,7 @@ over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
 
-</div>
+
 
   
 
@@ -795,12 +795,12 @@ Drupal requires an entry in the crontab to function:
    crontab -e
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 Add this line to the crontab
 
@@ -1003,12 +1003,12 @@ Tripal also require an entry in the crontab to function:
    crontab -e
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 Add this line to the crontab
 
@@ -1127,7 +1127,7 @@ with Tripal "extensions".
 
 Alter the blocks accordingly:
 
-<div class="enter">
+
 
 Powered by Drupal → \<none\>
 
@@ -1137,7 +1137,7 @@ Organisms → Sidebar left
 
 Search form → Sidebar left
 
-</div>
+
 
 Now, move the **Search form *and the*** *Organism'* block to the top of
 the list of the **Sidebar left** group by clicking and dragging the
@@ -1774,7 +1774,7 @@ finalized analysis API coming soon.
 Step 1  
 Add a publication to Chado
 
-<div class="indent">
+
 
 Let's create a very simple module that will place publications on a
 feature page if an association exists in chado. We won't be creating a
@@ -1790,9 +1790,9 @@ Alternatively, log on using the command-line:
 
 Now execute the following SQL statements
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
    INSERT INTO cv (NAME) VALUES ('pub_demo');
@@ -1822,9 +1822,9 @@ Now execute the following SQL statements
            (SELECT pub_id FROM pub WHERE uniquename = 'demo_pub'));
 ```
 
-</div>
 
-</div>
+
+
 
 These statements do the following:
 
@@ -1833,12 +1833,12 @@ These statements do the following:
 2.  Adds a publication and author
 3.  Associates the publication with the feature YAL061W.
 
-</div>
+
 
 Step 2  
 create the module directory
 
-<div class="indent">
+
 
 Change directories to our Drupal install directory where we installed
 the Tripal modules:
@@ -1855,7 +1855,7 @@ identical to our module name.
    cd tripal_pubs
 ```
 
-</div>
+
 
 #### <span id="Create_tripal_pubs.info_file" class="mw-headline">Create tripal_pubs.info file</span>
 
@@ -1888,9 +1888,9 @@ We do not have any functionality that needs to be performed when the
 module is installed, but we'll create a shell with proper drupal hooks
 so that in the future if we do want to add code to these modules we can.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 <?php
@@ -1918,9 +1918,9 @@ so that in the future if we do want to add code to these modules we can.
    }
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="Create_the_tripal_pubs.module_file" class="mw-headline">Create the tripal_pubs.module file</span>
 
@@ -1931,9 +1931,9 @@ many important hooks for demonstration purposes.
 Cut and paste the following code into a new `tripal_pubs.module` file.
 We'll discuss each function...
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 <?php
@@ -2186,11 +2186,10 @@ We'll discuss each function...
       // generate the content that will appear on the feature page
       // first we'll make the normal Tripal expandable box for this
       // content to go into
-      $content  = "<div id=\"feature-pubs\" class=\"feature-pubs-box\">".
-                  "<div class=\"tripal_expandableBox\">".
-                  "<h3>Publications</h3></div>".
-                  "<div class=\"tripal_expandableBoxContent\" ".
-                  "id=\"pubs_$feature->feature_id\">";
+      $content  = "".
+                  "".
+                  "<h3>Publications</h3>".
+                  "feature_id\">";
  
       // iterate through the publications, get the authors and print
       // the references
@@ -2204,45 +2203,45 @@ We'll discuss each function...
          }
          $content .= "$pub->title. <em>$pub->volumetitle</em> $pub->pyear $pub->volume($pub->issue):$pub->pages<br>";
       }
-      $content .= "</div><br>";
+      $content .= "<br>";
  
       return $content;
    }
 ```
 
-</div>
 
-</div>
+
+
 
 **Note**... fix the \< div\> and \< h3\>tags in the function immediately
 above and remove the spaces. Mediawiki was giving problems with these so
 they should be fixed.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_2010&oldid=22199>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Tripal](Category%3ATripal "Category%3ATripal")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
@@ -2253,30 +2252,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:Expor
 |----|----|
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -2286,81 +2284,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -2370,31 +2364,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:12 on 9 October
   2012.</span>
@@ -2416,4 +2409,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,52 +1,52 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">2009 GMOD Community Survey</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Which
   components have you used?</span>](#Which_components_have_you_used.3F)
@@ -69,9 +69,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [<span class="tocnumber">6</span> <span class="toctext">Other
   Feedback</span>](#Other_Feedback)
 
-</div>
 
-</div>
+
+
 
 The 2009 GMOD Community Survey focused on genome and comparative
 genomics [visualization](Visualization "Visualization"). The survey was
@@ -86,12 +86,12 @@ Survey](2008_GMOD_Community_Survey "2008 GMOD Community Survey").*
 
 ## <span id="Which_components_have_you_used.3F" class="mw-headline">Which components have you used?</span>
 
-<div class="quotebox">
+
 
 GMOD has a wealth of genome and comparative genomics browsers. Which of
 the following have you used?
 
-</div>
+
 
 <table class="wikitable">
 <colgroup>
@@ -109,94 +109,84 @@ the following have you used?
 <tr class="odd">
 <td><a href="GBrowse.1" title="GBrowse">GBrowse</a></td>
 <td style="text-align: right;"> 87% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 87px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><a href="CMap.1" title="CMap">CMap</a></td>
 <td style="text-align: right;"> 31% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 31px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><a href="JBrowse.1" title="JBrowse">JBrowse</a></td>
 <td style="text-align: right;"> 29% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 29px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse_syn</a></td>
 <td style="text-align: right;"> 29% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 29px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><a href="Apollo.1" title="Apollo">Apollo</a>'s synteny viewer</td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 13px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><a href="BLAST_Graphic_Viewer.1" title="BLAST Graphic Viewer">BLAST
 Graphic Viewer</a></td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 13px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><a href="SynBrowse" title="SynBrowse">SynBrowse</a></td>
 <td style="text-align: right;"> 7% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 7px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><a href="GBrowse_karyotype" title="GBrowse karyotype">GBrowse
 karyotype</a></td>
 <td style="text-align: right;"> 7% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 7px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><a href="SynView" title="SynView">SynView</a></td>
 <td style="text-align: right;"> 4% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 4px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><a href="Sybil" title="Sybil">Sybil</a></td>
 <td style="text-align: right;"> 2% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 2px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table>
@@ -205,11 +195,11 @@ style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; backg
 
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
-<div class="quotebox">
+
 
 How satisfied are you with the documentation for these components?
 
-</div>
+
 
 **Administration Documentation** - e.g.
 <a href="GBrowse_Configuration_HOWTO" class="mw-redirect"
@@ -233,38 +223,34 @@ title="GBrowse syn Tutorial">GBrowse_syn Tutorial</a>, ...
 <tr class="odd">
 <td>Very</td>
 <td style="text-align: right;"> 50% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 50px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>Average</td>
 <td style="text-align: right;"> 35% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 35px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>Not at all</td>
 <td style="text-align: right;"> 5% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 5px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>No Opinioin</td>
 <td style="text-align: right;"> 10% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 10px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table>
@@ -292,38 +278,34 @@ class="external text" rel="nofollow">CMap Tutorial</a>, ...
 <tr class="odd">
 <td>Very</td>
 <td style="text-align: right;"> 45% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 45px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>Average</td>
 <td style="text-align: right;"> 33% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 33px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>Not at all</td>
 <td style="text-align: right;"> 3% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 3px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>No Opinioin</td>
 <td style="text-align: right;"> 20% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 20px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table>
@@ -349,38 +331,34 @@ Genomics](Comparative_Genomics "Comparative Genomics"),
 <tr class="odd">
 <td>Very</td>
 <td style="text-align: right;"> 23% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 23px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>Average</td>
 <td style="text-align: right;"> 40% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 40px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>Not at all</td>
 <td style="text-align: right;"> 0% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 0px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>No Opinioin</td>
 <td style="text-align: right;"> 38% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 38px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table>
@@ -680,13 +658,13 @@ showing similarity to a well-annotated sequence</td>
 
 This section asked participants to prioritize features in browsers.
 
-<div class="quotebox">
+
 
 For each feature, please indicate that feature's importance to you.
 Please try to classify no more than 1/3 of the features as high
 importance.
 
-</div>
+
 
 Features are listed in the order they appeared in the survey. *You can
 resort the table by clicking on a column header.*
@@ -723,24 +701,18 @@ resort the table by clicking on a column header.*
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 0% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 71px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Data loading speed.</strong>
@@ -750,24 +722,18 @@ How long it takes to process and load data into backing databases.</td>
 <td style="text-align: right;"> 29% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 4% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 31px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 33px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Browser install and setup Script</strong>
@@ -777,24 +743,18 @@ The GBrowse NetInstaller is an example.</td>
 <td style="text-align: right;"> 29% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 16% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 20px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 31px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Graphical user interface for administering the
@@ -805,24 +765,18 @@ Update configuration, add tracks, load data, ... through a GUI.</td>
 <td style="text-align: right;"> 28% </td>
 <td style="text-align: right;"> 7% </td>
 <td style="text-align: right;"> 7% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 24px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 28px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Configuration file checker with helpful error
@@ -832,24 +786,18 @@ messages.</strong></td>
 <td style="text-align: right;"> 9% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 9% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 31px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 51px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 9px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 9px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>User management</strong>
@@ -859,24 +807,18 @@ Allow users to login. This would enable other functionality.</td>
 <td style="text-align: right;"> 24% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 16% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 27px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Community annotation</strong>
@@ -887,24 +829,18 @@ features or tracks for sharing with others.</td>
 <td style="text-align: right;"> 18% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 2% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 38px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 40px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Package browser software within a ready-to-install virtual
@@ -918,24 +854,18 @@ System</a>.</td>
 <td style="text-align: right;"> 24% </td>
 <td style="text-align: right;"> 11% </td>
 <td style="text-align: right;"> 16% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 16px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 33px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Make browser instance metadata available via web
@@ -949,24 +879,18 @@ title="GBrowse">GBrowse</a>.</td>
 <td style="text-align: right;"> 20% </td>
 <td style="text-align: right;"> 7% </td>
 <td style="text-align: right;"> 24% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 13px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 36px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>A public repository of browser-ready reference genomes,
@@ -979,24 +903,18 @@ rel="nofollow">GBrowse.org</a> is a step in this direction.</td>
 <td style="text-align: right;"> 20% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 7% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 29px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 44px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Extensibility</strong>
@@ -1006,24 +924,18 @@ Support for plugins and user defined glyphs</td>
 <td style="text-align: right;"> 24% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 11% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 27px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 38px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Individual feature display customization</strong>
@@ -1036,24 +948,18 @@ title="GBrowse">GBrowse</a>.)</td>
 <td style="text-align: right;"> 16% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 4% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 42px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 36px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Individual base display customization</strong>
@@ -1066,24 +972,18 @@ or ... for next generation sequencing data.</td>
 <td style="text-align: right;"> 27% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 11% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 22px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 36px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 27px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Admin control of browser layout.</strong>
@@ -1095,24 +995,18 @@ so on. GBrowse allows admins to control some aspects of the layout.</td>
 <td style="text-align: right;"> 24% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 9% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 20px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 42px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 9px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Hierarchical listing of available tracks.</strong>
@@ -1123,24 +1017,18 @@ this.</td>
 <td style="text-align: right;"> 22% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 18% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 31px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Show multiple regions simultaneously</strong>
@@ -1150,24 +1038,18 @@ Select and then show multiple regions of the genome.</td>
 <td style="text-align: right;"> 18% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 29px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 40px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Comparing two or more genomes.</strong>
@@ -1178,24 +1060,18 @@ example, does this.</td>
 <td style="text-align: right;"> 7% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 18% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 49px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Whole genome/chromosome browsing</strong>
@@ -1206,24 +1082,18 @@ title="GBrowse karyotype">GBrowse karyotype</a></td>
 <td style="text-align: right;"> 13% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 22% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 22px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 38px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Browsing on mobile devices</strong></td>
@@ -1232,24 +1102,18 @@ style="width: 22px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 16% </td>
 <td style="text-align: right;"> 44% </td>
 <td style="text-align: right;"> 29% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 4px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 44px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong><a
@@ -1260,24 +1124,18 @@ class="external text" rel="nofollow">Semantic zooming</a></strong></td>
 <td style="text-align: right;"> 27% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 24% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 22px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 27px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 27px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Autocomletion of Search Terms</strong></td>
@@ -1286,24 +1144,18 @@ style="width: 24px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 18% </td>
 <td style="text-align: right;"> 11% </td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 18px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 40px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong><a href="GBrowse_Popup_Balloons"
@@ -1313,24 +1165,18 @@ title="GBrowse Popup Balloons">Popup Balloons</a></strong></td>
 <td style="text-align: right;"> 24% </td>
 <td style="text-align: right;"> 7% </td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 20px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 36px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 7px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong><a href="RubberBandSelection"
@@ -1340,24 +1186,18 @@ title="RubberBandSelection">Rubber Band Selection</a></strong></td>
 <td style="text-align: right;"> 16% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 18% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 27px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 40px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Linkage disequilibrium tracks</strong></td>
@@ -1366,24 +1206,18 @@ style="width: 18px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 18% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 40% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 20px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 40px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Support <a href="Next_generation_sequencing"
@@ -1396,24 +1230,18 @@ quality for individual bases.</td>
 <td style="text-align: right;"> 11% </td>
 <td style="text-align: right;"> 0% </td>
 <td style="text-align: right;"> 11% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 53px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 24px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 0px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Display markers from <a href="CMap.1" title="CMap">CMap</a>
@@ -1427,24 +1255,18 @@ title="GBrowse">GBrowse</a>.</p></td>
 <td style="text-align: right;"> 20% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 38% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 22px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 38px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Quantitative data shown with color intensity</strong>
@@ -1454,24 +1276,18 @@ style="width: 38px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 11% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 13% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 53px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Quantitative data shown on an x-y graph</strong>
@@ -1481,24 +1297,18 @@ style="width: 13px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 11% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 16% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 49px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Log scaling for quantitative data</strong></td>
@@ -1507,24 +1317,18 @@ style="width: 16px; height: 1em; float: left; background-color: gray">
 <td style="text-align: right;"> 16% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 27% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 36px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 16px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 27px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Show multiple datasets in a single quantitative
@@ -1537,24 +1341,18 @@ multiple scales), or stacked.</td>
 <td style="text-align: right;"> 20% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 18% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 42px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 18px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Aggregation functions for quantitative data</strong>
@@ -1565,24 +1363,18 @@ windows.</td>
 <td style="text-align: right;"> 22% </td>
 <td style="text-align: right;"> 2% </td>
 <td style="text-align: right;"> 22% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 44px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 9px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 2px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 22px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td><strong>Alignment tracks.</strong>
@@ -1592,24 +1384,18 @@ Showing insertions, deletions, ...</td>
 <td style="text-align: right;"> 9% </td>
 <td style="text-align: right;"> 4% </td>
 <td style="text-align: right;"> 20% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 33px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 33px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 9px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 4px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 20px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td><strong>Geolocation data</strong>
@@ -1620,24 +1406,18 @@ how things like genotype and allele frequencies phenotypes, environment,
 <td style="text-align: right;"> 29% </td>
 <td style="text-align: right;"> 13% </td>
 <td style="text-align: right;"> 36% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 101px">
-<div
-style="width: 11px; height: 1em; float: left; background-color: red">
-&#10;</div>
-<div
-style="width: 11px; height: 1em; float: left; background-color: magenta">
-&#10;</div>
-<div
-style="width: 29px; height: 1em; float: left; background-color: blue">
-&#10;</div>
-<div
-style="width: 13px; height: 1em; float: left; background-color: cyan">
-&#10;</div>
-<div
-style="width: 36px; height: 1em; float: left; background-color: gray">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table>
@@ -1647,12 +1427,12 @@ style="width: 36px; height: 1em; float: left; background-color: gray">
 
 ### <span id="Expansion_.2F_Clarification" class="mw-headline">Expansion / Clarification</span>
 
-<div class="quotebox">
+
 
 If you want to explain/expand any of your answers above, please do so
 here.
 
-</div>
+
 
 - Geolocation within genomic space would be interesting but not so
   interested in ecological applications quite yet.
@@ -1690,12 +1470,12 @@ here.
 
 ### <span id="Other_High_Priority_Features" class="mw-headline">Other High Priority Features</span>
 
-<div class="quotebox">
+
 
 Are there other high priority features you would like to see that are
 not in the list above?
 
-</div>
+
 
 - Ability to curate features that are not genes. The majority of genomes
   are not composed of genes, and the weakness of most browsers is their
@@ -1724,12 +1504,12 @@ not in the list above?
 
 ### <span id="Other_Medium_Priority_Features" class="mw-headline">Other Medium Priority Features</span>
 
-<div class="quotebox">
+
 
 Are there other medium priority features you would like to see that are
 not in the list above?
 
-</div>
+
 
 - Ability to generate heatmap color bin from a set of different
   algorithms (equal interval, quantiles ..).
@@ -1742,26 +1522,26 @@ not in the list above?
 
 ### <span id="Other_Low_Priority_Features" class="mw-headline">Other Low Priority Features</span>
 
-<div class="quotebox">
+
 
 Are there other Low priority features you would like to see that are not
 in the list above?
 
-</div>
+
 
 - Conquer the world, but with very low priority, first science.
 - not really
 
 ## <span id="Other_Feedback_on_Visualization_Tools" class="mw-headline">Other Feedback on Visualization Tools</span>
 
-<div class="quotebox">
+
 
 Do you have any other feedback on any of these tools?
 
 Of the tools you have used, were they useful and why (or why not)? Did
 you try to use any of them, but couldn't get them to work?
 
-</div>
+
 
 - I have always enjoyed working with the GMOD tools
 - <a href="Gbrowse.1" class="mw-redirect" title="Gbrowse">Gbrowse</a>
@@ -1799,12 +1579,12 @@ you try to use any of them, but couldn't get them to work?
 
 ## <span id="Other_Feedback" class="mw-headline">Other Feedback</span>
 
-<div class="quotebox">
+
 
 If you have any additional feedback, questions, or information you would
 like to provide, please tell us here.
 
-</div>
+
 
 - Please better documentation and support for additional glyphs in
   [Apollo](Apollo.1 "Apollo").
@@ -1852,18 +1632,18 @@ like to provide, please tell us here.
 - Thank you VERY MUCH for [GBrowse](GBrowse.1 "GBrowse")!!! It is a
   fantastic tool that helped us making important discoveries!
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=2009_GMOD_Community_Survey&oldid=10291>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1871,30 +1651,29 @@ Retrieved from
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 - [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1904,81 +1683,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1988,31 +1763,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:18 on 6 October
   2009.</span>
@@ -2034,4 +1808,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

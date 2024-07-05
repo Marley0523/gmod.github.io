@@ -99,7 +99,7 @@ project [meetings](Meetings "Meetings").
 See the [full list of GMOD
 components](GMOD_Components "GMOD Components")
 
-![JBrowse 2 logo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png)[link to JBrowse wiki page](JBrowse.1 "JBrowse")
+[![JBrowse 2 logo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png)](JBrowse.1 "JBrowse")
 
 <a href="File:Jbrowse2_logo.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"

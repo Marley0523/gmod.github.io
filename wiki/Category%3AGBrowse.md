@@ -1,54 +1,54 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Category%3AGBrowse</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Pages related to [GBrowse](GBrowse.1 "GBrowse").
 
-<div lang="en" dir="ltr">
 
-<div id="mw-subcategories">
+
+
 
 ## Subcategories
 
 This category has the following 3 subcategories, out of 3 total.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 ### G
 
@@ -57,17 +57,17 @@ This category has the following 3 subcategories, out of 3 total.
   Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
-</div>
 
-</div>
 
-<div id="mw-pages">
+
+
+
 
 ## Pages in category "GBrowse"
 
 The following 80 pages are in this category, out of 80 total.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 <table style="width: 100%;">
 <colgroup>
@@ -296,645 +296,644 @@ title="WebGBrowse/tool data">WebGBrowse/tool data</a></li>
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div id="mw-category-media">
+
+
+
 
 ## Media in category "GBrowse"
 
 The following 25 files are in this category, out of 25 total.
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:ChoosingAGenomeBrowser.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="ChoosingAGenomeBrowser.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [ChoosingAGenomeBrowser...](File:ChoosingAGenomeBrowser.pdf "File:ChoosingAGenomeBrowser.pdf")  
   103 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:CosmicGBrowseSept2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="CosmicGBrowseSept2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [CosmicGBrowseSept2010.pdf](File:CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")  
   800 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:1599-1.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="1599-1.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [1599-1.pdf](File:1599-1.pdf "File:1599-1.pdf")  
   881 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Aug2009GBrowse2ImplPersp.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Aug2009GBrowse2ImplPer...](File:Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
   624 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Aug2009GBrowseOrg.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Aug2009GBrowseOrg.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Aug2009GBrowseOrg.pdf](File:Aug2009GBrowseOrg.pdf "File:Aug2009GBrowseOrg.pdf")  
   9.25 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:CMapGBrowseSMBE2009.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [CMapGBrowseSMBE2009.pdf](File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
   2.51 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:CpGIslandAnnotator.pm" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="CpGIslandAnnotator.pm" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [CpGIslandAnnotator.pm](File:CpGIslandAnnotator.pm "File:CpGIslandAnnotator.pm")  
   4 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Flybase_topoview.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Flybase topoview.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Flybase
   topoview.pdf](File:Flybase_topoview.pdf "File:Flybase topoview.pdf")  
   102 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GBrowse_2.20_Poster.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GBrowse 2.20 Poster.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GBrowse 2.20
   Poster.pdf](File:GBrowse_2.20_Poster.pdf "File:GBrowse 2.20 Poster.pdf")  
   549 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Gbrowse_Color_Palette.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Gbrowse Color Palette.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Gbrowse Color
   Palette.pdf](File:Gbrowse_Color_Palette.pdf "File:Gbrowse Color Palette.pdf")  
   54 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GBrowse_nextgen_poster.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GBrowse nextgen poster.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GBrowse nextgen
   poster...](File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")  
   572 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Gbrowse_update_may_2003.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Gbrowse update may 2003.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Gbrowse update may
   200...](File:Gbrowse_update_may_2003.ppt "File:Gbrowse update may 2003.ppt")  
   1.05 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Gbrowse_update_sept_12_2003.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Gbrowse update sept 12 2003.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Gbrowse update sept
   12...](File:Gbrowse_update_sept_12_2003.ppt "File:Gbrowse update sept 12 2003.ppt")  
   376 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Gbrowse-050516.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Gbrowse-050516.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Gbrowse-050516.ppt](File:Gbrowse-050516.ppt "File:Gbrowse-050516.ppt")  
   1.07 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:61px auto;">
+  
 
   <a href="File:GBrowseLogo.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/120px-GBrowseLogo.png"
   width="120" height="28" alt="GBrowseLogo.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GBrowseLogo.png](File:GBrowseLogo.png "File:GBrowseLogo.png")  
   56 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GMODGBrowseSMBE2009.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GMODGBrowseSMBE2009.pdf](File:GMODGBrowseSMBE2009.pdf "File:GMODGBrowseSMBE2009.pdf")  
   18.41 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Jan2009WebBrowse.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Jan2009WebBrowse.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Jan2009WebBrowse.pdf](File:Jan2009WebBrowse.pdf "File:Jan2009WebBrowse.pdf")  
   2.89 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:NGSWithGMODWorkshop.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="NGSWithGMODWorkshop.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [NGSWithGMODWorkshop.pdf](File:NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf")  
   11.08 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:OCCBio_GBrowse_NGS.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="OCCBio GBrowse NGS.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [OCCBio GBrowse
   NGS.pdf](File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
   979 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:STRAnnotator.pm" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="STRAnnotator.pm" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [STRAnnotator.pm](File:STRAnnotator.pm "File:STRAnnotator.pm")  
   4 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:ISGAWebGBrowseSept2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [ISGAWebGBrowseSept2010...](File:ISGAWebGBrowseSept2010.pdf "File:ISGAWebGBrowseSept2010.pdf")  
   4.16 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:MaizeGDBGBrowseISMB2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [MaizeGDBGBrowseISMB201...](File:MaizeGDBGBrowseISMB2010.pdf "File:MaizeGDBGBrowseISMB2010.pdf")  
   2.52 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:MohellibiGrapevine_PAG2015.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [MohellibiGrapevine
   PAG...](File:MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
   3.15 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [PeanutBase PAG2015
   Pos...](File:PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
   3.35 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:ZFNGenomeGBrowseISMB2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="ZFNGenomeGBrowseISMB2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [ZFNGenomeGBrowseISMB20...](File:ZFNGenomeGBrowseISMB2010.pdf "File:ZFNGenomeGBrowseISMB2010.pdf")  
   324 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-</div>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Category%3AGBrowse&oldid=4968>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -945,81 +944,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1029,31 +1024,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:34 on 11 March
   2008.</span>
@@ -1075,4 +1069,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

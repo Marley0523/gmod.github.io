@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Malaysia 2014/WebApollo Tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This [WebApollo](../WebApollo.1 "WebApollo") tutorial was presented by
 [Scott Cain](../User%3AScott "User%3AScott") and [User%3AMichael
@@ -69,13 +69,13 @@ rel="nofollow">http://genomearchitect.org/webapollo/docs/webapollo_user_guide.pd
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Prerequisites</span>](#Prerequisites)
@@ -99,7 +99,7 @@ rel="nofollow">http://genomearchitect.org/webapollo/docs/webapollo_user_guide.pd
 - [<span class="tocnumber">10</span> <span class="toctext">Note on track
   styling</span>](#Note_on_track_styling)
 
-</div>
+
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -606,18 +606,18 @@ styles are located in
 
     jbrowse/data/trackList.json
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Malaysia_2014/WebApollo_Tutorial&oldid=25397>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
@@ -627,13 +627,13 @@ Retrieved from
   class="new"
   title="Category%3AWebApollo (page does not exist)">WebApollo</a>
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/WebApollo
@@ -644,30 +644,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutori
 |----|----|
 | [Has topic](../Property%3AHas_topic "Property:Has topic") | [WebApollo](../WebApollo.1 "WebApollo") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -677,49 +676,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -728,32 +725,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -763,31 +758,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FWebApollo_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 00:15 on 20 February
   2014.</span>
@@ -809,4 +803,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

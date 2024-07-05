@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Modware Presentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Eric Just, Senior Bioinformatics Scientist,
 [dictyBase](Category%3ADictyBase "Category%3ADictyBase"):
@@ -46,13 +46,13 @@ Northwestern University. This is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Modware.pdf" class="internal"
 title="Modware.pdf">Eric's presentation</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Why Modware
   Was Developed</span>](#Why_Modware_Was_Developed)
@@ -106,7 +106,7 @@ title="Modware.pdf">Eric's presentation</a>.
 - [<span class="tocnumber">22</span>
   <span class="toctext">Acknowlegments</span>](#Acknowlegments)
 
-</div>
+
 
 ##### <span id="Why_Modware_Was_Developed" class="mw-headline">Why Modware Was Developed</span>
 
@@ -165,9 +165,9 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 
 ##### <span id="Create_and_Insert_Chromosome" class="mw-headline">Create and Insert Chromosome</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
    my $seq_io = new Bio::SeqIO(
@@ -191,9 +191,9 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
    $reference_feature->insert();
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -259,9 +259,9 @@ assigned feature_id for each inserted gene.
                  description: A test gene for GMOD meeting
          …
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 my $gene_feature = new Modware::Feature(
@@ -279,9 +279,9 @@ $gene_feature->insert();
 print 'Inserted gene with feature_id:'.$gene_feature->feature_id()."\n";
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_1_-_Create_mRNA_BioPerl_Object" class="mw-headline">Problem 1 - Create mRNA BioPerl Object</span>
 
@@ -297,9 +297,9 @@ print 'Inserted gene with feature_id:'.$gene_feature->feature_id()."\n";
               strand: 1
               srcFeature_id: Id of genomic sample
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # First, create exon features (using Bioperl)
@@ -325,9 +325,9 @@ $bioperl_mrna->add_exon( $exon_1 );
 $bioperl_mrna->add_exon( $exon_2 );
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_1_-_Create_and_Insert_mRNA" class="mw-headline">Problem 1 - Create and Insert mRNA</span>
 
@@ -335,9 +335,9 @@ The BioPerl object holds the location information, but now we want to
 create a Modware object and link it to the gene as well as locate it on
 the chromosome.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
      # Now create Modware Feature to 'hold' bioperl object
@@ -355,9 +355,9 @@ the chromosome.
      $mrna_feature->insert();
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_2_-_Writing_the_Report" class="mw-headline">Problem 2 - Writing the Report</span>
 
@@ -378,9 +378,9 @@ the chromosome.
 Create new package, GMODWriter, to write the report, this package uses
 Modware and Bioperl methods.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 use Modware::Gene;
@@ -390,9 +390,9 @@ my $xfile_gene = new Modware::Gene( -name => 'xfile' );
 GMODWriter->Write_gene_report( $xfile_gene );
 ```
 
-</div>
 
-</div>
+
+
 
 - What's the difference between Modware::Gene and Modware::Feature? Gene
   is-a Feature.
@@ -404,9 +404,9 @@ GMODWriter->Write_gene_report( $xfile_gene );
 - The mRNA object contains the Bioperl object
   - Why not just subclass? More flexibility the way shown here
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 package GMODWriter;
@@ -443,18 +443,18 @@ foreach my $exon (@exons ) {
  . . .
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_3_-_Updating_a_Gene_Name" class="mw-headline">Problem 3 - Updating a Gene Name</span>
 
 3\) Update the gene xfile: change the name symbol to x-file and retrieve
 the changed record. Regenerate gene report
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
  use Modware::Gene;
@@ -484,9 +484,9 @@ the changed record. Regenerate gene report
  }
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -499,9 +499,9 @@ results produce the following simple result list (organism will vary):
        1324    x-men   Xenopus laevis
        1325    x-ray   Xenopus laevis
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
      use Modware::Gene;
@@ -515,9 +515,9 @@ results produce the following simple result list (organism will vary):
      GMODWriter->Write_search_results( $results )
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -532,9 +532,9 @@ results produce the following simple result list (organism will vary):
 
   
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 sub Write_search_results {
@@ -548,9 +548,9 @@ sub Write_search_results {
 }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_5_-_Delete_a_Gene" class="mw-headline">Problem 5 - Delete a Gene</span>
 
@@ -559,9 +559,9 @@ sub Write_search_results {
        1323    x-file  Xenopus laevis
        1324    x-men   Xenopus laevis
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
  # get the xray gene
@@ -583,9 +583,9 @@ sub Write_search_results {
  GMODWriter->Write_search_results( $results )
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -658,48 +658,47 @@ sub Write_search_results {
 - GMOD
 - [SGD](Category%3ASGD "Category%3ASGD")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Modware_Presentation&oldid=24341>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Modware](Category%3AModware "Category%3AModware")
 - [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -709,81 +708,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -793,31 +788,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Modware_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:24 on 15 August
   2013.</span>
@@ -839,4 +833,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

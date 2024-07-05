@@ -1,51 +1,51 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">Site Guidelines</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This page discusses editorial policies and best practices to follow when
 updating or creating content in the GMOD web site.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -96,7 +96,7 @@ updating or creating content in the GMOD web site.
 - [<span class="tocnumber">7</span> <span class="toctext">Component
   Information Pages</span>](#Component_Information_Pages)
 
-</div>
+
 
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
@@ -119,12 +119,12 @@ Or, **Guidelines on Guidelines**.
 
 **A:** Yes.
 
-<div class="guideline">
+
 
 We would much rather have a contribution that completely ignores these
 guidelines than not have the contribution at all.
 
-</div>
+
 
 This is for pragmatic and philosophical reasons. The whole goal of a
 wiki is to encourage people to contribute and maintain content. Site
@@ -168,11 +168,11 @@ when somebody notices.
 This is a list of guidelines for creating content in the GMOD web site.
 Some guidelines are accompanied by discussion that explains them.
 
-<div class="guideline">
+
 
 Guidelines are shown like this.
 
-</div>
+
 
 Discussion is shown as regular text.
 
@@ -180,11 +180,11 @@ Discussion is shown as regular text.
 
 #### <span id="Capitalization" class="mw-headline">Capitalization</span>
 
-<div class="guideline">
+
 
 Use _Generous Capitalization_ instead of _Parsimonious capitalization_.
 
-</div>
+
 
 For example, use "Site Guidelines" instead of "Site guidelines".
 
@@ -192,11 +192,11 @@ It looks better.
 
 #### <span id="Redirects" class="mw-headline">Redirects</span>
 
-<div class="guideline">
+
 
 Use of MediaWiki redirects for page name synonyms is encouraged.
 
-</div>
+
 
 This means that if a user types
 "<a href="Generic_Genome_Browser" class="mw-redirect"
@@ -226,13 +226,13 @@ turns into more of an index than a listing of all pages.
 
 ### <span id="Minor_vs_Major_Edits" class="mw-headline">Minor vs Major Edits</span>
 
-<div class="guideline">
+
 
 If you do not want the page you are editing to be listed in the _New &
 Revised Pages_ list on the GMOD home page, then mark your edit as
 _minor_.
 
-</div>
+
 
 When you update a page in this web site you can flag it as a _minor
 edit_. As of December 2007, the minor/major edit distinction is used in
@@ -246,11 +246,11 @@ mark it as a minor edit.
 
 ### <span id="Tags_.2F_Categories" class="mw-headline">Tags / Categories</span>
 
-<div class="guideline">
+
 
 Tag any pages you edit with appropriate categories for that page.
 
-</div>
+
 
 Be generous in your tagging. If a particular category gets too many
 pages in it then the [help desk](GMOD_Help_Desk "GMOD Help Desk") will
@@ -270,11 +270,11 @@ in site navigation.
 
 #### <span id="New_Categories" class="mw-headline">New Categories</span>
 
-<div class="guideline">
+
 
 If you think we need a new category then create it.
 
-</div>
+
 
 You can create a new category by typing the new category name in the
 **Categories** form on an edit page.
@@ -299,12 +299,12 @@ Desk](GMOD_Help_Desk "GMOD Help Desk") and we will add it.
 
 #### <span id="Destination_Filenames" class="mw-headline">Destination Filenames</span>
 
-<div class="guideline">
+
 
 When uploading a file, please give the file a meaningful **Destination
 filename**.
 
-</div>
+
 
 The **Destination filename** is the name the file will have in the GMOD
 web site. Why does this matter? Filenames are displayed in
@@ -322,28 +322,28 @@ about.
 
 #### <span id="File_Categories" class="mw-headline">File Categories</span>
 
-<div class="guideline">
+
 
 When uploading a presentation or a paper, please add it to the
 [Presentations](Category%3APresentations "Category%3APresentations") or
 [Publications](Category%3APublications "Category%3APublications")
 categories. Also add the file to any other appropriate categories.
 
-</div>
+
 
 If the file is an image that is being linked to from a page then you
 don't need to categorize it.
 
 #### <span id="Diagrams_and_Cartoons" class="mw-headline">Diagrams and Cartoons</span>
 
-<div class="guideline">
+
 
 When uploading a diagram or cartoon that was created in a drawing
 program upload the exported image file (png, jpg, gif) and the original
 source file. Load both files with the same name, but different
 extensions.
 
-</div>
+
 
 This will allow others (and yourself) to modify the diagrams in the
 future rather than recreate them from scratch.
@@ -462,10 +462,10 @@ TextEditorLink|gedit</p>
 <hr />
 <p>Edit the configuration file:</p>
 <pre><code>gedit thingy.conf</code></pre>
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 <a href="Linux_Text_Editors" title="Linux Text Editors">A word on text
 editors such as gedit</a>.
-</div></td>
+</td>
 </tr>
 <tr class="odd">
 <td><dl>
@@ -513,8 +513,8 @@ this wiki.
   &lt;/command&gt;
 ...&lt;/syntaxhighlight&gt;</code></pre>
 <hr />
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
-<div class="xml source-xml">
+
+
 <pre class="de1"><code>&lt;tool id=&quot;get_flanks1&quot; name=&quot;Get flanks&quot;&gt;
   &lt;description&gt;
     returns flanking region/s for genes
@@ -523,8 +523,8 @@ this wiki.
     get_flanks.py $input ...
   &lt;/command&gt;
 ...</code></pre>
-</div>
-</div></td>
+
+</td>
 </tr>
 <tr class="odd">
 <td><dl>
@@ -541,11 +541,11 @@ Here&#39;s an example of what &#39;&#39;not&#39;&#39; to do:
  sudo rm -rf *
 &lt;/div&gt;  </code></pre>
 <hr />
-<div class="dont">
+
 <p>Here's an example of what <em>not</em> to do:</p>
 <pre><code>cd /
 sudo rm -rf *</code></pre>
-</div></td>
+</td>
 <td>Same</td>
 </tr>
 <tr class="even">
@@ -603,9 +603,9 @@ highlighting. For coloured code, use the ` <syntaxhighlight>` tag:
     die("Goodbye, cruel world!");
     </syntaxhighlight>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ```de1
  #!/usr/bin/perl
@@ -613,9 +613,9 @@ highlighting. For coloured code, use the ` <syntaxhighlight>` tag:
  die("Goodbye, cruel world!");
 ```
 
-</div>
 
-</div>
+
+
 
 Languages supported include Javascript, Java, Perl, PHP, XML, CSS, and
 more. Full documentation can be found on the
@@ -629,17 +629,17 @@ identifier (DOI), the full information can be automatically retrieved
 from PubMed or the CrossRef server for you. To create the reference, use
 the `<ref />` tag:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="html5 source-html5">
+
+
 
 ```de1
 <ref name=PMID:15752432 />
 ```
 
-</div>
 
-</div>
+
+
 
 The `name` attribute can contain either a PubMed ID in the form
 PMID:00000000 or a DOI in the form DOI:10.1186/1471-2164-14-741.
@@ -701,18 +701,18 @@ The `tool_data` pages essentially act as a data store, and the page
 parses and formats the data to produce a standardized GMOD component
 page.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Site_Guidelines&oldid=24787>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -724,28 +724,27 @@ Retrieved from
 - [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
 - [Help](Category%3AHelp "Category%3AHelp")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -754,77 +753,73 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -834,29 +829,28 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Site_Guidelines" rel="smw-browse">Browse
   properties</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:18 on 8 November 2013.</span>
 <!-- - <span id="footer-info-viewcount">216,156 page views.</span> -->
@@ -872,4 +866,4 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
+

@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">JBrowse Tutorial PAG 2017</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
 Cain](User%3AScott "User%3AScott") at the
@@ -52,13 +52,13 @@ href="https://s3.amazonaws.com/jbrowse-tutorials/JBrowse+PAG+2017.ova.bz2"
 class="external text" rel="nofollow">JBrowse PAG 2017.ova.bz2</a> (about
 3GB).
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Prerequisites</span>](#Prerequisites)
@@ -125,7 +125,7 @@ class="external text" rel="nofollow">JBrowse PAG 2017.ova.bz2</a> (about
 - [<span class="tocnumber">9</span> <span class="toctext">Other
   links</span>](#Other_links)
 
-</div>
+
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -249,9 +249,9 @@ web browser can use.
 In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
 ...
@@ -276,9 +276,9 @@ In this case, we have specified all of our track configurations in
 ]
 ```
 
-</div>
 
-</div>
+
+
 
 `track` specifies the track identifier (a unique name for the track, for
 the software to use). This should be just letters and numbers and - and
@@ -362,9 +362,9 @@ server. Simply place the BAM file in a directory accessible to your web
 server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -376,9 +376,9 @@ similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -403,9 +403,9 @@ and insert the text below in the "tracks" array (the easiest thing to do
 is find the "\[" after "tracks", paste there and then add a comma after
 the "}").
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -417,9 +417,9 @@ the "}").
       }
 ```
 
-</div>
 
-</div>
+
+
 
 and then press the Save button.
 
@@ -432,9 +432,9 @@ your web server. Simply place the BigWig file in a directory accessible
 to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -447,9 +447,9 @@ the track, similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -474,9 +474,9 @@ Simply place the .vcf.gz and .vcf.gz.tbi files in a directory accessible
 to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -488,9 +488,9 @@ the track, similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -522,9 +522,9 @@ be copied into the `data` directory for use with this configuration.
 
 Then a simple faceted track selection configuration might look like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
    "trackSelector": {
@@ -537,9 +537,9 @@ Then a simple faceted track selection configuration might look like:
    }
 ```
 
-</div>
 
-</div>
+
+
 
 Copy the section above and put it in the empty curly braces in the
 `jbrowse_conf.json` file in the `jbrowse`, save it, refresh your
@@ -554,9 +554,9 @@ tracks created above).
 
 The configuration for the RepeatMasker track looks like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -576,26 +576,26 @@ The configuration for the RepeatMasker track looks like this:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 Open the `data/trackList.json` file in your favorite editor and
 Control-F will open a "find" window; search for "repeatmasker". A simple
 change we can make is to the color; in the line starting with "style",
 add:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
   "color" : "black",
 ```
 
-</div>
 
-</div>
+
+
 
 save the changes and select the RepeatMasker track or reload the browser
 to see the change. Many attributes of the display can be modified in
@@ -614,17 +614,17 @@ name). In this example, we leave the glyph black, unless it is a low
 complexity repeat, where we'll color it red. A function to do that would
 look like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
   "color" : "function(feature) { var name = feature.get('Name'); if (name.match('Low_complexity') ) { return 'red'; } return 'black';  }",
 ```
 
-</div>
 
-</div>
+
+
 
 When editing the trackList.json file directly in this way, the function
 has to go all on one line, but if we create an "include file" (not
@@ -646,9 +646,9 @@ that will Google the repeat's name and open the result in a new window.
 In the RepeatMasker section of the JBrowse configuration, we'll add a
 section that looks like this after the style section:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
         "onClick" : {
@@ -660,16 +660,16 @@ section that looks like this after the style section:
         },
 ```
 
-</div>
 
-</div>
+
+
 
 If you're having difficulties, the RepeatMasker section of the
 configuration file should now look something like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -697,9 +697,9 @@ configuration file should now look something like this:
       },
 ```
 
-</div>
 
-</div>
+
+
 
 ## <span id="Using_Plugins" class="mw-headline">Using Plugins</span>
 
@@ -796,18 +796,18 @@ running the `setup.sh` script.
   class="external free"
   rel="nofollow">http://jbrowse.org/test/boatdiv/boat.html</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_PAG_2017&oldid=27334>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
@@ -815,13 +815,13 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial PAG
@@ -832,30 +832,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:
 |----|----|
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -865,81 +864,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -949,31 +944,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_PAG_2017"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 19:38 on 15 January
   2017.</span>
@@ -995,4 +989,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

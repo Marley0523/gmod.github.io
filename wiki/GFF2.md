@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GFF2</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <a href="http://www.sanger.ac.uk/Software/formats/GFF/GFF_Spec.shtml"
 class="external text" rel="nofollow">GFF2</a> is a supported format in
@@ -50,13 +50,13 @@ led to quality control and data exchange problems.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">GFF2 is
   Deprecated!</span>](#GFF2_is_Deprecated.21)
@@ -98,7 +98,7 @@ led to quality control and data exchange problems.
   - [<span class="tocnumber">3.2</span> <span class="toctext">Column 9:
     Group / Attributes</span>](#Column_9:_Group_.2F_Attributes)
 
-</div>
+
 
 ## <span id="GFF2_is_Deprecated.21" class="mw-headline">GFF2 is Deprecated!</span>
 
@@ -106,7 +106,7 @@ The GFF file format stands for "Gene Finding Format" or or "General
 Feature Format" and was invented at the Sanger Centre. It is easy to
 use, but it suffers from two main limitations (see the box).
 
-<div class="emphasisbox">
+
 
 ### <span id="Why_GFF2_is_harmful_to_your_health" class="mw-headline">Why GFF2 is harmful to your health</span>
 
@@ -124,7 +124,7 @@ subfeature of the transcript, or vice-versa. This means you have to use
 neck. For this reason, GFF2 format has been deprecated in favor of
 [GFF3](GFF3 "GFF3") format databases.
 
-</div>
+
 
 See [GFF3](GFF3 "GFF3") for more on the current version of GFF.
 
@@ -380,7 +380,7 @@ care.
 
 ### <span id="Aggregators" class="mw-headline">Aggregators</span>
 
-<div class="emphasisbox">
+
 
 It is not necessary to use aggregators with the
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>,
@@ -388,7 +388,7 @@ It is not necessary to use aggregators with the
 Adaptors](GBrowse_Adaptors "GBrowse Adaptors"), or any other adaptor
 that is based on [GFF3](GFF3 "GFF3").
 
-</div>
+
 
 The Bio::DB::GFF adaptor (and only Bio::DB::GFF!) has a feature known as
 "aggregators". These are small software packages that recognize certain
@@ -495,18 +495,18 @@ it would be better to also convert your feature representations to be
 multi-level at the time you migrate the data to GFF3. This is
 non-trivial.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GFF2&oldid=27433>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -520,30 +520,29 @@ Retrieved from
   class="new" title="Category%3AFile Formats (page does not exist)">File
   Formats</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -553,81 +552,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -637,30 +632,29 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF2" rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 13:27 on 21 April
   2017.</span>
@@ -682,4 +676,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

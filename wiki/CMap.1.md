@@ -1,49 +1,48 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">CMap</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected fromhttp://gmod.org/wiki/
 [Cmap](/mediawiki/index.php?title=Cmap&http://gmod.org/wiki/redirect=no "Cmap"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation),
 [search](#p-searhttp://gmod.org/wiki/ch)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en"
-dir="http://gmod.org/wiki/ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="/wiki/File:Chttp://gmod.org/wiki/MapLogo-horiz.png"
 class="image"><img
@@ -51,29 +50,29 @@ srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/t
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/600px-CMapLogo-horiz.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/800px-CMapLogo-horiz.png 2x"
 width="400" height="115" alt="CMap logo" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Mature release
 - Development: inactive
 - Support: active
 
-<div class="compBoxHdr">
+
 
 Licence
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="http://opensourhttp://gmod.org/wiki/ce.org/"
 rel="nofollow"><img
@@ -81,16 +80,16 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_shttp://gmod.org/wiki/ymbol.png/60px-Osi_symbol.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt=" is open source" /></a>
 
-</div>
+
 
 <a href="http://opensource.org/licenses/GPL-3.0" class="external text"
 rel="nofollow">GPL</a>
 
-<div class="compBoxHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="http://sourceforge.net/projects/gmod/files/cmap/"
   class="external text" rel="nofollow">Download</a>
@@ -111,11 +110,11 @@ Resources
 - <a href="http://www.gramene.orhttp://gmod.org/wiki/g/db/cmap"
   class="external text" rel="nofollow">Demo server</a>
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
@@ -169,7 +168,7 @@ Development</span>](#CMap_Development)
   - [<span class="tocnumber">10.1</span> <span class="toctext">CMap
     Logo</span>](#CMap_Logo)
 
-</div>
+
 
 ## <span id="About_CMap" class="mw-headline">About CMap</span>
 
@@ -185,61 +184,61 @@ rel="nofollow">Gramene Project</a>. See also
 <a href="http://www.gramene.org/cmap/entry.html" class="external text"
 rel="nofollow">other Gramene views</a>.
 
-<div style="width: 235px">
 
-<div class="thumb" style="width: 230px;">
 
-<div style="margin:15px auto;">
+
+
+
 
 <a href="/wiki/File:Cmap_sample1.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
 width="89" height="120" alt="Cmap sample1.jpg" /></a>
 
-</div>
 
-</div>
 
-<div class="gallerytext">
 
-</div>
 
-<div style="width: 235px">
 
-<div class="thumb" style="width: 230px;">
 
-<div style="margin:15px auto;">
+
+
+
+
+
+
+
 
 <a href="/wiki/File:Cmap_sample2.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
 width="169" height="120" alt="Cmap sample2.jpg" /></a>
 
-</div>
 
-</div>
 
-<div class="gallerytext">
 
-</div>
 
-<div style="width: 235px">
 
-<div class="thumb" style="width: 230px;">
 
-<div style="margin:15px auto;">
+
+
+
+
+
+
+
 
 <a href="/wiki/File:Cmap_sample3.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
 width="131" height="120" alt="Cmap sample3.jpg" /></a>
 
-</div>
 
-</div>
 
-<div class="gahttp://gmod.org/wiki/llerytext">
 
-</div>
 
-</div>
+
+
+
+
+
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -362,17 +361,17 @@ class="external text" rel="nofollow">Tutorial @ Gramene</a>
 
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 Mailing List Link
 
@@ -487,16 +486,16 @@ Community College</a>.
 1.  <span id="cite_note-1"><span class="mw-cite-backlink">[↑](#cite_ref-1)</span>
     <span class="reference-text">PMID:19648141</span></span>
 
-<div class="printfooter">
+
 
 Retrieved from
 "[http://gmod.org/mediawikihttp://gmod.org/index.php?title=CMap&oldid=24755](http://gmod.org/mediawiki/index.php?title=CMap&oldid=24755)"
 
-</div>
 
-<div id="catlinks" clhttp:="" gmod.org="" wiki="" ass="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
@@ -518,13 +517,13 @@ Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
 
 [Gramene](/wiki/Category%3AGramene "Category%3AGramene")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="http://gmod.org/wiki/"swmfactboxheadbrowse"">[CMap](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -532,9 +531,9 @@ feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
 
 [Available on platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")
 
-</div>
 
-</div>
+
+
 
 web
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Avaihttp://gmod.org/wiki/lable-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>
@@ -814,22 +813,21 @@ and
 [CMap#http://cricket.ornl.gov/cgi-bin/cmap/map_set_info](/wiki/CMap#http:.2F.2Fcricket.ornl.gov.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
 
-<div class="visualClear">
 
-</div>
 
-<div id="mw-navigation">
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
+
 
 http://gmod.org/wiki/
 
-<div id="left-navigation">
 
-<div id="p-namespaces" role="navigation" clahttp:="" gmod.org="" wiki=""
-ss="vectorTabs" aria-labelledby="p-namespaces-label">
+
+
 
 ### Namespaces
 
@@ -840,48 +838,45 @@ ss="vectorTabs" aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" role="navigation" clashttp:="" gmod.org="" wiki=""
-s="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 http://gmod.org/wiki/
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
 
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal"
-role="navigathttp://gmod.org/wiki/ion"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Hhttp://gmod.org/wiki/ome">[GMOD
   Home](/wiki/Main_Page)</span>
@@ -891,16 +886,15 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-http://gmod.org/wiki/Documentation" class="portal"
-role="navigation" aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 http://gmod.org/wiki/
 
@@ -909,17 +903,15 @@ http://gmod.org/wiki/
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal"
-role="navhttp://gmod.org/wiki/igation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD
   News](/wikhttp://gmod.org/wiki/i/GMOD_News)</span>
@@ -930,16 +922,15 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" clahttp:="" gmod.org="" wiki="" ss="portal"
-role="navigation" aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/CMap" accesskey="j"
   title="A list of all wiki pages that link here [j]">What links here</a></span>
@@ -959,15 +950,15 @@ role="navigation" aria-labelledby="p-tb-label">
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/CMap" rel="smw-browse">Browse
   properties</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:40 on 17 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">692,728 page views.</span> -->
@@ -983,8 +974,8 @@ role="navigation" aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
 
-</div>
 
-</div>
+
+
+

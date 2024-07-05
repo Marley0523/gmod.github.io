@@ -1,60 +1,60 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse Ubuntu HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="emphasisbox">
+
+
+
 
 NOTE: As of the 11.10 release of Ubuntu, there is a .deb package for
 GBrowse (it's usable on Debian machines as well, but I don't know the
 details of what repository needs to be activated to get GBrowse via
 apt-get on Debian).
 
-</div>
 
-<div class="emphasisbox">
+
+
 
 ANOTHER NOTE: the current version of GBrowse in that deb package is
 fairly old (2.38 versus the current 2.55); below I'll outline using
 apt-get to get all of the prerequisites for GBrowse but use cpan to
 install GBrowse.
 
-</div>
+
 
 To install GBrowse on a recent Ubuntu distribution, just do this:
 
@@ -80,13 +80,13 @@ The content below will be left in place for older distributions.
 
 ------------------------------------------------------------------------
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Using apt-get
   just to get the
@@ -99,7 +99,7 @@ The content below will be left in place for older distributions.
 - [<span class="tocnumber">4</span>
   <span class="toctext">Author</span>](#Author)
 
-</div>
+
 
 ## <span id="Using_apt-get_just_to_get_the_prereqs" class="mw-headline">Using apt-get just to get the prereqs</span>
 
@@ -154,11 +154,11 @@ This will still install a few perl modules, but it should go smoothly
 and quickly since most of the prerequisites will have been installed by
 the above apt-get command.
 
-<div class="emphasisbox">
+
 
 The information below is deprecated.
 
-</div>
+
 
 [GBrowse](GBrowse.1 "GBrowse") does not have a .deb package, but many of
 its prerequisites are distributed in this way. This document describes
@@ -229,18 +229,18 @@ rel="nofollow">http://localhost/gbrowse</a>.
 
 [Lincoln Stein](User%3ALstein "User%3ALstein") 12:36, 17 April 2007 (EDT)
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_Ubuntu_HOWTO&oldid=27706>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -248,30 +248,29 @@ Retrieved from
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -279,81 +278,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3AGBrowse_Ubuntu_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -363,31 +358,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Ubuntu_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:37 on 8 August
   2018.</span>
@@ -409,4 +403,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

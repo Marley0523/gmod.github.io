@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Running a GBrowse2 render farm</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") can be configured
 to use one or more "render slave" daemons. A render slave is a small
@@ -48,13 +48,13 @@ particular track, a particular set of tracks, or to all tracks. In
 addition, you may assign multiple slaves to tracks, in which case the
 load will be distributed across each slave in a round-robin fashion.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -76,7 +76,7 @@ load will be distributed across each slave in a round-robin fashion.
 - [<span class="tocnumber">5</span>
   <span class="toctext">Troubleshooting</span>](#Troubleshooting)
 
-</div>
+
 
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
@@ -99,7 +99,7 @@ offloaded to render slaves.
 
 ## <span id="Common_Configurations" class="mw-headline">Common Configurations</span>
 
-<div style="float: right">
+
 
 <table>
 <colgroup>
@@ -108,81 +108,81 @@ offloaded to render slaves.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:182px;">
+<td>
+
 <a href="File:Renderfarm_1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/180px-Renderfarm_1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/270px-Renderfarm_1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/360px-Renderfarm_1.png 2x"
 width="180" height="177" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:Renderfarm_1.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 Figure 1:Single server with multiple processors or cores
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:182px;">
+
+
+</td>
+<td>
+
 <a href="File:Renderfarm_2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/180px-Renderfarm_2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/270px-Renderfarm_2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/360px-Renderfarm_2.png 2x"
 width="180" height="174" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:Renderfarm_2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 Figure 2:Multiple servers sharing NFS-mounted file-based databases
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 <tr class="even">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:182px;">
+<td>
+
 <a href="File:Renderfarm_3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/180px-Renderfarm_3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/270px-Renderfarm_3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/360px-Renderfarm_3.png 2x"
 width="180" height="177" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:Renderfarm_3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 Figure 3:Multiple servers sharing the same relational databases
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:182px;">
+
+
+</td>
+<td>
+
 <a href="File:Renderfarm_4.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/180px-Renderfarm_4.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/270px-Renderfarm_4.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/360px-Renderfarm_4.png 2x"
 width="180" height="210" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:Renderfarm_4.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 Figure 4:Multiple servers with private databases
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 </tbody>
 </table>
 
-</div>
+
 
 Figures 1 through 4 illustrate common render slave configurations. In
 each of these configurations, we assume that your data source has three
@@ -496,47 +496,46 @@ Slaves write diagnostic messages to a log file usually located in
 location. During troubleshooting you may wish to increase VERBOSITY
 option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Running_a_GBrowse2_render_farm&oldid=19033>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -546,81 +545,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -630,31 +625,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Running_a_GBrowse2_render_farm"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 12:08 on 12 October
   2011.</span>
@@ -676,4 +670,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,54 +1,54 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Category%3AAnnotation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This category links to pages about doing annotation in GMOD.
 
-<div lang="en" dir="ltr">
 
-<div id="mw-subcategories">
+
+
 
 ## Subcategories
 
 This category has the following 5 subcategories, out of 5 total.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 ### A
 
@@ -71,17 +71,17 @@ This category has the following 5 subcategories, out of 5 total.
 
 - [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
 
-</div>
 
-</div>
 
-<div id="mw-pages">
+
+
+
 
 ## Pages in category "Annotation"
 
 The following 22 pages are in this category, out of 22 total.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 <table style="width: 100%;">
 <colgroup>
@@ -156,316 +156,315 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div id="mw-category-media">
+
+
+
 
 ## Media in category "Annotation"
 
 The following 11 files are in this category, out of 11 total.
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GO_Curation_Sept2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GO Curation Sept2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GO Curation
   Sept2010.pdf](File:GO_Curation_Sept2010.pdf "File:GO Curation Sept2010.pdf")  
   10.12 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Crosby_040526.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Crosby 040526.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Crosby 040526.ppt](File:Crosby_040526.ppt "File:Crosby 040526.ppt")  
   866 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:DictyBase-phenotypes.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Kodira_040526.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Kodira 040526.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Kodira 040526.ppt](File:Kodira_040526.ppt "File:Kodira 040526.ppt")  
   1.2 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Sabo_040526.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Sabo 040526.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Sabo 040526.ppt](File:Sabo_040526.ppt "File:Sabo 040526.ppt")  
   447 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Schlueter_040526.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Schlueter 040526.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Schlueter
   040526.ppt](File:Schlueter_040526.ppt "File:Schlueter 040526.ppt")  
   1.95 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Smutniak-050516.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Smutniak-050516.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Smutniak-050516.ppt](File:Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
   343 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Workshop.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Workshop.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Workshop.pdf](File:Workshop.pdf "File:Workshop.pdf")  
   381 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Worley_040526.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Worley 040526.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Worley 040526.ppt](File:Worley_040526.ppt "File:Worley 040526.ppt")  
   362 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Zhang-050517.ppt" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
   height="120" alt="Zhang-050517.ppt" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Zhang-050517.ppt](File:Zhang-050517.ppt "File:Zhang-050517.ppt")  
   745 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Jan2010ErgatisForBiologists.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Jan2010ErgatisForBiolo...](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf")  
   3.31 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-</div>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Category%3AAnnotation&oldid=4943>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Biology](Category%3ABiology "Category%3ABiology")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -476,81 +475,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -560,31 +555,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AAnnotation" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:45 on 10 March
   2008.</span>
@@ -606,4 +600,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

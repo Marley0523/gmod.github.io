@@ -1,52 +1,52 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Glyphs and Glyph Options</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div style="float:right">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Selecting and
   Configuring Glyphs</span>](#Selecting_and_Configuring_Glyphs)
@@ -234,9 +234,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   - [<span class="tocnumber">3.81</span>
     <span class="toctext">xyplot</span>](#xyplot)
 
-</div>
 
-</div>
+
+
 
 See also: [GBrowse
 Configuration/Glyphs](GBrowse_Configuration/Glyphs "GBrowse Configuration/Glyphs")
@@ -264,23 +264,23 @@ options are shared among all glyphs; others are glyph-specific.
 
 The simplest \[Track\] stanza will look like this:
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:592px;">
+
+
 
 <a href="File:Glyph_simple_track.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Glyph_simple_track.png" class="thumbimage"
 width="590" height="99" /></a>
 
-<div class="thumbcaption">
+
 
 Figure 1: The "generic" glyph with all its defaults.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
     [Demo]
     feature = gene
@@ -294,23 +294,23 @@ You can change the default appearance of the generic glyph using the
 standard **height**, **bgcolor**, and **fgcolor** options. You can also
 assign a longer key to the track using the **key** option. For example:
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:592px;">
+
+
 
 <a href="File:Glyph_configured_track.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/Glyph_configured_track.png"
 class="thumbimage" width="590" height="117" /></a>
 
-<div class="thumbcaption">
+
 
 Figure 2: The "generic" glyph with changed options.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
     [Demo]
     feature = gene
@@ -339,27 +339,27 @@ GBrowse color-related options accept human readable color names like
 "yellow" and "chartreuse". The full list is contained in the color chart
 in Figure 3.
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:731px;">
+
+
+
 
 <a href="File:Figure3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Figure3.png" class="thumbimage"
 width="729" height="759" /></a>
 
-<div class="thumbcaption">
+
 
 Figure3: Named colors
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 ### <span id="By_HTML_Value" class="mw-headline">By HTML Value</span>
 
@@ -447,23 +447,23 @@ to deactivate, set it to false:
 
 ## <span id="Fonts" class="mw-headline">Fonts</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:132px;">
+
+
 
 <a href="File:Glyph_fonts.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Glyph_fonts.png" class="thumbimage"
 width="130" height="100" /></a>
 
-<div class="thumbcaption">
+
 
 Figure 4: Fonts available to GBrowse
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Some options, such as the generic **font** option, expect a font name.
 GBrowse provides a small set of fixed-width fonts provided by the
@@ -485,27 +485,27 @@ labeling, as shown in the example below:
     height  = 9
     key     = Demo track using the "giant" font
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:592px;">
+
+
+
 
 <a href="File:Glyph_giant_font_demo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Glyph_giant_font_demo.png"
 class="thumbimage" width="590" height="173" /></a>
 
-<div class="thumbcaption">
+
 
 Figure 5: Changing the font
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
   
 
@@ -533,23 +533,23 @@ class="external text" rel="nofollow">webgbrowse.cgb.indiana.edu</a>.
 
 ## <span id="generic" class="mw-headline">generic</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:592px;">
+
+
 
 <a href="File:Glyph_generic_configured_track.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/17/Glyph_generic_configured_track.png"
 class="thumbimage" width="590" height="178" /></a>
 
-<div class="thumbcaption">
+
 
 Figure 6: The generic glyph with all the trimmings
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 The *generic* glyph is the basis for all other glyphs and is the default
 if the glyph option is not explicitly stated. The following is a
@@ -913,9 +913,9 @@ Bio::Graphics::Glyph::two_bolts
 
 ## <span id="vista_plot" class="mw-headline">vista_plot</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Vista_plot.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/180px-Vista_plot.png"
@@ -923,23 +923,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/270px-Vista_plot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/360px-Vista_plot.png 2x"
 width="180" height="46" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Vista_plot.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 A vista_plot Track
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 This is a combination XY or density plot with superimposed peak calls;
 it is typically used with ChIP-seq and ChIP-chip data. Please see [Using
@@ -965,9 +965,9 @@ Bio::Graphics::Glyph::wiggle_box
 
 ## <span id="wiggle_density" class="mw-headline">wiggle_density</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="File:Wiggle_density.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/500px-Wiggle_density.jpg"
@@ -975,23 +975,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/750px-Wiggle_density.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/1000px-Wiggle_density.jpg 2x"
 width="500" height="73" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Wiggle_density.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Sample of (5 of) the wiggle_density glyph.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 A density glyph compatible with the "wig" data format. Varies the
 intensity of the hues corresponding to the value of the data. You can
@@ -1012,9 +1012,9 @@ visualize negative values.
 
 ## <span id="wiggle_xyplot" class="mw-headline">wiggle_xyplot</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="File:Wiggle_xyplot.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/500px-Wiggle_xyplot.jpg"
@@ -1022,23 +1022,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/750px-Wiggle_xyplot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/1000px-Wiggle_xyplot.jpg 2x"
 width="500" height="147" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Wiggle_xyplot.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Sample track containing 5 "stacked" wiggle_xyplot glyphs.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 An xy-plot compatible with dense "wig" data. See the documentation for
 <a
@@ -1076,48 +1076,47 @@ Bio::Graphics::Glyph::wiggle_minmax
 
 Bio::Graphics::Glyph::xyplot
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Glyphs_and_Glyph_Options&oldid=26651>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1127,81 +1126,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1211,31 +1206,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Glyphs_and_Glyph_Options"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:35 on 27 March
   2015.</span>
@@ -1257,4 +1251,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

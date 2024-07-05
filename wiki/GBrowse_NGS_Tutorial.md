@@ -1,57 +1,57 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse NGS Tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
   
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GBrowseLogo.png" class="image" title="GBrowse"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" alt="GBrowse" /></a>
 
-</div>
 
-</div>
+
+
 
 This [GBrowse Next Generation Sequencing](GBrowse.1 "GBrowse") tutorial
 was presented by [Dave Clements](User%3AClements "User%3AClements") at the
@@ -70,13 +70,13 @@ rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">VMware</span>](#VMware)
@@ -164,7 +164,7 @@ rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam.
       <span class="toctext">Showing Paired End
       Reads</span>](#Showing_Paired_End_Reads)
 
-</div>
+
 
   
 
@@ -208,7 +208,7 @@ Password: gmod</p></td>
 
 ## <span id="Caveats" class="mw-headline">Caveats</span>
 
-<div class="emphasisbox">
+
 
 **Important Note**
 
@@ -219,7 +219,7 @@ over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
 
-</div>
+
 
   
 
@@ -415,7 +415,7 @@ SAMtools.
 
 The INSTALL file says:
 
-<div class="quotebox">
+
 
 System Requirements
 
@@ -447,7 +447,7 @@ Simply copy \`samtools' and other executables/scripts in \`misc' to a
 location you want (e.g. a directory in your \$PATH). No further
 configurations are required.
 
-</div>
+
 
 So
 
@@ -483,7 +483,7 @@ home/gmod/BA2009/SAMtools/samtools-0.1.6 directory.
 
 From the README file:
 
-<div class="quotebox">
+
 
 Then set the environment variable SAMTOOLS to point to this directory
 and run:
@@ -493,7 +493,7 @@ and run:
      ./Build test
      (sudo) ./Build install
 
-</div>
+
 
 Where is SAMTOOLS?
 
@@ -668,13 +668,13 @@ the GFF3 for human chromosomes 2 and 3 available, and he did:
     wget http://www.compbio.ox.ac.uk/data/HUMAN_HG18/ensembl/chr2_ens_annots.gff
     wget http://www.compbio.ox.ac.uk/data/HUMAN_HG18/ensembl/chr20_ens_annots.gff
 
-<div class="emphasisbox">
+
 
 - Everything up to here has already been done in the starting VMware
   image.
 - Now we start doing things.
 
-</div>
+
 
   
 Past experience has taught that whenever you get a GFF3 file from
@@ -1086,18 +1086,18 @@ rel="nofollow">http://172.16.108.129/gb2/gbrowse/human</a>
 
 You should see something like this:
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GBrowseSAMtools1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/600px-GBrowseSAMtools1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/900px-GBrowseSAMtools1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/GBrowseSAMtools1.png 2x"
 width="600" height="553" alt="GBrowseSAMtools1.png" /></a>
 
-</div>
 
-</div>
+
+
 
 Play around with it a little. Enable different tracks, scroll and zoom
 in and out.
@@ -1115,7 +1115,7 @@ be found in
 
 The `00README.txt` says:
 
-<div class="quotebox">
+
 
 File `ex1.fa` contains two sequences cut from the human genome build36.
 They were extracted with command:
@@ -1140,7 +1140,7 @@ To try samtools, you may run the following commands:
      samtools pileup -cf ex1.fa ex1.bam    # pileup and consensus
      samtools pileup -cf ex1.fa -t ex1.fa.fai ex1.sam.gz
 
-</div>
+
 
 Well, **crap!**
 
@@ -1168,9 +1168,9 @@ So, we write a quick and dirty script to fix the file:
 
 Create a file called `relocate.py` and populate it with this code:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
 #!/usr/bin/env /usr/bin/python
@@ -1233,9 +1233,9 @@ while (line):
 sys.exit(0)
 ```
 
-</div>
 
-</div>
+
+
 
 And run it:
 
@@ -1244,13 +1244,13 @@ And run it:
 
 ### <span id="Convert_Munged_SAM_to_a_BAM" class="mw-headline">Convert Munged SAM to a BAM</span>
 
-<div class="bullets">
+
 
 - SAM is a human readable text format.
 - GBrowse expects to find SAM data in BAM format, a binary, indexed and
   highly compressed format.
 
-</div>
+
 
 Now we invoke some SAMtools magic.
 
@@ -1329,18 +1329,18 @@ experimenting with the configuration file.
 
 You should see something like:
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GBrowseSAMtoolsCoverageXY.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/600px-GBrowseSAMtoolsCoverageXY.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/900px-GBrowseSAMtoolsCoverageXY.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/GBrowseSAMtoolsCoverageXY.png 2x"
 width="600" height="647" alt="GBrowseSAMtoolsCoverageXY.png" /></a>
 
-</div>
 
-</div>
+
+
 
 This shows the read coverage. We told GBrowse to flag any read depth
 below 20 as red.
@@ -1387,18 +1387,18 @@ You can also show the individual reads. Add this clause at the end of
 Save your changes, hit the "**\[Reset\]**" link, and turn on the "Reads"
 track. It should look like:
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GBrowseSAMtoolsReads1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/600px-GBrowseSAMtoolsReads1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/900px-GBrowseSAMtoolsReads1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/GBrowseSAMtoolsReads1.png 2x"
 width="600" height="900" alt="GBrowseSAMtoolsReads1.png" /></a>
 
-</div>
 
-</div>
+
+
 
 Zoom in. When you get close to about 100bp resolution, you'll see the
 individual base pairs, and mismatches will be highlighted in red.
@@ -1467,31 +1467,31 @@ pairings add this stanza at the end of the config file:
 
 Reset GBrowse and test this.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_NGS_Tutorial&oldid=22189>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse NGS
@@ -1502,30 +1502,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 |----|----|
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1533,81 +1532,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3AGBrowse_NGS_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1617,31 +1612,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_NGS_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:11 on 9 October
   2012.</span>
@@ -1663,4 +1657,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,46 +1,46 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Americas 2011</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:GMODAmericas2011WithText.jpg" class="image"
 title="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12"><img
@@ -49,19 +49,19 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="600" height="239"
 alt="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12" /></a>
 
-</div>
 
-</div>
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   GMOD</span>](#About_GMOD)
@@ -84,11 +84,11 @@ alt="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-
 - [<span class="tocnumber">7</span> <span class="toctext">See
   Also</span>](#See_Also)
 
-</div>
 
-</div>
 
-<div style="font-size: 120%">
+
+
+
 
 ***GMOD Americas 2011*** was an 8 day event held at the
 <a href="http://www.nescent.org/" class="external text"
@@ -102,14 +102,14 @@ in Durham, North Carolina. The week long event included:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td data-valign="top"><div class="center">
-<div class="floatnone">
+<td data-valign="top">
+
 <a href="File:GMODAmericas2011Reception.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/300px-GMODAmericas2011Reception.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/450px-GMODAmericas2011Reception.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/600px-GMODAmericas2011Reception.jpg 2x"
 width="300" height="121" alt="GMODAmericas2011Reception.jpg" /></a>
-</div>
-</div></td>
+
+</td>
 <td><ul>
 <li><a href="March_2011_GMOD_Meeting"
 title="March 2011 GMOD Meeting">March 2011 GMOD Meeting</a>
@@ -129,7 +129,7 @@ title="2011 GMOD Spring Training">2011 GMOD Spring Training</a></li>
 </tbody>
 </table>
 
-</div>
+
 
   
 
@@ -281,7 +281,7 @@ March 8</td>
 style="text-align: center; background-color: #ffffcc;"><strong><a
 href="2011_GMOD_Spring_Training" title="2011 GMOD Spring Training">2011
 GMOD Spring Training</a></strong>
-<div style="font-weight: normal">
+
 A week long hands-on course on GMOD Component installation,
 configuration, and usage. The course will cover these components in
 detail:
@@ -294,7 +294,7 @@ title="JBrowse">JBrowse</a> • <a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse_syn</a> • <a href="Tripal.1"
 title="Tripal">Tripal</a> • <a href="Galaxy.1"
 title="Galaxy">Galaxy</a></strong></p>
-</div></td>
+</td>
 <td></td>
 <td></td>
 </tr>
@@ -416,14 +416,14 @@ class="external text" rel="nofollow">Whole Foods</a> nearby.
 
 # <span id="Sponsors" class="mw-headline">Sponsors</span>
 
-<div class="floatright">
+
 
 <a href="http://nescent.org/" rel="nofollow" title="NESCent"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="100" height="93" alt="NESCent" /></a>
 
-</div>
+
 
 **GMOD Americas 2011** is sponsored by the
 <a href="http://www.nescent.org/" class="external text"
@@ -436,14 +436,14 @@ applications. NESCent achieves this by supporting research and education
 across disciplinary, institutional, geographic, and demographic
 boundaries.
 
-<div class="floatleft">
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
 width="130" height="45" alt="Galaxy" />](Galaxy.1 "Galaxy")
 
-</div>
+
 
 The [Galaxy Project](Galaxy.1 "Galaxy") is also sponsoring **GMOD
 Americas 2011** events. Galaxy is a data integration framework that
@@ -453,12 +453,12 @@ reference. Galaxy is developed at Penn State and Emory University.
 
 # <span id="Help_Get_the_Word_Out" class="mw-headline">Help Get the Word Out</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170" alt="GMOD Americas 2011 Flier" />](File:GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
 
-</div>
+
 
 Help spread the word about GMOD Americas 2011 events by posting and
 distributing [this
@@ -485,47 +485,46 @@ exploit their data.
   Meeting](October_2011_GMOD_Meeting "October 2011 GMOD Meeting") - the
   next [GMOD meeting](Meetings "Meetings")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Americas_2011&oldid=21720>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Events](Category%3AEvents "Category%3AEvents")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -535,81 +534,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -619,31 +614,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Americas_2011" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 00:41 on 15 September
   2012.</span>
@@ -665,4 +659,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

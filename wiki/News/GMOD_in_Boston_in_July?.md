@@ -1,59 +1,59 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">News/GMOD in Boston in July?</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 From Scott on 2010/05/25:
 
-<div class="emphasisbox">
+
 
 Due to the short notice, I've decided not to have a GMOD meeting before
 BOSC/ISMB in July. I am hoping to plan an informal "GMOD lunch" sometime
 during BOSC or ISMB for people who are going to the meetings and would
 like to get together to chat.
 
-</div>
+
 
 Scott Cain sent this question about the next [GMOD
 meeting](../Meetings "Meetings") out to several [mailing
 lists](../GMOD_Mailing_Lists "GMOD Mailing Lists") on May 17:
 
-<div class="quotebox">
+
 
 Since the last GMOD meeting in January, I had been hoping to have a
 [GMOD meeting](../Meetings "Meetings") around the ISMB and BOSC meetings
@@ -70,7 +70,7 @@ Thanks,
 
 [Scott](../User%3AScott "User%3AScott")
 
-</div>
+
 
 Scott hasn't heard back, yea or nay, from very many people so far and we
 need to make a decision as soon as possible. **If you have any thoughts
@@ -87,54 +87,53 @@ Thanks,
 
   
 
-<div class="newsfooter">
+
 
 *Posted to the [GMOD News](../GMOD_News "GMOD News") on 2010/05/21,
 updated 2010/05/25*
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=News/GMOD_in_Boston_in_July%3F&oldid=16731>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -144,49 +143,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -195,32 +192,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -230,31 +225,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_in_Boston_in_July-3F"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:59 on 24 January
   2011.</span>
@@ -276,4 +270,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

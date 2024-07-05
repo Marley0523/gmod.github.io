@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse 2.0 Install HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This article describes **how to install GBrowse 2.0** on either Linux or
 Mac OSX systems. Before you begin, please make sure that your system has
@@ -64,13 +64,13 @@ how that process works.
 - *See also: [GBrowse Install
   HOWTO](GBrowse_Install_HOWTO "GBrowse Install HOWTO").*
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Installing via
   the CPAN Shell</span>](#Installing_via_the_CPAN_Shell)
@@ -101,7 +101,7 @@ how that process works.
 - [<span class="tocnumber">4</span> <span class="toctext">Advanced
   Installation Topics</span>](#Advanced_Installation_Topics)
 
-</div>
+
 
 ## <span id="Installing_via_the_CPAN_Shell" class="mw-headline">Installing via the CPAN Shell</span>
 
@@ -126,7 +126,7 @@ correct.
 If any perl modules are missing from the prerequisites, the CPAN shell
 will install them for you.
 
-<div style="background-color:pink">
+
 
 ### <span id="Ubuntu_11.04_Issue" class="mw-headline">Ubuntu 11.04 Issue</span>
 
@@ -140,7 +140,7 @@ of its tests, blocking GBrowse installation. To fix:
 
 Then proceed to install Bio::Graphics::Browser2 as described above.
 
-</div>
+
 
 ## <span id="Installing_Manually" class="mw-headline">Installing Manually</span>
 
@@ -476,18 +476,18 @@ tracks via user authentication, see:
 - [GBrowse 2.0 Install
   HOWTO/Advanced](GBrowse_2.0_Install_HOWTO/Advanced "GBrowse 2.0 Install HOWTO/Advanced")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_Install_HOWTO&oldid=19752>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -498,30 +498,29 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3AInstall&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3AInstall (page does not exist)">Install</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -531,81 +530,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -615,31 +610,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_Install_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:00 on 22 February
   2012.</span>
@@ -661,4 +655,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

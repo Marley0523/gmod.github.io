@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">January 2009 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table
 style="font-size: 160%; vertical-align: middle; border: 2px solid #A6A6BC; line-height: 120%"
@@ -48,13 +48,13 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:Jan2009MtgLogoNoText.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
 height="121" alt="Jan2009MtgLogoNoText.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td data-valign="center"><strong>January 2009 GMOD
 Meeting</strong><br />
 January 15-16, 2009<br />
@@ -75,28 +75,28 @@ This [GMOD community meeting](Meetings "Meetings") was held January
 Genome (PAG 2009)](PAG_2009 "PAG 2009"). There were over [50
 participants](#Meeting_Participants) at the meeting.
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:Jan2009Meeting.JPG" class="image"
 title="Jan 2009 Meeting"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
 height="100" alt="Jan 2009 Meeting" /></a>
 
-</div>
 
-</div>
+
+
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Agenda</span>](#Agenda)
@@ -175,7 +175,7 @@ height="100" alt="Jan 2009 Meeting" /></a>
 - [<span class="tocnumber">8</span> <span class="toctext">Next Meeting:
   August 2009 at Oxford</span>](#Next_Meeting:_August_2009_at_Oxford)
 
-</div>
+
 
   
 
@@ -655,13 +655,13 @@ REST API</a> for a proposed standard.
 
 ### <span id="Data_Representation_in_Chado:_Best_Practices" class="mw-headline">Data Representation in Chado: Best Practices</span>
 
-<div class="floatright">
+
 
 <a href="File:Jan2009Orvis.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Jan2009Orvis.JPG" width="202" height="100"
 alt="Jan2009Orvis.JPG" /></a>
 
-</div>
+
 
 [Joshua Orvis](User%3AJorvis "User%3AJorvis")'s talk was the second to
 specifically address [common data representations and
@@ -1010,13 +1010,13 @@ Rob will look into this.
 
 ### <span id="Drupal_and_MarineGenomics.org" class="mw-headline">Drupal and MarineGenomics.org</span>
 
-<div class="floatright">
+
 
 <a href="File:Jan2009Ficklin.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Jan2009Ficklin.JPG" width="100"
 height="121" alt="Jan2009Ficklin.JPG" /></a>
 
-</div>
+
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
   class="internal" title="Jan2009MarineGenomics.pdf">Drupal and
@@ -1109,13 +1109,13 @@ use it to power their web sites.
 
 ### <span id="Artemis_and_Chado_at_GeneDB" class="mw-headline">Artemis and Chado at GeneDB</span>
 
-<div class="floatright">
+
 
 <a href="File:Jan2009Houston.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Jan2009Houston.JPG" width="89"
 height="106" alt="Jan2009Houston.JPG" /></a>
 
-</div>
+
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
   class="internal" title="Jan2009ArtemisChadoGeneDB.pdf">Artemis and Chado
@@ -1203,13 +1203,13 @@ on this.)
 
 ### <span id="modENCODE:_extending_Chado.2C_BIR-TAB.2C_.26_GBrowse_for_automating_data_validation_.26_display" class="mw-headline">modENCODE: extending Chado, BIR-TAB, & GBrowse for automating data validation & display</span>
 
-<div class="floatright">
+
 
 <a href="File:Jan2009Washington.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/98/Jan2009Washington.JPG" width="219"
 height="100" alt="Jan2009Washington.JPG" /></a>
 
-</div>
+
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
   title="Jan2009modENCODE.pdf">modENCODE: extending Chado, BIR-TAB, &amp;
@@ -1567,23 +1567,23 @@ rel="nofollow">University of Freiburg/cosmoss.org</a> |
 
 ## <span id="Feedback" class="mw-headline">Feedback</span>
 
-<div class="emphasisbox">
 
-<div style="font-size: 110%">
+
+
 
 "It's tempting to see bioinformatics as a collection of potential
 problems. Being at a GMOD meeting helps us see bioinformatics as a
 collection of potential solutions."
 
-</div>
 
-<div style="padding-top: 0.5em">
+
+
 
 Isabelle Phan, SBRI, and **January 2009 GMOD Meeting** Participant
 
-</div>
 
-</div>
+
+
 
 Attendees were asked to fill out a one page evaluation of the meeting.
 
@@ -1667,12 +1667,12 @@ future?**
 
 ## <span id="Next_Meeting:_August_2009_at_Oxford" class="mw-headline">Next Meeting: August 2009 at Oxford</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png" width="170"
 height="145" alt="GMOD Week Europe" />](GMOD_Europe_2009 "GMOD Week Europe")
 
-</div>
+
 
 The [next GMOD
 meeting](August_2009_GMOD_Meeting "August 2009 GMOD Meeting") was held
@@ -1681,18 +1681,18 @@ in Oxford UK as part of [GMOD Europe
 August at Oxford, immediately following [2009 GMOD Summer School -
 Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=January_2009_GMOD_Meeting&oldid=21982>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1716,30 +1716,29 @@ Retrieved from
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 - [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1749,81 +1748,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1833,31 +1828,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2009_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:53 on 8 October
   2012.</span>
@@ -1879,4 +1873,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

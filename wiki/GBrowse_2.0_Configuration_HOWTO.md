@@ -1,45 +1,45 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse 2.0 HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [GBrowse 2.0 Configuration
 HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_Configuration_HOWTO&redirect=no "GBrowse 2.0 Configuration HOWTO"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 GBrowse 2.0 is a complete rewrite of the original GBrowse version. In
 addition to making the code base more maintainable, GBrowse 2.0 adds the
@@ -81,13 +81,13 @@ the next section, which is a quick summary of what is different. Readers
 who have not installed or configured GBrowse before should skip to
 [GBrowse Installation](#GBrowse_Installation).
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">GBrowse
   Installation</span>](#GBrowse_Installation)
@@ -248,7 +248,7 @@ who have not installed or configured GBrowse before should skip to
 - [<span class="tocnumber">5</span> <span class="toctext">The GBrowse2
   REST API</span>](#The_GBrowse2_REST_API)
 
-</div>
+
 
 # <span id="GBrowse_Installation" class="mw-headline">GBrowse Installation</span>
 
@@ -604,7 +604,7 @@ The default is to place them in subdirectories of **config_base**.
 
 session driver, session args
 
-<div class="indent">
+
 
 These two options pass settings to the
 <a href="http://search.cpan.org/perldoc?CGI::Session"
@@ -621,11 +621,11 @@ available) DB_File driver, the options might look like this:
      session driver = driver:db_file;serializer:default
      session args   = FileName /var/tmp/gbrowse2/sessions.db
 
-</div>
+
 
 session lock type
 
-<div class="indent">
+
 
 Since GBrowse runs several processes in parallel, it needs to flag when
 another instance of it is working on session data in order to avoid
@@ -659,7 +659,7 @@ for simplicity, you can leave off the initial "mysql:".
 A value of **default** will choose the File::NFSLock module if it is
 available, and otherwise fall back onto standard flock.
 
-</div>
+
 
 #### <span id="Performance_Settings" class="mw-headline">Performance Settings</span>
 
@@ -668,7 +668,7 @@ may want to change in order to tune GBrowse for your needs.
 
 renderfarm
 
-<div class="indent">
+
 
 This configuration directive turns on and off GBrowse's support for a
 rendering farm (see [Running a GBrowse2 Render
@@ -679,7 +679,7 @@ use the feature, set it to a false (zero) value:
 
      renderfarm = 0
 
-</div>
+
 
 slave_timeout  
 When [running a GBrowse2 render
@@ -710,7 +710,7 @@ Safe::World does not currently work with Perl 5.10 and higher.*
 
 max_render_processes
 
-<div class="indent">
+
 
 GBrowse launches a subprocess for each track it renders. This option
 will limit the number of simultaneous subprocesses that can be launched
@@ -721,7 +721,7 @@ server system:
 
     max_render_processes = 8
 
-</div>
+
 
 #### <span id="Appearance_Settings" class="mw-headline">Appearance Settings</span>
 
@@ -760,7 +760,7 @@ balloons to appear at all.
 
 stylesheet
 
-<div class="indent">
+
 
 This option sets the path to the GBrowse cascading stylesheet (CSS)
 file. This sets such options as the page background color, font size,
@@ -778,7 +778,7 @@ stylesheet, as in the following example:
                   http://www.example.com/hires.css(paper,projection)
                   http://www.example.com/audio.css(audio)
 
-</div>
+
 
 truecolor  
 If set to a true value, then the tracks will be rendered as full-color
@@ -819,7 +819,7 @@ for deselecting the overview and region grids.
 
 image widths, default width
 
-<div class="indent">
+
 
 These two options control the width of the panels displayed to the user.
 **image widths** is a space-delimited list of numeric widths to be made
@@ -832,7 +832,7 @@ pixels, but offers the user a menu of five widths ranging from 450 to
     image widths    = 450 640 800 1024 1280
     default width   = 1024
 
-</div>
+
 
 pad_left, pad_right  
 These options control how much additional whitespace (in pixels) to
@@ -922,7 +922,7 @@ convenience, you may use the integer value 0 for "closed" or 1 for
 
 category state
 
-<div class="indent">
+
 
 This option controls whether a category or subcategory is open or closed
 when the user first visits the page, or resets his state with the
@@ -938,7 +938,7 @@ characters. You may use "open" to indicate that a category is open at
 first, or "closed" to collapse it on the first page load. "1" and "0"
 can be used instead of "open" and "closed".
 
-</div>
+
 
 #### <span id="Fast_Track_Panning_.28new_in_version_2.20.29" class="mw-headline">Fast Track Panning (new in version 2.20)</span>
 
@@ -1095,18 +1095,18 @@ other pages on your site.
 
 header, footer
 
-<div class="indent">
+
 
 These two options place HTML at the top or bottom of the page. Example:
 
      header = <img src="/banner.jpg">
      footer = <hr>For help please see the <a href="help.html">help pages.</a>
 
-</div>
+
 
 html1, html2, html3, html4, html5, html6
 
-<div class="indent">
+
 
 These options insert snippets of HTML in various strategic places on the
 page:
@@ -1120,14 +1120,14 @@ page:
 | html5  | between the tracks table and the add custom tracks section     |
 | html6  | between the add custom tracks section and the display settings |
 
-</div>
+
 
 These can be used with callbacks to bring in local or external html
 files, e.g.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 header = sub{
@@ -1137,15 +1137,15 @@ header = sub{
        }
 ```
 
-</div>
 
-</div>
+
+
 
 or
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 header = sub{
@@ -1155,9 +1155,9 @@ header = sub{
        }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Configured_Data_Source_Sections" class="mw-headline">Configured Data Source Sections</span>
 
@@ -1373,7 +1373,7 @@ below.
 
 **default tracks**,**default features**
 
-<div class="indent">
+
 
 The **default tracks** options control which tracks are turned on by
 default when the user visits the browser for the first time. Its value
@@ -1384,11 +1384,11 @@ is a whitespace-delimited list of track names, for example:
 An earlier (deprecated) name for this option was **default features**
 and this name is recognized for backward compatibility.
 
-</div>
+
 
 **examples**
 
-<div class="indent">
+
 
 This option designates a list of searches that the user can click on to
 see sample regions. For example:
@@ -1397,11 +1397,11 @@ see sample regions. For example:
 
 chrII chrI:80,000..120,000 "membrane trafficking" NUT21 YAL063C
 
-</div>
+
 
 initial landmark
 
-<div class="indent">
+
 
 If an **initial landmark** option is present, then its value will be
 used to populate the navigation box when the user initially visits
@@ -1410,11 +1410,11 @@ pairs 50,000 to 150,000:
 
     initial landmark = chr1:50000..150000
 
-</div>
+
 
 metadata
 
-<div class="indent">
+
 
 You can use this option to create machine- and human-readable
 information about your database. It is used to populate the information
@@ -1462,7 +1462,7 @@ out.
 Should you wish to continue a long description across multiple lines,
 simply leave whitespace in front of the second and subsequent lines.
 
-</div>
+
 
 **automatic classes**  
 This option can be used in conjunction with the Bio::DB::GFF database
@@ -1472,7 +1472,7 @@ using a legacy database.
 
 **seqid_prefix**
 
-<div class="indent">
+
 
 It sometimes happens that different web databases disagree about how
 chromosomes are named. For example, in C. elegans, WormBase data dumps
@@ -1489,7 +1489,7 @@ to add "chr" to all its chromosome names on the way to
 [Galaxy](Galaxy.1 "Galaxy")/UCSC and to strip "chr" from all chromosome
 names received from Galaxy/UCSC.
 
-</div>
+
 
 ### <span id="Database_Definitions" class="mw-headline">Database Definitions</span>
 
@@ -1724,7 +1724,7 @@ the default database indicated in the \[GENERAL\] section will be used.
 
 feature
 
-<div class="indent">
+
 
 This relates the track to one or more feature types as they appear in
 the database. Recall that each feature has a **type** and a **source**.
@@ -1747,7 +1747,7 @@ the features you want to include. For example:
 This will include features of type "gene:sgd" and "stRNA:sgd" in the
 same track and display them in a similar fashion.
 
-</div>
+
 
 global feature  
 If this option is present and set to a true value (e.g. "1"), GBrowse
@@ -1879,12 +1879,12 @@ regions around highly-expressed genes contain orders of magnitude more
 features than typical regions. You may also place this option into
 \[TRACK DEFAULTS\] as a safety mechanism:
 
-<div class="indent">
+
 
     [TRACK DEFAULTS]
     feature_limit = 500
 
-</div>
+
 
 visible  
 This option controls the default visibility of the track and is one of
@@ -2003,7 +2003,7 @@ for details.
 
 category
 
-<div class="indent">
+
 
 This option allows you to group tracks into different groups on the
 GBrowse display in addition to the default group called 'General'. For
@@ -2039,13 +2039,13 @@ See the <a href="http://cloud.gmod.org/gbrowse2/tutorial/tutorial.html"
 class="external text" rel="nofollow">GBrowse2 Admin Tutorial</a> for
 more details.
 
-</div>
+
 
 subtrack select, subtrack table, subtrack labels (new in 2.10)
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtrack_selection_table.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
@@ -2053,26 +2053,26 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
 width="180" height="78" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtrack_selection_table.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Subtrack selector
 
-</div>
 
-</div>
 
-</div>
 
-<div class="indent">
+
+
+
+
 
 These three options together allow you to create a series of named
 subtracks within a track. The user will be able to individually hide and
@@ -2085,11 +2085,11 @@ See [Creating
 Subtracks](Creating_and_Managing_Subtracks_with_GBrowse2 "Creating and Managing Subtracks with GBrowse2")
 for a full description of subtrack creation and manipulation.
 
-</div>
+
 
 select (deprecated)
 
-<div class="indent">
+
 
 This is an older version of the subtrack creation mechanism, which is
 still supported for backward compatibility. See [Creating
@@ -2112,7 +2112,7 @@ user to select which of the features are visible with this option:
 The matches are case insensitive regular expressions, so "day 1" will
 match "Day 1" and "DAY 1a".
 
-</div>
+
 
 #### <span id="Linking_Options" class="mw-headline">Linking Options</span>
 
@@ -2143,7 +2143,7 @@ exons (level 2).
 
 link
 
-<div class="indent">
+
 
 The link option creates outgoing links from the GBrowse display. When
 the user clicks on a feature of interest, he will be taken to the
@@ -2183,11 +2183,11 @@ class="new" title="GBrowse Details Script (page does not exist)">GBrowse
 Details Script</a>, which summarizes information about the feature. The
 default is not to link at all.
 
-</div>
+
 
 link_target
 
-<div class="indent">
+
 
 By default links will replace the contents of the current window. If you
 wish, you can specify a new window to pop up when the user clicks on a
@@ -2208,7 +2208,7 @@ a new window.
 The "link_target" option can also be computed dynamically. See [Computed
 Options](#Computed_Options) for details.
 
-</div>
+
 
 title  
 The title option controls the "tooltips" text that pops up when the
@@ -2241,7 +2241,7 @@ the 5' and 3' read pairs from ESTs or plasmids.
 
 group_on
 
-<div class="indent">
+
 
 For <a href="http://search.cpan.org/perldoc?Bio::DB::SeqFeature::Store"
 class="external text" rel="nofollow">Bio::DB::SeqFeature::Store</a>
@@ -2254,7 +2254,7 @@ Example:
 
            group_on = display_name
 
-</div>
+
 
 #### <span id="Subtrack_Creation_Options" class="mw-headline">Subtrack Creation Options</span>
 
@@ -2265,7 +2265,7 @@ GBrowse2](Creating_and_Managing_Subtracks_with_GBrowse2 "Creating and Managing S
 
 metadata
 
-<div class="indent">
+
 
 If the track contains a small number of features that have distinct
 display names, such as a set of quantitative (wiggle) features, then use
@@ -2276,11 +2276,11 @@ distinguishing attributes and allows the user to select among them. See
 GBrowse2](Creating_and_Managing_Subtracks_with_GBrowse2 "Creating and Managing Subtracks with GBrowse2")
 for yhe file gormat and a worked example.
 
-</div>
+
 
 subtrack select
 
-<div class="indent">
+
 
 If, on the other hand, the track contains a large number of features and
 it is impractical to enumerate them by hand, then use this option to
@@ -2311,11 +2311,11 @@ method, and the Status filter with call each feature's tag_value()
 method with an argument of "status", i.e.
 \$feature-\>tag_value('status').
 
-</div>
+
 
 subtrack table
 
-<div class="indent">
+
 
 This option defines the values that the dimensions can take on and
 specifies how to partition them into subtracks. Lines are separated by
@@ -2359,7 +2359,7 @@ the "Other" sub-track.
 
   
 
-</div>
+
 
 **brief comment**  
 This optional option is a bit of explanatory text to insert at the top
@@ -2367,7 +2367,7 @@ of the subtrack selection dialog.
 
 **subtrack labels**
 
-<div class="indent">
+
 
 If you would like to select subtracks based on its type, a tag, or some
 other method, but you want the user to see a different label for the
@@ -2379,7 +2379,7 @@ the example above to be displayed using the terms "Forward" and
     subtrack labels = +1 "Forward" ;
                       -1 "Reverse"
 
-</div>
+
 
 hide empty subtracks  
 If this option is set to a true value, then subtracks that do not
@@ -2481,9 +2481,9 @@ hide the track when the display exceeds a certain size:
 
 ### <span id="Summary_Mode_.28new_in_version_2.09.29" class="mw-headline">Summary Mode (new in version 2.09)</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:302px;">
+
+
 
 <a href="File:Gbrowse_normal_mode.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/300px-Gbrowse_normal_mode.png"
@@ -2491,28 +2491,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/450px-Gbrowse_normal_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/600px-Gbrowse_normal_mode.png 2x"
 width="300" height="188" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse_normal_mode.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Normal mode: each feature is rendered separately
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:302px;">
+
+
+
+
+
 
 <a href="File:Gbrowse_summary_mode.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/300px-Gbrowse_summary_mode.png"
@@ -2520,24 +2520,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/450px-Gbrowse_summary_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/600px-Gbrowse_summary_mode.png 2x"
 width="300" height="188" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse_summary_mode.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Summary mode: a density plot shows the number of features per interval
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Summary Mode, which was introduced in version 2.09, is a form of
 semantic zooming in which the regular display of individual features is
@@ -2636,7 +2636,7 @@ something ridiculously high, or specify a value of "0".
 
 ### <span id="Creating_Subtracks_.28new_in_version_2.09.29" class="mw-headline">Creating Subtracks (new in version 2.09)</span>
 
-<div class="floatright">
+
 
 <a href="File:Subtrack_selection_table_overview.png" class="image"
 title="Subtrack selector"><img
@@ -2644,7 +2644,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/450px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/600px-Subtrack_selection_table_overview.png 2x"
 width="300" height="105" alt="Subtrack selector" /></a>
 
-</div>
+
 
 You can create an unlimited number of subtracks within a single major
 track in order to group a series of datasets that are logically linked,
@@ -2674,9 +2674,9 @@ callbacks.
 You need to know the Perl programming language to take advantage of this
 feature. The general format of this type of option is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   option name = sub {
@@ -2686,9 +2686,9 @@ feature. The general format of this type of option is:
               }
 ```
 
-</div>
 
-</div>
+
+
 
 The value must begin with the sequence "sub {" in order to be recognized
 as a subroutine declaration. After this, you can have one or more lines
@@ -2714,9 +2714,9 @@ value is treated as the value of the corresponding option. For example,
 this bgcolor subroutine will call the feature's primary_tag() method,
 and return "blue" if it is an exon, "orange" otherwise:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   bgcolor = sub {
@@ -2726,9 +2726,9 @@ and return "blue" if it is an exon, "orange" otherwise:
           }
 ```
 
-</div>
 
-</div>
+
+
 
 See the manual page for
 <a href="http://search.cpan.org/perldoc?Bio::Graphics::Feature"
@@ -2742,9 +2742,9 @@ differently, you may need access to all five arguments. Here is an
 example that draws the first and last parts of a feature in blue and the
 rest in red:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
    sub {
@@ -2755,16 +2755,16 @@ rest in red:
          }
 ```
 
-</div>
 
-</div>
+
+
 
 If you need access to information in the parent of the feature (e.g. in
 a multipart feature), you can call the glyph's parent_feature() method:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   sub {
@@ -2775,9 +2775,9 @@ a multipart feature), you can call the glyph's parent_feature() method:
          }
 ```
 
-</div>
 
-</div>
+
+
 
 The parent_feature() method was added to Bioperl on 17 April 2008. If
 you are using an earlier version, parent_feature() will not be
@@ -2791,9 +2791,9 @@ consisting of the feature, the Bio::Graphics::Panel object, and the
 Bio::Graphics::Glyph object corresponding to the current track within
 the panel:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   link = sub {
@@ -2802,17 +2802,17 @@ the panel:
              }
 ```
 
-</div>
 
-</div>
+
+
 
 Ordinarily you will only need to use the feature object. The other
 arguments are useful to look up panel-specific settings such as the
 pixel width of the panel or the state of the "flip" setting:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   title = sub {
@@ -2822,9 +2822,9 @@ pixel width of the panel or the state of the "flip" setting:
        }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Named_Subroutine_References" class="mw-headline">Named Subroutine References</span>
 
@@ -2834,9 +2834,9 @@ subroutines, add an init_code section to the \[GENERAL\] section of the
 configuration file. init_code should contain nothing but subroutine
 definitions and other initialization routines. For example:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   init_code = sub score_color {
@@ -2857,9 +2857,9 @@ definitions and other initialization routines. For example:
               }
 ```
 
-</div>
 
-</div>
+
+
 
 Then simply refer to these subroutines using the \\name syntax:
 
@@ -2871,9 +2871,9 @@ Then simply refer to these subroutines using the \\name syntax:
 You can declare global variables in the init_code subroutine if you use
 "no strict 'vars';" at the top of the section:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
     init_code = no strict 'vars';
@@ -2889,9 +2889,9 @@ You can declare global variables in the init_code subroutine if you use
                 }
 ```
 
-</div>
 
-</div>
+
+
 
 Due to the way the configuration file is parsed, there must be no empty
 lines in the init_code section. Either use comments to introduce white
@@ -3198,18 +3198,18 @@ Topics](GBrowse_2.0_Install_HOWTO.1#Advanced_Installation_Topics "GBrowse 2.0 In
 See: [GBrowse2 REST API](GBrowse2_REST_API "GBrowse2 REST API") (section
 under construction)
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_HOWTO&oldid=25067>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -3219,30 +3219,29 @@ Retrieved from
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 - [Configuration](Category%3AConfiguration "Category%3AConfiguration")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -3250,81 +3249,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3AGBrowse_2.0_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -3334,31 +3329,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 04:44 on 9 January
   2014.</span>
@@ -3380,4 +3374,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

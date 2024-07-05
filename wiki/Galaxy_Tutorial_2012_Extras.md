@@ -1,44 +1,44 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Galaxy Tutorial 2012 Extras</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="emphasisbox">
+
+
+
 
 Items shown on this page were part of earlier drafts of the [2012 Summer
 School Galaxy workshop](Galaxy_Tutorial_2012 "Galaxy Tutorial 2012").
@@ -46,15 +46,15 @@ They were moved here either in the interests of time, or because they no
 longer fit well with other content. However, these sections are still
 informative.
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Defining
   Genomes to Trackster</span>](#Defining_Genomes_to_Trackster)
@@ -97,7 +97,7 @@ informative.
     multiple alignments corresponding to these
     intervals</span>](#Extract_multiple_alignments_corresponding_to_these_intervals)
 
-</div>
+
 
 ## <span id="Defining_Genomes_to_Trackster" class="mw-headline">Defining Genomes to Trackster</span>
 
@@ -105,7 +105,7 @@ From the <a
 href="https://wiki.galaxyproject.org/Learn/Visualization#Setup_for_Local_Instances#Setup_for_Local_Instances"
 class="external text" rel="nofollow">Learn/Visualization wiki page</a>
 
-<div class="indent">
+
 
 Trackster needs chrom/contig length information for builds to be able to
 be visualized, either in the form of `.len` files or custom user builds.
@@ -130,18 +130,18 @@ chrom/contig of that build, each on a separate line, eg:
 To populate this directory with common UCSC builds, run the following
 commands:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 mkdir ./tool-data/shared/ucsc/chrom/
 python ./cron/build_chrom_db.py ./tool-data/shared/ucsc/chrom/
 ```
 
-</div>
 
-</div>
+
+
 
 To display a build's genome data (i.e. bases/nucleotides) when
 sufficiently zoomed in: (a) create a 2bit file from the genome's fasta
@@ -156,7 +156,7 @@ changes to `datatypes_conf.xml`, then simply copy everything from
 `datatypes_conf.xml.sample` into `datatypes_conf.xml` to make sure you
 have the latest copy.
 
-</div>
+
 
 **Note:** the above script will run for almost an hour
 
@@ -167,14 +167,14 @@ chromosomes for many genome builds.
 
 ## <span id="Adding_a_new_tool" class="mw-headline">Adding a new tool</span>
 
-<div class="indent">
+
 
 **Note:** This was the "create a tool" example used in previous years.
 This year I switched the time to cover the Galaxy Tool Shed instead.
 However, this is such a nice example that I couldn't delete it
 altogether. *Dave C.*
 
-</div>
+
 
 The <a href="http://samtools.sourceforge.net/" class="external text"
 rel="nofollow">SAM format</a> contains 12 required fields representing
@@ -192,9 +192,9 @@ Let's first create a directory for our new tool:
 And then using a [text editor](Linux_Text_Editors "Linux Text Editors"),
 create `tools/gmod_2012/sam_filter.py` containing:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
 #!/usr/bin/env python
@@ -221,18 +221,18 @@ for line in open( sys.argv[1] ):
         out.write( line )
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="The_tool_wrapper" class="mw-headline">The tool wrapper</span>
 
 Next, we need to create the tool configuration. Edit the file
 `tools/gmod_2012/sam_filter.xml` and start with the following skeleton:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -248,16 +248,16 @@ Next, we need to create the tool configuration. Edit the file
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 First, let's define the output. This tool has a single output, of type
 `sam`, so we modify the configuration to contain:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -273,9 +273,9 @@ First, let's define the output. This tool has a single output, of type
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 The name can be anything, but it will be used later to identify the
 output file in the command line. Second, let's define the following
@@ -287,9 +287,9 @@ inputs
 
 The resulting configuration:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -311,18 +311,18 @@ The resulting configuration:
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 Finally, we define how to construct our command line based on values for
 the inputs. The command line is a template, where we can substitute in
 the value of each input (filenames in the case of datasets). Thus our
 final tool configuration is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -344,16 +344,16 @@ final tool configuration is:
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 We now need to modify `tool_conf.xml` to register our new tool and run
 Galaxy. Modify the top of `tool_conf.xml` to look like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0"?>
@@ -364,9 +364,9 @@ Galaxy. Modify the top of `tool_conf.xml` to look like:
   ...
 ```
 
-</div>
 
-</div>
+
+
 
 and run Galaxy using
 
@@ -548,12 +548,12 @@ Now, we will download the datasets for our example genome:
     $ wget ftp://ftp.gmod.org/pub/gmod/Courses/2012/SummerSchool/Galaxy/a_example_1.maf
     $ wget ftp://ftp.gmod.org/pub/gmod/Courses/2012/SummerSchool/Galaxy/a_example_1.2bit
 
-<div style="font-size: 80%">
+
 
 Note: These files are also available on the image in
 `/home/ubuntu/Galaxy/Data/`.
 
-</div>
+
 
 Next, we will use the script `maf_build_index.py` (put in
 `/usr/local/bin/` when `bx-python` was installed) to create a binary
@@ -648,48 +648,47 @@ containing alignments corresponding to your intervals of interest.
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyExtras_Fetch_3.png" width="1067"
 height="580" alt="GalaxyExtras Fetch 3.png" /></a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2012_Extras&oldid=22230>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -699,81 +698,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -783,31 +778,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012_Extras"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:16 on 9 October
   2012.</span>
@@ -829,4 +823,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

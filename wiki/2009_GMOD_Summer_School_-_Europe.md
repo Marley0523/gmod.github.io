@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">2009 GMOD Summer School - Europe</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
 data-cellpadding="10">
@@ -78,13 +78,13 @@ title="GMOD Summer School">GMOD Summer School</a> was offered in
 [Durham, North Carolina in July
 2009](2009_GMOD_Summer_School_-_Americas "2009 GMOD Summer School - Americas").
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Program</span>](#Program)
@@ -106,7 +106,7 @@ title="GMOD Summer School">GMOD Summer School</a> was offered in
 - [<span class="tocnumber">8</span>
   <span class="toctext">Feedback</span>](#Feedback)
 
-</div>
+
 
 ## <span id="Program" class="mw-headline">Program</span>
 
@@ -115,7 +115,7 @@ overview of GMOD, and then covering the installation, configuration, and
 administration of several popular [GMOD
 Components](GMOD_Components "GMOD Components").
 
-<div class="emphasisbox">
+
 
 The summer school GMOD component sessions are available as [online
 tutorials](Training_and_Outreach#Online_Tutorials "Training and Outreach").
@@ -132,7 +132,7 @@ Integration](Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutor
 and <a href="JBrowse_Tutorial" class="mw-redirect"
 title="JBrowse Tutorial">JBrowse</a>.
 
-</div>
+
 
 <table class="wikitable" data-border="1" data-cellpadding="5"
 data-cellspacing="0">
@@ -415,21 +415,21 @@ in each succeeding session.
 
 VMware on Windows and Linux
 
-<div class="floatleft">
+
 
 <a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
-</div>
+
 
 A free VMware player is available for [Microsoft
 Windows](Category%3AWindows "Category%3AWindows") and
@@ -445,13 +445,13 @@ VMware on Mac OS X
 Participants can also bring *newer Macs with Intel processors*. The
 Intel processor is a requirement for all the packages discussed below.
 
-<div class="floatleft">
+
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
-</div>
+
 
 There is no free VMware player that runs *directly* under [Mac OS
 X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
@@ -461,13 +461,13 @@ other options, *all of which require an Intel Mac*:
 
 VMware Fusion
 
-<div class="floatleft">
+
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
 height="48" alt="VMWareFusionsLogo.jpg" /></a>
 
-</div>
+
 
 <a href="http://www.vmware.com/products/fusion/" class="external text"
 rel="nofollow">VMware Fusion</a> (~ £62 / €67) allows you to run VMware
@@ -479,14 +479,14 @@ VMware Fusion available for download.**
 
 Mac OS 10.5 (Leopard) and Boot Camp
 
-<div class="floatleft">
+
 
 <a href="http://www.apple.com/macosx/features/bootcamp.html"
 rel="nofollow" title="Boot Camp"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
 height="60" alt="Boot Camp" /></a>
 
-</div>
+
 
 The <a href="http://www.apple.com/macosx/" class="external text"
 rel="nofollow">Leopard release of Mac OS (10.5)</a> includes
@@ -531,14 +531,14 @@ Meeting](August_2009_GMOD_Meeting "August 2009 GMOD Meeting").
 
 ## <span id="Sponsors" class="mw-headline">Sponsors</span>
 
-<div class="floatright">
+
 
 <a href="http://www.molbiol.ox.ac.uk/" rel="nofollow" title="CBRG"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Cbrg.jpg 2x"
 width="300" height="30" alt="CBRG" /></a>
 
-</div>
+
 
 We would like to thank the
 <a href="http://www.molbiol.ox.ac.uk/" class="external text"
@@ -601,18 +601,18 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 </tbody>
 </table>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=2009_GMOD_Summer_School_-_Europe&oldid=25682>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -622,30 +622,29 @@ Retrieved from
 - [Events](Category%3AEvents "Category%3AEvents")
 - [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -655,81 +654,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -739,31 +734,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Summer_School_-2D_Europe"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:13 on 16 April
   2014.</span>
@@ -785,4 +779,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

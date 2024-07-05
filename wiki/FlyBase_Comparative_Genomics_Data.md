@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">FlyBase Comparative Genomics Data</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Comparative
   Genomics Data Implementation in
@@ -60,7 +60,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   - [<span class="tocnumber">1.3</span>
     <span class="toctext">Synteny</span>](#Synteny)
 
-</div>
+
 
 # <span id="Comparative_Genomics_Data_Implementation_in_Chado" class="mw-headline">Comparative Genomics Data Implementation in Chado</span>
 
@@ -91,9 +91,9 @@ standards are illustrated separately below.
 
 ### <span id="a.29_orthologous_regions" class="mw-headline">a) orthologous regions</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:352px;">
+
+
 
 <a href="File:Genome_comparison_orthologous_region.jpg"
 class="image"><img
@@ -102,26 +102,26 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 2x"
 width="350" height="263" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Genome_comparison_orthologous_region.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Figure 1:implementation of orthologous region features in Chado. Two
 Drosophila genomes are used as examples. Dmel: Drosophila melanogaster;
 Dpse: Drosophila pseudoobscura.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Orthologous regions are implemented similarly to alignment match
 features, the only difference being that the orthologous regions are
@@ -141,9 +141,9 @@ illustrated in Figure 1 below.
 
 ### <span id="b.29_orthologous_genes" class="mw-headline">b) orthologous genes</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:352px;">
+
+
 
 <a href="File:Genome_comparison_orthology_relationship.jpg"
 class="image"><img
@@ -152,25 +152,25 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 2x"
 width="350" height="262" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Genome_comparison_orthology_relationship.jpg"
 class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Figure 2: Chado representation of orthology relationship between a gene
 pair.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 The orthology relationship between a gene pair is represented in Chado
 through feature_relationship, with the two genes being object and
@@ -219,9 +219,9 @@ genomes.
 The implementation of the syntenic relationship between genomes is
 schematically shown in Figure 3.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:352px;">
+
+
 
 <a href="File:Genome_comparison_syntenic_region.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Genome_comparison_syntenic_region.jpg/350px-Genome_comparison_syntenic_region.jpg"
@@ -229,39 +229,39 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 2x"
 width="350" height="250" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Genome_comparison_syntenic_region.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Figure 3: Chado representation of syntenic relationship between a pair
 of genomes, based on orthologous_regions shown in Figure 1. Dmel:
 Drosophila melanogaster; Dpse: Drosophila pseudoobscura.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=FlyBase_Comparative_Genomics_Data&oldid=5211>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -269,30 +269,29 @@ Retrieved from
   Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -302,81 +301,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -386,31 +381,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Comparative_Genomics_Data"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:01 on 12 April
   2008.</span>
@@ -432,4 +426,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">September 2010 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
 data-cellpadding="10">
@@ -47,35 +47,35 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:Sept2010MtgLogo300.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/250px-Sept2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="250" height="213" alt="Sept2010MtgLogo300.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td style="font-size: 180%; line-height: 120%"><strong>September 2010
 GMOD Meeting</strong><br />
 13-14 September 2010<br />
 Cambridge, UK<br />
 <br />
-&#10;<div class="center">
-<div class="floatnone">
+&#10;
+
 <a href="File:Sept2010Group.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Sept2010Group.jpg" width="300" height="81"
 alt="Sept2010Group.jpg" /></a>
-</div>
-</div></td>
+
+</td>
 <td style="text-align: center;"><a href="GMOD_Europe_2010"
 title="Part of GMOD Europe 2010"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="200" height="171" alt="Part of GMOD Europe 2010" /></a>
-<div style="font-size: 110%;">
+
 <a href="GMOD_Europe_2010" title="GMOD Europe 2010">Part of GMOD Europe
 2010</a>
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -105,13 +105,13 @@ what's coming up, and what others are doing. The [January 2010 GMOD
 Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting") was the
 previous event. The next meeting is likely to be held in spring 2011.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Agenda</span>](#Agenda)
@@ -324,13 +324,13 @@ previous event. The next meeting is likely to be held in spring 2011.
 - [<span class="tocnumber">7</span> <span class="toctext">The Next
   Meeting</span>](#The_Next_Meeting)
 
-</div>
+
 
 # <span id="Agenda" class="mw-headline">Agenda</span>
 
-<div class="emphasisbox">
 
-<div class="floatright">
+
+
 
 <a href="http://gre.lifesci.dundee.ac.uk/staff/jason_swedlow.html"
 rel="nofollow" title="Jason Swedlow"><img
@@ -338,15 +338,15 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/JasonSwedlow.jpg/225px-JasonSwedlow.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/JasonSwedlow.jpg/300px-JasonSwedlow.jpg 2x"
 width="150" height="123" alt="Jason Swedlow" /></a>
 
-</div>
 
-<div style="font-size: 150%; padding-bottom: 0.3em">
+
+
 
 Professor Jason Swedlow
 
-</div>
 
-<div style="font-size: 120%">
+
+
 
 *The <a href="http://www.openmicroscopy.org/" class="external text"
 rel="nofollow">Open Microscopy Environment</a>: Open Informatics for
@@ -362,7 +362,7 @@ Biological Imaging*
   <a href="http://www.openmicroscopy.org/" class="external text"
   rel="nofollow">Open Microscopy Environment (OME)</a>
 
-</div>
+
 
 The meeting's guest speaker was Prof Jason Swedlow, who discussed his
 work with with the
@@ -381,7 +381,7 @@ rel="nofollow">University of Dundee</a>. Jason's research focuses on
 mechanisms and regulation of chromosome segregation during mitotic cell
 division.
 
-</div>
+
 
 ## <span id="Monday.2C_13_September" class="mw-headline">Monday, 13 September</span>
 
@@ -633,12 +633,12 @@ of current resources and update on DAS Meeting Cambridge 2010</a></li>
 
 ## <span id="The_State_of_GMOD" class="mw-headline">The State of GMOD</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c0/ScottSept2010.jpg" width="100"
 height="135" alt="Scott Cain" />](User%3AScott "Scott Cain")
 
-</div>
+
 
 [Scott Cain](User%3AScott "User%3AScott"),
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/TheStateofGMODSept2010.pdf"
@@ -855,12 +855,12 @@ be bundled together.
 
 ### <span id="GMOD_Promotion" class="mw-headline">[GMOD Promotion](GMOD_Promotion "GMOD Promotion")</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/PoweredByGMOD150.png" width="150"
 height="71" alt="Powered by GMOD" />](Powered_by_GMOD "Powered by GMOD")
 
-</div>
+
 
 Help spread the word about GMOD components and the GMOD project.
 
@@ -896,7 +896,7 @@ July 2010.
 
 ### <span id="GMOD_Logo_Program" class="mw-headline">[GMOD Logo Program](GMOD_Logo_Program "GMOD Logo Program")</span>
 
-<div style="border: 1px solid black">
+
 
 |  |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|----|
@@ -929,7 +929,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/240px-InterMineLogo.png 2x"
 width="120" height="15" alt="InterMineLogo.png" /></a> |
 
-</div>
+
 
 Nine projects got new logos in the [Spring 2010 Logo
 Program](Spring_2010_Logo_Program "Spring 2010 Logo Program"). Logos
@@ -1081,31 +1081,31 @@ SOBA - Ginger Fan *et al.* U of Utah
 
 ### <span id="Some_Interesting_Documents" class="mw-headline">Some Interesting Documents</span>
 
-<div class="floatright">
+
 
 <a href="File:Urgi.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/100px-Urgi.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/150px-Urgi.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/200px-Urgi.png 2x"
 width="100" height="68" alt="Urgi.png" /></a>
 
-</div>
 
-<div class="floatright">
+
+
 
 <a href="File:MaizeGDB.gif" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
 alt="MaizeGDB.gif" /></a>
 
-</div>
 
-<div class="floatright">
+
+
 
 <a href="http://database.oxfordjournals.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/265px-DatabaseJournal.jpg.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/398px-DatabaseJournal.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/530px-DatabaseJournal.jpg.png 2x"
 width="265" height="32" alt="DatabaseJournal.jpg" /></a>
 
-</div>
+
 
 [File:How to load chado to biomart.pdf](File:How_to_load_chado_to_biomart.pdf "File:How to load chado to biomart.pdf")  
 AO Keliet, J Amselem, S Derozie, and D Steinbach, all @
@@ -1210,7 +1210,7 @@ This generated some discussions and some conclusions:
 ## <span id="The_Open_Microscopy_Environment:_Open_Informatics_for_Biological_Imaging" class="mw-headline">The <a href="http://www.openmicroscopy.org/" class="external text"
 rel="nofollow">Open Microscopy Environment</a>: Open Informatics for Biological Imaging</span>
 
-<div class="floatright">
+
 
 <a href="http://gre.lifesci.dundee.ac.uk/staff/jason_swedlow.html"
 rel="nofollow" title="Jason Swedlow"><img
@@ -1218,7 +1218,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/JasonSwedlow.jpg/150px-JasonSwedlow.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/JasonSwedlow.jpg/200px-JasonSwedlow.jpg 2x"
 width="100" height="82" alt="Jason Swedlow" /></a>
 
-</div>
+
 
 Jason Swedlow, <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=OpenMicroscopySept2010.pdf"
@@ -1290,12 +1290,12 @@ started as trying to solve a local, lab at a time problem.
 ## <span id="PSICQUIC:_The_PSI_Common_QUery_Interface" class="mw-headline"><a href="http://psicquic.googlecode.com" class="external text"
 rel="nofollow">PSICQUIC</a>: The PSI Common QUery Interface</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Sept2010Bruno.jpg" width="100"
 height="106" alt="Bruno Baranda" />](User%3ABaranda "Bruno Baranda")
 
-</div>
+
 
 [Bruno Aranda](User%3ABaranda "User%3ABaranda"),
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/PSICQUICSept2010.pdf" class="internal"
@@ -1509,14 +1509,14 @@ format</a> may help.
 ## <span id="MolGenIS_and_XGAP" class="mw-headline">[MolGenIS](MolGenIS "MolGenIS") and <a href="http://www.xgap.org" class="external text"
 rel="nofollow">XGAP</a></span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Morris.jpg" class="image"
 title="Morris Swertz"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Sept2010Morris.jpg" width="100"
 height="100" alt="Morris Swertz" /></a>
 
-</div>
+
 
 Morris Swertz,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/MolGenISXGAPSept2010.pdf"
@@ -1621,13 +1621,13 @@ rel="nofollow">OntoCAT</a></span>
 
 ## <span id="The_GMOD_Chado_Natural_Diversity_Module" class="mw-headline">The GMOD Chado Natural Diversity Module</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Bob.jpg" class="image" title="Bob MacCallum"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/Sept2010Bob.jpg" width="100" height="112"
 alt="Bob MacCallum" /></a>
 
-</div>
+
 
 Bob MacCallum,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/ChadoNDSept2010.pdf" class="internal"
@@ -1693,13 +1693,13 @@ is planning a simplified API that abstract the module's tables into:
 
 ## <span id="Cosmic_GBrowse:_Visualising_cancer_mutations_in_genomic_context" class="mw-headline">Cosmic [GBrowse](GBrowse.1 "GBrowse"): Visualising cancer mutations in genomic context</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Dave.jpg" class="image" title="Dave Beare"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/Sept2010Dave.jpg" width="100" height="101"
 alt="Dave Beare" /></a>
 
-</div>
+
 
 David Beare,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/CosmicGBrowseSept2010.pdf"
@@ -1824,7 +1824,7 @@ At COSMIC
   - [GBrowse 2.0 HOWTO, "Using Pipes in the GBrowse.conf Data Source
     Name"](GBrowse_2.0_HOWTO#Using_Pipes_in_the_GBrowse.conf_Data_Source_Name "GBrowse 2.0 HOWTO").
 
-<div class="indent">
+
 
         [=~sample_.+]
         description = Cosmic Database v48 (sample filtered)
@@ -1839,7 +1839,7 @@ At COSMIC
 
             # cgi script returns COLO-829 mutation data from COSMIC
 
-</div>
+
 
 GBrowse Developement
 
@@ -1861,14 +1861,14 @@ discussed.
 
 ## <span id="GMOD_Projects_at_the_Center_for_Genomics_and_Bioinformatics" class="mw-headline">GMOD Projects at the Center for Genomics and Bioinformatics</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Chris.jpg" class="image"
 title="Chris Hemmerich"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Sept2010Chris.jpg" width="100"
 height="108" alt="Chris Hemmerich" /></a>
 
-</div>
+
 
 [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf"
@@ -1956,26 +1956,26 @@ goals when developing ISGA:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:297px;">
+<td>
+
 <a href="File:ErgatisBoxes.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/ErgatisBoxes.png" class="thumbimage"
 width="295" height="243" /></a>
-<div class="thumbcaption">
+
 Ergatis and the bioinformatician
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:411px;">
+
+
+</td>
+<td>
+
 <a href="File:ISGABoxes.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/ISGABoxes.png" class="thumbimage"
 width="409" height="255" /></a>
-<div class="thumbcaption">
+
 ISGA and the bioinformatician
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -2051,13 +2051,13 @@ CloVR
 
 ## <span id="GMOD_RPC_API:_The_almost_RESTful_GMOD_API" class="mw-headline">[GMOD RPC API](GMOD_RPC_API "GMOD RPC API"): The almost RESTful GMOD API</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Josh.jpg" class="image" title="Josh Goodman"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Sept2010Josh.jpg" width="100" height="96"
 alt="Josh Goodman" /></a>
 
-</div>
+
 
 [Josh Goodman](User%3AJogoodma "User%3AJogoodma"),
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ee/GMOD_RPC_Sept_2010.pdf"
@@ -2065,13 +2065,13 @@ class="internal" title="GMOD RPC Sept 2010.pdf">PDF</a>
 
 Josh started with this scenario:
 
-<div class="quotebox">
+
 
 Fetch me all genes annotated with GO:0003677 (DNA Binding) from *D.
 melanogaster, C. elegans, T. castaneum,* and *B. mori*. Then fetch the
 current ID, symbol and list of orthologs for each.
 
-</div>
+
 
 We currently do this with a mixture of file downloads,
 [SQL](Glossary#SQL "Glossary") calls to different DB systems, a
@@ -2186,14 +2186,14 @@ searching.
 
 ## <span id="Overview_of_current_resources_and_update_on_DAS_Meeting_Cambridge_2010" class="mw-headline">Overview of current resources and update on <a href="DAS" class="mw-redirect" title="DAS">DAS</a> Meeting Cambridge 2010</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Jonathan.jpg" class="image"
 title="Jonathan Warren"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/Sept2010Jonathan.jpg" width="100"
 height="79" alt="Jonathan Warren" /></a>
 
-</div>
+
 
 Jonathan Warren,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/DAS_Sept2010.pdf" class="internal"
@@ -2332,14 +2332,14 @@ databases.
 
 ## <span id="InterMine:_new_Mines_and_new_features" class="mw-headline">[InterMine](InterMine "InterMine"): new Mines and new features</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Richard.jpg" class="image"
 title="Richard Smith"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/Sept2010Richard.jpg" width="100"
 height="80" alt="Richard Smith" /></a>
 
-</div>
+
 
 [Richard Smith](User%3ARsmith "User%3ARsmith"),
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/InterMine_Sept2010.pdf"
@@ -2404,14 +2404,14 @@ create mashups.
 
 ### <span id="metabolicMine" class="mw-headline">metabolicMine</span>
 
-<div class="floatright">
+
 
 <a href="File:MetabolicMineLogoWide.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/200px-MetabolicMineLogoWide.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/300px-MetabolicMineLogoWide.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/400px-MetabolicMineLogoWide.png 2x"
 width="200" height="43" alt="MetabolicMineLogoWide.png" /></a>
 
-</div>
+
 
 This brand new project will contain data on metabolic diseases such as
 diabetes and obesity. InterMine fits quite well with this kind of
@@ -2497,13 +2497,13 @@ for more on this topic.
 
 ## <span id="Towards_a_GO_Annotation_Tool:_Curation_Accelerator_Software" class="mw-headline">Towards a GO Annotation Tool: Curation Accelerator Software</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Helen.jpg" class="image" title="Helen Field"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/54/Sept2010Helen.jpg" width="100" height="96"
 alt="Helen Field" /></a>
 
-</div>
+
 
 Helen Field, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/GO_Curation_Sept2010.pdf"
 class="internal" title="GO Curation Sept2010.pdf">PDF</a>,
@@ -2570,14 +2570,14 @@ for many screenshots of the prototype.
 
 ## <span id="BioPivot" class="mw-headline">BioPivot</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Steve.jpg" class="image"
 title="Stephen Taylor"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Sept2010Steve.jpg" width="100" height="97"
 alt="Stephen Taylor" /></a>
 
-</div>
+
 
 Applying Microsoft Live Labs Pivot to Problems in Bioinformatics
 
@@ -2675,14 +2675,14 @@ rel="nofollow">BioPivot page at CBRG</a> for more.
 
 ## <span id="CRAWL_.28Chado_RESTful_Access_Web-service_Layer.29" class="mw-headline">CRAWL (<a href="Chado" class="mw-redirect" title="Chado">Chado</a> RESTful Access Web-service Layer)</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Giles.jpg" class="image"
 title="Giles Verlarde"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Sept2010Giles.jpg" width="100"
 height="120" alt="Giles Verlarde" /></a>
 
-</div>
+
 
 A programmatic interface for querying pathogen genomics data
 
@@ -2709,7 +2709,7 @@ on web services and includes a lot of
 code. It also include cross-organism computed data such as orthologues
 and domains.
 
-<div>
+
 
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> is a
 relational database [schema](Glossary#Schema "Glossary") that underlies
@@ -2726,7 +2726,7 @@ user must spend some time becoming familiar** with its fundamentals.
 - An integrated database
 - A database that is generic enough to use for any organism
 
-</div>
+
 
 GeneDB's web front end uses Hibernate mappings to Chado, DAO caches, and
 Lucene search. It has weekly data updates (that take over a day to run).
@@ -2856,13 +2856,13 @@ Scott talked about new features in [GBrowse](GBrowse.1 "GBrowse") 2 and
 
 ### <span id="CpG_Island_and_STR_Annotator_Plugins" class="mw-headline">CpG Island and STR Annotator Plugins</span>
 
-<div class="floatright">
+
 
 <a href="File:Sept2010Joan.jpg" class="image" title="Joan Pontius"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Sept2010Joan.jpg" width="100" height="113"
 alt="Joan Pontius" /></a>
 
-</div>
+
 
 Joan Pontius
 
@@ -3115,7 +3115,7 @@ breaks, and other expenses.
 # <span id="Sponsor:_Cambridge_Computational_Biology_Institute" class="mw-headline">Sponsor: <a href="http://www.ccbi.cam.ac.uk/" class="external text"
 rel="nofollow">Cambridge Computational Biology Institute</a></span>
 
-<div class="floatright">
+
 
 <a href="http://www.ccbi.cam.ac.uk/" rel="nofollow"
 title="Cambridge Computational Biology Institute"><img
@@ -3124,7 +3124,7 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="200" height="85"
 alt="Cambridge Computational Biology Institute" /></a>
 
-</div>
+
 
 The September 2010 GMOD Meeting was sponsored by the
 <a href="http://www.ccbi.cam.ac.uk/" class="external text"
@@ -3251,14 +3251,14 @@ future?**
 
 # <span id="The_Next_Meeting" class="mw-headline">The Next Meeting</span>
 
-<div class="floatright">
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/100px-GMODAmericas2011Logo.jpg.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/150px-GMODAmericas2011Logo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/200px-GMODAmericas2011Logo.jpg.png 2x"
 width="100" height="100" alt="March 2011 GMOD Meeting" />](March_2011_GMOD_Meeting "March 2011 GMOD Meeting")
 
-</div>
+
 
 The next [GMOD Meeting](Meetings "Meetings") will be held in [March 2011
 in Durham, North
@@ -3272,18 +3272,18 @@ and the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training") [GMOD
 School](GMOD_Schools "GMOD Schools").
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=September_2010_GMOD_Meeting&oldid=22542>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -3304,30 +3304,29 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3AREST (page does not exist)">REST</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -3337,81 +3336,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -3421,31 +3416,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/September_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:31 on 30 November
   2012.</span>
@@ -3467,4 +3461,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

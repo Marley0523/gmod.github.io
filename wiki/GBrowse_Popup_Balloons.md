@@ -1,58 +1,58 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse Popup Balloons</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatright">
+
+
+
 
 <a href="File:Balloon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Balloon.png" class="thumbborder"
 width="414" height="308" alt="Balloon.png" /></a>
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Using
   Balloons</span>](#Using_Balloons)
@@ -106,7 +106,7 @@ width="414" height="308" alt="Balloon.png" /></a>
   - [<span class="tocnumber">3.5</span> <span class="toctext">GBox for
     GBrowse 1.7</span>](#GBox_for_GBrowse_1.7)
 
-</div>
+
 
 # <span id="Using_Balloons" class="mw-headline">Using Balloons</span>
 
@@ -148,9 +148,9 @@ It is often useful to include links in a popup balloon that change the
 view in GBrowse. Use a callback to get the desired coordinates for the
 new view. Example:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 balloon hover = sub   {
@@ -167,9 +167,9 @@ balloon hover = sub   {
  }
 ```
 
-</div>
 
-</div>
+
+
 
 Note that `&enable=DNA` turns on the DNA track when following the link,
 while preserving other track settings.
@@ -643,13 +643,13 @@ Most of the new tooltip feayures described above are specific to GBrowse
 2. The following is a recipe to add a GBox-style tooltips to Gbrowse
 1.7.
 
-<div class="floatright">
+
 
 <a href="File:GBoxretro.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/GBoxretro.png" class="thumbborder"
 width="440" height="263" alt="GBoxretro.png" /></a>
 
-</div>
+
 
 1\) Add the image
 <a href="http://gmod.org/w/images/2/2b/Box.png" class="external text"
@@ -679,9 +679,9 @@ sure to get rid of any cut and paste artifacts like line wrapping, each
 new line of the code (including the closing brace) must start with at
 least one white space character.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # A generic function to display a table of all attribute values
@@ -705,9 +705,9 @@ init_code =
   }
 ```
 
-</div>
 
-</div>
+
+
 
 4\) Add the balloon tooltip option to the configuration stanza for your
 track(s)
@@ -720,18 +720,18 @@ added to the init_code section. More simply, you could just do:
 balloon hover = \[GBox\] Whatever text you want goes here.... balloon
 click = \[GBox\] Whatevr sticky text ...
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_Popup_Balloons&oldid=22103>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -741,30 +741,29 @@ Retrieved from
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -774,81 +773,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -858,31 +853,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:06 on 8 October
   2012.</span>
@@ -904,4 +898,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

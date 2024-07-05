@@ -1,40 +1,40 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">Chado Schema Documentation HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 The <a href="Chado" class="mw-redirect" title="Chado">Chado</a> schema
 documentation on this wiki is a mixture of generated content and
@@ -52,13 +52,13 @@ is a new release of Chado. The column and table details, including
 comments, come from the [PostgreSQL](PostgreSQL "PostgreSQL") data
 dictionary.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Using Module
   and Table Documentation</span>](#Using_Module_and_Table_Documentation)
@@ -94,7 +94,7 @@ dictionary.
   - [<span class="tocnumber">5.1</span>
     <span class="toctext">wiki.tmpl</span>](#wiki.tmpl)
 
-</div>
+
 
 ## <span id="Using_Module_and_Table_Documentation" class="mw-headline">Using Module and Table Documentation</span>
 
@@ -185,9 +185,9 @@ source tree:
 Edit `generateChadoWikiTables.py` and update any of these variables that
 you need to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ```de1
 # UPDATE THESE 4 BEFORE RUNNING THE PROGRAM.
@@ -197,9 +197,9 @@ MODULE_TABLE_PATH = "../../modules/module-tables.json"
 WIKI_DIR          = "/tmp/ChadoWikiFiles"
 ```
 
-</div>
 
-</div>
+
+
 
 Before you can run this script, make sure that the `postgresql_autodoc`
 package is installed. The script won't run without it. Now run:
@@ -214,7 +214,7 @@ on my laptop.
 This script places generated wiki content in the `WIKI_DIR` directory,
 which by default is `/tmp/ChadoWikiFiles/`:
 
-<div class="indent">
+
 
 |                        |                                                                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -223,7 +223,7 @@ which by default is `/tmp/ChadoWikiFiles/`:
 | ` Tables/`             | Contains one file per table; these will become Table Templates.                                                                             |
 | ` allTables.wiki`      | List of all tables; will become the module/table list on [Chado Tables](Chado_Tables "Chado Tables").                                       |
 
-</div>
+
 
 ### <span id="Push_Regenerated_Wiki_Text_to_GMOD.org" class="mw-headline">Push Regenerated Wiki Text to GMOD.org</span>
 
@@ -240,9 +240,9 @@ do this. Then update the three types of pages:
 
 On the GMOD web server create this script:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ```de1
 #!/usr/bin/python
@@ -270,9 +270,9 @@ for tablePath in glob.glob(TABLES_DIR + "/*.wiki"):
     os.system(command)
 ```
 
-</div>
 
-</div>
+
+
 
 Set `MW_USERNAME` and `COMMENT` appropriately. Also set `TABLES_DIR` to
 be the relative path from the script to directory containing the Table
@@ -329,18 +329,18 @@ We've tackled this for Chado with MediaWiki Templates:
 5.  The Chado Table templates are regenerated and reloaded for every
     Chado release.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Chado_Schema_Documentation_HOWTO&oldid=22866>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -348,28 +348,27 @@ Retrieved from
 - [Chado](Category%3AChado "Category%3AChado")
 - [Wiki Tools](Category%3AWiki_Tools "Category%3AWiki Tools")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -378,77 +377,73 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -458,29 +453,28 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Schema_Documentation_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:28 on 29 January 2013.</span>
 <!-- - <span id="footer-info-viewcount">64,827 page views.</span> -->
@@ -496,4 +490,4 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
+

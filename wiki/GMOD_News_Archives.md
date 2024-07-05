@@ -1,45 +1,44 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD News Archives</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="plainlinks C"
-style="float: right; margin-left: 1em; margin-bottom: 1em; padding-left: 0.5em; padding-right: 0.5em; padding-bottom: 0.5em; border: 1px solid #888888; background-color: #fafafa; line-height: 100%">
+
+
+
 
 <a
 href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=5000&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
@@ -53,7 +52,7 @@ alt="RSS feed" /></a>
 
 ------------------------------------------------------------------------
 
-<div id="Items" class="switch" style="list-style-type: none">
+
 
 <table class="RSSMainBody" style="background:inherit;">
 <colgroup>
@@ -159,9 +158,9 @@ closes 24 May</a></li>
 </tbody>
 </table>
 
-</div>
 
-</div>
+
+
 
 The GMOD News Archive contains old news items that have been archived
 off of the [GMOD News](GMOD_News "GMOD News") page/feed. The News
@@ -180,11 +179,11 @@ to post a news item.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td data-valign="top" style="width: 95%"><div class="rss">
+<td data-valign="top" style="width: 95%">
 <h3 id="prospecting-for-proposals-for-gsoc-2024"><a
 href="News/Prospecting_for_Proposals_for_GSoC_2024">Prospecting for
 Proposals for GSoC 2024</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
@@ -192,7 +191,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="272" height="272"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
-</div>
+
 <p>The Open Genome Informatics group and GMOD has submitted an
 application for <a
 href="http://gmod.org/wiki/https://summerofcode.withgoogle.com/#58;//summerofcode.withgoogle.com/"
@@ -223,19 +222,19 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2024/02/12</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="jbrowse2-v1.1.0-released"><a
 href="News/JBrowse2_v1.1.0_Released">JBrowse2 v1.1.0 Released</a></h3>
-<div id="toc" class="toc">
-<div id="toctitle">
+
+
 <h2 id="contents">Contents</h2>
-</div>
+
 <ul>
 <li><span><span class="tocnumber">1</span> <span class="toctext">We're
 pleased to announce a new release of JBrowse Web!</span></span>
@@ -269,7 +268,7 @@ class="toctext">Committers: 6</span></span></li>
 </ul></li>
 </ul></li>
 </ul>
-</div>
+
 <h2 id="were-pleased-to-announce-a-new-release-of-jbrowse-web"><span
 id="We.27re_pleased_to_announce_a_new_release_of_JBrowse_Web.21"
 class="mw-headline">We're pleased to announce a new release of JBrowse
@@ -424,17 +423,17 @@ class="mw-headline">Committers: 6</span></h4>
 </ul>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2021/03/30</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="prospecting-for-proposals-for-gsoc-2021"><a
 href="News/Prospecting_for_Proposals_for_GSoC_2021">Prospecting for
 Proposals for GSoC 2021</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
@@ -442,7 +441,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="272" height="272"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
-</div>
+
 <p>The Genome Informatics group and GMOD will be submitting an
 application for <a
 href="http://gmod.org/wiki/https://summerofcode.withgoogle.com/#58;//summerofcode.withgoogle.com/"
@@ -473,23 +472,23 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2021/02/16</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="codefest-2020"><a href="Codefest_2020">Codefest 2020</a></h3>
-<div class="center">
-<div class="floatnone">
+
+
 <a
 href="http://gmod.org/wiki/File:Palms.jpg#58;//gmod.org/wiki/File:Palms.jpg"
 class="image">&lt;img alt="Palms.jpg"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Palms.jpg" width="1052"
 height="218" /&gt;</a>
-</div>
-</div>
+
+
 <p><br />
 </p>
 <strong></strong>
@@ -519,7 +518,7 @@ href="http://gmod.org/wiki/https://docs.google.com/document/d/1_CnUW_W4tNyl7lSli
 class="external text" rel="nofollow">Google Doc</a>. The codefest is
 open to anyone who'd like to work on any GMOD project (or, better yet,
 any combination of GMOD projects), including but not limited to</p>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/File:EvoHackLaptops2010.jpg#58;//gmod.org/wiki/File:EvoHackLaptops2010.jpg"
 class="image" title="GMOD Hackathon">&lt;img alt="GMOD Hackathon"
@@ -527,7 +526,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="200" height="119"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x" /&gt;</a>
-</div>
+
 <ul>
 <li><a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Tripal#58;//gmod.org/wiki/Tripal"
@@ -603,13 +602,13 @@ developers present.</p>
 </ul>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2020/01/08</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="tripal-3.5-released"><a href="Tripal_3.5_Released">Tripal 3.5
 Released</a></h3>
 <p>This <a
@@ -632,16 +631,16 @@ now have more informative definition lines for FASTA sequences.</li>
 </ol>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2021/02/08</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="jbrowse-2-release"><a href="News/JBrowse_2_release">JBrowse 2
 release</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/https://jbrowse.org/jb2/#58;//jbrowse.org/jb2/"
 rel="nofollow" title="JBrowse">&lt;img alt="JBrowse"
@@ -651,7 +650,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png
 2x" /&gt;</a>
-</div>
+
 <p>We are pleased to announce the first public release of <a
 href="http://gmod.org/wiki/https://jbrowse.org/jb2/#58;//jbrowse.org/jb2/"
 class="external text" rel="nofollow">JBrowse 2</a>!</p>
@@ -675,17 +674,17 @@ to contact us <a
 href="http://gmod.org/wiki/https://jbrowse.org/jb2/contact/#58;//jbrowse.org/jb2/contact/"
 class="external text" rel="nofollow">here</a>.</p>
 <p>The JBrowse Team</p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2020/11/09</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="prospecting-for-proposals-for-gsoc-2020"><a
 href="News/Prospecting_for_Proposals_for_GSoC_2020">Prospecting for
 Proposals for GSoC 2020</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
@@ -693,7 +692,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="272" height="272"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
-</div>
+
 <p>The Genome Informatics group and GMOD will be submitting an
 application for <a
 href="http://gmod.org/wiki/https://summerofcode.withgoogle.com/#58;//summerofcode.withgoogle.com/"
@@ -724,13 +723,13 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2020/02/03</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="call-for-pag-abstracts"><a
 href="News/Call_for_PAG_Abstracts">Call for PAG Abstracts</a></h3>
 <h2 id="call-for-pag-abstracts-1"><span id="Call_for_PAG_Abstracts"
@@ -756,13 +755,13 @@ title="Galaxy">Galaxy</a>.</p>
 ideas!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2016/11/04</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="new-gmod-server"><a href="News/New_GMOD_Server">New GMOD
 Server</a></h3>
 <h2 id="gmod.org-has-a-new-home"><span id="GMOD.org_has_a_new_home"
@@ -774,13 +773,13 @@ gmod.org, please send an email to help at gmod dot org to let us know
 what's going on.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2016/09/29</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-jbrowse-2016-survey"><a
 href="News/GMOD-JBrowse_2016_Survey">GMOD-JBrowse 2016 Survey</a></h3>
 <p>Hello Genome Informaticians,</p>
@@ -798,15 +797,15 @@ rel="nofollow">https://goo.gl/forms/1bKIuAMjGKrS0hUi1</a></p>
 <p>The JBrowse team</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2016/09/23</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gcc2016"><a href="News/GCC2016">GCC2016</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/https://gcc2016.iu.edu/#58;//gcc2016.iu.edu/"
 rel="nofollow" title="2016 Galaxy Community Conference">&lt;img
@@ -814,8 +813,8 @@ alt="2016 Galaxy Community Conference"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/GCC2016Logo.png/250px-GCC2016Logo.png"
 width="250" height="167" srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/GCC2016Logo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/GCC2016Logo.png 2x" /&gt;</a>
-</div>
-<div class="floatright">
+
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jun_2016_GMOD_Meeting#58;//gmod.org/wiki/Jun_2016_GMOD_Meeting"
 title="Jun 2016 GMOD Meeting">&lt;img alt="GMOD2016ColorsBigLetters
@@ -826,7 +825,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/300px-GMOD2016ColorsBigLetters_300px.png
 2x" /&gt;</a>
-</div>
+
 <p><strong>The <a
 href="http://gmod.org/wiki/https://gcc2016.iu.edu/#58;//gcc2016.iu.edu/"
 class="external text" rel="nofollow">2016 Galaxy Community Conference
@@ -898,16 +897,16 @@ class="external text" rel="nofollow">scholarship applications</a> close
 May 1.</strong></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2016/04/04</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-meeting"><a href="News/2016_GMOD_Meeting">2016 GMOD
 Meeting</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jun_2016_GMOD_Meeting#58;//gmod.org/wiki/Jun_2016_GMOD_Meeting"
 title="Jun 2016 GMOD Meeting">&lt;img alt="GMOD2016ColorsBigLetters
@@ -916,7 +915,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="260" height="218"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x,
 /mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x" /&gt;</a>
-</div>
+
 <p><strong>The <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jun_2016_GMOD_Meeting#58;//gmod.org/wiki/Jun_2016_GMOD_Meeting"
 title="Jun 2016 GMOD Meeting">next GMOD Community Meeting</a> will be
@@ -949,21 +948,21 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">GMOD help desk</a>.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2016/04/04</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="please-support-ecocyc"><a
 href="News/Please_Support_EcoCyc">Please Support EcoCyc</a></h3>
-<div class="floatright">
+
 <a href="http://gmod.org/wiki/http://ecocyc.org#58;//ecocyc.org"
 rel="nofollow">&lt;img alt="EcoCyc website"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/BioCyc.gif" width="216"
 height="60" /&gt;</a>
-</div>
+
 <p><a href="http://gmod.org/wiki/http://ecocyc.org#58;//ecocyc.org"
 class="external text" rel="nofollow">EcoCyc, the <em>E. coli</em>
 information resource</a> and one of the resources offered by the <a
@@ -1011,13 +1010,13 @@ href="http://gmod.org/wiki/http://brg.ai.sri.com/ptools/ecocyc-letters-of-suppor
 class="external text" rel="nofollow">the Pathway Tools website</a>.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/05/21</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="june-2014-webapollo-hackathon"><a
 href="News/June_2014_WebApollo_Hackathon">June 2014 WebApollo
 Hackathon</a></h3>
@@ -1062,13 +1061,13 @@ information</a></p>
 <p><em>via Monica Munoz-Torres</em></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014-04-22</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="applications-open-for-gmod-online-training"><a
 href="News/Applications_Open_for_GMOD_Online_Training">Applications Open
 for GMOD Online Training</a></h3>
@@ -1098,17 +1097,17 @@ title="GMOD Online Training 2014">GMOD Online Training 2014</a> for more
 information and to submit your application.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014-03-31</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="canto-workshop-at-biocuration-2014"><a
 href="News/Canto_Workshop_at_Biocuration_2014">Canto Workshop at
 Biocuration 2014</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Canto#58;//gmod.org/wiki/Canto"
 title="Canto">&lt;img alt="CantoTextLogo.png"
@@ -1118,14 +1117,14 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/7/7e/CantoTextLogo.png/480px-CantoTextLogo.png
 2x" /&gt;</a>
-</div>
-<div class="floatright">
+
+
 <a
 href="http://gmod.org/wiki/http://biocuration2014.events.oicr.on.ca/#58;//biocuration2014.events.oicr.on.ca/"
 rel="nofollow">&lt;img alt="ISBLogo.jpg"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/ISBLogo.jpg" width="240"
 height="71" /&gt;</a>
-</div>
+
 <p>GMOD will be running a workshop at <a
 href="http://gmod.org/wiki/http://biocuration2014.events.oicr.on.ca/#58;//biocuration2014.events.oicr.on.ca/"
 class="external text" rel="nofollow">Biocuration 2014</a> to demonstrate
@@ -1145,13 +1144,13 @@ curation.</p>
 <p>We will have more information closer to the time.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/03/25</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="tripal-2.0a-released"><a href="News/Tripal_2.0a_released">Tripal
 2.0a released</a></h3>
 <p>The Tripal Development Team is pleased to announce an alpha release
@@ -1171,13 +1170,13 @@ enough information for complete installation of Tripal v2.0a as well as
 loading of organisms and features.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/02/27</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="precompiled-ontologies-in-chado"><a
 href="News/Precompiled_Ontologies_in_Chado">Precompiled Ontologies in
 Chado</a></h3>
@@ -1220,17 +1219,17 @@ via Artemis), and tools that do not make use of GMOD_ROOT locally, this
 is not a problem.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/02/20</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gcc2014-registration-is-open"><a
 href="News/GCC2014_Registration_is_Open">GCC2014 Registration is
 Open</a></h3>
-<div class="floatleft">
+
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wiki.galaxyproject.org/Events/GCC2014"
 rel="nofollow"
@@ -1241,8 +1240,8 @@ width="300" height="126"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/450px-GCC2014Logo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/600px-GCC2014Logo.png
 2x" /&gt;</a>
-</div>
-<div class="floatright">
+
+
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014/TrainingDay#58;//wiki.galaxyproject.org/Events/GCC2014/TrainingDay"
 rel="nofollow" title="GCC2014 Training Day">&lt;img alt="GCC2014
@@ -1253,7 +1252,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/4/43/GCC2014TDLogo.png/160px-GCC2014TDLogo.png
 2x" /&gt;</a>
-</div>
+
 <p><strong>We are pleased to announce that <a
 href="http://gmod.org/wiki/https://wiki.galaxyproject.org/Events/GCC2014/Register#58;//wiki.galaxyproject.org/Events/GCC2014/Register"
 class="external text" rel="nofollow">Early Registration</a> and <a
@@ -1309,7 +1308,7 @@ acceptance status within two weeks of submission, while presentation
 authors will be notified no later than May2.  <em>Please consider
 presenting your work. If you are dealing with big biological data, then
 this meeting wants to hear about your work.</em></p>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://www.gigasciencejournal.com/#58;//www.gigasciencejournal.com/"
 rel="nofollow" title="GigaScience Journal">&lt;img alt="GigaScience
@@ -1320,7 +1319,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/240px-GigaScienceLogo250.png
 2x" /&gt;</a>
-</div>
+
 <p>The <em><a
 href="http://gmod.org/wiki/http://www.gigasciencejournal.com/#58;//www.gigasciencejournal.com/"
 class="external text" rel="nofollow">GigaScience</a></em> "Galaxy: Data
@@ -1340,13 +1339,13 @@ class="external text" rel="nofollow">GCC2014 Organizing
 Committee</a></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/02/14</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-feb-10th-2014"><a
 href="News/GMOD_Paper_Cuts,_Feb_10th,_2014">GMOD Paper Cuts, Feb 10th,
 2014</a></h3>
@@ -1591,25 +1590,25 @@ class="mw-cite-backlink"><span>↑</span></span> <strong>Cite error:
 Invalid <code>&lt;ref&gt;</code> tag; no text was provided for refs
 named <code>DOI:10.1186.2F1471-2164-15-71</code></strong></span></li>
 </ol>
-<div class="smallprint">
+
 Disclaimer: the papers included in this feature are for your
 entertainment and edification only. Inclusion does not imply an
 endorsement of the material or any association between the authors and
 the GMOD project.
-</div>
+
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/02/10</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="galaxy-australasia-workshop-2014"><a
 href="News/Galaxy_Australasia_Workshop_2014">Galaxy Australasia Workshop
 2014</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GAW2014#58;//wiki.galaxyproject.org/Events/GAW2014"
 rel="nofollow"
@@ -1620,7 +1619,7 @@ width="200" height="96"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/300px-GAW2014Logo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/400px-GAW2014Logo.png
 2x" /&gt;</a>
-</div>
+
 <p><strong>The <a
 href="http://gmod.org/wiki/https://wiki.galaxyproject.org/Events/GAW2014#58;//wiki.galaxyproject.org/Events/GAW2014"
 class="external text" rel="nofollow">1st Galaxy Australasia Workshop
@@ -1688,13 +1687,13 @@ class="external text" rel="nofollow">Committee GAW 2014 Organising
 Committee</a></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on yyyy/mm/dd</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-jan-24th-2014"><a
 href="News/GMOD_Paper_Cuts,_Jan_24th,_2014">GMOD Paper Cuts, Jan 24th,
 2014</a></h3>
@@ -1858,21 +1857,21 @@ class="mw-cite-backlink"><span>↑</span></span> <strong>Cite error:
 Invalid <code>&lt;ref&gt;</code> tag; no text was provided for refs
 named <code>DOI:10.1038.2Fng.2875</code></strong></span></li>
 </ol>
-<div class="smallprint">
+
 Disclaimer: the papers included in this feature are for your
 entertainment and edification only. Inclusion does not imply an
 endorsement of the material or any association between the authors and
 the GMOD project.
-</div>
+
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/01/24</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3
 id="postdoc-position-in-computational-and-plant-evolutionary-biology"><a
 href="News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology">Postdoc
@@ -1902,17 +1901,17 @@ href="http://gmod.org/wiki/mailto:steven.cannon@ars.usda.gov#58;steven.cannon@ar
 class="external text" rel="nofollow">Steven Cannon</a>.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/1/24</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="prospecting-for-proposals-for-gsoc-2014"><a
 href="News/Prospecting_for_Proposals_for_GSoC_2014">Prospecting for
 Proposals for GSoC 2014</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="Landing-page-gsoc2014.png"
@@ -1920,7 +1919,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="200" height="180"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/Landing-page-gsoc2014.png/300px-Landing-page-gsoc2014.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/Landing-page-gsoc2014.png 2x" /&gt;</a>
-</div>
+
 <p>GMOD is participating in <a
 href="http://gmod.org/wiki/http://google-melange.com#58;//google-melange.com"
 class="external text" rel="nofollow">Google Summer of Code (GSoC)</a>
@@ -1946,13 +1945,13 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/01/22</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="biocuration-2014"><a href="News/Biocuration_2014">Biocuration
 2014</a></h3>
 <p><a
@@ -2014,22 +2013,22 @@ class="external text" rel="nofollow">Submit your abstract for
 presentation (poster or talks only)</a></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/01/17</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-at-pag-2014"><a href="News/GMOD_At_PAG_2014">GMOD At PAG
 2014</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/PAG#58;//gmod.org/wiki/PAG"
 title="PAG">&lt;img alt="Pagxxii.png"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/98/Pagxxii.png" width="157"
 height="54" /&gt;</a>
-</div>
+
 <p>For those of you attending <a
 href="http://gmod.org/wiki/http://intlpag.org/2014/#58;//intlpag.org/2014/"
 class="external text" rel="nofollow">PAG XXII</a>, we have made up <a
@@ -2040,13 +2039,13 @@ to check out</a>.</p>
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jan_2014_GMOD_Meeting#58;//gmod.org/wiki/Jan_2014_GMOD_Meeting"
 title="Jan 2014 GMOD Meeting">Jan 2014 GMOD Meeting</a>, please do so
 ASAP!</p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014-01-08</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="announcing-gmod-malaysia-2014"><a
 href="News/Announcing_GMOD_Malaysia_2014">Announcing GMOD Malaysia
 2014</a></h3>
@@ -2088,13 +2087,13 @@ class="external text" rel="nofollow">GMOD help desk</a> for more
 information.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/12/28</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="maker-p-an-annotation-pipeline-for-plants"><a
 href="News/MAKER-P%3A_an_annotation_pipeline_for_plants">MAKER-P: an
 annotation pipeline for plants</a></h3>
@@ -2129,13 +2128,13 @@ title="MAKER">MAKER and MAKER-P</a>.</li>
 </ul>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/12/16</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-dec-6th-2013"><a
 href="News/GMOD_Paper_Cuts,_Dec_6th,_2013">GMOD Paper Cuts, Dec 6th,
 2013</a></h3>
@@ -2286,25 +2285,25 @@ Invalid <code>&lt;ref&gt;</code> tag; no text was provided for refs
 named
 <code>DOI:10.1371.2Fjournal.pone.0081072</code></strong></span></li>
 </ol>
-<div class="smallprint">
+
 Disclaimer: the papers included in this feature are for your
 entertainment and edification only. Inclusion does not imply an
 endorsement of the material or any association between the authors and
 the GMOD project.
-</div>
+
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/12/06</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="canto-a-gmod-tool-for-functional-annotation"><a
 href="News/Canto,_a_GMOD_tool_for_functional_annotation">Canto, a GMOD
 tool for functional annotation</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Canto#58;//gmod.org/wiki/Canto"
 title="Canto">&lt;img alt="CantoTextLogo.png"
@@ -2314,7 +2313,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/7/7e/CantoTextLogo.png/600px-CantoTextLogo.png
 2x" /&gt;</a>
-</div>
+
 <p>We are pleased to announce that <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Canto#58;//gmod.org/wiki/Canto"
 title="Canto">Canto</a>, the <a
@@ -2356,13 +2355,13 @@ GitHub</a></li>
 </ul>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/12/02</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="new-webapollo-release-20131122"><a
 href="News/New_WebApollo_Release_(2013/11/22)">New WebApollo Release
 (2013/11/22)</a></h3>
@@ -2437,13 +2436,13 @@ splitting</li>
 <p>(via Ed Lee on the WebApollo mailing list)</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/22</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-nov-22nd-2013"><a
 href="News/GMOD_Paper_Cuts,_Nov_22nd,_2013">GMOD Paper Cuts, Nov 22nd,
 2013</a></h3>
@@ -2594,21 +2593,21 @@ Invalid <code>&lt;ref&gt;</code> tag; no text was provided for refs
 named
 <code>DOI:10.1371.2Fjournal.pone.0075265</code></strong></span></li>
 </ol>
-<div class="smallprint">
+
 Disclaimer: the papers included in this feature are for your
 entertainment and edification only. Inclusion does not imply an
 endorsement of the material or any association between the authors and
 the GMOD project.
-</div>
+
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/22</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-nov-15th-2013"><a
 href="News/GMOD_Paper_Cuts,_Nov_15th,_2013">GMOD Paper Cuts, Nov 15th,
 2013</a></h3>
@@ -2761,21 +2760,21 @@ class="mw-cite-backlink"><span>↑</span></span> <strong>Cite error:
 Invalid <code>&lt;ref&gt;</code> tag; no text was provided for refs
 named <code>DOI:10.1093.2Fnar.2Fgkt1048</code></strong></span></li>
 </ol>
-<div class="smallprint">
+
 Disclaimer: the papers included in this feature are for your
 entertainment and edification only. Inclusion does not imply an
 endorsement of the material or any association between the authors and
 the GMOD project.
-</div>
+
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/15</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-job-at-qmul"><a href="News/GMOD_Job_At_QMUL">GMOD Job At
 QMUL</a></h3>
 <p>There is a <a
@@ -2794,13 +2793,13 @@ href="http://gmod.org/wiki/http://www.jobs.qmul.ac.uk/4313#58;//www.jobs.qmul.ac
 class="external text" rel="nofollow">job description</a>.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/12</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-paper-cuts-nov-8th-2013"><a
 href="News/GMOD_Paper_Cuts,_Nov_8th,_2013">GMOD Paper Cuts, Nov 8th,
 2013</a></h3>
@@ -2898,22 +2897,22 @@ named <code>DOI:10.1186.2F1471-2105-14-180</code></strong></span></li>
 </ol>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/08</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="open-position-at-dictybase"><a
 href="News/Open_Position_At_dictyBase">Open Position At
 dictyBase</a></h3>
-<div class="floatright">
+
 <a href="http://gmod.org/wiki/http://dictybase.org/#58;//dictybase.org/"
 rel="nofollow" title="DictyBase">&lt;img alt="DictyBase"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/DictyMainPageLogo.png"
 width="93" height="60" /&gt;</a>
-</div>
+
 <p><strong>dictyBase</strong> is hiring. We have an <a
 href="http://gmod.org/wiki/http://www.dictybase.org/dictybase_jobs.html#58;//www.dictybase.org/dictybase_jobs.html"
 class="external text" rel="nofollow">open position</a> for a
@@ -2926,23 +2925,23 @@ class="external text" rel="nofollow">official posting</a> for full
 details.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/11/04</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="tripal-1.1-publication"><a
 href="News/Tripal_1.1_Publication">Tripal 1.1 Publication</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://www.ncbi.nlm.nih.gov/pubmed/24163125#58;//www.ncbi.nlm.nih.gov/pubmed/24163125"
 rel="nofollow">&lt;img alt="TripalLogo.png"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 width="250" height="75" srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x" /&gt;</a>
-</div>
+
 <p>The <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Tripal#58;//gmod.org/wiki/Tripal"
 title="Tripal">Tripal</a> team have put out a publication on the 1.1
@@ -2989,13 +2988,13 @@ class="external free" rel="nofollow">http://tripal.info</a>.</p>
 </blockquote>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/10/31</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="san-diego-2014-registration-open"><a
 href="News/San_Diego_2014_Registration_Open">San Diego 2014 Registration
 Open</a></h3>
@@ -3023,16 +3022,16 @@ not available through online bookings.</p>
 the GMOD helpdesk on help@gmod.org!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/10/25</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gcc2014-june-30---july-2"><a
 href="News/GCC2014%3A_June_30_-_July_2">GCC2014: June 30 - July 2</a></h3>
-<div class="floatleft">
+
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wiki.galaxyproject.org/Events/GCC2014"
 rel="nofollow" title="2014 Galaxy Community Conference">&lt;img
@@ -3042,7 +3041,7 @@ width="250" height="105"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png
 2x" /&gt;</a>
-</div>
+
 <p>The <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wiki.galaxyproject.org/Events/GCC2014"
 class="external text" rel="nofollow">2014 Galaxy Community Conference
@@ -3066,16 +3065,16 @@ idea of what happens at a Galaxy Community Conference. The GCC2013 site
 includes links to slides and videos for all accepted talks.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2014/10/02</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="get-the-full-impactstory"><a
 href="News/Get_the_Full_ImpactStory">Get the Full ImpactStory</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://impactstory.org#58;//impactstory.org"
 rel="nofollow">&lt;img alt="ImpactstoryLogo.png"
@@ -3083,7 +3082,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="250" height="46"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7a/ImpactstoryLogo.png/375px-ImpactstoryLogo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/ImpactstoryLogo.png 2x" /&gt;</a>
-</div>
+
 The GMOD wiki now includes <a
 href="http://gmod.org/wiki/http://impactstory.org#58;//impactstory.org"
 class="external text" rel="nofollow">ImpactStory altmetrics</a> for
@@ -3120,12 +3119,12 @@ class="external text" rel="nofollow">ImpactStory</a> website.</p>
 <p><br />
 </p>
 <p>We hope to add impact metrics for GMOD software soon.</p>
-</div>
-<div class="rss">
+
+
 <h3 id="gmod-2014-san-diego-save-the-date"><a
 href="News/GMOD_2014_San_Diego%3A_Save_the_Date">GMOD 2014 San Diego: Save
 the Date</a></h3>
-<div class="floatleft">
+
 <a
 href="http://gmod.org/wiki/File:2014-gmod-san-diego.png#58;//gmod.org/wiki/File:2014-gmod-san-diego.png"
 class="image">&lt;img alt="2014-gmod-san-diego.png"
@@ -3133,7 +3132,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="300" height="188"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/450px-2014-gmod-san-diego.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/2014-gmod-san-diego.png 2x" /&gt;</a>
-</div>
+
 <p>The <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jan_2014_GMOD_Meeting#58;//gmod.org/wiki/Jan_2014_GMOD_Meeting"
 title="Jan 2014 GMOD Meeting">next GMOD Community Meeting</a> will be
@@ -3151,17 +3150,17 @@ covering many of the actively-developed GMOD components.</p>
 be posted on the wiki closer to the time.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013-09-10</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="statistical-genomics-postdoc-at-psu"><a
 href="News/Statistical_Genomics_PostDoc_at_PSU">Statistical Genomics
 PostDoc at PSU</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://www.huck.psu.edu/center/medical-genomics/#58;//www.huck.psu.edu/center/medical-genomics/"
 rel="nofollow">&lt;img alt="HuckInstitutes.png"
@@ -3169,7 +3168,7 @@ src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/med
 width="250" height="48"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/35/HuckInstitutes.png/375px-HuckInstitutes.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/HuckInstitutes.png 2x" /&gt;</a>
-</div>
+
 <p>Are you interested in genomics and do you have skills in
 Bioinformatics, Computational Biology and Statistics? The Makova lab in
 the Department of Biology at The Pennsylvania State University is
@@ -3216,13 +3215,13 @@ policies. Penn State is committed to affirmative action, equal
 opportunity, and the diversity of its workforce.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/09/09</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="support-your-friendly-local-gmod"><a
 href="News/Support_Your_Friendly_Local_GMOD">Support Your Friendly Local
 GMOD</a></h3>
@@ -3258,17 +3257,17 @@ href="http://gmod.org/wiki/User%3AScott#58;//gmod.org/wiki/User%3AScott"
 title="User%3AScott">Scott Cain</a></em></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/08/20</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="summer-school-tutorials-available"><a
 href="News/2013_Summer_School_Tutorials_Available">2013 Summer School
 Tutorials Available</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/File:2013-summer-school.png#58;//gmod.org/wiki/File:2013-summer-school.png"
 class="image" title="2013 GMOD Summer School">&lt;img alt="2013 GMOD
@@ -3279,7 +3278,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/f/fc/2013-summer-school.png/600px-2013-summer-school.png
 2x" /&gt;</a>
-</div>
+
 <p>The tutorials for the material taught at <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/2013_GMOD_Summer_School#58;//gmod.org/wiki/2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">this year's GMOD summer school</a> are
@@ -3312,13 +3311,13 @@ href="http://gmod.org/wiki/Category%3ATutorials#58;//gmod.org/wiki/Category%3ATu
 title="Category%3ATutorials">Tutorials</a> section of the wiki.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013-08-02</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="jbrowse-1.10.0-released"><a
 href="News/JBrowse_1.10.0_released">JBrowse 1.10.0 released</a></h3>
 <p>I am very pleased to announce the release of JBrowse 1.10.0, a major
@@ -3340,13 +3339,13 @@ href="http://gmod.org/wiki/User_talk%3ARobertBuels#58;//gmod.org/wiki/User_talk%
 title="User talk:RobertBuels">talk</a>)</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/07/30</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="openid-account-creation-fixed"><a
 href="News/OpenID_Account_Creation_Fixed">OpenID Account Creation
 Fixed</a></h3>
@@ -3365,13 +3364,13 @@ class="external text" rel="nofollow">the GMOD helpdesk</a> if you have
 any problems or want to expedite the creation of your account!</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/07/10</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmods-gsoc-going-great-guns"><a
 href="News/GMOD&#39;s_GSoC_Going_Great_Guns!">GMOD's GSoC Going Great
 Guns!</a></h3>
@@ -3403,18 +3402,18 @@ href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/07/09</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gmod-in-the-cloud-2.0-released"><a
 href="News/GMOD_in_the_Cloud_2.0_Released">GMOD in the Cloud 2.0
 Released</a></h3>
 <p>from Scott Cain:</p>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/File:GitcLogo.png#58;//gmod.org/wiki/File:GitcLogo.png"
 class="image">&lt;img alt="GitcLogo.png"
@@ -3423,7 +3422,7 @@ width="200" height="114"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/400px-GitcLogo.png 2x"
 /&gt;</a>
-</div>
+
 <p>I am pleased to announce that GMOD in the Cloud 2.0 has finally been
 released to the public. This Amazon Web Services (AWS) Amazon Machine
 Image (AMI) is public and can be cloned by anybody with an AWS account.
@@ -3459,17 +3458,17 @@ about using GMOD in the Cloud to the GMOD developers mailing list,
 gmod-devel@lists.sourceforge.net.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/06/14</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="last-call-for-summer-school-apps"><a
 href="News/Last_Call_For_Summer_School_Apps">Last Call For Summer School
 Apps</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/File:2013-summer-school.png#58;//gmod.org/wiki/File:2013-summer-school.png"
 class="image" title="2013 GMOD Summer School">&lt;img alt="2013 GMOD
@@ -3480,7 +3479,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/f/fc/2013-summer-school.png/400px-2013-summer-school.png
 2x" /&gt;</a>
-</div>
+
 <p>The deadline to apply for the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/2013_GMOD_Summer_School#58;//gmod.org/wiki/2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">2013 GMOD Summer School</a> is rapidly
@@ -3507,17 +3506,17 @@ answer questions and help with troubleshooting.</p>
 spare places due to accepted applicants not being able to attend.</p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/06/06</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="gcc2013-early-reg-closes-24-may"><a
 href="News/GCC2013_Early_Reg_closes_24_May">GCC2013 Early Reg closes 24
 May</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2013#58;//wiki.galaxyproject.org/Events/GCC2013"
 rel="nofollow" title="2013 Galaxy Community Conference">&lt;img
@@ -3527,7 +3526,7 @@ width="200" height="133"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/300px-GCC2013Logo.png
 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/400px-GCC2013Logo.png
 2x" /&gt;</a>
-</div>
+
 <p><a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2013/Register#58;//wiki.galaxyproject.org/Events/GCC2013/Register"
 class="external text" rel="nofollow">Early registration</a> for the <a
@@ -3570,16 +3569,16 @@ class="external text" rel="nofollow">please help get the word
 out!</a></p>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/05/20</em>
-</div>
-</div>
-<div class="rss">
+
+
+
 <h3 id="new-webapollo-release"><a href="News/New_WebApollo_Release">New
 WebApollo Release</a></h3>
-<div class="floatright">
+
 <a
 href="http://gmod.org/wiki/http://genomearchitect.org/webapollo/releases#58;//genomearchitect.org/webapollo/releases"
 rel="nofollow">&lt;img alt="Download the new WebApollo release!"
@@ -3589,7 +3588,7 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 1.5x,
 /mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png
 2x" /&gt;</a>
-</div>
+
 <p><em><strong>From Ed Lee on the WebApollo mailing
 list:</strong></em></p>
 <p>We'd like to announce a new WebApollo release.</p>
@@ -3637,12 +3636,12 @@ the annotation track is selected</li>
 </ul>
 <p><br />
 </p>
-<div class="newsfooter">
+
 <em>Posted to the <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
 title="GMOD News">GMOD News</a> on 2013/05/17</em>
-</div>
-</div></td>
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -3653,18 +3652,18 @@ Even earlier news items are available at
 <a href="http://sourceforge.net/news/?group_id=27707"
 class="external text" rel="nofollow">SourceForge</a>.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_News_Archives&oldid=24412>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -3674,30 +3673,29 @@ Retrieved from
   class="new"
   title="Category%3A!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -3707,81 +3705,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -3791,31 +3785,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_News_Archives" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 11:12 on 22 August
   2013.</span>
@@ -3837,4 +3830,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

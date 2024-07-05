@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">ABRF2010 Workshop</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
 data-cellpadding="10">
@@ -45,17 +45,17 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="http://www.abrf2010.org/" rel="nofollow" title="ABRF 2010"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/ABRF2010Header.jpg/600px-ABRF2010Header.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/ABRF2010Header.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/ABRF2010Header.jpg 2x"
 width="600" height="126" alt="ABRF 2010" /></a>
-</div>
-</div></td>
+
+</td>
 </tr>
 <tr class="even">
-<td><div style="font-size: 200%; line-height: 120%; text-align: center">
+<td>
 <strong>GMOD Browser Tools and Exercises Workshop</strong><br />
 <span style="font-size: 60%">Part of the <a
 href="http://www.abrf2010.org/index.cfm/page/workshop_and_tours.htm#NextGen#NextGen"
@@ -65,20 +65,20 @@ Analysis Satellite Meeting</a></span><br />
 rel="nofollow">ABRF 2010</a><br />
 3-4:30pm, 20 March 2010<br />
 Sacramento, CA, USA
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Workshop</span>](#Workshop)
@@ -135,7 +135,7 @@ Sacramento, CA, USA
 - [<span class="tocnumber">2</span> <span class="toctext">Conference
   Talk</span>](#Conference_Talk)
 
-</div>
+
 
 ## <span id="Workshop" class="mw-headline">Workshop</span>
 
@@ -335,9 +335,9 @@ Changes:
     equals sign).
   - Used unique IDs for each of the reads.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Gbrowse2_100bp_trimmed.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
@@ -345,24 +345,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
 width="180" height="207" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse2_100bp_trimmed.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Two BAM files displayed in GBrowse
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Finally, the best way to represent this data would be to create a BAM
 file, which would result in faster rendering, and the ability to show
@@ -578,18 +578,18 @@ Visualization of 2nd Generation Sequencing Data*
 
 3:45pm - 5:00pm, Monday, March 22
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=ABRF2010_Workshop&oldid=21958>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -600,30 +600,29 @@ Retrieved from
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -633,81 +632,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -717,31 +712,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/ABRF2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:52 on 8 October
   2012.</span>
@@ -763,4 +757,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

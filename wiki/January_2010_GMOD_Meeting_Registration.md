@@ -1,45 +1,45 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">January 2010 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [January 2010 GMOD Meeting
 Registration](http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting_Registration&redirect=no "January 2010 GMOD Meeting Registration"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table
 style="font-size: 180%; vertical-align: middle; border: 2px solid #A6A6BC; line-height: 120%"
@@ -59,14 +59,14 @@ rel="nofollow">San Diego</a>, California, USA<br />
 <a href="File:January2010MeetingPic.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c5/January2010MeetingPic.JPG" width="300"
 height="104" alt="January2010MeetingPic.JPG" /></a></td>
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:Jan2010MtgLogo300.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Jan2010MtgLogo300.png/250px-Jan2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 2x"
 width="250" height="238" alt="Jan2010MtgLogo300.png" /></a>
-</div>
-</div></td>
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -80,13 +80,13 @@ this meeting was *free*. Special thanks to Scott Markel and
 rel="nofollow">Accelrys</a> for providing meeting equipment for us to
 use.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Agenda</span>](#Agenda)
@@ -107,13 +107,13 @@ use.
 - [<span class="tocnumber">7</span> <span class="toctext">Previous and
   Next Meetings</span>](#Previous_and_Next_Meetings)
 
-</div>
+
 
 ## <span id="Agenda" class="mw-headline">Agenda</span>
 
-<div class="emphasisbox">
 
-<div class="floatright">
+
+
 
 <a
 href="http://login.ncmir.ucsd.edu/Contact/Personnel/maryann_Martone.htm"
@@ -122,13 +122,13 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 2x"
 width="140" height="120" alt="Maryann Martone" /></a>
 
-</div>
 
-<div style="font-size: 150%; padding-bottom: 0.3em">
+
+
 
 Guest Speaker: Dr. Maryann Martone
 
-</div>
+
 
 *<a href="http://www.neuinfo.org/" class="external text"
 rel="nofollow">The Neuroscience Information Framework</a>: Establishing
@@ -156,7 +156,7 @@ rel="nofollow">National Center for Microscopy and Imaging Research
 (NCMIR)</a>, where her research focuses on ontologies in image analysis
 and data mining tools.
 
-</div>
+
 
 ### <span id="Thursday.2C_January_14" class="mw-headline">Thursday, January 14</span>
 
@@ -481,7 +481,7 @@ please add it below.
 
   
 
-<div class="floatright">
+
 
 <a
 href="http://www.bestwesterncalifornia.com/hotels/best-western-seven-seas/"
@@ -490,7 +490,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/240px-BestWestern7Seas.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/320px-BestWestern7Seas.jpg 2x"
 width="160" height="120" alt="Best Western Seven Seas" /></a>
 
-</div>
+
 
 ## <span id="Venue_and_Lodging" class="mw-headline">Venue and Lodging</span>
 
@@ -684,47 +684,46 @@ future?**
   Part of [GMOD Europe 2010](GMOD_Europe_2010 "GMOD Europe 2010"), in
   Cambridge UK.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting&oldid=24474>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -732,81 +731,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3AJanuary_2010_GMOD_Meeting" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -816,31 +811,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 19:17 on 4 September
   2013.</span>
@@ -862,4 +856,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,68 +1,68 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Category%3AJBrowse</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div lang="en" dir="ltr">
 
-<div id="mw-subcategories">
+
+
+
+
 
 ## Subcategories
 
 This category has only the following subcategory.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 ### T
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div id="mw-pages">
+
+
+
 
 ## Pages in category "JBrowse"
 
 The following 44 pages are in this category, out of 44 total.
 
-<div class="mw-content-ltr" lang="en" dir="ltr">
+
 
 <table style="width: 100%;">
 <colgroup>
@@ -220,338 +220,337 @@ title="Web-apollo-meeting-2011-3-21">Web-apollo-meeting-2011-3-21</a></li>
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div id="mw-category-media">
+
+
+
 
 ## Media in category "JBrowse"
 
 The following 12 files are in this category, out of 12 total.
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:54.5px auto;">
+  
 
   <a href="File:Basepair-options.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/120px-Basepair-options.png"
   width="120" height="41" alt="Basepair-options.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Basepair-options.png](File:Basepair-options.png "File:Basepair-options.png")  
   32 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:36.5px auto;">
+  
 
   <a href="File:Flatfile-options.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Flatfile-options.png/120px-Flatfile-options.png"
   width="120" height="77" alt="Flatfile-options.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Flatfile-options.png](File:Flatfile-options.png "File:Flatfile-options.png")  
   60 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:HelpDeskSept2010.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="HelpDeskSept2010.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [HelpDeskSept2010.pdf](File:HelpDeskSept2010.pdf "File:HelpDeskSept2010.pdf")  
   10.54 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Aug2009JBrowse.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Aug2009JBrowse.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Aug2009JBrowse.pdf](File:Aug2009JBrowse.pdf "File:Aug2009JBrowse.pdf")  
   823 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GBrowse3GMOD2008.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GBrowse3GMOD2008.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GBrowse3GMOD2008.pdf](File:GBrowse3GMOD2008.pdf "File:GBrowse3GMOD2008.pdf")  
   194 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:GMODCourse2010-JBrowseIntro.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="GMODCourse2010-JBrowseIntro.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [GMODCourse2010-JBrowse...](File:GMODCourse2010-JBrowseIntro.pdf "File:GMODCourse2010-JBrowseIntro.pdf")  
   507 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Jan2009JBrowse.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="Jan2009JBrowse.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Jan2009JBrowse.pdf](File:Jan2009JBrowse.pdf "File:Jan2009JBrowse.pdf")  
   354 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:Jbrowse_arch.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/93px-Jbrowse_arch.png"
   width="93" height="120" alt="Jbrowse arch.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Jbrowse arch.png](File:Jbrowse_arch.png "File:Jbrowse arch.png")  
   99 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:PAG2010JBrowse.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="PAG2010JBrowse.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [PAG2010JBrowse.pdf](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf")  
   270 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:15px auto;">
+  
 
   <a href="File:JBrowse_PAG_2017.pdf" class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120" alt="JBrowse PAG 2017.pdf" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [JBrowse PAG
   2017.pdf](File:JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
   2.4 MB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:55.5px auto;">
+  
 
   <a href="File:JBrowseUI.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a9/JBrowseUI.png/120px-JBrowseUI.png"
   width="120" height="39" alt="JBrowseUI.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [JBrowseUI.png](File:JBrowseUI.png "File:JBrowseUI.png")  
   41 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-- <div style="width: 155px">
+- 
 
-  <div class="thumb" style="width: 150px;">
+  
 
-  <div style="margin:57.5px auto;">
+  
 
   <a href="File:Wiggle-options.png" class="image"><img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/120px-Wiggle-options.png"
   width="120" height="35" alt="Wiggle-options.png" /></a>
 
-  </div>
+  
 
-  </div>
+  
 
-  <div class="gallerytext">
+  
 
   [Wiggle-options.png](File:Wiggle-options.png "File:Wiggle-options.png")  
   37 KB  
 
-  </div>
+  
 
-  </div>
+  
 
-</div>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Category%3AJBrowse&oldid=9206>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -562,81 +561,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -646,31 +641,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AJBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 05:26 on 30 August
   2009.</span>
@@ -692,4 +686,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

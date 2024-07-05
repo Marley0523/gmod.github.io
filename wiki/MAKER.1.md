@@ -1,75 +1,75 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">MAKER</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
   
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:MAKERLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
 width="400" height="136" alt="MAKER logo" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Mature release
 - Development: active
 - Support: active
 
-<div class="compBoxHdr">
+
 
 Licence
 
-</div>
+
 
   
 <a href="http://opensource.org/licenses/gpl-license"
@@ -78,11 +78,11 @@ class="external text" rel="nofollow">GNU GPL (for academics)</a>,
 class="external text" rel="nofollow">Artistic License 2.0 (for
 academics)</a>, custom license for commercial usage
 
-<div class="compBoxHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="http://www.yandell-lab.org/software/maker.html"
   class="external text" rel="nofollow">Home page</a>
@@ -105,15 +105,15 @@ Resources
 
   
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   MAKER</span>](#About_MAKER)
@@ -152,7 +152,7 @@ Resources
 - [<span class="tocnumber">9</span> <span class="toctext">More on
   MAKER</span>](#More_on_MAKER)
 
-</div>
+
 
 ## <span id="About_MAKER" class="mw-headline">About MAKER</span>
 
@@ -215,34 +215,34 @@ class="external text" rel="nofollow">MAKER website</a>.
 
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER_Apollo_view.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 View of **MAKER** annotations in the [Apollo](Apollo.1 "Apollo") genome
 annotation curation tool. Supporting evidence is shown in the upper dark
 panel. Gene annotations are shown in the blue panel.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -429,18 +429,18 @@ urls" is not in the list of possible values (website, download, source
 code, public server, demo server, wild URL, documentation, publication,
 social media, other) for this property.</span></span>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=MAKER&oldid=25258>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -453,13 +453,13 @@ Retrieved from
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - [MAKER](Category%3AMAKER "Category%3AMAKER")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER](Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -796,30 +796,29 @@ title="Special%3ASearchByProperty/Has-20subobject/MAKER-23http:-2F-2Fhymenoptera
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -829,81 +828,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -913,30 +908,29 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER" rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:53 on 2 February
   2014.</span>
@@ -958,4 +952,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

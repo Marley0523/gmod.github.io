@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn PAG tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
   
 
@@ -54,13 +54,13 @@ Europe course.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">VMware</span>](#VMware)
@@ -120,7 +120,7 @@ Europe course.
 - [<span class="tocnumber">7</span> <span class="toctext">Optional
   Advanced Section</span>](#Optional_Advanced_Section)
 
-</div>
+
 
   
 
@@ -157,7 +157,7 @@ machine.</strong></em></p></td>
 
 # <span id="Caveats" class="mw-headline">Caveats</span>
 
-<div class="emphasisbox">
+
 
 **Important Note**
 
@@ -168,15 +168,15 @@ over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
 
-</div>
+
 
 # <span id="The_Generic_Synteny_Browser" class="mw-headline">The Generic Synteny Browser</span>
 
-<div style="font-size: 120%">
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:402px;">
+
+
+
 
 <a href="File:GBrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
@@ -184,23 +184,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
 width="400" height="128" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_syn.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 GBrowse_syn, as implemented at WormBase
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"), or the Generic Synteny
 Browser, is a [GBrowse](GBrowse.1 "GBrowse")-based
@@ -218,7 +218,7 @@ class="external text" rel="nofollow">WormBase</a></span>, and
 <a href="http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/"
 class="external text" rel="nofollow">SGN</a>.
 
-</div>
+
 
 ## <span id="Gbrowse_syn_Introduction" class="mw-headline">Gbrowse_syn Introduction</span>
 
@@ -295,14 +295,14 @@ sativa*) and one of its wild relatives\*
 *\*Data courtesy of Bonnie Hurwitz; sequences and names have been
 obfuscated to protect unpublished data*
 
-<div class="emphasisbox" style="width:700px;margin-top:50px">
+
 
 The instructions for downloading these data to the Ubuntu virtual disk:
 
     $ tar xjvf gbrowse_syn_PAG.tar.bz2
     $ cd ~/data/gbrowse_syn
 
-</div>
+
 
 ## <span id="Create_a_MySQL_database" class="mw-headline">Create a MySQL database</span>
 
@@ -747,39 +747,38 @@ width="1280" height="800" alt="Ihopethisworks2.png" /></a>
 
 We will setup up a five-genome database if time permits.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_PAG_tutorial&oldid=21971>"
 
-</div>
 
-<div id="catlinks" class="catlinks catlinks-allhidden">
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -789,81 +788,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -873,31 +868,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:53 on 8 October
   2012.</span>
@@ -919,4 +913,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

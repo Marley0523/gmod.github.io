@@ -1,55 +1,55 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Chado Django HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 --<a
 href="http://gmod.org/mediawiki/index.php?title=User%3AVdejager&amp;action=edit&amp;redlink=1"
 class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
 11:07, 1 September 2008 (UTC)
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Chado access
   with Django HOWTO</span>](#Chado_access_with_Django_HOWTO)
@@ -116,7 +116,7 @@ class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
   - [<span class="tocnumber">1.11</span> <span class="toctext">Example
     website</span>](#Example_website)
 
-</div>
+
 
 # <span id="Chado_access_with_Django_HOWTO" class="mw-headline">Chado access with Django HOWTO</span>
 
@@ -391,9 +391,9 @@ The resulting files, `models.py` and `admin.py` should be copied to the
 \<app\> directory. Have a look at these files. A model in Django
 representing a database table looks like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
     class Feature(models.Model):
@@ -412,9 +412,9 @@ representing a database table looks like this:
         timelastmodified = models.DateTimeField()
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Creating_Model_Specific_Functions" class="mw-headline">Creating Model Specific Functions</span>
 
@@ -437,9 +437,9 @@ class="external text" rel="nofollow">package</a> in Python
 
 `modeldefs.py`:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
     #this file contains all the model methods we will attach to the specific models in the __init__.py file
@@ -459,17 +459,17 @@ class="external text" rel="nofollow">package</a> in Python
         return self.common_name
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Attaching_the_Model_Method_Definitions_to_Specific_Models" class="mw-headline">Attaching the Model Method Definitions to Specific Models</span>
 
 `__init__.py`:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
     # this file attaches defined methods to specific models
@@ -487,9 +487,9 @@ class="external text" rel="nofollow">package</a> in Python
     setattr(Featureloc, '__unicode__', location)
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Link_Everything_Together" class="mw-headline">Link Everything Together</span>
 
@@ -500,18 +500,18 @@ Go to your project directory to change the files below:
 The `INSTALLED_APPS` section should contain besides the standard
 settings.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
     'django.contrib.admin',
     '<project>.<app>.',
 ```
 
-</div>
 
-</div>
+
+
 
 *Note the comma at the last item. This is a Python requisite.*
 
@@ -604,18 +604,18 @@ recorded.
 
 ## <span id="Example_website" class="mw-headline">Example website</span>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Chado_Django_HOWTO&oldid=22187>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -627,30 +627,29 @@ Retrieved from
 - [MOD User
   Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -660,81 +659,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -744,31 +739,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Django_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:11 on 9 October
   2012.</span>
@@ -790,4 +784,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+
