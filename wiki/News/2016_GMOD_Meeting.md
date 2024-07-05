@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/260px-GMOD2016ColorsBigLetters_300px.png"
-srcset="../../mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x, ../../mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/260px-GMOD2016ColorsBigLetters_300px.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x"
 width="260" height="218" alt="GMOD2016ColorsBigLetters 300px.png" />](../Jun_2016_GMOD_Meeting "Jun 2016 GMOD Meeting")
 
 </div>

@@ -59,7 +59,7 @@ to offer two schools, one on each side of the Atlantic:
 <tr class="odd">
 <td style="text-align: center;"><a
 href="../2009_GMOD_Summer_School_-_Americas" title="Americas"><img
-src="../../mediawiki/images/2/2d/2009SummerSchoolAmericas170.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/2009SummerSchoolAmericas170.png"
 width="170" height="137" alt="Americas" /></a></td>
 <td><span style="font-size: 160%; line-height: 120%"><strong><a
 href="../2009_GMOD_Summer_School_-_Americas"
@@ -99,7 +99,7 @@ title="2009 GMOD Summer School - Americas">Americas</a> only)</li>
 <tr class="even">
 <td style="text-align: center;"><a
 href="../2009_GMOD_Summer_School_-_Europe" title="Europe"><img
-src="../../mediawiki/images/b/b5/GMOD2009Europe170.png" width="170"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png" width="170"
 height="145" alt="Europe" /></a></td>
 <td><span style="font-size: 160%; line-height: 120%"><strong><a
 href="../2009_GMOD_Summer_School_-_Europe"

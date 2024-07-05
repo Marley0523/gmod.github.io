@@ -103,8 +103,8 @@ We also have several other improvements including the ability to get
 intron and upstream/downstream sequence in the feature details
 
 <a href="../File:Upstream_downstream.png" class="image"><img
-src="../../mediawiki/images/thumb/7/76/Upstream_downstream.png/700px-Upstream_downstream.png"
-srcset="../../mediawiki/images/thumb/7/76/Upstream_downstream.png/1050px-Upstream_downstream.png 1.5x, ../../mediawiki/images/thumb/7/76/Upstream_downstream.png/1400px-Upstream_downstream.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/700px-Upstream_downstream.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/1050px-Upstream_downstream.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/1400px-Upstream_downstream.png 2x"
 width="700" height="248" alt="Upstream downstream.png" /></a>
 
 ### <span id="Interactive_documentation_using_Storybook" class="mw-headline">Interactive documentation using Storybook</span>
@@ -125,7 +125,7 @@ full screen JBrowse web.
 See below for demos of the new navigation UI.
 
 <a href="../File:Minimize_button_demo.gif" class="image"><img
-src="../../mediawiki/images/0/0f/Minimize_button_demo.gif" width="480"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Minimize_button_demo.gif" width="480"
 height="414" alt="Minimize button demo.gif" /></a>
 
 Demo of using the minimize button in the drawer

@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.recruitingsite.com/csbsites/oicr/careers.asp"
 rel="nofollow" title="4 openings at OICR"><img
-src="../../mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
 alt="4 openings at OICR" /></a>
 
 </div>
@@ -54,8 +54,8 @@ alt="4 openings at OICR" /></a>
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/a/a4/Biomart250.png/130px-Biomart250.png"
-srcset="../../mediawiki/images/thumb/a/a4/Biomart250.png/195px-Biomart250.png 1.5x, ../../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/130px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/195px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="130" height="51" alt="BioMart" />](../BioMart "BioMart")
 
 </div>

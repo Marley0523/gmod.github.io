@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btq167v1"
 rel="nofollow" title="Ergatis Paper in Bioinformatics"><img
-src="../../mediawiki/images/1/12/BionformaticsCover.gif" width="134"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/BionformaticsCover.gif" width="134"
 height="175" alt="Ergatis Paper in Bioinformatics" /></a>
 
 </div>

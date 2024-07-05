@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:2013-summer-school.png" class="image"
 title="2013 GMOD Summer School"><img
-src="../../mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
-srcset="../../mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png 1.5x, ../../mediawiki/images/thumb/f/fc/2013-summer-school.png/400px-2013-summer-school.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/400px-2013-summer-school.png 2x"
 width="200" height="124" alt="2013 GMOD Summer School" /></a>
 
 </div>

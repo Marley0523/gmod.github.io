@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/c/c1/AGSBug170.png/80px-AGSBug170.png"
-srcset="../../mediawiki/images/thumb/c/c1/AGSBug170.png/120px-AGSBug170.png 1.5x, ../../mediawiki/images/thumb/c/c1/AGSBug170.png/160px-AGSBug170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/80px-AGSBug170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/120px-AGSBug170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/160px-AGSBug170.png 2x"
 width="80" height="86" alt="Arthropod Genomics 2011" />](../Arthropod_Genomics_2011 "Arthropod Genomics 2011")
 
 </div>

@@ -50,7 +50,7 @@ model organism database for yeast.
 
 <a href="http://yeastgenome.org" rel="nofollow"
 title="Bioinformatics Analyst at SGD"><img
-src="../../mediawiki/images/8/8f/SGD-t.gif" width="91" height="60"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/SGD-t.gif" width="91" height="60"
 alt="Bioinformatics Analyst at SGD" /></a>
 
 </div>

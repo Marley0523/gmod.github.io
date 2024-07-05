@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://xenbase.org" rel="nofollow" title="Xenbase"><img
-src="../../mediawiki/images/8/88/XenbaseLogo.png" width="256"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/XenbaseLogo.png" width="256"
 height="48" alt="Xenbase" /></a>
 
 </div>

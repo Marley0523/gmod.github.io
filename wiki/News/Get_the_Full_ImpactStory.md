@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://impactstory.org" rel="nofollow"><img
-src="../../mediawiki/images/thumb/7/7a/ImpactstoryLogo.png/250px-ImpactstoryLogo.png"
-srcset="../../mediawiki/images/thumb/7/7a/ImpactstoryLogo.png/375px-ImpactstoryLogo.png 1.5x, ../../mediawiki/images/7/7a/ImpactstoryLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7a/ImpactstoryLogo.png/250px-ImpactstoryLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7a/ImpactstoryLogo.png/375px-ImpactstoryLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/ImpactstoryLogo.png 2x"
 width="250" height="46" alt="ImpactstoryLogo.png" /></a>
 
 </div>

@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://www.biomed.cam.ac.uk/gradschool/skills/intermine-developers.html"
 rel="nofollow" title="InterMine Workshop"><img
-src="../../mediawiki/images/thumb/1/13/InterMineLogo.png/170px-InterMineLogo.png"
-srcset="../../mediawiki/images/thumb/1/13/InterMineLogo.png/255px-InterMineLogo.png 1.5x, ../../mediawiki/images/thumb/1/13/InterMineLogo.png/340px-InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/170px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/255px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/340px-InterMineLogo.png 2x"
 width="170" height="21" alt="InterMine Workshop" /></a>
 
 </div>

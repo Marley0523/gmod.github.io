@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://database.oxfordjournals.org/cgi/content/abstract/baq007"
 rel="nofollow" title="Database Paper"><img
-src="../../mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
 alt="Database Paper" /></a>
 
 </div>
@@ -70,8 +70,8 @@ considering which genome browser to use.
 
 <a href="http://database.oxfordjournals.org/" rel="nofollow"
 title="Database Journal"><img
-src="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/265px-DatabaseJournal.jpg.png"
-srcset="../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/398px-DatabaseJournal.jpg.png 1.5x, ../../mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/530px-DatabaseJournal.jpg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/265px-DatabaseJournal.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/398px-DatabaseJournal.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/530px-DatabaseJournal.jpg.png 2x"
 width="265" height="32" alt="Database Journal" /></a>
 
 </div>

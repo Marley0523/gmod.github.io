@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/150px-GMODAmericas2011Logo.jpg.png"
-srcset="../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/225px-GMODAmericas2011Logo.jpg.png 1.5x, ../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/300px-GMODAmericas2011Logo.jpg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/150px-GMODAmericas2011Logo.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/225px-GMODAmericas2011Logo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/300px-GMODAmericas2011Logo.jpg.png 2x"
 width="150" height="150" alt="March 2011 GMOD Meeting" />](../March_2011_GMOD_Meeting "March 2011 GMOD Meeting")
 
 </div>

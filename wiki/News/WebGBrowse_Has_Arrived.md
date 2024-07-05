@@ -52,7 +52,7 @@ rel="nofollow">WebGBrowse</a> - A Web Server for
 
 <a href="http://webgbrowse.cgb.indiana.edu/" rel="nofollow"
 title="WebGBrowse at the Center for Genomics and Bioinformatics"><img
-src="../../mediawiki/images/4/41/Cgb_logo.png" width="164" height="83"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/41/Cgb_logo.png" width="164" height="83"
 alt="WebGBrowse at the Center for Genomics and Bioinformatics" /></a>
 
 </div>

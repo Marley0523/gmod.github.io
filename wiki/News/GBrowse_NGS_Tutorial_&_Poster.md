@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/a/a1/BA2009Logo.png/100px-BA2009Logo.png"
-srcset="../../mediawiki/images/a/a1/BA2009Logo.png 1.5x, ../../mediawiki/images/a/a1/BA2009Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/BA2009Logo.png/100px-BA2009Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/BA2009Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/BA2009Logo.png 2x"
 width="100" height="95" alt="GBrowse NGS Tutorial" />](../GBrowse_NGS_Tutorial "GBrowse NGS Tutorial")
 
 </div>

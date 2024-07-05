@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/220px-CMap3DScreenshot.png"
-srcset="../../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/330px-CMap3DScreenshot.png 1.5x, ../../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/440px-CMap3DScreenshot.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/220px-CMap3DScreenshot.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/330px-CMap3DScreenshot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/440px-CMap3DScreenshot.png 2x"
 width="220" height="137" alt="CMap3D" />](../CMap3D "CMap3D")
 
 </div>

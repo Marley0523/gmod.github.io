@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://evomics.org/workshops/advanced-topics/gmod/"
 rel="nofollow" title="GMOD Workshop"><img
-src="../../mediawiki/images/f/f5/CeskyKrumlov.jpg" width="170"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/CeskyKrumlov.jpg" width="170"
 height="133" alt="GMOD Workshop" /></a>
 
 </div>

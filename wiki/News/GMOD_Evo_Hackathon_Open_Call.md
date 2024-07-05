@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/150px-EvoHackathonLogo.png"
-srcset="../../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/225px-EvoHackathonLogo.png 1.5x, ../../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/150px-EvoHackathonLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/225px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 2x"
 width="150" height="150"
 alt="GMOD Evo Hackathon Open Call for Participation" />](../GMOD_Evo_Hackathon_Open_Call "GMOD Evo Hackathon Open Call for Participation")
 

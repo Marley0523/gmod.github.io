@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://www2.recruitingcenter.net/clients/CalTech/publicjobs/controller.cfm?jbaction=JobProfile&amp;Job_Id=15519&amp;esid=az"
 rel="nofollow" title="Position at SpBase"><img
-src="../../mediawiki/images/4/4c/SpBaseLogo.png" width="185"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/SpBaseLogo.png" width="185"
 height="104" alt="Position at SpBase" /></a>
 
 </div>

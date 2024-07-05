@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 |----|
 | <a href="http://www.gbrowse.org/" rel="nofollow"
 title="GBrowse.org"><img
-src="../../mediawiki/images/thumb/e/e4/GBrowseOrgOrig.png/80px-GBrowseOrgOrig.png"
-srcset="../../mediawiki/images/e/e4/GBrowseOrgOrig.png 1.5x, ../../mediawiki/images/e/e4/GBrowseOrgOrig.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e4/GBrowseOrgOrig.png/80px-GBrowseOrgOrig.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/GBrowseOrgOrig.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/GBrowseOrgOrig.png 2x"
 width="80" height="80" alt="GBrowse.org" /></a> |
 | <span class="plainlinks"><a href="http://www.gbrowse.org" class="external text"
 rel="nofollow">GBrowse.org</a></span> |

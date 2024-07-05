@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/170px-GMODHelpDeskLogo.jpg"
-srcset="../../mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/255px-GMODHelpDeskLogo.jpg 1.5x, ../../mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/340px-GMODHelpDeskLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/170px-GMODHelpDeskLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/255px-GMODHelpDeskLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/340px-GMODHelpDeskLogo.jpg 2x"
 width="170" height="83" alt="Help Desk Transition" />](../GMOD_Help_Desk#Transition "Help Desk Transition")
 
 </div>

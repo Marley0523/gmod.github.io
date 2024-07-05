@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.open-bio.org/wiki/BOSC_2011" rel="nofollow"
 title="GMOD @ BOSC 2011"><img
-src="../../mediawiki/images/thumb/a/ad/BoscPear.png/100px-BoscPear.png"
-srcset="../../mediawiki/images/thumb/a/ad/BoscPear.png/150px-BoscPear.png 1.5x, ../../mediawiki/images/a/ad/BoscPear.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/BoscPear.png/100px-BoscPear.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/BoscPear.png/150px-BoscPear.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/BoscPear.png 2x"
 width="100" height="71" alt="GMOD @ BOSC 2011" /></a>
 
 </div>

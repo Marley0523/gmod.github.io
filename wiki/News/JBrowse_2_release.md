@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="https://jbrowse.org/jb2/" rel="nofollow" title="JBrowse"><img
-src="../../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/200px-Jbrowse2_logo.png"
-srcset="../../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/300px-Jbrowse2_logo.png 1.5x, ../../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/200px-Jbrowse2_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/300px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png 2x"
 width="200" height="67" alt="JBrowse" /></a>
 
 </div>

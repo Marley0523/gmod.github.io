@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../August_2009_GMOD_Meeting#Linked_Data_for_GMOD_Databases"
 rel="nofollow" title="RDF"><img
-src="../../mediawiki/images/1/1f/RDF_icon_96.gif" width="88" height="96"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/RDF_icon_96.gif" width="88" height="96"
 alt="RDF" /></a>
 
 </div>

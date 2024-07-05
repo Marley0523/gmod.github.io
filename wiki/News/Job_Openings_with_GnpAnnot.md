@@ -58,7 +58,7 @@ databases.
 
 <a href="http://www.irisa.fr/home_html-en?set_language=en"
 rel="nofollow" title="IRISA"><img
-src="../../mediawiki/images/2/29/IRISALogo.jpg" width="143" height="25"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/29/IRISALogo.jpg" width="143" height="25"
 alt="IRISA" /></a>
 
 </div>
@@ -104,8 +104,8 @@ rel="nofollow">fabrice.legeai@rennes.inra.fr</a>
 
 <a href="http://urgi.versailles.inra.fr/" rel="nofollow"
 title="URGI"><img
-src="../../mediawiki/images/thumb/2/23/Urgi.png/170px-Urgi.png"
-srcset="../../mediawiki/images/thumb/2/23/Urgi.png/255px-Urgi.png 1.5x, ../../mediawiki/images/2/23/Urgi.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/170px-Urgi.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/255px-Urgi.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/Urgi.png 2x"
 width="170" height="116" alt="URGI" /></a>
 
 </div>

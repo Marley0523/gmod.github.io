@@ -68,7 +68,7 @@ rel="nofollow">forum site</a>.
 
 <a href="http://www.arabidopsis.org/doc/about/tair_funding/410"
 rel="nofollow" title="TAIR Funding Update and Discussion Forum"><img
-src="../../mediawiki/images/7/7c/TAIR_logo.gif" width="100" height="35"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/TAIR_logo.gif" width="100" height="35"
 alt="TAIR Funding Update and Discussion Forum" /></a>
 
 </div>

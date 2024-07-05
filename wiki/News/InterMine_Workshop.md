@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://www.biomed.cam.ac.uk/gradschool/current/courses/intermine.html"
 rel="nofollow" title="InterMine"><img
-src="../../mediawiki/images/0/00/InterMine.png" width="262" height="72"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/InterMine.png" width="262" height="72"
 alt="InterMine" /></a>
 
 </div>

@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://twit.tv/floss96" rel="nofollow"
 title="BioPerl Podcast"><img
-src="../../mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/70px-BioPerl_logo.jpg"
-srcset="../../mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/105px-BioPerl_logo.jpg 1.5x, ../../mediawiki/images/5/5d/BioPerl_logo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/70px-BioPerl_logo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/105px-BioPerl_logo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/BioPerl_logo.jpg 2x"
 width="70" height="94" alt="BioPerl Podcast" /></a>
 
 </div>

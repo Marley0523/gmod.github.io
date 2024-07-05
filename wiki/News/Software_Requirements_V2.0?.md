@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../GMOD_Membership#Software" rel="nofollow"
 title="Software Requirements, Ver 2 Proposal"><img
-src="../../mediawiki/images/4/48/Gmod-gears.png" width="140"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gmod-gears.png" width="140"
 height="100" alt="Software Requirements, Ver 2 Proposal" /></a>
 
 </div>

@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/9/9d/Gmod_cog170.png" width="170"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Gmod_cog170.png" width="170"
 height="125" alt="The GMOD Logo" />](../GMOD_Logo_Program "The GMOD Logo")
 
 </div>
@@ -49,7 +49,7 @@ height="125" alt="The GMOD Logo" />](../GMOD_Logo_Program "The GMOD Logo")
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/f/fe/Lbcclogo.jpg" width="180"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Lbcclogo.jpg" width="180"
 height="75" alt="GMOD Logo Program" />](../GMOD_Logo_Program "GMOD Logo Program")
 
 </div>

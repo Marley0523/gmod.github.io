@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://genomearchitect.org/webapollo/releases"
 rel="nofollow"><img
-src="../../mediawiki/images/thumb/4/4a/WebApolloLogo.png/200px-WebApolloLogo.png"
-srcset="../../mediawiki/images/thumb/4/4a/WebApolloLogo.png/300px-WebApolloLogo.png 1.5x, ../../mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/200px-WebApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/300px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png 2x"
 width="200" height="55" alt="Download the new WebApollo release!" /></a>
 
 </div>

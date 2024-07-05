@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="../File:Fly_logo.png" class="image" title="FlyBase"><img
-src="../../mediawiki/images/thumb/e/e0/Fly_logo.png/170px-Fly_logo.png"
-srcset="../../mediawiki/images/thumb/e/e0/Fly_logo.png/255px-Fly_logo.png 1.5x, ../../mediawiki/images/e/e0/Fly_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/170px-Fly_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/255px-Fly_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png 2x"
 width="170" height="42" alt="FlyBase" /></a>
 
 </div>

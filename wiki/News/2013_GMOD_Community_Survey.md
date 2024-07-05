@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://23andme.com" rel="nofollow" title="23andMe"><img
-src="../../mediawiki/images/f/f5/23andme-logo.jpg" width="287"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/23andme-logo.jpg" width="287"
 height="162" alt="23andMe" /></a>
 
 </div>

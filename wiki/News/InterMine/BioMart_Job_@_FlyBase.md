@@ -42,15 +42,15 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.bioinformatics.org/forums/forum.php?forum_id=8313"
 rel="nofollow" title="Open position at FlyBase"><img
-src="../../../mediawiki/images/thumb/e/e0/Fly_logo.png/220px-Fly_logo.png"
-srcset="../../../mediawiki/images/e/e0/Fly_logo.png 1.5x, ../../../mediawiki/images/e/e0/Fly_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/220px-Fly_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png 2x"
 width="220" height="54" alt="Open position at FlyBase" /></a> [<img
-src="../../../mediawiki/images/thumb/1/13/InterMineLogo.png/100px-InterMineLogo.png"
-srcset="../../../mediawiki/images/thumb/1/13/InterMineLogo.png/150px-InterMineLogo.png 1.5x, ../../../mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/100px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/150px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png 2x"
 width="100" height="13" alt="InterMine" />](../../InterMine "InterMine")
 [<img
-src="../../../mediawiki/images/thumb/a/a4/Biomart250.png/100px-Biomart250.png"
-srcset="../../../mediawiki/images/thumb/a/a4/Biomart250.png/150px-Biomart250.png 1.5x, ../../../mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/100px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/150px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png 2x"
 width="100" height="40" alt="BioMart" />](../../BioMart "BioMart")
 
 </div>

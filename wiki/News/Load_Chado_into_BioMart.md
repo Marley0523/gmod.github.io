@@ -42,13 +42,13 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../BioMart#How_to_Load_a_Chado_Database_into_BioMart"
 rel="nofollow" title="Load Chado into BioMart"><img
-src="../../mediawiki/images/thumb/a/a4/Biomart250.png/125px-Biomart250.png"
-srcset="../../mediawiki/images/thumb/a/a4/Biomart250.png/188px-Biomart250.png 1.5x, ../../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/125px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/188px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="125" height="50" alt="Load Chado into BioMart" /></a>
 <a href="http://urgi.versailles.inra.fr/" rel="nofollow"
 title="INRA URG"><img
-src="../../mediawiki/images/thumb/2/23/Urgi.png/105px-Urgi.png"
-srcset="../../mediawiki/images/thumb/2/23/Urgi.png/158px-Urgi.png 1.5x, ../../mediawiki/images/thumb/2/23/Urgi.png/210px-Urgi.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/105px-Urgi.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/158px-Urgi.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Urgi.png/210px-Urgi.png 2x"
 width="105" height="71" alt="INRA URG" /></a>
 
 </div>

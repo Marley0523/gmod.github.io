@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/a/a1/BA2009Logo.png" width="126"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/BA2009Logo.png" width="126"
 height="120" alt="GMOD workshop at Bioinformatics Australia" />](../BA2009 "GMOD workshop at Bioinformatics Australia")
 
 </div>

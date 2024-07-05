@@ -45,7 +45,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="https://jobs.caltech.edu/applicants/Central?delegateParameter=applicantPostingSearchDelegate&amp;actionParameter=getJobDetail&amp;rowId=154643&amp;functionalityTableName=8192"
 rel="nofollow" title="Textpresso is hiring"><img
-src="../../mediawiki/images/c/c4/TextpressoLogo.jpg" width="197"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/TextpressoLogo.jpg" width="197"
 height="62" alt="Textpresso is hiring" /></a>
 
 </div>

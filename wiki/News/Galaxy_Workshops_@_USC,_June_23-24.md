@@ -42,15 +42,15 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:USC_logo.png" class="image"
 title="Galaxy Workshops at University of Southern California"><img
-src="../../mediawiki/images/thumb/1/13/USC_logo.png/100px-USC_logo.png"
-srcset="../../mediawiki/images/thumb/1/13/USC_logo.png/150px-USC_logo.png 1.5x, ../../mediawiki/images/thumb/1/13/USC_logo.png/200px-USC_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/USC_logo.png/100px-USC_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/USC_logo.png/150px-USC_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/USC_logo.png/200px-USC_logo.png 2x"
 width="100" height="125"
 alt="Galaxy Workshops at University of Southern California" /></a>  
   
 <a href="../File:GalaxyLogoBigger.png" class="image"
 title="Galaxy Workshops at University of Southern California"><img
-src="../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/100px-GalaxyLogoBigger.png"
-srcset="../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/150px-GalaxyLogoBigger.png 1.5x, ../../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/200px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/100px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/150px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/200px-GalaxyLogoBigger.png 2x"
 width="100" height="35"
 alt="Galaxy Workshops at University of Southern California" /></a>
 

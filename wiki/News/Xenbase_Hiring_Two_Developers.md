@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 ### <span id="These_positions_have_now_been_filled" class="mw-headline">These positions have now been filled</span>
 
 <a href="http://xenbase.org" rel="nofollow" title="Xenbase"><img
-src="../../mediawiki/images/8/88/XenbaseLogo.png" width="256"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/XenbaseLogo.png" width="256"
 height="48" alt="Xenbase" /></a>
 
 *Best skiing in the world at your doorstep (and great science too!)*

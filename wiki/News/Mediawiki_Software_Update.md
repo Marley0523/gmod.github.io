@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../File:320px-OpenID_logo.svg.png" class="image"
 title="OpenID"><img
-src="../../mediawiki/images/thumb/9/96/320px-OpenID_logo.svg.png/200px-320px-OpenID_logo.svg.png"
-srcset="../../mediawiki/images/thumb/9/96/320px-OpenID_logo.svg.png/300px-320px-OpenID_logo.svg.png 1.5x, ../../mediawiki/images/9/96/320px-OpenID_logo.svg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/320px-OpenID_logo.svg.png/200px-320px-OpenID_logo.svg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/320px-OpenID_logo.svg.png/300px-320px-OpenID_logo.svg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/96/320px-OpenID_logo.svg.png 2x"
 width="200" height="75" alt="OpenID" /></a>
 
 </div>

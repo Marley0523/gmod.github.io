@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/Events/GAW2014" rel="nofollow"
 title="1st Galaxy Australasia Workshop 2014 (GAW 2014)"><img
-src="../../mediawiki/images/thumb/1/16/GAW2014Logo.png/200px-GAW2014Logo.png"
-srcset="../../mediawiki/images/thumb/1/16/GAW2014Logo.png/300px-GAW2014Logo.png 1.5x, ../../mediawiki/images/thumb/1/16/GAW2014Logo.png/400px-GAW2014Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/200px-GAW2014Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/300px-GAW2014Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/400px-GAW2014Logo.png 2x"
 width="200" height="96"
 alt="1st Galaxy Australasia Workshop 2014 (GAW 2014)" /></a>
 

@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://jbrowse.org/?p=56" rel="nofollow"
 title="JBrowse 1.1 Released"><img
-src="../../mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/200px-JBrowse-announce-screenshot.png"
-srcset="../../mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/300px-JBrowse-announce-screenshot.png 1.5x, ../../mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/400px-JBrowse-announce-screenshot.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/200px-JBrowse-announce-screenshot.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/300px-JBrowse-announce-screenshot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/JBrowse-announce-screenshot.png/400px-JBrowse-announce-screenshot.png 2x"
 width="200" height="134" alt="JBrowse 1.1 Released" /></a>
 
 </div>

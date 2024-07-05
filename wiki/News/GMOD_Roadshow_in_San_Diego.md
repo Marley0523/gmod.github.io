@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="../PAG_2011#Roadshow" rel="nofollow"
 title="GMOD San Diego Roadshow"><img
-src="../../mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
 height="121" alt="GMOD San Diego Roadshow" /></a>
 
 </div>

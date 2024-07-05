@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://bio.demokritos.gr/leps/leps.htm" rel="nofollow"
 title="International Workshop on Molecular Biology and Genetics of Lepidoptera"><img
-src="../../mediawiki/images/5/55/Butterfly1.jpg" width="120"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Butterfly1.jpg" width="120"
 height="103"
 alt="International Workshop on Molecular Biology and Genetics of Lepidoptera" /></a>
 

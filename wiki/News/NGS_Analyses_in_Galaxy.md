@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://main.g2.bx.psu.edu/u/aun1/p/ngs-analysis-service"
 rel="nofollow" title="NGS Analyses in Galaxy"><img
-src="../../mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
 height="25" alt="NGS Analyses in Galaxy" /></a>
 
 </div>

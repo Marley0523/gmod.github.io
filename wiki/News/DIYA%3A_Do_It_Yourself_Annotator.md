@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/5/57/DIYALogo.png/100px-DIYALogo.png"
-srcset="../../mediawiki/images/thumb/5/57/DIYALogo.png/150px-DIYALogo.png 1.5x, ../../mediawiki/images/thumb/5/57/DIYALogo.png/200px-DIYALogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/57/DIYALogo.png/100px-DIYALogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/57/DIYALogo.png/150px-DIYALogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/57/DIYALogo.png/200px-DIYALogo.png 2x"
 width="100" height="100" alt="DIYA" />](../DIYA "DIYA")
 
 </div>

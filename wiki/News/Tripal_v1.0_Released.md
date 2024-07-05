@@ -45,8 +45,8 @@ class="external text" rel="nofollow">Tripal mailing list</a>:
 <div class="floatright">
 
 <a href="http://tripal.info" rel="nofollow" title="Tripal website"><img
-src="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg"
-srcset="../../mediawiki/images/5/5c/TripalLogo.jpg 1.5x, ../../mediawiki/images/5/5c/TripalLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/TripalLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/TripalLogo.jpg 2x"
 width="300" height="90" alt="Tripal website" /></a>
 
 </div>

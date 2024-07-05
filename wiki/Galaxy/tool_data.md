@@ -71,8 +71,8 @@ to meet particular needs.
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2014" rel="nofollow"
 title="2014 Galaxy Community Conference"><img
-src="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/250px-GCC2014Logo.png"
-srcset="../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png 1.5x, ../../mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/250px-GCC2014Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/375px-GCC2014Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/500px-GCC2014Logo.png 2x"
 width="250" height="105" alt="2014 Galaxy Community Conference" /></a>
 
 </div>
@@ -104,9 +104,9 @@ includes links to slides and videos for all accepted talks.
 <div class="thumbinner" style="width:302px;">
 
 <a href="../File:Galaxy_screenshot-1.png" class="image"><img
-src="../../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, ../../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
 width="300" height="205" /></a>
 
 <div class="thumbcaption">
@@ -133,9 +133,9 @@ Galaxy 'Upload file' tool
 <div class="thumbinner" style="width:302px;">
 
 <a href="../File:Galaxy_screenshot-2.png" class="image"><img
-src="../../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, ../../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
 width="300" height="187" /></a>
 
 <div class="thumbcaption">
@@ -162,9 +162,9 @@ Galaxy 'Table Browser' tool
 <div class="thumbinner" style="width:302px;">
 
 <a href="../File:Galaxy_screenshot-3.png" class="image"><img
-src="../../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
 class="thumbimage"
-srcset="../../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, ../../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
 width="300" height="226" /></a>
 
 <div class="thumbcaption">

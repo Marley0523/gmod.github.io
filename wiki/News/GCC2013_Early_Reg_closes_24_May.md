@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2013" rel="nofollow"
 title="2013 Galaxy Community Conference"><img
-src="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/200px-GCC2013Logo.png"
-srcset="../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/300px-GCC2013Logo.png 1.5x, ../../mediawiki/images/thumb/c/c3/GCC2013Logo.png/400px-GCC2013Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/200px-GCC2013Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/300px-GCC2013Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/400px-GCC2013Logo.png 2x"
 width="200" height="133" alt="2013 Galaxy Community Conference" /></a>
 
 </div>

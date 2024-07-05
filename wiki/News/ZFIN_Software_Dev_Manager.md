@@ -45,7 +45,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="https://wiki.zfin.org/display/jobs/2012/02/27/Software+Development+Manager+position+-+ZFIN%2C+University+of+Oregon"
 rel="nofollow" title="ZFIN is hiring"><img
-src="../../mediawiki/images/2/24/ZFINLogo.png" width="115" height="146"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/ZFINLogo.png" width="115" height="146"
 alt="ZFIN is hiring" /></a>
 
 </div>

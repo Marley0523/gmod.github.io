@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://usegalaxy.org/community" rel="nofollow"
 title="Galaxy Community Tool Sharing"><img
-src="../../mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="26"
 height="25" alt="Galaxy Community Tool Sharing" /></a>
 
 </div>

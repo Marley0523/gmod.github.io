@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/280px-WebGBrowseLogo.png"
-srcset="../../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/420px-WebGBrowseLogo.png 1.5x, ../../mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/560px-WebGBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/280px-WebGBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/420px-WebGBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/560px-WebGBrowseLogo.png 2x"
 width="280" height="55" alt="WebGBrowse now a part of GMOD" />](../WebGBrowse.1 "WebGBrowse now a part of GMOD")
 
 </div>

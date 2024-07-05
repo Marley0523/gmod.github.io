@@ -48,8 +48,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <tr class="odd">
 <td><div class="floatright">
 <a href="../MAKER.1" title="MAKER 2.0 Released"><img
-src="../../mediawiki/images/thumb/3/37/MAKERLogo.png/170px-MAKERLogo.png"
-srcset="../../mediawiki/images/thumb/3/37/MAKERLogo.png/255px-MAKERLogo.png 1.5x, ../../mediawiki/images/thumb/3/37/MAKERLogo.png/340px-MAKERLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/170px-MAKERLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/255px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/340px-MAKERLogo.png 2x"
 width="170" height="58" alt="MAKER 2.0 Released" /></a>
 </div>
 <br />
@@ -59,8 +59,8 @@ width="170" height="58" alt="MAKER 2.0 Released" /></a>
 <td><div class="floatright">
 <a href="http://www.k-state.edu/agc/symp2010/seminar.html"
 rel="nofollow" title="Arthropod Genomics Symposium"><img
-src="../../mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
-srcset="../../mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, ../../mediawiki/images/c/c1/AGSBug170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/AGSBug170.png 2x"
 width="100" height="108" alt="Arthropod Genomics Symposium" /></a>
 </div></td>
 </tr>

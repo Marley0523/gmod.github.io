@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/c/cb/SynBrowse_logoNoText.png"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/SynBrowse_logoNoText.png"
 width="200" height="43" alt="SynBrowse" />](../SynBrowse "SynBrowse")
 
 </div>

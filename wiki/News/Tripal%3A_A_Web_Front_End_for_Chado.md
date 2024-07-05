@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
-srcset="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, ../../mediawiki/images/5/5c/TripalLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/200px-TripalLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/TripalLogo.jpg 2x"
 width="200" height="60" alt="Tripal" />](../Tripal.1 "Tripal")
 
 </div>
@@ -67,7 +67,7 @@ the box.
 Tripal can be downloaded from the GMOD
 <a href="../SVN" class="mw-redirect" title="SVN">SVN</a> repository.
 Tripal (already!) has an extensive
-<a href="../../mediawiki/images/0/00/TripalUsersGuideJune2009.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/TripalUsersGuideJune2009.pdf"
 class="internal" title="TripalUsersGuideJune2009.pdf">User's Guide</a>
 and a <a href="../Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">tutorial</a> to help users install, configure

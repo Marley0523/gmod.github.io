@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://bioinformatics.ai.sri.com/ptools10/teleconferencing.html"
 rel="nofollow" title="Attend the Pathway Tools Workshop Remotely"><img
-src="../../mediawiki/images/thumb/f/fd/PathwayToolsGraph.png/180px-PathwayToolsGraph.png"
-srcset="../../mediawiki/images/f/fd/PathwayToolsGraph.png 1.5x, ../../mediawiki/images/f/fd/PathwayToolsGraph.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fd/PathwayToolsGraph.png/180px-PathwayToolsGraph.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/PathwayToolsGraph.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/PathwayToolsGraph.png 2x"
 width="180" height="114"
 alt="Attend the Pathway Tools Workshop Remotely" /></a>
 

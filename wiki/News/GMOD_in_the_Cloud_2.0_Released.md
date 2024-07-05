@@ -43,8 +43,8 @@ from Scott Cain:
 <div class="floatright">
 
 <a href="../File:GitcLogo.png" class="image"><img
-src="../../mediawiki/images/thumb/6/69/GitcLogo.png/200px-GitcLogo.png"
-srcset="../../mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 1.5x, ../../mediawiki/images/thumb/6/69/GitcLogo.png/400px-GitcLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/200px-GitcLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/400px-GitcLogo.png 2x"
 width="200" height="114" alt="GitcLogo.png" /></a>
 
 </div>

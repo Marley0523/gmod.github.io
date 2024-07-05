@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
 height="95" alt="Help spread the word about GMOD" />](../GMOD_Promotion "Help spread the word about GMOD")
 
 </div>

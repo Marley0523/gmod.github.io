@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="../File:JBrowseLogo.png" class="image"><img
-src="../../mediawiki/images/thumb/a/ac/JBrowseLogo.png/400px-JBrowseLogo.png"
-srcset="../../mediawiki/images/thumb/a/ac/JBrowseLogo.png/600px-JBrowseLogo.png 1.5x, ../../mediawiki/images/a/ac/JBrowseLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/400px-JBrowseLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/600px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/JBrowseLogo.png 2x"
 width="400" height="88" alt="JBrowse logo" /></a>
 
 </div>
@@ -75,8 +75,8 @@ Licence
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
 </div>
@@ -197,8 +197,8 @@ rel="nofollow">JBrowse website</a>.
 <div class="floatnone">
 
 <a href="../File:JBrowse_alignment_and_coverage.png" class="image"><img
-src="../../mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
-srcset="../../mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, ../../mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage.png" /></a>
 
 </div>
@@ -351,7 +351,7 @@ Tutorial</a>
 part of the JBrowse documentation
 
 <a
-href="../../mediawiki/images/4/44/Exploring_structural_variation_in_the_tomato_clade_using_JBrowse.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/Exploring_structural_variation_in_the_tomato_clade_using_JBrowse.pdf"
 class="internal"
 title="Exploring structural variation in the tomato clade using JBrowse.pdf">Exploration
 of structural variation in the tomato clade using JBrowse</a>  
@@ -362,20 +362,20 @@ rel="nofollow">150+ tomato genome resequencing project</a> using JBrowse
 ### <span id="Presentations" class="mw-headline">Presentations</span>
 
 - April 2013 - Bio-IT World, Robert Buels:
-  <a href="../../mediawiki/images/0/0c/JBrowse_bioit_world_apr2013.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0c/JBrowse_bioit_world_apr2013.pdf"
   class="internal" title="JBrowse bioit world apr2013.pdf">PDF</a>
 - August 2012 - presentation given as part of the [2012 GMOD Summer
   School](../2012_GMOD_Summer_School "2012 GMOD Summer School"):
-  <a href="../../mediawiki/images/f/fa/JBrowse_gmod_aug2012.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/JBrowse_gmod_aug2012.pdf"
   class="internal" title="JBrowse gmod aug2012.pdf">PDF</a>
 - April 2012 - GMOD 2012 Community Meeting, Robert Buels:
-  <a href="../../mediawiki/images/b/ba/RBuels_JBrowse_apr2012.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/ba/RBuels_JBrowse_apr2012.pdf"
   class="internal" title="RBuels JBrowse apr2012.pdf">PDF</a>
 - January 2012 - Plant and Animal Genome (PAG) XX:
-  <a href="../../mediawiki/images/e/ed/Rbuels_jbrowse_pag2012.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Rbuels_jbrowse_pag2012.pdf"
   class="internal" title="Rbuels jbrowse pag2012.pdf">PDF</a>
 - April 2010 - UCSC genome browser group ("genecats") meeting:
-  <a href="../../mediawiki/images/6/67/JBrowse-UCSC-4-21-10.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/JBrowse-UCSC-4-21-10.pdf"
   class="internal" title="JBrowse-UCSC-4-21-10.pdf">PDF</a>
 - August 2009 - [GMOD Community
   Meeting](../August_2009_GMOD_Meeting "August 2009 GMOD Meeting"):

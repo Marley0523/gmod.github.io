@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://gmod-dev.oicr.on.ca/" rel="nofollow"
 title="GMOD Beta site"><img
-src="../../mediawiki/images/a/a6/Gmod_cogTransparentBeta155.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/Gmod_cogTransparentBeta155.png"
 width="155" height="114" alt="GMOD Beta site" /></a>
 
 </div>

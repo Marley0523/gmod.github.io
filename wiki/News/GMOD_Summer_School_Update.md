@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
 height="182" alt="2008 GMOD Summer School" />](../2008_GMOD_Summer_School "2008 GMOD Summer School")
 
 </div>

@@ -62,8 +62,8 @@ These components will be covered at the school:
 <tr class="odd">
 <td style="text-align: center;"><a href="../2011_GMOD_Spring_Training"
 title="2011 GMOD Spring Training"><img
-src="../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/170px-GMODAmericas2011Logo.jpg.png"
-srcset="../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/255px-GMODAmericas2011Logo.jpg.png 1.5x, ../../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/340px-GMODAmericas2011Logo.jpg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/170px-GMODAmericas2011Logo.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/255px-GMODAmericas2011Logo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/340px-GMODAmericas2011Logo.jpg.png 2x"
 width="170" height="170" alt="2011 GMOD Spring Training" /></a><br />
 <strong><a href="../2011_GMOD_Spring_Training#Applications"
 title="2011 GMOD Spring Training">Apply Now</a></strong></td>

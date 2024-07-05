@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.ebi.ac.uk/training/handson/DAS_070410.html"
 rel="nofollow" title="DAS Workshop"><img
-src="../../mediawiki/images/3/32/Das_logo_64x64.jpg" width="64"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Das_logo_64x64.jpg" width="64"
 height="64" alt="DAS Workshop" /></a>
 
 </div>

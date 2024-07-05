@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/0/00/InterMine.png/200px-InterMine.png"
-srcset="../../mediawiki/images/0/00/InterMine.png 1.5x, ../../mediawiki/images/0/00/InterMine.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/00/InterMine.png/200px-InterMine.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/InterMine.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/InterMine.png 2x"
 width="200" height="55" alt="InterMine" />](../InterMine "InterMine")
 
 </div>

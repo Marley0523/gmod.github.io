@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/4/46/ISMB2010_logo.jpg/150px-ISMB2010_logo.jpg"
-srcset="../../mediawiki/images/4/46/ISMB2010_logo.jpg 1.5x, ../../mediawiki/images/4/46/ISMB2010_logo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/ISMB2010_logo.jpg/150px-ISMB2010_logo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/ISMB2010_logo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/ISMB2010_logo.jpg 2x"
 width="150" height="90" alt="GMOD @ ISMB 2010" />](../ISMB_2010 "GMOD @ ISMB 2010")
 
 </div>

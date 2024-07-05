@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.syngentacareers.com/listing/" rel="nofollow"
 title="Openings at Syngenta"><img
-src="../../mediawiki/images/e/e5/SyngentaLogo.png" width="129"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e5/SyngentaLogo.png" width="129"
 height="43" alt="Openings at Syngenta" /></a>
 
 </div>

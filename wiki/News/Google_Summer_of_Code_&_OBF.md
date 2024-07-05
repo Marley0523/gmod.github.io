@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://open-bio.org/wiki/Google_Summer_of_Code" rel="nofollow"
-title="OBF in GSoC"><img src="../../mediawiki/images/e/e7/OBF_logo.png"
+title="OBF in GSoC"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/OBF_logo.png"
 width="105" height="67" alt="OBF in GSoC" /></a>
 
 </div>

@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div class="floatright">
 
-[<img src="../../mediawiki/images/c/c2/Paglogo.gif" width="114"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif" width="114"
 height="107" alt="GMOD @ PAG" />](../PAG_2009 "GMOD @ PAG")
 
 </div>

@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
-srcset="../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/180px-TripalLogo.jpg 1.5x, ../../mediawiki/images/thumb/5/5c/TripalLogo.jpg/240px-TripalLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/180px-TripalLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/240px-TripalLogo.jpg 2x"
 width="120" height="36" alt="Triapl" />](../Tripal.1 "Triapl")
 
 </div>
@@ -73,7 +73,7 @@ improved modules that can be shared back with the community. We can
 offer assistance when needed in the development of new modules.
 
 An updated
-<a href="../../mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf"
 class="internal" title="TripalUsersGuideJan2010.pdf">user’s manual</a>
 is available, but not quite complete. An update to the manual will be
 added soon. If you have any questions please feel free to email the

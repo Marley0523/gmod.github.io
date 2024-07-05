@@ -42,7 +42,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://spbase.org/" rel="nofollow"
 title="Sea Urchin Genome Database"><img
-src="../../mediawiki/images/4/4c/SpBaseLogo.png" width="185"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/SpBaseLogo.png" width="185"
 height="104" alt="Sea Urchin Genome Database" /></a>
 
 </div>

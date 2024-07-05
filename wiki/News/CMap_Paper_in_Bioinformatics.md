@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://bioinformatics.oxfordjournals.org/cgi/content/full/25/22/3040"
 rel="nofollow" title="Bioinformatics"><img
-src="../../mediawiki/images/1/12/BionformaticsCover.gif" width="134"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/BionformaticsCover.gif" width="134"
 height="175" alt="Bioinformatics" /></a>
 
 </div>

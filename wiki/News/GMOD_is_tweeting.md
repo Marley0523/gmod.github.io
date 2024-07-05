@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://twitter.com/gmodproject" rel="nofollow"
 title="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!"><img
-src="../../mediawiki/images/thumb/2/20/Gmod-bird.jpg/200px-Gmod-bird.jpg"
-srcset="../../mediawiki/images/thumb/2/20/Gmod-bird.jpg/300px-Gmod-bird.jpg 1.5x, ../../mediawiki/images/thumb/2/20/Gmod-bird.jpg/400px-Gmod-bird.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/200px-Gmod-bird.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/300px-Gmod-bird.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/400px-Gmod-bird.jpg 2x"
 width="200" height="200"
 alt="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!" /></a>
 

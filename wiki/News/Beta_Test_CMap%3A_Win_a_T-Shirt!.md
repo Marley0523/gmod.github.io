@@ -48,7 +48,7 @@ candidate.
 
 <a href="http://www.cafepress.com/genericmod.238973590" rel="nofollow"
 title="GMOD T Shirt"><img
-src="../../mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/TShirtThumb.jpg" width="150"
 height="150" alt="GMOD T Shirt" /></a>
 
 </div>

@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://www.admin.cam.ac.uk/offices/hr/jobs/vacancies.cgi?job=5487"
 rel="nofollow" title="FlyBase Opening"><img
-src="../../../mediawiki/images/thumb/e/e0/Fly_logo.png/200px-Fly_logo.png"
-srcset="../../../mediawiki/images/e/e0/Fly_logo.png 1.5x, ../../../mediawiki/images/e/e0/Fly_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/200px-Fly_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png 2x"
 width="200" height="49" alt="FlyBase Opening" /></a>
 
 </div>

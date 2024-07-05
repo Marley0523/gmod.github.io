@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://arthropodgenomes.org" rel="nofollow"
 title="Arthropod Genomics Consortium"><img
-src="../../mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
-srcset="../../mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, ../../mediawiki/images/c/c1/AGSBug170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/100px-AGSBug170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/150px-AGSBug170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/AGSBug170.png 2x"
 width="100" height="108" alt="Arthropod Genomics Consortium" /></a>
 
 </div>

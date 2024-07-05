@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://genepool.bio.ed.ac.uk:16080/nextgenbug/meeting/20100209"
 rel="nofollow" title="NextGenBUG 9 Feb Dundee"><img
-src="../../mediawiki/images/thumb/7/7b/SBForumLogo.png/140px-SBForumLogo.png"
-srcset="../../mediawiki/images/thumb/7/7b/SBForumLogo.png/210px-SBForumLogo.png 1.5x, ../../mediawiki/images/thumb/7/7b/SBForumLogo.png/280px-SBForumLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7b/SBForumLogo.png/140px-SBForumLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7b/SBForumLogo.png/210px-SBForumLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7b/SBForumLogo.png/280px-SBForumLogo.png 2x"
 width="140" height="70" alt="NextGenBUG 9 Feb Dundee" /></a>
 
 </div>

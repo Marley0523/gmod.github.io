@@ -39,16 +39,16 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 [<img
-src="../../mediawiki/images/thumb/1/1b/ApolloLogo.png/150px-ApolloLogo.png"
-srcset="../../mediawiki/images/thumb/1/1b/ApolloLogo.png/225px-ApolloLogo.png 1.5x, ../../mediawiki/images/thumb/1/1b/ApolloLogo.png/300px-ApolloLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/150px-ApolloLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/225px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/300px-ApolloLogo.png 2x"
 width="150" height="54" alt="Apollo logo by Audra Radke" />](../Spring_2010_Logo_Program "Apollo logo by Audra Radke")
 [<img
-src="../../mediawiki/images/thumb/1/1d/RedFlyLogo.png/65px-RedFlyLogo.png"
-srcset="../../mediawiki/images/thumb/1/1d/RedFlyLogo.png/98px-RedFlyLogo.png 1.5x, ../../mediawiki/images/thumb/1/1d/RedFlyLogo.png/130px-RedFlyLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/65px-RedFlyLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/98px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/130px-RedFlyLogo.png 2x"
 width="65" height="46" alt="REDFly logo by Alex Read" />](../Spring_2010_Logo_Program "REDFly logo by Alex Read")
 [<img
-src="../../mediawiki/images/thumb/3/33/CMapLogo.png/40px-CMapLogo.png"
-srcset="../../mediawiki/images/thumb/3/33/CMapLogo.png/60px-CMapLogo.png 1.5x, ../../mediawiki/images/thumb/3/33/CMapLogo.png/80px-CMapLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/40px-CMapLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/60px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/80px-CMapLogo.png 2x"
 width="40" height="46" alt="CMap logo by Kathy Bracken" />](../Spring_2010_Logo_Program "CMap logo by Kathy Bracken")
 
 [Some of the new

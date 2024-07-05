@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <a
 href="http://careers.crijob.com/lbnlcareers/detailsRedirect.asp?jid=24813&amp;p=1"
 rel="nofollow" title="Opening at Phytozome"><img
-src="../../mediawiki/images/thumb/7/7c/PhytozomeLogo.jpg/180px-PhytozomeLogo.jpg.png"
-srcset="../../mediawiki/images/thumb/7/7c/PhytozomeLogo.jpg/270px-PhytozomeLogo.jpg.png 1.5x, ../../mediawiki/images/7/7c/PhytozomeLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/PhytozomeLogo.jpg/180px-PhytozomeLogo.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/PhytozomeLogo.jpg/270px-PhytozomeLogo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/PhytozomeLogo.jpg 2x"
 width="180" height="44" alt="Opening at Phytozome" /></a>
 
 </div>
