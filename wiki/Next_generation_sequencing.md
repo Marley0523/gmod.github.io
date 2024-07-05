@@ -1,47 +1,47 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Next Generation Sequencing</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [Next generation
 sequencing](http://gmod.org/mediawiki/index.php?title=Next_generation_sequencing&redirect=no "Next generation sequencing"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="emphasisbox">
+
+
+
 
 <a href="File:WorkInProgressTools.gif" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
@@ -49,7 +49,7 @@ height="48" alt="WorkInProgressTools.gif" /></a> This page is under
 construction. Eventually it will be a hub for all information in the
 GMOD web site related to next generation sequencing.
 
-</div>
+
 
 ## <span id="Presentations_.26_Posters" class="mw-headline">Presentations & Posters</span>
 
@@ -76,39 +76,38 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 | [Visualising and Integrating Next Generation Sequence Data using GMOD](File:NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf") | at *Evolutionary Genetics - The impact of Next generation sequencing technologies* in Lutherstadt-Wittenberg, Germany, April 2-4, 2009. | Discusses visualizing NGS data in [GBrowse](GBrowse.1 "GBrowse"), using pre-SAMtools technologies. Has discussion on if displaying individual reads is useful. |
 | [Managing Next Generation Sequence Data with GMOD](File:PAG2009NextGenSeqPoster.pdf "File:PAG2009NextGenSeqPoster.pdf") | Poster at *[Plant and Animal Genome (PAG 2009)](PAG_2009 "PAG 2009"), San Diego, CA, January 10-14, 2009* | Using GBrowse for next generation sequence data and population genetics. |
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Next_Generation_Sequencing&oldid=15134>"
 
-</div>
 
-<div id="catlinks" class="catlinks catlinks-allhidden">
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -118,81 +117,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -202,31 +197,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Next_Generation_Sequencing"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 00:52 on 18 November
   2010.</span>
@@ -248,4 +242,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

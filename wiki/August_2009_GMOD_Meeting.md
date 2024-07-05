@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">August 2009 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table
 style="vertical-align: middle; border: 2px solid #A6A6BC; text-align: center"
@@ -86,13 +86,13 @@ learn (and affect) what's coming in the project.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Schedule</span>](#Schedule)
@@ -244,24 +244,24 @@ learn (and affect) what's coming in the project.
   January 2010 in San Diego
   California</span>](#Next_Meeting:_January_2010_in_San_Diego_California)
 
-</div>
+
 
 # <span id="Schedule" class="mw-headline">Schedule</span>
 
-<div class="emphasisbox">
 
-<div style="text-align: center; font-size: 150%; padding-bottom: 0.3em">
+
+
 
 Heng Li
 
-</div>
 
-<div style="text-align: center; font-size: 120%">
+
+
 
 <a href="http://www.sanger.ac.uk" class="external text"
 rel="nofollow">Wellcome Trust Sanger Institute</a>
 
-</div>
+
 
   
 
@@ -280,7 +280,7 @@ rel="nofollow">SAMtools</a>, BWA, and
 <a href="http://maq.sourceforge.net" class="external text"
 rel="nofollow">MAQ</a>.
 
-</div>
+
 
 <table class="wikitable" data-border="1" data-cellpadding="5"
 data-cellspacing="0">
@@ -503,12 +503,12 @@ title="InterMine">InterMine</a> update</td>
 
 ## <span id="GMOD_Project_Talks" class="mw-headline">GMOD Project Talks</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Aug2009Scott.JPG" width="250"
 height="86" alt="Scott" />](User%3AScott "Scott")
 
-</div>
+
 
 *[Scott Cain](User%3AScott "User%3AScott"), Ontario Institute for Cancer
 Research, <a href="http://prezi.com/143773/" class="external text"
@@ -703,12 +703,12 @@ committee or participate.
 ## <span id="Linked_Data_for_GMOD_Databases" class="mw-headline"><a href="http://en.wikipedia.org/wiki/Linked_Data" class="external text"
 rel="nofollow">Linked Data</a> for GMOD Databases</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Aug2009JunPhoto.JPG" width="150"
 height="100" alt="Jun Zhao" />](User%3AJunZhao "Jun Zhao")
 
-</div>
+
 
 *[Jun Zhao](User%3AJunZhao "User%3AJunZhao"), Department of Zoology,
 University of Oxford,
@@ -831,14 +831,14 @@ and risks:
 
 ## <span id="GMOD_in_the_Trenches" class="mw-headline">GMOD in the Trenches</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Stephen.JPG" class="image"
 title="Stephen Taylor"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Aug2009Stephen.JPG" width="200"
 height="74" alt="Stephen Taylor" /></a>
 
-</div>
+
 
 *Stephen Taylor, <a href="http://www.molbiol.ox.ac.uk/CBRG_home.shtml"
 class="external text" rel="nofollow">Computational Biology Research
@@ -913,12 +913,12 @@ external developers:
 
 ## <span id="A_DBIx_Class_layer_for_Chado" class="mw-headline">A DBIx Class layer for Chado</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Sgn_small_tag.png" width="116"
 height="28" alt="Sol Genomics Network" />](User%3ARobertBuels "Sol Genomics Network")
 
-</div>
+
 
 *[Scott Cain](User%3AScott "User%3AScott"), OICR, for [Robert
 Buels](User%3ARobertBuels "User%3ARobertBuels"), [Sol Genomics Network
@@ -976,12 +976,12 @@ Rob says:
 ## <span id="GMOD_Biological_Object_Layer" class="mw-headline"><a href="http://code.google.com/p/gbol" class="external text"
 rel="nofollow">GMOD Biological Object Layer</a></span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/Aug2009Ed.JPG" width="200"
 height="90" alt="Ed Lee" />](User%3AElee "Ed Lee")
 
-</div>
+
 
 *[Ed Lee](User%3AElee "User%3AElee"),
 <a href="http://www.berkeleybop.org/" class="external text"
@@ -1032,9 +1032,9 @@ models. That type of aggregation is performed by higher levels.
 
 ### <span id="Biological_Layer_Configuration" class="mw-headline">Biological Layer Configuration</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1060,9 +1060,9 @@ models. That type of aggregation is performed by higher levels.
 </gbol_mappings>
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Future_Developments" class="mw-headline">Future Developments</span>
 
@@ -1089,13 +1089,13 @@ Meeting](January_2009_GMOD_Meeting "January 2009 GMOD Meeting").
 
 ## <span id="Quest_for_Standard:_Sequence_alignment.2Fmap_format_.28SAM.29_and_SAMtools" class="mw-headline">Quest for Standard: Sequence alignment/map format (SAM) and SAMtools</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Heng.JPG" class="image" title="Heng Li"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Aug2009Heng.JPG" width="200" height="134"
 alt="Heng Li" /></a>
 
-</div>
+
 
 *<a href="http://www.sanger.ac.uk/Users/lh3/" class="external text"
 rel="nofollow">Heng Li</a>,
@@ -1300,13 +1300,13 @@ have a lot of bioinformatics infrastructure in place first.
 
 ## <span id="GBrowse:_Lessons_Learned_and_Statement_of_Interest" class="mw-headline">GBrowse: Lessons Learned and Statement of Interest</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Erick.JPG" class="image" title="Erick"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/75/Aug2009Erick.JPG" width="200" height="95"
 alt="Erick" /></a>
 
-</div>
+
 
 *Erick Antezana & Frederic Potier, Bayer CropScience,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf"
@@ -1405,9 +1405,9 @@ settings components.
 Would also like to have a standardized way to specify metadata in the
 configuration files. For example, species and assembly versions:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 #################################
@@ -1425,9 +1425,9 @@ annotation.source  = TAIR
 annotation.version = 8
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="Metadata_Web_Services" class="mw-headline">Metadata Web Services</span>
 
@@ -1437,9 +1437,9 @@ available feature types,
 
 Suggestion:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <browser>
@@ -1453,15 +1453,15 @@ Suggestion:
 </browser>
 ```
 
-</div>
 
-</div>
+
+
 
 This information could be defined in the config file:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 [TAIR_Arabidopsis_V8:database]
@@ -1475,9 +1475,9 @@ annotation.source=TAIR
 annotation.version=8
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Conclusion_.2F_Discussion" class="mw-headline">Conclusion / Discussion</span>
 
@@ -1494,13 +1494,13 @@ Our priorities for further developments:
 
 ## <span id="JBrowse" class="mw-headline">[JBrowse](JBrowse.1 "JBrowse")</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Ian.JPG" class="image" title="Ian Holmes"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Aug2009Ian.JPG" width="200" height="93"
 alt="Ian Holmes" /></a>
 
-</div>
+
 
 *Ian Holmes, University of California - Berkeley,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Aug2009JBrowse.pdf" class="internal"
@@ -1562,12 +1562,12 @@ work.
 
 ## <span id="GBrowse_syn" class="mw-headline">[GBrowse_syn](GBrowse_syn.1 "GBrowse syn")</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Aug2009Sheldon.JPG" width="100"
 height="126" alt="Sheldon McKay" />](User%3AMckays "Sheldon McKay")
 
-</div>
+
 
 *[Sheldon McKay](User%3AMckays "User%3AMckays"),
 <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
@@ -1656,7 +1656,7 @@ does not generate it for you. This is a non-trivial task and is not for
 the faint of heart. Sheldon provided a high level overview of one
 possible process and possible tools you could use in that process.
 
-<div class="quotebox">
+
 
 <table data-cellpadding="5" style="font-size: 140%">
 <colgroup>
@@ -1707,7 +1707,7 @@ title="GBrowse syn">GBrowse_syn</a></td>
 </tbody>
 </table>
 
-</div>
+
 
 Once you have the data, you need to get it into a format that is
 supported by the GBrowse_syn load scripts.
@@ -1758,12 +1758,12 @@ GBrowse_syn will visualize this correctly.
 ## <span id="GBrowse.org" class="mw-headline"><a href="http://gbrowse.org" class="external text"
 rel="nofollow">GBrowse.org</a></span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a0/Aug2009Alessandra.JPG" width="150"
 height="124" alt="Alessandra" />](User%3ABilardi "Alessandra")
 
-</div>
+
 
 *[Alessandra Bilardi](User%3ABilardi "User%3ABilardi"),
 <a href="http://www.cribi.unipd.it/" class="external text"
@@ -1810,13 +1810,13 @@ rel="nofollow">GBrowse.org</a>.
 
 ## <span id="DAS_update" class="mw-headline"><a href="DAS" class="mw-redirect" title="DAS">DAS</a> update</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Jonathan.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Aug2009Jonathan.JPG" width="175"
 height="103" alt="Aug2009Jonathan.JPG" /></a>
 
-</div>
+
 
 *Jonathan Warren, Sanger Institute,
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Aug2009DASUpdate.ppt" class="internal"
@@ -1943,13 +1943,13 @@ to support this.
 
 ## <span id="InterMine_update" class="mw-headline">[InterMine](InterMine "InterMine") update</span>
 
-<div class="floatright">
+
 
 <a href="File:Aug2009Julie.JPG" class="image" title="Julie"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bc/Aug2009Julie.JPG" width="175" height="103"
 alt="Julie" /></a>
 
-</div>
+
 
 *Julie Sullivan*
 
@@ -2057,14 +2057,14 @@ Any meeting participant can send an email to the list.
 
 # <span id="Sponsor" class="mw-headline">Sponsor</span>
 
-<div class="floatright">
+
 
 <a href="http://www.molbiol.ox.ac.uk/" rel="nofollow" title="CBRG"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Cbrg.jpg 2x"
 width="300" height="30" alt="CBRG" /></a>
 
-</div>
+
 
 We would like to thank the
 <a href="http://www.molbiol.ox.ac.uk/" class="external text"
@@ -2249,12 +2249,12 @@ future?**
 - Thanks very much to the organisers for their hard work - I definitely
   thought it was worth it
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Jan2010MtgLogo170.png" width="170"
 height="162" alt="January 2010 GMOD Meeting" />](January_2010_GMOD_Meeting "January 2010 GMOD Meeting")
 
-</div>
+
 
 # <span id="Next_Meeting:_January_2010_in_San_Diego_California" class="mw-headline">Next Meeting: January 2010 in San Diego California</span>
 
@@ -2263,18 +2263,18 @@ The next [GMOD Community Meeting](Meetings "Meetings") was held [January
 States](January_2010_GMOD_Meeting "January 2010 GMOD Meeting"),
 immediately following [PAG 2010](PAG_2010 "PAG 2010").
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=August_2009_GMOD_Meeting&oldid=24483>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -2299,30 +2299,29 @@ Retrieved from
 - [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -2332,81 +2331,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -2416,31 +2411,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/August_2009_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 19:37 on 4 September
   2013.</span>
@@ -2462,4 +2456,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

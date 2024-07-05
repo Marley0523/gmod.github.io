@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse Configuration/Authentication</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This article describes **user authentication** and how to configure it
 to work with GBrowse.
@@ -44,13 +44,13 @@ to work with GBrowse.
 *For the main GBrowse2 configuration article, see [GBrowse 2.0
 HOWTO](../GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Authentication
   & Authorization,
@@ -80,7 +80,7 @@ HOWTO](../GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
       <span class="toctext">Group-based
       Authorization</span>](#Group-based_Authorization)
 
-</div>
+
 
 ## <span id="Authentication_.26_Authorization.2C_Introduction" class="mw-headline">Authentication & Authorization, Introduction</span>
 
@@ -157,9 +157,9 @@ Apache's access control mechanism is based on URLs. To control access to
 an entire datasource, create a \<Location\> section in httpd.conf. The
 \<Location\> section should look like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -170,9 +170,9 @@ an entire datasource, create a \<Location\> section in httpd.conf. The
   </Location>
 ```
 
-</div>
 
-</div>
+
+
 
 This denies access to everybody except for "localhost" and browsers from
 the domains .oirc.on.ca, .cshl.edu and .ebi.ac.uk. You can also limit by
@@ -188,9 +188,9 @@ Unless the stated requirements are met, the track will not appear on the
 main screen or any of the configuration screens. To set this up, add a
 "restrict" option to the track you wish to make off-limits:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -202,9 +202,9 @@ main screen or any of the configuration screens. To set this up, add a
                    allow from localhost .oicr.on.ca .cshl.edu .ebi.ac.uk
 ```
 
-</div>
 
-</div>
+
+
 
 The value of the restrict option is identical to the Apache
 authorization directives and can include any of the directives "Order,"
@@ -223,9 +223,9 @@ Here is an example that uses the Text::GenderFromName to allow access if
 the user's name sounds female and forbids access if the name sounds
 male. (It might be useful for an X-chromosome annotation site.)
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
     restrict = sub {
@@ -236,9 +236,9 @@ male. (It might be useful for an X-chromosome annotation site.)
     }
 ```
 
-</div>
 
-</div>
+
+
 
 You should be aware that the username will only be defined if username
 authentication is turned on and the user has successfully authenticated
@@ -247,18 +247,18 @@ addition, the hostname will only be defined if HostnameLookups have been
 turned on in httpd.conf. In the latter case, you can convert the IP
 address into a hostname using this piece of code:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
     use Socket;
     $host = gethostbyaddr(inet_aton($addr),AF_INET);
 ```
 
-</div>
 
-</div>
+
+
 
 Note that this may slow down the response time of gbrowse noticeably if
 you have a slow DNS name server.
@@ -276,9 +276,9 @@ suppress this display:
     the datasource. In this way, only users who meet the requirements
     will be able to see and select the datasource. For example:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -288,9 +288,9 @@ suppress this display:
  restrict    = require valid-user
 ```
 
-</div>
 
-</div>
+
+
 
 Finally, you may place a "restrict" option in the \[GENERAL\] section of
 an individual datasource conf file, in which case the restrictions are
@@ -298,9 +298,9 @@ applied on top of those defined by Apache. This might be useful if you
 prefer to modify the GBrowse conf file rather than Apache's conf file.
 For example, if Apache's config file contains this section:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -313,18 +313,18 @@ For example, if Apache's config file contains this section:
     </Location>
 ```
 
-</div>
 
-</div>
+
+
 
 then any valid user (who can provide a recognized username and password)
 who accesses the site from a workstation in the .oicr.on.ca domain will
 be able to get in. You can further restrict access by adding the
 following to the \[GENERAL\] section of yeast_simple.conf:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -333,9 +333,9 @@ following to the \[GENERAL\] section of yeast_simple.conf:
    restrict  = require user fred joseph andrew vivian
 ```
 
-</div>
 
-</div>
+
+
 
 This will return an unauthorized message for anyone except the four
 named users.
@@ -346,21 +346,21 @@ The GBrowse user account system provides users with a link in the upper
 right corner of the screen that lets them login, register, and manage
 their account settings.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:439px;">
+
+
 
 <a href="../File:Gbrowse_login.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_login.png" class="thumbimage"
 width="437" height="262" alt="Gbrowse login.png" /></a>
 
-<div class="thumbcaption">
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 #### <span id="Configuration" class="mw-headline">Configuration</span>
 
@@ -403,9 +403,9 @@ To enable users to log in using OpenIDs, these requirements must be met:
 The following is a GBrowse.conf configuration file with all the bells
 and whistles turned on:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
@@ -423,9 +423,9 @@ and whistles turned on:
  email_address               = noreply@gbrowse.com
 ```
 
-</div>
 
-</div>
+
+
 
 This configuration should work on most servers provided that there is a
 properly-configured mail exchanger running on the server itself. You
@@ -439,7 +439,7 @@ Here is more information on these options:
 
 user_account_db
 
-<div class="indent">
+
 
 This is a
 <a href="http://dbi.perl.org/" class="external text" rel="nofollow">Perl
@@ -447,18 +447,18 @@ DBI</a>-style description of the database that will hold user accounts.
 Only SQLite and MySQL databases are usable at the current time. For
 MySQL databases, the full form of the option is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
   DBI:mysql:database=gbrowse_login;host=mysql.oicr.on.ca;user=gbrowse;password=gbrowse
 ```
 
-</div>
 
-</div>
+
+
 
 This indicates that the account database is running on a MySQL server
 named "mysql.oicr.on.ca" and that the database is named "gbrowse_login".
@@ -467,22 +467,22 @@ The GBrowse application will use the username "gbrowse" and the password
 
 For SQLite databases, the format is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
   DBI:SQLite:/var/www/gbrowse2/databases/users.sqlite
 ```
 
-</div>
 
-</div>
+
+
 
 The latter part of the description is a path to the database file.
 
-</div>
+
 
 user_accounts, user_accounts_registration, user_accounts_openid  
 These options turn on and off user accounts, new users' ability to
@@ -492,24 +492,24 @@ comment out the option) to turn the feature off.
 
 smtp_gateway
 
-<div class="indent">
+
 
 This option sets the mail gateway that GBrowse uses to register new
 users and to communicate track sharing information one user to another.
 The full format is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
  <smtp.server.com>:<port>:<encryption>:<username>:<password>
 ```
 
-</div>
 
-</div>
+
+
 
 There are up to five fields, each separated by colons. The first field,
 which is required, is the hostname or IP address of a mail server
@@ -525,23 +525,23 @@ An example of a server that requires encryption, username and password
 is Gmail. Here, for example, is how to route mail through a user account
 at GMail:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  
   smtp_gateway           = smtp.gmail.com:465:ssl:john.doe:open_sesame
 ```
 
-</div>
 
-</div>
+
+
 
 Replace "john.doe" and "open_sesame" with the appropriate username and
 password for the service.
 
-</div>
+
 
 application_name, application_name_long, email_address  
 These options control the "From" address that users will see when they
@@ -610,9 +610,9 @@ You can restrict access to datasources and individual tracks using
 exactly the same **restrict** syntax described in the previous section.
 For example in yeast_simple.conf, you could have:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="apache source-apache">
+
+
 
 ``` de1
  [GENERAL]
@@ -626,9 +626,9 @@ For example in yeast_simple.conf, you could have:
  restrict = require user fred joseph andrea marta
 ```
 
-</div>
 
-</div>
+
+
 
 The effect will be to require everyone to log in successfully in order
 to view the datasource at all. In addition, only the users logged in
@@ -724,18 +724,18 @@ be placed in a datasource configuration file's track stanza, in its
 \[GENERAL\] section, or in the stanza in GBrowse.conf that refers to the
 datasource.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_Configuration/Authentication&oldid=22567>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
@@ -743,30 +743,29 @@ Retrieved from
 - [HOWTO](../Category%3AHOWTO "Category%3AHOWTO")
 - [Configuration](../Category%3AConfiguration "Category%3AConfiguration")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -776,49 +775,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -827,32 +824,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -862,31 +857,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_Configuration-2FAuthentication"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:08 on 4 December
   2012.</span>
@@ -908,4 +902,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

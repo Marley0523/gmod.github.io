@@ -1,52 +1,52 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">TableEdit Loader</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div style="float:right; padding:10px; margin:10px;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Objective</span>](#Objective)
@@ -86,9 +86,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   - [<span class="tocnumber">6.4</span>
     <span class="toctext">clearOldRows</span>](#clearOldRows)
 
-</div>
 
-</div>
+
+
 
 **Author** : *Daniel Renfro*
 
@@ -159,9 +159,9 @@ a basic script which will:
 5.  load info into the tables in the wiki ( by calling the method
     `loadFromFile()`)
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 <?php
@@ -196,9 +196,9 @@ if(isset($options['w'])){
 ?>
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="running_the_script_.28loading_information_into_the_wiki.29" class="mw-headline">running the script (loading information into the wiki)</span>
 
@@ -256,7 +256,7 @@ are four return values:
 
 Below is a table that explains these cases in more depth:
 
-<div id="example1" class="switch:closed" title="Click to Open">
+
 
 <table class="sortable" data-border="2" data-cellpadding="4"
 data-cellspacing="0"
@@ -333,7 +333,7 @@ They are disjoint.</p></td>
 </tbody>
 </table>
 
-</div>
+
 
 #### <span id="How_it_works" class="mw-headline">How it works</span>
 
@@ -369,9 +369,9 @@ They are disjoint.</p></td>
 
 #### <span id="do_misc_features" class="mw-headline">do_misc_features</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 public function do_misc_features( $array ){
@@ -386,17 +386,17 @@ public function do_misc_features( $array ){
 }
 ```
 
-</div>
 
-</div>
+
+
 
   
 
 #### <span id="appendRow" class="mw-headline">appendRow</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 public function appendRow($new_row_obj){
@@ -406,17 +406,17 @@ public function appendRow($new_row_obj){
 }
 ```
 
-</div>
 
-</div>
+
+
 
   
 
 #### <span id="mergeRows" class="mw-headline">mergeRows</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 public function mergeRows($new_row_obj){ 
@@ -445,17 +445,17 @@ public function mergeRows($new_row_obj){
 }
 ```
 
-</div>
 
-</div>
+
+
 
   
 
 #### <span id="clearOldRows" class="mw-headline">clearOldRows</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="php source-php">
+
+
 
 ``` de1
 function clearOldRows($box, $time){
@@ -471,51 +471,50 @@ function clearOldRows($box, $time){
 }
 ```
 
-</div>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=TableEdit_Loader&oldid=22198>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -525,81 +524,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -609,31 +604,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit_Loader" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:12 on 9 October
   2012.</span>
@@ -655,4 +649,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,78 +1,77 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">GBrowse</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirectehttp://gmod.org/wiki/d from
 [Gbrowse](/mediawiki/index.php?title=Gbrhttp://gmod.org/wiki/owse&redirect=no "Gbrowse"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigathttp://gmod.org/wiki/ion](#mw-navigation),
 [search](#p-#p-search)
 
-</div>
 
-<div id="mwhttp://gmod.org/wiki/-content-text" class="mw-content-ltr"
-lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="/wiki/File:GBrowseLogo.png" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
 width="400" height="94" alt="GBrowse loghttp://gmod.org/wiki/o" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Mature release
 - Development: inactive
 - Support: inactive
 
-<div class="compBoxHdr">
+
 
 Licence
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="http://opensource.org/" rel="nofollow"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
@@ -80,18 +79,18 @@ srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 width="40" height="39"
 alt=" is open source" /></a>
 
-</div>
+
 
 <a href="http://opensource.org/licenses/GPL-2.0" class="external text"
 rel="nofollow">GPL 2.0</a>,
 <a href="http://opensource.org/licenses/artistic-license-2.0"
 class="external text" rel="nofollow">Artistic License 2.0</a>
 
-<div class="compBohttp://gmod.org/wiki/xHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="http://gbrowse.org" class="external text" rel="nofollow">Home
   page</a>
@@ -108,15 +107,15 @@ Resources
 - <a href="https:/http://gmod.org/github.com/GMOD/GBrowse"
   class="external text" rel="nofollow">Source code</a>
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About Generic
   Genome Browser
@@ -175,7 +174,7 @@ GBrowse</span>](#More_on_GBrowse)
 - [<span class="tocnumber">9.1</span> <span class="toctext">GBrowse
   Logo</span>](#GBrowse_Logo)
 
-</div>
+
 
 ## <span id="About_Generic_Genome_Browser_.28GBrowse.29" class="mw-headline">About Generic Genome Browser (GBrowse)</span>
 
@@ -219,9 +218,9 @@ rel="nofollow">GBrowse website</a>.
 
 ### <span id="Schttp://gmod.org/wiki/reenshots" class="mw-headline">Screenshots</span>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="/wiki/File:GBrowse_scrhttp://gmod.org/wiki/eenshot1.png"
 class="image"><img
@@ -230,16 +229,16 @@ class="thumbimage"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumbhttp://gmod.org/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, /mediawiki/imhttp://gmod.org/wiki/ages/1/10/GBrowse_screenshot1.png 2x"
 width="500" height="345" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:GBrowse_screenshot1.png" class="internal" thttp:=""
 data-gmod.org="" data-wiki="" data-itle="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" widhttp:=""
 data-gmod.org="" data-wiki="" data-th="15" height="11" /></a>
 
-</div>
+
 
 GBrowse running on
 <a href="http://hapmap.ncbi.nlm.nih.gov/downloads/index.html"
@@ -248,11 +247,11 @@ class="external text" rel="nofollow">HapMap.org</a>
 class="internal" title="GBrowse screenshot1.png">Click to view at
 fuhttp://gmod.org/wiki/ll resolution</a>
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -642,19 +641,18 @@ rel="nofollow">Linn-Benton Community College</a>.
     **Cite error: Invalid `<ref>` tag; no text was provided for refs
     named `PMID:12368253`**</span>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "[http://gmod.ohttp://gmod.org/wiki/rg/mediawiki/index.php?title=GBrowse&oldid=28470](http://gmod.org/mediawiki/index.php?title=GBrowse&oldid=28470)"
 
-</div>
 
-<div class="catlinks" ihttp:="" gmod.org="" wiki="" d="catlinks">
 
-<div id="mw-normal-catlinks"
-class="mw-normal-cahttp://gmod.org/wiki/tlinks">
+
+
+
 
 [Categories](/wiki/Special%3ACategories "Special%3ACategories"):
 
@@ -668,13 +666,13 @@ class="mw-normal-cahttp://gmod.org/wiki/tlinks">
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLihttp://gmod.org/wiki/nk</a>
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse" http:="" gmod.org=""
@@ -963,78 +961,72 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div ihttp:="" gmod.org="" wiki="" d="mw-head">
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs"
-role="http://gmod.org/wiki/navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
 - <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet"
-role="nhttp://gmod.org/wiki/avigation"
-aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
 
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portalhttp://gmod.org/wiki/"
-role="navigation"
-aria-labelledby="p-Navigation-http://gmod.org/wiki/label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-Softwhttp://gmod.org/wiki/are">[Software](/wiki/GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
@@ -1042,13 +1034,11 @@ aria-labelledby="p-Navigation-http://gmod.org/wiki/label">
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal"
-role="navhttp://gmod.org/wiki/igation"
-aria-labelledby="p-Documentationhttp://gmod.org/wiki/-label">
+
+
+
 
 ### Documentation
 
@@ -1057,16 +1047,15 @@ aria-labelledby="p-Documentationhttp://gmod.org/wiki/-label">
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="pohttp://gmod.org/wiki/rtal"
-role="navigation" aria-labelledby="p-Community-label">
+
+
+
 
 Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-Newshttp://gmod.org/wiki/">[GMOD
   News](/wiki/GMOD_News)</span>
@@ -1078,27 +1067,26 @@ Community
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-</div>
+
 
 http://gmod.org/wiki/
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 16:47 on 10 April 2023.</span>
 <!-- - <span id="footer-info-viewcount">1,682,147 page views.</span> -->
@@ -1114,4 +1102,4 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
+

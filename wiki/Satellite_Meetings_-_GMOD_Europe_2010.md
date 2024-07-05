@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Satellite Meetings - GMOD Europe 2010</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
 data-cellpadding="10">
@@ -52,10 +52,10 @@ title="September 2010 GMOD Meeting"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="220" height="188" alt="September 2010 GMOD Meeting" /></a></td>
-<td><div style="font-size: 200%; line-height: 120%">
+<td>
 <strong>Satellite Meetings</strong><br />
-&#10;</div>
-<div style="font-size: 140%; line-height: 120%">
+&#10;
+
 <ul>
 <li><a href="Post_Reference_Genome_Tools"
 title="Post Reference Genome Tools">Post Reference Genome Tools</a></li>
@@ -69,16 +69,16 @@ title="September 2010 GMOD Meeting">September 2010 GMOD
 Meeting</a><br />
 15 September 2010<br />
 Cambridge, UK
-</div></td>
+</td>
 <td style="text-align: center;"><a href="GMOD_Europe_2010"
 title="Part of GMOD Europe 2010"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="200" height="171" alt="Part of GMOD Europe 2010" /></a>
-<div style="font-size: 110%;">
+
 <a href="GMOD_Europe_2010" title="GMOD Europe 2010">Part of GMOD Europe
 2010</a>
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -94,15 +94,15 @@ so popular that we decided to hold them again.
 
   
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Satellite
   Topics</span>](#Satellite_Topics)
@@ -115,9 +115,9 @@ so popular that we decided to hold them again.
 - [<span class="tocnumber">5</span>
   <span class="toctext">Registration</span>](#Registration)
 
-</div>
 
-</div>
+
+
 
 ## <span id="Satellite_Topics" class="mw-headline">Satellite Topics</span>
 
@@ -167,7 +167,7 @@ rel="nofollow">http://www.mdc-berlin.de/en/research/core_facilities/cf_bioinform
 
 ## <span id="Sponsors" class="mw-headline">Sponsors</span>
 
-<div class="floatleft">
+
 
 <a href="http://www.ccbi.cam.ac.uk/" rel="nofollow"
 title="Cambridge Computational Biology Institute"><img
@@ -176,9 +176,9 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="150" height="64"
 alt="Cambridge Computational Biology Institute" /></a>
 
-</div>
 
-<div class="floatright">
+
+
 
 <a
 href="http://www.biomed.cam.ac.uk/gradschool/skills/bioinformatics.html"
@@ -189,7 +189,7 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="190" height="55"
 alt="School of Biological Sciences Bioinformatics Training Facility" /></a>
 
-</div>
+
 
 This event was sponsored by the
 <a href="http://www.ccbi.cam.ac.uk/" class="external text"
@@ -227,47 +227,46 @@ Europe 2010 page for information.
 
 Registration was free, but required, as space was limited.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Satellite_Meetings_-_GMOD_Europe_2010&oldid=21994>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -277,81 +276,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -361,31 +356,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:55 on 8 October
   2012.</span>
@@ -407,4 +401,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Creating and Managing Subtracks with GBrowse2</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 *For the main GBrowse 2.0 HOWTO article, see: [GBrowse 2.0
 HOWTO](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
@@ -62,13 +62,13 @@ per subtrack. In this scheme, each subtrack is defined by a set of
 feature filters. The filters are applied to each filter in turn, sorting
 them into the appropriate subtrack.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Using
   Metadata</span>](#Using_Metadata)
@@ -88,7 +88,7 @@ them into the appropriate subtrack.
   - [<span class="tocnumber">2.5</span> <span class="toctext">Hiding
     Subtracks with no Data</span>](#Hiding_Subtracks_with_no_Data)
 
-</div>
+
 
 ## <span id="Using_Metadata" class="mw-headline">Using Metadata</span>
 
@@ -160,9 +160,9 @@ that shows a number of ChIP-seq experiments with the attributes
 "factor", "stage" and "algorithm". The subtrack selection dialog that
 this generates is shown on the right.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtrack_selection_table_metadata.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/180px-Subtrack_selection_table_metadata.png"
@@ -170,24 +170,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/270px-Subtrack_selection_table_metadata.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/360px-Subtrack_selection_table_metadata.png 2x"
 width="180" height="67" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtrack_selection_table_metadata.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 ChIP-seq subtracks using metadata file
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 The database stanza:
 
@@ -271,9 +271,9 @@ a gene track that has no subtracks:
     label        = 1
     key          = Wormbase Genes
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtracks_genes_before.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/180px-Subtracks_genes_before.png"
@@ -281,24 +281,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/270px-Subtracks_genes_before.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/360px-Subtracks_genes_before.png 2x"
 width="180" height="24" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtracks_genes_before.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Genes track with no subtracks
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 The behavior of this track is to show both forward and reverse strand
 genes packed together for maximum efficiency, as shown in the figure on
@@ -333,9 +333,9 @@ class="external text" rel="nofollow">Bio::SeqFeatureI objects</a>
 to partition on the strand() method, and to label this dimension
 "Strand" on the popup menu presented to the user.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtracks_genes_first_iteration.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/180px-Subtracks_genes_first_iteration.png"
@@ -343,28 +343,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/270px-Subtracks_genes_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/360px-Subtracks_genes_first_iteration.png 2x"
 width="180" height="30" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtracks_genes_first_iteration.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 First iteration of strand-specific subtracks
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
+
+
+
 
 <a href="File:Subtracks_genes_dialog_first_iteration.png"
 class="image"><img
@@ -373,24 +373,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/270px-Subtracks_genes_dialog_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/360px-Subtracks_genes_dialog_first_iteration.png 2x"
 width="180" height="82" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtracks_genes_dialog_first_iteration.png"
 class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Subtrack selection dialog box
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 The "subtrack table" option defines the values on which to partition the
@@ -407,9 +407,9 @@ the user clicks on the titlebar where it says "Showing 2 of 2 tracks",
 he can control the display of the subtracks using the dialog on the
 lower right.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtracks_genes_second_iteration.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/180px-Subtracks_genes_second_iteration.png"
@@ -417,28 +417,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/270px-Subtracks_genes_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/360px-Subtracks_genes_second_iteration.png 2x"
 width="180" height="148" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtracks_genes_second_iteration.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Second iteration of strand-specific subtracks
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
+
+
+
 
 <a href="File:Subtracks_genes_dialog_second_iteration.png"
 class="image"><img
@@ -447,24 +447,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/270px-Subtracks_genes_dialog_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/360px-Subtracks_genes_dialog_second_iteration.png 2x"
 width="180" height="88" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtracks_genes_dialog_second_iteration.png"
 class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Second iteration of the subtrack selection dialog box
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 This is good, but has two aesthetic issues. First, the labels on the
 subtracks appear as "+1" and "-1" which is not intuitive. Similarly, the
@@ -505,9 +505,9 @@ right.
 
   
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
 
 <a href="File:Subtrack_selection_table_overview.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/180px-Subtrack_selection_table_overview.png"
@@ -515,28 +515,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/270px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/360px-Subtrack_selection_table_overview.png 2x"
 width="180" height="63" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtrack_selection_table_overview.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 ChIP-seq subtracks
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:182px;">
+
+
+
+
+
 
 <a href="File:Subtrack_selection_table.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
@@ -544,24 +544,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
 width="180" height="78" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Subtrack_selection_table.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 modENCODE ChIP-seq subtrack selector
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ### <span id="Multidimensional_Subtracks" class="mw-headline">Multidimensional Subtracks</span>
 
@@ -694,18 +694,18 @@ its label will still be printed to show that the subtrack exists. If you
 prefer, you can set **hide empty subtracks** to a true value, in which
 case the display of empty subtracks will be suppressed.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Creating_and_Managing_Subtracks_with_GBrowse2&oldid=20297>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -713,30 +713,29 @@ Retrieved from
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 - [Configuration](Category%3AConfiguration "Category%3AConfiguration")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -746,81 +745,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -830,31 +825,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 19:42 on 17 April
   2012.</span>
@@ -876,4 +870,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

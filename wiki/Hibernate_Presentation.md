@@ -1,55 +1,55 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Hibernate Presentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Chado API via Java & Hibernate, Robert Bruggner, VectorBase.org. This
 Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf"
 class="internal" title="HibernateChadoAPI.pdf">Robert's presentation</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Overview</span>](#Overview)
@@ -85,7 +85,7 @@ class="internal" title="HibernateChadoAPI.pdf">Robert's presentation</a>.
 - [<span class="tocnumber">16</span>
   <span class="toctext">Acknowledgements</span>](#Acknowledgements)
 
-</div>
+
 
 ##### <span id="Overview" class="mw-headline">Overview</span>
 
@@ -149,9 +149,9 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 
 ##### <span id="POJO_and_HBM_Example_.EF.AC.81le_-_CV" class="mw-headline">POJO and HBM Example ﬁle - CV</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  public class CV {
@@ -173,13 +173,13 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
  }
 ```
 
-</div>
 
-</div>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
+
+
 
 ``` de1
  <hibernate-mapping>
@@ -204,15 +204,15 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
  </hibernate-mapping>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="HBM_Example_CVTerm" class="mw-headline">HBM Example CVTerm</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  public class CVTerm {
@@ -236,13 +236,13 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 }
 ```
 
-</div>
 
-</div>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
+
+
 
 ``` de1
  <hibernate-mapping>
@@ -276,18 +276,18 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
   </hibernate-mapping>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Hibernate_Object_Retrieve" class="mw-headline">Hibernate Object Retrieve</span>
 
 One can use Java, Hibernate Query Language, or SQL, this example uses
 HQL
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  import org.hibernate.Session;
@@ -319,15 +319,15 @@ HQL
  System.out.println(cv.getName());
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Hibernate_Object_Update" class="mw-headline">Hibernate Object Update</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  import org.hibernate.Session;
@@ -355,15 +355,15 @@ HQL
  session.commit();
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Hibernate_Save" class="mw-headline">Hibernate Save</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  import org.hibernate.Session;
@@ -397,15 +397,15 @@ HQL
  System.out.println(new_cvterm.getCvterm_id());
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Inheritance" class="mw-headline">Inheritance</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <hibernate-mapping>
@@ -443,9 +443,9 @@ HQL
  </hibernate-mapping>
 ```
 
-</div>
 
-</div>
+
+
 
 Write custom methods for speciﬁc sub-classes
 
@@ -464,9 +464,9 @@ Write custom methods for speciﬁc sub-classes
 
 ##### <span id="Problem_1_-_GMOD_Example" class="mw-headline">Problem 1 - GMOD Example</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  // Set up our session and begin transaction
@@ -500,15 +500,15 @@ Write custom methods for speciﬁc sub-classes
  xfile.createNewFeatureSynonym("scully", null_pub, CVTerms.EXACT_SYNONYM);
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_2_-_GMOD_Example" class="mw-headline">Problem 2 - GMOD Example</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  // Create a new transcript for our gene.
@@ -545,15 +545,15 @@ Write custom methods for speciﬁc sub-classes
  }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problems_3.2C_4.2C_.26_5_-_GMOD_Update_.26_Delete" class="mw-headline">Problems 3, 4, & 5 - GMOD Update & Delete</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  // Lets update our name...
@@ -580,9 +580,9 @@ Write custom methods for speciﬁc sub-classes
  session.getTransaction().commit();
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -601,18 +601,18 @@ Write custom methods for speciﬁc sub-classes
 - GMOD
 - NIAID
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Hibernate_Presentation&oldid=22231>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -620,30 +620,29 @@ Retrieved from
 - [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Java](Category%3AJava "Category%3AJava")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -653,81 +652,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -737,31 +732,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Hibernate_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:16 on 9 October
   2012.</span>
@@ -783,4 +777,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

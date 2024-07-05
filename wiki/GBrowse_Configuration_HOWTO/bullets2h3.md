@@ -1,45 +1,45 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse 1 Configuration HOWTO</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [GBrowse Configuration
 HOWTO/bullets2h3](http://gmod.org/mediawiki/index.php?title=GBrowse_Configuration_HOWTO/bullets2h3&redirect=no "GBrowse Configuration HOWTO/bullets2h3"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This document provides information on configuring version 1 of the
 [Generic Genome Browser (GBrowse)](../GBrowse.1 "GBrowse"), part of the
@@ -47,13 +47,13 @@ This document provides information on configuring version 1 of the
 <a href="../GBrowse_2_Configuration_HOWTO" class="mw-redirect"
 title="GBrowse 2 Configuration HOWTO">GBrowse 2 Configuration HOWTO</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Creating
   Databases From Scratch</span>](#Creating_Databases_From_Scratch)
@@ -134,7 +134,7 @@ title="GBrowse 2 Configuration HOWTO">GBrowse 2 Configuration HOWTO</a>.
 - [<span class="tocnumber">13</span> <span class="toctext">Further
   Information</span>](#Further_Information)
 
-</div>
+
 
 # <span id="Creating_Databases_From_Scratch" class="mw-headline">Creating Databases From Scratch</span>
 
@@ -297,7 +297,7 @@ Adaptors](../GBrowse_Adaptors "GBrowse Adaptors") page.
 
 db_args
 
-<div class="indent">
+
 
 Arguments to pass to the adaptor for it to use when making a database
 connection. The exact format will depend on the adaptor you're using.
@@ -345,7 +345,7 @@ The indicated directory should contain one or more [GFF](../GFF "GFF")
 and [FASTA](../Glossary#FASTA "Glossary") files, distinguished by the
 filename extensions `.gff` and `.fa` respectively.
 
-</div>
+
 
 user  
 The user name for the gbrowse script to log in under if you are not
@@ -397,7 +397,7 @@ invokes the browser for the first time. The default is 800.
 
 default features
 
-<div class="indent">
+
 
 The default features option is a space-delimited list of tracks to turn
 on by default. You will probably need to change this. For example:
@@ -411,11 +411,11 @@ annotation plugin track by default, preface the plugin's name with
         default features = Genes ORFs Centromeres:overview
                            plugin:RestrictionAnnotator
 
-</div>
+
 
 initial landmark
 
-<div class="indent">
+
 
 This option controls what feature to show when the user first visits a
 GBrowse database and has not yet performed a search. If not present,
@@ -426,7 +426,7 @@ Example:
 
           initial landmark = Chr1
 
-</div>
+
 
 truecolor  
 If this option is present and true, then GBrowse will create 24-bit
@@ -449,14 +449,14 @@ will all be interpreted in terms of the specified units.
 
 zoom levels
 
-<div class="indent">
+
 
 GBrowse allows unlimited zoom levels. This option selects the width of
 each level, in bp. For example:
 
          zoom levels = 1000 2000 5000 10000 20000 40000 100000 200000
 
-</div>
+
 
 region segment  
 If this configuration option is set, a new "region panel" will appear
@@ -466,18 +466,18 @@ pairs. The default value is 50000.
 
 region sizes
 
-<div class="indent">
+
 
 This contains a space-delimited list of region panel sizes to present to
 the user in a popup menu:
 
         region sizes   = 5000 10000 20000
 
-</div>
+
 
 show sources
 
-<div class="indent">
+
 
 A `0` (false) or `1` (true) value which controls whether or not to show
 the popup menu displaying the defined data sources. Set this to `0` if
@@ -487,7 +487,7 @@ this option defaults to `1` (true).
 Note that all data sources will need to have this option defined in
 order for it to take effect across all databases.
 
-</div>
+
 
 default varying  
 The track selection table will be sorted alphabetically, by default;
@@ -514,7 +514,7 @@ This is the color for the background of the detailed view.
 
 header
 
-<div class="indent">
+
 
 This is a header to print at the top of the browser page. It is any
 valid HTML, and can span multiple lines provided that the continuation
@@ -529,11 +529,11 @@ Example:
 
        header = <h1>Welcome to the Volvox Sequence Page</h1>
 
-</div>
+
 
 footer
 
-<div class="indent">
+
 
 This is a footer to print at the bottom of the browser page. It is any
 valid HTML, and can span multiple lines provided that the continuation
@@ -557,11 +557,11 @@ Example:
             </TR>
             </table>
 
-</div>
+
 
 examples
 
-<div class="indent">
+
 
 You can provide GBrowse with some canned examples of "interesting
 regions" for the user to click on. The examples option, if present,
@@ -569,11 +569,11 @@ provides a space-delimited list of interesting regions. For example:
 
           examples = II  NPY1 NAB2 Orf:YGL123W
 
-</div>
+
 
 instructions, search_instructions, navigation_instructions
 
-<div class="indent">
+
 
 You may override the default instructions (as defined in the
 language-specific configuration files in conf/lang) by setting these
@@ -581,11 +581,11 @@ options. For example:
 
             instructions = "Type in the name of a contig or clone."
 
-</div>
+
 
 category tables
 
-<div class="indent">
+
 
 This option allows you to group the on/off checkboxes for set of tracks
 into a rectangular M x N table. It can be used to highlight the
@@ -620,13 +620,13 @@ See the <a href="http://cloud.gmod.org/gbrowse2/tutorial/tutorial.html"
 class="external text" rel="nofollow">GBrowse2 Admin Tutorial</a> for
 more details.
 
-</div>
+
 
 instructions section, search section, overview section, region section,
 details section, tracks section, display_settings section, upload_tracks
 section
 
-<div class="indent">
+
 
 These options control which sections are displayed and whether they are
 initially open or collapsed. Their values are one of:
@@ -651,11 +651,11 @@ section only. Turning off the search section will also disable the
 navigation buttons. If you want to disable searching selectively, you
 should use the "no search" option instead.
 
-</div>
+
 
 html1, html2, html3, html4, html5, html6
 
-<div class="indent">
+
 
 These options allow you to insert HTML into the GBrowse page at
 strategic places. Eventually this will be replaced with an HTML template
@@ -701,11 +701,11 @@ class="external text" rel="nofollow">Bio::DB::GFF::RelSegment</a> for
 details). The second argument is a hashref containing the user's
 settings for the current page.
 
-</div>
+
 
 keystyle, empty_tracks
 
-<div class="indent">
+
 
 These two general options control the appearance of the keys printed on
 the detailed view.
@@ -729,11 +729,11 @@ features in it. Possible values are:
 
 The default value is `key`.
 
-</div>
+
 
 background, postgrid
 
-<div class="indent">
+
 
 These two options can be used to place custom background images in the
 details panel and are useful for advanced operations such as colorizing
@@ -766,11 +766,11 @@ looks, see <a
 href="http://plasmodb.org/cgi-bin/gbrowse/plasmodb/?name=Pf3D7_11:1278854..1310722;label=AnnotatedGenes-SyntenySpansVivaxMC-SyntenyGenesVivaxMC-SyntenySpansYoeliiMC-SyntenyGenesYoeliiMC-SyntenySpansChabaudiMC-SyntenyGenesChabaudiMC-SyntenySpansKnowlesiMC-SyntenyGenesKnowlesiMC-SyntenySpansBergheiMC-SyntenyGenesBergheiMC;h_feat=PF11_0344@yellow"
 class="external text" rel="nofollow">PlasmoDB</a>.
 
-</div>
+
 
 image_padding = 25, pad_left = 50, pad_right = 30
 
-<div class="indent">
+
 
 The `image_padding` option will add the indicated amount of whitespace
 (in pixels) to the right and left of the detail panel. The default is 25
@@ -781,11 +781,11 @@ being cut off.
 You can individually adjust the left and right padding using `pad_left`
 and `pad_right`, which, if present, will supersede `image_padding`.
 
-</div>
+
 
 show track categories
 
-<div class="indent">
+
 
 If this option is set to a true value, then tracks that have been
 assigned to categories (using the "category" option described later),
@@ -795,7 +795,7 @@ displayed in a track labeled "Protein match (vertebrate)".
 
 The default is false.
 
-</div>
+
 
 ### <span id="Behavior_Options" class="mw-headline">Behavior Options</span>
 
@@ -808,7 +808,7 @@ cleanly into one category or the other.
 
 aggregators
 
-<div class="indent">
+
 
 This option is only valid when used with Bio::DB::GFF adaptors, and
 lists one or more aggregators to use for complex features. It is
@@ -829,11 +829,11 @@ Do not use aggregators with the
 class="external text" rel="nofollow">Bio::DB::SeqFeature::Store</a>,
 BioSQL, or Chado [adaptors](../GBrowse_Adaptors "GBrowse Adaptors").
 
-</div>
+
 
 reference class
 
-<div class="indent">
+
 
 **Note:** This option is used only with the
 <a href="http://bioperl.org/wiki/Module:Bio::DB::GFF"
@@ -845,11 +845,11 @@ features are placed on. The default is Sequence. If you want to use
 another class, such as Contig, please indicate the class here (if you
 don't, certain features such as the keyword search will fail):
 
-</div>
+
 
 drag and drop
 
-<div class="indent">
+
 
 If this is set to true, then code will be activated that lets the user
 pick up and drag individual tracks in order to change their vertical
@@ -859,7 +859,7 @@ activated.
 
 It is off by default for compatibility with older browsers.
 
-</div>
+
 
 disable wildcards  
 Ordinarily a user can type in "YAL\*" to find all features with names
@@ -877,7 +877,7 @@ searches are returning too few. (This option was added in version 1.70).
 
 max segment, min segment
 
-<div class="indent">
+
 
 These options control the size of segments that will be shown in the
 detailed view.
@@ -892,7 +892,7 @@ If the user tries to view a segment smaller than the `min segment`
 option, then the segment will be resized to be this size. The default is
 20 bp.
 
-</div>
+
 
 default segment  
 The default segment option sets the width of the segment (bp) that will
@@ -912,7 +912,7 @@ value.
 
 cache time
 
-<div class="indent">
+
 
 The server will cache track images for a period of time in order to
 speed up performance. After the time has expired, the cached version of
@@ -923,11 +923,11 @@ If you are debugging your config file and want to see uncached images,
 call GBrowse with the CGI option `nocache=1`. There is no equivalent
 configuration option.
 
-</div>
+
 
 version
 
-<div class="indent">
+
 
 An optional numeric version for this configuration file. Every time
 GBrowse runs a user's request, it checks the value of the config file
@@ -941,7 +941,7 @@ Example:
 
       version = 1.1
 
-</div>
+
 
 request timeout  
 This is the timeout value for requests. If a user requests a large
@@ -959,7 +959,7 @@ reference if you wish.
 
 onload
 
-<div class="indent">
+
 
 This is the name of JavaScript function(s) to be called via the page
 body's onload event handler. Any text included here will be used to
@@ -976,11 +976,11 @@ will result in
 
      <body onload="alert('I am about to do something');doSomething('arg1','arg2')">
 
-</div>
+
 
 automatic classes
 
-<div class="indent">
+
 
 When the user types in a search string that is not qualified by a class
 (as in `EST:yk1234.5`), GBrowse will automatically search for a matching
@@ -997,7 +997,7 @@ Symbol, Gene and Clone. The search stops when the first match is found.
 Otherwise, the browser will proceed to a full text search of all the
 comment fields.
 
-</div>
+
 
 search attributes (<a href="http://bioperl.org/wiki/Module:Bio::DB::SeqFeature::Store"
 class="external text" rel="nofollow">Bio::DB::SeqFeature::Store</a> [adaptor](../GBrowse_Adaptors "GBrowse Adaptors") only)  
@@ -1013,7 +1013,7 @@ list of attribute names to the `search attributes` option.
 
 no search
 
-<div class="indent">
+
 
 If you don't want the "Landmark or Region" textbox to appear, set this
 to true. The user will still be able to search the database by appending
@@ -1021,7 +1021,7 @@ to true. The user will still be able to search the database by appending
 
              no search = 1
 
-</div>
+
 
 no autosearch  
 If this option is set to a true value, then users' previous search will
@@ -1031,7 +1031,7 @@ Region" box and the user will have to press "Search" to reexecute it.
 
 das mapmaster
 
-<div class="indent">
+
 
 This option, which should appear somewhere in the `[GENERAL]` section,
 indicates that the database should be made available as a
@@ -1045,11 +1045,11 @@ reference servers are.)
 Please see DAS_HOWTO for more information on using
 <a href="../DAS" class="mw-redirect" title="DAS">DAS</a> with GBrowse.
 
-</div>
+
 
 proxy, http proxy, ftp proxy
 
-<div class="indent">
+
 
 If your web server is behind a firewall and needs to use a proxy in
 order to access remote HTTP or FTP sites, then one or more of these
@@ -1063,11 +1063,11 @@ proxy:
 
       proxy = http://myproxy.myorg.com:9000
 
-</div>
+
 
 session driver, session args
 
-<div class="indent">
+
 
 These options fine-tune how GBrowse manages its state-maintaining
 sessions. GBrowse uses
@@ -1111,11 +1111,11 @@ to work well. If you change these defaults, be sure to change them in
 **all** configuration files; otherwise weird stuff will happen when
 moving from one data source to another.
 
-</div>
+
 
 remember settings time
 
-<div class="indent">
+
 
 The length of time to remember page-specific settings in the format
 `+NNNu`, where `NNN` is a number and `u` is a unit (`w` = weeks, `d` =
@@ -1131,7 +1131,7 @@ The default value is 1 month.
 
 See the CGI manual page for more information on the time format.
 
-</div>
+
 
 remember cookie time  
 This is the length of time before the user's session cookie will stay on
@@ -1145,7 +1145,7 @@ remember source time
 
 msie hack
 
-<div class="indent">
+
 
 GBrowse uses HTTP POST to transfer the current page settings to the web
 server. Because of the way that Microsoft Internet Explorer caches
@@ -1157,7 +1157,7 @@ request when it detects MSIE in use. This will fix the "Back" button
 issue, but will put very long URLs in the Location box. It is your
 choice which of these is more annoying to your users.
 
-</div>
+
 
 suppress_menu  
 This option will cause the browser to ignore your configuration file
@@ -1481,7 +1481,7 @@ Valid options are as follows:
 
 feature
 
-<div class="indent">
+
 
 This relates the track to one or more feature types as they appear in
 the database. Recall that each feature has a method and source. This is
@@ -1501,11 +1501,11 @@ same track and display them in a similar fashion.
 
 It isn't possible to use wild-cards or pattern matching.
 
-</div>
+
 
 remote feature
 
-<div class="indent">
+
 
 This relates the track to a remote feature track somewhere on the
 Internet. The value is a http: or ftp: URL, and may correspond to a
@@ -1516,7 +1516,7 @@ ignored, but the "citation" and "key" options are honored. Example:
 
     remote feature = http://www.wormbase.org/cgi-bin/das/wormbase?type=mRNA
 
-</div>
+
 
 glyph
 
@@ -1638,7 +1638,7 @@ for details.
 
 group_on
 
-<div class="indent">
+
 
 For Bio::DB::SeqFeature::Store databases *only*, the group_on field
 allows you to group features together by display_name, target or any
@@ -1650,7 +1650,7 @@ same vertical scaling. Example:
 
 (this feature is under refinement and may change in the future)
 
-</div>
+
 
 restrict  
 This option allows you to restrict who is allowed to view the current
@@ -1659,7 +1659,7 @@ track by host name, IP address or username/password. See [Authentication
 
 category
 
-<div class="indent">
+
 
 This option allows you to group tracks into different groups on the
 GBrowse display in addition to the default group called 'General'. For
@@ -1697,7 +1697,7 @@ See the <a href="http://cloud.gmod.org/gbrowse2/tutorial/tutorial.html"
 class="external text" rel="nofollow">GBrowse2 Admin Tutorial</a> for
 more details.
 
-</div>
+
 
 das category, das landmark, das flatten, das subparts, das superparts, das glyph, das type  
 All these options pertain to exporting the GBrowse database as a DAS
@@ -2391,18 +2391,18 @@ Have fun!
 <a href="mailto:lstein@cshl.edu" class="external text"
 rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_1_Configuration_HOWTO&oldid=18557>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
@@ -2411,30 +2411,29 @@ Retrieved from
 - [Documentation](../Category%3ADocumentation "Category%3ADocumentation")
 - [Needs Editing](../Category%3ANeeds_Editing "Category%3ANeeds Editing")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -2442,49 +2441,47 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="../Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -2493,32 +2490,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -2528,31 +2523,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_1_Configuration_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 16:45 on 15 August
   2011.</span>
@@ -2574,4 +2568,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,109 +1,109 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:GBrowse_syn_logo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/600px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/GBrowse_syn_logo.png 2x"
 width="400" height="128" alt="GBrowse_syn logo" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Beta release
 - Development: active
 - Support: active
 
-<div class="compBoxHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="https://github.com/GMOD/GBrowse" class="external text"
   rel="nofollow">Download</a>
 - <a href="../extras/2008GMODCommunitySurvey.html#GBrowse_syn"
   class="external text" rel="nofollow">2008 Survey</a>
 
-<div class="compBoxHdr">
+
 
 [Cloud component](Cloud.1 "Cloud")
 
-</div>
+
 
 Included in
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](Cloud.1 "Cloud")
 
-</div>
 
-</div>
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About Generic
   Synteny Browser
@@ -147,7 +147,7 @@ width="150" height="86" alt="Cloud component" />](Cloud.1 "Cloud")
   - [<span class="tocnumber">9.1</span>
     <span class="toctext">GBrowse_syn Logo</span>](#GBrowse_syn_Logo)
 
-</div>
+
 
 ## <span id="About_Generic_Synteny_Browser_.28GBrowse_syn.29" class="mw-headline">About Generic Synteny Browser (GBrowse_syn)</span>
 
@@ -165,9 +165,9 @@ and later).
 
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="File:GBrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/500px-GBrowse_syn.png"
@@ -175,23 +175,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/750px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/1000px-GBrowse_syn.png 2x"
 width="500" height="160" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_syn.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 GBrowse_syn, as implemented at WormBase
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -381,18 +381,18 @@ rel="nofollow">Linn-Benton Community College</a>.
 Raw tool data at [GBrowse_syn/tool
 data](GBrowse_syn/tool_data "GBrowse syn/tool data")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn&oldid=24704>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -415,13 +415,13 @@ Retrieved from
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse
@@ -466,30 +466,29 @@ title="Property:Has full name (page does not exist)">Has full name</a> | Gener
 | [Written in language](Property%3AWritten_in_language "Property:Written in language") | Perl <span class="smwsearch">[+](Special%3ASearchByProperty/Written-20in-20language/Perl "Special%3ASearchByProperty/Written-20in-20language/Perl")</span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [GBrowse syn#https://github.com/GMOD/GBrowse](GBrowse_syn.1#https:.2F.2Fgithub.com.2FGMOD.2FGBrowse "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse "Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23https%3A-2F-2Fgithub.com-2FGMOD-2FGBrowse")</span>, [GBrowse syn](GBrowse_syn.1#_3f191793107a24a15ada3afac9cf75ac "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23_3f191793107a24a15ada3afac9cf75ac "Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23 3f191793107a24a15ada3afac9cf75ac")</span>, [GBrowse syn](GBrowse_syn.1#_96d0639ca7bbe782fb4a48f637423eca "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23_96d0639ca7bbe782fb4a48f637423eca "Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23 96d0639ca7bbe782fb4a48f637423eca")</span>, [GBrowse syn](GBrowse_syn.1#_59b6f51594a7b5445e19637374761ae9 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23_59b6f51594a7b5445e19637374761ae9 "Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23 59b6f51594a7b5445e19637374761ae9")</span> and [GBrowse syn#http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/](GBrowse_syn.1#http:.2F.2Fsolgenomics.net.2Fgbrowse2.2Fbin.2Fgbrowse_syn.2Fsol3.2F "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23http%3A-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse_syn-2Fsol3-2F "Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23http:-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse syn-2Fsol3-2F")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -497,81 +496,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3AGBrowse_syn" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -581,31 +576,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:39 on 15 October
   2013.</span>
@@ -627,4 +621,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,46 +1,46 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">2011 GMOD Spring Training</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:2011GMODSpringTrainingLogo.png" class="image"
 title="2011 GMOD Spring Training March 8-12, 2011"><img
@@ -49,13 +49,13 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="600" height="238"
 alt="2011 GMOD Spring Training March 8-12, 2011" /></a>
 
-</div>
 
-</div>
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:2011GMODSpringTraining.jpg" class="image"
 title="March 2011 GMOD Spring Training Participants, minus a few"><img
@@ -64,19 +64,19 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="600" height="177"
 alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
 
-</div>
 
-</div>
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Course
   Sessions → Online
@@ -106,9 +106,9 @@ alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
 - [<span class="tocnumber">11</span>
   <span class="toctext">Feedback</span>](#Feedback)
 
-</div>
 
-</div>
+
+
 
 The ***2011 GMOD Spring Training*** was held March 8-12 at the
 <a href="http://www.nescent.org" class="external text"
@@ -126,7 +126,7 @@ participants and admission was competitive.
 The course sessions will become online tutorials on this wiki following
 the course.
 
-<div class="indent">
+
 
 <table>
 <colgroup>
@@ -170,7 +170,7 @@ Tutorial</a></li>
 </tbody>
 </table>
 
-</div>
+
 
 # <span id="Schedule" class="mw-headline">Schedule</span>
 
@@ -239,7 +239,7 @@ through Saturday March 12</td>
 <td
 style="text-align: center; background-color: #ffffcc;"><strong><strong>2011
 GMOD Spring Training</strong></strong>
-<div style="font-weight: normal">
+
 A week long hands-on course on GMOD Component installation,
 configuration, and usage. The course will cover these components in
 detail:
@@ -253,7 +253,7 @@ title="GBrowse syn">GBrowse_syn</a> • <a href="Tripal.1"
 title="Tripal">Tripal</a> • <a href="GFF3" title="GFF3">GFF3</a> • <a
 href="Galaxy.1" title="Galaxy">Galaxy</a> • <a href="SOBA.1"
 title="SOBA">SOBA</a></strong></p>
-</div></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -288,7 +288,7 @@ rel="nofollow">University of California, Berkeley</a> |
 
 # <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
-<div class="emphasisbox">
+
 
 *The course requires a minimal level of Linux systems administration
 knowledge* (see [Computing
@@ -306,17 +306,17 @@ GBrowse without [MySQL](MySQL "MySQL")) up and running with the example
 GBrowse data.* This also requires installing Apache, and
 [BioPerl](BioPerl "BioPerl") and all its dependencies.
 
-</div>
+
 
 # <span id="System_Requirements" class="mw-headline">System Requirements</span>
 
-<div class="floatright">
+
 
 <a href="http://www.vmware.com" rel="nofollow" title="VMware"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VMware" /></a>
 
-</div>
+
 
 <span style="font-size: 110%">**Participants are required to bring their
 own laptops, already capable of running a virtual system (e.g. <a
@@ -392,14 +392,14 @@ instructor costs and incidentals.
 
 # <span id="Sponsors" class="mw-headline">Sponsors</span>
 
-<div class="floatright">
+
 
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="100" height="93" alt="NESCent" /></a>
 
-</div>
+
 
 The <a href="http://nescent.org" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> is
@@ -410,14 +410,14 @@ evolutionary biology and improving evolution education, and offers
 resources for scientists, educators, and the general public that meet
 these goals.
 
-<div class="floatleft">
+
 
 <a href="File:GalaxyLogoBoxed.png" class="image" title="Galaxy"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
 width="130" height="45" alt="Galaxy" /></a>
 
-</div>
+
 
 The [Galaxy Project](Galaxy.1 "Galaxy") is also sponsoring this course
 and all other [GMOD Americas
@@ -434,12 +434,12 @@ participation in this event.
 
 # <span id="Get_the_Word_Out.21" class="mw-headline">Get the Word Out!</span>
 
-<div class="floatright">
+
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170" alt="GMOD Americas 2011 Flier" />](File:GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
 
-</div>
+
 
 Help spread the word about GMOD Spring Training and other [GMOD Americas
 2011](GMOD_Americas_2011 "GMOD Americas 2011") events by posting and
@@ -493,29 +493,26 @@ overall.</strong></td>
 <tr class="odd">
 <td>Yes</td>
 <td style="text-align: right;"> 83% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 83px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>Yes, with reservations</td>
 <td style="text-align: right;"> 17% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 17px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>No</td>
 <td style="text-align: right;"> 0% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 0px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table></td>
@@ -536,47 +533,42 @@ style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; backg
 <tr class="odd">
 <td>5 (very good)</td>
 <td style="text-align: right;"> 73% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 73px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>4</td>
 <td style="text-align: right;"> 23% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 23px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>3 (average)</td>
 <td style="text-align: right;"> 5% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 5px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="even">
 <td>2</td>
 <td style="text-align: right;"> 0% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 0px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 <tr class="odd">
 <td>1 (very poor)</td>
 <td style="text-align: right;"> 0% </td>
-<td><div
-style="margin-left: 0.5em; margin-right: 0.5em; border: 1px solid #bbbbbb; background-color: white; height: 1em; width: 100px">
-<div style="width: 0px; height: 1em; background-color: blue">
-&#10;</div>
-</div></td>
+<td>
+
+&#10;
+</td>
 </tr>
 </tbody>
 </table></td>
@@ -599,18 +591,18 @@ The "Yes, with reservations" responses were:
   bit overwhelmed...
 - I feel some sessions need more time.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=2011_GMOD_Spring_Training&oldid=27873>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -621,30 +613,29 @@ Retrieved from
   Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 - [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -654,81 +645,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -738,31 +725,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2011_GMOD_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:28 on 11 February
   2020.</span>
@@ -784,4 +770,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

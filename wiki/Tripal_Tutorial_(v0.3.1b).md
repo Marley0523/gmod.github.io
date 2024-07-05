@@ -1,52 +1,52 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Tripal Tutorial (v0.3.1b)</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Introduction
   to Tripal</span>](#Introduction_to_Tripal)
@@ -240,9 +240,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
       <span class="toctext">Adding a GBrowse
       Image</span>](#Adding_a_GBrowse_Image_2)
 
-</div>
 
-</div>
+
+
 
 ## <span id="Introduction_to_Tripal" class="mw-headline">Introduction to Tripal</span>
 
@@ -327,7 +327,7 @@ The session for Chado was presented yesterday
 for introdcutions. However, one thing to remember is that Chado has a
 modular structure:
 
-<div class="indent">
+
 
 - Audit - for database audits
 - Companalysis - for data from computational analysis
@@ -348,7 +348,7 @@ modular structure:
 - Stock - for specimens and biological collections
 - WWW -
 
-</div>
+
 
 Tripal is also modular along these same designations.
 
@@ -1071,12 +1071,12 @@ cron launch the crontab editor:
   sudo crontab -e
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
   
 Add this line to the crontab
@@ -1778,12 +1778,12 @@ need to add a second cron entry:
    sudo crontab -e
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
   
 Add this line to the crontab
@@ -2504,7 +2504,7 @@ We will need to use the advanced options to associate relationships and
 a database reference with these peptides. Here is an example of a
 definition line in the FASTA file:
 
-<div class="indent">
+
 
 ` `
 
@@ -2515,7 +2515,7 @@ dbxref=FlyBase_Annotation_IDs:CG12567-PA,FlyBase:FBpp0112427,REFSEQ:NP_001015384
 MD5=246ea191b614901ccb7ba87d545d6308; length=349; release=r5.34;
 species=Dmel;
 
-</div>
+
 
   
 We will use regular expressions to pull out the necessary information.
@@ -3285,48 +3285,47 @@ If you are using the default Tripal view
 
 #### <span id="Adding_a_GBrowse_Image_2" class="mw-headline">Adding a GBrowse Image</span>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_(v0.3.1b)&oldid=21548>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tripal](Category%3ATripal "Category%3ATripal")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -3336,81 +3335,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -3420,31 +3415,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(v0.3.1b)"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:27 on 5 September
   2012.</span>
@@ -3466,4 +3460,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

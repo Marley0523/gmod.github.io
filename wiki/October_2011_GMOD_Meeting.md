@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">October 2011 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
 data-cellpadding="10">
@@ -46,14 +46,14 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:October2011Logo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/250px-October2011Logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/375px-October2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/500px-October2011Logo.png 2x"
 width="250" height="225" alt="October2011Logo.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td style="font-size: 180%; line-height: 120%"><strong>October 2011 <a
 href="Meetings" title="Meetings">GMOD Meeting</a></strong>
 <hr />
@@ -71,27 +71,26 @@ alt="Ontario Institute for Cancer Research" /></a></p></td>
 
   
 
-<div class="plainlinks"
-style="margin-right: 2em; padding: 0.5em 1em; border: gray 2px solid; text-align: center; background-color: #ffeedd;">
+
 
 <span style="font-size: 120%; line-height: 140%;">*Feel the need to
 Tweet?* Please use the
 <a href="https://twitter.com/#!/search?q=%23gmod11#!/search?q=#gmod11"
 class="external text" rel="nofollow">#gmod11 hashtag</a>.</span>
 
-</div>
+
 
   
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Registration</span>](#Registration)
@@ -131,9 +130,9 @@ class="external text" rel="nofollow">#gmod11 hashtag</a>.</span>
 - [<span class="tocnumber">4</span> <span class="toctext">Next
   Meeting</span>](#Next_Meeting)
 
-</div>
 
-</div>
+
+
 
 The next [GMOD meeting](Meetings "Meetings") is being held in October
 12-13, 2011 at the <a href="http://oicr.on.ca/" class="external text"
@@ -164,11 +163,11 @@ Registration is now closed.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td data-valign="top"><div class="floatright">
+<td data-valign="top">
 <a href="http://baderlab.org/" rel="nofollow" title="Gary D. Bader"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Gary.png" width="150" height="157"
 alt="Gary D. Bader" /></a>
-</div>
+
 Gary works on biological network analysis and pathway information
 resources as an Associate Professor at The Donnelly Centre at the
 University of Toronto. He completed post-doctoral work in the group of
@@ -193,11 +192,11 @@ information on Gary.</td>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="floatleft">
+<td>
 <a href="http://www.cs.toronto.edu/~brudno/" rel="nofollow"
 title="Michael Brudno"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/Mike.jpg"
 width="306" height="205" alt="Michael Brudno" /></a>
-</div>
+
 Mike's main research interest is the development of computational
 methods for the analysis of High throughput, a.k.a. Next-Generation
 sequencing data. His group is working on algorithms for assembly,
@@ -570,18 +569,18 @@ convenient to OICR.
 [April 2012 GMOD
 Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=October_2011_GMOD_Meeting&oldid=21987>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -591,30 +590,29 @@ Retrieved from
 - [BioMart](Category%3ABioMart "Category%3ABioMart")
 - [InterMine](Category%3AInterMine "Category%3AInterMine")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -624,81 +622,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -708,31 +702,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/October_2011_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:54 on 8 October
   2012.</span>
@@ -754,4 +747,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

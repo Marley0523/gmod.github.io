@@ -1,57 +1,57 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Spring 2010 Logo Program</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="http://www.linnbenton.edu/go/graphic-arts" rel="nofollow"
 title="Linn-Benton Community College"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Lbcclogo.jpg" width="180" height="75"
 alt="Linn-Benton Community College" /></a>
 
-</div>
 
-</div>
 
-<div style="border: 1px solid black">
+
+
+
 
 |  |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|----|
@@ -84,7 +84,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/240px-InterMineLogo.png 2x"
 width="120" height="15" alt="InterMineLogo.png" /></a> |
 
-</div>
+
 
   
 
@@ -122,12 +122,12 @@ to discuss the project and design ideas.
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:ApolloLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/300px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/400px-ApolloLogo.png 2x"
 width="200" height="73" alt="ApolloLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="Apollo.1" title="Apollo">Apollo</a> genome annotation
 editor.</td>
 <td><strong><a href="mailto:audra.radke@gmail.com" class="external text"
@@ -141,12 +141,12 @@ class="external text" rel="nofollow">Jessica Hodgson</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><div style="margin: 1em">
+<td style="text-align: center;">
 <a href="File:CMapLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/150px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/200px-CMapLogo.png 2x"
 width="100" height="116" alt="CMapLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="CMap.1" title="CMap">CMap</a> comparative map viewer.</td>
 <td><strong>Kathy Bracken</strong>, Halie French, Ausa Wodtke,</td>
 <td>Ken Youens-Clark</td>
@@ -155,12 +155,12 @@ width="100" height="116" alt="CMapLogo.png" /></a>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:GBrowseLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/200px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/300px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png 2x"
 width="200" height="47" alt="GBrowseLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="GBrowse.1" title="GBrowse">GBrowse</a> genome browser</td>
 <td><strong><a href="mailto:alexisnb1@yahoo.com" class="external text"
 rel="nofollow">Alex Read</a></strong>, Sean O'Connell, <a
@@ -172,12 +172,12 @@ rel="nofollow">Matt Payne</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:GBrowse_syn_logo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/300px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png 2x"
 width="200" height="64" alt="GBrowse syn logo.png" /></a>
-</div></td>
+</td>
 <td><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse_syn</a>
 comparative genomics browser</td>
 <td><strong><a href="mailto:NextLevelDesignStudios@gmail.com"
@@ -191,12 +191,12 @@ class="external text" rel="nofollow">Natalie Price</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:InterMineLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="200" height="25" alt="InterMineLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="InterMine" title="InterMine">InterMine</a> biological data
 warehouse software</td>
 <td><strong>Sean O'Connell</strong>, Halie French, <a
@@ -209,12 +209,12 @@ Smith</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:MetabolicMineLogoWide.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/200px-MetabolicMineLogoWide.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/300px-MetabolicMineLogoWide.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/400px-MetabolicMineLogoWide.png 2x"
 width="200" height="43" alt="MetabolicMineLogoWide.png" /></a>
-</div></td>
+</td>
 <td>metabolicMine data warehouse for metabolic disease data</td>
 <td><strong><a href="mailto:lilly_oaks@yahoo.com" class="external text"
 rel="nofollow">Lilly Oaks</a></strong>, <a
@@ -228,12 +228,12 @@ Smith</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:PhenoteLogo_Medium.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/400px-PhenoteLogo_Medium.png 2x"
 width="200" height="38" alt="PhenoteLogo Medium.png" /></a>
-</div></td>
+</td>
 <td><a href="Phenote" title="Phenote">Phenote</a> ontology based
 phenotype (and other) annotation tool</td>
 <td><strong><a href="http://visual-mark.com" class="external text"
@@ -246,12 +246,12 @@ rel="nofollow">Matt Payne</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td><div style="margin: 1em">
+<td>
 <a href="File:PomBaseLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/300px-PomBaseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/400px-PomBaseLogo.png 2x"
 width="200" height="53" alt="PomBaseLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="http://www.pombase.org/" class="external text"
 rel="nofollow">PomBase</a> - model organism database for <em>S.
 pombe</em></td>
@@ -266,12 +266,12 @@ class="external text" rel="nofollow">Natalie Price</a></td>
 <td colspan="4"><hr /></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><div style="margin: 1em">
+<td style="text-align: center;">
 <a href="File:RedFlyLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/120px-RedFlyLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/180px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/240px-RedFlyLogo.png 2x"
 width="120" height="84" alt="RedFlyLogo.png" /></a>
-</div></td>
+</td>
 <td><a href="http://redfly.ccr.buffalo.edu" class="external text"
 rel="nofollow">REDfly</a> - Regulatory Element Database for
 <em>Drosophila</em></td>
@@ -306,23 +306,23 @@ Logos</a> below.</td>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:302px;">
+<td>
+
 <a href="File:LBCCGroupPic600.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/300px-LBCCGroupPic600.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/LBCCGroupPic600.jpg/450px-LBCCGroupPic600.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/LBCCGroupPic600.jpg 2x"
 width="300" height="158" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:LBCCGroupPic600.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 Most of the participating LBCC design students
-</div>
-</div>
-</div></td>
+
+
+</td>
 <td> </td>
 <td><p>The class included:</p>
 <ul>
@@ -374,82 +374,82 @@ highlights some of the logos that were not chosen.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:152px;">
+<td>
+
 <a href="File:ApolloLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/150px-ApolloLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/ApolloLogoOpt2.png/225px-ApolloLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a3/ApolloLogoOpt2.png 2x"
 width="150" height="183" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:ApolloLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="Apollo.1" title="Apollo">Apollo</a><br />
 Jessica Hodgson<br />
 jess.hodgson@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:152px;">
+
+
+</td>
+<td>
+
 <a href="File:ApolloLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/150px-ApolloLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ApolloLogoOpt3.png/225px-ApolloLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/ApolloLogoOpt3.png 2x"
 width="150" height="178" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:ApolloLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="Apollo.1" title="Apollo">Apollo</a><br />
 Jonathan Brim<br />
 jon.brim@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:152px;">
+
+
+</td>
+<td>
+
 <a href="File:CMapLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/39/CMapLogoOpt2.png/150px-CMapLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/39/CMapLogoOpt2.png/225px-CMapLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/CMapLogoOpt2.png 2x"
 width="150" height="170" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:CMapLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="CMap.1" title="CMap">CMap</a><br />
 Kathy Bracken
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:152px;">
+
+
+</td>
+<td>
+
 <a href="File:MetabolicMineLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/150px-MetabolicMineLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/MetabolicMineLogoOpt2.png/225px-MetabolicMineLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/MetabolicMineLogoOpt2.png 2x"
 width="150" height="127" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:MetabolicMineLogoOpt2.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 MetabolicMine<br />
 Audra Radke<br />
 audra.radke@gmail.com
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -462,245 +462,245 @@ audra.radke@gmail.com
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+<td>
+
 <a href="File:GbrowseLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/GbrowseLogoOpt2.png/220px-GbrowseLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/GbrowseLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/GbrowseLogoOpt2.png 2x"
 width="220" height="46" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:GbrowseLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="GBrowse.1" title="GBrowse">GBrowse</a><br />
 Matt Payne<br />
 matticusp@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:GBrowseLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/GBrowseLogoOpt3.png/220px-GBrowseLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/GBrowseLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/GBrowseLogoOpt3.png 2x"
 width="220" height="68" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:GBrowseLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="GBrowse.1" title="GBrowse">GBrowse</a><br />
 Sean O'Connell
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:GBrowse_synLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/GBrowse_synLogoOpt2.png/220px-GBrowse_synLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/GBrowse_synLogoOpt2.png 2x"
 width="220" height="73" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:GBrowse_synLogoOpt2.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="GBrowse_syn.1" title="GBrowse syn">GBrowse_syn</a><br />
 Natalie Price<br />
 thatonechick@gmail.com
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 <tr class="even">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+<td>
+
 <a href="File:GBrowse_synLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/GBrowse_synLogoOpt3.png/220px-GBrowse_synLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/GBrowse_synLogoOpt3.png 2x"
 width="220" height="51" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:GBrowse_synLogoOpt3.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="GBrowse_syn.1" title="GBrowse syn">GBrowse_syn</a><br />
 Mark Meadows<br />
 <a href="http://visual-mark.com/" class="external free"
 rel="nofollow">http://visual-mark.com/</a>
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:MetabolicMineLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/MetabolicMineLogoOpt3.png/220px-MetabolicMineLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MetabolicMineLogoOpt3.png 2x"
 width="220" height="51" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:MetabolicMineLogoOpt3.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 MetabolicMine<br />
 Darek Lakey<br />
 NextLevelDesignStudios@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:PhenoteLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/PhenoteLogoOpt2.png/220px-PhenoteLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/PhenoteLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/PhenoteLogoOpt2.png 2x"
 width="220" height="49" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:PhenoteLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="Phenote" title="Phenote">Phenote</a><br />
 Kathy Bracken
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 <tr class="odd">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+<td>
+
 <a href="File:PhenoteLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/PhenoteLogoOpt3.png/220px-PhenoteLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/PhenoteLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/PhenoteLogoOpt3.png 2x"
 width="220" height="64" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:PhenoteLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="Phenote" title="Phenote">Phenote</a><br />
 Matt Payne<br />
 matticusp@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:PomBaseLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/PomBaseLogoOpt2.png/220px-PomBaseLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/PomBaseLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/PomBaseLogoOpt2.png 2x"
 width="220" height="43" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:PomBaseLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="http://www.pombase.org/" class="external text"
 rel="nofollow">PomBase</a><br />
 Natalie Price<br />
 thatonechick@gmail.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:PomBaseLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0a/PomBaseLogoOpt3.png/220px-PomBaseLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/PomBaseLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/PomBaseLogoOpt3.png 2x"
 width="220" height="54" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:PomBaseLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="http://www.pombase.org/" class="external text"
 rel="nofollow">PomBase</a><br />
 Jonathan Brim<br />
 jon.brim@gmail.com
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 <tr class="even">
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+<td>
+
 <a href="File:CMapLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/CMapLogoOpt3.png/220px-CMapLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/CMapLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/CMapLogoOpt3.png 2x"
 width="220" height="153" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:CMapLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="CMap.1" title="CMap">CMap</a><br />
 Halie French
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:REDflyLogoOpt2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/REDflyLogoOpt2.png/220px-REDflyLogoOpt2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/REDflyLogoOpt2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/REDflyLogoOpt2.png 2x"
 width="220" height="127" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:REDflyLogoOpt2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="http://redfly.ccr.buffalo.edu/" class="external text"
 rel="nofollow">REDfly</a><br />
 Jeff Rosser<br />
 jeffkristen4@msn.com
-</div>
-</div>
-</div></td>
-<td><div class="thumb tright">
-<div class="thumbinner" style="width:222px;">
+
+
+</td>
+<td>
+
 <a href="File:REDflyLogoOpt3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/REDflyLogoOpt3.png/220px-REDflyLogoOpt3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/REDflyLogoOpt3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/REDflyLogoOpt3.png 2x"
 width="220" height="71" /></a>
-<div class="thumbcaption">
-<div class="magnify">
+
+
 <a href="File:REDflyLogoOpt3.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-</div>
+
 <a href="http://redfly.ccr.buffalo.edu/" class="external text"
 rel="nofollow">REDfly</a><br />
 Jessica Hodgson<br />
 jess.hodgson@gmail.com
-</div>
-</div>
-</div></td>
+
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -749,48 +749,47 @@ LBCC required a payment of US\$75 per participating organization. Past
 experience has shown that charging clients a nominal fee leads to a
 stronger commitment to the projects and to working with the students.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Spring_2010_Logo_Program&oldid=21167>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -798,81 +797,77 @@ aria-labelledby="p-namespaces-label">
 - <span id="ca-talk"><a href="Talk%3ASpring_2010_Logo_Program" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -882,31 +877,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Spring_2010_Logo_Program"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:56 on 24 August
   2012.</span>
@@ -928,4 +922,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn Help</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") is a
 [GBrowse](GBrowse.1 "GBrowse") based
@@ -45,13 +45,13 @@ viewer. This page provides help on using GBrowse_syn. See the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") page for other information on
 GBrowse_syn.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Search
   Section</span>](#Search_Section)
@@ -82,7 +82,7 @@ GBrowse_syn.
     - [<span class="tocnumber">2.2.5</span>
       <span class="toctext">Shading</span>](#Shading)
 
-</div>
+
 
 # <span id="Search_Section" class="mw-headline">Search Section</span>
 
@@ -165,9 +165,9 @@ width="516" height="43" alt="GBS Display Mode2.png" /></a>
   clicking the link shown above or via a pull-down menu on the "Display
   Settings" section
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_expanded.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/GBS_expanded.png/800px-GBS_expanded.png"
@@ -175,28 +175,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 2x"
 width="800" height="416" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_expanded.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Display mode: Refence species plus two aligned species/panel; repaeted
 until all aligned species are shown
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
+
+
 
 <a href="File:GBS_compact.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f3/GBS_compact.png/800px-GBS_compact.png"
@@ -204,23 +204,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 2x"
 width="800" height="500" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_compact.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Display mode: All species on a single panel
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -259,9 +259,9 @@ width="222" height="27" alt="GBS chain.png" /></a>
 - This feature is useful for displaying small rearrangements, such as
   translocations, nested inversions, etc.
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_chained.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/95/GBS_chained.png/800px-GBS_chained.png"
@@ -269,32 +269,32 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 2x"
 width="800" height="429" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_chained.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Chained aligments
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 <a href="File:GBS_nochain.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/GBS_nochain.png" class="thumbborder"
 width="221" height="28" alt="GBS nochain.png" /></a>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_unchained.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/GBS_unchained.png/800px-GBS_unchained.png"
@@ -302,23 +302,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/GBS_unchained.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/GBS_unchained.png 2x"
 width="800" height="448" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_unchained.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Unchained aligments
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -336,9 +336,9 @@ width="274" height="30" alt="GBS flip.png" /></a>
 - Unless the flip option is turned off, the decision to flip a panel is
   determined by the number of (+) vs (-) aligned base pairs.
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_flipped.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GBS_flipped.png/800px-GBS_flipped.png"
@@ -346,28 +346,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 2x"
 width="800" height="367" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_flipped.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Reverse strand panel (*C. briggsae*) flipped to facilitate direct
 comparison of gene order
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
+
+
 
 <a href="File:GBS_unflipped.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/18/GBS_unflipped.png/800px-GBS_unflipped.png"
@@ -375,23 +375,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 2x"
 width="800" height="367" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_unflipped.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Reverse strand panel keo in original orientation
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -408,9 +408,9 @@ width="168" height="30" alt="GBS lines.png" /></a>
 - Every fifth line is thicker to provide a visual cue help trace the
   lines between species.
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_noglines.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/GBS_noglines.png/800px-GBS_noglines.png"
@@ -418,27 +418,27 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 2x"
 width="800" height="220" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_noglines.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Alignment of *C. elegans* and *C. remanei*, showing the R193.2 gene
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
+
+
 
 <a href="File:GBS_glines.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/GBS_glines.png/800px-GBS_glines.png"
@@ -446,24 +446,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 2x"
 width="800" height="220" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_glines.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 The same alignment with grid-lines turned on. Note the large gain/loss
 of intron sequence
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -476,9 +476,9 @@ width="142" height="32" alt="GBS edges.png" /></a>
 - This option is on by default, it outlines the polygons that connect
   aligned blocks
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_edgeson.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/GBS_edgeson.png/800px-GBS_edgeson.png"
@@ -486,23 +486,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 2x"
 width="800" height="400" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_edgeson.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 An alignment view with edges on grid-lines and shading off
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -512,9 +512,9 @@ An alignment view with edges on grid-lines and shading off
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a9/GBS_shading.png" class="thumbborder"
 width="158" height="34" alt="GBS shading.png" /></a>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBS_shadingon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GBS_shadingon.png/800px-GBS_shadingon.png"
@@ -522,67 +522,66 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 2x"
 width="800" height="400" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBS_shadingon.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 An alignment view with shading on and grid-lines and edges off
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Help&oldid=9100>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -592,81 +591,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -676,31 +671,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Help" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 12:40 on 22 August
   2009.</span>
@@ -722,4 +716,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

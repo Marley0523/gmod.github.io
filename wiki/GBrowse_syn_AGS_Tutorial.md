@@ -1,48 +1,48 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn AGS Tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
   
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GBrowse_syn_logo.png" class="image"
 title="GBrowse_syn"><img
@@ -50,9 +50,9 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse_syn" /></a>
 
-</div>
 
-</div>
+
+
 
 This [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented
 by [Sheldon McKay, iPlant Collaborative, University of
@@ -71,9 +71,9 @@ the standard GBrowse package (version 1.69 and later).
 
   
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:302px;">
+
+
 
 <a href="File:Gbrowse_syn2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/300px-Gbrowse_syn2.png"
@@ -81,23 +81,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/450px-Gbrowse_syn2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/600px-Gbrowse_syn2.png 2x"
 width="300" height="171" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse_syn2.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 GBrowse_syn as it looks at The Arabidopsis Information Resource (TAIR)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Working examples of GBrowse_syn can be seen at <a
 href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501;search_src=thaliana"
@@ -107,13 +107,13 @@ class="external text" rel="nofollow">WormBase</a>.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">GBrowse_syn
   Introduction</span>](#GBrowse_syn_Introduction)
@@ -143,14 +143,14 @@ class="external text" rel="nofollow">WormBase</a>.
   - [<span class="tocnumber">6.3</span>
     <span class="toctext">Documentation</span>](#Documentation)
 
-</div>
+
 
 ## <span id="GBrowse_syn_Introduction" class="mw-headline">GBrowse_syn Introduction</span>
 
 - An introductory talk will be presented using the slides below. Click
   the section to open.
 
-<div id="Introductory_Slides" class="switch">
+
 
 <a href="File:GBrowse_synSlide1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/GBrowse_synSlide1.png" class="thumbborder"
@@ -220,24 +220,24 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbborder" width="720" height="540"
 alt="GBrowse synSlide24.png" /></a>  
 
-</div>
+
 
 ## <span id="Installing_GBrowse_syn" class="mw-headline">Installing GBrowse_syn</span>
 
 GBrowse_syn is part of the GBrowse 2.0 package and will be pre-installed
 with [GBrowse 2.0 installation](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").
 
-<div class="indent">
+
 
     $ sudo cpan -i Bio::Graphics::Browser2
 
-</div>
 
-<div class="emphasisbox">
+
+
 
 Note: Gbrowse 2 has been pre-installed for this demonstration
 
-</div>
+
 
 - Now point your browser to
   <a href="http://localhost/cgi-bin/gb2/gbrowse" class="external free"
@@ -245,9 +245,9 @@ Note: Gbrowse 2 has been pre-installed for this demonstration
   GBrowse was installed correctly. You should see a page similar to the
   one below, which is the default yeast data source.
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:GBrowse2_installed.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ce/GBrowse2_installed.png/600px-GBrowse2_installed.png"
@@ -255,25 +255,25 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 2x"
 width="600" height="375" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse2_installed.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 This is the welcome screen you should see after installing a new copy of
 GBrowse
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -281,9 +281,9 @@ GBrowse
   <a href="http://localhost/cgi-bin/gb2/gbrowse_syn" class="external free"
   rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:GBrowse_synWelcom.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
@@ -291,32 +291,32 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
 width="600" height="375" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_synWelcom.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 This is the welcome screen you should see after installing a new copy of
 GBrowse_syn with no configured data sources. It contains instructions on
 how to set up the example data source provided with the distribution.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
 ## <span id="Setting_up_the_sample_data" class="mw-headline">Setting up the sample data</span>
 
-<div class="emphasisbox" style="width:700px;margin-top:50px">
+
 
 - Sample data and configuration information for GBrowse_syn come
   pre-packaged with GBrowse.
@@ -326,7 +326,7 @@ how to set up the example data source provided with the distribution.
 *\*Data courtesy of Bonnie Hurwitz; sequences and names have been
 obfuscated to protect unpublished data*
 
-</div>
+
 
 ### <span id="Setting_up_the_Alignment_Database" class="mw-headline">Setting up the Alignment Database</span>
 
@@ -337,7 +337,7 @@ database.
 1\) Create a MySQL database to hold the alignment data On the virtual
 disk, the MySQL root password is gmod
 
-<div class="indent">
+
 
     $ mysql -u root -p
     Enter password: ****
@@ -352,25 +352,25 @@ disk, the MySQL root password is gmod
 
     mysql>
 
-</div>
+
 
 2\) Give read-only (SELECT privileges in SQL) to the default apache user
 `www-data`. We can do this for all of the MySQL databases, since they
 are all for web applications
 
-<div class="indent">
+
 
     mysql> GRANT SELECT on *.* TO 'www-data'@'localhost';
     Query OK, 0 rows affected (0.00 sec)
 
     mysql> quit
 
-</div>
+
 
 3\) Decompress the sample alignment data and load the database. You need
 to have root-level access (be a sudoer) for some of the steps below.
 
-<div class="indent">
+
 
     $ cd /var/lib/gbrowse2/databases/gbrowse_syn/alignments/
     $ sudo gunzip rice.aln.gz
@@ -404,7 +404,7 @@ mean CLUSTALW was used to generate the alignment data. See [Further
 Reading](#Further_Reading) below for more information on data loading
 and the meta-data in the sequence names
 
-</div>
+
 
 4\) Load the database with the script
 `gbrowse_syn_load_alignments_msa.pl`, which is automatically installed
@@ -413,18 +413,18 @@ along with GBrowse. See the
 rel="nofollow">GBrowse_syn scripts</a></span> page for details on the
 options for the script.
 
-<div class="indent">
+
 
     $ gbrowse_syn_load_alignments_msa.pl -u root -p gmod -d rice_synteny -c -v rice.aln
 
 There are 1800 alignment blocks, so this will take a little while to
 run.
 
-</div>
+
 
 ### <span id="Setting_up_the_Configuration_Files" class="mw-headline">Setting up the Configuration Files</span>
 
-<div class="emphasisbox">
+
 
 - The configuration files required for this data source are
   pre-installed with [GBrowse](GBrowse.1 "GBrowse"), in
@@ -434,7 +434,7 @@ run.
   `oryza.synconf`. The latter file has been disabled by appending a
   '.disabled' extension to the file name.
 
-</div>
+
 
 The joining config file, `oryza.synconf`:
 
@@ -502,34 +502,34 @@ A sample species config file, `rice_synteny.conf`:
     key          = ensembl gene
     balloon hover = Hello, my name is $name!
 
-<div class="emphasisbox">
+
 
 Note: the species databases are actually using the [GFF3](GFF3 "GFF3")
 flat file, in-memory adapter
 
-</div>
+
 
 #### <span id="Activating_the_Oryza_Data_Source" class="mw-headline">Activating the Oryza Data Source</span>
 
 1\) Make sure the temporary image directory specified in the config
 files exists and is world-writable
 
-<div class="indent">
+
 
     $ sudo mkdir /var/www/tmp
     $ sudo mkdir /var/www/tmp/gbrowse2
     $ sudo chmod 777 /var/www/tmp/gbrowse2
 
-</div>
+
 
 2\) Renaming the configuration file
 
-<div class="indent">
+
 
     $ cd /etc/gbrowse2/synteny
     $ sudo mv oryza.synconf.disabled oryza.synconf
 
-</div>
+
 
 3\) Point your browser to
 <a href="http://localhost/cgi-bin/gb2/gbrowse_syn/oryza"
@@ -537,37 +537,37 @@ class="external free"
 rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn/oryza</a>. You
 should see:
 
-<div class="indent">
 
-<div class="floatleft">
+
+
 
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
-</div>
+
 
   
 
-</div>
+
 
 4\) Click on the first example, you should (eventually) see:
 
-<div class="indent">
 
-<div class="floatleft">
+
+
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
-</div>
+
 
   
 
-</div>
+
 
 ### <span id="Speeding_up_the_Browser" class="mw-headline">Speeding up the Browser</span>
 
@@ -577,7 +577,7 @@ You can speed up the image loading time by putting your species'
 1\) Create a database for each of the GFF data files (`rice.gff3` and
 `wild_rice.gff3`).
 
-<div class="indent">
+
 
     $ mysql -uroot -pgmod
 
@@ -589,7 +589,7 @@ You can speed up the image loading time by putting your species'
 
     mysql> quit
 
-</div>
+
 
 2\) Populate the databases using the [loading script
 `bp_seqfeature_load.pl`](GBrowse_Install_HOWTO#GFF3 "GBrowse Install HOWTO")
@@ -598,7 +598,7 @@ You can speed up the image loading time by putting your species'
 MySQL relational database. Note the MySQL user will root-level
 privileges.
 
-<div class="indent">
+
 
     $ cd /var/www/gbrowse2/databases/gbrowse_syn/rice
     $ bp_seqfeature_load.pl -u root -p gmod -d rice -c -f rice.gff3
@@ -618,13 +618,13 @@ privileges.
     Loading bulk data into database... 0.69s
     load time: 12.02s
 
-</div>
+
 
 3\) Modify the following stanza in the file `rice_synteny.conf`. This
 will convert your data source from a flat file database to a MySQL
 relational database.
 
-<div class="indent">
+
 
     # from
     db_args       = -adaptor memory
@@ -636,13 +636,13 @@ relational database.
     # to
     db_args       = -dsn dbi:mysql:rice
 
-</div>
+
 
 4\) repeat for `wild_rice_synteny.conf`
 
 ## <span id="Using_Non-alignment_Data" class="mw-headline">Using Non-alignment Data</span>
 
-<div class="emphasisbox">
+
 
 This example uses gene orthology-based synteny blocks\* based created by
 <a href="http://genome.sfu.ca/orthoclusterdb" class="external text"
@@ -651,22 +651,22 @@ elegans*, *C. briggsae* and *P. pacificus*.
 
 *\*Data courtesy of Jack Chen and Ismael Vergera*
 
-</div>
+
 
 1\) Download and unpack the data archive file `orthocluster.tar.gz`.
 
-<div class="indent">
+
 
     $ cd ~/Documents/Data/gbrowse_syn
     $ tar zxf orthocluster.tar.gz
 
-</div>
+
 
 2\) Examine the contents of the `ORTHOCLUSTER` directory tree using the
 Unix `tree` command. It is not installed by default, so we will have to
 get it first.
 
-<div class="indent">
+
 
     $ sudo apt-get install tree
     [sudo] password for gmod:
@@ -763,30 +763,30 @@ of this loading format.
     bri chrI    986150  994698  +   .   ppa Ppa_Contig77    29481   45600   -   .   986150  37055   989649  45600   991428  29481   994698  36608   |   36608   994698  29481   991428  45600   989649  37055   986150
     bri chrI    1453793 1461931 +   .   ppa Ppa_Contig132   156183  165414  -   .   1453793 163110  1456404 165414  1456712 160849  1457637 162712  1458361 160204  1459245 160815  1459468 159346  1459854 160000  1459962 156183  1461931 159022  |   159022  1461931 156183  1459962 160000  1459854 159346  1459468 160815  1459245 160204  1458361 162712  1457637 160849  1456712 165414  1456404 163110  1453793
 
-</div>
+
 
   
 3) Set the `$TMP` environmental variable so that the database loading
 script knows where to put its temp files.
 
-<div class="indent">
+
 
     $ export TMP=/tmp
 
-</div>
+
 
 4\) Create and load a Bio::DB:GFF database for *C. elegans* (ele). Use
 screen so that we can get the time-consuming loading script started
 **and then use `Ctrl-A D` to set the screen running in the background**
 and move on to other steps.
 
-<div class="indent">
+
 
     $ cd ORTHOCLUSTER/gff
     $ mysql -uroot -pgmod -e 'create database ele'
     $ screen bp_fast_load_gff.pl -u root -p gmod -d ele -c ele.gff
 
-</div>
+
 
 5\) Repeat step 4 for the other two species (bri and ppa).
 
@@ -795,22 +795,22 @@ and move on to other steps.
 `gbrowse_syn_load_alignment_database.pl` script is pre-installed with
 [GBrowse](GBrowse.1 "GBrowse").
 
-<div class="indent">
+
 
     $ cd ..
     $ mysql -uroot -pgmod -e 'create database orthocluster'
     $ gbrowse_syn_load_alignment_database.pl -u root -p gmod -d orthocluster -c -v orthocluster.txt
 
-</div>
+
 
 7\) Copy the configuration files to the required location
 
-<div class="indent">
+
 
     $ cd conf
     $ sudo cp *conf /etc/gbrowse2/synteny
 
-</div>
+
 
 8\) Go back to your browser and reload the rice page. There should now
 be a second data source in a pull-down menu.  
@@ -821,7 +821,7 @@ height="77" alt="GBrowse synPulldown1.png" /></a>
 
 9\) Select the other data source and start browsing!  
 
-<div class="floatleft">
+
 
 <a href="File:Gbrowse_synEtfinit.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
@@ -829,7 +829,7 @@ class="thumbborder"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
 width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
 
-</div>
+
 
   
 
@@ -867,7 +867,7 @@ rel="nofollow">http://www.biostat.wisc.edu/∼cdewey/fly</a> CAF1.
 
 1\) Go to the sample data
 
-<div class="indent">
+
 
     $ cd ~/Documents/Data/gbrowse_syn/
     $ tar zxf DroYak_CAF1-DroMel_CAF1.tar.gz
@@ -893,17 +893,17 @@ IN this case, DroYak_CAF1-DroMel_CAF is the alignments directory.
     map
     treefile
 
-</div>
+
 
 There are 112 synteny blocks, one directory for each alignment named
 "mavid.mfa". The alignments are converted to a format suitable for
 loading:
 
-<div class="indent">
+
 
     $ gbrowse_syn_mercatoraln_to_synhits.pl -d DroYak_CAF1-DroMel_CAF1 -a mavid.mfa >mercator.txt
 
-</div>
+
 
 These data are the result of a MERCATOR and MAVID alignment between
 these two fly species. Although MAVID is used for the example data,
@@ -936,23 +936,23 @@ of 10, typically 100. The purpose of storing the coordinate information
 is to position grid lines in the graphical display that will make large
 insertions and deletions in the sequences visible and intuitive.
 
-<div class="emphasisbox">
+
 
 **NOTE:** calculating the coordinate map is computationally intensive
 and the script will take a long time to run for the whole genomes
 
-</div>
+
 
 Load the GBrowse syn alignment database with the script gbrowse_syn_load
 alignment database.pl, which is preinstalled and can be run without
 specifying the path.
 
-<div class="indent">
+
 
 \$ <span class="enter">load alignment database.pl -u root -p gmod -d
 mercator -v -c mercator.txt</span>
 
-</div>
+
 
 ## <span id="Further_Reading" class="mw-headline">Further Reading</span>
 
@@ -1001,26 +1001,26 @@ configure and use GBrowse_syn. To get started, browse these pages:
 - [Presentations and
   workshops](GBrowse_syn.1#Presentations_and_Workshops "GBrowse syn")
 
-<div class="floatright">
+
 
 <a href="File:IPlant.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/IPlant.png" width="250" height="87"
 alt="IPlant.png" /></a>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_AGS_Tutorial&oldid=21877>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1028,13 +1028,13 @@ Retrieved from
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn AGS
@@ -1045,30 +1045,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 |----|----|
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1078,81 +1077,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1162,31 +1157,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_AGS_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:52 on 3 October
   2012.</span>
@@ -1208,4 +1202,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

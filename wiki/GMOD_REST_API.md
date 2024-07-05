@@ -1,55 +1,55 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD RPC API</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [GMOD REST
 API](http://gmod.org/mediawiki/index.php?title=GMOD_REST_API&redirect=no "GMOD REST API"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Document
   Status</span>](#Document_Status)
@@ -256,9 +256,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [<span class="tocnumber">19</span>
   <span class="toctext">TODO</span>](#TODO)
 
-</div>
 
-</div>
+
+
 
 ## <span id="Document_Status" class="mw-headline">Document Status</span>
 
@@ -466,9 +466,9 @@ XML
 
 ##### <span id="XML_Result" class="mw-headline">XML Result</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -493,9 +493,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result" class="mw-headline">JSON Result</span>
 
@@ -569,9 +569,9 @@ XML
 
 ##### <span id="XML_Result_2" class="mw-headline">XML Result</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -602,9 +602,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result_2" class="mw-headline">JSON Result</span>
 
@@ -690,9 +690,9 @@ XML
 
 ##### <span id="XML_Result_3" class="mw-headline">XML Result</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -714,9 +714,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result_3" class="mw-headline">JSON Result</span>
 
@@ -785,9 +785,9 @@ XML
 
 ##### <span id="XML_Result_4" class="mw-headline">XML Result</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -818,9 +818,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result_4" class="mw-headline">JSON Result</span>
 
@@ -908,9 +908,9 @@ XML
 
 ##### <span id="XML_Result:" class="mw-headline">XML Result:</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -938,9 +938,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result_5" class="mw-headline">JSON Result</span>
 
@@ -1014,9 +1014,9 @@ XML
 
 ##### <span id="XML_Result:_2" class="mw-headline">XML Result:</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1053,9 +1053,9 @@ XML
 </resultset>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="JSON_Result_6" class="mw-headline">JSON Result</span>
 
@@ -1174,18 +1174,18 @@ FASTA
 
 - WADLs for all services?
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_RPC_API&oldid=24356>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1197,30 +1197,29 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3ARPC (page does not exist)">RPC</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1230,81 +1229,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1314,31 +1309,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_RPC_API" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:02 on 15 August
   2013.</span>
@@ -1360,4 +1354,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

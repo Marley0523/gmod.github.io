@@ -1,90 +1,90 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">InterMine</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:InterMineLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png" width="400" height="50"
 alt="InterMine logo" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Mature release
 - Development: active
 - Support: active
 
-<div class="compBoxHdr">
+
 
 Licence
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="http://opensource.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
-</div>
+
 
 <a href="http://opensource.org/licenses/LGPL-3.0" class="external text"
 rel="nofollow">LGPL</a>
 
-<div class="compBoxHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="http://www.intermine.org" class="external text"
   rel="nofollow">Home page</a>
@@ -99,11 +99,11 @@ Resources
 - <a href="https://github.com/intermine/intermine.git"
   class="external text" rel="nofollow">Source code</a>
 
-<div class="compBoxHdr">
+
 
 Interoperable Components
 
-</div>
+
 
 - - <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 - - [JBrowse](JBrowse.1 "JBrowse")
@@ -113,15 +113,15 @@ Interoperable Components
 
   
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   InterMine</span>](#About_InterMine)
@@ -140,7 +140,7 @@ Interoperable Components
 - [<span class="tocnumber">6</span> <span class="toctext">More on
   InterMine</span>](#More_on_InterMine)
 
-</div>
+
 
 ## <span id="About_InterMine" class="mw-headline">About InterMine</span>
 
@@ -246,18 +246,18 @@ See [Category%3AInterMine](Category%3AInterMine "Category%3AInterMine")
 
   
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=InterMine&oldid=26217>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -267,13 +267,13 @@ Retrieved from
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[InterMine](Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -320,30 +320,29 @@ title="Property:Interactor (page does not exist)">Interactor</a> | InterMine <sp
 | [Written in language](Property%3AWritten_in_language "Property:Written in language") | Java <span class="smwsearch">[+](Special%3ASearchByProperty/Written-20in-20language/Java "Special%3ASearchByProperty/Written-20in-20language/Java")</span>, Python <span class="smwsearch">[+](Special%3ASearchByProperty/Written-20in-20language/Python "Special%3ASearchByProperty/Written-20in-20language/Python")</span> and JavaScript <span class="smwsearch">[+](Special%3ASearchByProperty/Written-20in-20language/JavaScript "Special%3ASearchByProperty/Written-20in-20language/JavaScript")</span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [InterMine#https://github.com/intermine/intermine.git](InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%3ASearchByProperty/Has-20subobject/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>, [InterMine#http://www.intermine.org](InterMine#http:.2F.2Fwww.intermine.org "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.intermine.org "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.intermine.org")</span>, [InterMine#http://www.flymine.org](InterMine#http:.2F.2Fwww.flymine.org "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.flymine.org "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.flymine.org")</span>, [InterMine#http://yeastmine.yeastgenome.org/](InterMine#http:.2F.2Fyeastmine.yeastgenome.org.2F "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fyeastmine.yeastgenome.org-2F "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fyeastmine.yeastgenome.org-2F")</span>, [InterMine#http://www.mousemine.org/](InterMine#http:.2F.2Fwww.mousemine.org.2F "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.mousemine.org-2F "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.mousemine.org-2F")</span>, [InterMine#http://ratmine.mcw.edu/](InterMine#http:.2F.2Fratmine.mcw.edu.2F "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fratmine.mcw.edu-2F")</span>, [InterMine#http://zmine.zfin.org/](InterMine#http:.2F.2Fzmine.zfin.org.2F "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F")</span>, [InterMine#http://www.wormbase.org/tools/wormmine](InterMine#http:.2F.2Fwww.wormbase.org.2Ftools.2Fwormmine "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine")</span>, [InterMine](InterMine#_35f0a4dfb21d901063f9534114909319 "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23_35f0a4dfb21d901063f9534114909319 "Special%3ASearchByProperty/Has-20subobject/InterMine-23 35f0a4dfb21d901063f9534114909319")</span>, [InterMine](InterMine#_44c0411f669b0bc7ee3599b3e40bf478 "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23_44c0411f669b0bc7ee3599b3e40bf478 "Special%3ASearchByProperty/Has-20subobject/InterMine-23 44c0411f669b0bc7ee3599b3e40bf478")</span>, [InterMine](InterMine#_23c1d6f8e2fcb6320697d1877b352a27 "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23_23c1d6f8e2fcb6320697d1877b352a27 "Special%3ASearchByProperty/Has-20subobject/InterMine-23 23c1d6f8e2fcb6320697d1877b352a27")</span>, [InterMine](InterMine#_19ca3e5527b4a7801df22e02220506b6 "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23_19ca3e5527b4a7801df22e02220506b6 "Special%3ASearchByProperty/Has-20subobject/InterMine-23 19ca3e5527b4a7801df22e02220506b6")</span> and [InterMine](InterMine#_1974840c5524f47e32e34fbc09fa67f4 "InterMine") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20subobject/InterMine-23_1974840c5524f47e32e34fbc09fa67f4 "Special%3ASearchByProperty/Has-20subobject/InterMine-23 1974840c5524f47e32e34fbc09fa67f4")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -353,81 +352,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -437,31 +432,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 16:36 on 6 November
   2014.</span>
@@ -483,4 +477,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

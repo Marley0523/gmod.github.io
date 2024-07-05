@@ -1,40 +1,40 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">2008 GMOD Summer School</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table
 style="font-size: 180%; vertical-align: middle; border: 2px solid #A6A6BC; line-height: 120%"
@@ -45,13 +45,13 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:SummerSchoolSmall.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
 height="182" alt="SummerSchoolSmall.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td data-valign="center"><strong>2008 GMOD Summer School</strong><br />
 <br />
 July 11-13, 2008<br />
@@ -61,13 +61,13 @@ rel="nofollow">National Evolutionary Synthesis<br />
 Durham, North Carolina, USA</td>
 </tr>
 <tr class="even">
-<td colspan="2"><div class="center">
-<div class="floatnone">
+<td colspan="2">
+
 <a href="File:SummerSchool2008Class2.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/SummerSchool2008Class2.jpg" width="378"
 height="120" alt="SummerSchool2008Class2.jpg" /></a>
-</div>
-</div></td>
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -84,13 +84,13 @@ It was held at the <a href="http://nescent.org" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> in
 Durham, North Carolina, USA, July 11-13, 2008.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Program</span>](#Program)
@@ -113,7 +113,7 @@ Durham, North Carolina, USA, July 11-13, 2008.
   <span class="toctext">Acknowledgments and
   Feedback</span>](#Acknowledgments_and_Feedback)
 
-</div>
+
 
 # <span id="Program" class="mw-headline">Program</span>
 
@@ -311,13 +311,13 @@ Sessions were taught by experienced GMOD personnel, including:
 
 # <span id="Who_Attended.3F" class="mw-headline">Who Attended?</span>
 
-<div class="floatright">
+
 
 <a href="File:SummerSchool2008Class.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/SummerSchool2008Class.jpg" width="411"
 height="120" alt="SummerSchool2008Class.jpg" /></a>
 
-</div>
+
 
 The GMOD Summer School was attended by people implementing GMOD at their
 organizations, and by Principal Investigators whose organizations have
@@ -378,21 +378,21 @@ GBrowse data._ This also requires installing Apache, and
 
 VMware on Windows and Linux
 
-<div class="floatleft">
+
 
 <a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
-</div>
+
 
 A free VMware player is available for [Microsoft
 Windows](Category%3AWindows "Category%3AWindows") and
@@ -406,13 +406,13 @@ VMware on Mac OS X
 Participants can also bring _newer Macs with Intel processors_. The
 Intel processor is a requirement for all the packages discussed below.
 
-<div class="floatleft">
+
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
-</div>
+
 
 There is no free VMware player that runs _directly_ under [Mac OS
 X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
@@ -420,13 +420,13 @@ other options, _all of which require an Intel Mac_:
 
 VMware Fusion
 
-<div class="floatleft">
+
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
 height="48" alt="VMWareFusionsLogo.jpg" /></a>
 
-</div>
+
 
 <a href="http://www.vmware.com/products/fusion/" class="external text"
 rel="nofollow">VMware Fusion</a> allows you to run VMware
@@ -436,14 +436,14 @@ VMware Fusion available for download.**
 
 Mac OS 10.5 (Leopard) and Boot Camp
 
-<div class="floatleft">
+
 
 <a href="http://www.apple.com/macosx/features/bootcamp.html"
 rel="nofollow" title="Boot Camp"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
 height="60" alt="Boot Camp" /></a>
 
-</div>
+
 
 The <a href="http://www.apple.com/macosx/" class="external text"
 rel="nofollow">Leopard release of Mac OS (10.5)</a> includes
@@ -524,13 +524,13 @@ class="external text" rel="nofollow">NIH grant 1R01HG004483-01</a> under
 <a href="http://biowiki.org/IanHolmes" class="external text"
 rel="nofollow">Ian Holmes</a>.
 
-<div class="emphasisbox">
 
-<div style="text-align: center; font-size: 160%">
+
+
 
 \*Comments on the **2008 GMOD Summer School\***
 
-</div>
+
 
 <table data-cellspacing="2"
 style="border: 2px solid #A6A6BC; margin: 1em; padding: 1em">
@@ -570,20 +570,20 @@ course was what I was expecting and more.”</span></td>
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div class="printfooter">
+
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=2008_GMOD_Summer_School&oldid=25680>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -594,28 +594,27 @@ Retrieved from
 - [Events](Category%3AEvents "Category%3AEvents")
 - [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -624,77 +623,73 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -704,29 +699,28 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2008_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:11 on 16 April 2014.</span>
 <!-- - <span id="footer-info-viewcount">314,604 page views.</span> -->
@@ -742,4 +736,4 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
+

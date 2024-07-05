@@ -1,44 +1,44 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Search results</span>
 
-<div id="bodyContent">
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text">
 
-<div id="mw-search-top-table">
 
-</div>
 
-<div class="mw-search-formheader">
 
-<div class="search-types">
+
+
+
+
+
+
 
 - [Content
   pages](/mediawiki/index.php?title=Special:Search&search=Rails&fulltext=Search&profile=default "Search in (Main)")
@@ -48,19 +48,19 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [Everything](/mediawiki/index.php?title=Special:Search&search=Rails&fulltext=Search&profile=all "Search all of content (including talk pages)")
 - [Advanced](/mediawiki/index.php?title=Special:Search&search=Rails&fulltext=Search&profile=advanced "Search in custom namespaces")
 
-</div>
 
-<div class="results-info">
+
+
 
 - Showing below **7** results starting with \#**1**.
 
-</div>
 
 
 
-</div>
 
-<div class="searchresults">
+
+
+
 
 **Create the page
 "<a href="/mediawiki/index.php?title=Rails&amp;action=edit&amp;redlink=1"
@@ -69,13 +69,13 @@ wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>
 
-- <div class="mw-search-result-heading">
+- 
 
   [Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...d is used in the Bovine Genome Database, BeeBase and NasoniaBase.
   Chado on <span class="searchmatch">Rails</span> is free as in
@@ -83,44 +83,44 @@ wiki!** See also the search results found.
   create <span class="searchmatch">Rails</span> objects and unit tests
   for your schema using magic chado, a component of Co
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   7 KB (1,041 words) - 22:20, 28 March 2014
 
-  </div>
+  
 
 ## <span id="Page_text_matches" class="mw-headline">Page text matches</span>
 
-- <div class="mw-search-result-heading">
+- 
 
   [News/GMOD Evo Hackathon
   Report](/wiki/News/GMOD_Evo_Hackathon_Report "News/GMOD Evo Hackathon Report")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...rsity}} module in Chado. This was built on top of the emerging
   \[\[Chado on <span class="searchmatch">Rails</span>\]\] project. The
   second was a better understanding, slight refactoring, and
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   4 KB (504 words) - 23:11, 9 October 2012
 
-  </div>
+  
 
-- <div class="mw-search-result-heading">
+- 
 
   [Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...www.hibernate.org/ Hibernate\] (Java),
   \[http://www.rubyonrails.org/ Ruby on
@@ -128,63 +128,63 @@ wiki!** See also the search results found.
   \[http://www.catalystframework.org/ Catalyst\] (Perl). Choose what you
   l
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   16 KB (2,412 words) - 18:11, 9 October 2012
 
-  </div>
+  
 
-- <div class="mw-search-result-heading">
+- 
 
   [January 2009 GMOD
   Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...hey have a submission and publishing pipeline that is written with
   Ruby on <span class="searchmatch">Rails</span>. It also uses the
   GoogleGraph API.
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   50 KB (7,612 words) - 18:53, 8 October 2012
 
-  </div>
+  
 
-- <div class="mw-search-result-heading">
+- 
 
   [GMOD Evo Hackathon](/wiki/GMOD_Evo_Hackathon "GMOD Evo Hackathon")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...rsity}} module in Chado. This was built on top of the emerging
   \[\[Chado on <span class="searchmatch">Rails</span>\]\] project. The
   second was a better understanding, slight refactoring, and
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   17 KB (2,407 words) - 13:22, 13 November 2015
 
-  </div>
+  
 
-- <div class="mw-search-result-heading">
+- 
 
   [January 2010 GMOD
   Meeting](/wiki/January_2010_GMOD_Meeting "January 2010 GMOD Meeting")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   \| Chado on <span class="searchmatch">Rails</span>
   (\[http://rubyonrails.org/ Ruby on
@@ -193,21 +193,21 @@ wiki!** See also the search results found.
   \[\[Media:Jan2010RubyOnRailsAndChado.pdf\|PDF\]\]\<!--, \[\[#Ruby on
   <span class="searchmatch">Rails</span> and Chado\|Summary\]\]--\>
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   26 KB (3,722 words) - 19:17, 4 September 2013
 
-  </div>
+  
 
-- <div class="mw-search-result-heading">
+- 
 
   [Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails")
 
-  </div>
+  
 
-  <div class="searchresult">
+  
 
   ...d is used in the Bovine Genome Database, BeeBase and NasoniaBase.
   Chado on <span class="searchmatch">Rails</span> is free as in
@@ -215,15 +215,15 @@ wiki!** See also the search results found.
   create <span class="searchmatch">Rails</span> objects and unit tests
   for your schema using magic chado, a component of Co
 
-  </div>
+  
 
-  <div class="mw-search-result-data">
+  
 
   7 KB (1,041 words) - 22:20, 28 March 2014
 
-  </div>
+  
 
-</div>
+
 
 View (previous 50 \| next 50) (<a
 href="/mediawiki/index.php?title=Special:Search&amp;limit=20&amp;offset=0&amp;profile=default&amp;search=Rails"
@@ -237,91 +237,88 @@ class="mw-numlink" title="Show 250 results per page">250</a> \| <a
 href="/mediawiki/index.php?title=Special:Search&amp;limit=500&amp;offset=0&amp;profile=default&amp;search=Rails"
 class="mw-numlink" title="Show 500 results per page">500</a>)
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Rails>"
 
-</div>
 
-<div id="catlinks" class="catlinks catlinks-allhidden">
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
   page](/wiki/Special%3ASearch/Rails "This is a special page, you cannot edit the page itself")</span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](/wiki/Main_Page)</span>
 - <span id="n-Software">[Software](/wiki/GMOD_Components)</span>
@@ -330,32 +327,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](/wiki/GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -366,16 +361,15 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
@@ -384,15 +378,15 @@ aria-labelledby="p-tb-label">
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-places-about">[About
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
@@ -404,4 +398,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

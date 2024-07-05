@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse2 VMs</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">GBrowse2
   Virtual Machines</span>](#GBrowse2_Virtual_Machines)
@@ -89,13 +89,13 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
     - [<span class="tocnumber">1.3.5</span> <span class="toctext">Admin
       mode</span>](#Admin_mode)
 
-</div>
+
 
 # <span id="GBrowse2_Virtual_Machines" class="mw-headline">GBrowse2 Virtual Machines</span>
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:352px;">
+
+
 
 <a href="File:GBrowse_virtualbox1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/350px-GBrowse_virtualbox1.png"
@@ -103,27 +103,27 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/525px-GBrowse_virtualbox1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/700px-GBrowse_virtualbox1.png 2x"
 width="350" height="290" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_virtualbox1.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 GBrowse running under VirtualBox\]
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bb/GBrowse_virtualbox1.png"
 class="internal" title="GBrowse virtualbox1.png">Click to view at full
 resolution</a>
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 [GBrowse](GBrowse.1 "GBrowse") versions 2.50 and higher are available as
 preconfigured virtual machines. Each VM provides you with a stable,
@@ -266,9 +266,9 @@ second interface is attached directly to the host and allows for
 incoming connections from the host to the guest machine. This is
 primarily to allow the host machine to ssh to the guest.
 
-<div class="thumb tright">
 
-<div class="thumbinner" style="width:352px;">
+
+
 
 <a href="File:GBrowse_virtualbox1_port_forwarding.png"
 class="image"><img
@@ -277,24 +277,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/525px-GBrowse_virtualbox1_port_forwarding.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/700px-GBrowse_virtualbox1_port_forwarding.png 2x"
 width="350" height="218" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_virtualbox1_port_forwarding.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Port Forwarding Settings
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 By default, the NAT interface will take network requests targeted to the
 host machine's port 8081 to the guest VM's port 80. This allows the host
@@ -605,18 +605,18 @@ in. On the VirtualBox edition, "admin" has the default password of
 "gbrowse". If you change the web interface password, you will not change
 the shell login password; this must be done separately.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse2_VMs&oldid=22993>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -625,30 +625,29 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ACloud&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3ACloud (page does not exist)">Cloud</a>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -658,81 +657,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -742,31 +737,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse2_VMs" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:37 on 13 February
   2013.</span>
@@ -788,4 +782,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

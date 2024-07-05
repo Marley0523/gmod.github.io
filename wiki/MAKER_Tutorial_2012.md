@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">MAKER Tutorial 2012</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This [MAKER](MAKER.1 "MAKER") tutorial was taught by [Barry
 Moore](User%3ABmoore "User%3ABmoore") as part of the [2012 GMOD Summer
@@ -53,13 +53,13 @@ class="external text" rel="nofollow">Get MAKER Bling!</a>
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   MAKER</span>](#About_MAKER)
@@ -173,7 +173,7 @@ class="external text" rel="nofollow">Get MAKER Bling!</a>
   - [<span class="tocnumber">9.9</span> <span class="toctext">MAKER
     Accessory Scripts</span>](#MAKER_Accessory_Scripts)
 
-</div>
+
 
 ## <span id="About_MAKER" class="mw-headline">About MAKER</span>
 
@@ -260,9 +260,9 @@ Examples:
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/Structural.png" width="152" height="32"
 alt="Structural.png" /></a>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:702px;">
+
+
 
 <a href="File:MAKER_UCSC_Genome_Browser.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/700px-MAKER_UCSC_Genome_Browser.jpg"
@@ -270,24 +270,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1050px-MAKER_UCSC_Genome_Browser.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1400px-MAKER_UCSC_Genome_Browser.jpg 2x"
 width="700" height="173" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER_UCSC_Genome_Browser.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Structural Annotations
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 - Functional Annotations: process a gene is involved in (metabolism),
   molecular function (hydrolase), location of expression (expressed in
@@ -295,9 +295,9 @@ Structural Annotations
   (<a href="http://www.geneontology.org/" class="external text"
   rel="nofollow">Gene Ontology</a>)
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:702px;">
+
+
 
 <a href="File:MAKER_GO_Screenshot.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/700px-MAKER_GO_Screenshot.jpg"
@@ -305,24 +305,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/1050px-MAKER_GO_Screenshot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/MAKER_GO_Screenshot.jpg 2x"
 width="700" height="294" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER_GO_Screenshot.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Functional Annotations
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 It is especially important that all genome annotations include an
 evidence trail that describes in detail the evidence that was used to
@@ -339,9 +339,9 @@ Examples of evidence supporting a structural annotation:
 
 Why should the average biologist care about genome annotations?
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Process.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/560px-Process.png"
@@ -349,24 +349,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/840px-Process.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Process.png 2x"
 width="560" height="352" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Process.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Genome project from sequencing to experimental application of
 annotations
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 Genome sequence itself is not very useful. The first question that
@@ -469,32 +469,32 @@ annotation pipeline.
 
   
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:502px;">
+
+
 
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER_Apollo_view.jpg" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 MAKER-generated annotations, shown in [Apollo](Apollo.1 "Apollo")
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -555,9 +555,9 @@ on model organisms such as *Drosophila* and *C. elegans*, organisms for
 which we have large amount of pre-existing data to both train and tweak
 the prediction parameters.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:MAKER2_Table1.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Table1.jpg/560px-MAKER2_Table1.jpg"
@@ -565,23 +565,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/MAKER2_Table1.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/MAKER2_Table1.jpg 2x"
 width="560" height="357" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER2_Table1.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Comparison of gene accuracies for MAKER vs. *ab initio* gene predictors
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 What about emerging model organisms for which little data is available?
 Gene prediction in classic model organisms is relatively simple because
@@ -590,9 +590,9 @@ verified gene models, but with emerging model organisms, we are lucky to
 have a handful of gene models to train with. As a result *ab initio*
 gene predictors generally perform very poorly on emerging genomes.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:MAKER2_Figure1.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/560px-MAKER2_Figure1.jpg"
@@ -600,24 +600,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/840px-MAKER2_Figure1.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/1120px-MAKER2_Figure1.jpg 2x"
 width="560" height="926" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER2_Figure1.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 MAKER's performance on the *S. mediterranea* emerging model organism
 genome. Pfam domain content of gene models determined using rpsblast
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 By using *ab inito* gene predictors within the MAKER pipeline you get
 several key benefits:
@@ -704,7 +704,7 @@ Required for optional MPI support:
 
 ### <span id="The_MAKER_Package" class="mw-headline">The MAKER Package</span>
 
-<div class="attn">
+
 
 MAKER can be downloaded from:
 
@@ -712,7 +712,7 @@ MAKER can be downloaded from:
   rel="nofollow">http://www.yandell-lab.org/</a> - but it should already
   be on the image
 
-</div>
+
 
 MAKER is already installed on the Amazon Machine Image that we will be
 using today, so let's start an instance of that AMI. Navigate your
@@ -732,12 +732,12 @@ Launch and instance of that AMI with the following parameters:
 
 When the machine is running connect to it with SSH (puTTY):
 
-<div class="enter">
+
 
 ssh -i ~/.ec2/my_private_key.pem
 ubuntu@ec2-##-##-##-##.compute-1.amazonaws.com
 
-</div>
+
 
 Ensure you change the user name from root to ubuntu
 
@@ -1218,12 +1218,12 @@ Let's take a look at the `maker_exe.ctl` file.
 
     nano maker_exe.ctl
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 You will see the names of a number of MAKER supported executables as
 well as the path to their location. If you followed the installation
@@ -1246,12 +1246,12 @@ Now let's take a look at the `maker_bopts.ctl` file.
 
     nano maker_bopts.ctl
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 In this file you will find values you can edit for downstream filtering
 of BLAST and Exonerate alignments. At the very top of the file you will
@@ -1266,12 +1266,12 @@ Now let's take a look at the `maker_opts.ctl` file.
 
     nano maker_opts.ctl
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 This is the primary configuration file for MAKER specific options. Here
 we need to set the location of the genome, EST, and protein input files
@@ -1336,9 +1336,9 @@ nearly impossible to generate a useful annotation set of the organisms
 own genes. For this reason it is critical to identify and mask these
 repetitive regions of the genome.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Repeatmask.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Repeatmask.jpg/560px-Repeatmask.jpg"
@@ -1346,23 +1346,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 2x"
 width="560" height="357" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Repeatmask.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Identify and mask repetitive elements
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 MAKER identifies repeats in two steps.
 
@@ -1459,9 +1459,9 @@ alignment algorithms.
   distant organisms can be aligned against raw genomic sequence to try
   and identify regions of homology. MAKER does this using BLASTX.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Evidence.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/Evidence.jpg/560px-Evidence.jpg"
@@ -1469,23 +1469,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 2x"
 width="560" height="354" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Evidence.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Align EST and protein evidence
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Remember now that we are aligning against the repeat-masked genomic
 sequence. How is this going to affect our alignments? For one thing we
@@ -1522,9 +1522,9 @@ result is a high quality alignment that can be used to suggest near
 exact intron/exon positions. Polished alignments are produced using the
 est2genome and protein2genome options for Exonerate.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Polish.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Polish.jpg/560px-Polish.jpg"
@@ -1532,23 +1532,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 2x"
 width="560" height="352" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Polish.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Polish BLAST alignments with Exonerate
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 One of the benefits of polishing EST alignments is the ability to
@@ -1570,9 +1570,9 @@ programs. MAKER takes all the evidence, generates "hints" to where
 splice sites and protein coding regions are located, and then passes
 these "hints" to programs that will accept them.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Hint.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f4/Hint.jpg/560px-Hint.jpg"
@@ -1580,23 +1580,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 2x"
 width="560" height="355" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Hint.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Pass gene finders evidence-based ‘hints’
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 MAKER produces hint based predictors for:
 
@@ -1615,9 +1615,9 @@ included in the output), and then MAKER chooses from among all the gene
 model possibilities the one that best matches the evidence. This is done
 using a modified sensitivity/specificity distance metric.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Select.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f6/Select.jpg/560px-Select.jpg"
@@ -1625,30 +1625,30 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 2x"
 width="560" height="401" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Select.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Identify gene model most consistent with evidence\*
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 MAKER can use evidence from EST alignments to revise gene models to
 include features such as 5' and 3' UTRs.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Revise.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/Revise.jpg/560px-Revise.jpg"
@@ -1656,32 +1656,32 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 2x"
 width="560" height="355" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Revise.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Revise model further if necessary; create new annotation
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ### <span id="Quality_Control" class="mw-headline">Quality Control</span>
 
 Finally MAKER calculates quality control statistics to assist in
 downstream management and curation of gene models outside of MAKER.
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:Statistics.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/Statistics.jpg/560px-Statistics.jpg"
@@ -1689,23 +1689,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/Statistics.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/Statistics.jpg 2x"
 width="560" height="310" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Statistics.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Compute support for each portion of the gene model
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ## <span id="MAKER.27s_Output" class="mw-headline">MAKER's Output</span>
 
@@ -2078,12 +2078,12 @@ values.
  nano maker_opts.ctl
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
   
 Edit the following:
@@ -2156,12 +2156,12 @@ We need to run MAKER again with the new HMM file we just built for SNAP.
  nano maker_opts.ctl
 ```
 
-<div style="font-size: 80%; margin-top: -0.75em; margin-left: 1em">
+
 
 [A word on text editors such as
 nano](Linux_Text_Editors "Linux Text Editors").
 
-</div>
+
 
 And set:
 
@@ -2317,9 +2317,9 @@ rel="nofollow">http://derringer.genetics.utah.edu/MWAS/</a>
 
 ## <span id="Improving_Annotation_Quality_with_MAKER.27s_AED_score" class="mw-headline">Improving Annotation Quality with MAKER's AED score</span>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:MAKER2_Figure2.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/560px-MAKER2_Figure2.jpg"
@@ -2327,29 +2327,29 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/840px-MAKER2_Figure2.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/1120px-MAKER2_Figure2.jpg 2x"
 width="560" height="484" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER2_Figure2.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Re-annotation with MAKER
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:562px;">
+
+
 
 <a href="File:MAKER2_Figure3.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/560px-MAKER2_Figure3.jpg"
@@ -2357,23 +2357,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/840px-MAKER2_Figure3.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/1120px-MAKER2_Figure3.jpg 2x"
 width="560" height="432" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:MAKER2_Figure3.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Re-annotation with MAKER
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
@@ -2499,7 +2499,7 @@ know how to start a MAKER job via MPI.
 
 ## <span id="User_Interface_for_Local_MAKER_Instalation" class="mw-headline">User Interface for Local MAKER Instalation</span>
 
-<div class="emphasisbox">
+
 
 This example did not work during class because a conflict with the
 version of Apache that was installed. The issue has since been fixed.
@@ -2517,7 +2517,7 @@ Then update maker via subversion.
  svn update ~/Documents/Software/maker/
 ```
 
-</div>
+
 
 The MWAS interface provides a very convenient method for running MAKER
 and viewing results; however, because compute resources are limited
@@ -2855,18 +2855,18 @@ Scripts:
 
      tophat2gff3 <junctions.bed>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=MAKER_Tutorial_2012&oldid=24437>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -2875,13 +2875,13 @@ Retrieved from
 - [MAKER](Category%3AMAKER "Category%3AMAKER")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER Tutorial
@@ -2892,30 +2892,29 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2012 "Special:Export
 |----|----|
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -2925,81 +2924,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -3009,31 +3004,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 20:52 on 27 August
   2013.</span>
@@ -3055,4 +3049,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

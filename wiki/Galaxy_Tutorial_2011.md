@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Galaxy Tutorial 2011</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <a href="http://galaxyproject.org" class="external text"
 rel="nofollow">Galaxy</a> is a framework for integrating computational
@@ -48,13 +48,13 @@ interactive analysis that transparently tracks the details of analyses,
 a workflow system for convenient reuse, data management, sharing,
 publishing, and more.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Creating a
   Galaxy instance</span>](#Creating_a_Galaxy_instance)
@@ -144,7 +144,7 @@ publishing, and more.
 - [<span class="tocnumber">10</span> <span class="toctext">Where to go
   next</span>](#Where_to_go_next)
 
-</div>
+
 
 # <span id="Creating_a_Galaxy_instance" class="mw-headline">Creating a Galaxy instance</span>
 
@@ -176,7 +176,7 @@ The development and release repositories are available through the
 <a href="http://bitbucket.org" class="external text"
 rel="nofollow">bitbucket hosting service</a>.
 
-<div class="dont">
+
 
 **DO NOT DO THIS NOW**: To create a local clone of the release
 repository run the following:
@@ -186,7 +186,7 @@ repository run the following:
  gmod@ubuntu:~/work$ hg clone http://bitbucket.org/galaxy/galaxy-dist
 ```
 
-</div>
+
 
 **DO THIS INSTEAD**: To ensure we are all using the exact same revision
 of Galaxy, instead clone from a repository that is already on the VM
@@ -304,12 +304,12 @@ either upload a file, or enter one or more URLs in the **URL/Text** box.
 
     ftp://ftp.gmod.org/pub/gmod/Courses/2011/SpringTraining/Galaxy/TAF1_ChIP.txt
 
-<div style="font-size: 80%">
+
 
 (**Note:** You can also upload this from the filesystem at
 `~/Documents/Data/galaxy/)`
 
-</div>
+
 
 in the **URL/Text** box and *click* **Execute**.
 
@@ -490,9 +490,9 @@ which tools are loaded by a given instance:
 
     gmod@ubuntu:~/work/galaxy-dist$ head tool_conf.xml
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0"?>
@@ -507,16 +507,16 @@ which tools are loaded by a given instance:
      <tool file="data_source/biomart.xml" />
 ```
 
-</div>
 
-</div>
+
+
 
 Each referenced file contains the description of a particular tool. The
 **Get Flanks** tool we used earlier is described farther down:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
   <section name="Operate on Genomic Intervals" id="bxops">
@@ -529,16 +529,16 @@ Each referenced file contains the description of a particular tool. The
   </section>
 ```
 
-</div>
 
-</div>
+
+
 
 Let's examine the **Get Flanks** tool by looking at the file
 `tools/new_operations/get_flanks.xml`:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
  <tool id="get_flanks1" name="Get flanks">
@@ -573,9 +573,9 @@ Let's examine the **Get Flanks** tool by looking at the file
  </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 This syntax is defined at <a
 href="https://bitbucket.org/galaxy/galaxy-central/wiki/ToolConfigSyntax"
@@ -592,9 +592,9 @@ supported data type. In this case, the input is defined as format
 `lib/galaxy/datatypes/interval.py`, which defines interval formats. To
 find each type's metadata elements, search for `MetadataElement`:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
 class Interval( Tabular ):
@@ -610,9 +610,9 @@ class Interval( Tabular ):
     MetadataElement( name="columns", default=3, desc="Number of columns", readonly=True, visible=False )
 ```
 
-</div>
 
-</div>
+
+
 
 Test and help details have been removed from the listing here. The
 `<help>` section describes the tool. This text is displayed on the tool
@@ -810,9 +810,9 @@ Let's first create a directory for our new tool:
 And then using a [text editor](Linux_Text_Editors "Linux Text Editors"),
 create `tools/gmod_2011/sam_filter.py` containing:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="python source-python">
+
+
 
 ``` de1
 #!/usr/bin/env python
@@ -839,18 +839,18 @@ for line in open( sys.argv[1] ):
         out.write( line )
 ```
 
-</div>
 
-</div>
+
+
 
 ## <span id="The_tool_wrapper" class="mw-headline">The tool wrapper</span>
 
 Next, we need to create the tool configuration. Edit the file
 `tools/gmod_2011/sam_filter.xml` and start with the following skeleton:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -866,16 +866,16 @@ Next, we need to create the tool configuration. Edit the file
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 First, let's define the output. This tool has a single output, of type
 `sam`, so we modify the configuration to contain:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -891,9 +891,9 @@ First, let's define the output. This tool has a single output, of type
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 The name can be anything, but it will be used later to identify the
 output file in the command line. Second, let's define the following
@@ -905,9 +905,9 @@ inputs
 
 The resulting configuration:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -929,18 +929,18 @@ The resulting configuration:
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 Finally, we define how to construct our command line based on values for
 the inputs. The command line is a template, where we can substitute in
 the value of each input (filenames in the case of datasets). Thus our
 final tool configuration is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <tool id="sam_filter_1" name="SAM Filter">
@@ -962,16 +962,16 @@ final tool configuration is:
 </tool>
 ```
 
-</div>
 
-</div>
+
+
 
 We now need to modify `tool_conf.xml` to register our new tool and run
 Galaxy. Modify the top of `tool_conf.xml` to look like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <?xml version="1.0"?>
@@ -982,9 +982,9 @@ Galaxy. Modify the top of `tool_conf.xml` to look like:
   ...
 ```
 
-</div>
 
-</div>
+
+
 
 and run Galaxy using `run.sh`
 
@@ -1058,7 +1058,7 @@ build identifier or dbkey). For our example, the identifier will be
 
 ## <span id="Python_package_management_tools" class="mw-headline">Python package management tools</span>
 
-<div class="dont">
+
 
 **DO NOT DO THIS NOW**: This has already been done on the VMware image.
 
@@ -1067,11 +1067,11 @@ the terminal, enter:
 
 `  $ `<span class="enter">`sudo apt-get install python-dev python-setuptools python-pip`</span>
 
-</div>
+
 
 ## <span id="bx-python" class="mw-headline">bx-python</span>
 
-<div class="dont">
+
 
 **Do not do this now either.** This has already been done on your image.
 
@@ -1082,7 +1082,7 @@ This *would* install some support files needed by Python. Next type
 This would install the `bx-python` package, a collection of scripts and
 Python libraries for working with genomic and comparative genomic data.
 
-</div>
+
 
 ## <span id="Get_datasets_for_our_genome" class="mw-headline">Get datasets for our genome</span>
 
@@ -1093,12 +1093,12 @@ Now, we will download the datasets for our example genome:
     $ wget ftp://ftp.gmod.org/pub/gmod/Courses/2011/SpringTraining/Galaxy/a_example_1.maf
     $ wget ftp://ftp.gmod.org/pub/gmod/Courses/2011/SpringTraining/Galaxy/a_example_1.2bit
 
-<div style="font-size: 80%">
+
 
 Note: These files are also available on the image in
 `~/Documents/Data/galaxy/`.
 
-</div>
+
 
 Next, we will use the script `maf_build_index.py` (put in
 `/usr/local/bin/` when `bx-python` was installed) to create a binary
@@ -1198,12 +1198,12 @@ the section `[app:main]` add two lines:
 
 Restart Galaxy with `run.sh`
 
-<div style="font-size: 80%">
+
 
 Note: if you are running this tutorial after the course, pages may be
 enabled by default in the most current Galaxy distribution.
 
-</div>
+
 
 ## <span id="Galaxy_Pages" class="mw-headline">Galaxy Pages</span>
 
@@ -1289,18 +1289,18 @@ are some pointers for learning more:
   class="external text" rel="nofollow">You can find even more at the
   Galaxy wiki</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2011&oldid=23066>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1309,30 +1309,29 @@ Retrieved from
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1342,81 +1341,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1426,31 +1421,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:56 on 13 February
   2013.</span>
@@ -1472,4 +1466,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

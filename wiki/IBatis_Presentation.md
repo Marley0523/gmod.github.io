@@ -1,55 +1,55 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">IBatis Presentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Jeff Bowes, Xenbase, University of Calgary. This Wiki section is an
 edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/IBatis.pdf" class="internal"
 title="IBatis.pdf">Jeff's presentation</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">ibatis</span>](#ibatis)
@@ -104,7 +104,7 @@ title="IBatis.pdf">Jeff's presentation</a>.
 - [<span class="tocnumber">26</span>
   <span class="toctext">Acknowledgements</span>](#Acknowledgements)
 
-</div>
+
 
 ##### <span id="ibatis" class="mw-headline">ibatis</span>
 
@@ -135,9 +135,9 @@ title="IBatis.pdf">Jeff's presentation</a>.
 
 ##### <span id="Abator_Example" class="mw-headline">Abator Example</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <abatorConfiguration>
@@ -161,15 +161,15 @@ title="IBatis.pdf">Jeff's presentation</a>.
  <abatorConfiguration>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Abator_Example_2" class="mw-headline">Abator Example</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <abatorConfiguration>
@@ -193,15 +193,15 @@ title="IBatis.pdf">Jeff's presentation</a>.
  <abatorConfiguration>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Abator_Example_3" class="mw-headline">Abator Example</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <table schema="db2inst1" tableName="synonym"></nowiki> 
@@ -212,9 +212,9 @@ title="IBatis.pdf">Jeff's presentation</a>.
  </table>
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -237,9 +237,9 @@ Works as:
 
 ##### <span id="Insert" class="mw-headline">Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <insert id="abatorgenerated_insert" parameterClass=
@@ -260,15 +260,15 @@ Works as:
   </insert>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Insert_2" class="mw-headline">Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <insert id="abatorgenerated_insert" parameterClass=
@@ -289,15 +289,15 @@ Works as:
   </insert>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Insert_3" class="mw-headline">Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <insert id="abatorgenerated_insert" parameterClass=
@@ -318,15 +318,15 @@ Works as:
   </insert>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Insert_4" class="mw-headline">Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <selectKey resultClass="java.lang.Integer"
@@ -335,15 +335,15 @@ Works as:
  </selectKey>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Insert_5" class="mw-headline">Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <selectKey resultClass="java.lang.Integer"
@@ -352,15 +352,15 @@ Works as:
  </selectKey>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_1_-_Insert" class="mw-headline">Problem 1 - Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  try {
@@ -380,15 +380,15 @@ Works as:
  }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_1_-_Insert_2" class="mw-headline">Problem 1 - Insert</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="java source-java">
+
+
 
 ``` de1
  try {
@@ -408,9 +408,9 @@ Works as:
  }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Transactions" class="mw-headline">Transactions</span>
 
@@ -437,9 +437,9 @@ Works as:
 
 Account for cycles or recursion in Master Detail Report.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <resultMap id="SelectGeneResults"
@@ -465,15 +465,15 @@ Account for cycles or recursion in Master Detail Report.
  </resultMap>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_2_-_Master_Detail_Report" class="mw-headline">Problem 2 - Master Detail Report</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <resultMap id="SelectGeneResults"
@@ -499,9 +499,9 @@ Account for cycles or recursion in Master Detail Report.
  </resultMap>
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Master_Detail_Report" class="mw-headline">Master Detail Report</span>
 
@@ -614,18 +614,18 @@ Financial Support
 - University of Calgary Dept. of Computer Science
 - NICHD
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=IBatis_Presentation&oldid=22203>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -633,30 +633,29 @@ Retrieved from
 - [Middleware
   Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -666,81 +665,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -750,31 +745,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/IBatis_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:10 on 9 October
   2012.</span>
@@ -796,4 +790,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

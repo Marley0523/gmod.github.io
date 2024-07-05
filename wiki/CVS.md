@@ -1,45 +1,45 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Version Control System Access</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from
 [CVS](http://gmod.org/mediawiki/index.php?title=CVS&redirect=no "CVS"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 *Subversion* (often abbreviated *SVN* is the *source code control*
 system used by most of GMOD. Source code control systems, also known as
@@ -63,13 +63,13 @@ wait for the next official release. Please note, however, that
 components pulled from SVN are **development** versions, and may not
 always work as expected.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Browsing SVN
   Repositories</span>](#Browsing_SVN_Repositories)
@@ -80,7 +80,7 @@ always work as expected.
 - [<span class="tocnumber">4</span> <span class="toctext">Legacy CVS
   Read-only Access</span>](#Legacy_CVS_Read-only_Access)
 
-</div>
+
 
 ## <span id="Browsing_SVN_Repositories" class="mw-headline">Browsing SVN Repositories</span>
 
@@ -111,7 +111,7 @@ administrator must have granted you write access to the repository.
 
 ## <span id="Legacy_CVS_Read-only_Access" class="mw-headline">Legacy CVS Read-only Access</span>
 
-<div class="emphasisbox" style="font-size: 120%">
+
 
 GMOD has migrated all projects from CVS to
 <a href="http://subversion.tigris.org/" class="external text"
@@ -120,7 +120,7 @@ Subversion
 Conversion](CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 page.
 
-</div>
+
 
 The old GMOD [CVS](Glossary#CVS "Glossary") repositories can be checked
 out through anonymous (pserver) CVS with the following instruction set.
@@ -150,47 +150,46 @@ GMOD CVS repositories can also be browsed on the web:
 <a href="http://gmod.cvs.sourceforge.net/gmod/" class="external free"
 rel="nofollow">http://gmod.cvs.sourceforge.net/gmod/</a>.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Version_Control_System_Access&oldid=9306>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -200,81 +199,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -284,31 +279,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Version_Control_System_Access"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 16:46 on 15 September
   2009.</span>
@@ -330,4 +324,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

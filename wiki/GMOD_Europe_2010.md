@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Europe 2010</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
 data-cellpadding="10">
@@ -47,14 +47,14 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td rowspan="2"><div class="center">
-<div class="floatnone">
+<td rowspan="2">
+
 <a href="File:GMOD2010Europe300.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/220px-GMOD2010Europe300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="220" height="188" alt="GMOD2010Europe300.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td><span style="font-size: 200%; line-height: 140%"><strong>GMOD Europe
 2010</strong><br />
 13-16 September 2010<br />
@@ -145,11 +145,11 @@ title="InterMine Workshop - GMOD Europe 2010">InterMine Workshop</a>,
 and <a href="BioMart_Workshop_-_GMOD_Europe_2010"
 title="BioMart Workshop - GMOD Europe 2010">BioMart Workshop</a> were
 free.</p></td>
-<td><div style="float: right; padding-left: 1em; padding-bottom: 1em;">
-<div id="toc" class="toc">
-<div id="toctitle">
+<td>
+
+
 <h2 id="contents">Contents</h2>
-</div>
+
 <ul>
 <li><a href="#Registration"><span class="tocnumber">1</span> <span
 class="toctext">Registration</span></a></li>
@@ -183,8 +183,8 @@ Cambridge</span></a></li>
 <li><a href="#See_Also"><span class="tocnumber">5</span> <span
 class="toctext">See Also</span></a></li>
 </ul>
-</div>
-</div></td>
+
+</td>
 </tr>
 </tbody>
 </table>
@@ -316,14 +316,14 @@ Informatics</span></td>
 </tbody>
 </table>
 
-<div class="floatright">
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/200px-Sept2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="200" height="171" alt="September 2010 GMOD Meeting" />](September_2010_GMOD_Meeting "September 2010 GMOD Meeting")
 
-</div>
+
 
 ### <span id="13-14_September:_September_2010_GMOD_Meeting" class="mw-headline">13-14 September: [September 2010 GMOD Meeting](September_2010_GMOD_Meeting "September 2010 GMOD Meeting")</span>
 
@@ -360,14 +360,14 @@ page for more.
 
 ### <span id="15_September:_InterMine_Workshop" class="mw-headline">15 September: [InterMine Workshop](InterMine_Workshop_-_GMOD_Europe_2010 "InterMine Workshop - GMOD Europe 2010")</span>
 
-<div class="floatright">
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/200px-InterMineLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/300px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="200" height="25" alt="InterMine Workshop" />](InterMine_Workshop_-_GMOD_Europe_2010 "InterMine Workshop")
 
-</div>
+
 
 There was a one day [InterMine
 Workshop](InterMine_Workshop_-_GMOD_Europe_2010 "InterMine Workshop - GMOD Europe 2010")
@@ -390,14 +390,14 @@ See the [InterMine Workshop
 Page](InterMine_Workshop_-_GMOD_Europe_2010 "InterMine Workshop - GMOD Europe 2010")
 for details.
 
-<div class="floatright">
+
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/200px-Biomart250.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="200" height="79" alt="BioMart Workshop" />](BioMart_Workshop_-_GMOD_Europe_2010 "BioMart Workshop")
 
-</div>
+
 
 ### <span id="16_September:_BioMart_Workshop" class="mw-headline">16 September: [BioMart Workshop](BioMart_Workshop_-_GMOD_Europe_2010 "BioMart Workshop - GMOD Europe 2010")</span>
 
@@ -463,18 +463,18 @@ colleges.
   being held in nearby Hinxton, at the Wellcome Trust Genome Campus. We
   were unaware of this overlap when we scheduled GMOD Europe 2010.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Europe_2010&oldid=23365>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -482,30 +482,29 @@ Retrieved from
 - [Education and
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -515,81 +514,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -599,31 +594,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Europe_2010" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:04 on 2 April
   2013.</span>
@@ -645,4 +639,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

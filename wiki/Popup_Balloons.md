@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Popup Balloons</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="floatright">
+
+
+
 
 <a href="File:Sample_ballon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/Sample_ballon.png" width="292"
 height="105" alt="Sample ballon.png" /></a>
 
-</div>
+
 
 **balloon.js** is a javascript class for balloon tooltips, otherwise
 known as popup balloons, bubble tooltips, rollover tooltips, etc. It is
@@ -78,13 +78,13 @@ balloon.js is generic and should work in most web sites.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Example
   Implementations</span>](#Example_Implementations)
@@ -233,7 +233,7 @@ balloon.js is generic and should work in most web sites.
 - [<span class="tocnumber">9</span> <span class="toctext">Software
   License</span>](#Software_License)
 
-</div>
+
 
 # <span id="Example_Implementations" class="mw-headline">Example Implementations</span>
 
@@ -291,7 +291,7 @@ class="external text" rel="nofollow">zip archive</a>
 
     document_root/js
 
-<div class="emphasisbox">
+
 
 NOTE: <a
 href="http://www.solucorp.qc.ca/linuxconf/help.files/apache/apache-5.html"
@@ -312,7 +312,7 @@ Depending on your web server, this may be:
 
     etc...
 
-</div>
+
 
   
 
@@ -386,7 +386,7 @@ page header.
   and one background image for each stem orientation (see image below).
 - Not counting the stem, the balloon has four parts, one for each
   corner. The size of the balloon is stretched to fit the content.
-- Each of these four parts is a \<div\> element that uses the same
+- Each of these four parts is a \ element that uses the same
   image, the <a
   href="http://gmod.cvs.sourceforge.net/*checkout*/gmod/balloon-tooltips/htdocs/images/balloon.png"
   class="external text" rel="nofollow">balloon body</a> , as it's
@@ -533,17 +533,17 @@ must be reset to 'null' in this case.
   stem overlap and the padding and shadow widths must be accurate to a
   precision of 1px or the balloon will not render properly.
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:Options.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Options.png" width="960" height="361"
 alt="Options.png" /></a>
 
-</div>
 
-</div>
+
+
 
 **Note:** The padding is not only the distance of the text from the
 balloon outline, it also defines the width of the right and bottom
@@ -554,17 +554,17 @@ will obscure the balloon corners.
 For example, setting the padding to 2px with the default balloon images
 will cause the effect below because the image corner radius is 10px:
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:Padding_defect.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/Padding_defect.png" width="658"
 height="115" alt="Padding defect.png" /></a>
 
-</div>
 
-</div>
+
+
 
 ### <span id="Online_balloon_image_generator" class="mw-headline">Online balloon image generator</span>
 
@@ -581,11 +581,11 @@ height="115" alt="Padding defect.png" /></a>
 Below is an example of the input form that can be used to experiment
 with different balloon options.
 
-<div style="border:1px solid blue;background:lightcyan">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
 
 <a href="File:Balloon_generator.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
@@ -593,18 +593,18 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="295"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
 Sample output. The program will draw either a sample of what the final
 product will look like or all of the necessary image components.
 
-<div style="border:1px solid blue">
+
 
 |                                                                    |
 |:------------------------------------------------------------------:|
@@ -614,18 +614,18 @@ product will look like or all of the necessary image components.
                              height="402"                            
  alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>  |
 
-</div>
+
 
   
 
 The CGI script will also generate the necessary javascript code to use
 the custom balloon images on a web page:
 
-<div style="border:1px solid blue;background:lightcyan">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
 
 <a href="File:Balloon_script.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
@@ -633,11 +633,11 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="422"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
   
@@ -1034,12 +1034,12 @@ A non-sticky balloon that is 150px wide
      <a href="someURL" onmouseover="balloon.showTooltip(event,'Some text...',0,150)">Link</a>
 
   
-A balloon that has its content stored in a \<div\>
+A balloon that has its content stored in a \
 
-     <div id="contents1" style="display:none">
+     
       Your message goes here.  It may be long and have lots of HTML markup,
       forms, images, etc...
-     </div>
+     
      <a href="someURL" onmouseover="balloon.showTooltip(event,'load:contents1',1,250)">Link</a>
 
 A balloon that contains another website loaded via an iframe
@@ -1138,10 +1138,10 @@ For example;
 
 For example, the string above would be encoded as:
 
-    <div id="contents1" style="display:none">
+    
      This is some text.  It is 'very interesting'.  Well, maybe not.
      I guess it depends on your definition of "interesting".
-    </div>
+    
 
 and the contents are retreived using the syntax below:
 
@@ -1382,7 +1382,7 @@ Again, reasonable limits apply.
 Almost all problems reported are not bugs in balloon.js but
 implementation errors, such as those described below:
 
-<div class="emphasisbox" title="Document Root">
+
 
 ### <span id="What_is_a_Document_Root.3F" class="mw-headline">What is a Document Root?</span>
 
@@ -1402,7 +1402,7 @@ create subdirectories, 'test' for example, the URL for path for the
 contents of 'test' would be /test/\*, e.g. '/test/images', '/test/js',
 etc.
 
-</div>
+
 
 library locations  
 Your web browser needs to know where the javascript files are. Make sure
@@ -1436,7 +1436,7 @@ which will only work if it is **exactly** right. For example:
 
     var balloon = new balloon();
 
-<div class="emphasisbox">
+
 
 ### <span id="This_package_is_NOT_a_desktop_application" class="mw-headline">This package is NOT a desktop application</span>
 
@@ -1455,7 +1455,7 @@ which will only work if it is **exactly** right. For example:
 With apologies, the author does not provide user support for this
 package installed on local desktop computers
 
-</div>
+
 
 ## <span id="Reporting_errors" class="mw-headline">Reporting errors</span>
 
@@ -1503,18 +1503,18 @@ package installed on local desktop computers
      If publications result from research using this SOFTWARE, we ask that
      CSHL and the author be acknowledged as scientifically appropriate.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Popup_Balloons&oldid=23632>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1523,30 +1523,29 @@ Retrieved from
 - [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1556,81 +1555,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1640,31 +1635,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 14:22 on 29 May
   2013.</span>
@@ -1686,4 +1680,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

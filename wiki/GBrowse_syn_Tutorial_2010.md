@@ -1,46 +1,46 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn Tutorial 2010</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:GBrowse_syn_logo.png" class="image"
 title="GBrowse_syn"><img
@@ -48,9 +48,9 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse_syn" /></a>
 
-</div>
 
-</div>
+
+
 
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure the
@@ -58,13 +58,13 @@ through how to install and configure the
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Caveats</span>](#Caveats)
@@ -92,17 +92,17 @@ through how to install and configure the
   - [<span class="tocnumber">6.2</span>
     <span class="toctext">Documentation</span>](#Documentation)
 
-</div>
+
 
 ## <span id="Caveats" class="mw-headline">Caveats</span>
 
-<div class="emphasisbox">
+
 
 **Note:** This tutorial is based on an Ubuntu Linux distribution. File
 paths and system commands (yum vs. apt-get, etc) may vary by Linux
 distribution or other unix-like operating system.
 
-</div>
+
 
 ## <span id="GBrowse_syn_Introduction" class="mw-headline">GBrowse_syn Introduction</span>
 
@@ -128,27 +128,27 @@ installation](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").
 - First, update <a href="http://search.cpan.org/perldoc?Bio::Graphics"
   class="external text" rel="nofollow">Bio::Graphics</a>
 
-<div class="indent">
+
 
     $ sudo cpan -i Bio::Graphics
 
-</div>
+
 
 - Then install GBrowse 2 from CPAN.
 
-<div class="indent">
+
 
     $ sudo cpan -i Bio::Graphics::Browser2
 
-</div>
+
 
 Now point your browser to
 <a href="http://localhost/cgi-bin/gb2/gbrowse_syn" class="external free"
 rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 
-<div class="thumb tleft">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:GBrowse_synWelcom.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
@@ -156,32 +156,32 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
 width="600" height="375" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_synWelcom.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 This is the welcome screen you should see after installing a new copy of
 GBrowse_syn with no configured data sources. It contains instructions on
 how to set up the example data source provided with the distribution.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
   
 
 ## <span id="Setting_up_the_sample_data" class="mw-headline">Setting up the sample data</span>
 
-<div class="emphasisbox" style="width:700px;margin-top:50px">
+
 
 - Sample data and configuration information for GBrowse_syn come
   pre-packaged with GBrowse.
@@ -191,7 +191,7 @@ how to set up the example data source provided with the distribution.
 *\*Data courtesy of Bonnie Hurwitz; sequences and names have been
 obfuscated to protect unpublished data*
 
-</div>
+
 
 ### <span id="Setting_up_the_Alignment_Database" class="mw-headline">Setting up the Alignment Database</span>
 
@@ -272,7 +272,7 @@ run.
 
 ### <span id="Setting_up_the_Configuration_Files" class="mw-headline">Setting up the Configuration Files</span>
 
-<div class="emphasisbox">
+
 
 - The configuration files required for this data source are
   pre-installed with [GBrowse](GBrowse.1 "GBrowse"), in
@@ -282,7 +282,7 @@ run.
   `oryza.synconf`. The latter file has been disabled by appending a
   '.disabled' extension to the file name.
 
-</div>
+
 
 The joining config file, `oryza.synconf`:
 
@@ -350,34 +350,34 @@ A sample species config file, `rice_synteny.conf`:
     key          = ensembl gene
     balloon hover = Hello, my name is $name!
 
-<div class="emphasisbox">
+
 
 Note: the species databases are actually using the [GFF3](GFF3 "GFF3")
 flat file, in-memory adapter
 
-</div>
+
 
 #### <span id="Activating_the_Oryza_Data_Source" class="mw-headline">Activating the Oryza Data Source</span>
 
 1\) Make sure the temporary image directory specified in the config
 files exists and is world-writable
 
-<div class="indent">
+
 
     $ sudo mkdir /var/www/tmp
     $ sudo mkdir /var/www/tmp/gbrowse2
     $ sudo chmod 777 /var/www/tmp/gbrowse2
 
-</div>
+
 
 2\) Renaming the configuration file
 
-<div class="indent">
+
 
     $ cd /etc/gbrowse2/synteny
     $ sudo mv oryza.synconf.disabled oryza.synconf
 
-</div>
+
 
 3\) Point your browser to
 <a href="http://localhost/cgi-bin/gb2/gbrowse_syn/oryza"
@@ -385,41 +385,41 @@ class="external free"
 rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn/oryza</a>. You
 should see:
 
-<div class="indent">
 
-<div class="floatleft">
+
+
 
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
-</div>
+
 
   
 
-</div>
+
 
 4\) Click on the first example, you should (eventually) see:
 
-<div class="indent">
 
-<div class="floatleft">
+
+
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
-</div>
+
 
   
 
-</div>
+
 
 5\) Try out a few user interface features:
 
-<div class="indent">
+
 
 - mouse over one of the genes:
 
@@ -432,7 +432,7 @@ height="148" alt="Gbrowse synBubble1.png" /></a>
 - Click and drag on the overview panel. This will trigger rubber band
   selection to recenter or resize the displayed image
 
-</div>
+
 
 ### <span id="Speeding_up_the_Browser" class="mw-headline">Speeding up the Browser</span>
 
@@ -492,7 +492,7 @@ relational database.
 
 ## <span id="Using_Non-alignment_Data" class="mw-headline">Using Non-alignment Data</span>
 
-<div class="emphasisbox">
+
 
 This example uses gene orthology-based synteny blocks\* based created by
 <a href="http://genome.sfu.ca/orthoclusterdb" class="external text"
@@ -501,16 +501,16 @@ elegans*, *C. briggsae* and *P. pacificus*.
 
 *\*Data courtesy of Jack Chen and Ismael Vergera*
 
-</div>
+
 
 1\) Download and unpack the data archive file `orthocluster.tar.gz`.
 
-<div class="indent">
+
 
     $ wget ftp://ftp.gmod.org/pub/gmod/GBrowse_syn/orthocluster.tar.gz
     $ tar zxf orthocluster.tar.gz
 
-</div>
+
 
 2\) Examine the contents of the `ORTHOCLUSTER` directory tree using the
 Unix `tree` command. It is not installed by default, so we will have to
@@ -633,22 +633,22 @@ and move on to other steps.
 `gbrowse_syn_load_alignment_database.pl` script is pre-installed with
 [GBrowse](GBrowse.1 "GBrowse").
 
-<div class="indent">
+
 
     $ cd ..
     $ mysql -uroot -pgmodamericas2010 -e 'create database orthocluster'
     $ gbrowse_syn_load_alignment_database.pl -u root -p gmodamericas2010 -d orthocluster -c -v orthocluster.txt
 
-</div>
+
 
 7\) Copy the configuration files to the required location
 
-<div class="indent">
+
 
     $ cd conf
     $ sudo cp *conf /etc/gbrowse2/synteny
 
-</div>
+
 
 8\) Go back to your browser and reload the rice page. There should now
 be a second data source in a pull-down menu.  
@@ -704,48 +704,47 @@ configure and use GBrowse_syn. To get started, browse these pages:
 - [Presentations and
   workshops](GBrowse_syn.1#Presentations_and_Workshops "GBrowse syn")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial_2010&oldid=22747>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -755,81 +754,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -839,31 +834,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2010"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 11:43 on 9 January
   2013.</span>
@@ -885,4 +879,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

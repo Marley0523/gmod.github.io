@@ -1,58 +1,58 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Galaxy Tutorial 2013</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from [Galaxy
 Tutorial](http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial&redirect=no "Galaxy Tutorial"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial will be taught by
 [Dave Clements](User%3AClements "User%3AClements") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Open Ports
   20-21, 8081</span>](#Open_Ports_20-21.2C_8081)
@@ -111,7 +111,7 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 - [<span class="tocnumber">7</span> <span class="toctext">Running Galaxy
   on the Cloud</span>](#Running_Galaxy_on_the_Cloud)
 
-</div>
+
 
 <a href="http://galaxyproject.org/" class="external text"
 rel="nofollow">Galaxy</a> is a data integration and analysis framework
@@ -131,14 +131,14 @@ this tutorial, but is used in Galaxy to upload large files, is on ports
 **Security Groups**, *select* the group you are using, and then *click*
 the **Inbound** tab and then add
 
-<div class="indent">
+
 
 | Create a new rule | Port range | Source    |
 |-------------------|------------|-----------|
 | Custom TCP Rule   | 8081       | 0.0.0.0/0 |
 | Custom TCP Rule   | 20-21      | 0.0.0.0/0 |
 
-</div>
+
 
 *Click* **+ Add rule** after each, and then **Apply Rule Changes** after
 all have been added.
@@ -220,7 +220,7 @@ class="external text" rel="nofollow">Galaxy Admin and Development
 Search</a>  
 Search online resources related to *deploying and developing* Galaxy
 
-<div class="indent">
+
 
 Results from searches are often further broken down into categories
 
@@ -236,7 +236,7 @@ Results from searches are often further broken down into categories
 
 This is all implemented using Google Custom Search.
 
-</div>
+
 
 <a href="https://wiki.galaxyproject.org/Mailing%20Lists"
 class="external text" rel="nofollow">Mailing Lists</a> and <a href="http://galaxyproject.org/search/mailinglists"
@@ -262,12 +262,12 @@ publications*
 
 ## <span id="Create_a_Galaxy_instance" class="mw-headline">Create a Galaxy instance</span>
 
-<div class="emphasisbox">
+
 
 See <a href="http://getgalaxy.org" class="external free"
 rel="nofollow">http://getgalaxy.org</a>.
 
-</div>
+
 
 ### <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -300,7 +300,7 @@ bedtools package, and install
 <a href="https://code.google.com/p/bedtools/downloads/list"
 class="external text" rel="nofollow">a newer one</a>.
 
-<div class="dont">
+
 
 **DO NOT DO THIS NOW** as it has already been done on your image:
 
@@ -317,7 +317,7 @@ then put it where it can be found.
  $ sudo cp -i bin/* /usr/bin
 ```
 
-</div>
+
 
 ### <span id="Clone_the_Galaxy_repository" class="mw-headline">Clone the Galaxy repository</span>
 
@@ -325,7 +325,7 @@ The development and release repositories are available through the
 <a href="http://bitbucket.org" class="external text"
 rel="nofollow">bitbucket hosting service</a>.
 
-<div class="dont">
+
 
 **DO NOT DO THIS NOW** as it has already been done on your image:
 
@@ -338,7 +338,7 @@ To create a local clone of the release repository run the following:
  $ hg update stable
 ```
 
-</div>
+
 
 ### <span id="Update_Galaxy_Configuration_File" class="mw-headline">Update Galaxy Configuration File</span>
 
@@ -393,13 +393,13 @@ Actually use something shorter.
 
 ### <span id="Use_a_more_robust_database" class="mw-headline">Use a more robust database</span>
 
-<div class="emphasisbox">
+
 
 See <a
 href="https://wiki.galaxyproject.org/Admin/Config/Performance/Production%20Server"
 class="external text" rel="nofollow">Production Server</a>
 
-</div>
+
 
 Out of the box Galaxy includes the embedded
 <a href="http://sqlite.org/" class="external text" rel="nofollow">SQLite
@@ -469,12 +469,12 @@ your Galaxy at http://ec2-##-##-##-##.compute-1.amazonaws.com:8081.
 
 ## <span id="Running_analyses_with_Galaxy" class="mw-headline">Running analyses with Galaxy</span>
 
-<div class="emphasisbox">
+
 
 See also <a href="http://usegalaxy.org/galaxy101" class="external text"
 rel="nofollow">Galaxy 101 tutorial</a>
 
-</div>
+
 
 Without any additional configuration, there is already a lot we can do
 with our first Galaxy instance. As an example, let's work through an
@@ -511,7 +511,7 @@ of it, users need to register.
 
 Now that Galaxy is up and running, let's use it to answer a question
 
-<div class="emphasisbox">
+
 
 We scooped up an unknown beast out of the slime and sent it off to the
 sequencing core to get it sequenced and an assembly so we can study it.
@@ -522,7 +522,7 @@ potential transcription binding sites (TFBSs) using another pipeline.
 What we now want to know is: which exons/genes have the most overlapping
 / embedded TFBSs?
 
-</div>
+
 
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/GMOD2013Galaxy101.pdf"
 class="internal" title="GMOD2013Galaxy101.pdf">Slides</a>
@@ -604,11 +604,11 @@ that have that gene name.
 If we were to now to run **Tools → Filter and Sort → Sort** on this
 dataset, we would have the answer to our original question:
 
-<div class="emphasisbox">
+
 
 Which genes have the most overlapping TFBS?
 
-</div>
+
 
 We have the list of genes, and the counts in them. We could use this
 dataset in further analysis, email it someone, etc..
@@ -661,11 +661,11 @@ We can now visualize our results in Galaxy. Click on the **visualize
 
 You may have noticed that In the preview of each dataset it shows
 
-<div class="indent">
+
 
 database: ?
 
-</div>
+
 
 The *database* (also referred to as a *build*) specifies which *genome
 assembly* this dataset is associated with. A genome assembly is usually
@@ -774,14 +774,14 @@ an **Admin** link in the top menu bar. Click on it, and then **Tool
 sheds → Search and browse tool sheds → Galaxy Main Tool Shed**. Search
 for "venn".
 
-<div class="indent">
+
 
 An error occurred with this dataset: Traceback (most recent call last):
 File
 "/home/ubuntu/Galaxy/shed_tools/toolshed.g2.bx.psu.edu/repos/peterjc/venn_list/c96bef0643dc/venn_list/tools/plotting/venn_list.py",
 line 13, in import rpy ImportError: No module named rpy
 
-</div>
+
 
 Do a web search for rpy debian package
 
@@ -806,48 +806,47 @@ rel="nofollow">CloudLaunch</a>
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/GMOD2013GalaxyCloud.pdf"
 class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2013&oldid=25977>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -857,81 +856,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -941,31 +936,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2013" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:33 on 10 June
   2014.</span>
@@ -987,4 +981,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

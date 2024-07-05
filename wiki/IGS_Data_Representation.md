@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">IGS Data Representation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 Chado is an elegant schema that can hold nearly anything from gene
 annotations to an MP3 collection. This fabulous flexibility comes with a
@@ -51,13 +51,13 @@ The reference document is currently the [Chado Best
 Practices](Chado_Best_Practices "Chado Best Practices") page, into which
 much of this information may become merged at some point.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">What we store
   (scope)</span>](#What_we_store_.28scope.29)
@@ -110,7 +110,7 @@ much of this information may become merged at some point.
   - [<span class="tocnumber">7.2</span> <span class="toctext">Disk
     Caching</span>](#Disk_Caching)
 
-</div>
+
 
 ## <span id="What_we_store_.28scope.29" class="mw-headline">What we store (scope)</span>
 
@@ -161,9 +161,9 @@ The following query shows all the features in our gene graph as well as
 their relationships. The example query is for a transcript feature
 'hsn.transcript.39176.1'
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT f1.name AS subject, c.name AS relationship, f2.name AS object
@@ -184,9 +184,9 @@ their relationships. The example query is for a transcript feature
     +-------------------------+--------------+------------------------+
 ```
 
-</div>
 
-</div>
+
+
 
 ## <span id="Functional_annotation" class="mw-headline">Functional annotation</span>
 
@@ -208,9 +208,9 @@ graph.
 Both gene product name and their evidence are stored as feature
 properties of the transcript. To query both:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 SELECT f.uniquename, product.VALUE AS product, sym.VALUE AS symbol
@@ -230,9 +230,9 @@ SELECT f.uniquename, product.VALUE AS product, sym.VALUE AS symbol
     +------------------------+--------------------+-----------+
 ```
 
-</div>
 
-</div>
+
+
 
 This means that the name of this product was assigned because of a hit
 to the HMM with ID TIGR01354. Ideally, this would be a dbxref and not
@@ -273,9 +273,9 @@ be entered. Should there be a single entry for 'GO' as a whole or three
 different ones, since it contains three separate namespaces (process,
 function, component)? For this example I'll use the single 'GO' entry:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT *
@@ -289,9 +289,9 @@ function, component)? For this example I'll use the single 'GO' entry:
     +-------+------+------------+
 ```
 
-</div>
 
-</div>
+
+
 
 Whether to respect the namespaces within GO and create three distinct
 ontology entries is configurable within the initdb Ergatis component,
@@ -300,9 +300,9 @@ which instantiates our Chado instances.
 Next, there's a entry in 'cvterm' for this term but not by the
 GO:NNNNNNNN value. Instead, we can look it up by the name:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT cvterm_id, name, SUBSTRING(definition,1,20), dbxref_id, is_obsolete
@@ -317,16 +317,16 @@ GO:NNNNNNNN value. Instead, we can look it up by the name:
     +-----------+-----------------------------+----------------------------+-----------+-------------+
 ```
 
-</div>
 
-</div>
+
+
 
 The actual GO:NNNNNNN value is a database reference (dbxref_id returned
 in last query):
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT *
@@ -340,15 +340,15 @@ in last query):
     +-----------+-------+------------+---------+-------------+
 ```
 
-</div>
 
-</div>
+
+
 
 Which, of course, means there's a GO entry in the 'db' table too:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT *
@@ -362,15 +362,15 @@ Which, of course, means there's a GO entry in the 'db' table too:
     +-------+------+-------------+-----------+------+
 ```
 
-</div>
 
-</div>
+
+
 
 So, reviewing, to get the basic annotation for a GO term:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT dbx.accession, cvt.name, cvt.definition
@@ -385,9 +385,9 @@ So, reviewing, to get the basic annotation for a GO term:
     +------------+-----------------------------+---------------------------------------------------------------------------+
 ```
 
-</div>
 
-</div>
+
+
 
 What about the xref_analog entries we saw in the OBO definition? The
 additional entries are stored using the cvterm_dxref table.
@@ -397,9 +397,9 @@ additional entries are stored using the cvterm_dxref table.
 A more narrative description has yet to be written, but here's a query
 to get all assigned GO terms for a given transcript, with evidence.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
     SELECT f.uniquename, d.accession, c2.name "evidence type",
@@ -424,9 +424,9 @@ to get all assigned GO terms for a given transcript, with evidence.
     +------------------------+-------------+-------------------------------------+---------------+-----------+
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Enzyme_Commission_.28EC.29_number" class="mw-headline">Enzyme Commission (EC) number</span>
 
@@ -511,9 +511,9 @@ an eternity and you'll lose users. This isn't necessarily a Chado
 limitation, but rather one on highly normalized schemas in general. To
 query all the BLAST results for a given polypeptide you might do this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 SELECT q.uniquename AS query, s.uniquename AS subject, af.rawscore, af.pidentity,
@@ -534,9 +534,9 @@ SELECT q.uniquename AS query, s.uniquename AS subject, af.rawscore, af.pidentity
    AND q.uniquename = 'nfa1.polypeptide.9292';
 ```
 
-</div>
 
-</div>
+
+
 
 That's just nasty isn't it? Not only do developers not want to write
 these but the sheer number of JOINs involved makes the query intolerably
@@ -555,9 +555,9 @@ user displays. The first is the creation of materialized views within
 the database. We call our collection of these 'chado marts'. The table
 definition for one of these to support BLAST results is:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 CREATE TABLE cm_blast (
@@ -573,9 +573,9 @@ CREATE TABLE cm_blast (
 );
 ```
 
-</div>
 
-</div>
+
+
 
 For those database engines that support it, such as Oracle, these
 materialized views can be defined once and are maintained by the
@@ -586,48 +586,47 @@ they are normal tables populated at regular intervals by scripts.
 
 Notes on Lucene, memcache, Storable, etc. here.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=IGS_Data_Representation&oldid=22170>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado](Category%3AChado "Category%3AChado")
 - [IGS](Category%3AIGS "Category%3AIGS")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -637,81 +636,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -721,31 +716,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/IGS_Data_Representation" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:34 on 8 October
   2012.</span>
@@ -767,4 +761,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

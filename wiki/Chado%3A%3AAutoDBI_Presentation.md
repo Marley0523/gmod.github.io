@@ -1,54 +1,54 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Chado%3A%3AAutoDBI Presentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This Wiki section is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/AutoDBI.pdf" class="internal"
 title="AutoDBI.pdf">Brian O'Connor's presentation</a>.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Relation to
   Turnkey</span>](#Relation_to_Turnkey)
@@ -79,7 +79,7 @@ title="AutoDBI.pdf">Brian O'Connor's presentation</a>.
 - [<span class="tocnumber">14</span> <span class="toctext">For More
   Information</span>](#For_More_Information)
 
-</div>
+
 
 ##### <span id="Relation_to_Turnkey" class="mw-headline">Relation to Turnkey</span>
 
@@ -97,24 +97,24 @@ schema, based on SQL::Translator
 
 Convert SQL Queries/Inserts/Deletes -\> Object Calls
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
   INSERT INTO feature (organism_id, name)
                                   VALUES (1, 'foo');
 ```
 
-</div>
 
-</div>
+
+
 
 To:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
     my $feature = Turnkey::Model::Feature->find_or_create({
@@ -125,9 +125,9 @@ To:
                    });
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Technical_Overview_2" class="mw-headline">Technical Overview</span>
 
@@ -137,9 +137,9 @@ To:
 - Class::DBI can find and insert records into other table, based on
   foreign key.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 use base qw(Class::DBI::Pg);
@@ -152,17 +152,17 @@ $pass = "";
 Turnkey::Model::DBI->set_db('Main', $dsn, $name, $pass, {AutoCommit => 1});
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Technical_Overview_3" class="mw-headline">Technical Overview</span>
 
 - Basic [ORM](Glossary#ORM "Glossary") Object: Feature
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 package Turnkey::Model::Feature;
@@ -178,9 +178,9 @@ sub id { shift->feature_id }
 sub feature { shift->feature_id }
 ```
 
-</div>
 
-</div>
+
+
 
 - data field accessors by Class::Accessor
 
@@ -189,9 +189,9 @@ sub feature { shift->feature_id }
 - Basic ORM Object: Feature
   - has_a
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 #
@@ -201,16 +201,16 @@ Turnkey::Model::Feature->has_a( type_id => "Turnkey::Model::Cvterm" );
 sub cvterm { return shift->type_id; }
 ```
 
-</div>
 
-</div>
+
+
 
 - Basic ORM Object: Feature
   - has_many
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 #
@@ -225,9 +225,9 @@ Turnkey::Model::Feature->has_many('featureprop_feature_id',
 sub featureprops { return shift->featureprop_feature_id; }
 ```
 
-</div>
 
-</div>
+
+
 
 - Can traverse tables, such as going from FEATURE to FEATUREPROP
   - Tell base object that the *table object* has_a() or has_many() keys
@@ -238,9 +238,9 @@ sub featureprops { return shift->featureprop_feature_id; }
 - Basic ORM Object: Feature
   - skipping linker tables for has_many
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # skip over feature_synonym table
@@ -255,9 +255,9 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
                       ['Turnkey::Model::Feature_Synonym' => 'synonym_id']);
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Technical_Overview_6" class="mw-headline">Technical Overview</span>
 
@@ -265,9 +265,9 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
   - Chado%3A%3AAutoDBI supports transactions, and one can wrap the
     transaction in an eval()
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
   sub do_transaction {
@@ -288,9 +288,9 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
   }
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Technical_Overview_7" class="mw-headline">Technical Overview</span>
 
@@ -298,9 +298,9 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
   - One can either do automated creation of objects or explicitly
     dictate which fields are incorporated into object
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 Turnkey::Model::Feature->columns( Primary => qw/feature_id/ );
@@ -308,31 +308,31 @@ Turnkey::Model::Feature->columns( Essential => qw/name organism_id type_id/ );
 Turnkey::Model::Feature->columns( Others => qw/residues .../ );
 ```
 
-</div>
 
-</div>
+
+
 
 Typically:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 Turnkey::Model::Feature->set_up_table('feature');
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_1" class="mw-headline">Problem 1</span>
 
 - Create Feature & Add Description
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # now create mRNA feature
@@ -353,9 +353,9 @@ my $featureprop = Turnkey::Model::Featureprop->find_or_create({
                    });
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problem_2" class="mw-headline">Problem 2</span>
 
@@ -363,9 +363,9 @@ my $featureprop = Turnkey::Model::Featureprop->find_or_create({
   - Search using strings or identifiers, a search will return an
     iterator object
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # objects for global use
@@ -381,17 +381,17 @@ my $note_cvterm = Turnkey::Model::Cvterm->retrieve(2);
 my @results = Turnkey::Model::Feature->search_like(name => 'x-%');
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Problems_3.2C_4.2C_.26_5" class="mw-headline">Problems 3, 4, & 5</span>
 
 - Update a Feature
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # update the xfile gene name
@@ -400,15 +400,15 @@ $feature->name("x-file");
 $feature->update();
 ```
 
-</div>
 
-</div>
+
+
 
 - Delete a Feature
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # now delete the x-file feature
@@ -416,9 +416,9 @@ $feature->update();
 $feature->delete();
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Things_Chado%3A%3AAutoDBI_does_well" class="mw-headline">Things Chado%3A%3AAutoDBI does well</span>
 
@@ -457,18 +457,18 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
   - <a href="http://biopackages.net" class="external free"
     rel="nofollow">http://biopackages.net</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Chado%3A%3AAutoDBI_Presentation&oldid=22155>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -477,30 +477,29 @@ Retrieved from
 - [Perl](Category%3APerl "Category%3APerl")
 - [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -510,81 +509,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -594,31 +589,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado%3A%3AAutoDBI_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:33 on 8 October
   2012.</span>
@@ -640,4 +634,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

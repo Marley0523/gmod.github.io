@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Flash GViewer Documentation</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Flash
   GViewer</span>](#Flash_GViewer)
@@ -77,7 +77,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [<span class="tocnumber">10</span> <span class="toctext">Known
   Issues</span>](#Known_Issues)
 
-</div>
+
 
 ### <span id="Flash_GViewer" class="mw-headline">Flash GViewer</span>
 
@@ -247,9 +247,9 @@ phenotype of *blood pressure*. Some of the longer lines have been broken
 to keep the page width down, the sample.html page provided with the
 download has a correctly formatted set of tags for you to copy.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
@@ -270,9 +270,9 @@ annotationURL=http://server.mcw.edu/cgi-bin/getDiseaseQTLAnnotation.cgi?disease=
 </object>
 ```
 
-</div>
 
-</div>
+
+
 
 The critical sections are `FlashVars` and the name of the Flash
 application (e.g. **GViewer2.swf**). The other parts are standard and
@@ -411,9 +411,9 @@ Flash plugin's zoom feature.
 
 The baseMap XML format looks like this:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="xml source-xml">
+
+
 
 ``` de1
  <?xml version="1.0" standalone="yes"?>
@@ -456,9 +456,9 @@ The baseMap XML format looks like this:
  </genome>
 ```
 
-</div>
 
-</div>
+
+
 
   
 The XML elements in this file are as follows, I've used @xxxx to
@@ -671,9 +671,9 @@ correct at the top of the script and that CGI.pm is available. The perl
 script has a couple of variables that may need to be modified to suit
 the location of the GViewer files on your server.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # absolute URL pointing to GViewer directory holding movie and data
@@ -684,9 +684,9 @@ my $pathToGViewerWebDir = "/Gviewer";
 my $pathToStyleSheet = "/Gviewer";
 ```
 
-</div>
 
-</div>
+
+
 
 3\. Text Annotation file format. The format of the annotation data that
 can be uploaded is very simple and is designed to be easy to create from
@@ -809,47 +809,46 @@ should make the highlight go away.
   too friendly I agree. It will tell you if no annotation file was
   provided or if it has no baseFile.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Flash_GViewer_Documentation&oldid=22227>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [RGD](Category%3ARGD "Category%3ARGD")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -859,81 +858,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -943,31 +938,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:16 on 9 October
   2012.</span>
@@ -989,4 +983,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

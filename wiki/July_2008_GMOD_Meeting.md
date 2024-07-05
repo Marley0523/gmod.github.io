@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">July 2008 GMOD Meeting</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 <table
 style="font-size: 180%; vertical-align: middle; border: 2px solid #A6A6BC; line-height: 120%"
@@ -47,13 +47,13 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><div class="center">
-<div class="floatnone">
+<td>
+
 <a href="File:July2008LogoSmaller.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/July2008LogoSmaller.png" width="200"
 height="180" alt="July2008LogoSmaller.png" /></a>
-</div>
-</div></td>
+
+</td>
 <td data-valign="center"><strong>GMOD Community Meeting</strong><br />
 <br />
 July 16-17, 2008<br />
@@ -73,13 +73,13 @@ School](2008_GMOD_Summer_School "2008 GMOD Summer School"). The meeting
 was attended by over 30 people representing more than 20 different
 groups.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Agenda</span>](#Agenda)
@@ -198,7 +198,7 @@ groups.
 - [<span class="tocnumber">6</span> <span class="toctext">Agenda
   Proposals</span>](#Agenda_Proposals)
 
-</div>
+
 
 # <span id="Agenda" class="mw-headline">Agenda</span>
 
@@ -248,17 +248,17 @@ title="Common gene page.ppt">PPT</a> |
 
 # <span id="Attendees" class="mw-headline">Attendees</span>
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GMOD2008Attendees.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/GMOD2008Attendees.JPG" width="400"
 height="148" alt="GMOD2008Attendees.JPG" /></a>
 
-</div>
 
-</div>
+
+
 
 1.  David Arcoleo -
     <a href="http://beespace.uiuc.edu" class="external text"
@@ -341,17 +341,17 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     <a href="http://www.tcag.ca" class="external text" rel="nofollow">The
     Hospital for Sick Children, Toronto</a>
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="File:GMOD2008Discussion.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GMOD2008Discussion.JPG" width="245"
 height="148" alt="GMOD2008Discussion.JPG" /></a>
 
-</div>
 
-</div>
+
+
 
 # <span id="GMOD_Components" class="mw-headline">GMOD Components</span>
 
@@ -778,13 +778,13 @@ using Chado. It also would make tool development much easier.
 
 ## <span id="SGN" class="mw-headline">SGN</span>
 
-<div class="floatright">
+
 
 <a href="File:GMOD2008Lukas.JPG" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2008Lukas.JPG" width="120"
 height="148" alt="GMOD2008Lukas.JPG" /></a>
 
-</div>
+
 
 Lukas Mueller from [SGN](Category%3ASGN "Category%3ASGN") spoke about
 community annotation at the
@@ -1074,18 +1074,18 @@ please add it below.
     <a href="Chado" class="mw-redirect" title="Chado">Chado</a> or
     [InterMine](InterMine "InterMine")?
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=July_2008_GMOD_Meeting&oldid=21983>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1104,30 +1104,29 @@ Retrieved from
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 - [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1137,81 +1136,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1221,31 +1216,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/July_2008_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 18:53 on 8 October
   2012.</span>
@@ -1267,4 +1261,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

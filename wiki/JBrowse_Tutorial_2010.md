@@ -1,53 +1,53 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 # <span dir="auto">JBrowse Tutorial 2010</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:JBrowseLogo.png" class="image" title="JBrowse"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/250px-JBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
 width="250" height="55" alt="JBrowse" /></a>
 
-</div>
 
-</div>
+
+
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Mitch
 Skinner](User%3AMitchSkinner "User%3AMitchSkinner") at the [2010 GMOD Summer
@@ -60,13 +60,13 @@ title="JBrowse Tutorial">JBrowse Tutorial</a> page.
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">VMware</span>](#VMware)
@@ -113,7 +113,7 @@ through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
 - [<span class="tocnumber">8</span> <span class="toctext">Other
   links</span>](#Other_links)
 
-</div>
+
 
 ## <span id="VMware" class="mw-headline">VMware</span>
 
@@ -142,7 +142,7 @@ class="external text" rel="nofollow">end image</a>.
 
 ## <span id="Caveats" class="mw-headline">Caveats</span>
 
-<div class="emphasisbox">
+
 
 **Important Note**
 
@@ -153,7 +153,7 @@ over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
 
-</div>
+
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -178,7 +178,7 @@ Optional, for BAM files:
 - perl module: <a href="http://search.cpan.org/perldoc?Bio::DB::SAM"
   class="external text" rel="nofollow">Bio::DB::SAM</a>
 
-<div class="dont">
+
 
 And this is how they were installed: **(don't do this, this has already
 been done in the VM)**
@@ -194,7 +194,7 @@ $ sudo cpan
 cpan[1]> install Bio::DB::Das::Chado Bio::DB::Sam JSON JSON::XS
 ```
 
-</div>
+
 
 Also: make sure you can Copy/paste from wiki.
 
@@ -227,7 +227,7 @@ width="600" height="776" alt="Jbrowse arch.png" /></a>
 
 ### <span id="Getting_JBrowse" class="mw-headline">Getting JBrowse</span>
 
-<div class="dont">
+
 
 **This has already been done in the VMware image.**
 
@@ -244,7 +244,7 @@ $ git branch --track lazyfeatures origin/lazyfeatures
 $ git checkout lazyfeatures
 ```
 
-</div>
+
 
 ### <span id="Starting_Point" class="mw-headline">Starting Point</span>
 
@@ -479,31 +479,31 @@ Visit in web browser
   class="external free"
   rel="nofollow">http://jbrowse.org/test/boatdiv/boat.html</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_2010&oldid=21892>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial
@@ -514,28 +514,27 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -544,77 +543,73 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ###
 
 ### Variants[](#)
 
-<div class="menu">
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -624,29 +619,28 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:46 on 3 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">10,893 page views.</span> -->
@@ -662,4 +656,4 @@ aria-labelledby="p-tb-label">
 
 <!-- -->
 
-</div>
+

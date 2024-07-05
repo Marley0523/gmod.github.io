@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Middleware</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This is a summary and detailed notes from the *Chado Middleware Bake
 Off* held at the [January 2007 GMOD
@@ -79,13 +79,13 @@ Modwares.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Executive
   Summary</span>](#Executive_Summary)
@@ -348,7 +348,7 @@ Modwares.
 - [<span class="tocnumber">5</span> <span class="toctext">Wiki
   Authors</span>](#Wiki_Authors)
 
-</div>
+
 
 ## <span id="Middleware_for_Chado_databases" class="mw-headline">Middleware for Chado databases</span>
 
@@ -1063,9 +1063,9 @@ table:
 
 Corresponding code:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 package Chado::Cvterm;
@@ -1073,15 +1073,15 @@ use base 'Chado::DBI';
 Chado::Cvterm->set_up_table('Cvterm');
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Class::DBI_-_CRUD" class="mw-headline">Class::DBI - CRUD</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 ## Create
@@ -1101,9 +1101,9 @@ $term_dbobj->definition( $term->definition );
 $term_dbobj->delete();
 ```
 
-</div>
 
-</div>
+
+
 
 ##### <span id="Java_-_Hibernate" class="mw-headline">Java - Hibernate</span>
 
@@ -1223,9 +1223,9 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
     it's not suited to bulk operations
 - Joins & complex queries
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="perl source-perl">
+
+
 
 ``` de1
 # Add the add_constructor for looking for name lengths
@@ -1240,9 +1240,9 @@ __PACKAGE__->set_sql(xfiles => qq{
        WHERE NAME = 'xfiles' });
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="Presentation_by_Brian_O.27Connor" class="mw-headline">Presentation by Brian O'Connor</span>
 
@@ -1279,17 +1279,17 @@ worrying about the complex details of the schema on a day-to-day basis.
 - Transaction support: Transactions are fully supported. The database
   handle is available as a singleton through Modware::DBH. To rollback
   at any time, simply insert
-  <div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
+  
 
-  <div class="perl source-perl">
+  
 
   ``` de1
   new Modware::DBH->rollback()
   ```
 
-  </div>
+  
 
-  </div>
+  
 
   into script.
 - Code generation: No automatic code generation.
@@ -1436,14 +1436,14 @@ Presentation](Hibernate_Presentation "Hibernate Presentation")
 
 ### <span id="PSU_Chado_Interface" class="mw-headline">PSU Chado Interface</span>
 
-<div class="emphasisbox">
+
 
 *I think this eventually became what is described in the [Artemis-Chado
 Integration
 Tutorial](Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial").
 [Dave C.](User%3AClements "User%3AClements")*
 
-</div>
+
 
 #### <span id="Background_7" class="mw-headline">Background</span>
 
@@ -1628,18 +1628,18 @@ Presentation](InterMine_Presentation "InterMine Presentation")
 - Pinglei Zhou, FlyBase
 - Gos Micklem, FlyMine/InterMine
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Middleware&oldid=24342>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1653,30 +1653,29 @@ Retrieved from
 - [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
 - [Events](Category%3AEvents "Category%3AEvents")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1686,81 +1685,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1770,31 +1765,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Middleware" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 21:27 on 15 August
   2013.</span>
@@ -1816,4 +1810,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

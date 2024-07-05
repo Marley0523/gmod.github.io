@@ -1,60 +1,60 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Chado Phenotype Module at FlyBase</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="emphasisbox">
 
-<div class="floatleft">
+
+
+
+
 
 <a href="File:WorkInProgressTools.gif" class="image"
 title="Under Construction"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
 height="48" alt="Under Construction" /></a>
 
-</div>
+
 
 <span style="font-size: 140%">This page or section is under
 construction.</span>  
   
 Should be done before Jan 1, 2011
 
-</div>
+
 
 The [Chado Phenotype
 module](Chado_Phenotype_Module "Chado Phenotype Module") was developed
@@ -75,13 +75,13 @@ tables.
 **These notes reflect the state of the FlyBase Chado database during the
 first two weeks on November 2010.**
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Tables</span>](#Tables)
@@ -183,7 +183,7 @@ first two weeks on November 2010.**
       - [<span class="tocnumber">1.10.1.4</span>
         <span class="toctext">rank</span>](#rank_2)
 
-</div>
+
 
 # <span id="Tables" class="mw-headline">Tables</span>
 
@@ -208,7 +208,7 @@ And that's it?
 
 ## <span id="phenotype" class="mw-headline">[**`phenotype`**](Chado_Phenotype_Module#Table:_phenotype "Chado Phenotype Module")</span>
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -305,7 +305,7 @@ key](Glossary#Foreign_Key "Glossary") constraints:
 
 \</protect\>
 
-</div>
+
 
 ### <span id="What_is_a_Phenotype.3F" class="mw-headline">What is a Phenotype?</span>
 
@@ -360,9 +360,9 @@ There are 1473 of these (every one of them unspecified).
 
   
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 SELECT COUNT(*), c.name
@@ -374,9 +374,9 @@ SELECT COUNT(*), c.name
  LIMIT 50;
 ```
 
-</div>
 
-</div>
+
+
 
     count |           name
     ------+--------------------------
@@ -426,7 +426,7 @@ value is null in every row in FlyBase.
 
 ## <span id="phenotype_comparison" class="mw-headline">[**`phenotype_comparison`**](Chado_Genetic_Module#Table:_phenotype_comparison "Chado Genetic Module")</span>
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -545,7 +545,7 @@ key](Glossary#Foreign_Key "Glossary") constraints:
 
 \</protect\>
 
-</div>
+
 
 This table is good for binary comparisons. How broadly useful is that?
 
@@ -586,7 +586,7 @@ What makes two G/E/P pairs comparable?
 
 ## <span id="phenotype_cvterm" class="mw-headline">[**`phenotype_cvterm`**](Chado_Phenotype_Module#Table:_phenotype_cvterm "Chado Phenotype Module")</span>
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -691,9 +691,9 @@ Links to terms in 5 different CVs
 
 Find rows that use rank in the unique constraint.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 SELECT * FROM phenotype_cvterm pcv1
@@ -704,9 +704,9 @@ SELECT * FROM phenotype_cvterm pcv1
        AND pcv1.cvterm_id = pcv2.cvterm_id) LIMIT 10;
 ```
 
-</div>
 
-</div>
+
+
 
     phenotype_cvterm_id | phenotype_id | cvterm_id | rank
     --------------------+--------------+-----------+------
@@ -722,7 +722,7 @@ Rank is used for some sort of code that is not stored in the database?
 
 ## <span id="phenstatement" class="mw-headline">[**`phenstatement`**](Chado_Genetic_Module#Table:_phenstatement "Chado Genetic Module")</span>
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -843,7 +843,7 @@ uniquename.
 
 ## <span id="phendesc" class="mw-headline">[**`phendesc`**](Chado_Genetic_Module#Table:_phendesc "Chado Genetic Module")</span>
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -970,9 +970,9 @@ lethal" making up ~1% of records.
 
 #### <span id="type_id_2" class="mw-headline">type_id</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="sql source-sql">
+
+
 
 ``` de1
 SELECT COUNT(*), t.name, c.name
@@ -984,9 +984,9 @@ SELECT COUNT(*), t.name, c.name
  LIMIT 50;
 ```
 
-</div>
 
-</div>
+
+
 
     count |           name            |     name
     ------+---------------------------+---------------
@@ -1019,7 +1019,7 @@ and none are null.
 
 Definition:
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -1083,7 +1083,7 @@ key](Glossary#Foreign_Key "Glossary") constraints:
 
 \</protect\>
 
-</div>
+
 
 ### <span id="environment_.40_Flybase" class="mw-headline">[**`environment`**](Chado_Genetic_Module#Table:_environment "Chado Genetic Module") @ Flybase</span>
 
@@ -1115,7 +1115,7 @@ Uniquename choice are:
 
 Definition:
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -1194,7 +1194,7 @@ environment.
 
 Definition:
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -1270,7 +1270,7 @@ key](Glossary#Foreign_Key "Glossary") constraints:
 
 \</protect\>
 
-</div>
+
 
 ### <span id="genotype_.40_Flybase" class="mw-headline">[**`genotype`**](Chado_Genetic_Module#Table:_genotype "Chado Genetic Module") @ Flybase</span>
 
@@ -1297,7 +1297,7 @@ nomenclature that often includes one or more FlyBase IDs.
 
 Definition:
 
-<div class="quotebox">
+
 
 \<protect\>
 
@@ -1436,18 +1436,18 @@ that they don't use at FlyBase?
 
 rank can be used for n-ploid organisms or to preserve order.
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Chado_Phenotype_Module_at_FlyBase&oldid=22162>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -1459,30 +1459,29 @@ Retrieved from
 - [GMOD Evo
   Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1492,81 +1491,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1576,31 +1571,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_at_FlyBase"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 23:33 on 8 October
   2012.</span>
@@ -1622,14 +1616,14 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+

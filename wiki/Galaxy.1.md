@@ -1,91 +1,91 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Galaxy</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="center">
 
-<div class="floatnone">
+
+
+
+
 
 <a href="File:GalaxyLogoBigger.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
 width="400" height="142" alt="Galaxy logo" /></a>
 
-</div>
 
-</div>
 
-<div class="componentBox">
 
-<div class="compBoxHdr">
+
+
+
+
 
 Status
 
-</div>
+
 
 - Mature release
 - Development: active
 - Support: active
 
-<div class="compBoxHdr">
+
 
 Licence
 
-</div>
 
-<div class="floatleft">
+
+
 
 <a href="http://opensource.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
-</div>
+
 
 <a href="http://opensource.org/licenses/AFL-3.0" class="external text"
 rel="nofollow">Academic Free License 3.0</a>
 
-<div class="compBoxHdr">
+
 
 Resources
 
-</div>
+
 
 - <a href="https://galaxyproject.org/" class="external text"
   rel="nofollow">Home page</a>
@@ -107,15 +107,15 @@ Resources
 
   
 
-</div>
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   Galaxy</span>](#About_Galaxy)
@@ -145,7 +145,7 @@ Resources
 - [<span class="tocnumber">8</span> <span class="toctext">More on
   Galaxy</span>](#More_on_Galaxy)
 
-</div>
+
 
 ## <span id="About_Galaxy" class="mw-headline">About Galaxy</span>
 
@@ -175,7 +175,7 @@ to meet particular needs.
 
   
 
-<div class="floatleft">
+
 
 <a href="File:GCC2019Logo.png" class="image"
 title="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference"><img
@@ -184,7 +184,7 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="250" height="115"
 alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" /></a>
 
-</div>
+
 
 ### <span id="2019_Galaxy_Community_Conference" class="mw-headline">2019 Galaxy Community Conference</span>
 
@@ -206,9 +206,9 @@ rel="nofollow">Galaxy website</a>.
 
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:302px;">
+
+
 
 <a href="File:Galaxy_screenshot-1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
@@ -216,28 +216,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
 width="300" height="205" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Galaxy_screenshot-1.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Galaxy 'Upload file' tool
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:302px;">
+
+
+
+
+
 
 <a href="File:Galaxy_screenshot-2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
@@ -245,28 +245,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
 width="300" height="187" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Galaxy_screenshot-2.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Galaxy 'Table Browser' tool
 
-</div>
 
-</div>
 
-</div>
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:302px;">
+
+
+
+
+
 
 <a href="File:Galaxy_screenshot-3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
@@ -274,24 +274,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
 width="300" height="226" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Galaxy_screenshot-3.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Editing the attributes of a data set in Galaxy
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -419,18 +419,18 @@ See [Category%3AGalaxy](Category%3AGalaxy "Category%3AGalaxy")
 
   
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Galaxy&oldid=27720>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -446,13 +446,13 @@ Retrieved from
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
-</div>
 
-</div>
 
-<div id="mw-data-after-content">
 
-<div class="smwfact">
+
+
+
+
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Galaxy](Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -554,14 +554,14 @@ class="external text" rel="nofollow">downloading the Galaxy
 application</a> and customizing it to meet particular needs.</p>
 <p><br />
 </p>
-<div class="floatleft">
+
 <a href="File:GCC2019Logo.png" class="image"
 title="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 2x"
 width="250" height="115"
 alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" /></a>
-</div>
+
 <h3 id="galaxy-community-conferenceedit"><span
 id="2019_Galaxy_Community_Conference" class="mw-headline">2019 Galaxy
 Community Conference</span><span class="mw-editsection"><span
@@ -1020,30 +1020,29 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 </tbody>
 </table>
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -1053,81 +1052,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1137,30 +1132,29 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy" rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 19:43 on 13 December
   2018.</span>
@@ -1182,4 +1176,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

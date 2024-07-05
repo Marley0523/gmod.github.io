@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GMOD Online Training 2014/JBrowse Tutorial</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Prerequisites</span>](#Prerequisites)
@@ -103,7 +103,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [<span class="tocnumber">8</span> <span class="toctext">Other
   links</span>](#Other_links)
 
-</div>
+
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -124,7 +124,7 @@ the JBrowse directory):
 
 Other prerequisites are installed by JBrowse automatically.
 
-<div class="dont">
+
 
 This is how they were installed: **(don't do this yourself)**
 
@@ -132,7 +132,7 @@ This is how they were installed: **(don't do this yourself)**
   sudo apt-get install libpng12-0 libpng12-dev build-essential libncurses5-dev
 ```
 
-</div>
+
 
 Make sure you can copy/paste from the wiki.
 
@@ -249,9 +249,9 @@ the web browser can use.
 In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
 ...
@@ -276,9 +276,9 @@ In this case, we have specified all of our track configurations in
 ]
 ```
 
-</div>
 
-</div>
+
+
 
 `track` specifies the track identifier (a unique name for the track, for
 the software to use). This should be just letters and numbers and - and
@@ -360,9 +360,9 @@ server. Simply place the BAM file in a directory accessible to your web
 server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -374,9 +374,9 @@ similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -392,9 +392,9 @@ inject the track configuration:
 
 ### <span id="BAM_coverage" class="mw-headline">BAM coverage</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -406,9 +406,9 @@ inject the track configuration:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Quantitative_data" class="mw-headline">Quantitative data</span>
 
@@ -419,9 +419,9 @@ your web server. Simply place the BigWig file in a directory accessible
 to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -434,9 +434,9 @@ the track, similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -461,9 +461,9 @@ Simply place the .vcf.gz and .vcf.gz.tbi files in a directory accessible
 to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -475,9 +475,9 @@ the track, similar to:
       }
 ```
 
-</div>
 
-</div>
+
+
 
 This can be added by either editing the `data/trackList.json` file with
 a text editor, or by running something like this at the command line to
@@ -509,9 +509,9 @@ be copied into the `data` directory for use with this configuration.
 
 Then a simple faceted track selection configuration might look like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
    trackSelector: {
@@ -524,9 +524,9 @@ Then a simple faceted track selection configuration might look like:
    }
 ```
 
-</div>
 
-</div>
+
+
 
 The `jbrowse_conf.json` file in the `jbrowse` directory already
 conveniently contains this stanza, commented out. Uncomment it, refresh
@@ -594,39 +594,38 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
   class="external free"
   rel="nofollow">http://jbrowse.org/test/boatdiv/boat.html</a>
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/JBrowse_Tutorial&oldid=25911>"
 
-</div>
 
-<div id="catlinks" class="catlinks catlinks-allhidden">
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -636,49 +635,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -687,32 +684,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -722,31 +717,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Online_Training_2014-2FJBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 14:21 on 21 May
   2014.</span>
@@ -768,4 +762,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

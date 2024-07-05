@@ -1,50 +1,50 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">GBrowse syn Tutorial 2012</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<div class="emphasisbox" style="font-size:36pt">
+
+
+
 
 If you are 2013 GMOD Summer School, you are on the wrong tutorial.  
 Use
 [GBrowse_syn_Tutorial_2013](GBrowse_syn_Tutorial_2013 "GBrowse syn Tutorial 2013").
 
-</div>
+
 
   
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
@@ -69,9 +69,9 @@ browser designed to display multiple genomes, with a central reference
 species compared to two or more additional species. It is included with
 the standard GBrowse package (version 1.69 and later).
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:Gbrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Gbrowse_syn.png/600px-Gbrowse_syn.png"
@@ -79,23 +79,23 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 2x"
 width="600" height="221" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse_syn.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 GBrowse_syn at The Arabidopsis Information Resource (TAIR)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Working examples of GBrowse_syn can be seen at <a
 href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501;search_src=thaliana"
@@ -105,13 +105,13 @@ class="external text" rel="nofollow">WormBase</a>.
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">GBrowse_syn
   Introduction</span>](#GBrowse_syn_Introduction)
@@ -139,7 +139,7 @@ class="external text" rel="nofollow">WormBase</a>.
   - [<span class="tocnumber">6.2</span>
     <span class="toctext">Documentation</span>](#Documentation)
 
-</div>
+
 
 ## <span id="GBrowse_syn_Introduction" class="mw-headline">GBrowse_syn Introduction</span>
 
@@ -160,9 +160,9 @@ installation](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").
 Point your browser to
 http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:602px;">
+
+
 
 <a href="File:GBrowse_synWelcome.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
@@ -170,24 +170,24 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
 width="600" height="369" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_synWelcome.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Welcome screen
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 This is the welcome screen you should see after installing a new copy of
 GBrowse_syn with no configured data sources. It contains instructions on
@@ -195,20 +195,20 @@ how to set up the example data source provided with the distribution.
 
 ## <span id="Setting_up_the_sample_data" class="mw-headline">Setting up the sample data</span>
 
-<div class="emphasisbox">
+
 
 - Sample data and configuration information for GBrowse_syn come
   pre-packaged with GBrowse.
 - The example we will use is a two-species comparison of rice (*Oryza
   sativa*) and one of its wild relatives\*
 
-<div class="zero small">
+
 
 \*Data courtesy of Bonnie Hurwitz
 
-</div>
 
-</div>
+
+
 
 ### <span id="Setting_up_the_Alignment_Database" class="mw-headline">Setting up the Alignment Database</span>
 
@@ -227,12 +227,12 @@ as follows:
 
     $ sudo yum install mysql
 
-<div class="emphasisbox">
+
 
 Note: You set the mysql root password at the time of installation. Use
 'gbsyndemo' or else be sure to remember the password for use later.
 
-</div>
+
 
 1\) Create a MySQL database to hold the alignment data
 
@@ -306,7 +306,7 @@ run.
 
 ### <span id="Setting_up_the_Configuration_Files" class="mw-headline">Setting up the Configuration Files</span>
 
-<div class="emphasisbox">
+
 
 - The configuration files required for this data source are
   pre-installed with [GBrowse](GBrowse.1 "GBrowse"), in
@@ -316,7 +316,7 @@ run.
   `oryza.synconf`. The latter file has been disabled by appending a
   '.disabled' extension to the file name.
 
-</div>
+
 
 The joining config file, `oryza.synconf`:
 
@@ -384,12 +384,12 @@ A sample species config file, `rice_synteny.conf`:
     key          = ensembl gene
     balloon hover = Hello, my name is $name!
 
-<div class="emphasisbox">
+
 
 Note: the species databases are actually using the [GFF3](GFF3 "GFF3")
 flat file, in-memory adapter
 
-</div>
+
 
 #### <span id="Activating_the_Oryza_Data_Source" class="mw-headline">Activating the Oryza Data Source</span>
 
@@ -410,9 +410,9 @@ http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn/oryza
 (or your own URL if you are not using the Amazon EC2 instance). You
 should see:
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
@@ -420,28 +420,28 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_synWe_made_it1.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 4\) Click on the first example, you should (eventually) see:
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:802px;">
+
+
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
@@ -449,22 +449,22 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:GBrowse_synWe_made_it2.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 5\) Try out a few user interface features:
 
@@ -535,20 +535,20 @@ file database to a MySQL relational database.
 
 ## <span id="Using_Non-alignment_Data" class="mw-headline">Using Non-alignment Data</span>
 
-<div class="emphasisbox">
+
 
 This example uses gene orthology-based synteny blocks\* based created by
 <a href="http://genome.sfu.ca/orthoclusterdb" class="external text"
 rel="nofollow">OrthoCluster</a> for three nematode species, *C.
 elegans*, *C. briggsae* and *P. pacificus*.
 
-<div class="zero small">
+
 
 *\*Data courtesy of Jack Chen and Ismael Vergera*
 
-</div>
 
-</div>
+
+
 
 1\) Download and unpack the data archive file `orthocluster.tar.gz`.
 
@@ -707,9 +707,9 @@ height="77" alt="GBrowse synPulldown1.png" /></a>
 
 9\) Select the other data source and start browsing!
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:702px;">
+
+
 
 <a href="File:Gbrowse_synEtfinit.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
@@ -717,22 +717,22 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
 width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="File:Gbrowse_synEtfinit.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 ## <span id="Further_Reading" class="mw-headline">Further Reading</span>
 
@@ -775,18 +775,18 @@ configure and use GBrowse_syn. To get started, browse these pages:
 - [Presentations and
   workshops](GBrowse_syn.1#Presentations_and_Workshops "GBrowse syn")
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial_2012&oldid=24162>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -795,30 +795,29 @@ Retrieved from
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -828,81 +827,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -912,31 +907,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2012"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 17:23 on 22 July
   2013.</span>
@@ -958,4 +952,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

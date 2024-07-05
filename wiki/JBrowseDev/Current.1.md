@@ -1,45 +1,45 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">JBrowse Configuration Guide</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
+
+
 
 (Redirected from
 [JBrowseDev/Current](/mediawiki/index.php?title=JBrowseDev/Current&redirect=no "JBrowseDev/Current"))
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 **This page has been replaced with this page (<a
 href="https://github.com/GMOD/jbrowse/wiki/JBrowse_Configuration_Guide"
@@ -72,13 +72,13 @@ rel="nofollow">http://gmod.org/wiki/JBrowse_Desktop</a>
 
   
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Installation</span>](#Installation)
@@ -459,7 +459,7 @@ rel="nofollow">http://gmod.org/wiki/JBrowse_Desktop</a>
 - [<span class="tocnumber">27</span> <span class="toctext">External
   Links</span>](#External_Links)
 
-</div>
+
 
 # <span id="Installation" class="mw-headline">Installation</span>
 
@@ -1167,7 +1167,7 @@ Note: It is also easy to specify these methods in trackList.json format.
 Addendum: If the field has multiple values (e.g. multiple DBXrefs or GO
 terms), then the callback will receive an array as it's argument, and
 then you can also return an array which indicates that each element will
-be formatted inside its own \<div\> In this case you will check that the
+be formatted inside its own \ In this case you will check that the
 input is an array, because it will also be called on the individual
 elements too. For example
 
@@ -1216,9 +1216,9 @@ embedded popup window showing the results of searching for that
 feature's name in NCBI's global search, and "search at NCBI" will show
 in a tooltip when the user hovers over a feature with the mouse:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
    "tracks": [
@@ -1235,9 +1235,9 @@ in a tooltip when the user hovers over a feature with the mouse:
    ...
 ```
 
-</div>
 
-</div>
+
+
 
 For details on all the options supported by **onClick**, see [Click
 Configuration Options](#Click_Configuration_Options).
@@ -1261,29 +1261,29 @@ template is automatically filled in with the feature info:
 
   
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
     "onClick": {
-        "label" : "<div style='font:normal 12px Univers,Helvetica,Arial,sans-serif'>Feature name: {name}</div>",
+        "label" : "Feature name: {name}",
         "title" : "{name} {type}",
         "action": "defaultDialog"
     }
 ```
 
-</div>
 
-</div>
+
+
 
 Example for HTMLFeatures, which only allows plain text descriptions but
-can support newlines (essentially uses \<div title="..."\> for
+can support newlines (essentially uses \ for
 mouseover).
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
     "onClick": {
@@ -1293,9 +1293,9 @@ mouseover).
     }
 ```
 
-</div>
 
-</div>
+
+
 
   
 Example using a callback (for either HMTLFeatures or CanvasFeatures),
@@ -1303,9 +1303,9 @@ using this.feature to access the feature details
 
   
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
     "onClick": {
@@ -1315,9 +1315,9 @@ using this.feature to access the feature details
     }
 ```
 
-</div>
 
-</div>
+
+
 
   
 Note: on CanvasFeatures, the action "defaultDialog" isn't necessary, but
@@ -1436,11 +1436,11 @@ This configuration results in a context menu like the one pictured
 below. For details on what each of the options supported by menu items
 does, see [\#Click Configuration Options](#Click_Configuration_Options).
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
 
 <a href="/wiki/File:Jbrowse_rightclick.png" class="image"><img
 src="/mediawiki/images/thumb/f/fe/Jbrowse_rightclick.png/800px-Jbrowse_rightclick.png"
@@ -1448,26 +1448,26 @@ class="thumbimage"
 srcset="/mediawiki/images/f/fe/Jbrowse_rightclick.png 1.5x, /mediawiki/images/f/fe/Jbrowse_rightclick.png 2x"
 width="800" height="228" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:Jbrowse_rightclick.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 The context menu rendered from this example configuration.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
   
 To add a separator, put the following item in your menuTemplate
@@ -1508,11 +1508,11 @@ menuTemplate similar to the above configuration using the following:
   
 This results in a context menu like the one pictured below.
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:602px;">
+
+
+
 
 <a href="/wiki/File:Menu-customization2.png" class="image"><img
 src="/mediawiki/images/thumb/0/0b/Menu-customization2.png/600px-Menu-customization2.png"
@@ -1520,26 +1520,26 @@ class="thumbimage"
 srcset="/mediawiki/images/0/0b/Menu-customization2.png 1.5x, /mediawiki/images/0/0b/Menu-customization2.png 2x"
 width="600" height="349" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:Menu-customization2.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 The context menu with default items included.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 Note: You'll note in the above that "placeholder" menu items are put in
 place to prevent the default "View details" from being overwritten.
@@ -1557,9 +1557,9 @@ string JavaScript callback, like:
 
 Or a structure containing options like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
         {
@@ -1571,9 +1571,9 @@ Or a structure containing options like:
         }
 ```
 
-</div>
 
-</div>
+
+
 
 The available options for a click action are:
 
@@ -1669,9 +1669,9 @@ the feature's name contains a number that is odd, it give the feature's
 HTML `div` element a red background. Otherwise, it gives it a blue
 background.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
      {
@@ -1692,9 +1692,9 @@ background.
       },
 ```
 
-</div>
 
-</div>
+
+
 
 # <span id="Alignment_Tracks_.28BAM.29" class="mw-headline">Alignment Tracks (BAM)</span>
 
@@ -1835,36 +1835,36 @@ use with very dense feature data, such as deep-coverage BAM files.** For
 these types of files, it's recommended to pre-generate a BigWig file of
 the coverage and a VCF file of putative SNPs, and display those instead.
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:792px;">
+
+
+
 
 <a href="/wiki/File:JBrowse_SNP_Coverage.png" class="image"><img
 src="/mediawiki/images/7/78/JBrowse_SNP_Coverage.png" class="thumbimage"
 width="790" height="528" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:JBrowse_SNP_Coverage.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 A SNPCoverage track with corresponding Alignments2 track.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 ### <span id="Example_SNPCoverage_Configuration" class="mw-headline">Example SNPCoverage Configuration</span>
 
@@ -1897,9 +1897,9 @@ alignments.
 
 `Alignments2` is recommended over `Alignments` for most users.
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="/wiki/File:JBrowse_alignment_and_coverage.png"
 class="image"><img
@@ -1907,9 +1907,9 @@ src="/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png"
 class="thumbborder" width="1124" height="699"
 alt="JBrowse displaying short-read alignments" /></a>
 
-</div>
 
-</div>
+
+
 
 ## <span id="BAM_Data_Configuration_Options" class="mw-headline">BAM Data Configuration Options</span>
 
@@ -1925,9 +1925,9 @@ BAM storage configuration options
 
 ## <span id="Example_BAM_Alignments2_track_configuration" class="mw-headline">Example BAM Alignments2 track configuration</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -1938,9 +1938,9 @@ BAM storage configuration options
       },
 ```
 
-</div>
 
-</div>
+
+
 
 ## <span id="Apache_Configuration_Note" class="mw-headline">Apache Configuration Note</span>
 
@@ -1978,18 +1978,18 @@ tracks, `Wiggle/XYPlot` and `Wiggle/Density`. The XYPlot wiggle track
 displays quantitative data as an x/y plot, and the Density displays the
 data as varying intensities of color.
 
-<div class="center">
 
-<div class="floatnone">
+
+
 
 <a href="/wiki/File:Jbrowse_wiggle_tracks.png" class="image"><img
 src="/mediawiki/images/7/71/Jbrowse_wiggle_tracks.png"
 class="thumbborder" width="915" height="284"
 alt="Jbrowse wiggle tracks.png" /></a>
 
-</div>
 
-</div>
+
+
 
 ## <span id="Example_BigWig-based_Wiggle_XY-Plot_Track_Configuration" class="mw-headline">Example BigWig-based Wiggle XY-Plot Track Configuration</span>
 
@@ -2000,9 +2000,9 @@ class="external text" rel="nofollow">BigWig file</a>. Note that the URL
 in `urlTemplate` is relative to the directory where the configuration
 file is located.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -2023,9 +2023,9 @@ file is located.
       }
 ```
 
-</div>
 
-</div>
+
+
 
 **Note:** numerical values do not appear in quotes.
 
@@ -2041,9 +2041,9 @@ intense red. Note that the URL in `urlTemplate` is relative to the
 directory where the configuration file is located. Also note that green
 and purple is an ugly color combination.  ;-)
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -2060,9 +2060,9 @@ and purple is an ugly color combination.  ;-)
       }
 ```
 
-</div>
 
-</div>
+
+
 
 ## <span id="Wiggle_track_configuration_options" class="mw-headline">Wiggle track configuration options</span>
 
@@ -2103,11 +2103,11 @@ from VCF files, and has an `HTMLVariants` track type that is optimized
 for displaying the potentially large amounts of detailed data that go
 with each variant.
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
 
 <a href="/wiki/File:JBrowse_variant_details.png" class="image"><img
 src="/mediawiki/images/thumb/3/3c/JBrowse_variant_details.png/800px-JBrowse_variant_details.png"
@@ -2115,27 +2115,27 @@ class="thumbimage"
 srcset="/mediawiki/images/3/3c/JBrowse_variant_details.png 1.5x, /mediawiki/images/3/3c/JBrowse_variant_details.png 2x"
 width="800" height="771" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:JBrowse_variant_details.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Variant details display, showing a genotypes summary and sortable table
 of 1094 genotypes.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
   
 VCF files used with the `VCFTabix` must be compressed with `bgzip` and
@@ -2159,9 +2159,9 @@ class="external text" rel="nofollow">VCF file</a>. Note that the URL in
 is located. Note that `tbiUrlTemplate` can also be used if your tbi file
 is named anything other than the urlTemplate with .tbi added to the end.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -2173,17 +2173,17 @@ is named anything other than the urlTemplate with .tbi added to the end.
       }
 ```
 
-</div>
 
-</div>
+
+
 
   
 Alternatively, if you are using the tracks.conf format, then a similar
 example would look like the following
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
 [ tracks.myvcf ]
@@ -2197,9 +2197,9 @@ type = JBrowse/View/Track/CanvasVariants
 key  = SNPs from VCF
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -2242,9 +2242,9 @@ reads, so they may appear to report different coverages by default.
 
 ## <span id="Example_Feature_Coverage_Track_Configuration_for_a_BAM_file" class="mw-headline">Example Feature Coverage Track Configuration for a BAM file</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -2258,9 +2258,9 @@ reads, so they may appear to report different coverages by default.
       }
 ```
 
-</div>
 
-</div>
+
+
 
 # <span id="Sequence_track" class="mw-headline">Sequence track</span>
 
@@ -2340,11 +2340,11 @@ prediction's quality, where the range of possible quality scores is from
 some lowerbound to some upperbound (for instance, between 0 and 1), you
 can specify these bounds with the max and min options.
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:602px;">
+
+
+
 
 <a href="/wiki/File:Wiggle-options.png" class="image"><img
 src="/mediawiki/images/thumb/2/26/Wiggle-options.png/600px-Wiggle-options.png"
@@ -2352,26 +2352,26 @@ class="thumbimage"
 srcset="/mediawiki/images/2/26/Wiggle-options.png 1.5x, /mediawiki/images/2/26/Wiggle-options.png 2x"
 width="600" height="177" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:Wiggle-options.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Summary of wig-to-json.pl options.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 | Option | Value |
 |----|----|
@@ -2437,11 +2437,11 @@ the Perl API for writing your own image track generators.
 
     bin/draw-basepair-track.pl --gff <gff file> --tracklabel <track name> [options]
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:602px;">
+
+
+
 
 <a href="/wiki/File:Basepair-options.png" class="image"><img
 src="/mediawiki/images/thumb/e/e2/Basepair-options.png/600px-Basepair-options.png"
@@ -2449,26 +2449,26 @@ class="thumbimage"
 srcset="/mediawiki/images/e/e2/Basepair-options.png 1.5x, /mediawiki/images/e/e2/Basepair-options.png 2x"
 width="600" height="203" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:Basepair-options.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 Summary of draw-basepair-track.pl options.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 | Option | Value |
 |----|----|
@@ -2994,10 +2994,10 @@ this:
        </head>
        <body>
          <h1>Embedded Volvox JBrowse</h1>
-         <div style="width: 400px; margin: 0 auto;">
+         
            <iframe style="border: 1px solid black" src="../../index.html?data=sample_data/json/volvox&tracklist=0&nav=0&overview=0&tracks=DNA%2CExampleFeatures%2CNameTest%2CMotifs%2CAlignments%2CGenes%2CReadingFrame%2CCDS%2CTranscript%2CClones%2CEST" width="300" height="300">
            </iframe>
-         </div>
+         
        </body>
      </html>
 
@@ -3150,9 +3150,9 @@ you can add additional variables in the configuration by including a
 an "{organism_uri}" in your queryTemplate that was set from the
 `variables` stanza, which would look like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
     {
@@ -3169,9 +3169,9 @@ an "{organism_uri}" in your queryTemplate that was set from the
     }
 ```
 
-</div>
 
-</div>
+
+
 
 The variable interpolation can also be used to refer to functions that
 are defined in external files (see [Including external files and
@@ -3194,9 +3194,9 @@ a BAM track containing alignments of RNA-seq reads from Volvox carteri
 under conditions of caffeine starvation, a track configuration might
 contain:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
       {
@@ -3219,9 +3219,9 @@ contain:
       }
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -3264,9 +3264,9 @@ your trackList, for example
 
 Configuration:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
   "trackMetadata": {
@@ -3280,9 +3280,9 @@ Configuration:
   }
 ```
 
-</div>
 
-</div>
+
+
 
 Note: use lower case values for the facet names / column names in the
 CSV. Use renameFacets to give them other names. See
@@ -3366,11 +3366,11 @@ track selector.
 | `trackSelector→selectableFacets` | Optional array of which facets should be displayed as facet selectors. The selectors for these appear in the order in which they are specified here. \*Note: the names of the facets are required to be in all lower case for selectableFacets to work\* |
 | `trackSelector→initialSortColumn` | A column specifying how the faceted selector is initially sorted. This parameter should be the name used in the displayColumns array and not the "renamed" facet column name. |
 
-<div class="center">
 
-<div class="thumb tnone">
 
-<div class="thumbinner" style="width:802px;">
+
+
+
 
 <a href="/wiki/File:JBrowseFacetedBrowsing.png" class="image"><img
 src="/mediawiki/images/thumb/6/68/JBrowseFacetedBrowsing.png/800px-JBrowseFacetedBrowsing.png"
@@ -3378,34 +3378,34 @@ class="thumbimage"
 srcset="/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 1.5x, /mediawiki/images/6/68/JBrowseFacetedBrowsing.png 2x"
 width="800" height="551" /></a>
 
-<div class="thumbcaption">
 
-<div class="magnify">
+
+
 
 <a href="/wiki/File:JBrowseFacetedBrowsing.png" class="internal"
 title="Enlarge"><img
 src="/mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
-</div>
+
 
 The JBrowse faceted track selector.
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
   
 
 ## <span id="Example_Faceted_Track_Selector_Configuration" class="mw-headline">Example Faceted Track Selector Configuration</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
   "trackSelector": {
@@ -3425,9 +3425,9 @@ The JBrowse faceted track selector.
   }
 ```
 
-</div>
 
-</div>
+
+
 
 # <span id="Hierarchical_Track_Selector" class="mw-headline">Hierarchical Track Selector</span>
 
@@ -3650,24 +3650,24 @@ entry telling JBrowse the names of the plugins to load.
 
 Example:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
   // array of strings (will look in JBrowse-1.x.x/plugins/MyAwesomePlugin)
   "plugins": [ 'MyAwesomePlugin' ]
 ```
 
-</div>
 
-</div>
+
+
 
 or in the text .conf format:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 plugins =
@@ -3675,9 +3675,9 @@ plugins =
     + PubAnnotation
 ```
 
-</div>
 
-</div>
+
+
 
 # <span id="Advanced_Topics" class="mw-headline">Advanced Topics</span>
 
@@ -3697,9 +3697,9 @@ For example, to extract data from a
 <a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a> schema
 in PostgreSQL, one might start with a configuration like:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
  {
@@ -3713,9 +3713,9 @@ in PostgreSQL, one might start with a configuration like:
  }
 ```
 
-</div>
 
-</div>
+
+
 
 In the database source name (dsn) argument, 'dbi:Pg' indicates that you
 are using PostgreSQL, and the dbname, host, and port were specified when
@@ -3828,50 +3828,50 @@ on browsing to the page, up until the data is all loaded in the backend.
 First, modify your `index.html`'s main GenomeBrowser element, adding a
 div inside GenomeBrowser with a custom ID such as `loading_screen`
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
- <div id="GenomeBrowser" style="height: 100%; width: 100%; padding: 0; border: 0;">
-    <div id="loading_screen" style="padding: 50px;">
+ 
+    
       <h1>Loading data</h1>
-    </div>
-  </div>
+    
+  
 ```
 
-</div>
 
-</div>
+
+
 
 Next, in the same file, you'll need to edit the javascript to add a
 callback. After the line
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
  JBrowse = new Browser( config );
 ```
 
-</div>
 
-</div>
+
+
 
 You'll need to add the line
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
  JBrowse.afterMilestone('loadRefSeqs', function() { dojo.destroy(dojo.byId('loading_screen')); });
 ```
 
-</div>
 
-</div>
+
+
 
 The `afterMilestone` function registers a callback to be called once all
 of the background data has been loaded. Make sure the id mentioned in
@@ -4103,9 +4103,9 @@ features served by this store.
 
 Example:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
    {
@@ -4121,9 +4121,9 @@ Example:
    }
 ```
 
-</div>
 
-</div>
+
+
 
 None of the attributes in the example above are required to be present.
 However, if the store is primarily providing positional data (such as
@@ -4170,9 +4170,9 @@ entire track.
 
 Example returned JSON:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 {
@@ -4187,9 +4187,9 @@ Example returned JSON:
 }
 ```
 
-</div>
 
-</div>
+
+
 
 Note that the `stats.max` attribute sets that Y-axis scale for the
 entire track, so should probably be set according to the global (or
@@ -4213,9 +4213,9 @@ It is never shown to the user.
 
 Example return JSON:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 {
@@ -4256,9 +4256,9 @@ Example return JSON:
 }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Configuring_Tracks_to_Use_a_REST_Feature_Store" class="mw-headline">Configuring Tracks to Use a REST Feature Store</span>
 
@@ -4267,9 +4267,9 @@ REST feature store with URLs based at http://my.site.com/rest/api/base,
 and also adding "organism=tyrannosaurus" in the query string of all HTTP
 requests.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 {
@@ -4284,17 +4284,17 @@ requests.
 }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Other_Dynamically-Servable_Formats" class="mw-headline">Other Dynamically-Servable Formats</span>
 
 #### <span id="trackList.json_format" class="mw-headline">trackList.json format</span>
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 {
@@ -4323,9 +4323,9 @@ requests.
 }
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="refSeqs.json_format" class="mw-headline">refSeqs.json format</span>
 
@@ -4334,9 +4334,9 @@ such that if the config.json file specifies "?data=X/Y/Z" and is itself
 at "SCHEME://HOST:PORT/PATH", then JBrowse will request the url
 "SCHEME://HOST:PORT/PATH/X/Y/Z/seq/refSeqs.json".
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 [
@@ -4345,9 +4345,9 @@ at "SCHEME://HOST:PORT/PATH", then JBrowse will request the url
 ]
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="Sequence_data_format" class="mw-headline">Sequence data format</span>
 
@@ -4356,9 +4356,9 @@ Retrieved from "{BASE}/features/{seqid}".
 This is the REST feature store data format, but it expects just a single
 feature, and that feature should have sequence.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 {"features": [
@@ -4366,9 +4366,9 @@ feature, and that feature should have sequence.
 ]
 ```
 
-</div>
 
-</div>
+
+
 
   
 
@@ -4391,9 +4391,9 @@ start with the given string.
 
 Example returned JSON:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="bash source-bash">
+
+
 
 ``` de1
 [
@@ -4413,9 +4413,9 @@ Example returned JSON:
 ]
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Configuring_JBrowse_to_Use_REST_Name_Lookup" class="mw-headline">Configuring JBrowse to Use REST Name Lookup</span>
 
@@ -4527,9 +4527,9 @@ Here is an example plugin `main.js`, implemented using the
 <a href="http://dojotoolkit.org/documentation/tutorials/1.8/declare/"
 class="external text" rel="nofollow">Dojo declare</a> class system.
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
 define([
@@ -4553,9 +4553,9 @@ return declare( JBrowsePlugin,
 });
 ```
 
-</div>
 
-</div>
+
+
 
 #### <span id="Example_plugin_directory_contents" class="mw-headline">Example plugin directory contents</span>
 
@@ -4583,9 +4583,9 @@ plugin is named "my-jbrowse-plugin" on npm, and includes a
 
 Here is an example package.json file for MyPlugin:
 
-<div class="mw-geshi mw-code mw-content-ltr" dir="ltr">
 
-<div class="javascript source-javascript">
+
+
 
 ``` de1
 {
@@ -4617,9 +4617,9 @@ Here is an example package.json file for MyPlugin:
 }
 ```
 
-</div>
 
-</div>
+
+
 
 ### <span id="Plugin_build_notes" class="mw-headline">Plugin build notes</span>
 
@@ -5065,47 +5065,46 @@ make it higher resolution
   class="external text" rel="nofollow">JBrowse: A Next Generation Genome
   Browser</a> paper
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Category](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -5115,49 +5114,47 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](/wiki/Main_Page)</span>
 - <span id="n-Software">[Software](/wiki/GMOD_Components)</span>
@@ -5166,32 +5163,30 @@ aria-labelledby="p-Navigation-label">
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](/wiki/GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -5202,31 +5197,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 02:48 on 30 September
   2020.</span>
@@ -5248,4 +5242,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+

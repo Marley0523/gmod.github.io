@@ -1,42 +1,42 @@
-<div id="mw-page-base" class="noprint">
 
-</div>
 
-<div id="mw-head-base" class="noprint">
 
-</div>
 
-<div id="content" class="mw-body" role="main">
+
+
+
+
+
 
 <span id="top"></span>
 
-<div id="mw-js-message" style="display:none;">
 
-</div>
+
+
 
 
 
 # <span dir="auto">Galaxy Tutorial 2012</span>
 
-<div id="bodyContent">
 
-<div id="siteSub">
+
+
 
 From GMOD
 
-</div>
 
-<div id="contentSub">
 
-</div>
 
-<div id="jump-to-nav" class="mw-jump">
+
+
+
+
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
-</div>
 
-<div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial was originally taught
@@ -49,13 +49,13 @@ ami-a1de69c8, name: GMOD 2012 start day 3**, available in the US East
 Tutorial](GMOD_Cloud_Tutorial "GMOD Cloud Tutorial") for information on
 how to get this AMI.
 
-<div id="toc" class="toc">
 
-<div id="toctitle">
+
+
 
 ## Contents
 
-</div>
+
 
 - [<span class="tocnumber">1</span> <span class="toctext">Some General
   Galaxy Resources</span>](#Some_General_Galaxy_Resources)
@@ -98,7 +98,7 @@ how to get this AMI.
   - [<span class="tocnumber">3.7</span> <span class="toctext">6. Get
     Exon Info back</span>](#6._Get_Exon_Info_back)
 
-</div>
+
 
 <a href="http://galaxyproject.org/" class="external text"
 rel="nofollow">Galaxy</a> is a data integration and analysis framework
@@ -162,7 +162,7 @@ class="external text" rel="nofollow">Galaxy Admin and Development
 Search</a>  
 Search online resources related to *deploying and developing* Galaxy
 
-<div class="indent">
+
 
 Results from searches are often further broken down into categories
 
@@ -178,7 +178,7 @@ Results from searches are often further broken down into categories
 
 This is all implemented using Google Custom Search.
 
-</div>
+
 
 <a href="https://wiki.galaxyproject.org/PublicGalaxyServers"
 class="external text" rel="nofollow">Public Galaxy Servers</a>  
@@ -212,12 +212,12 @@ class="external text" rel="nofollow">tags/categories</a>.
 
 ## <span id="Create_a_Galaxy_instance" class="mw-headline">Create a Galaxy instance</span>
 
-<div class="emphasisbox">
+
 
 See <a href="http://getgalaxy.org" class="external free"
 rel="nofollow">http://getgalaxy.org</a>.
 
-</div>
+
 
 ### <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -246,7 +246,7 @@ The development and release repositories are available through the
 <a href="http://bitbucket.org" class="external text"
 rel="nofollow">bitbucket hosting service</a>.
 
-<div class="dont">
+
 
 **DO NOT DO THIS NOW** as it has already been done on your image:
 
@@ -257,7 +257,7 @@ To create a local clone of the release repository run the following:
  $ hg clone http://bitbucket.org/galaxy/galaxy-dist
 ```
 
-</div>
+
 
 ### <span id="Take_Advantage_of_the_GMOD_in_the_Cloud_Directory_Structure" class="mw-headline">Take Advantage of the GMOD in the Cloud Directory Structure</span>
 
@@ -320,13 +320,13 @@ to this:
 
 ### <span id="Use_a_more_robust_database" class="mw-headline">Use a more robust database</span>
 
-<div class="emphasisbox">
+
 
 See <a
 href="https://wiki.galaxyproject.org/Admin/Config/Performance/Production%20Server"
 class="external text" rel="nofollow">Production Server</a>
 
-</div>
+
 
 Out of the box Galaxy includes the embedded SQLite database. This allows
 Galaxy to run with zero-configuration and provides an excellent solution
@@ -419,12 +419,12 @@ your Galaxy at http://ec2-##-##-##-##.compute-1.amazonaws.com:8081.
 
 ## <span id="Running_analyses_with_Galaxy" class="mw-headline">Running analyses with Galaxy</span>
 
-<div class="emphasisbox">
+
 
 See also <a href="http://usegalaxy.org/galaxy101" class="external text"
 rel="nofollow">Galaxy 101 tutorial</a>
 
-</div>
+
 
 Without any additional configuration, there is already a lot we can do
 with our first Galaxy instance. As an example, let's work through an
@@ -444,12 +444,12 @@ width="900" height="678" alt="Galaxy FirstAnalysis 1.png" /></a>
 
 Now that Galaxy is up and running, let's use it to answer the question:
 
-<div class="emphasisbox">
+
 
 Which coding exons have the highest number of embedded/overlapping
 repeats?
 
-</div>
+
 
 We will ask this question about pig chromosome 18 in our example.
 
@@ -648,11 +648,11 @@ the number of records in the dataset that have that exon name.
 If we were to now to run **Tools → Filter and Sort → Sort** on this
 dataset, we would have the answer to our original question:
 
-<div class="emphasisbox">
+
 
 Which exons have the most repeats?
 
-</div>
+
 
 We have the list of exons, and the counts in them. We could use this
 dataset in further analysis, email it someone, etc..
@@ -696,18 +696,18 @@ column BED file with the repeat count in column 5, the score column.
 
 *Select* **Tools → Text Manipulation → Cut**. *Enter* `c3,c4,c5,c6,`
 
-</div>
 
-<div class="printfooter">
+
+
 
 Retrieved from
 "<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2012&oldid=21669>"
 
-</div>
 
-<div id="catlinks" class="catlinks">
 
-<div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+
+
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -716,30 +716,29 @@ Retrieved from
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
 
-</div>
 
-</div>
 
-<div class="visualClear">
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-navigation">
+
+
+
+
+
+
+
 
 ## Navigation menu
 
-<div id="mw-head">
 
 
 
-<div id="left-navigation">
 
-<div id="p-namespaces" class="vectorTabs" role="navigation"
-aria-labelledby="p-namespaces-label">
+
+
+
 
 ### Namespaces
 
@@ -749,81 +748,77 @@ aria-labelledby="p-namespaces-label">
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-</div>
 
-<div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
-aria-labelledby="p-variants-label">
+
+
 
 ### 
 
 ### Variants[](#)
 
-<div class="menu">
-
-</div>
-
-</div>
-
-</div>
 
 
 
 
 
-</div>
 
-</div>
 
-</div>
 
-<div id="mw-panel">
 
-<div id="p-logo" role="banner">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-</div>
 
-<div id="p-Navigation" class="portal" role="navigation"
-aria-labelledby="p-Navigation-label">
+
+
 
 ### Navigation
 
-<div class="body">
+
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-</div>
 
-</div>
 
-<div id="p-Documentation" class="portal" role="navigation"
-aria-labelledby="p-Documentation-label">
+
+
+
 
 ### Documentation
 
-<div class="body">
+
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-</div>
 
-</div>
 
-<div id="p-Community" class="portal" role="navigation"
-aria-labelledby="p-Community-label">
+
+
+
 
 ### Community
 
-<div class="body">
+
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -833,31 +828,30 @@ aria-labelledby="p-Community-label">
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-</div>
 
-</div>
 
-<div id="p-tb" class="portal" role="navigation"
-aria-labelledby="p-tb-label">
+
+
+
 
 ### Tools
 
-<div class="body">
+
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-<div id="footer" role="contentinfo">
+
+
+
+
+
 
 - <span id="footer-info-lastmod">Last updated at 22:18 on 11 September
   2012.</span>
@@ -879,4 +873,4 @@ aria-labelledby="p-tb-label">
 
 
 
-</div>
+
