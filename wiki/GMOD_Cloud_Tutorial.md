@@ -123,8 +123,8 @@ rel="nofollow">aws.amazon.com</a>
 
 <a href="File:Screen_shot_2012-08-25_at_10.38.41.png" class="image"
 title="Amazon Web Services welcome screen"><img
-src="../mediawiki/images/thumb/9/98/Screen_shot_2012-08-25_at_10.38.41.png/750px-Screen_shot_2012-08-25_at_10.38.41.png"
-srcset="../mediawiki/images/thumb/9/98/Screen_shot_2012-08-25_at_10.38.41.png/1125px-Screen_shot_2012-08-25_at_10.38.41.png 1.5x, ../mediawiki/images/9/98/Screen_shot_2012-08-25_at_10.38.41.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/98/Screen_shot_2012-08-25_at_10.38.41.png/750px-Screen_shot_2012-08-25_at_10.38.41.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/98/Screen_shot_2012-08-25_at_10.38.41.png/1125px-Screen_shot_2012-08-25_at_10.38.41.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/98/Screen_shot_2012-08-25_at_10.38.41.png 2x"
 width="750" height="482" alt="Amazon Web Services welcome screen" /></a>
 
   
@@ -133,8 +133,8 @@ account, you'll need to create one)
 
 <a href="File:Screen_shot_2012-08-25_at_10.39.02.png" class="image"
 title="Amazon Web Services login"><img
-src="../mediawiki/images/thumb/f/f7/Screen_shot_2012-08-25_at_10.39.02.png/750px-Screen_shot_2012-08-25_at_10.39.02.png"
-srcset="../mediawiki/images/thumb/f/f7/Screen_shot_2012-08-25_at_10.39.02.png/1125px-Screen_shot_2012-08-25_at_10.39.02.png 1.5x, ../mediawiki/images/f/f7/Screen_shot_2012-08-25_at_10.39.02.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/Screen_shot_2012-08-25_at_10.39.02.png/750px-Screen_shot_2012-08-25_at_10.39.02.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/Screen_shot_2012-08-25_at_10.39.02.png/1125px-Screen_shot_2012-08-25_at_10.39.02.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/Screen_shot_2012-08-25_at_10.39.02.png 2x"
 width="750" height="482" alt="Amazon Web Services login" /></a>
 
   
@@ -143,8 +143,8 @@ all again...
 
 <a href="File:Screen_shot_2012-08-25_at_10.40.59.png" class="image"
 title="AWS login"><img
-src="../mediawiki/images/thumb/e/eb/Screen_shot_2012-08-25_at_10.40.59.png/750px-Screen_shot_2012-08-25_at_10.40.59.png"
-srcset="../mediawiki/images/thumb/e/eb/Screen_shot_2012-08-25_at_10.40.59.png/1125px-Screen_shot_2012-08-25_at_10.40.59.png 1.5x, ../mediawiki/images/e/eb/Screen_shot_2012-08-25_at_10.40.59.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/eb/Screen_shot_2012-08-25_at_10.40.59.png/750px-Screen_shot_2012-08-25_at_10.40.59.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/eb/Screen_shot_2012-08-25_at_10.40.59.png/1125px-Screen_shot_2012-08-25_at_10.40.59.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Screen_shot_2012-08-25_at_10.40.59.png 2x"
 width="750" height="482" alt="AWS login" /></a>
 
   
@@ -154,8 +154,8 @@ compute credit.
 
 <a href="File:Screen_shot_2012-08-25_at_10.46.17.png" class="image"
 title="AWS login"><img
-src="../mediawiki/images/thumb/1/15/Screen_shot_2012-08-25_at_10.46.17.png/750px-Screen_shot_2012-08-25_at_10.46.17.png"
-srcset="../mediawiki/images/thumb/1/15/Screen_shot_2012-08-25_at_10.46.17.png/1125px-Screen_shot_2012-08-25_at_10.46.17.png 1.5x, ../mediawiki/images/1/15/Screen_shot_2012-08-25_at_10.46.17.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/15/Screen_shot_2012-08-25_at_10.46.17.png/750px-Screen_shot_2012-08-25_at_10.46.17.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/15/Screen_shot_2012-08-25_at_10.46.17.png/1125px-Screen_shot_2012-08-25_at_10.46.17.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/Screen_shot_2012-08-25_at_10.46.17.png 2x"
 width="750" height="482" alt="AWS login" /></a>
 
   
@@ -164,8 +164,8 @@ this, you'll get this confirmation screen:
 
 <a href="File:Screen_shot_2012-08-25_at_10.46.48.png" class="image"
 title="AWS login"><img
-src="../mediawiki/images/thumb/e/ee/Screen_shot_2012-08-25_at_10.46.48.png/750px-Screen_shot_2012-08-25_at_10.46.48.png"
-srcset="../mediawiki/images/thumb/e/ee/Screen_shot_2012-08-25_at_10.46.48.png/1125px-Screen_shot_2012-08-25_at_10.46.48.png 1.5x, ../mediawiki/images/e/ee/Screen_shot_2012-08-25_at_10.46.48.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ee/Screen_shot_2012-08-25_at_10.46.48.png/750px-Screen_shot_2012-08-25_at_10.46.48.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ee/Screen_shot_2012-08-25_at_10.46.48.png/1125px-Screen_shot_2012-08-25_at_10.46.48.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ee/Screen_shot_2012-08-25_at_10.46.48.png 2x"
 width="750" height="482" alt="AWS login" /></a>
 
   
@@ -178,8 +178,8 @@ rel="nofollow">http://aws.amazon.com/awscredits</a>.
 
 <a href="File:Screen_shot_2012-08-25_at_10.58.30.png" class="image"
 title="AWS credit applied - woohoo!"><img
-src="../mediawiki/images/thumb/c/cc/Screen_shot_2012-08-25_at_10.58.30.png/750px-Screen_shot_2012-08-25_at_10.58.30.png"
-srcset="../mediawiki/images/thumb/c/cc/Screen_shot_2012-08-25_at_10.58.30.png/1125px-Screen_shot_2012-08-25_at_10.58.30.png 1.5x, ../mediawiki/images/c/cc/Screen_shot_2012-08-25_at_10.58.30.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/Screen_shot_2012-08-25_at_10.58.30.png/750px-Screen_shot_2012-08-25_at_10.58.30.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/Screen_shot_2012-08-25_at_10.58.30.png/1125px-Screen_shot_2012-08-25_at_10.58.30.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cc/Screen_shot_2012-08-25_at_10.58.30.png 2x"
 width="750" height="482" alt="AWS credit applied - woohoo!" /></a>
 
   
@@ -239,8 +239,8 @@ Management Console** link under **My Account/Console**.
 
 <a href="File:Screen_shot_2012-08-25_at_11.02.47.png" class="image"
 title="Accessing the console"><img
-src="../mediawiki/images/thumb/8/83/Screen_shot_2012-08-25_at_11.02.47.png/750px-Screen_shot_2012-08-25_at_11.02.47.png"
-srcset="../mediawiki/images/thumb/8/83/Screen_shot_2012-08-25_at_11.02.47.png/1125px-Screen_shot_2012-08-25_at_11.02.47.png 1.5x, ../mediawiki/images/8/83/Screen_shot_2012-08-25_at_11.02.47.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Screen_shot_2012-08-25_at_11.02.47.png/750px-Screen_shot_2012-08-25_at_11.02.47.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Screen_shot_2012-08-25_at_11.02.47.png/1125px-Screen_shot_2012-08-25_at_11.02.47.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/Screen_shot_2012-08-25_at_11.02.47.png 2x"
 width="750" height="482" alt="Accessing the console" /></a>
 
   
@@ -249,8 +249,8 @@ computing services.
 
 <a href="File:Screen_shot_2012-08-25_at_11.03.24.png" class="image"
 title="Console screen"><img
-src="../mediawiki/images/thumb/2/29/Screen_shot_2012-08-25_at_11.03.24.png/750px-Screen_shot_2012-08-25_at_11.03.24.png"
-srcset="../mediawiki/images/thumb/2/29/Screen_shot_2012-08-25_at_11.03.24.png/1125px-Screen_shot_2012-08-25_at_11.03.24.png 1.5x, ../mediawiki/images/2/29/Screen_shot_2012-08-25_at_11.03.24.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/29/Screen_shot_2012-08-25_at_11.03.24.png/750px-Screen_shot_2012-08-25_at_11.03.24.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/29/Screen_shot_2012-08-25_at_11.03.24.png/1125px-Screen_shot_2012-08-25_at_11.03.24.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/29/Screen_shot_2012-08-25_at_11.03.24.png 2x"
 width="750" height="482" alt="Console screen" /></a>
 
   
@@ -260,8 +260,8 @@ left.
 
 <a href="File:Screen_shot_2012-08-25_at_11.05.34.png" class="image"
 title="Regions"><img
-src="../mediawiki/images/thumb/7/70/Screen_shot_2012-08-25_at_11.05.34.png/750px-Screen_shot_2012-08-25_at_11.05.34.png"
-srcset="../mediawiki/images/thumb/7/70/Screen_shot_2012-08-25_at_11.05.34.png/1125px-Screen_shot_2012-08-25_at_11.05.34.png 1.5x, ../mediawiki/images/7/70/Screen_shot_2012-08-25_at_11.05.34.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/70/Screen_shot_2012-08-25_at_11.05.34.png/750px-Screen_shot_2012-08-25_at_11.05.34.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/70/Screen_shot_2012-08-25_at_11.05.34.png/1125px-Screen_shot_2012-08-25_at_11.05.34.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Screen_shot_2012-08-25_at_11.05.34.png 2x"
 width="750" height="482" alt="Regions" /></a>
 
   
@@ -269,8 +269,8 @@ Once you have set the region, you can search for the AMI you want.
 
 <a href="File:Screen_shot_2012-08-25_at_11.24.57.png" class="image"
 title="Getting ready for launch"><img
-src="../mediawiki/images/thumb/8/82/Screen_shot_2012-08-25_at_11.24.57.png/750px-Screen_shot_2012-08-25_at_11.24.57.png"
-srcset="../mediawiki/images/thumb/8/82/Screen_shot_2012-08-25_at_11.24.57.png/1125px-Screen_shot_2012-08-25_at_11.24.57.png 1.5x, ../mediawiki/images/8/82/Screen_shot_2012-08-25_at_11.24.57.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/Screen_shot_2012-08-25_at_11.24.57.png/750px-Screen_shot_2012-08-25_at_11.24.57.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/Screen_shot_2012-08-25_at_11.24.57.png/1125px-Screen_shot_2012-08-25_at_11.24.57.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Screen_shot_2012-08-25_at_11.24.57.png 2x"
 width="750" height="482" alt="Getting ready for launch" /></a>
 
   
@@ -280,8 +280,8 @@ images**.
 
 <a href="File:Screen_shot_2012-08-25_at_11.26.12.png" class="image"
 title="Search public AMIs"><img
-src="../mediawiki/images/thumb/b/b6/Screen_shot_2012-08-25_at_11.26.12.png/750px-Screen_shot_2012-08-25_at_11.26.12.png"
-srcset="../mediawiki/images/thumb/b/b6/Screen_shot_2012-08-25_at_11.26.12.png/1125px-Screen_shot_2012-08-25_at_11.26.12.png 1.5x, ../mediawiki/images/b/b6/Screen_shot_2012-08-25_at_11.26.12.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/Screen_shot_2012-08-25_at_11.26.12.png/750px-Screen_shot_2012-08-25_at_11.26.12.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/Screen_shot_2012-08-25_at_11.26.12.png/1125px-Screen_shot_2012-08-25_at_11.26.12.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Screen_shot_2012-08-25_at_11.26.12.png 2x"
 width="750" height="482" alt="Search public AMIs" /></a>
 
   
@@ -290,8 +290,8 @@ GMOD in the Cloud image (1.3 as of August 2012).
 
 <a href="File:Screen_shot_2012-08-25_at_11.27.32.png" class="image"
 title="Find your cloud"><img
-src="../mediawiki/images/thumb/8/89/Screen_shot_2012-08-25_at_11.27.32.png/750px-Screen_shot_2012-08-25_at_11.27.32.png"
-srcset="../mediawiki/images/thumb/8/89/Screen_shot_2012-08-25_at_11.27.32.png/1125px-Screen_shot_2012-08-25_at_11.27.32.png 1.5x, ../mediawiki/images/8/89/Screen_shot_2012-08-25_at_11.27.32.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/89/Screen_shot_2012-08-25_at_11.27.32.png/750px-Screen_shot_2012-08-25_at_11.27.32.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/89/Screen_shot_2012-08-25_at_11.27.32.png/1125px-Screen_shot_2012-08-25_at_11.27.32.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/89/Screen_shot_2012-08-25_at_11.27.32.png 2x"
 width="750" height="482" alt="Find your cloud" /></a>
 
   
@@ -300,8 +300,8 @@ choose **Launch Instance** to create your instance.
 
 <a href="File:Screen_shot_2012-08-25_at_11.27.45.png" class="image"
 title="Context: launch!"><img
-src="../mediawiki/images/thumb/7/76/Screen_shot_2012-08-25_at_11.27.45.png/750px-Screen_shot_2012-08-25_at_11.27.45.png"
-srcset="../mediawiki/images/thumb/7/76/Screen_shot_2012-08-25_at_11.27.45.png/1125px-Screen_shot_2012-08-25_at_11.27.45.png 1.5x, ../mediawiki/images/7/76/Screen_shot_2012-08-25_at_11.27.45.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Screen_shot_2012-08-25_at_11.27.45.png/750px-Screen_shot_2012-08-25_at_11.27.45.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Screen_shot_2012-08-25_at_11.27.45.png/1125px-Screen_shot_2012-08-25_at_11.27.45.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Screen_shot_2012-08-25_at_11.27.45.png 2x"
 width="750" height="482" alt="Context: launch!" /></a>
 
   
@@ -312,15 +312,15 @@ fine for our purposes.
 
 <a href="File:Screen_shot_2012-08-25_at_11.28.43.png" class="image"
 title="AMI options, I"><img
-src="../mediawiki/images/thumb/9/92/Screen_shot_2012-08-25_at_11.28.43.png/750px-Screen_shot_2012-08-25_at_11.28.43.png"
-srcset="../mediawiki/images/thumb/9/92/Screen_shot_2012-08-25_at_11.28.43.png/1125px-Screen_shot_2012-08-25_at_11.28.43.png 1.5x, ../mediawiki/images/9/92/Screen_shot_2012-08-25_at_11.28.43.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/92/Screen_shot_2012-08-25_at_11.28.43.png/750px-Screen_shot_2012-08-25_at_11.28.43.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/92/Screen_shot_2012-08-25_at_11.28.43.png/1125px-Screen_shot_2012-08-25_at_11.28.43.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Screen_shot_2012-08-25_at_11.28.43.png 2x"
 width="750" height="482" alt="AMI options, I" /></a>
 
   
 <a href="File:Screen_shot_2012-08-25_at_11.32.39.png" class="image"
 title="AMI options, II"><img
-src="../mediawiki/images/thumb/4/4f/Screen_shot_2012-08-25_at_11.32.39.png/750px-Screen_shot_2012-08-25_at_11.32.39.png"
-srcset="../mediawiki/images/thumb/4/4f/Screen_shot_2012-08-25_at_11.32.39.png/1125px-Screen_shot_2012-08-25_at_11.32.39.png 1.5x, ../mediawiki/images/4/4f/Screen_shot_2012-08-25_at_11.32.39.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4f/Screen_shot_2012-08-25_at_11.32.39.png/750px-Screen_shot_2012-08-25_at_11.32.39.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4f/Screen_shot_2012-08-25_at_11.32.39.png/1125px-Screen_shot_2012-08-25_at_11.32.39.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/Screen_shot_2012-08-25_at_11.32.39.png 2x"
 width="750" height="482" alt="AMI options, II" /></a>
 
   
@@ -330,8 +330,8 @@ an appropriate name in the value field.
 
 <a href="File:Screen_shot_2012-08-25_at_11.33.51.png" class="image"
 title="Name your AMI"><img
-src="../mediawiki/images/thumb/c/cb/Screen_shot_2012-08-25_at_11.33.51.png/750px-Screen_shot_2012-08-25_at_11.33.51.png"
-srcset="../mediawiki/images/thumb/c/cb/Screen_shot_2012-08-25_at_11.33.51.png/1125px-Screen_shot_2012-08-25_at_11.33.51.png 1.5x, ../mediawiki/images/c/cb/Screen_shot_2012-08-25_at_11.33.51.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Screen_shot_2012-08-25_at_11.33.51.png/750px-Screen_shot_2012-08-25_at_11.33.51.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Screen_shot_2012-08-25_at_11.33.51.png/1125px-Screen_shot_2012-08-25_at_11.33.51.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Screen_shot_2012-08-25_at_11.33.51.png 2x"
 width="750" height="482" alt="Name your AMI" /></a>
 
   
@@ -340,8 +340,8 @@ a key word and Amazon will generate a private key for you.
 
 <a href="File:Screen_shot_2012-08-25_at_11.34.27.png" class="image"
 title="Create a key pair"><img
-src="../mediawiki/images/thumb/5/51/Screen_shot_2012-08-25_at_11.34.27.png/750px-Screen_shot_2012-08-25_at_11.34.27.png"
-srcset="../mediawiki/images/thumb/5/51/Screen_shot_2012-08-25_at_11.34.27.png/1125px-Screen_shot_2012-08-25_at_11.34.27.png 1.5x, ../mediawiki/images/5/51/Screen_shot_2012-08-25_at_11.34.27.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/Screen_shot_2012-08-25_at_11.34.27.png/750px-Screen_shot_2012-08-25_at_11.34.27.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/Screen_shot_2012-08-25_at_11.34.27.png/1125px-Screen_shot_2012-08-25_at_11.34.27.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/Screen_shot_2012-08-25_at_11.34.27.png 2x"
 width="750" height="482" alt="Create a key pair" /></a>
 
   
@@ -349,8 +349,8 @@ Save this to disk for later use.
 
 <a href="File:Screen_shot_2012-08-25_at_11.34.48.png" class="image"
 title="Saving your private key"><img
-src="../mediawiki/images/thumb/1/1e/Screen_shot_2012-08-25_at_11.34.48.png/750px-Screen_shot_2012-08-25_at_11.34.48.png"
-srcset="../mediawiki/images/thumb/1/1e/Screen_shot_2012-08-25_at_11.34.48.png/1125px-Screen_shot_2012-08-25_at_11.34.48.png 1.5x, ../mediawiki/images/1/1e/Screen_shot_2012-08-25_at_11.34.48.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/Screen_shot_2012-08-25_at_11.34.48.png/750px-Screen_shot_2012-08-25_at_11.34.48.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/Screen_shot_2012-08-25_at_11.34.48.png/1125px-Screen_shot_2012-08-25_at_11.34.48.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1e/Screen_shot_2012-08-25_at_11.34.48.png 2x"
 width="750" height="482" alt="Saving your private key" /></a>
 
   
@@ -359,8 +359,8 @@ settings will allow you to access the AMI using various protocols.
 
 <a href="File:Screen_shot_2012-08-25_at_11.35.42.png" class="image"
 title="Security!!"><img
-src="../mediawiki/images/thumb/6/68/Screen_shot_2012-08-25_at_11.35.42.png/750px-Screen_shot_2012-08-25_at_11.35.42.png"
-srcset="../mediawiki/images/thumb/6/68/Screen_shot_2012-08-25_at_11.35.42.png/1125px-Screen_shot_2012-08-25_at_11.35.42.png 1.5x, ../mediawiki/images/6/68/Screen_shot_2012-08-25_at_11.35.42.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/68/Screen_shot_2012-08-25_at_11.35.42.png/750px-Screen_shot_2012-08-25_at_11.35.42.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/68/Screen_shot_2012-08-25_at_11.35.42.png/1125px-Screen_shot_2012-08-25_at_11.35.42.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/Screen_shot_2012-08-25_at_11.35.42.png 2x"
 width="750" height="482" alt="Security!!" /></a>
 
   
@@ -371,8 +371,8 @@ name and a description.
 
 <a href="File:Screen_shot_2012-08-25_at_15.21.18.png" class="image"
 title="Adding a new security setting"><img
-src="../mediawiki/images/thumb/7/71/Screen_shot_2012-08-25_at_15.21.18.png/750px-Screen_shot_2012-08-25_at_15.21.18.png"
-srcset="../mediawiki/images/thumb/7/71/Screen_shot_2012-08-25_at_15.21.18.png/1125px-Screen_shot_2012-08-25_at_15.21.18.png 1.5x, ../mediawiki/images/7/71/Screen_shot_2012-08-25_at_15.21.18.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Screen_shot_2012-08-25_at_15.21.18.png/750px-Screen_shot_2012-08-25_at_15.21.18.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Screen_shot_2012-08-25_at_15.21.18.png/1125px-Screen_shot_2012-08-25_at_15.21.18.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Screen_shot_2012-08-25_at_15.21.18.png 2x"
 width="750" height="482" alt="Adding a new security setting" /></a>
 
   
@@ -383,8 +383,8 @@ need to restrict access to certain IP addresses, this can be left as is.
 
 <a href="File:Screen_shot_2012-08-25_at_15.21.35.png" class="image"
 title="Adding SSH access"><img
-src="../mediawiki/images/thumb/b/b5/Screen_shot_2012-08-25_at_15.21.35.png/750px-Screen_shot_2012-08-25_at_15.21.35.png"
-srcset="../mediawiki/images/thumb/b/b5/Screen_shot_2012-08-25_at_15.21.35.png/1125px-Screen_shot_2012-08-25_at_15.21.35.png 1.5x, ../mediawiki/images/b/b5/Screen_shot_2012-08-25_at_15.21.35.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/Screen_shot_2012-08-25_at_15.21.35.png/750px-Screen_shot_2012-08-25_at_15.21.35.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/Screen_shot_2012-08-25_at_15.21.35.png/1125px-Screen_shot_2012-08-25_at_15.21.35.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/Screen_shot_2012-08-25_at_15.21.35.png 2x"
 width="750" height="482" alt="Adding SSH access" /></a>
 
   
@@ -394,8 +394,8 @@ is.
 
 <a href="File:Screen_shot_2012-08-25_at_15.22.18.png" class="image"
 title="Adding HTTP access"><img
-src="../mediawiki/images/thumb/2/2d/Screen_shot_2012-08-25_at_15.22.18.png/750px-Screen_shot_2012-08-25_at_15.22.18.png"
-srcset="../mediawiki/images/thumb/2/2d/Screen_shot_2012-08-25_at_15.22.18.png/1125px-Screen_shot_2012-08-25_at_15.22.18.png 1.5x, ../mediawiki/images/2/2d/Screen_shot_2012-08-25_at_15.22.18.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/Screen_shot_2012-08-25_at_15.22.18.png/750px-Screen_shot_2012-08-25_at_15.22.18.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/Screen_shot_2012-08-25_at_15.22.18.png/1125px-Screen_shot_2012-08-25_at_15.22.18.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/Screen_shot_2012-08-25_at_15.22.18.png 2x"
 width="750" height="482" alt="Adding HTTP access" /></a>
 
   
@@ -404,8 +404,8 @@ looks well, click launch!
 
 <a href="File:Screen_shot_2012-08-25_at_11.36.06.png" class="image"
 title="Are we finally ready to go?"><img
-src="../mediawiki/images/thumb/3/30/Screen_shot_2012-08-25_at_11.36.06.png/750px-Screen_shot_2012-08-25_at_11.36.06.png"
-srcset="../mediawiki/images/thumb/3/30/Screen_shot_2012-08-25_at_11.36.06.png/1125px-Screen_shot_2012-08-25_at_11.36.06.png 1.5x, ../mediawiki/images/3/30/Screen_shot_2012-08-25_at_11.36.06.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/30/Screen_shot_2012-08-25_at_11.36.06.png/750px-Screen_shot_2012-08-25_at_11.36.06.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/30/Screen_shot_2012-08-25_at_11.36.06.png/1125px-Screen_shot_2012-08-25_at_11.36.06.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Screen_shot_2012-08-25_at_11.36.06.png 2x"
 width="750" height="482" alt="Are we finally ready to go?" /></a>
 
   
@@ -413,8 +413,8 @@ Houston, we have blast off!
 
 <a href="File:Screen_shot_2012-08-25_at_11.36.25.png" class="image"
 title="Blast off!"><img
-src="../mediawiki/images/thumb/2/23/Screen_shot_2012-08-25_at_11.36.25.png/750px-Screen_shot_2012-08-25_at_11.36.25.png"
-srcset="../mediawiki/images/thumb/2/23/Screen_shot_2012-08-25_at_11.36.25.png/1125px-Screen_shot_2012-08-25_at_11.36.25.png 1.5x, ../mediawiki/images/2/23/Screen_shot_2012-08-25_at_11.36.25.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Screen_shot_2012-08-25_at_11.36.25.png/750px-Screen_shot_2012-08-25_at_11.36.25.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Screen_shot_2012-08-25_at_11.36.25.png/1125px-Screen_shot_2012-08-25_at_11.36.25.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/Screen_shot_2012-08-25_at_11.36.25.png 2x"
 width="750" height="482" alt="Blast off!" /></a>
 
 ### <span id="Directory_Structure" class="mw-headline">Directory Structure</span>
@@ -480,8 +480,8 @@ list of all the instances we have running.
 
 <a href="File:Screen_shot_2012-08-25_at_11.40.52.png" class="image"
 title="Instances window"><img
-src="../mediawiki/images/thumb/2/25/Screen_shot_2012-08-25_at_11.40.52.png/750px-Screen_shot_2012-08-25_at_11.40.52.png"
-srcset="../mediawiki/images/thumb/2/25/Screen_shot_2012-08-25_at_11.40.52.png/1125px-Screen_shot_2012-08-25_at_11.40.52.png 1.5x, ../mediawiki/images/2/25/Screen_shot_2012-08-25_at_11.40.52.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/Screen_shot_2012-08-25_at_11.40.52.png/750px-Screen_shot_2012-08-25_at_11.40.52.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/Screen_shot_2012-08-25_at_11.40.52.png/1125px-Screen_shot_2012-08-25_at_11.40.52.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/Screen_shot_2012-08-25_at_11.40.52.png 2x"
 width="750" height="482" alt="Instances window" /></a>
 
   
@@ -490,8 +490,8 @@ Go to the instance and right-click to bring up a contextual menu. Choose
 
 <a href="File:Screen_shot_2012-08-25_at_11.41.56.png" class="image"
 title="Contextual menu for the instance"><img
-src="../mediawiki/images/thumb/f/f5/Screen_shot_2012-08-25_at_11.41.56.png/750px-Screen_shot_2012-08-25_at_11.41.56.png"
-srcset="../mediawiki/images/thumb/f/f5/Screen_shot_2012-08-25_at_11.41.56.png/1125px-Screen_shot_2012-08-25_at_11.41.56.png 1.5x, ../mediawiki/images/f/f5/Screen_shot_2012-08-25_at_11.41.56.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/Screen_shot_2012-08-25_at_11.41.56.png/750px-Screen_shot_2012-08-25_at_11.41.56.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/Screen_shot_2012-08-25_at_11.41.56.png/1125px-Screen_shot_2012-08-25_at_11.41.56.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/Screen_shot_2012-08-25_at_11.41.56.png 2x"
 width="750" height="482" alt="Contextual menu for the instance" /></a>
 
   
@@ -502,8 +502,8 @@ Required)**.
 
 <a href="File:Screen_shot_2012-08-25_at_11.42.44.png" class="image"
 title="Getting the DNS address"><img
-src="../mediawiki/images/thumb/0/02/Screen_shot_2012-08-25_at_11.42.44.png/750px-Screen_shot_2012-08-25_at_11.42.44.png"
-srcset="../mediawiki/images/thumb/0/02/Screen_shot_2012-08-25_at_11.42.44.png/1125px-Screen_shot_2012-08-25_at_11.42.44.png 1.5x, ../mediawiki/images/0/02/Screen_shot_2012-08-25_at_11.42.44.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Screen_shot_2012-08-25_at_11.42.44.png/750px-Screen_shot_2012-08-25_at_11.42.44.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Screen_shot_2012-08-25_at_11.42.44.png/1125px-Screen_shot_2012-08-25_at_11.42.44.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Screen_shot_2012-08-25_at_11.42.44.png 2x"
 width="750" height="482" alt="Getting the DNS address" /></a>
 
   
@@ -512,8 +512,8 @@ correctly, you should see the following screen:
 
 <a href="File:Screen_shot_2012-08-25_at_11.43.52.png" class="image"
 title="GMOD in the Cloud... it worked!!"><img
-src="../mediawiki/images/thumb/1/1f/Screen_shot_2012-08-25_at_11.43.52.png/750px-Screen_shot_2012-08-25_at_11.43.52.png"
-srcset="../mediawiki/images/thumb/1/1f/Screen_shot_2012-08-25_at_11.43.52.png/1125px-Screen_shot_2012-08-25_at_11.43.52.png 1.5x, ../mediawiki/images/1/1f/Screen_shot_2012-08-25_at_11.43.52.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1f/Screen_shot_2012-08-25_at_11.43.52.png/750px-Screen_shot_2012-08-25_at_11.43.52.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1f/Screen_shot_2012-08-25_at_11.43.52.png/1125px-Screen_shot_2012-08-25_at_11.43.52.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Screen_shot_2012-08-25_at_11.43.52.png 2x"
 width="750" height="482" alt="GMOD in the Cloud... it worked!!" /></a>
 
   
@@ -525,8 +525,8 @@ to get connected.
 
 <a href="File:Screen_shot_2012-08-25_at_11.50.53.png" class="image"
 title="Browser-based SSH"><img
-src="../mediawiki/images/thumb/c/ce/Screen_shot_2012-08-25_at_11.50.53.png/750px-Screen_shot_2012-08-25_at_11.50.53.png"
-srcset="../mediawiki/images/thumb/c/ce/Screen_shot_2012-08-25_at_11.50.53.png/1125px-Screen_shot_2012-08-25_at_11.50.53.png 1.5x, ../mediawiki/images/c/ce/Screen_shot_2012-08-25_at_11.50.53.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ce/Screen_shot_2012-08-25_at_11.50.53.png/750px-Screen_shot_2012-08-25_at_11.50.53.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ce/Screen_shot_2012-08-25_at_11.50.53.png/1125px-Screen_shot_2012-08-25_at_11.50.53.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/Screen_shot_2012-08-25_at_11.50.53.png 2x"
 width="750" height="482" alt="Browser-based SSH" /></a>
 
   
@@ -537,8 +537,8 @@ permissions on the downloaded private key file.
 
 <a href="File:Screen_shot_2012-08-25_at_11.57.05.png" class="image"
 title="Changing key file permissions"><img
-src="../mediawiki/images/thumb/c/cf/Screen_shot_2012-08-25_at_11.57.05.png/750px-Screen_shot_2012-08-25_at_11.57.05.png"
-srcset="../mediawiki/images/thumb/c/cf/Screen_shot_2012-08-25_at_11.57.05.png/1125px-Screen_shot_2012-08-25_at_11.57.05.png 1.5x, ../mediawiki/images/c/cf/Screen_shot_2012-08-25_at_11.57.05.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/Screen_shot_2012-08-25_at_11.57.05.png/750px-Screen_shot_2012-08-25_at_11.57.05.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/Screen_shot_2012-08-25_at_11.57.05.png/1125px-Screen_shot_2012-08-25_at_11.57.05.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/Screen_shot_2012-08-25_at_11.57.05.png 2x"
 width="750" height="482" alt="Changing key file permissions" /></a>
 
   
@@ -549,8 +549,8 @@ name **ubuntu**.
 
 <a href="File:Screen_shot_2012-08-25_at_11.57.18.png" class="image"
 title="Command line command"><img
-src="../mediawiki/images/thumb/e/e9/Screen_shot_2012-08-25_at_11.57.18.png/750px-Screen_shot_2012-08-25_at_11.57.18.png"
-srcset="../mediawiki/images/thumb/e/e9/Screen_shot_2012-08-25_at_11.57.18.png/1125px-Screen_shot_2012-08-25_at_11.57.18.png 1.5x, ../mediawiki/images/e/e9/Screen_shot_2012-08-25_at_11.57.18.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e9/Screen_shot_2012-08-25_at_11.57.18.png/750px-Screen_shot_2012-08-25_at_11.57.18.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e9/Screen_shot_2012-08-25_at_11.57.18.png/1125px-Screen_shot_2012-08-25_at_11.57.18.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/Screen_shot_2012-08-25_at_11.57.18.png 2x"
 width="750" height="482" alt="Command line command" /></a>
 
   
@@ -559,8 +559,8 @@ message:
 
 <a href="File:Screen_shot_2012-08-25_at_11.48.56.png" class="image"
 title="Logged in!"><img
-src="../mediawiki/images/thumb/0/07/Screen_shot_2012-08-25_at_11.48.56.png/750px-Screen_shot_2012-08-25_at_11.48.56.png"
-srcset="../mediawiki/images/thumb/0/07/Screen_shot_2012-08-25_at_11.48.56.png/1125px-Screen_shot_2012-08-25_at_11.48.56.png 1.5x, ../mediawiki/images/0/07/Screen_shot_2012-08-25_at_11.48.56.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/07/Screen_shot_2012-08-25_at_11.48.56.png/750px-Screen_shot_2012-08-25_at_11.48.56.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/07/Screen_shot_2012-08-25_at_11.48.56.png/1125px-Screen_shot_2012-08-25_at_11.48.56.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Screen_shot_2012-08-25_at_11.48.56.png 2x"
 width="750" height="482" alt="Logged in!" /></a>
 
 ### <span id="Resizing_your_data_partition" class="mw-headline">Resizing your data partition</span>
@@ -615,8 +615,8 @@ To stop an instance from the command line, type the following:
 
 <a href="File:Screen_shot_2012-08-25_at_11.59.27.png" class="image"
 title="Shut down"><img
-src="../mediawiki/images/thumb/5/50/Screen_shot_2012-08-25_at_11.59.27.png/750px-Screen_shot_2012-08-25_at_11.59.27.png"
-srcset="../mediawiki/images/thumb/5/50/Screen_shot_2012-08-25_at_11.59.27.png/1125px-Screen_shot_2012-08-25_at_11.59.27.png 1.5x, ../mediawiki/images/5/50/Screen_shot_2012-08-25_at_11.59.27.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Screen_shot_2012-08-25_at_11.59.27.png/750px-Screen_shot_2012-08-25_at_11.59.27.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Screen_shot_2012-08-25_at_11.59.27.png/1125px-Screen_shot_2012-08-25_at_11.59.27.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Screen_shot_2012-08-25_at_11.59.27.png 2x"
 width="750" height="482" alt="Shut down" /></a>
 
   
@@ -625,8 +625,8 @@ terminated.
 
 <a href="File:Screen_shot_2012-08-25_at_11.59.40.png" class="image"
 title="Terminating..."><img
-src="../mediawiki/images/thumb/6/60/Screen_shot_2012-08-25_at_11.59.40.png/750px-Screen_shot_2012-08-25_at_11.59.40.png"
-srcset="../mediawiki/images/thumb/6/60/Screen_shot_2012-08-25_at_11.59.40.png/1125px-Screen_shot_2012-08-25_at_11.59.40.png 1.5x, ../mediawiki/images/6/60/Screen_shot_2012-08-25_at_11.59.40.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Screen_shot_2012-08-25_at_11.59.40.png/750px-Screen_shot_2012-08-25_at_11.59.40.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Screen_shot_2012-08-25_at_11.59.40.png/1125px-Screen_shot_2012-08-25_at_11.59.40.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/Screen_shot_2012-08-25_at_11.59.40.png 2x"
 width="750" height="482" alt="Terminating..." /></a>
 
   
@@ -635,8 +635,8 @@ will change to the status **stopped**.
 
 <a href="File:Screen_shot_2012-08-25_at_12.40.52.png" class="image"
 title="Instance stopped"><img
-src="../mediawiki/images/thumb/3/36/Screen_shot_2012-08-25_at_12.40.52.png/750px-Screen_shot_2012-08-25_at_12.40.52.png"
-srcset="../mediawiki/images/thumb/3/36/Screen_shot_2012-08-25_at_12.40.52.png/1125px-Screen_shot_2012-08-25_at_12.40.52.png 1.5x, ../mediawiki/images/3/36/Screen_shot_2012-08-25_at_12.40.52.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/36/Screen_shot_2012-08-25_at_12.40.52.png/750px-Screen_shot_2012-08-25_at_12.40.52.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/36/Screen_shot_2012-08-25_at_12.40.52.png/1125px-Screen_shot_2012-08-25_at_12.40.52.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/Screen_shot_2012-08-25_at_12.40.52.png 2x"
 width="750" height="482" alt="Instance stopped" /></a>
 
 ### <span id="Getting_your_data_off_the_Cloud" class="mw-headline">Getting your data off the Cloud</span>
@@ -673,8 +673,8 @@ applications and the other for data.
 
 <a href="File:16.55.png" class="image"
 title="Volumes with a running machine"><img
-src="../mediawiki/images/thumb/b/ba/16.55.png/750px-16.55.png"
-srcset="../mediawiki/images/thumb/b/ba/16.55.png/1125px-16.55.png 1.5x, ../mediawiki/images/b/ba/16.55.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/ba/16.55.png/750px-16.55.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/ba/16.55.png/1125px-16.55.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/ba/16.55.png 2x"
 width="750" height="409" alt="Volumes with a running machine" /></a>
 
   
@@ -682,8 +682,8 @@ As these screenshot suggest, only the **Root** volume is deleted when
 you shut down your AMI.
 
 <a href="File:12.40.png" class="image" title="Volume setup"><img
-src="../mediawiki/images/thumb/8/86/12.40.png/750px-12.40.png"
-srcset="../mediawiki/images/8/86/12.40.png 1.5x, ../mediawiki/images/8/86/12.40.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/12.40.png/750px-12.40.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/12.40.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/12.40.png 2x"
 width="750" height="520" alt="Volume setup" /></a>
 
   
@@ -693,8 +693,8 @@ the volume.
 
 <a href="File:16.58.56.png" class="image"
 title="Terminate dialog box"><img
-src="../mediawiki/images/thumb/7/73/16.58.56.png/750px-16.58.56.png"
-srcset="../mediawiki/images/thumb/7/73/16.58.56.png/1125px-16.58.56.png 1.5x, ../mediawiki/images/7/73/16.58.56.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/16.58.56.png/750px-16.58.56.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/16.58.56.png/1125px-16.58.56.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/73/16.58.56.png 2x"
 width="750" height="409" alt="Terminate dialog box" /></a>
 
   
@@ -703,8 +703,8 @@ Actions** or by right-/command-clicking on the instance name and
 selecting **Terminate** from the menu.
 
 <a href="File:16.59.17.png" class="image" title="Termination..."><img
-src="../mediawiki/images/thumb/7/76/16.59.17.png/750px-16.59.17.png"
-srcset="../mediawiki/images/thumb/7/76/16.59.17.png/1125px-16.59.17.png 1.5x, ../mediawiki/images/7/76/16.59.17.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/16.59.17.png/750px-16.59.17.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/16.59.17.png/1125px-16.59.17.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/16.59.17.png 2x"
 width="750" height="409" alt="Termination..." /></a>
 
   
@@ -713,8 +713,8 @@ has been deleted but EBS volume remains. Its status is available as it
 is no longer in use by the instance.
 
 <a href="File:17.00.13.png" class="image" title="Volume remaining"><img
-src="../mediawiki/images/thumb/5/5a/17.00.13.png/750px-17.00.13.png"
-srcset="../mediawiki/images/thumb/5/5a/17.00.13.png/1125px-17.00.13.png 1.5x, ../mediawiki/images/5/5a/17.00.13.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/17.00.13.png/750px-17.00.13.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/17.00.13.png/1125px-17.00.13.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/17.00.13.png 2x"
 width="750" height="409" alt="Volume remaining" /></a>
 
   
@@ -722,16 +722,16 @@ To delete the volume, select it and either choose **Delete volume** or
 right-/command-click on the volume name and select **Delete**.
 
 <a href="File:17.00.22.png" class="image" title="Deletion"><img
-src="../mediawiki/images/thumb/c/cb/17.00.22.png/750px-17.00.22.png"
-srcset="../mediawiki/images/thumb/c/cb/17.00.22.png/1125px-17.00.22.png 1.5x, ../mediawiki/images/c/cb/17.00.22.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/17.00.22.png/750px-17.00.22.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/17.00.22.png/1125px-17.00.22.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/17.00.22.png 2x"
 width="750" height="409" alt="Deletion" /></a>
 
   
 All done!
 
 <a href="File:17.04.00.png" class="image" title="Tabula rasa"><img
-src="../mediawiki/images/thumb/1/18/17.04.00.png/750px-17.04.00.png"
-srcset="../mediawiki/images/thumb/1/18/17.04.00.png/1125px-17.04.00.png 1.5x, ../mediawiki/images/1/18/17.04.00.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/18/17.04.00.png/750px-17.04.00.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/18/17.04.00.png/1125px-17.04.00.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/17.04.00.png 2x"
 width="750" height="409" alt="Tabula rasa" /></a>
 
 </div>

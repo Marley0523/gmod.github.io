@@ -51,7 +51,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:Jan2009MtgLogoNoText.png" class="image"><img
-src="../mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
 height="121" alt="Jan2009MtgLogoNoText.png" /></a>
 </div>
 </div></td>
@@ -63,7 +63,7 @@ Following <a href="PAG_2009" title="PAG 2009">PAG 2009</a><br />
 San Diego, California, USA</td>
 <td data-valign="center"><a href="http://www.sandiego.org/nav/Visitors"
 rel="nofollow" title="San Diego Convention and Visitors Bureau"><img
-src="../mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/SanDiegoConvention.gif" width="145"
 height="97" alt="San Diego Convention and Visitors Bureau" /></a></td>
 </tr>
 </tbody>
@@ -81,7 +81,7 @@ participants](#Meeting_Participants) at the meeting.
 
 <a href="File:Jan2009Meeting.JPG" class="image"
 title="Jan 2009 Meeting"><img
-src="../mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
 height="100" alt="Jan 2009 Meeting" /></a>
 
 </div>
@@ -187,27 +187,27 @@ height="100" alt="Jan 2009 Meeting" /></a>
 |----|----|----|----|
 | 10:00 AM | Registration |  |  |
 | 10:30 AM | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
-| 11:00 AM | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
+| 11:00 AM | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
 class="internal" title="Jan2009StateOfGMOD.ppt">PPT</a>, [Summary](#The_State_of_GMOD) |
-| 11:30 AM | A variety of [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") stuff | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
+| 11:30 AM | A variety of [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") stuff | [Dave Clements](User%3AClements "User%3AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
 title="Jan2009HelpDesk.pdf">PDF</a>, [Summary](#GMOD_Help_Desk) |
 | 12:00 PM | Lunch | *one hour 30 minutes* |  |
 | 1:30 PM | <a href="http://drupal.org" class="external text"
 rel="nofollow">Drupal</a> and <a href="http://www.marinegenomics.org" class="external text"
-rel="nofollow">MarineGenomics.org</a> | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | <a href="../mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
+rel="nofollow">MarineGenomics.org</a> | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
 class="internal" title="Jan2009MarineGenomics.pdf">PDF</a>, [Summary](#Drupal_and_MarineGenomics.org) |
 | 2:00 PM | <a href="http://www.sanger.ac.uk/Software/Artemis/"
 class="external text" rel="nofollow">Artemis</a> and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> at <a href="http://www.genedb.org/" class="external text"
-rel="nofollow">GeneDB</a> | Robin Houston | <a href="../mediawiki/images/5/5c/Jan2009ArtemisChadoGeneDB.ppt"
-class="internal" title="Jan2009ArtemisChadoGeneDB.ppt">PPT</a>, <a href="../mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
+rel="nofollow">GeneDB</a> | Robin Houston | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Jan2009ArtemisChadoGeneDB.ppt"
+class="internal" title="Jan2009ArtemisChadoGeneDB.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
 class="internal" title="Jan2009ArtemisChadoGeneDB.pdf">PDF</a>, [Summary](#Artemis_and_Chado_at_GeneDB) |
-| 2:30 PM | modENCODE: extending <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, BIR-TAB, & GBrowse for automating data validation & display | [Nicole Washington](User%3ANLWashington "User%3ANLWashington") | <a href="../mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
+| 2:30 PM | modENCODE: extending <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, BIR-TAB, & GBrowse for automating data validation & display | [Nicole Washington](User%3ANLWashington "User%3ANLWashington") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
 title="Jan2009modENCODE.pdf">PDF</a>, [Summary](#modENCODE:_extending_Chado.2C_BIR-TAB.2C_.26_GBrowse_for_automating_data_validation_.26_display) |
 | 3:00 PM | Break |  |  |
-| 3:30 PM | A RESTful interface for [MODs](MOD "MOD")? | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="../mediawiki/images/6/63/Jan2009RESTfulMODs.ppt"
-class="internal" title="Jan2009RESTfulMODs.ppt">PPT</a>, <a href="../mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
+| 3:30 PM | A RESTful interface for [MODs](MOD "MOD")? | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Jan2009RESTfulMODs.ppt"
+class="internal" title="Jan2009RESTfulMODs.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
 class="internal" title="Jan2009RESTfulMODs.pdf">PDF</a>, [Summary](#A_RESTful_Interface_for_MODs.3F), [Discussion](#Data_Sharing) |
-| 4:00 PM | Metadata Input and Submission Tool and GIS linked metagenomic database | Iddo Friedberg and Christopher Condit | <a href="../mediawiki/images/c/c7/Jan2009MIST.pdf" class="internal"
+| 4:00 PM | Metadata Input and Submission Tool and GIS linked metagenomic database | Iddo Friedberg and Christopher Condit | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c7/Jan2009MIST.pdf" class="internal"
 title="Jan2009MIST.pdf">PDF</a>, [Summary](#Metadata_Input_and_Submission_Tool_and_GIS_linked_metagenomic_database) |
 | 4:30 PM | Data Representation in <a href="Chado" class="mw-redirect" title="Chado">Chado</a>: Best Practices | [Joshua Orvis](User%3AJorvis "User%3AJorvis") and/or Scott Cain | [Summary](#Data_Representation_in_Chado:_Best_Practices), [Discussion](#Data_Sharing) |
 | 5:00 PM | Dinner (on your own) |  |  |
@@ -239,11 +239,11 @@ class="external text" rel="nofollow">SBRI</a></td>
 <td><a href="User%3ASivam" title="User%3ASivam">Dhileep Sivam</a> and
 Isabelle Phan</td>
 <td><a
-href="../mediawiki/images/4/43/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.ppt"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.ppt"
 class="internal"
 title="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.ppt">PPT</a>,
 <a
-href="../mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
 class="internal"
 title="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf">PDF</a>,
 <a href="#Chado_and_GUS_at_SBRI">Summary</a>, <a
@@ -253,7 +253,7 @@ href="#Data_Sharing">Discussion</a></td>
 <td>9:30 AM</td>
 <td><a href="BioMart" title="BioMart">BioMart</a></td>
 <td>Arek Kasprzyk</td>
-<td><a href="../mediawiki/images/5/5c/Jan2009BioMart.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Jan2009BioMart.pdf"
 class="internal" title="Jan2009BioMart.pdf">PDF</a>, <a
 href="#BioMart">Summary</a></td>
 </tr>
@@ -261,7 +261,7 @@ href="#BioMart">Summary</a></td>
 <td>10:00 AM</td>
 <td>BeeSpace</td>
 <td>Barry Sanders, Dave Arcoleo</td>
-<td><a href="../mediawiki/images/d/dc/Jan2009BeeSpace.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Jan2009BeeSpace.ppt"
 class="internal" title="Jan2009BeeSpace.ppt">PPT</a>, <a
 href="#BeeSpace">Summary</a></td>
 </tr>
@@ -277,9 +277,9 @@ href="#BeeSpace">Summary</a></td>
 title="GBrowse Configuration HOWTO">GBrowse configuration</a>
 management, <a href="http://gmod.org/wiki/">Summary</a></td>
 <td>Ram Podicheti</td>
-<td><a href="../mediawiki/images/5/55/Jan2009WebGBrowse.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Jan2009WebGBrowse.ppt"
 class="internal" title="Jan2009WebGBrowse.ppt">PPT</a>, <a
-href="../mediawiki/images/3/3d/Jan2009WebBrowse.pdf" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Jan2009WebBrowse.pdf" class="internal"
 title="Jan2009WebBrowse.pdf">PDF</a>, <a
 href="#WebGBrowse:_GBrowse_Configuration_Management">Summary</a></td>
 </tr>
@@ -289,9 +289,9 @@ href="#WebGBrowse:_GBrowse_Configuration_Management">Summary</a></td>
 rel="nofollow">JBrowse</a> (aka GBrowse 3.0)</td>
 <td><a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
 Skinner</a></td>
-<td><a href="../mediawiki/images/3/32/Jan2009JBrowse.odp"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Jan2009JBrowse.odp"
 class="internal" title="Jan2009JBrowse.odp">ODP</a>, <a
-href="../mediawiki/images/c/ca/Jan2009JBrowse.pdf" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Jan2009JBrowse.pdf" class="internal"
 title="Jan2009JBrowse.pdf">PDF</a>, <a href="#JBrowse">Summary</a></td>
 </tr>
 <tr class="odd">
@@ -319,9 +319,9 @@ href="#EcoliWiki_and_TableEdit">Summary</a></td>
 <td><a href="Bio_GMOD_GenericGenePage"
 title="Bio GMOD GenericGenePage">Generic Gene Page XML</a></td>
 <td>Scott Cain</td>
-<td><a href="../mediawiki/images/7/7d/Jan2009GenericGenePage.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/Jan2009GenericGenePage.ppt"
 class="internal" title="Jan2009GenericGenePage.ppt">PPT</a>, <a
-href="../mediawiki/images/f/f3/Jan2009GenreicGenePage.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/Jan2009GenreicGenePage.pdf"
 class="internal" title="Jan2009GenreicGenePage.pdf">PDF</a>, <a
 href="#Generic_Gene_Page_XML">Summary</a>, <a
 href="#Data_Sharing">Discussion</a></td>
@@ -332,9 +332,9 @@ href="#Data_Sharing">Discussion</a></td>
 href="Biopackages_HOWTO" title="Biopackages HOWTO">package
 management</a></td>
 <td>Brian O'Connor</td>
-<td><a href="../mediawiki/images/6/62/Jan2009GMODWebAndPackages.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/Jan2009GMODWebAndPackages.ppt"
 class="internal" title="Jan2009GMODWebAndPackages.ppt">PPT</a>, <a
-href="../mediawiki/images/a/a1/Jan2009GMODWebAndPackages.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/Jan2009GMODWebAndPackages.pdf"
 class="internal" title="Jan2009GMODWebAndPackages.pdf">PDF</a>, <a
 href="#GMODWeb_and_Package_Management">Summary</a></td>
 </tr>
@@ -348,16 +348,16 @@ href="#Metadata_Input_and_Submission_Tool_and_GIS_linked_metagenomic_database">S
 <tr class="even">
 <td>Bovine Genome Database</td>
 <td>Justin Reese and Chris Childers</td>
-<td><a href="../mediawiki/images/d/d5/Jan2009BovineGenomeDatabase.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d5/Jan2009BovineGenomeDatabase.ppt"
 class="internal" title="Jan2009BovineGenomeDatabase.ppt">PPT</a>, <a
-href="../mediawiki/images/0/0b/Jan2009BovineGenomeDatabase.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Jan2009BovineGenomeDatabase.pdf"
 class="internal" title="Jan2009BovineGenomeDatabase.pdf">PDF</a>, <a
 href="#Bovine_Genome_Database">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>GNPAnnot</td>
 <td>Pierre Larmande</td>
-<td><a href="../mediawiki/images/f/f6/Jan2009GNPAnnotChadoMVC.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Jan2009GNPAnnotChadoMVC.ppt"
 class="internal" title="Jan2009GNPAnnotChadoMVC.ppt">ChadoControler</a>,
 <a href="#GNPAnnot">Summary</a></td>
 </tr>
@@ -439,7 +439,7 @@ The presentations are listed here in a very approximate order:
 
 ### <span id="The_State_of_GMOD" class="mw-headline">The State of GMOD</span>
 
-- <a href="../mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/21/Jan2009StateOfGMOD.ppt"
   class="internal" title="Jan2009StateOfGMOD.ppt">The State of GMOD</a>,
   [Scott Cain](User%3AScott "User%3AScott")
 
@@ -519,7 +519,7 @@ School](2008_GMOD_Summer_School "2008 GMOD Summer School").
 
 ### <span id="GMOD_Help_Desk" class="mw-headline">GMOD Help Desk</span>
 
-- <a href="../mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4d/Jan2009HelpDesk.pdf" class="internal"
   title="Jan2009HelpDesk.pdf">GMOD Help Desk</a>, [Dave
   Clements](User%3AClements "User%3AClements")
 
@@ -610,7 +610,7 @@ less fragile.)
 
 ### <span id="A_RESTful_Interface_for_MODs.3F" class="mw-headline">A RESTful Interface for MODs?</span>
 
-- <a href="../mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/66/Jan2009RESTfulMODs.pdf"
   class="internal" title="Jan2009RESTfulMODs.pdf">A RESTful interface for
   MODs?</a>, [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
 
@@ -658,7 +658,7 @@ REST API</a> for a proposed standard.
 <div class="floatright">
 
 <a href="File:Jan2009Orvis.JPG" class="image"><img
-src="../mediawiki/images/d/d6/Jan2009Orvis.JPG" width="202" height="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Jan2009Orvis.JPG" width="202" height="100"
 alt="Jan2009Orvis.JPG" /></a>
 
 </div>
@@ -709,7 +709,7 @@ best practices.
 
 ### <span id="Generic_Gene_Page_XML" class="mw-headline">Generic Gene Page XML</span>
 
-- <a href="../mediawiki/images/7/7d/Jan2009GenericGenePage.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/Jan2009GenericGenePage.ppt"
   class="internal" title="Jan2009GenericGenePage.ppt">Generic Gene Page
   XML</a>, [Scott Cain](User%3AScott "User%3AScott")
 
@@ -746,7 +746,7 @@ See [Data Sharing](#Data_Sharing) above for more on this topic.
 
 ### <span id="BioMart" class="mw-headline">BioMart</span>
 
-- <a href="../mediawiki/images/5/5c/Jan2009BioMart.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Jan2009BioMart.pdf" class="internal"
   title="Jan2009BioMart.pdf">BioMart</a>, Arek Kasprzyk
 
 Arek Kasperzyk described the [BioMart](BioMart "BioMart") project with a
@@ -789,7 +789,7 @@ and the data model that each uses.
 
 ### <span id="JBrowse" class="mw-headline">JBrowse</span>
 
-- <a href="../mediawiki/images/c/ca/Jan2009JBrowse.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Jan2009JBrowse.pdf" class="internal"
   title="Jan2009JBrowse.pdf">JBrowse</a> (aka GBrowse 3.0), [Mitch
   Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
 
@@ -828,7 +828,7 @@ rel="nofollow">available for download</a>.
 
 ### <span id="GMODWeb_and_Package_Management" class="mw-headline">GMODWeb and Package Management</span>
 
-- <a href="../mediawiki/images/a/a1/Jan2009GMODWebAndPackages.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/Jan2009GMODWebAndPackages.pdf"
   class="internal" title="Jan2009GMODWebAndPackages.pdf">GMODWeb and
   Package Management</a>, Brian O'Connor
 
@@ -911,7 +911,7 @@ rel="nofollow">contact him</a> ...
 
 ### <span id="EcoliWiki_and_TableEdit" class="mw-headline">EcoliWiki and TableEdit</span>
 
-- <a href="../mediawiki/images/d/d9/Jan2009TableEdit.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d9/Jan2009TableEdit.pdf" class="internal"
   title="Jan2009TableEdit.pdf">EcoliWiki and TableEdit</a>, [Daniel
   Renfro](User%3ADanielRenfro "User%3ADanielRenfro")
 
@@ -961,7 +961,7 @@ currently planned.
 
 ### <span id="WebGBrowse:_GBrowse_Configuration_Management" class="mw-headline">WebGBrowse: GBrowse Configuration Management</span>
 
-- <a href="../mediawiki/images/5/55/Jan2009WebGBrowse.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Jan2009WebGBrowse.ppt"
   class="internal" title="Jan2009WebGBrowse.ppt">WebGBrowse GBrowse
   configuration management</a>, Ram Podicheti
 
@@ -1013,12 +1013,12 @@ Rob will look into this.
 <div class="floatright">
 
 <a href="File:Jan2009Ficklin.JPG" class="image"><img
-src="../mediawiki/images/d/dc/Jan2009Ficklin.JPG" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Jan2009Ficklin.JPG" width="100"
 height="121" alt="Jan2009Ficklin.JPG" /></a>
 
 </div>
 
-- <a href="../mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Jan2009MarineGenomics.pdf"
   class="internal" title="Jan2009MarineGenomics.pdf">Drupal and
   MarineGenomics.org</a>, [Stephen
   Ficklin](User%3ASficklin "User%3ASficklin")
@@ -1112,12 +1112,12 @@ use it to power their web sites.
 <div class="floatright">
 
 <a href="File:Jan2009Houston.JPG" class="image"><img
-src="../mediawiki/images/0/03/Jan2009Houston.JPG" width="89"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Jan2009Houston.JPG" width="89"
 height="106" alt="Jan2009Houston.JPG" /></a>
 
 </div>
 
-- <a href="../mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf"
   class="internal" title="Jan2009ArtemisChadoGeneDB.pdf">Artemis and Chado
   at GeneDB</a>, Robin Houston
 
@@ -1145,7 +1145,7 @@ feature hierarchy is represented using single table inheritance.
 ### <span id="Chado_and_GUS_at_SBRI" class="mw-headline">Chado and GUS at SBRI</span>
 
 - <a
-  href="../mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
   class="internal"
   title="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf">Chado and
   GUS at SBRI</a>, [Dhileep Sivam](User%3ASivam "User%3ASivam") and Isabelle
@@ -1206,12 +1206,12 @@ on this.)
 <div class="floatright">
 
 <a href="File:Jan2009Washington.JPG" class="image"><img
-src="../mediawiki/images/9/98/Jan2009Washington.JPG" width="219"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/98/Jan2009Washington.JPG" width="219"
 height="100" alt="Jan2009Washington.JPG" /></a>
 
 </div>
 
-- <a href="../mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Jan2009modENCODE.pdf" class="internal"
   title="Jan2009modENCODE.pdf">modENCODE: extending Chado, BIR-TAB, &amp;
   GBrowse for automating data validation &amp; display</a>, [Nicole
   Washington](User%3ANLWashington "User%3ANLWashington")
@@ -1259,7 +1259,7 @@ repository:
 
 ### <span id="BeeSpace" class="mw-headline">BeeSpace</span>
 
-- <a href="../mediawiki/images/d/dc/Jan2009BeeSpace.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Jan2009BeeSpace.ppt" class="internal"
   title="Jan2009BeeSpace.ppt">BeeSpace</a>, Barry Sanders, Dave Arcoleo
 
 Barry Sanders and Dave Arcoleo gave us an update on what's happened with
@@ -1303,7 +1303,7 @@ operation support to their collections.
 
 ### <span id="Metadata_Input_and_Submission_Tool_and_GIS_linked_metagenomic_database" class="mw-headline">Metadata Input and Submission Tool and GIS linked metagenomic database</span>
 
-- <a href="../mediawiki/images/c/c7/Jan2009MIST.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c7/Jan2009MIST.pdf" class="internal"
   title="Jan2009MIST.pdf">Metadata Input and Submission Tool and GIS
   linked metagenomic database</a>, Iddo Friedberg and Christopher Condit
 
@@ -1358,7 +1358,7 @@ for a specific day, down to 4km square resolution.
 
 ### <span id="Bovine_Genome_Database" class="mw-headline">Bovine Genome Database</span>
 
-<a href="../mediawiki/images/0/0b/Jan2009BovineGenomeDatabase.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Jan2009BovineGenomeDatabase.pdf"
 class="internal" title="Jan2009BovineGenomeDatabase.pdf">Bovine Genome
 Database</a>, Justin Reese and Chris Childers
 
@@ -1392,7 +1392,7 @@ Genome Database.
 
 ### <span id="GNPAnnot" class="mw-headline">GNPAnnot</span>
 
-<a href="../mediawiki/images/f/f6/Jan2009GNPAnnotChadoMVC.ppt"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Jan2009GNPAnnotChadoMVC.ppt"
 class="internal" title="Jan2009GNPAnnotChadoMVC.ppt">ChadoControler</a>,
 Pierre Larmande
 
@@ -1669,7 +1669,7 @@ future?**
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/b/b5/GMOD2009Europe170.png" width="170"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png" width="170"
 height="145" alt="GMOD Week Europe" />](GMOD_Europe_2009 "GMOD Week Europe")
 
 </div>

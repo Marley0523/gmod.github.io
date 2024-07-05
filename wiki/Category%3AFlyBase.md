@@ -157,7 +157,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:60.5px auto;">
 
   <a href="File:Fly_logo.png" class="image"><img
-  src="../mediawiki/images/thumb/e/e0/Fly_logo.png/120px-Fly_logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/120px-Fly_logo.png"
   width="120" height="29" alt="Fly logo.png" /></a>
 
   </div>
@@ -203,7 +203,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:60.5px auto;">
 
   <a href="File:FlyBaseMainPageIcon.png" class="image"><img
-  src="../mediawiki/images/thumb/3/38/FlyBaseMainPageIcon.png/120px-FlyBaseMainPageIcon.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/38/FlyBaseMainPageIcon.png/120px-FlyBaseMainPageIcon.png"
   width="120" height="29" alt="FlyBaseMainPageIcon.png" /></a>
 
   </div>

@@ -45,7 +45,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:887px;">
 
 <a href="File:Gbgff3.png" class="image"><img
-src="../mediawiki/images/7/76/Gbgff3.png" class="thumbimage" width="885"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Gbgff3.png" class="thumbimage" width="885"
 height="140" /></a>
 
 <div class="thumbcaption">
@@ -136,13 +136,13 @@ The URL format follows the same pattern as GBrowse:
   as above into the "remote URL" box on the GBrowse display
 
 <a href="File:Gff_remote_url.png" class="image"><img
-src="../mediawiki/images/d/d3/Gff_remote_url.png" width="1148"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/Gff_remote_url.png" width="1148"
 height="103" alt="Gff remote url.png" /></a>
 
 - which will yield a new track:
 
 <a href="File:Gff_remote_track" class="image"><img
-src="../mediawiki/images/f/fe/Gff_remote_track" width="781" height="139"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Gff_remote_track" width="781" height="139"
 alt="Gff remote track" /></a>
 
 </div>

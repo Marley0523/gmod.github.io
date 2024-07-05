@@ -171,7 +171,7 @@ The following 10 files are in this category, out of 10 total.
   <div style="margin:59.5px auto;">
 
   <a href="File:Biocuration2010Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/e/ee/Biocuration2010Logo.png/120px-Biocuration2010Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ee/Biocuration2010Logo.png/120px-Biocuration2010Logo.png"
   width="120" height="31" alt="Biocuration2010Logo.png" /></a>
 
   </div>
@@ -194,7 +194,7 @@ The following 10 files are in this category, out of 10 total.
   <div style="margin:44px auto;">
 
   <a href="File:GCC2011Logo.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
   width="120" height="62" alt="GCC2011Logo.png" /></a>
 
   </div>
@@ -217,7 +217,7 @@ The following 10 files are in this category, out of 10 total.
   <div style="margin:49px auto;">
 
   <a href="File:GCC2011LogoShort.png" class="image"><img
-  src="../mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
   width="120" height="52" alt="GCC2011LogoShort.png" /></a>
 
   </div>

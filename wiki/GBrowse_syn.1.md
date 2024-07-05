@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:GBrowse_syn_logo.png" class="image"><img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/600px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/4/44/GBrowse_syn_logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/600px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/GBrowse_syn_logo.png 2x"
 width="400" height="128" alt="GBrowse_syn logo" /></a>
 
 </div>
@@ -87,8 +87,8 @@ Included in
 <div class="floatnone">
 
 [<img
-src="../mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
-srcset="../mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, ../mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](Cloud.1 "Cloud")
 
 </div>
@@ -170,9 +170,9 @@ and later).
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:GBrowse_syn.png" class="image"><img
-src="../mediawiki/images/thumb/0/06/GBrowse_syn.png/500px-GBrowse_syn.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/500px-GBrowse_syn.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/0/06/GBrowse_syn.png/750px-GBrowse_syn.png 1.5x, ../mediawiki/images/thumb/0/06/GBrowse_syn.png/1000px-GBrowse_syn.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/750px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/1000px-GBrowse_syn.png 2x"
 width="500" height="160" /></a>
 
 <div class="thumbcaption">
@@ -275,13 +275,13 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School")
 
 ### <span id="Presentations" class="mw-headline">Presentations</span>
 
-- <a href="../mediawiki/images/d/d4/GBrowse_syn_EBI2009.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d4/GBrowse_syn_EBI2009.pdf"
   class="internal" title="GBrowse syn EBI2009.pdf">Challenges in
   Comparative Genome Browsing</a> - Presented by [Sheldon
   McKay](User%3AMckays "User%3AMckays") at the
   <a href="http://www.ebi.ac.uk" class="external text"
   rel="nofollow">European Bioinformatics Institute</a>, Hinxton, UK.
-- <a href="../mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf"
   class="internal" title="GBrowse synSMBE2009.pdf">Comparative Genomics
   with GBrowse_syn</a> - Presentation by [Sheldon
   McKay](User%3AMckays "User%3AMckays") at the <a
@@ -293,7 +293,7 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School")
   PAG](GBrowse_syn_PAG_2009_Workshop "GBrowse syn PAG 2009 Workshop") -
   Presentation by [Sheldon McKay](User%3AMckays "User%3AMckays") at the
   Plant and Animal Genomes meeting, San Diego, CA, USA.
-- <a href="../mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
   title="Gbrowse syn.pdf">November 2007</a> - [Sheldon
   McKay](User%3AMckays "User%3AMckays")'s presentation on GBrowse_syn at the
   [November 2007 GMOD

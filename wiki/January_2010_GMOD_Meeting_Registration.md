@@ -57,13 +57,13 @@ January 14-15, 2010<br />
 rel="nofollow">San Diego</a>, California, USA<br />
 <br />
 <a href="File:January2010MeetingPic.JPG" class="image"><img
-src="../mediawiki/images/c/c5/January2010MeetingPic.JPG" width="300"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c5/January2010MeetingPic.JPG" width="300"
 height="104" alt="January2010MeetingPic.JPG" /></a></td>
 <td><div class="center">
 <div class="floatnone">
 <a href="File:Jan2010MtgLogo300.png" class="image"><img
-src="../mediawiki/images/thumb/c/cb/Jan2010MtgLogo300.png/250px-Jan2010MtgLogo300.png"
-srcset="../mediawiki/images/c/cb/Jan2010MtgLogo300.png 1.5x, ../mediawiki/images/c/cb/Jan2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Jan2010MtgLogo300.png/250px-Jan2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 2x"
 width="250" height="238" alt="Jan2010MtgLogo300.png" /></a>
 </div>
 </div></td>
@@ -118,8 +118,8 @@ use.
 <a
 href="http://login.ncmir.ucsd.edu/Contact/Personnel/maryann_Martone.htm"
 rel="nofollow" title="Maryann Martone"><img
-src="../mediawiki/images/thumb/1/1a/Martone.jpg/140px-Martone.jpg"
-srcset="../mediawiki/images/1/1a/Martone.jpg 1.5x, ../mediawiki/images/1/1a/Martone.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1a/Martone.jpg/140px-Martone.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 2x"
 width="140" height="120" alt="Maryann Martone" /></a>
 
 </div>
@@ -162,7 +162,7 @@ and data mining tools.
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 10:00 | Introductions and the State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/2/2e/Jan2010StateOfGMOD.pdf"
+| 10:00 | Introductions and the State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/Jan2010StateOfGMOD.pdf"
 class="internal" title="Jan2010StateOfGMOD.pdf">PDF</a> |
 | 11:00 | Report from the [Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%3AClements "User%3AClements") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010HelpDesk.ppt"
@@ -173,7 +173,7 @@ class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010HelpDesk.pdf "Fi
 title="bp:GMOD 2010 Meeting">BioPerl</a> | [Jason Stajich](User%3AStajich "User%3AStajich"), [Chris Fields](User%3ACjfields "User%3ACjfields") |  |
 | 12:30 | **Lunch** (catered on site) |  |  |
 | 1:30 | GMOD tools in the frame of <a href="http://www.gnpannot.org" class="external text"
-rel="nofollow">GnpAnnot</a> projects | Michael Alaux and Joelle Amselem | <a href="../mediawiki/images/5/54/Jan2010GnpAnnotURGI.pdf"
+rel="nofollow">GnpAnnot</a> projects | Michael Alaux and Joelle Amselem | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/54/Jan2010GnpAnnotURGI.pdf"
 class="internal" title="Jan2010GnpAnnotURGI.pdf">PDF</a> |
 | 2:15 | <a href="http://www.gusdb.org/wdk" class="external text"
 rel="nofollow">StrategiesWDK</a>: intro to a powerful MOD-compatible search UI | [Steve Fischer](User%3AStevef "User%3AStevef") | <a
@@ -183,8 +183,8 @@ href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010StrategiesWDK
 class="external text" rel="nofollow">PDF</a> |
 | 2:45 | Chado on Rails (<a href="http://rubyonrails.org/" class="external text"
 rel="nofollow">Ruby on Rails</a> and <a href="Chado" class="mw-redirect" title="Chado">Chado</a>) | [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee"), [Chris Childers](User%3AChilders "User%3AChilders") | <a href="http://docs.google.com/present/view?id=dsfwg8c_757ctkzcnch"
-class="external text" rel="nofollow">Slides on Google Docs</a>, <a href="../mediawiki/images/f/fd/Jan2010RubyOnRailsAndChado.ppt"
-class="internal" title="Jan2010RubyOnRailsAndChado.ppt">PPT</a>, <a href="../mediawiki/images/8/8a/Jan2010RubyOnRailsAndChado.pdf"
+class="external text" rel="nofollow">Slides on Google Docs</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Jan2010RubyOnRailsAndChado.ppt"
+class="internal" title="Jan2010RubyOnRailsAndChado.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2010RubyOnRailsAndChado.pdf"
 class="internal" title="Jan2010RubyOnRailsAndChado.pdf">PDF</a> |
 | 3:15 | **<a href="http://www.cafepress.com/GenericMOD.313463336"
 class="external text" rel="nofollow">Coffee</a> Break** |  |  |
@@ -201,15 +201,15 @@ rel="nofollow">Flex</a> to Create User-Configurable Interfaces for GMOD Database
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 9:00 | [Textpresso](Textpresso "Textpresso") | Nathan Liles | <a href="../mediawiki/images/0/0b/Jan2010Testpresso.ppt"
-class="internal" title="Jan2010Testpresso.ppt">PPT</a>, <a href="../mediawiki/images/0/06/Jan2010Testpresso.pdf"
+| 9:00 | [Textpresso](Textpresso "Textpresso") | Nathan Liles | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Jan2010Testpresso.ppt"
+class="internal" title="Jan2010Testpresso.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/Jan2010Testpresso.pdf"
 class="internal" title="Jan2010Testpresso.pdf">PDF</a> |
 | 9:30 | [TableEdit](TableEdit.1 "TableEdit") | [Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro"), [Jim Hu](User%3AJimHu.1 "User%3AJimHu") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010TableEdit.ppt"
 class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") |
 | 10:00 | Adventures in NOSQL | Brian O'Connor, <a href="http://seqware.sf.net" class="external text"
-rel="nofollow">SeqWare</a> | <a href="../mediawiki/images/d/d3/20100114_GMOD_Dev_Meeting_v2.odp"
-class="internal" title="20100114 GMOD Dev Meeting v2.odp">ODP</a>, <a href="../mediawiki/images/c/c8/20100114_GMOD_Dev_Meeting_v2.pdf"
+rel="nofollow">SeqWare</a> | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/20100114_GMOD_Dev_Meeting_v2.odp"
+class="internal" title="20100114 GMOD Dev Meeting v2.odp">ODP</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/20100114_GMOD_Dev_Meeting_v2.pdf"
 class="internal" title="20100114 GMOD Dev Meeting v2.pdf">PDF</a> |
 | 10:30 | **<a href="http://www.cafepress.com/GenericMOD.313463336"
 class="external text" rel="nofollow">Coffee</a> break** |  |  |
@@ -223,29 +223,29 @@ href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/GMOD2.zip"
 class="external text" rel="nofollow">ZIP</a> |
 | 11:30 | NCBO Tools and Web Services | Trish Whetzel |  |
 | 12:00 | **Lunch** |  |  |
-| 1:15 | Providing a biologist-centered interface for running and customizing <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> pipelines | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") | <a href="../mediawiki/images/b/b9/Jan2010ErgatisForBiologists.ppt"
-class="internal" title="Jan2010ErgatisForBiologists.ppt">PPT</a>, <a href="../mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf"
+| 1:15 | Providing a biologist-centered interface for running and customizing <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> pipelines | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b9/Jan2010ErgatisForBiologists.ppt"
+class="internal" title="Jan2010ErgatisForBiologists.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf"
 class="internal" title="Jan2010ErgatisForBiologists.pdf">PDF</a> |
 | 1:45 | Open Mic/Show and Tell |  |  |
 |  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [PDF](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
 |  | Openings at [SGD](Category%3ASGD "Category%3ASGD") | Ben Hitz |  |
-|  | RediscoveryDB: Connecting High-Throughput Data with Testable Hypotheses | Dawei Lin | <a href="../mediawiki/images/6/63/Jan2010RediscoveryDB.pdf"
+|  | RediscoveryDB: Connecting High-Throughput Data with Testable Hypotheses | Dawei Lin | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Jan2010RediscoveryDB.pdf"
 class="internal" title="Jan2010RediscoveryDB.pdf">PDF</a> |
-|  | PhaseolusGenes : A Genomics Information Management and Marker Discovery Toolkit For A Non-Model Organism | Dawei Lin | <a href="../mediawiki/images/b/bd/Jan2010PhaseolusGenes.pdf"
+|  | PhaseolusGenes : A Genomics Information Management and Marker Discovery Toolkit For A Non-Model Organism | Dawei Lin | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/Jan2010PhaseolusGenes.pdf"
 class="internal" title="Jan2010PhaseolusGenes.pdf">PDF</a> |
-|  | [Tripal](Tripal.1 "Tripal") | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | (<a href="../mediawiki/images/2/2b/PAG2010Tripal.pdf" class="internal"
+|  | [Tripal](Tripal.1 "Tripal") | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | (<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/PAG2010Tripal.pdf" class="internal"
 title="PAG2010Tripal.pdf">PAG 2010 Talk</a>) |
-|  | Use of [GBrowse](GBrowse.1 "GBrowse") 1.999 in the Cancer Genome Project | Keiran Raine | <a href="../mediawiki/images/c/c3/Jan2010GBrowseCancerGenome.ppt"
-class="internal" title="Jan2010GBrowseCancerGenome.ppt">PPT</a>, <a href="../mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf"
+|  | Use of [GBrowse](GBrowse.1 "GBrowse") 1.999 in the Cancer Genome Project | Keiran Raine | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Jan2010GBrowseCancerGenome.ppt"
+class="internal" title="Jan2010GBrowseCancerGenome.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf"
 class="internal" title="Jan2010GBrowseCancerGenome.pdf">PDF</a> |
 |  | <a href="http://flybase.org/cgi-bin/gbrowse/dmelrnaseq/"
-class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="../mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
+class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
 title="Flybase topoview.pdf">PDF</a> |
 |  | Ceres Genome Browser | Maxim Troukhan |  |
 |  | [InterMine](InterMine "InterMine") | [Richard Smith](User%3ARsmith "User%3ARsmith") | <a href="http://www.intermine.org/wiki/GMODtalk" class="external text"
-rel="nofollow">HTML</a>, <a href="../mediawiki/images/4/4e/Jan2010InterMine.pdf" class="internal"
+rel="nofollow">HTML</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/Jan2010InterMine.pdf" class="internal"
 title="Jan2010InterMine.pdf">PDF</a>, |
-|  | A Couple of UI Prototypes | Jonathan Crabtree | <a href="../mediawiki/images/4/4d/Jan2010UIPrototypes.odp"
+|  | A Couple of UI Prototypes | Jonathan Crabtree | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4d/Jan2010UIPrototypes.odp"
 class="internal" title="Jan2010UIPrototypes.odp">OpenOffice</a>, [PDF](File:Jan2010UIPrototypes.pdf "File:Jan2010UIPrototypes.pdf") |
 |  | <a href="http://webgbrowse.cgb.indiana.edu/" class="external text"
 rel="nofollow">WebGBrowse</a> | Ram Podicheti |  |
@@ -486,8 +486,8 @@ please add it below.
 <a
 href="http://www.bestwesterncalifornia.com/hotels/best-western-seven-seas/"
 rel="nofollow" title="Best Western Seven Seas"><img
-src="../mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/160px-BestWestern7Seas.jpg"
-srcset="../mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/240px-BestWestern7Seas.jpg 1.5x, ../mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/320px-BestWestern7Seas.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/160px-BestWestern7Seas.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/240px-BestWestern7Seas.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/BestWestern7Seas.jpg/320px-BestWestern7Seas.jpg 2x"
 width="160" height="120" alt="Best Western Seven Seas" /></a>
 
 </div>

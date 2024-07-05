@@ -409,7 +409,7 @@ The following 16 files are in this category, out of 16 total.
   <div style="margin:61.5px auto;">
 
   <a href="File:SynBrowse_logo.png" class="image"><img
-  src="../mediawiki/images/thumb/a/aa/SynBrowse_logo.png/120px-SynBrowse_logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/aa/SynBrowse_logo.png/120px-SynBrowse_logo.png"
   width="120" height="27" alt="SynBrowse logo.png" /></a>
 
   </div>
@@ -456,7 +456,7 @@ The following 16 files are in this category, out of 16 total.
   <div style="margin:52px auto;">
 
   <a href="File:SynView_Icon.gif" class="image"><img
-  src="../mediawiki/images/thumb/b/b3/SynView_Icon.gif/120px-SynView_Icon.gif"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/SynView_Icon.gif/120px-SynView_Icon.gif"
   width="120" height="46" alt="SynView Icon.gif" /></a>
 
   </div>

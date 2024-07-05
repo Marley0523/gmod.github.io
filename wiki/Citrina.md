@@ -135,7 +135,7 @@ symbolic links.
 
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
-<a href="../mediawiki/images/3/3b/Citrina-userguide.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Citrina-userguide.pdf"
 class="internal" title="Citrina-userguide.pdf">Citrina-userguide.pdf</a>
 
   

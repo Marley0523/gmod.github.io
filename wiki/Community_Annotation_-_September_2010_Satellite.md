@@ -48,8 +48,8 @@ data-cellpadding="10">
 <tr class="odd">
 <td><a href="September_2010_GMOD_Meeting"
 title="September 2010 GMOD Meeting"><img
-src="../mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
-srcset="../mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, ../mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/220px-Sept2010MtgLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
 width="220" height="188" alt="September 2010 GMOD Meeting" /></a>
 <div style="font-size: 200%; line-height: 120%">
 <strong>Community Annotation <a
@@ -67,8 +67,8 @@ Cambridge, UK
 </div></td>
 <td style="text-align: center;"><a href="GMOD_Europe_2010"
 title="part of GMOD Europe 2010"><img
-src="../mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
-srcset="../mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, ../mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/200px-GMOD2010Europe300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
 width="200" height="171" alt="part of GMOD Europe 2010" /></a>
 <div style="font-size: 110%;">
 <a href="GMOD_Europe_2010" title="GMOD Europe 2010">Part of GMOD Europe

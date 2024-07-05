@@ -257,7 +257,7 @@ Examples:
   rel="nofollow">Sequence Onotology</a>)
 
 <a href="File:Structural.png" class="image"><img
-src="../mediawiki/images/c/cf/Structural.png" width="152" height="32"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/Structural.png" width="152" height="32"
 alt="Structural.png" /></a>
 
 <div class="thumb tnone">
@@ -265,9 +265,9 @@ alt="Structural.png" /></a>
 <div class="thumbinner" style="width:702px;">
 
 <a href="File:MAKER_UCSC_Genome_Browser.jpg" class="image"><img
-src="../mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/700px-MAKER_UCSC_Genome_Browser.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/700px-MAKER_UCSC_Genome_Browser.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1050px-MAKER_UCSC_Genome_Browser.jpg 1.5x, ../mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1400px-MAKER_UCSC_Genome_Browser.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1050px-MAKER_UCSC_Genome_Browser.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1400px-MAKER_UCSC_Genome_Browser.jpg 2x"
 width="700" height="173" /></a>
 
 <div class="thumbcaption">
@@ -300,9 +300,9 @@ Structural Annotations
 <div class="thumbinner" style="width:702px;">
 
 <a href="File:MAKER_GO_Screenshot.jpg" class="image"><img
-src="../mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/700px-MAKER_GO_Screenshot.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/700px-MAKER_GO_Screenshot.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/1050px-MAKER_GO_Screenshot.jpg 1.5x, ../mediawiki/images/2/25/MAKER_GO_Screenshot.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/1050px-MAKER_GO_Screenshot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/MAKER_GO_Screenshot.jpg 2x"
 width="700" height="294" /></a>
 
 <div class="thumbcaption">
@@ -344,9 +344,9 @@ Why should the average biologist care about genome annotations?
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Process.png" class="image"><img
-src="../mediawiki/images/thumb/a/a7/Process.png/560px-Process.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/560px-Process.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/a/a7/Process.png/840px-Process.png 1.5x, ../mediawiki/images/a/a7/Process.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/840px-Process.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Process.png 2x"
 width="560" height="352" /></a>
 
 <div class="thumbcaption">
@@ -404,8 +404,8 @@ components to the annotation process.
 
 <a href="File:MAKER_Nhgri_cost_per_megabase.jpg" class="image"
 title="Cost per Megabase of DNA Sequence"><img
-src="../mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/560px-MAKER_Nhgri_cost_per_megabase.jpg"
-srcset="../mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/840px-MAKER_Nhgri_cost_per_megabase.jpg 1.5x, ../mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/1120px-MAKER_Nhgri_cost_per_megabase.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/560px-MAKER_Nhgri_cost_per_megabase.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/840px-MAKER_Nhgri_cost_per_megabase.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6c/MAKER_Nhgri_cost_per_megabase.jpg/1120px-MAKER_Nhgri_cost_per_megabase.jpg 2x"
 width="560" height="420" alt="Cost per Megabase of DNA Sequence" /></a>
 
 It’s generally accepted that within the next few years it will be
@@ -443,8 +443,8 @@ next generation sequencing technologies into a usable resource.
 ## <span id="MAKER_Overview" class="mw-headline">MAKER Overview</span>
 
 <a href="File:MAKERLogo.png" class="image"><img
-src="../mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
-srcset="../mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, ../mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
 width="400" height="136" alt="MAKERLogo.png" /></a> The easy-to-use
 annotation pipeline.
 
@@ -474,7 +474,7 @@ annotation pipeline.
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
-src="../mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
 
 <div class="thumbcaption">
@@ -508,8 +508,8 @@ based on evidence alignments.
 
   
 <a href="File:Comparison.png" class="image"><img
-src="../mediawiki/images/thumb/2/23/Comparison.png/560px-Comparison.png"
-srcset="../mediawiki/images/2/23/Comparison.png 1.5x, ../mediawiki/images/2/23/Comparison.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Comparison.png/560px-Comparison.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/Comparison.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/Comparison.png 2x"
 width="560" height="347" alt="Comparison.png" /></a>
 
 gene prediction ≠ gene annotation
@@ -560,9 +560,9 @@ the prediction parameters.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:MAKER2_Table1.jpg" class="image"><img
-src="../mediawiki/images/thumb/c/c8/MAKER2_Table1.jpg/560px-MAKER2_Table1.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Table1.jpg/560px-MAKER2_Table1.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/c/c8/MAKER2_Table1.jpg 1.5x, ../mediawiki/images/c/c8/MAKER2_Table1.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/MAKER2_Table1.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/MAKER2_Table1.jpg 2x"
 width="560" height="357" /></a>
 
 <div class="thumbcaption">
@@ -595,9 +595,9 @@ gene predictors generally perform very poorly on emerging genomes.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:MAKER2_Figure1.jpg" class="image"><img
-src="../mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/560px-MAKER2_Figure1.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/560px-MAKER2_Figure1.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/840px-MAKER2_Figure1.jpg 1.5x, ../mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/1120px-MAKER2_Figure1.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/840px-MAKER2_Figure1.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/MAKER2_Figure1.jpg/1120px-MAKER2_Figure1.jpg 2x"
 width="560" height="926" /></a>
 
 <div class="thumbcaption">
@@ -1341,9 +1341,9 @@ repetitive regions of the genome.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Repeatmask.jpg" class="image"><img
-src="../mediawiki/images/thumb/a/a2/Repeatmask.jpg/560px-Repeatmask.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Repeatmask.jpg/560px-Repeatmask.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/a/a2/Repeatmask.jpg 1.5x, ../mediawiki/images/a/a2/Repeatmask.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 2x"
 width="560" height="357" /></a>
 
 <div class="thumbcaption">
@@ -1417,8 +1417,8 @@ on.
 
 <a href="File:Prediction.jpg" class="image"
 title="Generate ab initio gene predictions"><img
-src="../mediawiki/images/thumb/7/7e/Prediction.jpg/560px-Prediction.jpg"
-srcset="../mediawiki/images/7/7e/Prediction.jpg 1.5x, ../mediawiki/images/7/7e/Prediction.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/Prediction.jpg/560px-Prediction.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/Prediction.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/Prediction.jpg 2x"
 width="560" height="357"
 alt="Generate ab initio gene predictions" /></a>
 
@@ -1464,9 +1464,9 @@ alignment algorithms.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Evidence.jpg" class="image"><img
-src="../mediawiki/images/thumb/e/e1/Evidence.jpg/560px-Evidence.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/Evidence.jpg/560px-Evidence.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/e/e1/Evidence.jpg 1.5x, ../mediawiki/images/e/e1/Evidence.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 2x"
 width="560" height="354" /></a>
 
 <div class="thumbcaption">
@@ -1527,9 +1527,9 @@ est2genome and protein2genome options for Exonerate.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Polish.jpg" class="image"><img
-src="../mediawiki/images/thumb/1/12/Polish.jpg/560px-Polish.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Polish.jpg/560px-Polish.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/1/12/Polish.jpg 1.5x, ../mediawiki/images/1/12/Polish.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 2x"
 width="560" height="352" /></a>
 
 <div class="thumbcaption">
@@ -1575,9 +1575,9 @@ these "hints" to programs that will accept them.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Hint.jpg" class="image"><img
-src="../mediawiki/images/thumb/f/f4/Hint.jpg/560px-Hint.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f4/Hint.jpg/560px-Hint.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/f/f4/Hint.jpg 1.5x, ../mediawiki/images/f/f4/Hint.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 2x"
 width="560" height="355" /></a>
 
 <div class="thumbcaption">
@@ -1620,9 +1620,9 @@ using a modified sensitivity/specificity distance metric.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Select.jpg" class="image"><img
-src="../mediawiki/images/thumb/f/f6/Select.jpg/560px-Select.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f6/Select.jpg/560px-Select.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/f/f6/Select.jpg 1.5x, ../mediawiki/images/f/f6/Select.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 2x"
 width="560" height="401" /></a>
 
 <div class="thumbcaption">
@@ -1651,9 +1651,9 @@ include features such as 5' and 3' UTRs.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Revise.jpg" class="image"><img
-src="../mediawiki/images/thumb/d/d6/Revise.jpg/560px-Revise.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/Revise.jpg/560px-Revise.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/d/d6/Revise.jpg 1.5x, ../mediawiki/images/d/d6/Revise.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 2x"
 width="560" height="355" /></a>
 
 <div class="thumbcaption">
@@ -1684,9 +1684,9 @@ downstream management and curation of gene models outside of MAKER.
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:Statistics.jpg" class="image"><img
-src="../mediawiki/images/thumb/d/de/Statistics.jpg/560px-Statistics.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/de/Statistics.jpg/560px-Statistics.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/d/de/Statistics.jpg 1.5x, ../mediawiki/images/d/de/Statistics.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/Statistics.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/de/Statistics.jpg 2x"
 width="560" height="310" /></a>
 
 <div class="thumbcaption">
@@ -2249,7 +2249,7 @@ gene predictors. At the top of the page select **Example Jobs** → **D.
 melanogaster :Dpp'** and click '**Load**.
 
 <a href="File:MAKERselect_dpp.jpg" class="image"><img
-src="../mediawiki/images/5/5b/MAKERselect_dpp.jpg" width="206"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/MAKERselect_dpp.jpg" width="206"
 height="88" alt="MAKERselect dpp.jpg" /></a>
 
   
@@ -2259,8 +2259,8 @@ of the page click **Add Job to Queue**. You will now be sent to the job
 status page.
 
 <a href="File:MAKERstatus.jpg" class="image"><img
-src="../mediawiki/images/thumb/7/72/MAKERstatus.jpg/560px-MAKERstatus.jpg.png"
-srcset="../mediawiki/images/7/72/MAKERstatus.jpg 1.5x, ../mediawiki/images/7/72/MAKERstatus.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/MAKERstatus.jpg/560px-MAKERstatus.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/MAKERstatus.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/MAKERstatus.jpg 2x"
 width="560" height="134" alt="MAKERstatus.jpg" /></a>
 
   
@@ -2271,7 +2271,7 @@ any errors that occurred for your job, so ideally this window will be
 blank. Next click on the **View Results icon**.
 
 <a href="File:MAKERresults.jpg" class="image"><img
-src="../mediawiki/images/0/00/MAKERresults.jpg" width="347" height="393"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/MAKERresults.jpg" width="347" height="393"
 alt="MAKERresults.jpg" /></a>
 
 The results window will provide a brief summary of the status of each
@@ -2297,8 +2297,8 @@ genome with a single experiment. It may soon make gene predictors
 
   
 <a href="File:MRNAseq.jpg" class="image"><img
-src="../mediawiki/images/thumb/9/9f/MRNAseq.jpg/560px-MRNAseq.jpg"
-srcset="../mediawiki/images/thumb/9/9f/MRNAseq.jpg/840px-MRNAseq.jpg 1.5x, ../mediawiki/images/9/9f/MRNAseq.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/560px-MRNAseq.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/840px-MRNAseq.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/MRNAseq.jpg 2x"
 width="560" height="206" alt="MRNAseq.jpg" /></a>
 
   
@@ -2322,9 +2322,9 @@ rel="nofollow">http://derringer.genetics.utah.edu/MWAS/</a>
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:MAKER2_Figure2.jpg" class="image"><img
-src="../mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/560px-MAKER2_Figure2.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/560px-MAKER2_Figure2.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/840px-MAKER2_Figure2.jpg 1.5x, ../mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/1120px-MAKER2_Figure2.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/840px-MAKER2_Figure2.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/MAKER2_Figure2.jpg/1120px-MAKER2_Figure2.jpg 2x"
 width="560" height="484" /></a>
 
 <div class="thumbcaption">
@@ -2352,9 +2352,9 @@ Re-annotation with MAKER
 <div class="thumbinner" style="width:562px;">
 
 <a href="File:MAKER2_Figure3.jpg" class="image"><img
-src="../mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/560px-MAKER2_Figure3.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/560px-MAKER2_Figure3.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/840px-MAKER2_Figure3.jpg 1.5x, ../mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/1120px-MAKER2_Figure3.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/840px-MAKER2_Figure3.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/MAKER2_Figure3.jpg/1120px-MAKER2_Figure3.jpg 2x"
 width="560" height="432" /></a>
 
 <div class="thumbcaption">
@@ -2391,8 +2391,8 @@ Legacy annotations
 
   
 <a href="File:Legacy.png" class="image"><img
-src="../mediawiki/images/thumb/d/d1/Legacy.png/560px-Legacy.png"
-srcset="../mediawiki/images/d/d1/Legacy.png 1.5x, ../mediawiki/images/d/d1/Legacy.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Legacy.png/560px-Legacy.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 2x"
 width="560" height="274" alt="Legacy.png" /></a>
 
   
@@ -2417,8 +2417,8 @@ multiple nodes/processors for increased performance and scalability.
 
   
 <a href="File:Mpi_maker.png" class="image"><img
-src="../mediawiki/images/thumb/6/60/Mpi_maker.png/560px-Mpi_maker.png"
-srcset="../mediawiki/images/6/60/Mpi_maker.png 1.5x, ../mediawiki/images/6/60/Mpi_maker.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Mpi_maker.png/560px-Mpi_maker.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/Mpi_maker.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/Mpi_maker.png 2x"
 width="560" height="317" alt="Mpi maker.png" /></a>
 
   

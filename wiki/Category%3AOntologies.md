@@ -155,7 +155,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:41px auto;">
 
   <a href="File:FlyBaseCVTermViewer.png" class="image"><img
-  src="../mediawiki/images/thumb/d/d3/FlyBaseCVTermViewer.png/120px-FlyBaseCVTermViewer.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d3/FlyBaseCVTermViewer.png/120px-FlyBaseCVTermViewer.png"
   width="120" height="68" alt="FlyBaseCVTermViewer.png" /></a>
 
   </div>

@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.intlpag.org/2015/" rel="nofollow"
 title="Plant and Animal Genomes 2015 (PAG XXIII"><img
-src="../mediawiki/images/thumb/2/24/PAGLogo300.png/150px-PAGLogo300.png"
-srcset="../mediawiki/images/thumb/2/24/PAGLogo300.png/225px-PAGLogo300.png 1.5x, ../mediawiki/images/2/24/PAGLogo300.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/24/PAGLogo300.png/150px-PAGLogo300.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/24/PAGLogo300.png/225px-PAGLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/PAGLogo300.png 2x"
 width="150" height="150"
 alt="Plant and Animal Genomes 2015 (PAG XXIII" /></a>
 
@@ -131,7 +131,7 @@ class="external text" rel="nofollow">Slides</a> |
 class="external text" rel="nofollow">W876</a>: Tripal within the Arabidopsis Information Portal (AIP) | Vivek Krishnakumar | <a href="http://www.slideshare.net/vivekkrish/w876-tripalaraportpag2015"
 class="external text" rel="nofollow">Slides</a> |
 | 5:45 - 6:00 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper14952.html"
-class="external text" rel="nofollow">W977</a>: Tripal within the Legumes Genomics Community | Ethalinda Cannon | <a href="../mediawiki/images/0/03/CannonTripalLegumes_PAG2015.pptx"
+class="external text" rel="nofollow">W977</a>: Tripal within the Legumes Genomics Community | Ethalinda Cannon | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/CannonTripalLegumes_PAG2015.pptx"
 class="internal" title="CannonTripalLegumes PAG2015.pptx">Slides</a> |
 | 6:00 - 6:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper14949.html"
 class="external text" rel="nofollow">W878</a>: The Hardwood Genomics Database: Current Status and Future Directions after Four Years of Development | Margaret Staton | <a
@@ -147,7 +147,7 @@ January 14th will be held in the Golden West room. The schedule is:
 | Time | Topic | Presenter | Links |
 |----|----|----|----|
 | 10:30 - 10:50 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17188.html"
-class="external text" rel="nofollow">W407</a> - The Future of GMOD and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/9/97/The_future_of_GMOD_and_Chado.pdf"
+class="external text" rel="nofollow">W407</a> - The Future of GMOD and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/97/The_future_of_GMOD_and_Chado.pdf"
 class="internal" title="The future of GMOD and Chado.pdf">Slides</a> |
 | 10:50 - 11:10 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17190.html"
 class="external text" rel="nofollow">W408</a> - KnowPulse: A Breeder-Focused Web Portal That Integrates Genetics and Genomics of Pulse Crops with Model Genomes | Lacey-Anne Sanderson |  |
@@ -204,7 +204,7 @@ class="external text" rel="nofollow">Slides</a> ([BioMart](BioMart "BioMart") sl
 href="http://www.ebi.ac.uk/~emily/Workshops/2015/PAG/ensembl_full_coursebook.pdf"
 class="external text" rel="nofollow">Handouts</a> ([BioMart](BioMart "BioMart"): pages 33-39) |
 | 8:54 - 9:12 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper16060.html"
-class="external text" rel="nofollow">W611</a>: QTL Data Standards at PeanutBase and LegumeInfo | Ethalinda Cannon | Pacific Salon 3 | <a href="../mediawiki/images/4/46/CannonPhenotypeQTL_PAG2015.pptx"
+class="external text" rel="nofollow">W611</a>: QTL Data Standards at PeanutBase and LegumeInfo | Ethalinda Cannon | Pacific Salon 3 | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/CannonPhenotypeQTL_PAG2015.pptx"
 class="internal" title="CannonPhenotypeQTL PAG2015.pptx">Slides</a> |
 | 9:00 - 9:20 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Session2852.html"
 class="external text" rel="nofollow">W695</a>: Introducing Undergraduate Students to Gene and Genome Structure through Gene Annotation | Brent Buckner | Towne |  |
@@ -213,20 +213,20 @@ class="external text" rel="nofollow">W311</a>: TreeGenes: A Comprehensive Resour
 href="http://loblolly.ucdavis.edu/bipod/ftp/Presentations/PAG2015/W311_TreeGenes_2015.pdf"
 class="external text" rel="nofollow">Slides</a> |
 | 2:30- 2:50 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper16049.html"
-class="external text" rel="nofollow">W421</a>: Overview of the GnpIS Grape Genomics and Genetic Integrative Resource for Diversity Studies | Nacer Mohellibi | Pacific Salon 6-7 | <a href="../mediawiki/images/1/1b/MohellibiGrapevine_PAG2015.pdf"
+class="external text" rel="nofollow">W421</a>: Overview of the GnpIS Grape Genomics and Genetic Integrative Resource for Diversity Studies | Nacer Mohellibi | Pacific Salon 6-7 | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/MohellibiGrapevine_PAG2015.pdf"
 class="internal" title="MohellibiGrapevine PAG2015.pdf">Slides</a> |
 | <span id="Monday">**Monday January 12**</span> |  |  |  |  |
 | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper16367.html"
-class="external text" rel="nofollow">P268</a>: New Data Mining Interfaces at the Bovine Genome Database | Colin Diesh | Poster session | <a href="../mediawiki/images/0/09/BovineMine_PAG2015.pdf"
+class="external text" rel="nofollow">P268</a>: New Data Mining Interfaces at the Bovine Genome Database | Colin Diesh | Poster session | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/BovineMine_PAG2015.pdf"
 class="internal" title="BovineMine PAG2015.pdf">Poster</a> |
 | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper15302.html"
-class="external text" rel="nofollow">P346</a>: PeanutBase: A Resource for Peanut Genetic, Genomic, and Trait Information | Ethalinda Cannon | Poster session | <a href="../mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf"
+class="external text" rel="nofollow">P346</a>: PeanutBase: A Resource for Peanut Genetic, Genomic, and Trait Information | Ethalinda Cannon | Poster session | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf"
 class="internal" title="PeanutBase PAG2015 Poster.pdf">Poster</a> |
 | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17569.html"
-class="external text" rel="nofollow">P432</a>: Apollo + i5K: Collaborative Curation and Interactive Analysis of Genomes | Monica Munoz-Torres | Poster session | <a href="../mediawiki/images/f/fe/PAG2015-Web-Apollo_Munoz-Torres.pdf"
+class="external text" rel="nofollow">P432</a>: Apollo + i5K: Collaborative Curation and Interactive Analysis of Genomes | Monica Munoz-Torres | Poster session | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/PAG2015-Web-Apollo_Munoz-Torres.pdf"
 class="internal" title="PAG2015-Web-Apollo Munoz-Torres.pdf">Poster</a> |
 | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper14696.html"
-class="external text" rel="nofollow">P654</a>: Wheat3BMine, a Data Warehouse Dedicated to Wheat Chromosome 3B | Thomas Letellier | Poster session | <a href="../mediawiki/images/3/34/Wheat3bMinePoster_PAG2015.pdf"
+class="external text" rel="nofollow">P654</a>: Wheat3BMine, a Data Warehouse Dedicated to Wheat Chromosome 3B | Thomas Letellier | Poster session | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/Wheat3bMinePoster_PAG2015.pdf"
 class="internal" title="Wheat3bMinePoster PAG2015.pdf">Poster</a> |
 | 10:00 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper15952.html"
 class="external text" rel="nofollow">P778</a>: CicArVarDB: Chickpea Variation Database | Valentin Guignon | Poster session |  |
@@ -277,7 +277,7 @@ class="external text" rel="nofollow">P953</a>: CottonGen: The Community Database
 | 3:00 - 4:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper15982.html"
 class="external text" rel="nofollow">P1029</a>: The Construction of Genome Annotation Database for Liverwort | Hideki Nagasaki | Poster session |  |
 | 3:00 - 4:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper16382.html"
-class="external text" rel="nofollow">P1117</a>: An Integrated Annotation Data Warehouse at the Hymenoptera Genome Database | Aditi Tayal | Poster session | <a href="../mediawiki/images/9/9b/HymenopteraMine_PAG2015.pdf"
+class="external text" rel="nofollow">P1117</a>: An Integrated Annotation Data Warehouse at the Hymenoptera Genome Database | Aditi Tayal | Poster session | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/HymenopteraMine_PAG2015.pdf"
 class="internal" title="HymenopteraMine PAG2015.pdf">Poster</a> |
 | 3:00 - 4:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper17236.html"
 class="external text" rel="nofollow">P1119</a>: Browsing and Comparing Genomes Using the Gramene/Ensembl Plants Browser | Joshua Stein | Poster session | <a
@@ -291,7 +291,7 @@ class="external text" rel="nofollow">P839</a>: Accessing SGN Genomes through Too
 class="external text" rel="nofollow">W481</a>: Flash Demo: Annotating genomes with MAKER-P and the iPlant Discovery Environment | Sabarinath Subramaniam | California |  |
 | <span id="Tuesday">**Tuesday January 13**</span> |  |  |  |  |
 | 11:00 - 11:15 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper14431.html"
-class="external text" rel="nofollow">C17</a>: Wheat3BMine, a Data Warehouse Dedicated to Wheat Chromosome 3B | Thomas Letellier | California | <a href="../mediawiki/images/9/9f/Wheat3bMineDemo_PAG2015.pdf"
+class="external text" rel="nofollow">C17</a>: Wheat3BMine, a Data Warehouse Dedicated to Wheat Chromosome 3B | Thomas Letellier | California | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/Wheat3bMineDemo_PAG2015.pdf"
 class="internal" title="Wheat3bMineDemo PAG2015.pdf">Slides</a> |
 | 11:15 - 11:30 | <a href="https://pag.confex.com/pag/xxiii/webprogram/Paper16265.html"
 class="external text" rel="nofollow">C18</a>: Using the Wheat Tilling Database to Search Mutants of Interest | Hans Vasquez-Gross | California | <a

@@ -93,7 +93,7 @@ not all statement structures currently in use.
 ## <span id="Proposal" class="mw-headline">Proposal</span>
 
 <a href="File:Chado_phenotype_proposal.clause.jpg" class="image"><img
-src="../mediawiki/images/d/d1/Chado_phenotype_proposal.clause.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Chado_phenotype_proposal.clause.jpg"
 width="1101" height="806"
 alt="Chado phenotype proposal.clause.jpg" /></a>
 

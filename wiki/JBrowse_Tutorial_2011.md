@@ -167,8 +167,8 @@ title="JBrowse GMOD Meeting 2011.pdf">Media:JBrowse_GMOD_Meeting_2011.pdf</a>
 ## <span id="JBrowse_arch" class="mw-headline">JBrowse arch</span>
 
 <a href="File:Jbrowse_arch.png" class="image"><img
-src="../mediawiki/images/thumb/d/d0/Jbrowse_arch.png/600px-Jbrowse_arch.png"
-srcset="../mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, ../mediawiki/images/d/d0/Jbrowse_arch.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/600px-Jbrowse_arch.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/Jbrowse_arch.png 2x"
 width="600" height="776" alt="Jbrowse arch.png" /></a>
 
 ## <span id="Setting_up_JBrowse" class="mw-headline">Setting up JBrowse</span>

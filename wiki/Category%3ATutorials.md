@@ -300,7 +300,7 @@ Tutorial</a></dt>
 part of the JBrowse documentation
 </dd>
 <dt><a
-href="../mediawiki/images/4/44/Exploring_structural_variation_in_the_tomato_clade_using_JBrowse.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/Exploring_structural_variation_in_the_tomato_clade_using_JBrowse.pdf"
 class="internal"
 title="Exploring structural variation in the tomato clade using JBrowse.pdf">Exploration
 of structural variation in the tomato clade using JBrowse</a></dt>

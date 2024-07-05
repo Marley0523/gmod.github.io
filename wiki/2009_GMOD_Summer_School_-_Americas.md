@@ -49,7 +49,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:2009SummerSchoolAmericas300.png" class="image"><img
-src="../mediawiki/images/b/bf/2009SummerSchoolAmericas300.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/2009SummerSchoolAmericas300.png"
 width="300" height="242" alt="2009SummerSchoolAmericas300.png" /></a>
 </div>
 </div></td>
@@ -452,7 +452,7 @@ as homework to be done prior to the course's start.**
 |  |  |
 |----|----|
 | <a href="http://www.vmware.com" rel="nofollow" title="VMware"><img
-src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VMware" /></a> | *Participants are required to bring their own laptops, already capable of running a <a
 href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
 class="new" title="VMware (page does not exist)">VMware</a> system image.* |
@@ -468,7 +468,7 @@ VMware on Windows and Linux
 <div class="floatleft">
 
 <a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
 </div>
@@ -476,7 +476,7 @@ height="48" alt="Windoze" /></a>
 <div class="floatleft">
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
 </div>
@@ -498,7 +498,7 @@ Intel processor is a requirement for all the packages discussed below.
 <div class="floatleft">
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
 </div>
@@ -514,7 +514,7 @@ VMware Fusion
 <div class="floatleft">
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"><img
-src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="48"
 height="48" alt="VMWareFusionsLogo.jpg" /></a>
 
 </div>
@@ -533,7 +533,7 @@ Mac OS 10.5 (Leopard) and Boot Camp
 
 <a href="http://www.apple.com/macosx/features/bootcamp.html"
 rel="nofollow" title="Boot Camp"><img
-src="../mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="48"
 height="60" alt="Boot Camp" /></a>
 
 </div>

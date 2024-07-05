@@ -131,9 +131,9 @@ modern browser that has JavaScript enabled.
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_01_Select.png" class="image"><img
-src="../mediawiki/images/thumb/f/f7/SOBA_Web_01_Select.png/800px-SOBA_Web_01_Select.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/SOBA_Web_01_Select.png/800px-SOBA_Web_01_Select.png"
 class="thumbimage"
-srcset="../mediawiki/images/f/f7/SOBA_Web_01_Select.png 1.5x, ../mediawiki/images/f/f7/SOBA_Web_01_Select.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 2x"
 width="800" height="537" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -161,9 +161,9 @@ height="11" /></a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_02_Counts.png" class="image"><img
-src="../mediawiki/images/thumb/6/67/SOBA_Web_02_Counts.png/800px-SOBA_Web_02_Counts.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/SOBA_Web_02_Counts.png/800px-SOBA_Web_02_Counts.png"
 class="thumbimage"
-srcset="../mediawiki/images/6/67/SOBA_Web_02_Counts.png 1.5x, ../mediawiki/images/6/67/SOBA_Web_02_Counts.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 2x"
 width="800" height="579" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -191,9 +191,9 @@ height="11" /></a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_03_Lengths.png" class="image"><img
-src="../mediawiki/images/thumb/3/3f/SOBA_Web_03_Lengths.png/800px-SOBA_Web_03_Lengths.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3f/SOBA_Web_03_Lengths.png/800px-SOBA_Web_03_Lengths.png"
 class="thumbimage"
-srcset="../mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 1.5x, ../mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 2x"
 width="800" height="347" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -221,9 +221,9 @@ height="11" /></a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_04_Distribution.png" class="image"><img
-src="../mediawiki/images/thumb/5/52/SOBA_Web_04_Distribution.png/800px-SOBA_Web_04_Distribution.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/52/SOBA_Web_04_Distribution.png/800px-SOBA_Web_04_Distribution.png"
 class="thumbimage"
-srcset="../mediawiki/images/5/52/SOBA_Web_04_Distribution.png 1.5x, ../mediawiki/images/5/52/SOBA_Web_04_Distribution.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 2x"
 width="800" height="331" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -251,9 +251,9 @@ height="11" /></a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_05_CDS_Distribution.png" class="image"><img
-src="../mediawiki/images/thumb/2/23/SOBA_Web_05_CDS_Distribution.png/800px-SOBA_Web_05_CDS_Distribution.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/SOBA_Web_05_CDS_Distribution.png/800px-SOBA_Web_05_CDS_Distribution.png"
 class="thumbimage"
-srcset="../mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 1.5x, ../mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 2x"
 width="800" height="417" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -281,9 +281,9 @@ height="11" /></a>
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:802px;">
 <a href="File:SOBA_Web_06_Ontology.png" class="image"><img
-src="../mediawiki/images/thumb/3/33/SOBA_Web_06_Ontology.png/800px-SOBA_Web_06_Ontology.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/SOBA_Web_06_Ontology.png/800px-SOBA_Web_06_Ontology.png"
 class="thumbimage"
-srcset="../mediawiki/images/3/33/SOBA_Web_06_Ontology.png 1.5x, ../mediawiki/images/3/33/SOBA_Web_06_Ontology.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 2x"
 width="800" height="471" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -592,9 +592,9 @@ firefox SOBAcl_graphic_chr*.png
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:302px;">
 <a href="File:SOBAcl_graphic_chr1.png" class="image"><img
-src="../mediawiki/images/thumb/8/81/SOBAcl_graphic_chr1.png/300px-SOBAcl_graphic_chr1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/81/SOBAcl_graphic_chr1.png/300px-SOBAcl_graphic_chr1.png"
 class="thumbimage"
-srcset="../mediawiki/images/8/81/SOBAcl_graphic_chr1.png 1.5x, ../mediawiki/images/8/81/SOBAcl_graphic_chr1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 2x"
 width="300" height="225" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -610,9 +610,9 @@ height="11" /></a>
 <div class="thumb tright">
 <div class="thumbinner" style="width:302px;">
 <a href="File:SOBAcl_graphic_chr2.png" class="image"><img
-src="../mediawiki/images/thumb/7/71/SOBAcl_graphic_chr2.png/300px-SOBAcl_graphic_chr2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/SOBAcl_graphic_chr2.png/300px-SOBAcl_graphic_chr2.png"
 class="thumbimage"
-srcset="../mediawiki/images/7/71/SOBAcl_graphic_chr2.png 1.5x, ../mediawiki/images/7/71/SOBAcl_graphic_chr2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 2x"
 width="300" height="225" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -628,9 +628,9 @@ height="11" /></a>
 <div class="thumb tright">
 <div class="thumbinner" style="width:302px;">
 <a href="File:SOBAcl_graphic_chr3.png" class="image"><img
-src="../mediawiki/images/thumb/b/b8/SOBAcl_graphic_chr3.png/300px-SOBAcl_graphic_chr3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/SOBAcl_graphic_chr3.png/300px-SOBAcl_graphic_chr3.png"
 class="thumbimage"
-srcset="../mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 1.5x, ../mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 2x"
 width="300" height="225" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -670,7 +670,7 @@ firefox SOBAcl_graphic.png
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:402px;">
 <a href="File:SOBAcl_graphic_exon.png" class="image"><img
-src="../mediawiki/images/c/c0/SOBAcl_graphic_exon.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c0/SOBAcl_graphic_exon.png"
 class="thumbimage" width="400" height="300" /></a>
 <div class="thumbcaption">
 <div class="magnify">
@@ -705,7 +705,7 @@ SOBAcl --x_data type --series seqid --data length --data_type mean --layout bars
 <td><div class="thumb tright">
 <div class="thumbinner" style="width:402px;">
 <a href="File:SOBAcl_graphic.png" class="image"><img
-src="../mediawiki/images/e/ea/SOBAcl_graphic.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/SOBAcl_graphic.png" class="thumbimage"
 width="400" height="300" /></a>
 <div class="thumbcaption">
 <div class="magnify">

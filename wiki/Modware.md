@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://gmod-ware.sourceforge.net/" rel="nofollow"
 title="Modware"><img
-src="../mediawiki/images/thumb/e/e3/ModwareLogo.png/300px-ModwareLogo.png"
-srcset="../mediawiki/images/e/e3/ModwareLogo.png 1.5x, ../mediawiki/images/e/e3/ModwareLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/ModwareLogo.png/300px-ModwareLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/ModwareLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/ModwareLogo.png 2x"
 width="300" height="158" alt="Modware" /></a>
 
 </div>

@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:March2011GMODMeetingLogo.png" class="image"
 title="March 2011 GMOD Community Meeting"><img
-src="../mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/600px-March2011GMODMeetingLogo.png"
-srcset="../mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/900px-March2011GMODMeetingLogo.png 1.5x, ../mediawiki/images/b/b7/March2011GMODMeetingLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/600px-March2011GMODMeetingLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/900px-March2011GMODMeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/March2011GMODMeetingLogo.png 2x"
 width="600" height="238" alt="March 2011 GMOD Community Meeting" /></a>
 
 </div>
@@ -54,8 +54,8 @@ width="600" height="238" alt="March 2011 GMOD Community Meeting" /></a>
 
   
 <a href="File:March2011GMODMeeting.jpg" class="image"><img
-src="../mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/300px-March2011GMODMeeting.jpg"
-srcset="../mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/450px-March2011GMODMeeting.jpg 1.5x, ../mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/600px-March2011GMODMeeting.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/300px-March2011GMODMeeting.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/450px-March2011GMODMeeting.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/600px-March2011GMODMeeting.jpg 2x"
 width="300" height="153" alt="March2011GMODMeeting.jpg" /></a>
 
   
@@ -303,7 +303,7 @@ title="Galaxy">Galaxy</a></strong></p>
 <div class="emphasisbox">
 
 <a href="http://www4.ncsu.edu/~eastone2/" rel="nofollow"
-title="Eric Stone"><img src="../mediawiki/images/4/45/EricStone.jpg"
+title="Eric Stone"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/EricStone.jpg"
 width="140" height="140" alt="Eric Stone" /></a>
 
 <div style="font-size: 150%; padding-bottom: 0.3em">
@@ -364,16 +364,16 @@ clearer picture of the project in advance of the meeting.
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
 | 9:15 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
-| 9:35 | Welcome to NESCent, & opportunities at the center | [Todd Vision](User%3ATjvision "User%3ATjvision") | <a href="../mediawiki/images/c/c8/Tjv.gmod11.pdf" class="internal"
+| 9:35 | Welcome to NESCent, & opportunities at the center | [Todd Vision](User%3ATjvision "User%3ATjvision") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Tjv.gmod11.pdf" class="internal"
 title="Tjv.gmod11.pdf">slides</a> |
-| 9:50 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/a/a5/State_of_gmod.ppt" class="internal"
+| 9:50 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/State_of_gmod.ppt" class="internal"
 title="State of gmod.ppt">PPT</a> |
 | 10:35 | Coffee |  |  |
-| 10:50 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/6/69/March2011GMODHelpDesk.ppt"
+| 10:50 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User%3AClements "User%3AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/March2011GMODHelpDesk.ppt"
 class="internal" title="March2011GMODHelpDesk.ppt">PPT</a> |
 | 11:55 | Lunch |  |  |
 | 1:15 | *Drosophila* Genetic Reference Panel (DGRP) | Eric Stone |  |
-| 2:00 | GSA and GMOD | Elizabeth Ruedi | <a href="../mediawiki/images/f/fd/March2011GSAandGMOD.pptx"
+| 2:00 | GSA and GMOD | Elizabeth Ruedi | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/March2011GSAandGMOD.pptx"
 class="internal" title="March2011GSAandGMOD.pptx">PPT</a> |
 | 2:30 | Coffee |  |  |
 | 3:00 | Mashing up InterMine: An introduction to the new InterMine webservice features | [Alex Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis") | Slides? |
@@ -393,24 +393,24 @@ please see the [confirmed speakers list](#Confirmed_Speakers).
 href="http://jbrowse.org/info/GMOD_Mar_2011/JBrowse_GMOD_Meeting_2011.pdf"
 class="external text" rel="nofollow">Slides</a> |
 | 10:00 | [Tripal](Tripal.1 "Tripal") Project Update | Lacey Sanderson | <a
-href="../mediawiki/images/e/ef/LaceySanderson_Tripal_GMODAmericas2011.pptx"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/LaceySanderson_Tripal_GMODAmericas2011.pptx"
 class="internal"
 title="LaceySanderson Tripal GMODAmericas2011.pptx">Slides</a> |
 | 10:45 | Break |  |  |
 | 11:10 | [Galaxy](Galaxy.1 "Galaxy") for high-throughput sequence data analysis | [Dave Clements](User%3AClements "User%3AClements") |  |
 | 12:00 | Lunch |  |  |
 | 1:00 | Implementation of RNA-Seq data in <a href="Chado" class="mw-redirect" title="Chado">Chado</a> at FlyBase | Dave Emmert | <a
-href="../mediawiki/images/5/52/DaveEmmert_RNAseq_Tripal_GMODAmericas2011.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/DaveEmmert_RNAseq_Tripal_GMODAmericas2011.pdf"
 class="internal"
 title="DaveEmmert RNAseq Tripal GMODAmericas2011.pdf">Slides</a> |
 | 2:00 | Lightning talks: |  |  |
 |  | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  |
 |  | [ISGA](ISGA "ISGA") | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  |
 |  | Coffee break |  |  |
-|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") | Siddhartha Basu | <a href="../mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
+|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") | Siddhartha Basu | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
 title="March2011Modware.ppt">PPT</a>, <a href="http://slidesha.re/i3WYZ1" class="external text"
 rel="nofollow">Slideshare</a> |
-|  | Developing genome sequencing for identification, detection, and control of *Bactrocera dorsalis (Hendel)* and other Tephritid pests | Tom Walk | <a href="../mediawiki/images/4/44/March20111TomWalk.pptx"
+|  | Developing genome sequencing for identification, detection, and control of *Bactrocera dorsalis (Hendel)* and other Tephritid pests | Tom Walk | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/March20111TomWalk.pptx"
 class="internal" title="March20111TomWalk.pptx">PPT</a> |
 |  | <a href="http://cas-bioinfo.cas.unt.edu/gsv" class="external text"
 rel="nofollow">Genome Synteny Viewer</a> | Kashi Ravenna | [PPT](March2011GenomeSyntenyViewer.pptx "March2011GenomeSyntenyViewer.pptx") |
@@ -488,7 +488,7 @@ future. GMOD provides excellent options for helping these groups get a
 grip on and exploit their data.</p></td>
 <td><a href="File:GMODAmericas2011Flier.pdf"
 title="GMOD Americas 2011 Flier"><img
-src="../mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170" alt="GMOD Americas 2011 Flier" /></a></td>
 </tr>
 </tbody>

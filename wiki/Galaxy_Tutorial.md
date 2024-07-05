@@ -153,7 +153,7 @@ instance</a>.
 
 ## <span id="Galaxy_Project" class="mw-headline">Galaxy Project</span>
 
-<a href="../mediawiki/images/6/6f/GMOD2013GalaxyIntro.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/GMOD2013GalaxyIntro.pdf"
 class="internal" title="GMOD2013GalaxyIntro.pdf">Slides</a>
 
 ### <span id="Some_General_Galaxy_Resources" class="mw-headline">Some General Galaxy Resources</span>
@@ -488,8 +488,8 @@ Start a web browser and access
 http://ec2-##-##-##-##.compute-1.amazonaws.com:8081.
 
 <a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
-src="../mediawiki/images/thumb/5/5a/Galaxy_FirstAnalysis_1.png/900px-Galaxy_FirstAnalysis_1.png"
-srcset="../mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 1.5x, ../mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Galaxy_FirstAnalysis_1.png/900px-Galaxy_FirstAnalysis_1.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 2x"
 width="900" height="678" alt="Galaxy FirstAnalysis 1.png" /></a>
 
 #### <span id="2._Create_a_user" class="mw-headline">2. Create a user</span>
@@ -524,7 +524,7 @@ What we now want to know is: which exons/genes have the most overlapping
 
 </div>
 
-<a href="../mediawiki/images/6/61/GMOD2013Galaxy101.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/GMOD2013Galaxy101.pdf"
 class="internal" title="GMOD2013Galaxy101.pdf">Slides</a>
 
 #### <span id="4._Get_the_data_into_Galaxy" class="mw-headline">4. Get the data into Galaxy</span>
@@ -803,7 +803,7 @@ Success.
 Go to <a href="http://usegalaxy.org/cloudlaunch" class="external text"
 rel="nofollow">CloudLaunch</a>
 
-<a href="../mediawiki/images/2/2b/GMOD2013GalaxyCloud.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/GMOD2013GalaxyCloud.pdf"
 class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 </div>

@@ -54,8 +54,8 @@ end for <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
 <div class="floatleft">
 
 [<img
-src="../mediawiki/images/thumb/5/5c/TripalLogo.jpg/150px-TripalLogo.jpg"
-srcset="../mediawiki/images/thumb/5/5c/TripalLogo.jpg/225px-TripalLogo.jpg 1.5x, ../mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/150px-TripalLogo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/225px-TripalLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/300px-TripalLogo.jpg 2x"
 width="150" height="45" alt="Tripal" />](Tripal.1 "Tripal")
 
 </div>

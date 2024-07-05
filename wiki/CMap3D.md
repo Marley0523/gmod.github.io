@@ -43,9 +43,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:CMap3DScreenshot.png" class="image"><img
-src="../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/300px-CMap3DScreenshot.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/300px-CMap3DScreenshot.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/450px-CMap3DScreenshot.png 1.5x, ../mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/600px-CMap3DScreenshot.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/450px-CMap3DScreenshot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/600px-CMap3DScreenshot.png 2x"
 width="300" height="187" /></a>
 
 <div class="thumbcaption">

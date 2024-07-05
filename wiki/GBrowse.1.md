@@ -46,8 +46,8 @@ lang="en" dir="ltr">
 <div class="floatnone">
 
 <a href="/wiki/File:GBrowseLogo.png" class="image"><img
-src="/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
-srcset="/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5x, /mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
 width="400" height="94" alt="GBrowse loghttp://gmod.org/wiki/o" /></a>
 
 </div>
@@ -75,8 +75,8 @@ Licence
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="/mediawiki/images/thttp://gmod.org/wiki/humb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, /mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thttp://gmod.org/wiki/humb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39"
 alt=" is open source" /></a>
 
@@ -225,9 +225,9 @@ rel="nofollow">GBrowse website</a>.
 
 <a href="/wiki/File:GBrowse_scrhttp://gmod.org/wiki/eenshot1.png"
 class="image"><img
-src="/mediawiki/images/thumb/1/10/GBrowse_screenshttp://gmod.org/wiki/hot1.png/500px-GBrowse_screenshot1.png"
+srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshttp://gmod.org/wiki/hot1.png/500px-GBrowse_screenshot1.png"
 class="thumbimage"
-srcset="/mediawiki/images/thumbhttp://gmod.org/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, /mediawiki/imhttp://gmod.org/wiki/ages/1/10/GBrowse_screenshot1.png 2x"
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumbhttp://gmod.org/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, /mediawiki/imhttp://gmod.org/wiki/ages/1/10/GBrowse_screenshot1.png 2x"
 width="500" height="345" /></a>
 
 <div class="thumbcaption">
@@ -244,7 +244,7 @@ data-gmod.org="" data-wiki="" data-th="15" height="11" /></a>
 GBrowse running on
 <a href="http://hapmap.ncbi.nlm.nih.gov/downloads/index.html"
 class="external text" rel="nofollow">HapMap.org</a>
-<a href="/mediawiki/images/1/10/GBrowse_screenshot1.png"
+<a hrefhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png"
 class="internal" title="GBrowse screenshot1.png">Click to view at
 fuhttp://gmod.org/wiki/ll resolution</a>
 
@@ -503,7 +503,7 @@ CPAN:http://gmod.org/wiki/
   organism system database.
   <sup>[\[8\]](#cite_note-PMID:12368253-8)</sup> <span class="internal"
   hrhttp:="" gmod.org="" wiki=""
-  ef="/mediawiki/images/e/e7/1599-1.pdf">PDF</span>
+  efhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/1599-1.pdf">PDF</span>
 
 ### <span id="Tutorials" class="mw-headline">Tutorials</span>
 

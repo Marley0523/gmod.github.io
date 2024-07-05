@@ -97,9 +97,9 @@ standards are illustrated separately below.
 
 <a href="File:Genome_comparison_orthologous_region.jpg"
 class="image"><img
-src="../mediawiki/images/thumb/7/72/Genome_comparison_orthologous_region.jpg/350px-Genome_comparison_orthologous_region.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Genome_comparison_orthologous_region.jpg/350px-Genome_comparison_orthologous_region.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 1.5x, ../mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 2x"
 width="350" height="263" /></a>
 
 <div class="thumbcaption">
@@ -147,9 +147,9 @@ illustrated in Figure 1 below.
 
 <a href="File:Genome_comparison_orthology_relationship.jpg"
 class="image"><img
-src="../mediawiki/images/thumb/0/02/Genome_comparison_orthology_relationship.jpg/350px-Genome_comparison_orthology_relationship.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Genome_comparison_orthology_relationship.jpg/350px-Genome_comparison_orthology_relationship.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 1.5x, ../mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 2x"
 width="350" height="262" /></a>
 
 <div class="thumbcaption">
@@ -224,9 +224,9 @@ schematically shown in Figure 3.
 <div class="thumbinner" style="width:352px;">
 
 <a href="File:Genome_comparison_syntenic_region.jpg" class="image"><img
-src="../mediawiki/images/thumb/f/f0/Genome_comparison_syntenic_region.jpg/350px-Genome_comparison_syntenic_region.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Genome_comparison_syntenic_region.jpg/350px-Genome_comparison_syntenic_region.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 1.5x, ../mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 2x"
 width="350" height="250" /></a>
 
 <div class="thumbcaption">

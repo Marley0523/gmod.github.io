@@ -110,7 +110,7 @@ the GMOD FTP site and are available for download.
 <div class="floatright">
 
 <a href="http://www.vmware.com" rel="nofollow"><img
-src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VmwareLogoSmall.jpg" /></a>
 
 </div>
@@ -536,7 +536,7 @@ which will give you output like this:
 <div class="floatnone">
 
 <a href="File:Ifconfig.png" class="image"><img
-src="../mediawiki/images/1/16/Ifconfig.png" width="666" height="461"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Ifconfig.png" width="666" height="461"
 alt="Ifconfig.png" /></a>
 
 </div>

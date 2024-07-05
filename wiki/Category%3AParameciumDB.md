@@ -150,7 +150,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:30px auto;">
 
   <a href="File:ParameciumDataModel.jpg" class="image"><img
-  src="../mediawiki/images/thumb/f/fc/ParameciumDataModel.jpg/120px-ParameciumDataModel.jpg"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/ParameciumDataModel.jpg/120px-ParameciumDataModel.jpg"
   width="120" height="90" alt="ParameciumDataModel.jpg" /></a>
 
   </div>
@@ -197,7 +197,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:49px auto;">
 
   <a href="File:ParameciumDBHomePage.png" class="image"><img
-  src="../mediawiki/images/thumb/e/e1/ParameciumDBHomePage.png/120px-ParameciumDBHomePage.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/ParameciumDBHomePage.png/120px-ParameciumDBHomePage.png"
   width="120" height="52" alt="ParameciumDBHomePage.png" /></a>
 
   </div>
@@ -220,7 +220,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:56px auto;">
 
   <a href="File:ParameciumDBIcon133x42.png" class="image"><img
-  src="../mediawiki/images/thumb/2/24/ParameciumDBIcon133x42.png/120px-ParameciumDBIcon133x42.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/24/ParameciumDBIcon133x42.png/120px-ParameciumDBIcon133x42.png"
   width="120" height="38" alt="ParameciumDBIcon133x42.png" /></a>
 
   </div>
@@ -243,7 +243,7 @@ The following 8 files are in this category, out of 8 total.
   <div style="margin:56px auto;">
 
   <a href="File:ParameciumDBLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/6/60/ParameciumDBLogo.png/120px-ParameciumDBLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/ParameciumDBLogo.png/120px-ParameciumDBLogo.png"
   width="120" height="38" alt="ParameciumDBLogo.png" /></a>
 
   </div>

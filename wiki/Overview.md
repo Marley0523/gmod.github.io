@@ -276,7 +276,7 @@ any kind.
 </tr>
 <tr class="even">
 <td><a href="File:Mini-arch-diagram.png" class="image"><img
-src="../mediawiki/images/5/5c/Mini-arch-diagram.png" width="97"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Mini-arch-diagram.png" width="97"
 height="237" alt="Mini-arch-diagram.png" /></a></td>
 <td>Most GMOD installations have a general architecture in common. There
 is a data source: the <a href="Glossary#Database"
@@ -333,7 +333,7 @@ called *glyphs*, plus text.
 
   
 <a href="File:Gbrowse-glyphs.png" class="image"><img
-src="../mediawiki/images/f/f7/Gbrowse-glyphs.png" width="946"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/Gbrowse-glyphs.png" width="946"
 height="761" alt="Gbrowse-glyphs.png" /></a>
 
   
@@ -377,8 +377,8 @@ minimal requirements for the server. JBrowse's features include:
 
 <a href="File:JBrowse_alignment_and_coverage.png" class="image"
 title="JBrowse alignment and coverage"><img
-src="../mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
-srcset="../mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, ../mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage" /></a>
 
 </div>
@@ -407,7 +407,7 @@ a *protein* table with *protein.name*, *protein.proteinid* and
 
   
 <a href="File:Table-example.png" class="image"><img
-src="../mediawiki/images/4/43/Table-example.png" width="441"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/Table-example.png" width="441"
 height="129" alt="Table-example.png" /></a>
 
   

@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/a/a4/Biomart250.png/170px-Biomart250.png"
-srcset="../mediawiki/images/a/a4/Biomart250.png 1.5x, ../mediawiki/images/a/a4/Biomart250.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/170px-Biomart250.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png 2x"
 width="170" height="67" alt="BioMart" />](BioMart "BioMart")
 
 </div>
@@ -54,7 +54,7 @@ width="170" height="67" alt="BioMart" />](BioMart "BioMart")
 <div class="floatright">
 
 <a href="http://oicr.on.ca" rel="nofollow" title="OICR"><img
-src="../mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/OICRlogo.png" width="158" height="53"
 alt="OICR" /></a>
 
 </div>

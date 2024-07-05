@@ -2326,9 +2326,9 @@ Let's test out our installation. Point your browser to
 
 <a href="File:Web_apollo_login_page_with_credentials_doc.jpg"
 class="image" title="WebApollo login page"><img
-src="../mediawiki/images/thumb/3/3a/Web_apollo_login_page_with_credentials_doc.jpg/220px-Web_apollo_login_page_with_credentials_doc.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/Web_apollo_login_page_with_credentials_doc.jpg/220px-Web_apollo_login_page_with_credentials_doc.jpg"
 class="thumbborder"
-srcset="../mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 1.5x, ../mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 2x"
 width="220" height="115" alt="WebApollo login page" /></a>
 
 </div>
@@ -2344,9 +2344,9 @@ earlier. Enter them into the login dialog.
 
 <a href="File:Web_apollo_select_refseq_doc.jpg" class="image"
 title="WebApollo reference sequence selection"><img
-src="../mediawiki/images/thumb/b/b2/Web_apollo_select_refseq_doc.jpg/800px-Web_apollo_select_refseq_doc.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/Web_apollo_select_refseq_doc.jpg/800px-Web_apollo_select_refseq_doc.jpg"
 class="thumbborder"
-srcset="../mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 1.5x, ../mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 2x"
 width="800" height="55"
 alt="WebApollo reference sequence selection" /></a>
 

@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:WorkInProgressTools.gif" class="image"
 title="Under Construction"><img
-src="../mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
 height="48" alt="Under Construction" /></a>
 
 </div>
@@ -88,7 +88,7 @@ PostgreSQL comments before the next Chado release.
 # <span id="Introduction" class="mw-headline">Introduction</span>
 
 Chris Mungall's 2006
-<a href="../mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
 class="internal" title="02-chado-for-nescent-2006.pdf">Chado for
 evolutionary science</a> presentation discusses the Phenotype module.
 

@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="http://www.sanger.ac.uk/Software/Artemis/" rel="nofollow"
-title="Artemis"><img src="../mediawiki/images/c/c3/Artemis_logo.gif"
+title="Artemis"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Artemis_logo.gif"
 width="154" height="98" alt="Artemis" /></a>
 
 </div>

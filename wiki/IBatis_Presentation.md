@@ -40,7 +40,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 Jeff Bowes, Xenbase, University of Calgary. This Wiki section is an
 edited version of
-<a href="../mediawiki/images/2/2e/IBatis.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/IBatis.pdf" class="internal"
 title="IBatis.pdf">Jeff's presentation</a>.
 
 <div id="toc" class="toc">

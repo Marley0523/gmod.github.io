@@ -68,32 +68,32 @@ National Laboratory on September 15th and 16th. Below are the
 presentations given by the groups represented, and below that is the
 text of progress reports they submitted.
 
-- <a href="../mediawiki/images/7/71/Chado_pub.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Chado_pub.ppt" class="internal"
   title="Chado pub.ppt">Chado_pub.ppt</a>
-- <a href="../mediawiki/images/b/be/Cmap_update_sept_03.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Cmap_update_sept_03.ppt"
   class="internal"
   title="Cmap update sept 03.ppt">Cmap_update_sept_03.ppt</a>
-- <a href="../mediawiki/images/e/ed/Apollo.GMOD.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Apollo.GMOD.ppt" class="internal"
   title="Apollo.GMOD.ppt">Apollo.GMOD.ppt</a>
-- <a href="../mediawiki/images/e/e3/Argos_Lucegene_GDS.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/Argos_Lucegene_GDS.ppt"
   class="internal"
   title="Argos Lucegene GDS.ppt">Argos_Lucegene_GDS.ppt</a>
-- <a href="../mediawiki/images/e/e6/Gbrowse_update_sept_12_2003.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Gbrowse_update_sept_12_2003.ppt"
   class="internal"
   title="Gbrowse update sept 12 2003.ppt">Gbrowse_update_sept_12_2003.ppt</a>
-- <a href="../mediawiki/images/f/f3/Mgi.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/Mgi.ppt" class="internal"
   title="Mgi.ppt">Mgi.ppt</a>
-- <a href="../mediawiki/images/6/63/Pathways.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Pathways.ppt" class="internal"
   title="Pathways.ppt">Pathways.ppt</a>
-- <a href="../mediawiki/images/f/f8/PubFetch_Vijay.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/PubFetch_Vijay.ppt" class="internal"
   title="PubFetch Vijay.ppt">PubFetch_Vijay.ppt</a>
-- <a href="../mediawiki/images/0/0e/PubSearch_09062003.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/PubSearch_09062003.ppt"
   class="internal"
   title="PubSearch 09062003.ppt">PubSearch_09062003.ppt</a>
-- <a href="../mediawiki/images/b/b7/Textpresso_GMOD_0903.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/Textpresso_GMOD_0903.ppt"
   class="internal"
   title="Textpresso GMOD 0903.ppt">Textpresso_GMOD_0903.ppt</a>
-- <a href="../mediawiki/images/e/e8/Turnkey_sept_2003.ppt"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/Turnkey_sept_2003.ppt"
   class="internal" title="Turnkey sept 2003.ppt">Turnkey_sept_2003.ppt</a>
 
   

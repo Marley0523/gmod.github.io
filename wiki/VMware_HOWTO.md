@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="http://vmware.com" rel="nofollow" title="VMware"><img
-src="../mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
 height="26" alt="VMware" /></a>
 
 </div>
@@ -93,7 +93,7 @@ VMware on Windows and Linux
 <div class="floatright">
 
 <a href="http://www.microsoft.com/" rel="nofollow" title="Windoze"><img
-src="../mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
 
 </div>
@@ -101,7 +101,7 @@ height="48" alt="Windoze" /></a>
 <div class="floatright">
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
-src="../mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
 
 </div>
@@ -122,7 +122,7 @@ VMware on Mac OS X
 <div class="floatright">
 
 <a href="http://www.apple.com/macosx/" rel="nofollow" title="Apple"><img
-src="../mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="48" height="48"
 alt="Apple" /></a>
 
 </div>
@@ -140,7 +140,7 @@ VMware Fusion
 <div class="floatright">
 
 <a href="http://www.vmware.com/products/fusion/" rel="nofollow"
-title="Fusion"><img src="../mediawiki/images/0/02/VMWareFusionsLogo.jpg"
+title="Fusion"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg"
 width="48" height="48" alt="Fusion" /></a>
 
 </div>
@@ -162,7 +162,7 @@ VirtualBox
 <div class="floatright">
 
 <a href="File:VirtualBox-logo.png" class="image" title="VirtualBox"><img
-src="../mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
 height="48" alt="VirtualBox" /></a>
 
 </div>
@@ -224,7 +224,7 @@ address. To get it, at the command prompt, type:
 which will give you output like this:
 
 <a href="File:Ifconfig_output.jpg" class="image"><img
-src="../mediawiki/images/9/96/Ifconfig_output.jpg" width="720"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/96/Ifconfig_output.jpg" width="720"
 height="500" alt="Ifconfig output.jpg" /></a>
 
 See that "inet addr:172.16.244.128"? Those four numbers are the IP

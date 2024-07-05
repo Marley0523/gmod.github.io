@@ -51,7 +51,7 @@ is used for benchmarking page loading and image generation.
 <div class="floatnone">
 
 <a href="File:BenchMark.png" class="image"><img
-src="../mediawiki/images/7/7a/BenchMark.png" width="946" height="503"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/BenchMark.png" width="946" height="503"
 alt="BenchMark.png" /></a>
 
 </div>

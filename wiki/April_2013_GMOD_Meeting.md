@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:Gmod-2013-mtg-alt.png" class="image"><img
-src="../mediawiki/images/0/0b/Gmod-2013-mtg-alt.png" width="240"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Gmod-2013-mtg-alt.png" width="240"
 height="240" alt="Gmod-2013-mtg-alt.png" /></a>
 
 </div>
@@ -112,7 +112,7 @@ rel="nofollow">Manuel Corpas</a>)
 **Community Building and Maintenance** ([Dave
 Clements](User%3AClements "User%3AClements"))
 
-- <a href="../mediawiki/images/b/b8/GMOD2013_CommunityBuilding.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/GMOD2013_CommunityBuilding.pdf"
   class="internal" title="GMOD2013 CommunityBuilding.pdf">Slides</a>
 
 **<a href="http://oadb.tsl.ac.uk" class="external text"
@@ -120,7 +120,7 @@ rel="nofollow">Open Ash Dieback Project</a>** (Dr. Kentaro Yoshida of
 <a href="http://www.tsl.ac.uk/" class="external text" rel="nofollow">The
 Sainsbury Lab</a>)
 
-- <a href="../mediawiki/images/7/71/GMOD2013_OpenAshDb.pptx"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/GMOD2013_OpenAshDb.pptx"
   class="internal" title="GMOD2013 OpenAshDb.pptx">Slides</a>
 
 The <a href="http://oadb.tsl.ac.uk/" class="external text"
@@ -164,25 +164,25 @@ rel="nofollow">Manuel Corpas</a>)
 **[JBrowse](JBrowse.1 "JBrowse")** ([Gregg
 Helt](User%3AGreggHelt2 "User%3AGreggHelt2"))
 
-- <a href="../mediawiki/images/3/33/GMOD2013_JBrowse.pdf" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/GMOD2013_JBrowse.pdf" class="internal"
   title="GMOD2013 JBrowse.pdf">Slides</a>
 
 **[WebApollo](WebApollo.1 "WebApollo")** ([Moni
 Munoz-Torres](User%3AMoni "User%3AMoni"))
 
-- <a href="../mediawiki/images/9/9f/GMOD2013_WebApollo.pptx"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/GMOD2013_WebApollo.pptx"
   class="internal" title="GMOD2013 WebApollo.pptx">Slides</a>
 
 **[Galaxy](Galaxy.1 "Galaxy")** Project Update ([Dave
 Clements](User%3AClements "User%3AClements"))
 
-- <a href="../mediawiki/images/e/e6/GMOD2013_GalaxyUpdate.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/GMOD2013_GalaxyUpdate.pdf"
   class="internal" title="GMOD2013 GalaxyUpdate.pdf">Slides</a>
 
 **[InterMine](InterMine "InterMine")** ([Alex
 Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis"))
 
-- <a href="../mediawiki/images/6/65/GMOD2013_InterMine.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/GMOD2013_InterMine.pdf"
   class="internal" title="GMOD2013 InterMine.pdf">Slides</a>
 
 ### <span id="Saturday_April_6th" class="mw-headline">Saturday April 6th</span>
@@ -195,7 +195,7 @@ Harris](User%3ATharris "User%3ATharris"))
 **What <a href="http://geneontology.org" class="external text"
 rel="nofollow">the Gene Ontology</a> can do for you** (Jane Lomax)
 
-- <a href="../mediawiki/images/a/a7/GMOD2013_GeneOntology.pptx"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/GMOD2013_GeneOntology.pptx"
   class="internal" title="GMOD2013 GeneOntology.pptx">Slides</a>
 
 **[Tripal](Tripal.1 "Tripal")** (Stephen Ficklin)
@@ -203,7 +203,7 @@ rel="nofollow">the Gene Ontology</a> can do for you** (Jane Lomax)
 **<a href="http://www.arabidopsis.org/about/plain.jsp"
 class="external text" rel="nofollow">TAIR PLAIN</a>** (Bob Muller)
 
-- <a href="../mediawiki/images/b/ba/GMOD2013_TairPlain.pptx"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/ba/GMOD2013_TairPlain.pptx"
   class="internal" title="GMOD2013 TairPlain.pptx">Slides</a>
 
 **Using CAS-Utils (Community Annotation System Utilities) in real life**
@@ -218,7 +218,7 @@ rel="nofollow">Demeter</a>: A data-harvester for biological sources**
 
 **Banana Genome Hub** (Delphine Larivière)
 
-- <a href="../mediawiki/images/2/2a/GMOD2013_BananaGenomeHub.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/GMOD2013_BananaGenomeHub.pdf"
   class="internal" title="GMOD2013 BananaGenomeHub.pdf">Slides</a>
 
   

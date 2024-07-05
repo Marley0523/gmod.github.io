@@ -48,7 +48,7 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="http://www.intl-pag.org/" rel="nofollow"
-title="PAG 2009"><img src="../mediawiki/images/c/c2/Paglogo.gif"
+title="PAG 2009"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif"
 width="114" height="107" alt="PAG 2009" /></a></td>
 <td data-valign="center"><strong><a
 href="http://www.intl-pag.org/18/18-gbrowse_syn.html"

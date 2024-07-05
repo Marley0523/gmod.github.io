@@ -237,7 +237,7 @@ The following 12 files are in this category, out of 12 total.
   <div style="margin:54.5px auto;">
 
   <a href="File:Basepair-options.png" class="image"><img
-  src="../mediawiki/images/thumb/e/e2/Basepair-options.png/120px-Basepair-options.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/120px-Basepair-options.png"
   width="120" height="41" alt="Basepair-options.png" /></a>
 
   </div>
@@ -260,7 +260,7 @@ The following 12 files are in this category, out of 12 total.
   <div style="margin:36.5px auto;">
 
   <a href="File:Flatfile-options.png" class="image"><img
-  src="../mediawiki/images/thumb/c/cd/Flatfile-options.png/120px-Flatfile-options.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Flatfile-options.png/120px-Flatfile-options.png"
   width="120" height="77" alt="Flatfile-options.png" /></a>
 
   </div>
@@ -398,7 +398,7 @@ The following 12 files are in this category, out of 12 total.
   <div style="margin:15px auto;">
 
   <a href="File:Jbrowse_arch.png" class="image"><img
-  src="../mediawiki/images/thumb/d/d0/Jbrowse_arch.png/93px-Jbrowse_arch.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/93px-Jbrowse_arch.png"
   width="93" height="120" alt="Jbrowse arch.png" /></a>
 
   </div>
@@ -468,7 +468,7 @@ The following 12 files are in this category, out of 12 total.
   <div style="margin:55.5px auto;">
 
   <a href="File:JBrowseUI.png" class="image"><img
-  src="../mediawiki/images/thumb/a/a9/JBrowseUI.png/120px-JBrowseUI.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a9/JBrowseUI.png/120px-JBrowseUI.png"
   width="120" height="39" alt="JBrowseUI.png" /></a>
 
   </div>
@@ -491,7 +491,7 @@ The following 12 files are in this category, out of 12 total.
   <div style="margin:57.5px auto;">
 
   <a href="File:Wiggle-options.png" class="image"><img
-  src="../mediawiki/images/thumb/2/26/Wiggle-options.png/120px-Wiggle-options.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/120px-Wiggle-options.png"
   width="120" height="35" alt="Wiggle-options.png" /></a>
 
   </div>

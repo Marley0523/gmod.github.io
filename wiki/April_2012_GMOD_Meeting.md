@@ -47,8 +47,8 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="File:April2012MeetingLogo.png" class="image"><img
-src="../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/300px-April2012MeetingLogo.png"
-srcset="../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/450px-April2012MeetingLogo.png 1.5x, ../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/600px-April2012MeetingLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/300px-April2012MeetingLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/450px-April2012MeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/600px-April2012MeetingLogo.png 2x"
 width="300" height="236" alt="April2012MeetingLogo.png" /></a></td>
 <td style="font-size: 180%; line-height: 120%"><strong>April 2012 <a
 href="Meetings" title="Meetings">GMOD Meeting</a></strong>
@@ -115,7 +115,7 @@ class="external text" rel="nofollow">Biocuration 2012</a>.
 
 <a href="http://about.me/dmchurch" rel="nofollow"
 title="Deanna M. Church"><img
-src="../mediawiki/images/e/ef/DeannaChurch.jpg" width="95" height="95"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/DeannaChurch.jpg" width="95" height="95"
 alt="Deanna M. Church" /></a>
 
 </div>
@@ -180,28 +180,28 @@ change (likely even) until this note goes away.
 | Time | Topic | Presenter(s) | Presentation |
 |----|----|----|----|
 | 9:15 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
-| 9:45 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="../mediawiki/images/4/41/State_of_GMOD_2012.pdf"
+| 9:45 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/41/State_of_GMOD_2012.pdf"
 class="internal" title="State of GMOD 2012.pdf">PDF</a> |
 | 10:15 | Coffee break |  |  |
 | 10:30 | <a href="http://www.reactome.org" class="external text"
-rel="nofollow">Reactome</a> | [Robin Haw](User%3ARobin.haw "User%3ARobin.haw") | <a href="../mediawiki/images/3/34/2012_Reactome_GMOD.pdf"
+rel="nofollow">Reactome</a> | [Robin Haw](User%3ARobin.haw "User%3ARobin.haw") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/2012_Reactome_GMOD.pdf"
 class="internal" title="2012 Reactome GMOD.pdf">Slides</a> |
 | 11:00 | Keynote: Navigating genomics resources at NCBI | Deanna Church |  |
 | 12:00 | Lunch |  |  |
-| 1:15 | GLEAN and [MAKER](MAKER.1 "MAKER") | Aaron Mackey | <a href="../mediawiki/images/5/5a/Aarom_mackey.pptx" class="internal"
+| 1:15 | GLEAN and [MAKER](MAKER.1 "MAKER") | Aaron Mackey | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Aarom_mackey.pptx" class="internal"
 title="Aarom mackey.pptx">PPTX</a> |
 | 1:45 | Integration of NGS and Population Data with the Phytozome Plant Comparative Genomics Portal | [Richard Hayes](User%3ARichard_Hayes "User%3ARichard Hayes") |  |
-| 2:15 | InterMOD | Ben Hitz | <a href="../mediawiki/images/3/3b/Bhitz_InterMOD_2012.pdf"
+| 2:15 | InterMOD | Ben Hitz | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Bhitz_InterMOD_2012.pdf"
 class="internal" title="Bhitz InterMOD 2012.pdf">PDF</a> |
 | 2:45 | Coffee break |  |  |
 | 3:30 | [JBrowse](JBrowse.1 "JBrowse") | <a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
-Buels</a> | <a href="../mediawiki/images/b/ba/RBuels_JBrowse_apr2012.pdf"
+Buels</a> | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/ba/RBuels_JBrowse_apr2012.pdf"
 class="internal" title="RBuels JBrowse apr2012.pdf">PDF</a> |
 |  | [WebApollo](WebApollo.1 "WebApollo") | [Ed Lee](User%3AElee "User%3AElee") |  |
-|  | Tengcha (A generic middle-ware for retrieving data from Chado databases) | [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee") | <a href="../mediawiki/images/6/61/JustinReese_April2012.pptx"
+|  | Tengcha (A generic middle-ware for retrieving data from Chado databases) | [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/JustinReese_April2012.pptx"
 class="internal" title="JustinReese April2012.pptx">PPTX</a> |
 | 5:00 | Dinner (on your own) |  |  |
-| 7:00 | [Galaxy CloudMan Workshop](#Galaxy_Workshop) | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf"
+| 7:00 | [Galaxy CloudMan Workshop](#Galaxy_Workshop) | [Dave Clements](User%3AClements "User%3AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf"
 class="internal" title="April2012GalaxyCloudManWorkshop.pdf">slides</a>, <a href="http://galaxyproject.org/wiki/Admin/Cloud/Getting%20Started"
 class="external text" rel="nofollow">Hands-on</a> |
 
@@ -227,7 +227,7 @@ class="external text" rel="nofollow">Hands-on</a> |
 <td>9:15</td>
 <td><a href="Galaxy.1" title="Galaxy">Galaxy</a> Update</td>
 <td><a href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
-<td><a href="../mediawiki/images/5/50/April2012GalaxyUpdate.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/April2012GalaxyUpdate.pdf"
 class="internal" title="April2012GalaxyUpdate.pdf">slides</a>, <a
 href="http://usegalaxy.org/" class="external text" rel="nofollow">Web
 site</a></td>
@@ -240,7 +240,7 @@ href="http://gmod.org/mediawiki/index.php?title=User%3ALaceyanne_sanderson&amp;a
 class="new" title="User%3ALaceyanne sanderson (page does not exist)">Lacey
 Sanderson</a></td>
 <td><a
-href="../mediawiki/images/0/09/LaceySanderson_Tripal_GMOD2012.ppt"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/LaceySanderson_Tripal_GMOD2012.ppt"
 class="internal" title="LaceySanderson Tripal GMOD2012.ppt">PPT</a></td>
 </tr>
 <tr class="odd">
@@ -248,7 +248,7 @@ class="internal" title="LaceySanderson Tripal GMOD2012.ppt">PPT</a></td>
 <td><a href="http://www.abrowse.org/" class="external text"
 rel="nofollow">ABrowse</a></td>
 <td>Kong Lei</td>
-<td><a href="../mediawiki/images/d/d1/KongLei_abrowse.pptx"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/KongLei_abrowse.pptx"
 class="internal" title="KongLei abrowse.pptx">PPTX</a></td>
 </tr>
 <tr class="even">
@@ -262,7 +262,7 @@ class="internal" title="KongLei abrowse.pptx">PPTX</a></td>
 <td><a href="http://epigenomegateway.wustl.edu/" class="external text"
 rel="nofollow">Epigenome Browser</a></td>
 <td>Xin Zhou</td>
-<td><a href="../mediawiki/images/2/22/XinZhou.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/XinZhou.pdf" class="internal"
 title="XinZhou.pdf">PDF</a></td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ rel="nofollow">Genome synteny viewer for customized data - extending GSV
 to multiple genome pairs</a></td>
 <td><a href="http://cas-bioinfo.cas.unt.edu/group/research.html"
 class="external text" rel="nofollow">Qunfeng Dong</a></td>
-<td><a href="../mediawiki/images/0/0f/QunfengDong_April2012.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/QunfengDong_April2012.pdf"
 class="internal" title="QunfengDong April2012.pdf">PDF</a></td>
 </tr>
 <tr class="odd">
@@ -298,7 +298,7 @@ introduction to the interaction Chado module, and PolyBrowse</td>
 <tr class="odd">
 <td>MGI Update</td>
 <td>Joel Richardson</td>
-<td><a href="../mediawiki/images/3/37/April2012_MGIUpdate.pptx"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/37/April2012_MGIUpdate.pptx"
 class="internal" title="April2012 MGIUpdate.pptx">PPTX</a></td>
 </tr>
 <tr class="even">
@@ -306,7 +306,7 @@ class="internal" title="April2012 MGIUpdate.pptx">PPTX</a></td>
 Interaction Module</td>
 <td>Andy Schroeder</td>
 <td><a
-href="../mediawiki/images/f/f5/April2012_ChadoInteractionModule.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/April2012_ChadoInteractionModule.pdf"
 class="internal"
 title="April2012 ChadoInteractionModule.pdf">PDF</a></td>
 </tr>
@@ -350,7 +350,7 @@ Childers</a></td>
 <td><a href="User%3AClements" title="User%3AClements">Dave
 Clements</a><br />
 (+ Robin Haw)</td>
-<td><a href="../mediawiki/images/7/79/April2012_CommunityBuilding.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/April2012_CommunityBuilding.pdf"
 class="internal" title="April2012 CommunityBuilding.pdf">PDF</a></td>
 </tr>
 </tbody>
@@ -401,8 +401,8 @@ class="internal" title="April2012 CommunityBuilding.pdf">PDF</a></td>
 <tr class="odd">
 <td rowspan="2"><a href="File:GalaxyLogoBigger.png" class="image"
 title="Galaxy Workshop"><img
-src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/280px-GalaxyLogoBigger.png"
-srcset="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/420px-GalaxyLogoBigger.png 1.5x, ../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/560px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/280px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/420px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/560px-GalaxyLogoBigger.png 2x"
 width="280" height="99" alt="Galaxy Workshop" /></a></td>
 <td rowspan="2">   </td>
 <td style="text-align: left; font-size: 140%;">Galaxy CloudMan
@@ -422,7 +422,7 @@ Reiss Science Building, Georgetown University</td>
 
 <a href="http://aws.amazon.com/" rel="nofollow"
 title="Amazon Web Services"><img
-src="../mediawiki/images/0/0a/AmazonWebServicesLogo.png" width="200"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/AmazonWebServicesLogo.png" width="200"
 height="102" alt="Amazon Web Services" /></a>  
 This workshop is generously supported by an
 <a href="http://aws.amazon.com/education/" class="external text"

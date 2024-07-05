@@ -142,9 +142,9 @@ Website hits were measured using AWStats during this period.
 <div class="thumbinner" style="width:352px;">
 
 <a href="File:Gmod-awstats-graph.png" class="image"><img
-src="../mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/350px-Gmod-awstats-graph.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/350px-Gmod-awstats-graph.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/525px-Gmod-awstats-graph.png 1.5x, ../mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/700px-Gmod-awstats-graph.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/525px-Gmod-awstats-graph.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/700px-Gmod-awstats-graph.png 2x"
 width="350" height="234" /></a>
 
 <div class="thumbcaption">

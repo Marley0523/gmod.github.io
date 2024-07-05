@@ -93,8 +93,8 @@ Should grpmember have a type_id column?
 ## <span id="Integration_with_Chado" class="mw-headline">Integration with Chado</span>
 
 <a href="File:ChadoComparativeModule.png" class="image"><img
-src="../mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/1200px-ChadoComparativeModule.png"
-srcset="../mediawiki/images/c/c9/ChadoComparativeModule.png 1.5x, ../mediawiki/images/c/c9/ChadoComparativeModule.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/1200px-ChadoComparativeModule.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/ChadoComparativeModule.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/ChadoComparativeModule.png 2x"
 width="1200" height="670" alt="ChadoComparativeModule.png" /></a>
 
 Tables in blue would be part of the Comparative module proper, while
@@ -104,7 +104,7 @@ Not shown: grp_cvterm, analysisgrpmember
 
 ## <span id="SQL_Implementation" class="mw-headline">SQL Implementation</span>
 
-<a href="../mediawiki/images/4/48/ChadoGroupModule.sql" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/ChadoGroupModule.sql" class="internal"
 title="ChadoGroupModule.sql">Source Code</a>
 
 <a href="https://github.com/autochthe/Chado-group-module.git"

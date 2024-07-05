@@ -49,7 +49,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:GMOD2009Europe300.png" class="image"><img
-src="../mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
 height="256" alt="GMOD2009Europe300.png" /></a>
 </div>
 </div></td>
@@ -163,9 +163,9 @@ rel="nofollow">Transport Direct</a>.
 <div class="thumbinner" style="width:82px;">
 
 <a href="File:KebleDining.jpg" class="image"><img
-src="../mediawiki/images/thumb/6/62/KebleDining.jpg/80px-KebleDining.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/80px-KebleDining.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/6/62/KebleDining.jpg/120px-KebleDining.jpg 1.5x, ../mediawiki/images/thumb/6/62/KebleDining.jpg/160px-KebleDining.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/120px-KebleDining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/160px-KebleDining.jpg 2x"
 width="80" height="60" /></a>
 
 <div class="thumbcaption">
@@ -205,8 +205,8 @@ class="external text" rel="nofollow">famous colleges</a>.
 <div class="floatright">
 
 <a href="http://www.molbiol.ox.ac.uk/" rel="nofollow" title="CBRG"><img
-src="../mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
-srcset="../mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, ../mediawiki/images/a/ad/Cbrg.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Cbrg.jpg 2x"
 width="300" height="30" alt="CBRG" /></a>
 
 </div>

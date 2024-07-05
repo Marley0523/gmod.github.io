@@ -237,7 +237,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 ## <span id="Pronunciation" class="mw-headline">Pronunciation</span>
 
 *Chado* is usually pronounced
-<a href="../mediawiki/images/e/e4/Chado.mp3" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/Chado.mp3" class="internal"
 title="Chado.mp3">like this</a>.
 
 </div>

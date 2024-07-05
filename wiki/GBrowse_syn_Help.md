@@ -87,14 +87,14 @@ GBrowse_syn.
 # <span id="Search_Section" class="mw-headline">Search Section</span>
 
 <a href="File:GBS_Search_Section.png" class="image"><img
-src="../mediawiki/images/c/cb/GBS_Search_Section.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/GBS_Search_Section.png"
 class="thumbborder" width="1077" height="149"
 alt="GBS Search Section.png" /></a>
 
 ## <span id="Landmark" class="mw-headline">Landmark</span>
 
 <a href="File:GBS_Landmark.png" class="image"><img
-src="../mediawiki/images/6/67/GBS_Landmark.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/GBS_Landmark.png" class="thumbborder"
 width="308" height="41" alt="GBS Landmark.png" /></a>
 
 - The landmark input box accepts segment labels in the form:
@@ -112,7 +112,7 @@ width="308" height="41" alt="GBS Landmark.png" /></a>
 ## <span id="Reference_Species" class="mw-headline">Reference Species</span>
 
 <a href="File:GBS_ref_Species.png" class="image"><img
-src="../mediawiki/images/7/71/GBS_ref_Species.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/GBS_ref_Species.png" class="thumbborder"
 width="168" height="44" alt="GBS ref Species.png" /></a>
 
 - This is the species that occupies the center panel in the alignment
@@ -125,7 +125,7 @@ width="168" height="44" alt="GBS ref Species.png" /></a>
 ## <span id="Aligned_Species" class="mw-headline">Aligned Species</span>
 
 <a href="File:GBS_aln_Species.png" class="image"><img
-src="../mediawiki/images/d/d0/GBS_aln_Species.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/GBS_aln_Species.png" class="thumbborder"
 width="423" height="43" alt="GBS aln Species.png" /></a>
 
 - Configured species (except for the reference species) for the selected
@@ -136,7 +136,7 @@ width="423" height="43" alt="GBS aln Species.png" /></a>
 ## <span id="Data_Source" class="mw-headline">Data Source</span>
 
 <a href="File:GBS_Datasource.png" class="image"><img
-src="../mediawiki/images/2/25/GBS_Datasource.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/GBS_Datasource.png" class="thumbborder"
 width="249" height="36" alt="GBS Datasource.png" /></a>
 
 - This pull-down menu lists all available data sets configured for the
@@ -148,9 +148,9 @@ width="249" height="36" alt="GBS Datasource.png" /></a>
 ## <span id="Display_Mode" class="mw-headline">Display Mode</span>
 
 <a href="File:GBS_Display_Mode1.png" class="image"><img
-src="../mediawiki/images/8/8f/GBS_Display_Mode1.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/GBS_Display_Mode1.png" class="thumbborder"
 width="419" height="43" alt="GBS Display Mode1.png" /></a>   <a href="File:GBS_Display_Mode2.png" class="image"><img
-src="../mediawiki/images/7/76/GBS_Display_Mode2.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/GBS_Display_Mode2.png" class="thumbborder"
 width="516" height="43" alt="GBS Display Mode2.png" /></a>
 
 - The default display mode shows the reference species plus two aligned
@@ -170,9 +170,9 @@ width="516" height="43" alt="GBS Display Mode2.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_expanded.png" class="image"><img
-src="../mediawiki/images/thumb/e/e3/GBS_expanded.png/800px-GBS_expanded.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/GBS_expanded.png/800px-GBS_expanded.png"
 class="thumbimage"
-srcset="../mediawiki/images/e/e3/GBS_expanded.png 1.5x, ../mediawiki/images/e/e3/GBS_expanded.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 2x"
 width="800" height="416" /></a>
 
 <div class="thumbcaption">
@@ -199,9 +199,9 @@ until all aligned species are shown
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_compact.png" class="image"><img
-src="../mediawiki/images/thumb/f/f3/GBS_compact.png/800px-GBS_compact.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f3/GBS_compact.png/800px-GBS_compact.png"
 class="thumbimage"
-srcset="../mediawiki/images/f/f3/GBS_compact.png 1.5x, ../mediawiki/images/f/f3/GBS_compact.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 2x"
 width="800" height="500" /></a>
 
 <div class="thumbcaption">
@@ -227,15 +227,15 @@ Display mode: All species on a single panel
 # <span id="Display_Settings" class="mw-headline">Display Settings</span>
 
 <a href="File:GBS_Display_Settings.png" class="image"><img
-src="../mediawiki/images/thumb/a/a1/GBS_Display_Settings.png/800px-GBS_Display_Settings.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/GBS_Display_Settings.png/800px-GBS_Display_Settings.png"
 class="thumbborder"
-srcset="../mediawiki/images/a/a1/GBS_Display_Settings.png 1.5x, ../mediawiki/images/a/a1/GBS_Display_Settings.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_Display_Settings.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_Display_Settings.png 2x"
 width="800" height="72" alt="GBS Display Settings.png" /></a>
 
 ## <span id="Image_Widths" class="mw-headline">Image Widths</span>
 
 <a href="File:GBS_widths.png" class="image"><img
-src="../mediawiki/images/f/f3/GBS_widths.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_widths.png" class="thumbborder"
 width="405" height="40" alt="GBS widths.png" /></a>
 
 - the total width of the displayed reference sequence panel.
@@ -245,7 +245,7 @@ width="405" height="40" alt="GBS widths.png" /></a>
 ### <span id="Chain_Alignments" class="mw-headline">Chain Alignments</span>
 
 <a href="File:GBS_chain.png" class="image"><img
-src="../mediawiki/images/6/6b/GBS_chain.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/GBS_chain.png" class="thumbborder"
 width="222" height="27" alt="GBS chain.png" /></a>
 
 - GBrowse_syn uses a dynamic programming algorithm to assembled aligned
@@ -264,9 +264,9 @@ width="222" height="27" alt="GBS chain.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_chained.png" class="image"><img
-src="../mediawiki/images/thumb/9/95/GBS_chained.png/800px-GBS_chained.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/95/GBS_chained.png/800px-GBS_chained.png"
 class="thumbimage"
-srcset="../mediawiki/images/9/95/GBS_chained.png 1.5x, ../mediawiki/images/9/95/GBS_chained.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 2x"
 width="800" height="429" /></a>
 
 <div class="thumbcaption">
@@ -289,7 +289,7 @@ Chained aligments
 
   
 <a href="File:GBS_nochain.png" class="image"><img
-src="../mediawiki/images/7/79/GBS_nochain.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/GBS_nochain.png" class="thumbborder"
 width="221" height="28" alt="GBS nochain.png" /></a>
 
 <div class="thumb tleft">
@@ -297,9 +297,9 @@ width="221" height="28" alt="GBS nochain.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_unchained.png" class="image"><img
-src="../mediawiki/images/thumb/e/ec/GBS_unchained.png/800px-GBS_unchained.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/GBS_unchained.png/800px-GBS_unchained.png"
 class="thumbimage"
-srcset="../mediawiki/images/e/ec/GBS_unchained.png 1.5x, ../mediawiki/images/e/ec/GBS_unchained.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/GBS_unchained.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/GBS_unchained.png 2x"
 width="800" height="448" /></a>
 
 <div class="thumbcaption">
@@ -325,7 +325,7 @@ Unchained aligments
 ### <span id="Flip_Minus_Strand_Panels" class="mw-headline">Flip Minus Strand Panels</span>
 
 <a href="File:GBS_flip.png" class="image"><img
-src="../mediawiki/images/1/1d/GBS_flip.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/GBS_flip.png" class="thumbborder"
 width="274" height="30" alt="GBS flip.png" /></a>
 
 - Choosing the flip option makes it easier directly compare the aligned
@@ -341,9 +341,9 @@ width="274" height="30" alt="GBS flip.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_flipped.png" class="image"><img
-src="../mediawiki/images/thumb/b/b5/GBS_flipped.png/800px-GBS_flipped.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GBS_flipped.png/800px-GBS_flipped.png"
 class="thumbimage"
-srcset="../mediawiki/images/b/b5/GBS_flipped.png 1.5x, ../mediawiki/images/b/b5/GBS_flipped.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 2x"
 width="800" height="367" /></a>
 
 <div class="thumbcaption">
@@ -370,9 +370,9 @@ comparison of gene order
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_unflipped.png" class="image"><img
-src="../mediawiki/images/thumb/1/18/GBS_unflipped.png/800px-GBS_unflipped.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/18/GBS_unflipped.png/800px-GBS_unflipped.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/18/GBS_unflipped.png 1.5x, ../mediawiki/images/1/18/GBS_unflipped.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 2x"
 width="800" height="367" /></a>
 
 <div class="thumbcaption">
@@ -398,7 +398,7 @@ Reverse strand panel keo in original orientation
 ### <span id="Grid_Lines" class="mw-headline">Grid Lines</span>
 
 <a href="File:GBS_lines.png" class="image"><img
-src="../mediawiki/images/2/2e/GBS_lines.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/GBS_lines.png" class="thumbborder"
 width="168" height="30" alt="GBS lines.png" /></a>
 
 - Grid lines use insertion/deletion data from the multiple sequence
@@ -413,9 +413,9 @@ width="168" height="30" alt="GBS lines.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_noglines.png" class="image"><img
-src="../mediawiki/images/thumb/a/a1/GBS_noglines.png/800px-GBS_noglines.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/GBS_noglines.png/800px-GBS_noglines.png"
 class="thumbimage"
-srcset="../mediawiki/images/a/a1/GBS_noglines.png 1.5x, ../mediawiki/images/a/a1/GBS_noglines.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 2x"
 width="800" height="220" /></a>
 
 <div class="thumbcaption">
@@ -441,9 +441,9 @@ Alignment of *C. elegans* and *C. remanei*, showing the R193.2 gene
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_glines.png" class="image"><img
-src="../mediawiki/images/thumb/0/05/GBS_glines.png/800px-GBS_glines.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/GBS_glines.png/800px-GBS_glines.png"
 class="thumbimage"
-srcset="../mediawiki/images/0/05/GBS_glines.png 1.5x, ../mediawiki/images/0/05/GBS_glines.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 2x"
 width="800" height="220" /></a>
 
 <div class="thumbcaption">
@@ -470,7 +470,7 @@ of intron sequence
 ### <span id="Edges" class="mw-headline">Edges</span>
 
 <a href="File:GBS_edges.png" class="image"><img
-src="../mediawiki/images/a/aa/GBS_edges.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/GBS_edges.png" class="thumbborder"
 width="142" height="32" alt="GBS edges.png" /></a>
 
 - This option is on by default, it outlines the polygons that connect
@@ -481,9 +481,9 @@ width="142" height="32" alt="GBS edges.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_edgeson.png" class="image"><img
-src="../mediawiki/images/thumb/9/90/GBS_edgeson.png/800px-GBS_edgeson.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/GBS_edgeson.png/800px-GBS_edgeson.png"
 class="thumbimage"
-srcset="../mediawiki/images/9/90/GBS_edgeson.png 1.5x, ../mediawiki/images/9/90/GBS_edgeson.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 2x"
 width="800" height="400" /></a>
 
 <div class="thumbcaption">
@@ -509,7 +509,7 @@ An alignment view with edges on grid-lines and shading off
 ### <span id="Shading" class="mw-headline">Shading</span>
 
 <a href="File:GBS_shading.png" class="image"><img
-src="../mediawiki/images/a/a9/GBS_shading.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a9/GBS_shading.png" class="thumbborder"
 width="158" height="34" alt="GBS shading.png" /></a>
 
 <div class="thumb tleft">
@@ -517,9 +517,9 @@ width="158" height="34" alt="GBS shading.png" /></a>
 <div class="thumbinner" style="width:802px;">
 
 <a href="File:GBS_shadingon.png" class="image"><img
-src="../mediawiki/images/thumb/d/db/GBS_shadingon.png/800px-GBS_shadingon.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GBS_shadingon.png/800px-GBS_shadingon.png"
 class="thumbimage"
-srcset="../mediawiki/images/d/db/GBS_shadingon.png 1.5x, ../mediawiki/images/d/db/GBS_shadingon.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 2x"
 width="800" height="400" /></a>
 
 <div class="thumbcaption">

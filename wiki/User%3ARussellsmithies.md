@@ -45,7 +45,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:222px;">
 
 <a href="File:Russell_smithies.jpg" class="image"><img
-src="../mediawiki/images/7/76/Russell_smithies.jpg" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Russell_smithies.jpg" class="thumbimage"
 width="220" height="170" /></a>
 
 <div class="thumbcaption">

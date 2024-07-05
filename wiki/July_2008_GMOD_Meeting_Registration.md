@@ -53,7 +53,7 @@ data-cellpadding="10">
 <td><div class="center">
 <div class="floatnone">
 <a href="File:July2008LogoSmaller.png" class="image"><img
-src="../mediawiki/images/3/3d/July2008LogoSmaller.png" width="200"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/July2008LogoSmaller.png" width="200"
 height="180" alt="July2008LogoSmaller.png" /></a>
 </div>
 </div></td>
@@ -210,7 +210,7 @@ groups.
 | Time | Topic | Who | Presentation |
 |----|----|----|----|
 | 9:00 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
-| 9:30 | The State of GMOD | Scott Cain | <a href="../mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt"
+| 9:30 | The State of GMOD | Scott Cain | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt"
 class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
 | 10:10 | break |  |  |
 | 10:40 | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping | [Jim Hu](User%3AJimHu.1 "User%3AJimHu") |  |
@@ -218,15 +218,15 @@ class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
 |  | [SGN](Category%3ASGN "Category%3ASGN") Community Annotation | Lukas Mueller | <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
 class="new" title="SGNGMOD2008.pdf">PDF</a> |
-|  | WikiMods & Chado API | Brad Arshinoff | <a href="../mediawiki/images/6/65/PerlChadoGMOD2008.pdf"
+|  | WikiMods & Chado API | Brad Arshinoff | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/PerlChadoGMOD2008.pdf"
 class="internal" title="PerlChadoGMOD2008.pdf">PDF</a> |
 | 11:30 | Lunch |  |  |
-| 1:30 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%3AClements "User%3AClements") | <a href="../mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal"
-title="HelpDeskGMOD2008.pdf">PDF</a> <a href="../mediawiki/images/8/88/HelpDeskGMOD2008.ppt" class="internal"
+| 1:30 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%3AClements "User%3AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal"
+title="HelpDeskGMOD2008.pdf">PDF</a> <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/HelpDeskGMOD2008.ppt" class="internal"
 title="HelpDeskGMOD2008.ppt">PPT</a> |
 | 2:15 | Rearchitecting [Apollo](Apollo.1 "Apollo") and the need for a database independent Biological API layer | Ed Lee |  |
 | 2:50 | break |  |  |
-| 3:20 | [InterMine](InterMine "InterMine") and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | Richard Smith | <a href="../mediawiki/images/b/b3/IntermineGMOD2008.pdf"
+| 3:20 | [InterMine](InterMine "InterMine") and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | Richard Smith | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/IntermineGMOD2008.pdf"
 class="internal" title="IntermineGMOD2008.pdf">PDF</a> |
 | 3:50 | Show and Tell | "What I did with my Summer" |  |
 |  | [CMap](CMap.1 "CMap") | [Ben Faga](User%3AFaga "User%3AFaga") |  |
@@ -237,10 +237,10 @@ class="internal" title="IntermineGMOD2008.pdf">PDF</a> |
 |----|----|----|----|
 | 9:00 | New things for [GBrowse](GBrowse.1 "GBrowse") 1.69 | [Sheldon McKay](User%3AMckays "User%3AMckays") |  |
 |  | GBrowse 2.0 and Roadmap | [Lincoln Stein](User%3ALstein "User%3ALstein") |  |
-| 9:30 | New things for GBrowse 3.0 | Ian Holmes | <a href="../mediawiki/images/2/23/GBrowse3GMOD2008.pdf" class="internal"
+| 9:30 | New things for GBrowse 3.0 | Ian Holmes | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/GBrowse3GMOD2008.pdf" class="internal"
 title="GBrowse3GMOD2008.pdf">PDF</a> |
 | 10:00 | break |  |  |
-| 10:30 | The need for a computable common gene page ([Don Gilbert's proposal](Common_Gene_Page "Common Gene Page")) | Scott Cain, Lincoln Stein | <a href="../mediawiki/images/8/80/Common_gene_page.ppt" class="internal"
+| 10:30 | The need for a computable common gene page ([Don Gilbert's proposal](Common_Gene_Page "Common Gene Page")) | Scott Cain, Lincoln Stein | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt" class="internal"
 title="Common gene page.ppt">PPT</a> |
 | 11:30 | Lunch |  |  |
 | 1:30 | More Show and Tell or a mini hackathon or go see Toronto |  |  |
@@ -256,7 +256,7 @@ title="Common gene page.ppt">PPT</a> |
 <div class="floatnone">
 
 <a href="File:GMOD2008Attendees.JPG" class="image"><img
-src="../mediawiki/images/3/3d/GMOD2008Attendees.JPG" width="400"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/GMOD2008Attendees.JPG" width="400"
 height="148" alt="GMOD2008Attendees.JPG" /></a>
 
 </div>
@@ -349,7 +349,7 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
 <div class="floatnone">
 
 <a href="File:GMOD2008Discussion.JPG" class="image"><img
-src="../mediawiki/images/3/31/GMOD2008Discussion.JPG" width="245"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GMOD2008Discussion.JPG" width="245"
 height="148" alt="GMOD2008Discussion.JPG" /></a>
 
 </div>
@@ -629,7 +629,7 @@ actually moved forward on this at this meeting.
 There was discussion on what should be included in the gene page. The
 consensus was to keep track of only the minimal amount of information,
 See
-<a href="../mediawiki/images/8/80/Common_gene_page.ppt" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt" class="internal"
 title="Common gene page.ppt">Scott's presentation</a> for the list we
 settled on.
 
@@ -784,7 +784,7 @@ using Chado. It also would make tool development much easier.
 <div class="floatright">
 
 <a href="File:GMOD2008Lukas.JPG" class="image"><img
-src="../mediawiki/images/d/d6/GMOD2008Lukas.JPG" width="120"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2008Lukas.JPG" width="120"
 height="148" alt="GMOD2008Lukas.JPG" /></a>
 
 </div>
@@ -910,7 +910,7 @@ what he is planning doing in the coming months.
   Site](News/Ten_Recent_Web_Site_Changes "News/Ten Recent Web Site Changes")
 - Outreach - Posters, talks, representation, and promotion
 - Education
-  - <a href="../mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
+  - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
     class="internal" title="ChadoWorkshopArthopod2008.pdf">Chado
     Workshop</a> with Scott @ Arthropod Genomics, ~35 people
   - [2008 GMOD Summer

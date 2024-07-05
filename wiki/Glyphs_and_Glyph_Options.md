@@ -269,7 +269,7 @@ The simplest \[Track\] stanza will look like this:
 <div class="thumbinner" style="width:592px;">
 
 <a href="File:Glyph_simple_track.png" class="image"><img
-src="../mediawiki/images/9/9e/Glyph_simple_track.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Glyph_simple_track.png" class="thumbimage"
 width="590" height="99" /></a>
 
 <div class="thumbcaption">
@@ -299,7 +299,7 @@ assign a longer key to the track using the **key** option. For example:
 <div class="thumbinner" style="width:592px;">
 
 <a href="File:Glyph_configured_track.png" class="image"><img
-src="../mediawiki/images/d/da/Glyph_configured_track.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/Glyph_configured_track.png"
 class="thumbimage" width="590" height="117" /></a>
 
 <div class="thumbcaption">
@@ -346,7 +346,7 @@ in Figure 3.
 <div class="thumbinner" style="width:731px;">
 
 <a href="File:Figure3.png" class="image"><img
-src="../mediawiki/images/e/ec/Figure3.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Figure3.png" class="thumbimage"
 width="729" height="759" /></a>
 
 <div class="thumbcaption">
@@ -452,7 +452,7 @@ to deactivate, set it to false:
 <div class="thumbinner" style="width:132px;">
 
 <a href="File:Glyph_fonts.png" class="image"><img
-src="../mediawiki/images/7/74/Glyph_fonts.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Glyph_fonts.png" class="thumbimage"
 width="130" height="100" /></a>
 
 <div class="thumbcaption">
@@ -492,7 +492,7 @@ labeling, as shown in the example below:
 <div class="thumbinner" style="width:592px;">
 
 <a href="File:Glyph_giant_font_demo.png" class="image"><img
-src="../mediawiki/images/d/d1/Glyph_giant_font_demo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Glyph_giant_font_demo.png"
 class="thumbimage" width="590" height="173" /></a>
 
 <div class="thumbcaption">
@@ -538,7 +538,7 @@ class="external text" rel="nofollow">webgbrowse.cgb.indiana.edu</a>.
 <div class="thumbinner" style="width:592px;">
 
 <a href="File:Glyph_generic_configured_track.png" class="image"><img
-src="../mediawiki/images/1/17/Glyph_generic_configured_track.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/17/Glyph_generic_configured_track.png"
 class="thumbimage" width="590" height="178" /></a>
 
 <div class="thumbcaption">
@@ -918,9 +918,9 @@ Bio::Graphics::Glyph::two_bolts
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:Vista_plot.png" class="image"><img
-src="../mediawiki/images/thumb/7/71/Vista_plot.png/180px-Vista_plot.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/180px-Vista_plot.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/71/Vista_plot.png/270px-Vista_plot.png 1.5x, ../mediawiki/images/thumb/7/71/Vista_plot.png/360px-Vista_plot.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/270px-Vista_plot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/360px-Vista_plot.png 2x"
 width="180" height="46" /></a>
 
 <div class="thumbcaption">
@@ -970,9 +970,9 @@ Bio::Graphics::Glyph::wiggle_box
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:Wiggle_density.jpg" class="image"><img
-src="../mediawiki/images/thumb/9/90/Wiggle_density.jpg/500px-Wiggle_density.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/500px-Wiggle_density.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/9/90/Wiggle_density.jpg/750px-Wiggle_density.jpg 1.5x, ../mediawiki/images/thumb/9/90/Wiggle_density.jpg/1000px-Wiggle_density.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/750px-Wiggle_density.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/1000px-Wiggle_density.jpg 2x"
 width="500" height="73" /></a>
 
 <div class="thumbcaption">
@@ -1017,9 +1017,9 @@ visualize negative values.
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:Wiggle_xyplot.jpg" class="image"><img
-src="../mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/500px-Wiggle_xyplot.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/500px-Wiggle_xyplot.jpg"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/750px-Wiggle_xyplot.jpg 1.5x, ../mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/1000px-Wiggle_xyplot.jpg 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/750px-Wiggle_xyplot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/1000px-Wiggle_xyplot.jpg 2x"
 width="500" height="147" /></a>
 
 <div class="thumbcaption">

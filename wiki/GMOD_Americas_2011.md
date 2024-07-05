@@ -44,8 +44,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:GMODAmericas2011WithText.jpg" class="image"
 title="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12"><img
-src="../mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/600px-GMODAmericas2011WithText.jpg"
-srcset="../mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/900px-GMODAmericas2011WithText.jpg 1.5x, ../mediawiki/images/9/94/GMODAmericas2011WithText.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/600px-GMODAmericas2011WithText.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/900px-GMODAmericas2011WithText.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/94/GMODAmericas2011WithText.jpg 2x"
 width="600" height="239"
 alt="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12" /></a>
 
@@ -105,8 +105,8 @@ in Durham, North Carolina. The week long event included:
 <td data-valign="top"><div class="center">
 <div class="floatnone">
 <a href="File:GMODAmericas2011Reception.jpg" class="image"><img
-src="../mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/300px-GMODAmericas2011Reception.jpg"
-srcset="../mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/450px-GMODAmericas2011Reception.jpg 1.5x, ../mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/600px-GMODAmericas2011Reception.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/300px-GMODAmericas2011Reception.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/450px-GMODAmericas2011Reception.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/600px-GMODAmericas2011Reception.jpg 2x"
 width="300" height="121" alt="GMODAmericas2011Reception.jpg" /></a>
 </div>
 </div></td>
@@ -419,8 +419,8 @@ class="external text" rel="nofollow">Whole Foods</a> nearby.
 <div class="floatright">
 
 <a href="http://nescent.org/" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
-srcset="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, ../mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/100px-NESCentLogo152.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/150px-NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="100" height="93" alt="NESCent" /></a>
 
 </div>
@@ -439,8 +439,8 @@ boundaries.
 <div class="floatleft">
 
 [<img
-src="../mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
-srcset="../mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, ../mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
 width="130" height="45" alt="Galaxy" />](Galaxy.1 "Galaxy")
 
 </div>
@@ -455,7 +455,7 @@ reference. Galaxy is developed at Penn State and Emory University.
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170" alt="GMOD Americas 2011 Flier" />](File:GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
 
 </div>

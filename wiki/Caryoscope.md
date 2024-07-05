@@ -44,7 +44,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://caryoscope.stanford.edu" rel="nofollow"
 title="Caryoscope"><img
-src="../mediawiki/images/2/26/CaryoscopeLogo.jpg" width="122"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/CaryoscopeLogo.jpg" width="122"
 height="139" alt="Caryoscope" /></a>
 
 </div>

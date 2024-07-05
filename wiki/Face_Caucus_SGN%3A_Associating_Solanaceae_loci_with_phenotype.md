@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<a href="../mediawiki/images/f/f4/Mod-face-07jan-SGN.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Mod-face-07jan-SGN.pdf"
 class="internal" title="Mod-face-07jan-SGN.pdf">SGN: Associating
 Solanaceae loci with phenotypes</a>
 

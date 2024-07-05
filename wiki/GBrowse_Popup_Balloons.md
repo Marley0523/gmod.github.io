@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:Balloon.png" class="image"><img
-src="../mediawiki/images/4/48/Balloon.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Balloon.png" class="thumbborder"
 width="414" height="308" alt="Balloon.png" /></a>
 
 </div>
@@ -315,7 +315,7 @@ ajax handler for Gbrowse popup ballons (or other applications**
   gbrowse_details and the ***params*** callback shown below
 
 <a href="File:Sample1b.png" class="image"><img
-src="../mediawiki/images/e/eb/Sample1b.png" width="492" height="239"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Sample1b.png" width="492" height="239"
 alt="Sample1b.png" /></a>
 
   
@@ -324,7 +324,7 @@ alt="Sample1b.png" /></a>
   \<iframe\> element) and the ***default*** callback shown below.
 
 <a href="File:Sample2b.png" class="image"><img
-src="../mediawiki/images/8/8d/Sample2b.png" width="454" height="364"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/Sample2b.png" width="454" height="364"
 alt="Sample2b.png" /></a>
 
 ### <span id="Changes_to_gbrowse_details" class="mw-headline">Changes to gbrowse_details</span>
@@ -382,7 +382,7 @@ alt="Sample2b.png" /></a>
     section.
 
 <a href="File:Callbacks" class="image"><img
-src="../mediawiki/images/9/92/Callbacks" width="687" height="408"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Callbacks" width="687" height="408"
 alt="Callbacks" /></a>
 
   
@@ -391,7 +391,7 @@ alt="Callbacks" /></a>
   The relevant section is highlighted
 
 <a href="File:Orf_stanza" class="image"><img
-src="../mediawiki/images/3/30/Orf_stanza" width="749" height="267"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Orf_stanza" width="749" height="267"
 alt="Orf stanza" /></a>
 
 # <span id="Popups_in_Gbrowse_2.0" class="mw-headline">Popups in Gbrowse 2.0</span>
@@ -421,7 +421,7 @@ abruptly appearing.
   optional.
 
 <a href="File:GBubble.png" class="image"><img
-src="../mediawiki/images/e/e3/GBubble.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBubble.png" class="thumbborder"
 width="358" height="199" alt="GBubble.png" /></a>
 
 Example configuration
@@ -443,7 +443,7 @@ follow the mouse until you mouseout from the text or image the tooltip
 is attached to.
 
 <a href="File:GPlain.png" class="image"><img
-src="../mediawiki/images/8/83/GPlain.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/GPlain.png" class="thumbborder"
 width="515" height="172" alt="GPlain.png" /></a>
 
 Example configuration
@@ -465,7 +465,7 @@ dynamically (actually, this is true of all balloon tooltips).
 
 An example track configuration box  
 <a href="File:GBox.png" class="image" title="The GBox style"><img
-src="../mediawiki/images/4/4a/GBox.png" class="thumbborder" width="672"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBox.png" class="thumbborder" width="672"
 height="343" alt="The GBox style" /></a>
 
   
@@ -473,7 +473,7 @@ An example showing a box resized to stay onscreen, despite a small
 window.  
 <a href="File:RidiculouslySmallWindow.png" class="image"
 title="This is too small"><img
-src="../mediawiki/images/4/43/RidiculouslySmallWindow.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/RidiculouslySmallWindow.png"
 class="thumbborder" width="447" height="504"
 alt="This is too small" /></a>
 
@@ -646,7 +646,7 @@ Most of the new tooltip feayures described above are specific to GBrowse
 <div class="floatright">
 
 <a href="File:GBoxretro.png" class="image"><img
-src="../mediawiki/images/4/42/GBoxretro.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/GBoxretro.png" class="thumbborder"
 width="440" height="263" alt="GBoxretro.png" /></a>
 
 </div>

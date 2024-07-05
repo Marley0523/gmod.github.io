@@ -52,8 +52,8 @@ GMOD is Social
 
 <a href="http://twitter.com/gmodproject" rel="nofollow"
 title="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!"><img
-src="../mediawiki/images/thumb/2/20/Gmod-bird.jpg/50px-Gmod-bird.jpg"
-srcset="../mediawiki/images/thumb/2/20/Gmod-bird.jpg/75px-Gmod-bird.jpg 1.5x, ../mediawiki/images/thumb/2/20/Gmod-bird.jpg/100px-Gmod-bird.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/50px-Gmod-bird.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/75px-Gmod-bird.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/100px-Gmod-bird.jpg 2x"
 width="50" height="50"
 alt="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!" /></a>
 
@@ -72,7 +72,7 @@ rel="nofollow">@gmodproject</a>
 
 <a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
 rel="nofollow" title="GMOD group on LinkedIn"><img
-src="../mediawiki/images/a/a2/LinkedInLogo-60px.png" width="60"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/LinkedInLogo-60px.png" width="60"
 height="50" alt="GMOD group on LinkedIn" /></a>
 
 </div>
@@ -92,7 +92,7 @@ users</strong> on LinkedIn</a>
 <a
 href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 rel="nofollow" title="RSS feed"><img
-src="../mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
 alt="RSS feed" /></a>
 
 </div>
@@ -186,9 +186,9 @@ components](GMOD_Components "GMOD Components")
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, ../mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x"
 width="250" height="83" />](JBrowse.1 "JBrowse")
 
 <div class="thumbcaption">
@@ -214,9 +214,9 @@ JBrowse 2: New super-fast genome annotation viewer
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, ../mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" />](GBrowse.1 "GBrowse")
 
 <div class="thumbcaption">
@@ -242,9 +242,9 @@ GBrowse: Genome annotation viewer
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, ../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
 width="250" height="89" />](Galaxy.1 "Galaxy")
 
 <div class="thumbcaption">
@@ -271,9 +271,9 @@ Galaxy: Data analysis & integration
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/d/d5/ChadoLogo.png/250px-ChadoLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/250px-ChadoLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/d/d5/ChadoLogo.png/375px-ChadoLogo.png 1.5x, ../mediawiki/images/thumb/d/d5/ChadoLogo.png/500px-ChadoLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/375px-ChadoLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/500px-ChadoLogo.png 2x"
 width="250" height="56" />](Chado "Chado")
 
 <div class="thumbcaption">
@@ -299,9 +299,9 @@ Chado: Biological database schema
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/a/ac/JBrowseLogo.png/250px-JBrowseLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/250px-JBrowseLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, ../mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
 width="250" height="55" />](JBrowse.1 "JBrowse")
 
 <div class="thumbcaption">
@@ -326,7 +326,7 @@ JBrowse: Super-fast genome annotation viewer
 
 <div class="thumbinner" style="width:252px;">
 
-[<img src="../mediawiki/images/a/a4/Biomart250.png" class="thumbimage"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" class="thumbimage"
 width="250" height="99" />](BioMart "BioMart")
 
 <div class="thumbcaption">
@@ -352,9 +352,9 @@ BioMart: Data mining system
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/250px-WebApolloLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/250px-WebApolloLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/4/4a/WebApolloLogo.png/375px-WebApolloLogo.png 1.5x, ../mediawiki/images/thumb/4/4a/WebApolloLogo.png/500px-WebApolloLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/375px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/500px-WebApolloLogo.png 2x"
 width="250" height="69" />](WebApollo.1 "WebApollo")
 
 <div class="thumbcaption">
@@ -380,9 +380,9 @@ WebApollo: browser-based annotation editor
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/3/37/MAKERLogo.png/250px-MAKERLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/250px-MAKERLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/3/37/MAKERLogo.png/375px-MAKERLogo.png 1.5x, ../mediawiki/images/thumb/3/37/MAKERLogo.png/500px-MAKERLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/375px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/500px-MAKERLogo.png 2x"
 width="250" height="85" />](MAKER.1 "MAKER")
 
 <div class="thumbcaption">
@@ -408,9 +408,9 @@ MAKER: Genome annotation pipeline
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, ../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" />](GBrowse_syn.1 "GBrowse syn")
 
 <div class="thumbcaption">
@@ -437,9 +437,9 @@ GBrowse_syn: Synteny viewer
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/0/06/TripalLogo.png 1.5x, ../mediawiki/images/0/06/TripalLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" />](Tripal.1 "Tripal")
 
 <div class="thumbcaption">
@@ -465,9 +465,9 @@ Tripal: Chado web interface
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/1/13/InterMineLogo.png/250px-InterMineLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/250px-InterMineLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/13/InterMineLogo.png 1.5x, ../mediawiki/images/1/13/InterMineLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="250" height="31" />](InterMine "InterMine")
 
 <div class="thumbcaption">
@@ -493,9 +493,9 @@ InterMine: Data warehousing
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/250px-CMapLogo-horiz.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/250px-CMapLogo-horiz.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/375px-CMapLogo-horiz.png 1.5x, ../mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/500px-CMapLogo-horiz.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/375px-CMapLogo-horiz.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/500px-CMapLogo-horiz.png 2x"
 width="250" height="72" />](CMap.1 "CMap")
 
 <div class="thumbcaption">
@@ -521,9 +521,9 @@ CMap: Comparative map viewer
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/1/1b/PathwayTools.png/250px-PathwayTools.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/PathwayTools.png/250px-PathwayTools.png"
 class="thumbimage"
-srcset="../mediawiki/images/1/1b/PathwayTools.png 1.5x, ../mediawiki/images/1/1b/PathwayTools.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 2x"
 width="250" height="55" />](Pathway_Tools.1 "Pathway Tools")
 
 <div class="thumbcaption">
@@ -549,9 +549,9 @@ Pathway Tools: Metabolic, regulatory pathways
 <div class="thumbinner" style="width:252px;">
 
 [<img
-src="../mediawiki/images/thumb/7/7e/CantoTextLogo.png/250px-CantoTextLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/250px-CantoTextLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/7e/CantoTextLogo.png/375px-CantoTextLogo.png 1.5x, ../mediawiki/images/thumb/7/7e/CantoTextLogo.png/500px-CantoTextLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/375px-CantoTextLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/500px-CantoTextLogo.png 2x"
 width="250" height="62" />](Canto "Canto")
 
 <div class="thumbcaption">

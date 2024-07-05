@@ -38,7 +38,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-<a href="../mediawiki/images/0/0e/Mod-face-07jan-ApiDB.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Mod-face-07jan-ApiDB.pdf"
 class="internal" title="Mod-face-07jan-ApiDB.pdf">ApiDB: User Studies
 and Impact on Development</a>, by
 

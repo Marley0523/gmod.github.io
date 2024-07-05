@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 <a href="File:DhileepSivam_TryAgain.jpg" class="image"><img
-src="../mediawiki/images/4/42/DhileepSivam_TryAgain.jpg" width="149"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/DhileepSivam_TryAgain.jpg" width="149"
 height="187" alt="DhileepSivam TryAgain.jpg" /></a>  
 **Dhileep Sivam**
 

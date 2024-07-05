@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 <a href="File:Gbrowse_karyotype_labels.png" class="image"><img
-src="../mediawiki/images/e/eb/Gbrowse_karyotype_labels.png" width="537"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Gbrowse_karyotype_labels.png" width="537"
 height="200" alt="Gbrowse karyotype labels.png" /></a>
 
 <a href="http://mckay.cshl.edu/cgi-bin/gbrowse_karyotype"

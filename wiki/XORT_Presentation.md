@@ -39,7 +39,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
 This Wiki section is an edited version of
-<a href="../mediawiki/images/8/8e/XORT.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/XORT.pdf" class="internal"
 title="XORT.pdf">Josh Goodman and Pinglei Zhou's presentation</a>.
 
 <div id="toc" class="toc">

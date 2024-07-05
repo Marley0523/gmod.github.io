@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:MAKERLogo.png" class="image"><img
-src="../mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
-srcset="../mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, ../mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
 width="400" height="136" alt="MAKER logo" /></a>
 
 </div>
@@ -220,7 +220,7 @@ class="external text" rel="nofollow">MAKER website</a>.
 <div class="thumbinner" style="width:502px;">
 
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
-src="../mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
 
 <div class="thumbcaption">

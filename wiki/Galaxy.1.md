@@ -43,8 +43,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:GalaxyLogoBigger.png" class="image"><img
-src="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
-srcset="../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, ../mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
 width="400" height="142" alt="Galaxy logo" /></a>
 
 </div>
@@ -72,8 +72,8 @@ Licence
 <div class="floatleft">
 
 <a href="http://opensource.org/" rel="nofollow"><img
-src="../mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcset="../mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, ../mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
 </div>
@@ -179,8 +179,8 @@ to meet particular needs.
 
 <a href="File:GCC2019Logo.png" class="image"
 title="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference"><img
-src="../mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
-srcset="../mediawiki/images/e/ed/GCC2019Logo.png 1.5x, ../mediawiki/images/e/ed/GCC2019Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 2x"
 width="250" height="115"
 alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" /></a>
 
@@ -211,9 +211,9 @@ rel="nofollow">Galaxy website</a>.
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:Galaxy_screenshot-1.png" class="image"><img
-src="../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, ../mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
 width="300" height="205" /></a>
 
 <div class="thumbcaption">
@@ -240,9 +240,9 @@ Galaxy 'Upload file' tool
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:Galaxy_screenshot-2.png" class="image"><img
-src="../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, ../mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
 width="300" height="187" /></a>
 
 <div class="thumbcaption">
@@ -269,9 +269,9 @@ Galaxy 'Table Browser' tool
 <div class="thumbinner" style="width:302px;">
 
 <a href="File:Galaxy_screenshot-3.png" class="image"><img
-src="../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, ../mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
 width="300" height="226" /></a>
 
 <div class="thumbcaption">
@@ -557,8 +557,8 @@ application</a> and customizing it to meet particular needs.</p>
 <div class="floatleft">
 <a href="File:GCC2019Logo.png" class="image"
 title="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference"><img
-src="../mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
-srcset="../mediawiki/images/e/ed/GCC2019Logo.png 1.5x, ../mediawiki/images/e/ed/GCC2019Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 2x"
 width="250" height="115"
 alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" /></a>
 </div>

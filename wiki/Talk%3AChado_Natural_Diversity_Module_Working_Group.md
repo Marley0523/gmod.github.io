@@ -463,20 +463,20 @@ Europe and across the contiguous US.
 
 ## <span id="8_Feb_2010_Teleconference" class="mw-headline">8 Feb 2010 Teleconference</span>
 
-- <a href="../mediawiki/images/0/0c/NaturalDiversityChado20100208.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0c/NaturalDiversityChado20100208.pdf"
   class="internal" title="NaturalDiversityChado20100208.pdf">Proposal from
   Sook (PDF)</a>
-  (<a href="../mediawiki/images/9/95/NaturalDiversityChado20100208.pptx"
+  (<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/NaturalDiversityChado20100208.pptx"
   class="internal" title="NaturalDiversityChado20100208.pptx">PPT</a>)
 
 # <span id="March_2010" class="mw-headline">March 2010</span>
 
-- <a href="../mediawiki/images/8/88/ChadoDiversityMar032010.pdf"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/ChadoDiversityMar032010.pdf"
   class="internal" title="ChadoDiversityMar032010.pdf">New Proposal from
   Sook (PDF)</a>: Contains Use Cases and new/deleted/modified tables
   from HDB
 - <a
-  href="../mediawiki/images/3/3b/Natural_diversity_module_Mar03_2010.txt"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Natural_diversity_module_Mar03_2010.txt"
   class="internal" title="Natural diversity module Mar03 2010.txt">SQL</a>
 
 # <span id="April_2010" class="mw-headline">April 2010</span>
@@ -522,7 +522,7 @@ tables using cross- instead of crossexperiment-
 # <span id="simplified_schema_.28ND_tables_only.29" class="mw-headline">simplified schema (ND tables only)</span>
 
 <a href="File:Natdiv_simplified_SGN.png" class="image"><img
-src="../mediawiki/images/f/fa/Natdiv_simplified_SGN.png" width="1600"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/Natdiv_simplified_SGN.png" width="1600"
 height="943" alt="Natdiv simplified SGN.png" /></a>
 
 [Notes on simplified nd schema and Use

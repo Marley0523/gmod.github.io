@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:2011GMODAmericasSatellitesLogo.png" class="image"
 title="GMOD Americas 2011"><img
-src="../mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png"
-srcset="../mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/900px-2011GMODAmericasSatellitesLogo.png 1.5x, ../mediawiki/images/8/8e/2011GMODAmericasSatellitesLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/900px-2011GMODAmericasSatellitesLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/2011GMODAmericasSatellitesLogo.png 2x"
 width="600" height="238" alt="GMOD Americas 2011" /></a>
 
 </div>
@@ -168,7 +168,7 @@ on and exploit their data.</p></td>
 <td><a
 href="http://gmod.org/wiki/File:GMODAmericas2011Flier.pdfGMOD_Americas_2011_Flier"
 title="File:GMODAmericas2011Flier.pdfGMOD Americas 2011 Flier"><img
-src="../mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
 width="131" height="170"
 alt="GMODAmericas2011FlierThumb.png" /></a></td>
 </tr>

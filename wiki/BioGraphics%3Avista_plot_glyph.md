@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:982px;">
 
 <a href="File:Vista_plot.png" class="image"><img
-src="../mediawiki/images/7/71/Vista_plot.png" class="thumbimage"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Vista_plot.png" class="thumbimage"
 width="980" height="248" /></a>
 
 <div class="thumbcaption">

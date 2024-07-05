@@ -85,7 +85,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:50.5px auto;">
 
   <a href="File:Rgd-logo.gif" class="image"><img
-  src="../mediawiki/images/thumb/e/ed/Rgd-logo.gif/120px-Rgd-logo.gif"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/Rgd-logo.gif/120px-Rgd-logo.gif"
   width="120" height="49" alt="Rgd-logo.gif" /></a>
 
   </div>
@@ -108,7 +108,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:37.5px auto;">
 
   <a href="File:RgdMainPageIcon.gif" class="image"><img
-  src="../mediawiki/images/c/c7/RgdMainPageIcon.gif" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c7/RgdMainPageIcon.gif" width="120"
   height="75" alt="RgdMainPageIcon.gif" /></a>
 
   </div>
@@ -131,7 +131,7 @@ The following 3 files are in this category, out of 3 total.
   <div style="margin:41.5px auto;">
 
   <a href="File:RgdRatLogo.png" class="image"><img
-  src="../mediawiki/images/7/73/RgdRatLogo.png" width="120" height="67"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/73/RgdRatLogo.png" width="120" height="67"
   alt="RgdRatLogo.png" /></a>
 
   </div>

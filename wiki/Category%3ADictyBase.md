@@ -113,7 +113,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:40px auto;">
 
   <a href="File:DictyLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/6/69/DictyLogo.png/120px-DictyLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/DictyLogo.png/120px-DictyLogo.png"
   width="120" height="70" alt="DictyLogo.png" /></a>
 
   </div>
@@ -136,7 +136,7 @@ The following 4 files are in this category, out of 4 total.
   <div style="margin:36.5px auto;">
 
   <a href="File:DictyMainPageLogo.png" class="image"><img
-  src="../mediawiki/images/a/a8/DictyMainPageLogo.png" width="120"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/DictyMainPageLogo.png" width="120"
   height="77" alt="DictyMainPageLogo.png" /></a>
 
   </div>

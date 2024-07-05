@@ -61,7 +61,7 @@ structures and regulatory regions</li>
 class="external text">Mediawiki</a> tips</li>
 </ul></td>
 <td style="vertical-align: top"><p><a href="File:Bilardi.png"
-class="image"><img src="../mediawiki/images/4/48/Bilardi.png"
+class="image"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Bilardi.png"
 width="150" height="150" alt="Bilardi.png" /></a></p></td>
 </tr>
 </tbody>

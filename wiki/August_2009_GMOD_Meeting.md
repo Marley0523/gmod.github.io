@@ -58,10 +58,10 @@ title="2009 GMOD Summer School - Europe">GMOD Summer School</a></span>
 <p><br />
 <a href="File:Aug2009MeetingPhoto.JPG" class="image"
 title="August 2009 GMOD Meeting"><img
-src="../mediawiki/images/c/c8/Aug2009MeetingPhoto.JPG" width="300"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Aug2009MeetingPhoto.JPG" width="300"
 height="85" alt="August 2009 GMOD Meeting" /></a></p></td>
 <td><a href="GMOD_Europe_2009" title="GMOD Europe 2009"><img
-src="../mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
 height="256" alt="GMOD Europe 2009" /></a></td>
 </tr>
 </tbody>
@@ -323,9 +323,9 @@ title="User%3AScott">Scott Cain</a> - Introductions and the State of
 GMOD</td>
 <td><a href="http://prezi.com/143773/" class="external text"
 rel="nofollow">Prezi</a>, <a
-href="../mediawiki/images/1/15/Aug2009StateOfGMOD.ppt" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/Aug2009StateOfGMOD.ppt" class="internal"
 title="Aug2009StateOfGMOD.ppt">PPT</a>, <a
-href="../mediawiki/images/f/fb/Aug2009StateOfGMOD.pdf" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Aug2009StateOfGMOD.pdf" class="internal"
 title="Aug2009StateOfGMOD.pdf">PDF</a>, <a
 href="#GMOD_Project_Talks">Summary</a></td>
 </tr>
@@ -337,7 +337,7 @@ title="GMOD Help Desk">GMOD Help Desk</a> Stuff</td>
 <td><a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009GMODHelpDesk.ppt"
 class="external text" rel="nofollow">PPT</a>, <a
-href="../mediawiki/images/2/24/Aug2009HelpDesk.pdf" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/Aug2009HelpDesk.pdf" class="internal"
 title="Aug2009HelpDesk.pdf">PDF</a>, <a
 href="#GMOD_Project_Talks">Summary</a></td>
 </tr>
@@ -345,7 +345,7 @@ href="#GMOD_Project_Talks">Summary</a></td>
 <td>15:00-15:30</td>
 <td style="text-align: center;"><a href="User%3AJunZhao"
 title="User%3AJunZhao">Jun Zhao</a> - Linked Data for GMOD Databases</td>
-<td><a href="../mediawiki/images/4/4c/Aug2009LinkedData.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Aug2009LinkedData.pdf"
 class="internal" title="Aug2009LinkedData.pdf">PDF</a>, <a
 href="#Linked_Data_for_GMOD_Databases">Summary</a></td>
 </tr>
@@ -379,7 +379,7 @@ href="#A_DBIx_Class_layer_for_Chado">Summary</a></td>
 <td style="text-align: center;"><a href="User%3AElee" title="User%3AElee">Ed
 Lee</a> - <a href="http://code.google.com/p/gbol" class="external text"
 rel="nofollow">GMOD Biological Object Layer</a></td>
-<td><a href="../mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
 title="Aug2009Gobol.pdf">PDF</a>, <a
 href="#GMOD_Biological_Object_Layer">Summary</a></td>
 </tr>
@@ -407,7 +407,7 @@ href="http://www.sanger.ac.uk/Users/lh3/" class="external text"
 rel="nofollow">Heng Li</a> - Quest for Standard: Sequence alignment/map
 format (SAM) and <a href="http://samtools.sourceforge.net"
 class="external text" rel="nofollow">SAMtools</a></td>
-<td><a href="../mediawiki/images/9/9c/Aug2009Sam.pdf" class="internal"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Aug2009Sam.pdf" class="internal"
 title="Aug2009Sam.pdf">PDF</a>, <a
 href="#Quest_for_Standard:_Sequence_alignment.2Fmap_format_.28SAM.29_and_SAMtools">Summary</a></td>
 </tr>
@@ -427,7 +427,7 @@ href="#Visualising_NGS_Data_in_GBrowse_2">Summary</a></td>
 <td>9:45-10:15</td>
 <td style="text-align: center;">Erick Antezana &amp; Frederic Potier -
 GBrowse: Lessons Learned and Statement of Interest</td>
-<td><a href="../mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf"
 class="internal" title="Aug2009GBrowse2ImplPersp.pdf">PDF</a>, <a
 href="#GBrowse:_Lessons_Learned_and_Statement_of_Interest">Summary</a></td>
 </tr>
@@ -435,7 +435,7 @@ href="#GBrowse:_Lessons_Learned_and_Statement_of_Interest">Summary</a></td>
 <td>10:15-11:45</td>
 <td style="text-align: center;">Ian Holmes - <a href="JBrowse.1"
 title="JBrowse">JBrowse</a></td>
-<td><a href="../mediawiki/images/5/59/Aug2009JBrowse.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Aug2009JBrowse.pdf"
 class="internal" title="Aug2009JBrowse.pdf">PDF</a>, <a
 href="#JBrowse">Summary</a></td>
 </tr>
@@ -449,7 +449,7 @@ href="#JBrowse">Summary</a></td>
 <td style="text-align: center;"><a href="User%3AMckays"
 title="User%3AMckays">Sheldon McKay</a> - <a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse_syn</a></td>
-<td><a href="../mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
 class="internal" title="Aug2009GBrowse syn.pdf">PDF</a>, <a
 href="#GBRowse_syn">Summary</a></td>
 </tr>
@@ -471,7 +471,7 @@ do (and not do)?</td>
 <td style="text-align: center;">Alessandra Bilardi - <a
 href="http://gbrowse.org" class="external text"
 rel="nofollow">GBrowse.org</a></td>
-<td><a href="../mediawiki/images/1/18/Aug2009GBrowseOrg.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/Aug2009GBrowseOrg.pdf"
 class="internal" title="Aug2009GBrowseOrg.pdf">PDF</a>, <a
 href="#GBrowse.org">Summary</a></td>
 </tr>
@@ -479,9 +479,9 @@ href="#GBrowse.org">Summary</a></td>
 <td>14:00-14:30</td>
 <td style="text-align: center;">Jonathan Warren - <a href="DAS"
 class="mw-redirect" title="DAS">DAS</a> update</td>
-<td><a href="../mediawiki/images/b/b6/Aug2009DASUpdate.ppt"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Aug2009DASUpdate.ppt"
 class="internal" title="Aug2009DASUpdate.ppt">PPT</a>, <a
-href="../mediawiki/images/a/a7/Aug2009DASUpdate.pdf" class="internal"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Aug2009DASUpdate.pdf" class="internal"
 title="Aug2009DASUpdate.pdf">PDF</a>, <a
 href="#DAS_update">Summary</a></td>
 </tr>
@@ -505,7 +505,7 @@ title="InterMine">InterMine</a> update</td>
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/1/11/Aug2009Scott.JPG" width="250"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Aug2009Scott.JPG" width="250"
 height="86" alt="Scott" />](User%3AScott "Scott")
 
 </div>
@@ -513,16 +513,16 @@ height="86" alt="Scott" />](User%3AScott "Scott")
 *[Scott Cain](User%3AScott "User%3AScott"), Ontario Institute for Cancer
 Research, <a href="http://prezi.com/143773/" class="external text"
 rel="nofollow">Intro</a>, What's New
-<a href="../mediawiki/images/1/15/Aug2009StateOfGMOD.ppt"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/Aug2009StateOfGMOD.ppt"
 class="internal" title="Aug2009StateOfGMOD.ppt">PPT</a>,
-<a href="../mediawiki/images/f/fb/Aug2009StateOfGMOD.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Aug2009StateOfGMOD.pdf"
 class="internal" title="Aug2009StateOfGMOD.pdf">PDF</a>*  
 *[Dave Clements](User%3AClements "User%3AClements"),
 <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a>, Help Desk Update, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2009/August/Aug2009GMODHelpDesk.ppt"
 class="external text" rel="nofollow">PPT</a>,
-<a href="../mediawiki/images/2/24/Aug2009HelpDesk.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/Aug2009HelpDesk.pdf" class="internal"
 title="Aug2009HelpDesk.pdf">PDF</a>*
 
 ### <span id="HHMI_Science_Education_Alliance" class="mw-headline">HHMI Science Education Alliance</span>
@@ -705,14 +705,14 @@ rel="nofollow">Linked Data</a> for GMOD Databases</span>
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/f/fb/Aug2009JunPhoto.JPG" width="150"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Aug2009JunPhoto.JPG" width="150"
 height="100" alt="Jun Zhao" />](User%3AJunZhao "Jun Zhao")
 
 </div>
 
 *[Jun Zhao](User%3AJunZhao "User%3AJunZhao"), Department of Zoology,
 University of Oxford,
-<a href="../mediawiki/images/4/4c/Aug2009LinkedData.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Aug2009LinkedData.pdf"
 class="internal" title="Aug2009LinkedData.pdf">PDF</a>*
 
 Jun first introduced the
@@ -835,7 +835,7 @@ and risks:
 
 <a href="File:Aug2009Stephen.JPG" class="image"
 title="Stephen Taylor"><img
-src="../mediawiki/images/a/aa/Aug2009Stephen.JPG" width="200"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Aug2009Stephen.JPG" width="200"
 height="74" alt="Stephen Taylor" /></a>
 
 </div>
@@ -915,7 +915,7 @@ external developers:
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/8/82/Sgn_small_tag.png" width="116"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Sgn_small_tag.png" width="116"
 height="28" alt="Sol Genomics Network" />](User%3ARobertBuels "Sol Genomics Network")
 
 </div>
@@ -978,7 +978,7 @@ rel="nofollow">GMOD Biological Object Layer</a></span>
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/e/ea/Aug2009Ed.JPG" width="200"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/Aug2009Ed.JPG" width="200"
 height="90" alt="Ed Lee" />](User%3AElee "Ed Lee")
 
 </div>
@@ -986,7 +986,7 @@ height="90" alt="Ed Lee" />](User%3AElee "Ed Lee")
 *[Ed Lee](User%3AElee "User%3AElee"),
 <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">BBOP</a>,
-<a href="../mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Aug2009Gobol.pdf" class="internal"
 title="Aug2009Gobol.pdf">PDF</a>*
 
 Ed has been working with E.O. Stinson and Robert Bruggner at BBOP, and
@@ -1092,7 +1092,7 @@ Meeting](January_2009_GMOD_Meeting "January 2009 GMOD Meeting").
 <div class="floatright">
 
 <a href="File:Aug2009Heng.JPG" class="image" title="Heng Li"><img
-src="../mediawiki/images/c/c2/Aug2009Heng.JPG" width="200" height="134"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Aug2009Heng.JPG" width="200" height="134"
 alt="Heng Li" /></a>
 
 </div>
@@ -1101,7 +1101,7 @@ alt="Heng Li" /></a>
 rel="nofollow">Heng Li</a>,
 <a href="http://www.sanger.ac.uk/" class="external text"
 rel="nofollow">Wellcome Trust Sanger Institute</a>,
-<a href="../mediawiki/images/9/9c/Aug2009Sam.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Aug2009Sam.pdf" class="internal"
 title="Aug2009Sam.pdf">PDF</a>*
 
 Heng spoke about
@@ -1303,13 +1303,13 @@ have a lot of bioinformatics infrastructure in place first.
 <div class="floatright">
 
 <a href="File:Aug2009Erick.JPG" class="image" title="Erick"><img
-src="../mediawiki/images/7/75/Aug2009Erick.JPG" width="200" height="95"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/75/Aug2009Erick.JPG" width="200" height="95"
 alt="Erick" /></a>
 
 </div>
 
 *Erick Antezana & Frederic Potier, Bayer CropScience,
-<a href="../mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf"
 class="internal" title="Aug2009GBrowse2ImplPersp.pdf">PDF</a>*
 
 ### <span id="History_and_Current_GBrowse_Infrastructure" class="mw-headline">History and Current GBrowse Infrastructure</span>
@@ -1497,13 +1497,13 @@ Our priorities for further developments:
 <div class="floatright">
 
 <a href="File:Aug2009Ian.JPG" class="image" title="Ian Holmes"><img
-src="../mediawiki/images/9/9d/Aug2009Ian.JPG" width="200" height="93"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Aug2009Ian.JPG" width="200" height="93"
 alt="Ian Holmes" /></a>
 
 </div>
 
 *Ian Holmes, University of California - Berkeley,
-<a href="../mediawiki/images/5/59/Aug2009JBrowse.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Aug2009JBrowse.pdf" class="internal"
 title="Aug2009JBrowse.pdf">PDF</a>*
 
 Some useful links:
@@ -1564,7 +1564,7 @@ work.
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/c/ca/Aug2009Sheldon.JPG" width="100"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Aug2009Sheldon.JPG" width="100"
 height="126" alt="Sheldon McKay" />](User%3AMckays "Sheldon McKay")
 
 </div>
@@ -1572,7 +1572,7 @@ height="126" alt="Sheldon McKay" />](User%3AMckays "Sheldon McKay")
 *[Sheldon McKay](User%3AMckays "User%3AMckays"),
 <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory (CSHL)</a>,
-<a href="../mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Aug2009GBrowse_syn.pdf"
 class="internal" title="Aug2009GBrowse syn.pdf">PDF</a>*
 
 A <a href="Synteny" class="mw-redirect" title="Synteny">synteny</a>
@@ -1760,7 +1760,7 @@ rel="nofollow">GBrowse.org</a></span>
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/a/a0/Aug2009Alessandra.JPG" width="150"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a0/Aug2009Alessandra.JPG" width="150"
 height="124" alt="Alessandra" />](User%3ABilardi "Alessandra")
 
 </div>
@@ -1768,7 +1768,7 @@ height="124" alt="Alessandra" />](User%3ABilardi "Alessandra")
 *[Alessandra Bilardi](User%3ABilardi "User%3ABilardi"),
 <a href="http://www.cribi.unipd.it/" class="external text"
 rel="nofollow">CRIBI Biotech Center Padua University</a>,
-<a href="../mediawiki/images/1/18/Aug2009GBrowseOrg.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/Aug2009GBrowseOrg.pdf"
 class="internal" title="Aug2009GBrowseOrg.pdf">PDF</a>*
 
 Alessandra created <a href="http://gbrowse.org" class="external text"
@@ -1813,15 +1813,15 @@ rel="nofollow">GBrowse.org</a>.
 <div class="floatright">
 
 <a href="File:Aug2009Jonathan.JPG" class="image"><img
-src="../mediawiki/images/9/92/Aug2009Jonathan.JPG" width="175"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Aug2009Jonathan.JPG" width="175"
 height="103" alt="Aug2009Jonathan.JPG" /></a>
 
 </div>
 
 *Jonathan Warren, Sanger Institute,
-<a href="../mediawiki/images/b/b6/Aug2009DASUpdate.ppt" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Aug2009DASUpdate.ppt" class="internal"
 title="Aug2009DASUpdate.ppt">PPT</a>,
-<a href="../mediawiki/images/a/a7/Aug2009DASUpdate.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Aug2009DASUpdate.pdf" class="internal"
 title="Aug2009DASUpdate.pdf">PDF</a>*
 
 Jonathan started with an introduction to
@@ -1946,7 +1946,7 @@ to support this.
 <div class="floatright">
 
 <a href="File:Aug2009Julie.JPG" class="image" title="Julie"><img
-src="../mediawiki/images/b/bc/Aug2009Julie.JPG" width="175" height="103"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bc/Aug2009Julie.JPG" width="175" height="103"
 alt="Julie" /></a>
 
 </div>
@@ -2060,8 +2060,8 @@ Any meeting participant can send an email to the list.
 <div class="floatright">
 
 <a href="http://www.molbiol.ox.ac.uk/" rel="nofollow" title="CBRG"><img
-src="../mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
-srcset="../mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, ../mediawiki/images/a/ad/Cbrg.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/300px-Cbrg.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Cbrg.jpg/450px-Cbrg.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Cbrg.jpg 2x"
 width="300" height="30" alt="CBRG" /></a>
 
 </div>
@@ -2251,7 +2251,7 @@ future?**
 
 <div class="floatright">
 
-[<img src="../mediawiki/images/3/39/Jan2010MtgLogo170.png" width="170"
+[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Jan2010MtgLogo170.png" width="170"
 height="162" alt="January 2010 GMOD Meeting" />](January_2010_GMOD_Meeting "January 2010 GMOD Meeting")
 
 </div>

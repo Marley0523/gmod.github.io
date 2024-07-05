@@ -112,7 +112,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F20627860">PMID:20627860</span>
   <sup>[\[11\]](#cite_note-PMID:20627860-11)</sup>
-  <a href="../mediawiki/images/5/50/ChoosingAGenomeBrowser.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/ChoosingAGenomeBrowser.pdf"
   class="internal" title="ChoosingAGenomeBrowser.pdf">PDF</a>
 - <a href="http://www.aphidbase.com/" class="external text"
   rel="nofollow">AphidBase</a>: a centralized bioinformatic resource for
@@ -202,7 +202,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   microarray data <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F17570842">PMID:17570842</span>
   <sup>[\[31\]](#cite_note-PMID:17570842-31)</sup>
-  <a href="../mediawiki/images/d/df/Gb-2007-8-6-r112.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Gb-2007-8-6-r112.pdf" class="internal"
   title="Gb-2007-8-6-r112.pdf">PDF</a>
 - Genome-Wide Analysis of Nucleotide-Level Variation in Commonly Used
   Saccharomyces cerevisiae Strains. <span class="Z3988"
@@ -227,7 +227,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   species genomes. <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F17202166">PMID:17202166</span>
   <sup>[\[35\]](#cite_note-PMID:17202166-35)</sup>
-  <a href="../mediawiki/images/b/b1/D480.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/D480.pdf" class="internal"
   title="D480.pdf">PDF</a>
 - <a href="http://t1dbase.org" class="external text"
   rel="nofollow">T1DBase</a>: integration and presentation of complex
@@ -244,7 +244,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   data. <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F17142227">PMID:17142227</span>
   <sup>[\[38\]](#cite_note-PMID:17142227-38)</sup>
-  <a href="../mediawiki/images/a/a8/Gkl777.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/Gkl777.pdf" class="internal"
   title="Gkl777.pdf">PDF</a>
 - Expanded protein information at SGD: new pages and proteome browser.
   <span class="Z3988"
@@ -265,7 +265,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   organism database for Tribolium castaneum. <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F17090595">PMID:17090595</span>
   <sup>[\[42\]](#cite_note-PMID:17090595-42)</sup>
-  <a href="../mediawiki/images/b/b3/Gkl776.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/Gkl776.pdf" class="internal"
   title="Gkl776.pdf">PDF</a>
 - <a href="http://xanthusbase.org/" class="external text"
   rel="nofollow">Xanthusbase</a>: adapting wikipedia principles to a
@@ -296,7 +296,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   browser for comparative sequence analysis. <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F15994196">PMID:15994196</span>
   <sup>[\[48\]](#cite_note-PMID:15994196-48)</sup>
-  <a href="../mediawiki/images/2/23/3461.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/3461.pdf" class="internal"
   title="3461.pdf">PDF</a>
 - <a href="http://www.genome.arizona.edu/" class="external text"
   rel="nofollow">FPC Web tools</a> for rice, maize, and distribution.
@@ -313,7 +313,7 @@ rel="nofollow">COiNs bibliographic data</a>.
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F15752432">PMID:15752432</span>
   <sup>[\[51\]](#cite_note-PMID:15752432-51)</sup>
-  <a href="../mediawiki/images/5/5e/1471-2105-6-45.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5e/1471-2105-6-45.pdf" class="internal"
   title="1471-2105-6-45.pdf">PDF</a>
 - <a href="http://www.comparative-legumes.org/" class="external text"
   rel="nofollow">The Legume Information System (LIS)</a>: an integrated
@@ -342,20 +342,20 @@ rel="nofollow">COiNs bibliographic data</a>.
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F12582244">PMID:12582244</span>
   <sup>[\[56\]](#cite_note-PMID:12582244-56)</sup>
-  <a href="../mediawiki/images/0/07/Gkg222.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Gkg222.pdf" class="internal"
   title="Gkg222.pdf">PDF</a>
 - [Apollo](Apollo.1 "Apollo"): a sequence annotation editor.
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F12537571">PMID:12537571</span>
   <sup>[\[57\]](#cite_note-PMID:12537571-57)</sup>
-  <a href="../mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf"
   class="internal" title="Gb-2002-3-12-research0082.pdf">PDF</a>
 - The [generic genome browser (GBrowse)](GBrowse.1 "GBrowse"): a
   building block for a model organism system database.
   <span class="Z3988"
   title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F12368253">PMID:12368253</span>
   <sup>[\[58\]](#cite_note-PMID:12368253-58)</sup>
-  <a href="../mediawiki/images/e/e7/1599-1.pdf" class="internal"
+  <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/1599-1.pdf" class="internal"
   title="1599-1.pdf">PDF</a>
 
   

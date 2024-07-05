@@ -202,7 +202,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:56px auto;">
 
   <a href="File:GBrowse_syn_logo.png" class="image"><img
-  src="../mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/120px-GBrowse_syn_logo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/120px-GBrowse_syn_logo.png"
   width="120" height="38" alt="GBrowse syn logo.png" /></a>
 
   </div>
@@ -321,7 +321,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:40.5px auto;">
 
   <a href="File:WGA_data.png" class="image"><img
-  src="../mediawiki/images/thumb/c/cf/WGA_data.png/120px-WGA_data.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/WGA_data.png/120px-WGA_data.png"
   width="120" height="69" alt="WGA data.png" /></a>
 
   </div>

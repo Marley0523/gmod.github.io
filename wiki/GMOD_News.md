@@ -56,7 +56,7 @@ href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limi
 class="external text" rel="nofollow">RSS feed</a>**. <a
 href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 rel="nofollow" title="RSS feed"><img
-src="../mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
 alt="RSS feed" /></a>
 
 <div id="toc" class="toc">
@@ -96,9 +96,9 @@ Proposals for GSoC 2024</a></h3>
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
-src="http://gmod.org/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
 width="272" height="272"
-srcset="/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
 </div>
 <p>The Open Genome Informatics group and GMOD has submitted an
@@ -207,9 +207,9 @@ intron and upstream/downstream sequence in the feature details</p>
 <p><a
 href="http://gmod.org/wiki/File:Upstream_downstream.png#58;//gmod.org/wiki/File:Upstream_downstream.png"
 class="image">&lt;img alt="Upstream downstream.png"
-src="http://gmod.org/mediawiki/images/thumb/7/76/Upstream_downstream.png/700px-Upstream_downstream.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/700px-Upstream_downstream.png"
 width="700" height="248"
-srcset="/mediawiki/images/thumb/7/76/Upstream_downstream.png/1050px-Upstream_downstream.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/1050px-Upstream_downstream.png
 1.5x,
 /mediawiki/images/thumb/7/76/Upstream_downstream.png/1400px-Upstream_downstream.png
 2x" /&gt;</a></p>
@@ -234,7 +234,7 @@ access to full screen JBrowse web.</p>
 <p><a
 href="http://gmod.org/wiki/File:Minimize_button_demo.gif#58;//gmod.org/wiki/File:Minimize_button_demo.gif"
 class="image">&lt;img alt="Minimize button demo.gif"
-src="http://gmod.org/mediawiki/images/0/0f/Minimize_button_demo.gif"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Minimize_button_demo.gif"
 width="480" height="414" /&gt;</a></p>
 <p>Demo of using the minimize button in the drawer</p>
 <h3 id="downloads"><span id="Downloads"
@@ -346,9 +346,9 @@ Proposals for GSoC 2021</a></h3>
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
-src="http://gmod.org/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
 width="272" height="272"
-srcset="/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
 </div>
 <p>The Genome Informatics group and GMOD will be submitting an
@@ -394,7 +394,7 @@ title="GMOD News">GMOD News</a> on 2021/02/16</em>
 <a
 href="http://gmod.org/wiki/File:Palms.jpg#58;//gmod.org/wiki/File:Palms.jpg"
 class="image">&lt;img alt="Palms.jpg"
-src="http://gmod.org/mediawiki/images/d/df/Palms.jpg" width="1052"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Palms.jpg" width="1052"
 height="218" /&gt;</a>
 </div>
 </div>
@@ -431,10 +431,10 @@ any combination of GMOD projects), including but not limited to</p>
 <a
 href="http://gmod.org/wiki/File:EvoHackLaptops2010.jpg#58;//gmod.org/wiki/File:EvoHackLaptops2010.jpg"
 class="image" title="GMOD Hackathon">&lt;img alt="GMOD Hackathon"
-src="http://gmod.org/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
 width="200" height="119"
-srcset="/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg
-1.5x, /mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x" /&gt;</a>
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg
+1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x" /&gt;</a>
 </div>
 <ul>
 <li><a
@@ -553,9 +553,9 @@ release</a></h3>
 <a
 href="http://gmod.org/wiki/https://jbrowse.org/jb2/#58;//jbrowse.org/jb2/"
 rel="nofollow" title="JBrowse">&lt;img alt="JBrowse"
-src="http://gmod.org/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/200px-Jbrowse2_logo.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/200px-Jbrowse2_logo.png"
 width="200" height="67"
-srcset="/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/300px-Jbrowse2_logo.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/300px-Jbrowse2_logo.png
 1.5x,
 /mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png
 2x" /&gt;</a>
@@ -597,9 +597,9 @@ Proposals for GSoC 2020</a></h3>
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/GSoC#58;//gmod.org/wiki/GSoC"
 title="GSoC">&lt;img alt="GoogleSummer 2016logo.jpg"
-src="http://gmod.org/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/GoogleSummer_2016logo.jpg/272px-GoogleSummer_2016logo.jpg.png"
 width="272" height="272"
-srcset="/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 1.5x,
 /mediawiki/images/5/5d/GoogleSummer_2016logo.jpg 2x" /&gt;</a>
 </div>
 <p>The Genome Informatics group and GMOD will be submitting an
@@ -719,18 +719,18 @@ title="GMOD News">GMOD News</a> on 2016/09/23</em>
 href="http://gmod.org/wiki/https://gcc2016.iu.edu/#58;//gcc2016.iu.edu/"
 rel="nofollow" title="2016 Galaxy Community Conference">&lt;img
 alt="2016 Galaxy Community Conference"
-src="http://gmod.org/mediawiki/images/thumb/1/1c/GCC2016Logo.png/250px-GCC2016Logo.png"
-width="250" height="167" srcset="/mediawiki/images/1/1c/GCC2016Logo.png
-1.5x, /mediawiki/images/1/1c/GCC2016Logo.png 2x" /&gt;</a>
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/GCC2016Logo.png/250px-GCC2016Logo.png"
+width="250" height="167" srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/GCC2016Logo.png
+1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/GCC2016Logo.png 2x" /&gt;</a>
 </div>
 <div class="floatright">
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jun_2016_GMOD_Meeting#58;//gmod.org/wiki/Jun_2016_GMOD_Meeting"
 title="Jun 2016 GMOD Meeting">&lt;img alt="GMOD2016ColorsBigLetters
 300px.png"
-src="http://gmod.org/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/150px-GMOD2016ColorsBigLetters_300px.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/150px-GMOD2016ColorsBigLetters_300px.png"
 width="150" height="126"
-srcset="/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/225px-GMOD2016ColorsBigLetters_300px.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/225px-GMOD2016ColorsBigLetters_300px.png
 1.5x,
 /mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/300px-GMOD2016ColorsBigLetters_300px.png
 2x" /&gt;</a>
@@ -820,9 +820,9 @@ Meeting</a></h3>
 href="http://gmod.org/wiki/http://gmod.org/wiki/Jun_2016_GMOD_Meeting#58;//gmod.org/wiki/Jun_2016_GMOD_Meeting"
 title="Jun 2016 GMOD Meeting">&lt;img alt="GMOD2016ColorsBigLetters
 300px.png"
-src="http://gmod.org/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/260px-GMOD2016ColorsBigLetters_300px.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/260px-GMOD2016ColorsBigLetters_300px.png"
 width="260" height="218"
-srcset="/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x,
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x,
 /mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x" /&gt;</a>
 </div>
 <p><strong>The <a
@@ -869,7 +869,7 @@ href="News/Please_Support_EcoCyc">Please Support EcoCyc</a></h3>
 <div class="floatright">
 <a href="http://gmod.org/wiki/http://ecocyc.org#58;//ecocyc.org"
 rel="nofollow">&lt;img alt="EcoCyc website"
-src="http://gmod.org/mediawiki/images/4/44/BioCyc.gif" width="216"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/BioCyc.gif" width="216"
 height="60" /&gt;</a>
 </div>
 <p><a href="http://gmod.org/wiki/http://ecocyc.org#58;//ecocyc.org"
@@ -1020,9 +1020,9 @@ Biocuration 2014</a></h3>
 <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/Canto#58;//gmod.org/wiki/Canto"
 title="Canto">&lt;img alt="CantoTextLogo.png"
-src="http://gmod.org/mediawiki/images/thumb/7/7e/CantoTextLogo.png/240px-CantoTextLogo.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/240px-CantoTextLogo.png"
 width="240" height="59"
-srcset="/mediawiki/images/thumb/7/7e/CantoTextLogo.png/360px-CantoTextLogo.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/360px-CantoTextLogo.png
 1.5x,
 /mediawiki/images/thumb/7/7e/CantoTextLogo.png/480px-CantoTextLogo.png
 2x" /&gt;</a>
@@ -1031,7 +1031,7 @@ srcset="/mediawiki/images/thumb/7/7e/CantoTextLogo.png/360px-CantoTextLogo.png
 <a
 href="http://gmod.org/wiki/http://biocuration2014.events.oicr.on.ca/#58;//biocuration2014.events.oicr.on.ca/"
 rel="nofollow">&lt;img alt="ISBLogo.jpg"
-src="http://gmod.org/mediawiki/images/8/8d/ISBLogo.jpg" width="240"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/ISBLogo.jpg" width="240"
 height="71" /&gt;</a>
 </div>
 <p>GMOD will be running a workshop at <a
@@ -1144,10 +1144,10 @@ href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wik
 rel="nofollow"
 title="2014 Galaxy Community Conference (GCC2014)">&lt;img alt="2014
 Galaxy Community Conference (GCC2014)"
-src="http://gmod.org/mediawiki/images/thumb/a/a4/GCC2014Logo.png/300px-GCC2014Logo.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/300px-GCC2014Logo.png"
 width="300" height="126"
-srcset="/mediawiki/images/thumb/a/a4/GCC2014Logo.png/450px-GCC2014Logo.png
-1.5x, /mediawiki/images/thumb/a/a4/GCC2014Logo.png/600px-GCC2014Logo.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/450px-GCC2014Logo.png
+1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/600px-GCC2014Logo.png
 2x" /&gt;</a>
 </div>
 <div class="floatright">
@@ -1155,9 +1155,9 @@ srcset="/mediawiki/images/thumb/a/a4/GCC2014Logo.png/450px-GCC2014Logo.png
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014/TrainingDay#58;//wiki.galaxyproject.org/Events/GCC2014/TrainingDay"
 rel="nofollow" title="GCC2014 Training Day">&lt;img alt="GCC2014
 Training Day"
-src="http://gmod.org/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
 width="80" height="120"
-srcset="/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/120px-GCC2014TDLogo.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/120px-GCC2014TDLogo.png
 1.5x,
 /mediawiki/images/thumb/4/43/GCC2014TDLogo.png/160px-GCC2014TDLogo.png
 2x" /&gt;</a>
@@ -1222,9 +1222,9 @@ this meeting wants to hear about your work.</em></p>
 href="http://gmod.org/wiki/http://www.gigasciencejournal.com/#58;//www.gigasciencejournal.com/"
 rel="nofollow" title="GigaScience Journal">&lt;img alt="GigaScience
 Journal"
-src="http://gmod.org/mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/120px-GigaScienceLogo250.png"
+src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/120px-GigaScienceLogo250.png"
 width="120" height="39"
-srcset="/mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/180px-GigaScienceLogo250.png
+srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/180px-GigaScienceLogo250.png
 1.5x,
 /mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/240px-GigaScienceLogo250.png
 2x" /&gt;</a>

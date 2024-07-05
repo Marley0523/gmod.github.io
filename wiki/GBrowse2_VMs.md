@@ -98,9 +98,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="thumbinner" style="width:352px;">
 
 <a href="File:GBrowse_virtualbox1.png" class="image"><img
-src="../mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/350px-GBrowse_virtualbox1.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/350px-GBrowse_virtualbox1.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/525px-GBrowse_virtualbox1.png 1.5x, ../mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/700px-GBrowse_virtualbox1.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/525px-GBrowse_virtualbox1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/700px-GBrowse_virtualbox1.png 2x"
 width="350" height="290" /></a>
 
 <div class="thumbcaption">
@@ -115,7 +115,7 @@ height="11" /></a>
 </div>
 
 GBrowse running under VirtualBox\]
-<a href="../mediawiki/images/b/bb/GBrowse_virtualbox1.png"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bb/GBrowse_virtualbox1.png"
 class="internal" title="GBrowse virtualbox1.png">Click to view at full
 resolution</a>
 
@@ -177,7 +177,7 @@ Next, download GBrowse2, VirtualBox Edition.
     class="external text" rel="nofollow">Growse 2.52, VirtualBox
     Edition.ova</a>
   - As a torrent file: <a
-    href="../mediawiki/images/c/cc/GBrowse_2.52_VirtualBox_Edition.torrent"
+    href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cc/GBrowse_2.52_VirtualBox_Edition.torrent"
     class="internal"
     title="GBrowse 2.52 VirtualBox Edition.torrent">GBrowse_2.52_VirtualBox_Edition.torrent</a>.
 
@@ -191,7 +191,7 @@ Next, download GBrowse2, VirtualBox Edition.
     class="external text" rel="nofollow">Growse 2.50, VirtualBox
     Edition.ova</a>\]
   - As a torrent file: <a
-    href="../mediawiki/images/e/e2/GBrowse_2.50_VirtualBox_Edition.torrent"
+    href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/GBrowse_2.50_VirtualBox_Edition.torrent"
     class="internal"
     title="GBrowse 2.50 VirtualBox Edition.torrent">GBrowse_2.50_VirtualBox_Edition.torrent</a>.
 
@@ -272,9 +272,9 @@ primarily to allow the host machine to ssh to the guest.
 
 <a href="File:GBrowse_virtualbox1_port_forwarding.png"
 class="image"><img
-src="../mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/350px-GBrowse_virtualbox1_port_forwarding.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/350px-GBrowse_virtualbox1_port_forwarding.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/525px-GBrowse_virtualbox1_port_forwarding.png 1.5x, ../mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/700px-GBrowse_virtualbox1_port_forwarding.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/525px-GBrowse_virtualbox1_port_forwarding.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/700px-GBrowse_virtualbox1_port_forwarding.png 2x"
 width="350" height="218" /></a>
 
 <div class="thumbcaption">

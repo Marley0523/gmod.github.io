@@ -45,8 +45,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:TripalLogo.png" class="image" title="Tripal"><img
-src="../mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
-srcset="../mediawiki/images/0/06/TripalLogo.png 1.5x, ../mediawiki/images/0/06/TripalLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" alt="Tripal" /></a>
 
 </div>
@@ -65,7 +65,7 @@ This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through installing and configuring [Tripal](Tripal.1 "Tripal"), a web
 front end to <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 databases. This tutorial references (and complements) the
-<a href="../mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf"
 class="internal" title="TripalUsersGuideJan2010.pdf">Tripal User's
 Guide, January 2010 edition</a>.
 
@@ -531,7 +531,7 @@ First delete all features from Chado:
 Next, download a GFF file that has been reduced and adjusted for the
 course:
 
-<a href="../mediawiki/images/a/a0/Dmel-4-r5.27.reduced.gff.txt"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a0/Dmel-4-r5.27.reduced.gff.txt"
 class="internal"
 title="Dmel-4-r5.27.reduced.gff.txt">Media:Dmel-4-r5.27.reduced.gff.txt</a>
 
@@ -850,7 +850,7 @@ As an example of customizability of themes let's change the logo image.
 Download this image and upload as the logo:
 
 <a href="File:Dmel.png" class="image"><img
-src="../mediawiki/images/a/a5/Dmel.png" width="100" height="78"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Dmel.png" width="100" height="78"
 alt="Dmel.png" /></a>
 
 ## <span id="Tripal_Resources" class="mw-headline">Tripal Resources</span>
@@ -890,7 +890,7 @@ in Tripal are divided into three classes: a core module, chado-centric
 modules and analysis modules
 
 <a href="File:Tripal_Modules.jpg" class="image"><img
-src="../mediawiki/images/8/8c/Tripal_Modules.jpg" width="800"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/Tripal_Modules.jpg" width="800"
 height="554" alt="Tripal Modules.jpg" /></a>
 
 ### <span id="Tripal_Core_Module" class="mw-headline">Tripal Core Module</span>
@@ -908,7 +908,7 @@ The core module provides the following functionality:
 Chado-centric modules provide "wrappers" for chado modules:
 
 <a href="File:ChadoModules.png" class="image"><img
-src="../mediawiki/images/c/cf/ChadoModules.png" width="519" height="408"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/ChadoModules.png" width="519" height="408"
 alt="ChadoModules.png" /></a>
 
 ### <span id="Analysis_Modules" class="mw-headline">Analysis Modules</span>
@@ -1085,7 +1085,7 @@ Also, download the image below and use the image upload field to include
 this image
 
 <a href="File:Dmelflies.jpg" class="image"><img
-src="../mediawiki/images/6/6e/Dmelflies.jpg" width="270" height="169"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/Dmelflies.jpg" width="270" height="169"
 alt="Dmelflies.jpg" /></a>
 
 Now, save the organism.
@@ -1301,7 +1301,7 @@ Interpro analysis for feature 'FBgn0040037'. Download these results from
 this link and unzip:
 
 <a
-href="http://www.gmod.org/mediawiki/images/d/d2/JYalpha.fasta_vs_sprot.zip"
+href="http://www.gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/JYalpha.fasta_vs_sprot.zip"
 class="external text" rel="nofollow">JYalpha.fasta_vs_sprot.zip</a>
 
 ``` enter
@@ -1374,7 +1374,7 @@ Interpro analysis for feature 'FBgn0040037'. Download these results from
 this link and unzip:
 
 <a
-href="http://www.gmod.org/mediawiki/images/3/32/JYalpha.fasta.ipr.zip"
+href="http://www.gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/JYalpha.fasta.ipr.zip"
 class="external text" rel="nofollow">JYalpha.fasta.ipr.zip</a>
 
 ``` enter

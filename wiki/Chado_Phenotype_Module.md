@@ -68,7 +68,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 > add your revisions or additions.</span>
 
 Chris Mungall's 2006
-<a href="../mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
 class="internal" title="02-chado-for-nescent-2006.pdf">Chado for
 evolutionary science</a> presentation discusses the Phenotype module.
 

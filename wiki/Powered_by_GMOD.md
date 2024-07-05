@@ -46,8 +46,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="File:PoweredByGMOD.png" class="image"
 title="Powered by GMOD"><img
-src="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
-srcset="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, ../mediawiki/images/8/84/PoweredByGMOD.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/PoweredByGMOD.png 2x"
 width="310" height="147" alt="Powered by GMOD" /></a>
 
 </div>
@@ -67,33 +67,33 @@ update the HTML accordingly.
 | Icon | Dimensions | HTML / Description |
 |----|----|----|
 | <a href="File:PoweredByGMOD80.png" class="image"><img
-src="../mediawiki/images/e/e3/PoweredByGMOD80.png" width="80"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/PoweredByGMOD80.png" width="80"
 height="38" alt="PoweredByGMOD80.png" /></a> | 80 x 38 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/e/e3/PoweredByGMOD80.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <a href="File:PoweredByGMOD100.png" class="image"><img
-src="../mediawiki/images/5/53/PoweredByGMOD100.png" width="100"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/PoweredByGMOD100.png" width="100"
 height="47" alt="PoweredByGMOD100.png" /></a> | 100 x 47 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/5/53/PoweredByGMOD100.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <a href="File:PoweredByGMOD150.png" class="image"><img
-src="../mediawiki/images/c/c2/PoweredByGMOD150.png" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/PoweredByGMOD150.png" width="150"
 height="71" alt="PoweredByGMOD150.png" /></a> | 150 x 71 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/c/c2/PoweredByGMOD150.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <a href="File:PoweredByGMOD150gray.png" class="image"><img
-src="../mediawiki/images/5/51/PoweredByGMOD150gray.png" width="150"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/PoweredByGMOD150gray.png" width="150"
 height="71" alt="PoweredByGMOD150gray.png" /></a> | 150 x 71 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/5/51/PoweredByGMOD150gray.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <a href="File:PoweredByGMOD200.png" class="image"><img
-src="../mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
 height="95" alt="PoweredByGMOD200.png" /></a> | 200 x 95 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/b/bd/PoweredByGMOD200.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <a href="File:PoweredByGMOD.png" class="image"><img
-src="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/180px-PoweredByGMOD.png"
-srcset="../mediawiki/images/thumb/8/84/PoweredByGMOD.png/270px-PoweredByGMOD.png 1.5x, ../mediawiki/images/thumb/8/84/PoweredByGMOD.png/360px-PoweredByGMOD.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/180px-PoweredByGMOD.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/270px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/360px-PoweredByGMOD.png 2x"
 width="180" height="85" alt="PoweredByGMOD.png" /></a> | 620 x 294 (click on image for full size) | Suitable for including on printed documents, or for generating custom icon sizes. If needed, the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") can create this image in widths up to about 1600 pixels. |
-| <a href="../mediawiki/images/6/6a/PoweredByGMOD.xcf" class="internal"
+| <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/PoweredByGMOD.xcf" class="internal"
 title="PoweredByGMOD.xcf">PoweredByGMOD.xcf</a> | 620 x 294 | The source <a href="http://www.gimp.org/" class="external text"
 rel="nofollow">GIMP</a> file that was used to produce these images. You will need this only if you want to change the layout. |
 | <a href="File:PoweredByGBrowseAnimalGenome.jpg" class="image"><img
-src="../mediawiki/images/d/d0/PoweredByGBrowseAnimalGenome.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/PoweredByGBrowseAnimalGenome.jpg"
 width="89" height="66" alt="PoweredByGBrowseAnimalGenome.jpg" /></a> | 89 x 66 | *Powered by [GBrowse](GBrowse.1 "GBrowse")* logos created by Zhiliang Hu for <a href="http://animalgenome.org" class="external text"
 rel="nofollow">AnimalGenome.org</a>. |
 | <a href="File:PoweredByGBrowseAnimalGenome2.jpg" class="image"><img
-src="../mediawiki/images/e/e6/PoweredByGBrowseAnimalGenome2.jpg"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/PoweredByGBrowseAnimalGenome2.jpg"
 width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /></a> |  |  |
 
 ## <span id="See_also" class="mw-headline">See also</span>

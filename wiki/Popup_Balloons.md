@@ -41,7 +41,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 <a href="File:Sample_ballon.png" class="image"><img
-src="../mediawiki/images/7/79/Sample_ballon.png" width="292"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/Sample_ballon.png" width="292"
 height="105" alt="Sample ballon.png" /></a>
 
 </div>
@@ -395,7 +395,7 @@ page header.
   width of 1000px (but don't do that).
 
 <a href="File:Howitworks.png" class="image"><img
-src="../mediawiki/images/a/a7/Howitworks.png" width="410" height="244"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Howitworks.png" width="410" height="244"
 alt="Howitworks.png" /></a>
 
 - The top left (blue border) image is fixed, while the right side
@@ -538,7 +538,7 @@ must be reset to 'null' in this case.
 <div class="floatnone">
 
 <a href="File:Options.png" class="image"><img
-src="../mediawiki/images/8/8b/Options.png" width="960" height="361"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Options.png" width="960" height="361"
 alt="Options.png" /></a>
 
 </div>
@@ -559,7 +559,7 @@ will cause the effect below because the image corner radius is 10px:
 <div class="floatnone">
 
 <a href="File:Padding_defect.png" class="image"><img
-src="../mediawiki/images/5/57/Padding_defect.png" width="658"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/Padding_defect.png" width="658"
 height="115" alt="Padding defect.png" /></a>
 
 </div>
@@ -589,7 +589,7 @@ with different balloon options.
 
 <a href="File:Balloon_generator.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
-src="../mediawiki/images/f/f1/Balloon_generator.png" width="891"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f1/Balloon_generator.png" width="891"
 height="295"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
 
@@ -610,7 +610,7 @@ product will look like or all of the necessary image components.
 |:------------------------------------------------------------------:|
 |           <a href="File:Balloon_sample.png" class="image"          
   title="The actual script is at http://mckay.cshl.edu/balloon"><img 
-    src="../mediawiki/images/4/49/Balloon_sample.png" width="411"    
+    src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Balloon_sample.png" width="411"    
                              height="402"                            
  alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>  |
 
@@ -629,7 +629,7 @@ the custom balloon images on a web page:
 
 <a href="File:Balloon_script.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
-src="../mediawiki/images/0/03/Balloon_script.png" width="1040"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Balloon_script.png" width="1040"
 height="422"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
 
@@ -894,7 +894,7 @@ opacity set to 0.9).
 - GBubble is the the default balloon style.
 
 <a href="File:GBubble.png" class="image"><img
-src="../mediawiki/images/e/e3/GBubble.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBubble.png" class="thumbborder"
 width="358" height="199" alt="GBubble.png" /></a>
 
 - GFade is identical to GBubble except that it fades into view rather
@@ -910,7 +910,7 @@ follow the mouse until you mouseout from the text or image the tooltip
 is attached to.
 
 <a href="File:GPlain.png" class="image"><img
-src="../mediawiki/images/8/83/GPlain.png" class="thumbborder"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/GPlain.png" class="thumbborder"
 width="515" height="172" alt="GPlain.png" /></a>
 
 #### <span id="GBox" class="mw-headline">GBox</span>
@@ -921,7 +921,7 @@ dynamically (actually, this is true of all balloon tooltips).
 - For sticky boxes, if the contents are too big, scrollbars will appear.
 
 <a href="File:GBox.png" class="image" title="The GBox style"><img
-src="../mediawiki/images/4/4a/GBox.png" class="thumbborder" width="672"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBox.png" class="thumbborder" width="672"
 height="343" alt="The GBox style" /></a>
 
 ### <span id="Configuring_Default_Tooltip_Styles" class="mw-headline">Configuring Default Tooltip Styles</span>

@@ -80,9 +80,9 @@ there are some general guidelines that apply to all programs.
 <div class="thumbinner" style="width:182px;">
 
 <a href="File:ApolloLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1b/ApolloLogo.png/180px-ApolloLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/180px-ApolloLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/1/1b/ApolloLogo.png/270px-ApolloLogo.png 1.5x, ../mediawiki/images/thumb/1/1b/ApolloLogo.png/360px-ApolloLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/270px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/360px-ApolloLogo.png 2x"
 width="180" height="65" /></a>
 
 <div class="thumbcaption">
@@ -136,9 +136,9 @@ get that experience.
 <div class="thumbinner" style="width:152px;">
 
 <a href="File:RedFlyLogo.png" class="image"><img
-src="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/150px-RedFlyLogo.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/150px-RedFlyLogo.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/1/1d/RedFlyLogo.png/225px-RedFlyLogo.png 1.5x, ../mediawiki/images/1/1d/RedFlyLogo.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/225px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/RedFlyLogo.png 2x"
 width="150" height="106" /></a>
 
 <div class="thumbcaption">
@@ -198,7 +198,7 @@ students and researchers, if needed.
 
 <a href="http://www.linnbenton.edu/go/graphic-arts" rel="nofollow"
 title="Linn-Benton Community College"><img
-src="../mediawiki/images/f/fe/Lbcclogo.jpg" width="180" height="75"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Lbcclogo.jpg" width="180" height="75"
 alt="Linn-Benton Community College" /></a>
 
 </div>

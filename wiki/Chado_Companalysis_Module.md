@@ -509,8 +509,8 @@ analysisprop Structure
 ## <span id="UML_diagram" class="mw-headline">UML diagram</span>
 
 <a href="File:ChadoMod-Companalysis.png" class="image"><img
-src="../mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/600px-ChadoMod-Companalysis.png"
-srcset="../mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/900px-ChadoMod-Companalysis.png 1.5x, ../mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/1200px-ChadoMod-Companalysis.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/600px-ChadoMod-Companalysis.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/900px-ChadoMod-Companalysis.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/1200px-ChadoMod-Companalysis.png 2x"
 width="600" height="360" alt="ChadoMod-Companalysis.png" /></a>
 
 </div>

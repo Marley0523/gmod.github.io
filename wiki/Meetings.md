@@ -75,8 +75,8 @@ around other meetings.
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/100px-GMOD2016ColorsBigLetters_300px.png"
-srcset="../mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/150px-GMOD2016ColorsBigLetters_300px.png 1.5x, ../mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/200px-GMOD2016ColorsBigLetters_300px.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/100px-GMOD2016ColorsBigLetters_300px.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/150px-GMOD2016ColorsBigLetters_300px.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/200px-GMOD2016ColorsBigLetters_300px.png 2x"
 width="100" height="84" alt="GMOD2016ColorsBigLetters 300px.png" />](Jun_2016_GMOD_Meeting "Jun 2016 GMOD Meeting")
 
 </div>
@@ -84,8 +84,8 @@ width="100" height="84" alt="GMOD2016ColorsBigLetters 300px.png" />](Jun_2016_GM
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/100px-2014-gmod-san-diego.png"
-srcset="../mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/150px-2014-gmod-san-diego.png 1.5x, ../mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/200px-2014-gmod-san-diego.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/100px-2014-gmod-san-diego.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/150px-2014-gmod-san-diego.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/200px-2014-gmod-san-diego.png 2x"
 width="100" height="63" alt="January 2014 GMOD Meeting" />](Jan_2014_GMOD_Meeting "January 2014 GMOD Meeting")
 
 </div>
@@ -93,8 +93,8 @@ width="100" height="63" alt="January 2014 GMOD Meeting" />](Jan_2014_GMOD_Meetin
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/100px-Gmod-2013-mtg.png"
-srcset="../mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/150px-Gmod-2013-mtg.png 1.5x, ../mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/200px-Gmod-2013-mtg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/100px-Gmod-2013-mtg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/150px-Gmod-2013-mtg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/Gmod-2013-mtg.png/200px-Gmod-2013-mtg.png 2x"
 width="100" height="100" alt="Gmod-2013-mtg.png" />](April_2013_GMOD_Meeting "April 2013 GMOD Meeting")
 
 </div>
@@ -102,8 +102,8 @@ width="100" height="100" alt="Gmod-2013-mtg.png" />](April_2013_GMOD_Meeting "Ap
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/100px-April2012MeetingLogo.png"
-srcset="../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/150px-April2012MeetingLogo.png 1.5x, ../mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/200px-April2012MeetingLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/100px-April2012MeetingLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/150px-April2012MeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/200px-April2012MeetingLogo.png 2x"
 width="100" height="79" alt="April 2012 GMOD Meeting" />](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 </div>
@@ -111,8 +111,8 @@ width="100" height="79" alt="April 2012 GMOD Meeting" />](April_2012_GMOD_Meetin
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/e/e2/October2011Logo.png/100px-October2011Logo.png"
-srcset="../mediawiki/images/thumb/e/e2/October2011Logo.png/150px-October2011Logo.png 1.5x, ../mediawiki/images/thumb/e/e2/October2011Logo.png/200px-October2011Logo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/100px-October2011Logo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/150px-October2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/200px-October2011Logo.png 2x"
 width="100" height="90" alt="October 2011 GMOD Meeting" />](October_2011_GMOD_Meeting "October 2011 GMOD Meeting")
 
 </div>
@@ -120,8 +120,8 @@ width="100" height="90" alt="October 2011 GMOD Meeting" />](October_2011_GMOD_Me
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/100px-GMODAmericas2011Logo.jpg.png"
-srcset="../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/150px-GMODAmericas2011Logo.jpg.png 1.5x, ../mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/200px-GMODAmericas2011Logo.jpg.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/100px-GMODAmericas2011Logo.jpg.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/150px-GMODAmericas2011Logo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/200px-GMODAmericas2011Logo.jpg.png 2x"
 width="100" height="100" alt="March 2011 GMOD Meeting" />](March_2011_GMOD_Meeting "March 2011 GMOD Meeting")
 
 </div>
@@ -129,8 +129,8 @@ width="100" height="100" alt="March 2011 GMOD Meeting" />](March_2011_GMOD_Meeti
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/1/19/Sept2010MtgLogo170.png/100px-Sept2010MtgLogo170.png"
-srcset="../mediawiki/images/thumb/1/19/Sept2010MtgLogo170.png/150px-Sept2010MtgLogo170.png 1.5x, ../mediawiki/images/1/19/Sept2010MtgLogo170.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/19/Sept2010MtgLogo170.png/100px-Sept2010MtgLogo170.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/19/Sept2010MtgLogo170.png/150px-Sept2010MtgLogo170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/Sept2010MtgLogo170.png 2x"
 width="100" height="85" alt="September 2010 GMOD Meeting" />](September_2010_GMOD_Meeting "September 2010 GMOD Meeting")
 
 </div>
@@ -180,8 +180,8 @@ rel="nofollow">NESCent</a> |
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/125px-EvoHackathonLogo.png"
-srcset="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/188px-EvoHackathonLogo.png 1.5x, ../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/250px-EvoHackathonLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/125px-EvoHackathonLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/188px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/250px-EvoHackathonLogo.png 2x"
 width="125" height="125"
 alt="GMOD Tools for Evolutionary Biology Hackathon" />](GMOD_Evo_Hackathon "GMOD Tools for Evolutionary Biology Hackathon")
 

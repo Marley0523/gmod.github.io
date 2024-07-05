@@ -83,33 +83,33 @@ GMOD Meeting April, 2004
 
 ## <span id="Presentations" class="mw-headline">Presentations</span>
 
-- <a href="../mediawiki/images/b/b8/Cain_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/Cain_040526.ppt" class="internal"
   title="Cain 040526.ppt">Cain_040526.ppt</a>
-- <a href="../mediawiki/images/9/9b/Crosby_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Crosby_040526.ppt" class="internal"
   title="Crosby 040526.ppt">Crosby_040526.ppt</a>
-- <a href="../mediawiki/images/b/bc/Emmert_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bc/Emmert_040526.ppt" class="internal"
   title="Emmert 040526.ppt">Emmert_040526.ppt</a>
-- <a href="../mediawiki/images/6/6f/Gelbart_040528.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/Gelbart_040528.ppt" class="internal"
   title="Gelbart 040528.ppt">Gelbart_040528.ppt</a>, Orthology
-- <a href="../mediawiki/images/c/c2/Gilbert_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gilbert_040526.ppt" class="internal"
   title="Gilbert 040526.ppt">Gilbert_040526.ppt</a>
-- <a href="../mediawiki/images/c/cb/Harris_040527.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Harris_040527.ppt" class="internal"
   title="Harris 040527.ppt">Harris_040527.ppt</a>
-- <a href="../mediawiki/images/0/0b/Kasprzyk_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Kasprzyk_040526.ppt" class="internal"
   title="Kasprzyk 040526.ppt">Kasprzyk_040526.ppt</a>
-- <a href="../mediawiki/images/0/0e/Kenny_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Kenny_040526.ppt" class="internal"
   title="Kenny 040526.ppt">Kenny_040526.ppt</a>
-- <a href="../mediawiki/images/c/ce/Kodira_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/Kodira_040526.ppt" class="internal"
   title="Kodira 040526.ppt">Kodira_040526.ppt</a>
-- <a href="../mediawiki/images/d/d1/Matthews_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Matthews_040526.ppt" class="internal"
   title="Matthews 040526.ppt">Matthews_040526.ppt</a>
-- <a href="../mediawiki/images/a/a5/Sabo_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Sabo_040526.ppt" class="internal"
   title="Sabo 040526.ppt">Sabo_040526.ppt</a>
-- <a href="../mediawiki/images/3/31/Schlueter_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/Schlueter_040526.ppt" class="internal"
   title="Schlueter 040526.ppt">Schlueter_040526.ppt</a>
-- <a href="../mediawiki/images/0/0f/Terry_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Terry_040526.ppt" class="internal"
   title="Terry 040526.ppt">Terry_040526.ppt</a>
-- <a href="../mediawiki/images/4/45/Worley_040526.ppt" class="internal"
+- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/Worley_040526.ppt" class="internal"
   title="Worley 040526.ppt">Worley_040526.ppt</a>
 
 ## <span id="Agenda" class="mw-headline">Agenda</span>

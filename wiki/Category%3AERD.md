@@ -57,7 +57,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:41.5px auto;">
 
   <a href="File:ChadoComparativeModule.png" class="image"><img
-  src="../mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/120px-ChadoComparativeModule.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/120px-ChadoComparativeModule.png"
   width="120" height="67" alt="ChadoComparativeModule.png" /></a>
 
   </div>
@@ -80,7 +80,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:39px auto;">
 
   <a href="File:ChadoMod-Companalysis.png" class="image"><img
-  src="../mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/120px-ChadoMod-Companalysis.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/120px-ChadoMod-Companalysis.png"
   width="120" height="72" alt="ChadoMod-Companalysis.png" /></a>
 
   </div>
@@ -103,7 +103,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:15px auto;">
 
   <a href="File:Feature-tables.png" class="image"><img
-  src="../mediawiki/images/thumb/2/2e/Feature-tables.png/101px-Feature-tables.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/Feature-tables.png/101px-Feature-tables.png"
   width="101" height="120" alt="Feature-tables.png" /></a>
 
   </div>
@@ -126,7 +126,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:39.5px auto;">
 
   <a href="File:Natdiv_simplified_SGN.png" class="image"><img
-  src="../mediawiki/images/thumb/f/fa/Natdiv_simplified_SGN.png/120px-Natdiv_simplified_SGN.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Natdiv_simplified_SGN.png/120px-Natdiv_simplified_SGN.png"
   width="120" height="71" alt="Natdiv simplified SGN.png" /></a>
 
   </div>
@@ -150,7 +150,7 @@ The following 5 files are in this category, out of 5 total.
   <div style="margin:55px auto;">
 
   <a href="File:Rad-query-1.png" class="image"><img
-  src="../mediawiki/images/thumb/4/41/Rad-query-1.png/120px-Rad-query-1.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/41/Rad-query-1.png/120px-Rad-query-1.png"
   width="120" height="40" alt="Rad-query-1.png" /></a>
 
   </div>

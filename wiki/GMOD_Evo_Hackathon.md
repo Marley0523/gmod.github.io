@@ -48,8 +48,8 @@ data-cellpadding="10">
 <tr class="odd">
 <td><a href="http://www.nescent.org/wg_gmodevohackathon/" rel="nofollow"
 title="GMOD Evo Hackathon"><img
-src="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
-srcset="../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, ../mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
 width="200" height="200" alt="GMOD Evo Hackathon" /></a></td>
 <td><span style="font-size: 180%; line-height: 120%"><strong><a
 href="http://www.nescent.org/wg_gmodevohackathon/" class="external text"
@@ -60,12 +60,12 @@ November 8-12, 2010<br />
 rel="nofollow">NESCent</a>, Durham, North Carolina, USA</span><br />
 <br />
 <a href="File:EvoHackRoom2010.jpg" class="image"><img
-src="../mediawiki/images/thumb/a/af/EvoHackRoom2010.jpg/290px-EvoHackRoom2010.jpg"
-srcset="../mediawiki/images/a/af/EvoHackRoom2010.jpg 1.5x, ../mediawiki/images/a/af/EvoHackRoom2010.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/af/EvoHackRoom2010.jpg/290px-EvoHackRoom2010.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/EvoHackRoom2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/EvoHackRoom2010.jpg 2x"
 width="290" height="100" alt="EvoHackRoom2010.jpg" /></a> <a
 href="File:EvoHackWhiteboard2010.jpg" class="image"><img
-src="../mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/149px-EvoHackWhiteboard2010.jpg"
-srcset="../mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/224px-EvoHackWhiteboard2010.jpg 1.5x, ../mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/298px-EvoHackWhiteboard2010.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/149px-EvoHackWhiteboard2010.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/224px-EvoHackWhiteboard2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/298px-EvoHackWhiteboard2010.jpg 2x"
 width="149" height="100" alt="EvoHackWhiteboard2010.jpg" /></a></td>
 </tr>
 </tbody>
@@ -168,8 +168,8 @@ export.*
 <div class="floatright">
 
 <a href="File:EvoHackLaptops2010.jpg" class="image"><img
-src="../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
-srcset="../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg 1.5x, ../mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x"
 width="200" height="119" alt="EvoHackLaptops2010.jpg" /></a>
 
 </div>
@@ -468,8 +468,8 @@ available to defray costs for qualified participants.
 <div class="floatright">
 
 [<img
-src="../mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/300px-2011GMODAmericasSatellitesLogo.png"
-srcset="../mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/450px-2011GMODAmericasSatellitesLogo.png 1.5x, ../mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/300px-2011GMODAmericasSatellitesLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/450px-2011GMODAmericasSatellitesLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png 2x"
 width="300" height="119"
 alt="Satellite Meetings at GMOD Americas 2011" />](Satellite_Meetings_-_GMOD_Americas_2011 "Satellite Meetings at GMOD Americas 2011")
 
@@ -524,8 +524,8 @@ rel="nofollow">NESCent</a> |
 <div class="floatright">
 
 <a href="http://nescent.org/" rel="nofollow" title="NESCent"><img
-src="../mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/120px-NESCentLogo152.jpg"
-srcset="../mediawiki/images/3/3a/NESCentLogo152.jpg 1.5x, ../mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/NESCentLogo152.jpg/120px-NESCentLogo152.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg 2x"
 width="120" height="111" alt="NESCent" /></a>
 
 </div>

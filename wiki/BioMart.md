@@ -47,7 +47,7 @@ rel="nofollow">BioMart website</a>.
 <div class="floatnone">
 
 <a href="http://www.biomart.org/" rel="nofollow" title="BioMart"><img
-src="../mediawiki/images/a/a4/Biomart250.png" width="250" height="99"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" width="250" height="99"
 alt="BioMart" /></a>
 
 </div>

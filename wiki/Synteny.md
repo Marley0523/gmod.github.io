@@ -83,22 +83,22 @@ genomics data.
 ## <span id="Presentations_and_Posters" class="mw-headline">Presentations and Posters</span>
 
 - **<a
-  href="../mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf"
   class="internal"
   title="GMODToolsForComparativeGenomicsIGERTPoster.pdf">GMOD Tools for
   Comparative Genomics</a>** - Poster about the tools described on this
   page.
-- **<a href="../mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
+- **<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/SyntenyModeling.pdf" class="internal"
   title="SyntenyModeling.pdf">Modeling and Displaying Synteny w/
   SynView</a>** - presented by Steve Fischer at the [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting"), is
   a good overview of many issues encountered when displaying synteny.
-- **<a href="../mediawiki/images/d/d1/BoG2006.pdf" class="internal"
+- **<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/BoG2006.pdf" class="internal"
   title="BoG2006.pdf">An Example Comparative Genome Database for Yeasts
   Using GMOD Tools</a>** - poster by [Scott
   Cain](User%3AScott "User%3AScott") showing how six GMOD tools are used to
   create an example comparative genome model organism database.
-- **<a href="../mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
+- **<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
   class="internal" title="04-Stajich NESCENT GMOD.pdf">Comparative
   Genomics With GMOD and BioPerl</a>** - a 2004 presentation by [Jason
   Stajich](User%3AStajich "User%3AStajich").
@@ -127,9 +127,9 @@ See [CMap](CMap.1 "CMap") for more.
 <div class="thumbinner" style="width:402px;">
 
 <a href="File:GBrowse_syn.png" class="image"><img
-src="../mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
 class="thumbimage"
-srcset="../mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, ../mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
 width="400" height="128" /></a>
 
 <div class="thumbcaption">

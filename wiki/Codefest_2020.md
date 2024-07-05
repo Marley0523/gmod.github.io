@@ -43,7 +43,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatnone">
 
 <a href="File:Palms.jpg" class="image"><img
-src="../mediawiki/images/d/df/Palms.jpg" width="1052" height="218"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Palms.jpg" width="1052" height="218"
 alt="Palms.jpg" /></a>
 
 </div>
@@ -80,8 +80,8 @@ any combination of GMOD projects), including but not limited to
 
 <a href="File:EvoHackLaptops2010.jpg" class="image"
 title="GMOD Hackathon"><img
-src="../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
-srcset="../mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg 1.5x, ../mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x"
 width="200" height="119" alt="GMOD Hackathon" /></a>
 
 </div>

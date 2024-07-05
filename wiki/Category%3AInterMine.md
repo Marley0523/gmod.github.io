@@ -195,7 +195,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:67.5px auto;">
 
   <a href="File:InterMineLogo.png" class="image"><img
-  src="../mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
   width="120" height="15" alt="InterMineLogo.png" /></a>
 
   </div>
@@ -241,7 +241,7 @@ The following 9 files are in this category, out of 9 total.
   <div style="margin:62px auto;">
 
   <a href="File:MetabolicMineLogoWide.png" class="image"><img
-  src="../mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/120px-MetabolicMineLogoWide.png"
+  src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/120px-MetabolicMineLogoWide.png"
   width="120" height="26" alt="MetabolicMineLogoWide.png" /></a>
 
   </div>
