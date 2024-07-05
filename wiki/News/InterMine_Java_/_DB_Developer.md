@@ -42,8 +42,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <a href="http://www.intermine.org/wiki/NowHiring" rel="nofollow"
 title="InterMine Java Developer"><img
-src="../../../mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png"
-srcset="../../../mediawiki/images/thumb/1/13/InterMineLogo.png/270px-InterMineLogo.png 1.5x, ../../../mediawiki/images/1/13/InterMineLogo.png 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/270px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="180" height="23" alt="InterMine Java Developer" /></a>
 
 </div>

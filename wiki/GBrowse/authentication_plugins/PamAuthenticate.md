@@ -113,7 +113,7 @@ for more information).
 <div class="floatright">
 
 <a href="../../File:Pam_authenticate.png" class="image"><img
-src="../../../mediawiki/images/c/c0/Pam_authenticate.png" width="426"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c0/Pam_authenticate.png" width="426"
 height="330" alt="Pam authenticate.png" /></a>
 
 </div>

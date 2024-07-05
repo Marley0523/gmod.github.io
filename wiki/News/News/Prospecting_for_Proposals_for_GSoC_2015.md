@@ -41,8 +41,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 <div class="floatright">
 
 [<img
-src="../../../mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/200px-GoogleSummer_2015logo.jpg"
-srcset="../../../mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/300px-GoogleSummer_2015logo.jpg 1.5x, ../../../mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/400px-GoogleSummer_2015logo.jpg 2x"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/200px-GoogleSummer_2015logo.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/300px-GoogleSummer_2015logo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/GoogleSummer_2015logo.jpg/400px-GoogleSummer_2015logo.jpg 2x"
 width="200" height="180" alt="GoogleSummer 2015logo.jpg" />](../../GSoC "GSoC")
 
 </div>
