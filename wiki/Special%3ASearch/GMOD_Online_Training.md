@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below **35** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -698,7 +694,7 @@ Online Training</a>" on this wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Tripal Tutorial (pre version
-  0.3b)](/wiki/Tripal_Tutorial_(pre_version_0.3b) "Tripal Tutorial (pre version 0.3b)")
+  0.3b)](</wiki/Tripal_Tutorial_(pre_version_0.3b)> "Tripal Tutorial (pre version 0.3b)")
 
   </div>
 
@@ -775,7 +771,7 @@ Online Training</a>" on this wiki!** See also the search results found.
   School\]\]. Get the starting image for this tutorial -
   '''<span class="searchmatch">GMOD</span> 2013 Galaxy Install
   <span class="searchmatch">Training</span> Instance (ami-f1a1d998)'''.
-  It needs to be run as {{GalaxyWikiLink\|CloudMa
+  It needs to be run as GalaxyWikiLink\|CloudMa
 
   </div>
 
@@ -916,8 +912,6 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -933,7 +927,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -945,13 +939,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1051,10 +1039,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

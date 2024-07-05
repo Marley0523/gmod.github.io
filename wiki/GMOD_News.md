@@ -1603,7 +1603,7 @@ Please follow these guidelines when adding a news item.
 
     <!-- -->
 
-        {{NewsItem|yyyy/mm/dd, updated yyyy/mm/dd}}
+        NewsItem|yyyy/mm/dd, updated yyyy/mm/dd
 
 </div>
 

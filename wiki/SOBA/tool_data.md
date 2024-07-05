@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">SOBA/tool data</span>
 
 <div id="bodyContent">
@@ -38,15 +36,15 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = SOBA \| full_name = Sequence Ontology
+\| name = SOBA \| full*name = Sequence Ontology
 Bioinformatics Analysis \| status = mature \| dev = maintenance \|
 support = active \| type = \| platform = linux, os x, unix,
 win\|platform = linux, os x, unix, win\|platform = linux, os x, unix,
 win\|platform = linux, os x, unix, win \| platform = web \| logo =
 SOBA_Header.jpg \| home = <a
-href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
+href="http://www.sequenceontology.org/wiki/index.php/SOBA*-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external free"
-rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a>
+rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-\_Sequence_Ontology_Bioinformatics_Analysis</a>
 \| about = SOBA, Sequence Ontology Bioinformatics Analysis, is a command
 line tool and web application for analyzing [GFF3](../GFF3 "GFF3")
 annotations. [GFF3](../GFF3 "GFF3") is a standard file format for
@@ -158,7 +156,7 @@ School](../2013_GMOD_Summer_School "2013 GMOD Summer School")
 class="external text" rel="nofollow">Sequence Ontology Developers
 Mailing list</a>. \| logo_info = \| dev_ppl = \| dev_status = \|
 contact_email = \| input = [GFF3](../GFF3 "GFF3") \| output = \|
-see_also = \| demo_server = \|release date=2009 \| survey_link = }}
+see_also = \| demo_server = \|release date=2009 \| survey_link =
 
 </div>
 
@@ -198,15 +196,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:SOBA/tool_data&amp;action=edit&amp;redlink=1"
@@ -218,7 +213,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -229,10 +224,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -310,10 +301,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/SOBA-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -325,8 +314,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 03:35 on 24 June
-  2014.</span>
+- <span id="footer-info-lastmod">Last updated at 03:35 on 24 June 2014.</span>
 <!-- - <span id="footer-info-viewcount">25,797 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -339,10 +327,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

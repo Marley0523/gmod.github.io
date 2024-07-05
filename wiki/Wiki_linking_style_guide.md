@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Wiki linking style guide</span>
 
 <div id="bodyContent">
@@ -38,12 +36,13 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
+NOTE: This style guide was written for gmod.org when it was hosted in a
+MediaWiki server and may not make a lot of sense in the markdown context.
+
 Stolen wholesale from BioPerl wiki
 <a href="http://www.bioperl.org/wiki/Style_guide" class="extiw"
 title="bp:Style guide">Style Guide</a>. See also the [Site
 Guidelines](Site_Guidelines "Site Guidelines").
-
-  
 
 <table class="wikitable">
 <colgroup>
@@ -73,7 +72,7 @@ meeting</a></td>
 </tr>
 <tr class="odd">
 <td>BioPerl wiki link</td>
-<td><code>{{BioPerl|Style_guide}}</code></td>
+<td><code>BioPerl|Style_guide</code></td>
 <td><a href="http://bioperl.org/wiki/BioPerl:Style_guide"
 class="external text" rel="nofollow">Style_guide</a></td>
 </tr>
@@ -92,21 +91,21 @@ title="wp:The Beatles">The Fab Four</a></td>
 </tr>
 <tr class="even">
 <td>BioPerl module link</td>
-<td><code>{{BPM|Bio::SeqIO}}</code></td>
+<td><code>BPM|Bio::SeqIO</code></td>
 <td><a href="http://bioperl.org/wiki/Module:Bio::SeqIO"
 class="external text" rel="nofollow">Bio::SeqIO</a></td>
 </tr>
 <tr class="odd">
 <td>GMOD SourceForge <a href="SVN" class="mw-redirect"
 title="SVN">SVN</a> file/directory</td>
-<td><code>{{SF_SVN|schema/trunk/chado/INSTALL.Chado|Chado install instructions}}</code></td>
+<td><code>SF_SVN|schema/trunk/chado/INSTALL.Chado|Chado install instructions</code></td>
 <td><a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/schema/trunk/chado/INSTALL.Chado"
 class="external text" rel="nofollow">Chado install instructions</a></td>
 </tr>
 <tr class="even">
 <td>CPAN module link</td>
-<td><code>{{CPAN|Class::DBI}}</code></td>
+<td><code>CPAN|Class::DBI</code></td>
 <td><a href="http://search.cpan.org/perldoc?Class::DBI"
 class="external text" rel="nofollow">Class::DBI</a></td>
 </tr>
@@ -206,15 +205,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Wiki_linking_style_guide&amp;action=edit&amp;redlink=1"
@@ -226,7 +222,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -237,10 +233,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -316,10 +308,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Wiki_linking_style_guide"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -331,8 +321,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 20:06 on 8 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 20:06 on 8 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">48,216 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -345,10 +334,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

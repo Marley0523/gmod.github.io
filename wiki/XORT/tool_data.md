@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">XORT/tool data</span>
 
 <div id="bodyContent">
@@ -38,7 +36,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-{{ {{{template}}} \| name = XORT \| full_name = \| status = mature \|
+\| name = XORT \| full_name = \| status = mature \|
 dev = maintenance \| support = active \| type = Database tools,
 Middleware \| os = linux, unix \| logo = \| home =
 <a href="../XORT.1" class="external free"
@@ -183,7 +181,7 @@ database internal foreign keys. XORT can be configured with macros that
 can be used to capture repeated nodes in the XML and give them XML IDs
 that are valid within a particular document.
 
-\| demo_server = \| survey_link = \|release date=2006 }}
+\| demo_server = \| survey_link = \|release date=2006
 
 </div>
 
@@ -223,15 +221,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:XORT/tool_data&amp;action=edit&amp;redlink=1"
@@ -243,7 +238,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -254,10 +249,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -335,10 +326,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/XORT-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -350,8 +339,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:48 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:48 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">13,429 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -364,10 +352,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

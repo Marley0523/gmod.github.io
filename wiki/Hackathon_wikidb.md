@@ -104,8 +104,8 @@ of common gene page templates for this example.
 
 \<headings\> Gene name\|\|gene_name Description\|\|description
 Synonyms\|\|synonyms \</headings\> \<type\>1\</type\>
-\<heading_style\>{{heading_style}}\<heading_style\>
-\<table_style\>{{Prettytable}}\</table_style\>
+\<heading_style\>heading_style link\<heading_style\>
+\<table_style\>Prettytable link\</table_style\>
 
 ## <span id="loadwiki.php" class="mw-headline">loadwiki.php</span>
 

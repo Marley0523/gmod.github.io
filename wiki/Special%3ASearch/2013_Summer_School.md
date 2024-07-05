@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below **42** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -150,9 +146,7 @@ School</a>" on this wiki!** See also the search results found.
 
   ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
   \[\[2012 GMOD <span class="searchmatch">Summer</span>
-  <span class="searchmatch">School</span>\]\]. {{Template:AMI
-  <span class="searchmatch">Summer</span>
-  <span class="searchmatch">School</span> day 5}}
+  <span class="searchmatch">School</span>\]\].
 
   </div>
 
@@ -1049,8 +1043,6 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1066,7 +1058,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1078,13 +1070,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1184,10 +1170,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

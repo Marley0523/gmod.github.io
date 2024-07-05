@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">WebGBrowse/tool data</span>
 
 <div id="bodyContent">
@@ -38,12 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page stores the data that populates the
 [WebGBrowse](../WebGBrowse.1 "WebGBrowse") wiki page.
 
-  
-{{ {{{template}}} \| name = WebGBrowse \| full_name = \| status = mature
+\| name = WebGBrowse \| full_name = \| status = mature
 \| dev = inactive \| support = active \| type = Genome Visualization &
 Editing, Tool Integration \| os = web \| logo = WebGBrowseLogo.png \|
 home = <a href="http://webgbrowse.cgb.indiana.edu" class="external free"
@@ -107,7 +103,7 @@ height="11" /></a>
 
 </div>
 
-*Add new track* dialog in WebGBrowse
+_Add new track_ dialog in WebGBrowse
 
 </div>
 
@@ -150,11 +146,12 @@ An extensive user guide and tutorial
 
 \| wild_urls = \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [WebGBrowse](../WebGBrowse.1 "WebGBrowse") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-webgbrowse"
-class="external text" rel="nofollow">gmod-webgbrowse</a> | Questions, announcements, and development postings about the [WebGBrowse](../WebGBrowse.1 "WebGBrowse") front end to [GBrowse](../GBrowse.1 "GBrowse") configuration. | <a href="http://gmod.827538.n3.nabble.com/WebGBrowse-f947412.html"
+|                                                          |                                                                                                                                                                       |                                                                    |            |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
+|                                                          | Mailing List Link                                                                                                                                                     | Description                                                        | Archive(s) |
+| [WebGBrowse](../WebGBrowse.1 "WebGBrowse")               | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-webgbrowse"                                                                                                |
+| class="external text" rel="nofollow">gmod-webgbrowse</a> | Questions, announcements, and development postings about the [WebGBrowse](../WebGBrowse.1 "WebGBrowse") front end to [GBrowse](../GBrowse.1 "GBrowse") configuration. | <a href="http://gmod.827538.n3.nabble.com/WebGBrowse-f947412.html" |
+
 class="external text" rel="nofollow">Nabble</a>, <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-webgbrowse"
 class="external text" rel="nofollow">Sourceforge</a> |
@@ -180,7 +177,7 @@ rel="nofollow">Center for Genomics and Bioinformatics</a>.
 
 \| dev_status = \| contact_email = Ram Podicheti mnrusimh@indiana.edu \|
 input = [GFF3](../GFF3 "GFF3") \| output = GBrowse Configuration File \|
-see_also = \| demo_server = \|release date=2009 \| survey_link = }}
+see_also = \| demo_server = \|release date=2009 \| survey_link =
 
 </div>
 
@@ -224,15 +221,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:WebGBrowse/tool_data&amp;action=edit&amp;redlink=1"
@@ -244,7 +238,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -255,10 +249,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -336,10 +326,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/WebGBrowse-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
 
 </div>
 
@@ -351,8 +339,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:31 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:31 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">14,066 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -365,10 +352,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

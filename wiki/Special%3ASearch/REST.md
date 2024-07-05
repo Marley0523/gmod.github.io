@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below up to **50** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -474,7 +470,7 @@ See also the search results found.
 - <div class="mw-search-result-heading">
 
   [News/gmod (Chado) 1.1
-  Released](/wiki/News/gmod_(Chado)_1.1_Released "News/gmod (Chado) 1.1 Released")
+  Released](</wiki/News/gmod_(Chado)_1.1_Released> "News/gmod (Chado) 1.1 Released")
 
   </div>
 
@@ -856,7 +852,6 @@ See also the search results found.
 
   ...d used it to run some example queries. We will also ran queries
   using the <span class="searchmatch">REST</span> web service
-  {{GlossaryLink\|API\|API}}.
 
   </div>
 
@@ -1202,8 +1197,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/REST>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1219,7 +1212,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1231,13 +1224,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1337,10 +1324,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

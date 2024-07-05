@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -56,8 +54,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 </div>
 
-
-
 </div>
 
 <div class="searchresults">
@@ -78,12 +74,6 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  ...used to build the <span class="searchmatch">database</span>,
-  <span class="searchmatch">database</span> dumps at a few steps of
-  building the <span class="searchmatch">database</span>, and an
-  \[\[Apollo\]\] \<tt\>chado-adaptor.xml\</tt\> config file in the
-  {{SF_SVN\|s
-
   </div>
 
   <div class="mw-search-result-data">
@@ -95,7 +85,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Insertional Mutagenesis Database
-  (IMDB)](/wiki/Insertional_Mutagenesis_Database_(IMDB) "Insertional Mutagenesis Database (IMDB)")
+  (IMDB)](</wiki/Insertional_Mutagenesis_Database_(IMDB)> "Insertional Mutagenesis Database (IMDB)")
 
   </div>
 
@@ -441,7 +431,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [GBrowse (DasI)
-  Presentation](/wiki/GBrowse_(DasI)_Presentation "GBrowse (DasI) Presentation")
+  Presentation](</wiki/GBrowse_(DasI)_Presentation> "GBrowse (DasI) Presentation")
 
   </div>
 
@@ -708,8 +698,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  A proposed <span class="searchmatch">database</span> module for Chado.
-  \* The community module uses a relational
+  A proposed <span class="searchmatch">database</span> module for Chado. \* The community module uses a relational
   <span class="searchmatch">database</span>, a Servlets and JSP engine,
   and the Struts Web application framework.
 
@@ -797,12 +786,6 @@ wiki!** See also the search results found.
   </div>
 
   <div class="searchresult">
-
-  ...used to build the <span class="searchmatch">database</span>,
-  <span class="searchmatch">database</span> dumps at a few steps of
-  building the <span class="searchmatch">database</span>, and an
-  \[\[Apollo\]\] \<tt\>chado-adaptor.xml\</tt\> config file in the
-  {{SF_SVN\|s
 
   </div>
 
@@ -982,7 +965,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Insertional Mutagenesis Database
-  (IMDB)](/wiki/Insertional_Mutagenesis_Database_(IMDB) "Insertional Mutagenesis Database (IMDB)")
+  (IMDB)](</wiki/Insertional_Mutagenesis_Database_(IMDB)> "Insertional Mutagenesis Database (IMDB)")
 
   </div>
 
@@ -1172,7 +1155,7 @@ wiki!** See also the search results found.
   sugge ...popular components include the genome browser
   \[\[GBrowse\]\], the relational
   <span class="searchmatch">database</span>
-  \[\[Chado\_-\_Getting_Started\|Chado\]\], and the comparative map
+  \[\[Chado\_-_Getting_Started\|Chado\]\], and the comparative map
   viewer \[\[CMap\]\].
 
   </div>
@@ -1296,8 +1279,7 @@ wiki!** See also the search results found.
 
   <div class="searchresult">
 
-  \* load test file into test <span class="searchmatch">database</span>
-  \* use API to fetch objects from
+  \* load test file into test <span class="searchmatch">database</span> \* use API to fetch objects from
   <span class="searchmatch">database</span>
 
   </div>
@@ -1480,8 +1462,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Database>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1497,7 +1477,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1509,13 +1489,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1615,10 +1589,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

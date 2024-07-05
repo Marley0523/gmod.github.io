@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Search results</span>
 
 <div id="bodyContent">
@@ -55,8 +53,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Showing below up to **50** results starting with \#**1**.
 
 </div>
-
-
 
 </div>
 
@@ -325,7 +321,7 @@ wiki!** See also the search results found.
 - <div class="mw-search-result-heading">
 
   [Insertional Mutagenesis Database
-  (IMDB)](/wiki/Insertional_Mutagenesis_Database_(IMDB) "Insertional Mutagenesis Database (IMDB)")
+  (IMDB)](</wiki/Insertional_Mutagenesis_Database_(IMDB)> "Insertional Mutagenesis Database (IMDB)")
 
   </div>
 
@@ -1049,7 +1045,7 @@ wiki!** See also the search results found.
 
   ...ta store. It is the default database when installing
   \[\[Galaxy\]\], but most <span class="searchmatch">users</span> then
-  upgrade to a different {{GlossaryLink\|DBMS\|DBMS}}, usually
+  upgrade to a different DBMS, usually
   \[\[PostgreSQ
 
   </div>
@@ -1209,8 +1205,6 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Users>"
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
@@ -1226,7 +1220,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -1238,13 +1232,7 @@ aria-labelledby="p-variants-label">
 
 </div>
 
-
-
-
-
 </div>
-
-
 
 </div>
 
@@ -1344,10 +1332,5 @@ aria-labelledby="p-tb-label">
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

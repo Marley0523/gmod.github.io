@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Talk%3AGBrowse 1 Configuration HOWTO</span>
 
 <div id="bodyContent">
@@ -50,13 +48,13 @@ I think Apollo (but not Artemis) breaks if that is not included.
 
 [Alpapan](User%3AAlpapan "User%3AAlpapan")
 
-*The current version of Apollo does require sequence-region, but I just
+_The current version of Apollo does require sequence-region, but I just
 chatted with the developer and he is removing the requirement that it be
 there; he thought it was required by the GFF3 spec. Of course, this
 question would probably have been better asked on the Apollo mailing
 list: <a href="http://mail.fruitfly.org/mailman/listinfo/apollo"
 class="external free"
-rel="nofollow">http://mail.fruitfly.org/mailman/listinfo/apollo</a>*
+rel="nofollow">http://mail.fruitfly.org/mailman/listinfo/apollo</a>_
 --[Scott](User%3AScott "User%3AScott") 16:21, 29 January 2008 (EST)
 
 Ah, thanks Scott  
@@ -96,8 +94,8 @@ not
 At least with my gbrowse dev branch... I didn't edit it in case i 'm
 wrong. [Alpapan](User%3AAlpapan "User%3AAlpapan")
 
-*Agreed and fixed. Thanks. [Scott](User%3AScott "User%3AScott") 23:13, 11
-June 2008 (EDT)*
+_Agreed and fixed. Thanks. [Scott](User%3AScott "User%3AScott") 23:13, 11
+June 2008 (EDT)_
 
 ## <span id="Renaming_proposal.3F" class="mw-headline">Renaming proposal?</span>
 
@@ -117,7 +115,7 @@ dynamically re-created from the individual pages on the wiki by
 'transcluding' content from the individual pages into another 'calling'
 page. For example, to include the content of [GBrowse
 Configuration/Balloons](GBrowse_Configuration/Balloons "GBrowse Configuration/Balloons")
-in another page, you just type {{:GBrowse Configuration/Balloons}} on
+in another page, you just type Balloons on
 that page. Note the use of the 'noinclude' tags in the above page allows
 text (a header) in the individual pages that is not transcluded into the
 calling page. --[DanBolser](User%3ADanBolser "User%3ADanBolser") 01:13, 10
@@ -150,15 +148,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
@@ -168,7 +163,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -179,10 +174,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -258,9 +249,6 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
-
-
 </div>
 
 </div>
@@ -271,8 +259,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 16:44 on 15 August
-  2011.</span>
+- <span id="footer-info-lastmod">Last updated at 16:44 on 15 August 2011.</span>
 <!-- - <span id="footer-info-viewcount">24,377 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -285,10 +272,5 @@ aria-labelledby="p-tb-label">
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>

@@ -14,8 +14,6 @@
 
 </div>
 
-
-
 # <span dir="auto">Tripal/tool data</span>
 
 <div id="bodyContent">
@@ -38,13 +36,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
 
-  
 This page stores the data that populates the
 [Tripal](../Tripal.1 "Tripal") wiki page.
 
-  
-
-{{ {{{template}}} \| name = Tripal \| full_name = \| status = mature \|
+\| name = Tripal \| full_name = \| status = mature \|
 dev = active \| support = active \| type = \| platform = linux, os x,
 unix, win\|platform = linux, os x, unix, win\|platform = linux, os x,
 unix, win\|platform = linux, os x, unix, win \| platform = web \| logo =
@@ -115,7 +110,6 @@ You can also
 class="external text" rel="nofollow">browse the Tripal GIT
 repository</a>.
 
-  
 \| dl_dev_url = \| getting_started_preamble = Full documentation on
 installing, configuring, and using Tripal is available from the
 <a href="http://tripal.info/documentation" class="external text"
@@ -143,17 +137,17 @@ databases. <sup>[\[1\]](#cite_note-PMID:21959868-1)</sup>
 used during the [2013 GMOD Summer
 School](../2013_GMOD_Summer_School "2013 GMOD Summer School")
 
-[Tripal Tutorial (v1.0)](../Tripal_Tutorial_(v1.0) "Tripal Tutorial (v1.0)")  
+[Tripal Tutorial (v1.0)](<../Tripal_Tutorial_(v1.0)> "Tripal Tutorial (v1.0)")  
 used during the [2012 GMOD Summer
 School](../2012_GMOD_Summer_School "2012 GMOD Summer School")
 
-[Tripal Tutorial (v0.3.1b)](../Tripal_Tutorial_(v0.3.1b) "Tripal Tutorial (v0.3.1b)")  
+[Tripal Tutorial (v0.3.1b)](<../Tripal_Tutorial_(v0.3.1b)> "Tripal Tutorial (v0.3.1b)")  
 The full v0.3.1b tutorial
 
-[Tripal Tutorial (v0.3.1b VM)](../Tripal_Tutorial_(v0.3.1b_VM) "Tripal Tutorial (v0.3.1b VM)")  
+[Tripal Tutorial (v0.3.1b VM)](<../Tripal_Tutorial_(v0.3.1b_VM)> "Tripal Tutorial (v0.3.1b VM)")  
 for use with the Tripal virtual machine
 
-[Tripal Tutorial (pre version 0.3b)](../Tripal_Tutorial_(pre_version_0.3b) "Tripal Tutorial (pre version 0.3b)")  
+[Tripal Tutorial (pre version 0.3b)](<../Tripal_Tutorial_(pre_version_0.3b)> "Tripal Tutorial (pre version 0.3b)")  
 from the 2010 GMOD Spring School
 
 \| wild_urls =
@@ -179,15 +173,16 @@ from the 2010 GMOD Spring School
 
 \| mail =
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| [Tripal](../Tripal.1 "Tripal") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-tripal"
-class="external text" rel="nofollow">gmod-tripal</a> | [Tripal](../Tripal.1 "Tripal")-related announcements, questions, and requests for help from developers and the community. | <a href="http://gmod.827538.n3.nabble.com/Tripal-User-f815950.html"
+|                                                      |                                                                                                                           |                                                                     |            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+|                                                      | Mailing List Link                                                                                                         | Description                                                         | Archive(s) |
+| [Tripal](../Tripal.1 "Tripal")                       | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-tripal"                                                        |
+| class="external text" rel="nofollow">gmod-tripal</a> | [Tripal](../Tripal.1 "Tripal")-related announcements, questions, and requests for help from developers and the community. | <a href="http://gmod.827538.n3.nabble.com/Tripal-User-f815950.html" |
+
 class="external text" rel="nofollow">Nabble</a> (2010/05+), <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-tripal"
 class="external text" rel="nofollow">Sourceforge</a> |
-|  | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-tripal-devel"
+| | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-tripal-devel"
 class="external text" rel="nofollow">gmod-tripal-devel</a> | [Tripal](../Tripal.1 "Tripal") development list | <a
 href="http://gmod.827538.n3.nabble.com/Tripal-Development-f2471283.html"
 class="external text" rel="nofollow">Nabble</a>, <a
@@ -229,7 +224,6 @@ width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 </div>
 
-}}  
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
 
 </div>
@@ -275,15 +269,12 @@ Retrieved from
 
 <div id="mw-head">
 
-
-
 <div id="left-navigation">
 
 <div id="p-namespaces" class="vectorTabs" role="navigation"
 aria-labelledby="p-namespaces-label">
 
 ### Namespaces
-
 
 - <span id="ca-talk"><a
   href="http://gmod.org/mediawiki/index.php?title=Talk:Tripal/tool_data&amp;action=edit&amp;redlink=1"
@@ -295,7 +286,7 @@ aria-labelledby="p-namespaces-label">
 <div id="p-variants" class="vectorMenu emptyPortlet" role="navigation"
 aria-labelledby="p-variants-label">
 
-### 
+###
 
 ### Variants[](#)
 
@@ -306,10 +297,6 @@ aria-labelledby="p-variants-label">
 </div>
 
 </div>
-
-
-
-
 
 </div>
 
@@ -387,10 +374,8 @@ aria-labelledby="p-tb-label">
 
 <div class="body">
 
-
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Tripal-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
 
 </div>
 
@@ -402,8 +387,7 @@ aria-labelledby="p-tb-label">
 
 <div id="footer" role="contentinfo">
 
-- <span id="footer-info-lastmod">Last updated at 18:39 on 10 September
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:39 on 10 September 2013.</span>
 <!-- - <span id="footer-info-viewcount">27,871 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -416,10 +400,5 @@ aria-labelledby="p-tb-label">
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
 
 </div>
