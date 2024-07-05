@@ -1,12 +1,13 @@
-lsi: false
-safe: true
-source: /
-incremental: false
 highlighter: rouge
+markdown: kramdown
 gist:
   noscript: false
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 exclude: [mediawiki]
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 title: GMOD
