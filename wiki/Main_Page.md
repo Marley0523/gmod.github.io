@@ -181,7 +181,7 @@ components](GMOD_Components "GMOD Components")
 
 <div class="thumbinner" style="width:252px;">
 
-[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png" class="thumbimage" srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x" width="250" height="83" />](JBrowse.1 "JBrowse")
+[![JBrowse 2 logo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png)](JBrowse.1 "JBrowse")
 
 <div class="thumbcaption">
 
