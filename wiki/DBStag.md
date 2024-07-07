@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 DBStag is a generic [SQL](Glossary#SQL "Glossary") to

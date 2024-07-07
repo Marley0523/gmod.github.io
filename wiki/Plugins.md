@@ -17,7 +17,7 @@
 [Plugins](http://gmod.org/mediawiki/index.php?title=Plugins&redirect=no "Plugins"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Plugins extend GBrowse

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Jeff Bowes, Xenbase, University of Calgary. This Wiki section is an

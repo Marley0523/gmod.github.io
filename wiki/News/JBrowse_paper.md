@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 A <a href="http://genome.cshlp.org/content/19/9/1630.full"

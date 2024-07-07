@@ -17,7 +17,7 @@
 HOWTO/bullets2h3](http://gmod.org/mediawiki/index.php?title=GBrowse_Configuration_HOWTO/bullets2h3&redirect=no "GBrowse Configuration HOWTO/bullets2h3"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This document provides information on configuring version 1 of the

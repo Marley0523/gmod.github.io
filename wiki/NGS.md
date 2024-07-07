@@ -17,7 +17,7 @@
 [NGS](http://gmod.org/mediawiki/index.php?title=NGS&redirect=no "NGS"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

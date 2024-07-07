@@ -15,7 +15,7 @@
 Interest](http://gmod.org/mediawiki/index.php?title=GMOD_Summer_School_Statement_of_Interest&redirect=no "GMOD Summer School Statement of Interest"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <table

@@ -18,7 +18,7 @@ JBrowse](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Using_a_Database_W
 Redirect page
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

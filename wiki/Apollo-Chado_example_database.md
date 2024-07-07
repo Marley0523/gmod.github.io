@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 There is an example database with [GFF3](GFF3 "GFF3") source files, a

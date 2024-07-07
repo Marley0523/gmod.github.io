@@ -18,7 +18,7 @@ JBrowse](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Using_Configuratio
 Redirect page
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

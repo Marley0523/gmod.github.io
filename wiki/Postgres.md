@@ -17,7 +17,7 @@
 [Postgres](http://gmod.org/mediawiki/index.php?title=Postgres&redirect=no "Postgres"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 PostgreSQL, more commonly known as Postgres, is an open source

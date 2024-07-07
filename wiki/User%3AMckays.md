@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Sheldon_McKay" class="mw-headline">Sheldon McKay</span>

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 From Pamela Bailey at Novartis Institutes for BioMedical Research:

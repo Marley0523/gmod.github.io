@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 See also the [AJAX Category](Category%3AAJAX "Category%3AAJAX").

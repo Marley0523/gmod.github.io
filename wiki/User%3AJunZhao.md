@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I am an EPSRC Postdoctoral Fellow in the Life Science Interface. See

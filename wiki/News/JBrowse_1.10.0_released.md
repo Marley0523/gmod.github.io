@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I am very pleased to announce the release of JBrowse 1.10.0, a major new

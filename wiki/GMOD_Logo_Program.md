@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The [GMOD](Main_Page "Main Page") Logo Program connects graphic design

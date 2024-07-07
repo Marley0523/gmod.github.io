@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 What is a 'CDS exon' (used in some of the feature graphs on this page).

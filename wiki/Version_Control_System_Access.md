@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 *Subversion* (often abbreviated *SVN* is the *source code control*

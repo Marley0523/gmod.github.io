@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Can.27t_find_what_I_want..." class="mw-headline">Can't find what I want...</span>

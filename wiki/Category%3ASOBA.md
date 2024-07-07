@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [SOBA](SOBA.1 "SOBA"), Sequence Ontology Bioinformatics Analysis, is a

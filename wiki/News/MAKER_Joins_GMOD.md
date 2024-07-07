@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [MAKER](../MAKER.1 "MAKER") is a portable and easy to configure genome

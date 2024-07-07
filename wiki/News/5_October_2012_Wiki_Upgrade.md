@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The GMOD wiki will be going offline on October 5th at 5 PM PST to update

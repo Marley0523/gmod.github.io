@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Mitch_Skinner" class="mw-headline">Mitch Skinner</span>

@@ -17,7 +17,7 @@
 [JBrowseDev/Main](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Main&redirect=no "JBrowseDev/Main"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

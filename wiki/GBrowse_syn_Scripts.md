@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") is a

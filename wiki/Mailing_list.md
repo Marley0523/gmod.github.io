@@ -17,7 +17,7 @@
 list](http://gmod.org/mediawiki/index.php?title=Mailing_list&redirect=no "Mailing list"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

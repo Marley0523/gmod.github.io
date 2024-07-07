@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 NOTE: This style guide was written for gmod.org when it was hosted in a

@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer

@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=Chado_Tutorial&redirect=no "Chado Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>

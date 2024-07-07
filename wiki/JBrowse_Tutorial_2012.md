@@ -17,7 +17,7 @@
 2012](http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_2012&redirect=no "JBrowse Tutorial 2012"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Robert

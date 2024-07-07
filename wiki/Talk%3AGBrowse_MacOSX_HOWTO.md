@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Defaults_in_the_net_installer" class="mw-headline">Defaults in the net installer</span>

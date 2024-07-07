@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 A list of **F**requently **A**sked **Q**uestions about the GMOD project.

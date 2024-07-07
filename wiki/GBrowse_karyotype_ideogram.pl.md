@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="How_to_get_cytoband_data_for_the_ideogram_glyph_of_GBrowse_karyotype" class="mw-headline">How to get cytoband data for the ideogram glyph of [GBrowse_karyotype](GBrowse_karyotype "GBrowse karyotype")</span>

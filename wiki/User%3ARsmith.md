@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I'm the lead developer of [InterMine](InterMine "InterMine") and work on

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Berkeley Bioinformatics Open-Source Projects (BBOP) invites you to join

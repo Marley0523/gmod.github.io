@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Version 1.1 of [GMODTools](../GMODTools "GMODTools") has been released.

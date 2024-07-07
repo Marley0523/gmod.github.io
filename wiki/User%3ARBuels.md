@@ -17,7 +17,7 @@
 [User%3ARBuels](http://gmod.org/mediawiki/index.php?title=User%3ARBuels&redirect=no "User%3ARBuels"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="File:Rbuels_and_pretty_flowers.jpg" class="image"><img

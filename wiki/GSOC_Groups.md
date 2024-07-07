@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 These bioinformatics groups belong to the Genome Informatics 'umbrella'

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Entity-Relationship Diagrams for GMOD (and thus mostly if not entirely

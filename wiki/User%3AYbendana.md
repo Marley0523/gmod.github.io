@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Research programmer at Nuzhdin Lab, MCB Section, Dept of Biological

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="SamTools_compilation" class="mw-headline">SamTools compilation</span>

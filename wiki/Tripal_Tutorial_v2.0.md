@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The Tripal v2.0 tutorial is now found at the Tripal website inside of

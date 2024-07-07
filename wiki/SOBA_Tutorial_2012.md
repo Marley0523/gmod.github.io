@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [SOBA](SOBA.1 "SOBA") tutorial was taught as part of the [2012 GMOD

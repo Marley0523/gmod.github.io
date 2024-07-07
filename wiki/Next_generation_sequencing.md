@@ -17,7 +17,7 @@
 sequencing](http://gmod.org/mediawiki/index.php?title=Next_generation_sequencing&redirect=no "Next generation sequencing"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

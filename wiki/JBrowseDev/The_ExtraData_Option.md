@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 In [JBrowse](../JBrowse.1 "JBrowse"), the extraData option causes

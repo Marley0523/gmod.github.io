@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Add_to_the_Agenda_Suggestions" class="mw-headline">Add to the Agenda Suggestions</span>

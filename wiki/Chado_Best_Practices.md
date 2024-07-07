@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Chado is a generic [schema](Glossary#Database_Schema "Glossary"), which

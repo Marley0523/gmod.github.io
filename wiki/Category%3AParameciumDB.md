@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Pages about [ParameciumDB](ParameciumDB "ParameciumDB")

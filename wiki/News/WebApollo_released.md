@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 From the [WebApollo](../WebApollo.1 "WebApollo") development team:

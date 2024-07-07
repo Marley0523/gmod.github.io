@@ -17,7 +17,7 @@
 [SVN](http://gmod.org/mediawiki/index.php?title=SVN&redirect=no "SVN"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 *Subversion* (often abbreviated *SVN* is the *source code control*

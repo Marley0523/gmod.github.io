@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="The_GBrowse2_PAM_Authentication_Plugin" class="mw-headline">The GBrowse2 PAM Authentication Plugin</span>

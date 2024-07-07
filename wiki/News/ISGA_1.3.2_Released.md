@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [ISGA](../ISGA "ISGA") 1.3.2 is now

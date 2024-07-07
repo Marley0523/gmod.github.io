@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Bio%3A%3AGMOD::GenericGenePage is an abstract

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [Apollo](../Apollo.1 "Apollo") 1.9.0 has been released. This release

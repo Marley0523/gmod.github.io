@@ -17,7 +17,7 @@
 [Genome](http://gmod.org/mediawiki/index.php?title=Genome&redirect=no "Genome"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 In order to simplify the retrieval of common datasets, the Generic Model

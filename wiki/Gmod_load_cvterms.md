@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 gmod_load_cvterms.pl is a perl script for loading and more importantly,

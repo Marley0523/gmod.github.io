@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Pages related to [Tripal](Tripal.1 "Tripal"), a web front end to

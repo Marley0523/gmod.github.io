@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") can be configured

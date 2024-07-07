@@ -17,7 +17,7 @@
 Registration](http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting_Registration&redirect=no "January 2010 GMOD Meeting Registration"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <table

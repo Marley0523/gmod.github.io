@@ -11,7 +11,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Maintenance_reports" class="mw-headline">Maintenance reports</span>

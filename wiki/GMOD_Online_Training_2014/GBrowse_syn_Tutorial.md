@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This tutorial on [GBrowse syn](../GBrowse_syn.1 "GBrowse syn") was

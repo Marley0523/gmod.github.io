@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [Galaxy](../Galaxy.1 "Galaxy") tutorial was presented by [Dave

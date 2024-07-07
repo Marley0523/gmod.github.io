@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ### <span id="Position_closed" class="mw-headline">Position closed</span>

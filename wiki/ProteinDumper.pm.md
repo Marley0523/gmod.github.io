@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **ProteinDumper.pm** is a [GBrowse](GBrowse.1 "GBrowse")

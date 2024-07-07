@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This page provides a reference guide for "Desktop JBrowse" or "JBrowse

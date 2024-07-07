@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **GeneFinder.pm** is a [GBrowse](GBrowse.1 "GBrowse")

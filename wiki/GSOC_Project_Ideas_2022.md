@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **Got an idea for [GSOC 2022](GSoC "GSoC")?**

@@ -17,7 +17,7 @@
 [Synteny](http://gmod.org/mediawiki/index.php?title=Synteny&redirect=no "Synteny"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GMOD includes several components for managing and visualizing

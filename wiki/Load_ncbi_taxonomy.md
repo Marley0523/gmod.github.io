@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 `load_ncbi_taxonomy.pl` is a perl script for loading NCBI taxonomy trees

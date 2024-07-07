@@ -17,7 +17,7 @@
 JBrowse](http://gmod.org/mediawiki/index.php?title=BrowseDev/Using_a_Database_With_JBrowse&redirect=no "BrowseDev/Using a Database With JBrowse"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **This page has been replaced with this page (<a

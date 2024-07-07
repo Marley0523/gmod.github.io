@@ -15,7 +15,7 @@
 HOWTO](http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Configuration_HOWTO&redirect=no "Talk%3AGBrowse Configuration HOWTO"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Hello Reg. GFF file format: I was wondering if the group/region field

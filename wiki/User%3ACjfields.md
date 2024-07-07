@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 See my <a href="http://www.bioperl.org/wiki/Christopher_Fields"

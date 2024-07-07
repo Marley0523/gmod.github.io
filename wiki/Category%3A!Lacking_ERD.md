@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [Chado modules](Category%3AChado_Modules "Category%3AChado Modules") lacking

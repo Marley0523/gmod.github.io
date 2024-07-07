@@ -17,7 +17,7 @@
 [JBrowseDev/Installation](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Installation&redirect=no "JBrowseDev/Installation"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

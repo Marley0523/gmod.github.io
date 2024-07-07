@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **FastaDumper.pm** is a [GBrowse](GBrowse.1 "GBrowse")

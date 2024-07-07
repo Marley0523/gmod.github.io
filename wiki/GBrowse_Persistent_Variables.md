@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [GBrowse](GBrowse.1 "GBrowse") uses a few persistent variables to store

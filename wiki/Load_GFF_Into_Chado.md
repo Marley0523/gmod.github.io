@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes a method for

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [Modware](../Modware "Modware") provides an object-oriented Perl API for

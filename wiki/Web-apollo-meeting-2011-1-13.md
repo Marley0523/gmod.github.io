@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Attendees: Gregg, Nomi, Chris C., Ed, Jay

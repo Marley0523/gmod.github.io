@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Problems_in_the_CPAN_installer" class="mw-headline">Problems in the CPAN installer</span>

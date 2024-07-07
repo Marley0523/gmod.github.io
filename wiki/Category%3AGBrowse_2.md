@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GBrowse 2 is the next major release of [GBrowse](GBrowse.1 "GBrowse").

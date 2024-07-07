@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I am very happy to announce that [GBrowse](../GBrowse.1 "GBrowse") 1.69

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Minutes_for_December_9_.28Suzi.29" class="mw-headline">Minutes for December 9 (Suzi)</span>

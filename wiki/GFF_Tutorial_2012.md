@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This tutorial on [GFF](GFF "GFF") was given by [Scott

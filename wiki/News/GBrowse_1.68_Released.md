@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Version 1.68 of [GBrowse](../GBrowse.1 "GBrowse") is a stability release

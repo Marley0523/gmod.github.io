@@ -17,7 +17,7 @@
 HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_2_Configuration_HOWTO&redirect=no "GBrowse 2 Configuration HOWTO"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GBrowse 2.0 is a complete rewrite of the original GBrowse version. In

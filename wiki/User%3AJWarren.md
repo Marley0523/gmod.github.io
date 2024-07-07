@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Senior Developer and DAS coordinator for the Wellcome Trust Sanger

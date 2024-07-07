@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Notes_from_the_Chado_Natural_Diversity_Module.2Fnatdiv_schema_changes_call_.28May_26th_2011.29" class="mw-headline">Notes from the [Chado_Natural_Diversity_Module/natdiv_schema_changes_call](natdiv_schema_changes_call "Chado Natural Diversity Module/natdiv schema changes call") (May 26th 2011)</span>

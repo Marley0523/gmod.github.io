@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=Artemis_Tutorial&redirect=no "Artemis Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
   

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Representation_of_feature_graphs" class="mw-headline">Representation of feature graphs</span>

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
     >fake_chromosome Used for gmod middleware bakeoff.

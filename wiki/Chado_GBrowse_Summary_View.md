@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Starting in [GBrowse](GBrowse.1 "GBrowse") version 2.13, administrators

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [CMap](CMap.1 "CMap") is a web-based tool that allows users to view

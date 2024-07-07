@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Dan_Blankenberg" class="mw-headline">Dan Blankenberg</span>

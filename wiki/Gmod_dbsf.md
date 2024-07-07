@@ -17,7 +17,7 @@
 dbsf](http://gmod.org/mediawiki/index.php?title=Gmod_dbsf&redirect=no "Gmod dbsf"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

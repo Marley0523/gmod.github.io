@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="New_Database_Announcement" class="mw-headline">New Database Announcement</span>

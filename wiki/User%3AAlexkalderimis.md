@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Alex_Kalderimis" class="mw-headline">Alex Kalderimis</span>

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 A <a href="http://ptools-fba.eventbrite.com/" class="external text"

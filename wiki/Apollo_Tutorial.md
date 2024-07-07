@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=Apollo_Tutorial&redirect=no "Apollo Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
   

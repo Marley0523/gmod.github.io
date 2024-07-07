@@ -17,7 +17,7 @@
 URL](http://gmod.org/mediawiki/index.php?title=Common_Download_URL&redirect=no "Common Download URL"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 In order to simplify the retrieval of common datasets, the Generic Model

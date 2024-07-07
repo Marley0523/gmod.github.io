@@ -17,7 +17,7 @@
 School](http://gmod.org/mediawiki/index.php?title=GMOD_Summer_School&redirect=no "GMOD Summer School"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="File:Gmod-online-training.png" class="image"

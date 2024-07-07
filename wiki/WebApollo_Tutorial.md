@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=WebApollo_Tutorial&redirect=no "WebApollo Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 These are the steps I took to install WebApollo on the prebuilt AWS

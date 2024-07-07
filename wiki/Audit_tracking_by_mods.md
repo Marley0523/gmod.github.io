@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 | MOD/group | GMOD's version | For chado schema | Brief Description | Use Cases | Contact Info |

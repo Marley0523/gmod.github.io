@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Sybil_Chado_Comparative_Genomics_Data_storage" class="mw-headline">Sybil Chado Comparative Genomics Data storage</span>
