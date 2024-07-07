@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I'm going to work intermittently on a

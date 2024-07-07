@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Hello Reg. GFF file format: I was wondering if the group/region field

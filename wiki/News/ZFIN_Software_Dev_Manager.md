@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ### <span id="Position_no_longer_available_.289_July_2012.29" class="mw-headline">Position no longer available (9 July 2012)</span>

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GMOD Best practices documents in general how best to develop

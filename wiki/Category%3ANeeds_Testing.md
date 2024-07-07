@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Code that needs to be tested.

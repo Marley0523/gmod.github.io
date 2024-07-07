@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Version 11.5 of Pathway Tools has been

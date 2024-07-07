@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 From [Scott Cain](../User%3AScott "User%3AScott"):

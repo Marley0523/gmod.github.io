@@ -15,8 +15,7 @@
 [Gbrowse](/mediawiki/index.php?title=Gbrhttp://gmod.org/wiki/owse&redirect=no "Gbrowse"))
 
 
-Jump to: [navigathttp://gmod.org/wiki/ion](#mw-navigation),
-[search](#p-#p-search)
+
 
 
 

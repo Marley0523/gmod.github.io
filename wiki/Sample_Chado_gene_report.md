@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This is a sample Chado gene page output for the Drosophila gene *toy*.

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This article describes **advanced installation topics** for GBrowse 2.0,

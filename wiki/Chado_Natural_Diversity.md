@@ -17,7 +17,7 @@
 Diversity](http://gmod.org/mediawiki/index.php?title=Chado_Natural_Diversity&redirect=no "Chado Natural Diversity"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The **[Chado Natural Diversity

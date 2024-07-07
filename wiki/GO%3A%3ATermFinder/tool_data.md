@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 \| name = GO::TermFinder \| full_name = \| status =

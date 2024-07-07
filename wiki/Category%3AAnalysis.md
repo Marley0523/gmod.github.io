@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Much of GMOD is about organizing and visualizing your data. The pages in

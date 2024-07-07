@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="https://cpt.tamu.edu/chado-prebuilt-schema/"

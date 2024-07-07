@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 There are several [GBrowse](GBrowse.1 "GBrowse") tutorials:

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ### <span id="Meeting_Report_.0AModel_Organism_Database_User_Interface_Caucus.0AGMOD_Meeting.2C_January_18.2C_2007.2C_San_Diego.2C_CA.2C_USA" class="mw-headline">Meeting Report </span>

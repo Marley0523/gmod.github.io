@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The PamAuthenticate plugin is one of a very small number of [GBrowse

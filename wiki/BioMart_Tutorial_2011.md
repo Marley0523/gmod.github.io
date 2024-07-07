@@ -17,7 +17,7 @@
 2011](http://gmod.org/mediawiki/index.php?title=BioMart_Tutorial_2011&redirect=no "BioMart Tutorial 2011"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [WebApollo](WebApollo.1 "WebApollo") tutorial was presented by [Ed

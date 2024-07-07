@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The section **GFF Databases** -\> has the phrase "GFF is described

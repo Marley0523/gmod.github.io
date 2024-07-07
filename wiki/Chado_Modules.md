@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 - [Audit](Chado_Audit_Module "Chado Audit Module") - for database audit

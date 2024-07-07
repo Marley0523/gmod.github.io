@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="GMOD.org_has_a_new_home" class="mw-headline">GMOD.org has a new home</span>

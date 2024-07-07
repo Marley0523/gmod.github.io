@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 When GBrowse 2.0 is called (at { HTTP_HOST }/cgi-bin/gb2/gbrowse/{

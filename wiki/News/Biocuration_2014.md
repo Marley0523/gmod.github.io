@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="http://biocuration2014.events.oicr.on.ca/"

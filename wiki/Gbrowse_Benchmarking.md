@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Using_Javascript_to_Benchmark_Gbrowse_Image_Generation_and_Loading" class="mw-headline">Using Javascript to Benchmark Gbrowse Image Generation and Loading</span>

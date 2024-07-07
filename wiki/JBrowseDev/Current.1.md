@@ -17,7 +17,7 @@
 [JBrowseDev/Current](/mediawiki/index.php?title=JBrowseDev/Current&redirect=no "JBrowseDev/Current"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **This page has been replaced with this page (<a

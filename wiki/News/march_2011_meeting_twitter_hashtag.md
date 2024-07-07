@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Follow the GMOD March 2011 Meeting on Twitter at \#gmod11

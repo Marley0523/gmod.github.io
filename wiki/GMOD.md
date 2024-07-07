@@ -17,7 +17,7 @@
 [GMOD](http://gmod.org/mediawiki/index.php?title=GMOD&redirect=no "GMOD"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

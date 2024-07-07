@@ -11,7 +11,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Enter a valid value for the property, or view all property values for

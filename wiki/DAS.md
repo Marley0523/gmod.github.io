@@ -17,7 +17,7 @@
 [DAS](http://gmod.org/mediawiki/index.php?title=DAS&redirect=no "DAS"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

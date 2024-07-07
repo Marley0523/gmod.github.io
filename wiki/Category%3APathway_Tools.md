@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [Pathway Tools](Pathway_Tools.1 "Pathway Tools") is a bioinformatics

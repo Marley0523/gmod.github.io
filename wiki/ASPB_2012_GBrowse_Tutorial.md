@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Registration for the GBrowse tutorial at ASPB is now closed, with 97

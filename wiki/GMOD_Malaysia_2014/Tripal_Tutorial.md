@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [Tripal](../Tripal.1 "Tripal") tutorial was presented by [Scott

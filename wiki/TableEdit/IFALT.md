@@ -17,7 +17,7 @@
 [TableEdit/IFALT](http://gmod.org/mediawiki/index.php?title=TableEdit/IFALT&redirect=no "TableEdit/IFALT"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="specifications" class="mw-headline">specifications</span>

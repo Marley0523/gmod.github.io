@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Stuff_Jim_made_up_while_implementing_this_for_EcoliWiki_after_the_Jan_2009_GMOD_meeting" class="mw-headline">Stuff Jim made up while implementing this for EcoliWiki after the Jan 2009 GMOD meeting</span>

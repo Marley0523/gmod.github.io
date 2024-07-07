@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I've just cut a new [Apollo](../Apollo.1 "Apollo") release that fixes

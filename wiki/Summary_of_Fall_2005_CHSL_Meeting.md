@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="GMOD_Architecture_Work_Group_Discussion_.28Fall_2005_meeting.29" class="mw-headline">GMOD Architecture Work Group Discussion (Fall 2005 meeting)</span>

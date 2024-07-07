@@ -17,7 +17,7 @@
 [PAG](http://gmod.org/mediawiki/index.php?title=PAG&redirect=no "PAG"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

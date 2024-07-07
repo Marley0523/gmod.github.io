@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial&redirect=no "Tripal Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
   

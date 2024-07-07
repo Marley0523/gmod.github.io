@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [MAKER](MAKER.1 "MAKER") tutorial was taught by [Barry

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Briefly" class="mw-headline">Briefly</span>

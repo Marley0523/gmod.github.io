@@ -17,7 +17,7 @@
 [Box](http://gmod.org/mediawiki/index.php?title=Box&redirect=no "Box"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
   

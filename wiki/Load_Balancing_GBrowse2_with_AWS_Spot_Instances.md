@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 As of GBrowse version 2.54, you may offload some of the work involved in

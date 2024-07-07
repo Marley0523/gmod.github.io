@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=MAKER_Tutorial&redirect=no "MAKER Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="http://www.cafepress.com/+maker-genome-annotation+gifts"

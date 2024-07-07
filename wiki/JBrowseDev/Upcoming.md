@@ -17,7 +17,7 @@
 [JBrowseDev/Upcoming](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Upcoming&redirect=no "JBrowseDev/Upcoming"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **This page has been replaced with this page (<a

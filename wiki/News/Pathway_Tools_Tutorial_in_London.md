@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 A [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") and BioCyc

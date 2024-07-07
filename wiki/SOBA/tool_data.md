@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 \| name = SOBA \| full*name = Sequence Ontology

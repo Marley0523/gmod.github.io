@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="http://bx.mathcs.emory.edu" class="external text"

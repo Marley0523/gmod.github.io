@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Spectrogram.pm is a [GBrowse](GBrowse.1 "GBrowse") plugin written by

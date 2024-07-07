@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Screenshots of [GMOD Components](GMOD_Components "GMOD Components"),

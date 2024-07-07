@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Plans/Architecture for the PHP tools for implementing gmod-rpc

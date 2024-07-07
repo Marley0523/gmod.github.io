@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Lincoln and I talked about a possible GBrowse enhancement this morning.

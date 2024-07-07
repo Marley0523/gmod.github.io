@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I may or may not want to add this as a guideline to JBrowseDev/Upcoming

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Robin Haw is the Reactome Outreach Co-ordinator, working with Lincoln

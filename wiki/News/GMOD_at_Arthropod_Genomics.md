@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 There will be two <a href="http://www.k-state.edu/agc/Workshop.shtml"

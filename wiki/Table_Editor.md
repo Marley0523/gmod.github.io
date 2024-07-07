@@ -17,7 +17,7 @@
 Editor](http://gmod.org/mediawiki/index.php?title=Table_Editor&redirect=no "Table Editor"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

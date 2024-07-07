@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 #### <span id="Robin_Houston" class="mw-headline">Robin Houston</span>

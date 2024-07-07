@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Tool data pages are a way of organising the information about GMOD tools

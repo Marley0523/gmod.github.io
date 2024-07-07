@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott

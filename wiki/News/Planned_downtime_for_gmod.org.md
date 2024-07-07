@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 At 4:00PM today, gmod.org will have a brief downtime for some software

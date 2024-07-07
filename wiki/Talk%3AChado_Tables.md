@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Are the 'wwwuser' tables a standard part of chado schema? If not, they

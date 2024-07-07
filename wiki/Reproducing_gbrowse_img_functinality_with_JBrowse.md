@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 That is, "Reproducing gbrowse_img functionality with JBrowse"

@@ -17,7 +17,7 @@
 HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_Linux_HOWTO&redirect=no "GBrowse Linux HOWTO"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This page contains detailed installation instructions for **installing

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 In the wake of the <a href="../GMOD_Summer_School" class="mw-redirect"

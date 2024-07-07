@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GMOD Malaysia 2014 is taking place from February 26th to 28th in Kuala

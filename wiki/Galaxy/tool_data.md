@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 \| name = Galaxy \| full_name = \| status = mature \|

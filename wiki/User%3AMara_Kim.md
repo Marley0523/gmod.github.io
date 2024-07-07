@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 I am a Ph.D. student studying Computational Genomics in the Rokas Lab at

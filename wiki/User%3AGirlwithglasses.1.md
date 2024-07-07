@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 girlwithglasses is Amelia Ireland, who was the GMOD Community Support

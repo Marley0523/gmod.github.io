@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Chado API via Java & Hibernate, Robert Bruggner, VectorBase.org. This

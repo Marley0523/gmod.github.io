@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial&redirect=no "Galaxy Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This walks you through setting up and running a

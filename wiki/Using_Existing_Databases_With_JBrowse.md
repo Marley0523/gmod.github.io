@@ -17,7 +17,7 @@
 JBrowse](http://gmod.org/mediawiki/index.php?title=Using_Existing_Databases_With_JBrowse&redirect=no "Using Existing Databases With JBrowse"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **This page has been replaced with this page (<a

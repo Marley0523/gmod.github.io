@@ -11,7 +11,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **Complete and submit the following form to request a user account**.

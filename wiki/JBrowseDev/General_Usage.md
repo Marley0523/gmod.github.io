@@ -17,7 +17,7 @@
 Usage](http://gmod.org/mediawiki/index.php?title=JBrowseDev/General_Usage&redirect=no "JBrowseDev/General Usage"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 **This page has been replaced with this page (<a

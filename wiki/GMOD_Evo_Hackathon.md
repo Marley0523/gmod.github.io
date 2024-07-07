@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"

@@ -17,7 +17,7 @@
 [Chado](http://gmod.org/mediawiki/index.php?title=Chado&redirect=no "Chado"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

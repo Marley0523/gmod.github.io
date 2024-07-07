@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Starting with the GMOD 1.1 release, Chado has a set of views to make

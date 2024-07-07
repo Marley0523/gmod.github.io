@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 #### <span id="Tim_Carver" class="mw-headline">Tim Carver</span>

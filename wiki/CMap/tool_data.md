@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This page stores the data that populates the [CMap](../CMap.1 "CMap")

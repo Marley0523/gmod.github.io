@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Barry_Moore" class="mw-headline">Barry Moore</span>

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GMOD meeting related pages. See [Meetings](Meetings "Meetings") for

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 #### <span id="Web-Apollo_Meeting_Agenda_.26_Minutes" class="mw-headline">Web-Apollo Meeting Agenda & Minutes</span>

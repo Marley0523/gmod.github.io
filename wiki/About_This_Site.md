@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This site is maintained by the [GMOD community](MOD "MOD"). It is

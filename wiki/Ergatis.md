@@ -17,7 +17,7 @@
 [Ergatis](http://gmod.org/mediawiki/index.php?title=Ergatis&redirect=no "Ergatis"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

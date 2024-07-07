@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 [Tool data](Form%3ATool_data "Form:Tool data")

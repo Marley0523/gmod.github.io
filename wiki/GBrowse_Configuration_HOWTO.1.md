@@ -17,7 +17,7 @@
 HOWTO](/mediawiki/index.php?title=GBrowse_Configuration_HOWTO&redirect=no "GBrowse Configuration HOWTO"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This document provides information on configuring version 1 of the

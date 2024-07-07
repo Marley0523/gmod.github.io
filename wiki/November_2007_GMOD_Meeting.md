@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GMOD's November 2007 meeting was held November 5, 1:30PM to November 7,

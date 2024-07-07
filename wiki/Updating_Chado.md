@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 As of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>

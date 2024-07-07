@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Stephen_Ficklin" class="mw-headline">Stephen Ficklin</span>

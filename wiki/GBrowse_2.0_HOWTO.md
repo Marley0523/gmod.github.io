@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 GBrowse 2.0 is a complete rewrite of the original GBrowse version. In

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="File:Rbuels_and_pretty_flowers.jpg" class="image"><img

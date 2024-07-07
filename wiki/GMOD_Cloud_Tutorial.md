@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 See also the [AWS walkthrough](AWS_walkthrough "AWS walkthrough"), a

@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 One of the Security Updates to Mac OSX 10.5 caused problems for Perl.

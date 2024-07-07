@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 These are the steps I took to install WebApollo on the prebuilt AWS

@@ -17,7 +17,7 @@
 Tips](http://gmod.org/mediawiki/index.php?title=GBrowse_Balloon_Tips&redirect=no "GBrowse Balloon Tips"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This article describes **popup balloons** and how to configure them in

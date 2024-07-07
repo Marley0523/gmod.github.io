@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Version 1.01 of [CMap](../CMap.1 "CMap") has been released.

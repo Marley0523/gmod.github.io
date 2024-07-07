@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=GFF_Tutorial&redirect=no "GFF Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This tutorial on [GFF](GFF "GFF") was given by [Scott

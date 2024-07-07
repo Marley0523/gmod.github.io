@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 *For the main GBrowse 2.0 HOWTO article, see: [GBrowse 2.0

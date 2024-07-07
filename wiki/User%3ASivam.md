@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="File:DhileepSivam_TryAgain.jpg" class="image"><img

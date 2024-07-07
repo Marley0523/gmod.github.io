@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Mashing-up_InterMine" class="mw-headline">Mashing-up InterMine</span>

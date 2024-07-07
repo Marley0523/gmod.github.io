@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 \| name = GBrowse_syn \| full_name = Generic Synteny

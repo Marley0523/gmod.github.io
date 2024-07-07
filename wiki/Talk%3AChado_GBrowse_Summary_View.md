@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 What glyphs? Mine don't look like example (heatmap not histogram). Is

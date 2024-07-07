@@ -11,7 +11,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 A list of all pages that have property "[Interaction

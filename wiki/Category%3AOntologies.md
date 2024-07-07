@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 An *ontology* is a controlled vocabulary plus semantics about how the

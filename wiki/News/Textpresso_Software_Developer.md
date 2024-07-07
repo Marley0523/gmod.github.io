@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ### <span id="This_position_has_now_been_filled" class="mw-headline">This position has now been filled</span>

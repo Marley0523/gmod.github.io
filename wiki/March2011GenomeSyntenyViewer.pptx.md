@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Genome_Synteny_Viewer" class="mw-headline">Genome Synteny Viewer</span>

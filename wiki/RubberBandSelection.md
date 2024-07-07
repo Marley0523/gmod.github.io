@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 "Rubber-band", or drag-selection is a user-interface feature of GBrowse

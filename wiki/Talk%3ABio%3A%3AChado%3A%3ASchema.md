@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Boundaries_between_BCS_and_Modware" class="mw-headline">Boundaries between BCS and Modware</span>

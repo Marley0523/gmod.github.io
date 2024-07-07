@@ -17,7 +17,7 @@
 Browser](http://gmod.org/mediawiki/index.php?title=Generic_Genome_Browser&redirect=no "Generic Genome Browser"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

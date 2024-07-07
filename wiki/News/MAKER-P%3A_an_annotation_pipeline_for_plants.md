@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The popular [MAKER](../MAKER.1 "MAKER") annotation pipeline has been

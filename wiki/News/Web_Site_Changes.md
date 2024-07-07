@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The [GMOD web site](../Main_Page "Main Page") doesn't look very

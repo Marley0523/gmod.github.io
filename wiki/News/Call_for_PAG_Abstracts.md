@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 ## <span id="Call_for_PAG_Abstracts" class="mw-headline">Call for PAG Abstracts</span>

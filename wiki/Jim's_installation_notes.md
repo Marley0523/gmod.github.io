@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Back to [Chado New Users](Chado_New_Users "Chado New Users")

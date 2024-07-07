@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 <a href="http://www.sanger.ac.uk/Software/formats/GFF/GFF_Spec.shtml"

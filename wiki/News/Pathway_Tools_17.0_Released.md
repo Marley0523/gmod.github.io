@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 Version 17.0 of [Pathway Tools](../Pathway_Tools.1 "Pathway Tools") has

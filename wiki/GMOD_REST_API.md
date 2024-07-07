@@ -17,7 +17,7 @@
 API](http://gmod.org/mediawiki/index.php?title=GMOD_REST_API&redirect=no "GMOD REST API"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 

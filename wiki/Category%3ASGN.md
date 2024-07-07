@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 The <a href="http://www.sgn.cornell.edu/" class="external text"

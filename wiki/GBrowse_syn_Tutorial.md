@@ -17,7 +17,7 @@
 Tutorial](http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial&redirect=no "GBrowse syn Tutorial"))
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught

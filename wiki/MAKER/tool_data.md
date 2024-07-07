@@ -12,7 +12,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 This page stores the data that populates the [MAKER](../MAKER.1 "MAKER")

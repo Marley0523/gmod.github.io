@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 # <span id="Mod_Face_report_status" class="mw-headline">Mod Face report status</span>

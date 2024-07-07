@@ -101,10 +101,6 @@ components](GMOD_Components "GMOD Components")
 
 [![JBrowse 2 logo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png)](JBrowse.1 "JBrowse")
 
-<a href="File:Jbrowse2_logo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 JBrowse 2: New super-fast genome annotation viewer
 
 [<img
@@ -112,10 +108,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" />](GBrowse.1 "GBrowse")
-
-<a href="File:GBrowseLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 GBrowse: Genome annotation viewer
 
@@ -125,11 +117,6 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
 width="250" height="89" />](Galaxy.1 "Galaxy")
 
-<a href="File:GalaxyLogoBigger.png" class="internal"
-title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 Galaxy: Data analysis & integration
 
 [<img
@@ -137,10 +124,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/375px-ChadoLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/500px-ChadoLogo.png 2x"
 width="250" height="56" />](Chado "Chado")
-
-<a href="File:ChadoLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 Chado: Biological database schema
 
@@ -150,18 +133,10 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
 width="250" height="55" />](JBrowse.1 "JBrowse")
 
-<a href="File:JBrowseLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 JBrowse: Super-fast genome annotation viewer
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" class="thumbimage"
 width="250" height="99" />](BioMart "BioMart")
-
-<a href="File:Biomart250.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 BioMart: Data mining system
 
@@ -171,21 +146,13 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/375px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/500px-WebApolloLogo.png 2x"
 width="250" height="69" />](WebApollo.1 "WebApollo")
 
-<a href="File:WebApolloLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
-WebApollo: browser-based annotation editor
+Apollo: browser-based annotation editor
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/250px-MAKERLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/375px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/500px-MAKERLogo.png 2x"
 width="250" height="85" />](MAKER.1 "MAKER")
-
-<a href="File:MAKERLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 MAKER: Genome annotation pipeline
 
@@ -195,11 +162,6 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" />](GBrowse_syn.1 "GBrowse syn")
 
-<a href="File:GBrowse_syn_logo.png" class="internal"
-title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 GBrowse_syn: Synteny viewer
 
 [<img
@@ -207,10 +169,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" />](Tripal.1 "Tripal")
-
-<a href="File:TripalLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 Tripal: Chado web interface
 
@@ -220,10 +178,6 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="250" height="31" />](InterMine "InterMine")
 
-<a href="File:InterMineLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 InterMine: Data warehousing
 
 [<img
@@ -231,10 +185,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/375px-CMapLogo-horiz.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/500px-CMapLogo-horiz.png 2x"
 width="250" height="72" />](CMap.1 "CMap")
-
-<a href="File:CMapLogo-horiz.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
 
 CMap: Comparative map viewer
 
@@ -244,10 +194,6 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 2x"
 width="250" height="55" />](Pathway_Tools.1 "Pathway Tools")
 
-<a href="File:PathwayTools.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 Pathway Tools: Metabolic, regulatory pathways
 
 [<img
@@ -256,13 +202,7 @@ class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/375px-CantoTextLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/500px-CantoTextLogo.png 2x"
 width="250" height="62" />](Canto "Canto")
 
-<a href="File:CantoTextLogo.png" class="internal" title="Enlarge"><img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
-
 Canto: literature annotation tool
-
-
 
 ## Navigation menu
 

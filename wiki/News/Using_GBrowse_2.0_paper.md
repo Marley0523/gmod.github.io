@@ -14,7 +14,7 @@
 
 
 
-Jump to: [navigation](#mw-navigation), [search](#p-search)
+
 
 
 There is a new [GBrowse](../GBrowse.1 "GBrowse") paper by Lincoln Stein
