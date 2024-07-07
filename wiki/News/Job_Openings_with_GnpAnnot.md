@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <a href="http://urgi.versailles.inra.fr/projects/GnpAnnot/"
@@ -51,9 +30,6 @@ databases.
 
 
 1st Position: IRISA
-
-
-
 
 
 <a href="http://www.irisa.fr/home_html-en?set_language=en"
@@ -97,9 +73,6 @@ rel="nofollow">fabrice.legeai@rennes.inra.fr</a>
 
 
 2nd Position: INRA-URGI
-
-
-
 
 
 <a href="http://urgi.versailles.inra.fr/" rel="nofollow"
@@ -163,28 +136,9 @@ yourself when you see her.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/Job_Openings_with_GnpAnnot&oldid=22330>"
-
-
-
-
-
-
-
 [Category](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -195,12 +149,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -208,9 +156,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/Job_Openings_with_GnpAnnot&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -224,27 +169,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -261,9 +188,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -272,9 +196,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -294,25 +215,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FJob_Openings_with_GnpAnnot"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -330,9 +236,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This article describes **user authentication** and how to configure it
@@ -43,9 +22,6 @@ to work with GBrowse.
 
 *For the main GBrowse2 configuration article, see [GBrowse 2.0
 HOWTO](../GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
-
-
-
 
 
 ## Contents
@@ -158,9 +134,6 @@ an entire datasource, create a \<Location\> section in httpd.conf. The
 \<Location\> section should look like this:
 
 
-
-
-
 ``` de1
  
  <Location /cgi-bin/gb2/gbrowse/your_datasource>
@@ -169,9 +142,6 @@ an entire datasource, create a \<Location\> section in httpd.conf. The
         allow from localhost .oicr.on.ca .cshl.edu .ebi.ac.uk
   </Location>
 ```
-
-
-
 
 
 This denies access to everybody except for "localhost" and browsers from
@@ -189,9 +159,6 @@ main screen or any of the configuration screens. To set this up, add a
 "restrict" option to the track you wish to make off-limits:
 
 
-
-
-
 ``` de1
  
        [PROPRIETARY]
@@ -201,9 +168,6 @@ main screen or any of the configuration screens. To set this up, add a
                    deny from all
                    allow from localhost .oicr.on.ca .cshl.edu .ebi.ac.uk
 ```
-
-
-
 
 
 The value of the restrict option is identical to the Apache
@@ -224,9 +188,6 @@ the user's name sounds female and forbids access if the name sounds
 male. (It might be useful for an X-chromosome annotation site.)
 
 
-
-
-
 ``` de1
     restrict = sub {
         my ($host,$ip,$user) = @_;
@@ -237,9 +198,6 @@ male. (It might be useful for an X-chromosome annotation site.)
 ```
 
 
-
-
-
 You should be aware that the username will only be defined if username
 authentication is turned on and the user has successfully authenticated
 himself against Apache's user database using the correct password. In
@@ -248,16 +206,10 @@ turned on in httpd.conf. In the latter case, you can convert the IP
 address into a hostname using this piece of code:
 
 
-
-
-
 ``` de1
     use Socket;
     $host = gethostbyaddr(inet_aton($addr),AF_INET);
 ```
-
-
-
 
 
 Note that this may slow down the response time of gbrowse noticeably if
@@ -277,9 +229,6 @@ suppress this display:
     will be able to see and select the datasource. For example:
 
 
-
-
-
 ``` de1
  
  [yeast]
@@ -289,17 +238,11 @@ suppress this display:
 ```
 
 
-
-
-
 Finally, you may place a "restrict" option in the \[GENERAL\] section of
 an individual datasource conf file, in which case the restrictions are
 applied on top of those defined by Apache. This might be useful if you
 prefer to modify the GBrowse conf file rather than Apache's conf file.
 For example, if Apache's config file contains this section:
-
-
-
 
 
 ``` de1
@@ -314,16 +257,10 @@ For example, if Apache's config file contains this section:
 ```
 
 
-
-
-
 then any valid user (who can provide a recognized username and password)
 who accesses the site from a workstation in the .oicr.on.ca domain will
 be able to get in. You can further restrict access by adding the
 following to the \[GENERAL\] section of yeast_simple.conf:
-
-
-
 
 
 ``` de1
@@ -332,9 +269,6 @@ following to the \[GENERAL\] section of yeast_simple.conf:
    # .... other stuff ...
    restrict  = require user fred joseph andrew vivian
 ```
-
-
-
 
 
 This will return an unauthorized message for anyone except the four
@@ -347,18 +281,9 @@ right corner of the screen that lets them login, register, and manage
 their account settings.
 
 
-
-
-
 <a href="../File:Gbrowse_login.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_login.png" class="thumbimage"
 width="437" height="262" alt="Gbrowse login.png" /></a>
-
-
-
-
-
-
 
 
 
@@ -404,9 +329,6 @@ The following is a GBrowse.conf configuration file with all the bells
 and whistles turned on:
 
 
-
-
-
 ``` de1
  
  [GENERAL]
@@ -422,9 +344,6 @@ and whistles turned on:
  application_name_long       = The Generic Genome Browser
  email_address               = noreply@gbrowse.com
 ```
-
-
-
 
 
 This configuration should work on most servers provided that there is a
@@ -448,16 +367,10 @@ Only SQLite and MySQL databases are usable at the current time. For
 MySQL databases, the full form of the option is:
 
 
-
-
-
 ``` de1
  
   DBI:mysql:database=gbrowse_login;host=mysql.oicr.on.ca;user=gbrowse;password=gbrowse
 ```
-
-
-
 
 
 This indicates that the account database is running on a MySQL server
@@ -468,16 +381,10 @@ The GBrowse application will use the username "gbrowse" and the password
 For SQLite databases, the format is:
 
 
-
-
-
 ``` de1
  
   DBI:SQLite:/var/www/gbrowse2/databases/users.sqlite
 ```
-
-
-
 
 
 The latter part of the description is a path to the database file.
@@ -499,16 +406,10 @@ users and to communicate track sharing information one user to another.
 The full format is:
 
 
-
-
-
 ``` de1
  
  <smtp.server.com>:<port>:<encryption>:<username>:<password>
 ```
-
-
-
 
 
 There are up to five fields, each separated by colons. The first field,
@@ -526,16 +427,10 @@ is Gmail. Here, for example, is how to route mail through a user account
 at GMail:
 
 
-
-
-
 ``` de1
  
   smtp_gateway           = smtp.gmail.com:465:ssl:john.doe:open_sesame
 ```
-
-
-
 
 
 Replace "john.doe" and "open_sesame" with the appropriate username and
@@ -611,9 +506,6 @@ exactly the same **restrict** syntax described in the previous section.
 For example in yeast_simple.conf, you could have:
 
 
-
-
-
 ``` de1
  [GENERAL]
  # lots of other stuff...
@@ -625,9 +517,6 @@ For example in yeast_simple.conf, you could have:
  feature  = RACE:5_prime
  restrict = require user fred joseph andrea marta
 ```
-
-
-
 
 
 The effect will be to require everyone to log in successfully in order
@@ -727,16 +616,6 @@ datasource.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_Configuration/Authentication&oldid=22567>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
@@ -748,22 +627,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -774,9 +638,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Configuration/Authentication&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -790,27 +651,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -827,9 +670,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -838,9 +678,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -860,25 +697,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_Configuration-2FAuthentication"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -896,9 +718,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

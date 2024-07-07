@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 [GBrowse](GBrowse.1 "GBrowse") uses a few persistent variables to store
 data for a user. The following is an explanation of the structure of the
 commonly-used ones:
-
-
-
 
 
 ## Contents
@@ -154,9 +130,6 @@ Subroutines](GBrowse_2.0_HOWTO#Named_Subroutine_References "GBrowse 2.0 HOWTO")
 below to a file called init_code.conf.
 
 
-
-
-
 ``` de1
 init_code=
     my $t = -1;
@@ -199,18 +172,12 @@ init_code=
 ```
 
 
-
-
-
   
 In your GBrowse.conf file, use the include directive to import the named
 subroutines, by including the init_code.conf file in the \[GENERAL\]
 section of the configuration file. Add a reference to the named
 subroutine queryStateVariables, assigning the return value to one of the
 html variables.
-
-
-
 
 
 <a href="File:StateVariables.png" class="image"><img
@@ -220,9 +187,6 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="300" height="193" /></a>
 
 
-
-
-
 <a href="File:StateVariables.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
@@ -230,9 +194,6 @@ height="11" /></a>
 
 
 Displaying the values of the \$state variable
-
-
-
 
 
 
@@ -264,16 +225,6 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_Persistent_Variables&oldid=22102>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse
@@ -284,22 +235,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -308,9 +244,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_Persistent_Variables" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -324,27 +257,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -359,9 +274,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -370,9 +282,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -392,25 +301,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Persistent_Variables"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -428,9 +322,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

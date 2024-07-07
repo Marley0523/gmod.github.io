@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 **<a href="http://www.sequenceontology.org/cgi-bin/soba.cgi"
@@ -81,9 +60,6 @@ graphviz for the ontology graphs, and GD for charts. Template Toolkit
 makes extensibility very easy, at least for someone who's willing to
 learn the fairly simple template language of TT (you don't need to know
 Perl or any other programming to use TT).
-
-
-
 
 
 ## Contents
@@ -602,9 +578,6 @@ height="11" /></a>
 <strong>Figure:7</strong> SOBA feature lengths for chromosome 1
 
 
-
-
-
 <a href="File:SOBAcl_graphic_chr2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/SOBAcl_graphic_chr2.png/300px-SOBAcl_graphic_chr2.png"
 class="thumbimage"
@@ -618,9 +591,6 @@ src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
 
 <strong>Figure:7</strong> SOBA feature lengths for chromosome 2
-
-
-
 
 
 <a href="File:SOBAcl_graphic_chr3.png" class="image"><img
@@ -751,16 +721,6 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=SOBA_Tutorial_2011&oldid=25979>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2011 Spring
@@ -773,22 +733,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -799,9 +744,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:SOBA_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -815,27 +757,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -850,9 +774,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -861,9 +782,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -883,25 +801,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -919,9 +822,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

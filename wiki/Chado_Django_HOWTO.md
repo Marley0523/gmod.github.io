@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,29 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 --<a
 href="http://gmod.org/mediawiki/index.php?title=User%3AVdejager&amp;action=edit&amp;redlink=1"
 class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
 11:07, 1 September 2008 (UTC)
-
-
-
 
 
 ## Contents
@@ -392,9 +368,6 @@ The resulting files, `models.py` and `admin.py` should be copied to the
 representing a database table looks like this:
 
 
-
-
-
 ``` de1
     class Feature(models.Model):
         feature_id = models.IntegerField(primary_key=True)
@@ -411,9 +384,6 @@ representing a database table looks like this:
         timeaccessioned = models.DateTimeField()
         timelastmodified = models.DateTimeField()
 ```
-
-
-
 
 
 ### <span id="Creating_Model_Specific_Functions" class="mw-headline">Creating Model Specific Functions</span>
@@ -438,9 +408,6 @@ class="external text" rel="nofollow">package</a> in Python
 `modeldefs.py`:
 
 
-
-
-
 ``` de1
     #this file contains all the model methods we will attach to the specific models in the __init__.py file
     # one method may be attached to different model adhering to the DRY principle
@@ -460,15 +427,9 @@ class="external text" rel="nofollow">package</a> in Python
 ```
 
 
-
-
-
 ### <span id="Attaching_the_Model_Method_Definitions_to_Specific_Models" class="mw-headline">Attaching the Model Method Definitions to Specific Models</span>
 
 `__init__.py`:
-
-
-
 
 
 ``` de1
@@ -488,9 +449,6 @@ class="external text" rel="nofollow">package</a> in Python
 ```
 
 
-
-
-
 ### <span id="Link_Everything_Together" class="mw-headline">Link Everything Together</span>
 
 Go to your project directory to change the files below:
@@ -501,16 +459,10 @@ The `INSTALLED_APPS` section should contain besides the standard
 settings.
 
 
-
-
-
 ``` de1
     'django.contrib.admin',
     '<project>.<app>.',
 ```
-
-
-
 
 
 *Note the comma at the last item. This is a Python requisite.*
@@ -607,16 +559,6 @@ recorded.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Django_HOWTO&oldid=22187>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
@@ -632,22 +574,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -658,9 +585,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Django_HOWTO&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -674,27 +598,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -709,9 +615,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -720,9 +623,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -742,25 +642,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Django_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -778,9 +663,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

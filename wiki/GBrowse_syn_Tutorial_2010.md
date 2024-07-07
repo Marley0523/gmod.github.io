@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -49,17 +25,11 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="250" height="80" alt="GBrowse_syn" /></a>
 
 
-
-
-
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through how to install and configure the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") comparative genomics viewer.
 
   
-
-
-
 
 
 ## Contents
@@ -147,17 +117,11 @@ Now point your browser to
 rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 
 
-
-
-
 <a href="File:GBrowse_synWelcom.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
 width="600" height="375" /></a>
-
-
-
 
 
 <a href="File:GBrowse_synWelcom.png" class="internal"
@@ -170,9 +134,6 @@ height="11" /></a>
 This is the welcome screen you should see after installing a new copy of
 GBrowse_syn with no configured data sources. It contains instructions on
 how to set up the example data source provided with the distribution.
-
-
-
 
 
 
@@ -386,9 +347,6 @@ rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn/oryza</a>. You
 should see:
 
 
-
-
-
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
@@ -401,9 +359,6 @@ width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
 
 4\) Click on the first example, you should (eventually) see:
-
-
-
 
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
@@ -707,16 +662,6 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial_2010&oldid=22747>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
@@ -727,22 +672,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -753,9 +683,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_Tutorial_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -769,27 +696,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -804,9 +713,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -815,9 +721,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -837,25 +740,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2010"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -873,9 +761,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

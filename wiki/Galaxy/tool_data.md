@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">Galaxy/tool data</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 \| name = Galaxy \| full_name = \| status = mature \|
@@ -100,17 +79,11 @@ includes links to slides and videos for all accepted talks.
 \| screenshot =
 
 
-
-
-
 <a href="../File:Galaxy_screenshot-1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
 width="300" height="205" /></a>
-
-
-
 
 
 <a href="../File:Galaxy_screenshot-1.png" class="internal"
@@ -126,20 +99,11 @@ Galaxy 'Upload file' tool
 
 
 
-
-
-
-
-
-
 <a href="../File:Galaxy_screenshot-2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
 width="300" height="187" /></a>
-
-
-
 
 
 <a href="../File:Galaxy_screenshot-2.png" class="internal"
@@ -155,20 +119,11 @@ Galaxy 'Table Browser' tool
 
 
 
-
-
-
-
-
-
 <a href="../File:Galaxy_screenshot-3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
 width="300" height="226" /></a>
-
-
-
 
 
 <a href="../File:Galaxy_screenshot-3.png" class="internal"
@@ -179,9 +134,6 @@ height="11" /></a>
 
 
 Editing the attributes of a data set in Galaxy
-
-
-
 
 
 
@@ -342,16 +294,6 @@ extras = \|release date=2005
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Galaxy/tool_data&oldid=24599>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GMOD
@@ -364,19 +306,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -389,9 +319,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -402,24 +329,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -436,9 +348,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -447,9 +356,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -469,21 +375,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Galaxy-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
 
 
 

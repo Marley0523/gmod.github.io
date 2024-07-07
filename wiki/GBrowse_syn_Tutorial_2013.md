@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
@@ -58,17 +37,11 @@ species compared to two or more additional species. It is included with
 the standard GBrowse package (version 1.69 and later).
 
 
-
-
-
 <a href="File:Gbrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Gbrowse_syn.png/600px-Gbrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 2x"
 width="600" height="221" /></a>
-
-
-
 
 
 <a href="File:Gbrowse_syn.png" class="internal" title="Enlarge"><img
@@ -82,9 +55,6 @@ GBrowse_syn at The Arabidopsis Information Resource (TAIR)
 
 
 
-
-
-
 Working examples of GBrowse_syn can be seen at <a
 href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501;search_src=thaliana"
 class="external text" rel="nofollow">TAIR</a> and <a
@@ -92,9 +62,6 @@ href="http://mckay.cshl.edu/seq/gbrowse_syn/compara?search_src=Cele;name=X:10500
 class="external text" rel="nofollow">WormBase</a>.
 
   
-
-
-
 
 
 ## Contents
@@ -187,17 +154,11 @@ Point your browser to
 http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn
 
 
-
-
-
 <a href="File:GBrowse_synWelcome.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
 width="600" height="369" /></a>
-
-
-
 
 
 <a href="File:GBrowse_synWelcome.png" class="internal"
@@ -208,9 +169,6 @@ height="11" /></a>
 
 
 Welcome screen
-
-
-
 
 
 
@@ -231,9 +189,6 @@ how to set up the example data source provided with the distribution.
 
 
 \*Data courtesy of Bonnie Hurwitz
-
-
-
 
 
 ### <span id="Setting_up_the_Alignment_Database" class="mw-headline">Setting up the Alignment Database</span>
@@ -436,17 +391,11 @@ http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn/oryza
 should see**:
 
 
-
-
-
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
 width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
-
-
-
 
 
 <a href="File:GBrowse_synWe_made_it1.png" class="internal"
@@ -456,16 +405,7 @@ height="11" /></a>
 
 
 
-
-
-
-
-
-
 **4) Click on the first example, you should (eventually) see:**
-
-
-
 
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
@@ -475,19 +415,10 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
 
 
-
-
-
 <a href="File:GBrowse_synWe_made_it2.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-
-
-
-
-
-
 
 
 
@@ -571,9 +502,6 @@ elegans*, *C. briggsae* and *P. pacificus*.
 
 
 *\*Data courtesy of Jack Chen and Ismael Vergera*
-
-
-
 
 
 **1) Download and unpack the data archive file `orthocluster.tar.gz`**.
@@ -757,9 +685,6 @@ height="77" alt="GBrowse synPulldown1.png" /></a>
 **8) Select the other data source and start browsing!**
 
 
-
-
-
 <a href="File:Gbrowse_synEtfinit.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
 class="thumbimage"
@@ -767,19 +692,10 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
 
 
-
-
-
 <a href="File:Gbrowse_synEtfinit.png" class="internal"
 title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-
-
-
-
-
-
 
 
 
@@ -828,32 +744,10 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial_2013&oldid=25929>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -864,9 +758,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_Tutorial_2013&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -880,27 +771,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -915,9 +788,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -926,9 +796,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -948,25 +815,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2013"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -984,9 +836,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

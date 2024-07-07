@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
@@ -51,9 +30,6 @@ bundle zip file, also available on Amazon S3: <a
 href="https://s3.amazonaws.com/jbrowse-tutorials/JBrowse+PAG+2017.ova.bz2"
 class="external text" rel="nofollow">JBrowse PAG 2017.ova.bz2</a> (about
 3GB).
-
-
-
 
 
 ## Contents
@@ -250,9 +226,6 @@ In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
 
-
-
-
 ``` de1
 ...
  
@@ -275,9 +248,6 @@ In this case, we have specified all of our track configurations in
    ...
 ]
 ```
-
-
-
 
 
 `track` specifies the track identifier (a unique name for the track, for
@@ -363,9 +333,6 @@ server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_alignments",
@@ -375,9 +342,6 @@ similar to:
         "type" : "Alignments2"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -404,9 +368,6 @@ is find the "\[" after "tracks", paste there and then add a comma after
 the "}").
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_coverage",
@@ -416,9 +377,6 @@ the "}").
         "type" : "SNPCoverage"
       }
 ```
-
-
-
 
 
 and then press the Save button.
@@ -433,9 +391,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bigwig_bam_coverage",
@@ -446,9 +401,6 @@ the track, similar to:
         "variance_band" : true
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -475,9 +427,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
       {
         "label" : "bam_variation",
@@ -487,9 +436,6 @@ the track, similar to:
         "type" : "HTMLVariants"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -523,9 +469,6 @@ be copied into the `data` directory for use with this configuration.
 Then a simple faceted track selection configuration might look like:
 
 
-
-
-
 ``` de1
    "trackSelector": {
        "type": 'Faceted',
@@ -536,9 +479,6 @@ Then a simple faceted track selection configuration might look like:
        ]
    }
 ```
-
-
-
 
 
 Copy the section above and put it in the empty curly braces in the
@@ -553,9 +493,6 @@ tracks, this tutorial will focus on Canvas tracks only (the repeat
 tracks created above).
 
 The configuration for the RepeatMasker track looks like this:
-
-
-
 
 
 ``` de1
@@ -577,24 +514,15 @@ The configuration for the RepeatMasker track looks like this:
 ```
 
 
-
-
-
 Open the `data/trackList.json` file in your favorite editor and
 Control-F will open a "find" window; search for "repeatmasker". A simple
 change we can make is to the color; in the line starting with "style",
 add:
 
 
-
-
-
 ``` de1
   "color" : "black",
 ```
-
-
-
 
 
 save the changes and select the RepeatMasker track or reload the browser
@@ -615,15 +543,9 @@ complexity repeat, where we'll color it red. A function to do that would
 look like this:
 
 
-
-
-
 ``` de1
   "color" : "function(feature) { var name = feature.get('Name'); if (name.match('Low_complexity') ) { return 'red'; } return 'black';  }",
 ```
-
-
-
 
 
 When editing the trackList.json file directly in this way, the function
@@ -647,9 +569,6 @@ In the RepeatMasker section of the JBrowse configuration, we'll add a
 section that looks like this after the style section:
 
 
-
-
-
 ``` de1
         "onClick" : {
            "iconClass" : "dijitIconDatabase",
@@ -661,14 +580,8 @@ section that looks like this after the style section:
 ```
 
 
-
-
-
 If you're having difficulties, the RepeatMasker section of the
 configuration file should now look something like this:
-
-
-
 
 
 ``` de1
@@ -696,9 +609,6 @@ configuration file should now look something like this:
          "key" : "RepeatMasker"
       },
 ```
-
-
-
 
 
 ## <span id="Using_Plugins" class="mw-headline">Using Plugins</span>
@@ -799,27 +709,11 @@ running the `setup.sh` script.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_PAG_2017&oldid=27334>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - <a
   href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
   class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
-
-
-
-
-
-
 
 
 
@@ -837,22 +731,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -863,9 +742,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse_Tutorial_PAG_2017&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -879,27 +755,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2017 "Special:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -914,9 +772,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -925,9 +780,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -947,25 +799,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_PAG_2017"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -983,9 +820,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

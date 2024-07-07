@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:GalaxyLogoBigger.png" class="image" title="Galaxy"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
 width="250" height="89" alt="Galaxy" /></a>
-
-
-
 
 
 This [Galaxy](Galaxy.1 "Galaxy") tutorial was presented by [James
@@ -63,9 +36,6 @@ title="Galaxy Tutorial">Galaxy Tutorial</a> page.
 
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running a [Galaxy](Galaxy.1 "Galaxy") server.
-
-
-
 
 
 ## Contents
@@ -529,9 +499,6 @@ instance:
     gmod@ubuntu:~/work/galaxy-dist$ head tool_conf.xml
 
 
-
-
-
 ``` de1
  <?xml version="1.0"?>
  <toolbox>
@@ -546,15 +513,9 @@ instance:
 ```
 
 
-
-
-
 Each referenced file contains the description of a particular tool.
 Let's examine the **Get Flanks** tool we used earlier, contained in the
 file `tools/new_operations/get_flanks.xml`:
-
-
-
 
 
 ``` de1
@@ -582,9 +543,6 @@ file `tools/new_operations/get_flanks.xml`:
   ...
  </tool>
 ```
-
-
-
 
 
 (Tests and help have been removed from this listing).
@@ -772,9 +730,6 @@ And then using a text editor, create `tools/gmod_2010/sam_filter.py`
 containing:
 
 
-
-
-
 ``` de1
 #!/usr/bin/env python
  
@@ -801,16 +756,10 @@ for line in open( sys.argv[1] ):
 ```
 
 
-
-
-
 ### <span id="The_tool_wrapper" class="mw-headline">The tool wrapper</span>
 
 Next, we need to create the tool configuration. Edit the file
 `tools/gmod_2010/sam_filter.xml` and start the following skeleton:
-
-
-
 
 
 ``` de1
@@ -828,14 +777,8 @@ Next, we need to create the tool configuration. Edit the file
 ```
 
 
-
-
-
 First, let's define the output. This tool has a single output, of type
 `sam`, so we modify the configuration to contain:
-
-
-
 
 
 ``` de1
@@ -853,9 +796,6 @@ First, let's define the output. This tool has a single output, of type
 ```
 
 
-
-
-
 The name can be anything, but it will be used later to identify the
 output file in the command line. Second, let's define the following
 inputs
@@ -865,9 +805,6 @@ inputs
 - An input value, which can be any text
 
 The resulting configuration:
-
-
-
 
 
 ``` de1
@@ -891,16 +828,10 @@ The resulting configuration:
 ```
 
 
-
-
-
 Finally, we define how to construct our command line based on values for
 the inputs. The command line is a template, where we can substitute in
 the value of each input (filenames in the case of datasets). Thus our
 final tool configuration is:
-
-
-
 
 
 ``` de1
@@ -924,14 +855,8 @@ final tool configuration is:
 ```
 
 
-
-
-
 We now need to modify `tool_conf.xml` to register our new tool and run
 Galaxy. Modify the top of `tool_conf.xml` to look like:
-
-
-
 
 
 ``` de1
@@ -942,9 +867,6 @@ Galaxy. Modify the top of `tool_conf.xml` to look like:
   </section>
   ...
 ```
-
-
-
 
 
 and run Galaxy using `run.sh`
@@ -1194,26 +1116,10 @@ are some pointers for learning more:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2010&oldid=22218>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-
-
-
-
-
-
 
 
 
@@ -1231,22 +1137,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1257,9 +1148,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
   href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy_Tutorial_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1273,27 +1161,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1308,9 +1178,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1319,9 +1186,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1341,25 +1205,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1377,9 +1226,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

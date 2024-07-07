@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,12 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/600px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/800px-Jbrowse2_logo.png 2x"
 width="400" height="134" alt="JBrowse 2 logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -66,9 +36,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -106,9 +73,6 @@ Resources
   rel="nofollow">Demo server</a>
 
   
-
-
-
 
 
 
@@ -192,16 +156,6 @@ This page is under active development
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse2&oldid=27960>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -209,12 +163,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
-
-
-
-
-
-
 
 
 
@@ -259,22 +207,7 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -285,9 +218,6 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse2&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -301,27 +231,9 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -336,9 +248,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -347,9 +256,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -369,24 +275,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse2" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -404,9 +295,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

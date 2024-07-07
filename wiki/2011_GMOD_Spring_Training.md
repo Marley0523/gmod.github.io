@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -51,24 +27,12 @@ alt="2011 GMOD Spring Training March 8-12, 2011" /></a>
 
 
 
-
-
-
-
-
-
 <a href="File:2011GMODSpringTraining.jpg" class="image"
 title="March 2011 GMOD Spring Training Participants, minus a few"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/600px-2011GMODSpringTraining.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/900px-2011GMODSpringTraining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/1200px-2011GMODSpringTraining.jpg 2x"
 width="600" height="177"
 alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
-
-
-
-
-
-
 
 
 
@@ -105,9 +69,6 @@ alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
   Lodging and Meals</span>](#Travel.2C_Lodging_and_Meals)
 - [<span class="tocnumber">11</span>
   <span class="toctext">Feedback</span>](#Feedback)
-
-
-
 
 
 The ***2011 GMOD Spring Training*** was held March 8-12 at the
@@ -594,16 +555,6 @@ The "Yes, with reservations" responses were:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=2011_GMOD_Spring_Training&oldid=27873>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Events](Category%3AEvents "Category%3AEvents")
@@ -618,22 +569,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -644,9 +580,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:2011_GMOD_Spring_Training&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -660,27 +593,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -695,9 +610,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -706,9 +618,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -728,25 +637,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2011_GMOD_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -764,9 +658,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">Talk%3AGBrowse 1 Configuration HOWTO</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Hello Reg. GFF file format: I was wondering if the group/region field
@@ -122,22 +101,6 @@ July 2010 (UTC)
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_1_Configuration_HOWTO&oldid=18555>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -146,16 +109,10 @@ Retrieved from
 
 
 
-
-
-
 ### Namespaces
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ###
@@ -168,24 +125,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -200,9 +142,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -211,9 +150,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -233,19 +169,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/InterMine_middleware.pdf"
 class="internal" title="InterMine middleware.pdf">Gos's presentation</a>
-
-
-
 
 
 ## Contents
@@ -133,9 +109,6 @@ rel="nofollow">FlyMine Project</a>
 ##### <span id="Example_InterMine_XML_for_Problem_1:_load_genes_.2B_annotation" class="mw-headline">Example InterMine XML for Problem 1: load genes + annotation</span>
 
 
-
-
-
 ``` de1
 <items>
    <item id="0_3" class=”” implements="http://www.flymine.org/model/genomic#Gene">
@@ -153,9 +126,6 @@ rel="nofollow">FlyMine Project</a>
 ```
 
 
-
-
-
 ##### <span id="Resulting_webapp_object_page" class="mw-headline">Resulting webapp object page</span>
 
 <a href="File:Xfile_gene.png" class="image"
@@ -164,9 +134,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 alt="xfile Gene details page" /></a>
 
 #### <span id="Code_for_Problem_2:_Print_gene_annotation_report" class="mw-headline">Code for Problem 2: Print gene annotation report</span>
-
-
-
 
 
 ``` de1
@@ -229,15 +196,9 @@ public class BakeOff {
 ```
 
 
-
-
-
 #### <span id="Quicksearch_-_Problem_4:_find_genes_starting_with_x" class="mw-headline">Quicksearch - Problem 4: find genes starting with x</span>
 
 ##### <span id="Java_API" class="mw-headline">Java API</span>
-
-
-
 
 
 ``` de1
@@ -253,13 +214,7 @@ public class BakeOff {
 ```
 
 
-
-
-
 ##### <span id="IQL" class="mw-headline">IQL</span>
-
-
-
 
 
 ``` de1
@@ -267,22 +222,13 @@ public class BakeOff {
 ```
 
 
-
-
-
 ##### <span id="Perl_API" class="mw-headline">Perl API</span>
-
-
-
 
 
 ``` de1
   my $genes = InterMine::Gene::Manager->get_genes(query => [
                              identifier => { like => 'x-%' },],);
 ```
-
-
-
 
 
 #### <span id="Larger_Query" class="mw-headline">Larger Query</span>
@@ -342,28 +288,9 @@ Mizuguchi.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=InterMine_Presentation&oldid=22226>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [InterMine](Category%3AInterMine "Category%3AInterMine")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -374,12 +301,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -387,9 +308,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:InterMine_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -403,27 +321,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -438,9 +338,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -449,9 +346,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -471,25 +365,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -507,9 +386,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
   
@@ -60,19 +39,10 @@ rel="nofollow">Github</a>.
   
 
 
-
-
-
 <a href="File:WebApolloLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
 width="400" height="111" alt="WebApollo logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -92,9 +62,6 @@ Status
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
-
-
-
 
 
 Resources
@@ -131,9 +98,6 @@ Interoperable Components
 - - [MAKER](MAKER.1 "MAKER")
 
   
-
-
-
 
 
 
@@ -420,16 +384,6 @@ class="external text" rel="nofollow">gmod-apollo-cmts</a> | [Apollo](Apollo.1 "A
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=WebApollo&oldid=26715>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -443,12 +397,6 @@ Retrieved from
   Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-
-
-
-
-
-
 
 
 
@@ -760,22 +708,7 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a828
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -786,9 +719,6 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a828
   href="http://gmod.org/mediawiki/index.php?title=Talk:WebApollo&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -802,27 +732,9 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a828
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -837,9 +749,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -848,9 +757,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -870,25 +776,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -906,9 +797,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

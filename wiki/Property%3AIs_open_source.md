@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This is a property of type
@@ -289,25 +268,7 @@ title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 
 
 
-
-
-
-Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property%3AIs_open_source&oldid=24546#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AIs_open_source&oldid=24546#SMWResults#SMWResults)"
-
-
-
-
-
-
-
-
-
-
-
-<span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Is open
-source](Special%3ABrowse/Property%3AIs-20open-20source "Special%3ABrowse/Property%3AIs-20open-20source")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AIs_open_source "Special:ExportRDF/Property:Is open source")</span></span>
 
 |  |  |
@@ -320,22 +281,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AIs_open_source "Special:
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -346,9 +292,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AIs_open_source "Special:
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Is_open_source&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -362,27 +305,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AIs_open_source "Special:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -397,9 +322,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -408,9 +330,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -430,25 +349,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AIs_open_source" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -466,9 +370,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

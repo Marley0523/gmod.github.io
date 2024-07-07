@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -248,9 +224,6 @@ to keep the page width down, the sample.html page provided with the
 download has a correctly formatted set of tags for you to copy.
 
 
-
-
-
 ``` de1
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
 codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="300" height="250" id="GViewer2" align="middle">
@@ -269,9 +242,6 @@ annotationURL=http://server.mcw.edu/cgi-bin/getDiseaseQTLAnnotation.cgi?disease=
 &browserURL=http://genome.ucsc.edu/cgi-bin/hgTracks?org=Rat%26position=Chr&" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
 ```
-
-
-
 
 
 The critical sections are `FlashVars` and the name of the Flash
@@ -412,9 +382,6 @@ Flash plugin's zoom feature.
 The baseMap XML format looks like this:
 
 
-
-
-
 ``` de1
  <?xml version="1.0" standalone="yes"?>
    <genome>
@@ -455,9 +422,6 @@ The baseMap XML format looks like this:
     </chromosome>
  </genome>
 ```
-
-
-
 
 
   
@@ -672,9 +636,6 @@ script has a couple of variables that may need to be modified to suit
 the location of the GViewer files on your server.
 
 
-
-
-
 ``` de1
 # absolute URL pointing to GViewer directory holding movie and data
  
@@ -683,9 +644,6 @@ my $pathToGViewerWebDir = "/Gviewer";
 # absolute URL pointing to GViewer style sheet, probably the same as the webdir, above.
 my $pathToStyleSheet = "/Gviewer";
 ```
-
-
-
 
 
 3\. Text Annotation file format. The format of the annotation data that
@@ -812,28 +770,9 @@ should make the highlight go away.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Flash_GViewer_Documentation&oldid=22227>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [RGD](Category%3ARGD "Category%3ARGD")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -844,12 +783,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -857,9 +790,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Flash_GViewer_Documentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -873,27 +803,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -908,9 +820,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -919,9 +828,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -941,25 +847,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -977,9 +868,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [Using Existing Databases With
 JBrowse](http://gmod.org/mediawiki/index.php?title=Using_Existing_Databases_With_JBrowse&redirect=no "Using Existing Databases With JBrowse"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 **This page has been replaced with this page (<a
@@ -70,9 +49,6 @@ here <a href="JBrowse_Desktop" class="external free"
 rel="nofollow">http://gmod.org/wiki/JBrowse_Desktop</a>
 
   
-
-
-
 
 
 ## Contents
@@ -1216,9 +1192,6 @@ feature's name in NCBI's global search, and "search at NCBI" will show
 in a tooltip when the user hovers over a feature with the mouse:
 
 
-
-
-
 ``` de1
    "tracks": [
       {
@@ -1233,9 +1206,6 @@ in a tooltip when the user hovers over a feature with the mouse:
       }
    ...
 ```
-
-
-
 
 
 For details on all the options supported by **onClick**, see [Click
@@ -1261,9 +1231,6 @@ template is automatically filled in with the feature info:
   
 
 
-
-
-
 ``` de1
     "onClick": {
         "label" : "Feature name: {name}",
@@ -1273,15 +1240,9 @@ template is automatically filled in with the feature info:
 ```
 
 
-
-
-
 Example for HTMLFeatures, which only allows plain text descriptions but
 can support newlines (essentially uses \ for
 mouseover).
-
-
-
 
 
 ``` de1
@@ -1293,17 +1254,11 @@ mouseover).
 ```
 
 
-
-
-
   
 Example using a callback (for either HMTLFeatures or CanvasFeatures),
 using this.feature to access the feature details
 
   
-
-
-
 
 
 ``` de1
@@ -1313,9 +1268,6 @@ using this.feature to access the feature details
         "action": "defaultDialog"
     }
 ```
-
-
-
 
 
   
@@ -1438,17 +1390,11 @@ does, see [\#Click Configuration Options](#Click_Configuration_Options).
 
 
 
-
-
-
 <a href="File:Jbrowse_rightclick.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fe/Jbrowse_rightclick.png/800px-Jbrowse_rightclick.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 2x"
 width="800" height="228" /></a>
-
-
-
 
 
 <a href="File:Jbrowse_rightclick.png" class="internal"
@@ -1459,12 +1405,6 @@ height="11" /></a>
 
 
 The context menu rendered from this example configuration.
-
-
-
-
-
-
 
 
 
@@ -1510,17 +1450,11 @@ This results in a context menu like the one pictured below.
 
 
 
-
-
-
 <a href="File:Menu-customization2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Menu-customization2.png/600px-Menu-customization2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 2x"
 width="600" height="349" /></a>
-
-
-
 
 
 <a href="File:Menu-customization2.png" class="internal"
@@ -1531,12 +1465,6 @@ height="11" /></a>
 
 
 The context menu with default items included.
-
-
-
-
-
-
 
 
 
@@ -1557,9 +1485,6 @@ string JavaScript callback, like:
 Or a structure containing options like:
 
 
-
-
-
 ``` de1
         {
            "iconClass" : "dijitIconDatabase",
@@ -1569,9 +1494,6 @@ Or a structure containing options like:
            "title" : "function(track,feature,div) { return 'Searching for '+feature.get('name')+' at NCBI'; }"
         }
 ```
-
-
-
 
 
 The available options for a click action are:
@@ -1669,9 +1591,6 @@ HTML `div` element a red background. Otherwise, it gives it a blue
 background.
 
 
-
-
-
 ``` de1
      {
          "style" : {
@@ -1690,9 +1609,6 @@ background.
          "type" : "FeatureTrack"
       },
 ```
-
-
-
 
 
 # <span id="Alignment_Tracks_.28BAM.29" class="mw-headline">Alignment Tracks (BAM)</span>
@@ -1837,15 +1753,9 @@ the coverage and a VCF file of putative SNPs, and display those instead.
 
 
 
-
-
-
 <a href="File:JBrowse_SNP_Coverage.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/JBrowse_SNP_Coverage.png"
 class="thumbimage" width="790" height="528" /></a>
-
-
-
 
 
 <a href="File:JBrowse_SNP_Coverage.png" class="internal"
@@ -1856,12 +1766,6 @@ height="11" /></a>
 
 
 A SNPCoverage track with corresponding Alignments2 track.
-
-
-
-
-
-
 
 
 
@@ -1897,16 +1801,10 @@ alignments.
 `Alignments2` is recommended over `Alignments` for most users.
 
 
-
-
-
 <a href="File:JBrowse_alignment_and_coverage.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png"
 class="thumbborder" width="1124" height="699"
 alt="JBrowse displaying short-read alignments" /></a>
-
-
-
 
 
 ## <span id="BAM_Data_Configuration_Options" class="mw-headline">BAM Data Configuration Options</span>
@@ -1924,9 +1822,6 @@ BAM storage configuration options
 ## <span id="Example_BAM_Alignments2_track_configuration" class="mw-headline">Example BAM Alignments2 track configuration</span>
 
 
-
-
-
 ``` de1
       {
          "storeClass"  : "JBrowse/Store/SeqFeature/BAM",
@@ -1935,9 +1830,6 @@ BAM storage configuration options
          "type"        : "JBrowse/View/Track/Alignments2"
       },
 ```
-
-
-
 
 
 ## <span id="Apache_Configuration_Note" class="mw-headline">Apache Configuration Note</span>
@@ -1977,16 +1869,10 @@ displays quantitative data as an x/y plot, and the Density displays the
 data as varying intensities of color.
 
 
-
-
-
 <a href="File:Jbrowse_wiggle_tracks.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Jbrowse_wiggle_tracks.png"
 class="thumbborder" width="915" height="284"
 alt="Jbrowse wiggle tracks.png" /></a>
-
-
-
 
 
 ## <span id="Example_BigWig-based_Wiggle_XY-Plot_Track_Configuration" class="mw-headline">Example BigWig-based Wiggle XY-Plot Track Configuration</span>
@@ -1997,9 +1883,6 @@ displaying data directly from a
 class="external text" rel="nofollow">BigWig file</a>. Note that the URL
 in `urlTemplate` is relative to the directory where the configuration
 file is located.
-
-
-
 
 
 ``` de1
@@ -2022,9 +1905,6 @@ file is located.
 ```
 
 
-
-
-
 **Note:** numerical values do not appear in quotes.
 
 ## <span id="Example_BigWig-based_Wiggle_Color_Density_Track_Configuration" class="mw-headline">Example BigWig-based Wiggle Color Density Track Configuration</span>
@@ -2038,9 +1918,6 @@ more intense blue, and data that is below the mean as progressively more
 intense red. Note that the URL in `urlTemplate` is relative to the
 directory where the configuration file is located. Also note that green
 and purple is an ugly color combination.  ;-)
-
-
-
 
 
 ``` de1
@@ -2057,9 +1934,6 @@ and purple is an ugly color combination.  ;-)
          }
       }
 ```
-
-
-
 
 
 ## <span id="Wiggle_track_configuration_options" class="mw-headline">Wiggle track configuration options</span>
@@ -2104,17 +1978,11 @@ with each variant.
 
 
 
-
-
-
 <a href="File:JBrowse_variant_details.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/JBrowse_variant_details.png/800px-JBrowse_variant_details.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 2x"
 width="800" height="771" /></a>
-
-
-
 
 
 <a href="File:JBrowse_variant_details.png" class="internal"
@@ -2126,12 +1994,6 @@ height="11" /></a>
 
 Variant details display, showing a genotypes summary and sortable table
 of 1094 genotypes.
-
-
-
-
-
-
 
 
 
@@ -2158,9 +2020,6 @@ is located. Note that `tbiUrlTemplate` can also be used if your tbi file
 is named anything other than the urlTemplate with .tbi added to the end.
 
 
-
-
-
 ``` de1
       {
          "label"         : "mysnps",
@@ -2172,15 +2031,9 @@ is named anything other than the urlTemplate with .tbi added to the end.
 ```
 
 
-
-
-
   
 Alternatively, if you are using the tracks.conf format, then a similar
 example would look like the following
-
-
-
 
 
 ``` de1
@@ -2194,9 +2047,6 @@ category = VCF
 type = JBrowse/View/Track/CanvasVariants
 key  = SNPs from VCF
 ```
-
-
-
 
 
   
@@ -2241,9 +2091,6 @@ reads, so they may appear to report different coverages by default.
 ## <span id="Example_Feature_Coverage_Track_Configuration_for_a_BAM_file" class="mw-headline">Example Feature Coverage Track Configuration for a BAM file</span>
 
 
-
-
-
 ``` de1
       {
          "storeClass"  :  "JBrowse/Store/SeqFeature/BAM",
@@ -2255,9 +2102,6 @@ reads, so they may appear to report different coverages by default.
          "key"         : "volvox-sorted Coverage"
       }
 ```
-
-
-
 
 
 # <span id="Sequence_track" class="mw-headline">Sequence track</span>
@@ -2341,17 +2185,11 @@ can specify these bounds with the max and min options.
 
 
 
-
-
-
 <a href="File:Wiggle-options.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/600px-Wiggle-options.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 2x"
 width="600" height="177" /></a>
-
-
-
 
 
 <a href="File:Wiggle-options.png" class="internal" title="Enlarge"><img
@@ -2361,12 +2199,6 @@ height="11" /></a>
 
 
 Summary of wig-to-json.pl options.
-
-
-
-
-
-
 
 
 
@@ -2437,17 +2269,11 @@ the Perl API for writing your own image track generators.
 
 
 
-
-
-
 <a href="File:Basepair-options.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/600px-Basepair-options.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 2x"
 width="600" height="203" /></a>
-
-
-
 
 
 <a href="File:Basepair-options.png" class="internal"
@@ -2458,12 +2284,6 @@ height="11" /></a>
 
 
 Summary of draw-basepair-track.pl options.
-
-
-
-
-
-
 
 
 
@@ -3148,9 +2968,6 @@ an "{organism_uri}" in your queryTemplate that was set from the
 `variables` stanza, which would look like:
 
 
-
-
-
 ``` de1
     {
         "label": 'genes',
@@ -3165,9 +2982,6 @@ an "{organism_uri}" in your queryTemplate that was set from the
          }
     }
 ```
-
-
-
 
 
 The variable interpolation can also be used to refer to functions that
@@ -3192,9 +3006,6 @@ under conditions of caffeine starvation, a track configuration might
 contain:
 
 
-
-
-
 ``` de1
       {
          "storeClass" : "JBrowse/Store/SeqFeature/BAM",
@@ -3215,9 +3026,6 @@ contain:
          }
       }
 ```
-
-
-
 
 
   
@@ -3262,9 +3070,6 @@ your trackList, for example
 Configuration:
 
 
-
-
-
 ``` de1
   "trackMetadata": {
       "indexFacets":  [ "category","organism","target","technique","principal_investigator",
@@ -3276,9 +3081,6 @@ Configuration:
       ]
   }
 ```
-
-
-
 
 
 Note: use lower case values for the facet names / column names in the
@@ -3366,17 +3168,11 @@ track selector.
 
 
 
-
-
-
 <a href="File:JBrowseFacetedBrowsing.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/68/JBrowseFacetedBrowsing.png/800px-JBrowseFacetedBrowsing.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 2x"
 width="800" height="551" /></a>
-
-
-
 
 
 <a href="File:JBrowseFacetedBrowsing.png" class="internal"
@@ -3390,18 +3186,9 @@ The JBrowse faceted track selector.
 
 
 
-
-
-
-
-
-
   
 
 ## <span id="Example_Faceted_Track_Selector_Configuration" class="mw-headline">Example Faceted Track Selector Configuration</span>
-
-
-
 
 
 ``` de1
@@ -3421,9 +3208,6 @@ The JBrowse faceted track selector.
       "selectableFacets": ["organism","technique","developmental-stage","factor"]
   }
 ```
-
-
-
 
 
 # <span id="Hierarchical_Track_Selector" class="mw-headline">Hierarchical Track Selector</span>
@@ -3648,22 +3432,13 @@ entry telling JBrowse the names of the plugins to load.
 Example:
 
 
-
-
-
 ``` de1
   // array of strings (will look in JBrowse-1.x.x/plugins/MyAwesomePlugin)
   "plugins": [ 'MyAwesomePlugin' ]
 ```
 
 
-
-
-
 or in the text .conf format:
-
-
-
 
 
 ``` de1
@@ -3671,9 +3446,6 @@ plugins =
     + MyAwesomePlugin
     + PubAnnotation
 ```
-
-
-
 
 
 # <span id="Advanced_Topics" class="mw-headline">Advanced Topics</span>
@@ -3695,9 +3467,6 @@ For example, to extract data from a
 PostgreSQL, one might start with a configuration like:
 
 
-
-
-
 ``` de1
  {
    "description": "D. melanogaster (release 5.37)",
@@ -3709,9 +3478,6 @@ PostgreSQL, one might start with a configuration like:
    ...
  }
 ```
-
-
-
 
 
 In the database source name (dsn) argument, 'dbi:Pg' indicates that you
@@ -3826,9 +3592,6 @@ First, modify your `index.html`'s main GenomeBrowser element, adding a
 div inside GenomeBrowser with a custom ID such as `loading_screen`
 
 
-
-
-
 ``` de1
  
     
@@ -3838,14 +3601,8 @@ div inside GenomeBrowser with a custom ID such as `loading_screen`
 ```
 
 
-
-
-
 Next, in the same file, you'll need to edit the javascript to add a
 callback. After the line
-
-
-
 
 
 ``` de1
@@ -3853,21 +3610,12 @@ callback. After the line
 ```
 
 
-
-
-
 You'll need to add the line
-
-
-
 
 
 ``` de1
  JBrowse.afterMilestone('loadRefSeqs', function() { dojo.destroy(dojo.byId('loading_screen')); });
 ```
-
-
-
 
 
 The `afterMilestone` function registers a callback to be called once all
@@ -4101,9 +3849,6 @@ features served by this store.
 Example:
 
 
-
-
-
 ``` de1
    {
  
@@ -4117,9 +3862,6 @@ Example:
       "scoreStdDev": 2.1
    }
 ```
-
-
-
 
 
 None of the attributes in the example above are required to be present.
@@ -4168,9 +3910,6 @@ entire track.
 Example returned JSON:
 
 
-
-
-
 ``` de1
 {
   "bins":  [ 51, 50, 58, 63, 57, 57, 65, 66, 63, 61,
@@ -4183,9 +3922,6 @@ Example returned JSON:
   }
 }
 ```
-
-
-
 
 
 Note that the `stats.max` attribute sets that Y-axis scale for the
@@ -4209,9 +3945,6 @@ guaranteed to be unique among the features being emitted by this query.
 It is never shown to the user.
 
 Example return JSON:
-
-
-
 
 
 ``` de1
@@ -4254,18 +3987,12 @@ Example return JSON:
 ```
 
 
-
-
-
 ### <span id="Configuring_Tracks_to_Use_a_REST_Feature_Store" class="mw-headline">Configuring Tracks to Use a REST Feature Store</span>
 
 Example configuration for an HTMLFeatures track showing features from a
 REST feature store with URLs based at http://my.site.com/rest/api/base,
 and also adding "organism=tyrannosaurus" in the query string of all HTTP
 requests.
-
-
-
 
 
 ``` de1
@@ -4282,15 +4009,9 @@ requests.
 ```
 
 
-
-
-
 ### <span id="Other_Dynamically-Servable_Formats" class="mw-headline">Other Dynamically-Servable Formats</span>
 
 #### <span id="trackList.json_format" class="mw-headline">trackList.json format</span>
-
-
-
 
 
 ``` de1
@@ -4321,18 +4042,12 @@ requests.
 ```
 
 
-
-
-
 #### <span id="refSeqs.json_format" class="mw-headline">refSeqs.json format</span>
 
 This will be fetched from the url configured in the config.json file,
 such that if the config.json file specifies "?data=X/Y/Z" and is itself
 at "SCHEME://HOST:PORT/PATH", then JBrowse will request the url
 "SCHEME://HOST:PORT/PATH/X/Y/Z/seq/refSeqs.json".
-
-
-
 
 
 ``` de1
@@ -4343,572 +4058,9 @@ at "SCHEME://HOST:PORT/PATH", then JBrowse will request the url
 ```
 
 
-
-
-
 #### <span id="Sequence_data_format" class="mw-headline">Sequence data format</span>
 
-Retrieved from "{BASE}/features/{seqid}".
 
-This is the REST feature store data format, but it expects just a single
-feature, and that feature should have sequence.
-
-
-
-
-
-``` de1
-{"features": [
-  {"seq": "gattacagattaca" "start": 0, "end": 14}
-]
-```
-
-
-
-
-
-  
-
-### <span id="JBrowse_REST_Names_API" class="mw-headline">JBrowse REST Names API</span>
-
-Starting in version 1.11.0, JBrowse can use REST web services for
-looking up features by name, and for type-ahead autocompletion.
-
-#### <span id="GET_.28url.29.3Fequals.3DApple1" class="mw-headline">`GET (url)?equals=Apple1`</span>
-
-Required. Returns JSON list of genomic locations with names that exactly
-match the given string.
-
-The JSON format returned is the same as for `startswith` above.
-
-#### <span id="GET_.28url.29.3Fstartswith.3DAp" class="mw-headline">`GET (url)?startswith=Ap`</span>
-
-Required. Returns JSON list of genomic locations that have names that
-start with the given string.
-
-Example returned JSON:
-
-
-
-
-
-``` de1
-[
-   {
-      "name" : "Apple1",    // Name associated with the record. May be a secondary name of the object.
-      "location" : {        // location information for the match
-         "ref" : "ctgA",    // name of the reference sequence
-         "start" : 9999,    // genomic start (interbase coords)
-         "end" : 11500,     // genomic end (interbase coords)
-         "tracks" : [       // list of track labels that contain this object
-            "CDS"
-         ],
-         "objectName" : "Apple1"  // canonical/primary name of the object
-      }
-   },
-   ...
-]
-```
-
-
-
-
-
-### <span id="Configuring_JBrowse_to_Use_REST_Name_Lookup" class="mw-headline">Configuring JBrowse to Use REST Name Lookup</span>
-
-Add something like the following to `jbrowse.conf`:
-
-    [names]
-    type = REST
-    url = /path/to/names/rest/service
-
-## <span id="Publishing_and_Subscribing_to_JBrowse_Events" class="mw-headline">Publishing and Subscribing to JBrowse Events</span>
-
-JBrowse client events are implemented using the dojo/topic message bus
-from the Dojo library. Extensions can subscribe to particular events in
-order to be notified when certain UI changes happen (for example,
-highlighting a region generates an event, which can be latched onto with
-a callback that triggers a request for the server to BLAST that region
-against a database). In select cases, extensions can also publish
-events, as a way of forcing the UI into certain states or transitions
-(for example, events can be used in this way to force the browser to
-load a new track, in response to some other circumstance or
-notification).
-
-When events are associated with tracks, the event names take the form
-`/jbrowse/v1/{type}/tracks/{trackEvent}`. The `{type}` is one of ‘`v`’,
-‘`c`’, or ‘`n`’, corresponding to view events (requests from the user,
-handled by the browser); command events (which trigger actions in the
-UI, and are often generated by the browser in response to view events);
-or notification events (informing subscribers that something just
-happened). The `{trackEvent}` specifies the nature of the track event
-and is one of ‘`new`’, ‘`delete`’, ‘`show`’, ‘`hide`’, ‘`pin`’,
-‘`unpin`’, ‘`replace`’, ‘`redraw`’, or ‘`visibleChanged`’.
-
-When events are global, the event names take the form
-`/jbrowse/v1/{type}/{globalEvent}` where `{type}` is as above and
-`{globalEvent}` is one of ‘`navigate`’ or ‘`globalHighlightChanged`’.
-
-The DebugEvents plugin logs events to the console, and can be used to
-monitor events as they are triggered by user interactions with the
-browser.
-
-Note that you can also publish and subscribe to a JBrowse instance that
-is in an iframe. See <a
-href="JBrowse_FAQ#How_can_I_get_jbrowse_to_update_the_URL_of_a_parent_page_when_jbrowse_is_inside_of_an_iframe"
-class="external free"
-rel="nofollow">http://gmod.org/wiki/JBrowse_FAQ#How_can_I_get_jbrowse_to_update_the_URL_of_a_parent_page_when_jbrowse_is_inside_of_an_iframe</a>
-for an example
-
-## <span id="Writing_JBrowse_Plugins" class="mw-headline">Writing JBrowse Plugins</span>
-
-The JBrowse plugin system allows users to write their own JavaScript
-classes and <a href="https://github.com/amdjs/amdjs-api/wiki/AMD"
-class="external text" rel="nofollow">AMD</a> modules to extend JBrowse
-in nearly any way imaginable. Just a few things that can be done by
-plugins:
-
-- Add new data store adapters to allow JBrowse to read data from
-  existing web services.
-- Add new track classes for custom track displays and behavior
-  ([WebApollo](WebApollo.1 "WebApollo") is one well-known plugin that
-  does this).
-- Add (or remove) options in the JBrowse dropdown menus.
-- Add new types of track selectors.
-
-  
-Also see this FAQ entry
-<a href="JBrowse_FAQ#How_do_I_create_a_plugin.3F" class="external free"
-rel="nofollow">http://gmod.org/wiki/JBrowse_FAQ#How_do_I_create_a_plugin.3F</a>
-and <a href="JBrowse_FAQ#What_is_a_plugin_useful_for.3F"
-class="external free"
-rel="nofollow">http://gmod.org/wiki/JBrowse_FAQ#What_is_a_plugin_useful_for.3F</a>
-
-### <span id="Plugin_Components" class="mw-headline">Plugin Components</span>
-
-For an example plugin named MyPlugin, all of its files should be located
-in `plugins/MyPlugin` in the main JBrowse directory. There are no
-restrictions on what a plugin directory may contain.
-
-A plugin is required to have a `plugins/MyPlugin/js/main.js` file, which
-is an AMD module that returns a JavaScript "class" that inherits from
-the JBrowse/Plugin class. JBrowse will create one instance of this
-class, which will persist during the entire time JBrowse is running.
-This class's constructor function is the entry point for your plugin's
-JavaScript code.
-
-If a plugin contains custom CSS rules, it can optionally have a
-`plugins/MyPlugin/css/main.css` file as well, which JBrowse will load
-asynchronously. If your plugin code needs to know when the CSS is
-finished loading, the `cssLoaded` property of the plugin object contains
-a <a href="http://dojotoolkit.org/api/1.8/dojo/Deferred"
-class="external text" rel="nofollow">Dojo Deferred</a> that is resolved
-when the CSS load is complete. Multiple CSS files can be loaded using
-`@import` statements in the `main.css`.
-
-JBrowse also defines an AMD namespace that maps to your plugin's `js`
-directory, which your plugin code (and JBrowse itself) can use to load
-additional AMD modules and JavaScript classes. For example, our MyPlugin
-example could have a data-store adaptor in the file
-`plugins/MyPlugin/js/Store/SeqFeature/FooBaseServices.js`, which would
-be loaded with the module name
-`"MyPlugin/Store/SeqFeature/FooBaseServices"`.
-
-  
-
-#### <span id="Example_main.js" class="mw-headline">Example `main.js`</span>
-
-Here is an example plugin `main.js`, implemented using the
-<a href="http://dojotoolkit.org/documentation/tutorials/1.8/declare/"
-class="external text" rel="nofollow">Dojo declare</a> class system.
-
-
-
-
-
-``` de1
-define([
-           'dojo/_base/declare',
-           'JBrowse/Plugin'
-       ],
-       function(
-           declare,
-           JBrowsePlugin
-       ) {
- 
-return declare( JBrowsePlugin,
-{
-    constructor: function( args ) {
-        var browser = this.browser;
- 
-        /* do anything you need to initialize your plugin here */
-    }
-});
- 
-});
-```
-
-
-
-
-
-#### <span id="Example_plugin_directory_contents" class="mw-headline">Example plugin directory contents</span>
-
-       plugins/MyPlugin/js
-       plugins/MyPlugin/js/main.js
-       plugins/MyPlugin/js/MyPlugin.profile.js
-       plugins/MyPlugin/css
-       plugins/MyPlugin/css/main.css
-       plugins/MyPlugin/img
-       plugins/MyPlugin/img/myimage.png
-
-The bin/new-plugin.pl will initialize a directory structure for you,
-e.g. run
-
-     bin/new-plugin.pl MyPlugin
-
-#### <span id="Distributing_a_plugin_via_npm" class="mw-headline">Distributing a plugin via npm</span>
-
-JBrowse 1.13.0 and higher can also use plugins that are distributed via
-npm. To distribute your plugin on npmjs.org, you just need to add a
-package.json file to the top-level directory of your plugin, and your
-plugin's npm package name must end in '-jbrowse-plugin'. Note that the
-plugin is named "my-jbrowse-plugin" on npm, and includes a
-"jbrowsePlugin"
-
-Here is an example package.json file for MyPlugin:
-
-
-
-
-
-``` de1
-{
-  "name": "my-jbrowse-plugin",
-  "version": "1.0.0",
-  "description": "JBrowse client plugin for adding amazing things",
-  "main": "js/main.js",
-  "author": "Josephina Example",
-  "license": "SEE LICENSE FILE IN LICENSE.md",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/josephina/myplugin.git"
-  },
-  "keywords": [
-    "genome",
-    "jbrowse"
-  ],
-  "bugs": {
-    "url": "https://github.com/josephina/myplugin/issues"
-  },
-  "homepage": "https://github.com/josephina/myplugin#readme",
-  "jbrowsePlugin": {
-    "name": "MyPlugin"
-  }
-}
-```
-
-
-
-
-
-### <span id="Plugin_build_notes" class="mw-headline">Plugin build notes</span>
-
-Most of the time, simply putting plain javascript files in the plugins
-directory is enough. The AMD module loader will locate your plugin
-without issues. But there are a couple of scenarios where creating a
-minified distribution of your plugin is helpful. A major scenario is
-that your plugin uses dojo modules that JBrowse does not itself use. If
-your plugin uses dojo modules that are not used by JBrowse, then your
-plugin will not be usable in the "minified" release version of JBrowse
-since the unused code checker would have removed those unused modules.
-Therefore, you can create a custom build of your plugin that packages
-your plugin's dojo dependencies itself.
-
-To fix these problems, you can run the JBrowse makefile which will
-automatically run the build steps needed to package your plugin
-
-Simply run this command in your jbrowse root directory (must be a full
-github clone of jbrowse):
-
-     make -f build/Makefile release-notest
-
-  
-Note that for this build step to complete, you will need a "build
-profile" e.g. plugins/MyPlugin/js/MyPlugin.profile.js. This file is
-automatically scaffolded by bin/new-plugin.pl and an example is also
-available in the RegexSequenceSearch plugin. As noted above, you'll need
-a github clone of jbrowse or at the very least the full dojo SDK in
-order to run this build cycle (because the src/dojo/dojo.js in the
-release versions doesn't contain the build SDK).
-
-After creating your custom build, you can use it in release versions of
-JBrowse
-
-## <span id="Data_Format_Specification:_JSON_LazyNCList_Feature_Store" class="mw-headline">Data Format Specification: JSON LazyNCList Feature Store</span>
-
-One data store type that JBrowse uses is a lazily-loaded nested
-containment list (LazyNCLists), which is an efficient format for storing
-feature data in pre-generated static JSON files. A nested containment
-list is a tree data structure in which the nodes of the tree are
-intervals themselves features, and edges connecting features that lie
-\`within the bounds of (but are not subfeatures of) another feature. It
-has some similarities to an R tree. For more on NClists, see <a
-href="http://bioinformatics.oxfordjournals.org/content/23/11/1386.abstract"
-class="external text" rel="nofollow">the Alekseyenko paper</a>.
-
-This data format is currently used in JBrowse 1.3 for tracks of type
-`FeatureTrack`, and the code that actually reads this format is in
-SeqFeatureStore/NCList.js and ArrayRepr.js.
-
-The LazyNCList format can be broken down into two distinct subformats:
-the LazyNCList itself, and the array-based JSON representation of the
-features themselves.
-
-### <span id="Array_Representation_.28ArrayRepr.29" class="mw-headline">Array Representation (`ArrayRepr`)</span>
-
-For speed and memory efficiency, NCList JSON represents features as
-arrays instead of objects. This is because the JSON representation is
-much more compact (saving a lot of disk space), and many browsers
-significantly optimize JavaScript Array objects over more general
-objects.
-
-Each feature is represented as an array of the form
-`[ class, data, data, ... ]`, where the `class` is an integer index into
-the store's `classes` array (more on that in the next section). Each of
-the elements in the `classes` array is an *array representation* that
-defines the meaning of each of the the elements in the feature array.
-
-An **array representation** specification is encoded in JSON as
-(comments added):
-
-    {
-      "attributes": [                   // array of attribute names for this representation
-         "AttributeNameForIndex1",
-         "AttributeNameForIndex2",
-         ...
-      ],
-      "isArrayAttr": {                  // list of which attributes are themselves arrays
-         "AttributeNameForIndexN": 1,
-         ...
-      }
-    }
-
-### <span id="Lazy_Nested-Containment_Lists_.28LazyNCList.29" class="mw-headline">Lazy Nested-Containment Lists (`LazyNCList`)</span>
-
-A JBrowse LazyNCList is a nested containment list tree structure stored
-as one JSON file that contains the root node of the tree, plus zero or
-more "lazy" JSON files that contain subtrees of the main tree. These
-subtree files are lazily fetched: that is, they are only fetched by
-JBrowse when they are needed to display a certain genomic region.
-
-On disk, the files in an LazyNCList feature store look like this:
-
-     # stats, metadata, and nclist root node
-     data/tracks/<track_label>/<refseq_name>/trackData.json
-     # lazily-loaded nclist subtrees
-     data/tracks/<track_label>/<refseq_name>/lf-<chunk_number>.json
-     # precalculated feature densities
-     data/tracks/<track_label>/<refseq_name>/hist-<bin_size>.json
-     ...
-
-Where the `trackData.json` file is formatted as (comments added):
-
-    {
-       "featureCount" : 4293,          // total number of features in this store
-       "histograms" : {                // information about precalculated feature-frequency histograms
-          "meta" : [
-             {                         // description of each available bin-size for precalculated feature frequencies
-                "basesPerBin" : "100000",
-                "arrayParams" : {
-                   "length" : 904,
-                   "chunkSize" : 10000,
-                   "urlTemplate" : "hist-100000-{Chunk}.json"
-                }
-             },
-             ...                       // and so on for each bin size
-          ],
-          "stats" : [
-             {                           // stats about each precalculated set of binned feature frequencies
-               "basesPerBin" : "100000", // bin size in bp
-               "max" : 51,               // max features per bin
-               "mean" : 4.93030973451327 // mean features per bin
-             },
-             ...
-          ]
-       },
-       "intervals" : {
-          "classes" : [                // classes: array representations used in this feature data (see ArrayRepr section above)
-             {
-                "isArrayAttr" : {
-                   "Subfeatures" : 1
-                },
-                "attributes" : [
-                   "Start",
-                   "End",
-                   "Strand",
-                   "Source",
-                   "Phase",
-                   "Type",
-                   "Id",
-                   "Name",
-                   "Subfeatures"
-                ]
-             },
-             ...
-             {                        // the last arrayrepr class is the "lazyClass": fake features that point to other files
-                "isArrayAttr" : {
-                   "Sublist" : 1
-                },
-                "attributes" : [
-                   "Start",
-                   "End",
-                   "Chunk"
-                ]
-             }
-          ],
-          "nclist" : [
-             [
-                2,                    // arrayrepr class 2
-                12962,                // "Start" minimum coord of features in this subtree
-                221730,               // "End"   maximum coord of features in this subtree
-                1                     // "Chunk" (indicates this subtree is in lf-1.json)
-             ],
-             [
-                2,                    // arrayrepr class 2
-                220579,               // "Start" minimum coord of features in this subtree
-                454457,               // "End"   maximum coord of features in this subtree
-                2                     // "Chunk" (indicates this subtree is in lf-2.json)
-             ],
-             ...
-          ],
-          "lazyClass" : 2,            // index of arrayrepr class that points to a subtree
-          "maxEnd" : 90303842,               // maximum coordinate of features in this store
-          "urlTemplate" : "lf-{Chunk}.json", // format for lazily-fetched subtree files
-          "minStart" : 12962                 // minimum coordinate of features in this store
-       },
-       "formatVersion" : 1
-    }
-
-## <span id="Data_Format_Specification:_Fixed-Resolution_Tiled_Image_Store" class="mw-headline">Data Format Specification: Fixed-Resolution Tiled Image Store</span>
-
-JBrowse can display tracks composed of precalculated image tiles,
-stretching the tile images horizontally when necessary. The JBrowse
-Volvox example data has a wiggle data track that is converted to image
-tiles using the included `wig2png` program, but any sort of image tiles
-can be displayed if they are laid out in this format.
-
-The files for a tiled image track are structured by default like this:
-
-      data/tracks/<track_label>/<refseq_name>/trackData.json
-      data/tracks/<track_label>/<refseq_name>/<zoom_level_urlPrefix>/<index>.png
-      ... (and so on, for many more PNG image files)
-
-Where the PNG files are the image tiles themselves, and `trackData.json`
-contains metadata about the track in JSON format, including available
-zoom levels, the width and height of the image tiles, their base
-resolution (number of reference sequence base pairs per image tile), and
-statistics about the data (such as the global minimum and maximum of
-wiggle data).
-
-The structure of the trackData.json file is:
-
-    {
-      "tileWidth": 2000,            // width of all image tiles, in pixels
-      "stats" : {                   // any statistics about the data being represented
-          "global_min": 100,
-          "global_max": 899
-       },
-      "zoomLevels" : [              // array describing what resolution levels are available
-         {                          // in the precalculated image tiles
-            "urlPrefix" : "1/",
-            "height" : 100,
-            "basesPerTile" : 2000
-         },
-         ... (and so on, for zoom levels in order of decreasing resolution / increasing bases per tile )
-      ]
-    }
-
-  
-
-  
-To see a working example of this in action, see the contents of
-`sample_data/json/volvox/tracks/volvox_microarray.wig/ctgA` after the
-Volvox wiggle sample data has been formatted.
-
-The code for working with this tiled image format in JBrowse 1.3 is in
-`TiledImageStore/Fixed.js`.
-
-  
-
-## <span id="Including_external_files_and_functions_in_trackList.json" class="mw-headline">Including external files and functions in trackList.json</span>
-
-The trackList.json configuration format is limited when it comes to
-specifying callbacks, because functions can only be specified on a
-single line. However, you can create functions in an external .conf file
-that span multiple lines and include them in the trackList.json
-configuration easily. The functions should follow the guidelines
-specified in the .conf section
-[here](#Text_Configuration_Format_.28.conf.29).
-
-Example: say there is a complex coloring function, so it is stored in a
-file called functions.conf in the data directory
-
-    # functions.conf
-    customColor = function(feature) {
-        return feature.get("type")=="mRNA" ? "green" : "blue";
-        /* note the closing bracket should be spaced away from the leftmost column */
-      }
-
-Then you can use this function in a particular track by referencing it
-with curly brackets, or "variable interpolation".
-
-    "style": {
-       "color":"{customColor}"
-    }
-
-Make sure to also include your functions.conf in the "trackList.json"
-(e.g. anywhere outside the "tracks": \[ ... \] section of
-trackList.json), add
-
-     "include": "functions.conf"
-
-Note that include can also be an array of multiple files
-
-    "include": ["functions1.conf","functions2.conf"]
-
-In the above example, the callback parameters exactly match, so the
-interpolated function can just be dropped in place. Alternatively, if
-the callback parameters don't match, you can store the interpolated
-function in a variable and adjust the callback parameters appropriately.
-
-    "style": {
-      "color": "function(feature) { var f={customColor}; return f(feature); }"
-    }
-
-or shorthand
-
-    "style": {
-      "color": "function(feature) { return ({customColor})(feature); }"
-    }
-
-See the general configuration section for details on the include
-command.
-
-## <span id="Rendering_high_resolution_screenshots_using_PhantomJS" class="mw-headline">Rendering high resolution screenshots using PhantomJS</span>
-
-Using the command line tool phantomjs, you can produce a screenshot of
-JBrowse which includes high resolution canvas features. First get
-phantomJS and rasterize.js
-(<a href="http://phantomjs.org/screen-capture.html" class="external free"
-rel="nofollow">http://phantomjs.org/screen-capture.html</a>).
-
-Then produce the screenshot using the syntax "phantomjs rasterize.js
-\<url\> \<output file\> \<dimensions\> \<zoom factor\>"
 
     phantomjs rasterize.js 'http://your.jbrowse/?loc=ctgA:1..10000&tracks=DNA,Genes' jbrowse.png '4800px*2600px' 4
     phantomjs rasterize.js 'http://your.jbrowse/?loc=ctgA:1..10000&tracks=DNA,Genes' jbrowse.pdf
@@ -5061,14 +4213,8 @@ make it higher resolution
   Browser</a> paper
 
 
-
-
-
 Retrieved from
 "[http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases](http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases#Using_JBrowse_with_Existing_Databases)"
-
-
-
 
 
 
@@ -5082,22 +4228,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -5108,9 +4239,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse_Configuration_Guide&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -5124,27 +4252,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -5159,9 +4269,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -5170,9 +4277,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -5192,25 +4296,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5228,9 +4317,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

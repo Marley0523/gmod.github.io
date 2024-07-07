@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 What is a 'CDS exon' (used in some of the feature graphs on this page).
 I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 08:08, 19 May 2009 (UTC)
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Talk%3AIntroduction_to_Chado&oldid=8341>"
-
-
-
 
 
 
@@ -65,22 +34,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -89,9 +43,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AIntroduction_to_Chado" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -105,27 +56,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -140,9 +73,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -151,9 +81,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -173,22 +100,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -207,9 +119,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

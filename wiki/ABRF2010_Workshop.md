@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
@@ -71,9 +50,6 @@ Sacramento, CA, USA
 </table>
 
   
-
-
-
 
 
 ## Contents
@@ -336,17 +312,11 @@ Changes:
   - Used unique IDs for each of the reads.
 
 
-
-
-
 <a href="File:Gbrowse2_100bp_trimmed.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
 width="180" height="207" /></a>
-
-
-
 
 
 <a href="File:Gbrowse2_100bp_trimmed.png" class="internal"
@@ -357,9 +327,6 @@ height="11" /></a>
 
 
 Two BAM files displayed in GBrowse
-
-
-
 
 
 
@@ -581,16 +548,6 @@ Visualization of 2nd Generation Sequencing Data*
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=ABRF2010_Workshop&oldid=21958>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
@@ -605,22 +562,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -631,9 +573,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:ABRF2010_Workshop&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -647,27 +586,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -682,9 +603,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -693,9 +611,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -715,25 +630,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/ABRF2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -751,9 +651,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

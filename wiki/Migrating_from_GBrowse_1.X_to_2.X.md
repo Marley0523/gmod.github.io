@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This is a guide for existing users of the GBrowse 1.X series to help
@@ -46,9 +25,6 @@ GBrowse 2.0 is mostly backward compatible with the 1.0 series, but there
 have been some changes to the layout of configuration files that make
 the system easier to configure and maintain. A small amount of work is
 needed to make your existing system work with the 2.0 series.
-
-
-
 
 
 ## Contents
@@ -226,16 +202,6 @@ renderers.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Migrating_from_GBrowse_1.X_to_2.X&oldid=14306>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
@@ -247,22 +213,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -273,9 +224,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Migrating_from_GBrowse_1.X_to_2.X&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -289,27 +237,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -324,9 +254,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -335,9 +262,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -357,25 +281,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Migrating_from_GBrowse_1.X_to_2.X"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -393,9 +302,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

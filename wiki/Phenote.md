@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,9 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/300px-PhenoteLogo_Medium.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/450px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/600px-PhenoteLogo_Medium.png 2x"
 width="300" height="57" alt="Phenote" /></a>
-
-
-
 
 
 <a href="http://www.phenote.org/" class="external text"
@@ -59,9 +32,6 @@ genotype-phenotype pairs, together with the provenance for the
 annotation.
 
   
-
-
-
 
 
 ## Contents
@@ -112,16 +82,6 @@ rel="nofollow">Linn-Benton Community College</a>.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Phenote&oldid=21989>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
@@ -133,22 +93,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -159,9 +104,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Phenote&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -175,27 +117,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -210,9 +134,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -221,9 +142,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -243,24 +161,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Phenote" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -278,9 +181,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

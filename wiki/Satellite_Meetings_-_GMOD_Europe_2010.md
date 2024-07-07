@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
@@ -97,9 +76,6 @@ so popular that we decided to hold them again.
 
 
 
-
-
-
 ## Contents
 
 
@@ -114,9 +90,6 @@ so popular that we decided to hold them again.
   Other Logistics</span>](#Lodging_and_Other_Logistics)
 - [<span class="tocnumber">5</span>
   <span class="toctext">Registration</span>](#Registration)
-
-
-
 
 
 ## <span id="Satellite_Topics" class="mw-headline">Satellite Topics</span>
@@ -177,9 +150,6 @@ width="150" height="64"
 alt="Cambridge Computational Biology Institute" /></a>
 
 
-
-
-
 <a
 href="http://www.biomed.cam.ac.uk/gradschool/skills/bioinformatics.html"
 rel="nofollow"
@@ -230,28 +200,9 @@ Registration was free, but required, as space was limited.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Satellite_Meetings_-_GMOD_Europe_2010&oldid=21994>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -262,12 +213,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -275,9 +220,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Satellite_Meetings_-_GMOD_Europe_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -291,27 +233,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -326,9 +250,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -337,9 +258,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -359,25 +277,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -395,9 +298,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

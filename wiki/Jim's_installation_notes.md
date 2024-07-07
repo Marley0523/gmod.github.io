@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 Back to [Chado New Users](Chado_New_Users "Chado New Users")
-
-
-
 
 
 ## Contents
@@ -540,17 +516,11 @@ fix with:
     GRANT SELECT ON analysisfeature                  TO www;
 
 
-
-
-
 <a href="File:Chado_test_in_gbrowse.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
 class="thumbimage"
 srcset=" http://gmod.org/wiki/1.5x,  http://gmod.org/wiki/2x"
 width="600" height="436" /></a>
-
-
-
 
 
 <a href="File:Chado_test_in_gbrowse.jpg" class="internal"
@@ -565,20 +535,7 @@ Features from yeast sample GFF imported to Chado
 
 
 
-
-
-
 It works!!!
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Jim%27s_installation_notes&oldid=4304>"
-
-
-
 
 
 
@@ -593,22 +550,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -619,9 +561,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Jim%27s_installation_notes&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -635,27 +574,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -670,9 +591,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -681,9 +599,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -703,25 +618,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jim&#39;s_installation_notes"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -739,9 +639,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

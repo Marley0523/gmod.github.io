@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">GBrowse Ubuntu HOWTO</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,16 +19,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 NOTE: As of the 11.10 release of Ubuntu, there is a .deb package for
 GBrowse (it's usable on Debian machines as well, but I don't know the
 details of what repository needs to be activated to get GBrowse via
 apt-get on Debian).
-
-
-
 
 
 ANOTHER NOTE: the current version of GBrowse in that deb package is
@@ -79,9 +55,6 @@ The content below will be left in place for older distributions.
     sudo apt-get install mysql-server
 
 ------------------------------------------------------------------------
-
-
-
 
 
 ## Contents
@@ -232,16 +205,6 @@ rel="nofollow">http://localhost/gbrowse</a>.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_Ubuntu_HOWTO&oldid=27706>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Linux](Category%3ALinux "Category%3ALinux")
@@ -253,22 +216,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -277,9 +225,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_Ubuntu_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -293,27 +238,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -328,9 +255,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -339,9 +263,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -361,25 +282,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Ubuntu_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -397,9 +303,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

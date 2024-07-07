@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This proposal came out of a presentation by Erick Antezana and Frederic
@@ -54,9 +33,6 @@ We were thinking about having [CMap](CMap.1 "CMap") features displayed
 in [GBrowse](GBrowse.1 "GBrowse") in one or more dedicated tracks. Using
 now the fact that GBrowse can be connected to multiple datasources, the
 GBrowse config file could be for example:
-
-
-
 
 
 ``` de1
@@ -124,9 +100,6 @@ category = Molecular Mapping
 ```
 
 
-
-
-
 As you can see, both AFLP_RICE and SSR_Rice are pulled out from the CMap
 database and displayed in dedicated tracks.
 
@@ -135,16 +108,6 @@ ballon.
 
 This configuration should be very convenient to integrate CMap/GBrowse
 without requiring a lot a maintenance and administration.
-
-
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Display_CMap_Markers_in_GBrowse&oldid=22089>"
-
 
 
 
@@ -162,22 +125,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -188,9 +136,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Display_CMap_Markers_in_GBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -204,27 +149,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -239,9 +166,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -250,9 +174,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -272,25 +193,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Display_CMap_Markers_in_GBrowse"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -308,9 +214,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

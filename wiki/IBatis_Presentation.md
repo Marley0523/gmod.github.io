@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,29 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Jeff Bowes, Xenbase, University of Calgary. This Wiki section is an
 edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/IBatis.pdf" class="internal"
 title="IBatis.pdf">Jeff's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -136,9 +112,6 @@ title="IBatis.pdf">Jeff's presentation</a>.
 ##### <span id="Abator_Example" class="mw-headline">Abator Example</span>
 
 
-
-
-
 ``` de1
  <abatorConfiguration>
   <abatorContext>    <!-- TODO: Add Database Connection Information -->
@@ -160,17 +133,11 @@ title="IBatis.pdf">Jeff's presentation</a>.
    targetProject="gene" />
  <abatorConfiguration>
 ```
-
-
-
 
 
 ##### <span id="Abator_Example_2" class="mw-headline">Abator Example</span>
 
 
-
-
-
 ``` de1
  <abatorConfiguration>
   <abatorContext>    <!-- TODO: Add Database Connection Information -->
@@ -194,13 +161,7 @@ title="IBatis.pdf">Jeff's presentation</a>.
 ```
 
 
-
-
-
 ##### <span id="Abator_Example_3" class="mw-headline">Abator Example</span>
-
-
-
 
 
 ``` de1
@@ -211,9 +172,6 @@ title="IBatis.pdf">Jeff's presentation</a>.
       <columnOverride column="MODIFIED_BY" jdbcType="INTEGER" />
  </table>
 ```
-
-
-
 
 
   
@@ -238,9 +196,6 @@ Works as:
 ##### <span id="Insert" class="mw-headline">Insert</span>
 
 
-
-
-
 ``` de1
  <insert id="abatorgenerated_insert" parameterClass=
   "org.gmod.architecture.framwork.bakeoff.abator.model.FeatureWithBLOBs">
@@ -261,13 +216,7 @@ Works as:
 ```
 
 
-
-
-
 ##### <span id="Insert_2" class="mw-headline">Insert</span>
-
-
-
 
 
 ``` de1
@@ -290,13 +239,7 @@ Works as:
 ```
 
 
-
-
-
 ##### <span id="Insert_3" class="mw-headline">Insert</span>
-
-
-
 
 
 ``` de1
@@ -319,13 +262,7 @@ Works as:
 ```
 
 
-
-
-
 ##### <span id="Insert_4" class="mw-headline">Insert</span>
-
-
-
 
 
 ``` de1
@@ -334,17 +271,11 @@ Works as:
         VALUES PREVVAL FOR feature_seq
  </selectKey>
 ```
-
-
-
 
 
 ##### <span id="Insert_5" class="mw-headline">Insert</span>
 
 
-
-
-
 ``` de1
  <selectKey resultClass="java.lang.Integer"
             keyProperty="featureId">
@@ -353,13 +284,7 @@ Works as:
 ```
 
 
-
-
-
 ##### <span id="Problem_1_-_Insert" class="mw-headline">Problem 1 - Insert</span>
-
-
-
 
 
 ``` de1
@@ -379,17 +304,11 @@ Works as:
        sqlMap.endTransaction();
  }
 ```
-
-
-
 
 
 ##### <span id="Problem_1_-_Insert_2" class="mw-headline">Problem 1 - Insert</span>
 
 
-
-
-
 ``` de1
  try {
   sqlMap.startTransaction();
@@ -407,9 +326,6 @@ Works as:
        sqlMap.endTransaction();
  }
 ```
-
-
-
 
 
 ##### <span id="Transactions" class="mw-headline">Transactions</span>
@@ -438,9 +354,6 @@ Works as:
 Account for cycles or recursion in Master Detail Report.
 
 
-
-
-
 ``` de1
  <resultMap id="SelectGeneResults"
    class="org.gmod.architecture.framwork.bakeoff.Gene" groupBy="id">
@@ -464,17 +377,11 @@ Account for cycles or recursion in Master Detail Report.
    jdbcType="INTEGER" />
  </resultMap>
 ```
-
-
-
 
 
 ##### <span id="Problem_2_-_Master_Detail_Report" class="mw-headline">Problem 2 - Master Detail Report</span>
 
 
-
-
-
 ``` de1
  <resultMap id="SelectGeneResults"
    class="org.gmod.architecture.framwork.bakeoff.Gene" groupBy="id">
@@ -498,9 +405,6 @@ Account for cycles or recursion in Master Detail Report.
    jdbcType="INTEGER" />
  </resultMap>
 ```
-
-
-
 
 
 ##### <span id="Master_Detail_Report" class="mw-headline">Master Detail Report</span>
@@ -617,16 +521,6 @@ Financial Support
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=IBatis_Presentation&oldid=22203>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Java](Category%3AJava "Category%3AJava")
@@ -638,22 +532,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -664,9 +543,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:IBatis_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -680,27 +556,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -715,9 +573,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -726,9 +581,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -748,25 +600,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/IBatis_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -784,9 +621,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

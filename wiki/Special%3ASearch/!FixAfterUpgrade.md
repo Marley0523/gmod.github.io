@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -20,22 +11,7 @@
 
 
 
-
-
-
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -49,16 +25,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [Advanced](/mediawiki/index.php?title=Special:Search&search=%21FixAfterUpgrade&fulltext=Search&profile=advanced "Search in custom namespaces")
 
 
-
-
-
 - Showing below **2** results starting with \#**1**.
-
-
-
-
-
-
 
 
 
@@ -122,21 +89,6 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 
-Retrieved from "<http://gmod.org/wiki/Special%3ASearch/!FixAfterUpgrade>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -144,19 +96,10 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/!FixAfterUpgrade>"
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
   page](/wiki/Special%3ASearch/!FixAfterUpgrade "This is a special page, you cannot edit the page itself")</span>
-
-
-
 
 
 ### 
@@ -171,30 +114,9 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/!FixAfterUpgrade>"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -211,9 +133,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -222,9 +141,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
-
-
-
 
 
 
@@ -245,9 +161,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
@@ -263,19 +176,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
-
-
-
 - <span id="footer-places-about">[About
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

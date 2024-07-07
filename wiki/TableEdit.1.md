@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -85,9 +61,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
     <span class="toctext">AJAX</span>](#AJAX)
   - [<span class="tocnumber">4.5</span> <span class="toctext">Other
     TableEdit enhancements</span>](#Other_TableEdit_enhancements)
-
-
-
 
 
 ## <span id="Genome_community_annotation_with_a_MediaWiki_wiki" class="mw-headline">Genome community annotation with a MediaWiki wiki</span>
@@ -178,9 +151,6 @@ class="external text">MediaWiki's command line utilities</a>.
 Here is a code snippet from a wrapper script
 
 
-
-
-
 ``` de1
 foreach ($genes as $gene){
         $gene_count++;
@@ -198,9 +168,6 @@ foreach ($genes as $gene){
 ```
 
 
-
-
-
 `test_modify.php` corrected a typo introduced by an earlier load, where
 a double \|\| was needed instead of a single \| after a PMID. The
 metadata is data associated with a row that is not displayed on the
@@ -208,9 +175,6 @@ page. I use this to identify rows that have been used to store a
 particular kind of content. In this case, it's rows in an allele table
 that describe the availability of knockouts from a strain collection
 from Hirotada Mori's lab.
-
-
-
 
 
 ``` de1
@@ -234,9 +198,6 @@ foreach ($rows as $index=>$row){
 }
 ?>
 ```
-
-
-
 
 
 ## <span id="Table_Edit_at_Hackathon_2007" class="mw-headline">Table Edit at Hackathon 2007</span>
@@ -348,16 +309,6 @@ Some possible things to add or change
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=TableEdit&oldid=22197>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Community
@@ -372,22 +323,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -398,9 +334,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:TableEdit&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -414,27 +347,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -449,9 +364,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -460,9 +372,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -482,25 +391,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -518,9 +412,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

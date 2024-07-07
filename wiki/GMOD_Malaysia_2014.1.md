@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -48,23 +27,14 @@ width="300" height="190" alt="GMOD-malaysia.png" /></a>
 
 
 
-
-
-
 <a href="http://nescent.org" rel="nofollow" title="NESCent"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/NESCentLogo152.jpg" width="152"
 height="141" alt="NESCent" /></a>
 
 
-
-
-
 Enabled by a generous grant from the
 <a href="http://ambassadors.nescent.org/" class="external text"
 rel="nofollow">NESCent Ambassador Program</a>
-
-
-
 
 
 **February 26-28, 2014, Kuala Lumpur, Malaysia.**
@@ -97,9 +67,6 @@ yet to be confirmed. Please subscribe to the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-announce"
 class="external text" rel="nofollow">GMOD announce mailing list</a> to
 be kept apprised on updates on the summer school.
-
-
-
 
 
 ## Contents
@@ -180,28 +147,9 @@ very grateful to be a beneficiary of this generous program.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Malaysia_2014&oldid=25650>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -212,12 +160,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -225,9 +167,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Malaysia_2014&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -241,27 +180,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -276,9 +197,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -287,9 +205,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -309,25 +224,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Malaysia_2014" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -345,9 +245,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

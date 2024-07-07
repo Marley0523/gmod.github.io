@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This is a summary and detailed notes from the *Chado Middleware Bake
@@ -78,9 +57,6 @@ Java-based tools collaborate to create a Java API that parallels
 Modwares.
 
   
-
-
-
 
 
 ## Contents
@@ -1064,9 +1040,6 @@ table:
 Corresponding code:
 
 
-
-
-
 ``` de1
 package Chado::Cvterm;
 use base 'Chado::DBI';
@@ -1074,13 +1047,7 @@ Chado::Cvterm->set_up_table('Cvterm');
 ```
 
 
-
-
-
 ##### <span id="Class::DBI_-_CRUD" class="mw-headline">Class::DBI - CRUD</span>
-
-
-
 
 
 ``` de1
@@ -1100,9 +1067,6 @@ $term_dbobj->definition( $term->definition );
 ## Delete
 $term_dbobj->delete();
 ```
-
-
-
 
 
 ##### <span id="Java_-_Hibernate" class="mw-headline">Java - Hibernate</span>
@@ -1224,9 +1188,6 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 - Joins & complex queries
 
 
-
-
-
 ``` de1
 # Add the add_constructor for looking for name lengths
  
@@ -1239,9 +1200,6 @@ __PACKAGE__->set_sql(xfiles => qq{
        FROM FEATURE
        WHERE NAME = 'xfiles' });
 ```
-
-
-
 
 
 #### <span id="Presentation_by_Brian_O.27Connor" class="mw-headline">Presentation by Brian O'Connor</span>
@@ -1631,16 +1589,6 @@ Presentation](InterMine_Presentation "InterMine Presentation")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Middleware&oldid=24342>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado](Category%3AChado "Category%3AChado")
@@ -1658,22 +1606,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1684,9 +1617,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Middleware&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1700,27 +1630,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1735,9 +1647,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1746,9 +1655,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1768,25 +1674,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Middleware" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1804,9 +1695,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

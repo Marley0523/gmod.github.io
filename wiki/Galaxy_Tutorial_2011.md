@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <a href="http://galaxyproject.org" class="external text"
@@ -47,9 +26,6 @@ On top of these tools, Galaxy provides an accessible environment for
 interactive analysis that transparently tracks the details of analyses,
 a workflow system for convenient reuse, data management, sharing,
 publishing, and more.
-
-
-
 
 
 ## Contents
@@ -491,9 +467,6 @@ which tools are loaded by a given instance:
     gmod@ubuntu:~/work/galaxy-dist$ head tool_conf.xml
 
 
-
-
-
 ``` de1
 <?xml version="1.0"?>
  <toolbox>
@@ -508,14 +481,8 @@ which tools are loaded by a given instance:
 ```
 
 
-
-
-
 Each referenced file contains the description of a particular tool. The
 **Get Flanks** tool we used earlier is described farther down:
-
-
-
 
 
 ``` de1
@@ -530,14 +497,8 @@ Each referenced file contains the description of a particular tool. The
 ```
 
 
-
-
-
 Let's examine the **Get Flanks** tool by looking at the file
 `tools/new_operations/get_flanks.xml`:
-
-
-
 
 
 ``` de1
@@ -574,9 +535,6 @@ Let's examine the **Get Flanks** tool by looking at the file
 ```
 
 
-
-
-
 This syntax is defined at <a
 href="https://bitbucket.org/galaxy/galaxy-central/wiki/ToolConfigSyntax"
 class="external text" rel="nofollow">Tool Config Syntax</a> on the
@@ -593,9 +551,6 @@ supported data type. In this case, the input is defined as format
 find each type's metadata elements, search for `MetadataElement`:
 
 
-
-
-
 ``` de1
 class Interval( Tabular ):
     """Tab delimited data containing interval information"""
@@ -609,9 +564,6 @@ class Interval( Tabular ):
     MetadataElement( name="nameCol", desc="Name/Identifier column (click box & select)", param=metadata.ColumnParameter, optional=True, no_value=0 )
     MetadataElement( name="columns", default=3, desc="Number of columns", readonly=True, visible=False )
 ```
-
-
-
 
 
 Test and help details have been removed from the listing here. The
@@ -811,9 +763,6 @@ And then using a [text editor](Linux_Text_Editors "Linux Text Editors"),
 create `tools/gmod_2011/sam_filter.py` containing:
 
 
-
-
-
 ``` de1
 #!/usr/bin/env python
  
@@ -840,16 +789,10 @@ for line in open( sys.argv[1] ):
 ```
 
 
-
-
-
 ## <span id="The_tool_wrapper" class="mw-headline">The tool wrapper</span>
 
 Next, we need to create the tool configuration. Edit the file
 `tools/gmod_2011/sam_filter.xml` and start with the following skeleton:
-
-
-
 
 
 ``` de1
@@ -867,14 +810,8 @@ Next, we need to create the tool configuration. Edit the file
 ```
 
 
-
-
-
 First, let's define the output. This tool has a single output, of type
 `sam`, so we modify the configuration to contain:
-
-
-
 
 
 ``` de1
@@ -892,9 +829,6 @@ First, let's define the output. This tool has a single output, of type
 ```
 
 
-
-
-
 The name can be anything, but it will be used later to identify the
 output file in the command line. Second, let's define the following
 inputs
@@ -904,9 +838,6 @@ inputs
 - An input value, which can be any text
 
 The resulting configuration:
-
-
-
 
 
 ``` de1
@@ -930,16 +861,10 @@ The resulting configuration:
 ```
 
 
-
-
-
 Finally, we define how to construct our command line based on values for
 the inputs. The command line is a template, where we can substitute in
 the value of each input (filenames in the case of datasets). Thus our
 final tool configuration is:
-
-
-
 
 
 ``` de1
@@ -963,14 +888,8 @@ final tool configuration is:
 ```
 
 
-
-
-
 We now need to modify `tool_conf.xml` to register our new tool and run
 Galaxy. Modify the top of `tool_conf.xml` to look like:
-
-
-
 
 
 ``` de1
@@ -981,9 +900,6 @@ Galaxy. Modify the top of `tool_conf.xml` to look like:
   </section>
   ...
 ```
-
-
-
 
 
 and run Galaxy using `run.sh`
@@ -1292,16 +1208,6 @@ are some pointers for learning more:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2011&oldid=23066>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2011 Spring
@@ -1314,22 +1220,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1340,9 +1231,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1356,27 +1244,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1391,9 +1261,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1402,9 +1269,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1424,25 +1288,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1460,9 +1309,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

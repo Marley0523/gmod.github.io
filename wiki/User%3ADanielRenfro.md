@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">User%3ADanielRenfro</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -38,20 +20,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
-
-
-
 <a href="File:Punting_on_the_Cam.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/440px-Punting_on_the_Cam.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/660px-Punting_on_the_Cam.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/880px-Punting_on_the_Cam.jpg 2x"
 width="440" height="207" /></a>
-
-
-
 
 
 <a href="File:Punting_on_the_Cam.jpg" class="internal"
@@ -68,12 +41,6 @@ rel="nofollow">punting</a> on the
 rel="nofollow">River Cam</a>.  
 Taken at the [2010 GMOD meeting in
 Cambridge.](September_2010_GMOD_Meeting "September 2010 GMOD Meeting")
-
-
-
-
-
-
 
 
 
@@ -99,32 +66,10 @@ Links I can never find
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=User%3ADanielRenfro&oldid=18882>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -138,9 +83,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -152,27 +94,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -187,9 +111,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -198,9 +119,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -220,25 +138,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ADanielRenfro" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -256,9 +159,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

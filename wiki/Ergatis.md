@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [Ergatis](http://gmod.org/mediawiki/index.php?title=Ergatis&redirect=no "Ergatis"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -76,17 +52,11 @@ Resources
 ## <span id="What_is_it.3F" class="mw-headline">What is it?</span>
 
 
-
-
-
 <a href="File:Ergatis_monitor.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
 width="300" height="169" /></a>
-
-
-
 
 
 <a href="File:Ergatis_monitor.png" class="internal" title="Enlarge"><img
@@ -96,9 +66,6 @@ height="11" /></a>
 
 
 Screenshot of the Ergatis pipeline monitor
-
-
-
 
 
 
@@ -132,17 +99,11 @@ eukaryotic organisms, including *Aedes aegypti* and *Trichomonas
 vaginalis*.
 
 
-
-
-
 <a href="File:Ergatis_builder.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
 width="300" height="351" /></a>
-
-
-
 
 
 <a href="File:Ergatis_builder.png" class="internal" title="Enlarge"><img
@@ -152,9 +113,6 @@ height="11" /></a>
 
 
 Screenshot of the Ergatis pipeline builder
-
-
-
 
 
 
@@ -207,16 +165,6 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=TIGR-Workflow_/_Ergatis&oldid=20898>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Analysis](Category%3AAnalysis "Category%3AAnalysis")
@@ -229,22 +177,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -255,9 +188,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:TIGR-Workflow_/_Ergatis&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -271,27 +201,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -306,9 +218,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -317,9 +226,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -339,25 +245,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/TIGR-2DWorkflow_-2F_Ergatis"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -375,12 +266,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
-
 
 
 

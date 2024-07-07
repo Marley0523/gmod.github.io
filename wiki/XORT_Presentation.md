@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This Wiki section is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/XORT.pdf" class="internal"
 title="XORT.pdf">Josh Goodman and Pinglei Zhou's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -200,9 +176,6 @@ For example:
 Step 1. Dump all data use simple dumpspec
 
 
-
-
-
 ``` de1
  <chado>
   <feature dump=“all”>
@@ -210,9 +183,6 @@ Step 1. Dump all data use simple dumpspec
   </feature>
  </chado>
 ```
-
-
-
 
 
 Step 2 Delete feature x from DB, with triggers to clean orphan records,
@@ -275,16 +245,6 @@ needed.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=XORT_Presentation&oldid=22202>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
@@ -295,22 +255,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -321,9 +266,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:XORT_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -337,27 +279,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -372,9 +296,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -383,9 +304,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -405,25 +323,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -441,9 +344,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

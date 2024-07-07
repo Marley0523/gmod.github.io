@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,18 +13,9 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [JBrowseDev/Using Configuration Files With
 JBrowse](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Using_Configuration_Files_With_JBrowse&redirect=no "JBrowseDev/Using Configuration Files With JBrowse"))  
 Redirect page
-
-
-
 
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
@@ -41,22 +23,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 ![\#REDIRECT](../../mediawiki/skins/common/images/redirectltr.png)<span class="redirectText">[JBrowse
 Configuration Guide#Using JBrowse with Existing
 Databases](../JBrowse_Configuration_Guide#Using_JBrowse_with_Existing_Databases "JBrowse Configuration Guide")</span>
-
-
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=BrowseDev/Using_a_Database_With_JBrowse&oldid=23349>"
-
 
 
 
@@ -72,22 +41,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -98,9 +52,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:BrowseDev/Using_a_Database_With_JBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -114,27 +65,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -151,9 +84,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -162,9 +92,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -184,25 +111,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BrowseDev-2FUsing_a_Database_With_JBrowse"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -220,9 +132,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

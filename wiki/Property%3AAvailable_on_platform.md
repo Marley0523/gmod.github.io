@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This is a property of type
@@ -365,25 +344,7 @@ title="Special%3ASearchByProperty/Available-20on-20platform/unix">+</a></span></
 
 
 
-
-
-
-Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property%3AAvailable_on_platform&oldid=24876#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3AAvailable_on_platform&oldid=24876#SMWResults#SMWResults)"
-
-
-
-
-
-
-
-
-
-
-
-<span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Available on
-platform](Special%3ABrowse/Property%3AAvailable-20on-20platform "Special%3ABrowse/Property%3AAvailable-20on-20platform")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "Special:ExportRDF/Property:Available on platform")</span></span>
 
 |  |  |
@@ -396,22 +357,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "S
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -422,9 +368,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "S
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Available_on_platform&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -438,27 +381,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "S
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -473,9 +398,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -484,9 +406,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -506,25 +425,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AAvailable_on_platform"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -542,9 +446,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

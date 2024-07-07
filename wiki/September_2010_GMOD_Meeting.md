@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
@@ -104,9 +83,6 @@ and are a great place to find out what is happening in the project,
 what's coming up, and what others are doing. The [January 2010 GMOD
 Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting") was the
 previous event. The next meeting is likely to be held in spring 2011.
-
-
-
 
 
 ## Contents
@@ -329,9 +305,6 @@ previous event. The next meeting is likely to be held in spring 2011.
 # <span id="Agenda" class="mw-headline">Agenda</span>
 
 
-
-
-
 <a href="http://gre.lifesci.dundee.ac.uk/staff/jason_swedlow.html"
 rel="nofollow" title="Jason Swedlow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/JasonSwedlow.jpg/150px-JasonSwedlow.jpg"
@@ -339,13 +312,7 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="150" height="123" alt="Jason Swedlow" /></a>
 
 
-
-
-
 Professor Jason Swedlow
-
-
-
 
 
 *The <a href="http://www.openmicroscopy.org/" class="external text"
@@ -1089,15 +1056,9 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="100" height="68" alt="Urgi.png" /></a>
 
 
-
-
-
 <a href="File:MaizeGDB.gif" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/MaizeGDB.gif" width="265" height="60"
 alt="MaizeGDB.gif" /></a>
-
-
-
 
 
 <a href="http://database.oxfordjournals.org/" rel="nofollow"><img
@@ -3275,16 +3236,6 @@ School](GMOD_Schools "GMOD Schools").
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=September_2010_GMOD_Meeting&oldid=22542>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
@@ -3309,22 +3260,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -3335,9 +3271,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:September_2010_GMOD_Meeting&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -3351,27 +3284,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -3386,9 +3301,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -3397,9 +3309,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -3419,25 +3328,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/September_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3455,9 +3349,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

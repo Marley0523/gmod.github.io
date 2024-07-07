@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [SOBA
 Tutorial](http://gmod.org/mediawiki/index.php?title=SOBA_Tutorial&redirect=no "SOBA Tutorial"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This [SOBA](SOBA.1 "SOBA") tutorial was taught as part of the [2012 GMOD
@@ -47,9 +26,6 @@ the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
   
-
-
-
 
 
 ## Contents
@@ -132,17 +108,11 @@ class="external text" rel="nofollow">SOBA Web Application</a> with any
 modern browser that has JavaScript enabled.
 
 
-
-
-
 <a href="File:SOBA_Web_01_Select.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/SOBA_Web_01_Select.png/800px-SOBA_Web_01_Select.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 2x"
 width="800" height="537" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_01_Select.png" class="internal"
@@ -157,13 +127,7 @@ SOBA main page
 
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:SOBA_Web_02_Counts.png" class="image"><img
@@ -171,9 +135,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 2x"
 width="800" height="579" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_02_Counts.png" class="internal"
@@ -188,13 +149,7 @@ SOBA feature type counts
 
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:SOBA_Web_03_Lengths.png" class="image"><img
@@ -202,9 +157,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 2x"
 width="800" height="347" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_03_Lengths.png" class="internal"
@@ -219,13 +171,7 @@ SOBA feature lengths
 
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:SOBA_Web_04_Distribution.png" class="image"><img
@@ -233,9 +179,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 2x"
 width="800" height="331" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_04_Distribution.png" class="internal"
@@ -250,13 +193,7 @@ SOBA Feature length distribution
 
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:SOBA_Web_05_CDS_Distribution.png" class="image"><img
@@ -264,9 +201,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 2x"
 width="800" height="417" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_05_CDS_Distribution.png" class="internal"
@@ -281,13 +215,7 @@ SOBA CDS length histogram
 
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:SOBA_Web_06_Ontology.png" class="image"><img
@@ -295,9 +223,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 2x"
 width="800" height="471" /></a>
-
-
-
 
 
 <a href="File:SOBA_Web_06_Ontology.png" class="internal"
@@ -308,9 +233,6 @@ height="11" /></a>
 
 
 SOBA ontology graph
-
-
-
 
 
 
@@ -600,17 +522,11 @@ firefox SOBAcl_graphic_chr*.png
 ```
 
 
-
-
-
 <a href="File:SOBAcl_graphic_chr1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/81/SOBAcl_graphic_chr1.png/300px-SOBAcl_graphic_chr1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 2x"
 width="300" height="225" /></a>
-
-
-
 
 
 <a href="File:SOBAcl_graphic_chr1.png" class="internal"
@@ -626,20 +542,11 @@ SOBA feature lengths for chromosome 1
 
 
 
-
-
-
-
-
-
 <a href="File:SOBAcl_graphic_chr2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/SOBAcl_graphic_chr2.png/300px-SOBAcl_graphic_chr2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 2x"
 width="300" height="225" /></a>
-
-
-
 
 
 <a href="File:SOBAcl_graphic_chr2.png" class="internal"
@@ -655,20 +562,11 @@ SOBA feature lengths for chromosome 2
 
 
 
-
-
-
-
-
-
 <a href="File:SOBAcl_graphic_chr3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/SOBAcl_graphic_chr3.png/300px-SOBAcl_graphic_chr3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 2x"
 width="300" height="225" /></a>
-
-
-
 
 
 <a href="File:SOBAcl_graphic_chr3.png" class="internal"
@@ -679,9 +577,6 @@ height="11" /></a>
 
 
 SOBA feature lengths for chromosome 3
-
-
-
 
 
 
@@ -701,15 +596,9 @@ firefox SOBAcl_graphic.png
 ```
 
 
-
-
-
 <a href="File:SOBAcl_graphic_exon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c0/SOBAcl_graphic_exon.png"
 class="thumbimage" width="400" height="300" /></a>
-
-
-
 
 
 <a href="File:SOBAcl_graphic_exon.png" class="internal"
@@ -720,9 +609,6 @@ height="11" /></a>
 
 
 SOBA feature lengths by chromosome
-
-
-
 
 
 
@@ -738,15 +624,9 @@ SOBAcl --x_data type --series seqid --data length --data_type mean \
 ```
 
 
-
-
-
 <a href="File:SOBAcl_graphic.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/SOBAcl_graphic.png" class="thumbimage"
 width="400" height="300" /></a>
-
-
-
 
 
 <a href="File:SOBAcl_graphic.png" class="internal" title="Enlarge"><img
@@ -756,9 +636,6 @@ height="11" /></a>
 
 
 SOBA feature lengths by chromosome
-
-
-
 
 
 
@@ -800,16 +677,6 @@ SOBAcl --columns file   --rows type --data length --data_type mean \
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=SOBA_Tutorial_2012&oldid=24439>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [SOBA](Category%3ASOBA "Category%3ASOBA")
@@ -821,12 +688,6 @@ Retrieved from
   class="new"
   title="Category%3A2013 Summer School (page does not exist)">2013 Summer
   School</a>
-
-
-
-
-
-
 
 
 
@@ -844,22 +705,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -870,9 +716,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
   href="http://gmod.org/mediawiki/index.php?title=Talk:SOBA_Tutorial_2012&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -886,27 +729,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -921,9 +746,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -932,9 +754,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -954,25 +773,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -990,9 +794,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

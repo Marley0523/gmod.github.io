@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This Wiki section is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/AutoDBI.pdf" class="internal"
 title="AutoDBI.pdf">Brian O'Connor's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -98,22 +74,13 @@ schema, based on SQL::Translator
 Convert SQL Queries/Inserts/Deletes -\> Object Calls
 
 
-
-
-
 ``` de1
   INSERT INTO feature (organism_id, name)
                                   VALUES (1, 'foo');
 ```
 
 
-
-
-
 To:
-
-
-
 
 
 ``` de1
@@ -126,9 +93,6 @@ To:
 ```
 
 
-
-
-
 ##### <span id="Technical_Overview_2" class="mw-headline">Technical Overview</span>
 
 - Database connection: use a base class
@@ -136,9 +100,6 @@ To:
   primary key.
 - Class::DBI can find and insert records into other table, based on
   foreign key.
-
-
-
 
 
 ``` de1
@@ -153,15 +114,9 @@ Turnkey::Model::DBI->set_db('Main', $dsn, $name, $pass, {AutoCommit => 1});
 ```
 
 
-
-
-
 ##### <span id="Technical_Overview_3" class="mw-headline">Technical Overview</span>
 
 - Basic [ORM](Glossary#ORM "Glossary") Object: Feature
-
-
-
 
 
 ``` de1
@@ -179,18 +134,12 @@ sub feature { shift->feature_id }
 ```
 
 
-
-
-
 - data field accessors by Class::Accessor
 
 ##### <span id="Technical_Overview_4" class="mw-headline">Technical Overview</span>
 
 - Basic ORM Object: Feature
   - has_a
-
-
-
 
 
 ``` de1
@@ -202,14 +151,8 @@ sub cvterm { return shift->type_id; }
 ```
 
 
-
-
-
 - Basic ORM Object: Feature
   - has_many
-
-
-
 
 
 ``` de1
@@ -226,9 +169,6 @@ sub featureprops { return shift->featureprop_feature_id; }
 ```
 
 
-
-
-
 - Can traverse tables, such as going from FEATURE to FEATUREPROP
   - Tell base object that the *table object* has_a() or has_many() keys
     corresponding to some key in other *table object*
@@ -237,9 +177,6 @@ sub featureprops { return shift->featureprop_feature_id; }
 
 - Basic ORM Object: Feature
   - skipping linker tables for has_many
-
-
-
 
 
 ``` de1
@@ -256,17 +193,11 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
 ```
 
 
-
-
-
 ##### <span id="Technical_Overview_6" class="mw-headline">Technical Overview</span>
 
 - Transactions
   - Chado%3A%3AAutoDBI supports transactions, and one can wrap the
     transaction in an eval()
-
-
-
 
 
 ``` de1
@@ -289,17 +220,11 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
 ```
 
 
-
-
-
 ##### <span id="Technical_Overview_7" class="mw-headline">Technical Overview</span>
 
 - Lazy Loading
   - One can either do automated creation of objects or explicitly
     dictate which fields are incorporated into object
-
-
-
 
 
 ``` de1
@@ -309,13 +234,7 @@ Turnkey::Model::Feature->columns( Others => qw/residues .../ );
 ```
 
 
-
-
-
 Typically:
-
-
-
 
 
 ``` de1
@@ -323,15 +242,9 @@ Turnkey::Model::Feature->set_up_table('feature');
 ```
 
 
-
-
-
 ##### <span id="Problem_1" class="mw-headline">Problem 1</span>
 
 - Create Feature & Add Description
-
-
-
 
 
 ``` de1
@@ -354,17 +267,11 @@ my $featureprop = Turnkey::Model::Featureprop->find_or_create({
 ```
 
 
-
-
-
 ##### <span id="Problem_2" class="mw-headline">Problem 2</span>
 
 - Retrieve a Feature via Searching
   - Search using strings or identifiers, a search will return an
     iterator object
-
-
-
 
 
 ``` de1
@@ -382,15 +289,9 @@ my @results = Turnkey::Model::Feature->search_like(name => 'x-%');
 ```
 
 
-
-
-
 ##### <span id="Problems_3.2C_4.2C_.26_5" class="mw-headline">Problems 3, 4, & 5</span>
 
 - Update a Feature
-
-
-
 
 
 ``` de1
@@ -401,13 +302,7 @@ $feature->update();
 ```
 
 
-
-
-
 - Delete a Feature
-
-
-
 
 
 ``` de1
@@ -415,9 +310,6 @@ $feature->update();
  
 $feature->delete();
 ```
-
-
-
 
 
 ##### <span id="Things_Chado%3A%3AAutoDBI_does_well" class="mw-headline">Things Chado%3A%3AAutoDBI does well</span>
@@ -460,16 +352,6 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado%3A%3AAutoDBI_Presentation&oldid=22155>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado](Category%3AChado "Category%3AChado")
@@ -482,22 +364,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -508,9 +375,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado%3A%3AAutoDBI_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -524,27 +388,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -559,9 +405,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -570,9 +413,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -592,25 +432,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado%3A%3AAutoDBI_Presentation"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -628,9 +453,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -77,9 +56,6 @@ balloon.js is generic and should work in most web sites.
   help you.
 
   
-
-
-
 
 
 ## Contents
@@ -534,15 +510,9 @@ must be reset to 'null' in this case.
   precision of 1px or the balloon will not render properly.
 
 
-
-
-
 <a href="File:Options.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Options.png" width="960" height="361"
 alt="Options.png" /></a>
-
-
-
 
 
 **Note:** The padding is not only the distance of the text from the
@@ -555,15 +525,9 @@ For example, setting the padding to 2px with the default balloon images
 will cause the effect below because the image corner radius is 10px:
 
 
-
-
-
 <a href="File:Padding_defect.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/Padding_defect.png" width="658"
 height="115" alt="Padding defect.png" /></a>
-
-
-
 
 
 ### <span id="Online_balloon_image_generator" class="mw-headline">Online balloon image generator</span>
@@ -584,17 +548,11 @@ with different balloon options.
 
 
 
-
-
-
 <a href="File:Balloon_generator.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f1/Balloon_generator.png" width="891"
 height="295"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
-
-
-
 
 
 
@@ -624,17 +582,11 @@ the custom balloon images on a web page:
 
 
 
-
-
-
 <a href="File:Balloon_script.png" class="image"
 title="The actual script is at http://mckay.cshl.edu/balloon"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Balloon_script.png" width="1040"
 height="422"
 alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
-
-
-
 
 
 
@@ -1506,16 +1458,6 @@ package installed on local desktop computers
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Popup_Balloons&oldid=23632>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Javascript](Category%3AJavascript "Category%3AJavascript")
@@ -1528,22 +1470,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1554,9 +1481,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Popup_Balloons&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1570,27 +1494,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1605,9 +1511,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1616,9 +1519,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1638,25 +1538,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1674,9 +1559,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

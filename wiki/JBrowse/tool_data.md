@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">JBrowse/tool data</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This page stores the data that populates the
@@ -71,16 +50,10 @@ for the server.
 \| screenshot =
 
 
-
-
-
 <a href="../File:JBrowse_alignment_and_coverage.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage.png" /></a>
-
-
-
 
 
 \| public_server = \| dl = \| dl_url =
@@ -297,29 +270,13 @@ development.
 Included in
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 
-
-
-
 }}
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse/tool_data&oldid=25244>"
-
-
-
 
 
 
@@ -341,19 +298,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -366,9 +311,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -379,24 +321,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -413,9 +340,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -424,9 +348,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -446,21 +367,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowse-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
 
 
 

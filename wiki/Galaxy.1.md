@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,12 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
 width="400" height="142" alt="Galaxy logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -66,9 +36,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -106,9 +73,6 @@ Resources
   rel="nofollow">Public server</a>
 
   
-
-
-
 
 
 
@@ -207,17 +171,11 @@ rel="nofollow">Galaxy website</a>.
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
 
-
-
-
 <a href="File:Galaxy_screenshot-1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/300px-Galaxy_screenshot-1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/450px-Galaxy_screenshot-1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Galaxy_screenshot-1.png/600px-Galaxy_screenshot-1.png 2x"
 width="300" height="205" /></a>
-
-
-
 
 
 <a href="File:Galaxy_screenshot-1.png" class="internal"
@@ -233,20 +191,11 @@ Galaxy 'Upload file' tool
 
 
 
-
-
-
-
-
-
 <a href="File:Galaxy_screenshot-2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/300px-Galaxy_screenshot-2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/450px-Galaxy_screenshot-2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9c/Galaxy_screenshot-2.png/600px-Galaxy_screenshot-2.png 2x"
 width="300" height="187" /></a>
-
-
-
 
 
 <a href="File:Galaxy_screenshot-2.png" class="internal"
@@ -262,20 +211,11 @@ Galaxy 'Table Browser' tool
 
 
 
-
-
-
-
-
-
 <a href="File:Galaxy_screenshot-3.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/300px-Galaxy_screenshot-3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/450px-Galaxy_screenshot-3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Galaxy_screenshot-3.png/600px-Galaxy_screenshot-3.png 2x"
 width="300" height="226" /></a>
-
-
-
 
 
 <a href="File:Galaxy_screenshot-3.png" class="internal"
@@ -286,9 +226,6 @@ height="11" /></a>
 
 
 Editing the attributes of a data set in Galaxy
-
-
-
 
 
 
@@ -422,16 +359,6 @@ See [Category%3AGalaxy](Category%3AGalaxy "Category%3AGalaxy")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Galaxy&oldid=27720>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -445,12 +372,6 @@ Retrieved from
   Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-
-
-
-
-
-
 
 
 
@@ -1025,22 +946,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1051,9 +957,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
   href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1067,27 +970,9 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1102,9 +987,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1113,9 +995,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1135,24 +1014,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1170,9 +1034,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

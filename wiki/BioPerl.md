@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,32 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
 <a href="http://www.bioperl.org" rel="nofollow" title="BioPerl"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/BioPerl_logo.jpg" width="128" height="171"
 alt="BioPerl" /></a>
-
-
-
 
 
 <a href="http://www.bioperl.org/" class="external text"
@@ -61,9 +34,6 @@ concepts and some points that are specifically important for GMOD. If
 you have a detailed question about BioPerl, see the
 <a href="http://www.bioperl.org/" class="external text"
 rel="nofollow">BioPerl web site</a> for more.
-
-
-
 
 
 ## Contents
@@ -266,16 +236,6 @@ and what are not? Here's a rough guideline:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=BioPerl&oldid=21860>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [External](Category%3AExternal "Category%3AExternal")
@@ -287,22 +247,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -313,9 +258,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:BioPerl&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -329,27 +271,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -364,9 +288,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -375,9 +296,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -397,24 +315,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioPerl" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -432,9 +335,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

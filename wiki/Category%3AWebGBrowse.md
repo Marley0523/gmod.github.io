@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">Category%3AWebGBrowse</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,18 +19,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/WebGBrowse "Special:Search/WebGBrowse")
 in other pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AWebGBrowse"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
-
-
-
 
 
 
@@ -68,12 +44,6 @@ The following 2 pages are in this category, out of 2 total.
 
 
 
-
-
-
-
-
-
 Retrieved from
 "[http://gmod.org/wiki/Category%3AWebGBrowse](Category%3AWebGBrowse)"
 
@@ -81,25 +51,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -114,9 +66,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -128,27 +77,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -163,9 +94,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -174,9 +102,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -196,25 +121,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AWebGBrowse" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -222,9 +132,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

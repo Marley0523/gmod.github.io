@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Pages about GMOD related events, such as Hackathons,
@@ -43,9 +22,6 @@ Pages about GMOD related events, such as Hackathons,
 [Conferences](Category%3AConferences "Category%3AConferences") and
 <a href="GMOD_Summer_School" class="mw-redirect"
 title="GMOD Summer School">Summer Schools</a>.
-
-
-
 
 
 ## Subcategories
@@ -61,9 +37,6 @@ This category has the following 2 subcategories, out of 2 total.
 ### M
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
-
-
-
 
 
 
@@ -146,9 +119,6 @@ title="Training and Outreach">Training and Outreach</a></li>
 
 
 
-
-
-
 ## Media in category "Events"
 
 The following 2 files are in this category, out of 2 total.
@@ -207,32 +177,7 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AEvents&oldid=13009>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -246,9 +191,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -260,27 +202,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -295,9 +219,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -306,9 +227,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -328,25 +246,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AEvents" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -364,9 +267,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

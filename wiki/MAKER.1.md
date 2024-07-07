@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,38 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:MAKERLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/400px-MAKERLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/600px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/800px-MAKERLogo.png 2x"
 width="400" height="136" alt="MAKER logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -104,9 +74,6 @@ Resources
   class="external text" rel="nofollow">Public server</a>
 
   
-
-
-
 
 
 
@@ -216,15 +183,9 @@ class="external text" rel="nofollow">MAKER website</a>.
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
 
-
-
-
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
-
-
-
 
 
 <a href="File:MAKER_Apollo_view.jpg" class="internal"
@@ -237,9 +198,6 @@ height="11" /></a>
 View of **MAKER** annotations in the [Apollo](Apollo.1 "Apollo") genome
 annotation curation tool. Supporting evidence is shown in the upper dark
 panel. Gene annotations are shown in the blue panel.
-
-
-
 
 
 
@@ -432,16 +390,6 @@ social media, other) for this property.</span></span>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MAKER&oldid=25258>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -452,12 +400,6 @@ Retrieved from
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - [MAKER](Category%3AMAKER "Category%3AMAKER")
-
-
-
-
-
-
 
 
 
@@ -801,22 +743,7 @@ title="Special%3ASearchByProperty/Has-20subobject/MAKER-23http:-2F-2Fhymenoptera
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -827,9 +754,6 @@ title="Special%3ASearchByProperty/Has-20subobject/MAKER-23http:-2F-2Fhymenoptera
   href="http://gmod.org/mediawiki/index.php?title=Talk:MAKER&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -843,27 +767,9 @@ title="Special%3ASearchByProperty/Has-20subobject/MAKER-23http:-2F-2Fhymenoptera
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -878,9 +784,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -889,9 +792,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -911,24 +811,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -946,9 +831,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

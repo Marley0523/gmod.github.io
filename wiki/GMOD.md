@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,33 +13,15 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [GMOD](http://gmod.org/mediawiki/index.php?title=GMOD&redirect=no "GMOD"))
-
-
-
 
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
-
-
-
 GMOD is Social
-
-
-
 
 
 
@@ -70,9 +43,6 @@ rel="nofollow">@gmodproject</a>
 
 
 
-
-
-
 <a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
 rel="nofollow" title="GMOD group on LinkedIn"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/LinkedInLogo-60px.png" width="60"
@@ -83,9 +53,6 @@ height="50" alt="GMOD group on LinkedIn" /></a>
 <a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
 class="external text" rel="nofollow">Join other <strong>GMOD
 users</strong> on LinkedIn</a>
-
-
-
 
 
 [GMOD News](GMOD_News "GMOD News")
@@ -99,13 +66,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 alt="RSS feed" /></a>
 
 
-
-
-
 [Add](GMOD_News#Adding_a_News_Item "GMOD News")
-
-
-
 
 
 <table class="RSSMainBody" style="background:inherit;">
@@ -135,9 +96,6 @@ Survey</a></li>
 </tr>
 </tbody>
 </table>
-
-
-
 
 
 Welcome to the **Generic Model Organism Database** project, a collection
@@ -185,17 +143,11 @@ components](GMOD_Components "GMOD Components")
 
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/250px-Jbrowse2_logo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/375px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/500px-Jbrowse2_logo.png 2x"
 width="250" height="83" />](JBrowse.1 "JBrowse")
-
-
-
 
 
 <a href="File:Jbrowse2_logo.png" class="internal" title="Enlarge"><img
@@ -210,20 +162,11 @@ JBrowse 2: New super-fast genome annotation viewer
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" />](GBrowse.1 "GBrowse")
-
-
-
 
 
 <a href="File:GBrowseLogo.png" class="internal" title="Enlarge"><img
@@ -238,20 +181,11 @@ GBrowse: Genome annotation viewer
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/250px-GalaxyLogoBigger.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/375px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/500px-GalaxyLogoBigger.png 2x"
 width="250" height="89" />](Galaxy.1 "Galaxy")
-
-
-
 
 
 <a href="File:GalaxyLogoBigger.png" class="internal"
@@ -267,20 +201,11 @@ Galaxy: Data analysis & integration
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/250px-ChadoLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/375px-ChadoLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d5/ChadoLogo.png/500px-ChadoLogo.png 2x"
 width="250" height="56" />](Chado "Chado")
-
-
-
 
 
 <a href="File:ChadoLogo.png" class="internal" title="Enlarge"><img
@@ -295,20 +220,11 @@ Chado: Biological database schema
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/250px-JBrowseLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
 width="250" height="55" />](JBrowse.1 "JBrowse")
-
-
-
 
 
 <a href="File:JBrowseLogo.png" class="internal" title="Enlarge"><img
@@ -323,17 +239,8 @@ JBrowse: Super-fast genome annotation viewer
 
 
 
-
-
-
-
-
-
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" class="thumbimage"
 width="250" height="99" />](BioMart "BioMart")
-
-
-
 
 
 <a href="File:Biomart250.png" class="internal" title="Enlarge"><img
@@ -348,20 +255,11 @@ BioMart: Data mining system
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/250px-WebApolloLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/375px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/500px-WebApolloLogo.png 2x"
 width="250" height="69" />](WebApollo.1 "WebApollo")
-
-
-
 
 
 <a href="File:WebApolloLogo.png" class="internal" title="Enlarge"><img
@@ -376,20 +274,11 @@ WebApollo: browser-based annotation editor
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/250px-MAKERLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/375px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/500px-MAKERLogo.png 2x"
 width="250" height="85" />](MAKER.1 "MAKER")
-
-
-
 
 
 <a href="File:MAKERLogo.png" class="internal" title="Enlarge"><img
@@ -404,20 +293,11 @@ MAKER: Genome annotation pipeline
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" />](GBrowse_syn.1 "GBrowse syn")
-
-
-
 
 
 <a href="File:GBrowse_syn_logo.png" class="internal"
@@ -433,20 +313,11 @@ GBrowse_syn: Synteny viewer
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" />](Tripal.1 "Tripal")
-
-
-
 
 
 <a href="File:TripalLogo.png" class="internal" title="Enlarge"><img
@@ -461,20 +332,11 @@ Tripal: Chado web interface
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/250px-InterMineLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png 2x"
 width="250" height="31" />](InterMine "InterMine")
-
-
-
 
 
 <a href="File:InterMineLogo.png" class="internal" title="Enlarge"><img
@@ -489,20 +351,11 @@ InterMine: Data warehousing
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/250px-CMapLogo-horiz.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/375px-CMapLogo-horiz.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/500px-CMapLogo-horiz.png 2x"
 width="250" height="72" />](CMap.1 "CMap")
-
-
-
 
 
 <a href="File:CMapLogo-horiz.png" class="internal" title="Enlarge"><img
@@ -517,20 +370,11 @@ CMap: Comparative map viewer
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/PathwayTools.png/250px-PathwayTools.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/PathwayTools.png 2x"
 width="250" height="55" />](Pathway_Tools.1 "Pathway Tools")
-
-
-
 
 
 <a href="File:PathwayTools.png" class="internal" title="Enlarge"><img
@@ -545,20 +389,11 @@ Pathway Tools: Metabolic, regulatory pathways
 
 
 
-
-
-
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/250px-CantoTextLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/375px-CantoTextLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/500px-CantoTextLogo.png 2x"
 width="250" height="62" />](Canto "Canto")
-
-
-
 
 
 <a href="File:CantoTextLogo.png" class="internal" title="Enlarge"><img
@@ -571,31 +406,9 @@ Canto: literature annotation tool
 
 
 
-
-
-
-
-
-
   
 
   
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Main_Page&oldid=28584>"
-
-
-
-
-
-
-
-
-
 
 
 
@@ -608,12 +421,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -621,9 +428,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -637,27 +441,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -672,9 +458,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -683,9 +466,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -705,25 +485,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Main_Page" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -741,9 +506,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

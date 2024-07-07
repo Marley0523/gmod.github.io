@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:TripalLogo.png" class="image" title="Tripal"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
 width="250" height="75" alt="Tripal" /></a>
-
-
-
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
@@ -68,9 +41,6 @@ databases. This tutorial references (and complements) the
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf"
 class="internal" title="TripalUsersGuideJan2010.pdf">Tripal User's
 Guide, January 2010 edition</a>.
-
-
-
 
 
 ## Contents
@@ -1791,9 +1761,6 @@ Alternatively, log on using the command-line:
 Now execute the following SQL statements
 
 
-
-
-
 ``` de1
    INSERT INTO cv (NAME) VALUES ('pub_demo');
  
@@ -1821,9 +1788,6 @@ Now execute the following SQL statements
    VALUES ((SELECT feature_id FROM feature WHERE uniquename = 'FBgn0040037'),
            (SELECT pub_id FROM pub WHERE uniquename = 'demo_pub'));
 ```
-
-
-
 
 
 These statements do the following:
@@ -1889,9 +1853,6 @@ module is installed, but we'll create a shell with proper drupal hooks
 so that in the future if we do want to add code to these modules we can.
 
 
-
-
-
 ``` de1
 <?php
    //$Id:
@@ -1919,9 +1880,6 @@ so that in the future if we do want to add code to these modules we can.
 ```
 
 
-
-
-
 #### <span id="Create_the_tripal_pubs.module_file" class="mw-headline">Create the tripal_pubs.module file</span>
 
 Our module will be simple. It will add content to a feature page if
@@ -1930,9 +1888,6 @@ many important hooks for demonstration purposes.
 
 Cut and paste the following code into a new `tripal_pubs.module` file.
 We'll discuss each function...
-
-
-
 
 
 ``` de1
@@ -2210,22 +2165,9 @@ We'll discuss each function...
 ```
 
 
-
-
-
 **Note**... fix the \< div\> and \< h3\>tags in the function immediately
 above and remove the spaces. Mediawiki was giving problems with these so
 they should be fixed.
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_2010&oldid=22199>"
-
-
-
 
 
 
@@ -2234,12 +2176,6 @@ Retrieved from
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Tripal](Category%3ATripal "Category%3ATripal")
-
-
-
-
-
-
 
 
 
@@ -2257,22 +2193,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -2283,9 +2204,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:Expor
   href="http://gmod.org/mediawiki/index.php?title=Talk:Tripal_Tutorial_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -2299,27 +2217,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -2334,9 +2234,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -2345,9 +2242,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -2367,25 +2261,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2403,9 +2282,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Chado is an elegant schema that can hold nearly anything from gene
@@ -50,9 +29,6 @@ converge on a single community-defined standard.
 The reference document is currently the [Chado Best
 Practices](Chado_Best_Practices "Chado Best Practices") page, into which
 much of this information may become merged at some point.
-
-
-
 
 
 ## Contents
@@ -162,9 +138,6 @@ their relationships. The example query is for a transcript feature
 'hsn.transcript.39176.1'
 
 
-
-
-
 ``` de1
     SELECT f1.name AS subject, c.name AS relationship, f2.name AS object
       FROM feature f1
@@ -183,9 +156,6 @@ their relationships. The example query is for a transcript feature
     | hsn.exon.39416.1        | part_of      | hsn.transcript.39176.1 |
     +-------------------------+--------------+------------------------+
 ```
-
-
-
 
 
 ## <span id="Functional_annotation" class="mw-headline">Functional annotation</span>
@@ -209,9 +179,6 @@ Both gene product name and their evidence are stored as feature
 properties of the transcript. To query both:
 
 
-
-
-
 ``` de1
 SELECT f.uniquename, product.VALUE AS product, sym.VALUE AS symbol
   FROM feature f
@@ -229,9 +196,6 @@ SELECT f.uniquename, product.VALUE AS product, sym.VALUE AS symbol
     | hsn.transcript.39176.1 | cytidine deaminase | TIGR01354 |
     +------------------------+--------------------+-----------+
 ```
-
-
-
 
 
 This means that the name of this product was assigned because of a hit
@@ -274,9 +238,6 @@ different ones, since it contains three separate namespaces (process,
 function, component)? For this example I'll use the single 'GO' entry:
 
 
-
-
-
 ``` de1
     SELECT *
       FROM cv
@@ -290,18 +251,12 @@ function, component)? For this example I'll use the single 'GO' entry:
 ```
 
 
-
-
-
 Whether to respect the namespaces within GO and create three distinct
 ontology entries is configurable within the initdb Ergatis component,
 which instantiates our Chado instances.
 
 Next, there's a entry in 'cvterm' for this term but not by the
 GO:NNNNNNNN value. Instead, we can look it up by the name:
-
-
-
 
 
 ``` de1
@@ -318,14 +273,8 @@ GO:NNNNNNNN value. Instead, we can look it up by the name:
 ```
 
 
-
-
-
 The actual GO:NNNNNNN value is a database reference (dbxref_id returned
 in last query):
-
-
-
 
 
 ``` de1
@@ -341,13 +290,7 @@ in last query):
 ```
 
 
-
-
-
 Which, of course, means there's a GO entry in the 'db' table too:
-
-
-
 
 
 ``` de1
@@ -363,13 +306,7 @@ Which, of course, means there's a GO entry in the 'db' table too:
 ```
 
 
-
-
-
 So, reviewing, to get the basic annotation for a GO term:
-
-
-
 
 
 ``` de1
@@ -386,9 +323,6 @@ So, reviewing, to get the basic annotation for a GO term:
 ```
 
 
-
-
-
 What about the xref_analog entries we saw in the OBO definition? The
 additional entries are stored using the cvterm_dxref table.
 
@@ -396,9 +330,6 @@ additional entries are stored using the cvterm_dxref table.
 
 A more narrative description has yet to be written, but here's a query
 to get all assigned GO terms for a given transcript, with evidence.
-
-
-
 
 
 ``` de1
@@ -423,9 +354,6 @@ to get all assigned GO terms for a given transcript, with evidence.
     | hsn.transcript.39176.1 | GO:0004126  | inferred FROM electronic annotation | IEA           | TIGR01354 |
     +------------------------+-------------+-------------------------------------+---------------+-----------+
 ```
-
-
-
 
 
 ### <span id="Enzyme_Commission_.28EC.29_number" class="mw-headline">Enzyme Commission (EC) number</span>
@@ -512,9 +440,6 @@ limitation, but rather one on highly normalized schemas in general. To
 query all the BLAST results for a given polypeptide you might do this:
 
 
-
-
-
 ``` de1
 SELECT q.uniquename AS query, s.uniquename AS subject, af.rawscore, af.pidentity,
        af.significance, flq.fmin AS qstart, flq.fmax AS qstop, flq.strand AS qstrand
@@ -535,9 +460,6 @@ SELECT q.uniquename AS query, s.uniquename AS subject, af.rawscore, af.pidentity
 ```
 
 
-
-
-
 That's just nasty isn't it? Not only do developers not want to write
 these but the sheer number of JOINs involved makes the query intolerably
 slow.
@@ -556,9 +478,6 @@ the database. We call our collection of these 'chado marts'. The table
 definition for one of these to support BLAST results is:
 
 
-
-
-
 ``` de1
 CREATE TABLE cm_blast (
   cm_blast_id         INT NOT NULL,
@@ -574,9 +493,6 @@ CREATE TABLE cm_blast (
 ```
 
 
-
-
-
 For those database engines that support it, such as Oracle, these
 materialized views can be defined once and are maintained by the
 underlying database engine as their base tables are updated. For others
@@ -585,16 +501,6 @@ they are normal tables populated at regular intervals by scripts.
 ### <span id="Disk_Caching" class="mw-headline">Disk Caching</span>
 
 Notes on Lucene, memcache, Storable, etc. here.
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=IGS_Data_Representation&oldid=22170>"
-
-
-
 
 
 
@@ -609,22 +515,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -635,9 +526,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:IGS_Data_Representation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -651,27 +539,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -686,9 +556,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -697,9 +564,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -719,25 +583,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/IGS_Data_Representation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -755,9 +604,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -58,9 +37,6 @@ GMOD helpdesk</a> and we will post it for you.
   
 
 
-
-
-
 ## Contents
 
 
@@ -81,9 +57,6 @@ GMOD helpdesk</a> and we will post it for you.
 ## <span id="Keynote_Speaker" class="mw-headline">Keynote Speaker</span>
 
 
-
-
-
 <a href="http://sulab.org/andrew-i-su-ph-d/" rel="nofollow"
 title="Andrew Su"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/AndrewSu.jpg/95px-AndrewSu.jpg"
@@ -91,13 +64,7 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="95" height="128" alt="Andrew Su" /></a>
 
 
-
-
-
 Andrew Su
-
-
-
 
 
 "A Centralized Model Organism Database (CMOD) for the Long Tail of
@@ -112,9 +79,6 @@ Bioinformatics at the Genomics Institute of the Novartis Research
 Foundation (GNF) in San Diego, CA. He also serves as an Executive Editor
 of the journal Gene and on the Scientific Advisory Board of the Gene
 Ontology Consortium.
-
-
-
 
 
 ## <span id="Agenda" class="mw-headline">Agenda</span>
@@ -275,16 +239,6 @@ large-scale projects</a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Jan_2014_GMOD_Meeting&oldid=25712>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
@@ -295,22 +249,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -321,9 +260,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Jan_2014_GMOD_Meeting&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -337,27 +273,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -372,9 +290,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -383,9 +298,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -405,25 +317,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jan_2014_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -441,9 +338,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

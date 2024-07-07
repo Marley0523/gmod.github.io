@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:2011GMODAmericasSatellitesLogo.png" class="image"
@@ -49,9 +25,6 @@ title="GMOD Americas 2011"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/900px-2011GMODAmericasSatellitesLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/2011GMODAmericasSatellitesLogo.png 2x"
 width="600" height="238" alt="GMOD Americas 2011" /></a>
-
-
-
 
 
   
@@ -63,9 +36,6 @@ events](Category%3AEvents "Category%3AEvents") where community members with
 common interests gather for part or all of a day to discuss and work on
 a topic of interest to them. This is the third event that will have
 satellite meetings.
-
-
-
 
 
 ## Contents
@@ -179,32 +149,10 @@ alt="GMODAmericas2011FlierThumb.png" /></a></td>
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Satellite_Meetings_-_GMOD_Americas_2011&oldid=21993>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -215,9 +163,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Satellite_Meetings_-_GMOD_Americas_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -231,27 +176,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -266,9 +193,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -277,9 +201,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -299,25 +220,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Americas_2011"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -335,9 +241,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:TripalLogo.png" class="image" title="Tripal"><img
@@ -50,18 +26,12 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="250" height="75" alt="Tripal" /></a>
 
 
-
-
-
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
 Ficklin](User%3ASficklin "User%3ASficklin") at the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training"), March
 2011. The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">Tripal Tutorial</a> page.
-
-
-
 
 
 ## Contents
@@ -3012,16 +2982,6 @@ class="new" title="File:TripalGBrowseImg.png">800px</a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial_2011&oldid=23087>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
@@ -3034,12 +2994,6 @@ Retrieved from
   Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
 - [Tripal](Category%3ATripal "Category%3ATripal")
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-
-
-
-
-
-
 
 
 
@@ -3057,22 +3011,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2011 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -3083,9 +3022,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2011 "Special:Expor
   href="http://gmod.org/mediawiki/index.php?title=Talk:Tripal_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -3099,27 +3035,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2011 "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -3134,9 +3052,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -3145,9 +3060,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -3167,25 +3079,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3203,9 +3100,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

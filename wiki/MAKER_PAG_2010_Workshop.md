@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table
@@ -74,9 +53,6 @@ rel="nofollow">Plant and Animal Genome XVIII Conference</a> ([PAG
   
 
 
-
-
-
 ## Contents
 
 
@@ -103,15 +79,9 @@ online](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf").
 ## <span id="Overview" class="mw-headline">Overview</span>
 
 
-
-
-
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
 width="500" height="301" /></a>
-
-
-
 
 
 <a href="File:MAKER_Apollo_view.jpg" class="internal"
@@ -125,9 +95,6 @@ View of [MAKER](MAKER.1 "MAKER") annotations in the
 [Apollo](Apollo.1 "Apollo") genome annotation curation tool. Supporting
 evidence is shown in the upper dark panel. Gene annotations are shown in
 the blue panel.
-
-
-
 
 
 
@@ -209,32 +176,10 @@ GMOD-related presentations at PAG XVIII.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MAKER_PAG_2010_Workshop&oldid=21985>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -245,9 +190,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:MAKER_PAG_2010_Workshop&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -261,27 +203,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -296,9 +220,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -307,9 +228,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -329,25 +247,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_PAG_2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -365,9 +268,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

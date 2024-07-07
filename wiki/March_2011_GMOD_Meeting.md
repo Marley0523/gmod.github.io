@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -47,9 +23,6 @@ title="March 2011 GMOD Community Meeting"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/600px-March2011GMODMeetingLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/900px-March2011GMODMeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/March2011GMODMeetingLogo.png 2x"
 width="600" height="238" alt="March 2011 GMOD Community Meeting" /></a>
-
-
-
 
 
   
@@ -92,9 +65,6 @@ Toronto, Canada. OICR is the current home of both
 [GBrowse](GBrowse.1 "GBrowse") and [BioMart](BioMart "BioMart").
 
   
-
-
-
 
 
 ## Contents
@@ -311,9 +281,6 @@ width="140" height="140" alt="Eric Stone" /></a>
 Guest Speaker:
 <a href="http://www4.ncsu.edu/~eastone2/" class="external text"
 rel="nofollow">Dr. Eric Stone</a>
-
-
-
 
 
 Assistant Professor of
@@ -648,28 +615,9 @@ future?**
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=March_2011_GMOD_Meeting&oldid=24476>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -680,12 +628,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -693,9 +635,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:March_2011_GMOD_Meeting&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -709,27 +648,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -744,9 +665,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -755,9 +673,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -777,25 +692,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/March_2011_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -813,9 +713,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

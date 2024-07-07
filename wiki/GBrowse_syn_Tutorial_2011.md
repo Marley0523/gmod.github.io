@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") is a
@@ -53,9 +32,6 @@ the standard GBrowse package (version 1.69 and later).
   class="external text" rel="nofollow">WormBase</a></span>.
 
   
-
-
-
 
 
 ## Contents
@@ -128,17 +104,11 @@ Now point your browser to
 rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 
 
-
-
-
 <a href="File:GBrowse_synWelcome.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
 width="600" height="369" /></a>
-
-
-
 
 
 <a href="File:GBrowse_synWelcome.png" class="internal"
@@ -149,9 +119,6 @@ height="11" /></a>
 
 
 Welcome screen
-
-
-
 
 
 
@@ -173,9 +140,6 @@ how to set up the example data source provided with the distribution.
 
 *\*Data courtesy of Bonnie Hurwitz; sequences and names have been
 obfuscated to protect unpublished data*
-
-
-
 
 
 ## <span id="Setting_up_the_Alignment_Database" class="mw-headline">Setting up the Alignment Database</span>
@@ -731,16 +695,6 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial_2011&oldid=23056>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2011 Spring
@@ -753,22 +707,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -779,9 +718,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -795,27 +731,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -830,9 +748,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -841,9 +756,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -863,25 +775,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2011"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -899,9 +796,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

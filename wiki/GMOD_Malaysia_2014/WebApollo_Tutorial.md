@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This [WebApollo](../WebApollo.1 "WebApollo") tutorial was presented by
@@ -68,9 +47,6 @@ class="external free"
 rel="nofollow">http://genomearchitect.org/webapollo/docs/webapollo_user_guide.pdf</a>
 
   
-
-
-
 
 
 ## Contents
@@ -609,16 +585,6 @@ styles are located in
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Malaysia_2014/WebApollo_Tutorial&oldid=25397>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](../Category%3ATutorials "Category%3ATutorials")
@@ -626,12 +592,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
   class="new"
   title="Category%3AWebApollo (page does not exist)">WebApollo</a>
-
-
-
-
-
-
 
 
 
@@ -649,22 +609,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutori
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -675,9 +620,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutori
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Malaysia_2014/WebApollo_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -691,27 +633,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutori
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -728,9 +652,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -739,9 +660,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -761,25 +679,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FWebApollo_Tutorial"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -797,9 +700,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

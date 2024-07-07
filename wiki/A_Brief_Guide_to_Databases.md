@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,29 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 A database provides infrastructure for storing, managing, and retrieving
 information.
 
   
-
-
-
 
 
 ## Contents
@@ -155,9 +131,6 @@ If we look at an individual record from each table, we can see how the
 two tables relate to each other.
 
 
-
-
-
 |                  |                                                  |
 |------------------|--------------------------------------------------|
 | Title            | Mouse as a Model Organism: From Animals to Cells |
@@ -169,9 +142,6 @@ two tables relate to each other.
 book
 
 
-
-
-
 |        |            |
 |--------|------------|
 | ISBN   | 9400707495 |
@@ -179,19 +149,6 @@ book
 | price  | 189.00     |
 
 price
-
-
-
-
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=A_Brief_Guide_to_Databases&oldid=21594>"
-
-
 
 
 
@@ -209,22 +166,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -235,9 +177,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:A_Brief_Guide_to_Databases&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -251,27 +190,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -286,9 +207,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -297,9 +215,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -319,25 +234,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/A_Brief_Guide_to_Databases"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -355,9 +255,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 *For the main GBrowse 2.0 HOWTO article, see: [GBrowse 2.0
@@ -61,9 +40,6 @@ many features to list explicitly and/or there are more than one feature
 per subtrack. In this scheme, each subtrack is defined by a set of
 feature filters. The filters are applied to each filter in turn, sorting
 them into the appropriate subtrack.
-
-
-
 
 
 ## Contents
@@ -161,17 +137,11 @@ that shows a number of ChIP-seq experiments with the attributes
 this generates is shown on the right.
 
 
-
-
-
 <a href="File:Subtrack_selection_table_metadata.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/180px-Subtrack_selection_table_metadata.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/270px-Subtrack_selection_table_metadata.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/360px-Subtrack_selection_table_metadata.png 2x"
 width="180" height="67" /></a>
-
-
-
 
 
 <a href="File:Subtrack_selection_table_metadata.png" class="internal"
@@ -182,9 +152,6 @@ height="11" /></a>
 
 
 ChIP-seq subtracks using metadata file
-
-
-
 
 
 
@@ -272,17 +239,11 @@ a gene track that has no subtracks:
     key          = Wormbase Genes
 
 
-
-
-
 <a href="File:Subtracks_genes_before.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/180px-Subtracks_genes_before.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/270px-Subtracks_genes_before.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/360px-Subtracks_genes_before.png 2x"
 width="180" height="24" /></a>
-
-
-
 
 
 <a href="File:Subtracks_genes_before.png" class="internal"
@@ -293,9 +254,6 @@ height="11" /></a>
 
 
 Genes track with no subtracks
-
-
-
 
 
 
@@ -334,17 +292,11 @@ to partition on the strand() method, and to label this dimension
 "Strand" on the popup menu presented to the user.
 
 
-
-
-
 <a href="File:Subtracks_genes_first_iteration.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/180px-Subtracks_genes_first_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/270px-Subtracks_genes_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/360px-Subtracks_genes_first_iteration.png 2x"
 width="180" height="30" /></a>
-
-
-
 
 
 <a href="File:Subtracks_genes_first_iteration.png" class="internal"
@@ -360,21 +312,12 @@ First iteration of strand-specific subtracks
 
 
 
-
-
-
-
-
-
 <a href="File:Subtracks_genes_dialog_first_iteration.png"
 class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/180px-Subtracks_genes_dialog_first_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/270px-Subtracks_genes_dialog_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/360px-Subtracks_genes_dialog_first_iteration.png 2x"
 width="180" height="82" /></a>
-
-
-
 
 
 <a href="File:Subtracks_genes_dialog_first_iteration.png"
@@ -385,9 +328,6 @@ height="11" /></a>
 
 
 Subtrack selection dialog box
-
-
-
 
 
 
@@ -408,17 +348,11 @@ he can control the display of the subtracks using the dialog on the
 lower right.
 
 
-
-
-
 <a href="File:Subtracks_genes_second_iteration.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/180px-Subtracks_genes_second_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/270px-Subtracks_genes_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/360px-Subtracks_genes_second_iteration.png 2x"
 width="180" height="148" /></a>
-
-
-
 
 
 <a href="File:Subtracks_genes_second_iteration.png" class="internal"
@@ -434,21 +368,12 @@ Second iteration of strand-specific subtracks
 
 
 
-
-
-
-
-
-
 <a href="File:Subtracks_genes_dialog_second_iteration.png"
 class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/180px-Subtracks_genes_dialog_second_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/270px-Subtracks_genes_dialog_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/360px-Subtracks_genes_dialog_second_iteration.png 2x"
 width="180" height="88" /></a>
-
-
-
 
 
 <a href="File:Subtracks_genes_dialog_second_iteration.png"
@@ -459,9 +384,6 @@ height="11" /></a>
 
 
 Second iteration of the subtrack selection dialog box
-
-
-
 
 
 
@@ -506,17 +428,11 @@ right.
   
 
 
-
-
-
 <a href="File:Subtrack_selection_table_overview.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/180px-Subtrack_selection_table_overview.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/270px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/360px-Subtrack_selection_table_overview.png 2x"
 width="180" height="63" /></a>
-
-
-
 
 
 <a href="File:Subtrack_selection_table_overview.png" class="internal"
@@ -532,20 +448,11 @@ ChIP-seq subtracks
 
 
 
-
-
-
-
-
-
 <a href="File:Subtrack_selection_table.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
 width="180" height="78" /></a>
-
-
-
 
 
 <a href="File:Subtrack_selection_table.png" class="internal"
@@ -556,9 +463,6 @@ height="11" /></a>
 
 
 modENCODE ChIP-seq subtrack selector
-
-
-
 
 
 
@@ -697,16 +601,6 @@ case the display of empty subtracks will be suppressed.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Creating_and_Managing_Subtracks_with_GBrowse2&oldid=20297>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
@@ -718,22 +612,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -744,9 +623,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Creating_and_Managing_Subtracks_with_GBrowse2&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -760,27 +636,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -795,9 +653,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -806,9 +661,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -828,25 +680,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -864,9 +701,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

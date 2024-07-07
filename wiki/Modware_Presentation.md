@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Eric Just, Senior Bioinformatics Scientist,
@@ -45,9 +24,6 @@ rel="nofollow">http://dictybase.org</a> Center for Genetic Medicine,
 Northwestern University. This is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Modware.pdf" class="internal"
 title="Modware.pdf">Eric's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -166,9 +142,6 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 ##### <span id="Create_and_Insert_Chromosome" class="mw-headline">Create and Insert Chromosome</span>
 
 
-
-
-
 ``` de1
    my $seq_io = new Bio::SeqIO(
       -file       => "../data/fake_chromosome.txt",
@@ -190,9 +163,6 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
    # Inserts chromosome into database
    $reference_feature->insert();
 ```
-
-
-
 
 
   
@@ -260,9 +230,6 @@ assigned feature_id for each inserted gene.
          …
 
 
-
-
-
 ``` de1
 my $gene_feature = new Modware::Feature(
     -type             => 'gene',
@@ -280,9 +247,6 @@ print 'Inserted gene with feature_id:'.$gene_feature->feature_id()."\n";
 ```
 
 
-
-
-
 ##### <span id="Problem_1_-_Create_mRNA_BioPerl_Object" class="mw-headline">Problem 1 - Create mRNA BioPerl Object</span>
 
               exon_1:
@@ -296,9 +260,6 @@ print 'Inserted gene with feature_id:'.$gene_feature->feature_id()."\n";
               end: 14720
               strand: 1
               srcFeature_id: Id of genomic sample
-
-
-
 
 
 ``` de1
@@ -326,17 +287,11 @@ $bioperl_mrna->add_exon( $exon_2 );
 ```
 
 
-
-
-
 ##### <span id="Problem_1_-_Create_and_Insert_mRNA" class="mw-headline">Problem 1 - Create and Insert mRNA</span>
 
 The BioPerl object holds the location information, but now we want to
 create a Modware object and link it to the gene as well as locate it on
 the chromosome.
-
-
-
 
 
 ``` de1
@@ -354,9 +309,6 @@ the chromosome.
     # inserts object into database
      $mrna_feature->insert();
 ```
-
-
-
 
 
 ##### <span id="Problem_2_-_Writing_the_Report" class="mw-headline">Problem 2 - Writing the Report</span>
@@ -379,9 +331,6 @@ Create new package, GMODWriter, to write the report, this package uses
 Modware and Bioperl methods.
 
 
-
-
-
 ``` de1
 use Modware::Gene;
 use GMODWriter;
@@ -389,9 +338,6 @@ use GMODWriter;
 my $xfile_gene = new Modware::Gene( -name => 'xfile' );
 GMODWriter->Write_gene_report( $xfile_gene );
 ```
-
-
-
 
 
 - What's the difference between Modware::Gene and Modware::Feature? Gene
@@ -403,9 +349,6 @@ GMODWriter->Write_gene_report( $xfile_gene );
 
 - The mRNA object contains the Bioperl object
   - Why not just subclass? More flexibility the way shown here
-
-
-
 
 
 ``` de1
@@ -444,16 +387,10 @@ foreach my $exon (@exons ) {
 ```
 
 
-
-
-
 ##### <span id="Problem_3_-_Updating_a_Gene_Name" class="mw-headline">Problem 3 - Updating a Gene Name</span>
 
 3\) Update the gene xfile: change the name symbol to x-file and retrieve
 the changed record. Regenerate gene report
-
-
-
 
 
 ``` de1
@@ -485,9 +422,6 @@ the changed record. Regenerate gene report
 ```
 
 
-
-
-
   
 
 ##### <span id="Problem_4_-_Search_and_Display_Results" class="mw-headline">Problem 4 - Search and Display Results</span>
@@ -498,9 +432,6 @@ results produce the following simple result list (organism will vary):
        1323    x-file  Xenopus laevis
        1324    x-men   Xenopus laevis
        1325    x-ray   Xenopus laevis
-
-
-
 
 
 ``` de1
@@ -514,9 +445,6 @@ results produce the following simple result list (organism will vary):
      # write the search results
      GMODWriter->Write_search_results( $results )
 ```
-
-
-
 
 
   
@@ -533,9 +461,6 @@ results produce the following simple result list (organism will vary):
   
 
 
-
-
-
 ``` de1
 sub Write_search_results {
   my ($self, $itr) = @_;
@@ -549,18 +474,12 @@ sub Write_search_results {
 ```
 
 
-
-
-
 ##### <span id="Problem_5_-_Delete_a_Gene" class="mw-headline">Problem 5 - Delete a Gene</span>
 
 5\) Delete the gene x-ray. Run the search and report again.
 
        1323    x-file  Xenopus laevis
        1324    x-men   Xenopus laevis
-
-
-
 
 
 ``` de1
@@ -582,9 +501,6 @@ sub Write_search_results {
  # write the search results
  GMODWriter->Write_search_results( $results )
 ```
-
-
-
 
 
   
@@ -661,16 +577,6 @@ sub Write_search_results {
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Modware_Presentation&oldid=24341>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Modware](Category%3AModware "Category%3AModware")
@@ -681,22 +587,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -707,9 +598,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Modware_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -723,27 +611,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -758,9 +628,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -769,9 +636,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -791,25 +655,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Modware_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -827,9 +676,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

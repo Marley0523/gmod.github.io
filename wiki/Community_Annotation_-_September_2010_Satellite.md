@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
@@ -79,9 +58,6 @@ width="200" height="171" alt="part of GMOD Europe 2010" /></a>
 </table>
 
   
-
-
-
 
 
 
@@ -130,9 +106,6 @@ width="200" height="171" alt="part of GMOD Europe 2010" /></a>
     <span class="toctext">Lessons</span>](#Lessons)
 - [<span class="tocnumber">5</span> <span class="toctext">See
   Also</span>](#See_Also)
-
-
-
 
 
 This [satellite
@@ -575,16 +548,6 @@ sophisticated and more standardised.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Community_Annotation_-_September_2010_Satellite&oldid=21965>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Education and
@@ -599,22 +562,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -624,9 +572,6 @@ Retrieved from
 - <span id="ca-talk"><a href="Talk%3ACommunity_Annotation_-_September_2010_Satellite"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -640,27 +585,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -675,9 +602,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -686,9 +610,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -708,26 +629,11 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a
   href="Special%3ABrowse/Community_Annotation_-2D_September_2010_Satellite"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -745,9 +651,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

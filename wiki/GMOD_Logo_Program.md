@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 The [GMOD](Main_Page "Main Page") Logo Program connects graphic design
@@ -49,9 +28,6 @@ Different design programs will be involved at different times during the
 life of this program, and the specific details of the program will vary
 depending on the design program that is currently involved. However,
 there are some general guidelines that apply to all programs.
-
-
-
 
 
 ## Contents
@@ -76,17 +52,11 @@ there are some general guidelines that apply to all programs.
 ## <span id="GMOD_User_Participation_Requirements" class="mw-headline">GMOD User Participation Requirements</span>
 
 
-
-
-
 <a href="File:ApolloLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/180px-ApolloLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/270px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/360px-ApolloLogo.png 2x"
 width="180" height="65" /></a>
-
-
-
 
 
 <a href="File:ApolloLogo.png" class="internal" title="Enlarge"><img
@@ -99,9 +69,6 @@ height="11" /></a>
 Radke](Spring_2010_Logo_Program#Linn-Benton_Community_College "Spring 2010 Logo Program"),
 during the [Spring 2010 Logo
 Program](Spring_2010_Logo_Program "Spring 2010 Logo Program").
-
-
-
 
 
 
@@ -132,17 +99,11 @@ get that experience.
 ## <span id="Graphic_Design_Student_Requirements" class="mw-headline">Graphic Design Student Requirements</span>
 
 
-
-
-
 <a href="File:RedFlyLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/150px-RedFlyLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/225px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/RedFlyLogo.png 2x"
 width="150" height="106" /></a>
-
-
-
 
 
 <a href="File:RedFlyLogo.png" class="internal" title="Enlarge"><img
@@ -156,9 +117,6 @@ rel="nofollow">REDFly's</a> new logo, designed by [Alex
 Read](Spring_2010_Logo_Program#Linn-Benton_Community_College "Spring 2010 Logo Program"),
 during the [Spring 2010 Logo
 Program](Spring_2010_Logo_Program "Spring 2010 Logo Program").
-
-
-
 
 
 
@@ -218,16 +176,6 @@ details, and list of projects and logos that were created.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Logo_Program&oldid=21730>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
@@ -238,22 +186,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -264,9 +197,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Logo_Program&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -280,27 +210,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -315,9 +227,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -326,9 +235,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -348,25 +254,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Logo_Program" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -384,9 +275,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

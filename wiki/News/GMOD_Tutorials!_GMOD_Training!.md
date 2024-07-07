@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">News/GMOD Tutorials! GMOD Training!</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,17 +19,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 <a href="../Training_and_Outreach#Online_Tutorials" rel="nofollow"
 title="Summer School - Europe"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GMOD2009Europe170.png/120px-GMOD2009Europe170.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 2x"
 width="120" height="102" alt="Summer School - Europe" /></a>
-
-
-
 
 
 <a href="../Training_and_Outreach#Online_Tutorials" rel="nofollow"
@@ -228,28 +204,9 @@ pipeline</a></strong></td>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GMOD_Tutorials!_GMOD_Training!&oldid=22332>"
-
-
-
-
-
-
-
 [Category](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -260,12 +217,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -273,9 +224,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/GMOD_Tutorials!_GMOD_Training!&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -289,27 +237,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -326,9 +256,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -337,9 +264,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -359,25 +283,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Tutorials!_GMOD_Training!"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -395,9 +304,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

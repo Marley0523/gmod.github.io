@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">Category%3ATutorial</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,18 +19,12 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 There is currently no text in this page. You can [search for this page
 title](Special%3ASearch/Tutorial "Special%3ASearch/Tutorial") in other
 pages, or <span class="plainlinks"><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ATutorial"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
-
-
-
 
 
 
@@ -110,9 +86,6 @@ title="Using AWS S3 For JBrowse">Using AWS S3 For JBrowse</a></li>
 
 
 
-
-
-
 ## Media in category "Tutorial"
 
 This category contains only the following file.
@@ -143,12 +116,6 @@ This category contains only the following file.
 
 
 
-
-
-
-
-
-
 Retrieved from
 "[http://gmod.org/wiki/Category%3ATutorial](Category%3ATutorial)"
 
@@ -156,25 +123,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -189,9 +138,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -203,27 +149,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -238,9 +166,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -249,9 +174,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -271,25 +193,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ATutorial" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -297,9 +204,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

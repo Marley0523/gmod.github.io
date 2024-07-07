@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This is a property of type
@@ -258,25 +237,7 @@ title="Special%3ASearchByProperty/Release-20date/1-20January-202009">+</a></span
 
 
 
-
-
-
-Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=Property%3ARelease_date&oldid=24406#SMWResults](http://gmod.org/mediawiki/index.php?title=Property%3ARelease_date&oldid=24406#SMWResults#SMWResults)"
-
-
-
-
-
-
-
-
-
-
-
-<span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Release
-date](Special%3ABrowse/Property%3ARelease-20date "Special%3ABrowse/Property%3ARelease-20date")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:ExportRDF/Property:Release date")</span></span>
 
 |  |  |
@@ -288,22 +249,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:Ex
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -314,9 +260,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:Ex
   href="http://gmod.org/mediawiki/index.php?title=Property_talk:Release_date&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -330,27 +273,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:Ex
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -365,9 +290,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -376,9 +298,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -398,25 +317,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3ARelease_date" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -434,9 +338,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

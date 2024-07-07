@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,32 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [Synteny](http://gmod.org/mediawiki/index.php?title=Synteny&redirect=no "Synteny"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 GMOD includes several components for managing and visualizing
 [comparative genomics and
 synteny](Category%3AComparative_Genomics "Category%3AComparative Genomics")
 data.
-
-
-
 
 
 ## Contents
@@ -123,17 +99,11 @@ See [CMap](CMap.1 "CMap") for more.
 ### <span id="GBrowse_syn" class="mw-headline">GBrowse_syn</span>
 
 
-
-
-
 <a href="File:GBrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
 width="400" height="128" /></a>
-
-
-
 
 
 <a href="File:GBrowse_syn.png" class="internal" title="Enlarge"><img
@@ -143,9 +113,6 @@ height="11" /></a>
 
 
 GBrowse_syn, as implemented at WormBase
-
-
-
 
 
 
@@ -196,16 +163,6 @@ distribution.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Comparative_Genomics&oldid=10484>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Comparative
@@ -216,22 +173,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -242,9 +184,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Comparative_Genomics&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -258,27 +197,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -293,9 +214,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -304,9 +222,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -326,25 +241,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Comparative_Genomics" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -362,9 +262,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

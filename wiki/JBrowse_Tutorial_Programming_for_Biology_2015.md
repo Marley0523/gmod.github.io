@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
@@ -44,9 +23,6 @@ Spring Harbor Laboratory in October 2015 using JBrowse 1.11.6.
 
 This tutorial assumes a Mac OS X computer with apache configured to
 allow UserDir (~username).
-
-
-
 
 
 ## Contents
@@ -250,9 +226,6 @@ In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
 
-
-
-
 ``` de1
 ...
  
@@ -275,9 +248,6 @@ In this case, we have specified all of our track configurations in
    ...
 ]
 ```
-
-
-
 
 
 `track` specifies the track identifier (a unique name for the track, for
@@ -363,9 +333,6 @@ server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_alignments",
@@ -375,9 +342,6 @@ similar to:
         "type" : "Alignments2"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -395,9 +359,6 @@ inject the track configuration:
 ### <span id="BAM_coverage" class="mw-headline">BAM coverage</span>
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_coverage",
@@ -407,9 +368,6 @@ inject the track configuration:
         "type" : "SNPCoverage"
       }
 ```
-
-
-
 
 
 ### <span id="Quantitative_data" class="mw-headline">Quantitative data</span>
@@ -422,9 +380,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bigwig_bam_coverage",
@@ -435,9 +390,6 @@ the track, similar to:
         "variance_band" : true
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -464,9 +416,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
       {
         "label" : "bam_variation",
@@ -476,9 +425,6 @@ the track, similar to:
         "type" : "HTMLVariants"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -512,9 +458,6 @@ be copied into the `data` directory for use with this configuration.
 Then a simple faceted track selection configuration might look like:
 
 
-
-
-
 ``` de1
    "trackSelector": {
        "type": 'Faceted',
@@ -525,9 +468,6 @@ Then a simple faceted track selection configuration might look like:
        ]
    }
 ```
-
-
-
 
 
 The `jbrowse_conf.json` file in the `jbrowse` directory already
@@ -543,9 +483,6 @@ tracks, this tutorial will focus on Canvas tracks only (the repeat
 tracks created above).
 
 The configuration for the RepeatMasker track looks like this:
-
-
-
 
 
 ``` de1
@@ -567,24 +504,15 @@ The configuration for the RepeatMasker track looks like this:
 ```
 
 
-
-
-
 Open the `data/trackList.json` file in your favorite editor and
 Command-F will open a "find" window; search for "repeatmasker". A simple
 change we can make is to the color; in the line starting with "style",
 add:
 
 
-
-
-
 ``` de1
   "color" : "black",
 ```
-
-
-
 
 
 save the changes and select the RepeatMasker track or reload the browser
@@ -605,15 +533,9 @@ complexity repeat, where we'll color it red. A function to do that would
 look like this:
 
 
-
-
-
 ``` de1
   "color" : "function(feature) { var name = feature.get('Name'); if (name.match('Low_complexity') ) { return 'red'; } return 'black';  }",
 ```
-
-
-
 
 
 When editing the trackList.json file directly in this way, the function
@@ -637,9 +559,6 @@ In the RepeatMasker section of the JBrowse configuration, we'll add a
 section that looks like this after the style section:
 
 
-
-
-
 ``` de1
         "onClick" : {
            "iconClass" : "dijitIconDatabase",
@@ -651,14 +570,8 @@ section that looks like this after the style section:
 ```
 
 
-
-
-
 If you're having difficulties, the RepeatMasker section of the
 configuration file should now look something like this:
-
-
-
 
 
 ``` de1
@@ -686,9 +599,6 @@ configuration file should now look something like this:
          "key" : "RepeatMasker"
       },
 ```
-
-
-
 
 
 ## <span id="JBrowse_Features" class="mw-headline">JBrowse Features</span>
@@ -746,19 +656,6 @@ from the old JBrowse directory into the new JBrowse directory.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_Programming_for_Biology_2015&oldid=26794>"
-
-
-
-
-
-
-
-
-
-
-
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial Programming for
 Biology
@@ -774,22 +671,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -800,9 +682,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse_Tutorial_Programming_for_Biology_2015&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -816,27 +695,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -851,9 +712,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -862,9 +720,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -884,25 +739,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_Programming_for_Biology_2015"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -920,9 +760,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

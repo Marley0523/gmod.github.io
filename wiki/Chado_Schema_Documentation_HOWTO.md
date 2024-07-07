@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">Chado Schema Documentation HOWTO</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 The <a href="Chado" class="mw-redirect" title="Chado">Chado</a> schema
@@ -51,9 +30,6 @@ Tables](Chado_Tables "Chado Tables") page are generated every time there
 is a new release of Chado. The column and table details, including
 comments, come from the [PostgreSQL](PostgreSQL "PostgreSQL") data
 dictionary.
-
-
-
 
 
 ## Contents
@@ -186,9 +162,6 @@ Edit `generateChadoWikiTables.py` and update any of these variables that
 you need to:
 
 
-
-
-
 ```de1
 # UPDATE THESE 4 BEFORE RUNNING THE PROGRAM.
 DB_NAME           = "testdb"
@@ -196,9 +169,6 @@ DB_USER           = "gmodhack"
 MODULE_TABLE_PATH = "../../modules/module-tables.json"
 WIKI_DIR          = "/tmp/ChadoWikiFiles"
 ```
-
-
-
 
 
 Before you can run this script, make sure that the `postgresql_autodoc`
@@ -241,9 +211,6 @@ do this. Then update the three types of pages:
 On the GMOD web server create this script:
 
 
-
-
-
 ```de1
 #!/usr/bin/python
 # ===================
@@ -269,9 +236,6 @@ for tablePath in glob.glob(TABLES_DIR + "/*.wiki"):
     print(command)
     os.system(command)
 ```
-
-
-
 
 
 Set `MW_USERNAME` and `COMMENT` appropriately. Also set `TABLES_DIR` to
@@ -332,16 +296,6 @@ We've tackled this for Chado with MediaWiki Templates:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Schema_Documentation_HOWTO&oldid=22866>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
@@ -353,19 +307,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -378,9 +320,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -391,24 +330,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -423,9 +347,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -434,9 +355,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -456,21 +374,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Schema_Documentation_HOWTO"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
 
 
 

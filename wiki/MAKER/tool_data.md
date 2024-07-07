@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">MAKER/tool data</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This page stores the data that populates the [MAKER](../MAKER.1 "MAKER")
@@ -85,15 +64,9 @@ MAKER comes with sample data for testing purposes. See the `/data`
 directory in the download. \| screenshot =
 
 
-
-
-
 <a href="../File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg"
 class="thumbimage" width="500" height="301" /></a>
-
-
-
 
 
 <a href="../File:MAKER_Apollo_view.jpg" class="internal"
@@ -107,9 +80,6 @@ View of [MAKER](../MAKER.1 "MAKER") annotations in the
 [Apollo](../Apollo.1 "Apollo") genome annotation curation tool.
 Supporting evidence is shown in the upper dark panel. Gene annotations
 are shown in the blue panel.
-
-
-
 
 
 
@@ -264,16 +234,6 @@ rel="nofollow">http://weatherby.genetics.utah.edu/cgi-bin/mwas/maker.cgi</a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MAKER/tool_data&oldid=24514>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tool data](../Category%3ATool_data "Category%3ATool data")
@@ -286,19 +246,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -311,9 +259,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -324,24 +269,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -358,9 +288,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -369,9 +296,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -391,21 +315,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/MAKER-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -171,9 +147,6 @@ between 1 and 100. A test script to test that functionality is as simple
 as:
 
 
-
-
-
 ``` de1
 #!/usr/bin/perl -w
 use Test::Simple tests => 2;
@@ -182,9 +155,6 @@ use Mylib qw (function1);
 ok (function1() >= 1); 
 ok (function1() <= 100);
 ```
-
-
-
 
 
 when you run this, you should get something like:
@@ -208,9 +178,6 @@ will hopefully have hundreds of tests, so `ok()` allows you to provide
 some useful descriptive text for them too:
 
 
-
-
-
 ``` de1
 #!/usr/bin/perl -w
 use Test::Simple tests => 2; 
@@ -219,9 +186,6 @@ use Mylib qw (function1);
 ok (function1() >= 1, "function1()'s return value is greater than or equal to 1");
 ok (function1() >= 100, "and it's less than or equal to 100");
 ```
-
-
-
 
 
 which will now give:
@@ -247,9 +211,6 @@ checks for pod coverage in your distribution, and is trivial to use.
 Just create a .t file with the following content:
 
 
-
-
-
 ``` de1
 use Test::More; 
 eval "use Test::Pod::Coverage 1.00"; 
@@ -263,17 +224,11 @@ for my $module (@modules) {
 ```
 
 
-
-
-
 This will test all of your modules for pod coverage. To test that the
 pod documentation is syntactically correct, use Test::Pod
 (<a href="http://search.cpan.org/dist/Test-Pod/" class="external free"
 rel="nofollow">http://search.cpan.org/dist/Test-Pod/</a>), which again
 can be easily used, with a .t file containing:
-
-
-
 
 
 ``` de1
@@ -282,9 +237,6 @@ eval "use Test::Pod 1.00";
 plan skip_all => "This is not an error, Test::Pod 1.00 is required for testing POD" if $@; 
 all_pod_files_ok();
 ```
-
-
-
 
 
 This test file will test that all of the pod in any files with a .pm or
@@ -337,16 +289,6 @@ will allow you to determine where your bottlenecks are.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Perl_Testing_-_by_Gavin_Sherlock&oldid=22094>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
@@ -357,22 +299,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -383,9 +310,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Perl_Testing_-_by_Gavin_Sherlock&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -399,27 +323,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -434,9 +340,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -445,9 +348,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -467,25 +367,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Perl_Testing_-2D_by_Gavin_Sherlock"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -503,9 +388,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

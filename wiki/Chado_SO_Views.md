@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Starting with the GMOD 1.1 release, Chado has a set of views to make
@@ -54,9 +33,6 @@ identified as having a feature.type_id of the name of the view, or a
 type_id that IS_A type child of the name of the view, it is found.
 
 For example, the following view is for all exons in the feature table:
-
-
-
 
 
 ``` de1
@@ -79,9 +55,6 @@ CREATE VIEW exon AS
 ```
 
 
-
-
-
 Essentially, it is a way of taking advantage of the structure of the
 ontology without calculating the
 [closure](Chado_CV_Module#Transitive_Closure "Chado CV Module"). Of
@@ -90,16 +63,6 @@ particular version of the Sequence Ontology, and if it changes, the
 views will need to be updated as well.
 
 # <span id="Some_example_queries" class="mw-headline">Some example queries</span>
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_SO_Views&oldid=22163>"
-
-
-
 
 
 
@@ -114,22 +77,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -140,9 +88,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_SO_Views&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -156,27 +101,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -191,9 +118,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -202,9 +126,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -224,25 +145,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_SO_Views" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -260,9 +166,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

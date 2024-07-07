@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [JBrowseDev/Main](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Main&redirect=no "JBrowseDev/Main"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -49,12 +25,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/400px-JBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/600px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/JBrowseLogo.png 2x"
 width="400" height="88" alt="JBrowse logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -69,9 +39,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -111,9 +78,6 @@ Resources
   rel="nofollow">Demo server</a>
 
   
-
-
-
 
 
 
@@ -193,16 +157,10 @@ rel="nofollow">JBrowse website</a>.
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
 
-
-
-
 <a href="../File:JBrowse_alignment_and_coverage.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage.png" /></a>
-
-
-
 
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
@@ -453,16 +411,6 @@ See [Category%3AJBrowse](../Category%3AJBrowse "Category%3AJBrowse")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse&oldid=27090>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](../Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -477,23 +425,11 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse](../Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
 
 [Available on platform](../Property%3AAvailable_on_platform "Property:Available on platform")
-
-
-
-
-
-
 
 
 
@@ -564,16 +500,7 @@ user's web browser, with minimal requirements for the server.
 
 
 
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -584,9 +511,6 @@ user's web browser, with minimal requirements for the server.
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -600,27 +524,9 @@ user's web browser, with minimal requirements for the server.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -637,9 +543,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -648,9 +551,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -670,25 +570,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowse" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -706,9 +591,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

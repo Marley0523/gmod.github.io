@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") is a
@@ -44,9 +23,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 viewer. This page provides help on using GBrowse_syn. See the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") page for other information on
 GBrowse_syn.
-
-
-
 
 
 ## Contents
@@ -166,17 +142,11 @@ width="516" height="43" alt="GBS Display Mode2.png" /></a>
   Settings" section
 
 
-
-
-
 <a href="File:GBS_expanded.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/GBS_expanded.png/800px-GBS_expanded.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBS_expanded.png 2x"
 width="800" height="416" /></a>
-
-
-
 
 
 <a href="File:GBS_expanded.png" class="internal" title="Enlarge"><img
@@ -192,20 +162,11 @@ until all aligned species are shown
 
 
 
-
-
-
-
-
-
 <a href="File:GBS_compact.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f3/GBS_compact.png/800px-GBS_compact.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/GBS_compact.png 2x"
 width="800" height="500" /></a>
-
-
-
 
 
 <a href="File:GBS_compact.png" class="internal" title="Enlarge"><img
@@ -215,9 +176,6 @@ height="11" /></a>
 
 
 Display mode: All species on a single panel
-
-
-
 
 
 
@@ -260,17 +218,11 @@ width="222" height="27" alt="GBS chain.png" /></a>
   translocations, nested inversions, etc.
 
 
-
-
-
 <a href="File:GBS_chained.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/95/GBS_chained.png/800px-GBS_chained.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/GBS_chained.png 2x"
 width="800" height="429" /></a>
-
-
-
 
 
 <a href="File:GBS_chained.png" class="internal" title="Enlarge"><img
@@ -284,16 +236,10 @@ Chained aligments
 
 
 
-
-
-
   
 <a href="File:GBS_nochain.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/GBS_nochain.png" class="thumbborder"
 width="221" height="28" alt="GBS nochain.png" /></a>
-
-
-
 
 
 <a href="File:GBS_unchained.png" class="image"><img
@@ -303,9 +249,6 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="800" height="448" /></a>
 
 
-
-
-
 <a href="File:GBS_unchained.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
@@ -313,9 +256,6 @@ height="11" /></a>
 
 
 Unchained aligments
-
-
-
 
 
 
@@ -337,17 +277,11 @@ width="274" height="30" alt="GBS flip.png" /></a>
   determined by the number of (+) vs (-) aligned base pairs.
 
 
-
-
-
 <a href="File:GBS_flipped.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GBS_flipped.png/800px-GBS_flipped.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GBS_flipped.png 2x"
 width="800" height="367" /></a>
-
-
-
 
 
 <a href="File:GBS_flipped.png" class="internal" title="Enlarge"><img
@@ -363,20 +297,11 @@ comparison of gene order
 
 
 
-
-
-
-
-
-
 <a href="File:GBS_unflipped.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/18/GBS_unflipped.png/800px-GBS_unflipped.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/GBS_unflipped.png 2x"
 width="800" height="367" /></a>
-
-
-
 
 
 <a href="File:GBS_unflipped.png" class="internal" title="Enlarge"><img
@@ -386,9 +311,6 @@ height="11" /></a>
 
 
 Reverse strand panel keo in original orientation
-
-
-
 
 
 
@@ -409,17 +331,11 @@ width="168" height="30" alt="GBS lines.png" /></a>
   lines between species.
 
 
-
-
-
 <a href="File:GBS_noglines.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/GBS_noglines.png/800px-GBS_noglines.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/GBS_noglines.png 2x"
 width="800" height="220" /></a>
-
-
-
 
 
 <a href="File:GBS_noglines.png" class="internal" title="Enlarge"><img
@@ -434,20 +350,11 @@ Alignment of *C. elegans* and *C. remanei*, showing the R193.2 gene
 
 
 
-
-
-
-
-
-
 <a href="File:GBS_glines.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/GBS_glines.png/800px-GBS_glines.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/GBS_glines.png 2x"
 width="800" height="220" /></a>
-
-
-
 
 
 <a href="File:GBS_glines.png" class="internal" title="Enlarge"><img
@@ -458,9 +365,6 @@ height="11" /></a>
 
 The same alignment with grid-lines turned on. Note the large gain/loss
 of intron sequence
-
-
-
 
 
 
@@ -477,17 +381,11 @@ width="142" height="32" alt="GBS edges.png" /></a>
   aligned blocks
 
 
-
-
-
 <a href="File:GBS_edgeson.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/GBS_edgeson.png/800px-GBS_edgeson.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/GBS_edgeson.png 2x"
 width="800" height="400" /></a>
-
-
-
 
 
 <a href="File:GBS_edgeson.png" class="internal" title="Enlarge"><img
@@ -501,9 +399,6 @@ An alignment view with edges on grid-lines and shading off
 
 
 
-
-
-
   
 
 ### <span id="Shading" class="mw-headline">Shading</span>
@@ -513,17 +408,11 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 width="158" height="34" alt="GBS shading.png" /></a>
 
 
-
-
-
 <a href="File:GBS_shadingon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GBS_shadingon.png/800px-GBS_shadingon.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GBS_shadingon.png 2x"
 width="800" height="400" /></a>
-
-
-
 
 
 <a href="File:GBS_shadingon.png" class="internal" title="Enlarge"><img
@@ -537,20 +426,7 @@ An alignment view with shading on and grid-lines and edges off
 
 
 
-
-
-
   
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Help&oldid=9100>"
-
-
-
 
 
 
@@ -564,22 +440,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -590,9 +451,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_Help&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -606,27 +464,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -641,9 +481,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -652,9 +489,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -674,25 +508,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Help" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -710,9 +529,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

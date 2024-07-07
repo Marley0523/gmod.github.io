@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -248,9 +224,6 @@ a database unique key (genus and species in the case of organisms)
   
 
 
-
-
-
 ``` de1
  <feature>
    ..
@@ -263,9 +236,6 @@ a database unique key (genus and species in the case of organisms)
    </organism_id>
  </feature>
 ```
-
-
-
 
 
   
@@ -284,9 +254,6 @@ The document can be normalised using **Macros**.
 **Example:** Example Macro:
 
 
-
-
-
 ``` de1
  <chado>
   <organism id="Drosophila__Melanogaster">
@@ -299,9 +266,6 @@ The document can be normalised using **Macros**.
     <organism_id>Drosophila__Melanogaster</organism_id>
     ..
 ```
-
-
-
 
 
 The algorithm for using macros is fairly simple - simply replace any
@@ -380,16 +344,6 @@ form or variant should be fully qualified.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_XML&oldid=22225>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
@@ -401,22 +355,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -427,9 +366,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_XML&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -443,27 +379,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -478,9 +396,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -489,9 +404,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -511,25 +423,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_XML" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -547,9 +444,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

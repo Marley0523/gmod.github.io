@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">WebGBrowse/tool data</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This page stores the data that populates the
@@ -83,17 +62,11 @@ rel="nofollow">WebGBrowse at CGB</a>.
 \| screenshot =
 
 
-
-
-
 <a href="../File:WebGBrowseAddTrack.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/300px-WebGBrowseAddTrack.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/450px-WebGBrowseAddTrack.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/600px-WebGBrowseAddTrack.jpg 2x"
 width="300" height="111" /></a>
-
-
-
 
 
 <a href="../File:WebGBrowseAddTrack.jpg" class="internal"
@@ -104,9 +77,6 @@ height="11" /></a>
 
 
 _Add new track_ dialog in WebGBrowse
-
-
-
 
 
 
@@ -182,16 +152,6 @@ see_also = \| demo_server = \|release date=2009 \| survey_link =
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=WebGBrowse/tool_data&oldid=24516>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tool data](../Category%3ATool_data "Category%3ATool data")
@@ -208,19 +168,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -233,9 +181,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -246,24 +191,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -280,9 +210,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -291,9 +218,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -313,21 +237,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/WebGBrowse-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
 
 
 

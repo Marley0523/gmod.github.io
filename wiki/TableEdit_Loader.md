@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -85,9 +61,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
     <span class="toctext">mergeRows</span>](#mergeRows)
   - [<span class="tocnumber">6.4</span>
     <span class="toctext">clearOldRows</span>](#clearOldRows)
-
-
-
 
 
 **Author** : *Daniel Renfro*
@@ -160,9 +133,6 @@ a basic script which will:
     `loadFromFile()`)
 
 
-
-
-
 ``` de1
 <?php
 /* 
@@ -195,9 +165,6 @@ if(isset($options['w'])){
  
 ?>
 ```
-
-
-
 
 
 ### <span id="running_the_script_.28loading_information_into_the_wiki.29" class="mw-headline">running the script (loading information into the wiki)</span>
@@ -370,9 +337,6 @@ They are disjoint.</p></td>
 #### <span id="do_misc_features" class="mw-headline">do_misc_features</span>
 
 
-
-
-
 ``` de1
 public function do_misc_features( $array ){
     foreach ($array as $name => $feature) {
@@ -387,15 +351,9 @@ public function do_misc_features( $array ){
 ```
 
 
-
-
-
   
 
 #### <span id="appendRow" class="mw-headline">appendRow</span>
-
-
-
 
 
 ``` de1
@@ -407,15 +365,9 @@ public function appendRow($new_row_obj){
 ```
 
 
-
-
-
   
 
 #### <span id="mergeRows" class="mw-headline">mergeRows</span>
-
-
-
 
 
 ``` de1
@@ -446,15 +398,9 @@ public function mergeRows($new_row_obj){
 ```
 
 
-
-
-
   
 
 #### <span id="clearOldRows" class="mw-headline">clearOldRows</span>
-
-
-
 
 
 ``` de1
@@ -475,31 +421,9 @@ function clearOldRows($box, $time){
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=TableEdit_Loader&oldid=22198>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -510,12 +434,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -523,9 +441,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:TableEdit_Loader&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -539,27 +454,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -574,9 +471,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -585,9 +479,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -607,25 +498,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit_Loader" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -643,9 +519,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

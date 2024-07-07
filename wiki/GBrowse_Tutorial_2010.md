@@ -2,28 +2,10 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
-
-
-
 # <span dir="auto">GBrowse Tutorial 2010</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -33,17 +15,11 @@ From GMOD
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
 \| who = [Scott Cain](User%3AScott "User%3AScott") \| when = May 2010 \|
 logo = GBrowseLogo.png
-
-
-
 
 
 ## Contents
@@ -195,16 +171,6 @@ obscure answers:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_Tutorial_2010&oldid=21807>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
@@ -215,19 +181,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -240,9 +194,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -253,24 +204,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -285,9 +221,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -296,9 +229,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -318,21 +248,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
 
 
 

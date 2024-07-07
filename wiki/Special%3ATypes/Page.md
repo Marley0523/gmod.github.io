@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -20,16 +11,7 @@
 
 
 
-
-
-
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <span id="SMWResults"></span>
@@ -56,22 +38,7 @@ Showing 3 properties using this type.
 
 
 
-
-
-
 Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Page](Page)"
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -81,19 +48,10 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Page](Page)"
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
   page](Page "This is a special page, you cannot edit the page itself")</span>
-
-
-
 
 
 ### 
@@ -108,30 +66,9 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Page](Page)"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -148,9 +85,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -159,9 +93,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -181,19 +112,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
 
 
 
@@ -204,9 +123,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

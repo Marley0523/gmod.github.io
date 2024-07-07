@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:GBrowseLogo.png" class="image" title="GBrowse"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
 width="250" height="59" alt="GBrowse" /></a>
-
-
-
 
 
 This [GBrowse Next Generation Sequencing](GBrowse.1 "GBrowse") tutorial
@@ -69,9 +42,6 @@ Sequencing](Next_Generation_Sequencing "Next Generation Sequencing")
 rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam.
 
   
-
-
-
 
 
 ## Contents
@@ -1087,16 +1057,10 @@ rel="nofollow">http://172.16.108.129/gb2/gbrowse/human</a>
 You should see something like this:
 
 
-
-
-
 <a href="File:GBrowseSAMtools1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/600px-GBrowseSAMtools1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/900px-GBrowseSAMtools1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/GBrowseSAMtools1.png 2x"
 width="600" height="553" alt="GBrowseSAMtools1.png" /></a>
-
-
-
 
 
 Play around with it a little. Enable different tracks, scroll and zoom
@@ -1169,9 +1133,6 @@ So, we write a quick and dirty script to fix the file:
 Create a file called `relocate.py` and populate it with this code:
 
 
-
-
-
 ``` de1
 #!/usr/bin/env /usr/bin/python
 # -*- coding: iso-8859-1 -*-
@@ -1232,9 +1193,6 @@ while (line):
  
 sys.exit(0)
 ```
-
-
-
 
 
 And run it:
@@ -1330,16 +1288,10 @@ experimenting with the configuration file.
 You should see something like:
 
 
-
-
-
 <a href="File:GBrowseSAMtoolsCoverageXY.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/600px-GBrowseSAMtoolsCoverageXY.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/900px-GBrowseSAMtoolsCoverageXY.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/GBrowseSAMtoolsCoverageXY.png 2x"
 width="600" height="647" alt="GBrowseSAMtoolsCoverageXY.png" /></a>
-
-
-
 
 
 This shows the read coverage. We told GBrowse to flag any read depth
@@ -1388,16 +1340,10 @@ Save your changes, hit the "**\[Reset\]**" link, and turn on the "Reads"
 track. It should look like:
 
 
-
-
-
 <a href="File:GBrowseSAMtoolsReads1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/600px-GBrowseSAMtoolsReads1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/900px-GBrowseSAMtoolsReads1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/GBrowseSAMtoolsReads1.png 2x"
 width="600" height="900" alt="GBrowseSAMtoolsReads1.png" /></a>
-
-
-
 
 
 Zoom in. When you get close to about 100bp resolution, you'll see the
@@ -1470,26 +1416,10 @@ Reset GBrowse and test this.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_NGS_Tutorial&oldid=22189>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-
-
-
-
-
-
 
 
 
@@ -1507,22 +1437,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1531,9 +1446,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_NGS_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1547,27 +1459,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1582,9 +1476,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1593,9 +1484,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1615,25 +1503,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_NGS_Tutorial" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1651,9 +1524,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

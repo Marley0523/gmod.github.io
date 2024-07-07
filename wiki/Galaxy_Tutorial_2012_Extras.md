@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">Galaxy Tutorial 2012 Extras</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,17 +19,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 Items shown on this page were part of earlier drafts of the [2012 Summer
 School Galaxy workshop](Galaxy_Tutorial_2012 "Galaxy Tutorial 2012").
 They were moved here either in the interests of time, or because they no
 longer fit well with other content. However, these sections are still
 informative.
-
-
-
 
 
 
@@ -131,16 +107,10 @@ To populate this directory with common UCSC builds, run the following
 commands:
 
 
-
-
-
 ``` de1
 mkdir ./tool-data/shared/ucsc/chrom/
 python ./cron/build_chrom_db.py ./tool-data/shared/ucsc/chrom/
 ```
-
-
-
 
 
 To display a build's genome data (i.e. bases/nucleotides) when
@@ -193,9 +163,6 @@ And then using a [text editor](Linux_Text_Editors "Linux Text Editors"),
 create `tools/gmod_2012/sam_filter.py` containing:
 
 
-
-
-
 ``` de1
 #!/usr/bin/env python
  
@@ -222,16 +189,10 @@ for line in open( sys.argv[1] ):
 ```
 
 
-
-
-
 ### <span id="The_tool_wrapper" class="mw-headline">The tool wrapper</span>
 
 Next, we need to create the tool configuration. Edit the file
 `tools/gmod_2012/sam_filter.xml` and start with the following skeleton:
-
-
-
 
 
 ``` de1
@@ -249,14 +210,8 @@ Next, we need to create the tool configuration. Edit the file
 ```
 
 
-
-
-
 First, let's define the output. This tool has a single output, of type
 `sam`, so we modify the configuration to contain:
-
-
-
 
 
 ``` de1
@@ -274,9 +229,6 @@ First, let's define the output. This tool has a single output, of type
 ```
 
 
-
-
-
 The name can be anything, but it will be used later to identify the
 output file in the command line. Second, let's define the following
 inputs
@@ -286,9 +238,6 @@ inputs
 - An input value, which can be any text
 
 The resulting configuration:
-
-
-
 
 
 ``` de1
@@ -312,16 +261,10 @@ The resulting configuration:
 ```
 
 
-
-
-
 Finally, we define how to construct our command line based on values for
 the inputs. The command line is a template, where we can substitute in
 the value of each input (filenames in the case of datasets). Thus our
 final tool configuration is:
-
-
-
 
 
 ``` de1
@@ -345,14 +288,8 @@ final tool configuration is:
 ```
 
 
-
-
-
 We now need to modify `tool_conf.xml` to register our new tool and run
 Galaxy. Modify the top of `tool_conf.xml` to look like:
-
-
-
 
 
 ``` de1
@@ -363,9 +300,6 @@ Galaxy. Modify the top of `tool_conf.xml` to look like:
   </section>
   ...
 ```
-
-
-
 
 
 and run Galaxy using
@@ -651,16 +585,6 @@ height="580" alt="GalaxyExtras Fetch 3.png" /></a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial_2012_Extras&oldid=22230>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
@@ -671,22 +595,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -697,9 +606,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy_Tutorial_2012_Extras&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -713,27 +619,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -748,9 +636,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -759,9 +644,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -781,25 +663,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012_Extras"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -817,9 +684,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

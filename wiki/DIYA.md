@@ -2,28 +2,10 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
-
-
-
 # <span dir="auto">DIYA</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -34,21 +16,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
-
-
-
 <a href="File:DIYALogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/DIYALogo.png" width="400" height="400"
 alt="DIYA logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -63,9 +33,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -99,9 +66,6 @@ Interoperable Components
 
 
 - - [GBrowse](GBrowse.1 "GBrowse")
-
-
-
 
 
 
@@ -183,16 +147,6 @@ DIYA: a bacterial annotation pipeline for any genomics lab.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=DIYA&oldid=24739>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -202,12 +156,6 @@ Retrieved from
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-
-
-
-
-
-
 
 
 
@@ -446,19 +394,7 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -471,9 +407,6 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -484,24 +417,9 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -516,9 +434,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -527,9 +442,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -549,20 +461,11 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/DIYA" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
 
 
 

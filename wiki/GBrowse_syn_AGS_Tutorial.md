@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:GBrowse_syn_logo.png" class="image"
@@ -49,9 +25,6 @@ title="GBrowse_syn"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse_syn" /></a>
-
-
-
 
 
 This [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented
@@ -72,17 +45,11 @@ the standard GBrowse package (version 1.69 and later).
   
 
 
-
-
-
 <a href="File:Gbrowse_syn2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/300px-Gbrowse_syn2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/450px-Gbrowse_syn2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/Gbrowse_syn2.png/600px-Gbrowse_syn2.png 2x"
 width="300" height="171" /></a>
-
-
-
 
 
 <a href="File:Gbrowse_syn2.png" class="internal" title="Enlarge"><img
@@ -96,9 +63,6 @@ GBrowse_syn as it looks at The Arabidopsis Information Resource (TAIR)
 
 
 
-
-
-
 Working examples of GBrowse_syn can be seen at <a
 href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501;search_src=thaliana"
 class="external text" rel="nofollow">TAIR</a> and <a
@@ -106,9 +70,6 @@ href="http://dev.wormbase.org/db/seq/gbrowse_syn/compara?search_src=Cele;name=X:
 class="external text" rel="nofollow">WormBase</a>.
 
   
-
-
-
 
 
 ## Contents
@@ -232,9 +193,6 @@ with [GBrowse 2.0 installation](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").
     $ sudo cpan -i Bio::Graphics::Browser2
 
 
-
-
-
 Note: Gbrowse 2 has been pre-installed for this demonstration
 
 
@@ -246,17 +204,11 @@ Note: Gbrowse 2 has been pre-installed for this demonstration
   one below, which is the default yeast data source.
 
 
-
-
-
 <a href="File:GBrowse2_installed.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ce/GBrowse2_installed.png/600px-GBrowse2_installed.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/GBrowse2_installed.png 2x"
 width="600" height="375" /></a>
-
-
-
 
 
 <a href="File:GBrowse2_installed.png" class="internal"
@@ -272,9 +224,6 @@ GBrowse
 
 
 
-
-
-
   
 
 - Point your browser to
@@ -282,17 +231,11 @@ GBrowse
   rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn</a>
 
 
-
-
-
 <a href="File:GBrowse_synWelcom.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/600px-GBrowse_synWelcom.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GBrowse_synWelcom.png 2x"
 width="600" height="375" /></a>
-
-
-
 
 
 <a href="File:GBrowse_synWelcom.png" class="internal"
@@ -305,9 +248,6 @@ height="11" /></a>
 This is the welcome screen you should see after installing a new copy of
 GBrowse_syn with no configured data sources. It contains instructions on
 how to set up the example data source provided with the distribution.
-
-
-
 
 
 
@@ -538,9 +478,6 @@ rel="nofollow">http://localhost/cgi-bin/gb2/gbrowse_syn/oryza</a>. You
 should see:
 
 
-
-
-
 <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
@@ -553,9 +490,6 @@ width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
 
 
 4\) Click on the first example, you should (eventually) see:
-
-
-
 
 
 <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
@@ -1012,27 +946,11 @@ alt="IPlant.png" /></a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_AGS_Tutorial&oldid=21877>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
-
-
-
-
-
-
 
 
 
@@ -1050,22 +968,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1076,9 +979,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_AGS_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1092,27 +992,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1127,9 +1009,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1138,9 +1017,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1160,25 +1036,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_AGS_Tutorial"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1196,9 +1057,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 
