@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -616,9 +592,6 @@ the name to something sensible, such as **kegg-pathways**.
 Click on **open parser to edit** and paste in the script below:
 
 
-
-
-
 ``` de1
 #!/usr/bin/perl
  
@@ -700,9 +673,6 @@ $document->close();
  
 exit;
 ```
-
-
-
 
 
 #### <span id="Additions" class="mw-headline">Additions</span>
@@ -1164,9 +1134,6 @@ height="82" alt="Getting-query-xml.png" /></a>
 Which in the case of our pathways query would look like this:
 
 
-
-
-
 ``` de1
 <query name="" model="genomic" view="Pathway.identifier Pathway.name Pathway.genes.primaryIdentifier Pathway.genes.symbol" 
   longDescription="For a specified KEGG, REACTOME or FlyReactome pathway, list all the genes that are involved for a particular organism" 
@@ -1177,9 +1144,6 @@ Which in the case of our pathways query would look like this:
   <constraint path="Pathway.genes.organism.name" code="C" op="=" value="Drosophila melanogaster"/>
 </query>
 ```
-
-
-
 
 
 To run the xml you got, then use the *run-im-query* program:
@@ -1252,9 +1216,6 @@ The following is the complete code you would get by clicking on the
 **Perl** link above:
 
 
-
-
-
 ``` de1
 use Webservice::InterMine 0.9412 'http://www.flymine.org/release-27.0/service';
  
@@ -1286,13 +1247,7 @@ print $results."\n";
 ```
 
 
-
-
-
 The equivalent **Java** query would look like this:
-
-
-
 
 
 ``` de1
@@ -1352,16 +1307,10 @@ public class TemplatePathwayGenes
 ```
 
 
-
-
-
 ### <span id="Accessing_Queries" class="mw-headline">Accessing Queries</span>
 
 The **Perl** to access the same underlying query as that above using the
 query service would look like this:
-
-
-
 
 
 ``` de1
@@ -1414,13 +1363,7 @@ print $query->results(as => 'string')."\n";
 ```
 
 
-
-
-
 The equivalent **Java** would look like this:
-
-
-
 
 
 ``` de1
@@ -1496,9 +1439,6 @@ public class QueryClient
 ```
 
 
-
-
-
 ## <span id="Data_Formats" class="mw-headline">Data Formats</span>
 
 Thus far we have received all our results as tab-delimited rows of data,
@@ -1521,15 +1461,9 @@ xml
 Structured data format with the structure
 
 
-
-
-
 ``` de1
 <ResultSet><Row><i></i>...</Row>...</ResultSet>
 ```
-
-
-
 
 
 ### <span id="Record_Based_Formats" class="mw-headline">Record Based Formats</span>
@@ -1540,9 +1474,6 @@ references and collections: see
 <a href="http://intermine.org/wiki/JSONRowFormat" class="external free"
 rel="nofollow">http://intermine.org/wiki/JSONRowFormat</a> for more. You
 can see an example of the results in this format below:
-
-
-
 
 
 ``` de1
@@ -1583,9 +1514,6 @@ can see an example of the results in this format below:
 ```
 
 
-
-
-
 ### <span id="Getting_the_Total" class="mw-headline">Getting the Total</span>
 
 Set the format to **count**
@@ -1598,9 +1526,6 @@ rel="nofollow">http://www.intermine.org/imbedding</a>) which enables
 queries to any Mine webservice from any browser, and display tables of
 data inline. Please look at the imbedding tutorial to see more, but an
 example is included below as a demonstration:
-
-
-
 
 
 ``` de1
@@ -1639,19 +1564,6 @@ example is included below as a demonstration:
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=InterMine_Tutorial_2011&oldid=23075>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [2011 Spring
@@ -1664,22 +1576,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1690,9 +1587,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:InterMine_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1706,27 +1600,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1741,9 +1617,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1752,9 +1625,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1774,25 +1644,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1810,9 +1665,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

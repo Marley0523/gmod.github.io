@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 ## <span id="Add_to_the_Agenda_Suggestions" class="mw-headline">Add to the Agenda Suggestions</span>
@@ -63,32 +42,10 @@ Ah yes, I'm a little slow this morning.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Talk%3AJanuary_2010_GMOD_Meeting&oldid=10786>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -97,9 +54,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AJanuary_2010_GMOD_Meeting" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -113,27 +67,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -148,9 +84,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -159,9 +92,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -181,22 +111,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -215,9 +130,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

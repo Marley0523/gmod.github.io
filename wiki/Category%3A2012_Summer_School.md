@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Information on and tutorials from the 2012 GMOD Summer School.
@@ -43,19 +22,10 @@ Information on and tutorials from the 2012 GMOD Summer School.
   
 
 
-
-
-
 <a href="File:Summer-school-splash.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/32/Summer-school-splash.jpg/600px-Summer-school-splash.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg 2x"
 width="600" height="304" alt="Summer-school-splash.jpg" /></a>
-
-
-
-
-
-
 
 
 
@@ -146,35 +116,7 @@ title="WebApollo Tutorial 2012">WebApollo Tutorial 2012</a></li>
 
 
 
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3A2012_Summer_School&oldid=21661>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -188,9 +130,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -202,27 +141,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -237,9 +158,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -248,9 +166,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -270,25 +185,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3A2012_Summer_School"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -306,9 +206,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

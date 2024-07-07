@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 We are going to reorganize the [Chado related
@@ -50,9 +29,6 @@ Once the work starts, this page will also describe how the work is
 going.
 
   
-
-
-
 
 
 ## Contents
@@ -321,16 +297,6 @@ This will be placed at the top of the page.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Documentation_Reorganization&oldid=16344>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Proposals](Category%3AProposals "Category%3AProposals")
@@ -341,22 +307,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -365,9 +316,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AChado_Documentation_Reorganization" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -381,27 +329,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -416,9 +346,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -427,9 +354,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -449,25 +373,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Documentation_Reorganization"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -485,9 +394,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

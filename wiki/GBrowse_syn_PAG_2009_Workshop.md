@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:GBrowse_syn_logo.png" class="image"
@@ -49,9 +25,6 @@ title="GBrowse syn"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
 width="250" height="80" alt="GBrowse syn" /></a>
-
-
-
 
 
 This [Comparative Genomics with GBrowse_syn: A hands on workshop for
@@ -74,9 +47,6 @@ class="external text" rel="nofollow">GBrowse_syn workshop</a> at the
 rel="nofollow">Plant and Animal Genome XVII Conference</a> ([PAG
 2009](PAG_2009 "PAG 2009")) held in San Diego on January 10-14, 2009.
 This workshop was attended by almost 70 people.
-
-
-
 
 
 ## Contents
@@ -183,9 +153,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="48" alt="Windoze" /></a>
 
 
-
-
-
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
 alt="Linux" /></a>
@@ -288,28 +255,12 @@ in San Diego, immediately after PAG 2009.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn_PAG_2009_Workshop&oldid=21883>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Education and
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 - [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
-
-
-
-
-
-
 
 
 
@@ -327,22 +278,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -353,9 +289,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn_PAG_2009_Workshop&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -369,27 +302,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -404,9 +319,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -415,9 +327,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -437,25 +346,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_2009_Workshop"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -473,9 +367,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

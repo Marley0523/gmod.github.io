@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,12 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/400px-WebGBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/600px-WebGBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/800px-WebGBrowseLogo.png 2x"
 width="400" height="78" alt="WebGBrowse logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -75,9 +45,6 @@ Resources
   class="external text" rel="nofollow">Download</a>
 
   
-
-
-
 
 
 
@@ -160,17 +127,11 @@ rel="nofollow">WebGBrowse website</a>.
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
 
-
-
-
 <a href="File:WebGBrowseAddTrack.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/300px-WebGBrowseAddTrack.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/450px-WebGBrowseAddTrack.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/600px-WebGBrowseAddTrack.jpg 2x"
 width="300" height="111" /></a>
-
-
-
 
 
 <a href="File:WebGBrowseAddTrack.jpg" class="internal"
@@ -181,9 +142,6 @@ height="11" /></a>
 
 
 *Add new track* dialog in WebGBrowse
-
-
-
 
 
 
@@ -280,16 +238,6 @@ data](WebGBrowse/tool_data "WebGBrowse/tool data")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=WebGBrowse&oldid=24725>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -304,12 +252,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
-
-
-
-
-
-
 
 
 
@@ -535,22 +477,7 @@ title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebg
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -561,9 +488,6 @@ title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebg
   href="http://gmod.org/mediawiki/index.php?title=Talk:WebGBrowse&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -577,27 +501,9 @@ title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebg
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -612,9 +518,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -623,9 +526,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -645,25 +545,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebGBrowse" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -681,9 +566,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

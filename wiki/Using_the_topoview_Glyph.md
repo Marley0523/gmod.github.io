@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -50,18 +29,12 @@ It is maintained by
 rel="nofollow">Sheldon McKay &lt;sheldon.mckay@gmail.com&gt;</a>
 
 
-
-
-
 <a href="File:Topoview_sample.png" class="image"
 title="Sample topoview track"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/Topoview_sample.png/550px-Topoview_sample.png"
 class="thumbborder"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Topoview_sample.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Topoview_sample.png 2x"
 width="550" height="194" alt="Sample topoview track" /></a>
-
-
-
 
 
 <a href="File:Topoview_sample2.png" class="image"
@@ -80,9 +53,6 @@ reasonably sized track) and to allow easy visual detection of
 coordinated behavior of the expression profiles of different subsets.
 See the note below about normalizing the expression profiles across the
 whole experiment.
-
-
-
 
 
 ## Contents
@@ -400,16 +370,6 @@ sheldon.mckay@gmail.com
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Using_the_topoview_Glyph&oldid=27656>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Documentation](Category%3ADocumentation "Category%3ADocumentation")
@@ -424,22 +384,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -450,9 +395,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Using_the_topoview_Glyph&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -466,27 +408,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -501,9 +425,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -512,9 +433,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -534,25 +452,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_the_topoview_Glyph"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -570,9 +473,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

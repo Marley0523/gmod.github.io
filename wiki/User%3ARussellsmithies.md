@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 **Russell Smithies**
-
-
-
 
 
 <a href="File:Russell_smithies.jpg" class="image"><img
@@ -51,9 +27,6 @@ width="220" height="170" /></a>
 
 
 Russell Smithies
-
-
-
 
 
 
@@ -76,32 +49,10 @@ www.agresearch.co.nz
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=User%3ARussellsmithies&oldid=7403>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -115,9 +66,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -129,27 +77,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -164,9 +94,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -175,9 +102,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -197,25 +121,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ARussellsmithies" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -233,9 +142,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

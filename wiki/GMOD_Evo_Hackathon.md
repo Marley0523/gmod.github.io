@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
@@ -82,9 +61,6 @@ The [Open Call for
 Participation](GMOD_Evo_Hackathon_Open_Call "GMOD Evo Hackathon Open Call")
 went out on August 1, 2010, and remained open until August 25.
 Participants have been selected and notified of their status.
-
-
-
 
 
 ## Contents
@@ -464,17 +440,11 @@ available to defray costs for qualified participants.
 # <span id="March_2011_Satellite" class="mw-headline">March 2011 Satellite</span>
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/300px-2011GMODAmericasSatellitesLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/450px-2011GMODAmericasSatellitesLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png 2x"
 width="300" height="119"
 alt="Satellite Meetings at GMOD Americas 2011" />](Satellite_Meetings_-_GMOD_Americas_2011 "Satellite Meetings at GMOD Americas 2011")
-
-
-
 
 
 We are planning a followup gathering as a [Satellite
@@ -557,16 +527,6 @@ boundaries.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Evo_Hackathon&oldid=26800>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Evolution](Category%3AEvolution "Category%3AEvolution")
@@ -580,22 +540,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -606,9 +551,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Evo_Hackathon&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -622,27 +564,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -657,9 +581,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -668,9 +589,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -690,25 +608,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Evo_Hackathon" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -726,9 +629,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

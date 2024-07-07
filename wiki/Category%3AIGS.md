@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -59,19 +35,6 @@ This category contains only the following page.
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AIGS&oldid=12337>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
@@ -81,22 +44,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -110,9 +58,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -124,27 +69,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -159,9 +86,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -170,9 +94,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -192,25 +113,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AIGS" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -228,9 +134,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

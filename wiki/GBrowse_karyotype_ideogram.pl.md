@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 # <span id="How_to_get_cytoband_data_for_the_ideogram_glyph_of_GBrowse_karyotype" class="mw-headline">How to get cytoband data for the ideogram glyph of [GBrowse_karyotype](GBrowse_karyotype "GBrowse karyotype")</span>
@@ -47,9 +26,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - Below is a perl script that can be used to grab the cytoband data from
   ensembl's public ftp server at ensembldb.ensembl.org.
 - It is included with the GBrowse_karyotype distribution
-
-
-
 
 
 ``` de1
@@ -153,9 +129,6 @@ print $segments,$chroms,$gff;
 ```
 
 
-
-
-
 ## <span id="Other_information" class="mw-headline">Other information</span>
 
 - Currently ideograms for human, rat and mouse are available
@@ -165,16 +138,6 @@ print $segments,$chroms,$gff;
 
     mysql -uanonymous -hensembldb.ensembl.org -e 'show databases' \
     | grep core | grep 'sapiens\|rattus\|mus' | grep -v 'expression'
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_karyotype_ideogram.pl&oldid=22104>"
-
-
-
 
 
 
@@ -190,22 +153,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -216,9 +164,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_karyotype_ideogram.pl&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -232,27 +177,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -267,9 +194,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -278,9 +202,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -300,25 +221,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_karyotype_ideogram.pl"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -336,9 +242,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Bio%3A%3AChado%3A%3ASchema is a standard
@@ -52,9 +31,6 @@ Bio%3A%3AChado%3A%3ASchema is a standard set of Perl modules that should work
 with any database supported by DBIx::Class. So far, it has been used
 successfully with Chado schemas running on both PostgreSQL and Oracle.
 Please try it out and report back to the mailing list!
-
-
-
 
 
 ## Contents
@@ -137,28 +113,12 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Bio%3A%3AChado%3A%3ASchema&oldid=17580>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Middleware](Category%3AMiddleware "Category%3AMiddleware")
 - [Middleware
   Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
 - [Chado](Category%3AChado "Category%3AChado")
-
-
-
-
-
-
 
 
 
@@ -180,22 +140,7 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -204,9 +149,6 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 - <span id="ca-talk"><a href="Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -220,27 +162,9 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -255,9 +179,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -266,9 +187,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -288,25 +206,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -324,9 +227,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

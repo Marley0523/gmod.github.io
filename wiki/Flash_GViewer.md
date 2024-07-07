@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,9 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 title="Flash GViewer Logo"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Flash_gviewer_title.jpg" width="650"
 height="100" alt="Flash GViewer Logo" /></a>
-
-
-
 
 
   
@@ -64,9 +37,6 @@ tool. In addition the bands on the chromosomes can link to defineable
 URL and new region selection sliders can be used to select a specific
 chromosome region and then link out to a genome browser for higher
 resolution information.
-
-
-
 
 
 ## Contents
@@ -175,16 +145,6 @@ class="external text" rel="nofollow">Via the web from sourceforge</a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Flash_GViewer&oldid=25554>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
@@ -195,22 +155,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -221,9 +166,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Flash_GViewer&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -237,27 +179,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -272,9 +196,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -283,9 +204,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -305,25 +223,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -341,9 +244,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

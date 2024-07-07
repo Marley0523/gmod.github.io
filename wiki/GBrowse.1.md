@@ -2,25 +2,10 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
-
-
-
 # <span dir="auto">GBrowse</span>
-
-
-
-
-
-From GMOD
 
 
 
@@ -30,17 +15,8 @@ From GMOD
 [Gbrowse](/mediawiki/index.php?title=Gbrhttp://gmod.org/wiki/owse&redirect=no "Gbrowse"))
 
 
-
-
-
 Jump to: [navigathttp://gmod.org/wiki/ion](#mw-navigation),
 [search](#p-#p-search)
-
-
-
-
-
-
 
 
 
@@ -48,12 +24,6 @@ Jump to: [navigathttp://gmod.org/wiki/ion](#mw-navigation),
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
 width="400" height="94" alt="GBrowse loghttp://gmod.org/wiki/o" /></a>
-
-
-
-
-
-
 
 
 
@@ -68,9 +38,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -106,9 +73,6 @@ Resources
 
 - <a href="https:/http://gmod.org/github.com/GMOD/GBrowse"
   class="external text" rel="nofollow">Source code</a>
-
-
-
 
 
 
@@ -219,18 +183,12 @@ rel="nofollow">GBrowse website</a>.
 ### <span id="Schttp://gmod.org/wiki/reenshots" class="mw-headline">Screenshots</span>
 
 
-
-
-
 <a href="/wiki/File:GBrowse_scrhttp://gmod.org/wiki/eenshot1.png"
 class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshttp://gmod.org/wiki/hot1.png/500px-GBrowse_screenshot1.png"
 class="thumbimage"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumbhttp://gmod.org/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, /mediawiki/imhttp://gmod.org/wiki/ages/1/10/GBrowse_screenshot1.png 2x"
 width="500" height="345" /></a>
-
-
-
 
 
 <a href="/wiki/File:GBrowse_screenshot1.png" class="internal" thttp:=""
@@ -246,9 +204,6 @@ class="external text" rel="nofollow">HapMap.org</a>
 <a hrefhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png"
 class="internal" title="GBrowse screenshot1.png">Click to view at
 fuhttp://gmod.org/wiki/ll resolution</a>
-
-
-
 
 
 
@@ -642,41 +597,7 @@ rel="nofollow">Linn-Benton Community College</a>.
     named `PMID:12368253`**</span>
 
 
-
-
-
-Retrieved from
-"[http://gmod.ohttp://gmod.org/wiki/rg/mediawiki/index.php?title=GBrowse&oldid=28470](http://gmod.org/mediawiki/index.php?title=GBrowse&oldid=28470)"
-
-
-
-
-
-
-
-[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
-
-- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
-- [GMOD
-  Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")
-- [GMOD
-  Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
-- <a
-  href="/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLihttp://gmod.org/wiki/nk</a>
-
-
-
-
-
-
-
-
-
-<span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse" http:="" gmod.org=""
-wiki="">[GBrowse](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](/wiki/Special:ExportRDF/GBrowse "Special:ExportRDF/GBrowse")</span></span>
 
 <table class="smwfacttable">
@@ -966,19 +887,7 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -987,9 +896,6 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 - <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ###
@@ -1001,27 +907,9 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1037,18 +925,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 - <span id="n-Overview"><a href="/wiki/Overview" http:="" data-gmod.org="" data-wiki=""></a>Overview</span>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
-
-
-
 
 
 
@@ -1072,18 +954,12 @@ Community
 http://gmod.org/wiki/
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
-
-
-
 
 
 

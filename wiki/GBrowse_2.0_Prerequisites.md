@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Before [installing GBrowse
@@ -44,9 +23,6 @@ need to install some prerequisites on your system. Most prerequisites
 come as prepackaged binaries which can be installed from the command
 line or via GUI tools. This document describes the prerequisites for
 Linux, Mac OSX, and Microsoft Windows systems.
-
-
-
 
 
 ## Contents
@@ -352,28 +328,9 @@ In addition, the following optional Perl libraries are recommended:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_Prerequisites&oldid=27336>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -384,12 +341,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -397,9 +348,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_2.0_Prerequisites&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -413,27 +361,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -448,9 +378,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -459,9 +386,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -481,25 +405,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_Prerequisites"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -517,9 +426,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

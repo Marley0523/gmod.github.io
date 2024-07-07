@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [NGS](http://gmod.org/mediawiki/index.php?title=NGS&redirect=no "NGS"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -80,32 +59,10 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Next_Generation_Sequencing&oldid=15134>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -116,9 +73,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Next_Generation_Sequencing&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -132,27 +86,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -167,9 +103,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -178,9 +111,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -200,25 +130,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Next_Generation_Sequencing"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -236,9 +151,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

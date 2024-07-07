@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 #### <span id="Web-Apollo_Meeting_Agenda_.26_Minutes" class="mw-headline">Web-Apollo Meeting Agenda & Minutes</span>
@@ -48,9 +27,6 @@ href="http://gmod.org/mediawiki/index.php?title=Web-apollo-meeting-agenda-2010-1
 class="new"
 title="Web-apollo-meeting-agenda-2010-12-02 (page does not exist)">agenda</a>
 [minutes](Web-apollo-meeting-minutes-2010-12-02 "Web-apollo-meeting-minutes-2010-12-02")  
-
-
-
 
 
 ## Pages in category "Webapollo-minutes"
@@ -78,35 +54,7 @@ The following 6 pages are in this category, out of 6 total.
 
 
 
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AWebapollo-minutes&oldid=15155>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -120,9 +68,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -134,27 +79,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -169,9 +96,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -180,9 +104,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -202,25 +123,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AWebapollo-2Dminutes"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -238,9 +144,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

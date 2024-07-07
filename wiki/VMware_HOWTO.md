@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -60,9 +39,6 @@ VMware images are used in several places in GMOD:
   VMware images as starting points.
 
   
-
-
-
 
 
 ## Contents
@@ -95,9 +71,6 @@ VMware on Windows and Linux
 <a href="http://www.microsoft.com/" rel="nofollow" title="Windoze"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
 height="48" alt="Windoze" /></a>
-
-
-
 
 
 <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
@@ -192,9 +165,6 @@ If you are running a player from VMware (VMware Player or Fusion), the
 software will ask you if you moved or copied the image.
 
 
-
-
-
 You Moved It!
 
 
@@ -262,28 +232,9 @@ applications like Firefox and terminal.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=VMware_HOWTO&oldid=21743>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -294,12 +245,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -307,9 +252,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:VMware_HOWTO&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -323,27 +265,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -358,9 +282,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -369,9 +290,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -391,25 +309,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/VMware_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -427,9 +330,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

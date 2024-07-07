@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,40 +13,12 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 girlwithglasses is Amelia Ireland, who was the GMOD Community Support
 Specialist from July 2012 to May 2014.
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=User%3AGirlwithglasses&oldid=26016>"
-
-
-
-
-
-
-
-
-
 
 
 
@@ -68,21 +31,12 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 - <span id="ca-nstab-user"><a href="/wiki/User%3AGirlwithglasses" accesskey="c"
   title="View the user page [c]">User page</a></span>
 - <span id="ca-talk"><a href="/wiki/User_talk%3AGirlwithglasses" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -96,27 +50,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -133,9 +69,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -144,9 +77,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
-
-
-
 
 
 
@@ -167,25 +97,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/User%3AGirlwithglasses"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,9 +118,6 @@ title="Visit the main page"></a>
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

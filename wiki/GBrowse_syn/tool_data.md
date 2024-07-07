@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">GBrowse syn/tool data</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 \| name = GBrowse_syn \| full_name = Generic Synteny
@@ -52,17 +31,11 @@ and later).
 \| screenshot =
 
 
-
-
-
 <a href="../File:GBrowse_syn.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/500px-GBrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/750px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/1000px-GBrowse_syn.png 2x"
 width="500" height="160" /></a>
-
-
-
 
 
 <a href="../File:GBrowse_syn.png" class="internal" title="Enlarge"><img
@@ -72,9 +45,6 @@ height="11" /></a>
 
 
 GBrowse_syn, as implemented at WormBase
-
-
-
 
 
 
@@ -237,29 +207,13 @@ rel="nofollow">http://mckay.cshl.edu/cgi-bin/gbrowse_syn/mercator/?search_src=Cb
 Included in
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
 
 
-
-
-
 **Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_syn/tool_data&oldid=24520>"
-
-
-
 
 
 
@@ -281,19 +235,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -306,9 +248,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -319,24 +258,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -353,9 +277,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -364,9 +285,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -386,21 +304,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_syn-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
 
 
 

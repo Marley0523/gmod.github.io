@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,27 +13,12 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 Much of GMOD is about organizing and visualizing your data. The pages in
 this category deal with data analysis instead.
-
-
-
 
 
 ## Subcategories
@@ -54,9 +30,6 @@ This category has only the following subcategory.
 ### B
 
 - [BLAST](Category%3ABLAST "Category%3ABLAST")
-
-
-
 
 
 
@@ -90,9 +63,6 @@ The following 6 pages are in this category, out of 6 total.
 
 - [TIGR-Workflow /
   Ergatis](TIGR-Workflow_/_Ergatis "TIGR-Workflow / Ergatis")
-
-
-
 
 
 
@@ -151,19 +121,6 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AAnalysis&oldid=4941>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Biology](Category%3ABiology "Category%3ABiology")
@@ -173,22 +130,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -202,9 +144,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -216,27 +155,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -251,9 +172,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -262,9 +180,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -284,25 +199,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AAnalysis" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -320,9 +220,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

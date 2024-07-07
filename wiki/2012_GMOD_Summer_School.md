@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,9 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 title="2012 Summer School splash screen"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg" width="779"
 height="395" alt="2012 Summer School splash screen" /></a>
-
-
-
 
 
   
@@ -63,18 +36,12 @@ class="external text" rel="nofollow">GMOD 2012 Summer School wiki</a>
 (contents available to course participants only)
 
 
-
-
-
 <a href="File:GMOD-Summer-School-2012-group.jpg" class="image"
 title="Students and tutors from the 2012 GMOD Summer School"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMOD-Summer-School-2012-group.jpg/800px-GMOD-Summer-School-2012-group.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/GMOD-Summer-School-2012-group.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/GMOD-Summer-School-2012-group.jpg 2x"
 width="800" height="445"
 alt="Students and tutors from the 2012 GMOD Summer School" /></a>
-
-
-
 
 
 ## <span id="The_Course" class="mw-headline">The Course</span>
@@ -256,16 +223,6 @@ time on Amazon Web Services for the course tutors and participants.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=2012_GMOD_Summer_School&oldid=25056>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Education and
@@ -281,22 +238,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -307,9 +249,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:2012_GMOD_Summer_School&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -323,27 +262,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -358,9 +279,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -369,9 +287,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -391,25 +306,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2012_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -427,9 +327,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

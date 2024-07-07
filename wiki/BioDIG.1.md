@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 Status
@@ -64,9 +40,6 @@ Resources
   rel="nofollow">Download</a>
 
   
-
-
-
 
 
 
@@ -174,16 +147,6 @@ Raw tool data at [BioDIG/tool data](BioDIG/tool_data "BioDIG/tool data")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=BioDIG&oldid=24291>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -195,12 +158,6 @@ Retrieved from
   class="new"
   title="Category%3ATools using GMOD (page does not exist)">Tools using
   GMOD</a>
-
-
-
-
-
-
 
 
 
@@ -220,22 +177,7 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -246,9 +188,6 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
   href="http://gmod.org/mediawiki/index.php?title=Talk:BioDIG&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -262,27 +201,9 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -297,9 +218,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -308,9 +226,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -330,24 +245,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioDIG" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -365,9 +265,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

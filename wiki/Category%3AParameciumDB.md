@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,29 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Pages about [ParameciumDB](ParameciumDB "ParameciumDB")
 (<a href="http://paramecium.cgm.cnrs-gif.fr/" class="external free"
 rel="nofollow">http://paramecium.cgm.cnrs-gif.fr/</a>), a GMOD project
 user and contributor.
-
-
-
 
 
 ## Pages in category "ParameciumDB"
@@ -63,9 +39,6 @@ The following 3 pages are in this category, out of 3 total.
 - [ParameciumDB](ParameciumDB "ParameciumDB")
 - [Public Chado
   Databases](Public_Chado_Databases "Public Chado Databases")
-
-
-
 
 
 
@@ -263,19 +236,6 @@ The following 8 files are in this category, out of 8 total.
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AParameciumDB&oldid=5031>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
@@ -285,22 +245,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -314,9 +259,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -328,27 +270,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -363,9 +287,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -374,9 +295,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -396,25 +314,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AParameciumDB" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -432,9 +335,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

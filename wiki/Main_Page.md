@@ -262,8 +262,7 @@ height="11" /></a>
 
 Canto: literature annotation tool
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Main_Page&oldid=28584>"
+
 
 ## Navigation menu
 

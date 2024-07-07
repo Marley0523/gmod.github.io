@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
@@ -47,9 +26,6 @@ This tutorial assumes an Ubuntu 15.04 <a
 href="https://s3.amazonaws.com/jbrowse-tutorials/JBrowse+2016+tutorial.ova.bz2"
 class="external text" rel="nofollow">VirtualBox appliance</a> (2.7 GB)
 that was distributed before the course.
-
-
-
 
 
 ## Contents
@@ -245,9 +221,6 @@ In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
 
-
-
-
 ``` de1
 ...
  
@@ -270,9 +243,6 @@ In this case, we have specified all of our track configurations in
    ...
 ]
 ```
-
-
-
 
 
 `track` specifies the track identifier (a unique name for the track, for
@@ -358,9 +328,6 @@ server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_alignments",
@@ -370,9 +337,6 @@ similar to:
         "type" : "Alignments2"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -399,9 +363,6 @@ Be sure to get the comma after the brace or JBrowse won't be able to
 understand the config file:
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_coverage",
@@ -411,9 +372,6 @@ understand the config file:
         "type" : "SNPCoverage"
       },
 ```
-
-
-
 
 
 ### <span id="Quantitative_data" class="mw-headline">Quantitative data</span>
@@ -426,9 +384,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bigwig_bam_coverage",
@@ -439,9 +394,6 @@ the track, similar to:
         "variance_band" : true
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -468,9 +420,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
       {
         "label" : "bam_variation",
@@ -480,9 +429,6 @@ the track, similar to:
         "type" : "HTMLVariants"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -516,9 +462,6 @@ be copied into the `data` directory for use with this configuration.
 Then a simple faceted track selection configuration might look like:
 
 
-
-
-
 ``` de1
    "trackSelector": {
        "type": 'Faceted',
@@ -529,9 +472,6 @@ Then a simple faceted track selection configuration might look like:
        ]
    }
 ```
-
-
-
 
 
 Edit `jbrowse_conf.json` with gedit in the `jbrowse` directory add this
@@ -546,9 +486,6 @@ tracks, this tutorial will focus on Canvas tracks only (the repeat
 tracks created above).
 
 The configuration for the RepeatMasker track looks like this:
-
-
-
 
 
 ``` de1
@@ -570,24 +507,15 @@ The configuration for the RepeatMasker track looks like this:
 ```
 
 
-
-
-
 Open the `data/trackList.json` file in your favorite editor and
 Command-F will open a "find" window; search for "repeatmasker". A simple
 change we can make is to the color; in the line starting with "style",
 add:
 
 
-
-
-
 ``` de1
   "color" : "black",
 ```
-
-
-
 
 
 save the changes and select the RepeatMasker track or reload the browser
@@ -608,15 +536,9 @@ complexity repeat, where we'll color it red. A function to do that would
 look like this:
 
 
-
-
-
 ``` de1
   "color" : "function(feature) { var name = feature.get('Name'); if (name.match('Low_complexity') ) { return 'red'; } return 'black';  }",
 ```
-
-
-
 
 
 When editing the trackList.json file directly in this way, the function
@@ -640,9 +562,6 @@ In the RepeatMasker section of the JBrowse configuration, we'll add a
 section that looks like this after the style section:
 
 
-
-
-
 ``` de1
         "onClick" : {
            "iconClass" : "dijitIconDatabase",
@@ -654,14 +573,8 @@ section that looks like this after the style section:
 ```
 
 
-
-
-
 If you're having difficulties, the RepeatMasker section of the
 configuration file should now look something like this:
-
-
-
 
 
 ``` de1
@@ -689,9 +602,6 @@ configuration file should now look something like this:
          "key" : "RepeatMasker"
       },
 ```
-
-
-
 
 
 ### <span id="Using_Plugins" class="mw-headline">Using Plugins</span>
@@ -772,19 +682,6 @@ from the old JBrowse directory into the new JBrowse directory.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_PAG_2016&oldid=26828>"
-
-
-
-
-
-
-
-
-
-
-
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial PAG
 2016](Special%3ABrowse/JBrowse-20Tutorial-20PAG-202016 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202016")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -799,22 +696,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2016 "Special:
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -825,9 +707,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2016 "Special:
   href="http://gmod.org/mediawiki/index.php?title=Talk:JBrowse_Tutorial_PAG_2016&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -841,27 +720,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2016 "Special:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -876,9 +737,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -887,9 +745,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -909,25 +764,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_PAG_2016"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -945,9 +785,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

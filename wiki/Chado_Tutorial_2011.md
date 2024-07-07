@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
@@ -47,9 +26,6 @@ Chado is the database schema of the GMOD project. This session
 introduces database concepts, and then provides an overview of Chado's
 design and architecture, and then goes into detail about how to use a
 Chado database.
-
-
-
 
 
 ## Contents
@@ -1312,9 +1288,6 @@ dump with only ontologies in it.
 We think this problem is now fixed.
 
 
-
-
-
 There is a bug in either the go-perl parser or more likely in
 `stag_storenode.pl` that shows itself when installing GO. The problem is
 that it changes the ownership of the 'part_of' relationship term from
@@ -1551,9 +1524,6 @@ load as soon as you see this message:
     There are both CDS and exon features in this file, but
     you did not set the --noexon option, which you probably want.
     Please see `perldoc gmod_bulk_load_gff3.pl for more information.
-
-
-
 
 
 Argh! Now the loader is pointing out that this [GFF](GFF "GFF") file has
@@ -2036,16 +2006,6 @@ diversity data.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Tutorial_2011&oldid=24433>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
@@ -2055,12 +2015,6 @@ Retrieved from
 - [Chado](Category%3AChado "Category%3AChado")
 - [2011 Spring
   Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
-
-
-
-
-
-
 
 
 
@@ -2078,22 +2032,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -2104,9 +2043,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:Export
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Tutorial_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -2120,27 +2056,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -2155,9 +2073,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -2166,9 +2081,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -2188,25 +2100,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2224,9 +2121,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

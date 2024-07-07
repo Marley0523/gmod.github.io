@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -92,18 +68,12 @@ standards are illustrated separately below.
 ### <span id="a.29_orthologous_regions" class="mw-headline">a) orthologous regions</span>
 
 
-
-
-
 <a href="File:Genome_comparison_orthologous_region.jpg"
 class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Genome_comparison_orthologous_region.jpg/350px-Genome_comparison_orthologous_region.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 2x"
 width="350" height="263" /></a>
-
-
-
 
 
 <a href="File:Genome_comparison_orthologous_region.jpg" class="internal"
@@ -116,9 +86,6 @@ height="11" /></a>
 Figure 1:implementation of orthologous region features in Chado. Two
 Drosophila genomes are used as examples. Dmel: Drosophila melanogaster;
 Dpse: Drosophila pseudoobscura.
-
-
-
 
 
 
@@ -142,18 +109,12 @@ illustrated in Figure 1 below.
 ### <span id="b.29_orthologous_genes" class="mw-headline">b) orthologous genes</span>
 
 
-
-
-
 <a href="File:Genome_comparison_orthology_relationship.jpg"
 class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Genome_comparison_orthology_relationship.jpg/350px-Genome_comparison_orthology_relationship.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 2x"
 width="350" height="262" /></a>
-
-
-
 
 
 <a href="File:Genome_comparison_orthology_relationship.jpg"
@@ -165,9 +126,6 @@ height="11" /></a>
 
 Figure 2: Chado representation of orthology relationship between a gene
 pair.
-
-
-
 
 
 
@@ -220,17 +178,11 @@ The implementation of the syntenic relationship between genomes is
 schematically shown in Figure 3.
 
 
-
-
-
 <a href="File:Genome_comparison_syntenic_region.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Genome_comparison_syntenic_region.jpg/350px-Genome_comparison_syntenic_region.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 2x"
 width="350" height="250" /></a>
-
-
-
 
 
 <a href="File:Genome_comparison_syntenic_region.jpg" class="internal"
@@ -250,19 +202,6 @@ Drosophila melanogaster; Dpse: Drosophila pseudoobscura.
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=FlyBase_Comparative_Genomics_Data&oldid=5211>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Comparative
@@ -274,22 +213,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -300,9 +224,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:FlyBase_Comparative_Genomics_Data&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -316,27 +237,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -351,9 +254,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -362,9 +262,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -384,25 +281,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Comparative_Genomics_Data"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -420,9 +302,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

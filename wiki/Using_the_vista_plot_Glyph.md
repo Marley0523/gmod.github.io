@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -49,9 +25,6 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="180" height="46" /></a>
 
 
-
-
-
 <a href="File:Vista_plot.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
@@ -59,9 +32,6 @@ height="11" /></a>
 
 
 A vista_plot Track
-
-
-
 
 
 
@@ -5610,32 +5580,10 @@ determine how to get the peak positions.
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Using_the_vista_plot_Glyph&oldid=20300>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -5646,9 +5594,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Using_the_vista_plot_Glyph&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -5662,27 +5607,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -5697,9 +5624,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -5708,9 +5632,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -5730,25 +5651,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_the_vista_plot_Glyph"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5766,9 +5672,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:Chado.jpg" class="image" title="Chado"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/Chado.jpg/250px-Chado.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/Chado.jpg/375px-Chado.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/Chado.jpg 2x"
 width="250" height="164" alt="Chado" /></a>
-
-
-
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
@@ -68,9 +41,6 @@ Chado being the database [schema](Glossary#Schema "Glossary") of the
 GMOD project. This session introduces database concepts, provides an
 overview of Chado's design and architecture, and then goes into detail
 about how to use a Chado database.
-
-
-
 
 
 ## Contents
@@ -680,18 +650,12 @@ cv module tables. Here is an SQL example of how to query some very basic
 information about all gene features in our database:
 
 
-
-
-
 ``` de1
  SELECT gene.feature_id, gene.uniquename, gene.name
    FROM feature gene
         JOIN cvterm c ON gene.type_id = c.cvterm_id
   WHERE c.name = 'gene';
 ```
-
-
-
 
 
 This should return something like:
@@ -1401,9 +1365,6 @@ dump with only ontologies in it.
 We think this problem is now fixed.
 
 
-
-
-
 There is a bug in either the go-perl parser or more likely in
 `stag_storenode.pl` that shows itself when installing GO. The problem is
 that it changes the ownership of the 'part_of' relationship term from
@@ -1413,16 +1374,10 @@ will fail when it can't find the part_of term. The easiest way to fix
 this is by issuing a SQL command in the `psql` shell:
 
 
-
-
-
 ``` de1
   UPDATE cvterm SET cv_id = (SELECT cv_id FROM cv WHERE name='relationship')
     WHERE name='part_of' AND cv_id IN (SELECT cv_id FROM cv WHERE name='gene_ontology');
 ```
-
-
-
 
 
 But we don't have to do that now because we didn't load GO.
@@ -1648,9 +1603,6 @@ load as soon as you see this message:
     There are both CDS and exon features in this file, but
     you did not set the --noexon option, which you probably want.
     Please see `perldoc gmod_bulk_load_gff3.pl for more information.
-
-
-
 
 
 Argh! Now the loader is pointing out that this GFF file has both exons
@@ -2132,26 +2084,10 @@ diversity data.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Tutorial_2010&oldid=22164>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Chado](Category%3AChado "Category%3AChado")
-
-
-
-
-
-
 
 
 
@@ -2169,22 +2105,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -2195,9 +2116,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Tutorial_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -2211,27 +2129,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -2246,9 +2146,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -2257,9 +2154,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -2279,25 +2173,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2315,9 +2194,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

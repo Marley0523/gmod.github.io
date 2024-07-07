@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 > **This page or section needs to be edited.**
@@ -54,9 +33,6 @@ and then follow the directions on [the main install
 page](GBrowse_Install_HOWTO "GBrowse Install HOWTO") for using the net
 install script. If you don't want or need the 'bleating edge', just
 ignore this note.
-
-
-
 
 
 ## Contents
@@ -157,16 +133,6 @@ Added note about install path for gbrowse.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_RPM_HOWTO&oldid=6279>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
@@ -179,22 +145,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -205,9 +156,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_RPM_HOWTO&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -221,27 +169,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -256,9 +186,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -267,9 +194,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -289,25 +213,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -325,9 +234,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

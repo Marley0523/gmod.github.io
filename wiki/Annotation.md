@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Supporting annotation of biological data is a central goal of GMOD.
@@ -47,9 +26,6 @@ rel="nofollow">dedicated curatorial staff</a>.
 This page is about *creating* annotations. GMOD also has a number of
 solutions for *[visualizing](Visualization "Visualization")*
 annotations.
-
-
-
 
 
 ## Contents
@@ -80,20 +56,11 @@ annotations.
 ### <span id="Computational_Genome_Annotation" class="mw-headline">Computational Genome Annotation</span>
 
 
-
-
-
 "Genome annotation, not genome sequencing, is becoming the bottleneck in
 genomics today."
 
 
-
-
-
 First line of the [MAKER](MAKER.1 "MAKER") paper.
-
-
-
 
 
 - [MAKER](MAKER.1 "MAKER") is a pipeline for annotating eukayotic
@@ -131,16 +98,6 @@ is an area of growing interest to the GMOD community.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Annotation&oldid=14951>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
@@ -151,22 +108,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -177,9 +119,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Annotation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -193,27 +132,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -228,9 +149,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -239,9 +157,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -261,25 +176,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Annotation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -297,9 +197,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

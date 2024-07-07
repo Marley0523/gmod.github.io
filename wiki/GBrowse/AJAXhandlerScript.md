@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -97,9 +73,6 @@ alt="Sample2b.png" /></a>
   ***PrintTop*** is called.
 
 
-
-
-
 ``` de1
  if (defined $rmt) {
    print header,start_html;
@@ -110,15 +83,9 @@ alt="Sample2b.png" /></a>
 ```
 
 
-
-
-
 - The ***remote_content*** subroutine will get the text or coderef. It
   will return the text or execute the callback with user-defined
   arguments
-
-
-
 
 
 ``` de1
@@ -141,9 +108,6 @@ alt="Sample2b.png" /></a>
    return $contents->(\%args);
  }
 ```
-
-
-
 
 
 ## <span id="Changes_To_Configuration_File" class="mw-headline">Changes To Configuration File</span>
@@ -179,16 +143,6 @@ alt="Browsercode" /></a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse/AJAXhandlerScript&oldid=22092>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [AJAX](../Category%3AAJAX "Category%3AAJAX")
@@ -199,22 +153,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -225,9 +164,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse/AJAXhandlerScript&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -241,27 +177,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -278,9 +196,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -289,9 +204,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -311,25 +223,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse-2FAJAXhandlerScript"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -347,9 +244,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

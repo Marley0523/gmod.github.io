@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
@@ -82,9 +61,6 @@ title="GMOD Summer School">GMOD Summer School</a> has been held in
 Europe.
 
   
-
-
-
 
 
 ## Contents
@@ -159,17 +135,11 @@ rel="nofollow">Transport Direct</a>.
 ## <span id="Lodging" class="mw-headline">Lodging</span>
 
 
-
-
-
 <a href="File:KebleDining.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/80px-KebleDining.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/120px-KebleDining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/160px-KebleDining.jpg 2x"
 width="80" height="60" /></a>
-
-
-
 
 
 <a href="File:KebleDining.jpg" class="internal" title="Enlarge"><img
@@ -179,9 +149,6 @@ height="11" /></a>
 
 
 Keble Dining Room
-
-
-
 
 
 
@@ -219,28 +186,9 @@ University of Oxford for hosting and sponsoring this event.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Europe_2009&oldid=22756>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Events](Category%3AEvents "Category%3AEvents")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -251,12 +199,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -264,9 +206,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Europe_2009&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -280,27 +219,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -315,9 +236,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -326,9 +244,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -348,25 +263,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Europe_2009" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -384,9 +284,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

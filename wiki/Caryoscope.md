@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -46,12 +22,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 title="Caryoscope"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/CaryoscopeLogo.jpg" width="122"
 height="139" alt="Caryoscope" /></a>
-
-
-
-
-
-
 
 
 
@@ -69,9 +39,6 @@ expression data in a whole-genome context.
 
 <a href="http://caryoscope.stanford.edu" class="external text"
 rel="nofollow">Caryoscope Homepage</a>
-
-
-
 
 
 ## Contents
@@ -140,16 +107,6 @@ class="external text" rel="nofollow">Download page</a>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Caryoscope&oldid=21862>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Expression](Category%3AExpression "Category%3AExpression")
@@ -162,22 +119,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -188,9 +130,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Caryoscope&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -204,27 +143,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -239,9 +160,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -250,9 +168,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -272,25 +187,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Caryoscope" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -308,12 +208,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
-
 
 
 

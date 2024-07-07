@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,17 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:MAKERLogo.png" class="image" title="MAKER"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/250px-MAKERLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/375px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/500px-MAKERLogo.png 2x"
 width="250" height="85" alt="MAKER" /></a>
-
-
-
 
 
 This [MAKER](MAKER.1 "MAKER") tutorial was presented by [Carson
@@ -65,9 +38,6 @@ title="MAKER Tutorial">MAKER Tutorial</a> page.
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running the [MAKER](MAKER.1 "MAKER") genome
 annotation pipeline with some sample data.
-
-
-
 
 
 ## Contents
@@ -279,17 +249,11 @@ Examples of evidence supporting a structural annotation:
 Why should the average biologist care about genome annotations?
 
 
-
-
-
 <a href="File:Process.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/560px-Process.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/840px-Process.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Process.png 2x"
 width="560" height="352" /></a>
-
-
-
 
 
 <a href="File:Process.png" class="internal" title="Enlarge"><img
@@ -300,9 +264,6 @@ height="11" /></a>
 
 **Figure:** Genome project from sequencing to experimental application
 of annotations
-
-
-
 
 
 
@@ -400,17 +361,11 @@ The easy-to-use annotation pipeline.
   
 
 
-
-
-
 <a href="File:MAKER_Apollo_view.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fb/MAKER_Apollo_view.jpg/180px-MAKER_Apollo_view.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fb/MAKER_Apollo_view.jpg/270px-MAKER_Apollo_view.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fb/MAKER_Apollo_view.jpg/360px-MAKER_Apollo_view.jpg 2x"
 width="180" height="108" /></a>
-
-
-
 
 
 <a href="File:MAKER_Apollo_view.jpg" class="internal"
@@ -421,9 +376,6 @@ height="11" /></a>
 
 
 MAKER generated annotations, shown in [Apollo](Apollo.1 "Apollo").
-
-
-
 
 
 
@@ -439,9 +391,6 @@ MAKER believes to be the best possible gene model for a given location
 based on evidence alignments.
 
 
-
-
-
 <a href="File:Comparison.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Comparison.png/560px-Comparison.png"
 class="thumbimage"
@@ -449,18 +398,9 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="560" height="347" alt="Comparison.png" /></a>
 
 
-
-
-
 <a href="File:Comparison.png" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
-
-
-
-
-
-
 
 
 
@@ -617,17 +557,11 @@ have a handful of gene models to train with. As a result *ab initio*
 gene predictors generally perform very poorly on emerging genomes.
 
 
-
-
-
 <a href="File:Maker_performance.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e6/Maker_performance.jpg/560px-Maker_performance.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e6/Maker_performance.jpg/840px-Maker_performance.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Maker_performance.jpg 2x"
 width="560" height="198" /></a>
-
-
-
 
 
 <a href="File:Maker_performance.jpg" class="internal"
@@ -640,9 +574,6 @@ height="11" /></a>
 **Figure:** MAKER's Performance on the *S. mediterranea* Emerging Model
 Organism Genome. Pfam domain content of gene models determined using
 rpsblast
-
-
-
 
 
 
@@ -1061,17 +992,11 @@ convenient to identify and mask any repeat elements before doing other
 analyses.
 
 
-
-
-
 <a href="File:Repeatmask.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/Repeatmask.jpg/560px-Repeatmask.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/Repeatmask.jpg 2x"
 width="560" height="357" /></a>
-
-
-
 
 
 <a href="File:Repeatmask.jpg" class="internal" title="Enlarge"><img
@@ -1081,9 +1006,6 @@ height="11" /></a>
 
 
 **Figure:** Identify and mask repetitive elements
-
-
-
 
 
 
@@ -1135,17 +1057,11 @@ predictors before you can use them. I will discuss how to do this later
 on.
 
 
-
-
-
 <a href="File:Prediction.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/Prediction.jpg/560px-Prediction.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/Prediction.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/Prediction.jpg 2x"
 width="560" height="357" /></a>
-
-
-
 
 
 <a href="File:Prediction.jpg" class="internal" title="Enlarge"><img
@@ -1155,9 +1071,6 @@ height="11" /></a>
 
 
 **Figure:** Generate *ab initio* gene predictions
-
-
-
 
 
 
@@ -1198,17 +1111,11 @@ alignment algorithms.
   and identify regions of homology. MAKER does this using BLASTX.
 
 
-
-
-
 <a href="File:Evidence.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/Evidence.jpg/560px-Evidence.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/Evidence.jpg 2x"
 width="560" height="354" /></a>
-
-
-
 
 
 <a href="File:Evidence.jpg" class="internal" title="Enlarge"><img
@@ -1218,9 +1125,6 @@ height="11" /></a>
 
 
 **Figure:** Align EST and protein evidence
-
-
-
 
 
 
@@ -1261,17 +1165,11 @@ exact intron/exon positions. Polished alignments are produced using the
 est2genome and protein2genome options for Exonerate.
 
 
-
-
-
 <a href="File:Polish.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Polish.jpg/560px-Polish.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Polish.jpg 2x"
 width="560" height="352" /></a>
-
-
-
 
 
 <a href="File:Polish.jpg" class="internal" title="Enlarge"><img
@@ -1281,9 +1179,6 @@ height="11" /></a>
 
 
 **Figure:** Polish BLAST alignments with Exonerate
-
-
-
 
 
 
@@ -1309,17 +1204,11 @@ splice sites and protein coding regions are located, and then passes
 these "hints" to programs that will accept them.
 
 
-
-
-
 <a href="File:Hint.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f4/Hint.jpg/560px-Hint.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Hint.jpg 2x"
 width="560" height="355" /></a>
-
-
-
 
 
 <a href="File:Hint.jpg" class="internal" title="Enlarge"><img
@@ -1329,9 +1218,6 @@ height="11" /></a>
 
 
 **Figure:** Pass gene finders evidence-based ‘hints’
-
-
-
 
 
 
@@ -1356,17 +1242,11 @@ model possibilities the one that best matches the evidence. This is done
 using a modified sensitivity/specificity distance metric.
 
 
-
-
-
 <a href="File:Select.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f6/Select.jpg/560px-Select.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Select.jpg 2x"
 width="560" height="401" /></a>
-
-
-
 
 
 <a href="File:Select.jpg" class="internal" title="Enlarge"><img
@@ -1380,15 +1260,9 @@ height="11" /></a>
 
 
 
-
-
-
   
 MAKER can use evidence from EST alignments to revise gene models to
 include features such as 5' and 3' UTRs.
-
-
-
 
 
 <a href="File:Revise.jpg" class="image"><img
@@ -1396,9 +1270,6 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Revise.jpg 2x"
 width="560" height="355" /></a>
-
-
-
 
 
 <a href="File:Revise.jpg" class="internal" title="Enlarge"><img
@@ -1412,18 +1283,12 @@ height="11" /></a>
 
 
 
-
-
-
 \|}
 
 #### <span id="Quality_Control" class="mw-headline">Quality Control</span>
 
 Finally MAKER calculates quality control statistics to assist in future
 downstream management and curation of gene models outside of MAKER.
-
-
-
 
 
 <a href="File:Statistics.jpg" class="image"><img
@@ -1433,9 +1298,6 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="560" height="310" /></a>
 
 
-
-
-
 <a href="File:Statistics.jpg" class="internal" title="Enlarge"><img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" /></a>
@@ -1443,9 +1305,6 @@ height="11" /></a>
 
 
 **Figure:** Compute support for each portion of the gene model
-
-
-
 
 
 
@@ -2464,26 +2323,10 @@ Scripts:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MAKER_Tutorial_2010&oldid=23088>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [MAKER](Category%3AMAKER "Category%3AMAKER")
-
-
-
-
-
-
 
 
 
@@ -2501,22 +2344,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -2527,9 +2355,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:Export
   href="http://gmod.org/mediawiki/index.php?title=Talk:MAKER_Tutorial_2010&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -2543,27 +2368,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:Export
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -2578,9 +2385,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -2589,9 +2393,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -2611,25 +2412,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2647,9 +2433,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

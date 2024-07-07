@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,29 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Chado API via Java & Hibernate, Robert Bruggner, VectorBase.org. This
 Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf"
 class="internal" title="HibernateChadoAPI.pdf">Robert's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -150,9 +126,6 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 ##### <span id="POJO_and_HBM_Example_.EF.AC.81le_-_CV" class="mw-headline">POJO and HBM Example ﬁle - CV</span>
 
 
-
-
-
 ``` de1
  public class CV {
  
@@ -172,12 +145,6 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
     }
  }
 ```
-
-
-
-
-
-
 
 
 
@@ -205,13 +172,7 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 ```
 
 
-
-
-
 ##### <span id="HBM_Example_CVTerm" class="mw-headline">HBM Example CVTerm</span>
-
-
-
 
 
 ``` de1
@@ -235,12 +196,6 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
  
 }
 ```
-
-
-
-
-
-
 
 
 
@@ -277,16 +232,10 @@ Reporting](Comparison_of_XORT_and_Hibernate_for_Chado_reporting "Comparison of X
 ```
 
 
-
-
-
 ##### <span id="Hibernate_Object_Retrieve" class="mw-headline">Hibernate Object Retrieve</span>
 
 One can use Java, Hibernate Query Language, or SQL, this example uses
 HQL
-
-
-
 
 
 ``` de1
@@ -320,13 +269,7 @@ HQL
 ```
 
 
-
-
-
 ##### <span id="Hibernate_Object_Update" class="mw-headline">Hibernate Object Update</span>
-
-
-
 
 
 ``` de1
@@ -356,13 +299,7 @@ HQL
 ```
 
 
-
-
-
 ##### <span id="Hibernate_Save" class="mw-headline">Hibernate Save</span>
-
-
-
 
 
 ``` de1
@@ -398,13 +335,7 @@ HQL
 ```
 
 
-
-
-
 ##### <span id="Inheritance" class="mw-headline">Inheritance</span>
-
-
-
 
 
 ``` de1
@@ -444,9 +375,6 @@ HQL
 ```
 
 
-
-
-
 Write custom methods for speciﬁc sub-classes
 
 ##### <span id="ChadoAPI" class="mw-headline">ChadoAPI</span>
@@ -463,9 +391,6 @@ Write custom methods for speciﬁc sub-classes
   - ChadoAdapter
 
 ##### <span id="Problem_1_-_GMOD_Example" class="mw-headline">Problem 1 - GMOD Example</span>
-
-
-
 
 
 ``` de1
@@ -501,13 +426,7 @@ Write custom methods for speciﬁc sub-classes
 ```
 
 
-
-
-
 ##### <span id="Problem_2_-_GMOD_Example" class="mw-headline">Problem 2 - GMOD Example</span>
-
-
-
 
 
 ``` de1
@@ -546,13 +465,7 @@ Write custom methods for speciﬁc sub-classes
 ```
 
 
-
-
-
 ##### <span id="Problems_3.2C_4.2C_.26_5_-_GMOD_Update_.26_Delete" class="mw-headline">Problems 3, 4, & 5 - GMOD Update & Delete</span>
-
-
-
 
 
 ``` de1
@@ -581,9 +494,6 @@ Write custom methods for speciﬁc sub-classes
 ```
 
 
-
-
-
   
 
 ##### <span id="What_Hibernate_Does_Well" class="mw-headline">What Hibernate Does Well</span>
@@ -604,16 +514,6 @@ Write custom methods for speciﬁc sub-classes
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Hibernate_Presentation&oldid=22231>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado](Category%3AChado "Category%3AChado")
@@ -625,22 +525,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -651,9 +536,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Hibernate_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -667,27 +549,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -702,9 +566,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -713,9 +574,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -735,25 +593,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Hibernate_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -771,9 +614,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 ## <span id="Can.27t_find_what_I_want..." class="mw-headline">Can't find what I want...</span>
@@ -49,32 +28,10 @@ variables can be used please?
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Configuration/Balloons&oldid=14161>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -83,9 +40,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Balloons" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -99,27 +53,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -136,9 +72,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -147,9 +80,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -169,22 +99,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,9 +118,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

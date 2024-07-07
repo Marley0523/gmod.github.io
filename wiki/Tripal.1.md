@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,35 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
 <a href="File:TripalLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png" width="400" height="120"
 alt="Tripal logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -65,9 +35,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensource.org/" rel="nofollow"><img
@@ -100,9 +67,6 @@ Interoperable Components
 - - [CMap](CMap.1 "CMap")
 
   
-
-
-
 
 
 
@@ -280,16 +244,6 @@ social media, other) for this property.</span></span>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Tripal&oldid=27192>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
@@ -300,12 +254,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
-
-
-
-
-
-
 
 
 
@@ -609,22 +557,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -635,9 +568,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
   href="http://gmod.org/mediawiki/index.php?title=Talk:Tripal&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -651,27 +581,9 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -686,9 +598,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -697,9 +606,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -719,24 +625,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -754,9 +645,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

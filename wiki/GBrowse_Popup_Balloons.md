@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">GBrowse Popup Balloons</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,15 +19,9 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 <a href="File:Balloon.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Balloon.png" class="thumbborder"
 width="414" height="308" alt="Balloon.png" /></a>
-
-
-
 
 
 
@@ -149,9 +125,6 @@ view in GBrowse. Use a callback to get the desired coordinates for the
 new view. Example:
 
 
-
-
-
 ``` de1
 balloon hover = sub   {
       my $feature = shift;
@@ -166,9 +139,6 @@ balloon hover = sub   {
       return $box_content;
  }
 ```
-
-
-
 
 
 Note that `&enable=DNA` turns on the DNA track when following the link,
@@ -680,9 +650,6 @@ new line of the code (including the closing brace) must start with at
 least one white space character.
 
 
-
-
-
 ``` de1
 # A generic function to display a table of all attribute values
 # for a feature object
@@ -706,9 +673,6 @@ init_code =
 ```
 
 
-
-
-
 4\) Add the balloon tooltip option to the configuration stanza for your
 track(s)
 
@@ -719,16 +683,6 @@ added to the init_code section. More simply, you could just do:
 
 balloon hover = \[GBox\] Whatever text you want goes here.... balloon
 click = \[GBox\] Whatevr sticky text ...
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_Popup_Balloons&oldid=22103>"
-
-
-
 
 
 
@@ -746,22 +700,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -772,9 +711,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Popup_Balloons&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -788,27 +724,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -823,9 +741,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -834,9 +749,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -856,25 +768,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -892,9 +789,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

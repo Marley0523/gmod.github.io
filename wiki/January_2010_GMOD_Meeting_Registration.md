@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [January 2010 GMOD Meeting
 Registration](http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting_Registration&redirect=no "January 2010 GMOD Meeting Registration"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table
@@ -81,9 +60,6 @@ rel="nofollow">Accelrys</a> for providing meeting equipment for us to
 use.
 
 
-
-
-
 ## Contents
 
 
@@ -112,18 +88,12 @@ use.
 ## <span id="Agenda" class="mw-headline">Agenda</span>
 
 
-
-
-
 <a
 href="http://login.ncmir.ucsd.edu/Contact/Personnel/maryann_Martone.htm"
 rel="nofollow" title="Maryann Martone"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1a/Martone.jpg/140px-Martone.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Martone.jpg 2x"
 width="140" height="120" alt="Maryann Martone" /></a>
-
-
-
 
 
 Guest Speaker: Dr. Maryann Martone
@@ -687,28 +657,9 @@ future?**
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting&oldid=24474>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -719,20 +670,11 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
 - <span id="ca-talk"><a href="Talk%3AJanuary_2010_GMOD_Meeting" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -746,27 +688,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -781,9 +705,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -792,9 +713,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -814,25 +732,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -850,9 +753,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

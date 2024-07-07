@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="font-size: 180%">
@@ -62,9 +41,6 @@ June 9-12</p></td>
   
 GMOD will have a strong presence again with a mixture of talks, poster,
 and workshops.
-
-
-
 
 
 ## Contents
@@ -163,28 +139,9 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Arthropod_Genomics_2011&oldid=21961>"
-
-
-
-
-
-
-
 [Category](/wiki/Special%3ACategories "Special%3ACategories"):
 
 - [Conferences](/wiki/Category%3AConferences "Category%3AConferences")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -195,12 +152,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -208,9 +159,6 @@ Retrieved from
   href="/mediawiki/index.php?title=Talk:Arthropod_Genomics_2011&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -224,27 +172,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -261,9 +191,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -272,9 +199,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
-
-
-
 
 
 
@@ -295,25 +219,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -331,9 +240,6 @@ title="Visit the main page"></a>
   GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 As of GBrowse version 2.54, you may offload some of the work involved in
@@ -45,9 +24,6 @@ Services. The render slaves use Amazon's
 class="external text" rel="nofollow">Spot Instance facility</a>, which
 provides servers for just pennies per hour, and the number of slaves is
 automatically adjusted up and down in response to load.
-
-
-
 
 
 ## Contents
@@ -621,16 +597,6 @@ DISCLAIMER.txt for disclaimers of warranty.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Load_Balancing_GBrowse2_with_AWS_Spot_Instances&oldid=22787>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Education and
@@ -641,22 +607,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -667,9 +618,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Load_Balancing_GBrowse2_with_AWS_Spot_Instances&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -683,27 +631,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -718,9 +648,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -729,9 +656,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -751,25 +675,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -787,9 +696,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

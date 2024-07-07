@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 [Tool data](Form%3ATool_data "Form:Tool data")
-
-
-
 
 
 ## Pages in category "GMOD Component"
@@ -155,22 +131,6 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 
 
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3AGMOD_Component&oldid=24487>"
-
-
-
-
-
-
-
-
-
-
-
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
 Component](Special%3ABrowse/Category%3AGMOD-20Component "Special%3ABrowse/Category%3AGMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
@@ -185,22 +145,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -214,9 +159,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -228,27 +170,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -263,9 +187,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -274,9 +195,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -296,25 +214,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Component" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -332,9 +235,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

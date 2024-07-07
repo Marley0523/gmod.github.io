@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">GSoC</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,14 +19,8 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/GoogleSummer_2016logo.jpg"
 width="373" height="373" alt="GoogleSummer 2016logo.jpg" />](GSoC "GSoC")
-
-
-
 
 
 
@@ -188,16 +164,6 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GSoC&oldid=28566>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
@@ -218,22 +184,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -244,9 +195,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GSoC&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -260,27 +208,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -295,9 +225,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -306,9 +233,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -328,24 +252,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSoC" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -363,9 +272,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

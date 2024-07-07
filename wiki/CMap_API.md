@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Note: This document was generated from a POD formated document checked
@@ -43,9 +22,6 @@ in at <a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/cmap/trunk/docs/CMAP_API.pod"
 class="external text" rel="nofollow">SourceForge</a>. Editing will not
 result in long term changes.
-
-
-
 
 
 ## Contents
@@ -1170,28 +1146,9 @@ Copyright (c) 2007 Cold Spring Harbor Laboratory
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=CMap_API&oldid=9364>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [CMap](Category%3ACMap "Category%3ACMap")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1202,12 +1159,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -1215,9 +1166,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:CMap_API&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1231,27 +1179,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1266,9 +1196,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1277,9 +1204,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1299,24 +1223,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMap_API" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1334,9 +1243,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

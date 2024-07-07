@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -47,12 +23,6 @@ title="GMOD Help Desk"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/400px-GMODHelpDeskLogo.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/600px-GMODHelpDeskLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/800px-GMODHelpDeskLogo.jpg 2x"
 width="400" height="196" alt="GMOD Help Desk" /></a>
-
-
-
-
-
-
 
 
 
@@ -76,9 +46,6 @@ width="400" height="196" alt="GMOD Help Desk" /></a>
       Support</span>](#Developer_Support)
   - [<span class="tocnumber">1.2</span>
     <span class="toctext">Acknowledgements</span>](#Acknowledgements)
-
-
-
 
 
 # <span id="GMOD_Help_Desk" class="mw-headline">GMOD Help Desk</span>
@@ -138,28 +105,9 @@ is managed by NESCent.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Help_Desk&oldid=21164>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Help](Category%3AHelp "Category%3AHelp")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -170,20 +118,11 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
 - <span id="ca-talk"><a href="Talk%3AGMOD_Help_Desk" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -197,27 +136,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -232,9 +153,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -243,9 +161,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -265,25 +180,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Help_Desk" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -301,9 +201,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

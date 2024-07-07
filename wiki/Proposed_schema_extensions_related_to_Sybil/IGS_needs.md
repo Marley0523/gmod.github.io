@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 ## <span id="Representation_of_feature_graphs" class="mw-headline">Representation of feature graphs</span>
@@ -53,16 +32,6 @@ feature_relationship records with the analysis that generated them.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Proposed_schema_extensions_related_to_Sybil/IGS_needs&oldid=4341>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Chado](../Category%3AChado "Category%3AChado")
@@ -74,22 +43,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -100,9 +54,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Proposed_schema_extensions_related_to_Sybil/IGS_needs&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -116,27 +67,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -153,9 +86,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -164,9 +94,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -186,26 +113,11 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a
   href="../Special%3ABrowse/Proposed_schema_extensions_related_to_Sybil-2FIGS_needs"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -223,9 +135,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

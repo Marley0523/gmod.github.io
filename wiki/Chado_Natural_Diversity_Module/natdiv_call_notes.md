@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 ## <span id="Notes_from_the_Chado_Natural_Diversity_Module.2Fnatdiv_schema_changes_call_.28May_26th_2011.29" class="mw-headline">Notes from the [Chado_Natural_Diversity_Module/natdiv_schema_changes_call](natdiv_schema_changes_call "Chado Natural Diversity Module/natdiv schema changes call") (May 26th 2011)</span>
@@ -161,32 +140,10 @@ the phenotype moule (Naama will add this to the paper)
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Natural_Diversity_Module/natdiv_call_notes&oldid=17736>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -197,9 +154,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Natural_Diversity_Module/natdiv_call_notes&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -213,27 +167,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -250,9 +186,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -261,9 +194,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -283,26 +213,11 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a
   href="../Special%3ABrowse/Chado_Natural_Diversity_Module-2Fnatdiv_call_notes"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -320,9 +235,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

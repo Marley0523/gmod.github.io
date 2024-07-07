@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -571,9 +547,6 @@ Here is the OBO 1.2 representation:
 Here is the equivalent in OWL (note: RDF-XML syntax is very verbose!):
 
 
-
-
-
 ``` de1
   <owl:Class rdf:ID="GO_0008345">
     <rdfs:label xml:lang="en">larval locomotory behavior</rdfs:label>
@@ -596,14 +569,8 @@ Here is the equivalent in OWL (note: RDF-XML syntax is very verbose!):
 ```
 
 
-
-
-
 When converting to Chado we employ a more economical representation, in
 terms of the number of triples we use:
-
-
-
 
 
 ``` de1
@@ -659,9 +626,6 @@ terms of the number of triples we use:
     </object_id>
   </cvterm_relationship>
 ```
-
-
-
 
 
 Note that in the above, we are creating **anonymous** terms. We give
@@ -798,9 +762,6 @@ using the same formalism as described above. Briefly: we would create an
 definition as above.
 
 
-
-
-
 ``` de1
   <!-- Genus/generic term -->
   <cvterm_relationship>
@@ -842,9 +803,6 @@ definition as above.
     </object_id>
   </cvterm_relationship>
 ```
-
-
-
 
 
 The above assumes [XORT](XORT.1 "XORT") macro IDs defined for
@@ -1668,16 +1626,6 @@ dbxrefprop Structure
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_CV_Module&oldid=26560>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
@@ -1690,22 +1638,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1716,9 +1649,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_CV_Module&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1732,27 +1662,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1767,9 +1679,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1778,9 +1687,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1800,25 +1706,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_CV_Module" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1836,9 +1727,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

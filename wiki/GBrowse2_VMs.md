@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -94,17 +70,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 # <span id="GBrowse2_Virtual_Machines" class="mw-headline">GBrowse2 Virtual Machines</span>
 
 
-
-
-
 <a href="File:GBrowse_virtualbox1.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/350px-GBrowse_virtualbox1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/525px-GBrowse_virtualbox1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/700px-GBrowse_virtualbox1.png 2x"
 width="350" height="290" /></a>
-
-
-
 
 
 <a href="File:GBrowse_virtualbox1.png" class="internal"
@@ -118,9 +88,6 @@ GBrowse running under VirtualBox\]
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bb/GBrowse_virtualbox1.png"
 class="internal" title="GBrowse virtualbox1.png">Click to view at full
 resolution</a>
-
-
-
 
 
 
@@ -267,18 +234,12 @@ incoming connections from the host to the guest machine. This is
 primarily to allow the host machine to ssh to the guest.
 
 
-
-
-
 <a href="File:GBrowse_virtualbox1_port_forwarding.png"
 class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/350px-GBrowse_virtualbox1_port_forwarding.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/525px-GBrowse_virtualbox1_port_forwarding.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/700px-GBrowse_virtualbox1_port_forwarding.png 2x"
 width="350" height="218" /></a>
-
-
-
 
 
 <a href="File:GBrowse_virtualbox1_port_forwarding.png" class="internal"
@@ -289,9 +250,6 @@ height="11" /></a>
 
 
 Port Forwarding Settings
-
-
-
 
 
 
@@ -608,16 +566,6 @@ the shell login password; this must be done separately.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse2_VMs&oldid=22993>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
@@ -630,22 +578,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -656,9 +589,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse2_VMs&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -672,27 +602,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -707,9 +619,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -718,9 +627,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -740,25 +646,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse2_VMs" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -776,9 +667,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from
 [Chado](http://gmod.org/mediawiki/index.php?title=Chado&redirect=no "Chado"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -82,9 +58,6 @@ complex representations of biological knowledge and should be considered
 one of the most sophisticated relational schemas currently available in
 molecular biology. The price of this capability is that the new user
 must spend some time becoming familiar with its fundamentals.
-
-
-
 
 
 ## Contents
@@ -246,16 +219,6 @@ title="Chado.mp3">like this</a>.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_-_Getting_Started&oldid=25323>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
@@ -268,22 +231,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -294,9 +242,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_-_Getting_Started&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -310,27 +255,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -345,9 +272,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -356,9 +280,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -378,25 +299,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_-2D_Getting_Started"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -414,9 +320,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

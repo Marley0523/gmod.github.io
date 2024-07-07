@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This article describes **advanced installation topics** for GBrowse 2.0,
@@ -52,9 +31,6 @@ via user authentication.
   HOWTO](../GBrowse_Install_HOWTO "GBrowse Install HOWTO").*
 
   
-
-
-
 
 
 
@@ -90,9 +66,6 @@ via user authentication.
     DBI::mysql backend</span>](#Using_the_DBI::mysql_backend)
 - [<span class="tocnumber">6</span> <span class="toctext">Authentication
   and Authorization</span>](#Authentication_and_Authorization)
-
-
-
 
 
 ## <span id="Running_GBrowse_under_FastCGI" class="mw-headline">Running GBrowse under FastCGI</span>
@@ -139,9 +112,6 @@ distribution directory. The FastCGI portion of the configuration file
 that is generated will look something like this:
 
 
-
-
-
 ``` de1
  <IfModule mod_fastcgi.c>
    Alias /fgb2 "/usr/lib/cgi-bin/gb2"
@@ -151,9 +121,6 @@ that is generated will look something like this:
    FastCgiConfig -initial-env GBROWSE_CONF=/etc/gbrowse2
  </IfModule>
 ```
-
-
-
 
 
 Copy this stanza into your main Apache configuration file, or, better,
@@ -441,17 +408,11 @@ inline editing interface to customize the track configuration file as
 shown in the illustration below.
 
 
-
-
-
 <a href="../File:Editing_track_config2.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/250px-Editing_track_config2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/375px-Editing_track_config2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/500px-Editing_track_config2.png 2x"
 width="250" height="170" /></a>
-
-
-
 
 
 <a href="../File:Editing_track_config2.png" class="internal"
@@ -465,9 +426,6 @@ editing_track_config2.png\]
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/Editing_track_config2.png"
 class="internal" title="Editing track config2.png">View at full
 resolution</a>
-
-
-
 
 
 
@@ -596,9 +554,6 @@ To control access to the entire database, create a \<Location\> section
 in httpd.conf. The \<Location\> section should look like this:
 
 
-
-
-
 ``` de1
    <Location /cgi-bin/gb2/gbrowse/your_database>
         Order deny,allow
@@ -606,9 +561,6 @@ in httpd.conf. The \<Location\> section should look like this:
         allow from localhost .cshl.edu .ebi.ac.uk
    </Location>
 ```
-
-
-
 
 
 This denies access to everybody except for "localhost" and browsers from
@@ -652,9 +604,6 @@ the user's name sounds female and forbids access if the name sounds
 male. (It might be useful for an X-chromosome annotation site.)
 
 
-
-
-
 ``` de1
     restrict = sub {
                my ($host,$ip,$user) = @_;
@@ -663,9 +612,6 @@ male. (It might be useful for an X-chromosome annotation site.)
                return gender($user) eq 'f';
              }
 ```
-
-
-
 
 
 You should be aware that the username will only be defined if username
@@ -714,16 +660,6 @@ To completely disable generation of the data sources popup menu, set
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_Install_HOWTO/Advanced&oldid=23766>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
@@ -738,22 +674,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -764,9 +685,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_2.0_Install_HOWTO/Advanced&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -780,27 +698,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -817,9 +717,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -828,9 +725,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -850,25 +744,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_2.0_Install_HOWTO-2FAdvanced"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -886,9 +765,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

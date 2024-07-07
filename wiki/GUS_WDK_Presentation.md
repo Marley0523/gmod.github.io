@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -141,9 +117,6 @@ The WDK's Model is configured in XML. The model author specifies
 Here is a sample specification of an ArrayElement entity:
 
 
-
-
-
 ``` de1
 <wdkModel>
 <recordClass idPrefix="" name="ArrayElementRecordClass" type="Array Element">
@@ -211,9 +184,6 @@ Here is a sample specification of an ArrayElement entity:
 ```
 
 
-
-
-
      </sqlQuery>
 
 \</querySet\>
@@ -223,9 +193,6 @@ Here is a sample specification of an ArrayElement entity:
      <sqlQuery name="Genes" isCacheable="false">
        <paramRef ref="params.primaryKey"/>
        <column name="source_id" />
-
-
-
 
 
 ``` de1
@@ -245,9 +212,6 @@ Here is a sample specification of an ArrayElement entity:
 ```
 
 
-
-
-
      </sqlQuery>
 
      <sqlQuery name="GenomicLocations" isCacheable="false">
@@ -258,9 +222,6 @@ Here is a sample specification of an ArrayElement entity:
        <column name="gbrowse_start" />
        <column name="gbrowse_end" />
        <column name="is_reversed" />
-
-
-
 
 
 ``` de1
@@ -291,24 +252,11 @@ Here is a sample specification of an ArrayElement entity:
 ```
 
 
-
-
-
      </sqlQuery>
 
 \</querySet\> \</wdkModel\>
 
 \</syntaxhighlight\>
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GUS_WDK_Presentation&oldid=22229>"
-
-
-
 
 
 
@@ -322,22 +270,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -348,9 +281,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GUS_WDK_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -364,27 +294,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -399,9 +311,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -410,9 +319,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -432,25 +338,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GUS_WDK_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -468,9 +359,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

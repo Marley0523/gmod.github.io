@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -175,9 +151,6 @@ all the genes in the database. First create an XML dumpspec file called
 genes.xml in your home directory that looks like this:
 
 
-
-
-
 ``` de1
 <?xml version="1.0" encoding="UTF-8"?>
 <chado dumpspec="genes.xml">
@@ -197,9 +170,6 @@ genes.xml in your home directory that looks like this:
 ```
 
 
-
-
-
 This dumpspec selects all features of type 'gene', that have is_obsolete
 set to false, and also have is_analysis set to false. It then dumps the
 uniquename, name, and seqlen fields from the feature table for these
@@ -213,18 +183,12 @@ the [XORT](XORT.1 "XORT") documentation for a full list of supported
 search operators. The SQL version of this dumpspec looks like this:
 
 
-
-
-
 ``` de1
 SELECT f.uniquename, f.name, f.seqlen
        FROM feature f, cvterm cvt
        WHERE f.is_obsolete=FALSE AND f.is_analysis=FALSE AND
              cvterm.name='gene' AND f.type_id=cvt.cvterm_id;
 ```
-
-
-
 
 
 You can execute this dumpspec by running the xort_dump.pl program like
@@ -247,9 +211,6 @@ want all columns of the featureloc table we will use dump="cols" to tell
 XORT to do this for us. We also want to know which chromosome the gene
 is localized to; this information is obtained by following srcfeature_id
 back to the feature table.
-
-
-
 
 
 ``` de1
@@ -278,15 +239,9 @@ back to the feature table.
 ```
 
 
-
-
-
 After running this dumpspec our list of genes should now contain
 information about the fmin, fmax, strand, and chromosome that it is
 localized on. The equivalent SQL for this dumpspec would be this:
-
-
-
 
 
 ``` de1
@@ -298,9 +253,6 @@ SELECT f1.uniquename, f1.name, f1.seqlen, fl.*, f2.uniquename
 ```
 
 
-
-
-
 ### <span id="CDS" class="mw-headline">CDS</span>
 
 For the last dumpspec we will add CDS information. In the YFGdb Chado
@@ -308,9 +260,6 @@ database, CDS information is associated with gene features via the
 feature_relationship table. The gene is the object, the CDS is the
 subject, and the relationship type is set to 'part_of'. Here is what the
 dumpspec would look like for dumping CDS features:
-
-
-
 
 
 ``` de1
@@ -372,9 +321,6 @@ dumpspec would look like for dumping CDS features:
 ```
 
 
-
-
-
 In this dumpspec you can see that feature_relationship is directly
 nested under the gene feature and because subject_id is used directly
 under feature_relationship XORT knows to join the gene feature to
@@ -397,16 +343,6 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=XORT_Dumper_HOWTO&oldid=22224>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
@@ -418,22 +354,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -444,9 +365,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:XORT_Dumper_HOWTO&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -460,27 +378,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -495,9 +395,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -506,9 +403,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -528,25 +422,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT_Dumper_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -564,9 +443,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

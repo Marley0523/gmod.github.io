@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 Chado is a generic [schema](Glossary#Database_Schema "Glossary"), which
@@ -63,9 +42,6 @@ See also:
   Representation](IGS_Data_Representation "IGS Data Representation") -
   further discussion on these conventions and how they were implemented
   at IGS (for comparison)
-
-
-
 
 
 ## Contents
@@ -242,9 +218,6 @@ graph](Introduction_to_Chado#Feature_Graphs "Introduction to Chado") has
 3 levels. If we follow this assumption:
 
 
-
-
-
 ``` de1
     SELECT * FROM feature AS gene
          INNER JOIN
@@ -258,9 +231,6 @@ graph](Introduction_to_Chado#Feature_Graphs "Introduction to Chado") has
     WHERE
        gene.name = 'Dredd';
 ```
-
-
-
 
 
 This query should fetch a 3-deep graph rooted at "Dredd".
@@ -779,9 +749,6 @@ sequence of *dpp-P1* and substituting the 24th residue with a *V*.
 To do a query for all SNPs that switch I to V or vice versa:
 
 
-
-
-
 ``` de1
 SELECT snp.*
 FROM
@@ -798,9 +765,6 @@ WHERE
   wildloc.residue_info = 'I'           AND
   mutloc.residue_info = 'I';
 ```
-
-
-
 
 
 Note that this query remains the same even if mutant protein features
@@ -907,9 +871,6 @@ need to use *locgroup* to properly group wild type/mutant pairs of
 locations, otherwise this query will give bad data.
 
 
-
-
-
 ``` de1
 SELECT
  snp.name,
@@ -934,9 +895,6 @@ WHERE
   wildloc.locgroup = mutloc.locgroup    AND
   wildloc.srcfeature = wildfeat
 ```
-
-
-
 
 
   
@@ -1098,16 +1056,6 @@ dictyBase:DDB0185051
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&oldid=23433>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Pages with problems or
@@ -1121,22 +1069,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1147,9 +1080,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Best_Practices&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1163,27 +1093,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1198,9 +1110,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1209,9 +1118,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1231,25 +1137,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Best_Practices" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1267,9 +1158,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

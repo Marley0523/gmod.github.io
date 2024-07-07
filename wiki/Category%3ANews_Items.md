@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 After the move of gmod.org ot OICR, all [GMOD
@@ -46,9 +25,6 @@ The "News Item" tag should be added to news item pages only by using the
 [NewsItem template](Template:NewsItem "Template:NewsItem") at the bottom
 of the page for the news item. See [Adding a News
 Item](GMOD_News#Adding_a_News_Item "GMOD News") for details.
-
-
-
 
 
 ## Pages in category "News Items"
@@ -623,32 +599,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Category%3ANews_Items&oldid=16244>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -662,9 +613,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -676,27 +624,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -711,9 +641,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -722,9 +649,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -744,25 +668,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ANews_Items" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -780,9 +689,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

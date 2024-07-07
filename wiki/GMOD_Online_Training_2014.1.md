@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 
@@ -48,16 +27,10 @@ width="300" height="235" alt="Gmod-online-training.png" /></a>
 
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
 width="150" height="86" alt="GMOD in the Cloud toolset" />](Cloud.1 "GMOD in the Cloud toolset")
-
-
-
 
 
 [<img
@@ -66,16 +39,10 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="150" height="33" alt="Chado: Biological database schema" />](Chado "Chado: Biological database schema")
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/150px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/225px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/300px-GalaxyLogoBigger.png 2x"
 width="150" height="53" alt="Galaxy: Data analysis &amp; integration" />](Galaxy.1 "Galaxy: Data analysis & integration")
-
-
-
 
 
 [<img
@@ -84,16 +51,10 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="150" height="35" alt="GBrowse: Genome annotation viewer" />](GBrowse.1 "GBrowse: Genome annotation viewer")
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/150px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/225px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/300px-GBrowse_syn_logo.png 2x"
 width="150" height="48" alt="GBrowse_syn: Synteny viewer" />](GBrowse_syn.1 "GBrowse_syn: Synteny viewer")
-
-
-
 
 
 [<img
@@ -103,17 +64,11 @@ width="150" height="33"
 alt="JBrowse: Super-fast genome annotation viewer" />](JBrowse.1 "JBrowse: Super-fast genome annotation viewer")
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/150px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/225px-TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/300px-TripalLogo.png 2x"
 width="150" height="45"
 alt="Tripal: website creation software and Chado interface" />](Tripal.1 "Tripal: website creation software and Chado interface")
-
-
-
 
 
 [<img
@@ -122,17 +77,11 @@ srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/ima
 width="150" height="51" alt="MAKER: Genome annotation pipeline" />](MAKER.1 "MAKER: Genome annotation pipeline")
 
 
-
-
-
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/150px-WebApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/225px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/300px-WebApolloLogo.png 2x"
 width="150" height="41"
 alt="WebApollo: browser-based annotation editor" />](WebApollo.1 "WebApollo: browser-based annotation editor")
-
-
-
 
 
 **Monday 19th May - Friday 23rd May 2014**
@@ -199,28 +148,9 @@ the course.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014&oldid=25699>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -231,12 +161,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -244,9 +168,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Online_Training_2014&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -260,27 +181,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -295,9 +198,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -306,9 +206,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -328,25 +225,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Online_Training_2014"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -364,9 +246,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

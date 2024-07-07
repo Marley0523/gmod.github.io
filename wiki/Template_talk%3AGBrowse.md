@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,42 +13,14 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 I wanted to use a
 <a href="http://www.mediawiki.org/wiki/Manual:Extensions"
 class="external text">Navbox</a> to organize these links, but it looks
 like the required Mediawiki extensions are not installed.
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Template_talk%3AGBrowse&oldid=16291>"
-
-
-
-
-
-
-
-
-
 
 
 
@@ -70,21 +33,12 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 - <span id="ca-nstab-template"><a href="Template:GBrowse" accesskey="c"
   title="View the template [c]">Template</a></span>
 - <span id="ca-talk"><a href="Template_talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -98,27 +52,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -133,9 +69,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -144,9 +77,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -166,22 +96,7 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -200,9 +115,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

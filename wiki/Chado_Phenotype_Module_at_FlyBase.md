@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -74,9 +50,6 @@ tables.
 
 **These notes reflect the state of the FlyBase Chado database during the
 first two weeks on November 2010.**
-
-
-
 
 
 ## Contents
@@ -361,9 +334,6 @@ There are 1473 of these (every one of them unspecified).
   
 
 
-
-
-
 ``` de1
 SELECT COUNT(*), c.name
   FROM phenotype p, cvterm t, cv c
@@ -373,9 +343,6 @@ SELECT COUNT(*), c.name
  ORDER BY 1 DESC
  LIMIT 50;
 ```
-
-
-
 
 
     count |           name
@@ -692,9 +659,6 @@ Links to terms in 5 different CVs
 Find rows that use rank in the unique constraint.
 
 
-
-
-
 ``` de1
 SELECT * FROM phenotype_cvterm pcv1
  WHERE EXISTS (
@@ -703,9 +667,6 @@ SELECT * FROM phenotype_cvterm pcv1
        AND pcv1.phenotype_id = pcv2.phenotype_id
        AND pcv1.cvterm_id = pcv2.cvterm_id) LIMIT 10;
 ```
-
-
-
 
 
     phenotype_cvterm_id | phenotype_id | cvterm_id | rank
@@ -971,9 +932,6 @@ lethal" making up ~1% of records.
 #### <span id="type_id_2" class="mw-headline">type_id</span>
 
 
-
-
-
 ``` de1
 SELECT COUNT(*), t.name, c.name
   FROM phendesc p, cvterm t, cv c
@@ -983,9 +941,6 @@ SELECT COUNT(*), t.name, c.name
  ORDER BY 1 DESC
  LIMIT 50;
 ```
-
-
-
 
 
     count |           name            |     name
@@ -1439,16 +1394,6 @@ rank can be used for n-ploid organisms or to preserve order.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Chado_Phenotype_Module_at_FlyBase&oldid=22162>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Under
@@ -1464,22 +1409,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1490,9 +1420,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Phenotype_Module_at_FlyBase&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1506,27 +1433,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1541,9 +1450,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1552,9 +1458,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1574,25 +1477,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_at_FlyBase"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1610,18 +1498,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

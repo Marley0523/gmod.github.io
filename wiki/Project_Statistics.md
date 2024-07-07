@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,26 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
 Statistics and places to get statistics on the GMOD Project.
-
-
-
 
 
 ## Contents
@@ -138,17 +114,11 @@ Website hits were measured using AWStats during this period.
 #### <span id="By_Month" class="mw-headline">By Month</span>
 
 
-
-
-
 <a href="File:Gmod-awstats-graph.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/350px-Gmod-awstats-graph.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/525px-Gmod-awstats-graph.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/700px-Gmod-awstats-graph.png 2x"
 width="350" height="234" /></a>
-
-
-
 
 
 <a href="File:Gmod-awstats-graph.png" class="internal"
@@ -159,9 +129,6 @@ height="11" /></a>
 
 
 GMOD.org monthly visitors
-
-
-
 
 
 
@@ -542,16 +509,6 @@ class="external text" rel="nofollow">Galaxy Project Statistics</a> page.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Project_Statistics&oldid=25709>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
@@ -562,22 +519,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -588,9 +530,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Project_Statistics&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -604,27 +543,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -639,9 +560,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -650,9 +568,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -672,25 +587,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Project_Statistics" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -708,9 +608,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

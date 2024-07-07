@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="font-size: 180%">
@@ -70,9 +49,6 @@ This page serves as the slides for the workshop. It will be tidied up
 within a week of the end of the workshop.
 
   
-
-
-
 
 
 ## Contents
@@ -659,32 +635,7 @@ title="AGS2011">GMOD.org/wiki/AGS2011</a>
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Arthropod_Genomics_2011/Genome_Project_101_Workshop&oldid=21962>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -695,9 +646,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Arthropod_Genomics_2011/Genome_Project_101_Workshop&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -711,27 +659,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -748,9 +678,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -759,9 +686,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -781,26 +705,11 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a
   href="../Special%3ABrowse/Arthropod_Genomics_2011-2FGenome_Project_101_Workshop"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -818,9 +727,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

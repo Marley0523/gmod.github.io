@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/DasI_middleware.pdf" class="internal"
 title="DasI middleware.pdf">Scott's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -106,9 +82,6 @@ Gene inserted as GFF3 using a standard bulk loader:
 ##### <span id="Use_Bio::DB::Das::Chado" class="mw-headline">Use Bio::DB::Das::Chado</span>
 
 
-
-
-
 ``` de1
 use Bio::DB::Das::Chado;
  
@@ -123,13 +96,7 @@ my ($gene_fo) = $chado->get_features_by_name($gene_name);
 ```
 
 
-
-
-
 ##### <span id="Problem_2_-_Use_Some_Accessors" class="mw-headline">Problem 2 - Use Some Accessors</span>
-
-
-
 
 
 ``` de1
@@ -151,13 +118,7 @@ for my $exon (@exons) {
 ```
 
 
-
-
-
 ##### <span id="Bulk_Output" class="mw-headline">Bulk Output</span>
-
-
-
 
 
 ``` de1
@@ -174,9 +135,6 @@ for my $exon (@exons) {
                 $gene->organism),"\n";
  }
 ```
-
-
-
 
 
 Or see your report in [GBrowse](GBrowse.1 "GBrowse")
@@ -201,16 +159,6 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_(DasI)_Presentation&oldid=22093>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
@@ -224,22 +172,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -250,9 +183,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_(DasI)_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -266,27 +196,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -301,9 +213,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -312,9 +221,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -334,25 +240,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_(DasI)_Presentation"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -370,9 +261,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

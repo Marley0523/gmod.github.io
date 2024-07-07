@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>
@@ -56,9 +35,6 @@ database schema of the GMOD project. This session introduces database
 concepts, and then provides an overview of Chado's design and
 architecture, and then goes into detail about how to use a Chado
 database.
-
-
-
 
 
 ## Contents
@@ -600,18 +576,12 @@ cv module tables. Here is an SQL example of how to query some very basic
 information about all gene features in our database:
 
 
-
-
-
 ``` de1
  SELECT gene.feature_id, gene.uniquename, gene.name
    FROM feature gene
         JOIN cvterm c ON gene.type_id = c.cvterm_id
   WHERE c.name = 'gene' AND organism_id = 12;
 ```
-
-
-
 
 
 This should return something like:
@@ -1457,9 +1427,6 @@ load as soon as you see this message:
     Please see `perldoc gmod_bulk_load_gff3.pl for more information.
 
 
-
-
-
 Argh! Now the loader is pointing out that this [GFF](../GFF "GFF") file
 has both exons and CDS features and Chado prefers something a little
 different. While the loader will load this data as written, it won't be
@@ -1930,27 +1897,11 @@ diversity data.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Malaysia_2014/Chado_Tutorial&oldid=25399>"
-
-
-
-
-
-
-
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](../Category%3ATutorials "Category%3ATutorials")
 - [Chado](../Category%3AChado "Category%3AChado")
 - [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
-
-
-
-
-
-
 
 
 
@@ -1968,22 +1919,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Chado_Tutorial "
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1994,9 +1930,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Chado_Tutorial "
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Malaysia_2014/Chado_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -2010,27 +1943,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Chado_Tutorial "
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -2047,9 +1962,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -2058,9 +1970,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -2080,25 +1989,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FChado_Tutorial"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2116,9 +2010,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

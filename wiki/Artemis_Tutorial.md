@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,37 +13,19 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [Artemis
 Tutorial](http://gmod.org/mediawiki/index.php?title=Artemis_Tutorial&redirect=no "Artemis Tutorial"))
-
-
-
 
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
-
-
-
   
-
-
-
 
 
 <a href="File:Artemis_logo.gif" class="image" title="Artemis"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Artemis_logo.gif" width="250" height="159"
 alt="Artemis" /></a>
-
-
-
 
 
 This [Artemis-Chado Integration](Artemis "Artemis") tutorial was
@@ -93,9 +66,6 @@ that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
-
-
-
 
 
 
@@ -245,9 +215,6 @@ table in Chado.
      psql chado_pathogen
 
 
-
-
-
 ``` de1
    INSERT INTO organism
      ( abbreviation, genus, species, common_name )
@@ -255,9 +222,6 @@ table in Chado.
      ( 'Pfalciparum', 'Plasmodium', 'falciparum', 'Pfalciparum'),
      ( 'Pknowlesi', 'Plasmodium', 'knowlesi', 'Pknowlesi');
 ```
-
-
-
 
 
 Using the perl script `bp_genbank2gff3.pl` to convert the GenBank files
@@ -491,21 +455,12 @@ when adding CV terms to a feature. Try adding a new CV:
      psql chado_pathogen
 
 
-
-
-
 ``` de1
    INSERT INTO cv ( name, definition ) VALUES ( 'CC_test', 'test' );
 ```
 
 
-
-
-
 and create a CvTerm in this CV:
-
-
-
 
 
 ``` de1
@@ -520,9 +475,6 @@ and create a CvTerm in this CV:
      ( (SELECT cv_id FROM cv WHERE name ='CC_test'), 'test1',
        (SELECT dbxref_id FROM dbxref WHERE accession='test1') );
 ```
-
-
-
 
 
 Now re-launch Artemis and open the Gene Builder at any feature and go to
@@ -677,26 +629,10 @@ class="external text" rel="nofollow">artemis-user</a>.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Artemis-Chado_Integration_Tutorial&oldid=22154>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-
-
-
-
-
-
 
 
 
@@ -714,22 +650,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -740,9 +661,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
   href="http://gmod.org/mediawiki/index.php?title=Talk:Artemis-Chado_Integration_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -756,27 +674,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -791,9 +691,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -802,9 +699,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -824,25 +718,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Artemis-2DChado_Integration_Tutorial"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -860,9 +739,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

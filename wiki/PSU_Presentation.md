@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,28 +13,13 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 This Wiki page is an edited version of
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/PSU.pdf" class="internal"
 title="PSU.pdf">Chinmay's presentation</a>.
-
-
-
 
 
 ## Contents
@@ -82,9 +58,6 @@ Connections for the **Hibernate** engine are configured in the Spring
 configuration file
 
 
-
-
-
 ``` de1
 <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
                <property name="driverClassName" value="org.postgresql.Driver" />
@@ -95,15 +68,9 @@ configuration file
 ```
 
 
-
-
-
 - Uses a connection pool
 - Connection to the database is specified graphically, so the **iBatis**
   configuration file has variables for the location:
-
-
-
 
 
 ``` de1
@@ -115,9 +82,6 @@ configuration file
  
 <property name="JDBC.Password" value="${password}"/>
 ```
-
-
-
 
 
 - provide database location, username & password
@@ -140,9 +104,6 @@ configuration file
 Creating a gene
 
 
-
-
-
 ``` de1
 genes[0] = new Feature(ORG, GENE, "xfile", false, false, now, now);
  
@@ -163,13 +124,7 @@ createExon("exon2", genes[0], 14687, 14720, now, 1);
 ```
 
 
-
-
-
 Retrieve a gene
-
-
-
 
 
 ``` de1
@@ -178,13 +133,7 @@ displayGene(f);
 ```
 
 
-
-
-
 Update a gene
-
-
-
 
 
 ``` de1
@@ -194,13 +143,7 @@ sequenceDao.merge(genes[0]);
 ```
 
 
-
-
-
   
-
-
-
 
 
 ``` de1
@@ -220,15 +163,9 @@ private Feature createExon(String name, Feature gene, int min, int max, Timestam
 ```
 
 
-
-
-
 ##### <span id="Demo_.E2.80.93_Sample_Problem" class="mw-headline">Demo – Sample Problem</span>
 
 Simple web page to demonstrate displaying a basic feature
-
-
-
 
 
 ``` de1
@@ -262,19 +199,6 @@ cellpadding="4">
 
 
 
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=PSU_Presentation&oldid=22232>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [Middleware
@@ -285,22 +209,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -311,9 +220,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:PSU_Presentation&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -327,27 +233,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -362,9 +250,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -373,9 +258,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -395,25 +277,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/PSU_Presentation" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -431,9 +298,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,38 +2,14 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">Search results</span>
 
 
 
-
-
-
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -47,13 +23,7 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 - [Advanced](/mediawiki/index.php?title=Special:Search&search=Users&fulltext=Search&profile=advanced "Search in custom namespaces")
 
 
-
-
-
 - Showing below up to **50** results starting with \#**1**.
-
-
-
 
 
 
@@ -1183,21 +1153,6 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 
-Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Users>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1206,16 +1161,10 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Users>"
 
 
 
-
-
-
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
   page](/wiki/Special%3ASearch/Users "This is a special page, you cannot edit the page itself")</span>
-
-
-
 
 
 ###
@@ -1227,27 +1176,9 @@ Retrieved from "<http://gmod.org/wiki/Special%3ASearch/Users>"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1264,9 +1195,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1275,9 +1203,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
-
-
-
 
 
 
@@ -1298,9 +1223,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
@@ -1311,12 +1233,6 @@ title="Visit the main page"></a>
   href="/mediawiki/index.php?title=Special%3ASearch/Users&amp;printable=yes"
   rel="alternate" accesskey="p"
   title="Printable version of this page [p]">Printable version</a></span>
-
-
-
-
-
-
 
 
 

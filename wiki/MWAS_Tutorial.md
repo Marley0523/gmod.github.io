@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -254,9 +230,6 @@ MAKER.
   
 
 
-
-
-
 <a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Apollo_view.jpg"
 class="new" title="File:Apollo view.jpg">File:Apollo view.jpg</a>
@@ -264,9 +237,6 @@ class="new" title="File:Apollo view.jpg">File:Apollo view.jpg</a>
 
 
 MAKER generated annotations, shown in [Apollo](Apollo.1 "Apollo").
-
-
-
 
 
 
@@ -436,15 +406,9 @@ have a handful of gene models to train with. As a result *ab initio*
 gene predictors generally perform very poorly on emerging genomes.
 
 
-
-
-
 <a href="File:Maker_performance.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Maker_performance.jpg" class="thumbimage"
 width="848" height="300" /></a>
-
-
-
 
 
 <a href="File:Maker_performance.jpg" class="internal"
@@ -456,9 +420,6 @@ height="11" /></a>
 
 MAKER's Performance on the *S. mediterranea* Emerging Model Organism
 Genome. Pfam domain content of gene models determined using rpsblast
-
-
-
 
 
 
@@ -1045,16 +1006,6 @@ MAKER will:
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=MWAS_Tutorial&oldid=21887>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - <a
@@ -1070,22 +1021,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1096,9 +1032,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:MWAS_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1112,27 +1045,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1147,9 +1062,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1158,9 +1070,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1180,25 +1089,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/MWAS_Tutorial" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1216,9 +1110,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 All BioMart documentation has now been moved to the
@@ -43,25 +22,9 @@ All BioMart documentation has now been moved to the
 rel="nofollow">BioMart website</a>.
 
 
-
-
-
 <a href="http://www.biomart.org/" rel="nofollow" title="BioMart"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Biomart250.png" width="250" height="99"
 alt="BioMart" /></a>
-
-
-
-
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=BioMart&oldid=24712>"
-
-
 
 
 
@@ -77,12 +40,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
   class="new"
   title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
-
-
-
-
-
-
 
 
 
@@ -125,22 +82,7 @@ title="Property:Interactor (page does not exist)">Interactor</a> | BioMart <span
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -151,9 +93,6 @@ title="Property:Interactor (page does not exist)">Interactor</a> | BioMart <span
   href="http://gmod.org/mediawiki/index.php?title=Talk:BioMart&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -167,27 +106,9 @@ title="Property:Interactor (page does not exist)">Interactor</a> | BioMart <span
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -202,9 +123,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -213,9 +131,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -235,24 +150,9 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
-
-
-
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioMart" rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -270,9 +170,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

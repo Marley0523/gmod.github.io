@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -68,9 +44,6 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
   on Visualization Tools</span>](#Other_Feedback_on_Visualization_Tools)
 - [<span class="tocnumber">6</span> <span class="toctext">Other
   Feedback</span>](#Other_Feedback)
-
-
-
 
 
 The 2009 GMOD Community Survey focused on genome and comparative
@@ -1635,16 +1608,6 @@ like to provide, please tell us here.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=2009_GMOD_Community_Survey&oldid=10291>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
@@ -1656,22 +1619,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -1682,9 +1630,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:2009_GMOD_Community_Survey&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -1698,27 +1643,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -1733,9 +1660,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -1744,9 +1668,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -1766,25 +1687,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1802,9 +1708,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

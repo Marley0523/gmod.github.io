@@ -2,28 +2,10 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
-
-
-
 # <span dir="auto">JBrowse Tutorial 2010</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -34,19 +16,10 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
-
-
-
 <a href="File:JBrowseLogo.png" class="image" title="JBrowse"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/250px-JBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/375px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/500px-JBrowseLogo.png 2x"
 width="250" height="55" alt="JBrowse" /></a>
-
-
-
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Mitch
@@ -59,9 +32,6 @@ title="JBrowse Tutorial">JBrowse Tutorial</a> page.
 
 This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
 through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
-
-
-
 
 
 ## Contents
@@ -482,26 +452,10 @@ Visit in web browser
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_2010&oldid=21892>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-
-
-
-
-
-
 
 
 
@@ -519,19 +473,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -544,9 +486,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -557,24 +496,9 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -589,9 +513,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -600,9 +521,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -622,21 +540,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
 
 
 

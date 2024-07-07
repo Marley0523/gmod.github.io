@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 # <span dir="auto">Wiki linking style guide</span>
@@ -20,20 +11,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 NOTE: This style guide was written for gmod.org when it was hosted in a
@@ -170,16 +149,6 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Wiki_linking_style_guide&oldid=22108>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
@@ -192,19 +161,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 
 
@@ -217,9 +174,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
@@ -230,24 +184,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -262,9 +201,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -273,9 +209,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -295,21 +228,12 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
 
 
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Wiki_linking_style_guide"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
 
 
 

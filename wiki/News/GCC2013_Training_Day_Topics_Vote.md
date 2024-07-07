@@ -2,30 +2,12 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
 
 
-
-
-
 # <span dir="auto">News/GCC2013 Training Day Topics Vote</span>
-
-
-
-
-
-From GMOD
-
-
-
 
 
 
@@ -37,17 +19,11 @@ Jump to: [navigation](#mw-navigation), [search](#p-search)
 
 
 
-
-
-
 <a href="http://wiki.galaxyproject.org/Events/GCC2013/TrainingDay"
 rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/180px-GCC2013TrainingDayLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/270px-GCC2013TrainingDayLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/360px-GCC2013TrainingDayLogo.png 2x"
 width="180" height="92" alt="GCC2013TrainingDayLogo.png" /></a>
-
-
-
 
 
 <a href="http://wiki.galaxyproject.org/Events/GCC2013"
@@ -118,28 +94,9 @@ Category%3AGalaxy
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=News/GCC2013_Training_Day_Topics_Vote&oldid=22862>"
-
-
-
-
-
-
-
 [Category](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -150,12 +107,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -163,9 +114,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:News/GCC2013_Training_Day_Topics_Vote&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -179,27 +127,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -216,9 +146,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -227,9 +154,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -249,25 +173,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2013_Training_Day_Topics_Vote"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -285,9 +194,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

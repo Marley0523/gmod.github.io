@@ -2,25 +2,10 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
 
 
-
-
-
 # <span dir="auto">CMap</span>
-
-
-
-
-
-From GMOD
 
 
 
@@ -30,17 +15,8 @@ From GMOD
 [Cmap](/mediawiki/index.php?title=Cmap&http://gmod.org/wiki/redirect=no "Cmap"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation),
 [search](#p-searhttp://gmod.org/wiki/ch)
-
-
-
-
-
-
 
 
 
@@ -49,12 +25,6 @@ class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
 srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/600px-CMapLogo-horiz.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/800px-CMapLogo-horiz.png 2x"
 width="400" height="115" alt="CMap logo" /></a>
-
-
-
-
-
-
 
 
 
@@ -69,9 +39,6 @@ Status
 
 
 Licence
-
-
-
 
 
 <a href="http://opensourhttp://gmod.org/wiki/ce.org/"
@@ -109,9 +76,6 @@ Resources
 
 - <a href="http://www.gramene.orhttp://gmod.org/wiki/g/db/cmap"
   class="external text" rel="nofollow">Demo server</a>
-
-
-
 
 
 
@@ -187,21 +151,9 @@ rel="nofollow">other Gramene views</a>.
 
 
 
-
-
-
 <a href="/wiki/File:Cmap_sample1.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
 width="89" height="120" alt="Cmap sample1.jpg" /></a>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -217,24 +169,9 @@ width="169" height="120" alt="Cmap sample2.jpg" /></a>
 
 
 
-
-
-
-
-
-
-
-
-
 <a href="/wiki/File:Cmap_sample3.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
 width="131" height="120" alt="Cmap sample3.jpg" /></a>
-
-
-
-
-
-
 
 
 
@@ -364,15 +301,6 @@ class="external text" rel="nofollow">Tutorial @ Gramene</a>
 
 
 
-
-
-
-
-
-
-
-
-
 Mailing List Link
 
 Description
@@ -488,51 +416,10 @@ Community College</a>.
 
 
 
-Retrieved from
-"[http://gmod.org/mediawikihttp://gmod.org/index.php?title=CMap&oldid=24755](http://gmod.org/mediawiki/index.php?title=CMap&oldid=24755)"
-
-
-
-
-
-
-
-[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
-
-[GMOD
-Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")
-
-<a
-href="/mediawiki/ihttp://gmod.org/wiki/ndex.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
-
-[CMap](/wiki/Category%3ACMap "Category%3ACMap")
-
-[Comparative
-Genomics](/wiki/Category%3AComparative_Genomics "Category%3Ahttp://gmod.org/wiki/Comparative Genomics")
-
-[GMOD
-Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")
-
-[Gramene](/wiki/Category%3AGramene "Category%3AGramene")
-
-
-
-
-
-
-
-
-
-<span class="smwfactboxhead">Facts about
-"<span class="http://gmod.org/wiki/"swmfactboxheadbrowse"">[CMap](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
 
 [Available on platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")
-
-
-
 
 
 web
@@ -816,17 +703,11 @@ and
 
 
 
-
-
-
 ## Navigation menu
 
 
 
 http://gmod.org/wiki/
-
-
-
 
 
 ### Namespaces
@@ -839,18 +720,9 @@ http://gmod.org/wiki/
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ###
 
 ### Variants[](#)
-
-
-
-
-
-
 
 
 
@@ -860,18 +732,9 @@ http://gmod.org/wiki/
 
 
 
-
-
-
-
-
-
 <a href="/wiki/Main_Page"
 style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -885,9 +748,6 @@ title="Visit the main page"></a>
   Tags](/wiki/Categories)</span>
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
-
-
-
 
 
 
@@ -906,9 +766,6 @@ http://gmod.org/wiki/
 
 
 
-
-
-
 ### Community
 
 
@@ -921,9 +778,6 @@ http://gmod.org/wiki/
   Promotion](/wiki/GMOD_Promotion)</span>
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
-
-
-
 
 
 
@@ -954,12 +808,6 @@ http://gmod.org/wiki/
 
 
 
-
-
-
-
-
-
 - <span id="footer-info-lastmod">Last updated at 23:40 on 17 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">692,728 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
@@ -973,9 +821,6 @@ http://gmod.org/wiki/
   GMOD](/wikihttp://gmod.org/GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

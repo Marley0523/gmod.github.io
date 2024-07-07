@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,11 @@
 
 
 
-From GMOD
-
-
-
-
-
 (Redirected from [GBrowse 2 Configuration
 HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_2_Configuration_HOWTO&redirect=no "GBrowse 2 Configuration HOWTO"))
 
 
-
-
-
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 GBrowse 2.0 is a complete rewrite of the original GBrowse version. In
@@ -80,9 +59,6 @@ system. Readers familiar with GBrowse 1.70 or earlier should start with
 the next section, which is a quick summary of what is different. Readers
 who have not installed or configured GBrowse before should skip to
 [GBrowse Installation](#GBrowse_Installation).
-
-
-
 
 
 ## Contents
@@ -1126,9 +1102,6 @@ These can be used with callbacks to bring in local or external html
 files, e.g.
 
 
-
-
-
 ``` de1
 header = sub{
        open FILEHANDLE, 'somefile.txt' or die $!;
@@ -1138,13 +1111,7 @@ header = sub{
 ```
 
 
-
-
-
 or
-
-
-
 
 
 ``` de1
@@ -1154,9 +1121,6 @@ header = sub{
        return $html_header;
        }
 ```
-
-
-
 
 
 ### <span id="Configured_Data_Source_Sections" class="mw-headline">Configured Data Source Sections</span>
@@ -2044,17 +2008,11 @@ more details.
 subtrack select, subtrack table, subtrack labels (new in 2.10)
 
 
-
-
-
 <a href="File:Subtrack_selection_table.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
 width="180" height="78" /></a>
-
-
-
 
 
 <a href="File:Subtrack_selection_table.png" class="internal"
@@ -2065,12 +2023,6 @@ height="11" /></a>
 
 
 Subtrack selector
-
-
-
-
-
-
 
 
 
@@ -2482,17 +2434,11 @@ hide the track when the display exceeds a certain size:
 ### <span id="Summary_Mode_.28new_in_version_2.09.29" class="mw-headline">Summary Mode (new in version 2.09)</span>
 
 
-
-
-
 <a href="File:Gbrowse_normal_mode.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/300px-Gbrowse_normal_mode.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/450px-Gbrowse_normal_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/600px-Gbrowse_normal_mode.png 2x"
 width="300" height="188" /></a>
-
-
-
 
 
 <a href="File:Gbrowse_normal_mode.png" class="internal"
@@ -2508,20 +2454,11 @@ Normal mode: each feature is rendered separately
 
 
 
-
-
-
-
-
-
 <a href="File:Gbrowse_summary_mode.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/300px-Gbrowse_summary_mode.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/450px-Gbrowse_summary_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/600px-Gbrowse_summary_mode.png 2x"
 width="300" height="188" /></a>
-
-
-
 
 
 <a href="File:Gbrowse_summary_mode.png" class="internal"
@@ -2532,9 +2469,6 @@ height="11" /></a>
 
 
 Summary mode: a density plot shows the number of features per interval
-
-
-
 
 
 
@@ -2675,9 +2609,6 @@ You need to know the Perl programming language to take advantage of this
 feature. The general format of this type of option is:
 
 
-
-
-
 ``` de1
   option name = sub {
               some perl code;
@@ -2685,9 +2616,6 @@ feature. The general format of this type of option is:
               even more perl code;
               }
 ```
-
-
-
 
 
 The value must begin with the sequence "sub {" in order to be recognized
@@ -2715,9 +2643,6 @@ this bgcolor subroutine will call the feature's primary_tag() method,
 and return "blue" if it is an exon, "orange" otherwise:
 
 
-
-
-
 ``` de1
   bgcolor = sub {
           my $feature = shift;
@@ -2725,9 +2650,6 @@ and return "blue" if it is an exon, "orange" otherwise:
           return "orange";
           }
 ```
-
-
-
 
 
 See the manual page for
@@ -2743,9 +2665,6 @@ example that draws the first and last parts of a feature in blue and the
 rest in red:
 
 
-
-
-
 ``` de1
    sub {
          my($feature,$option_name,$part_no,$total_parts,$glyph) = @_;
@@ -2756,14 +2675,8 @@ rest in red:
 ```
 
 
-
-
-
 If you need access to information in the parent of the feature (e.g. in
 a multipart feature), you can call the glyph's parent_feature() method:
-
-
-
 
 
 ``` de1
@@ -2774,9 +2687,6 @@ a multipart feature), you can call the glyph's parent_feature() method:
          return 'red';
          }
 ```
-
-
-
 
 
 The parent_feature() method was added to Bioperl on 17 April 2008. If
@@ -2792,9 +2702,6 @@ Bio::Graphics::Glyph object corresponding to the current track within
 the panel:
 
 
-
-
-
 ``` de1
   link = sub {
              my ($feature, $panel, $track) = @_;
@@ -2803,15 +2710,9 @@ the panel:
 ```
 
 
-
-
-
 Ordinarily you will only need to use the feature object. The other
 arguments are useful to look up panel-specific settings such as the
 pixel width of the panel or the state of the "flip" setting:
-
-
-
 
 
 ``` de1
@@ -2823,9 +2724,6 @@ pixel width of the panel or the state of the "flip" setting:
 ```
 
 
-
-
-
 ### <span id="Named_Subroutine_References" class="mw-headline">Named Subroutine References</span>
 
 If you use a version of BioPerl after April 15, 2003, you can also use
@@ -2833,9 +2731,6 @@ references to named subroutines as option arguments. To use named
 subroutines, add an init_code section to the \[GENERAL\] section of the
 configuration file. init_code should contain nothing but subroutine
 definitions and other initialization routines. For example:
-
-
-
 
 
 ``` de1
@@ -2858,9 +2753,6 @@ definitions and other initialization routines. For example:
 ```
 
 
-
-
-
 Then simply refer to these subroutines using the \\name syntax:
 
        [EST_ALIGNMENTS]
@@ -2870,9 +2762,6 @@ Then simply refer to these subroutines using the \\name syntax:
 
 You can declare global variables in the init_code subroutine if you use
 "no strict 'vars';" at the top of the section:
-
-
-
 
 
 ``` de1
@@ -2888,9 +2777,6 @@ You can declare global variables in the init_code subroutine if you use
                   }
                 }
 ```
-
-
-
 
 
 Due to the way the configuration file is parsed, there must be no empty
@@ -3201,16 +3087,6 @@ under construction)
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_HOWTO&oldid=25067>"
-
-
-
-
-
-
-
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
@@ -3224,22 +3100,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -3248,9 +3109,6 @@ Retrieved from
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_2.0_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -3264,27 +3122,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -3299,9 +3139,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -3310,9 +3147,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -3332,25 +3166,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3368,9 +3187,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

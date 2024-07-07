@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,23 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
-
-
-
 
 
 
@@ -250,9 +226,6 @@ In this case, we have specified all of our track configurations in
 `pythium-1.conf`.
 
 
-
-
-
 ``` de1
 ...
  
@@ -275,9 +248,6 @@ In this case, we have specified all of our track configurations in
    ...
 ]
 ```
-
-
-
 
 
 `track` specifies the track identifier (a unique name for the track, for
@@ -361,9 +331,6 @@ server, and add a snippet of configuration to JBrowse to add the track,
 similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_alignments",
@@ -373,9 +340,6 @@ similar to:
         "type" : "Alignments2"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -393,9 +357,6 @@ inject the track configuration:
 ### <span id="BAM_coverage" class="mw-headline">BAM coverage</span>
 
 
-
-
-
 ``` de1
      {
         "label" : "bam_coverage",
@@ -405,9 +366,6 @@ inject the track configuration:
         "type" : "SNPCoverage"
       }
 ```
-
-
-
 
 
 ### <span id="Quantitative_data" class="mw-headline">Quantitative data</span>
@@ -420,9 +378,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
      {
         "label" : "bigwig_bam_coverage",
@@ -433,9 +388,6 @@ the track, similar to:
         "variance_band" : true
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -462,9 +414,6 @@ to your web server, and add a snippet of configuration to JBrowse to add
 the track, similar to:
 
 
-
-
-
 ``` de1
       {
         "label" : "bam_variation",
@@ -474,9 +423,6 @@ the track, similar to:
         "type" : "HTMLVariants"
       }
 ```
-
-
-
 
 
 This can be added by either editing the `data/trackList.json` file with
@@ -510,9 +456,6 @@ be copied into the `data` directory for use with this configuration.
 Then a simple faceted track selection configuration might look like:
 
 
-
-
-
 ``` de1
    trackSelector: {
        type: 'Faceted',
@@ -523,9 +466,6 @@ Then a simple faceted track selection configuration might look like:
        ]
    }
 ```
-
-
-
 
 
 The `jbrowse_conf.json` file in the `jbrowse` directory already
@@ -598,32 +538,10 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/JBrowse_Tutorial&oldid=25911>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -634,9 +552,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Online_Training_2014/JBrowse_Tutorial&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -650,27 +565,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -687,9 +584,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -698,9 +592,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
-
-
-
 
 
 
@@ -720,25 +611,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Online_Training_2014-2FJBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -756,9 +632,6 @@ title="Visit the main page"></a>
   GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

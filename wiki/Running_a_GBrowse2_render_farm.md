@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") can be configured
@@ -47,9 +26,6 @@ thereby achieving improved performance. A slave can be attached to a
 particular track, a particular set of tracks, or to all tracks. In
 addition, you may assign multiple slaves to tracks, in which case the
 load will be distributed across each slave in a round-robin fashion.
-
-
-
 
 
 ## Contents
@@ -499,28 +475,9 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 
 
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Running_a_GBrowse2_render_farm&oldid=19033>"
-
-
-
-
-
-
-
 [Category](Special%3ACategories "Special%3ACategories"):
 
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-
-
-
-
-
-
-
-
-
 
 
 
@@ -531,12 +488,6 @@ Retrieved from
 
 
 
-
-
-
-
-
-
 ### Namespaces
 
 
@@ -544,9 +495,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Running_a_GBrowse2_render_farm&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -560,27 +508,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -595,9 +525,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -606,9 +533,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -628,25 +552,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Running_a_GBrowse2_render_farm"
   rel="smw-browse">Browse properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -664,9 +573,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

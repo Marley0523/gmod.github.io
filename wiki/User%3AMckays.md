@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 ## <span id="Sheldon_McKay" class="mw-headline">Sheldon McKay</span>
@@ -96,13 +75,7 @@ Digital signal processing of DNA
 The Mediawiki extension that opens and closes these sections
 
 
-
-
-
 Email: sheldon.mckay@gmail.com  
-
-
-
 
 
 - Active in the <span class="pops">[GMOD](Main_Page "Main Page")</span>
@@ -124,9 +97,6 @@ Email: sheldon.mckay@gmail.com
 - Annoying [Popup_Balloons](Popup_Balloons "Popup Balloons")
 
 
-
-
-
 **<a
 href="https://docs.google.com/document/d/1Getz3X-IntsEYnkIxJ5MEI8b1szMJOB4URrgTJxq_qY/pub"
 class="external text" rel="nofollow">View on Google Docs</a>**
@@ -137,32 +107,7 @@ class="external text" rel="nofollow">View on Google Docs</a>**
 
 
 
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=User%3AMckays&oldid=27229>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -176,9 +121,6 @@ Retrieved from
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-
-
-
 ### 
 
 ### Variants[](#)
@@ -190,27 +132,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -225,9 +149,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -236,9 +157,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -258,25 +176,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AMckays" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -294,9 +197,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 

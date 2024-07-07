@@ -2,16 +2,7 @@
 
 
 
-
-
-
-
-
-
 <span id="top"></span>
-
-
-
 
 
 
@@ -22,20 +13,8 @@
 
 
 
-From GMOD
-
-
-
-
-
-
-
-
 
 Jump to: [navigation](#mw-navigation), [search](#p-search)
-
-
-
 
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
@@ -97,9 +76,6 @@ If you have any suggestions or requests for the meeting, please contact
 the
 <a href="mailto:help@gmod.org" class="external text" rel="nofollow">GMOD
 help desk</a>.
-
-
-
 
 
 ## Contents
@@ -246,15 +222,9 @@ class="external text" rel="nofollow">here</a>.
   
 
 
-
-
-
 "It's tempting to see bioinformatics as a collection of potential
 problems. Being at a GMOD meeting helps us see bioinformatics as a
 collection of potential solutions."
-
-
-
 
 
 Isabelle Phan,
@@ -262,21 +232,8 @@ Isabelle Phan,
 rel="nofollow">SBRI</a>, and past GMOD meeting participant
 
 
-
-
-
 (Thanks to [Dave Clements](User%3AClements "User%3AClements") for the nice
 logo)
-
-
-
-
-
-Retrieved from
-"<http://gmod.org/mediawiki/index.php?title=Jun_2016_GMOD_Meeting&oldid=27269>"
-
-
-
 
 
 
@@ -291,22 +248,7 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 
 
@@ -317,9 +259,6 @@ Retrieved from
   href="http://gmod.org/mediawiki/index.php?title=Talk:Jun_2016_GMOD_Meeting&amp;action=edit&amp;redlink=1"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-
 
 
 ### 
@@ -333,27 +272,9 @@ Retrieved from
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
-
-
-
 
 
 ### Navigation
@@ -368,9 +289,6 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Documentation
 
 
@@ -379,9 +297,6 @@ title="Visit the main page"></a>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
-
-
-
 
 
 
@@ -401,25 +316,10 @@ title="Visit the main page"></a>
 
 
 
-
-
-
 ### Tools
-
-
-
 
 - <span id="t-smwbrowselink"><a href="Special%3ABrowse/Jun_2016_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -437,9 +337,6 @@ title="Visit the main page"></a>
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
 
 
 
