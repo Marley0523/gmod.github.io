@@ -88,7 +88,7 @@ Survey</a></li>
 </tbody>
 </table>
 
-### <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
+## <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
 
 See the [full list of GMOD
 components](GMOD_Components "GMOD Components")
