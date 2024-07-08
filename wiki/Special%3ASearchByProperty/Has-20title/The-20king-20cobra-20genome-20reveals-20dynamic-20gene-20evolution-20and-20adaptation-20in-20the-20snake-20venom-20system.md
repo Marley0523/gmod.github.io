@@ -95,10 +95,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20title/The-20king-20cobra-20genome-20reveals-20dynamic-20gene-20evolution-20and-20adaptation-20in-20the-20snake-20venom-20system&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

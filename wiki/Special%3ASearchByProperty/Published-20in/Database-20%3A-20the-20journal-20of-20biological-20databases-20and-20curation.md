@@ -99,10 +99,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Published-20in/Database-20%3A-20the-20journal-20of-20biological-20databases-20and-20curation&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

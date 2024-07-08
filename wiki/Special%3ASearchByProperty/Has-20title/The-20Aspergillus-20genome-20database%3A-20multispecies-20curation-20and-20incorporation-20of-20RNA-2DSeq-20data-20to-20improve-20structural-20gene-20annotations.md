@@ -95,10 +95,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database%3A-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

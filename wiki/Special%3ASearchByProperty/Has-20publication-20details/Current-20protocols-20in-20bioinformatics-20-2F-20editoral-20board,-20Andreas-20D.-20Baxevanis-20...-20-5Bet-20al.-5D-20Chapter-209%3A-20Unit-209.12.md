@@ -98,10 +98,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20publication-20details/Current-20protocols-20in-20bioinformatics-20-2F-20editoral-20board,-20Andreas-20D.-20Baxevanis-20...-20-5Bet-20al.-5D-20Chapter-209%3A-20Unit-209.12&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

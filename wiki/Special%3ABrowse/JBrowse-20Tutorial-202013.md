@@ -113,10 +113,7 @@ Enter the name of the page to start browsing from.
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/JBrowse-20Tutorial-202013&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

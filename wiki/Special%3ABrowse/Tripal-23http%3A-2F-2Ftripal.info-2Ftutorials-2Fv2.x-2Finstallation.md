@@ -117,10 +117,7 @@ Enter the name of the page to start browsing from.
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/Tripal-23http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

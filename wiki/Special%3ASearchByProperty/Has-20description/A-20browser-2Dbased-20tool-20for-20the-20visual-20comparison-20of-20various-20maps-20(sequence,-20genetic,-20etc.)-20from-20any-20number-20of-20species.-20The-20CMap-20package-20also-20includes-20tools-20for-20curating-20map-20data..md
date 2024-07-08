@@ -95,10 +95,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMap-20package-20also-20includes-20tools-20for-20curating-20map-20data.&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

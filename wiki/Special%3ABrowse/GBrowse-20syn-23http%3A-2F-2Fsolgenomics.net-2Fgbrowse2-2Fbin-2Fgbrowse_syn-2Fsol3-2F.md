@@ -117,10 +117,7 @@ Enter the name of the page to start browsing from.
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/GBrowse-20syn-23http%3A-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse_syn-2Fsol3-2F&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

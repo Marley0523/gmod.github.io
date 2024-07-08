@@ -88,10 +88,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20URL/http:-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src%3DCbri-253Bname%3DchrX:620000..670000&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

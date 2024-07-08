@@ -1,21 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">ABRF2010 Workshop</span>
-
-
-
-
-
-
-
-
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC"
 data-cellpadding="10">
@@ -49,12 +34,7 @@ Sacramento, CA, USA
 </tbody>
 </table>
 
-  
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Workshop</span>](#Workshop)
@@ -111,8 +91,6 @@ Sacramento, CA, USA
 - [<span class="tocnumber">2</span> <span class="toctext">Conference
   Talk</span>](#Conference_Talk)
 
-
-
 ## <span id="Workshop" class="mw-headline">Workshop</span>
 
 ### <span id="From_the_morning_session" class="mw-headline">From the morning session</span>
@@ -135,7 +113,7 @@ browser in use today, with several hundred servers around the world. For
 this tutorial, we created a server at
 <a href="http://gbrowse.gmod.org/gbrowse2" class="external free"
 rel="nofollow">http://gbrowse.gmod.org/gbrowse2</a>, and specifically, a
-GBrowse instance of *A. thaliana*
+GBrowse instance of _A. thaliana_
 <a href="http://gbrowse.gmod.org/fgb2/gbrowse/arabidopsis"
 class="external text" rel="nofollow">Chromosome 1</a>. You might want to
 open that in another tab now to follow along and try things out during
@@ -311,28 +289,21 @@ Changes:
     equals sign).
   - Used unique IDs for each of the reads.
 
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
 width="180" height="207" />
 
-
 <img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
 height="11" />
 
-
-
 Two BAM files displayed in GBrowse
-
-
-
 
 Finally, the best way to represent this data would be to create a BAM
 file, which would result in faster rendering, and the ability to show
-mismatches, like in this screen shot from an *E. coli* resequencing
+mismatches, like in this screen shot from an _E. coli_ resequencing
 project. BAM is a binary file format for storing alignment data in a
 very compact, fast to read way, as part of the
 <a href="http://samtools.sourceforge.net/" class="external text"
@@ -457,8 +428,6 @@ for people new to installing and configuring GBrowse:
     <a href="http://www.biocurator.org/home.shtml" class="external text"
     rel="nofollow">International Society of Biocuration</a> meeting.
 
-  
-
 ### <span id="JBrowse" class="mw-headline">JBrowse</span>
 
 <a
@@ -475,21 +444,17 @@ class="external text" rel="nofollow">HG19 (subset) demo</a>
 #### <span id="Differences" class="mw-headline">Differences</span>
 
 | GBrowse             | JBrowse                   |
-|---------------------|---------------------------|
+| ------------------- | ------------------------- |
 | Older               | Newer                     |
 | More functionality  | Faster, smoother UI       |
 | Does work on server | Moves work to web browser |
 
-  
-
 #### <span id="Similarities" class="mw-headline">Similarities</span>
 
 |                                |
-|--------------------------------|
+| ------------------------------ |
 | Same underlying Perl machinery |
 | Same data sources              |
-
-  
 
 The moving parts in JBrowse:
 
@@ -498,15 +463,12 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/Jbrowse_arch.png 2x"
 width="600" height="776" alt="Jbrowse arch.png" />
 
-  
 You have your own JBrowse instance on the server:
 
-  
 <a href="http://abrf2010.jbrowse.org/~profilename/"
 class="external free"
 rel="nofollow">http://abrf2010.jbrowse.org/~profilename/</a>
 
-  
 SSH into the ABRF jbrowse machine:
 <span style="font-size: large; font-family: monospace">abrf2010.jbrowse.org</span>
 
@@ -516,7 +478,6 @@ Password: abrf_HTS
 
     ssh profilename@abrf2010.jbrowse.org
 
-  
 Copy your GFF file from this morning to this machine:
 
     wget --http-user=abrf_workshop --http-password=abrf_HTS http://abrf.cgrb.oregonstate.edu/UserData/mitch/finaloutput-cashx_18887.dir/finaloutput-cashx.gff
@@ -529,7 +490,6 @@ Go into your JBrowse installation:
 
     cd public_html
 
-  
 Add the GFF file to your JBrowse instance:
 
     bin/flatfile-to-json.pl --gff2 ~mitch/finaloutput-cashx.gff --tracklabel "ABRF_Test" --key "ABRF Test" --cssclass feature3
@@ -539,13 +499,10 @@ Add the GFF file to your JBrowse instance:
 **Seeing the Forest and the Trees: Visualizing Next Generation Sequence
 Data**, by [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
 
-Part of the Session *Tools to Facilitate Management, Analysis and
-Visualization of 2nd Generation Sequencing Data*
+Part of the Session _Tools to Facilitate Management, Analysis and
+Visualization of 2nd Generation Sequencing Data_
 
 3:45pm - 5:00pm, Monday, March 22
-
-
-
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
@@ -556,48 +513,23 @@ Visualization of 2nd Generation Sequencing Data*
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -607,18 +539,12 @@ Visualization of 2nd Generation Sequencing Data*
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ABRF2010_Workshop" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/ABRF2010_Workshop" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 18:52 on 8 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 18:52 on 8 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">223,725 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -631,7 +557,3 @@ Visualization of 2nd Generation Sequencing Data*
   GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
 
 <!-- -->
-
-
-
-

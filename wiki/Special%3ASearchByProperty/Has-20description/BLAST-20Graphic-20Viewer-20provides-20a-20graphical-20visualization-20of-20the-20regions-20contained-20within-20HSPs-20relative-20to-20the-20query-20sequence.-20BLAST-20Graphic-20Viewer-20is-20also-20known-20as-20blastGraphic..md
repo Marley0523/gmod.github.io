@@ -96,10 +96,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20description/BLAST-20Graphic-20Viewer-20provides-20a-20graphical-20visualization-20of-20the-20regions-20contained-20within-20HSPs-20relative-20to-20the-20query-20sequence.-20BLAST-20Graphic-20Viewer-20is-20also-20known-20as-20blastGraphic.&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 
