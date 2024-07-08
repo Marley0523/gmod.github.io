@@ -60,30 +60,7 @@ More information about Canto:
 
 - [GMOD wiki page on Canto](../Canto "Canto") -- includes downloads and
   mailing list
-- <a href="http://curation.pombase.org/" class="external text"
-  rel="nofollow">Canto website at PomBase</a>
-- <a href="https://github.com/pombase/canto" class="external text"
-  rel="nofollow">Canto source code on GitHub</a>
 
-  
-
-
-
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013/12/02*
-
-
-
-
-
-
-[Categories](../Special%3ACategories "Special%3ACategories"):
-
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ACanto (page does not exist)">Canto</a>
 
 
 

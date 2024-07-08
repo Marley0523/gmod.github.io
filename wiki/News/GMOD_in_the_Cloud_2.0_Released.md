@@ -38,36 +38,7 @@ take a day or two for DNS to update fully).
 This AMI has several GMOD software packages installed and configured,
 including:
 
-- <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> 1.23
-- [Tripal](../Tripal.1 "Tripal") 1.0 (plus a few bug fixes from dev)
-- [GBrowse](../GBrowse.1 "GBrowse") 2.54 (with samtools, BigWig and
-  fastCGI support)
-- [JBrowse](../JBrowse.1 "JBrowse") 1.9.5
-- [WebApollo](../WebApollo.1 "WebApollo") (most recent release from May,
-  2013)
 
-For more information about GMOD in the Cloud, [visit the Cloud page on
-the wiki](../Cloud.1 "Cloud"), and post questions about using GMOD in
-the Cloud to the GMOD developers mailing list,
-gmod-devel@lists.sourceforge.net.
-
-  
-
-
-
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013/06/14*
-
-
-
-
-
-
-[Categories](../Special%3ACategories "Special%3ACategories"):
-
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ACloud&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ACloud (page does not exist)">Cloud</a>
 - [GMOD in the
   Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
 

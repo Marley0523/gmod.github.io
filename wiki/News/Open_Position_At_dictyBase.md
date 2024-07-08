@@ -50,14 +50,8 @@ details.
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [DictyBase](../Category%3ADictyBase "Category%3ADictyBase")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AJobs&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AJobs (page does not exist)">Jobs</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASoftware_Engineer&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASoftware Engineer (page does not exist)">Software
-  Engineer</a>
+
+
 
 
 

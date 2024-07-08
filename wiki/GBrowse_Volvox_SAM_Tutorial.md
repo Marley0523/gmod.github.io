@@ -218,9 +218,7 @@ the quality. How do you suppose it does that?
 - [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ANGS&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ANGS (page does not exist)">NGS</a>
+
 - [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
 
 

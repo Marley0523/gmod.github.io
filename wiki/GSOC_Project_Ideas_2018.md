@@ -309,9 +309,7 @@ Here is a list of the proposed project ideas for 2018:
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGSOC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AGSOC (page does not exist)">GSOC</a>
+
 - [GSoC](Category%3AGSoC "Category%3AGSoC")
 
 

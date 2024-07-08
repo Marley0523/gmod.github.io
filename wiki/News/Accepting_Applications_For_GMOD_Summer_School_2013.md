@@ -62,11 +62,7 @@ rel="nofollow">help@gmod.org</a> and we will be happy to answer them.
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-  School</a>
+
 
 
 

@@ -275,9 +275,7 @@ JBrowse will have it pulling track data from S3.
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
+
 
 
 

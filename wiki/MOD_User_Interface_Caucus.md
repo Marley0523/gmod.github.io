@@ -84,28 +84,15 @@ comment' link below.
 
 - [Face Caucus ApiDB: User Studies and Impact on
   Development](Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development "Face Caucus ApiDB: User Studies and Impact on Development")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Face_Caucus_SGD:_Searches_and_retrieval_tools_at_SGD&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Face Caucus SGD: Searches and retrieval tools at SGD (page does not exist)">Face
-  Caucus SGD: Searches and retrieval tools at SGD</a>
+
 - [Face Caucus SGN: Associating Solanaceae loci with
   phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Face_Caucus_UCSC%3A_User_Interface_Issues_%26_Challenges_in_a_Many_Organism_Database&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Face Caucus UCSC: User Interface Issues &amp; Challenges in a Many Organism Database (page does not exist)">Face
-  Caucus UCSC: User Interface Issues &amp; Challenges in a Many Organism
-  Database</a>
+
 - [MOD User Interfaces: outline of
   topics](MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics")
 - [MOD User Interfaces: Sample of several MOD Top Level
   functions](MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Sign-up_sheet_for_MOD_Interface_Caucus&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Sign-up sheet for MOD Interface Caucus (page does not exist)">Sign-up
-  sheet for MOD Interface Caucus</a>
+
 
 
 

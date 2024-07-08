@@ -107,72 +107,7 @@ McKay](../User%3AMckays "User%3AMckays") at the
 <a href="http://www.ebi.ac.uk" class="external text"
 rel="nofollow">European Bioinformatics Institute</a>, Hinxton, UK.
 
-- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf"
-  class="internal" title="GBrowse synSMBE2009.pdf">Comparative Genomics
-  with GBrowse_syn</a> - Presentation by [Sheldon
-  McKay](../User%3AMckays "User%3AMckays") at the <a
-  href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
-  class="external text" rel="nofollow">SMBE 2009 GMOD Workshop</a> on
-  using [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") for [comparative
-  genomics](../Category%3AComparative_Genomics "Category%3AComparative Genomics").
-- [GBrowse_syn at
-  PAG](../GBrowse_syn_PAG_2009_Workshop "GBrowse syn PAG 2009 Workshop") -
-  Presentation by [Sheldon McKay](../User%3AMckays "User%3AMckays") at the
-  Plant and Animal Genomes meeting, San Diego, CA, USA.
-- <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf" class="internal"
-  title="Gbrowse syn.pdf">November 2007</a> - [Sheldon
-  McKay](../User%3AMckays "User%3AMckays")'s presentation on GBrowse_syn at
-  the [November 2007 GMOD
-  Meeting](../November_2007_GMOD_Meeting#GBrowse_Syn "November 2007 GMOD Meeting").
-
-\| tutorials =
-
-<a href="../GBrowse_syn_Tutorial" class="mw-redirect"
-title="GBrowse syn Tutorial">GBrowse syn Tutorial</a>  
-Installing and configuring GBrowse_syn; from the [2013 GMOD Summer
-School](../2013_GMOD_Summer_School "2013 GMOD Summer School")
-
-\| wild_urls = \*<a
-href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501"
-class="external text" rel="nofollow">The Arabidopsis Information
-Resource</a>
-
-- <a
-  href="http://dev.wormbase.org/db/seq/gbrowse_syn/compara?search_src=Cele;name=X:1050001..1150000"
-  class="external text" rel="nofollow">WormBase</a>
-- <a href="http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/"
-  class="external text" rel="nofollow">Sol Genomics</a>
-
-\| mail = Support is via the GBrowse mailing list:
-
-|                                                                                   |                                                                                                           |                                                                   |            |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
-|                                                                                   | Mailing List Link                                                                                         | Description                                                       | Archive(s) |
-| [GBrowse](../GBrowse.1 "GBrowse") & [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"                                       |
-| class="external text" rel="nofollow">gmod-gbrowse</a>                             | [GBrowse](../GBrowse.1 "GBrowse") and [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn") users and developers. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.gbrowse" |
-
-class="external text" rel="nofollow">Gmane</a>, <a href="http://gmod.827538.n3.nabble.com/GBrowse-f815907.html"
-class="external text" rel="nofollow">Nabble (2010/05+)</a>, <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse"
-class="external text" rel="nofollow">Sourceforge</a> |
-| | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-gbrowse-cmts"
-class="external text" rel="nofollow">gmod-gbrowse-cmts</a> | Code updates. | <a
-href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-gbrowse-cmts"
-class="external text" rel="nofollow">Sourceforge</a> |
-
-\| logo_info = The [GBrowse_syn
-logo](../File:GBrowse_syn_logo.png "File:GBrowse syn logo.png") was
-created by
-<a href="mailto:NextLevelDesignStudios@gmail.com" class="external text"
-rel="nofollow">Darek Lakey</a>, a participant in the [Spring 2010 Logo
-Program](../Spring_2010_Logo_Program "Spring 2010 Logo Program"), while
-a design student at
-<a href="http://www.linnbenton.edu" class="external text"
-rel="nofollow">Linn-Benton Community College</a>. \| dev_ppl = \|
-dev_status = See the <a
-href="http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_syn/tool_data&amp;action=edit&amp;redlink=1"
-class="new"
-title="Talk%3AGBrowse syn/tool data (page does not exist)">discussion
-page</a> for notes on further GBrowse_syn development. \| contact_email
+ for notes on further GBrowse_syn development. \| contact_email
 = <a href="mailto:mckays@cshl.edu" class="external text"
 rel="nofollow">Sheldon Mckay</a> \| input = \| output = \| see_also =
 The focus of this documentation is the GBrowse_syn application. However,
@@ -180,49 +115,7 @@ the generation of whole genome alignments and identification of
 orthologous regions are the subject of considerable interest, so some
 background reading is listed below:
 
-- <a
-  href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-104.html"
-  class="external text" rel="nofollow">Primer on Hierarchical Genome
-  Alignment Strategies</a>
-- <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577869/"
-  class="external text" rel="nofollow">article on PECAN and ENREDO</a>
-- <a href="http://www.ebi.ac.uk/~bjp/pecan/" class="external text"
-  rel="nofollow">all about PECAN</a>
-- <a href="http://www.ensembl.org/info/website/archives/index.html"
-  class="external text" rel="nofollow">Information about EnsEMBL's compara
-  pipeline</a>
 
-\| demo_server = <a
-href="http://mckay.cshl.edu/cgi-bin/gbrowse_syn/mercator/?search_src=Cbri;name=chrX:620000..670000"
-class="external free"
-rel="nofollow">http://mckay.cshl.edu/cgi-bin/gbrowse_syn/mercator/?search_src=Cbri;name=chrX:620000..670000</a>
-\| survey_link = GBrowse_syn \|release date=2007 \| extras =
-
-
-
-[Cloud component](../Cloud.1 "Cloud")
-
-
-
-Included in
-
-
-[<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/150px-GitcLogo.png"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/225px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/300px-GitcLogo.png 2x"
-width="150" height="86" alt="Cloud component" />](../Cloud.1 "Cloud")
-
-
-**Cite error: `<ref>` tags exist, but no `<references/>` tag was found**
-
-
-
-
-[Categories](../Special%3ACategories "Special%3ACategories"):
-
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
 - [GMOD in the
   Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
 - [GMOD

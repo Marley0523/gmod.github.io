@@ -81,9 +81,7 @@ rel="nofollow">http://www.csiro.au</a>).
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ANGS&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ANGS (page does not exist)">NGS</a>
+
 - [External](Category%3AExternal "Category%3AExternal")
 
 

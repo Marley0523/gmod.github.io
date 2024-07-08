@@ -50,10 +50,7 @@ See you there, tweeps!
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GMOD Community](../Category%3AGMOD_Community "Category%3AGMOD Community")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASocial_Media&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ASocial Media (page does not exist)">Social
-  Media</a>
+
 
 
 

@@ -69,35 +69,7 @@ management point for MOD user accounts.
 
 ## <span id="Demo_.26_Screenshot" class="mw-headline">Demo & Screenshot</span>
 
-- <a href="http://www.xenbase.org/communitydemo/demo.html"
-  class="external text" rel="nofollow">Latest demo</a>
 
-  
-
-## <span id="Requirements" class="mw-headline">Requirements</span>
-
-Currently, the community database schema is a standalone database built
-on an IBM DB2 relational database. However, it will soon be ported to
-Postgres and will be fully integrated with the Chado Schema. The
-community module requires a Java servlet engine satisfying the Servlet
-2.3 and JSP 1.2 specs; Tomcat 4.1.3 is an example of a supporting
-servlet engine.
-
-  
-
-## <span id="Documentation" class="mw-headline">Documentation</span>
-
-- <a href="http://www.xenbase.org/communitydemo/communitymodel.pdf"
-  class="external text" rel="nofollow">Database schema</a>
-- Javadoc based technical documentation will be provided in the future.
-
-  
-
-## <span id="Contact" class="mw-headline">Contact</span>
-
-<a
-href="http://gmod.org/mediawiki/index.php?title=Jeff_Bowes&amp;action=edit&amp;redlink=1"
-class="new" title="Jeff Bowes (page does not exist)">Jeff Bowes</a>
 
 
 

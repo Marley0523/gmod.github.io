@@ -62,9 +62,7 @@ We will have more information closer to the time.
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
 - [GMOD in the
   Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ACanto (page does not exist)">Canto</a>
+
 
 
 

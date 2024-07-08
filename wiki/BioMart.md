@@ -36,10 +36,7 @@ alt="BioMart" /></a>
 - [BioMart](Category%3ABioMart "Category%3ABioMart")
 - [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+
 
 
 

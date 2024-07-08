@@ -37,52 +37,7 @@ release</strong></a> --
 <a href="http://genomearchitect.org/WebApolloDemo" class="external text"
 rel="nofollow">Public demo</a> --
 <a href="http://www.gmod.org/wiki/WebApollo_Installation"
-class="external text" rel="nofollow">Server setup instructions</a> -- <a
-href="http://genomearchitect.org/webapollo/docs/webapollo_user_guide.pdf"
-class="external text" rel="nofollow">Updated user guide</a>
-
-Summary of changes:
-
-- Fully revamped genomic sequence selection screen
-  - sorting by name and length (uses customizable JavaScript function)
-  - filtering of genomic sequence names
-- Annotation info editor
-  - allows editing of symbols, comments, and dbxrefs
-- Script for bulk loading gene/transcript/exons to annotation track
-- Improved login system
-  - allows logging in from either genomic region selection screen or
-    editor
-- Configuration for using computed CDS (if available) when first
-  creating a transcript (rather that using the longest ORF)
-- Improved memory management
-- Improved handling of concurrent edits
-- HTTPS support
-- Deletion of transcripts now warn users
-- Accessing editor without logging in hides annotation track
-- Using "\[" and "\]" to navigate through subfeatures when a feature in
-  the annotation track is selected
-- Improved interface for adding insertions and deletions
-- Option to hide plus and/or minus strand
-- Various bugfixes
-
-  
-
-
-
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013/05/17*
-
-
-
-
-
-
-[Categories](../Special%3ACategories "Special%3ACategories"):
-
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
+class="external text" rel="nofollow">Server setup instructions</a> -
 
 
 

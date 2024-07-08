@@ -581,64 +581,7 @@ reference.
 
 ### <span id="Software_Used" class="mw-headline">Software Used</span>
 
-- <a href="http://apache.org" class="external text"
-  rel="nofollow">Apache</a> Web server
-- PHP (both command-line and web module)
-- <a href="http://www.postgresql.org" class="external text"
-  rel="nofollow">PostgreSQL</a> database management system
-- phpPgAdmin (for easy database administration)
 
-### <span id="Web_Prep" class="mw-headline">Web Prep</span>
-
-#### <span id="Install_.26_Setup_PHP" class="mw-headline">Install & Setup PHP</span>
-
-First install php5 using Ubuntu's apt-get utility:
-
-``` enter
-   sudo apt-get install php5
-   sudo apt-get install php5-pgsql
-   sudo apt-get install php5-cli
-   sudo apt-get install php5-gd
-```
-
-  
-Change some php settings (as root):
-
-``` enter
-   cd /etc/php5/apache2
-   sudo gedit php.ini
-```
-
-  
-Set the `memory_limit` to something larger than `16M` (should not exceed
-physical memory, be conservative but not too much so):
-
-      memory_limit = 2048M;
-
-  
-Now, restart the webserver:
-
-      sudo /etc/init.d/apache2 restart
-
-  
-Do the same for the command-line `php.ini`:
-
-``` enter
-   cd /etc/php5/cli/
-   sudo gedit php.ini
-```
-
-Set the memory limit:
-
-      memory_limit = 2048M;
-
-  
-
-#### <span id="Install_phpPgAdmin" class="mw-headline">Install phpPgAdmin</span>
-
-phpPgAdmin is a nice web-based utility for easy administration of a <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:PostgreSQL&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:PostgreSQL (page does not exist)">PostgreSQL</a>
 database. It is not required for successful operation of Tripal but is
 very useful.
 

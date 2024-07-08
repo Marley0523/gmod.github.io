@@ -195,11 +195,7 @@ implementation.
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [XML](Category%3AXML "Category%3AXML")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
-  Pages</a>
+
 
 
 

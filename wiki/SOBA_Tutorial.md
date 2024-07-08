@@ -683,11 +683,7 @@ SOBAcl --columns file   --rows type --data length --data_type mean \
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [2012 Summer
   School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-  School</a>
+
 
 
 

@@ -68,9 +68,7 @@ rel="nofollow">help@gmod.org</a> for advice!
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGSOC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AGSOC (page does not exist)">GSOC</a>
+
 - [GSoC](../Category%3AGSoC "Category%3AGSoC")
 
 

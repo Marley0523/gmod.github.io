@@ -37,9 +37,7 @@ This tutorial uses the AWS AMI ' ***named '*** in the '
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
+
 - [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
 
 

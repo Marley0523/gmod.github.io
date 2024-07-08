@@ -56,9 +56,7 @@ rel="nofollow">Steven Cannon</a>.
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AJobs&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AJobs (page does not exist)">Jobs</a>
+
 
 
 

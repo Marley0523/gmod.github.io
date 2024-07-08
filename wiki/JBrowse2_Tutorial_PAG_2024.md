@@ -1095,9 +1095,7 @@ width="800" height="460" alt="Dotplot config.png" /></a>
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
+
 
 
 

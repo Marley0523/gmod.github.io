@@ -665,9 +665,7 @@ To completely disable generation of the data sources popup menu, set
 - [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
 - [HOWTO](../Category%3AHOWTO "Category%3AHOWTO")
 - [GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AInstall&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AInstall (page does not exist)">Install</a>
+
 
 
 

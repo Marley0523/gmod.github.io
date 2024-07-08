@@ -70,9 +70,7 @@ a preview of the JBrowse 2 application.
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
 - [Conferences](Category%3AConferences "Category%3AConferences")
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
+
 
 
 

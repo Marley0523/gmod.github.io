@@ -478,13 +478,8 @@ non-trivial.
 
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 - [Computing](Category%3AComputing "Category%3AComputing")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AGFF (page does not exist)">GFF</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AFile_Formats&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AFile Formats (page does not exist)">File
-  Formats</a>
+
+
 
 
 
