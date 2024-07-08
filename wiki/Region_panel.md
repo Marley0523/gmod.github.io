@@ -101,8 +101,7 @@ See also: the [overview panel](Overview_panel "Overview panel").
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

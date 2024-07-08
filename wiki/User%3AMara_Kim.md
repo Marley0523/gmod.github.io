@@ -104,8 +104,7 @@ title="MaraKim GMOD2014.pdf">Jan 2014 GMOD meeting</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

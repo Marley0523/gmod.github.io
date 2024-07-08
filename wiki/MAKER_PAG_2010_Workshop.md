@@ -27,66 +27,7 @@ data-cellpadding="10">
 <tbody>
 <tr class="odd">
 <td><a href="http://www.intl-pag.org/" rel="nofollow"
-title="PAG 2009"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif"
-width="114" height="107" alt="PAG 2009" /></a></td>
-<td data-valign="center"><strong><a
-href="http://www.intl-pag.org/18/18-maker.html" class="external text"
-rel="nofollow">MAKER: An easy to use genome annotation
-pipeline</a></strong><br />
-<br />
-January 9-13, 2010<br />
-<a href="http://www.intl-pag.org/" class="external text"
-rel="nofollow">Plant and Animal Genome Conference</a><br />
-San Diego, California, USA</td>
-</tr>
-</tbody>
-</table>
-
-  
-This page provides additional information about the
-<a href="http://www.intl-pag.org/18/18-maker.html" class="external text"
-rel="nofollow">MAKER workshop</a> at the
-<a href="http://www.intl-pag.org/" class="external text"
-rel="nofollow">Plant and Animal Genome XVIII Conference</a> ([PAG
-2010](PAG_2010 "PAG 2010")) held in San Diego on January 9-13, 2009.
-
-  
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span>
-  <span class="toctext">Slides</span>](#Slides)
-- [<span class="tocnumber">2</span>
-  <span class="toctext">Overview</span>](#Overview)
-- [<span class="tocnumber">3</span> <span class="toctext">Workshop
-  Instructor</span>](#Workshop_Instructor)
-- [<span class="tocnumber">4</span> <span class="toctext">Tutorial
-  Level</span>](#Tutorial_Level)
-- [<span class="tocnumber">5</span> <span class="toctext">Other GMOD
-  Presentations and
-  Meetings</span>](#Other_GMOD_Presentations_and_Meetings)
-
-
-
-## <span id="Slides" class="mw-headline">Slides</span>
-
-This presentation is now [available
-online](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf").
-
-## <span id="Overview" class="mw-headline">Overview</span>
-
-
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
-width="500" height="301" />
-
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
+title="PAG 2009">
 
 
 
@@ -244,8 +185,7 @@ GMOD-related presentations at PAG XVIII.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

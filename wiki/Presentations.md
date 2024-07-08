@@ -196,8 +196,7 @@ title="01-NESC January 2006-LINCOLN.pdf">01-NESC_January_2006-LINCOLN.pdf</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

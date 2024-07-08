@@ -173,8 +173,7 @@ title="Property:Interactor (page does not exist)">Interactor</a> | InterMine <sp
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

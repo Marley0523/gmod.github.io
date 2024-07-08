@@ -272,8 +272,7 @@ The alignment coordinates are stored in two featurelocs in the
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

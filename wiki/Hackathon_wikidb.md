@@ -253,8 +253,7 @@ into Chado with transaction update checks, via XORT (script 3).
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

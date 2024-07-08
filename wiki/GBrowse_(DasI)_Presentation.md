@@ -238,8 +238,7 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -2447,8 +2447,7 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -516,16 +516,7 @@ fix with:
     GRANT SELECT ON analysisfeature                  TO www;
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
-class="thumbimage"
-srcset=" http://gmod.org/wiki/1.5x,  http://gmod.org/wiki/2x"
-width="600" height="436" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
 
 
 
@@ -615,8 +606,7 @@ It works!!!
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

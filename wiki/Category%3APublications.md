@@ -352,8 +352,7 @@ The following 10 files are in this category, out of 10 total.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

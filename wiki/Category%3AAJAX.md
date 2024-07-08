@@ -152,8 +152,7 @@ title="September 2010 GMOD Meeting">September 2010 GMOD Meeting</a></li>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

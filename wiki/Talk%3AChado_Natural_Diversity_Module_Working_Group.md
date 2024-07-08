@@ -577,8 +577,7 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

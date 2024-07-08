@@ -52,63 +52,7 @@ Resources
 ## <span id="What_is_it.3F" class="mw-headline">What is it?</span>
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
-width="300" height="169" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
-
-
-
-Screenshot of the Ergatis pipeline monitor
-
-
-
-
-(From <a href="http://ergatis.sourceforge.net" class="external free"
-rel="nofollow">http://ergatis.sourceforge.net</a>) :
-
-Ergatis is a web-based utility that is used to create, run, and monitor
-reusable computational analysis pipelines. It contains pre-built
-components for common bioinformatics analysis tasks. These components
-can be arranged graphically to form highly-configurable pipelines. Each
-analysis component supports multiple output formats, including the
-Bioinformatic Sequence Markup Language (BSML). The current
-implementation includes support for data loading into project databases
-following the
-<a href="Chado" class="mw-redirect" title="Chado">Chado</a> schema, a
-highly normalized, community-supported schema for storage of biological
-annotation data.
-
-Ergatis uses the Workflow engine to process its work on a compute grid.
-Workflow provides an [XML](Glossary#XML "Glossary") language and
-processing engine for specifying the steps of a computational pipeline.
-It provides detailed execution status and logging for process auditing,
-facilitates error recovery from point of failure, and is highly scalable
-with support for distributed computing environments. The XML format
-employed enables commands to be run serially, in parallel, and in any
-combination or nesting level.
-
-This framework has been employed in the annotation of several large,
-eukaryotic organisms, including *Aedes aegypti* and *Trichomonas
-vaginalis*.
-
-
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
-width="300" height="351" />
-
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
 
 
 
@@ -243,8 +187,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

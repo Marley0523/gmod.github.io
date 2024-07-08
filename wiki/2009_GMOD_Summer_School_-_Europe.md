@@ -656,8 +656,7 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

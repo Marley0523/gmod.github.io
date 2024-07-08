@@ -186,8 +186,7 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

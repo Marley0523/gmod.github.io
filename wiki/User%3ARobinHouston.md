@@ -100,8 +100,7 @@ Phone: +44 1223 834244, extension 2217
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

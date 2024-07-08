@@ -164,8 +164,7 @@ class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -62,17 +62,7 @@ rel="nofollow">WebGBrowse at CGB</a>.
 \| screenshot =
 
 
-<a href="../File:WebGBrowseAddTrack.jpg" class="image"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/300px-WebGBrowseAddTrack.jpg"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/450px-WebGBrowseAddTrack.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/600px-WebGBrowseAddTrack.jpg 2x"
-width="300" height="111" /></a>
-
-
-<a href="../File:WebGBrowseAddTrack.jpg" class="internal"
-title="Enlarge"><img
-src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+<a href="../File:WebGBrowseAddTrack.jpg" class="image"></a>
 
 
 
@@ -180,8 +170,7 @@ title="Visit the main page"></a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

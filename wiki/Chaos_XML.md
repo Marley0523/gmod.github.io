@@ -265,8 +265,7 @@ chado table [organism](Chado_Tables#Table:_organism "Chado Tables").
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -197,8 +197,7 @@ title="Property:Has full name (page does not exist)">Has full name</a> | Gener
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

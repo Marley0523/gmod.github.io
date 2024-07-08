@@ -275,8 +275,7 @@ An example WIG(BED) to [GFF3](GFF3 "GFF3") converter
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

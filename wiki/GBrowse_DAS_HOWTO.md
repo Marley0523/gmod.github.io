@@ -257,8 +257,7 @@ from the local database, but from the database via the DAS protocol.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

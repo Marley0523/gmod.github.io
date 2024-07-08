@@ -97,8 +97,7 @@ The links to the Administration Tutorials above are broken!
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

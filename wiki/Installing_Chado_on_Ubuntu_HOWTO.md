@@ -219,8 +219,7 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

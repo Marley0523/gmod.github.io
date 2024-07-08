@@ -308,8 +308,7 @@ http://gmod.org/wiki/
 
 <!-- -->
 
-- <span id="footer-places-about">[Abouthttp://gmod.org/wiki/
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

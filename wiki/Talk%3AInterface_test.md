@@ -123,8 +123,7 @@ rel="nofollow">http://marmot.bio.indiana.edu/wiki/index.php/Participants</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

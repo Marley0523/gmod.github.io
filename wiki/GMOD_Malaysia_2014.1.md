@@ -222,8 +222,7 @@ very grateful to be a beneficiary of this generous program.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

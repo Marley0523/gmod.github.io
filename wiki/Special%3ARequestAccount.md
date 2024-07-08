@@ -144,8 +144,7 @@ have specified under "Real name" is in fact my own real name.
 
 
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

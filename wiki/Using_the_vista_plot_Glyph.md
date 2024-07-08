@@ -18,16 +18,7 @@
 
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/180px-Vista_plot.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/270px-Vista_plot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/360px-Vista_plot.png 2x"
-width="180" height="46" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
 
 
 
@@ -5649,8 +5640,7 @@ determine how to get the peak positions.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

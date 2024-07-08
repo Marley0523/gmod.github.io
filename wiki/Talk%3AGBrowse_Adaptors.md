@@ -100,8 +100,7 @@ adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

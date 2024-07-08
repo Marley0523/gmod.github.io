@@ -151,8 +151,7 @@ development, and the Genbank to GFF to Chado loading has some losses.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

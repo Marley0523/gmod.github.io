@@ -166,8 +166,7 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -217,8 +217,7 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -466,8 +466,7 @@ title="Special%3ASearchByProperty/Has-20subobject/MAKER-23http:-2F-2Fhymenoptera
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

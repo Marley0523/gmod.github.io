@@ -334,8 +334,7 @@ rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_On
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

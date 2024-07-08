@@ -228,8 +228,7 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

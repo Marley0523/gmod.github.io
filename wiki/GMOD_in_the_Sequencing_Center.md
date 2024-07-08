@@ -172,8 +172,7 @@ title="Template:ThisIsATET (page does not exist)">Template:ThisIsATET</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

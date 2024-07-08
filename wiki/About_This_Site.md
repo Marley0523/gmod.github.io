@@ -120,8 +120,7 @@ If you have further questions about the GMOD web site please contact the
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

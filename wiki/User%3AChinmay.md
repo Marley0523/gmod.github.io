@@ -94,8 +94,7 @@ rel="nofollow">GeneDB</a> project at The Sanger Institute, Cambridge, UK
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

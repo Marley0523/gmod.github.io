@@ -114,149 +114,7 @@ Website hits were measured using AWStats during this period.
 #### <span id="By_Month" class="mw-headline">By Month</span>
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/350px-Gmod-awstats-graph.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/525px-Gmod-awstats-graph.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8a/Gmod-awstats-graph.png/700px-Gmod-awstats-graph.png 2x"
-width="350" height="234" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
-
-
-
-GMOD.org monthly visitors
-
-
-
-
-AWStats does not measure new visits, but the column has been left in for
-consistency.
-
-| Month of Year | Unique Visitors | Visits | Pageviews | New Visits |
-|---------------|-----------------|--------|-----------|------------|
-| 2007-11\*     | 5698            | 8359   | 57353     |            |
-| 2007-12       | 12998           | 19768  | 48527     |            |
-| 2008-01       | 14940           | 23944  | 64760     |            |
-| 2008-02       | 14393           | 22641  | 66698     |            |
-| 2008-03       | 16199           | 30275  | 89799     |            |
-| 2008-04       | 17942           | 30708  | 86401     |            |
-| 2008-05       | 17848           | 30109  | 90081     |            |
-| 2008-06       | 20012           | 32697  | 89789     |            |
-| 2008-07       | 18350           | 33436  | 83218     |            |
-| 2008-08       | 18491           | 30679  | 76514     |            |
-| 2008-09       | 15877           | 25054  | 69782     |            |
-| 2008-10       | 16109           | 26661  | 76248     |            |
-| 2008-11       | 15657           | 27524  | 98984     |            |
-| 2008-12       | 15716           | 27041  | 65991     |            |
-| 2009-01       | 16820           | 30454  | 79953     |            |
-| 2009-02       | 16616           | 29740  | 73542     |            |
-| 2009-03       | 19560           | 34022  | 88291     |            |
-| 2009-04       | 19343           | 31309  | 84973     |            |
-| 2009-05       | 18254           | 27179  | 75503     |            |
-| 2009-06       | 18364           | 28361  | 77664     |            |
-| 2009-07       | 19529           | 29195  | 86180     |            |
-| 2009-08       | 19017           | 28921  | 80007     |            |
-| 2009-09       | 18737           | 29800  | 87966     |            |
-| 2009-10       | 19068           | 31569  | 101654    |            |
-| 2009-11       | 18805           | 31742  | 98863     |            |
-| 2009-12       | 18952           | 30681  | 93991     |            |
-| 2010-01       | 21265           | 33483  | 97861     |            |
-| 2010-02       | 20518           | 32921  | 96617     |            |
-| 2010-03       | 22631           | 36819  | 102694    |            |
-| 2010-04       | 21494           | 32912  | 90138     |            |
-| 2010-05       | 23740           | 35454  | 93229     |            |
-| 2010-06       | 24654           | 37228  | 106468    |            |
-| 2010-07       | 26551           | 39740  | 109516    |            |
-| 2010-08       | 26016           | 39598  | 106543    |            |
-| 2010-09       | 24127           | 38040  | 105814    |            |
-| 2010-10       | 24318           | 38256  | 101367    |            |
-| 2010-11       | 23466           | 37522  | 103603    |            |
-| 2010-12       | 21490           | 34235  | 89198     |            |
-
-\* Partial results
-
-  
-
-#### <span id="By_Year" class="mw-headline">By Year</span>
-
-| Year   | Unique Visitors | Visits  | Pageviews | New Visits |
-|--------|-----------------|---------|-----------|------------|
-| \*2007 | \*\*            | 28127   | 105880    |            |
-| 2008   | \*\*            | 340769  | 958265    |            |
-| 2009   | \*\*            | 362973  | 1028587   |            |
-| 2010   | \*\*            | 436208  | 1203048   |            |
-| Total  | \*\*            | 1168077 | 3295780   |            |
-
-\* Partial results
-
-\*\* Summing unique visitors from multiple months is not meaningful.
-
-  
-
-#### <span id="See_Also" class="mw-headline">See Also</span>
-
-- [Special%3APopularPages](Special%3APopularPages "Special%3APopularPages") -
-  List of wiki pages, showing and ranked by number of visits.
-
-  
-
-## <span id="Sourceforge_Statistics_Pages" class="mw-headline">Sourceforge Statistics Pages</span>
-
-These show web traffic, downloads, and version control activity for the
-projects.
-
-| SourceForge Project                                                 |
-|---------------------------------------------------------------------|
-| <a href="https://sourceforge.net/projects/gmod/stats/timeline"      
- class="external text" rel="nofollow">GMOD</a>                        |
-| <a href="https://sourceforge.net/projects/ergatis/stats/timeline"   
- class="external text" rel="nofollow">Ergatis</a>                     |
-| <a href="https://sourceforge.net/projects/isga/stats/timeline"      
- class="external text" rel="nofollow">ISGA</a>                        |
-| <a href="https://sourceforge.net/projects/gmod-ware/stats/timeline" 
- class="external text" rel="nofollow">Modware</a>                     |
-| <a href="https://sourceforge.net/projects/sybil/stats/timeline"     
- class="external text" rel="nofollow">Sybil</a>                       |
-| <a href="https://sourceforge.net/projects/turnkey/stats/timeline"   
- class="external text" rel="nofollow">Turnkey</a>                     |
-
-## <span id="Events" class="mw-headline">Events</span>
-
-### <span id="Meetings" class="mw-headline">[Meetings](Meetings "Meetings")</span>
-
-| Date | Meeting | Registrations | Comments | Evaluation |
-|----|----|----|----|----|
-| 2007-11 | [November 2007 GMOD Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting") | 39 |  |  |
-| 2008-07 | [July 2008 GMOD Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") | 31 | First meeting held outside the United States, in Toronto, Canada. |  |
-| 2009-01 | [January 2009 GMOD Meeting](January_2009_GMOD_Meeting "January 2009 GMOD Meeting") | 57 | At meeting room capacity. | [Feedback](January_2009_GMOD_Meeting#Feedback "January 2009 GMOD Meeting") |
-| 2009-08 | [August 2009 GMOD Meeting](August_2009_GMOD_Meeting "August 2009 GMOD Meeting") | 45 | First meeting held outside North America, in Oxford, UK. | [Feedback](August_2009_GMOD_Meeting#Feedback "August 2009 GMOD Meeting") |
-| 2010-01 | [January 2010 GMOD Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting") | 46 | Held after [PAG 2010](PAG_2010 "PAG 2010") | [Feedback](January_2010_GMOD_Meeting#Feedback "January 2010 GMOD Meeting") |
-| 2010-09 | [September 2010 GMOD Meeting](September_2010_GMOD_Meeting "September 2010 GMOD Meeting") | 42 | Second meeting held outside North America, in Cambridge, UK, as part of [GMOD Europe 2010](GMOD_Europe_2010 "GMOD Europe 2010"), which included 3 other events. *Total attendance at GMOD Europe 2010 was approximately 60 people.* | [Feedback](September_2010_GMOD_Meeting#Feedback "September 2010 GMOD Meeting") |
-| 2011-03 | [March 2011 GMOD Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting") | 31 | At <a href="http://nescent.org/" class="external text"
-rel="nofollow">NESCent</a>, as part of [GMOD Americas 2011](GMOD_Americas_2011 "GMOD Americas 2011"), which included 3 other events. *Total attendance at GMOD Americas 2011 was 55 people.* | [Feedback](March_2011_GMOD_Meeting#Feedback "March 2011 GMOD Meeting") |
-| 2011-10 | [October 2011 GMOD Meeting](October_2011_GMOD_Meeting "October 2011 GMOD Meeting") | 40 (at capacity) | At the <a href="http://oicr.on.ca/" class="external text"
-rel="nofollow">Ontario Institute for Cancer Research (OICR)</a>. |  |
-| 2012-04 | [April 2012 GMOD Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting") | 81 | Washington DC |  |
-| 2013-04 | [April 2013 GMOD Meeting](April_2013_GMOD_Meeting "April 2013 GMOD Meeting") | tba | Cambridge, UK |  |
-| 2014-01 | [Jan 2014 GMOD Meeting](Jan_2014_GMOD_Meeting "Jan 2014 GMOD Meeting") | 35 | San Diego, USA |  |
-
-### <span id="GMOD_Schools" class="mw-headline">[GMOD Schools](GMOD_Schools "GMOD Schools")</span>
-
-<table class="wikitable R" style="width:100%;">
-<colgroup>
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -584,8 +442,7 @@ class="external text" rel="nofollow">Galaxy Project Statistics</a> page.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

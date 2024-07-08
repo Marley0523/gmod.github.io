@@ -624,8 +624,7 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

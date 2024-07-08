@@ -188,8 +188,7 @@ If we go to ASPB again, there are a few things I'd do differently:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

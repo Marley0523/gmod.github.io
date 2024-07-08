@@ -183,8 +183,7 @@ Ontology](Stock_Relationship_Ontology "Stock Relationship Ontology")
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

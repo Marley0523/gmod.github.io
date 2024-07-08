@@ -249,8 +249,7 @@ Carpita and modified by [Scott Cain](User%3AScott "User%3AScott")
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

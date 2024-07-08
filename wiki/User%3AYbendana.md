@@ -95,8 +95,7 @@ Using Gbrowse and Chado for Medicago truncatula community genomics data.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

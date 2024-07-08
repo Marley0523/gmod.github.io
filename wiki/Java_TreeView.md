@@ -159,8 +159,7 @@ class="external text" rel="nofollow">From Sourceforge</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

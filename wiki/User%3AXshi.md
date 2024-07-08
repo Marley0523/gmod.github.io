@@ -97,8 +97,7 @@ rel="nofollow">Ontario Institute for Cancer Research.</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

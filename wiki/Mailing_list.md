@@ -576,8 +576,7 @@ Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and 
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

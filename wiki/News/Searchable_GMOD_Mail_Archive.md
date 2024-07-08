@@ -18,13 +18,7 @@
 
 
 
-[<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/NAbbleNLogo.jpg"
-class="thumbimage" width="50" height="50" />](http://gmod.827538.n3.nabble.com/)
-
-
-<a href="../File:NAbbleNLogo.jpg" class="internal" title="Enlarge"><img
-src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+[</a>
 
 
 
@@ -141,8 +135,7 @@ title="Visit the main page"></a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

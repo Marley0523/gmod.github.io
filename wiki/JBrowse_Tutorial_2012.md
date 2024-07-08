@@ -633,8 +633,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2013 "Special:Expo
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

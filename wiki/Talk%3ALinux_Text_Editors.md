@@ -107,8 +107,7 @@ class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

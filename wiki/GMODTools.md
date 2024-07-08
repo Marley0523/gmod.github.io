@@ -416,8 +416,7 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

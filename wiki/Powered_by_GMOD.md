@@ -155,8 +155,7 @@ width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /> |  |  |
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

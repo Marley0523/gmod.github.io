@@ -100,8 +100,7 @@ class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

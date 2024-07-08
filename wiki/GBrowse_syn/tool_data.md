@@ -31,16 +31,7 @@ and later).
 \| screenshot =
 
 
-<a href="../File:GBrowse_syn.png" class="image"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/500px-GBrowse_syn.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/750px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/1000px-GBrowse_syn.png 2x"
-width="500" height="160" /></a>
-
-
-<a href="../File:GBrowse_syn.png" class="internal" title="Enlarge"><img
-src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+<a href="../File:GBrowse_syn.png" class="image"></a>
 
 
 
@@ -200,8 +191,7 @@ title="Visit the main page"></a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](../GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

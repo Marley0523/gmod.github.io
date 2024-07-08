@@ -111,8 +111,7 @@ Property:     Value:
 
 
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

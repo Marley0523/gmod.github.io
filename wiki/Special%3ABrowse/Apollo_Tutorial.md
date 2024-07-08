@@ -119,8 +119,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

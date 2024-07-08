@@ -147,8 +147,7 @@ class="internal" title="Mod-face-07jan-MGI.pdf">PDF</a> | MGI: Sue Bello, Joel R
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

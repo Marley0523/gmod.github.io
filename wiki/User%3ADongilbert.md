@@ -101,8 +101,7 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

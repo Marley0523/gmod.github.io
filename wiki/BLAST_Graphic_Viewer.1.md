@@ -145,8 +145,7 @@ rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span class="
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -167,8 +167,7 @@ Started](GMOD_-_Getting_Started "GMOD - Getting Started") pages.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

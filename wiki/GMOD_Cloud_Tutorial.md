@@ -753,8 +753,7 @@ width="750" height="409" alt="Tabula rasa" />
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

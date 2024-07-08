@@ -211,8 +211,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

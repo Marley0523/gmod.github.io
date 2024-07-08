@@ -191,8 +191,7 @@ Again, if name, type and srcfeature are the same, allow the delete?
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

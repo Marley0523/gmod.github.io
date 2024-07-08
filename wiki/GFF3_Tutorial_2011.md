@@ -658,8 +658,7 @@ You can validate reasonably large GFF3 files at the following sites:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -112,8 +112,7 @@ title="Subversion">Subversion</a> page. The repository is quite large
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

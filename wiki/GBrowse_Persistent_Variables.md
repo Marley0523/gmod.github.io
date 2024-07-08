@@ -180,16 +180,7 @@ subroutine queryStateVariables, assigning the return value to one of the
 html variables.
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/300px-StateVariables.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/450px-StateVariables.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/600px-StateVariables.png 2x"
-width="300" height="193" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
 
 
 
@@ -305,8 +296,7 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

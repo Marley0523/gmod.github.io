@@ -98,8 +98,7 @@ like the required Mediawiki extensions are not installed.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

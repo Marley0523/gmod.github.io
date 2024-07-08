@@ -99,8 +99,7 @@ Since this is a wiki, others are welcome to modify what I'm doing.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

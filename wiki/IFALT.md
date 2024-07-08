@@ -209,8 +209,7 @@ rel="nofollow">parse_str</a> function man page.</p></td>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 
