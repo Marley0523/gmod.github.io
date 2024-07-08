@@ -801,8 +801,7 @@ http://gmod.org/wiki/
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](/wikihttp://gmod.org/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

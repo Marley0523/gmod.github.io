@@ -383,8 +383,7 @@ Here is a list of the proposed project ideas for 2018:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -550,8 +550,7 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

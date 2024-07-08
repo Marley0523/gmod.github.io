@@ -506,8 +506,7 @@ An alignment view with shading on and grid-lines and edges off
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

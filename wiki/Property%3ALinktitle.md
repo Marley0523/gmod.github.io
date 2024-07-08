@@ -423,8 +423,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALinktitle "Special:Expor
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

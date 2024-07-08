@@ -1660,8 +1660,7 @@ Please follow these guidelines when adding a news item.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

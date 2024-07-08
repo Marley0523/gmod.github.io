@@ -202,8 +202,7 @@ self-motivation are great traits for open-source programmers.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -219,8 +219,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

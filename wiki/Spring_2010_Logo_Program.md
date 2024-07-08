@@ -801,8 +801,7 @@ stronger commitment to the projects and to working with the students.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

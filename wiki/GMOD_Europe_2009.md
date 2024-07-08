@@ -261,8 +261,7 @@ University of Oxford for hosting and sponsoring this event.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

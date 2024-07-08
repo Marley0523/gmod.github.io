@@ -149,8 +149,7 @@ width="1500" height="1367" alt="Chado phenotype proposal.v4.png" />
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

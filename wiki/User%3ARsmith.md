@@ -105,8 +105,7 @@ with [SGD](Category%3ASGD "Category%3ASGD"),
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

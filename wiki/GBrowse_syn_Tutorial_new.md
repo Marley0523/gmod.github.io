@@ -874,8 +874,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:E
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -138,8 +138,7 @@ at TIGR (2003-2006) and JCVI (2006-2009).
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

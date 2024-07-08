@@ -146,8 +146,7 @@ class="external text" rel="nofollow">Behavior on EcoliWiki</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

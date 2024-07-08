@@ -318,8 +318,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_output_format "Speci
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

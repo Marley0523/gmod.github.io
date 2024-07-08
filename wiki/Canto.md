@@ -423,8 +423,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

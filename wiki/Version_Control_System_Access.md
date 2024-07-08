@@ -201,8 +201,7 @@ rel="nofollow">http://gmod.cvs.sourceforge.net/gmod/</a>.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

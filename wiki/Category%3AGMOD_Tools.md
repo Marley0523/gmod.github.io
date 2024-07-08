@@ -124,8 +124,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

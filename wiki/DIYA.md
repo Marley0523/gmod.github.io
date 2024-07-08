@@ -358,8 +358,7 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

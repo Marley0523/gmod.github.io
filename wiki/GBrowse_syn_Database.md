@@ -303,8 +303,7 @@ width="512" height="541" alt="GBS Schema.png" />
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

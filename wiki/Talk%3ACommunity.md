@@ -98,8 +98,7 @@ Great idea. Unfortunately demo gives an error: The requested URL
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

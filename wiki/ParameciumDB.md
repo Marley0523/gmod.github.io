@@ -489,8 +489,7 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

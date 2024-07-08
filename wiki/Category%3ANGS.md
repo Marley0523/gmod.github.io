@@ -161,8 +161,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ANGS](Category%3ANGS)"
 
 
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -1168,8 +1168,7 @@ width="800" height="460" alt="Dotplot config.png" />
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

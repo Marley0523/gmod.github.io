@@ -97,8 +97,7 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -183,8 +183,7 @@ such as iOS and Android apps, and fancy, flashy, web-based projects.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

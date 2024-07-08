@@ -660,8 +660,7 @@ height="580" alt="GalaxyExtras Fetch 3.png" />
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

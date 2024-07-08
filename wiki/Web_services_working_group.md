@@ -142,8 +142,7 @@ class="external text" rel="nofollow">GMOD-devel</a> mailing list.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

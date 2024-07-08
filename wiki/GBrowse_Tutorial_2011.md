@@ -399,8 +399,7 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

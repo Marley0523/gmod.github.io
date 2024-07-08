@@ -179,8 +179,7 @@ title="VMware 2011 Spring Training">VMware 2011 Spring Training</a></li>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

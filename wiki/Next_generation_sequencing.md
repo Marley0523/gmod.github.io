@@ -128,8 +128,7 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

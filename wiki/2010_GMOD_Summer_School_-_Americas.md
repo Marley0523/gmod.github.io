@@ -802,8 +802,7 @@ and the idea of building up a community. You are doing a great job!”
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -348,8 +348,7 @@ JBrowse will have it pulling track data from S3.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

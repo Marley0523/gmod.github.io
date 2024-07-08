@@ -102,8 +102,7 @@ rel="nofollow">http://twitter.com/dukeleto</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -2062,8 +2062,7 @@ function tripal_example_module_requirements($phase) {
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

@@ -420,8 +420,7 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

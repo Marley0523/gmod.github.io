@@ -108,8 +108,7 @@ mean time, it is a pointer to useful email threads.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

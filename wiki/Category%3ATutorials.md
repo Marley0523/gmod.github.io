@@ -756,8 +756,7 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

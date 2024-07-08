@@ -665,8 +665,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

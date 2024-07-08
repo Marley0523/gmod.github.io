@@ -339,8 +339,7 @@ Copyright (c) 2007 Cold Spring Harbor Laboratory
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

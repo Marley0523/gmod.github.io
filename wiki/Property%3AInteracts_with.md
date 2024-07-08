@@ -250,8 +250,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

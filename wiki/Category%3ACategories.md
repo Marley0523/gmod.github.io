@@ -120,8 +120,7 @@ This category has the following 6 subcategories, out of 6 total.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

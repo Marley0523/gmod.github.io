@@ -160,8 +160,7 @@ needs](Proposed_schema_extensions_related_to_Sybil/IGS_needs "Proposed schema ex
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

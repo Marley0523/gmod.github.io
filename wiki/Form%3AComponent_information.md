@@ -96,8 +96,7 @@ exists, you will be sent to a form to edit that page.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

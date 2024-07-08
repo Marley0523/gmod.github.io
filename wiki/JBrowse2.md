@@ -164,8 +164,7 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

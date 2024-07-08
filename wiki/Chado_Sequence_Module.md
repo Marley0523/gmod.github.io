@@ -2282,8 +2282,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

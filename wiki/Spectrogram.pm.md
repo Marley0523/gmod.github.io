@@ -190,8 +190,7 @@ The plugin was written by Sheldon McKay (mckays@cshl.edu)
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

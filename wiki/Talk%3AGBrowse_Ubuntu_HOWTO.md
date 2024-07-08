@@ -145,8 +145,7 @@ class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

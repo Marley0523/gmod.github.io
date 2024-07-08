@@ -699,8 +699,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

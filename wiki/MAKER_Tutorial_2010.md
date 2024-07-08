@@ -2408,8 +2408,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:Export
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

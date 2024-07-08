@@ -101,8 +101,7 @@ Specialist from July 2012 to May 2014.
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](/wiki/GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 

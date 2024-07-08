@@ -789,8 +789,7 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 
 <!-- -->
 
-- <span id="footer-places-about">[About
-  GMOD](GMOD%3AAbout "GMOD%3AAbout")</span>
+
 
 <!-- -->
 
