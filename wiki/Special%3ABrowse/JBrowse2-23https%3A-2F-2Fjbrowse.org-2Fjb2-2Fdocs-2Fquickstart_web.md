@@ -116,10 +116,7 @@ Enter the name of the page to start browsing from.
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ABrowse/JBrowse2-23https%3A-2F-2Fjbrowse.org-2Fjb2-2Fdocs-2Fquickstart_web&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

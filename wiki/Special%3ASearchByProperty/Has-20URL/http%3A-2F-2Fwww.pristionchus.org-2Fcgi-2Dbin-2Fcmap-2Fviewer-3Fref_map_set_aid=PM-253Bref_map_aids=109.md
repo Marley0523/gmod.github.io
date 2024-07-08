@@ -93,10 +93,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20URL/http:-2F-2Fwww.pristionchus.org-2Fcgi-2Dbin-2Fcmap-2Fviewer-3Fref_map_set_aid%3DPM-253Bref_map_aids%3D109&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 

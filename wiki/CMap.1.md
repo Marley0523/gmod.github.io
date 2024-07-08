@@ -780,10 +780,7 @@ http://gmod.org/wiki/
   changes</a></span>
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.phttp://gmod.org/wiki/hp?title=CMap&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 - <span id="t-permalihttp://gmod.org/wiki/nk">[Permanent
   link](/mediawiki/index.php?title=CMap&oldid=24755 "Permanent link to this revision of the pagehttp://gmod.org/wiki/")</span>
 - <span id="t-info">[Page

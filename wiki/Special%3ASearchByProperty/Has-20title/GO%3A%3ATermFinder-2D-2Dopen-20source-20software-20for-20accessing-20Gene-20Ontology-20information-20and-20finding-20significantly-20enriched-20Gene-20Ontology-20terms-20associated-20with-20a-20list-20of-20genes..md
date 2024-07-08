@@ -95,10 +95,7 @@ Property:     Value:
 
 - <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
   title="A list of all special pages [q]">Special pages</a></span>
-- <span id="t-print"><a
-  href="/mediawiki/index.php?title=Special%3ASearchByProperty/Has-20title/GO%3A%3ATermFinder-2D-2Dopen-20source-20software-20for-20accessing-20Gene-20Ontology-20information-20and-20finding-20significantly-20enriched-20Gene-20Ontology-20terms-20associated-20with-20a-20list-20of-20genes.&amp;printable=yes"
-  rel="alternate" accesskey="p"
-  title="Printable version of this page [p]">Printable version</a></span>
+
 
 
 
