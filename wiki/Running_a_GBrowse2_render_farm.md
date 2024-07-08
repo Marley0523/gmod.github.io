@@ -495,9 +495,6 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

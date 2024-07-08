@@ -49,9 +49,6 @@ title="MaraKim GMOD2014.pdf">Jan 2014 GMOD meeting</a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

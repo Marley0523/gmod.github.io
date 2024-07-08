@@ -2966,9 +2966,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) 
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

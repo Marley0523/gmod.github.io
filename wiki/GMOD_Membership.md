@@ -269,9 +269,6 @@ class="external text" rel="nofollow">1.0</a> | February 2010 | December 2010 | F
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

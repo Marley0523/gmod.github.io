@@ -58,9 +58,6 @@ The following 4 pages are in this category, out of 4 total.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

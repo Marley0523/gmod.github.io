@@ -111,9 +111,6 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

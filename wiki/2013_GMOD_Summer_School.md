@@ -241,9 +241,6 @@ time on Amazon Web Services for the course tutors and participants.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -445,9 +445,6 @@ Here is a list of the proposed project ideas for 2017:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

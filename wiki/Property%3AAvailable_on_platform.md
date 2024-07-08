@@ -368,9 +368,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AAvailable_on_platform "S
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

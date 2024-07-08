@@ -69,9 +69,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

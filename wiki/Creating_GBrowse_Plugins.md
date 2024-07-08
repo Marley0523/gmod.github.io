@@ -40,9 +40,6 @@ rel="nofollow">http://search.cpan.org/~lds/GBrowse-2.31/lib/Bio/Graphics/Browser
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

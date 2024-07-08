@@ -243,9 +243,6 @@ height="296" alt="User db enabled.png" /></a>\[\[Category%3A\]\]
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -92,9 +92,6 @@ class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

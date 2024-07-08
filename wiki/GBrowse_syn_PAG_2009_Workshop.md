@@ -289,9 +289,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

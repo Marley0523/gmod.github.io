@@ -349,9 +349,6 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

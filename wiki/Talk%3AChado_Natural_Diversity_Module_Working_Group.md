@@ -524,9 +524,6 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

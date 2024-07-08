@@ -105,9 +105,6 @@ Meeting](January_2009_GMOD_Meeting#GMODWeb_and_Package_Management "January 2009 
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

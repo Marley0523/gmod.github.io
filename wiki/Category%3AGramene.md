@@ -137,9 +137,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

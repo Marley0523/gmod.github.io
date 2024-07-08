@@ -280,9 +280,6 @@ rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_On
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

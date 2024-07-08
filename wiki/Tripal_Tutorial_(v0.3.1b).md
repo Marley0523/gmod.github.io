@@ -3178,9 +3178,6 @@ If you are using the default Tripal view
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

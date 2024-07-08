@@ -64,9 +64,6 @@ Retrieved from "[http://gmod.org/wiki/Category%3AGFF](Category%3AGFF)"
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

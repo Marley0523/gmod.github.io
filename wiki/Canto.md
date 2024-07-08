@@ -368,9 +368,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 ###
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

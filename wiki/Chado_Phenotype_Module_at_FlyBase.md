@@ -1420,9 +1420,6 @@ rank can be used for n-ploid organisms or to preserve order.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

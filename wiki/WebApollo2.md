@@ -365,9 +365,6 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

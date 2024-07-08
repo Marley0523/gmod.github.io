@@ -224,9 +224,6 @@ Tao Zhang \<forrest_zhang@163.com\>.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

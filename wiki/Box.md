@@ -382,9 +382,6 @@ specific to the VM for help in setting up your data.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

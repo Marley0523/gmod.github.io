@@ -303,9 +303,6 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 ###
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

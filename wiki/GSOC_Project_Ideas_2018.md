@@ -328,9 +328,6 @@ Here is a list of the proposed project ideas for 2018:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -46,9 +46,6 @@ See also: the [overview panel](Overview_panel "Overview panel").
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

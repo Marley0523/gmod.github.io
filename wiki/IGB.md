@@ -115,9 +115,6 @@ rel="nofollow">https://www.affymetrix.com/community/forums/forum.jspa?forumID=28
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

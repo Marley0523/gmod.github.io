@@ -1604,9 +1604,6 @@ Please follow these guidelines when adding a news item.
 ###
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -367,9 +367,6 @@ Desk](GMOD_Help_Desk "GMOD Help Desk").
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

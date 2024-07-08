@@ -976,9 +976,6 @@ Other [Upcoming Events of Note](Calendar "Calendar")
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

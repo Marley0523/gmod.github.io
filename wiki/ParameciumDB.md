@@ -434,9 +434,6 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

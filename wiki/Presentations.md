@@ -141,9 +141,6 @@ title="01-NESC January 2006-LINCOLN.pdf">01-NESC_January_2006-LINCOLN.pdf</a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

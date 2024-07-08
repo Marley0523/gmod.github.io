@@ -167,9 +167,6 @@ very grateful to be a beneficiary of this generous program.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

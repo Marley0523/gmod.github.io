@@ -183,9 +183,6 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

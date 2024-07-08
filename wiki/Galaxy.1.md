@@ -646,9 +646,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

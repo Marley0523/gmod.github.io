@@ -71,9 +71,6 @@ Retrieved from "[http://gmod.org/wiki/Category%3ACanto](Category%3ACanto)"
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

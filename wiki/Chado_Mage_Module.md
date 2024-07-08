@@ -1066,9 +1066,6 @@ Tables referencing this one via Foreign Key Constraints:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -1987,9 +1987,6 @@ rel="nofollow">http://gbrowse.csbio.unc.edu/cgi-bin/gb2/gbrowse/seeqtl/</a></td>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

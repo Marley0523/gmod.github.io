@@ -615,9 +615,6 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

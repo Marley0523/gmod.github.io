@@ -2008,9 +2008,6 @@ function tripal_example_module_requirements($phase) {
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

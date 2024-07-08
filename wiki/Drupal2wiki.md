@@ -153,9 +153,6 @@ foreach my $url_to_convert (@urls) {
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -46,9 +46,6 @@ Since this is a wiki, others are welcome to modify what I'm doing.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

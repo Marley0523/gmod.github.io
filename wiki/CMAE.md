@@ -137,9 +137,6 @@ The CMAE specific information is located in the "editor" directory.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

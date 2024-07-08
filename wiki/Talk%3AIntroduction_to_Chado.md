@@ -49,9 +49,6 @@ I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

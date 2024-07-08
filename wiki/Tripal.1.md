@@ -367,9 +367,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

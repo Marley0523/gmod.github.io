@@ -569,9 +569,6 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -258,9 +258,6 @@ and what are not? Here's a rough guideline:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

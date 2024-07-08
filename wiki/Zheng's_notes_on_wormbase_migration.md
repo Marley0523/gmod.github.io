@@ -300,9 +300,6 @@ in column 2 do not have a corresponding line with 'gene' in column 3.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

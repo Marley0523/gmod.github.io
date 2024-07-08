@@ -90,9 +90,6 @@ rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span class="
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation
