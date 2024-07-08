@@ -1,65 +1,8 @@
 # <span dir="auto">Main Page</span>
 
-GMOD is Social
-
-<a href="http://twitter.com/gmodproject" rel="nofollow"
-title="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/50px-Gmod-bird.jpg"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/75px-Gmod-bird.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/100px-Gmod-bird.jpg 2x"
-width="50" height="50"
-alt="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!" /></a>
-
-<a href="http://twitter.com/gmodproject" class="external text"
-rel="nofollow">Follow <strong>The Tweet of GMOD</strong></a>  
-<a href="http://twitter.com/gmodproject" class="external text"
-rel="nofollow">@gmodproject</a>
-
-<a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
-rel="nofollow" title="GMOD group on LinkedIn"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/LinkedInLogo-60px.png" width="60"
-height="50" alt="GMOD group on LinkedIn" /></a>
-
-<a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
-class="external text" rel="nofollow">Join other <strong>GMOD
-users</strong> on LinkedIn</a>
-
-[GMOD News](GMOD_News "GMOD News")
-
-<a
-href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
-rel="nofollow" title="RSS feed"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
-alt="RSS feed" /></a>
-
-[Add](GMOD_News#Adding_a_News_Item "GMOD News")
-
-<table class="RSSMainBody" style="background:inherit;">
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td data-valign="top" style="width: 95%"><ul>
-<li><a href="News/Prospecting_for_Proposals_for_GSoC_2024">Prospecting
-for Proposals for GSoC 2024</a></li>
-<li><a href="News/JBrowse2_v1.1.0_Released">JBrowse2 v1.1.0
-Released</a></li>
-<li><a href="News/Prospecting_for_Proposals_for_GSoC_2021">Prospecting
-for Proposals for GSoC 2021</a></li>
-<li><a href="Codefest_2020">Codefest 2020</a></li>
-<li><a href="Tripal_3.5_Released">Tripal 3.5 Released</a></li>
-<li><a href="News/JBrowse_2_release">JBrowse 2 release</a></li>
-<li><a href="News/Prospecting_for_Proposals_for_GSoC_2020">Prospecting
-for Proposals for GSoC 2020</a></li>
-<li><a href="News/Call_for_PAG_Abstracts">Call for PAG
-Abstracts</a></li>
-<li><a href="News/New_GMOD_Server">New GMOD Server</a></li>
-<li><a href="News/GMOD-JBrowse_2016_Survey">GMOD-JBrowse 2016
-Survey</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+<table>
+<tr>
+<td width=75%>
 
 Welcome to the **Generic Model Organism Database** project, a collection
 of open source software tools for managing, visualising, storing, and
@@ -93,6 +36,68 @@ documentation](Site_Guidelines "Site Guidelines") are all welcome.
 feedback via [mailing lists](GMOD_Mailing_Lists "GMOD Mailing Lists") or
 the [help desk](GMOD_Help_Desk "GMOD Help Desk"). You can also attend
 project [meetings](Meetings "Meetings").
+
+</td>
+<td width="25%>
+
+GMOD is Social
+
+<a href="http://twitter.com/gmodproject" rel="nofollow"
+title="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!"><img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/50px-Gmod-bird.jpg"
+srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/75px-Gmod-bird.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Gmod-bird.jpg/100px-Gmod-bird.jpg 2x"
+width="50" height="50"
+alt="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!" /></a>
+
+<a href="http://twitter.com/gmodproject" class="external text"
+rel="nofollow">Follow <strong>The Tweet of GMOD</strong></a>  
+<a href="http://twitter.com/gmodproject" class="external text"
+rel="nofollow">@gmodproject</a>
+
+<a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
+rel="nofollow" title="GMOD group on LinkedIn"><img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/LinkedInLogo-60px.png" width="60"
+height="50" alt="GMOD group on LinkedIn" /></a>
+
+<a href="http://www.linkedin.com/groups?gid=131368&amp;trk=group-name"
+class="external text" rel="nofollow">Join other <strong>GMOD
+users</strong> on LinkedIn</a>
+
+[GMOD News](GMOD_News "GMOD News")
+
+[Add](GMOD_News#Adding_a_News_Item "GMOD News")
+
+<table class="RSSMainBody" style="background:inherit;">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td data-valign="top" style="width: 95%"><ul>
+<li><a href="News/Prospecting_for_Proposals_for_GSoC_2024">Prospecting
+for Proposals for GSoC 2024</a></li>
+<li><a href="News/JBrowse2_v1.1.0_Released">JBrowse2 v1.1.0
+Released</a></li>
+<li><a href="News/Prospecting_for_Proposals_for_GSoC_2021">Prospecting
+for Proposals for GSoC 2021</a></li>
+<li><a href="Codefest_2020">Codefest 2020</a></li>
+<li><a href="Tripal_3.5_Released">Tripal 3.5 Released</a></li>
+<li><a href="News/JBrowse_2_release">JBrowse 2 release</a></li>
+<li><a href="News/Prospecting_for_Proposals_for_GSoC_2020">Prospecting
+for Proposals for GSoC 2020</a></li>
+<li><a href="News/Call_for_PAG_Abstracts">Call for PAG
+Abstracts</a></li>
+<li><a href="News/New_GMOD_Server">New GMOD Server</a></li>
+<li><a href="News/GMOD-JBrowse_2016_Survey">GMOD-JBrowse 2016
+Survey</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+</td>
+</tr>
+</table>
 
 ### <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
 
