@@ -169,11 +169,6 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 
-###
-
-
-
-
 ### Navigation
 
 

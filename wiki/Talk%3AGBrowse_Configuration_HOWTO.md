@@ -118,11 +118,6 @@ July 2010 (UTC)
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-###
-
-
-
-
 ### Navigation
 
 

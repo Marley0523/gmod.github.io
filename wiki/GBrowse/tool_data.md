@@ -130,11 +130,6 @@ Perl 5.8.6 or higher and the Apache web server installed. \| install =
 
 
 
-
-
-###
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>

@@ -315,11 +315,6 @@ We've tackled this for Chado with MediaWiki Templates:
 
 
 
-###
-
-
-
-
 ### Navigation
 
 

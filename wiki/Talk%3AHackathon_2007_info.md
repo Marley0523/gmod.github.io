@@ -110,11 +110,6 @@ appliance that already has MW installed._
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-###
-
-
-
-
 ### Navigation
 
 

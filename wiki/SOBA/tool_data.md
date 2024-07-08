@@ -158,11 +158,6 @@ see_also = \| demo_server = \|release date=2009 \| survey_link =
 
 
 
-
-
-###
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
