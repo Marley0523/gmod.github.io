@@ -133,9 +133,6 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

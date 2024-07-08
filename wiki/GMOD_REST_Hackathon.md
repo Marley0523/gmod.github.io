@@ -89,10 +89,7 @@ hotel room, or in the New England themed bar at the Seven Seas hotel.
 - [Robert Buels](User%3ARobertBuels "User%3ARobertBuels")
 - [Michael Caudy](User%3AMcaudy "User%3AMcaudy")
 - [Jim Hu](User%3AJimHu.1 "User%3AJimHu")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=User%3ABoconnor&amp;action=edit&amp;redlink=1"
-  class="new" title="User%3ABoconnor (page does not exist)">Brian
-  O'Connor</a>
+
 - [Chris Childers](User%3AChilders "User%3AChilders")
 - [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee")
 
@@ -134,9 +131,7 @@ We will be starting in the hotel bar.
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AREST (page does not exist)">REST</a>
+
 - [Events](Category%3AEvents "Category%3AEvents")
 
 
@@ -159,9 +154,6 @@ We will be starting in the hotel bar.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

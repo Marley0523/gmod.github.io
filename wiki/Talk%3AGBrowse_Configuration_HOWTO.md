@@ -118,14 +118,6 @@ July 2010 (UTC)
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-###
-
-
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
-
-
 ### Navigation
 
 

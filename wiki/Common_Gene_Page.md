@@ -234,11 +234,7 @@ annotations.
 - [Meetings](Category%3AMeetings "Category%3AMeetings")
 - [MOD User
   Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AGeneric Gene Pages (page does not exist)">Generic Gene
-  Pages</a>
+
 
 
 
@@ -256,9 +252,6 @@ annotations.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

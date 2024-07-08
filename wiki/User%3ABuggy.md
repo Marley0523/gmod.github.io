@@ -42,9 +42,6 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

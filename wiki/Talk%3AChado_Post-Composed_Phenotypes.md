@@ -96,9 +96,6 @@ width="1500" height="1367" alt="Chado phenotype proposal.v4.png" /></a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

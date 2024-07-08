@@ -54,115 +54,7 @@ Resources
 
 
 
-- <a href="http://jbrowse.org" class="external text" rel="nofollow">Home
-  page</a>
 
-<!-- -->
-
-- <a href="https://jbrowse.org/jb2/docs/quickstart_web"
-  class="external text" rel="nofollow">Download</a>
-
-<!-- -->
-
-- <a href="https://github.com/GMOD/jbrowse-components/"
-  class="external text" rel="nofollow">Source code</a>
-
-<!-- -->
-
-- <a href="http://jbrowse.org/demos" class="external text"
-  rel="nofollow">Demo server</a>
-
-  
-
-
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span> <span class="toctext">About JBrowse
-  2</span>](#About_JBrowse_2)
-- [<span class="tocnumber">2</span>
-  <span class="toctext">Downloads</span>](#Downloads)
-- [<span class="tocnumber">3</span> <span class="toctext">Contacts and
-  Mailing Lists</span>](#Contacts_and_Mailing_Lists)
-- [<span class="tocnumber">4</span> <span class="toctext">More on
-  JBrowse 2</span>](#More_on_JBrowse_2)
-
-
-
-## <span id="About_JBrowse_2" class="mw-headline">About JBrowse 2</span>
-
-JBrowse 2 is a multi-modal genome browser that can view data in linear,
-circular, dotplot, and syntenic modes, in order to better serve the
-needs of structural variant visualization and comparative genomics. It
-is coded using React and follows in the footsteps of JBrowse 1 in being
-highly pluggable. Users can write plugins to create custom data
-adapters, track types, and even entirely new view types. See
-<a href="https://jbrowse.org/jb2/" class="external free"
-rel="nofollow">https://jbrowse.org/jb2/</a> for more info
-
-  
-Visit the <a href="http://jbrowse.org" class="external text"
-rel="nofollow">JBrowse2 website</a>.
-
-  
-
-## <span id="Downloads" class="mw-headline">Downloads</span>
-
-- <a href="https://jbrowse.org/jb2/docs/quickstart_web"
-  class="external text" rel="nofollow">Download JBrowse2</a>.
-
-<!-- -->
-
-- <a href="https://github.com/GMOD/jbrowse-components/"
-  class="external text" rel="nofollow">Download the source code for
-  JBrowse2</a>.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
-
-Open a discussion or issue on our github page at
-<a href="https://github.com/GMOD/jbrowse-components"
-class="external free"
-rel="nofollow">https://github.com/GMOD/jbrowse-components</a> or log
-into our chat at
-<a href="https://gitter.im/GMOD/jbrowse2" class="external free"
-rel="nofollow">https://gitter.im/GMOD/jbrowse2</a> or send email to
-gmod-ajax@lists.sourceforge.net
-
-  
-
-  
-
-  
-
-## <span id="More_on_JBrowse_2" class="mw-headline">More on JBrowse 2</span>
-
-This page is under active development
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 
 
 
@@ -218,9 +110,6 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

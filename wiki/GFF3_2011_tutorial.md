@@ -616,21 +616,7 @@ your sequences in a separate file containing only FASTA entries.
 
 You can validate reasonably large GFF3 files at the following sites:
 
-- <a href="http://modencode.oicr.on.ca/cgi-bin/validate_gff3_online"
-  class="external text" rel="nofollow">modENCODE validator</a>
-- <a
-  href="http://public.ecolihub.net/cgi-bin/validate_gff3_online/validate_gff3_online"
-  class="external text" rel="nofollow">EcoliHub validator</a>
-
-The validator code can be found in the
-<a href="http://gmod.svn.sourceforge.net/viewvc/gmod/gff-validator/"
-class="external text" rel="nofollow">GMOD Sourceforge SVN repository</a>.
-
-# <span id="GFF2" class="mw-headline">GFF2</span>
-
-<a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF2 (page does not exist)">GFF2</a> is a
+ is a
 supported format in GMOD, **but it is now deprecated and if you have a
 choice you should use GFF3**. Unfortunately, data is sometimes only
 available in GFF2 format. GFF2 has a number of shortcomings compared to
@@ -678,33 +664,12 @@ GFF3 data can be loaded into and dumped from
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> databases.
 See:
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:Load_GFF_Into_Chado&amp;action=edit&amp;redlink=1"
-  class="new" title="GMOD:Load GFF Into Chado (page does not exist)">Load
-  GFF Into Chado</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:Load_BLAST_Into_Chado&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="GMOD:Load BLAST Into Chado (page does not exist)">Load BLAST Into
-  Chado</a> - by converting it to GFF3
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:Load_GenBank_into_Chado&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="GMOD:Load GenBank into Chado (page does not exist)">Load GenBank
-  into Chado</a> - by converting it to GFF3
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:Load_RefSeq_Into_Chado&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="GMOD:Load RefSeq Into Chado (page does not exist)">Load RefSeq
-  Into Chado</a> - by converting it to GFF3
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:Chado_Update_via_GFF&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="GMOD:Chado Update via GFF (page does not exist)">Chado Update via
-  GFF</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:GMODTools&amp;action=edit&amp;redlink=1"
-  class="new" title="GMOD:GMODTools (page does not exist)">GMODTools</a> -
+
+ - by converting it to GFF3
+ - by converting it to GFF3
+ - by converting it to GFF3
+
+ -
   Generate [GFF3](GFF3 "GFF3") from a
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database.
 
@@ -731,31 +696,9 @@ Adaptors</a> pages for details.
 
 # <span id="See_Also" class="mw-headline">See Also</span>
 
-- <a href="http://www.sequenceontology.org/gff3.shtml"
-  class="external text" rel="nofollow">GFF3 Specification</a>
-- <a href="http://www.sanger.ac.uk/Software/formats/GFF/GFF_Spec.shtml"
-  class="external text" rel="nofollow">GFF2 Specification</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-  class="new" title="GMOD:GFF2 (page does not exist)">GFF2</a> - GFF2 in
+ - GFF2 in
   GMOD
-- <a href="http://www.broad.mit.edu/annotation/argo/help/gff.html"
-  class="external text" rel="nofollow">Broad Institute's Argo File Formats
-  GFF page</a>
-- <a href="http://www.bioperl.org/wiki/GFF" class="external text"
-  rel="nofollow">BioPerl's GFF page</a>
 
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [2011 Spring
-  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>
 
 
 
@@ -773,9 +716,6 @@ Adaptors</a> pages for details.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

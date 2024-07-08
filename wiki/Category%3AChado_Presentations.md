@@ -594,9 +594,6 @@ The following 23 files are in this category, out of 23 total.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -56,33 +56,7 @@ the various MODs.
 - Robert Buels -
   <a href="http://www.sgn.cornell.edu/" class="external text"
   rel="nofollow">Sol Genomics Network</a>
-- Ben Hitz - <a href="http://www.yeastgenome.org/" class="external text"
-  rel="nofollow">SGD</a>
-- Giles Velarde - <a href="http://www.genedb.org/" class="external text"
-  rel="nofollow">GeneDB</a>
-- *Add your name here*
-
-## <span id="Initiatives" class="mw-headline">Initiatives</span>
-
-Currently, the web services working group has decided to focus their
-efforts on two fronts; a RESTful API and a semantic web service. The
-initial focus being given to development of a common RESTful API.
-
-### <span id="GMOD_RESTful_API" class="mw-headline">GMOD RESTful API</span>
-
-The
-<a href="GMOD_REST_API" class="mw-redirect" title="GMOD REST API">GMOD
-REST API</a> is being developed in order to provide a useful and easy to
-use interface to search and fetch high level information from model
-organism databases.
-
-### <span id="GMOD_semantic_web_services" class="mw-headline">GMOD semantic web services</span>
-
-The <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD_semantic_web_services&amp;action=edit&amp;redlink=1"
-class="new"
-title="GMOD semantic web services (page does not exist)">GMOD semantic
-web services</a> are being developed in order to bring the full power of
+- Ben Hitz  are being developed in order to bring the full power of
 the semantic web to the rich information that all the model organism
 databases provide.
 
@@ -94,26 +68,7 @@ class="external text" rel="nofollow">GMOD-devel</a> mailing list.
 
 ## <span id="Links_of_interest" class="mw-headline">Links of interest</span>
 
-- <a
-  href="http://www.grapethinking.com/the-biggest-problem-with-technology"
-  class="external text" rel="nofollow">Semantic Web vs Microformats</a>
-- <a href="http://dx.doi.org/10.1016/j.websem.2007.11.002"
-  class="external text" rel="nofollow">Bridging the semantic Web and Web
-  2.0 with Representational State Transfer (REST)</a>
-- <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"
-  class="external text" rel="nofollow">Architectural Styles and the Design
-  of Network-based Software Architectures</a> - Roy Fielding's thesis on
-  REST
 
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [Web services](Category%3AWeb_services "Category%3AWeb services")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AREST (page does not exist)">REST</a>
 - [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
 
 
@@ -132,9 +87,6 @@ class="external text" rel="nofollow">GMOD-devel</a> mailing list.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

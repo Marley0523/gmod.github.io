@@ -223,9 +223,6 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -35,10 +35,7 @@ rel="nofollow">GitHub</a>.
 - [Java](Category%3AJava "Category%3AJava")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
+
 
 
 
@@ -56,9 +53,6 @@ rel="nofollow">GitHub</a>.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

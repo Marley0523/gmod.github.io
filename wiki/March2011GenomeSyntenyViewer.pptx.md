@@ -40,9 +40,6 @@ Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting").
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

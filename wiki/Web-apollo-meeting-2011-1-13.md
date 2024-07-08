@@ -59,9 +59,6 @@ Attendees: Gregg, Nomi, Chris C., Ed, Jay
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

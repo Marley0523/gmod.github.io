@@ -164,9 +164,6 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

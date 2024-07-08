@@ -141,9 +141,6 @@ Genome Data. Bioinformatics 22(18), 2308-2309
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

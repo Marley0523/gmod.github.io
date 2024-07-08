@@ -33,43 +33,7 @@ all available on the GMOD website. There are updated tutorials for
 several components, particularly those where new software releases have
 occurred since the last summer school; these include:
 
-- <a href="../Galaxy_Tutorial" class="mw-redirect"
-  title="Galaxy Tutorial">Galaxy</a>
-- <a href="../GBrowse_syn_Tutorial" class="mw-redirect"
-  title="GBrowse syn Tutorial">GBrowse syn</a>
-- <a href="../JBrowse_Tutorial" class="mw-redirect"
-  title="JBrowse Tutorial">JBrowse</a>
-- <a href="../MAKER_Tutorial" class="mw-redirect"
-  title="MAKER Tutorial">MAKER</a>
-- [Tripal](../Tripal_Tutorial_v1.1 "Tripal Tutorial v1.1")
-- <a href="../WebApollo_Tutorial" class="mw-redirect"
-  title="WebApollo Tutorial">WebApollo</a>
 
-The full set of GMOD tutorials, featuring all the material from this
-year's summer school and more, is available from the
-[Tutorials](../Category%3ATutorials "Category%3ATutorials") section of the
-wiki.
-
-  
-
-
-
-*Posted to the [GMOD News](../GMOD_News "GMOD News") on 2013-08-02*
-
-
-
-
-
-
-[Categories](../Special%3ACategories "Special%3ACategories"):
-
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-  School</a>
 
 
 

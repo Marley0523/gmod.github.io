@@ -188,11 +188,7 @@ time on Amazon Web Services for the course tutors and participants.
 [Categories](../Special%3ACategories "Special%3ACategories"):
 
 - [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AGMOD_Online_Training&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AGMOD Online Training (page does not exist)">GMOD Online
-  Training</a>
+
 
 
 

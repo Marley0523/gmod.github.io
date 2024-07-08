@@ -90,9 +90,6 @@ come up with examples on wiki and see what we need.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

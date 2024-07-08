@@ -223,11 +223,7 @@ time on Amazon Web Services for the course tutors and participants.
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Education and
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-  School</a>
+
 
 
 
@@ -245,9 +241,6 @@ time on Amazon Web Services for the course tutors and participants.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

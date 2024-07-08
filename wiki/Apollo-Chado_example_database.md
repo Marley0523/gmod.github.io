@@ -57,9 +57,6 @@ title="Subversion">Subversion</a> page. The repository is quite large
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

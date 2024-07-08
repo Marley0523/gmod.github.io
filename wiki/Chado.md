@@ -242,9 +242,6 @@ title="Chado.mp3">like this</a>.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

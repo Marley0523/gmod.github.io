@@ -34,130 +34,8 @@ Resources
 
 
 
-- <a href="http://biodig.org" class="external text" rel="nofollow">Home
-  page</a>
-- <a href="http://github.com/idoerg/BioDIG" class="external text"
-  rel="nofollow">Download</a>
-
-  
 
 
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span> <span class="toctext">About
-  Biological Database of Images and Genomes
-  (BioDIG)</span>](#About_Biological_Database_of_Images_and_Genomes_.28BioDIG.29)
-- [<span class="tocnumber">2</span>
-  <span class="toctext">Downloads</span>](#Downloads)
-- [<span class="tocnumber">3</span> <span class="toctext">Using
-  BioDIG</span>](#Using_BioDIG)
-  - [<span class="tocnumber">3.1</span>
-    <span class="toctext">Documentation</span>](#Documentation)
-- [<span class="tocnumber">4</span> <span class="toctext">Publications,
-  Tutorials, and
-  Presentations</span>](#Publications.2C_Tutorials.2C_and_Presentations)
-  - [<span class="tocnumber">4.1</span>
-    <span class="toctext">Publications on or mentioning
-    BioDIG</span>](#Publications_on_or_mentioning_BioDIG)
-- [<span class="tocnumber">5</span> <span class="toctext">Contacts and
-  Mailing Lists</span>](#Contacts_and_Mailing_Lists)
-- [<span class="tocnumber">6</span> <span class="toctext">BioDIG
-  Development</span>](#BioDIG_Development)
-  - [<span class="tocnumber">6.1</span>
-    <span class="toctext">Development team</span>](#Development_team)
-- [<span class="tocnumber">7</span> <span class="toctext">More on
-  BioDIG</span>](#More_on_BioDIG)
-
-
-
-## <span id="About_Biological_Database_of_Images_and_Genomes_.28BioDIG.29" class="mw-headline">About Biological Database of Images and Genomes (BioDIG)</span>
-
-BioDIG is a collection of software tools to connect image and genomic
-data. While we are experiencing an explosion in both sequence and image
-data, we need to link these two types of data. Examples include: model
-organism mutations, cell morphology — e.g. pathology and cancer and any
-type of phenotype data that can be imaged, that can be associated with
-one or more genes. Anything from a blue whale to a virus, really.  
-  
-Visit the
-<a href="http://biodig.org" class="external text" rel="nofollow">BioDIG
-website</a>.
-
-  
-
-## <span id="Downloads" class="mw-headline">Downloads</span>
-
-- Download BioDIG:
-  <a href="http://github.com/idoerg/BioDIG" class="external free"
-  rel="nofollow">http://github.com/idoerg/BioDIG</a>
-
-<!-- -->
-
-- The source code for BioDIG can be downloaded from
-  <a href="http://github.com/idoerg/BioDIG" class="external free"
-  rel="nofollow">http://github.com/idoerg/BioDIG</a>.
-
-  
-
-## <span id="Using_BioDIG" class="mw-headline">Using BioDIG</span>
-
-### <span id="Documentation" class="mw-headline">Documentation</span>
-
-<a href="http://biodig.org" class="external free"
-rel="nofollow">http://biodig.org</a>
-
-## <span id="Publications.2C_Tutorials.2C_and_Presentations" class="mw-headline">Publications, Tutorials, and Presentations</span>
-
-### <span id="Publications_on_or_mentioning_BioDIG" class="mw-headline">Publications on or mentioning BioDIG</span>
-
-- Andrew T. Oberlin, Dominika A. Jurkovic, Mitchell F. Balish, Iddo
-  Friedberg (2013) Biological Database of Images and Genomes: tools for
-  community annotations linking image and genomic information
-  <a href="http://arxiv.org/abs/1212.0447" class="external autonumber"
-  rel="nofollow">[1]</a> (Database, in press)
-
-  
-
-## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
-
-<a
-href="https://groups.google.com/forum/?fromgroups#!forum/biodig#!forum/biodig"
-class="external free"
-rel="nofollow">https://groups.google.com/forum/?fromgroups#!forum/biodig</a>
-
-  
-
-## <span id="BioDIG_Development" class="mw-headline">BioDIG Development</span>
-
-### <span id="Development_team" class="mw-headline">Development team</span>
-
-Friedberg Lab, Miami University, Oxford OH, USA
-
-  
-
-## <span id="More_on_BioDIG" class="mw-headline">More on BioDIG</span>
-
-  
-Raw tool data at [BioDIG/tool data](BioDIG/tool_data "BioDIG/tool data")
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ABioDIG&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ABioDIG (page does not exist)">BioDIG</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ATools using GMOD (page does not exist)">Tools using
-  GMOD</a>
 
 
 
@@ -188,9 +66,6 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -110,9 +110,6 @@ Retrieved from "[http://gmod.org/wiki/Category%3AREST](Category%3AREST)"
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

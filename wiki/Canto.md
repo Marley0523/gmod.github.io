@@ -52,142 +52,10 @@ Resources
 
 
 
-- <a href="http://curation.pombase.org/" class="external text"
-  rel="nofollow">Home page</a>
 
-<!-- -->
-
-- <a href="https://github.com/pombase/canto" class="external text"
-  rel="nofollow">Download</a>
-
-<!-- -->
-
-- <a href="http://curation.pombase.org/demo" class="external text"
-  rel="nofollow">Demo server</a>
-
-
-
-Interoperable Components
-
-
-
-- - <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-
-
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span> <span class="toctext">About
-  Canto</span>](#About_Canto)
-- [<span class="tocnumber">2</span>
-  <span class="toctext">Downloads</span>](#Downloads)
-- [<span class="tocnumber">3</span> <span class="toctext">Using
-  Canto</span>](#Using_Canto)
-  - [<span class="tocnumber">3.1</span>
-    <span class="toctext">Installation</span>](#Installation)
-- [<span class="tocnumber">4</span>
-  <span class="toctext">Documentation</span>](#Documentation)
-- [<span class="tocnumber">5</span> <span class="toctext">Publications,
-  Tutorials, and
-  Presentations</span>](#Publications.2C_Tutorials.2C_and_Presentations)
-  - [<span class="tocnumber">5.1</span>
-    <span class="toctext">Presentations</span>](#Presentations)
-- [<span class="tocnumber">6</span> <span class="toctext">Contacts and
-  Mailing Lists</span>](#Contacts_and_Mailing_Lists)
-- [<span class="tocnumber">7</span> <span class="toctext">Canto in the
-  wild</span>](#Canto_in_the_wild)
-- [<span class="tocnumber">8</span> <span class="toctext">More on
-  Canto</span>](#More_on_Canto)
-
-
-
-## <span id="About_Canto" class="mw-headline">About Canto</span>
-
-Canto is an online tool that supports functional gene annotation by
-community researchers as well as by professional curators. It provides a
-simple interface to gather genetic and molecular data from publications
-for inclusion in public biological databases. Canto employs OBO
-ontologies to ensure a consistent vocabulary is used to describe gene
-and gene product functionality and location.
-
-Genetic and physical interaction annotation is also supported. Canto
-captures all necessary information about each interaction for submission
-to BioGRID.
-
-Canto currently supports annotation export in JSON format, either by
-individual paper or in bulk. The JSON data from Canto can be loaded into
-a relational database using the Chado schema (as at PomBase) or
-alternative schemas.
-
-Visit the <a href="http://curation.pombase.org/" class="external text"
-rel="nofollow">Canto website</a>.
-
-## <span id="Downloads" class="mw-headline">Downloads</span>
-
-- <a href="https://github.com/pombase/canto" class="external text"
-  rel="nofollow">Download Canto</a>.
-
-## <span id="Using_Canto" class="mw-headline">Using Canto</span>
-
-### <span id="Installation" class="mw-headline">Installation</span>
-
-Full instructions for installing Canto are available from the <a
-href="https://github.com/pombase/canto/blob/master/documentation/canto_admin.md"
-class="external text" rel="nofollow">Canto github repository</a>.
-
-## <span id="Documentation" class="mw-headline">Documentation</span>
-
-Instructions for using Canto are integrated into the tool installations
-and at the <a href="http://curation.pombase.org/pombe/docs/index/"
-class="external text" rel="nofollow">PomBase Canto site</a>.
-
-## <span id="Publications.2C_Tutorials.2C_and_Presentations" class="mw-headline">Publications, Tutorials, and Presentations</span>
-
-### <span id="Presentations" class="mw-headline">Presentations</span>
-
-- [Quickstart Community Curation with Canto in the
-  Cloud](File:Canto-cloud.pdf "File:Canto-cloud.pdf") poster from
-  Biocuration 2014
-
-## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
-
-|                                                      |                                                                   |                                                                   |            |
-| ---------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
-|                                                      | Mailing List Link                                                 | Description                                                       | Archive(s) |
-| **Canto**                                            | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto" |
-| class="external text" rel="nofollow">gmod-canto</a>  | **Canto** help and general questions.                             | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-canto" |
-| class="external text" rel="nofollow">Sourceforge</a> |
-
-## <span id="Canto_in_the_wild" class="mw-headline">Canto in the wild</span>
-
-Public installations of Canto:
-
-- <a href="http://curation.pombase.org/uniprot" class="external text"
-  rel="nofollow">Generic Gene Ontology Canto</a>
-  Curate GO annotations for proteins using UniProtKB identifiers
-- <a href="http://curation.pombase.org/pombe" class="external text"
-  rel="nofollow">PomBase Canto</a>
-  Curate GO annotations for S. pombe
-
-## <span id="More_on_Canto" class="mw-headline">More on Canto</span>
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ACanto (page does not exist)">Canto</a>
 - [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+
 
 
 
@@ -495,14 +363,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 
 
 
-
-
-###
-
-
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

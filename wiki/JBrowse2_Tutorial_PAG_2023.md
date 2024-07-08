@@ -999,9 +999,7 @@ width="800" height="460" alt="Dotplot config.png" /></a>
 [Categories](Special%3ACategories "Special%3ACategories"):
 
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
+
 
 
 
@@ -1019,9 +1017,6 @@ width="800" height="460" alt="Dotplot config.png" /></a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

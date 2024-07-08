@@ -1004,12 +1004,6 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
   page](/wiki/Special%3ASearch/2013_Summer_School "This is a special page, you cannot edit the page itself")</span>
 
 
-###
-
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
-
 
 ### Navigation
 

@@ -47,9 +47,6 @@ adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

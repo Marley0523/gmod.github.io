@@ -51,109 +51,7 @@ Resources
 
 
 
-- <a href="https://github.com/bioteam/DIYA" class="external text"
-  rel="nofollow">Home page</a>
 
-<!-- -->
-
-- <a href="https://github.com/bioteam/DIYA" class="external text"
-  rel="nofollow">Download</a>
-
-
-
-Interoperable Components
-
-
-
-- - [GBrowse](GBrowse.1 "GBrowse")
-
-
-
-
-## Contents
-
-
-
-- [<span class="tocnumber">1</span> <span class="toctext">About
-  Do-It-Yourself Annotator
-  (DIYA)</span>](#About_Do-It-Yourself_Annotator_.28DIYA.29)
-  - [<span class="tocnumber">1.1</span>
-    <span class="toctext">Status</span>](#Status)
-- [<span class="tocnumber">2</span>
-  <span class="toctext">Downloads</span>](#Downloads)
-- [<span class="tocnumber">3</span> <span class="toctext">Publications,
-  Tutorials, and
-  Presentations</span>](#Publications.2C_Tutorials.2C_and_Presentations)
-  - [<span class="tocnumber">3.1</span>
-    <span class="toctext">Publications on or mentioning
-    DIYA</span>](#Publications_on_or_mentioning_DIYA)
-- [<span class="tocnumber">4</span> <span class="toctext">Contacts and
-  Mailing Lists</span>](#Contacts_and_Mailing_Lists)
-- [<span class="tocnumber">5</span> <span class="toctext">More on
-  DIYA</span>](#More_on_DIYA)
-
-
-
-## <span id="About_Do-It-Yourself_Annotator_.28DIYA.29" class="mw-headline">About Do-It-Yourself Annotator (DIYA)</span>
-
-DIYA (Do-It-Yourself Annotator) is a modular and configurable open
-source pipeline framework, written in Perl, used for the rapid
-annotation of microbial genome sequences. The software is currently used
-to take nucleotide sequence contigs as input, either in the form of
-complete genomes or the result of shotgun sequencing, and produce an
-annotated sequence.
-
-### <span id="Status" class="mw-headline">Status</span>
-
-Active development of DIYA is currently on hiatus, pending the hiring of
-additional people to work on it. [Andrew
-Stewart](User%3AStewarta "User%3AStewarta"), one of DIYA's developers also
-has plans to convert the DIYA modules into a series of
-[Galaxy](Galaxy.1 "Galaxy") modules.
-
-Visit the
-<a href="https://github.com/bioteam/DIYA" class="external text"
-rel="nofollow">DIYA website</a>.
-
-## <span id="Downloads" class="mw-headline">Downloads</span>
-
-- <a href="https://github.com/bioteam/DIYA" class="external text"
-  rel="nofollow">Download DIYA</a>.
-
-## <span id="Publications.2C_Tutorials.2C_and_Presentations" class="mw-headline">Publications, Tutorials, and Presentations</span>
-
-### <span id="Publications_on_or_mentioning_DIYA" class="mw-headline">Publications on or mentioning DIYA</span>
-
-DIYA: a bacterial annotation pipeline for any genomics lab.
-<sup>[\[1\]](#cite_note-PMID:19254921-1)</sup>
-
-## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
-
-|                                                            |                                                                     |                                                              |            |
-| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
-|                                                            | Mailing List Link                                                   | Description                                                  | Archive(s) |
-| **DIYA**                                                   | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-pub-l" |
-| class="external text" rel="nofollow">diyg-pub-l</a>        | **DIYA** general discussion and support.                            | <a href="http://gmod.827538.n3.nabble.com/DIYA-f835548.html" |
-| class="external text" rel="nofollow">Nabble</a> (2010/05+) |
-|                                                            | <a href="https://lists.sourceforge.net/mailman/listinfo/diyg-dev-l" |
-| class="external text" rel="nofollow">diyg-dev-l</a>        | **DIYA** developer discussion.                                      |                                                              |
-
-## <span id="More_on_DIYA" class="mw-headline">More on DIYA</span>
-
-1.  <span id="cite_note-PMID:19254921"><span class="mw-cite-backlink">[↑](#cite_ref-PMID:19254921_0)</span>
-    **Cite error: Invalid `<ref>` tag; no text was provided for refs
-    named `PMID:19254921`**</span>
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [Annotation](Category%3AAnnotation "Category%3AAnnotation")
 
@@ -400,14 +298,6 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 
 
-
-
-###
-
-
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

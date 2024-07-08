@@ -60,84 +60,7 @@ We took snapshots of the VMware image immediately before the 2010
 course, and at the end of each day. These images have now been copied to
 the GMOD FTP site and are available for download.
 
-- <a
-  href="ftp://ftp.gmod.org/pub/gmod/Courses/2010/SummerSchoolAmericas/GMODCourse2010Start.vmwarevm.tar.gz"
-  class="external text"
-  rel="nofollow">GMODCourse2010Start.vmwarevm.tar.gz</a>
-- <a
-  href="ftp://ftp.gmod.org/pub/gmod/Courses/2010/SummerSchoolAmericas/GMODCourse2010Day1.vmwarevm.tar.gz"
-  class="external text"
-  rel="nofollow">GMODCourse2010Day1.vmwarevm.tar.gz</a>
-- <a
-  href="ftp://ftp.gmod.org/pub/gmod/Courses/2010/SummerSchoolAmericas/GMODCourse2010Day2.vmwarevm.tar.gz"
-  class="external text"
-  rel="nofollow">GMODCourse2010Day2.vmwarevm.tar.gz</a>
-- <a
-  href="ftp://ftp.gmod.org/pub/gmod/Courses/2010/SummerSchoolAmericas/GMODCourse2010Day3.vmwarevm.tar.bz2"
-  class="external text"
-  rel="nofollow">GMODCourse2010Day3.vmwarevm.tar.bz2</a>
-- <a
-  href="ftp://ftp.gmod.org/pub/gmod/Courses/2010/SummerSchoolAmericas/GMODCourse2010Final.vmwarevm.tar.bz2"
-  class="external text"
-  rel="nofollow">GMODCourse2010Final.vmwarevm.tar.bz2</a>
-
-## <span id="System_Requirements" class="mw-headline">System Requirements</span>
-
-
-
-<a href="http://www.vmware.com" rel="nofollow"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
-height="26" alt="VmwareLogoSmall.jpg" /></a>
-
-
-
-<span style="font-size: 110%">**Participants are required to bring their
-own laptops, already capable of running a VMware system image.**</span>
-
-The course starts with getting a VMware image (built specifically for
-the course) up and running on your machine. We then build upon that
-image in each succeeding session.
-
-### <span id="VMware_on_Windows_and_Linux" class="mw-headline">VMware on Windows and Linux</span>
-
-A free VMware player is available for Microsoft Windows and Linux
-[operating systems](Glossary#Operating_System "Glossary") from
-<a href="http://vmware.com/products/player/" class="external text"
-rel="nofollow">VMware</a>. You will need to register to download it.
-There are multiple versions. Be sure to download a version that can run
-on your laptop.
-
-### <span id="VMware_on_Mac_OS_X" class="mw-headline">VMware on Mac OS X</span>
-
-Participants can also bring *newer Macs with Intel processors*. The
-Intel processor is a requirement for all the packages discussed below.
-There is no free VMware player that runs *directly* under Mac OS X.
-However, there are several other options, **all of which require an
-Intel Mac**:
-
-VMware Fusion  
-<a href="http://www.vmware.com/products/fusion/" class="external text"
-rel="nofollow">VMware Fusion</a>
-(<a href="http://www.vmware.com/a/buylink/10" class="external text"
-rel="nofollow">$80/corporate</a>,
-<a href="http://www.vmware.com/vmwarestore/academicstore.html"
-class="external text" rel="nofollow">$40/Academic</a>) allows you to run
-VMware images (as well as Windows and Linux) under Mac OS. **We
-recommend this option for Mac users. There is a fully functional, 30 day
-free trial version of VMware Fusion available for download.**
-
-<!-- -->
-
-VirtualBox  
-<a href="http://www.virtualbox.org/wiki/Downloads" class="external text"
-rel="nofollow">VirtualBox</a> is free and open source, and runs on Intel
-Macs (and Windows, Linux and Solaris too). The latest version of
-virtualbox works, out of the box so to speak, with the image: simple
-create a machine, and then go to *settings* --\> *storage*. And then
-change the hard drive you have set up to point to the vmdk virtual hard
-drive in the untarred folder. (reported by <a
-href="http://gmod.org/mediawiki/index.php?title=User%3AAlex@flymine.org&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AAlex@flymine.org (page does not exist)">Alex</a>).
+).
 
 ## <span id="System_Configuration" class="mw-headline">System Configuration</span>
 
@@ -599,9 +522,6 @@ straightforward to use.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

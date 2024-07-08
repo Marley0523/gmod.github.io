@@ -57,9 +57,7 @@ dumps that you can copy and learn from.
   <a href="http://sgdlite.princeton.edu/download/sgdlite/"
   class="external free"
   rel="nofollow">http://sgdlite.princeton.edu/download/sgdlite/</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=VectorBase&amp;action=edit&amp;redlink=1"
-  class="new" title="VectorBase (page does not exist)">VectorBase</a>:
+:
   <a href="ftp://ftp.vectorbase.org/public_data/databases/chado/"
   class="external free"
   rel="nofollow">ftp://ftp.vectorbase.org/public_data/databases/chado/</a>
@@ -123,9 +121,6 @@ e.g.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

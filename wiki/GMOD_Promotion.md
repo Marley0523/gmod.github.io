@@ -173,116 +173,7 @@ organizations that contribute to or use GMOD.
 
 ### <span id="Slides" class="mw-headline">Slides</span>
 
-- <a href="ftp://ftp.gmod.org/pub/gmod/Resources/GMODProjectSlides.ppt"
-  class="external text" rel="nofollow">GMOD Project Slides</a> - this is
-  a standard set of slides in PowerPoint format, that can be used to
-  describe the GMOD project. Initially, it contains
-  - A slide explaining the project
-  - Slides showing logos of ~50 GMOD community members
-  - Animated slide describing many of the GMOD components
-- [Presentations](Category%3APresentations "Category%3APresentations") and
-  [Posters](Category%3APosters "Category%3APosters") - GMOD.org has an
-  extensive collection of GMOD related presentations and posters. As
-  well as being informative, these can also be mined for graphics. If
-  you do see anything that looks useful to you, please contact the
-  author(s) before using it.
 
-### <span id="Statistics" class="mw-headline">Statistics</span>
-
-A number of GMOD project statistics are recorded on the [Project
-Statistics](Project_Statistics "Project Statistics") page. This is
-irregularly updated, usually around grant time.
-
-## <span id="Presentation_and_Event_Promotion" class="mw-headline">Presentation and Event Promotion</span>
-
-If you are giving a presentation or event with significant GMOD content,
-we can help you spread the word about it in a number of ways:
-
-- Announce it to the appropriate [GMOD Mailing
-  Lists](GMOD_Mailing_Lists "GMOD Mailing Lists").
-- Post it the [GMOD News](GMOD_News "GMOD News") page and RSS feed.
-- Link to it from the appropriate
-  [component](GMOD_Components "GMOD Components") pages.
-- Add it to the GMOD [Calendar](Calendar "Calendar") and to the
-  [Training and
-  Outreach](Training_and_Outreach#Workshops.2C_Presentations_and_Posters "Training and Outreach")
-  page.
-
-If you are organizing or presenting at an event with significant GMOD
-content, then we can help create both a [web
-page](Category%3AConferences "Category%3AConferences"), and a flier for the
-event, highlighting that content. We have created fliers in the past for
-[ISMB 2010](ISMB_2010 "ISMB 2010"), [PAG 2010](PAG_2010 "PAG 2010"),
-[ISMB 2008](ISMB_2008 "ISMB 2008"), and
-<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/GMODatAGS2008.pdf" class="internal"
-title="GMODatAGS2008.pdf">Arthropod Genomics 2008</a>.
-
-Please contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
-(<a href="mailto:help@gmod.org" class="external text"
-rel="nofollow">help@gmod.org</a>) if you would like to use this service.
-
-## <span id="Mugs.2C_T-Shirts.2C_Buttons.2C_..." class="mw-headline">Mugs, T-Shirts, Buttons, ...</span>
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><a href="http://www.cafepress.com/GenericMOD/" rel="nofollow"
-title="GMOD Mug"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/GMODMug150x150.jpg/100px-GMODMug150x150.jpg"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/GMODMug150x150.jpg 2x"
-width="100" height="100" alt="GMOD Mug" /></a></p></td>
-<td><p>Finally, if you want to let people around you know that you're
-keen on GMOD, you can order shirts, mugs, mouse pads, ... from these
-online stores:</p>
-<ul>
-<li><a href="http://www.cafepress.com/GenericMOD" class="external text"
-rel="nofollow">GMOD @ CafePress</a></li>
-<li><a href="http://www.cafepress.co.uk/sk/JimmyDingo"
-class="external text" rel="nofollow">MAKER @ CafePress</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## <span id="Brochures" class="mw-headline">Brochures</span>
-
-[<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GMODTrifoldBrochure2009Page1Thumb.png"
-width="175" height="135" alt="GMOD Brochure" />](http://gmod.org/wiki/Media:GMODTrifoldBrochure2009.ppt "GMOD Brochure")
-
-A <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
-class="internal" title="GMODTrifoldBrochure2009.ppt">tri-fold
-brochure</a> describing the GMOD project and many of its components was
-created to give newcomers an overview of the project. If you would like
-copies of this brochure:
-
-- Download it and print it yourself
-  - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt"
-    class="internal" title="GMODTrifoldBrochure2009.ppt">PowerPoint
-    format</a>
-  - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/85/GMODTrifoldBrochure2009Page1.png"
-    class="internal" title="GMODTrifoldBrochure2009Page1.png">Page 1</a>
-    and
-    <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/GMODTrifoldBrochure2009Page2.png"
-    class="internal" title="GMODTrifoldBrochure2009Page2.png">Page 2</a>
-    as high-resolution images, suitable for sending to a printer.
-
-We printed 500 of these in late 2009 and they are all gone.
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3APages with broken file links (page does not exist)">Pages
-  with broken file links</a>
 - [Conferences](Category%3AConferences "Category%3AConferences")
 - [Education and
   Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
@@ -309,9 +200,6 @@ We printed 500 of these in late 2009 and they are all gone.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

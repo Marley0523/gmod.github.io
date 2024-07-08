@@ -133,9 +133,6 @@ If we go to ASPB again, there are a few things I'd do differently:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

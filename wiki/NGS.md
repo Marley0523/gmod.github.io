@@ -73,9 +73,6 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

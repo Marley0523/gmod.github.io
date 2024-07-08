@@ -171,13 +171,8 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 - [MGI](Category%3AMGI "Category%3AMGI")
 - [WormBase](Category%3AWormBase "Category%3AWormBase")
 - [GSoC](Category%3AGSoC "Category%3AGSoC")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AReactome&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AReactome (page does not exist)">Reactome</a>
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AWebApollo (page does not exist)">WebApollo</a>
+
+
 
 
 
@@ -195,9 +190,6 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

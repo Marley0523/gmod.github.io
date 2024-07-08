@@ -671,9 +671,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_description "Special
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

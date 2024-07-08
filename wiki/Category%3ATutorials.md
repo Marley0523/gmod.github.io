@@ -666,9 +666,7 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATemplate&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATemplate (page does not exist)">Template</a>
+
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Tool data](Category%3ATool_data "Category%3ATool data")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
@@ -703,9 +701,6 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

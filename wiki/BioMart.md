@@ -36,10 +36,7 @@ alt="BioMart" /></a>
 - [BioMart](Category%3ABioMart "Category%3ABioMart")
 - [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>
+
 
 
 
@@ -93,9 +90,6 @@ title="Property:Interactor (page does not exist)">Interactor</a> | BioMart <span
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

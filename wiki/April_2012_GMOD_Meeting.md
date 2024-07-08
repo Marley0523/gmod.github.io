@@ -490,9 +490,6 @@ Feedback will be summarized and posted here once we have it.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

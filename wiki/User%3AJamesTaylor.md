@@ -45,9 +45,6 @@ Mathematics & Computer Science at Emory University, a member of the
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

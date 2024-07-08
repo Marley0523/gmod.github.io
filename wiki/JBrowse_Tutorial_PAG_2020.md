@@ -786,9 +786,7 @@ running the `setup.sh` script.
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>
+
 
 
 
@@ -817,9 +815,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2020 "Special:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

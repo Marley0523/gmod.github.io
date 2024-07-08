@@ -1008,11 +1008,7 @@ MAKER will:
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3APages with broken file links (page does not exist)">Pages
-  with broken file links</a>
+
 - [MAKER](Category%3AMAKER "Category%3AMAKER")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 
@@ -1032,9 +1028,6 @@ MAKER will:
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

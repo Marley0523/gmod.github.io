@@ -155,9 +155,6 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

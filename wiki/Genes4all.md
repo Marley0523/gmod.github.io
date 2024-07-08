@@ -120,10 +120,7 @@ rel="nofollow">http://www.csiro.au</a>).
 - [Drupal](Category%3ADrupal "Category%3ADrupal")
 - [Chado](Category%3AChado "Category%3AChado")
 - [Web services](Category%3AWeb_services "Category%3AWeb services")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AVisualization&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3AVisualization (page does not exist)">Visualization</a>
+
 - [External](Category%3AExternal "Category%3AExternal")
 
 
@@ -142,9 +139,6 @@ rel="nofollow">http://www.csiro.au</a>).
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

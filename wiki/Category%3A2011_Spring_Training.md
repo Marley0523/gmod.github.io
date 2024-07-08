@@ -124,9 +124,6 @@ title="VMware 2011 Spring Training">VMware 2011 Spring Training</a></li>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

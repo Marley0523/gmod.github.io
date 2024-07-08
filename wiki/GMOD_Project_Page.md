@@ -132,9 +132,6 @@ page for more on this effort and how you can help direct it.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

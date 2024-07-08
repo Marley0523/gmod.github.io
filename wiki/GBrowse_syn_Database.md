@@ -248,9 +248,6 @@ width="512" height="541" alt="GBS Schema.png" /></a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -3571,73 +3571,7 @@ list:</strong></em></p>
 <p><a
 href="http://gmod.org/wiki/http://genomearchitect.org/webapollo/releases#58;//genomearchitect.org/webapollo/releases"
 class="external text" rel="nofollow"><strong>Get the newest
-release</strong></a> -- <a
-href="http://gmod.org/wiki/http://genomearchitect.org/WebApolloDemo#58;//genomearchitect.org/WebApolloDemo"
-class="external text" rel="nofollow">Public demo</a> -- <a
-href="http://gmod.org/wiki/http://www.gmod.org/wiki/WebApollo_Installation#58;//www.gmod.org/wiki/WebApollo_Installation"
-class="external text" rel="nofollow">Server setup instructions</a> -- <a
-href="http://gmod.org/wiki/http://genomearchitect.org/webapollo/docs/webapollo_user_guide.pdf#58;//genomearchitect.org/webapollo/docs/webapollo_user_guide.pdf"
-class="external text" rel="nofollow">Updated user guide</a></p>
-<p>Summary of changes:</p>
-<ul>
-<li>Fully revamped genomic sequence selection screen
-<ul>
-<li>sorting by name and length (uses customizable JavaScript
-function)</li>
-<li>filtering of genomic sequence names</li>
-</ul></li>
-<li>Annotation info editor
-<ul>
-<li>allows editing of symbols, comments, and dbxrefs</li>
-</ul></li>
-<li>Script for bulk loading gene/transcript/exons to annotation
-track</li>
-<li>Improved login system
-<ul>
-<li>allows logging in from either genomic region selection screen or
-editor</li>
-</ul></li>
-<li>Configuration for using computed CDS (if available) when first
-creating a transcript (rather that using the longest ORF)</li>
-<li>Improved memory management</li>
-<li>Improved handling of concurrent edits</li>
-<li>HTTPS support</li>
-<li>Deletion of transcripts now warn users</li>
-<li>Accessing editor without logging in hides annotation track</li>
-<li>Using "[" and "]" to navigate through subfeatures when a feature in
-the annotation track is selected</li>
-<li>Improved interface for adding insertions and deletions</li>
-<li>Option to hide plus and/or minus strand</li>
-<li>Various bugfixes</li>
-</ul>
-<p><br />
-</p>
-
-<em>Posted to the <a
-href="http://gmod.org/wiki/http://gmod.org/wiki/GMOD_News#58;//gmod.org/wiki/GMOD_News"
-title="GMOD News">GMOD News</a> on 2013/05/17</em>
-
-</td>
-</tr>
-</tbody>
-</table>
-
-# <span id="The_Really_Old_News_Archive" class="mw-headline">The Really Old News Archive</span>
-
-Even earlier news items are available at
-<a href="http://sourceforge.net/news/?group_id=27707"
-class="external text" rel="nofollow">SourceForge</a>.
-
-
-
-
-[Categories](Special%3ACategories "Special%3ACategories"):
-
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>
+release</strong></a> -
 
 
 
@@ -3655,9 +3589,6 @@ class="external text" rel="nofollow">SourceForge</a>.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

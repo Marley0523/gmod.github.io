@@ -83,11 +83,6 @@ rel="nofollow">Gavin Sherlock</a> \| input = \| output = \| see_also =
 
 
 
-
-
-###
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>

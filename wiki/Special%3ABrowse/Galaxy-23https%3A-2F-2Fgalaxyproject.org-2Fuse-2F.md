@@ -72,9 +72,6 @@ Enter the name of the page to start browsing from.
 
 
 
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -83,9 +83,6 @@ at TIGR (2003-2006) and JCVI (2006-2009).
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

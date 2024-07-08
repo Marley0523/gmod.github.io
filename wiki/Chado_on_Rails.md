@@ -280,9 +280,7 @@ given cvterm lorem ipsum
 
 - [Chado](Category%3AChado "Category%3AChado")
 - [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ARails&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ARails (page does not exist)">Rails</a>
+
 
 
 
@@ -300,9 +298,6 @@ given cvterm lorem ipsum
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

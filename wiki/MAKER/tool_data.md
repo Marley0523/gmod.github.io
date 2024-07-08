@@ -252,11 +252,6 @@ rel="nofollow">http://weatherby.genetics.utah.edu/cgi-bin/mwas/maker.cgi</a>
 
 
 
-
-
-###
-
-
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>

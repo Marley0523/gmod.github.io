@@ -375,9 +375,6 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

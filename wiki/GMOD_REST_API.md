@@ -261,148 +261,7 @@ in the proposal stage and have no been implemented at any
 - Richard Smith -
   <a href="http://www.intermine.org" class="external text"
   rel="nofollow">InterMine</a>
-- Giles Velarde - <a href="http://www.genedb.org" class="external text"
-  rel="nofollow">GeneDB</a>
-- [Todd Harris](User%3ATharris "User%3ATharris") -
-  <a href="http://www.wormbase.org" class="external text"
-  rel="nofollow">WormBase</a>
-- [Jim Hu](User%3AJimHu.1 "User%3AJimHu") -
-  <a href="http://ecoliwiki.net" class="external text"
-  rel="nofollow">EcoliWiki</a>
-- [Alex Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis") -
-  <a href="http://www.intermine.org" class="external text"
-  rel="nofollow">InterMine</a>
-- *Add your name here*
-
-## <span id="Goals" class="mw-headline">Goals</span>
-
-- Data model agnostic
-- Programming language agnostic
-- Easy to use
-- Versioned URLs for API stability over time
-
-## <span id="Related_projects" class="mw-headline">Related projects</span>
-
-- <a href="Common_url" class="mw-redirect" title="Common url">Common
-  url</a>
-- [Bio%3A%3AGMOD](Bio%3A%3AGMOD "Bio%3A%3AGMOD")
-- [Bio GMOD
-  GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
-
-## <span id="Data_classes" class="mw-headline">Data classes</span>
-
-At present, this API only covers querying and retrieving information for
-the gene data class.
-
-## <span id="API_Version" class="mw-headline">API Version</span>
-
-In order to provide a stable URL API all web calls should be versioned
-according to what version of the GMOD REST API they are using. The
-version number included in the URLs corresponds to the API version and
-not the data version. As changes to the API are made the version number
-will be incremented. Access to the older API versions should be provided
-indefinitely.
-
-**Current GMOD REST API Version:** 1.1
-
-## <span id="Data_version" class="mw-headline">Data version</span>
-
-The search results must contain an [XML](Glossary#XML "Glossary") tag
-called data_version that contains the database release number. If the
-database does not use release numbers then the date for when the entire
-data class was updated should be used. If that is not available or if
-individual records within a data class are updated and released
-asynchronously then a timestamp derived from the time of query execution
-should be used.
-
-For example, [FlyBase](Category%3AFlyBase "Category%3AFlyBase") releases its
-data on a roughly monthly basis and tags all data contained in that
-release with a release number (e.g. FB2008_10). If a release number was
-not used then a date stamp for when the entire genes data class was
-updated should be used. If this is not available or if individual genes
-are updated in a piecemeal fashion then a timestamp based on the query
-execution time should be used.
-
-## <span id="Result_dates" class="mw-headline">Result dates</span>
-
-The individual search results must provide a creation and last modified
-timestamp via the **date_created** and **last_modified** XML tags
-respectively. If this information is not available then the current
-timestamp at query execution should be used.
-
-## <span id="Return_types" class="mw-headline">Return types</span>
-
-Each service may define its own return types. The client may request a
-specific return type by appending the appropriate file extension to the
-URL. If no file extension is appended then the default return type for
-that service is used.
-
-## <span id="Compression" class="mw-headline">Compression</span>
-
-Sending of compressed XML and [JSON](Glossary#JSON "Glossary") results
-should follow the same rules used for HTTP communication. If a client
-wishes to receive compressed output it should indicate this by setting
-the Accept-Encoding HTTP request header. When a service provider
-receives a request it should check for the Accept-Encoding request
-header and compress the output if it supports the requested compression
-algorithm. If the service provider does compress the content it should
-then set the Content-Encoding HTTP response header to indicate the
-compression algorithm used.
-
-## <span id="Supported_HTTP_methods" class="mw-headline">Supported HTTP methods</span>
-
-Currently this API only describes read only services that use the GET
-HTTP method. There are no plans to provide create, update or delete
-operations at this time.
-
-## <span id="Querying_or_Filtering_by_Organism" class="mw-headline">Querying or Filtering by Organism</span>
-
-Some of the queries that have been defined below allow for querying
-and/or filtering by organism by using Taxonomy IDs from the NCBI's
-Taxonomy database
-(<a href="http://www.ncbi.nlm.nih.gov/Taxonomy/" class="external free"
-rel="nofollow">http://www.ncbi.nlm.nih.gov/Taxonomy/</a>) or the genus
-and/or species name (e.g. 'Drosophila melanogaster'). Non-leaf taxons
-should be supported by the service provider. For example, if you want to
-query all species in the Sophophora submitting the taxon ID 32341 should
-allow you to perform such a query. In order to implement this service
-you can either implement your own methods or utilize the NCBI's elink
-application that is part of their Eutils service (e.g. <a
-href="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?id=32341&amp;db=taxonomy&amp;dbfrom=taxonomy"
-class="external free"
-rel="nofollow">http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?id=32341&amp;db=taxonomy&amp;dbfrom=taxonomy</a>)
-
-## <span id="Pretty_URLs" class="mw-headline">Pretty URLs</span>
-
-In version 1.1 we have opted for a mixed approach of forming URLs that
-uses directory path structures to specify some elements and parameters
-to add additional filters.
-
-## <span id="Language_Implementation_Pages" class="mw-headline">Language Implementation Pages</span>
-
-- [GMOD_RPC_API/PHP](GMOD_RPC_API/PHP "GMOD RPC API/PHP")
-
-  
-
-## <span id="Error_handling" class="mw-headline">Error handling</span>
-
-### <span id="HTTP_error_code_400" class="mw-headline">HTTP error code 400</span>
-
-An HTTP 400 status code should be returned for the following errors.
-
-- not implemented - returned when a particular service is not
-  implemented.
-- invalid term - returned when a particular CV term is not used by the
-  service.
-
-  
-
-## <span id="Use_Cases" class="mw-headline">Use Cases</span>
-
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=GMOD_RPC_API_Use_Cases&amp;action=edit&amp;redlink=1"
-  class="new" title="GMOD RPC API Use Cases (page does not exist)">GMOD
-  RPC API Use Cases</a>
+- Giles Velarde 
 
 ## <span id="Services" class="mw-headline">Services</span>
 
@@ -1116,13 +975,9 @@ FASTA
 
 [Categories](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AREST&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AREST (page does not exist)">REST</a>
+
 - [Web services](Category%3AWeb_services "Category%3AWeb services")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3ARPC (page does not exist)">RPC</a>
+
 
 
 
@@ -1140,9 +995,6 @@ FASTA
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

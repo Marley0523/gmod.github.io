@@ -46,9 +46,6 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

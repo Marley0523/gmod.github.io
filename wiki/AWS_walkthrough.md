@@ -573,11 +573,7 @@ width="750" height="409" alt="Tabula rasa" /></a>
   Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
 - [Tutorials](Category%3ATutorials "Category%3ATutorials")
 - [Screenshots](Category%3AScreenshots "Category%3AScreenshots")
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
-  class="new"
-  title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-  School</a>
+
 
 
 
@@ -595,9 +591,6 @@ width="750" height="409" alt="Tabula rasa" /></a>
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

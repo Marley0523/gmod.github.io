@@ -169,14 +169,6 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 
-###
-
-
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
-
-
 ### Navigation
 
 

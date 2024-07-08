@@ -54,9 +54,6 @@ BioMart website</a> for all information on BioMart.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

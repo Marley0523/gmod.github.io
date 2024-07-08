@@ -90,92 +90,7 @@ presentation](File:GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presenta
   class="external text" rel="nofollow">beta natural diversity module</a>
   is in <a href="http://sourceforge.net/projects/heliconiusdb/develop"
   class="external text" rel="nofollow">Soureforge</a>.
-  - <a
-    href="http://heliconiusdb.svn.sourceforge.net/viewvc/heliconiusdb/trunk/doc/"
-    class="external text" rel="nofollow">documentation</a> directory
-  - <a
-    href="http://heliconiusdb.svn.sourceforge.net/viewvc/heliconiusdb/trunk/schema/"
-    class="external text" rel="nofollow">schema definitions</a>.
-  - <a
-    href="http://heliconiusdb.svn.sourceforge.net/viewvc/heliconiusdb/trunk/schema/doc/diversity.html"
-    class="external text" rel="nofollow">Table Documentation</a>
-- The module is based heavily on the
-  <a href="http://www.maizegenetics.net/gdpdm/" class="external text"
-  rel="nofollow">Genomic Diversity and Phenotype Data Model (GDPDM)</a>,
-  which comes out of Cornell, and also has nice documentation. The GDPDM
-  is also described in [this
-  presentation](File:GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt").
-
-## <span id="2009" class="mw-headline">2009</span>
-
-In the fall of 2009, Sook Jung of Washington State downloaded the
-initial version (becoming the first known user outside *heliconius*) and
-started looking at it with the goal of using for
-<a href="http://www.rosaceae.org/" class="external text"
-rel="nofollow">GDR</a>, a plant genome database. Sook found that a
-number of things weren't clear, and her input led to a rethinking of the
-design, and to the formation of this working group.
-
-## <span id="2010" class="mw-headline">2010</span>
-
-Several working group participants met at a [January 2010 GMOD Satellite
-Meeting](January_2010_GMOD_Meeting#Satellite_Meetings "January 2010 GMOD Meeting")
-during [PAG 2010](PAG_2010 "PAG 2010"). Discussion has continued in
-teleconferences and on the
-<a href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"
-class="external text" rel="nofollow">Chado mailing list</a>. The design
-has changed considerable during this time. It has become more
-*Chadoesque*: it is a very flexible and generic design.
-
-As of July 2010, the schema is undergoing final tweaks before it is
-moved into production
-<a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
-
   
-
-# <span id="Participation" class="mw-headline">Participation</span>
-
-If you are interested, please add your name below. (Either update this
-page directly, or send your contact info to
-<a href="mailto:clements@nescent.org" class="external text"
-rel="nofollow">Dave Clements</a>.)
-
-| Name | Email | Affiliation | Comments |
-|----|----|----|----|
-| [Dave Clements](User%3AClements "User%3AClements") (organizer) | <a href="mailto:clements@nescent.org" class="external text"
-rel="nofollow">clements@nescent.org</a> | <a href="http://nescent.org" class="external text"
-rel="nofollow">NESCent</a>, GMOD | Please let me know if you are interested in participating in this group, or if you have any questions. |
-| Sook Jung | sook \* bioinfo.wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
-rel="nofollow">GDR</a> |  |
-| Meg Staton | mestato \* yahoo.com | <a href="http://www.genome.clemson.edu/" class="external text"
-rel="nofollow">CUGI</a> |  |
-| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | ficklin \* clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
-rel="nofollow">CUGI</a> |  |
-| Dorrie Main | dorrie \* wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
-rel="nofollow">GDR</a> |  |
-| [Scott Cain](User%3AScott "User%3AScott") |  | OICR / GMOD |  |
-| Genevieve DeClerk |  | Cornell / Gramene |  |
-| Bob MacCallum | r.maccallum#imperial.ac.uk | <a href="http://vectorbase.org" class="external text"
-rel="nofollow">VectorBase</a> | mosquitoes, ticks and other nasties... |
-| Seth Redmond | seth.redmond \* imperial.ac.uk | Imperial / <a href="http://vectorbase.org" class="external text"
-rel="nofollow">VectorBase</a> |  |
-| [Naama Menda](User%3ANaamaMenda "User%3ANaamaMenda") | naama.menda \* cornell.edu | sol genomics network / <a href="http://solgenomics.net" class="external text"
-rel="nofollow">SGN</a> |  |
-| Maren Friesen |  | University of Southern California | Medicago ecological genomics |
-| Yuri Bendana |  | University of southern California | Medicago ecological genomics |
-| Pantelis Topalis | topalis\*imbb.forth.gr | <a href="http://vectorbase.org" class="external text"
-rel="nofollow">VectorBase</a> @IMBB | Ontology developer |
-| Emmanuel Dialynas | ed \* imbb.forth.gr | <a href="http://vectorbase.org" class="external text"
-rel="nofollow">VectorBase</a> @IMBB | Ontology/Insecticide Resistance database developer |
-| Dan Bolser | dan.bolser@gmail.com | Ensembl Genomes, Plants division | We need to store millions of SNPs from hundreds of thousands of varieties. An unknown volume of phenotyping data to follow... |
-| <a
-href="http://gmod.org/mediawiki?title=Special:TableEdit&amp;id=90f302545d6d2678756d3936319fd651.1541.T4b2076aa353c3&amp;page=1541&amp;pagename=Chado_Natural_Diversity_Module_Working_Group&amp;type=0&amp;template="
-class="external text" rel="nofollow">edit table</a> |  |  |  |
-
-<a
-href="http://gmod.org/mediawiki/index.php?title=Template:ThisIsATET&amp;action=edit&amp;redlink=1"
-class="new"
-title="Template:ThisIsATET (page does not exist)">Template:ThisIsATET</a>
 
 # <span id="Stock_Relationship_Ontology" class="mw-headline">Stock Relationship Ontology</span>
 
@@ -213,9 +128,6 @@ Ontology](Stock_Relationship_Ontology "Stock Relationship Ontology")
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

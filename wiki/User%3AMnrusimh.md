@@ -33,9 +33,7 @@ Email: mnrusimh@indiana.edu
 
 [Category](Special%3ACategories "Special%3ACategories"):
 
-- <a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3AUsers&amp;action=edit&amp;redlink=1"
-  class="new" title="Category%3AUsers (page does not exist)">Users</a>
+
 
 
 
@@ -53,9 +51,6 @@ Email: mnrusimh@indiana.edu
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

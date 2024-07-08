@@ -79,9 +79,6 @@ See [Support](Support "Support") for more information.
 
 
 
-<a href="Main_Page"
-style="background-image: url(../images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

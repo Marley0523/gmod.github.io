@@ -159,9 +159,6 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation
