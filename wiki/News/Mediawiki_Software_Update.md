@@ -76,9 +76,6 @@ and hopefully will not last very long at all (less than an hour).
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

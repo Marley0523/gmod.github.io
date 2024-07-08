@@ -43,9 +43,6 @@ class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

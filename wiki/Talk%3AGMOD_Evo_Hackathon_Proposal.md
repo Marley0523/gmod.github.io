@@ -479,9 +479,6 @@ and then what could be done about them.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

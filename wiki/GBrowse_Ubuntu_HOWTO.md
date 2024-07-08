@@ -227,9 +227,6 @@ rel="nofollow">http://localhost/gbrowse</a>.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

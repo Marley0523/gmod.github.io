@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Gbrowse-2Fauthentication_plugins-2Ftestauthenticator "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

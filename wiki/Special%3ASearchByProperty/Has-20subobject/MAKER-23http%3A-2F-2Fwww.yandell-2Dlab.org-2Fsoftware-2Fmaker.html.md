@@ -44,9 +44,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20subobject/MAKER-23http%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker.html "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

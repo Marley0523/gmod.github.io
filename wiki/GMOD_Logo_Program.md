@@ -193,9 +193,6 @@ details, and list of projects and logos that were created.
 
 
 
-### 
-
-
 
 
 

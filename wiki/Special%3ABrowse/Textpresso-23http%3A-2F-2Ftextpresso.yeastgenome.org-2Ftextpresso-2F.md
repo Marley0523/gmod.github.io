@@ -65,9 +65,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Textpresso-23http%3A-2F-2Ftextpresso.yeastgenome.org-2Ftextpresso-2F "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -86,9 +86,6 @@ rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span class="
 
 
 
-### 
-
-
 
 
 

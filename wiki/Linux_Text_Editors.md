@@ -56,9 +56,6 @@ text editors.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

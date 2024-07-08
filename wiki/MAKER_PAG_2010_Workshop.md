@@ -186,9 +186,6 @@ GMOD-related presentations at PAG XVIII.
 
 
 
-### 
-
-
 
 
 

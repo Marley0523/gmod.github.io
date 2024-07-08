@@ -461,9 +461,6 @@ display an image (rendered by gbrowse_img) in a wiki-page.
 
 
 
-### 
-
-
 
 
 

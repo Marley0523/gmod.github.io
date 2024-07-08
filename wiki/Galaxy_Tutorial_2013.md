@@ -799,9 +799,6 @@ class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 
 
-### 
-
-
 
 
 

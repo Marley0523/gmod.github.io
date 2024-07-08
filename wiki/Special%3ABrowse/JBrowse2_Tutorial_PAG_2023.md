@@ -60,9 +60,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/JBrowse2_Tutorial_PAG_2023 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

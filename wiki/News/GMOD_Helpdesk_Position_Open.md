@@ -95,9 +95,6 @@ may be addressed to H. Lapp at by email or by phone at 919.668.5288.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

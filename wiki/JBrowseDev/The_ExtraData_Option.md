@@ -197,9 +197,6 @@ minimize the size of the data extracted from each feature.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

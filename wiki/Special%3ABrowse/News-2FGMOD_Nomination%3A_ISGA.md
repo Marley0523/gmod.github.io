@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGMOD_Nomination%3A_ISGA "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

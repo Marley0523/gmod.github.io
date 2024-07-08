@@ -84,9 +84,6 @@ class="external text" rel="nofollow">schema mailing list</a>,
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

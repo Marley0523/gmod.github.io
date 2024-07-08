@@ -108,9 +108,6 @@ bacterial species. How should this be represented this in Chado?
 
 
 
-### 
-
-
 
 
 

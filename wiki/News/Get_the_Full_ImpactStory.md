@@ -79,9 +79,6 @@ We hope to add impact metrics for GMOD software soon.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

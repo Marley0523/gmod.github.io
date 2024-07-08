@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Installing_GBrowse2_in_your_Home_Directory "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

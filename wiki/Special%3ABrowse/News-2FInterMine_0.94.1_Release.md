@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FInterMine_0.94.1_Release "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

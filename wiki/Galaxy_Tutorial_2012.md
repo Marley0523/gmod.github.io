@@ -694,9 +694,6 @@ column BED file with the repeat count in column 5, the score column.
 
 
 
-### 
-
-
 
 
 

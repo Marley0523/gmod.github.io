@@ -346,9 +346,6 @@ this before the next release of GBrowse.
 
 
 
-### 
-
-
 
 
 

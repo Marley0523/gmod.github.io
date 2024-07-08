@@ -68,9 +68,6 @@ rel="nofollow">Scott Cain</a>.
 
 
 
-### 
-
-
 
 
 

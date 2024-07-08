@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/MAKER-20with-20additional-20software-20for-20plant-20genome-20annotation "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

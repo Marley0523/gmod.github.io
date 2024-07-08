@@ -714,9 +714,6 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 
-### 
-
-
 
 
 

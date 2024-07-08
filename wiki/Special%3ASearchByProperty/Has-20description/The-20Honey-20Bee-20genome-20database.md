@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/The-20Honey-20Bee-20genome-20database "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

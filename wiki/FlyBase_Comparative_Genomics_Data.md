@@ -220,9 +220,6 @@ Drosophila melanogaster; Dpse: Drosophila pseudoobscura.
 
 
 
-### 
-
-
 
 
 

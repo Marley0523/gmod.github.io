@@ -548,9 +548,6 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

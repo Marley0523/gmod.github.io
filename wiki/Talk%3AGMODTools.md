@@ -43,9 +43,6 @@ is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

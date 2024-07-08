@@ -587,9 +587,6 @@ width="750" height="409" alt="Tabula rasa" /></a>
 
 
 
-### 
-
-
 
 
 

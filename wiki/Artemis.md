@@ -71,9 +71,6 @@ and the Artemis group is working closely with
 
 
 
-### 
-
-
 
 
 

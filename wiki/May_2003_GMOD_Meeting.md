@@ -71,9 +71,6 @@ are the presentations given by the groups represented.
 
 
 
-### 
-
-
 
 
 

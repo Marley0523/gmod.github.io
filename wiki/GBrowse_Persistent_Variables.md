@@ -246,9 +246,6 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

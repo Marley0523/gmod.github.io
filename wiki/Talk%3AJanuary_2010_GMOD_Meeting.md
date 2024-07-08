@@ -56,9 +56,6 @@ Ah yes, I'm a little slow this morning.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

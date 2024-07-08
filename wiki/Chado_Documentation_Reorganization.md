@@ -318,9 +318,6 @@ This will be placed at the top of the page.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

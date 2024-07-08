@@ -152,9 +152,6 @@ yourself when you see her.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

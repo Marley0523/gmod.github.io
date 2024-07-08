@@ -3392,9 +3392,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(v1.0) "Special:Exp
 
 
 
-### 
-
-
 
 
 

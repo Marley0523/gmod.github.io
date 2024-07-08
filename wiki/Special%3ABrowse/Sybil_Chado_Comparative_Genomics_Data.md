@@ -60,9 +60,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Sybil_Chado_Comparative_Genomics_Data "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

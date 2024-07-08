@@ -100,9 +100,6 @@ rel="nofollow">Linn-Benton Community College</a>.
 
 
 
-### 
-
-
 
 
 

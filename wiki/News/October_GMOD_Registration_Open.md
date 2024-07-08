@@ -64,9 +64,6 @@ the meeting is limited to 40 people.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

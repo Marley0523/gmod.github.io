@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGBrowse_NGS_Tutorial_-26_Poster "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

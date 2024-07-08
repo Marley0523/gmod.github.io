@@ -88,9 +88,6 @@ to those who have done so already and have helped make Tripal better.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

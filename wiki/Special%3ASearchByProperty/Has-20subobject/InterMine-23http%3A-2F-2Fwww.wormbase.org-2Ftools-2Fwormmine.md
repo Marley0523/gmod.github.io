@@ -44,9 +44,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fwormmine "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

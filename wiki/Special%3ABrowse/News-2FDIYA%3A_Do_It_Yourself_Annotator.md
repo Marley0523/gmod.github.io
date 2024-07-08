@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FDIYA%3A_Do_It_Yourself_Annotator "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

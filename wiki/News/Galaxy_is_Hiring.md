@@ -142,9 +142,6 @@ class="external text" rel="nofollow">announcement</a> for full details.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

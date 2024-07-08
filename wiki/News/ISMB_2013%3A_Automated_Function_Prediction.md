@@ -111,9 +111,6 @@ rel="nofollow">afp.cafa.2013@gmail.com</a>.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

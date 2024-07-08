@@ -57,9 +57,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Jim's_notes_on_E._coli_migration "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

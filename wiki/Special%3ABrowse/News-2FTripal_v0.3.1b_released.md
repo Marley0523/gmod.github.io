@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FTripal_v0.3.1b_released "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

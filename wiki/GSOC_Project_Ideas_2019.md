@@ -225,9 +225,6 @@ self-motivation are great traits for open source programmers.
 
 
 
-### 
-
-
 
 
 

@@ -107,9 +107,6 @@ making it an even better match for GMOD.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

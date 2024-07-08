@@ -110,9 +110,6 @@ General JBrowse feature requests:
 
 
 
-### 
-
-
 
 
 

@@ -68,9 +68,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

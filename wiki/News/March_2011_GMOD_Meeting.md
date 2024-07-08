@@ -108,9 +108,6 @@ sponsored by NESCent and the [Galaxy](../Galaxy.1 "Galaxy") Project.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

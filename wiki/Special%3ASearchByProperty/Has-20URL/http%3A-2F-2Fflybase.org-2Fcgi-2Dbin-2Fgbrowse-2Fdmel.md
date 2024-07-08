@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -100,9 +100,6 @@ rel="nofollow">Center for Genomics and Bioinformatics</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

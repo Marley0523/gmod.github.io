@@ -126,9 +126,6 @@ Use the experiment, factor, and treatment tables.
 
 
 
-### 
-
-
 
 
 

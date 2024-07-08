@@ -79,9 +79,6 @@ rel="nofollow">CSHL jobs site</a> and search for Job ID 934.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/Curate-20GO-20annotations-20for-20proteins-20using-20UniProtKB-20identifiers "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

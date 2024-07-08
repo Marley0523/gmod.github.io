@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-20file "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

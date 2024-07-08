@@ -1170,9 +1170,6 @@ restrictions will clearly state that they have restricted licenses.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

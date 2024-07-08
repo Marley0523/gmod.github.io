@@ -4252,9 +4252,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Tripal_Tutorial 
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

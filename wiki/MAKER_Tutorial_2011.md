@@ -2458,9 +2458,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2011 "Special:Export
 
 
 
-### 
-
-
 
 
 

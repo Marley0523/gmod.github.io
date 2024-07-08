@@ -360,9 +360,6 @@ rel="nofollow">OpenHelix blog</a>.
 
 
 
-### 
-
-
 
 
 

@@ -206,9 +206,6 @@ chado table [organism](Chado_Tables#Table:_organism "Chado Tables").
 
 
 
-### 
-
-
 
 
 

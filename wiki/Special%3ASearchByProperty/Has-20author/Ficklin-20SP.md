@@ -47,9 +47,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20author/Ficklin-20SP "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

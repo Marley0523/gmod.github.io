@@ -78,9 +78,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

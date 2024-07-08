@@ -47,9 +47,6 @@ occurred since the last summer school; these include:
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

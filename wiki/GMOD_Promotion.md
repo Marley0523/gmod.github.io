@@ -196,9 +196,6 @@ organizations that contribute to or use GMOD.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

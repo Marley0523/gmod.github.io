@@ -55,9 +55,6 @@ job advertisement (PDF)</a> for more information.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

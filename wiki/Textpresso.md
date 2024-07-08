@@ -105,9 +105,6 @@ class="external text" rel="nofollow">+</a></span> |
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

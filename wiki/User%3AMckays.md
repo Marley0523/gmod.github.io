@@ -114,9 +114,6 @@ class="external text" rel="nofollow">View on Google Docs</a>**
 
 
 
-### 
-
-
 
 
 

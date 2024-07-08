@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/Highly-20Specific-20and-20Efficient-20CRISPR-2FCas9-2DCatalyzed-20Homology-2DDirected-20Repair-20in-20Drosophila "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

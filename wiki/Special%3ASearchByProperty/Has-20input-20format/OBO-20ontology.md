@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20input-20format/OBO-20ontology "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

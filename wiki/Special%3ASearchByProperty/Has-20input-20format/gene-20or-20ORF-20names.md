@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20input-20format/gene-20or-20ORF-20names "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

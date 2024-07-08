@@ -63,9 +63,6 @@ Space is limited (an NGS analysis course is already full).
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

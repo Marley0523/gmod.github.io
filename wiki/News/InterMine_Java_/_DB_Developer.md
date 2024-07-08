@@ -80,9 +80,6 @@ date for applications is 24 September 2010.
 
 
 
-### 
-
-
 
 <a href="../../Main_Page"
 style="background-image: url(../../../images/GMOD-cogs.png);"

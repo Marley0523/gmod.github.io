@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2FECOLI-2F "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

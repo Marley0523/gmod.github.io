@@ -36,9 +36,6 @@ rel="nofollow">Tripal User's Guide</a>.
 
 
 
-### 
-
-
 
 
 

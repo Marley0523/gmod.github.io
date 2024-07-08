@@ -92,9 +92,6 @@ class="external text" rel="nofollow">isga-users mailing list</a>.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -2004,9 +2004,6 @@ function tripal_example_module_requirements($phase) {
 
 
 
-### 
-
-
 
 
 

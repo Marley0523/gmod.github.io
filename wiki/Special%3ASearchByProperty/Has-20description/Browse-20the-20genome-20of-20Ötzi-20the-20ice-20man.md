@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20%C3%96tzi-20the-20ice-20man "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

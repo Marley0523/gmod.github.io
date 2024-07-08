@@ -335,9 +335,6 @@ This was already fixed. I committed the SQL a couple of weeks ago
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

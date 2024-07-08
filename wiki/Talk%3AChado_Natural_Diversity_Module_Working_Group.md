@@ -520,9 +520,6 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

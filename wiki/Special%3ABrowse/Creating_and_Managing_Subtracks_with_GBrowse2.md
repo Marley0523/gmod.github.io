@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

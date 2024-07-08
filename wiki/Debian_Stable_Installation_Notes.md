@@ -356,9 +356,6 @@ alt="Gbrowse.png" /></a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

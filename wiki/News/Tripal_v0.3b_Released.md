@@ -94,9 +94,6 @@ Please post any issues or questions about this new version to the
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

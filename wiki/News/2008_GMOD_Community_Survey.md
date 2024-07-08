@@ -77,9 +77,6 @@ updated 2008/11/20*
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

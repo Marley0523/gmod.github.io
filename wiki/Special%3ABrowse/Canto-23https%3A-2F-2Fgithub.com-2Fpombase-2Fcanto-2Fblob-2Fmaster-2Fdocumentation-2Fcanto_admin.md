@@ -64,9 +64,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -169,9 +169,6 @@ for the older versions of this schema proposal
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

@@ -80,9 +80,6 @@ If you are updating from an older version, see the documentation in the
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

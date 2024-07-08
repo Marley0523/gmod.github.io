@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Face_Caucus_UCSC%3A_User_Interface_Issues "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

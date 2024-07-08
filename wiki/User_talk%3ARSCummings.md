@@ -49,9 +49,6 @@ the JBrowseDev/Upcoming namespace. For example, a page you want to call
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

@@ -45,9 +45,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20author/Coppe-20A "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

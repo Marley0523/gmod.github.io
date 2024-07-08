@@ -60,9 +60,6 @@ format is easier to use as a command line argument.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -45,9 +45,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20publication-20details/Database-20%3A-20the-20journal-20of-20biological-20databases-20and-20curation-202011%3A-20bar044 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -59,9 +59,6 @@ rel="nofollow">FlyBase</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

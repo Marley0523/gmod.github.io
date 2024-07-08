@@ -63,9 +63,6 @@ cases in bioinformatics and systems biology.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

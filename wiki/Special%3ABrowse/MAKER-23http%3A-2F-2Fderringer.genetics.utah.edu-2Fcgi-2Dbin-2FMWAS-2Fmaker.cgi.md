@@ -68,9 +68,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

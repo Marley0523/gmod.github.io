@@ -330,9 +330,6 @@ web colors or RGB hex codes (eg: '#FFFFFF').</td>
 
 
 
-### 
-
-
 
 
 

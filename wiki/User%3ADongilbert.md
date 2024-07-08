@@ -42,9 +42,6 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 
 
-### 
-
-
 
 
 

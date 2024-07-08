@@ -437,9 +437,6 @@ function clearOldRows($box, $time){
 
 
 
-### 
-
-
 
 
 

@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/The-20king-20cobra-20genome-20reveals-20dynamic-20gene-20evolution-20and-20adaptation-20in-20the-20snake-20venom-20system "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

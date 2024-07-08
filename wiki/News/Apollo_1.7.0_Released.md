@@ -88,9 +88,6 @@ be addressed and put into a new release as soon as possible.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

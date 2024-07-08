@@ -602,9 +602,6 @@ height="580" alt="GalaxyExtras Fetch 3.png" /></a>
 
 
 
-### 
-
-
 
 
 

@@ -74,9 +74,6 @@ Thanks and I look forward to seeing you in Toronto,
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

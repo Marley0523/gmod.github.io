@@ -150,9 +150,6 @@ We will be starting in the hotel bar.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

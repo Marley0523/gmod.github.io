@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Comparison_of_XORT_and_Hibernate_for_Chado_reporting "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

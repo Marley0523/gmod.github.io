@@ -101,9 +101,6 @@ rel="nofollow">contact the CGB</a> if you have any questions.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

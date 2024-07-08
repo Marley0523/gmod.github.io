@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20licence/-5Bhttp:-2F-2Fopensource.org-2Flicenses-2Fartistic-2Dlicense-2D2.0-20Artistic-20License-202.0-20(for-20academics)-5D "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

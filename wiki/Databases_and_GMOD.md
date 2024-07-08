@@ -354,9 +354,6 @@ class="external text" rel="nofollow">Coati</a> development framework.
 
 
 
-### 
-
-
 
 
 

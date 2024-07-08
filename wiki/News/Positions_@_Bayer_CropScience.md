@@ -101,9 +101,6 @@ updated 2011/04/15*
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

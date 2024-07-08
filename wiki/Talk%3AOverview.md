@@ -79,9 +79,6 @@ and 'Beginning Date' would be?
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

@@ -74,9 +74,6 @@ includes links to slides and videos for all accepted talks.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

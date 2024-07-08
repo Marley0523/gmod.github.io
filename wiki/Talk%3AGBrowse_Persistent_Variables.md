@@ -46,9 +46,6 @@ class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

@@ -65,9 +65,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse-23http%3A-2F-2Fwww.wormbase.org-2Ftools-2Fgenome-2Fgbrowse-2Fc_elegans-2F "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

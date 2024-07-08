@@ -160,9 +160,6 @@ print $segments,$chroms,$gff;
 
 
 
-### 
-
-
 
 
 

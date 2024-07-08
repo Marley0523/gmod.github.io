@@ -88,9 +88,6 @@ Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

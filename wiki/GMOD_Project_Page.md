@@ -128,9 +128,6 @@ page for more on this effort and how you can help direct it.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

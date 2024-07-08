@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Chado_Natural_Diversity_Module-2Fnatdiv_schema_changes_call "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

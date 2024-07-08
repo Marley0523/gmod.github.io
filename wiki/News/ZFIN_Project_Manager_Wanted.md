@@ -110,9 +110,6 @@ first consideration. The position will remain open until filled.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -57,9 +57,6 @@ projects work easily together.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

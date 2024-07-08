@@ -41,9 +41,6 @@ Great idea. Unfortunately demo gives an error: The requested URL
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

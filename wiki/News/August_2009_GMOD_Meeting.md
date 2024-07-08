@@ -92,9 +92,6 @@ Please join us in Oxford this August,
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

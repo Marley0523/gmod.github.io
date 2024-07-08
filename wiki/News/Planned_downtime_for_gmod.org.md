@@ -49,9 +49,6 @@ Updated: Time change to 4:00 PM EST today.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

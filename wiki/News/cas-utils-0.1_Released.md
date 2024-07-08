@@ -107,9 +107,6 @@ Thanks and happy curating! [Scott Cain](../User%3AScott "User%3AScott")
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

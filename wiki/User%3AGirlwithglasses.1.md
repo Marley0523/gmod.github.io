@@ -39,9 +39,6 @@ Specialist from July 2012 to May 2014.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

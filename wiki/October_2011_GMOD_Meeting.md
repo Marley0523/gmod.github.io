@@ -565,9 +565,6 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 
 
-### 
-
-
 
 
 

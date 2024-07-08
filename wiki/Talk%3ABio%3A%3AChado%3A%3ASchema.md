@@ -62,9 +62,6 @@ April 2011 (UTC)
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

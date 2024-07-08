@@ -87,9 +87,6 @@ class="external text" rel="nofollow">+</a></span> |
 
 
 
-### 
-
-
 
 
 

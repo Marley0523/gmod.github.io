@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Apollo-2DChado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -47,9 +47,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

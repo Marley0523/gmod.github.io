@@ -92,9 +92,6 @@ width="1500" height="1367" alt="Chado phenotype proposal.v4.png" /></a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

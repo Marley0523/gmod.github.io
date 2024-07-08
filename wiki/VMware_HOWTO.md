@@ -248,9 +248,6 @@ applications like Firefox and terminal.
 
 
 
-### 
-
-
 
 
 

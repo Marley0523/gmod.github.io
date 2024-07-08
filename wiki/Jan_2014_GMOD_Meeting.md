@@ -256,9 +256,6 @@ large-scale projects</a>
 
 
 
-### 
-
-
 
 
 

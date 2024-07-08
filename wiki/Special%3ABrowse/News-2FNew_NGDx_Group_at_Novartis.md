@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FNew_NGDx_Group_at_Novartis "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

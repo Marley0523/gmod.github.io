@@ -71,9 +71,6 @@ posted on the wiki closer to the time.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

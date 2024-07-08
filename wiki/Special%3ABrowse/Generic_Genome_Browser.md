@@ -99,9 +99,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Generic_Genome_Browser "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -88,9 +88,6 @@ looking for interested developers to contribute to DIYA. See the
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -64,9 +64,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

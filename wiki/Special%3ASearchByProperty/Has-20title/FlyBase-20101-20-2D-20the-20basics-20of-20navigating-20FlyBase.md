@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/FlyBase-20101-20-2D-20the-20basics-20of-20navigating-20FlyBase "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

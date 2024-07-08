@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

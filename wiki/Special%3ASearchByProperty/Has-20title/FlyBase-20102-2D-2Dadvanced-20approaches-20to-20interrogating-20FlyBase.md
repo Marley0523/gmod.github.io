@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/FlyBase-20102-2D-2Dadvanced-20approaches-20to-20interrogating-20FlyBase "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

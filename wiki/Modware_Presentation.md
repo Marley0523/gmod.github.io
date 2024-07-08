@@ -594,9 +594,6 @@ sub Write_search_results {
 
 
 
-### 
-
-
 
 
 

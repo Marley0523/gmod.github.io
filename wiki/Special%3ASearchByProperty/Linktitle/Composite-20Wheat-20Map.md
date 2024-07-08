@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Linktitle/Composite-20Wheat-20Map "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

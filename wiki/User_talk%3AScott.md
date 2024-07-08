@@ -44,9 +44,6 @@ my $string = 'this is quoted';
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

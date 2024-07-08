@@ -121,9 +121,6 @@ three: gene, mRNA, and exon).
 
 
 
-### 
-
-
 
 
 

@@ -144,9 +144,6 @@ class="external text" rel="nofollow">Pathway Tools release notes</a>.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

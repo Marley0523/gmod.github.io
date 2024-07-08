@@ -57,9 +57,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Common_Problems_with_GBrowse2_Installation "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

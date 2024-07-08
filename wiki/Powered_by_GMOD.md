@@ -97,9 +97,6 @@ width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /></a> |  |  |
 
 
 
-### 
-
-
 
 
 

@@ -121,9 +121,6 @@ rel="nofollow">Video</a> of original talk
 
 
 
-### 
-
-
 
 
 

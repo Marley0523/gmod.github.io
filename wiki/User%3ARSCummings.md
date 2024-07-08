@@ -46,9 +46,6 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

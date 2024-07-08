@@ -3174,9 +3174,6 @@ If you are using the default Tripal view
 
 
 
-### 
-
-
 
 
 

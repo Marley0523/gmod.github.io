@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGMOD's_GSoC_Going_Great_Guns! "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -1000,9 +1000,6 @@ Bio::Graphics::Glyph::xyplot
 
 
 
-### 
-
-
 
 
 

@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/The-20ant-20genomes-20were-20annotated-20using-20MAKER. "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

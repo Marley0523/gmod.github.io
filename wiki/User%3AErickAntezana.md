@@ -35,9 +35,6 @@ rel="nofollow">Bayer CropScience</a> in Ghent, Belgium.
 
 
 
-### 
-
-
 
 
 

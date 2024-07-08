@@ -72,9 +72,6 @@ I look forward to seeing you in England this Fall.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

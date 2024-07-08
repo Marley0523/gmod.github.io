@@ -68,9 +68,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/MAKER-23https%3A-2F-2Fwww.e-2Dbiogenouest.org-2Fresources-2F48 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

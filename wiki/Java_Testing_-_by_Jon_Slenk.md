@@ -193,9 +193,6 @@ class="external text" rel="nofollow">code rot</a>
 
 
 
-### 
-
-
 
 
 

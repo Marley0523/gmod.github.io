@@ -59,9 +59,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b) "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

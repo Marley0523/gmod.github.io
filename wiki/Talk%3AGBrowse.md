@@ -42,9 +42,6 @@ Since this is a wiki, others are welcome to modify what I'm doing.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

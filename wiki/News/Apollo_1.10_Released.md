@@ -74,9 +74,6 @@ rel="nofollow">http://apollo.berkeleybop.org/current/install.html</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

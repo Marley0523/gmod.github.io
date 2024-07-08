@@ -679,9 +679,6 @@ To completely disable generation of the data sources popup menu, set
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

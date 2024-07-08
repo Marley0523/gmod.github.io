@@ -571,9 +571,6 @@ how to generate the .gff3 files for subsequent uploading:
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -44,9 +44,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Is-20open-20source/Caveats-20apply "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

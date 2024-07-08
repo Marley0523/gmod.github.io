@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/Using-20the-20Generic-20Synteny-20Browser-20(GBrowse_syn). "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

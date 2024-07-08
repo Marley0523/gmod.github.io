@@ -44,9 +44,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20subobject/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 
