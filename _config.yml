@@ -1,5 +1,6 @@
 highlighter: rouge
 markdown: kramdown
+incremental: true
 gist:
   noscript: false
 kramdown:
