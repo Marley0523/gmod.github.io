@@ -19,9 +19,9 @@
 
 
 
-<a href="File:Sample_ballon.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/Sample_ballon.png" width="292"
-height="105" alt="Sample ballon.png" /></a>
+height="105" alt="Sample ballon.png" />
 
 
 
@@ -370,9 +370,9 @@ page header.
   the visible portion, to allow the balloon to be resized to a maximum
   width of 1000px (but don't do that).
 
-<a href="File:Howitworks.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Howitworks.png" width="410" height="244"
-alt="Howitworks.png" /></a>
+alt="Howitworks.png" />
 
 - The top left (blue border) image is fixed, while the right side
   (green), bottom right corner (red) and bottom side (black) slide
@@ -510,9 +510,9 @@ must be reset to 'null' in this case.
   precision of 1px or the balloon will not render properly.
 
 
-<a href="File:Options.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Options.png" width="960" height="361"
-alt="Options.png" /></a>
+alt="Options.png" />
 
 
 **Note:** The padding is not only the distance of the text from the
@@ -525,9 +525,9 @@ For example, setting the padding to 2px with the default balloon images
 will cause the effect below because the image corner radius is 10px:
 
 
-<a href="File:Padding_defect.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/Padding_defect.png" width="658"
-height="115" alt="Padding defect.png" /></a>
+height="115" alt="Padding defect.png" />
 
 
 ### <span id="Online_balloon_image_generator" class="mw-headline">Online balloon image generator</span>
@@ -548,11 +548,10 @@ with different balloon options.
 
 
 
-<a href="File:Balloon_generator.png" class="image"
-title="The actual script is at http://mckay.cshl.edu/balloon"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f1/Balloon_generator.png" width="891"
 height="295"
-alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
+alt="The actual script is at http://mckay.cshl.edu/balloon" />
 
 
 
@@ -566,11 +565,10 @@ product will look like or all of the necessary image components.
 
 |                                                                    |
 |:------------------------------------------------------------------:|
-|           <a href="File:Balloon_sample.png" class="image"          
-  title="The actual script is at http://mckay.cshl.edu/balloon"><img 
+|           <img 
     src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Balloon_sample.png" width="411"    
                              height="402"                            
- alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>  |
+ alt="The actual script is at http://mckay.cshl.edu/balloon" />  |
 
 
 
@@ -582,11 +580,10 @@ the custom balloon images on a web page:
 
 
 
-<a href="File:Balloon_script.png" class="image"
-title="The actual script is at http://mckay.cshl.edu/balloon"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Balloon_script.png" width="1040"
 height="422"
-alt="The actual script is at http://mckay.cshl.edu/balloon" /></a>
+alt="The actual script is at http://mckay.cshl.edu/balloon" />
 
 
 
@@ -845,9 +842,9 @@ opacity set to 0.9).
 
 - GBubble is the the default balloon style.
 
-<a href="File:GBubble.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/GBubble.png" class="thumbborder"
-width="358" height="199" alt="GBubble.png" /></a>
+width="358" height="199" alt="GBubble.png" />
 
 - GFade is identical to GBubble except that it fades into view rather
   than just popping up. This is accomplished by starting out transparent
@@ -861,9 +858,9 @@ has opacity set to 85% and cursor tracking enabled, so the tooltip will
 follow the mouse until you mouseout from the text or image the tooltip
 is attached to.
 
-<a href="File:GPlain.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/GPlain.png" class="thumbborder"
-width="515" height="172" alt="GPlain.png" /></a>
+width="515" height="172" alt="GPlain.png" />
 
 #### <span id="GBox" class="mw-headline">GBox</span>
 
@@ -872,9 +869,9 @@ dynamically (actually, this is true of all balloon tooltips).
 
 - For sticky boxes, if the contents are too big, scrollbars will appear.
 
-<a href="File:GBox.png" class="image" title="The GBox style"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBox.png" class="thumbborder" width="672"
-height="343" alt="The GBox style" /></a>
+height="343" alt="The GBox style" />
 
 ### <span id="Configuring_Default_Tooltip_Styles" class="mw-headline">Configuring Default Tooltip Styles</span>
 

@@ -16,10 +16,10 @@
 
 
 
-<a href="File:CantoTextLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/400px-CantoTextLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/600px-CantoTextLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/CantoTextLogo.png/800px-CantoTextLogo.png 2x"
-width="400" height="99" alt="Canto logo" /></a>
+width="400" height="99" alt="Canto logo" />
 
 
 

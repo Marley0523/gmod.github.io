@@ -48,9 +48,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:1471-2105-6-45.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="1471-2105-6-45.pdf" /></a>
+  width="120" height="120" alt="1471-2105-6-45.pdf" />
 
   
 
@@ -71,9 +71,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:1599-1.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="1599-1.pdf" /></a>
+  width="120" height="120" alt="1599-1.pdf" />
 
   
 
@@ -94,9 +94,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:3461.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="3461.pdf" /></a>
+  width="120" height="120" alt="3461.pdf" />
 
   
 
@@ -117,9 +117,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:A_Chado_Case_Study.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="A Chado Case Study.pdf" /></a>
+  width="120" height="120" alt="A Chado Case Study.pdf" />
 
   
 
@@ -141,9 +141,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:D480.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="D480.pdf" /></a>
+  width="120" height="120" alt="D480.pdf" />
 
   
 
@@ -164,9 +164,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Gb-2002-3-12-research0082.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gb-2002-3-12-research0082.pdf" /></a>
+  width="120" height="120" alt="Gb-2002-3-12-research0082.pdf" />
 
   
 
@@ -187,9 +187,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Gb-2007-8-6-r112.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gb-2007-8-6-r112.pdf" /></a>
+  width="120" height="120" alt="Gb-2007-8-6-r112.pdf" />
 
   
 
@@ -210,9 +210,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Gkg222.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkg222.pdf" /></a>
+  width="120" height="120" alt="Gkg222.pdf" />
 
   
 
@@ -233,9 +233,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Gkl776.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkl776.pdf" /></a>
+  width="120" height="120" alt="Gkl776.pdf" />
 
   
 
@@ -256,9 +256,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Gkl777.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkl777.pdf" /></a>
+  width="120" height="120" alt="Gkl777.pdf" />
 
   
 

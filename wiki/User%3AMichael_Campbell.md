@@ -19,10 +19,10 @@
 
 ## <span id="Mike_Campbell" class="mw-headline">Mike Campbell</span>
 
-<a href="File:Mike_Campbell.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/200px-Mike_Campbell.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/300px-Mike_Campbell.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Mike_Campbell.jpg/400px-Mike_Campbell.jpg 2x"
-width="200" height="267" alt="Mike Campbell.jpg" /></a>
+width="200" height="267" alt="Mike Campbell.jpg" />
 
 As a member of the Yandell lab and a budding MAKER developer, I have
 been able to explore the genomes of many weird and wonderful organisms.

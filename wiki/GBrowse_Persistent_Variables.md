@@ -180,16 +180,16 @@ subroutine queryStateVariables, assigning the return value to one of the
 html variables.
 
 
-<a href="File:StateVariables.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/300px-StateVariables.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/450px-StateVariables.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/StateVariables.png/600px-StateVariables.png 2x"
-width="300" height="193" /></a>
+width="300" height="193" />
 
 
-<a href="File:StateVariables.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

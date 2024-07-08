@@ -44,9 +44,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse_screenshot1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/120px-GBrowse_screenshot1.png"
-  width="120" height="83" alt="GBrowse screenshot1.png" /></a>
+  width="120" height="83" alt="GBrowse screenshot1.png" />
 
   
 
@@ -68,9 +68,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:ActSelection.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/ActSelection.gif/120px-ActSelection.gif"
-  width="120" height="56" alt="ActSelection.gif" /></a>
+  width="120" height="56" alt="ActSelection.gif" />
 
   
 
@@ -91,9 +91,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:ActSelection2seqs.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/ActSelection2seqs.gif/120px-ActSelection2seqs.gif"
-  width="120" height="43" alt="ActSelection2seqs.gif" /></a>
+  width="120" height="43" alt="ActSelection2seqs.gif" />
 
   
 
@@ -114,9 +114,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:AddCV.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/AddCV.gif/120px-AddCV.gif"
-  width="120" height="73" alt="AddCV.gif" /></a>
+  width="120" height="73" alt="AddCV.gif" />
 
   
 
@@ -137,9 +137,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Alignments_table.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/Alignments_table.png/120px-Alignments_table.png"
-  width="120" height="21" alt="Alignments table.png" /></a>
+  width="120" height="21" alt="Alignments table.png" />
 
   
 
@@ -161,9 +161,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Analysis-complete.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f6/Analysis-complete.jpg/120px-Analysis-complete.jpg"
-  width="120" height="77" alt="Analysis-complete.jpg" /></a>
+  width="120" height="77" alt="Analysis-complete.jpg" />
 
   
 
@@ -184,9 +184,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Analysis-expected-time.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8f/Analysis-expected-time.jpg/120px-Analysis-expected-time.jpg"
-  width="120" height="48" alt="Analysis-expected-time.jpg" /></a>
+  width="120" height="48" alt="Analysis-expected-time.jpg" />
 
   
 
@@ -207,9 +207,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Analyze-region-popup-menu.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c8/Analyze-region-popup-menu.jpg/92px-Analyze-region-popup-menu.jpg"
-  width="92" height="120" alt="Analyze-region-popup-menu.jpg" /></a>
+  width="92" height="120" alt="Analyze-region-popup-menu.jpg" />
 
   
 
@@ -230,9 +230,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Annotation-editor-popup-menu.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/52/Annotation-editor-popup-menu.jpg/120px-Annotation-editor-popup-menu.jpg"
-  width="120" height="83" alt="Annotation-editor-popup-menu.jpg" /></a>
+  width="120" height="83" alt="Annotation-editor-popup-menu.jpg" />
 
   
 
@@ -253,9 +253,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Annotation-editor.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6d/Annotation-editor.jpg/120px-Annotation-editor.jpg"
-  width="120" height="82" alt="Annotation-editor.jpg" /></a>
+  width="120" height="82" alt="Annotation-editor.jpg" />
 
   
 
@@ -276,9 +276,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-main-window.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ae/Apollo-main-window.jpg/120px-Apollo-main-window.jpg"
-  width="120" height="87" alt="Apollo-main-window.jpg" /></a>
+  width="120" height="87" alt="Apollo-main-window.jpg" />
 
   
 
@@ -299,9 +299,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-no-genes.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Apollo-no-genes.jpg/120px-Apollo-no-genes.jpg"
-  width="120" height="87" alt="Apollo-no-genes.jpg" /></a>
+  width="120" height="87" alt="Apollo-no-genes.jpg" />
 
   
 
@@ -322,9 +322,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-with-genes.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Apollo-with-genes.jpg/120px-Apollo-with-genes.jpg"
-  width="120" height="87" alt="Apollo-with-genes.jpg" /></a>
+  width="120" height="87" alt="Apollo-with-genes.jpg" />
 
   
 
@@ -345,9 +345,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-with-merged-exons.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/64/Apollo-with-merged-exons.jpg/120px-Apollo-with-merged-exons.jpg"
-  width="120" height="87" alt="Apollo-with-merged-exons.jpg" /></a>
+  width="120" height="87" alt="Apollo-with-merged-exons.jpg" />
 
   
 
@@ -368,11 +368,10 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-with-two-genes-splice-variants.jpg"
-  class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/21/Apollo-with-two-genes-splice-variants.jpg/120px-Apollo-with-two-genes-splice-variants.jpg"
   width="120" height="87"
-  alt="Apollo-with-two-genes-splice-variants.jpg" /></a>
+  alt="Apollo-with-two-genes-splice-variants.jpg" />
 
   
 
@@ -393,9 +392,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Apollo-with-two-genes.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/32/Apollo-with-two-genes.jpg/120px-Apollo-with-two-genes.jpg"
-  width="120" height="87" alt="Apollo-with-two-genes.jpg" /></a>
+  width="120" height="87" alt="Apollo-with-two-genes.jpg" />
 
   
 
@@ -416,9 +415,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Artemis.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/Artemis.gif/120px-Artemis.gif"
-  width="120" height="93" alt="Artemis.gif" /></a>
+  width="120" height="93" alt="Artemis.gif" />
 
   
 
@@ -439,9 +438,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:ArtemisLogin.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/ArtemisLogin.gif/120px-ArtemisLogin.gif"
-  width="120" height="55" alt="ArtemisLogin.gif" /></a>
+  width="120" height="55" alt="ArtemisLogin.gif" />
 
   
 
@@ -462,9 +461,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Balloon_generator.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Balloon_generator.png/120px-Balloon_generator.png"
-  width="120" height="40" alt="Balloon generator.png" /></a>
+  width="120" height="40" alt="Balloon generator.png" />
 
   
 
@@ -486,9 +485,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Balloon_sample.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/49/Balloon_sample.png/120px-Balloon_sample.png"
-  width="120" height="117" alt="Balloon sample.png" /></a>
+  width="120" height="117" alt="Balloon sample.png" />
 
   
 
@@ -510,9 +509,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Balloon.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/Balloon.png/120px-Balloon.png"
-  width="120" height="89" alt="Balloon.png" /></a>
+  width="120" height="89" alt="Balloon.png" />
 
   
 
@@ -533,9 +532,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:BenchMark.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7a/BenchMark.png/120px-BenchMark.png"
-  width="120" height="64" alt="BenchMark.png" /></a>
+  width="120" height="64" alt="BenchMark.png" />
 
   
 
@@ -556,9 +555,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Blast-types.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/55/Blast-types.jpg/120px-Blast-types.jpg"
-  width="120" height="15" alt="Blast-types.jpg" /></a>
+  width="120" height="15" alt="Blast-types.jpg" />
 
   
 
@@ -579,9 +578,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Blastn-results.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/Blastn-results.jpg/120px-Blastn-results.jpg"
-  width="120" height="25" alt="Blastn-results.jpg" /></a>
+  width="120" height="25" alt="Blastn-results.jpg" />
 
   
 
@@ -602,9 +601,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Blastx-results.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/32/Blastx-results.jpg/120px-Blastx-results.jpg"
-  width="120" height="27" alt="Blastx-results.jpg" /></a>
+  width="120" height="27" alt="Blastx-results.jpg" />
 
   
 
@@ -625,9 +624,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Chado-adapter.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d4/Chado-adapter.jpg/120px-Chado-adapter.jpg"
-  width="120" height="94" alt="Chado-adapter.jpg" /></a>
+  width="120" height="94" alt="Chado-adapter.jpg" />
 
   
 
@@ -648,9 +647,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Chado-save-dialog.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/14/Chado-save-dialog.jpg/120px-Chado-save-dialog.jpg.png"
-  width="120" height="94" alt="Chado-save-dialog.jpg" /></a>
+  width="120" height="94" alt="Chado-save-dialog.jpg" />
 
   
 
@@ -671,9 +670,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample1.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
-  width="89" height="120" alt="Cmap sample1.jpg" /></a>
+  width="89" height="120" alt="Cmap sample1.jpg" />
 
   
 
@@ -694,9 +693,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample1t.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7c/Cmap_sample1t.jpg/89px-Cmap_sample1t.jpg"
-  width="89" height="120" alt="Cmap sample1t.jpg" /></a>
+  width="89" height="120" alt="Cmap sample1t.jpg" />
 
   
 
@@ -717,9 +716,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample2.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/120px-Cmap_sample2.jpg"
-  width="120" height="85" alt="Cmap sample2.jpg" /></a>
+  width="120" height="85" alt="Cmap sample2.jpg" />
 
   
 
@@ -740,9 +739,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample2t.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/Cmap_sample2t.jpg/120px-Cmap_sample2t.jpg"
-  width="120" height="85" alt="Cmap sample2t.jpg" /></a>
+  width="120" height="85" alt="Cmap sample2t.jpg" />
 
   
 
@@ -763,9 +762,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample3.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/120px-Cmap_sample3.jpg"
-  width="120" height="110" alt="Cmap sample3.jpg" /></a>
+  width="120" height="110" alt="Cmap sample3.jpg" />
 
   
 
@@ -786,9 +785,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Cmap_sample3t.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Cmap_sample3t.jpg/120px-Cmap_sample3t.jpg"
-  width="120" height="110" alt="Cmap sample3t.jpg" /></a>
+  width="120" height="110" alt="Cmap sample3t.jpg" />
 
   
 
@@ -809,9 +808,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:CreateConfigMart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ae/CreateConfigMart.png/120px-CreateConfigMart.png"
-  width="120" height="64" alt="CreateConfigMart.png" /></a>
+  width="120" height="64" alt="CreateConfigMart.png" />
 
   
 
@@ -832,9 +831,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Edit-preferences.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/Edit-preferences.jpg/110px-Edit-preferences.jpg"
-  width="110" height="120" alt="Edit-preferences.jpg" /></a>
+  width="110" height="120" alt="Edit-preferences.jpg" />
 
   
 
@@ -855,9 +854,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:FlyBaseCVTermViewer.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d3/FlyBaseCVTermViewer.png/120px-FlyBaseCVTermViewer.png"
-  width="120" height="68" alt="FlyBaseCVTermViewer.png" /></a>
+  width="120" height="68" alt="FlyBaseCVTermViewer.png" />
 
   
 
@@ -878,9 +877,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Fetch_1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/11/Galaxy_Fetch_1.png/120px-Galaxy_Fetch_1.png"
-  width="120" height="66" alt="Galaxy Fetch 1.png" /></a>
+  width="120" height="66" alt="Galaxy Fetch 1.png" />
 
   
 
@@ -902,9 +901,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Fetch_2.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/Galaxy_Fetch_2.png/120px-Galaxy_Fetch_2.png"
-  width="120" height="66" alt="Galaxy Fetch 2.png" /></a>
+  width="120" height="66" alt="Galaxy Fetch 2.png" />
 
   
 
@@ -926,9 +925,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Fetch_3.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Galaxy_Fetch_3.png/120px-Galaxy_Fetch_3.png"
-  width="120" height="66" alt="Galaxy Fetch 3.png" /></a>
+  width="120" height="66" alt="Galaxy Fetch 3.png" />
 
   
 
@@ -950,9 +949,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Galaxy_FirstAnalysis_1.png/120px-Galaxy_FirstAnalysis_1.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 1.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 1.png" />
 
   
 
@@ -974,9 +973,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_2.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bd/Galaxy_FirstAnalysis_2.png/120px-Galaxy_FirstAnalysis_2.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 2.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 2.png" />
 
   
 
@@ -998,9 +997,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_3.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/Galaxy_FirstAnalysis_3.png/120px-Galaxy_FirstAnalysis_3.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 3.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 3.png" />
 
   
 
@@ -1022,9 +1021,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_4.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/Galaxy_FirstAnalysis_4.png/120px-Galaxy_FirstAnalysis_4.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 4.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 4.png" />
 
   
 
@@ -1046,9 +1045,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_5.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1f/Galaxy_FirstAnalysis_5.png/120px-Galaxy_FirstAnalysis_5.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 5.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 5.png" />
 
   
 
@@ -1070,9 +1069,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_FirstAnalysis_6.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8c/Galaxy_FirstAnalysis_6.png/120px-Galaxy_FirstAnalysis_6.png"
-  width="120" height="90" alt="Galaxy FirstAnalysis 6.png" /></a>
+  width="120" height="90" alt="Galaxy FirstAnalysis 6.png" />
 
   
 
@@ -1094,9 +1093,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Misc_1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/Galaxy_Misc_1.png/120px-Galaxy_Misc_1.png"
-  width="120" height="90" alt="Galaxy Misc 1.png" /></a>
+  width="120" height="90" alt="Galaxy Misc 1.png" />
 
   
 
@@ -1117,9 +1116,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Misc_2.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/88/Galaxy_Misc_2.png/120px-Galaxy_Misc_2.png"
-  width="120" height="58" alt="Galaxy Misc 2.png" /></a>
+  width="120" height="58" alt="Galaxy Misc 2.png" />
 
   
 
@@ -1140,9 +1139,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Misc_3.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/Galaxy_Misc_3.png/120px-Galaxy_Misc_3.png"
-  width="120" height="58" alt="Galaxy Misc 3.png" /></a>
+  width="120" height="58" alt="Galaxy Misc 3.png" />
 
   
 
@@ -1163,9 +1162,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_Misc_4.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/Galaxy_Misc_4.png/120px-Galaxy_Misc_4.png"
-  width="120" height="56" alt="Galaxy Misc 4.png" /></a>
+  width="120" height="56" alt="Galaxy Misc 4.png" />
 
   
 
@@ -1186,9 +1185,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_SecondAnalysis_1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/53/Galaxy_SecondAnalysis_1.png/120px-Galaxy_SecondAnalysis_1.png"
-  width="120" height="90" alt="Galaxy SecondAnalysis 1.png" /></a>
+  width="120" height="90" alt="Galaxy SecondAnalysis 1.png" />
 
   
 
@@ -1210,9 +1209,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Galaxy_SecondAnalysis_2.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/Galaxy_SecondAnalysis_2.png/120px-Galaxy_SecondAnalysis_2.png"
-  width="120" height="90" alt="Galaxy SecondAnalysis 2.png" /></a>
+  width="120" height="90" alt="Galaxy SecondAnalysis 2.png" />
 
   
 
@@ -1234,9 +1233,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Gbrowse_syn.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Gbrowse_syn.png/120px-Gbrowse_syn.png"
-  width="120" height="44" alt="Gbrowse syn.png" /></a>
+  width="120" height="44" alt="Gbrowse syn.png" />
 
   
 
@@ -1257,9 +1256,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Gbrowse_synBubble1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/Gbrowse_synBubble1.png/120px-Gbrowse_synBubble1.png"
-  width="120" height="48" alt="Gbrowse synBubble1.png" /></a>
+  width="120" height="48" alt="Gbrowse synBubble1.png" />
 
   
 
@@ -1281,9 +1280,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Gbrowse_synEtfinit.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/120px-Gbrowse_synEtfinit.png"
-  width="120" height="58" alt="Gbrowse synEtfinit.png" /></a>
+  width="120" height="58" alt="Gbrowse synEtfinit.png" />
 
   
 
@@ -1305,9 +1304,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse_synPulldown1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/GBrowse_synPulldown1.png/120px-GBrowse_synPulldown1.png"
-  width="120" height="38" alt="GBrowse synPulldown1.png" /></a>
+  width="120" height="38" alt="GBrowse synPulldown1.png" />
 
   
 
@@ -1329,9 +1328,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse_synWe_made_it1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/120px-GBrowse_synWe_made_it1.png"
-  width="120" height="55" alt="GBrowse synWe made it1.png" /></a>
+  width="120" height="55" alt="GBrowse synWe made it1.png" />
 
   
 
@@ -1353,9 +1352,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse_synWe_made_it2.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/120px-GBrowse_synWe_made_it2.png"
-  width="120" height="55" alt="GBrowse synWe made it2.png" /></a>
+  width="120" height="55" alt="GBrowse synWe made it2.png" />
 
   
 
@@ -1377,9 +1376,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse_synWelcom.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GBrowse_synWelcom.png/120px-GBrowse_synWelcom.png"
-  width="120" height="75" alt="GBrowse synWelcom.png" /></a>
+  width="120" height="75" alt="GBrowse synWelcom.png" />
 
   
 
@@ -1401,9 +1400,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowse2Thumb.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c2/GBrowse2Thumb.png/120px-GBrowse2Thumb.png"
-  width="120" height="81" alt="GBrowse2Thumb.png" /></a>
+  width="120" height="81" alt="GBrowse2Thumb.png" />
 
   
 
@@ -1424,9 +1423,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowseSAMtools1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/120px-GBrowseSAMtools1.png"
-  width="120" height="111" alt="GBrowseSAMtools1.png" /></a>
+  width="120" height="111" alt="GBrowseSAMtools1.png" />
 
   
 
@@ -1447,9 +1446,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowseSAMtoolsCoverageXY.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/111px-GBrowseSAMtoolsCoverageXY.png"
-  width="111" height="120" alt="GBrowseSAMtoolsCoverageXY.png" /></a>
+  width="111" height="120" alt="GBrowseSAMtoolsCoverageXY.png" />
 
   
 
@@ -1470,9 +1469,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:GBrowseSAMtoolsReads1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/80px-GBrowseSAMtoolsReads1.png"
-  width="80" height="120" alt="GBrowseSAMtoolsReads1.png" /></a>
+  width="80" height="120" alt="GBrowseSAMtoolsReads1.png" />
 
   
 
@@ -1493,9 +1492,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:ISGAHomePageThumb.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/52/ISGAHomePageThumb.png/120px-ISGAHomePageThumb.png"
-  width="120" height="85" alt="ISGAHomePageThumb.png" /></a>
+  width="120" height="85" alt="ISGAHomePageThumb.png" />
 
   
 
@@ -1516,9 +1515,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MAKERresults.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/00/MAKERresults.jpg/106px-MAKERresults.jpg.png"
-  width="106" height="120" alt="MAKERresults.jpg" /></a>
+  width="106" height="120" alt="MAKERresults.jpg" />
 
   
 
@@ -1539,9 +1538,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MAKERselect_dpp.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/MAKERselect_dpp.jpg/120px-MAKERselect_dpp.jpg.png"
-  width="120" height="51" alt="MAKERselect dpp.jpg" /></a>
+  width="120" height="51" alt="MAKERselect dpp.jpg" />
 
   
 
@@ -1563,9 +1562,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MAKERstatus.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/MAKERstatus.jpg/120px-MAKERstatus.jpg.png"
-  width="120" height="29" alt="MAKERstatus.jpg" /></a>
+  width="120" height="29" alt="MAKERstatus.jpg" />
 
   
 
@@ -1586,9 +1585,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorContextMenu.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/MartEditorContextMenu.png/119px-MartEditorContextMenu.png"
-  width="119" height="120" alt="MartEditorContextMenu.png" /></a>
+  width="119" height="120" alt="MartEditorContextMenu.png" />
 
   
 
@@ -1609,9 +1608,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorCreateImportable.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/70/MartEditorCreateImportable.png/120px-MartEditorCreateImportable.png"
-  width="120" height="100" alt="MartEditorCreateImportable.png" /></a>
+  width="120" height="100" alt="MartEditorCreateImportable.png" />
 
   
 
@@ -1632,9 +1631,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorExportable.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6d/MartEditorExportable.png/120px-MartEditorExportable.png"
-  width="120" height="48" alt="MartEditorExportable.png" /></a>
+  width="120" height="48" alt="MartEditorExportable.png" />
 
   
 
@@ -1655,9 +1654,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorImportable.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/41/MartEditorImportable.png/120px-MartEditorImportable.png"
-  width="120" height="35" alt="MartEditorImportable.png" /></a>
+  width="120" height="35" alt="MartEditorImportable.png" />
 
   
 
@@ -1678,9 +1677,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorMenu.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/87/MartEditorMenu.png/120px-MartEditorMenu.png"
-  width="120" height="82" alt="MartEditorMenu.png" /></a>
+  width="120" height="82" alt="MartEditorMenu.png" />
 
   
 
@@ -1701,9 +1700,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartEditorPanal.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/MartEditorPanal.png/120px-MartEditorPanal.png"
-  width="120" height="60" alt="MartEditorPanal.png" /></a>
+  width="120" height="60" alt="MartEditorPanal.png" />
 
   
 
@@ -1724,9 +1723,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartModel.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/MartModel.png/120px-MartModel.png"
-  width="120" height="78" alt="MartModel.png" /></a>
+  width="120" height="78" alt="MartModel.png" />
 
   
 
@@ -1747,9 +1746,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartViewGUI.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/MartViewGUI.png/120px-MartViewGUI.png"
-  width="120" height="59" alt="MartViewGUI.png" /></a>
+  width="120" height="59" alt="MartViewGUI.png" />
 
   
 
@@ -1770,9 +1769,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MartViewJoinQuery.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/MartViewJoinQuery.png/120px-MartViewJoinQuery.png"
-  width="120" height="67" alt="MartViewJoinQuery.png" /></a>
+  width="120" height="67" alt="MartViewJoinQuery.png" />
 
   
 
@@ -1793,9 +1792,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderAddSchema.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d4/MBuilderAddSchema.png/120px-MBuilderAddSchema.png"
-  width="120" height="76" alt="MBuilderAddSchema.png" /></a>
+  width="120" height="76" alt="MBuilderAddSchema.png" />
 
   
 
@@ -1816,9 +1815,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderDatasetView.png" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="MBuilderDatasetView.png" /></a>
+  height="120" alt="MBuilderDatasetView.png" />
 
   
 
@@ -1839,9 +1838,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderMenu.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/96/MBuilderMenu.png/120px-MBuilderMenu.png"
-  width="120" height="105" alt="MBuilderMenu.png" /></a>
+  width="120" height="105" alt="MBuilderMenu.png" />
 
   
 
@@ -1862,9 +1861,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderRunner.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/MBuilderRunner.png/120px-MBuilderRunner.png"
-  width="120" height="91" alt="MBuilderRunner.png" /></a>
+  width="120" height="91" alt="MBuilderRunner.png" />
 
   
 
@@ -1885,9 +1884,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderRunnerMonitor.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/MBuilderRunnerMonitor.png/120px-MBuilderRunnerMonitor.png"
-  width="120" height="62" alt="MBuilderRunnerMonitor.png" /></a>
+  width="120" height="62" alt="MBuilderRunnerMonitor.png" />
 
   
 
@@ -1908,9 +1907,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:MBuilderSchemaView.PNG" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/MBuilderSchemaView.PNG/100px-MBuilderSchemaView.PNG"
-  width="100" height="120" alt="MBuilderSchemaView.PNG" /></a>
+  width="100" height="120" alt="MBuilderSchemaView.PNG" />
 
   
 
@@ -1931,9 +1930,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Merge-exons-popup-menu.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/Merge-exons-popup-menu.jpg/120px-Merge-exons-popup-menu.jpg"
-  width="120" height="52" alt="Merge-exons-popup-menu.jpg" /></a>
+  width="120" height="52" alt="Merge-exons-popup-menu.jpg" />
 
   
 
@@ -1954,9 +1953,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:PoweredByBioMart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/PoweredByBioMart.png/120px-PoweredByBioMart.png"
-  width="120" height="23" alt="PoweredByBioMart.png" /></a>
+  width="120" height="23" alt="PoweredByBioMart.png" />
 
   
 
@@ -1977,9 +1976,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Run-analysis.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1f/Run-analysis.jpg/120px-Run-analysis.jpg"
-  width="120" height="95" alt="Run-analysis.jpg" /></a>
+  width="120" height="95" alt="Run-analysis.jpg" />
 
   
 
@@ -2000,9 +1999,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:Style-wizard.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/Style-wizard.jpg/120px-Style-wizard.jpg"
-  width="120" height="113" alt="Style-wizard.jpg" /></a>
+  width="120" height="113" alt="Style-wizard.jpg" />
 
   
 
@@ -2023,9 +2022,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:WebGBrowseAddTrack.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/WebGBrowseAddTrack.jpg/120px-WebGBrowseAddTrack.jpg"
-  width="120" height="45" alt="WebGBrowseAddTrack.jpg" /></a>
+  width="120" height="45" alt="WebGBrowseAddTrack.jpg" />
 
   
 
@@ -2046,9 +2045,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:WhatInBioMart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/WhatInBioMart.png/120px-WhatInBioMart.png"
-  width="120" height="72" alt="WhatInBioMart.png" /></a>
+  width="120" height="72" alt="WhatInBioMart.png" />
 
   
 
@@ -2069,9 +2068,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:ZfinAssayTypePullDown.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6d/ZfinAssayTypePullDown.png/107px-ZfinAssayTypePullDown.png"
-  width="107" height="120" alt="ZfinAssayTypePullDown.png" /></a>
+  width="107" height="120" alt="ZfinAssayTypePullDown.png" />
 
   
 
@@ -2092,9 +2091,9 @@ The following 89 files are in this category, out of 89 total.
 
   
 
-  <a href="File:JBrowse-arc-screenshot.png.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/22/JBrowse-arc-screenshot.png.png/120px-JBrowse-arc-screenshot.png.png"
-  width="120" height="86" alt="JBrowse-arc-screenshot.png.png" /></a>
+  width="120" height="86" alt="JBrowse-arc-screenshot.png.png" />
 
   
 

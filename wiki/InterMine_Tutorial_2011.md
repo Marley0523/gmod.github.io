@@ -308,9 +308,9 @@ double click to open the installer.
 
 You should see a window like this:
 
-<a href="File:MineManager-welcome.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/MineManager-welcome.png" width="800"
-height="454" alt="MineManager-welcome.png" /></a>
+height="454" alt="MineManager-welcome.png" />
 
 This installer will guide you through the install procedure in 4 steps
 to the point of having a working database that we can use to release a
@@ -331,9 +331,9 @@ the Mine Information tab to select the appropriate directory:
 
      /home/gmod/Documents/Software/intermine
 
-<a href="File:MineManager-minesettings-info.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/MineManager-minesettings-info.png"
-width="800" height="467" alt="MineManager-minesettings-info.png" /></a>
+width="800" height="467" alt="MineManager-minesettings-info.png" />
 
 Once this form is completed and you have **applied your changes** you
 will be able to create your mine.
@@ -372,15 +372,15 @@ reading in data from common biological formats (including
 [GFF3](GFF3 "GFF3")), and we supply the tools for writing your own
 parsers for datasources we don't support out of the box.
 
-<a href="File:InterMine-dataparsing.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/InterMine-dataparsing.png/700px-InterMine-dataparsing.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/InterMine-dataparsing.png/1050px-InterMine-dataparsing.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/InterMine-dataparsing.png 2x"
-width="700" height="525" alt="InterMine-dataparsing.png" /></a>
+width="700" height="525" alt="InterMine-dataparsing.png" />
 
-<a href="File:MineManager-sourcesettings-empty.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/MineManager-sourcesettings-empty.png"
 width="800" height="467"
-alt="MineManager-sourcesettings-empty.png" /></a>
+alt="MineManager-sourcesettings-empty.png" />
 
 ### <span id="Importing_Protein_Data_From_Uniprot" class="mw-headline">Importing Protein Data From Uniprot</span>
 
@@ -391,10 +391,10 @@ this case *uniprot* is fine).
 Once you add a source the section on the right will load up its specific
 configuration options.
 
-<a href="File:MineManager-sourcesettings-uniprot.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/90/MineManager-sourcesettings-uniprot.png"
 width="800" height="467"
-alt="MineManager-sourcesettings-uniprot.png" /></a>
+alt="MineManager-sourcesettings-uniprot.png" />
 
 For uniprot the appropriate settings are:
 
@@ -761,17 +761,17 @@ file location in the *kegg-pathways* source properties section to
 The **build** section of the MineManager runs the build process (a
 front-end for our `project-build` script).
 
-<a href="File:MineManager-buildscreen.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/MineManager-buildscreen.png" width="800"
-height="467" alt="MineManager-buildscreen.png" /></a>
+height="467" alt="MineManager-buildscreen.png" />
 
 If you click build and there are problems with your configuration that
 would prevent a successful build, the MineManager will catch that and
 tell you:
 
-<a href="File:MineManager-cannotbuild.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/MineManager-cannotbuild.png" width="800"
-height="458" alt="MineManager-cannotbuild.png" /></a>
+height="458" alt="MineManager-cannotbuild.png" />
 
 In this case we would need to go back to the database options in the
 first section (**Mine Settings** → **Database** → **create databases**).
@@ -779,9 +779,9 @@ first section (**Mine Settings** → **Database** → **create databases**).
 After a successful build, you will see a summary of the time taken at
 each stage:
 
-<a href="File:MineManager-built.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/MineManager-built.png" width="800"
-height="467" alt="MineManager-built.png" /></a>
+height="467" alt="MineManager-built.png" />
 
 The sources we have set up above should take about 650 sec (give or
 take) to integrate into the database ∴ time for a break!
@@ -886,14 +886,14 @@ will have a report page that can display:
 In the top right there is a search box which uses the Lucene
 quick-search. Enter **ald** to find the *Aldolase* gene.
 
-<a href="File:Report-page-props.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/Report-page-props.png" width="758"
-height="680" alt="Report-page-props.png" /></a>
+height="680" alt="Report-page-props.png" />
 
-<a href="File:Report-page-templates.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2a/Report-page-templates.png/700px-Report-page-templates.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2a/Report-page-templates.png/1050px-Report-page-templates.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/Report-page-templates.png 2x"
-width="700" height="377" alt="Report-page-templates.png" /></a>
+width="700" height="377" alt="Report-page-templates.png" />
 
 ## <span id="Multiple_Objects_.28Lists.29" class="mw-headline">Multiple Objects (Lists)</span>
 
@@ -921,15 +921,15 @@ Click the **Lists** tab to see the lists section. Here you can either:
 On the list view page you can perform set logic on lists of objects
 (intersection/union/etc) to derive new lists.
 
-<a href="File:List-view-page.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/List-view-page.png" width="990"
-height="482" alt="List-view-page.png" /></a>
+height="482" alt="List-view-page.png" />
 
 From the *view* sub-tab, select a list you think looks interesting:
 
-<a href="File:List-analysis-page.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/List-analysis-page.png" width="1258"
-height="667" alt="List-analysis-page.png" /></a>
+height="667" alt="List-analysis-page.png" />
 
 ## <span id="Exporting_Data_and_Summarising_Columns" class="mw-headline">Exporting Data and Summarising Columns</span>
 
@@ -949,18 +949,18 @@ formats:
 
 The export link is always in the top left of the page:
 
-<a href="File:Export-options.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/Export-options.png" width="366"
-height="219" alt="Export-options.png" /></a>
+height="219" alt="Export-options.png" />
 
 ### <span id="Viewing_Column_Summaries" class="mw-headline">Viewing Column Summaries</span>
 
 Each column header also has a summary symbol (Σ) which helps you get an
 overview over the data contained in that column:
 
-<a href="File:Column-header.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Column-header.png" width="497"
-height="303" alt="Column-header.png" /></a>
+height="303" alt="Column-header.png" />
 
 ## <span id="Running_Queries" class="mw-headline">Running Queries</span>
 
@@ -969,13 +969,13 @@ interface, which helps you build queries using the data model as a
 guide.
 
 1.  Click on the **QueryBuilder** tab  
-    <a href="File:Query-builder-tab.png" class="image"><img
+    <img
     src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Query-builder-tab.png" width="486"
-    height="102" alt="Query-builder-tab.png" /></a>
+    height="102" alt="Query-builder-tab.png" />
 2.  Select **gene** as the type of object we want to query for  
-    <a href="File:Query-select-gene.png" class="image"><img
+    <img
     src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bb/Query-select-gene.png" width="493"
-    height="258" alt="Query-select-gene.png" /></a>
+    height="258" alt="Query-select-gene.png" />
 3.  Click **summary** next to **gene** in the Model browser
 4.  Scroll down to pathways
     1.  Expand the pathways collection
@@ -983,15 +983,15 @@ guide.
     3.  Type in **p** into the value box in the pop-up
     4.  Select **Pentose Phosphate Pathway** from the autocomplete
         drop-down  
-        <a href="File:Query-built-query.png" class="image"><img
+        <img
         src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Query-built-query.png" width="822"
-        height="654" alt="Query-built-query.png" /></a>
+        height="654" alt="Query-built-query.png" />
 5.  Select **Show results**
 
 You should see results like this:
-<a href="File:Query-results.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Query-results.png" width="1256"
-height="553" alt="Query-results.png" /></a>
+height="553" alt="Query-results.png" />
 
 ## <span id="Making_Lists_from_Query_Results" class="mw-headline">Making Lists from Query Results</span>
 
@@ -1001,15 +1001,15 @@ list, click the check-box in the header of the column containing the
 type of object you want to make into a list, here, any of the gene
 fields:
 
-<a href="File:Making-a-list1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/Making-a-list1.png" width="492"
-height="393" alt="Making-a-list1.png" /></a>
+height="393" alt="Making-a-list1.png" />
 
 Then name your list:
 
-<a href="File:Making-a-list2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/Making-a-list2.png" width="337"
-height="108" alt="Making-a-list2.png" /></a>
+height="108" alt="Making-a-list2.png" />
 
 And you're done.
 
@@ -1026,16 +1026,16 @@ large mines such as FlyMine have many more. Click on the **Templates**
 tab to see what templates are available (you can type a name, or part of
 a name into the box at the top to filter the list of templates):
 
-<a href="File:Flymine-templates.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/Flymine-templates.png" width="816"
-height="647" alt="Flymine-templates.png" /></a>
+height="647" alt="Flymine-templates.png" />
 
 Select the **Pathway → Genes** template to see how the template
 interface differs from the query interface:
 
-<a href="File:Template-form.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/Template-form.png" width="768"
-height="365" alt="Template-form.png" /></a>
+height="365" alt="Template-form.png" />
 
 Running this query should get us the same results (more or less) than
 the query we wrote ourselves. To see where it might differ, we can view
@@ -1050,16 +1050,16 @@ and make new templates:
 Making a template is as simple as making a query, and then clicking
 **start building a template query**.
 
-<a href="File:Logged-in-options.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/Logged-in-options.png" width="243"
-height="142" alt="Logged-in-options.png" /></a>
+height="142" alt="Logged-in-options.png" />
 
 You can choose what constraints are shown to the user (whether they are
 editable or not), and whether they are required or optional.
 
-<a href="File:Template-editing.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Template-editing.png" width="836"
-height="635" alt="Template-editing.png" /></a>
+height="635" alt="Template-editing.png" />
 
 # <span id="Accessing_Your_Data_through_the_Webservice" class="mw-headline">Accessing Your Data through the Webservice</span>
 
@@ -1102,9 +1102,9 @@ the webapp to generate it for you. You can do this when you are on the
 edit query page or a template form page by selecting the **webservice
 url** link at the bottom of the page:
 
-<a href="File:Getting-query-xml.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Getting-query-xml.png" width="245"
-height="82" alt="Getting-query-xml.png" /></a>
+height="82" alt="Getting-query-xml.png" />
 
 This will get you a url you can use with *wget* or *curl*, although it
 will be difficult to edit and adjust.
@@ -1127,9 +1127,9 @@ than having to write them yourself (although you
 rel="nofollow">can</a>), again the webservice will generate this for you
 if you want. Just select **Query XML** at the bottom of the page:
 
-<a href="File:Getting-query-xml.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Getting-query-xml.png" width="245"
-height="82" alt="Getting-query-xml.png" /></a>
+height="82" alt="Getting-query-xml.png" />
 
 Which in the case of our pathways query would look like this:
 
@@ -1186,21 +1186,21 @@ Each mine now includes an API tab that provides links and guidance on
 using the programmatic client software. To get the Java client package
 for a particular webservice, make sure to click on the **Java** subtab
 (in the top-left), and then click the **download** link in the first
-section. <a href="File:Perl-api_tab.png" class="image"><img
+section. <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Perl-api_tab.png" width="834" height="464"
-alt="Perl-api tab.png" /></a>
-<a href="File:Java-api_tab.png" class="image"><img
+alt="Perl-api tab.png" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Java-api_tab.png" width="834" height="425"
-alt="Java-api tab.png" /></a>
+alt="Java-api tab.png" />
 
 In addition to this help page, every query and template you visit will
 offer to write a script or a java program for you that you can just save
 and run. To get this, click on the **Perl** or **Java** link to see the
 generated code:
 
-<a href="File:Template-form.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7a/Template-form.png" width="768"
-height="365" alt="Template-form.png" /></a>
+height="365" alt="Template-form.png" />
 
 Additional help is provided at the CPAN:
 <a href="http://search.cpan.org/perldoc?Webservice::InterMine"

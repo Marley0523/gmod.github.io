@@ -25,10 +25,10 @@ data-cellpadding="10">
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><a href="File:April2012MeetingLogo.png" class="image"><img
+<td><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/300px-April2012MeetingLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/450px-April2012MeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2f/April2012MeetingLogo.png/600px-April2012MeetingLogo.png 2x"
-width="300" height="236" alt="April2012MeetingLogo.png" /></a></td>
+width="300" height="236" alt="April2012MeetingLogo.png" /></td>
 <td style="font-size: 180%; line-height: 120%"><strong>April 2012 <a
 href="Meetings" title="Meetings">GMOD Meeting</a></strong>
 <hr />
@@ -366,11 +366,10 @@ class="internal" title="April2012 CommunityBuilding.pdf">PDF</a></td>
 </colgroup>
 <tbody>
 <tr class="odd">
-<td rowspan="2"><a href="File:GalaxyLogoBigger.png" class="image"
-title="Galaxy Workshop"><img
+<td rowspan="2"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/280px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/420px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/560px-GalaxyLogoBigger.png 2x"
-width="280" height="99" alt="Galaxy Workshop" /></a></td>
+width="280" height="99" alt="Galaxy Workshop" /></td>
 <td rowspan="2">   </td>
 <td style="text-align: left; font-size: 140%;">Galaxy CloudMan
 Workshop</td>

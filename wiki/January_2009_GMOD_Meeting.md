@@ -29,9 +29,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:Jan2009MtgLogoNoText.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/Jan2009MtgLogoNoText.png" width="170"
-height="121" alt="Jan2009MtgLogoNoText.png" /></a>
+height="121" alt="Jan2009MtgLogoNoText.png" />
 
 </td>
 <td data-valign="center"><strong>January 2009 GMOD
@@ -55,10 +55,9 @@ Genome (PAG 2009)](PAG_2009 "PAG 2009"). There were over [50
 participants](#Meeting_Participants) at the meeting.
 
 
-<a href="File:Jan2009Meeting.JPG" class="image"
-title="Jan 2009 Meeting"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2009Meeting.JPG" width="319"
-height="100" alt="Jan 2009 Meeting" /></a>
+height="100" alt="Jan 2009 Meeting" />
 
 
   

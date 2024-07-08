@@ -20,9 +20,9 @@
 **Russell Smithies**
 
 
-<a href="File:Russell_smithies.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Russell_smithies.jpg" class="thumbimage"
-width="220" height="170" /></a>
+width="220" height="170" />
 
 
 

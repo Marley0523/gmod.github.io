@@ -80,17 +80,17 @@ contigs can be exported to a more specialized program. (L. Stein)
 
 ## <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-<a href="File:CMAE_Screenshot1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/CMAE_Screenshot1.png" width="700"
-height="492" alt="CMAE Screenshot1.png" /></a>
+height="492" alt="CMAE Screenshot1.png" />
 
-<a href="File:CMAE_Screenshot2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/CMAE_Screenshot2.png" width="600"
-height="471" alt="CMAE Screenshot2.png" /></a>
+height="471" alt="CMAE Screenshot2.png" />
 
-<a href="File:CMAE_Screenshot3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5f/CMAE_Screenshot3.png" width="700"
-height="384" alt="CMAE Screenshot3.png" /></a>
+height="384" alt="CMAE Screenshot3.png" />
 
 ## <span id="Code" class="mw-headline">Code</span>
 

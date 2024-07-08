@@ -18,12 +18,11 @@
 
 
 
-<a href="File:GMODAmericas2011WithText.jpg" class="image"
-title="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/600px-GMODAmericas2011WithText.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/94/GMODAmericas2011WithText.jpg/900px-GMODAmericas2011WithText.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/94/GMODAmericas2011WithText.jpg 2x"
 width="600" height="239"
-alt="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12" /></a>
+alt="GMOD Americas 2011, Community and Satellite Meetings, GMOD Course, March 5-12" />
 
 
 
@@ -71,10 +70,10 @@ in Durham, North Carolina. The week long event included:
 <tr class="odd">
 <td data-valign="top">
 
-<a href="File:GMODAmericas2011Reception.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/300px-GMODAmericas2011Reception.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/450px-GMODAmericas2011Reception.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMODAmericas2011Reception.jpg/600px-GMODAmericas2011Reception.jpg 2x"
-width="300" height="121" alt="GMODAmericas2011Reception.jpg" /></a>
+width="300" height="121" alt="GMODAmericas2011Reception.jpg" />
 
 </td>
 <td><ul>

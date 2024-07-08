@@ -62,9 +62,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:DictyBase-phenotypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
+  width="120" height="120" alt="DictyBase-phenotypes.pdf" />
 
   
 
@@ -85,9 +85,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:DictyLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/DictyLogo.png/120px-DictyLogo.png"
-  width="120" height="70" alt="DictyLogo.png" /></a>
+  width="120" height="70" alt="DictyLogo.png" />
 
   
 
@@ -108,9 +108,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:DictyMainPageLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/DictyMainPageLogo.png" width="120"
-  height="77" alt="DictyMainPageLogo.png" /></a>
+  height="77" alt="DictyMainPageLogo.png" />
 
   
 
@@ -131,9 +131,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Just-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Just-050516.ppt" /></a>
+  height="120" alt="Just-050516.ppt" />
 
   
 

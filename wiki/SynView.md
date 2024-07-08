@@ -18,9 +18,9 @@
 
 
 
-<a href="File:SynView_Icon.gif" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/SynView_Icon.gif" width="173" height="66"
-alt="SynView Icon.gif" /></a>
+alt="SynView Icon.gif" />
 
 
   

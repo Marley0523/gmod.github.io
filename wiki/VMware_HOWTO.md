@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="48" alt="Windoze" /></a>
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 
@@ -134,9 +134,9 @@ VirtualBox
 
 
 
-<a href="File:VirtualBox-logo.png" class="image" title="VirtualBox"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
-height="48" alt="VirtualBox" /></a>
+height="48" alt="VirtualBox" />
 
 
 
@@ -193,9 +193,9 @@ address. To get it, at the command prompt, type:
 
 which will give you output like this:
 
-<a href="File:Ifconfig_output.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/96/Ifconfig_output.jpg" width="720"
-height="500" alt="Ifconfig output.jpg" /></a>
+height="500" alt="Ifconfig output.jpg" />
 
 See that "inet addr:172.16.244.128"? Those four numbers are the IP
 address. You can now (from you host operating system) ssh into the

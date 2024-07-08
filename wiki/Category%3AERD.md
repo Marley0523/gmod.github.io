@@ -32,9 +32,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:ChadoComparativeModule.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/120px-ChadoComparativeModule.png"
-  width="120" height="67" alt="ChadoComparativeModule.png" /></a>
+  width="120" height="67" alt="ChadoComparativeModule.png" />
 
   
 
@@ -55,9 +55,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:ChadoMod-Companalysis.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/ChadoMod-Companalysis.png/120px-ChadoMod-Companalysis.png"
-  width="120" height="72" alt="ChadoMod-Companalysis.png" /></a>
+  width="120" height="72" alt="ChadoMod-Companalysis.png" />
 
   
 
@@ -78,9 +78,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Feature-tables.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/Feature-tables.png/101px-Feature-tables.png"
-  width="101" height="120" alt="Feature-tables.png" /></a>
+  width="101" height="120" alt="Feature-tables.png" />
 
   
 
@@ -101,9 +101,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Natdiv_simplified_SGN.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Natdiv_simplified_SGN.png/120px-Natdiv_simplified_SGN.png"
-  width="120" height="71" alt="Natdiv simplified SGN.png" /></a>
+  width="120" height="71" alt="Natdiv simplified SGN.png" />
 
   
 
@@ -125,9 +125,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Rad-query-1.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/41/Rad-query-1.png/120px-Rad-query-1.png"
-  width="120" height="40" alt="Rad-query-1.png" /></a>
+  width="120" height="40" alt="Rad-query-1.png" />
 
   
 

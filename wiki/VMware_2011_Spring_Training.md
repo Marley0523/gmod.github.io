@@ -428,9 +428,9 @@ address. To get it, open a terminal and type:
 which will give you output like this:
 
 
-<a href="File:Ifconfig.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Ifconfig.png" width="666" height="461"
-alt="Ifconfig.png" /></a>
+alt="Ifconfig.png" />
 
 
 See that `inet addr:172.16.108.130`? Those four numbers are the IP

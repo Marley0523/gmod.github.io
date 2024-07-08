@@ -19,9 +19,9 @@
 
 
 
-<a href="File:NLW_pic.jpg" class="image" title="This is Nicole"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b0/NLW_pic.jpg" width="136" height="145"
-alt="This is Nicole" /></a>
+alt="This is Nicole" />
 
 
 

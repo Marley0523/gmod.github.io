@@ -38,10 +38,10 @@ November 8-12, 2010<br />
 <a href="http://nescent.org/" class="external text"
 rel="nofollow">NESCent</a>, Durham, North Carolina, USA</span><br />
 <br />
-<a href="File:EvoHackRoom2010.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/af/EvoHackRoom2010.jpg/290px-EvoHackRoom2010.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/EvoHackRoom2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/EvoHackRoom2010.jpg 2x"
-width="290" height="100" alt="EvoHackRoom2010.jpg" /></a> <a
+width="290" height="100" alt="EvoHackRoom2010.jpg" /> <a
 href="File:EvoHackWhiteboard2010.jpg" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/149px-EvoHackWhiteboard2010.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/224px-EvoHackWhiteboard2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/EvoHackWhiteboard2010.jpg/298px-EvoHackWhiteboard2010.jpg 2x"
@@ -143,10 +143,10 @@ export.*
 
 
 
-<a href="File:EvoHackLaptops2010.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/300px-EvoHackLaptops2010.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/EvoHackLaptops2010.jpg 2x"
-width="200" height="119" alt="EvoHackLaptops2010.jpg" /></a>
+width="200" height="119" alt="EvoHackLaptops2010.jpg" />
 
 
 

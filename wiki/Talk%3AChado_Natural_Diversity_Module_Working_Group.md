@@ -494,9 +494,9 @@ tables using cross- instead of crossexperiment-
 
 # <span id="simplified_schema_.28ND_tables_only.29" class="mw-headline">simplified schema (ND tables only)</span>
 
-<a href="File:Natdiv_simplified_SGN.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/Natdiv_simplified_SGN.png" width="1600"
-height="943" alt="Natdiv simplified SGN.png" /></a>
+height="943" alt="Natdiv simplified SGN.png" />
 
 [Notes on simplified nd schema and Use
 Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schema and Use Cases")

@@ -26,9 +26,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:SummerSchoolSmall.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/SummerSchoolSmall.png" width="200"
-height="182" alt="SummerSchoolSmall.png" /></a>
+height="182" alt="SummerSchoolSmall.png" />
 
 </td>
 <td data-valign="center"><strong>2008 GMOD Summer School</strong><br />
@@ -42,9 +42,9 @@ Durham, North Carolina, USA</td>
 <tr class="even">
 <td colspan="2">
 
-<a href="File:SummerSchool2008Class2.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/SummerSchool2008Class2.jpg" width="378"
-height="120" alt="SummerSchool2008Class2.jpg" /></a>
+height="120" alt="SummerSchool2008Class2.jpg" />
 
 </td>
 </tr>
@@ -95,10 +95,10 @@ Durham, North Carolina, USA, July 11-13, 2008.
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| The program featured two and half days of hands on training starting with an overview of GMOD and then covering installation and configuration of popular GMOD tools, include <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse"), [CMap](CMap.1 "CMap"), [Apollo](Apollo.1 "Apollo"), and the [Community Annotation System](Community_Annotation_System "Community Annotation System"). | <a href="File:SummerSchool2008GBrowse.jpg" class="image"><img |
+| The program featured two and half days of hands on training starting with an overview of GMOD and then covering installation and configuration of popular GMOD tools, include <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [GBrowse](GBrowse.1 "GBrowse"), [CMap](CMap.1 "CMap"), [Apollo](Apollo.1 "Apollo"), and the [Community Annotation System](Community_Annotation_System "Community Annotation System"). | <img |
 
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/SummerSchool2008GBrowse.jpg" width="311"
-height="120" alt="SummerSchool2008GBrowse.jpg" /></a> |
+height="120" alt="SummerSchool2008GBrowse.jpg" /> |
 
 <table class="wikitable" data-border="1" data-cellpadding="5"
 data-cellspacing="0">
@@ -289,9 +289,9 @@ Sessions were taught by experienced GMOD personnel, including:
 
 
 
-<a href="File:SummerSchool2008Class.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/SummerSchool2008Class.jpg" width="411"
-height="120" alt="SummerSchool2008Class.jpg" /></a>
+height="120" alt="SummerSchool2008Class.jpg" />
 
 
 
@@ -356,14 +356,14 @@ VMware on Windows and Linux
 
 
 
-<a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
-height="48" alt="Windoze" /></a>
+height="48" alt="Windoze" />
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 

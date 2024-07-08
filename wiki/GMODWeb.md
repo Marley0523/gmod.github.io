@@ -51,9 +51,9 @@ underlying architectural details. For more detailed information see the
 rel="nofollow">Turnkey home page</a>.
 
   
-<a href="File:Turnkey.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Turnkey.png" width="552" height="335"
-alt="Turnkey.png" /></a>
+alt="Turnkey.png" />
 
   
 

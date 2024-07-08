@@ -141,9 +141,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Apollo.GMOD.May2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.GMOD.May2003.ppt" /></a>
+  height="120" alt="Apollo.GMOD.May2003.ppt" />
 
   
 
@@ -164,9 +164,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Apollo.GMOD.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.GMOD.ppt" /></a>
+  height="120" alt="Apollo.GMOD.ppt" />
 
   
 
@@ -187,9 +187,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Apollo.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.ppt" /></a>
+  height="120" alt="Apollo.ppt" />
 
   
 
@@ -210,9 +210,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:ApolloLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/120px-ApolloLogo.png"
-  width="120" height="44" alt="ApolloLogo.png" /></a>
+  width="120" height="44" alt="ApolloLogo.png" />
 
   
 
@@ -233,9 +233,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -257,9 +257,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:CommunityAnnotationNov2007.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" /></a>
+  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" />
 
   
 
@@ -280,9 +280,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Gb-2002-3-12-research0082.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gb-2002-3-12-research0082.pdf" /></a>
+  width="120" height="120" alt="Gb-2002-3-12-research0082.pdf" />
 
   
 
@@ -303,9 +303,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Harris_040527.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Harris 040527.ppt" /></a>
+  height="120" alt="Harris 040527.ppt" />
 
   
 
@@ -326,9 +326,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Worley_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Worley 040526.ppt" /></a>
+  height="120" alt="Worley 040526.ppt" />
 
   
 

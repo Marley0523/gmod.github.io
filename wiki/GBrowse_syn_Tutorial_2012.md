@@ -49,16 +49,16 @@ species compared to two or more additional species. It is included with
 the standard GBrowse package (version 1.69 and later).
 
 
-<a href="File:Gbrowse_syn.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Gbrowse_syn.png/600px-Gbrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Gbrowse_syn.png 2x"
-width="600" height="221" /></a>
+width="600" height="221" />
 
 
-<a href="File:Gbrowse_syn.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -128,17 +128,16 @@ Point your browser to
 http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn
 
 
-<a href="File:GBrowse_synWelcome.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/600px-GBrowse_synWelcome.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d7/GBrowse_synWelcome.png/900px-GBrowse_synWelcome.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d7/GBrowse_synWelcome.png 2x"
-width="600" height="369" /></a>
+width="600" height="369" />
 
 
-<a href="File:GBrowse_synWelcome.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -366,34 +365,32 @@ http://ec2-##-##-##-##.compute-1.amazonaws.com/cgi-bin/gb2/gbrowse_syn/oryza
 should see:
 
 
-<a href="File:GBrowse_synWe_made_it1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/GBrowse_synWe_made_it1.png/800px-GBrowse_synWe_made_it1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/86/GBrowse_synWe_made_it1.png 2x"
-width="800" height="370" alt="GBrowse synWe made it1.png" /></a>
+width="800" height="370" alt="GBrowse synWe made it1.png" />
 
 
-<a href="File:GBrowse_synWe_made_it1.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
 4\) Click on the first example, you should (eventually) see:
 
 
-<a href="File:GBrowse_synWe_made_it2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/45/GBrowse_synWe_made_it2.png/800px-GBrowse_synWe_made_it2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/GBrowse_synWe_made_it2.png 2x"
-width="800" height="368" alt="GBrowse synWe made it2.png" /></a>
+width="800" height="368" alt="GBrowse synWe made it2.png" />
 
 
-<a href="File:GBrowse_synWe_made_it2.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -401,9 +398,9 @@ height="11" /></a>
 
 - mouse over one of the genes:
 
-<a href="File:Gbrowse_synBubble1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/Gbrowse_synBubble1.png" width="369"
-height="148" alt="Gbrowse synBubble1.png" /></a>
+height="148" alt="Gbrowse synBubble1.png" />
 
 - Click on one of the bold blue highlighted section titles. This takes
   you to a contextual help page on the GMOD wiki.
@@ -629,24 +626,23 @@ and move on to other steps.
 8\) Go back to your browser and reload the rice page. There should now
 be a second data source in a pull-down menu.
 
-<a href="File:GBrowse_synPulldown1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GBrowse_synPulldown1.png" width="243"
-height="77" alt="GBrowse synPulldown1.png" /></a>
+height="77" alt="GBrowse synPulldown1.png" />
 
 9\) Select the other data source and start browsing!
 
 
-<a href="File:Gbrowse_synEtfinit.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/Gbrowse_synEtfinit.png/700px-Gbrowse_synEtfinit.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/Gbrowse_synEtfinit.png 2x"
-width="700" height="339" alt="Gbrowse synEtfinit.png" /></a>
+width="700" height="339" alt="Gbrowse synEtfinit.png" />
 
 
-<a href="File:Gbrowse_synEtfinit.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

@@ -432,46 +432,38 @@ This website also has a large collection of
 
 ## <span id="GMOD_Schools" class="mw-headline">GMOD Schools</span>
 
-<a href="File:Gmod-online-training.png" class="image"
-title="GMOD Online Training 2014"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/Gmod-online-training.png/150px-Gmod-online-training.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/Gmod-online-training.png/225px-Gmod-online-training.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/Gmod-online-training.png/300px-Gmod-online-training.png 2x"
-width="150" height="118" alt="GMOD Online Training 2014" /></a>
-<a href="File:GMOD-malaysia.png" class="image"
-title="GMOD Malaysia 2014"><img
+width="150" height="118" alt="GMOD Online Training 2014" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/150px-GMOD-malaysia.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/225px-GMOD-malaysia.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/300px-GMOD-malaysia.png 2x"
-width="150" height="95" alt="GMOD Malaysia 2014" /></a>
-<a href="File:2013-summer-school.png" class="image"
-title="2013 GMOD Summer School"><img
+width="150" height="95" alt="GMOD Malaysia 2014" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/180px-2013-summer-school.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/270px-2013-summer-school.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/360px-2013-summer-school.png 2x"
-width="180" height="112" alt="2013 GMOD Summer School" /></a>
-<a href="File:2012SummerSchool400.png" class="image"
-title="2012 GMOD Summer School"><img
+width="180" height="112" alt="2013 GMOD Summer School" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/2012SummerSchool400.png/140px-2012SummerSchool400.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/2012SummerSchool400.png/210px-2012SummerSchool400.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/2012SummerSchool400.png/280px-2012SummerSchool400.png 2x"
-width="140" height="108" alt="2012 GMOD Summer School" /></a>
-<a href="File:GMODAmericas2011Logo.jpg" class="image"
-title="2011 GMOD Spring Training"><img
+width="140" height="108" alt="2012 GMOD Summer School" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/120px-GMODAmericas2011Logo.jpg.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/180px-GMODAmericas2011Logo.jpg.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/GMODAmericas2011Logo.jpg/240px-GMODAmericas2011Logo.jpg.png 2x"
-width="120" height="120" alt="2011 GMOD Spring Training" /></a>
-<a href="File:2010SummerSchoolAmericas170.png" class="image"
-title="2010 Americas"><img
+width="120" height="120" alt="2011 GMOD Spring Training" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/2010SummerSchoolAmericas170.png/150px-2010SummerSchoolAmericas170.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/2010SummerSchoolAmericas170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/2010SummerSchoolAmericas170.png 2x"
-width="150" height="109" alt="2010 Americas" /></a>
-<a href="File:GMOD2009Europe170.png" class="image"
-title="2009 Europe"><img
+width="150" height="109" alt="2010 Americas" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/GMOD2009Europe170.png/140px-GMOD2009Europe170.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/GMOD2009Europe170.png 2x"
-width="140" height="119" alt="2009 Europe" /></a>
-<a href="File:2009SummerSchoolAmericas170.png" class="image"
-title="2009 Americas"><img
+width="140" height="119" alt="2009 Europe" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2d/2009SummerSchoolAmericas170.png/140px-2009SummerSchoolAmericas170.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/2009SummerSchoolAmericas170.png 2x"
-width="140" height="113" alt="2009 Americas" /></a>
+width="140" height="113" alt="2009 Americas" />
 
 GMOD Schools are hands-on multi-day courses aimed at teaching new GMOD
 users how to get up and running with GMOD. Schools introduce

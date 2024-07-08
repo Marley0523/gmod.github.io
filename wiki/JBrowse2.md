@@ -18,10 +18,10 @@
 
 
 
-<a href="File:Jbrowse2_logo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/400px-Jbrowse2_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/600px-Jbrowse2_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Jbrowse2_logo.png/800px-Jbrowse2_logo.png 2x"
-width="400" height="134" alt="JBrowse 2 logo" /></a>
+width="400" height="134" alt="JBrowse 2 logo" />
 
 
 

@@ -88,9 +88,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:CommunityAnnotationNov2007.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" /></a>
+  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" />
 
   
 

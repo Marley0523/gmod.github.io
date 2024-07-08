@@ -87,9 +87,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:DAS_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DAS Sept2010.pdf" /></a>
+  width="120" height="120" alt="DAS Sept2010.pdf" />
 
   
 
@@ -110,9 +110,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Aug2009DASUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009DASUpdate.pdf" /></a>
+  width="120" height="120" alt="Aug2009DASUpdate.pdf" />
 
   
 
@@ -133,9 +133,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Das.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Das.ppt" /></a>
+  height="120" alt="Das.ppt" />
 
   
 

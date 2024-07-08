@@ -102,9 +102,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:A_Chado_Case_Study.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="A Chado Case Study.pdf" /></a>
+  width="120" height="120" alt="A Chado Case Study.pdf" />
 
   
 
@@ -126,9 +126,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Fly_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Fly_logo.png/120px-Fly_logo.png"
-  width="120" height="29" alt="Fly logo.png" /></a>
+  width="120" height="29" alt="Fly logo.png" />
 
   
 
@@ -149,9 +149,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Flybase-ng-may03.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Flybase-ng-may03.pdf" /></a>
+  width="120" height="120" alt="Flybase-ng-may03.pdf" />
 
   
 
@@ -172,9 +172,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:FlyBaseMainPageIcon.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/38/FlyBaseMainPageIcon.png/120px-FlyBaseMainPageIcon.png"
-  width="120" height="29" alt="FlyBaseMainPageIcon.png" /></a>
+  width="120" height="29" alt="FlyBaseMainPageIcon.png" />
 
   
 
@@ -195,9 +195,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Mod-face-07jan-FlyBase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-FlyBase.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-FlyBase.pdf" />
 
   
 
@@ -218,9 +218,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Smutniak-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Smutniak-050516.ppt" /></a>
+  height="120" alt="Smutniak-050516.ppt" />
 
   
 
@@ -241,9 +241,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:XORT.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="XORT.pdf" /></a>
+  width="120" height="120" alt="XORT.pdf" />
 
   
 
@@ -264,9 +264,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Zhang-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Zhang-050517.ppt" /></a>
+  height="120" alt="Zhang-050517.ppt" />
 
   
 

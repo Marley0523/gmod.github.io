@@ -18,11 +18,10 @@
 
 
 
-<a href="File:PoweredByGMOD.png" class="image"
-title="Powered by GMOD"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/PoweredByGMOD.png 2x"
-width="310" height="147" alt="Powered by GMOD" /></a>
+width="310" height="147" alt="Powered by GMOD" />
 
 
 There are a number of resources available to help spread the word about

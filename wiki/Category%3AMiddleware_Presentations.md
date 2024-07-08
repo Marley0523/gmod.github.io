@@ -54,9 +54,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:Aug2009Gobol.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009Gobol.pdf" /></a>
+  width="120" height="120" alt="Aug2009Gobol.pdf" />
 
   
 
@@ -77,9 +77,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:AutoDBI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AutoDBI.pdf" /></a>
+  width="120" height="120" alt="AutoDBI.pdf" />
 
   
 
@@ -100,9 +100,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:Chado-and-XML.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Chado-and-XML.pdf" /></a>
+  width="120" height="120" alt="Chado-and-XML.pdf" />
 
   
 
@@ -123,9 +123,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:ChadoCSHMay03Slides.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ChadoCSHMay03Slides.pdf" /></a>
+  width="120" height="120" alt="ChadoCSHMay03Slides.pdf" />
 
   
 
@@ -146,9 +146,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:DasI_middleware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DasI middleware.pdf" /></a>
+  width="120" height="120" alt="DasI middleware.pdf" />
 
   
 
@@ -170,9 +170,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:GMOD_Architecture.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD Architecture.ppt" /></a>
+  height="120" alt="GMOD Architecture.ppt" />
 
   
 
@@ -194,9 +194,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:HibernateChadoAPI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HibernateChadoAPI.pdf" /></a>
+  width="120" height="120" alt="HibernateChadoAPI.pdf" />
 
   
 
@@ -217,9 +217,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:IBatis.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="IBatis.pdf" /></a>
+  width="120" height="120" alt="IBatis.pdf" />
 
   
 
@@ -240,9 +240,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:Modware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Modware.pdf" /></a>
+  width="120" height="120" alt="Modware.pdf" />
 
   
 
@@ -263,10 +263,10 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:Object_Relational_Mapping_Layer.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="Object Relational Mapping Layer.pdf" /></a>
+  alt="Object Relational Mapping Layer.pdf" />
 
   
 
@@ -288,9 +288,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:PerlChadoGMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PerlChadoGMOD2008.pdf" /></a>
+  width="120" height="120" alt="PerlChadoGMOD2008.pdf" />
 
   
 
@@ -311,9 +311,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:PSU.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PSU.pdf" /></a>
+  width="120" height="120" alt="PSU.pdf" />
 
   
 
@@ -334,9 +334,9 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  <a href="File:XORT.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="XORT.pdf" /></a>
+  width="120" height="120" alt="XORT.pdf" />
 
   
 

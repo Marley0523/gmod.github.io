@@ -35,10 +35,9 @@ href="GMOD_Europe_2009" title="GMOD Europe 2009">GMOD Europe 2009</a>,
 five days of GMOD including a <a href="2009_GMOD_Summer_School_-_Europe"
 title="2009 GMOD Summer School - Europe">GMOD Summer School</a></span>
 <p><br />
-<a href="File:Aug2009MeetingPhoto.JPG" class="image"
-title="August 2009 GMOD Meeting"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Aug2009MeetingPhoto.JPG" width="300"
-height="85" alt="August 2009 GMOD Meeting" /></a></p></td>
+height="85" alt="August 2009 GMOD Meeting" /></p></td>
 <td><a href="GMOD_Europe_2009" title="GMOD Europe 2009"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
 height="256" alt="GMOD Europe 2009" /></a></td>

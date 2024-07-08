@@ -2005,17 +2005,16 @@ more details.
 subtrack select, subtrack table, subtrack labels (new in 2.10)
 
 
-<a href="File:Subtrack_selection_table.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
-width="180" height="78" /></a>
+width="180" height="78" />
 
 
-<a href="File:Subtrack_selection_table.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2431,17 +2430,16 @@ hide the track when the display exceeds a certain size:
 ### <span id="Summary_Mode_.28new_in_version_2.09.29" class="mw-headline">Summary Mode (new in version 2.09)</span>
 
 
-<a href="File:Gbrowse_normal_mode.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/300px-Gbrowse_normal_mode.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/450px-Gbrowse_normal_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bc/Gbrowse_normal_mode.png/600px-Gbrowse_normal_mode.png 2x"
-width="300" height="188" /></a>
+width="300" height="188" />
 
 
-<a href="File:Gbrowse_normal_mode.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2451,17 +2449,16 @@ Normal mode: each feature is rendered separately
 
 
 
-<a href="File:Gbrowse_summary_mode.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/300px-Gbrowse_summary_mode.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/450px-Gbrowse_summary_mode.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Gbrowse_summary_mode.png/600px-Gbrowse_summary_mode.png 2x"
-width="300" height="188" /></a>
+width="300" height="188" />
 
 
-<a href="File:Gbrowse_summary_mode.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2569,11 +2566,10 @@ something ridiculously high, or specify a value of "0".
 
 
 
-<a href="File:Subtrack_selection_table_overview.png" class="image"
-title="Subtrack selector"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/300px-Subtrack_selection_table_overview.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/450px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/600px-Subtrack_selection_table_overview.png 2x"
-width="300" height="105" alt="Subtrack selector" /></a>
+width="300" height="105" alt="Subtrack selector" />
 
 
 

@@ -59,9 +59,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:AppleBootCampLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="96"
-  height="120" alt="AppleBootCampLogo.jpg" /></a>
+  height="120" alt="AppleBootCampLogo.jpg" />
 
   
 
@@ -82,9 +82,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:AppleSmall.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="120" height="120"
-  alt="AppleSmall.gif" /></a>
+  alt="AppleSmall.gif" />
 
   
 
@@ -105,9 +105,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:ParallelsDesktopLogo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/ParallelsDesktopLogo.gif" width="120"
-  height="120" alt="ParallelsDesktopLogo.gif" /></a>
+  height="120" alt="ParallelsDesktopLogo.gif" />
 
   
 

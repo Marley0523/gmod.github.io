@@ -16,9 +16,9 @@
 
 
 
-<a href="File:DIYALogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/DIYALogo.png" width="400" height="400"
-alt="DIYA logo" /></a>
+alt="DIYA logo" />
 
 
 

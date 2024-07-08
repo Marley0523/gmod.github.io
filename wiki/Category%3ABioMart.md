@@ -89,9 +89,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:How_to_load_chado_to_biomart.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="How to load chado to biomart.pdf" /></a>
+  width="120" height="120" alt="How to load chado to biomart.pdf" />
 
   
 
@@ -113,9 +113,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Jan2009BioMart.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009BioMart.pdf" /></a>
+  width="120" height="120" alt="Jan2009BioMart.pdf" />
 
   
 
@@ -136,9 +136,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Kasprzyk_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kasprzyk 040526.ppt" /></a>
+  height="120" alt="Kasprzyk 040526.ppt" />
 
   
 
@@ -160,9 +160,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Kasprzyk-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kasprzyk-050516.ppt" /></a>
+  height="120" alt="Kasprzyk-050516.ppt" />
 
   
 

@@ -18,12 +18,11 @@
 
 
 
-<a href="File:2011SequencingCenterSatelliteLogo.png" class="image"
-title="GMOD in the Sequencing Center Satellite Meeting"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/2011SequencingCenterSatelliteLogo.png/600px-2011SequencingCenterSatelliteLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/2011SequencingCenterSatelliteLogo.png/900px-2011SequencingCenterSatelliteLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/2011SequencingCenterSatelliteLogo.png 2x"
 width="600" height="238"
-alt="GMOD in the Sequencing Center Satellite Meeting" /></a>
+alt="GMOD in the Sequencing Center Satellite Meeting" />
 
 
   

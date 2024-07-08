@@ -27,10 +27,10 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:GMOD2016ColorsBigLetters_300px.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/GMOD2016ColorsBigLetters_300px.png/300px-GMOD2016ColorsBigLetters_300px.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/GMOD2016ColorsBigLetters_300px.png 2x"
-width="300" height="252" alt="GMOD2016ColorsBigLetters 300px.png" /></a>
+width="300" height="252" alt="GMOD2016ColorsBigLetters 300px.png" />
 
 </td>
 <td style="font-size: 170%; line-height: 120%"><strong>2016 GMOD

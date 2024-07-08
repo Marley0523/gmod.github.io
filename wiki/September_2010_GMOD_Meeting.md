@@ -28,10 +28,10 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:Sept2010MtgLogo300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Sept2010MtgLogo300.png/250px-Sept2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/40/Sept2010MtgLogo300.png 2x"
-width="250" height="213" alt="Sept2010MtgLogo300.png" /></a>
+width="250" height="213" alt="Sept2010MtgLogo300.png" />
 
 </td>
 <td style="font-size: 180%; line-height: 120%"><strong>September 2010
@@ -41,9 +41,9 @@ Cambridge, UK<br />
 <br />
 &#10;
 
-<a href="File:Sept2010Group.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Sept2010Group.jpg" width="300" height="81"
-alt="Sept2010Group.jpg" /></a>
+alt="Sept2010Group.jpg" />
 
 </td>
 <td style="text-align: center;"><a href="GMOD_Europe_2010"
@@ -867,34 +867,34 @@ July 2010.
 
 |  |  |  |  |  |  |  |  |  |
 |----|----|----|----|----|----|----|----|----|
-| <a href="File:ApolloLogo.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/100px-ApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/150px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/200px-ApolloLogo.png 2x"
-width="100" height="36" alt="ApolloLogo.png" /></a> | <a href="File:GBrowseLogo.png" class="image"><img
+width="100" height="36" alt="ApolloLogo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/110px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/165px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/220px-GBrowseLogo.png 2x"
-width="110" height="26" alt="GBrowseLogo.png" /></a> | <a href="File:RedFlyLogo.png" class="image"><img
+width="110" height="26" alt="GBrowseLogo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/50px-RedFlyLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/75px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/100px-RedFlyLogo.png 2x"
-width="50" height="35" alt="RedFlyLogo.png" /></a> | <a href="File:MetabolicMineLogoWide.png" class="image"><img
+width="50" height="35" alt="RedFlyLogo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/130px-MetabolicMineLogoWide.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/195px-MetabolicMineLogoWide.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/260px-MetabolicMineLogoWide.png 2x"
-width="130" height="28" alt="MetabolicMineLogoWide.png" /></a> | <a href="File:CMapLogo.png" class="image"><img
+width="130" height="28" alt="MetabolicMineLogoWide.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/40px-CMapLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/60px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/80px-CMapLogo.png 2x"
-width="40" height="46" alt="CMapLogo.png" /></a> | <a href="File:PhenoteLogo_Medium.png" class="image"><img
+width="40" height="46" alt="CMapLogo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/100px-PhenoteLogo_Medium.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/150px-PhenoteLogo_Medium.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/200px-PhenoteLogo_Medium.png 2x"
-width="100" height="19" alt="PhenoteLogo Medium.png" /></a> | <a href="File:PomBaseLogo.png" class="image"><img
+width="100" height="19" alt="PhenoteLogo Medium.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/100px-PomBaseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/150px-PomBaseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5e/PomBaseLogo.png/200px-PomBaseLogo.png 2x"
-width="100" height="27" alt="PomBaseLogo.png" /></a> | <a href="File:GBrowse_syn_logo.png" class="image"><img
+width="100" height="27" alt="PomBaseLogo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/100px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/150px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/200px-GBrowse_syn_logo.png 2x"
-width="100" height="32" alt="GBrowse syn logo.png" /></a> | <a href="File:InterMineLogo.png" class="image"><img
+width="100" height="32" alt="GBrowse syn logo.png" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/180px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/240px-InterMineLogo.png 2x"
-width="120" height="15" alt="InterMineLogo.png" /></a> |
+width="120" height="15" alt="InterMineLogo.png" /> |
 
 
 

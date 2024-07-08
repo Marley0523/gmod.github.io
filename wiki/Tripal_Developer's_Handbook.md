@@ -244,10 +244,10 @@ rel="nofollow">Sky theme</a> is default. Thus the primary look-and-feel
 of the site is controlled by the Sky theme, and the Tripal theme only
 provides a look-and-feel for Chado-based content:
 
-<a href="File:TripalDevHB-BaseTheme.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/TripalDevHB-BaseTheme.png/800px-TripalDevHB-BaseTheme.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/TripalDevHB-BaseTheme.png/1200px-TripalDevHB-BaseTheme.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c7/TripalDevHB-BaseTheme.png 2x"
-width="800" height="464" alt="TripalDevHB-BaseTheme.png" /></a>
+width="800" height="464" alt="TripalDevHB-BaseTheme.png" />
 
 ### <span id="Structure_of_the_Tripal_Theme_Directory" class="mw-headline">Structure of the Tripal Theme Directory</span>
 
@@ -311,10 +311,10 @@ content types is provided and the programmatic name is given in the
 **node-chado_feature.tpl.php** file is the template file for the
 chado_feature content type.
 
-<a href="File:TripalDevHB-ContentTypes.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d4/TripalDevHB-ContentTypes.png/800px-TripalDevHB-ContentTypes.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d4/TripalDevHB-ContentTypes.png/1200px-TripalDevHB-ContentTypes.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d4/TripalDevHB-ContentTypes.png 2x"
-width="800" height="464" alt="TripalDevHB-ContentTypes.png" /></a>
+width="800" height="464" alt="TripalDevHB-ContentTypes.png" />
 
 For the core Tripal package, the following content type names are
 available:
@@ -357,9 +357,9 @@ precedence.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practice Tip**. It is best to always copy any templates files out of the Tripal theme directory into your default theme for editing. This way, future upgrades to Tripal, that may change the template files will not affect customizations to your site. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practice Tip**. It is best to always copy any templates files out of the Tripal theme directory into your default theme for editing. This way, future upgrades to Tripal, that may change the template files will not affect customizations to your site. |
 
 ### <span id="Layout_of_a_Tripal_Node_Template" class="mw-headline">Layout of a Tripal Node Template</span>
 
@@ -368,10 +368,10 @@ Below is a screen shot of an organism page (chado_organism content type)
 from the <a href="http://www.citrusgenomedb.org/" class="external text"
 rel="nofollow">Citrus Genome Database</a>.
 
-<a href="File:TripalDevHB-ThemeLayout.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/54/TripalDevHB-ThemeLayout.png/800px-TripalDevHB-ThemeLayout.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/54/TripalDevHB-ThemeLayout.png/1200px-TripalDevHB-ThemeLayout.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/54/TripalDevHB-ThemeLayout.png 2x"
-width="800" height="655" alt="TripalDevHB-ThemeLayout.png" /></a>
+width="800" height="655" alt="TripalDevHB-ThemeLayout.png" />
 
   
 In the screen shot above, there are two distinct regions added by the
@@ -386,9 +386,9 @@ of the node template files follow this same structure
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practices**: If you would like to maintain this layout structure for any themes of new content types for new Tripal extensions, you will want to follow this same structure in your template files. See the next section for more details. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practices**: If you would like to maintain this layout structure for any themes of new content types for new Tripal extensions, you will want to follow this same structure in your template files. See the next section for more details. |
 
 ### <span id="Dissecting_a_Tripal_Node_Template_File" class="mw-headline">Dissecting a Tripal Node Template File</span>
 
@@ -585,11 +585,10 @@ add these links is as follows:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td data-valign="top"><a href="File:TripalDevHB-Resources.png"
-class="image"><img
+<td data-valign="top"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/TripalDevHB-Resources.png/200px-TripalDevHB-Resources.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/TripalDevHB-Resources.png/300px-TripalDevHB-Resources.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/TripalDevHB-Resources.png 2x"
-width="200" height="306" alt="TripalDevHB-Resources.png" /></a></td>
+width="200" height="306" alt="TripalDevHB-Resources.png" /></td>
 <td><pre class="enter"><code>&lt;div id=&quot;tripal_organism_toc&quot; class=&quot;tripal_toc&quot;&gt;
    &lt;div id=&quot;tripal_organism_toc_title&quot; class=&quot;tripal_toc_title&quot;&gt;Resources&lt;/div&gt;
    &lt;ul id=&quot;tripal_organism_toc_list&quot; class=&quot;tripal_toc_list&quot;&gt;
@@ -646,9 +645,9 @@ In Summary, each node template file has two major sections:
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practices**: A Tripal compatible template file should only have one **div** block for the details region and one block the resources side bar. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practices**: A Tripal compatible template file should only have one **div** block for the details region and one block the resources side bar. |
 
 #### <span id="Subtemplates" class="mw-headline">Subtemplates</span>
 
@@ -693,9 +692,9 @@ section.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practices**: By convention, the default subtemplate (the one listed first) should have the word **base** in the template name. This is to easily identify it as a type of "home page" for the content type. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practices**: By convention, the default subtemplate (the one listed first) should have the word **base** in the template name. This is to easily identify it as a type of "home page" for the content type. |
 
 All subtemplates for a content type should be stored in a directory with
 a similar name as that of the content type. For the **chado_feature**
@@ -754,9 +753,9 @@ which is managed by a Tripal module.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practices**: You should not need to add SQL queries to the PHP subtemplates. Use the Tripal API to access all necessary data. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practices**: You should not need to add SQL queries to the PHP subtemplates. Use the Tripal API to access all necessary data. |
 
 #### <span id="Template_JavaScript" class="mw-headline">Template JavaScript</span>
 
@@ -827,9 +826,9 @@ the height of the Resources side-bar.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practices**: When creating a template for a new node, the Javascript code above should be duplicated, with names of the content and sidebar div blocks changed to match your content name. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practices**: When creating a template for a new node, the Javascript code above should be duplicated, with names of the content and sidebar div blocks changed to match your content name. |
 
 #### <span id="Accessing_Chado_Data" class="mw-headline">Accessing Chado Data</span>
 
@@ -1161,9 +1160,9 @@ rel="nofollow">one of the Drupal books for sale</a>.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practice Tip**. Before proceeding with Tripal module development, it is recommended to have a general understanding of the Drupal API. It is possible to add functionality to Drupal without strictly using the API. However, inappropriate use of the API can cause problems in the future when integrating with other modules or for upgrading. It is important to become familiar with the coding standards suggested by Drupal to ensure readable, re-usable code. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practice Tip**. Before proceeding with Tripal module development, it is recommended to have a general understanding of the Drupal API. It is possible to add functionality to Drupal without strictly using the API. However, inappropriate use of the API can cause problems in the future when integrating with other modules or for upgrading. It is important to become familiar with the coding standards suggested by Drupal to ensure readable, re-usable code. |
 
   
 
@@ -1309,9 +1308,9 @@ consistent manner.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practice Tip**. Even though it is possible to query Chado without the Tripal API function calls, it is best to use them as it provides a consistent interface with Chado, reduces the amount of coding and makes the code more legible by all Tripal developers. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practice Tip**. Even though it is possible to query Chado without the Tripal API function calls, it is best to use them as it provides a consistent interface with Chado, reduces the amount of coding and makes the code more legible by all Tripal developers. |
 
 A quick link to the functions found in the Chado API can be found here:
 <a
@@ -1430,9 +1429,9 @@ be enabled.
 
 |  |  |
 |----|----|
-| <a href="File:Have-a-nice-day-icon.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a> | **Best Practice Tip**. At a minimum your Tripal extension module should always set the package to be **Tripal Extensions** and should have the **tripal_core** module as a dependency. |
+height="48" alt="Have-a-nice-day-icon.png" /> | **Best Practice Tip**. At a minimum your Tripal extension module should always set the package to be **Tripal Extensions** and should have the **tripal_core** module as a dependency. |
 
 #### <span id="The_Module_File" class="mw-headline">The Module File</span>
 
@@ -1453,9 +1452,9 @@ subroutine, but should be enough to get started.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><a href="File:Have-a-nice-day-icon.png" class="image"><img
+<td><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Have-a-nice-day-icon.png" width="48"
-height="48" alt="Have-a-nice-day-icon.png" /></a></td>
+height="48" alt="Have-a-nice-day-icon.png" /></td>
 <td><strong>Best Practice Tip</strong>.
 <ul>
 <li>When naming your module, consider using the prefix 'tripal' in the

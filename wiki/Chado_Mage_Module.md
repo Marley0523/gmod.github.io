@@ -147,9 +147,9 @@ being assayed come from *Drosophila melanogaster*. The relevant tables
 are shown below, the purpose is to show the relationships between the
 key tables.
 
-<a href="File:Rad-query-1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/41/Rad-query-1.png" width="1103" height="365"
-alt="Rad-query-1.png" /></a>
+alt="Rad-query-1.png" />
 
   
 Red is for the *mage* tables, Yellow is for *companalysis* tables, Gray

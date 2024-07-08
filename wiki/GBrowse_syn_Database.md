@@ -220,9 +220,9 @@ reciprocal alignment is also created during database loading.
 
   
 
-<a href="File:GBS_Schema.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/GBS_Schema.png" class="thumbborder"
-width="512" height="541" alt="GBS Schema.png" /></a>
+width="512" height="541" alt="GBS Schema.png" />
 
 
 

@@ -264,9 +264,9 @@ Load a web browser and access
 <a href="http://localhost:8081" class="external free"
 rel="nofollow">http://localhost:8081</a>.
 
-<a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png" width="1049"
-height="790" alt="Galaxy FirstAnalysis 1.png" /></a>
+height="790" alt="Galaxy FirstAnalysis 1.png" />
 
 ### <span id="2._Upload_TAF1_ChIP-Seq_data" class="mw-headline">2. Upload TAF1 ChIP-Seq data</span>
 
@@ -296,9 +296,9 @@ in the history as queued (gray), then running (yellow) and finally done
 history** will show you information about the uploaded file, including
 the first few lines.
 
-<a href="File:Galaxy_FirstAnalysis_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/Galaxy_FirstAnalysis_2.png" width="1053"
-height="791" alt="Galaxy FirstAnalysis 2.png" /></a>
+height="791" alt="Galaxy FirstAnalysis 2.png" />
 
 ### <span id="3._Edit_Dataset_Attributes" class="mw-headline">3. Edit Dataset Attributes</span>
 
@@ -318,9 +318,9 @@ correspond to. *Click* the dataset's **pencil icon** again, and then
 under **Database / Build:** *select* **Human Mar. 2006 (NCBI36/hg18)
 (hg18)**. Then *click* **Save**.
 
-<a href="File:Galaxy_FirstAnalysis_3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/Galaxy_FirstAnalysis_3.png" width="1053"
-height="791" alt="Galaxy FirstAnalysis 3.png" /></a>
+height="791" alt="Galaxy FirstAnalysis 3.png" />
 
 ### <span id="4._Get_Gene_Annotations_from_UCSC" class="mw-headline">4. Get Gene Annotations from UCSC</span>
 
@@ -340,17 +340,17 @@ Make sure **Output Format** is *set* to **BED - Browser Extensible
 Data** and the check-box by **Send Output to Galaxy** is **checked**.
 Finally, *click* **get output**.
 
-<a href="File:Galaxy_FirstAnalysis_4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Galaxy_FirstAnalysis_4.png" width="1053"
-height="791" alt="Galaxy FirstAnalysis 4.png" /></a>
+height="791" alt="Galaxy FirstAnalysis 4.png" />
 
 A second interface will load allowing you to specify what portion of
 genes to select, make sure **Whole Gene** is *selected* and *click*
 **Send query to Galaxy**.
 
-<a href="File:Galaxy_FirstAnalysis_4-5.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/Galaxy_FirstAnalysis_4-5.png" width="925"
-height="738" alt="Galaxy FirstAnalysis 4-5.png" /></a>
+height="738" alt="Galaxy FirstAnalysis 4-5.png" />
 
 ### <span id="5._Generate_a_set_of_putative_promoter_regions" class="mw-headline">5. Generate a set of putative promoter regions</span>
 
@@ -365,9 +365,9 @@ center panel. Make sure the dataset **2: UCSC Main...** is *selected*
 and *set* **Length of Flanking region** to **1000** to create intervals
 1000bp upstream of each gene. *Click* **Execute**.
 
-<a href="File:Galaxy_FirstAnalysis_5.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Galaxy_FirstAnalysis_5.png" width="1053"
-height="791" alt="Galaxy FirstAnalysis 5.png" /></a>
+height="791" alt="Galaxy FirstAnalysis 5.png" />
 
 ### <span id="6._Identify_promoter_regions_containing_TAF1_sites" class="mw-headline">6. Identify promoter regions containing TAF1 sites</span>
 
@@ -377,9 +377,9 @@ select promoter regions with TAF1 sites. In the **Tools** sections
 Flanks...** as the first dataset and **1: ftp://ftp.gmod...** as the
 second dataset. *Click* **Execute**.
 
-<a href="File:Galaxy_FirstAnalysis_6.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/Galaxy_FirstAnalysis_6.png" width="1053"
-height="791" alt="Galaxy FirstAnalysis 6.png" /></a>
+height="791" alt="Galaxy FirstAnalysis 6.png" />
 
 The resulting dataset will contain all promoter regions that contain a
 TAF1 site, joined side-by-side with the TAF1 sites they contain. From
@@ -703,17 +703,17 @@ into Galaxy. You can enter multiple URLs into the **URL / Text** box.
 
 and *click* **Execute**:
 
-<a href="File:Galaxy_SecondAnalysis_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/Galaxy_SecondAnalysis_1.png" width="1053"
-height="791" alt="Galaxy SecondAnalysis 1.png" /></a>
+height="791" alt="Galaxy SecondAnalysis 1.png" />
 
 After uploading the datasets, *expand them* in the **History**. We can
 see that Galaxy has successfully detected the file formats of both
 files.
 
-<a href="File:Galaxy_SecondAnalysis_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/Galaxy_SecondAnalysis_2.png" width="1053"
-height="791" alt="Galaxy SecondAnalysis 2.png" /></a>
+height="791" alt="Galaxy SecondAnalysis 2.png" />
 
 However, we need to make one modification. The FASTQ format is
 ill-defined, and Galaxy needs to know how the quality scores are scaled.
@@ -740,9 +740,9 @@ rel="nofollow">http://...fastqsanger</a>** is selected.
 A new dataset is generated containing the mapped reads in [SAM
 format](Glossary#SAM "Glossary").
 
-<a href="File:Galaxy_SecondAnalysis_3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d5/Galaxy_SecondAnalysis_3.png" width="1001"
-height="578" alt="Galaxy SecondAnalysis 3.png" /></a>
+height="578" alt="Galaxy SecondAnalysis 3.png" />
 
 # <span id="Adding_a_new_tool" class="mw-headline">Adding a new tool</span>
 
@@ -916,16 +916,16 @@ this is the only dataset in our history that is valid.
 *Select* **Edit distance** for the **flag**, *enter* **0** for the
 **value**, and *click* **Execute**.
 
-<a href="File:Galaxy_SamFilter_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Galaxy_SamFilter_1.png" width="1024"
-height="330" alt="Galaxy SamFilter 1.png" /></a>
+height="330" alt="Galaxy SamFilter 1.png" />
 
 We know have a new dataset **4: Sam Filter on data 3** which contains
 only reads that mapped exactly to the reference.
 
-<a href="File:Galaxy_SamFilter_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Galaxy_SamFilter_2.png" width="1012"
-height="433" alt="Galaxy SamFilter 2.png" /></a>
+height="433" alt="Galaxy SamFilter 2.png" />
 
 # <span id="Galaxy_Workflows" class="mw-headline">Galaxy Workflows</span>
 
@@ -946,9 +946,9 @@ history to include in the workflow. Some tools cannot be used as
 workflow steps (e.g. uploads) so they will instead be treated as inputs
 to the workflow. This is fine, so *click* **Create Workflow**.
 
-<a href="File:Galaxy_Misc_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Galaxy_Misc_1.png" width="1053"
-height="791" alt="Galaxy Misc 1.png" /></a>
+height="791" alt="Galaxy Misc 1.png" />
 
 Now, from the top bar *click* **Workflow** to see a list of your
 workflows. You should see one workflow. *Click* on **its name** to bring
@@ -957,9 +957,9 @@ the workflow editor, we can modify parameters or add and remove steps.
 For example, if we *click* on **SAM filter**, we can change edit
 distance from 0 to 1:
 
-<a href="File:Galaxy_Misc_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/Galaxy_Misc_2.png" width="1366"
-height="661" alt="Galaxy Misc 2.png" /></a>
+height="661" alt="Galaxy Misc 2.png" />
 
 # <span id="Making_genome_.2F_alignment_data_available_to_Galaxy" class="mw-headline">Making genome / alignment data available to Galaxy</span>
 
@@ -1078,9 +1078,9 @@ find your genome by typing **example**.
 In the **Tools** menu, *click* **Fetch Sequences → Extract Genomic
 DNA**.
 
-<a href="File:Galaxy_Fetch_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Galaxy_Fetch_1.png" width="1247"
-height="683" alt="Galaxy Fetch 1.png" /></a>
+height="683" alt="Galaxy Fetch 1.png" />
 
 The tool interface should open in the main panel. The default values are
 probably fine (make sure the dataset you just created is selected).
@@ -1091,18 +1091,18 @@ for your regions of interest.
 
 In the **Tools** menu, click **Fetch Alignments → Extract MAF Blocks**.
 
-<a href="File:Galaxy_Fetch_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Galaxy_Fetch_2.png" width="1246"
-height="681" alt="Galaxy Fetch 2.png" /></a>
+height="681" alt="Galaxy Fetch 2.png" />
 
 The tool interface will open in the main panel. Again, the defaults
 should be reasonable, but *click* **Select All** to do alignments to all
 other species. *Click* **Execute**. A new dataset will be created
 containing alignments corresponding to your intervals of interest.
 
-<a href="File:Galaxy_Fetch_3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Galaxy_Fetch_3.png" width="1246"
-height="683" alt="Galaxy Fetch 3.png" /></a>
+height="683" alt="Galaxy Fetch 3.png" />
 
 ## <span id="Other_Features" class="mw-headline">Other Features</span>
 
@@ -1140,9 +1140,9 @@ sharing. As a simple example, click **Embed Galaxy Object → Embed
 History**, and then select the history you have been working with, and
 *click* **Embed**.
 
-<a href="File:Galaxy_Misc_3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/Galaxy_Misc_3.png" width="1366"
-height="661" alt="Galaxy Misc 3.png" /></a>
+height="661" alt="Galaxy Misc 3.png" />
 
 Click **Save** and **Close** to return to the page list, and *click* on
 the **page's title → View** to view it. You will now see your page, with
@@ -1158,9 +1158,9 @@ name, such as "Spiffy History". *Hit* the **return key**.
 
 Now, if you view the page again, you'll see the history has a name.
 
-<a href="File:Galaxy_Misc_4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/Galaxy_Misc_4.png" width="1326"
-height="621" alt="Galaxy Misc 4.png" /></a>
+height="621" alt="Galaxy Misc 4.png" />
 
 *Spiffy!* You can return to the History view and annotate your history
 items by clicking on the **Note icon**. These annotations will show up

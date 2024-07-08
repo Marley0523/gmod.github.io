@@ -23,10 +23,10 @@ Tutorial](http://gmod.org/mediawiki/index.php?title=Apollo_Tutorial&redirect=no 
   
 
 
-<a href="File:ApolloLogo.png" class="image" title="Apollo"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/250px-ApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/375px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/500px-ApolloLogo.png 2x"
-width="250" height="91" alt="Apollo" /></a>
+width="250" height="91" alt="Apollo" />
 
 
 This [Apollo](Apollo.1 "Apollo") tutorial was presented by [Ed
@@ -105,10 +105,9 @@ That is where Apollo comes in. Apollo is a sequence annotation editor
 and will allow you to create and edit annotations.
 
 
-<a href="File:Annotation-workflow.jpg" class="image"
-title="Annotation workflow"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/Annotation-workflow.jpg" width="585"
-height="196" alt="Annotation workflow" /></a>
+height="196" alt="Annotation workflow" />
 
 
 ### <span id="Architecture" class="mw-headline">Architecture</span>
@@ -119,10 +118,9 @@ configurable, with most users configuring the presentation and data
 layers.
 
 
-<a href="File:Architecture.jpg" class="image"
-title="Apollo architecture"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/Architecture.jpg" width="290" height="296"
-alt="Apollo architecture" /></a>
+alt="Apollo architecture" />
 
 
 #### <span id="Presentation_Layer" class="mw-headline">Presentation Layer</span>
@@ -224,10 +222,9 @@ our data, we can't use the **gene** option. Select **contig** in
 the region between **523000** and **532000**.
 
 
-<a href="File:Chado-adapter.jpg" class="image"
-title="Chado adapter"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d4/Chado-adapter.jpg" width="519"
-height="406" alt="Chado adapter" /></a>
+height="406" alt="Chado adapter" />
 
 
 
@@ -244,10 +241,9 @@ you probably want to keep the loaded regions to less than 500kb.
 Once loading is complete, we'll see the main Apollo window.
 
 
-<a href="File:Apollo-main-window.jpg" class="image"
-title="Apollo main window"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ae/Apollo-main-window.jpg" width="810"
-height="585" alt="Apollo main window" /></a>
+height="585" alt="Apollo main window" />
 
 
 The panels with the aqua background are for annotations and those with
@@ -266,10 +262,9 @@ with all of the exons. So to select all of the exons, we just need to
 red border around them.
 
 
-<a href="File:Apollo-no-genes.jpg" class="image"
-title="Apollo with evidence model selected"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Apollo-no-genes.jpg" width="810"
-height="585" alt="Apollo with evidence model selected" /></a>
+height="585" alt="Apollo with evidence model selected" />
 
 
 Now that they're all selected, to create a new gene it's as easy as just
@@ -277,10 +272,9 @@ dragging and dropping into the annotation panel. Voila! We have a new
 gene, `GMOD:temp1`, with transcript `GMOD:temp1-transcript1`.
 
 
-<a href="File:Apollo-with-genes.jpg" class="image"
-title="Apollo with a single gene model"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Apollo-with-genes.jpg" width="810"
-height="585" alt="Apollo with a single gene model" /></a>
+height="585" alt="Apollo with a single gene model" />
 
 
 OK, let's try this again with another model. Let's do the same with
@@ -289,10 +283,9 @@ a long name!). We can see that the transcript belongs to a new gene,
 `GMOD:temp2`. Makes sense, it's a obviously a separate gene.
 
 
-<a href="File:Apollo-with-two-genes.jpg" class="image"
-title="Apollo with two gene models"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Apollo-with-two-genes.jpg" width="810"
-height="585" alt="Apollo with two gene models" /></a>
+height="585" alt="Apollo with two gene models" />
 
 
 But what if we were create a new feature from
@@ -301,10 +294,9 @@ find out. Whoa! We can see that this new transcript was created as part
 of `GMOD:temp2`.
 
 
-<a href="File:Apollo-with-two-genes-splice-variants.jpg" class="image"
-title="Apollo with splice variants"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/21/Apollo-with-two-genes-splice-variants.jpg"
-width="810" height="585" alt="Apollo with splice variants" /></a>
+width="810" height="585" alt="Apollo with splice variants" />
 
 
 That's great, as it looks as it's a splice variant, rather than a whole
@@ -333,20 +325,18 @@ Let's make sure that our
 is working. Let's save our work using **File → Save as...**.
 
 
-<a href="File:File-save-as.jpg" class="image"
-title="File → Save as..."><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/File-save-as.jpg" width="217" height="198"
-alt="File → Save as..." /></a>
+alt="File → Save as..." />
 
 
 Make sure that `Chado database` is selected at the data source (should
 already be).
 
 
-<a href="File:Chado-save-dialog.jpg" class="image"
-title="Chado save dialog"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/14/Chado-save-dialog.jpg" width="519"
-height="406" alt="Chado save dialog" /></a>
+height="406" alt="Chado save dialog" />
 
 
 You'll notice that the IDs have changed. This is because the GMOD naming
@@ -358,10 +348,9 @@ and save that, this ID replacement will not take place.
 Let's reload the data with **File → Open new...**.
 
 
-<a href="File:File-open-new.jpg" class="image"
-title="File → Open new..."><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/File-open-new.jpg" width="215"
-height="198" alt="File → Open new..." /></a>
+height="198" alt="File → Open new..." />
 
 
 Again, make sure that `Chado database` is the selected data source
@@ -375,49 +364,44 @@ do so by selecting an exon in our feature, and then **right click →
 Annotation Info Editor...**.
 
 
-<a href="File:Annotation-editor-popup-menu.jpg" class="image"
-title="Annotation editor popup menu"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/Annotation-editor-popup-menu.jpg"
-width="233" height="162" alt="Annotation editor popup menu" /></a>
+width="233" height="162" alt="Annotation editor popup menu" />
 
 
 We can see that we can add lots of interesting information for our gene
 and transcript.
 
 
-<a href="File:Annotation-editor.jpg" class="image"
-title="Annotation editor"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6d/Annotation-editor.jpg" width="497"
-height="339" alt="Annotation editor" /></a>
+height="339" alt="Annotation editor" />
 
 
 Let's go add a comment to our gene. Click on
 `Edit GMOD:00020251 comments`.
 
 
-<a href="File:Annotation-editor-edit-comments.jpg" class="image"
-title="Annotation editor edit comments button"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/28/Annotation-editor-edit-comments.jpg"
 width="211" height="92"
-alt="Annotation editor edit comments button" /></a>
+alt="Annotation editor edit comments button" />
 
 
 The comments editor window will show up.
 
 
-<a href="File:Comments-editor.jpg" class="image"
-title="Comments editor"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/Comments-editor.jpg" width="531"
-height="464" alt="Comments editor" /></a>
+height="464" alt="Comments editor" />
 
 
 Click on the `Add` button to create a new comment.
 
 
-<a href="File:Comments-editor-buttons.jpg" class="image"
-title="Comments editor buttons"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/Comments-editor-buttons.jpg" width="220"
-height="26" alt="Comments editor buttons" /></a>
+height="26" alt="Comments editor buttons" />
 
 
 Notice the drop down menu that says `Select comment or enter your own`.
@@ -430,20 +414,18 @@ Enter some text in the text box for your comment. Put in
 `"My first comment."` in the text box.
 
 
-<a href="File:Comments-editor-with-comments.jpg" class="image"
-title="Comments editor with comments"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/Comments-editor-with-comments.jpg"
-width="531" height="464" alt="Comments editor with comments" /></a>
+width="531" height="464" alt="Comments editor with comments" />
 
 
 Click on the `Close` button. Notice that the newly added comment now
 shows up in the `Comments and properties` box.
 
 
-<a href="File:Annotation-editor-with-comments.jpg" class="image"
-title="Annotation editor with comments"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/Annotation-editor-with-comments.jpg"
-width="368" height="260" alt="Annotation editor with comments" /></a>
+width="368" height="260" alt="Annotation editor with comments" />
 
 
 There are a lot of things you can do to your existing annotation from
@@ -454,27 +436,26 @@ merge (hold down `shift` to allow you select multiple items), right
 click, and choose `Merge exons`.
 
 
-<a href="File:Merge-exons-popup-menu.jpg" class="image"
-title="Merge exons popup menu"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Merge-exons-popup-menu.jpg" width="516"
-height="225" alt="Merge exons popup menu" /></a>
+height="225" alt="Merge exons popup menu" />
 
 
   
 Alright, it does what we'd expect it to do.
 
-<a href="File:Apollo-with-merged-exons.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/64/Apollo-with-merged-exons.jpg" width="810"
-height="585" alt="Apollo-with-merged-exons.jpg" /></a>
+height="585" alt="Apollo-with-merged-exons.jpg" />
 
 But let's say that upon closer inspection, this is not what we wanted.
 We can `undo` any changes we've made! We can undo our merge with **Edit
 → Undo**.
 
 
-<a href="File:Edit-undo.jpg" class="image" title="Edit → Undo"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/Edit-undo.jpg" width="100" height="147"
-alt="Edit → Undo" /></a>
+alt="Edit → Undo" />
 
 
 Wow, lookie here, it split the exons again. Although this looks to be a
@@ -493,18 +474,17 @@ to select the whole model. Right-click on the selected feature and
 choose `Analyze region`.
 
 
-<a href="File:Analyze-region-popup-menu.jpg" class="image"
-title="Analyze region popup menu"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Analyze-region-popup-menu.jpg" width="298"
-height="387" alt="Analyze region popup menu" /></a>
+height="387" alt="Analyze region popup menu" />
 
 
 The `Run analysis` window will show up.
 
 
-<a href="File:Run-analysis.jpg" class="image" title="Run analysis"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Run-analysis.jpg" width="710" height="565"
-alt="Run analysis" /></a>
+alt="Run analysis" />
 
 
 We see there is a tab for `NCBI-BLAST` and `NCBI Primer-BLAST`. We'll
@@ -512,9 +492,9 @@ just run `BLAST` for now. We have a pull-down menu for `BLAST type` and
 can select `blastn`, `blastx`, and `tblastx`.
 
 
-<a href="File:Blast-types.jpg" class="image" title="BLAST types"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Blast-types.jpg" width="454" height="57"
-alt="BLAST types" /></a>
+alt="BLAST types" />
 
 
 Let's run a `blastx` search. There are a number of options for running
@@ -531,10 +511,9 @@ Click **Run** to run the analysis. After a few seconds, a popup window
 will appear.
 
 
-<a href="File:Analysis-expected-time.jpg" class="image"
-title="Analysis expected submission time"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/Analysis-expected-time.jpg" width="462"
-height="185" alt="Analysis expected submission time" /></a>
+height="185" alt="Analysis expected submission time" />
 
 
 This gives us the estimated time before our analysis starts running (as
@@ -545,10 +524,9 @@ background, so you can feel free to continue working as usual. You will
 be notified when the analysis is complete.
 
 
-<a href="File:Analysis-complete.jpg" class="image"
-title="Analysis complete"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Analysis-complete.jpg" width="287"
-height="185" alt="Analysis complete" /></a>
+height="185" alt="Analysis complete" />
 
 
 The new analysis will appear in the results panel and since we ran
@@ -556,10 +534,9 @@ The new analysis will appear in the results panel and since we ran
 `blastx:nr`.
 
 
-<a href="File:Blastx-results.jpg" class="image"
-title="blastn results"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Blastx-results.jpg" width="177"
-height="40" alt="blastn results" /></a>
+height="40" alt="blastn results" />
 
 
 One last thing worth mentioning is the `Exon Detail Editor`. It allows
@@ -624,18 +601,17 @@ it (up to the new line) will be ignored. There's a GUI for setting up
 the most common options. You can access it from **Edit → Preferences**.
 
 
-<a href="File:Edit-preferences.jpg" class="image"
-title="Edit -&gt; Preference"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c5/Edit-preferences.jpg" width="147"
-height="160" alt="Edit -&gt; Preference" /></a>
+height="160" alt="Edit -&gt; Preference" />
 
 
 Make sure that the `Style` tab is selected.
 
 
-<a href="File:Style-wizard.jpg" class="image" title="Style wizard"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Style-wizard.jpg" width="546" height="516"
-alt="Style wizard" /></a>
+alt="Style wizard" />
 
 
 Be aware that the GUI only supports a subset of all the options
@@ -696,9 +672,9 @@ most useful options. You can access it by clicking **Edit →
 Preferences** and selecting the **Types** tab.
 
 
-<a href="File:Types-wizard.jpg" class="image" title="Types wizard"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/Types-wizard.jpg" width="576" height="546"
-alt="Types wizard" /></a>
+alt="Types wizard" />
 
 
 If you need to change something not supported by the GUI, you'll have to

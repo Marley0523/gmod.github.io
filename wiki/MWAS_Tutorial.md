@@ -406,15 +406,14 @@ have a handful of gene models to train with. As a result *ab initio*
 gene predictors generally perform very poorly on emerging genomes.
 
 
-<a href="File:Maker_performance.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Maker_performance.jpg" class="thumbimage"
-width="848" height="300" /></a>
+width="848" height="300" />
 
 
-<a href="File:Maker_performance.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -962,10 +961,10 @@ genome with a single experiment. It may soon make gene predictors
 - Still need to archive, manage, and distribute annotations
 
   
-<a href="File:MRNAseq.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/500px-MRNAseq.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9f/MRNAseq.jpg/750px-MRNAseq.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/MRNAseq.jpg 2x"
-width="500" height="184" alt="MRNAseq.jpg" /></a>
+width="500" height="184" alt="MRNAseq.jpg" />
 
   
 We are currently working on native support for mRNAseq data within the
@@ -991,10 +990,10 @@ Legacy annotations
   annotation sets in light of RNA-seq and other data
 
   
-<a href="File:Legacy.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/Legacy.png/500px-Legacy.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Legacy.png 2x"
-width="500" height="245" alt="Legacy.png" /></a>
+width="500" height="245" alt="Legacy.png" />
 
   
 MAKER will:

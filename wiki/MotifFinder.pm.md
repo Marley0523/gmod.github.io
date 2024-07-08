@@ -96,9 +96,9 @@ Then you should be able to run the plugin!
 - In GBrowse, navigate to the genomic region you interested in, then
   select 'Annotate Sequence Motif' from the menu and click 'Configure'
 
-<a href="File:Select.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/Select.png" class="thumbborder"
-width="389" height="112" alt="Select.png" /></a>
+width="389" height="112" alt="Select.png" />
 
   
 
@@ -110,9 +110,9 @@ width="389" height="112" alt="Select.png" /></a>
 - Indel Size: currently only small Indels(length under 6) can be
   handled.
 
-<a href="File:Parameter.png" class="image" title="boarder"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/Parameter.png" width="428" height="289"
-alt="boarder" /></a>
+alt="boarder" />
 
   
 
@@ -150,9 +150,9 @@ improvement.
   start/stop position of the motif
 
 
-<a href="File:Display.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/29/Display.png" width="1035" height="293"
-alt="Display.png" /></a>
+alt="Display.png" />
 
 
 # <span id="How_is_the_motif_predicted.3F" class="mw-headline">How is the motif predicted?</span>

@@ -39,9 +39,8 @@ structures and regulatory regions</li>
 <li><a href="http://www.mediawiki.org/wiki/User%3ABilardi"
 class="external text">Mediawiki</a> tips</li>
 </ul></td>
-<td style="vertical-align: top"><p><a href="File:Bilardi.png"
-class="image"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Bilardi.png"
-width="150" height="150" alt="Bilardi.png" /></a></p></td>
+<td style="vertical-align: top"><p><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Bilardi.png"
+width="150" height="150" alt="Bilardi.png" /></p></td>
 </tr>
 </tbody>
 </table>

@@ -112,31 +112,28 @@ Point your browser to
 `http://ec2-184-73-92-243.compute-1.amazonaws.com:8080/WebApolloDemo`).
 
 
-<a href="File:Web_apollo_demo_login_page_with_credentials.jpg"
-class="image" title="WebApollo login page"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Web_apollo_demo_login_page_with_credentials.jpg"
 class="thumbborder" width="310" height="83"
-alt="WebApollo login page" /></a>
+alt="WebApollo login page" />
 
 
 The user name and password are both `demo`.
 
 
-<a href="File:Web_apollo_main_options.jpg" class="image"
-title="WebApollo main options"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Web_apollo_main_options.jpg"
 class="thumbborder" width="214" height="33"
-alt="WebApollo main options" /></a>
+alt="WebApollo main options" />
 
 
 Click on the `Edit annotations` button.
 
 
-<a href="File:Web_apollo_select_refseq.jpg" class="image"
-title="WebApollo reference sequence selection"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
 class="thumbborder" width="451" height="33"
-alt="WebApollo reference sequence selection" /></a>
+alt="WebApollo reference sequence selection" />
 
 
 We only have one contig to work with. Click on the `Edit` button.
@@ -1294,32 +1291,29 @@ Let's test out our installation. Point your browser to
 `http://ec2-184-73-92-243.compute-1.amazonaws.com:8080/WebApollo`).
 
 
-<a href="File:Web_apollo_login_page_with_credentials.jpg" class="image"
-title="WebApollo login page"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/Web_apollo_login_page_with_credentials.jpg"
 class="thumbborder" width="320" height="85"
-alt="WebApollo login page" /></a>
+alt="WebApollo login page" />
 
 
 The user name and password are both `web_apollo_admin` as we configured
 earlier.
 
 
-<a href="File:Web_apollo_main_options.jpg" class="image"
-title="WebApollo main options"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/Web_apollo_main_options.jpg"
 class="thumbborder" width="214" height="33"
-alt="WebApollo main options" /></a>
+alt="WebApollo main options" />
 
 
 Click on the `Edit annotations` button.
 
 
-<a href="File:Web_apollo_select_refseq.jpg" class="image"
-title="WebApollo reference sequence selection"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Web_apollo_select_refseq.jpg"
 class="thumbborder" width="451" height="33"
-alt="WebApollo reference sequence selection" /></a>
+alt="WebApollo reference sequence selection" />
 
 
 We only see one reference sequence to annotate since we're only working

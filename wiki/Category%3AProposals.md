@@ -90,9 +90,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Day-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Day-050517.ppt" /></a>
+  height="120" alt="Day-050517.ppt" />
 
   
 

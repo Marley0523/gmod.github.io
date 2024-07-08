@@ -275,9 +275,9 @@ The Chado schema is built with a set of *modules*. A Chado module is a
 set of database tables and relationships that stores information about a
 well-defined area of biology, such as sequence or attribution.
 
-<a href="File:ChadoModules.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/ChadoModules.png" width="519" height="408"
-alt="ChadoModules.png" /></a>
+alt="ChadoModules.png" />
 
 (Also available as a
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/ChadoModules.ppt" class="internal"
@@ -454,10 +454,9 @@ annotation interfaces.
 |  |  |
 |----|----|
 | <a href="http://zfin.org" class="external text"
-rel="nofollow">ZFIN's</a> Assay Type CV | <a href="File:ZfinAssayTypePullDown.png" class="image"
-title="ZFIN&#39;s Assay Type CV"><img
+rel="nofollow">ZFIN's</a> Assay Type CV | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6d/ZfinAssayTypePullDown.png" width="231"
-height="260" alt="ZFIN&#39;s Assay Type CV" /></a> |
+height="260" alt="ZFIN&#39;s Assay Type CV" /> |
 
 ##### <span id="Ontologies" class="mw-headline">Ontologies</span>
 
@@ -475,17 +474,17 @@ CV module helps with both.
 | <a href="http://flybase.org" class="external text"
 rel="nofollow">FlyBase</a> CV Term Viewer showing GO term "tissue regeneration" |
 |----|
-| <a href="File:FlyBaseCVTermViewer.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/FlyBaseCVTermViewer.png" width="1067"
-height="604" alt="FlyBaseCVTermViewer.png" /></a> |
+height="604" alt="FlyBaseCVTermViewer.png" /> |
 
 ##### <span id="CVs_and_Ontologies_in_Chado" class="mw-headline">CVs and Ontologies in Chado</span>
 
 [Chado CV Module](Chado_CV_Module "Chado CV Module")
 
-<a href="File:ChadoModulesCV.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/ChadoModulesCV.png" width="588"
-height="431" alt="ChadoModulesCV.png" /></a>
+height="431" alt="ChadoModulesCV.png" />
 
 (See the <a
 href="http://gmod.org/wiki/index.php/Chado_CV_Module#Table:_cvterm#Table:_cvterm"
@@ -742,9 +741,9 @@ explanation is excerpted from that.)
 This is covered in more detail on the [GMOD web
 site](Introduction_to_Chado#Interbase_Coordinates "Introduction to Chado").
 
-<a href="File:Interbase.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a0/Interbase.png" width="352" height="296"
-alt="Interbase.png" /></a>
+alt="Interbase.png" />
 
 A featureloc record specifies an interval in *interbase sequence
 coordinates*, bounded by the fmin and fmax columns, each representing
@@ -795,9 +794,9 @@ and the FlyBase Consortium (2007)
 How is a "central dogma" gene represented in Chado?
 
   
-<a href="File:CentralDogma.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/CentralDogma.png" width="347" height="370"
-alt="CentralDogma.png" /></a>
+alt="CentralDogma.png" />
 
 How do we represent these exons, mRNAs, proteins, and there
 relationships between them?
@@ -1063,9 +1062,9 @@ entries in the featureloc table. (The analysis and analysisfeature
 tables, in the Companalysis module, are used to store information about
 how the analysis was done and what scores resulted.)
 
-<a href="File:CompAnalysisFeature.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/CompAnalysisFeature.png" width="615"
-height="322" alt="CompAnalysisFeature.png" /></a>
+height="322" alt="CompAnalysisFeature.png" />
 
 Every horizontal line becomes a record in the feature table, and every
 vertical line becomes a record in the feature_relationship table.
@@ -1439,10 +1438,10 @@ this:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><a href="File:ZfinGSC.jpg" class="image"><img
+<td><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/ZfinGSC.jpg/200px-ZfinGSC.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/ZfinGSC.jpg/300px-ZfinGSC.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/ZfinGSC.jpg/400px-ZfinGSC.jpg 2x"
-width="200" height="201" alt="ZfinGSC.jpg" /></a></td>
+width="200" height="201" alt="ZfinGSC.jpg" /></td>
 <td>Fig. S5 Synergistic effect of zdia2 sMO and profilin I tMO. Embryos
 were injected with 8 ng zdia2 sMO (A and B) or co-injected with 4 ng
 zdia2 sMO and 4 ng profilin I tMO (C and D). Embryos were incubated

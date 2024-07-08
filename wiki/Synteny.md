@@ -99,16 +99,16 @@ See [CMap](CMap.1 "CMap") for more.
 ### <span id="GBrowse_syn" class="mw-headline">GBrowse_syn</span>
 
 
-<a href="File:GBrowse_syn.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
-width="400" height="128" /></a>
+width="400" height="128" />
 
 
-<a href="File:GBrowse_syn.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

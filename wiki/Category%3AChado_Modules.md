@@ -126,9 +126,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Chado_pub.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Chado pub.ppt" /></a>
+  height="120" alt="Chado pub.ppt" />
 
   
 
@@ -149,9 +149,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:ChadoModules.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/ChadoModules.png/120px-ChadoModules.png"
-  width="120" height="94" alt="ChadoModules.png" /></a>
+  width="120" height="94" alt="ChadoModules.png" />
 
   
 
@@ -172,9 +172,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:ChadoModules.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="ChadoModules.ppt" /></a>
+  height="120" alt="ChadoModules.ppt" />
 
   
 
@@ -195,9 +195,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:ChadoModulesCV.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/ChadoModulesCV.png/120px-ChadoModulesCV.png"
-  width="120" height="88" alt="ChadoModulesCV.png" /></a>
+  width="120" height="88" alt="ChadoModulesCV.png" />
 
   
 
@@ -218,9 +218,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Emmert_040526.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Emmert 040526.pdf" /></a>
+  width="120" height="120" alt="Emmert 040526.pdf" />
 
   
 

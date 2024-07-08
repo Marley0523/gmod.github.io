@@ -52,16 +52,16 @@ there are some general guidelines that apply to all programs.
 ## <span id="GMOD_User_Participation_Requirements" class="mw-headline">GMOD User Participation Requirements</span>
 
 
-<a href="File:ApolloLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/180px-ApolloLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/270px-ApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/360px-ApolloLogo.png 2x"
-width="180" height="65" /></a>
+width="180" height="65" />
 
 
-<a href="File:ApolloLogo.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -99,16 +99,16 @@ get that experience.
 ## <span id="Graphic_Design_Student_Requirements" class="mw-headline">Graphic Design Student Requirements</span>
 
 
-<a href="File:RedFlyLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/150px-RedFlyLogo.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1d/RedFlyLogo.png/225px-RedFlyLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/RedFlyLogo.png 2x"
-width="150" height="106" /></a>
+width="150" height="106" />
 
 
-<a href="File:RedFlyLogo.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

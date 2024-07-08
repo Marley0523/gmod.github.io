@@ -171,9 +171,9 @@ action to take. For example, in a sample yeast data set that comes with
 GBrowse, this is the menu that is give when the user selects a region in
 the details panel:
 
-<a href="File:Details_popup.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/Details_popup.png" width="255"
-height="105" alt="Details popup.png" /></a>
+height="105" alt="Details popup.png" />
 
 When GBrowse navigates to a new location, it uses AJAX (Asynchonous
 Javascript and XML) to reload all of the tracks, so a complete page
@@ -312,17 +312,16 @@ Changes:
   - Used unique IDs for each of the reads.
 
 
-<a href="File:Gbrowse2_100bp_trimmed.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/180px-Gbrowse2_100bp_trimmed.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/270px-Gbrowse2_100bp_trimmed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Gbrowse2_100bp_trimmed.png/360px-Gbrowse2_100bp_trimmed.png 2x"
-width="180" height="207" /></a>
+width="180" height="207" />
 
 
-<a href="File:Gbrowse2_100bp_trimmed.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -494,10 +493,10 @@ class="external text" rel="nofollow">HG19 (subset) demo</a>
 
 The moving parts in JBrowse:
 
-<a href="File:Jbrowse_arch.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/600px-Jbrowse_arch.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/900px-Jbrowse_arch.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/Jbrowse_arch.png 2x"
-width="600" height="776" alt="Jbrowse arch.png" /></a>
+width="600" height="776" alt="Jbrowse arch.png" />
 
   
 You have your own JBrowse instance on the server:

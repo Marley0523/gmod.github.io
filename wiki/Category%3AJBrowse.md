@@ -206,9 +206,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Basepair-options.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/120px-Basepair-options.png"
-  width="120" height="41" alt="Basepair-options.png" /></a>
+  width="120" height="41" alt="Basepair-options.png" />
 
   
 
@@ -229,9 +229,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Flatfile-options.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Flatfile-options.png/120px-Flatfile-options.png"
-  width="120" height="77" alt="Flatfile-options.png" /></a>
+  width="120" height="77" alt="Flatfile-options.png" />
 
   
 
@@ -252,9 +252,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:HelpDeskSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HelpDeskSept2010.pdf" /></a>
+  width="120" height="120" alt="HelpDeskSept2010.pdf" />
 
   
 
@@ -275,9 +275,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Aug2009JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009JBrowse.pdf" /></a>
+  width="120" height="120" alt="Aug2009JBrowse.pdf" />
 
   
 
@@ -298,9 +298,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:GBrowse3GMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse3GMOD2008.pdf" /></a>
+  width="120" height="120" alt="GBrowse3GMOD2008.pdf" />
 
   
 
@@ -321,9 +321,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:GMODCourse2010-JBrowseIntro.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODCourse2010-JBrowseIntro.pdf" /></a>
+  width="120" height="120" alt="GMODCourse2010-JBrowseIntro.pdf" />
 
   
 
@@ -344,9 +344,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Jan2009JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009JBrowse.pdf" /></a>
+  width="120" height="120" alt="Jan2009JBrowse.pdf" />
 
   
 
@@ -367,9 +367,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Jbrowse_arch.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/Jbrowse_arch.png/93px-Jbrowse_arch.png"
-  width="93" height="120" alt="Jbrowse arch.png" /></a>
+  width="93" height="120" alt="Jbrowse arch.png" />
 
   
 
@@ -390,9 +390,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:PAG2010JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010JBrowse.pdf" /></a>
+  width="120" height="120" alt="PAG2010JBrowse.pdf" />
 
   
 
@@ -413,9 +413,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:JBrowse_PAG_2017.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="JBrowse PAG 2017.pdf" /></a>
+  width="120" height="120" alt="JBrowse PAG 2017.pdf" />
 
   
 
@@ -437,9 +437,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:JBrowseUI.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a9/JBrowseUI.png/120px-JBrowseUI.png"
-  width="120" height="39" alt="JBrowseUI.png" /></a>
+  width="120" height="39" alt="JBrowseUI.png" />
 
   
 
@@ -460,9 +460,9 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  <a href="File:Wiggle-options.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/120px-Wiggle-options.png"
-  width="120" height="35" alt="Wiggle-options.png" /></a>
+  width="120" height="35" alt="Wiggle-options.png" />
 
   
 

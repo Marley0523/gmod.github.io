@@ -48,9 +48,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -72,11 +72,10 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" /></a>
+  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" />
 
   
 

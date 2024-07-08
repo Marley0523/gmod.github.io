@@ -20,11 +20,10 @@
   
 
 
-<a href="File:2011GMODAmericasSatellitesLogo.png" class="image"
-title="GMOD Americas 2011"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/600px-2011GMODAmericasSatellitesLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/2011GMODAmericasSatellitesLogo.png/900px-2011GMODAmericasSatellitesLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/2011GMODAmericasSatellitesLogo.png 2x"
-width="600" height="238" alt="GMOD Americas 2011" /></a>
+width="600" height="238" alt="GMOD Americas 2011" />
 
 
   

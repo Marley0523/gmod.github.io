@@ -46,15 +46,15 @@ tables relative to Chado version 1.23 are indicated in green.
 
 ### <span id="Option_1:_Group_Module_is_an_intrinsic_part_of_the_phenotype_cvterm_table" class="mw-headline">Option 1: [Group Module](Chado_Group_Module "Chado Group Module") is an intrinsic part of the phenotype_cvterm table</span>
 
-<a href="File:SampleEQstatementInChado.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/SampleEQstatementInChado.png" width="1109"
-height="1199" alt="SampleEQstatementInChado.png" /></a>
+height="1199" alt="SampleEQstatementInChado.png" />
 
 ### <span id="Option_2:_Group_Module_is_decoupled_from_the_phenotype_cvterm_table" class="mw-headline">Option 2: [Group Module](Chado_Group_Module "Chado Group Module") is decoupled from the phenotype_cvterm table</span>
 
-<a href="File:Chado_phenotype_proposal.op2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Chado_phenotype_proposal.op2.png"
-width="1454" height="1382" alt="Chado phenotype proposal.op2.png" /></a>
+width="1454" height="1382" alt="Chado phenotype proposal.op2.png" />
 Sample SQL for loading and querying this structure is
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/EQstatements.sql" class="internal"
 title="EQstatements.sql">here</a>.
@@ -65,9 +65,9 @@ This option separates the post-composed term completely from the
 phenotype table, permitting a particular statement to be re-used and to
 be attached to different types of data objects.
 
-<a href="File:Chado_phenotype_proposal.v4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/Chado_phenotype_proposal.v4.png"
-width="1500" height="1367" alt="Chado phenotype proposal.v4.png" /></a>
+width="1500" height="1367" alt="Chado phenotype proposal.v4.png" />
 
 
 

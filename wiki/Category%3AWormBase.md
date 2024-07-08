@@ -60,9 +60,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Mod-face-07jan-WormBase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-WormBase.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-WormBase.pdf" />
 
   
 
@@ -83,9 +83,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Wdb_small.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Wdb_small.gif" width="120" height="120"
-  alt="Wdb small.gif" /></a>
+  alt="Wdb small.gif" />
 
   
 

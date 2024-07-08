@@ -60,9 +60,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:BoG2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BoG2006.pdf" /></a>
+  width="120" height="120" alt="BoG2006.pdf" />
 
   
 
@@ -83,9 +83,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Sgd-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Sgd-050516.ppt" /></a>
+  height="120" alt="Sgd-050516.ppt" />
 
   
 
@@ -106,9 +106,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:SGD-gmod.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="SGD-gmod.ppt" /></a>
+  height="120" alt="SGD-gmod.ppt" />
 
   
 
@@ -129,9 +129,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:SGD-t.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/SGD-t.gif" width="120" height="79"
-  alt="SGD-t.gif" /></a>
+  alt="SGD-t.gif" />
 
   
 

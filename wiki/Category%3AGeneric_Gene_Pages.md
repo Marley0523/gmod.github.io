@@ -62,9 +62,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Common_gene_page.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Common gene page.pdf" /></a>
+  width="120" height="120" alt="Common gene page.pdf" />
 
   
 
@@ -86,9 +86,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Gilbert_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gilbert 040526.ppt" /></a>
+  height="120" alt="Gilbert 040526.ppt" />
 
   
 
@@ -110,9 +110,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Jan2009GenreicGenePage.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009GenreicGenePage.pdf" /></a>
+  width="120" height="120" alt="Jan2009GenreicGenePage.pdf" />
 
   
 

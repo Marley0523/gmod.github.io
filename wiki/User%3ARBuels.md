@@ -20,10 +20,10 @@
 
 
 
-<a href="File:Rbuels_and_pretty_flowers.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/300px-Rbuels_and_pretty_flowers.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/450px-Rbuels_and_pretty_flowers.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Rbuels_and_pretty_flowers.jpg/600px-Rbuels_and_pretty_flowers.jpg 2x"
-width="300" height="225" alt="Rbuels and pretty flowers.jpg" /></a>
+width="300" height="225" alt="Rbuels and pretty flowers.jpg" />
 
 **Robert Buels** is a bioinformatics software developer currently living
 in Seattle, Washington. From 2004 to 2012, he worked at the

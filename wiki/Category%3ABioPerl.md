@@ -88,9 +88,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:04-Stajich_NESCENT_GMOD.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" /></a>
+  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" />
 
   
 
@@ -112,9 +112,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:BioPerl_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/90px-BioPerl_logo.jpg"
-  width="90" height="120" alt="BioPerl logo.jpg" /></a>
+  width="90" height="120" alt="BioPerl logo.jpg" />
 
   
 
@@ -135,9 +135,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Stajich_GMOD_2006-06-30.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" /></a>
+  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" />
 
   
 

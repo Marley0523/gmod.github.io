@@ -224,22 +224,21 @@ Examples:
   (<a href="http://www.sequenceontology.org/" class="external text"
   rel="nofollow">Sequence Onotology</a>)
 
-<a href="File:Structural.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/Structural.png" width="152" height="32"
-alt="Structural.png" /></a>
+alt="Structural.png" />
 
 
-<a href="File:MAKER_UCSC_Genome_Browser.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/700px-MAKER_UCSC_Genome_Browser.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1050px-MAKER_UCSC_Genome_Browser.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/MAKER_UCSC_Genome_Browser.jpg/1400px-MAKER_UCSC_Genome_Browser.jpg 2x"
-width="700" height="173" /></a>
+width="700" height="173" />
 
 
-<a href="File:MAKER_UCSC_Genome_Browser.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -255,17 +254,16 @@ Structural Annotations
   rel="nofollow">Gene Ontology</a>)
 
 
-<a href="File:MAKER_GO_Screenshot.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/700px-MAKER_GO_Screenshot.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/25/MAKER_GO_Screenshot.jpg/1050px-MAKER_GO_Screenshot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/25/MAKER_GO_Screenshot.jpg 2x"
-width="700" height="294" /></a>
+width="700" height="294" />
 
 
-<a href="File:MAKER_GO_Screenshot.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -290,16 +288,16 @@ Examples of evidence supporting a structural annotation:
 Why should the average biologist care about genome annotations?
 
 
-<a href="File:Process.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/560px-Process.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Process.png/840px-Process.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Process.png 2x"
-width="560" height="352" /></a>
+width="560" height="352" />
 
 
-<a href="File:Process.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

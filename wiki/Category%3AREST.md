@@ -73,9 +73,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:CRAWL_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CRAWL Sept2010.pdf" /></a>
+  width="120" height="120" alt="CRAWL Sept2010.pdf" />
 
   
 

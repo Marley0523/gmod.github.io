@@ -19,10 +19,10 @@
 
 
 
-<a href="File:Gmod-online-training.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/Gmod-online-training.png/300px-Gmod-online-training.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6f/Gmod-online-training.png/450px-Gmod-online-training.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/Gmod-online-training.png 2x"
-width="300" height="235" alt="Gmod-online-training.png" /></a>
+width="300" height="235" alt="Gmod-online-training.png" />
 
 
 

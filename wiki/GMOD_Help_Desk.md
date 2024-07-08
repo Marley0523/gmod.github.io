@@ -18,11 +18,10 @@
 
 
 
-<a href="File:GMODHelpDeskLogo.jpg" class="image"
-title="GMOD Help Desk"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/400px-GMODHelpDeskLogo.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/600px-GMODHelpDeskLogo.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/GMODHelpDeskLogo.jpg/800px-GMODHelpDeskLogo.jpg 2x"
-width="400" height="196" alt="GMOD Help Desk" /></a>
+width="400" height="196" alt="GMOD Help Desk" />
 
 
 

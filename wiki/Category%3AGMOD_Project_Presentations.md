@@ -31,9 +31,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:GMODTAMUWorkshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODTAMUWorkshop.pdf" /></a>
+  width="120" height="120" alt="GMODTAMUWorkshop.pdf" />
 
   
 
@@ -54,9 +54,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:HelpDeskSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HelpDeskSept2010.pdf" /></a>
+  width="120" height="120" alt="HelpDeskSept2010.pdf" />
 
   
 
@@ -77,9 +77,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:01-NESC_January_2006-LINCOLN.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="01-NESC January 2006-LINCOLN.pdf" /></a>
+  width="120" height="120" alt="01-NESC January 2006-LINCOLN.pdf" />
 
   
 
@@ -101,9 +101,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:03-NESCent_intro.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="03-NESCent intro.pdf" /></a>
+  width="120" height="120" alt="03-NESCent intro.pdf" />
 
   
 
@@ -125,10 +125,10 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:2007GenomeInformaticsGMODPoster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2007GenomeInformaticsGMODPoster.pdf" /></a>
+  alt="2007GenomeInformaticsGMODPoster.pdf" />
 
   
 
@@ -149,9 +149,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Aug2009HelpDesk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009HelpDesk.pdf" /></a>
+  width="120" height="120" alt="Aug2009HelpDesk.pdf" />
 
   
 
@@ -172,9 +172,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Aug2009StateOfGMOD.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009StateOfGMOD.pdf" /></a>
+  width="120" height="120" alt="Aug2009StateOfGMOD.pdf" />
 
   
 
@@ -195,9 +195,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Cain_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cain 040526.ppt" /></a>
+  height="120" alt="Cain 040526.ppt" />
 
   
 
@@ -218,9 +218,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Cain-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cain-050516.ppt" /></a>
+  height="120" alt="Cain-050516.ppt" />
 
   
 
@@ -241,11 +241,10 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:GenomicsResourcesForEmergingModelOrganismsPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GenomicsResourcesForEmergingModelOrganismsPoster.pdf" /></a>
+  alt="GenomicsResourcesForEmergingModelOrganismsPoster.pdf" />
 
   
 
@@ -266,9 +265,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Gmod_meeting_7_2008.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gmod meeting 7 2008.ppt" /></a>
+  height="120" alt="Gmod meeting 7 2008.ppt" />
 
   
 
@@ -290,9 +289,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Gmod_OCCBio_2007.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gmod OCCBio 2007.ppt" /></a>
+  height="120" alt="Gmod OCCBio 2007.ppt" />
 
   
 
@@ -314,9 +313,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Gmod_update.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gmod update.ppt" /></a>
+  height="120" alt="Gmod update.ppt" />
 
   
 
@@ -337,9 +336,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:GMODBrochure2010.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMODBrochure2010.ppt" /></a>
+  height="120" alt="GMODBrochure2010.ppt" />
 
   
 
@@ -360,9 +359,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:GMODGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" />
 
   
 
@@ -383,9 +382,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:HelpDeskGMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HelpDeskGMOD2008.pdf" /></a>
+  width="120" height="120" alt="HelpDeskGMOD2008.pdf" />
 
   
 
@@ -406,10 +405,10 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:ISMB2008PosterManagingGenomicData.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISMB2008PosterManagingGenomicData.pdf" /></a>
+  alt="ISMB2008PosterManagingGenomicData.pdf" />
 
   
 
@@ -430,9 +429,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Jan2009HelpDesk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009HelpDesk.pdf" /></a>
+  width="120" height="120" alt="Jan2009HelpDesk.pdf" />
 
   
 
@@ -453,9 +452,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Jan2009StateOfGMOD.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Jan2009StateOfGMOD.ppt" /></a>
+  height="120" alt="Jan2009StateOfGMOD.ppt" />
 
   
 
@@ -476,9 +475,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Jan2010HelpDesk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010HelpDesk.pdf" /></a>
+  width="120" height="120" alt="Jan2010HelpDesk.pdf" />
 
   
 
@@ -499,9 +498,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:March2011GSAandGMOD.pptx" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="March2011GSAandGMOD.pptx" /></a>
+  height="120" alt="March2011GSAandGMOD.pptx" />
 
   
 
@@ -522,9 +521,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Mod-face-07jan-Intro-scain.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-Intro-scain.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-Intro-scain.pdf" />
 
   
 
@@ -545,9 +544,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:PAG2010GMODProjectUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010GMODProjectUpdate.pdf" /></a>
+  width="120" height="120" alt="PAG2010GMODProjectUpdate.pdf" />
 
   
 
@@ -568,9 +567,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:System_architecture_may_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="System architecture may 2003.ppt" /></a>
+  height="120" alt="System architecture may 2003.ppt" />
 
   
 
@@ -592,9 +591,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:What_next.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="What next.ppt" /></a>
+  height="120" alt="What next.ppt" />
 
   
 
@@ -615,9 +614,9 @@ The following 26 files are in this category, out of 26 total.
 
   
 
-  <a href="File:Whats_new.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Whats new.ppt" /></a>
+  height="120" alt="Whats new.ppt" />
 
   
 

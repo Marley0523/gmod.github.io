@@ -18,9 +18,9 @@
 
 
 
-<a href="File:TripalLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png" width="400" height="120"
-alt="Tripal logo" /></a>
+alt="Tripal logo" />
 
 
 

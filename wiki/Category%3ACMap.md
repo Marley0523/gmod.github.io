@@ -110,9 +110,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:2007_11_05_CMap_GMOD.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="2007 11 05 CMap GMOD.ppt" /></a>
+  height="120" alt="2007 11 05 CMap GMOD.ppt" />
 
   
 
@@ -134,9 +134,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:BenFaga_GMOD_June_2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="BenFaga GMOD June 2006.ppt" /></a>
+  height="120" alt="BenFaga GMOD June 2006.ppt" />
 
   
 
@@ -158,9 +158,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -182,9 +182,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:CMap_Overview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMap Overview.pdf" /></a>
+  width="120" height="120" alt="CMap Overview.pdf" />
 
   
 
@@ -205,9 +205,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:Cmap_update_sept_03.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cmap update sept 03.ppt" /></a>
+  height="120" alt="Cmap update sept 03.ppt" />
 
   
 
@@ -229,9 +229,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:Cmap-050516.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cmap-050516.pdf" /></a>
+  width="120" height="120" alt="Cmap-050516.pdf" />
 
   
 
@@ -252,9 +252,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:CMapGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" />
 
   
 
@@ -275,9 +275,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:CMapGenomeInformatics2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMapGenomeInformatics2009.pdf" /></a>
+  width="120" height="120" alt="CMapGenomeInformatics2009.pdf" />
 
   
 
@@ -298,9 +298,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:CMapLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/103px-CMapLogo.png"
-  width="103" height="120" alt="CMapLogo.png" /></a>
+  width="103" height="120" alt="CMapLogo.png" />
 
   
 
@@ -321,11 +321,10 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" /></a>
+  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" />
 
   
 
@@ -346,9 +345,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:Gramene-cmap-pag-poster-2005.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" /></a>
+  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" />
 
   
 
@@ -369,9 +368,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:PAG2010CMap3D.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010CMap3D.pdf" /></a>
+  width="120" height="120" alt="PAG2010CMap3D.pdf" />
 
   
 
@@ -392,10 +391,10 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:ISyIPGMODforComparativeGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISyIPGMODforComparativeGenomics.pdf" /></a>
+  alt="ISyIPGMODforComparativeGenomics.pdf" />
 
   
 
@@ -416,9 +415,9 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
+  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" />
 
   
 

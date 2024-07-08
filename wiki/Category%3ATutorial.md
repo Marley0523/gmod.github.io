@@ -96,9 +96,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:JBrowse_PAG_2017.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="JBrowse PAG 2017.pdf" /></a>
+  width="120" height="120" alt="JBrowse PAG 2017.pdf" />
 
   
 

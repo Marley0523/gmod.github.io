@@ -27,9 +27,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:2009SummerSchoolAmericas300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/2009SummerSchoolAmericas300.png"
-width="300" height="242" alt="2009SummerSchoolAmericas300.png" /></a>
+width="300" height="242" alt="2009SummerSchoolAmericas300.png" />
 
 </td>
 <td><span style="font-size: 200%; line-height: 120%"><strong>2009 GMOD
@@ -443,14 +443,14 @@ VMware on Windows and Linux
 
 
 
-<a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
-height="48" alt="Windoze" /></a>
+height="48" alt="Windoze" />
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 

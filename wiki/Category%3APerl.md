@@ -133,9 +133,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:AutoDBI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AutoDBI.pdf" /></a>
+  width="120" height="120" alt="AutoDBI.pdf" />
 
   
 
@@ -156,9 +156,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:DasI_middleware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DasI middleware.pdf" /></a>
+  width="120" height="120" alt="DasI middleware.pdf" />
 
   
 

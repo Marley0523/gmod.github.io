@@ -70,17 +70,16 @@
 # <span id="GBrowse2_Virtual_Machines" class="mw-headline">GBrowse2 Virtual Machines</span>
 
 
-<a href="File:GBrowse_virtualbox1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/350px-GBrowse_virtualbox1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/525px-GBrowse_virtualbox1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bb/GBrowse_virtualbox1.png/700px-GBrowse_virtualbox1.png 2x"
-width="350" height="290" /></a>
+width="350" height="290" />
 
 
-<a href="File:GBrowse_virtualbox1.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -234,18 +233,16 @@ incoming connections from the host to the guest machine. This is
 primarily to allow the host machine to ssh to the guest.
 
 
-<a href="File:GBrowse_virtualbox1_port_forwarding.png"
-class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/350px-GBrowse_virtualbox1_port_forwarding.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/525px-GBrowse_virtualbox1_port_forwarding.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/GBrowse_virtualbox1_port_forwarding.png/700px-GBrowse_virtualbox1_port_forwarding.png 2x"
-width="350" height="218" /></a>
+width="350" height="218" />
 
 
-<a href="File:GBrowse_virtualbox1_port_forwarding.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

@@ -50,9 +50,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:WindowsLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="120"
-  height="118" alt="WindowsLogoSmall.jpg" /></a>
+  height="118" alt="WindowsLogoSmall.jpg" />
 
   
 

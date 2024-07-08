@@ -19,10 +19,10 @@
 
 
 
-<a href="File:GitcLogo.png" class="image" title="GMOD in the Cloud"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/400px-GitcLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/600px-GitcLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/800px-GitcLogo.png 2x"
-width="400" height="229" alt="GMOD in the Cloud" /></a>
+width="400" height="229" alt="GMOD in the Cloud" />
 
 
 
@@ -84,11 +84,10 @@ versions of GMOD in the Cloud are released.
 
 
 
-<a href="File:Gitc-poster-alt.jpg" class="image"
-title="GMOD in the Cloud poster"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/Gitc-poster-alt.jpg/300px-Gitc-poster-alt.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/Gitc-poster-alt.jpg/450px-Gitc-poster-alt.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/Gitc-poster-alt.jpg/600px-Gitc-poster-alt.jpg 2x"
-width="300" height="424" alt="GMOD in the Cloud poster" /></a>
+width="300" height="424" alt="GMOD in the Cloud poster" />
 
 
 

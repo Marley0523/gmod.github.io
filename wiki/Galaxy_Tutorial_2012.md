@@ -413,10 +413,10 @@ rel="nofollow">Galaxy 101 tutorial</a>.
 Start a web browser and access
 http://ec2-##-##-##-##.compute-1.amazonaws.com:8081.
 
-<a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Galaxy_FirstAnalysis_1.png/900px-Galaxy_FirstAnalysis_1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 2x"
-width="900" height="678" alt="Galaxy FirstAnalysis 1.png" /></a>
+width="900" height="678" alt="Galaxy FirstAnalysis 1.png" />
 
 Now that Galaxy is up and running, let's use it to answer the question:
 
@@ -454,18 +454,18 @@ genome browser. In this window, set
 
 *Click* **get output**.
 
-<a href="File:Galaxy_UCSCPigExons1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9b/Galaxy_UCSCPigExons1.png/900px-Galaxy_UCSCPigExons1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Galaxy_UCSCPigExons1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Galaxy_UCSCPigExons1.png 2x"
-width="900" height="571" alt="Galaxy UCSCPigExons1.png" /></a>
+width="900" height="571" alt="Galaxy UCSCPigExons1.png" />
 
 On the second UCSC page, *click* **Coding Exons** and then click **Send
 query to Galaxy**
 
-<a href="File:Galaxy_UCSCPigExons2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/Galaxy_UCSCPigExons2.png/900px-Galaxy_UCSCPigExons2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/Galaxy_UCSCPigExons2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/Galaxy_UCSCPigExons2.png 2x"
-width="900" height="527" alt="Galaxy UCSCPigExons2.png" /></a>
+width="900" height="527" alt="Galaxy UCSCPigExons2.png" />
 
 Let's take a look at the data.
 
@@ -477,10 +477,10 @@ Let's take a look at the data.
 - Change the history name from `unnamed history` (which is true, but not
   useful) to something more meaningful.
 
-<a href="File:Galaxy_ExonSetAttributes.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/Galaxy_ExonSetAttributes.png/900px-Galaxy_ExonSetAttributes.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Galaxy_ExonSetAttributes.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Galaxy_ExonSetAttributes.png 2x"
-width="900" height="700" alt="Galaxy ExonSetAttributes.png" /></a>
+width="900" height="700" alt="Galaxy ExonSetAttributes.png" />
 
 ##### <span id="That.27s_odd" class="mw-headline">That's odd</span>
 
@@ -489,9 +489,9 @@ width="900" height="700" alt="Galaxy ExonSetAttributes.png" /></a>
   just got the data from UCSC.
 - That's *odd*
 
-<a href="File:Galaxy_NoLinkToUCSCForPigs.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/Galaxy_NoLinkToUCSCForPigs.png"
-width="281" height="399" alt="Galaxy NoLinkToUCSCForPigs.png" /></a>
+width="281" height="399" alt="Galaxy NoLinkToUCSCForPigs.png" />
 
 ##### <span id="Our_first_peek_at_the_Plumbing" class="mw-headline">Our first peek at the Plumbing</span>
 
@@ -516,9 +516,9 @@ Restart Galaxy:
 *Click* the **Analyze Data** tab to reload the screen. **display at UCSC
 main** is now one of the options.
 
-<a href="File:Galaxy_LinkToUCSCForPigs.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Galaxy_LinkToUCSCForPigs.png" width="281"
-height="415" alt="Galaxy LinkToUCSCForPigs.png" /></a>
+height="415" alt="Galaxy LinkToUCSCForPigs.png" />
 
 #### <span id="3._Get_Pig_Repeat_Regions" class="mw-headline">3. Get Pig Repeat Regions</span>
 
@@ -529,27 +529,27 @@ Set
 - **group**: Variation and Repeats
 - **region**: position and enter `chr18`
 
-<a href="File:Galaxy_GetPigRepeatsFromUCSC1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Galaxy_GetPigRepeatsFromUCSC1.png/900px-Galaxy_GetPigRepeatsFromUCSC1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/Galaxy_GetPigRepeatsFromUCSC1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/Galaxy_GetPigRepeatsFromUCSC1.png 2x"
-width="900" height="559" alt="Galaxy GetPigRepeatsFromUCSC1.png" /></a>
+width="900" height="559" alt="Galaxy GetPigRepeatsFromUCSC1.png" />
 
 In the second UCSC window make sure **Whole Gene** is *selected* and
 then send the dataset to Galaxy.
 
-<a href="File:Galaxy_GetPigRepeatsFromUCSC2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/Galaxy_GetPigRepeatsFromUCSC2.png/900px-Galaxy_GetPigRepeatsFromUCSC2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/Galaxy_GetPigRepeatsFromUCSC2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/Galaxy_GetPigRepeatsFromUCSC2.png 2x"
-width="900" height="441" alt="Galaxy GetPigRepeatsFromUCSC2.png" /></a>
+width="900" height="441" alt="Galaxy GetPigRepeatsFromUCSC2.png" />
 
 *Click* on the new dataset's **pencil icon** and *rename* the dataset to
 something more useful, such as **Pig Chr18 Rpts**. Also set the score
 column to column 5.
 
-<a href="File:Galaxy_RepeatsDetails.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/Galaxy_RepeatsDetails.png/900px-Galaxy_RepeatsDetails.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Galaxy_RepeatsDetails.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Galaxy_RepeatsDetails.png 2x"
-width="900" height="684" alt="Galaxy RepeatsDetails.png" /></a>
+width="900" height="684" alt="Galaxy RepeatsDetails.png" />
 
 Note that the dataset is already viewable in UCSC.
 
@@ -560,20 +560,20 @@ Select **Tools → Operate on Genomic Intervals → Join**.
 *Join* **dataset 1 (exons)** with **dataset 2 (repeats)**, with **min
 overlap of 1 bp**. Return **Only records that are joined (INNER JOIN)**.
 
-<a href="File:Galaxy_IntervalJoinSettings.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Galaxy_IntervalJoinSettings.png/900px-Galaxy_IntervalJoinSettings.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e5/Galaxy_IntervalJoinSettings.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e5/Galaxy_IntervalJoinSettings.png 2x"
-width="900" height="381" alt="Galaxy IntervalJoinSettings.png" /></a>
+width="900" height="381" alt="Galaxy IntervalJoinSettings.png" />
 
 Takes two 6 column bed files and joins them together into 12 column
 records where the first 6 columns are from the exons dataset and the
 last 6 columns are from the repeats dataset. Furthermore, it only create
 records when a gene and a repeat overlap.
 
-<a href="File:Galaxy_IntervalJoinResults.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8e/Galaxy_IntervalJoinResults.png/900px-Galaxy_IntervalJoinResults.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/Galaxy_IntervalJoinResults.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/Galaxy_IntervalJoinResults.png 2x"
-width="900" height="749" alt="Galaxy IntervalJoinResults.png" /></a>
+width="900" height="749" alt="Galaxy IntervalJoinResults.png" />
 
 Take a close look at the dataset. Note that
 
@@ -599,10 +599,10 @@ databases. Select **Tools → Join, Subtract, and Group → Group**.
 
 Then *click* **Add new operation** and then *set* **Type** to **Count**.
 
-<a href="File:Galaxy_GroupBySettings.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a7/Galaxy_GroupBySettings.png/900px-Galaxy_GroupBySettings.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Galaxy_GroupBySettings.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Galaxy_GroupBySettings.png 2x"
-width="900" height="530" alt="Galaxy GroupBySettings.png" /></a>
+width="900" height="530" alt="Galaxy GroupBySettings.png" />
 
 This tells Galaxy to walk through the dataset, create a group for each
 different value of column 4 (the exon name), and then count the number
@@ -611,10 +611,10 @@ each exon name).
 
 This produces a two column dataset:
 
-<a href="File:Galaxy_GroupByResults.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/Galaxy_GroupByResults.png/900px-Galaxy_GroupByResults.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Galaxy_GroupByResults.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Galaxy_GroupByResults.png 2x"
-width="900" height="495" alt="Galaxy GroupByResults.png" /></a>
+width="900" height="495" alt="Galaxy GroupByResults.png" />
 
 The first column is the value of the column we grouped by. The second is
 the number of records in the dataset that have that exon name.
@@ -653,18 +653,18 @@ the **Pig Chr18 Exons** dataset.
 *Join* them using column **c1** and column **c4**, which are the exon
 names in both datasets.
 
-<a href="File:Galaxy_JoinOnExonName.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Galaxy_JoinOnExonName.png/900px-Galaxy_JoinOnExonName.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/66/Galaxy_JoinOnExonName.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/66/Galaxy_JoinOnExonName.png 2x"
-width="900" height="463" alt="Galaxy JoinOnExonName.png" /></a>
+width="900" height="463" alt="Galaxy JoinOnExonName.png" />
 
 This produces and 8 column dataset with the exon repeat counts in the
 first two columns and the exon information in the last 6 columns.
 
-<a href="File:Galaxy_JoinOnExonNameResults.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/Galaxy_JoinOnExonNameResults.png/900px-Galaxy_JoinOnExonNameResults.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Galaxy_JoinOnExonNameResults.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Galaxy_JoinOnExonNameResults.png 2x"
-width="900" height="249" alt="Galaxy JoinOnExonNameResults.png" /></a>
+width="900" height="249" alt="Galaxy JoinOnExonNameResults.png" />
 
   
 Now, use the **Cut** tool to reshuffle these 8 columns into a valid 6

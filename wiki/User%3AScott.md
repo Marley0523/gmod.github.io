@@ -46,9 +46,9 @@ href="http://mailhide.recaptcha.net/d?k=010I5vtKiZqC1kdmtqmWRRhg==&amp;c=6uiWfNo
 class="external text" rel="nofollow">sco...</a>@scottcain.net or Twitter
 @scottjcain.
 
-<a href="File:100_5955_1.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/100_5955_1.jpg" width="366" height="412"
-alt="100 5955 1.jpg" /></a>
+alt="100 5955 1.jpg" />
 
   
 

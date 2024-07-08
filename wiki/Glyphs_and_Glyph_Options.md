@@ -238,9 +238,9 @@ options are shared among all glyphs; others are glyph-specific.
 The simplest \[Track\] stanza will look like this:
 
 
-<a href="File:Glyph_simple_track.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Glyph_simple_track.png" class="thumbimage"
-width="590" height="99" /></a>
+width="590" height="99" />
 
 
 
@@ -262,9 +262,9 @@ standard **height**, **bgcolor**, and **fgcolor** options. You can also
 assign a longer key to the track using the **key** option. For example:
 
 
-<a href="File:Glyph_configured_track.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/Glyph_configured_track.png"
-class="thumbimage" width="590" height="117" /></a>
+class="thumbimage" width="590" height="117" />
 
 
 
@@ -303,9 +303,9 @@ in Figure 3.
 
 
 
-<a href="File:Figure3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Figure3.png" class="thumbimage"
-width="729" height="759" /></a>
+width="729" height="759" />
 
 
 
@@ -400,9 +400,9 @@ to deactivate, set it to false:
 ## <span id="Fonts" class="mw-headline">Fonts</span>
 
 
-<a href="File:Glyph_fonts.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Glyph_fonts.png" class="thumbimage"
-width="130" height="100" /></a>
+width="130" height="100" />
 
 
 
@@ -434,9 +434,9 @@ labeling, as shown in the example below:
 
 
 
-<a href="File:Glyph_giant_font_demo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Glyph_giant_font_demo.png"
-class="thumbimage" width="590" height="173" /></a>
+class="thumbimage" width="590" height="173" />
 
 
 
@@ -471,9 +471,9 @@ class="external text" rel="nofollow">webgbrowse.cgb.indiana.edu</a>.
 ## <span id="generic" class="mw-headline">generic</span>
 
 
-<a href="File:Glyph_generic_configured_track.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/17/Glyph_generic_configured_track.png"
-class="thumbimage" width="590" height="178" /></a>
+class="thumbimage" width="590" height="178" />
 
 
 
@@ -845,16 +845,16 @@ Bio::Graphics::Glyph::two_bolts
 ## <span id="vista_plot" class="mw-headline">vista_plot</span>
 
 
-<a href="File:Vista_plot.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/180px-Vista_plot.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/270px-Vista_plot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/Vista_plot.png/360px-Vista_plot.png 2x"
-width="180" height="46" /></a>
+width="180" height="46" />
 
 
-<a href="File:Vista_plot.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -888,16 +888,16 @@ Bio::Graphics::Glyph::wiggle_box
 ## <span id="wiggle_density" class="mw-headline">wiggle_density</span>
 
 
-<a href="File:Wiggle_density.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/500px-Wiggle_density.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/750px-Wiggle_density.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/90/Wiggle_density.jpg/1000px-Wiggle_density.jpg 2x"
-width="500" height="73" /></a>
+width="500" height="73" />
 
 
-<a href="File:Wiggle_density.jpg" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -926,16 +926,16 @@ visualize negative values.
 ## <span id="wiggle_xyplot" class="mw-headline">wiggle_xyplot</span>
 
 
-<a href="File:Wiggle_xyplot.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/500px-Wiggle_xyplot.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/750px-Wiggle_xyplot.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/56/Wiggle_xyplot.jpg/1000px-Wiggle_xyplot.jpg 2x"
-width="500" height="147" /></a>
+width="500" height="147" />
 
 
-<a href="File:Wiggle_xyplot.jpg" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

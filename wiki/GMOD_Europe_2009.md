@@ -27,9 +27,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:GMOD2009Europe300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2f/GMOD2009Europe300.png" width="300"
-height="256" alt="GMOD2009Europe300.png" /></a>
+height="256" alt="GMOD2009Europe300.png" />
 
 </td>
 <td><span style="font-size: 200%; line-height: 140%"><strong>GMOD Europe
@@ -135,16 +135,16 @@ rel="nofollow">Transport Direct</a>.
 ## <span id="Lodging" class="mw-headline">Lodging</span>
 
 
-<a href="File:KebleDining.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/80px-KebleDining.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/120px-KebleDining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/KebleDining.jpg/160px-KebleDining.jpg 2x"
-width="80" height="60" /></a>
+width="80" height="60" />
 
 
-<a href="File:KebleDining.jpg" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

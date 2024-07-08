@@ -60,9 +60,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Oconnor-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Oconnor-050516.ppt" /></a>
+  height="120" alt="Oconnor-050516.ppt" />
 
   
 
@@ -83,9 +83,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Turnkey_sept_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Turnkey sept 2003.ppt" /></a>
+  height="120" alt="Turnkey sept 2003.ppt" />
 
   
 

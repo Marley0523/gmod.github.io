@@ -212,9 +212,9 @@ gbrowse_metadb_config.pl**) and that should fix any errors.
 If everything has been set up properly, you will see a "Log in / create
 account" link on the top-right corner of the screen:
 
-<a href="File:User_db_enabled.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/User_db_enabled.png" width="504"
-height="296" alt="User db enabled.png" /></a>\[\[Category%3A\]\]
+height="296" alt="User db enabled.png" />\[\[Category%3A\]\]
 
 
 

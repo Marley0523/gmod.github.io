@@ -149,9 +149,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:AGA_NGS_2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AGA NGS 2009.pdf" /></a>
+  width="120" height="120" alt="AGA NGS 2009.pdf" />
 
   
 
@@ -172,9 +172,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Aug2009GBrowse2ImplPersp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" />
 
   
 
@@ -195,9 +195,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:GBrowse_nextgen_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse nextgen poster.pdf" /></a>
+  width="120" height="120" alt="GBrowse nextgen poster.pdf" />
 
   
 
@@ -219,9 +219,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:OCCBio_GBrowse_NGS.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" /></a>
+  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" />
 
   
 
@@ -243,9 +243,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Jan2010GBrowseCancerGenome.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010GBrowseCancerGenome.pdf" /></a>
+  width="120" height="120" alt="Jan2010GBrowseCancerGenome.pdf" />
 
   
 

@@ -85,9 +85,9 @@ use others.
 
 ## <span id="Display" class="mw-headline">Display</span>
 
-<a href="File:Custom_track.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Custom_track.png" width="1471" height="96"
-alt="Custom track.png" /></a> This is the custom track's display under
+alt="Custom track.png" /> This is the custom track's display under
 the advanced uploads system - the basic uploads system omits the
 "sharing" section on the right. The background colour is different for
 each type of file; standard uploads are blue, remote files are green,
@@ -121,9 +121,9 @@ additional tools or programs.
 
 ### <span id="Adding_Custom_Tracks" class="mw-headline">Adding Custom Tracks</span>
 
-<a href="File:Custom_tracks.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f6/Custom_tracks.png" width="453"
-height="252" alt="Custom tracks.png" /></a>
+height="252" alt="Custom tracks.png" />
 
 To upload a file, navigate to the "Custom Tracks" tab (or "Upload and
 Share Tracks" tab, in versions prior to GBrowse 2.20) and click on the
@@ -137,9 +137,9 @@ text box will drop down where you can make your changes, then click
 
 #### <span id="Uploaded_Tracks" class="mw-headline">Uploaded Tracks</span>
 
-<a href="File:Upload.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/28/Upload.png" width="378" height="70"
-alt="Upload.png" /></a>
+alt="Upload.png" />
 
 Click on "Choose File" to browse for the file you wish to upload. Click
 "Upload" to start the upload, or "Remove" to remove the upload box or
@@ -152,9 +152,9 @@ the old file will be overwritten.
 
 #### <span id="Remote_Tracks.2FURLs" class="mw-headline">Remote Tracks/URLs</span>
 
-<a href="File:Import.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ee/Import.png" width="373" height="53"
-alt="Import.png" /></a>
+alt="Import.png" />
 
 Paste your URL into the text box provided and click "Import" to start
 the upload. The file will be mirrored (copied) to a local version to
@@ -167,9 +167,9 @@ anyways).
 
 #### <span id="Created_Tracks" class="mw-headline">Created Tracks</span>
 
-<a href="File:Create.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Create.png" width="509" height="200"
-alt="Create.png" /></a>
+alt="Create.png" />
 
 To create a new custom track, just start typing information in the text
 box that drops down, using one of the supported file formats. Once you

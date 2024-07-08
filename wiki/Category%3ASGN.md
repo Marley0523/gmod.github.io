@@ -91,9 +91,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Mod-face-07jan-SGN.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" />
 
   
 
@@ -114,9 +114,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Sgn_small_tag.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Sgn_small_tag.png" width="120" height="29"
-  alt="Sgn small tag.png" /></a>
+  alt="Sgn small tag.png" />
 
   
 

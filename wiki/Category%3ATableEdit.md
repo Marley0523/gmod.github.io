@@ -78,9 +78,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Jan2009TableEdit.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009TableEdit.pdf" /></a>
+  width="120" height="120" alt="Jan2009TableEdit.pdf" />
 
   
 
@@ -101,9 +101,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Jan2010TableEdit.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010TableEdit.pdf" /></a>
+  width="120" height="120" alt="Jan2010TableEdit.pdf" />
 
   
 
@@ -124,9 +124,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:SteinWareRetreat.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="SteinWareRetreat.ppt" /></a>
+  height="120" alt="SteinWareRetreat.ppt" />
 
   
 

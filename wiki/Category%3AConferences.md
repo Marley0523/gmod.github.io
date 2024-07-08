@@ -97,9 +97,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GMODatISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODatISMB2010.pdf" /></a>
+  width="120" height="120" alt="GMODatISMB2010.pdf" />
 
   
 
@@ -120,9 +120,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:AGS2011Brochure.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AGS2011Brochure.pdf" /></a>
+  width="120" height="120" alt="AGS2011Brochure.pdf" />
 
   
 
@@ -143,9 +143,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Biocuration2010Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ee/Biocuration2010Logo.png/120px-Biocuration2010Logo.png"
-  width="120" height="31" alt="Biocuration2010Logo.png" /></a>
+  width="120" height="31" alt="Biocuration2010Logo.png" />
 
   
 
@@ -166,9 +166,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GCC2011Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
-  width="120" height="62" alt="GCC2011Logo.png" /></a>
+  width="120" height="62" alt="GCC2011Logo.png" />
 
   
 
@@ -189,9 +189,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GCC2011LogoShort.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
-  width="120" height="52" alt="GCC2011LogoShort.png" /></a>
+  width="120" height="52" alt="GCC2011LogoShort.png" />
 
   
 
@@ -212,9 +212,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GMODatAGS2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODatAGS2008.pdf" /></a>
+  width="120" height="120" alt="GMODatAGS2008.pdf" />
 
   
 
@@ -235,9 +235,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GMODatISMB2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODatISMB2008.pdf" /></a>
+  width="120" height="120" alt="GMODatISMB2008.pdf" />
 
   
 
@@ -258,9 +258,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:GMODatPAG2011.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODatPAG2011.pdf" /></a>
+  width="120" height="120" alt="GMODatPAG2011.pdf" />
 
   
 
@@ -281,9 +281,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:JBrowse_PAG_2017.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="JBrowse PAG 2017.pdf" /></a>
+  width="120" height="120" alt="JBrowse PAG 2017.pdf" />
 
   
 
@@ -305,9 +305,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:JBrowse_PAG_2018.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="JBrowse PAG 2018.pdf" /></a>
+  width="120" height="120" alt="JBrowse PAG 2018.pdf" />
 
   
 

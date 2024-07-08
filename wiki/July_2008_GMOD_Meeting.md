@@ -28,9 +28,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:July2008LogoSmaller.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/July2008LogoSmaller.png" width="200"
-height="180" alt="July2008LogoSmaller.png" /></a>
+height="180" alt="July2008LogoSmaller.png" />
 
 </td>
 <td data-valign="center"><strong>GMOD Community Meeting</strong><br />
@@ -225,9 +225,9 @@ title="Common gene page.ppt">PPT</a> |
 # <span id="Attendees" class="mw-headline">Attendees</span>
 
 
-<a href="File:GMOD2008Attendees.JPG" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/GMOD2008Attendees.JPG" width="400"
-height="148" alt="GMOD2008Attendees.JPG" /></a>
+height="148" alt="GMOD2008Attendees.JPG" />
 
 
 1.  David Arcoleo -
@@ -312,9 +312,9 @@ height="148" alt="GMOD2008Attendees.JPG" /></a>
     Hospital for Sick Children, Toronto</a>
 
 
-<a href="File:GMOD2008Discussion.JPG" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GMOD2008Discussion.JPG" width="245"
-height="148" alt="GMOD2008Discussion.JPG" /></a>
+height="148" alt="GMOD2008Discussion.JPG" />
 
 
 # <span id="GMOD_Components" class="mw-headline">GMOD Components</span>
@@ -744,9 +744,9 @@ using Chado. It also would make tool development much easier.
 
 
 
-<a href="File:GMOD2008Lukas.JPG" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2008Lukas.JPG" width="120"
-height="148" alt="GMOD2008Lukas.JPG" /></a>
+height="148" alt="GMOD2008Lukas.JPG" />
 
 
 

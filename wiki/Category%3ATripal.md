@@ -117,9 +117,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Cugi_logo6.5.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/Cugi_logo6.5.jpg/120px-Cugi_logo6.5.jpg.png"
-  width="120" height="68" alt="Cugi logo6.5.jpg" /></a>
+  width="120" height="68" alt="Cugi logo6.5.jpg" />
 
   
 
@@ -140,9 +140,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:CUGILogoHomePage.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/CUGILogoHomePage.png" width="120"
-  height="68" alt="CUGILogoHomePage.png" /></a>
+  height="68" alt="CUGILogoHomePage.png" />
 
   
 
@@ -163,9 +163,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:PAG2010GDRinDrupal.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010GDRinDrupal.pdf" /></a>
+  width="120" height="120" alt="PAG2010GDRinDrupal.pdf" />
 
   
 
@@ -186,9 +186,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:TripalLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
-  width="120" height="36" alt="TripalLogo.jpg" /></a>
+  width="120" height="36" alt="TripalLogo.jpg" />
 
   
 
@@ -209,9 +209,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:TripalLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/120px-TripalLogo.png"
-  width="120" height="36" alt="TripalLogo.png" /></a>
+  width="120" height="36" alt="TripalLogo.png" />
 
   
 
@@ -232,9 +232,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:TripalUsersGuideJan2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="TripalUsersGuideJan2010.pdf" /></a>
+  width="120" height="120" alt="TripalUsersGuideJan2010.pdf" />
 
   
 
@@ -255,9 +255,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:TripalUsersGuideJune2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="TripalUsersGuideJune2009.pdf" /></a>
+  width="120" height="120" alt="TripalUsersGuideJune2009.pdf" />
 
   
 
@@ -278,9 +278,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
+  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" />
 
   
 

@@ -45,9 +45,9 @@ and protocols will be used/supported wherever possible.
 
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
-<a href="File:Pubfetch_overview.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/Pubfetch_overview.jpg" width="496"
-height="370" alt="Pubfetch overview.jpg" /></a>
+height="370" alt="Pubfetch overview.jpg" />
 
   
 **Figure 1 - Overview diagram of PubFetch showing how the PubFetch
@@ -64,9 +64,9 @@ below is a schematic diagram of the exising RGD literature download
 modules.
 
   
-<a href="File:Existing_PubMed_flow.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/Existing_PubMed_flow.jpg" width="400"
-height="197" alt="Existing PubMed flow.jpg" /></a>
+height="197" alt="Existing PubMed flow.jpg" />
 
   
 **Figure 2- Current RGD literature download process showing perl modules

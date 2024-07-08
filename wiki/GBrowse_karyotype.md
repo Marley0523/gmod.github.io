@@ -17,9 +17,9 @@
 
 
 
-<a href="File:Gbrowse_karyotype_labels.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Gbrowse_karyotype_labels.png" width="537"
-height="200" alt="Gbrowse karyotype labels.png" /></a>
+height="200" alt="Gbrowse karyotype labels.png" />
 
 <a href="http://mckay.cshl.edu/cgi-bin/gbrowse_karyotype"
 class="external text" rel="nofollow">GBrowse Karyotype documentation and

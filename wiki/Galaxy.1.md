@@ -18,10 +18,10 @@
 
 
 
-<a href="File:GalaxyLogoBigger.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
-width="400" height="142" alt="Galaxy logo" /></a>
+width="400" height="142" alt="Galaxy logo" />
 
 
 
@@ -165,12 +165,11 @@ application</a> and customizing it to meet particular needs.</p>
 <p><br />
 </p>
 
-<a href="File:GCC2019Logo.png" class="image"
-title="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/250px-GCC2019Logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png 2x"
 width="250" height="115"
-alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" /></a>
+alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Conference" />
 
 <h3 id="galaxy-community-conferenceedit"><span
 id="2019_Galaxy_Community_Conference" class="mw-headline">2019 Galaxy

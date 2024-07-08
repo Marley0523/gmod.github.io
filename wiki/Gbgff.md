@@ -20,14 +20,14 @@
 
 
 
-<a href="File:Gbgff3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/Gbgff3.png" class="thumbimage" width="885"
-height="140" /></a>
+height="140" />
 
 
-<a href="File:Gbgff3.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -102,15 +102,15 @@ The URL format follows the same pattern as GBrowse:
 - To use as a remote uploaded URL, enter a URL with the same structure
   as above into the "remote URL" box on the GBrowse display
 
-<a href="File:Gff_remote_url.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/Gff_remote_url.png" width="1148"
-height="103" alt="Gff remote url.png" /></a>
+height="103" alt="Gff remote url.png" />
 
 - which will yield a new track:
 
-<a href="File:Gff_remote_track" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Gff_remote_track" width="781" height="139"
-alt="Gff remote track" /></a>
+alt="Gff remote track" />
 
 
 

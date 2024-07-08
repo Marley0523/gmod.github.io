@@ -77,9 +77,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:2011_10_Galaxy.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="2011 10 Galaxy.pdf" /></a>
+  width="120" height="120" alt="2011 10 Galaxy.pdf" />
 
   
 
@@ -101,9 +101,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:April2012_CommunityBuilding.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="April2012 CommunityBuilding.pdf" /></a>
+  width="120" height="120" alt="April2012 CommunityBuilding.pdf" />
 
   
 
@@ -125,10 +125,10 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:April2012GalaxyCloudManWorkshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="April2012GalaxyCloudManWorkshop.pdf" /></a>
+  alt="April2012GalaxyCloudManWorkshop.pdf" />
 
   
 
@@ -149,9 +149,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:April2012GalaxyUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="April2012GalaxyUpdate.pdf" /></a>
+  width="120" height="120" alt="April2012GalaxyUpdate.pdf" />
 
   
 
@@ -172,9 +172,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:BioPivot_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BioPivot Sept2010.pdf" /></a>
+  width="120" height="120" alt="BioPivot Sept2010.pdf" />
 
   
 
@@ -196,9 +196,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:CosmicGBrowseSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CosmicGBrowseSept2010.pdf" /></a>
+  width="120" height="120" alt="CosmicGBrowseSept2010.pdf" />
 
   
 
@@ -219,9 +219,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:CRAWL_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CRAWL Sept2010.pdf" /></a>
+  width="120" height="120" alt="CRAWL Sept2010.pdf" />
 
   
 
@@ -243,9 +243,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:DAS_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DAS Sept2010.pdf" /></a>
+  width="120" height="120" alt="DAS Sept2010.pdf" />
 
   
 
@@ -266,9 +266,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Dave_Clements_2014.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Dave Clements 2014.pdf" /></a>
+  width="120" height="120" alt="Dave Clements 2014.pdf" />
 
   
 
@@ -290,9 +290,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:DeployingGalaxyCloudBOSC2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DeployingGalaxyCloudBOSC2010.pdf" /></a>
+  width="120" height="120" alt="DeployingGalaxyCloudBOSC2010.pdf" />
 
   
 
@@ -313,9 +313,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GalaxyWorkshop0_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop0 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop0 2011 10.pdf" />
 
   
 
@@ -337,9 +337,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GalaxyWorkshop1_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop1 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop1 2011 10.pdf" />
 
   
 
@@ -361,9 +361,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GalaxyWorkshop2_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop2 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop2 2011 10.pdf" />
 
   
 
@@ -385,9 +385,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GalaxyWorkshop3_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop3 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop3 2011 10.pdf" />
 
   
 
@@ -409,9 +409,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMOD2013_CommunityBuilding.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD2013 CommunityBuilding.pdf" /></a>
+  width="120" height="120" alt="GMOD2013 CommunityBuilding.pdf" />
 
   
 
@@ -433,9 +433,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMOD2013_GalaxyUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD2013 GalaxyUpdate.pdf" /></a>
+  width="120" height="120" alt="GMOD2013 GalaxyUpdate.pdf" />
 
   
 
@@ -457,9 +457,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMODForIEvoBio2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODForIEvoBio2010.pdf" /></a>
+  width="120" height="120" alt="GMODForIEvoBio2010.pdf" />
 
   
 
@@ -480,9 +480,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GO_Curation_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GO Curation Sept2010.pdf" /></a>
+  width="120" height="120" alt="GO Curation Sept2010.pdf" />
 
   
 
@@ -504,9 +504,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:04-Stajich_NESCENT_GMOD.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" /></a>
+  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" />
 
   
 
@@ -528,11 +528,10 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:2005-10_ISMB_Ontology-Building_various.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2005-10 ISMB Ontology-Building various.pdf" /></a>
+  alt="2005-10 ISMB Ontology-Building various.pdf" />
 
   
 
@@ -554,9 +553,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:2007_11_05_CMap_GMOD.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="2007 11 05 CMap GMOD.ppt" /></a>
+  height="120" alt="2007 11 05 CMap GMOD.ppt" />
 
   
 
@@ -578,9 +577,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:2009SumSchMAKER.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="2009SumSchMAKER.pdf" /></a>
+  width="120" height="120" alt="2009SumSchMAKER.pdf" />
 
   
 
@@ -601,9 +600,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:AGA_NGS_2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AGA NGS 2009.pdf" /></a>
+  width="120" height="120" alt="AGA NGS 2009.pdf" />
 
   
 
@@ -624,9 +623,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Apollo.GMOD.May2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.GMOD.May2003.ppt" /></a>
+  height="120" alt="Apollo.GMOD.May2003.ppt" />
 
   
 
@@ -647,9 +646,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Apollo.GMOD.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.GMOD.ppt" /></a>
+  height="120" alt="Apollo.GMOD.ppt" />
 
   
 
@@ -670,9 +669,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Apollo.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Apollo.ppt" /></a>
+  height="120" alt="Apollo.ppt" />
 
   
 
@@ -693,9 +692,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009DASUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009DASUpdate.pdf" /></a>
+  width="120" height="120" alt="Aug2009DASUpdate.pdf" />
 
   
 
@@ -716,9 +715,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009GBrowse_syn.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse syn.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse syn.pdf" />
 
   
 
@@ -740,9 +739,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009GBrowse2ImplPersp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" />
 
   
 
@@ -763,9 +762,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009GBrowseOrg.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" />
 
   
 
@@ -786,9 +785,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009JBrowse.pdf" /></a>
+  width="120" height="120" alt="Aug2009JBrowse.pdf" />
 
   
 
@@ -809,9 +808,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Aug2009Sam.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009Sam.pdf" /></a>
+  width="120" height="120" alt="Aug2009Sam.pdf" />
 
   
 
@@ -832,9 +831,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:BenFaga_GMOD_June_2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="BenFaga GMOD June 2006.ppt" /></a>
+  height="120" alt="BenFaga GMOD June 2006.ppt" />
 
   
 
@@ -856,9 +855,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Biocyc-GMOD-2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Biocyc-GMOD-2006.ppt" /></a>
+  height="120" alt="Biocyc-GMOD-2006.ppt" />
 
   
 
@@ -879,9 +878,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Cain-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cain-050516.ppt" /></a>
+  height="120" alt="Cain-050516.ppt" />
 
   
 
@@ -902,9 +901,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:CMap_Overview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMap Overview.pdf" /></a>
+  width="120" height="120" alt="CMap Overview.pdf" />
 
   
 
@@ -925,9 +924,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Cmap_update_sept_03.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cmap update sept 03.ppt" /></a>
+  height="120" alt="Cmap update sept 03.ppt" />
 
   
 
@@ -949,9 +948,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Cmap-050516.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cmap-050516.pdf" /></a>
+  width="120" height="120" alt="Cmap-050516.pdf" />
 
   
 
@@ -972,9 +971,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:CMapGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" />
 
   
 
@@ -995,9 +994,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Common_gene_page.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Common gene page.ppt" /></a>
+  height="120" alt="Common gene page.ppt" />
 
   
 
@@ -1019,9 +1018,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:CommunityAnnotationNov2007.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" /></a>
+  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" />
 
   
 
@@ -1042,9 +1041,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Crosby_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Crosby 040526.ppt" /></a>
+  height="120" alt="Crosby 040526.ppt" />
 
   
 
@@ -1065,9 +1064,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Das.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Das.ppt" /></a>
+  height="120" alt="Das.ppt" />
 
   
 
@@ -1088,9 +1087,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Day-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Day-050517.ppt" /></a>
+  height="120" alt="Day-050517.ppt" />
 
   
 
@@ -1111,9 +1110,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:DictyBase-phenotypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
+  width="120" height="120" alt="DictyBase-phenotypes.pdf" />
 
   
 
@@ -1134,9 +1133,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Emmert_040526.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Emmert 040526.pdf" /></a>
+  width="120" height="120" alt="Emmert 040526.pdf" />
 
   
 
@@ -1157,9 +1156,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Flybase_topoview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Flybase topoview.pdf" /></a>
+  width="120" height="120" alt="Flybase topoview.pdf" />
 
   
 
@@ -1181,9 +1180,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Flybase-ng-may03.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Flybase-ng-may03.pdf" /></a>
+  width="120" height="120" alt="Flybase-ng-may03.pdf" />
 
   
 
@@ -1204,9 +1203,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gbrowse_syn.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gbrowse syn.pdf" /></a>
+  width="120" height="120" alt="Gbrowse syn.pdf" />
 
   
 
@@ -1227,9 +1226,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GBrowse_synSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse synSMBE2009.pdf" /></a>
+  width="120" height="120" alt="GBrowse synSMBE2009.pdf" />
 
   
 
@@ -1251,9 +1250,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gbrowse_update_may_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse update may 2003.ppt" /></a>
+  height="120" alt="Gbrowse update may 2003.ppt" />
 
   
 
@@ -1275,9 +1274,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gbrowse_update_sept_12_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse update sept 12 2003.ppt" /></a>
+  height="120" alt="Gbrowse update sept 12 2003.ppt" />
 
   
 
@@ -1299,9 +1298,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gbrowse-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse-050516.ppt" /></a>
+  height="120" alt="Gbrowse-050516.ppt" />
 
   
 
@@ -1322,9 +1321,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GBrowse3GMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse3GMOD2008.pdf" /></a>
+  width="120" height="120" alt="GBrowse3GMOD2008.pdf" />
 
   
 
@@ -1345,9 +1344,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GBS_PAG10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBS PAG10.pdf" /></a>
+  width="120" height="120" alt="GBS PAG10.pdf" />
 
   
 
@@ -1368,9 +1367,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GDPDM_GMOD_presentation20060630.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GDPDM GMOD presentation20060630.ppt" /></a>
+  height="120" alt="GDPDM GMOD presentation20060630.ppt" />
 
   
 
@@ -1392,9 +1391,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gelbart_040528.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gelbart 040528.ppt" /></a>
+  height="120" alt="Gelbart 040528.ppt" />
 
   
 
@@ -1416,9 +1415,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GeneExpressionIWhenWhere.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GeneExpressionIWhenWhere.ppt" /></a>
+  height="120" alt="GeneExpressionIWhenWhere.ppt" />
 
   
 
@@ -1439,9 +1438,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gilbert_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gilbert 040526.ppt" /></a>
+  height="120" alt="Gilbert 040526.ppt" />
 
   
 
@@ -1463,9 +1462,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMOD_Web_Update.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD Web Update.ppt" /></a>
+  height="120" alt="GMOD Web Update.ppt" />
 
   
 
@@ -1487,9 +1486,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gmod-argos-sep03.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gmod-argos-sep03.pdf" /></a>
+  width="120" height="120" alt="Gmod-argos-sep03.pdf" />
 
   
 
@@ -1510,9 +1509,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Gmod-datagrid.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gmod-datagrid.ppt" /></a>
+  height="120" alt="Gmod-datagrid.ppt" />
 
   
 
@@ -1533,9 +1532,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMOD-Nov-2007.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD-Nov-2007.ppt" /></a>
+  height="120" alt="GMOD-Nov-2007.ppt" />
 
   
 
@@ -1556,9 +1555,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMODCourse2010-JBrowseIntro.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODCourse2010-JBrowseIntro.pdf" /></a>
+  width="120" height="120" alt="GMODCourse2010-JBrowseIntro.pdf" />
 
   
 
@@ -1579,9 +1578,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:GMODGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" />
 
   
 
@@ -1602,9 +1601,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Harris_040527.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Harris 040527.ppt" /></a>
+  height="120" alt="Harris 040527.ppt" />
 
   
 
@@ -1625,9 +1624,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:IMDB.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="IMDB.ppt" /></a>
+  height="120" alt="IMDB.ppt" />
 
   
 
@@ -1648,9 +1647,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:InterMine_middleware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="InterMine middleware.pdf" /></a>
+  width="120" height="120" alt="InterMine middleware.pdf" />
 
   
 
@@ -1672,9 +1671,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:IntermineGMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="IntermineGMOD2008.pdf" /></a>
+  width="120" height="120" alt="IntermineGMOD2008.pdf" />
 
   
 
@@ -1695,9 +1694,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009ArtemisChadoGeneDB.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009ArtemisChadoGeneDB.pdf" /></a>
+  width="120" height="120" alt="Jan2009ArtemisChadoGeneDB.pdf" />
 
   
 
@@ -1718,9 +1717,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009BeeSpace.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Jan2009BeeSpace.ppt" /></a>
+  height="120" alt="Jan2009BeeSpace.ppt" />
 
   
 
@@ -1741,9 +1740,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009BioMart.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009BioMart.pdf" /></a>
+  width="120" height="120" alt="Jan2009BioMart.pdf" />
 
   
 
@@ -1764,9 +1763,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009BovineGenomeDatabase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009BovineGenomeDatabase.pdf" /></a>
+  width="120" height="120" alt="Jan2009BovineGenomeDatabase.pdf" />
 
   
 
@@ -1787,9 +1786,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009GenreicGenePage.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009GenreicGenePage.pdf" /></a>
+  width="120" height="120" alt="Jan2009GenreicGenePage.pdf" />
 
   
 
@@ -1810,9 +1809,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009JBrowse.pdf" /></a>
+  width="120" height="120" alt="Jan2009JBrowse.pdf" />
 
   
 
@@ -1833,9 +1832,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009MarineGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009MarineGenomics.pdf" /></a>
+  width="120" height="120" alt="Jan2009MarineGenomics.pdf" />
 
   
 
@@ -1856,9 +1855,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009modENCODE.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009modENCODE.pdf" /></a>
+  width="120" height="120" alt="Jan2009modENCODE.pdf" />
 
   
 
@@ -1879,9 +1878,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009TableEdit.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009TableEdit.pdf" /></a>
+  width="120" height="120" alt="Jan2009TableEdit.pdf" />
 
   
 
@@ -1902,9 +1901,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2009WebBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009WebBrowse.pdf" /></a>
+  width="120" height="120" alt="Jan2009WebBrowse.pdf" />
 
   
 
@@ -1925,9 +1924,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010InterMine.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010InterMine.pdf" /></a>
+  width="120" height="120" alt="Jan2010InterMine.pdf" />
 
   
 
@@ -1948,9 +1947,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010PhaseolusGenes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010PhaseolusGenes.pdf" /></a>
+  width="120" height="120" alt="Jan2010PhaseolusGenes.pdf" />
 
   
 
@@ -1971,9 +1970,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010RediscoveryDB.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010RediscoveryDB.pdf" /></a>
+  width="120" height="120" alt="Jan2010RediscoveryDB.pdf" />
 
   
 
@@ -1994,9 +1993,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010TableEdit.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010TableEdit.pdf" /></a>
+  width="120" height="120" alt="Jan2010TableEdit.pdf" />
 
   
 
@@ -2017,9 +2016,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010UIPrototypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010UIPrototypes.pdf" /></a>
+  width="120" height="120" alt="Jan2010UIPrototypes.pdf" />
 
   
 
@@ -2040,9 +2039,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Kasprzyk_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kasprzyk 040526.ppt" /></a>
+  height="120" alt="Kasprzyk 040526.ppt" />
 
   
 
@@ -2064,9 +2063,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Kasprzyk-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kasprzyk-050516.ppt" /></a>
+  height="120" alt="Kasprzyk-050516.ppt" />
 
   
 
@@ -2087,9 +2086,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Kenny_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kenny 040526.ppt" /></a>
+  height="120" alt="Kenny 040526.ppt" />
 
   
 
@@ -2110,9 +2109,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Kodira_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kodira 040526.ppt" /></a>
+  height="120" alt="Kodira 040526.ppt" />
 
   
 
@@ -2133,9 +2132,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Lapp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Lapp.pdf" /></a>
+  width="120" height="120" alt="Lapp.pdf" />
 
   
 
@@ -2156,9 +2155,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:MAKERSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MAKERSMBE2009.pdf" /></a>
+  width="120" height="120" alt="MAKERSMBE2009.pdf" />
 
   
 
@@ -2179,9 +2178,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Matthews_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Matthews 040526.ppt" /></a>
+  height="120" alt="Matthews 040526.ppt" />
 
   
 
@@ -2203,9 +2202,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Mgi.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Mgi.ppt" /></a>
+  height="120" alt="Mgi.ppt" />
 
   
 
@@ -2226,9 +2225,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:NGSWithGMODWorkshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="NGSWithGMODWorkshop.pdf" /></a>
+  width="120" height="120" alt="NGSWithGMODWorkshop.pdf" />
 
   
 
@@ -2249,9 +2248,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:OCCBio_GBrowse_NGS.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" /></a>
+  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" />
 
   
 
@@ -2273,9 +2272,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Oconnor-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Oconnor-050516.ppt" /></a>
+  height="120" alt="Oconnor-050516.ppt" />
 
   
 
@@ -2296,9 +2295,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG_2011_GNPAnnot.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG 2011 GNPAnnot.pdf" /></a>
+  width="120" height="120" alt="PAG 2011 GNPAnnot.pdf" />
 
   
 
@@ -2320,9 +2319,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2010CMap3D.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010CMap3D.pdf" /></a>
+  width="120" height="120" alt="PAG2010CMap3D.pdf" />
 
   
 
@@ -2343,9 +2342,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2010JBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010JBrowse.pdf" /></a>
+  width="120" height="120" alt="PAG2010JBrowse.pdf" />
 
   
 
@@ -2366,9 +2365,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2010MAKER.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010MAKER.pdf" /></a>
+  width="120" height="120" alt="PAG2010MAKER.pdf" />
 
   
 
@@ -2389,9 +2388,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2010Tripal.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010Tripal.pdf" /></a>
+  width="120" height="120" alt="PAG2010Tripal.pdf" />
 
   
 
@@ -2412,9 +2411,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2011_URGI_Grapevine.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2011 URGI Grapevine.pdf" /></a>
+  width="120" height="120" alt="PAG2011 URGI Grapevine.pdf" />
 
   
 
@@ -2436,9 +2435,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Pathways.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Pathways.ppt" /></a>
+  height="120" alt="Pathways.ppt" />
 
   
 
@@ -2459,9 +2458,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PubFetch_Vijay.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubFetch Vijay.ppt" /></a>
+  height="120" alt="PubFetch Vijay.ppt" />
 
   
 
@@ -2483,9 +2482,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PubSearch_09062003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubSearch 09062003.ppt" /></a>
+  height="120" alt="PubSearch 09062003.ppt" />
 
   
 
@@ -2507,9 +2506,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PubSearch_update_CSHL.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubSearch update CSHL.ppt" /></a>
+  height="120" alt="PubSearch update CSHL.ppt" />
 
   
 
@@ -2531,9 +2530,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Sabo_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Sabo 040526.ppt" /></a>
+  height="120" alt="Sabo 040526.ppt" />
 
   
 
@@ -2554,9 +2553,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Schlueter_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Schlueter 040526.ppt" /></a>
+  height="120" alt="Schlueter 040526.ppt" />
 
   
 
@@ -2578,9 +2577,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Sgd-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Sgd-050516.ppt" /></a>
+  height="120" alt="Sgd-050516.ppt" />
 
   
 
@@ -2601,9 +2600,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:SGD-gmod.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="SGD-gmod.ppt" /></a>
+  height="120" alt="SGD-gmod.ppt" />
 
   
 
@@ -2624,9 +2623,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Smutniak-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Smutniak-050516.ppt" /></a>
+  height="120" alt="Smutniak-050516.ppt" />
 
   
 
@@ -2647,9 +2646,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Stajich_GMOD_2006-06-30.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" /></a>
+  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" />
 
   
 
@@ -2671,9 +2670,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:SteinWareRetreat.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="SteinWareRetreat.ppt" /></a>
+  height="120" alt="SteinWareRetreat.ppt" />
 
   
 
@@ -2694,9 +2693,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:SyntenyModeling.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="SyntenyModeling.pdf" /></a>
+  width="120" height="120" alt="SyntenyModeling.pdf" />
 
   
 
@@ -2717,9 +2716,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Terry_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Terry 040526.ppt" /></a>
+  height="120" alt="Terry 040526.ppt" />
 
   
 
@@ -2740,9 +2739,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Textpresso_GMOD_0903.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Textpresso GMOD 0903.ppt" /></a>
+  height="120" alt="Textpresso GMOD 0903.ppt" />
 
   
 
@@ -2764,9 +2763,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Turnkey_sept_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Turnkey sept 2003.ppt" /></a>
+  height="120" alt="Turnkey sept 2003.ppt" />
 
   
 
@@ -2788,9 +2787,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Vision.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Vision.pdf" /></a>
+  width="120" height="120" alt="Vision.pdf" />
 
   
 
@@ -2811,9 +2810,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Workshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Workshop.pdf" /></a>
+  width="120" height="120" alt="Workshop.pdf" />
 
   
 
@@ -2834,9 +2833,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Worley_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Worley 040526.ppt" /></a>
+  height="120" alt="Worley 040526.ppt" />
 
   
 
@@ -2857,9 +2856,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:ISGAWebGBrowseSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" /></a>
+  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" />
 
   
 
@@ -2880,10 +2879,10 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:ISyIPGMODforComparativeGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISyIPGMODforComparativeGenomics.pdf" /></a>
+  alt="ISyIPGMODforComparativeGenomics.pdf" />
 
   
 
@@ -2904,9 +2903,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010ErgatisForBiologists.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" /></a>
+  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" />
 
   
 
@@ -2927,9 +2926,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010GBrowseCancerGenome.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010GBrowseCancerGenome.pdf" /></a>
+  width="120" height="120" alt="Jan2010GBrowseCancerGenome.pdf" />
 
   
 
@@ -2950,9 +2949,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Jan2010Testpresso.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010Testpresso.pdf" /></a>
+  width="120" height="120" alt="Jan2010Testpresso.pdf" />
 
   
 
@@ -2973,9 +2972,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Literature_Curation_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Literature Curation Sept2010.pdf" /></a>
+  width="120" height="120" alt="Literature Curation Sept2010.pdf" />
 
   
 
@@ -2997,9 +2996,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:MalaysiaGalaxyTutorialSlides.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MalaysiaGalaxyTutorialSlides.pdf" /></a>
+  width="120" height="120" alt="MalaysiaGalaxyTutorialSlides.pdf" />
 
   
 
@@ -3020,9 +3019,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:March2011Modware.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="March2011Modware.ppt" /></a>
+  height="120" alt="March2011Modware.ppt" />
 
   
 
@@ -3043,9 +3042,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:MohellibiGrapevine_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" /></a>
+  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" />
 
   
 
@@ -3067,9 +3066,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:NGSTranscriptomeISGAErgatis.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" /></a>
+  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" />
 
   
 
@@ -3090,9 +3089,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:Pag_2011_galaxy_talk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Pag 2011 galaxy talk.pdf" /></a>
+  width="120" height="120" alt="Pag 2011 galaxy talk.pdf" />
 
   
 
@@ -3114,9 +3113,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2012GalaxyIntroTalk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2012GalaxyIntroTalk.pdf" /></a>
+  width="120" height="120" alt="PAG2012GalaxyIntroTalk.pdf" />
 
   
 
@@ -3137,9 +3136,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2012GMODInTheCloud.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2012GMODInTheCloud.pdf" /></a>
+  width="120" height="120" alt="PAG2012GMODInTheCloud.pdf" />
 
   
 
@@ -3160,9 +3159,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2012MAPHiTSTalk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2012MAPHiTSTalk.pdf" /></a>
+  width="120" height="120" alt="PAG2012MAPHiTSTalk.pdf" />
 
   
 
@@ -3183,9 +3182,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PAG2014_GalaxyCloudMan.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2014 GalaxyCloudMan.pdf" /></a>
+  width="120" height="120" alt="PAG2014 GalaxyCloudMan.pdf" />
 
   
 
@@ -3207,9 +3206,9 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  <a href="File:PathwayToolsTalkISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PathwayToolsTalkISMB2010.pdf" /></a>
+  width="120" height="120" alt="PathwayToolsTalkISMB2010.pdf" />
 
   
 

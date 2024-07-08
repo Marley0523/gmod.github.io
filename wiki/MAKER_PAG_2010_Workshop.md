@@ -79,15 +79,14 @@ online](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf").
 ## <span id="Overview" class="mw-headline">Overview</span>
 
 
-<a href="File:MAKER_Apollo_view.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/MAKER_Apollo_view.jpg" class="thumbimage"
-width="500" height="301" /></a>
+width="500" height="301" />
 
 
-<a href="File:MAKER_Apollo_view.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 

@@ -128,10 +128,9 @@ rel="nofollow">FlyMine Project</a>
 
 ##### <span id="Resulting_webapp_object_page" class="mw-headline">Resulting webapp object page</span>
 
-<a href="File:Xfile_gene.png" class="image"
-title="xfile Gene details page"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Xfile_gene.png" width="793" height="595"
-alt="xfile Gene details page" /></a>
+alt="xfile Gene details page" />
 
 #### <span id="Code_for_Problem_2:_Print_gene_annotation_report" class="mw-headline">Code for Problem 2: Print gene annotation report</span>
 

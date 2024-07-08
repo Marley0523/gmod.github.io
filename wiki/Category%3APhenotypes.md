@@ -56,9 +56,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:02-chado-for-nescent-2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" /></a>
+  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" />
 
   
 
@@ -79,9 +79,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:DictyBase-phenotypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
+  width="120" height="120" alt="DictyBase-phenotypes.pdf" />
 
   
 
@@ -102,9 +102,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:GDPDM_GMOD_presentation20060630.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GDPDM GMOD presentation20060630.ppt" /></a>
+  height="120" alt="GDPDM GMOD presentation20060630.ppt" />
 
   
 
@@ -126,9 +126,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Lapp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Lapp.pdf" /></a>
+  width="120" height="120" alt="Lapp.pdf" />
 
   
 
@@ -149,9 +149,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Mod-face-07jan-SGN.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" />
 
   
 

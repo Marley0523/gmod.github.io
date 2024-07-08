@@ -51,9 +51,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:GMOD_Web_Update.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD Web Update.ppt" /></a>
+  height="120" alt="GMOD Web Update.ppt" />
 
   
 

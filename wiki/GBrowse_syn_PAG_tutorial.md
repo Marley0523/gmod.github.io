@@ -151,16 +151,16 @@ available.
 
 
 
-<a href="File:GBrowse_syn.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/400px-GBrowse_syn.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/600px-GBrowse_syn.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/GBrowse_syn.png/800px-GBrowse_syn.png 2x"
-width="400" height="128" /></a>
+width="400" height="128" />
 
 
-<a href="File:GBrowse_syn.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -693,9 +693,9 @@ This should complete the installation. Time to test it out...
 Note you will use 'localhost' if you are running your browser within the
 [VMware](#VMware) player.
 
-<a href="File:Rice_in_gbrowse.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Rice_in_gbrowse.png" class="thumbborder"
-width="940" height="465" alt="Rice in gbrowse.png" /></a>
+width="940" height="465" alt="Rice in gbrowse.png" />
 
 ## <span id="Viewing_the_data_in_GBrowse_syn" class="mw-headline">Viewing the data in GBrowse_syn</span>
 
@@ -706,9 +706,9 @@ width="940" height="465" alt="Rice in gbrowse.png" /></a>
     http://localhost/cgi-bin/gbrowse_syn/oryza
 
   
-<a href="File:Ihopethisworks2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/Ihopethisworks2.png" class="thumbborder"
-width="1280" height="800" alt="Ihopethisworks2.png" /></a>
+width="1280" height="800" alt="Ihopethisworks2.png" />
 
 # <span id="Optional_Advanced_Section" class="mw-headline">Optional Advanced Section</span>
 

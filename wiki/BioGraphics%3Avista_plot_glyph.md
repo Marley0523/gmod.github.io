@@ -18,9 +18,9 @@
 
 
 
-<a href="File:Vista_plot.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Vista_plot.png" class="thumbimage"
-width="980" height="248" /></a>
+width="980" height="248" />
 
 
 

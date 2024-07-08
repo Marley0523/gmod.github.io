@@ -119,9 +119,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:2009SumSchMAKER.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="2009SumSchMAKER.pdf" /></a>
+  width="120" height="120" alt="2009SumSchMAKER.pdf" />
 
   
 
@@ -142,9 +142,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:MAKERSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MAKERSMBE2009.pdf" /></a>
+  width="120" height="120" alt="MAKERSMBE2009.pdf" />
 
   
 
@@ -165,9 +165,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:PAG2010MAKER.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010MAKER.pdf" /></a>
+  width="120" height="120" alt="PAG2010MAKER.pdf" />
 
   
 
@@ -188,9 +188,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
+  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" />
 
   
 

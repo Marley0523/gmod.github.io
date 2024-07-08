@@ -19,11 +19,11 @@
 
 
 
-<a href="File:2014-gmod-san-diego.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/300px-2014-gmod-san-diego.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/450px-2014-gmod-san-diego.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/2014-gmod-san-diego.png 2x"
 width="300" height="188"
-alt="January 2014 GMOD Community Meeting logo" /></a>
+alt="January 2014 GMOD Community Meeting logo" />
 
 
 

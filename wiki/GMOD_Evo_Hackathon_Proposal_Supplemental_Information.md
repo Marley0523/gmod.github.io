@@ -29,10 +29,10 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:EvoHackathonLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/200px-EvoHackathonLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/300px-EvoHackathonLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/EvoHackathonLogo.png/400px-EvoHackathonLogo.png 2x"
-width="200" height="200" alt="EvoHackathonLogo.png" /></a>
+width="200" height="200" alt="EvoHackathonLogo.png" />
 
 </td>
 <td><span style="font-size: 200%; line-height: 120%"><strong><a

@@ -39,9 +39,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Gmod_OneCogTransparentSmall.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1e/Gmod_OneCogTransparentSmall.png"
-  width="120" height="50" alt="Gmod OneCogTransparentSmall.png" /></a>
+  width="120" height="50" alt="Gmod OneCogTransparentSmall.png" />
 
   
 
