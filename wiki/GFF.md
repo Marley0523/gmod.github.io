@@ -715,13 +715,6 @@ Adaptors](GBrowse_Adaptors "GBrowse Adaptors") pages for details.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

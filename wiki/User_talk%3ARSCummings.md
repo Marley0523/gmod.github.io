@@ -51,13 +51,6 @@ the JBrowseDev/Upcoming namespace. For example, a page you want to call
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -576,23 +576,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/JBrowse_Tutorial
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Malaysia_2014/JBrowse_Tutorial&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

@@ -121,13 +121,6 @@ Conclusions
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -2398,13 +2398,6 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="/wiki/Main_Page"

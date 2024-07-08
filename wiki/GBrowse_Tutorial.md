@@ -109,13 +109,6 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

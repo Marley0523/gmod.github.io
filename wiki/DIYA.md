@@ -399,22 +399,10 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 
 
-### Namespaces
 
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:DIYA&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ###
-
-### Variants[](#)
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -152,23 +152,10 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:Arthropod_Genomics_2011&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

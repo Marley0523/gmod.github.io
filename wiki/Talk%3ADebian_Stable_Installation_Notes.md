@@ -46,13 +46,6 @@ favor of the apt-get or aptitude binary install
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

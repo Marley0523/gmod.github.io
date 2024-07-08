@@ -188,23 +188,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3AInteracts_with)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Interacts_with&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

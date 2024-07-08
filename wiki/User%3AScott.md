@@ -73,13 +73,6 @@ alt="100 5955 1.jpg" /></a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

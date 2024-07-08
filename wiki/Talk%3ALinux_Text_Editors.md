@@ -52,13 +52,6 @@ class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

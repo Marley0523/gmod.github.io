@@ -95,13 +95,6 @@ Dave C.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

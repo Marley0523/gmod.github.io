@@ -2109,23 +2109,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Chado_Tutorial_2010&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

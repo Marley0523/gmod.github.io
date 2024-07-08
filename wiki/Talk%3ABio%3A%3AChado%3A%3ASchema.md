@@ -64,13 +64,6 @@ April 2011 (UTC)
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

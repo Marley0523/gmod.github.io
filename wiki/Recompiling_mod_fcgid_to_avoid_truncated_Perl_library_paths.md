@@ -73,23 +73,10 @@ reinstalling mod_fcgid, please restart Apache.
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Recompiling_mod_fcgid_to_avoid_truncated_Perl_library_paths&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

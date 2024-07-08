@@ -40,13 +40,6 @@ into smaller pages?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

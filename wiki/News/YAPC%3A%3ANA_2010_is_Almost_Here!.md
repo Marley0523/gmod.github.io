@@ -80,23 +80,10 @@ rel="nofollow">YAPC: NA 2010</a> Conference Chairman
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/YAPC%3A%3ANA_2010_is_Almost_Here!&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

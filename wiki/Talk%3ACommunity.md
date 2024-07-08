@@ -43,13 +43,6 @@ Great idea. Unfortunately demo gives an error: The requested URL
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

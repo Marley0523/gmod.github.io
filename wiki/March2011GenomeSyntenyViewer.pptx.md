@@ -33,23 +33,10 @@ Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting").
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:March2011GenomeSyntenyViewer.pptx&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

@@ -522,13 +522,6 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

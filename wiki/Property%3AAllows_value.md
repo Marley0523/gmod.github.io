@@ -178,23 +178,10 @@ Retrieved from
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3AAllows_value)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Allows_value&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

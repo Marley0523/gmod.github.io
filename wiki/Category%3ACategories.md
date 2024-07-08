@@ -58,24 +58,10 @@ This category has the following 6 subcategories, out of 6 total.
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-category"><a href="Category%3ACategories" accesskey="c"
-  title="View the category page [c]">Category</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category_talk:Categories&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

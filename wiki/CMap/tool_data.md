@@ -293,22 +293,10 @@ release date = 2002 \| more_info =
 
 
 
-### Namespaces
 
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:CMap/tool_data&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ###
-
-### Variants[](#)
-
-
-
-
-
 
 
 <a href="../Main_Page"

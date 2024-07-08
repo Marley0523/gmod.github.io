@@ -44,13 +44,6 @@ variables can be used please?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="../Main_Page"

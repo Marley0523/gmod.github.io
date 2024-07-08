@@ -298,23 +298,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AWritten_in_language "Spe
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3AWritten_in_language)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Written_in_language&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

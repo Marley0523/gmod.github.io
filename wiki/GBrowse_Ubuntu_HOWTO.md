@@ -229,13 +229,6 @@ rel="nofollow">http://localhost/gbrowse</a>.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

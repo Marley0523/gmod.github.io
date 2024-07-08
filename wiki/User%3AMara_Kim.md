@@ -42,24 +42,10 @@ title="MaraKim GMOD2014.pdf">Jan 2014 GMOD meeting</a>
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AMara_Kim" accesskey="c"
-  title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=User_talk:Mara_Kim&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

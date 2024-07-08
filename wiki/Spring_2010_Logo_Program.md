@@ -748,13 +748,6 @@ stronger commitment to the projects and to working with the students.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

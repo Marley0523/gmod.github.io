@@ -118,13 +118,6 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Text](Text)"
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 

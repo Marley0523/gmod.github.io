@@ -131,13 +131,6 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

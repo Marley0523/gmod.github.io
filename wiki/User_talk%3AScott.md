@@ -46,13 +46,6 @@ my $string = 'this is quoted';
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

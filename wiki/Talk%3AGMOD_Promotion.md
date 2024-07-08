@@ -47,13 +47,6 @@ publication and publication start date?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

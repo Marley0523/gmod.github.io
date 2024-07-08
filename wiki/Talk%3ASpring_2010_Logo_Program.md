@@ -46,13 +46,6 @@ GBrowse interface?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

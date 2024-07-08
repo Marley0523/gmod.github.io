@@ -126,24 +126,10 @@ title="TrackFinder.pm">TrackFinder.pm</a></li>
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-category"><a href="Category%3AGBrowse_Plugins" accesskey="c"
-  title="View the category page [c]">Category</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category_talk:GBrowse_Plugins&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

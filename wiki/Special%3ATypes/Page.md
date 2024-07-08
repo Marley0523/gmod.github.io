@@ -56,13 +56,6 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Page](Page)"
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 

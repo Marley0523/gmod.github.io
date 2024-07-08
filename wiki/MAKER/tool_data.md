@@ -251,22 +251,10 @@ rel="nofollow">http://weatherby.genetics.utah.edu/cgi-bin/mwas/maker.cgi</a>
 
 
 
-### Namespaces
 
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:MAKER/tool_data&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ###
-
-### Variants[](#)
-
-
-
-
-
 
 
 <a href="../Main_Page"

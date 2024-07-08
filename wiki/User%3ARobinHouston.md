@@ -38,24 +38,10 @@ Phone: +44 1223 834244, extension 2217
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3ARobinHouston" accesskey="c"
-  title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=User_talk:RobinHouston&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

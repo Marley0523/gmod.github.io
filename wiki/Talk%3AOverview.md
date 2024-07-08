@@ -81,13 +81,6 @@ and 'Beginning Date' would be?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

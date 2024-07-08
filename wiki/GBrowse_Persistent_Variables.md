@@ -248,13 +248,6 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

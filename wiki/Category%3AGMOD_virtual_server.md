@@ -59,24 +59,10 @@ The following 3 pages are in this category, out of 3 total.
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-category"><a href="Category%3AGMOD_virtual_server" accesskey="c"
-  title="View the category page [c]">Category</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category_talk:GMOD_virtual_server&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

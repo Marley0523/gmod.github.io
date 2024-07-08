@@ -91,13 +91,6 @@ rel="nofollow">rbuels on GitHub</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"
