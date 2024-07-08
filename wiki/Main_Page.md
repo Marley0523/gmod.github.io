@@ -201,9 +201,6 @@ Canto: literature annotation tool
 ## Navigation menu
 
 
-
-###
-
 ### Navigation
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>

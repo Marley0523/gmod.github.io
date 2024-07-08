@@ -508,9 +508,6 @@ title="Special:TableEdit">TableEdit</a></li>
 
 
 
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

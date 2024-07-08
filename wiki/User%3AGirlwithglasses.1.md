@@ -43,9 +43,6 @@ Specialist from July 2012 to May 2014.
 
 
 
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
 
 
 ### Navigation

@@ -246,12 +246,6 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-###
-
-<a href="/wiki/Main_Page"
-style="background-image: url(http://gmod.org/images/GMOD-cogs.png);"
-title="Visit the main page"></a>
-
 
 ### Navigation
 
