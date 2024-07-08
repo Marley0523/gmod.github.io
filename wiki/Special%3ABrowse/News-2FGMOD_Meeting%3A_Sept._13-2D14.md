@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGMOD_Meeting%3A_Sept._13-2D14 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

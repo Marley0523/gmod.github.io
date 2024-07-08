@@ -77,9 +77,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Chado-and-XML.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Chado-and-XML.pdf" /></a>
+  width="120" height="120" alt="Chado-and-XML.pdf" />
 
   
 
@@ -100,9 +100,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:XORT.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="XORT.pdf" /></a>
+  width="120" height="120" alt="XORT.pdf" />
 
   
 
@@ -123,9 +123,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:XORTSpecification_0.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="XORTSpecification 0.pdf" /></a>
+  width="120" height="120" alt="XORTSpecification 0.pdf" />
 
   
 
@@ -160,9 +160,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-
-
-### 
 
 
 

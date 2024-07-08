@@ -75,9 +75,6 @@ rel="nofollow">e-mail</a>.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

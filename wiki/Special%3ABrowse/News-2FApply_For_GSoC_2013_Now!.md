@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FApply_For_GSoC_2013_Now! "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

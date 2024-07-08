@@ -71,9 +71,6 @@ spare places due to accepted applicants not being able to attend.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

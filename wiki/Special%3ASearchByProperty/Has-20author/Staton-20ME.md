@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20author/Staton-20ME "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -125,9 +125,6 @@ through the selection process will be contacted.*
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

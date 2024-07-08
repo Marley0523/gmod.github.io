@@ -18,9 +18,9 @@
 
 
 
-<a href="File:InterMineLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png" width="400" height="50"
-alt="InterMine logo" /></a>
+alt="InterMine logo" />
 
 
 
@@ -112,9 +112,6 @@ title="Property:Interactor (page does not exist)">Interactor</a> | InterMine <sp
 
 
 
-
-
-### 
 
 
 

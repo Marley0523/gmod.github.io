@@ -83,9 +83,6 @@ rel="nofollow">YAPC: NA 2010</a> Conference Chairman
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

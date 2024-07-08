@@ -73,9 +73,6 @@ rel="nofollow">help@gmod.org</a> for advice!
 
 
 
-### 
-
-
 
 <a href="../../Main_Page"
 style="background-image: url(../../../images/GMOD-cogs.png);"

@@ -115,9 +115,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:04-Stajich_NESCENT_GMOD.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" /></a>
+  width="120" height="120" alt="04-Stajich NESCENT GMOD.pdf" />
 
   
 
@@ -139,9 +139,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:3461.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="3461.pdf" /></a>
+  width="120" height="120" alt="3461.pdf" />
 
   
 
@@ -162,9 +162,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:Aug2009GBrowse_syn.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse syn.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse syn.pdf" />
 
   
 
@@ -186,9 +186,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:BoG2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BoG2006.pdf" /></a>
+  width="120" height="120" alt="BoG2006.pdf" />
 
   
 
@@ -209,9 +209,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -233,9 +233,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:D480.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="D480.pdf" /></a>
+  width="120" height="120" alt="D480.pdf" />
 
   
 
@@ -256,9 +256,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:Gelbart_040528.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gelbart 040528.ppt" /></a>
+  height="120" alt="Gelbart 040528.ppt" />
 
   
 
@@ -280,11 +280,10 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" /></a>
+  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" />
 
   
 
@@ -305,11 +304,10 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:PAG2010ComparativeGenomicsToolsInGMOD.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2010ComparativeGenomicsToolsInGMOD.pdf" /></a>
+  alt="PAG2010ComparativeGenomicsToolsInGMOD.pdf" />
 
   
 
@@ -330,9 +328,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:ParameciumDB_synteny.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ParameciumDB synteny.pdf" /></a>
+  width="120" height="120" alt="ParameciumDB synteny.pdf" />
 
   
 
@@ -354,9 +352,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:Stajich_GMOD_2006-06-30.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" /></a>
+  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" />
 
   
 
@@ -378,9 +376,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:SynBrowse_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/aa/SynBrowse_logo.png/120px-SynBrowse_logo.png"
-  width="120" height="27" alt="SynBrowse logo.png" /></a>
+  width="120" height="27" alt="SynBrowse logo.png" />
 
   
 
@@ -402,9 +400,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:SyntenyModeling.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="SyntenyModeling.pdf" /></a>
+  width="120" height="120" alt="SyntenyModeling.pdf" />
 
   
 
@@ -425,9 +423,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:SynView_Icon.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/SynView_Icon.gif/120px-SynView_Icon.gif"
-  width="120" height="46" alt="SynView Icon.gif" /></a>
+  width="120" height="46" alt="SynView Icon.gif" />
 
   
 
@@ -448,9 +446,9 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:Zhang-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Zhang-050517.ppt" /></a>
+  height="120" alt="Zhang-050517.ppt" />
 
   
 
@@ -471,10 +469,10 @@ The following 16 files are in this category, out of 16 total.
 
   
 
-  <a href="File:ISyIPGMODforComparativeGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISyIPGMODforComparativeGenomics.pdf" /></a>
+  alt="ISyIPGMODforComparativeGenomics.pdf" />
 
   
 
@@ -507,9 +505,6 @@ The following 16 files are in this category, out of 16 total.
 
 
 
-
-
-### 
 
 
 

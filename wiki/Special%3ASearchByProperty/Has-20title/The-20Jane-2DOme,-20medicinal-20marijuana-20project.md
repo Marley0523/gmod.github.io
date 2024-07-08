@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/The-20Jane-2DOme,-20medicinal-20marijuana-20project "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

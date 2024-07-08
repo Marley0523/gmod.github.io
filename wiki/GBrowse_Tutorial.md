@@ -107,9 +107,6 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

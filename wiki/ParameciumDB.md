@@ -18,9 +18,9 @@
 
 
 
-<a href="File:ParameciumDBLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/ParameciumDBLogo.png" width="221"
-height="70" alt="ParameciumDBLogo.png" /></a>
+height="70" alt="ParameciumDBLogo.png" />
 
 
   
@@ -197,9 +197,9 @@ system](Glossary#Database_Management_System "Glossary").
 
 ### <span id="Design_Overview" class="mw-headline">Design Overview</span>
 
-<a href="File:ParameciumDataModel.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/ParameciumDataModel.jpg" width="720"
-height="540" alt="ParameciumDataModel.jpg" /></a>
+height="540" alt="ParameciumDataModel.jpg" />
 
 ### <span id="Chado_Modules" class="mw-headline">Chado Modules</span>
 
@@ -292,9 +292,9 @@ Collections into ParameciumDB.
 
 
 
-<a href="File:ParameciumDBHomePage.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/ParameciumDBHomePage.png" width="449"
-height="193" alt="ParameciumDBHomePage.png" /></a>
+height="193" alt="ParameciumDBHomePage.png" />
 
 
 
@@ -428,9 +428,6 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 
 
-
-
-### 
 
 
 

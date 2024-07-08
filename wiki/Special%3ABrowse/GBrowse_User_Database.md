@@ -59,9 +59,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse_User_Database "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -129,9 +129,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:GMODAmericas2011Flier.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMODAmericas2011Flier.ppt" /></a>
+  height="120" alt="GMODAmericas2011Flier.ppt" />
 
   
 
@@ -152,9 +152,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:SummerSchoolPoster2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="SummerSchoolPoster2008.pdf" /></a>
+  width="120" height="120" alt="SummerSchoolPoster2008.pdf" />
 
   
 
@@ -182,9 +182,6 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-
-
-### 
 
 
 

@@ -106,9 +106,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Gmod_cogTransparent.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/53/Gmod_cogTransparent.png/120px-Gmod_cogTransparent.png"
-  width="120" height="88" alt="Gmod cogTransparent.png" /></a>
+  width="120" height="88" alt="Gmod cogTransparent.png" />
 
   
 
@@ -130,9 +130,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMOD.orgMonthlyHitsChart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/03/GMOD.orgMonthlyHitsChart.png/120px-GMOD.orgMonthlyHitsChart.png"
-  width="120" height="56" alt="GMOD.orgMonthlyHitsChart.png" /></a>
+  width="120" height="56" alt="GMOD.orgMonthlyHitsChart.png" />
 
   
 
@@ -153,9 +153,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:BoG2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BoG2006.pdf" /></a>
+  width="120" height="120" alt="BoG2006.pdf" />
 
   
 
@@ -176,9 +176,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Day-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Day-050517.ppt" /></a>
+  height="120" alt="Day-050517.ppt" />
 
   
 
@@ -199,9 +199,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMOD_Architecture.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD Architecture.ppt" /></a>
+  height="120" alt="GMOD Architecture.ppt" />
 
   
 
@@ -223,9 +223,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMOD.orgMonthlyPageViewsChart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/GMOD.orgMonthlyPageViewsChart.png/120px-GMOD.orgMonthlyPageViewsChart.png"
-  width="120" height="56" alt="GMOD.orgMonthlyPageViewsChart.png" /></a>
+  width="120" height="56" alt="GMOD.orgMonthlyPageViewsChart.png" />
 
   
 
@@ -246,9 +246,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMOD.orgMonthlyVisitorsChart.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/dc/GMOD.orgMonthlyVisitorsChart.png/120px-GMOD.orgMonthlyVisitorsChart.png"
-  width="120" height="58" alt="GMOD.orgMonthlyVisitorsChart.png" /></a>
+  width="120" height="58" alt="GMOD.orgMonthlyVisitorsChart.png" />
 
   
 
@@ -269,9 +269,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMODTrifoldBrochure2009.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMODTrifoldBrochure2009.ppt" /></a>
+  height="120" alt="GMODTrifoldBrochure2009.ppt" />
 
   
 
@@ -292,9 +292,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:TShirtThumb.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bd/TShirtThumb.jpg/120px-TShirtThumb.jpg"
-  width="120" height="120" alt="TShirtThumb.jpg" /></a>
+  width="120" height="120" alt="TShirtThumb.jpg" />
 
   
 
@@ -327,9 +327,6 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-
-
-### 
 
 
 

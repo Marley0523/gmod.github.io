@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGalaxy_Conf._Abstracts_Due_Feb_28 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

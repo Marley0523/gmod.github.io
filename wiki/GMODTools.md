@@ -357,9 +357,6 @@ Version 1.1 (2007 October) adds these features and corrections:
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

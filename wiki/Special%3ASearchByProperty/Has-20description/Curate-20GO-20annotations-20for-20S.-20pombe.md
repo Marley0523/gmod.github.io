@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/Curate-20GO-20annotations-20for-20S.-20pombe "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -77,9 +77,6 @@ rel="nofollow">contact the GMOD Help Desk</a> for more information.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

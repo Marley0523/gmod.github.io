@@ -18,17 +18,16 @@
 
 
 
-<a href="File:CMap3DScreenshot.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/300px-CMap3DScreenshot.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/450px-CMap3DScreenshot.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/CMap3DScreenshot.png/600px-CMap3DScreenshot.png 2x"
-width="300" height="187" /></a>
+width="300" height="187" />
 
 
-<a href="File:CMap3DScreenshot.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -91,9 +90,6 @@ maps.
 
 
 
-
-
-### 
 
 
 

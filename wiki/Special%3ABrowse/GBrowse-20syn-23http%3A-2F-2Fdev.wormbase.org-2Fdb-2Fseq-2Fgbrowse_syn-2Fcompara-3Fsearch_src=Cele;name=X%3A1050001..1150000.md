@@ -60,9 +60,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse-20syn-23http%3A-2F-2Fdev.wormbase.org-2Fdb-2Fseq-2Fgbrowse_syn-2Fcompara-3Fsearch_src=Cele;name=X%3A1050001..1150000 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

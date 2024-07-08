@@ -51,9 +51,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Mod-face-07jan-ApiDB.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-ApiDB.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-ApiDB.pdf" />
 
   
 
@@ -86,9 +86,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

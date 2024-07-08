@@ -64,9 +64,6 @@ rel="nofollow">ftp://ftp.flybase.net/releases/current/psql/</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

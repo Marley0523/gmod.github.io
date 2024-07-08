@@ -25,9 +25,9 @@
 
 
 
-<a href="File:Jorvis.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Jorvis.jpg" width="309" height="359"
-alt="Jorvis.jpg" /></a>
+alt="Jorvis.jpg" />
 
 
 
@@ -69,9 +69,6 @@ motorcycles.
 
 
 
-
-
-### 
 
 
 

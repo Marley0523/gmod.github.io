@@ -145,9 +145,6 @@ class="external text" rel="nofollow">Nabble</a> |
 
 
 
-### 
-
-
 
 
 

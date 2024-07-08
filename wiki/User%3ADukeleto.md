@@ -43,9 +43,6 @@ rel="nofollow">http://twitter.com/dukeleto</a>
 
 
 
-### 
-
-
 
 
 

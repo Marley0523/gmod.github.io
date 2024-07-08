@@ -123,9 +123,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Gmod-argos-sep03.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gmod-argos-sep03.pdf" /></a>
+  width="120" height="120" alt="Gmod-argos-sep03.pdf" />
 
   
 
@@ -158,9 +158,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

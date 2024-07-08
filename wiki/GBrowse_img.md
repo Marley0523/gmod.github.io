@@ -92,10 +92,10 @@ href="http://heptamer.tamu.edu/cgi-bin/gb2/gbrowse_img/MG1655/?name=NC_000913:39
 class="external free"
 rel="nofollow">http://heptamer.tamu.edu/cgi-bin/gb2/gbrowse_img/MG1655/?name=NC_000913:3923000..3951000;l=Genes%1Elandmarks:overview%1EGenes:region%1Elandmarks:region;width=400;format=GD</a>;
 
-<a href="File:Gbrowse_img_example2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Gbrowse_img_example2.png"
 class="thumbborder" width="490" height="138"
-alt="Gbrowse img example2.png" /></a>
+alt="Gbrowse img example2.png" />
 
 ### <span id="More_complex" class="mw-headline">More complex</span>
 
@@ -104,10 +104,10 @@ href="http://heptamer.tamu.edu/cgi-bin/gb2/gbrowse_img/MG1655/?name=NC_000913:39
 class="external free"
 rel="nofollow">http://heptamer.tamu.edu/cgi-bin/gb2/gbrowse_img/MG1655/?name=NC_000913:3923000..3951000;l=Genes%1EDNA%1ERegulonDBtu%1ESigma70%1Elandmarks:overview%1EGenes:region%1Elandmarks:region;width=800;id=20736090abb824610d9d3bc89c8b4256;format=GD;keystyle=between;grid=1</a>
 
-<a href="File:Gbrowse_img_example1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/Gbrowse_img_example1.png"
 class="thumbborder" width="890" height="510"
-alt="Gbrowse img example1.png" /></a>
+alt="Gbrowse img example1.png" />
 
   
 
@@ -395,10 +395,10 @@ to avoid browsers placing scrollbars around the frame.
 You can find a link to generate images from within Gbrowse near the top
 of the page:
 
-<a href="File:Gbrowse_img_location_v1.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/Gbrowse_img_location_v1.jpg"
 class="thumbborder" width="872" height="314"
-alt="Gbrowse img location v1.jpg" /></a>
+alt="Gbrowse img location v1.jpg" />
 
   
 
@@ -407,10 +407,10 @@ alt="Gbrowse img location v1.jpg" /></a>
 In version 2, the link to generate images has been moved to the file
 menu:
 
-<a href="File:Gbrowse_img_location_v2.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/Gbrowse_img_location_v2.jpg"
 class="thumbborder" width="623" height="349"
-alt="Gbrowse img location v2.jpg" /></a>
+alt="Gbrowse img location v2.jpg" />
 
   
 
@@ -459,9 +459,6 @@ display an image (rendered by gbrowse_img) in a wiki-page.
 
 
 
-
-
-### 
 
 
 

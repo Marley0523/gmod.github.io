@@ -54,9 +54,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Gb-2007-8-6-r112.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gb-2007-8-6-r112.pdf" /></a>
+  width="120" height="120" alt="Gb-2007-8-6-r112.pdf" />
 
   
 
@@ -89,9 +89,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

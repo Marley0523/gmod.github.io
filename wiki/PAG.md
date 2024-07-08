@@ -319,9 +319,6 @@ class="external text" rel="nofollow">Slides</a> |
 
 
 
-### 
-
-
 
 
 

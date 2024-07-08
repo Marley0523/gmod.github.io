@@ -51,9 +51,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:ISGAISMB2010Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ISGAISMB2010Poster.pdf" /></a>
+  width="120" height="120" alt="ISGAISMB2010Poster.pdf" />
 
   
 
@@ -74,9 +74,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:ISGAWebGBrowseSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" /></a>
+  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" />
 
   
 
@@ -97,9 +97,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Jan2010ErgatisForBiologists.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" /></a>
+  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" />
 
   
 
@@ -120,9 +120,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:NGSTranscriptomeISGAErgatis.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" /></a>
+  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" />
 
   
 
@@ -155,9 +155,6 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-
-
-### 
 
 
 

@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGalaxy_Workshops_@_USC,_June_23-2D24 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

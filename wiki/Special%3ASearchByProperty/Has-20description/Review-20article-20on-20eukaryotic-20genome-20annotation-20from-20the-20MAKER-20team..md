@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/Review-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team. "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

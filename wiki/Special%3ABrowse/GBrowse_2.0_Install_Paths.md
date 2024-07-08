@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse_2.0_Install_Paths "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

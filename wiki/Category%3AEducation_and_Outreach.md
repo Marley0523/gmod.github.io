@@ -127,9 +127,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:GMODatAGS2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODatAGS2008.pdf" /></a>
+  width="120" height="120" alt="GMODatAGS2008.pdf" />
 
   
 
@@ -157,9 +157,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

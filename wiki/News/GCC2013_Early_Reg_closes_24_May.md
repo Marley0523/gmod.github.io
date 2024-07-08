@@ -94,9 +94,6 @@ class="external text" rel="nofollow">please help get the word out!</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

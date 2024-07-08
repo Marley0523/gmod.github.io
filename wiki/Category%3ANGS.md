@@ -57,9 +57,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:GalaxyNGSISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" /></a>
+  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" />
 
   
 
@@ -80,9 +80,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:NGSTranscriptomeISGAErgatis.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" /></a>
+  width="120" height="120" alt="NGSTranscriptomeISGAErgatis.pdf" />
 
   
 
@@ -110,9 +110,6 @@ Retrieved from "[http://gmod.org/wiki/Category%3ANGS](Category%3ANGS)"
 
 
 
-
-
-### 
 
 
 

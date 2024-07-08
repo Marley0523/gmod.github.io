@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

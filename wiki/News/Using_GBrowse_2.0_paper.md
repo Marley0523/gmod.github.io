@@ -63,9 +63,6 @@ rel="nofollow">Read the whole paper online.</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

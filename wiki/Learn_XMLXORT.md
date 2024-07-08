@@ -342,9 +342,6 @@ type_id=synthetic construct
 
 
 
-### 
-
-
 
 
 

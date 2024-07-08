@@ -56,9 +56,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Kenny_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kenny 040526.ppt" /></a>
+  height="120" alt="Kenny 040526.ppt" />
 
   
 
@@ -79,9 +79,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Textpresso_GMOD_0903.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Textpresso GMOD 0903.ppt" /></a>
+  height="120" alt="Textpresso GMOD 0903.ppt" />
 
   
 
@@ -103,9 +103,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Jan2010Testpresso.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010Testpresso.pdf" /></a>
+  width="120" height="120" alt="Jan2010Testpresso.pdf" />
 
   
 
@@ -138,9 +138,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-
-
-### 
 
 
 

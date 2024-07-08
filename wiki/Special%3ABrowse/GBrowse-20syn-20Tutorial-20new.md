@@ -63,9 +63,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse-20syn-20Tutorial-20new "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -46,10 +46,10 @@ Up to [CMap](CMap.1 "CMap").
 
 # <span id="Schema" class="mw-headline">Schema</span>
 
-<a href="File:Cmap_2.0_schema.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/Cmap_2.0_schema.png/100px-Cmap_2.0_schema.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/Cmap_2.0_schema.png/150px-Cmap_2.0_schema.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/Cmap_2.0_schema.png/200px-Cmap_2.0_schema.png 2x"
-width="100" height="234" alt="Cmap 2.0 schema.png" /></a>
+width="100" height="234" alt="Cmap 2.0 schema.png" />
 
 - No more "cmap\_" table prefix
 - Move to support only [MySQL](MySQL "MySQL") InnoDB tables to get
@@ -79,10 +79,10 @@ width="100" height="234" alt="Cmap 2.0 schema.png" /></a>
 
 # <span id="Visualizations" class="mw-headline">Visualizations</span>
 
-<a href="File:CMap_circos.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/CMap_circos.png/100px-CMap_circos.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/CMap_circos.png/150px-CMap_circos.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/CMap_circos.png/200px-CMap_circos.png 2x"
-width="100" height="100" alt="CMap circos.png" /></a>
+width="100" height="100" alt="CMap circos.png" />
 
 - All output to SVG, convert to other formats as needed
 - Each "slot" holding maps in a comparative view will be generated and
@@ -143,9 +143,6 @@ Write loaders for:
 
 
 
-
-
-### 
 
 
 

@@ -112,9 +112,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:Biocyc-GMOD-2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Biocyc-GMOD-2006.ppt" /></a>
+  height="120" alt="Biocyc-GMOD-2006.ppt" />
 
   
 
@@ -135,9 +135,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:GMOD-Nov-2007.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GMOD-Nov-2007.ppt" /></a>
+  height="120" alt="GMOD-Nov-2007.ppt" />
 
   
 
@@ -158,9 +158,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:Karp-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Karp-050516.ppt" /></a>
+  height="120" alt="Karp-050516.ppt" />
 
   
 
@@ -181,9 +181,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:Mod-face-07jan-BioCyc.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-BioCyc.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-BioCyc.pdf" />
 
   
 
@@ -204,9 +204,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:Pathways.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Pathways.ppt" /></a>
+  height="120" alt="Pathways.ppt" />
 
   
 
@@ -227,9 +227,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:PathwayToolsPosterISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PathwayToolsPosterISMB2010.pdf" /></a>
+  width="120" height="120" alt="PathwayToolsPosterISMB2010.pdf" />
 
   
 
@@ -250,9 +250,9 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  <a href="File:PathwayToolsTalkISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PathwayToolsTalkISMB2010.pdf" /></a>
+  width="120" height="120" alt="PathwayToolsTalkISMB2010.pdf" />
 
   
 
@@ -285,9 +285,6 @@ The following 7 files are in this category, out of 7 total.
 
 
 
-
-
-### 
 
 
 

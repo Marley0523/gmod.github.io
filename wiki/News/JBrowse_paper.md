@@ -76,9 +76,6 @@ selection and sets a new standard for the genome browser interface.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

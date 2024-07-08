@@ -516,17 +516,16 @@ fix with:
     GRANT SELECT ON analysisfeature                  TO www;
 
 
-<a href="File:Chado_test_in_gbrowse.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Chado_test_in_gbrowse.jpg/600px-Chado_test_in_gbrowse.jpg"
 class="thumbimage"
 srcset=" http://gmod.org/wiki/1.5x,  http://gmod.org/wiki/2x"
-width="600" height="436" /></a>
+width="600" height="436" />
 
 
-<a href="File:Chado_test_in_gbrowse.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -555,9 +554,6 @@ It works!!!
 
 
 
-
-
-### 
 
 
 

@@ -64,9 +64,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.intermine.org "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

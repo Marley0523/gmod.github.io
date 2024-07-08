@@ -28,10 +28,10 @@ data-cellpadding="10">
 <tr class="odd">
 <td rowspan="2">
 
-<a href="File:GMOD2010Europe300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d6/GMOD2010Europe300.png/220px-GMOD2010Europe300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2010Europe300.png 2x"
-width="220" height="188" alt="GMOD2010Europe300.png" /></a>
+width="220" height="188" alt="GMOD2010Europe300.png" />
 
 </td>
 <td><span style="font-size: 200%; line-height: 140%"><strong>GMOD Europe
@@ -461,9 +461,6 @@ colleges.
 
 
 
-
-
-### 
 
 
 

@@ -84,9 +84,6 @@ a preview of the JBrowse 2 application.
 
 
 
-### 
-
-
 
 
 

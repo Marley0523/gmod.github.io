@@ -45,9 +45,6 @@ publication and publication start date?
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

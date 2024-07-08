@@ -85,9 +85,6 @@ class="external text" rel="nofollow">Genome Informatics mailing list</a>.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

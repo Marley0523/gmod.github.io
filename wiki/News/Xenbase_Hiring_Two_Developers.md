@@ -91,9 +91,6 @@ the database director, Jeff Bowes bowes \[at\] ucalgary.ca
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

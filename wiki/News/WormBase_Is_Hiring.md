@@ -111,9 +111,6 @@ Please send resumes and vitaes to **Todd Harris (todd@wormbase.org)**.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -39,9 +39,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:OCCBio_GBrowse_NGS.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" /></a>
+  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" />
 
   
 
@@ -71,9 +71,6 @@ Retrieved from
 
 
 
-
-
-### 
 
 
 

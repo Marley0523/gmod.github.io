@@ -27,9 +27,9 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:2010SummerSchoolAmericas300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/2010SummerSchoolAmericas300.png"
-width="300" height="219" alt="2010SummerSchoolAmericas300.png" /></a>
+width="300" height="219" alt="2010SummerSchoolAmericas300.png" />
 
 </td>
 <td><span style="font-size: 200%; line-height: 120%"><strong>2010 GMOD
@@ -46,11 +46,11 @@ Durham, NC, USA</span><br />
   
 
 
-<a href="File:2010GMODSummerSchoolAmParticipants.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/500px-2010GMODSummerSchoolAmParticipants.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6e/2010GMODSummerSchoolAmParticipants.jpg/750px-2010GMODSummerSchoolAmParticipants.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/2010GMODSummerSchoolAmParticipants.jpg 2x"
 width="500" height="149"
-alt="2010GMODSummerSchoolAmParticipants.jpg" /></a>
+alt="2010GMODSummerSchoolAmParticipants.jpg" />
 
 
   
@@ -419,9 +419,9 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="48" alt="Windows" /></a>
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 
@@ -474,9 +474,9 @@ free trial version of VMware Fusion available for download.**
 
 
 
-<a href="File:VirtualBox-logo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
-height="48" alt="VirtualBox-logo.png" /></a>
+height="48" alt="VirtualBox-logo.png" />
 
 
 
@@ -741,9 +741,6 @@ and the idea of building up a community. You are doing a great job!”
 
 
 
-
-
-### 
 
 
 

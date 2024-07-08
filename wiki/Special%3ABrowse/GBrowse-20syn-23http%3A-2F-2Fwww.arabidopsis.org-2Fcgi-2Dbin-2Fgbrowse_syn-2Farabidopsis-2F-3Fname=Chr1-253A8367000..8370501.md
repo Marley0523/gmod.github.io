@@ -33,9 +33,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse-20syn-23http%3A-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

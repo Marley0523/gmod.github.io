@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Display_CMap_Markers_in_GBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

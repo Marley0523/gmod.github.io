@@ -62,9 +62,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/July_2008_GMOD_Meeting_Registration "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

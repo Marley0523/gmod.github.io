@@ -41,9 +41,6 @@ Mitch is a staff member at UC Berkeley and is the lead developer of
 
 
 
-### 
-
-
 
 
 

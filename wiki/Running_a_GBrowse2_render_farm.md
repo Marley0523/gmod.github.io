@@ -86,16 +86,16 @@ offloaded to render slaves.
 <tr class="odd">
 <td>
 
-<a href="File:Renderfarm_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/180px-Renderfarm_1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/270px-Renderfarm_1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/Renderfarm_1.png/360px-Renderfarm_1.png 2x"
-width="180" height="177" /></a>
+width="180" height="177" />
 
 
-<a href="File:Renderfarm_1.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 Figure 1:Single server with multiple processors or cores
 
@@ -103,16 +103,16 @@ Figure 1:Single server with multiple processors or cores
 </td>
 <td>
 
-<a href="File:Renderfarm_2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/180px-Renderfarm_2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/270px-Renderfarm_2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/Renderfarm_2.png/360px-Renderfarm_2.png 2x"
-width="180" height="174" /></a>
+width="180" height="174" />
 
 
-<a href="File:Renderfarm_2.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 Figure 2:Multiple servers sharing NFS-mounted file-based databases
 
@@ -122,16 +122,16 @@ Figure 2:Multiple servers sharing NFS-mounted file-based databases
 <tr class="even">
 <td>
 
-<a href="File:Renderfarm_3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/180px-Renderfarm_3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/270px-Renderfarm_3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/47/Renderfarm_3.png/360px-Renderfarm_3.png 2x"
-width="180" height="177" /></a>
+width="180" height="177" />
 
 
-<a href="File:Renderfarm_3.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 Figure 3:Multiple servers sharing the same relational databases
 
@@ -139,16 +139,16 @@ Figure 3:Multiple servers sharing the same relational databases
 </td>
 <td>
 
-<a href="File:Renderfarm_4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/180px-Renderfarm_4.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/270px-Renderfarm_4.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Renderfarm_4.png/360px-Renderfarm_4.png 2x"
-width="180" height="210" /></a>
+width="180" height="210" />
 
 
-<a href="File:Renderfarm_4.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 Figure 4:Multiple servers with private databases
 
@@ -489,9 +489,6 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 
 
-
-
-### 
 
 
 

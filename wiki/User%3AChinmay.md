@@ -35,9 +35,6 @@ rel="nofollow">GeneDB</a> project at The Sanger Institute, Cambridge, UK
 
 
 
-### 
-
-
 
 
 

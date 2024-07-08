@@ -108,17 +108,16 @@ class="external text" rel="nofollow">SOBA Web Application</a> with any
 modern browser that has JavaScript enabled.
 
 
-<a href="File:SOBA_Web_01_Select.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f7/SOBA_Web_01_Select.png/800px-SOBA_Web_01_Select.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/SOBA_Web_01_Select.png 2x"
-width="800" height="537" /></a>
+width="800" height="537" />
 
 
-<a href="File:SOBA_Web_01_Select.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -130,17 +129,16 @@ SOBA main page
   
 
 
-<a href="File:SOBA_Web_02_Counts.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/67/SOBA_Web_02_Counts.png/800px-SOBA_Web_02_Counts.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/SOBA_Web_02_Counts.png 2x"
-width="800" height="579" /></a>
+width="800" height="579" />
 
 
-<a href="File:SOBA_Web_02_Counts.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -152,17 +150,16 @@ SOBA feature type counts
   
 
 
-<a href="File:SOBA_Web_03_Lengths.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3f/SOBA_Web_03_Lengths.png/800px-SOBA_Web_03_Lengths.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/SOBA_Web_03_Lengths.png 2x"
-width="800" height="347" /></a>
+width="800" height="347" />
 
 
-<a href="File:SOBA_Web_03_Lengths.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -174,17 +171,16 @@ SOBA feature lengths
   
 
 
-<a href="File:SOBA_Web_04_Distribution.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/52/SOBA_Web_04_Distribution.png/800px-SOBA_Web_04_Distribution.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/SOBA_Web_04_Distribution.png 2x"
-width="800" height="331" /></a>
+width="800" height="331" />
 
 
-<a href="File:SOBA_Web_04_Distribution.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -196,17 +192,16 @@ SOBA Feature length distribution
   
 
 
-<a href="File:SOBA_Web_05_CDS_Distribution.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/SOBA_Web_05_CDS_Distribution.png/800px-SOBA_Web_05_CDS_Distribution.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/SOBA_Web_05_CDS_Distribution.png 2x"
-width="800" height="417" /></a>
+width="800" height="417" />
 
 
-<a href="File:SOBA_Web_05_CDS_Distribution.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -218,17 +213,16 @@ SOBA CDS length histogram
   
 
 
-<a href="File:SOBA_Web_06_Ontology.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/SOBA_Web_06_Ontology.png/800px-SOBA_Web_06_Ontology.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/SOBA_Web_06_Ontology.png 2x"
-width="800" height="471" /></a>
+width="800" height="471" />
 
 
-<a href="File:SOBA_Web_06_Ontology.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -522,17 +516,16 @@ firefox SOBAcl_graphic_chr*.png
 ```
 
 
-<a href="File:SOBAcl_graphic_chr1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/81/SOBAcl_graphic_chr1.png/300px-SOBAcl_graphic_chr1.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/SOBAcl_graphic_chr1.png 2x"
-width="300" height="225" /></a>
+width="300" height="225" />
 
 
-<a href="File:SOBAcl_graphic_chr1.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -542,17 +535,16 @@ SOBA feature lengths for chromosome 1
 
 
 
-<a href="File:SOBAcl_graphic_chr2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/71/SOBAcl_graphic_chr2.png/300px-SOBAcl_graphic_chr2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/SOBAcl_graphic_chr2.png 2x"
-width="300" height="225" /></a>
+width="300" height="225" />
 
 
-<a href="File:SOBAcl_graphic_chr2.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -562,17 +554,16 @@ SOBA feature lengths for chromosome 2
 
 
 
-<a href="File:SOBAcl_graphic_chr3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b8/SOBAcl_graphic_chr3.png/300px-SOBAcl_graphic_chr3.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/SOBAcl_graphic_chr3.png 2x"
-width="300" height="225" /></a>
+width="300" height="225" />
 
 
-<a href="File:SOBAcl_graphic_chr3.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -596,15 +587,14 @@ firefox SOBAcl_graphic.png
 ```
 
 
-<a href="File:SOBAcl_graphic_exon.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c0/SOBAcl_graphic_exon.png"
-class="thumbimage" width="400" height="300" /></a>
+class="thumbimage" width="400" height="300" />
 
 
-<a href="File:SOBAcl_graphic_exon.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -624,14 +614,14 @@ SOBAcl --x_data type --series seqid --data length --data_type mean \
 ```
 
 
-<a href="File:SOBAcl_graphic.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/SOBAcl_graphic.png" class="thumbimage"
-width="400" height="300" /></a>
+width="400" height="300" />
 
 
-<a href="File:SOBAcl_graphic.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -706,9 +696,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 
 
-
-
-### 
 
 
 

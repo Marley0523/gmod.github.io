@@ -93,9 +93,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:LinuxLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="108"
-  height="120" alt="LinuxLogoSmall.jpg" /></a>
+  height="120" alt="LinuxLogoSmall.jpg" />
 
   
 
@@ -128,9 +128,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

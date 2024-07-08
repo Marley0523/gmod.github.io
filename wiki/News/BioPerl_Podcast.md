@@ -66,9 +66,6 @@ Stajich](../User%3AStajich "User%3AStajich").
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

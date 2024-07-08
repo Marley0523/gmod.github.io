@@ -20,10 +20,10 @@
   
 
 
-<a href="File:GBrowseLogo.png" class="image" title="GBrowse"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/250px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/375px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/500px-GBrowseLogo.png 2x"
-width="250" height="59" alt="GBrowse" /></a>
+width="250" height="59" alt="GBrowse" />
 
 
 This [GBrowse Next Generation Sequencing](GBrowse.1 "GBrowse") tutorial
@@ -1057,10 +1057,10 @@ rel="nofollow">http://172.16.108.129/gb2/gbrowse/human</a>
 You should see something like this:
 
 
-<a href="File:GBrowseSAMtools1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/600px-GBrowseSAMtools1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6b/GBrowseSAMtools1.png/900px-GBrowseSAMtools1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/GBrowseSAMtools1.png 2x"
-width="600" height="553" alt="GBrowseSAMtools1.png" /></a>
+width="600" height="553" alt="GBrowseSAMtools1.png" />
 
 
 Play around with it a little. Enable different tracks, scroll and zoom
@@ -1288,10 +1288,10 @@ experimenting with the configuration file.
 You should see something like:
 
 
-<a href="File:GBrowseSAMtoolsCoverageXY.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/600px-GBrowseSAMtoolsCoverageXY.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/GBrowseSAMtoolsCoverageXY.png/900px-GBrowseSAMtoolsCoverageXY.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/GBrowseSAMtoolsCoverageXY.png 2x"
-width="600" height="647" alt="GBrowseSAMtoolsCoverageXY.png" /></a>
+width="600" height="647" alt="GBrowseSAMtoolsCoverageXY.png" />
 
 
 This shows the read coverage. We told GBrowse to flag any read depth
@@ -1340,10 +1340,10 @@ Save your changes, hit the "**\[Reset\]**" link, and turn on the "Reads"
 track. It should look like:
 
 
-<a href="File:GBrowseSAMtoolsReads1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/600px-GBrowseSAMtoolsReads1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/GBrowseSAMtoolsReads1.png/900px-GBrowseSAMtoolsReads1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/GBrowseSAMtoolsReads1.png 2x"
-width="600" height="900" alt="GBrowseSAMtoolsReads1.png" /></a>
+width="600" height="900" alt="GBrowseSAMtoolsReads1.png" />
 
 
 Zoom in. When you get close to about 100bp resolution, you'll see the
@@ -1446,9 +1446,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_NGS_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

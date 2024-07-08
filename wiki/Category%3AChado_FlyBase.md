@@ -43,9 +43,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Aug2009LinkedData.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009LinkedData.pdf" /></a>
+  width="120" height="120" alt="Aug2009LinkedData.pdf" />
 
   
 
@@ -79,9 +79,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

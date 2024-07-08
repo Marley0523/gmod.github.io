@@ -142,9 +142,6 @@ area](#GMOD_Roadshow_in_San_Diego) during the meeting.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

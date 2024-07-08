@@ -18,10 +18,10 @@
 
 
 
-<a href="File:GBrowse_syn_logo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/400px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/600px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/GBrowse_syn_logo.png 2x"
-width="400" height="128" alt="GBrowse_syn logo" /></a>
+width="400" height="128" alt="GBrowse_syn logo" />
 
 
 
@@ -136,9 +136,6 @@ title="Property:Has full name (page does not exist)">Has full name</a> | Gener
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse_syn" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

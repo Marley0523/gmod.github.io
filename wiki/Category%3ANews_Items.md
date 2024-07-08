@@ -606,9 +606,6 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 
 
-### 
-
-
 
 
 

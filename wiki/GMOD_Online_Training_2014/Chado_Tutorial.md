@@ -1899,9 +1899,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Online_Training_2014/Chado_Tut
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

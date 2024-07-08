@@ -20,10 +20,10 @@
   
 
 
-<a href="File:TripalLogo.png" class="image" title="Tripal"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
-width="250" height="75" alt="Tripal" /></a>
+width="250" height="75" alt="Tripal" />
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
@@ -819,9 +819,9 @@ next to the theme and change the color scheme.
 As an example of customizability of themes let's change the logo image.
 Download this image and upload as the logo:
 
-<a href="File:Dmel.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Dmel.png" width="100" height="78"
-alt="Dmel.png" /></a>
+alt="Dmel.png" />
 
 ## <span id="Tripal_Resources" class="mw-headline">Tripal Resources</span>
 
@@ -859,9 +859,9 @@ shows the general organizational structure of the modules. Also, modules
 in Tripal are divided into three classes: a core module, chado-centric
 modules and analysis modules
 
-<a href="File:Tripal_Modules.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/Tripal_Modules.jpg" width="800"
-height="554" alt="Tripal Modules.jpg" /></a>
+height="554" alt="Tripal Modules.jpg" />
 
 ### <span id="Tripal_Core_Module" class="mw-headline">Tripal Core Module</span>
 
@@ -877,9 +877,9 @@ The core module provides the following functionality:
 
 Chado-centric modules provide "wrappers" for chado modules:
 
-<a href="File:ChadoModules.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/ChadoModules.png" width="519" height="408"
-alt="ChadoModules.png" /></a>
+alt="ChadoModules.png" />
 
 ### <span id="Analysis_Modules" class="mw-headline">Analysis Modules</span>
 
@@ -1054,9 +1054,9 @@ functions.
 Also, download the image below and use the image upload field to include
 this image
 
-<a href="File:Dmelflies.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/Dmelflies.jpg" width="270" height="169"
-alt="Dmelflies.jpg" /></a>
+alt="Dmelflies.jpg" />
 
 Now, save the organism.
 
@@ -2198,9 +2198,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:Expor
 
 
 
-
-
-### 
 
 
 

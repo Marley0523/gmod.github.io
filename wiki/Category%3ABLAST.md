@@ -87,9 +87,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Stajich_GMOD_2006-06-30.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" /></a>
+  width="120" height="120" alt="Stajich GMOD 2006-06-30.pdf" />
 
   
 
@@ -123,9 +123,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

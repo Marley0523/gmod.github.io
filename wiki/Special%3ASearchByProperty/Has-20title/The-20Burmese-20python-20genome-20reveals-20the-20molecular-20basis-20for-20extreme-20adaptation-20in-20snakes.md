@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/The-20Burmese-20python-20genome-20reveals-20the-20molecular-20basis-20for-20extreme-20adaptation-20in-20snakes "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -124,9 +124,6 @@ such as iOS and Android apps, and fancy, flashy, web-based projects.
 
 
 
-### 
-
-
 
 
 

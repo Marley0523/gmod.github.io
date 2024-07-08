@@ -73,9 +73,6 @@ rel="nofollow">How to Run a Successful Free Software Project</a>.
 
 
 
-### 
-
-
 
 
 

@@ -42,9 +42,6 @@ are not in my chado schema installs.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

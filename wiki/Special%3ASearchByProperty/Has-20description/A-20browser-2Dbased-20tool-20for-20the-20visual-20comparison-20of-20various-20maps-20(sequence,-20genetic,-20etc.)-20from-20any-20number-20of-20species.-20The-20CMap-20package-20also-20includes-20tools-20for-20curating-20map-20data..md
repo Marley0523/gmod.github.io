@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/A-20browser-2Dbased-20tool-20for-20the-20visual-20comparison-20of-20various-20maps-20(sequence,-20genetic,-20etc.)-20from-20any-20number-20of-20species.-20The-20CMap-20package-20also-20includes-20tools-20for-20curating-20map-20data. "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

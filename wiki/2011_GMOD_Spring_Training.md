@@ -18,21 +18,19 @@
 
 
 
-<a href="File:2011GMODSpringTrainingLogo.png" class="image"
-title="2011 GMOD Spring Training March 8-12, 2011"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/600px-2011GMODSpringTrainingLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f2/2011GMODSpringTrainingLogo.png/900px-2011GMODSpringTrainingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f2/2011GMODSpringTrainingLogo.png 2x"
 width="600" height="238"
-alt="2011 GMOD Spring Training March 8-12, 2011" /></a>
+alt="2011 GMOD Spring Training March 8-12, 2011" />
 
 
 
-<a href="File:2011GMODSpringTraining.jpg" class="image"
-title="March 2011 GMOD Spring Training Participants, minus a few"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/600px-2011GMODSpringTraining.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/900px-2011GMODSpringTraining.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/2011GMODSpringTraining.jpg/1200px-2011GMODSpringTraining.jpg 2x"
 width="600" height="177"
-alt="March 2011 GMOD Spring Training Participants, minus a few" /></a>
+alt="March 2011 GMOD Spring Training Participants, minus a few" />
 
 
 
@@ -299,9 +297,9 @@ course:
 |----|----|----|
 | <a href="http://www.microsoft.com/" rel="nofollow" title="Windows"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
-height="48" alt="Windows" /></a> | <a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+height="48" alt="Windows" /></a> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a> | A free VMware player is available for [Microsoft Windows](Category%3AWindows "Category%3AWindows") and [Linux](Category%3ALinux "Category%3ALinux") [operating systems](Glossary#Operating_System "Glossary") from <a href="http://vmware.com/products/player/" class="external text"
+alt="Linux" /> | A free VMware player is available for [Microsoft Windows](Category%3AWindows "Category%3AWindows") and [Linux](Category%3ALinux "Category%3ALinux") [operating systems](Glossary#Operating_System "Glossary") from <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it. There are multiple versions. Be sure to download a version that can run on your laptop. |
 
   
@@ -329,9 +327,9 @@ VirtualBox
 
 |  |  |
 |----|----|
-| <a href="File:VirtualBox-logo.png" class="image"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
-height="48" alt="VirtualBox-logo.png" /></a> | <a href="http://www.virtualbox.org/wiki/Downloads" class="external text"
+height="48" alt="VirtualBox-logo.png" /> | <a href="http://www.virtualbox.org/wiki/Downloads" class="external text"
 rel="nofollow">VirtualBox</a> is free and open source, and runs on Intel Macs (and Windows, Linux and Solaris too). It claims to be capable of running VMware images, *but we have not tested this with our images.* |
 
 # <span id="Applications" class="mw-headline">Applications</span>
@@ -373,10 +371,10 @@ these goals.
 
 
 
-<a href="File:GalaxyLogoBoxed.png" class="image" title="Galaxy"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/130px-GalaxyLogoBoxed.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png 2x"
-width="130" height="45" alt="Galaxy" /></a>
+width="130" height="45" alt="Galaxy" />
 
 
 
@@ -574,9 +572,6 @@ The "Yes, with reservations" responses were:
 
 
 
-
-
-### 
 
 
 

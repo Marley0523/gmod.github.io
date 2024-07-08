@@ -44,9 +44,6 @@ class="external text" rel="nofollow">here</a>.
 
 
 
-### 
-
-
 
 
 

@@ -340,9 +340,6 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 
 
-### 
-
-
 
 
 

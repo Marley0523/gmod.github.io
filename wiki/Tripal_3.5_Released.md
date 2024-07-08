@@ -61,9 +61,6 @@ standard Drupal updating procedures to update. Changes in this version:
 
 
 
-### 
-
-
 
 
 

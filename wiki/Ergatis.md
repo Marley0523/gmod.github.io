@@ -52,16 +52,16 @@ Resources
 ## <span id="What_is_it.3F" class="mw-headline">What is it?</span>
 
 
-<a href="File:Ergatis_monitor.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/300px-Ergatis_monitor.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/450px-Ergatis_monitor.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/Ergatis_monitor.png/600px-Ergatis_monitor.png 2x"
-width="300" height="169" /></a>
+width="300" height="169" />
 
 
-<a href="File:Ergatis_monitor.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -99,16 +99,16 @@ eukaryotic organisms, including *Aedes aegypti* and *Trichomonas
 vaginalis*.
 
 
-<a href="File:Ergatis_builder.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/300px-Ergatis_builder.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/450px-Ergatis_builder.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Ergatis_builder.png/600px-Ergatis_builder.png 2x"
-width="300" height="351" /></a>
+width="300" height="351" />
 
 
-<a href="File:Ergatis_builder.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -182,9 +182,6 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-
-
-### 
 
 
 

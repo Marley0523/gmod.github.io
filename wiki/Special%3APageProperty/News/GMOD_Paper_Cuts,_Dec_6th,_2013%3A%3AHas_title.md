@@ -49,9 +49,6 @@ From page     Property
   page](/wiki/Special%3APageProperty/News/GMOD_Paper_Cuts,_Dec_6th,_2013%3A%3AHas_title "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

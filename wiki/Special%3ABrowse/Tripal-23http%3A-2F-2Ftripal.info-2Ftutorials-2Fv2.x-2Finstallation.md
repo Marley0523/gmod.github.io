@@ -65,9 +65,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Tripal-23http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

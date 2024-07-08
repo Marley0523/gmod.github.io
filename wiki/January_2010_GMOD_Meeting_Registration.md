@@ -35,15 +35,15 @@ January 14-15, 2010<br />
 <a href="http://www.sandiego.org/nav/Visitors" class="external text"
 rel="nofollow">San Diego</a>, California, USA<br />
 <br />
-<a href="File:January2010MeetingPic.JPG" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c5/January2010MeetingPic.JPG" width="300"
-height="104" alt="January2010MeetingPic.JPG" /></a></td>
+height="104" alt="January2010MeetingPic.JPG" /></td>
 <td>
 
-<a href="File:Jan2010MtgLogo300.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/Jan2010MtgLogo300.png/250px-Jan2010MtgLogo300.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Jan2010MtgLogo300.png 2x"
-width="250" height="238" alt="Jan2010MtgLogo300.png" /></a>
+width="250" height="238" alt="Jan2010MtgLogo300.png" />
 
 </td>
 </tr>
@@ -675,9 +675,6 @@ future?**
 
 - <span id="ca-talk"><a href="Talk%3AJanuary_2010_GMOD_Meeting" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

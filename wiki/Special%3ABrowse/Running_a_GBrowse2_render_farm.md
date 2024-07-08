@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Running_a_GBrowse2_render_farm "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

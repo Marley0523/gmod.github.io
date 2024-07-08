@@ -42,9 +42,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:02-chado-for-nescent-2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" /></a>
+  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" />
 
   
 
@@ -65,9 +65,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:05-chado_overview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="05-chado overview.pdf" /></a>
+  width="120" height="120" alt="05-chado overview.pdf" />
 
   
 
@@ -89,11 +89,10 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf" /></a>
+  alt="2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf" />
 
   
 
@@ -115,9 +114,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Aug2009Gobol.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009Gobol.pdf" /></a>
+  width="120" height="120" alt="Aug2009Gobol.pdf" />
 
   
 
@@ -138,9 +137,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Aug2009LinkedData.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009LinkedData.pdf" /></a>
+  width="120" height="120" alt="Aug2009LinkedData.pdf" />
 
   
 
@@ -161,9 +160,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:AutoDBI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AutoDBI.pdf" /></a>
+  width="120" height="120" alt="AutoDBI.pdf" />
 
   
 
@@ -184,9 +183,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Chado_pub.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Chado pub.ppt" /></a>
+  height="120" alt="Chado pub.ppt" />
 
   
 
@@ -207,9 +206,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Chado-and-XML.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Chado-and-XML.pdf" /></a>
+  width="120" height="120" alt="Chado-and-XML.pdf" />
 
   
 
@@ -230,9 +229,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Chado-ncibi-2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Chado-ncibi-2006.ppt" /></a>
+  height="120" alt="Chado-ncibi-2006.ppt" />
 
   
 
@@ -253,9 +252,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:ChadoController.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="ChadoController.ppt" /></a>
+  height="120" alt="ChadoController.ppt" />
 
   
 
@@ -276,9 +275,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:ChadoCSHMay03Slides.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ChadoCSHMay03Slides.pdf" /></a>
+  width="120" height="120" alt="ChadoCSHMay03Slides.pdf" />
 
   
 
@@ -299,9 +298,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:ChadoModules.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="ChadoModules.ppt" /></a>
+  height="120" alt="ChadoModules.ppt" />
 
   
 
@@ -322,9 +321,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:ChadoWorkshopArthopod2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ChadoWorkshopArthopod2008.pdf" /></a>
+  width="120" height="120" alt="ChadoWorkshopArthopod2008.pdf" />
 
   
 
@@ -345,9 +344,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:CSH_Chado.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="CSH Chado.ppt" /></a>
+  height="120" alt="CSH Chado.ppt" />
 
   
 
@@ -368,9 +367,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Faga_050517.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Faga 050517.pdf" /></a>
+  width="120" height="120" alt="Faga 050517.pdf" />
 
   
 
@@ -391,9 +390,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:HibernateChadoAPI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HibernateChadoAPI.pdf" /></a>
+  width="120" height="120" alt="HibernateChadoAPI.pdf" />
 
   
 
@@ -414,9 +413,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Jan2009ArtemisChadoGeneDB.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009ArtemisChadoGeneDB.pdf" /></a>
+  width="120" height="120" alt="Jan2009ArtemisChadoGeneDB.pdf" />
 
   
 
@@ -437,9 +436,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Jan2009MarineGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009MarineGenomics.pdf" /></a>
+  width="120" height="120" alt="Jan2009MarineGenomics.pdf" />
 
   
 
@@ -460,9 +459,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Just-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Just-050516.ppt" /></a>
+  height="120" alt="Just-050516.ppt" />
 
   
 
@@ -483,9 +482,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Mcmillan.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mcmillan.pdf" /></a>
+  width="120" height="120" alt="Mcmillan.pdf" />
 
   
 
@@ -506,9 +505,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:PAG2010GDRinDrupal.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010GDRinDrupal.pdf" /></a>
+  width="120" height="120" alt="PAG2010GDRinDrupal.pdf" />
 
   
 
@@ -529,9 +528,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Zhang-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Zhang-050517.ppt" /></a>
+  height="120" alt="Zhang-050517.ppt" />
 
   
 
@@ -552,9 +551,9 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  <a href="File:Jan2010RubyOnRailsAndChado.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010RubyOnRailsAndChado.pdf" /></a>
+  width="120" height="120" alt="Jan2010RubyOnRailsAndChado.pdf" />
 
   
 
@@ -588,9 +587,6 @@ The following 23 files are in this category, out of 23 total.
 
 
 
-
-
-### 
 
 
 

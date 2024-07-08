@@ -68,10 +68,10 @@ Should grpmember have a type_id column?
 
 ## <span id="Integration_with_Chado" class="mw-headline">Integration with Chado</span>
 
-<a href="File:ChadoComparativeModule.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c9/ChadoComparativeModule.png/1200px-ChadoComparativeModule.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/ChadoComparativeModule.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c9/ChadoComparativeModule.png 2x"
-width="1200" height="670" alt="ChadoComparativeModule.png" /></a>
+width="1200" height="670" alt="ChadoComparativeModule.png" />
 
 Tables in blue would be part of the Comparative module proper, while
 tables in red would be part of submodules.
@@ -119,9 +119,6 @@ rel="nofollow">Video</a> of original talk
 
 
 
-
-
-### 
 
 
 

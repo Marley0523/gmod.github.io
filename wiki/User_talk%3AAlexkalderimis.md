@@ -52,9 +52,6 @@ rel="nofollow">Hosted on Dropbox</a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

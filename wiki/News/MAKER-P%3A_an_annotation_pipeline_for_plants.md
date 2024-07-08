@@ -69,9 +69,6 @@ extended and optimised to allow the annotation of plant species:
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

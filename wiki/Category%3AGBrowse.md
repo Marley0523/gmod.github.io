@@ -282,9 +282,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:ChoosingAGenomeBrowser.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ChoosingAGenomeBrowser.pdf" /></a>
+  width="120" height="120" alt="ChoosingAGenomeBrowser.pdf" />
 
   
 
@@ -305,9 +305,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:CosmicGBrowseSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CosmicGBrowseSept2010.pdf" /></a>
+  width="120" height="120" alt="CosmicGBrowseSept2010.pdf" />
 
   
 
@@ -328,9 +328,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:1599-1.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="1599-1.pdf" /></a>
+  width="120" height="120" alt="1599-1.pdf" />
 
   
 
@@ -351,9 +351,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Aug2009GBrowse2ImplPersp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse2ImplPersp.pdf" />
 
   
 
@@ -374,9 +374,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Aug2009GBrowseOrg.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" />
 
   
 
@@ -397,9 +397,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:CMapGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="CMapGBrowseSMBE2009.pdf" />
 
   
 
@@ -420,9 +420,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:CpGIslandAnnotator.pm" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="CpGIslandAnnotator.pm" /></a>
+  height="120" alt="CpGIslandAnnotator.pm" />
 
   
 
@@ -443,9 +443,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Flybase_topoview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Flybase topoview.pdf" /></a>
+  width="120" height="120" alt="Flybase topoview.pdf" />
 
   
 
@@ -467,9 +467,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:GBrowse_2.20_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse 2.20 Poster.pdf" /></a>
+  width="120" height="120" alt="GBrowse 2.20 Poster.pdf" />
 
   
 
@@ -491,9 +491,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Gbrowse_Color_Palette.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gbrowse Color Palette.pdf" /></a>
+  width="120" height="120" alt="Gbrowse Color Palette.pdf" />
 
   
 
@@ -515,9 +515,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:GBrowse_nextgen_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse nextgen poster.pdf" /></a>
+  width="120" height="120" alt="GBrowse nextgen poster.pdf" />
 
   
 
@@ -539,9 +539,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Gbrowse_update_may_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse update may 2003.ppt" /></a>
+  height="120" alt="Gbrowse update may 2003.ppt" />
 
   
 
@@ -563,9 +563,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Gbrowse_update_sept_12_2003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse update sept 12 2003.ppt" /></a>
+  height="120" alt="Gbrowse update sept 12 2003.ppt" />
 
   
 
@@ -587,9 +587,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Gbrowse-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gbrowse-050516.ppt" /></a>
+  height="120" alt="Gbrowse-050516.ppt" />
 
   
 
@@ -610,9 +610,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:GBrowseLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/120px-GBrowseLogo.png"
-  width="120" height="28" alt="GBrowseLogo.png" /></a>
+  width="120" height="28" alt="GBrowseLogo.png" />
 
   
 
@@ -633,9 +633,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:GMODGBrowseSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" /></a>
+  width="120" height="120" alt="GMODGBrowseSMBE2009.pdf" />
 
   
 
@@ -656,9 +656,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:Jan2009WebBrowse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2009WebBrowse.pdf" /></a>
+  width="120" height="120" alt="Jan2009WebBrowse.pdf" />
 
   
 
@@ -679,9 +679,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:NGSWithGMODWorkshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="NGSWithGMODWorkshop.pdf" /></a>
+  width="120" height="120" alt="NGSWithGMODWorkshop.pdf" />
 
   
 
@@ -702,9 +702,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:OCCBio_GBrowse_NGS.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" /></a>
+  width="120" height="120" alt="OCCBio GBrowse NGS.pdf" />
 
   
 
@@ -726,9 +726,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:STRAnnotator.pm" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="STRAnnotator.pm" /></a>
+  height="120" alt="STRAnnotator.pm" />
 
   
 
@@ -749,9 +749,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:ISGAWebGBrowseSept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" /></a>
+  width="120" height="120" alt="ISGAWebGBrowseSept2010.pdf" />
 
   
 
@@ -772,9 +772,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:MaizeGDBGBrowseISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" /></a>
+  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" />
 
   
 
@@ -795,9 +795,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:MohellibiGrapevine_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" /></a>
+  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" />
 
   
 
@@ -819,9 +819,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
+  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" />
 
   
 
@@ -843,9 +843,9 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  <a href="File:ZFNGenomeGBrowseISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ZFNGenomeGBrowseISMB2010.pdf" /></a>
+  width="120" height="120" alt="ZFNGenomeGBrowseISMB2010.pdf" />
 
   
 
@@ -878,9 +878,6 @@ The following 25 files are in this category, out of 25 total.
 
 
 
-
-
-### 
 
 
 

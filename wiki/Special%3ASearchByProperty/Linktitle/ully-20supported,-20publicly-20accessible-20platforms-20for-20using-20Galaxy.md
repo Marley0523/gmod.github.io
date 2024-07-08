@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Linktitle/ully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

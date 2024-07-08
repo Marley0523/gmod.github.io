@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/WormBase-202014%3A-20new-20views-20of-20curated-20biology "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

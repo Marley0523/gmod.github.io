@@ -92,9 +92,6 @@ Thanks for your continued support of the GMOD project,
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

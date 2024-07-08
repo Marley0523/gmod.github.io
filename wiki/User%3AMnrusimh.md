@@ -47,9 +47,6 @@ Email: mnrusimh@indiana.edu
 
 
 
-### 
-
-
 
 
 

@@ -20,10 +20,10 @@
   
 
 
-<a href="File:TripalLogo.png" class="image" title="Tripal"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
-width="250" height="75" alt="Tripal" /></a>
+width="250" height="75" alt="Tripal" />
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
@@ -356,9 +356,9 @@ Tripal is also modular along these same designations.
 Tripal is a collection of modules that integrate with Drupal. These
 modules are divided into hierarchical categories:
 
-<a href="File:TripalLayers.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/TripalLayers.png" width="393" height="411"
-alt="TripalLayers.png" /></a>
+alt="TripalLayers.png" />
 
 The Tripal Core level contains supportive functionality for all other
 modules. It contains
@@ -1513,9 +1513,9 @@ We also want to add a new logo for our site. Since we'll be loading fly
 data we want to add a picture of a fruit fly as our logo. We will use
 the following image:
 
-<a href="File:Drosophila.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2d/Drosophila.png" width="123" height="75"
-alt="Drosophila.png" /></a>
+alt="Drosophila.png" />
 
   
 This image was taken from Wikimedia Commons
@@ -2050,9 +2050,9 @@ thought to have male-related functions."
 For the image, download this image below and upload it using the
 interface on the page.
 
-<a href="File:Dmel.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Dmel.jpg" width="250" height="196"
-alt="Dmel.jpg" /></a>
+alt="Dmel.jpg" />
 
   
 Save the page. Now we have a more informative page:
@@ -2311,9 +2311,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2011 "Special:Expor
 
 
 
-
-
-### 
 
 
 

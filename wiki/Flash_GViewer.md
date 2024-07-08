@@ -18,10 +18,9 @@
 
 
 
-<a href="File:Flash_gviewer_title.jpg" class="image"
-title="Flash GViewer Logo"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Flash_gviewer_title.jpg" width="650"
-height="100" alt="Flash GViewer Logo" /></a>
+height="100" alt="Flash GViewer Logo" />
 
 
   
@@ -65,53 +64,53 @@ GViewer</a>!
 
 Screenshots of the tool are provided below.
 
-<a href="File:Gviewer_regionbar-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Gviewer_regionbar-01.jpg" width="60"
-height="64" alt="Gviewer regionbar-01.jpg" /></a>
+height="64" alt="Gviewer regionbar-01.jpg" />
 
-<a href="File:Gviewer_rat_human.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b4/Gviewer_rat_human.jpg" width="400"
-height="322" alt="Gviewer rat human.jpg" /></a>
+height="322" alt="Gviewer rat human.jpg" />
 
-<a href="File:Gviewer_r_m_chr2.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/92/Gviewer_r_m_chr2.jpg" width="509"
-height="410" alt="Gviewer r m chr2.jpg" /></a>
+height="410" alt="Gviewer r m chr2.jpg" />
 
-<a href="File:Gviewer_r_m_chr2-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/Gviewer_r_m_chr2-01.jpg" width="64"
-height="52" alt="Gviewer r m chr2-01.jpg" /></a>
+height="52" alt="Gviewer r m chr2-01.jpg" />
 
-<a href="File:Gviewer_human_mouse.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/Gviewer_human_mouse.jpg" width="499"
-height="398" alt="Gviewer human mouse.jpg" /></a>
+height="398" alt="Gviewer human mouse.jpg" />
 
-<a href="File:Gviewer_human_mouse-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Gviewer_human_mouse-01.jpg" width="64"
-height="51" alt="Gviewer human mouse-01.jpg" /></a>
+height="51" alt="Gviewer human mouse-01.jpg" />
 
-<a href="File:Gviewer_example2.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c6/Gviewer_example2.jpg" width="289"
-height="408" alt="Gviewer example2.jpg" /></a>
+height="408" alt="Gviewer example2.jpg" />
 
-<a href="File:Gviewer_example2-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/64/Gviewer_example2-01.jpg" width="45"
-height="64" alt="Gviewer example2-01.jpg" /></a>
+height="64" alt="Gviewer example2-01.jpg" />
 
-<a href="File:Gviewer_example1.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Gviewer_example1.jpg" width="477"
-height="404" alt="Gviewer example1.jpg" /></a>
+height="404" alt="Gviewer example1.jpg" />
 
-<a href="File:Gviewer_example1-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/Gviewer_example1-01.jpg" width="64"
-height="54" alt="Gviewer example1-01.jpg" /></a>
+height="54" alt="Gviewer example1-01.jpg" />
 
-<a href="File:Gviewer_example_hs.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Gviewer_example_hs.jpg" width="477"
-height="404" alt="Gviewer example hs.jpg" /></a>
+height="404" alt="Gviewer example hs.jpg" />
 
-<a href="File:Gviewer_example_hs-01.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Gviewer_example_hs-01.jpg" width="64"
-height="54" alt="Gviewer example hs-01.jpg" /></a>
+height="54" alt="Gviewer example hs-01.jpg" />
 
 ## <span id="Requirements" class="mw-headline">Requirements</span>
 
@@ -160,9 +159,6 @@ class="external text" rel="nofollow">Via the web from sourceforge</a>
 
 
 
-
-
-### 
 
 
 

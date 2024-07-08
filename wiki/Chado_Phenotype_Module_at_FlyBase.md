@@ -18,10 +18,9 @@
 
 
 
-<a href="File:WorkInProgressTools.gif" class="image"
-title="Under Construction"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
-height="48" alt="Under Construction" /></a>
+height="48" alt="Under Construction" />
 
 
 
@@ -1414,9 +1413,6 @@ rank can be used for n-ploid organisms or to preserve order.
 
 
 
-
-
-### 
 
 
 

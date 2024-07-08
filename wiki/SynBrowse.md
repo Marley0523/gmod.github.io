@@ -18,9 +18,9 @@
 
 
 
-<a href="File:SynBrowse_logo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/SynBrowse_logo.png" width="460"
-height="104" alt="SynBrowse logo.png" /></a>
+height="104" alt="SynBrowse logo.png" />
 
 
   
@@ -122,9 +122,6 @@ rel="nofollow">Xiaokang Pan</a>.
 
 
 
-
-
-### 
 
 
 

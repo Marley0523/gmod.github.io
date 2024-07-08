@@ -46,9 +46,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20subobject/GBrowse-20syn-23http%3A-2F-2Fdev.wormbase.org-2Fdb-2Fseq-2Fgbrowse_syn-2Fcompara-3Fsearch_src=Cele%3Bname=X%3A1050001..1150000 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

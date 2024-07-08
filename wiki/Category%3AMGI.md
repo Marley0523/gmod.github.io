@@ -51,9 +51,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Mgi_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/07/Mgi_logo.jpg/120px-Mgi_logo.jpg"
-  width="120" height="53" alt="Mgi logo.jpg" /></a>
+  width="120" height="53" alt="Mgi logo.jpg" />
 
   
 
@@ -74,9 +74,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Mgi.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Mgi.ppt" /></a>
+  height="120" alt="Mgi.ppt" />
 
   
 
@@ -97,9 +97,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:MgiMainPageLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/MgiMainPageLogo.jpg" width="120"
-  height="68" alt="MgiMainPageLogo.jpg" /></a>
+  height="68" alt="MgiMainPageLogo.jpg" />
 
   
 
@@ -120,9 +120,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Mod-face-07jan-MGI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-MGI.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-MGI.pdf" />
 
   
 
@@ -155,9 +155,6 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-
-
-### 
 
 
 

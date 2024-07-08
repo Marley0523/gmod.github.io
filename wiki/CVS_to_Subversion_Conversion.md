@@ -25,16 +25,14 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th><a href="File:Cvs_logo.gif" class="image"
-title="CVS to Subversion Conversion"><img
+<th><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0e/Cvs_logo.gif/70px-Cvs_logo.gif"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Cvs_logo.gif 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Cvs_logo.gif 2x"
-width="70" height="54" alt="CVS to Subversion Conversion" /></a></th>
+width="70" height="54" alt="CVS to Subversion Conversion" /></th>
 <th><span style="font-size: 400%; font-weight: bold">⇒</span></th>
-<th><a href="File:Subversion_logo.jpg" class="image"
-title="Subversion CVS to Subversion Conversion"><img
+<th><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Subversion_logo.jpg" width="73"
-height="52" alt="Subversion CVS to Subversion Conversion" /></a></th>
+height="52" alt="Subversion CVS to Subversion Conversion" /></th>
 </tr>
 </thead>
 <tbody>
@@ -190,9 +188,6 @@ projects are still active.
 
 
 
-
-
-### 
 
 
 

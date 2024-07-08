@@ -18,9 +18,9 @@
 
 
 
-<a href="File:TripalLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png" width="400" height="120"
-alt="Tripal logo" /></a>
+alt="Tripal logo" />
 
 
 
@@ -361,9 +361,6 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
 
 
 
-
-
-### 
 
 
 

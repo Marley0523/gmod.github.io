@@ -44,9 +44,6 @@ GBrowse interface?
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

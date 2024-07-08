@@ -43,9 +43,6 @@ From page     Property
   page](/wiki/Special:PageProperty/Property%3AHas_software_maturity_status::Allows_value "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

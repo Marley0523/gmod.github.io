@@ -38,9 +38,6 @@ into smaller pages?
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

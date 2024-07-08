@@ -77,9 +77,6 @@ GMOD project, so we would be very grateful for your help!
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

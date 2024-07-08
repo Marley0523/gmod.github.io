@@ -104,9 +104,6 @@ class="external text" rel="nofollow">the Pathway Tools website</a>.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

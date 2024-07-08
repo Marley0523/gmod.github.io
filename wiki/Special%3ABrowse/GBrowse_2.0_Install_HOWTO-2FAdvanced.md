@@ -60,9 +60,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse_2.0_Install_HOWTO-2FAdvanced "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

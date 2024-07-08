@@ -57,9 +57,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GMOD_in_a_Box-2FResizing_a_VirtualBox_Disk "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/The-20Genome-20Database-20for-20Rosaceae-20(GDR):-20year-2010-20update "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

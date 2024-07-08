@@ -129,9 +129,6 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

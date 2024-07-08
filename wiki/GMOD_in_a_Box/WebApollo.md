@@ -467,9 +467,6 @@ changed it to for 'Password' (default is 'web_apollo_admin').
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

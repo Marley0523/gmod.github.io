@@ -324,9 +324,6 @@ Here is a list of the proposed project ideas for 2018:
 
 
 
-### 
-
-
 
 
 

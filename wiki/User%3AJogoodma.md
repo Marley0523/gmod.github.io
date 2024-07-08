@@ -39,9 +39,6 @@ rel="nofollow">Bloomington, Indiana</a>.
 
 
 
-### 
-
-
 
 
 

@@ -53,17 +53,15 @@ available as RSS feeds:
 - <a
   href="https://www.google.com/calendar/feeds/0ajv0bm32ue3c2o2v1c8i889hk%40group.calendar.google.com/public/basic"
   class="external text" rel="nofollow">GMOD Calendar</a>
-  <a href="File:RSSIcon16x16.gif" class="image"
-  title="GMOD Calendar Feed"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
-  alt="GMOD Calendar Feed" /></a>
+  alt="GMOD Calendar Feed" />
 - <a
   href="https://www.google.com/calendar/feeds/mq93blfvdoosh5unpmivu4kh1c%40group.calendar.google.com/public/basic"
   class="external text" rel="nofollow">Galaxy Calendar</a>
-  <a href="File:RSSIcon16x16.gif" class="image"
-  title="Galaxy Calendar Feed"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
-  alt="Galaxy Calendar Feed" /></a>
+  alt="Galaxy Calendar Feed" />
 
   
 
@@ -1330,9 +1328,6 @@ The meeting where GMOD was born.</td>
 
 
 
-
-
-### 
 
 
 

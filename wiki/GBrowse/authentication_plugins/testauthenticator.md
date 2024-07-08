@@ -70,9 +70,6 @@ information on how to write more sophisticated authentication plugins.
 
 
 
-### 
-
-
 
 <a href="../../Main_Page"
 style="background-image: url(../../../images/GMOD-cogs.png);"

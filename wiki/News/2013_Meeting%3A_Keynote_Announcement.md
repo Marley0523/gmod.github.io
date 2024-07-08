@@ -77,9 +77,6 @@ More information and media coverage of OADB:
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

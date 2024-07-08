@@ -17,9 +17,9 @@
 
 
 
-<a href="File:DhileepSivam_TryAgain.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/DhileepSivam_TryAgain.jpg" width="149"
-height="187" alt="DhileepSivam TryAgain.jpg" /></a>  
+height="187" alt="DhileepSivam TryAgain.jpg" />  
 **Dhileep Sivam**
 
   
@@ -63,9 +63,6 @@ Email: University of Washington user sivam@
 
 
 
-
-
-### 
 
 
 

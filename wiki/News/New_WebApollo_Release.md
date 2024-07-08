@@ -51,9 +51,6 @@ class="external text" rel="nofollow">Server setup instructions</a> -
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

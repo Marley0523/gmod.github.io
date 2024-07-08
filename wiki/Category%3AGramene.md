@@ -49,9 +49,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Gramene_logo180.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/59/Gramene_logo180.jpg/120px-Gramene_logo180.jpg"
-  width="120" height="39" alt="Gramene logo180.jpg" /></a>
+  width="120" height="39" alt="Gramene logo180.jpg" />
 
   
 
@@ -73,9 +73,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Gramene-cmap-pag-poster-2005.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" /></a>
+  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" />
 
   
 
@@ -96,9 +96,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:GrameneMainPageIcon.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/GrameneMainPageIcon.jpg" width="120"
-  height="39" alt="GrameneMainPageIcon.jpg" /></a>
+  height="39" alt="GrameneMainPageIcon.jpg" />
 
   
 
@@ -131,9 +131,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-
-
-### 
 
 
 

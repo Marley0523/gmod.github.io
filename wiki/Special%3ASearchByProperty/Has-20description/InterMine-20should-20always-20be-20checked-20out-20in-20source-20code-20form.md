@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

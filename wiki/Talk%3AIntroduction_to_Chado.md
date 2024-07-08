@@ -45,9 +45,6 @@ I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

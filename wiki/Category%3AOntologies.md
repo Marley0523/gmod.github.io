@@ -55,11 +55,10 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:2005-10_ISMB_Ontology-Building_various.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2005-10 ISMB Ontology-Building various.pdf" /></a>
+  alt="2005-10 ISMB Ontology-Building various.pdf" />
 
   
 
@@ -81,9 +80,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Chado-ncibi-2006.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Chado-ncibi-2006.ppt" /></a>
+  height="120" alt="Chado-ncibi-2006.ppt" />
 
   
 
@@ -104,9 +103,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:DictyBase-phenotypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
+  width="120" height="120" alt="DictyBase-phenotypes.pdf" />
 
   
 
@@ -127,9 +126,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:FlyBaseCVTermViewer.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d3/FlyBaseCVTermViewer.png/120px-FlyBaseCVTermViewer.png"
-  width="120" height="68" alt="FlyBaseCVTermViewer.png" /></a>
+  width="120" height="68" alt="FlyBaseCVTermViewer.png" />
 
   
 
@@ -150,9 +149,9 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  <a href="File:Lapp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Lapp.pdf" /></a>
+  width="120" height="120" alt="Lapp.pdf" />
 
   
 
@@ -185,9 +184,6 @@ The following 5 files are in this category, out of 5 total.
 
 
 
-
-
-### 
 
 
 

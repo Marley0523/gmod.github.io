@@ -94,9 +94,6 @@ Box/Updating](Updating "GMOD in a Box/Updating") page.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

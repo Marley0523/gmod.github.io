@@ -35,11 +35,10 @@ title="Category%3ASession (page does not exist)">Session</a></span><br />
 title="2013 GMOD Summer School">2013 GMOD Summer School</a><br />
 19-23 July 2013<br />
 <a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
-<td style="text-align: right;"><a href="File:2013-summer-school.png"
-class="image"><img
+<td style="text-align: right;"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/400px-2013-summer-school.png 2x"
-width="200" height="124" alt="2013-summer-school.png" /></a></td>
+width="200" height="124" alt="2013-summer-school.png" /></td>
 </tr>
 </tbody>
 </table>
@@ -627,9 +626,6 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 
-
-
-### 
 
 
 

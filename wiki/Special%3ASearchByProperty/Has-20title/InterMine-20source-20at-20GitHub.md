@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/InterMine-20source-20at-20GitHub "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

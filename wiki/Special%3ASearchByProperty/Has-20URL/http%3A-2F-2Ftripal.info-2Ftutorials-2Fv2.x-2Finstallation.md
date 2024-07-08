@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Ftripal.info-2Ftutorials-2Fv2.x-2Finstallation "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

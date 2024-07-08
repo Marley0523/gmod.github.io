@@ -56,9 +56,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:PubFetch_Vijay.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubFetch Vijay.ppt" /></a>
+  height="120" alt="PubFetch Vijay.ppt" />
 
   
 
@@ -80,9 +80,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:PubSearch_09062003.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubSearch 09062003.ppt" /></a>
+  height="120" alt="PubSearch 09062003.ppt" />
 
   
 
@@ -104,9 +104,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:PubSearch_update_CSHL.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="PubSearch update CSHL.ppt" /></a>
+  height="120" alt="PubSearch update CSHL.ppt" />
 
   
 
@@ -135,9 +135,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-
-
-### 
 
 
 

@@ -137,17 +137,16 @@ that shows a number of ChIP-seq experiments with the attributes
 this generates is shown on the right.
 
 
-<a href="File:Subtrack_selection_table_metadata.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/180px-Subtrack_selection_table_metadata.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/270px-Subtrack_selection_table_metadata.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8d/Subtrack_selection_table_metadata.png/360px-Subtrack_selection_table_metadata.png 2x"
-width="180" height="67" /></a>
+width="180" height="67" />
 
 
-<a href="File:Subtrack_selection_table_metadata.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -239,17 +238,16 @@ a gene track that has no subtracks:
     key          = Wormbase Genes
 
 
-<a href="File:Subtracks_genes_before.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/180px-Subtracks_genes_before.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/270px-Subtracks_genes_before.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cd/Subtracks_genes_before.png/360px-Subtracks_genes_before.png 2x"
-width="180" height="24" /></a>
+width="180" height="24" />
 
 
-<a href="File:Subtracks_genes_before.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -292,17 +290,16 @@ to partition on the strand() method, and to label this dimension
 "Strand" on the popup menu presented to the user.
 
 
-<a href="File:Subtracks_genes_first_iteration.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/180px-Subtracks_genes_first_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/270px-Subtracks_genes_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Subtracks_genes_first_iteration.png/360px-Subtracks_genes_first_iteration.png 2x"
-width="180" height="30" /></a>
+width="180" height="30" />
 
 
-<a href="File:Subtracks_genes_first_iteration.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -312,18 +309,16 @@ First iteration of strand-specific subtracks
 
 
 
-<a href="File:Subtracks_genes_dialog_first_iteration.png"
-class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/180px-Subtracks_genes_dialog_first_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/270px-Subtracks_genes_dialog_first_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/85/Subtracks_genes_dialog_first_iteration.png/360px-Subtracks_genes_dialog_first_iteration.png 2x"
-width="180" height="82" /></a>
+width="180" height="82" />
 
 
-<a href="File:Subtracks_genes_dialog_first_iteration.png"
-class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -348,17 +343,16 @@ he can control the display of the subtracks using the dialog on the
 lower right.
 
 
-<a href="File:Subtracks_genes_second_iteration.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/180px-Subtracks_genes_second_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/270px-Subtracks_genes_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/Subtracks_genes_second_iteration.png/360px-Subtracks_genes_second_iteration.png 2x"
-width="180" height="148" /></a>
+width="180" height="148" />
 
 
-<a href="File:Subtracks_genes_second_iteration.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -368,18 +362,16 @@ Second iteration of strand-specific subtracks
 
 
 
-<a href="File:Subtracks_genes_dialog_second_iteration.png"
-class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/180px-Subtracks_genes_dialog_second_iteration.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/270px-Subtracks_genes_dialog_second_iteration.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/80/Subtracks_genes_dialog_second_iteration.png/360px-Subtracks_genes_dialog_second_iteration.png 2x"
-width="180" height="88" /></a>
+width="180" height="88" />
 
 
-<a href="File:Subtracks_genes_dialog_second_iteration.png"
-class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -428,17 +420,16 @@ right.
   
 
 
-<a href="File:Subtrack_selection_table_overview.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/180px-Subtrack_selection_table_overview.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/270px-Subtrack_selection_table_overview.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/23/Subtrack_selection_table_overview.png/360px-Subtrack_selection_table_overview.png 2x"
-width="180" height="63" /></a>
+width="180" height="63" />
 
 
-<a href="File:Subtrack_selection_table_overview.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -448,17 +439,16 @@ ChIP-seq subtracks
 
 
 
-<a href="File:Subtrack_selection_table.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/180px-Subtrack_selection_table.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/270px-Subtrack_selection_table.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/Subtrack_selection_table.png/360px-Subtrack_selection_table.png 2x"
-width="180" height="78" /></a>
+width="180" height="78" />
 
 
-<a href="File:Subtrack_selection_table.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -617,9 +607,6 @@ case the display of empty subtracks will be suppressed.
 
 
 
-
-
-### 
 
 
 

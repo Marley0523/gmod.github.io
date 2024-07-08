@@ -52,9 +52,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Gmod-argos-sep03.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gmod-argos-sep03.pdf" /></a>
+  width="120" height="120" alt="Gmod-argos-sep03.pdf" />
 
   
 
@@ -75,9 +75,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Lucegene-index-overview.txt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-txt.png"
-  width="120" height="120" alt="Lucegene-index-overview.txt" /></a>
+  width="120" height="120" alt="Lucegene-index-overview.txt" />
 
   
 
@@ -98,9 +98,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Lucegene-readme.txt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-txt.png"
-  width="120" height="120" alt="Lucegene-readme.txt" /></a>
+  width="120" height="120" alt="Lucegene-readme.txt" />
 
   
 
@@ -121,9 +121,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:README-lucegene.txt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-txt.png"
-  width="120" height="120" alt="README-lucegene.txt" /></a>
+  width="120" height="120" alt="README-lucegene.txt" />
 
   
 
@@ -156,9 +156,6 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-
-
-### 
 
 
 

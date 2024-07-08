@@ -44,9 +44,6 @@ favor of the apt-get or aptitude binary install
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

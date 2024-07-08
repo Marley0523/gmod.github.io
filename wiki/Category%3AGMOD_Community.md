@@ -214,9 +214,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:1471-2105-6-45.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="1471-2105-6-45.pdf" /></a>
+  width="120" height="120" alt="1471-2105-6-45.pdf" />
 
   
 
@@ -237,9 +237,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Aug2009GBrowseOrg.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowseOrg.pdf" />
 
   
 
@@ -272,9 +272,6 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-
-
-### 
 
 
 

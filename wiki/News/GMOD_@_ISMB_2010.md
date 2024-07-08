@@ -74,9 +74,6 @@ rel="nofollow">ISMB 2010 web site</a> for more on the conference.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

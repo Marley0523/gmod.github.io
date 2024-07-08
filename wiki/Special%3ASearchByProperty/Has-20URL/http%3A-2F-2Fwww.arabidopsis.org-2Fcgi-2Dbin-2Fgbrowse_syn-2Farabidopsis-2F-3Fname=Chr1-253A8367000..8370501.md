@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

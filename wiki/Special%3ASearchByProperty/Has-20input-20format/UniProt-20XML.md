@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20input-20format/UniProt-20XML "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

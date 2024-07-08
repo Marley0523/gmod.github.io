@@ -1390,17 +1390,16 @@ does, see [\#Click Configuration Options](#Click_Configuration_Options).
 
 
 
-<a href="File:Jbrowse_rightclick.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fe/Jbrowse_rightclick.png/800px-Jbrowse_rightclick.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fe/Jbrowse_rightclick.png 2x"
-width="800" height="228" /></a>
+width="800" height="228" />
 
 
-<a href="File:Jbrowse_rightclick.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -1450,17 +1449,16 @@ This results in a context menu like the one pictured below.
 
 
 
-<a href="File:Menu-customization2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0b/Menu-customization2.png/600px-Menu-customization2.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Menu-customization2.png 2x"
-width="600" height="349" /></a>
+width="600" height="349" />
 
 
-<a href="File:Menu-customization2.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -1753,15 +1751,14 @@ the coverage and a VCF file of putative SNPs, and display those instead.
 
 
 
-<a href="File:JBrowse_SNP_Coverage.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/JBrowse_SNP_Coverage.png"
-class="thumbimage" width="790" height="528" /></a>
+class="thumbimage" width="790" height="528" />
 
 
-<a href="File:JBrowse_SNP_Coverage.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -1801,10 +1798,10 @@ alignments.
 `Alignments2` is recommended over `Alignments` for most users.
 
 
-<a href="File:JBrowse_alignment_and_coverage.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png"
 class="thumbborder" width="1124" height="699"
-alt="JBrowse displaying short-read alignments" /></a>
+alt="JBrowse displaying short-read alignments" />
 
 
 ## <span id="BAM_Data_Configuration_Options" class="mw-headline">BAM Data Configuration Options</span>
@@ -1869,10 +1866,10 @@ displays quantitative data as an x/y plot, and the Density displays the
 data as varying intensities of color.
 
 
-<a href="File:Jbrowse_wiggle_tracks.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Jbrowse_wiggle_tracks.png"
 class="thumbborder" width="915" height="284"
-alt="Jbrowse wiggle tracks.png" /></a>
+alt="Jbrowse wiggle tracks.png" />
 
 
 ## <span id="Example_BigWig-based_Wiggle_XY-Plot_Track_Configuration" class="mw-headline">Example BigWig-based Wiggle XY-Plot Track Configuration</span>
@@ -1978,17 +1975,16 @@ with each variant.
 
 
 
-<a href="File:JBrowse_variant_details.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/JBrowse_variant_details.png/800px-JBrowse_variant_details.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/JBrowse_variant_details.png 2x"
-width="800" height="771" /></a>
+width="800" height="771" />
 
 
-<a href="File:JBrowse_variant_details.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2185,16 +2181,16 @@ can specify these bounds with the max and min options.
 
 
 
-<a href="File:Wiggle-options.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/Wiggle-options.png/600px-Wiggle-options.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png 2x"
-width="600" height="177" /></a>
+width="600" height="177" />
 
 
-<a href="File:Wiggle-options.png" class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2269,17 +2265,16 @@ the Perl API for writing your own image track generators.
 
 
 
-<a href="File:Basepair-options.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Basepair-options.png/600px-Basepair-options.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png 2x"
-width="600" height="203" /></a>
+width="600" height="203" />
 
 
-<a href="File:Basepair-options.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -2786,9 +2781,9 @@ the JSON format similar to above
 An example appears in the Volvox example, on ctgB.
 
   
-<a href="File:JBrowse_bookmarks_example_a.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowse_bookmarks_example_a.png"
-width="751" height="233" alt="JBrowse bookmarks example a.png" /></a>
+width="751" height="233" alt="JBrowse bookmarks example a.png" />
 
 ## <span id="Embedded_mode" class="mw-headline">Embedded mode</span>
 
@@ -3168,17 +3163,16 @@ track selector.
 
 
 
-<a href="File:JBrowseFacetedBrowsing.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/68/JBrowseFacetedBrowsing.png/800px-JBrowseFacetedBrowsing.png"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/68/JBrowseFacetedBrowsing.png 2x"
-width="800" height="551" /></a>
+width="800" height="551" />
 
 
-<a href="File:JBrowseFacetedBrowsing.png" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -4154,10 +4148,10 @@ similar is still recommended for canvasfeatures.
   
 Example:
 
-<a href="File:ABLo6WJ.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/800px-ABLo6WJ.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1200px-ABLo6WJ.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/50/ABLo6WJ.jpg/1600px-ABLo6WJ.jpg 2x"
-width="800" height="433" alt="ABLo6WJ.jpg" /></a>
+width="800" height="433" alt="ABLo6WJ.jpg" />
 
 ## <span id="Rendering_high_resolution_screenshots_using_Puppeteer" class="mw-headline">Rendering high resolution screenshots using Puppeteer</span>
 
@@ -4233,9 +4227,6 @@ Retrieved from
 
 
 
-
-
-### 
 
 
 

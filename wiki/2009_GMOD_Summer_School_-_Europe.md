@@ -393,14 +393,14 @@ VMware on Windows and Linux
 
 
 
-<a href="File:WindowsLogoSmall.jpg" class="image" title="Windoze"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="49"
-height="48" alt="Windoze" /></a>
+height="48" alt="Windoze" />
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 
@@ -595,9 +595,6 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 
 
-
-
-### 
 
 
 

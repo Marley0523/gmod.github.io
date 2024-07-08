@@ -56,9 +56,6 @@ rel="nofollow">http://biowiki.org/JBrowseJob</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

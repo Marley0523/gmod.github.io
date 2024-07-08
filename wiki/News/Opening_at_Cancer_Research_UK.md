@@ -88,9 +88,6 @@ group is also open. Applications close 12 November.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

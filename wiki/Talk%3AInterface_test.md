@@ -66,9 +66,6 @@ rel="nofollow">http://marmot.bio.indiana.edu/wiki/index.php/Participants</a>
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

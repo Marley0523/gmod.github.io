@@ -96,9 +96,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:BovineMine_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BovineMine PAG2015.pdf" /></a>
+  width="120" height="120" alt="BovineMine PAG2015.pdf" />
 
   
 
@@ -120,9 +120,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:InterMine_middleware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="InterMine middleware.pdf" /></a>
+  width="120" height="120" alt="InterMine middleware.pdf" />
 
   
 
@@ -144,9 +144,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:IntermineGMOD2008.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="IntermineGMOD2008.pdf" /></a>
+  width="120" height="120" alt="IntermineGMOD2008.pdf" />
 
   
 
@@ -167,9 +167,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:InterMineLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
-  width="120" height="15" alt="InterMineLogo.png" /></a>
+  width="120" height="15" alt="InterMineLogo.png" />
 
   
 
@@ -190,9 +190,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Jan2010InterMine.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010InterMine.pdf" /></a>
+  width="120" height="120" alt="Jan2010InterMine.pdf" />
 
   
 
@@ -213,9 +213,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:MetabolicMineLogoWide.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/MetabolicMineLogoWide.png/120px-MetabolicMineLogoWide.png"
-  width="120" height="26" alt="MetabolicMineLogoWide.png" /></a>
+  width="120" height="26" alt="MetabolicMineLogoWide.png" />
 
   
 
@@ -236,9 +236,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:MohellibiGrapevine_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" /></a>
+  width="120" height="120" alt="MohellibiGrapevine PAG2015.pdf" />
 
   
 
@@ -260,9 +260,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Wheat3bMineDemo_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Wheat3bMineDemo PAG2015.pdf" /></a>
+  width="120" height="120" alt="Wheat3bMineDemo PAG2015.pdf" />
 
   
 
@@ -284,9 +284,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Wheat3bMinePoster_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Wheat3bMinePoster PAG2015.pdf" /></a>
+  width="120" height="120" alt="Wheat3bMinePoster PAG2015.pdf" />
 
   
 
@@ -320,9 +320,6 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-
-
-### 
 
 
 

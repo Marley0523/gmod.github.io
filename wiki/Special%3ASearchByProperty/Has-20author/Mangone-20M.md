@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20author/Mangone-20M "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

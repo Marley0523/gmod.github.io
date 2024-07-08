@@ -280,9 +280,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:CRAWL_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CRAWL Sept2010.pdf" /></a>
+  width="120" height="120" alt="CRAWL Sept2010.pdf" />
 
   
 
@@ -304,9 +304,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:How_to_load_chado_to_biomart.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="How to load chado to biomart.pdf" /></a>
+  width="120" height="120" alt="How to load chado to biomart.pdf" />
 
   
 
@@ -328,9 +328,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:A_Chado_Case_Study.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="A Chado Case Study.pdf" /></a>
+  width="120" height="120" alt="A Chado Case Study.pdf" />
 
   
 
@@ -352,9 +352,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Aug2009LinkedData.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009LinkedData.pdf" /></a>
+  width="120" height="120" alt="Aug2009LinkedData.pdf" />
 
   
 
@@ -375,9 +375,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Chado-manual.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Chado-manual.pdf" /></a>
+  width="120" height="120" alt="Chado-manual.pdf" />
 
   
 
@@ -398,9 +398,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Chado-XML-overview.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Chado-XML-overview.pdf" /></a>
+  width="120" height="120" alt="Chado-XML-overview.pdf" />
 
   
 
@@ -434,9 +434,6 @@ The following 6 files are in this category, out of 6 total.
 
 
 
-
-
-### 
 
 
 

@@ -132,9 +132,6 @@ Again, if name, type and srcfeature are the same, allow the delete?
 
 
 
-### 
-
-
 
 
 

@@ -82,9 +82,6 @@ the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

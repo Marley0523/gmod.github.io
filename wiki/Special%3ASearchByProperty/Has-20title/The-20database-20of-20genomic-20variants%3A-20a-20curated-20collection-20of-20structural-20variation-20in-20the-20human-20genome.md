@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/The-20database-20of-20genomic-20variants%3A-20a-20curated-20collection-20of-20structural-20variation-20in-20the-20human-20genome "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

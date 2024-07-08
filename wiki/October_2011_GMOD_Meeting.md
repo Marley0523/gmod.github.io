@@ -27,10 +27,10 @@ data-cellpadding="10">
 <tr class="odd">
 <td>
 
-<a href="File:October2011Logo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/250px-October2011Logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/375px-October2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/October2011Logo.png/500px-October2011Logo.png 2x"
-width="250" height="225" alt="October2011Logo.png" /></a>
+width="250" height="225" alt="October2011Logo.png" />
 
 </td>
 <td style="font-size: 180%; line-height: 120%"><strong>October 2011 <a
@@ -392,19 +392,19 @@ Please feel free to add suggested talks or topics for the meeting.
 
 |  |  |  |  |
 |----|----|----|----|
-| <a href="File:Biomart250.png" class="image" title="BioMart"><img
+| <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/110px-Biomart250.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/165px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/220px-Biomart250.png 2x"
-width="110" height="44" alt="BioMart" /></a> | <a href="File:GalaxyLogoBigger.png" class="image" title="Galaxy"><img
+width="110" height="44" alt="BioMart" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/110px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/165px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/220px-GalaxyLogoBigger.png 2x"
-width="110" height="39" alt="Galaxy" /></a> | <a href="File:InterMineLogo.png" class="image" title="InterMine"><img
+width="110" height="39" alt="Galaxy" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/130px-InterMineLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/195px-InterMineLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/260px-InterMineLogo.png 2x"
-width="130" height="16" alt="InterMine" /></a> | <a href="File:MAKERLogo.png" class="image" title="MAKER"><img
+width="130" height="16" alt="InterMine" /> | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/110px-MAKERLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/165px-MAKERLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/220px-MAKERLogo.png 2x"
-width="110" height="37" alt="MAKER" /></a> |
+width="110" height="37" alt="MAKER" /> |
 
 - [BioMart workshop](#BioMart_Workshop) (half day, morning), Friday, 14
   October
@@ -563,9 +563,6 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 
 
-
-
-### 
 
 
 

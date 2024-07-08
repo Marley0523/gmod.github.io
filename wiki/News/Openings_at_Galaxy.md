@@ -138,9 +138,6 @@ Please send your CV to jobs@galaxyproject.org.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

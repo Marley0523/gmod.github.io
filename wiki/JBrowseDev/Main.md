@@ -149,9 +149,6 @@ user's web browser, with minimal requirements for the server.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

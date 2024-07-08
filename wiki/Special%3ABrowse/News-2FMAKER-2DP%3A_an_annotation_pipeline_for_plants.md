@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FMAKER-2DP%3A_an_annotation_pipeline_for_plants "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -20,11 +20,10 @@
   
 
 
-<a href="File:GBrowse_syn_logo.png" class="image"
-title="GBrowse syn"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/250px-GBrowse_syn_logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/375px-GBrowse_syn_logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/500px-GBrowse_syn_logo.png 2x"
-width="250" height="80" alt="GBrowse syn" /></a>
+width="250" height="80" alt="GBrowse syn" />
 
 
 This [Comparative Genomics with GBrowse_syn: A hands on workshop for
@@ -153,9 +152,9 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="48" alt="Windoze" /></a>
 
 
-<a href="File:LinuxLogoSmall.jpg" class="image" title="Linux"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="45" height="50"
-alt="Linux" /></a>
+alt="Linux" />
 
 
 
@@ -214,9 +213,9 @@ VirtualBox
 
 
 
-<a href="File:VirtualBox-logo.png" class="image" title="VirtualBox"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="48"
-height="48" alt="VirtualBox" /></a>
+height="48" alt="VirtualBox" />
 
 
 
@@ -283,9 +282,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 
 
-
-
-### 
 
 
 

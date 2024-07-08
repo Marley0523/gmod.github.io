@@ -42,9 +42,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

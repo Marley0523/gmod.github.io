@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Frye.pw.usda.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info-3Fmap_set_aid=Barley_consensus_2003 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

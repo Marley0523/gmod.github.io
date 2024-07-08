@@ -137,9 +137,6 @@ class="external text" rel="nofollow">CPAN</a>.
 
 
 
-### 
-
-
 
 
 

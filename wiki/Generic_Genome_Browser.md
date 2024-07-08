@@ -21,10 +21,10 @@ Browser](http://gmod.org/mediawiki/index.php?title=Generic_Genome_Browser&redire
 
 
 
-<a href="File:GBrowseLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
-width="400" height="94" alt="GBrowse logo" /></a>
+width="400" height="94" alt="GBrowse logo" />
 
 
 
@@ -343,9 +343,6 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 - <span id="ca-talk"><a href="Talk%3AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

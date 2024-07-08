@@ -86,9 +86,6 @@ take a look at [Tripal](../Tripal.1 "Tripal").
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

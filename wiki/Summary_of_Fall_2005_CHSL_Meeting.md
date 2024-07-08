@@ -80,9 +80,6 @@ can then evaluate the technologies better.
 
 
 
-### 
-
-
 
 
 

@@ -62,9 +62,6 @@ Please consider giving a talk and sharing your experience and ideas!
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20title/Textpresso-20User-20Guide "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

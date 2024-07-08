@@ -176,9 +176,6 @@ Plugins](../../Creating_GBrowse_Plugins "Creating GBrowse Plugins").
 
 
 
-### 
-
-
 
 <a href="../../Main_Page"
 style="background-image: url(../../../images/GMOD-cogs.png);"

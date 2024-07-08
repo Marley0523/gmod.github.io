@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20description/A-20publicly-20accessible-20legume-20resource-20that-20will-20integrate-20genetic-20and-20molecular-20data-20from-20multiple-20legume-20species-20and-20enable-20cross-2Dspecies-20comparisons "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

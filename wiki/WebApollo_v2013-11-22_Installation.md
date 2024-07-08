@@ -2555,25 +2555,23 @@ Let's test out our installation. Point your browser to
 ` http://SERVER_ADDRESS:8080/WebApollo `.
 
 
-<a href="File:Web_apollo_login_page_with_credentials_doc.jpg"
-class="image" title="WebApollo login page"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/Web_apollo_login_page_with_credentials_doc.jpg/220px-Web_apollo_login_page_with_credentials_doc.jpg"
 class="thumbborder"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Web_apollo_login_page_with_credentials_doc.jpg 2x"
-width="220" height="115" alt="WebApollo login page" /></a>
+width="220" height="115" alt="WebApollo login page" />
 
 
 The user name and password are both `web_apollo_admin` as we configured
 earlier. Enter them into the login dialog.
 
 
-<a href="File:Web_apollo_select_refseq_doc.jpg" class="image"
-title="WebApollo reference sequence selection"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/Web_apollo_select_refseq_doc.jpg/800px-Web_apollo_select_refseq_doc.jpg"
 class="thumbborder"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/Web_apollo_select_refseq_doc.jpg 2x"
 width="800" height="55"
-alt="WebApollo reference sequence selection" /></a>
+alt="WebApollo reference sequence selection" />
 
 
 We only see one reference sequence to annotate since we're only working
@@ -2599,9 +2597,6 @@ Now have fun annotating!!!
 
 
 
-
-
-### 
 
 
 

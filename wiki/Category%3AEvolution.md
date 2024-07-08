@@ -54,9 +54,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:02-chado-for-nescent-2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" /></a>
+  width="120" height="120" alt="02-chado-for-nescent-2006.pdf" />
 
   
 
@@ -77,10 +77,10 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:2007GenomeInformaticsGMODPoster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2007GenomeInformaticsGMODPoster.pdf" /></a>
+  alt="2007GenomeInformaticsGMODPoster.pdf" />
 
   
 
@@ -101,9 +101,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:GDPDM_GMOD_presentation20060630.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="GDPDM GMOD presentation20060630.ppt" /></a>
+  height="120" alt="GDPDM GMOD presentation20060630.ppt" />
 
   
 
@@ -151,9 +151,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Lapp.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Lapp.pdf" /></a>
+  width="120" height="120" alt="Lapp.pdf" />
 
   
 
@@ -174,9 +174,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Mcmillan.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mcmillan.pdf" /></a>
+  width="120" height="120" alt="Mcmillan.pdf" />
 
   
 
@@ -197,9 +197,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:PAG2009NextGenSeqPoster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2009NextGenSeqPoster.pdf" /></a>
+  width="120" height="120" alt="PAG2009NextGenSeqPoster.pdf" />
 
   
 
@@ -220,9 +220,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Vision.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Vision.pdf" /></a>
+  width="120" height="120" alt="Vision.pdf" />
 
   
 
@@ -255,9 +255,6 @@ The following 8 files are in this category, out of 8 total.
 
 
 
-
-
-### 
 
 
 

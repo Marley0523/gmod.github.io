@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Linktitle/Download-20and-20Install-20Tripal "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

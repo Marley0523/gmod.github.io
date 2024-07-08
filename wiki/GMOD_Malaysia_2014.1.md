@@ -19,10 +19,10 @@
 
 
 
-<a href="File:GMOD-malaysia.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/300px-GMOD-malaysia.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/450px-GMOD-malaysia.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a3/GMOD-malaysia.png/600px-GMOD-malaysia.png 2x"
-width="300" height="190" alt="GMOD-malaysia.png" /></a>
+width="300" height="190" alt="GMOD-malaysia.png" />
 
 
 
@@ -120,10 +120,10 @@ secure the discounted rate.
 
 ## <span id="Participants" class="mw-headline">Participants</span>
 
-<a href="File:GMODMalaysia2014GroupPhoto.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/200px-GMODMalaysia2014GroupPhoto.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/300px-GMODMalaysia2014GroupPhoto.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/74/GMODMalaysia2014GroupPhoto.jpg/400px-GMODMalaysia2014GroupPhoto.jpg 2x"
-width="200" height="123" alt="GMODMalaysia2014GroupPhoto.jpg" /></a> See
+width="200" height="123" alt="GMODMalaysia2014GroupPhoto.jpg" /> See
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/GMODMalaysia2014GroupPhoto.jpg"
 class="internal" title="GMODMalaysia2014GroupPhoto.jpg">the group
 photo</a>.
@@ -161,9 +161,6 @@ very grateful to be a beneficiary of this generous program.
 
 
 
-
-
-### 
 
 
 

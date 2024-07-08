@@ -22,9 +22,9 @@ sequencing](http://gmod.org/mediawiki/index.php?title=Next_generation_sequencing
 
 
 
-<a href="File:WorkInProgressTools.gif" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="48"
-height="48" alt="WorkInProgressTools.gif" /></a> This page is under
+height="48" alt="WorkInProgressTools.gif" /> This page is under
 construction. Eventually it will be a hub for all information in the
 GMOD web site related to next generation sequencing.
 
@@ -67,9 +67,6 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 
 
-
-
-### 
 
 
 

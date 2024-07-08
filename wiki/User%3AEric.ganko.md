@@ -43,9 +43,6 @@ rel="nofollow">Mimulus genome</a>.
 
 
 
-### 
-
-
 
 
 

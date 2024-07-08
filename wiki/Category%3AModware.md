@@ -58,9 +58,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Modware.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Modware.pdf" /></a>
+  width="120" height="120" alt="Modware.pdf" />
 
   
 
@@ -95,9 +95,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

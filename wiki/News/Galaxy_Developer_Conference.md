@@ -93,9 +93,6 @@ interested in using and extending [Galaxy](../Galaxy.1 "Galaxy").
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

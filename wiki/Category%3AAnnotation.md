@@ -142,9 +142,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:GO_Curation_Sept2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GO Curation Sept2010.pdf" /></a>
+  width="120" height="120" alt="GO Curation Sept2010.pdf" />
 
   
 
@@ -166,9 +166,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Crosby_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Crosby 040526.ppt" /></a>
+  height="120" alt="Crosby 040526.ppt" />
 
   
 
@@ -189,9 +189,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:DictyBase-phenotypes.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DictyBase-phenotypes.pdf" /></a>
+  width="120" height="120" alt="DictyBase-phenotypes.pdf" />
 
   
 
@@ -212,9 +212,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Kodira_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Kodira 040526.ppt" /></a>
+  height="120" alt="Kodira 040526.ppt" />
 
   
 
@@ -235,9 +235,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Sabo_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Sabo 040526.ppt" /></a>
+  height="120" alt="Sabo 040526.ppt" />
 
   
 
@@ -258,9 +258,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Schlueter_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Schlueter 040526.ppt" /></a>
+  height="120" alt="Schlueter 040526.ppt" />
 
   
 
@@ -282,9 +282,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Smutniak-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Smutniak-050516.ppt" /></a>
+  height="120" alt="Smutniak-050516.ppt" />
 
   
 
@@ -305,9 +305,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Workshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Workshop.pdf" /></a>
+  width="120" height="120" alt="Workshop.pdf" />
 
   
 
@@ -328,9 +328,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Worley_040526.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Worley 040526.ppt" /></a>
+  height="120" alt="Worley 040526.ppt" />
 
   
 
@@ -351,9 +351,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Zhang-050517.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Zhang-050517.ppt" /></a>
+  height="120" alt="Zhang-050517.ppt" />
 
   
 
@@ -374,9 +374,9 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  <a href="File:Jan2010ErgatisForBiologists.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" /></a>
+  width="120" height="120" alt="Jan2010ErgatisForBiologists.pdf" />
 
   
 
@@ -409,9 +409,6 @@ The following 11 files are in this category, out of 11 total.
 
 
 
-
-
-### 
 
 
 

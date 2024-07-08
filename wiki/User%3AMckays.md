@@ -21,10 +21,10 @@
 
 
 
-<a href="File:Sheldon2.jpg" class="image" title="This is Sheldon"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/Sheldon2.jpg/200px-Sheldon2.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/Sheldon2.jpg/300px-Sheldon2.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b1/Sheldon2.jpg/400px-Sheldon2.jpg 2x"
-width="200" height="144" alt="This is Sheldon" /></a>
+width="200" height="144" alt="This is Sheldon" />
 
 
 
@@ -112,9 +112,6 @@ class="external text" rel="nofollow">View on Google Docs</a>**
 
 
 
-
-
-### 
 
 
 

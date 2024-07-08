@@ -50,9 +50,6 @@ From page     Property
   page](/wiki/Special%3APageProperty/InterMine%3A%3AHas_input_format "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

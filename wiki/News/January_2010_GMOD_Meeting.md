@@ -91,9 +91,6 @@ Thanks and I look forward to seeing you in San Diego!
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

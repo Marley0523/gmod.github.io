@@ -77,9 +77,6 @@ the GMOD Community Survey!</a></span>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

@@ -21,11 +21,10 @@
 
 
 
-<a href="File:Clements.jpg" class="image"
-title="Dave Clements looking cheeky"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/11/Clements.jpg/175px-Clements.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Clements.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/Clements.jpg 2x"
-width="175" height="131" alt="Dave Clements looking cheeky" /></a>
+width="175" height="131" alt="Dave Clements looking cheeky" />
 
 
 
@@ -385,9 +384,6 @@ presentations.
 
 
 
-
-
-### 
 
 
 

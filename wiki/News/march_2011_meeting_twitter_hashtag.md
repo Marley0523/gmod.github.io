@@ -46,9 +46,6 @@ Follow the GMOD March 2011 Meeting on Twitter at \#gmod11
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

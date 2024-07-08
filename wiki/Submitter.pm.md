@@ -50,9 +50,6 @@ The plugin is accessed through URLs.
 
 
 
-### 
-
-
 
 
 

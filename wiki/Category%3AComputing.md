@@ -128,9 +128,9 @@ This category contains only the following file.
 
   
 
-  <a href="File:Aug2009Sam.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009Sam.pdf" /></a>
+  width="120" height="120" alt="Aug2009Sam.pdf" />
 
   
 
@@ -163,9 +163,6 @@ This category contains only the following file.
 
 
 
-
-
-### 
 
 
 

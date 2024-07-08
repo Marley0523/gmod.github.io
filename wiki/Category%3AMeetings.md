@@ -230,9 +230,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:GCC2014Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
-  width="120" height="50" alt="GCC2014Logo.png" /></a>
+  width="120" height="50" alt="GCC2014Logo.png" />
 
   
 
@@ -253,9 +253,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Common_gene_page.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Common gene page.ppt" /></a>
+  height="120" alt="Common gene page.ppt" />
 
   
 
@@ -277,9 +277,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:Gmod_meeting_7_2008.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Gmod meeting 7 2008.ppt" /></a>
+  height="120" alt="Gmod meeting 7 2008.ppt" />
 
   
 
@@ -301,9 +301,9 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  <a href="File:July2008Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/6a/July2008Logo.png/120px-July2008Logo.png"
-  width="120" height="108" alt="July2008Logo.png" /></a>
+  width="120" height="108" alt="July2008Logo.png" />
 
   
 
@@ -337,9 +337,6 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-
-
-### 
 
 
 

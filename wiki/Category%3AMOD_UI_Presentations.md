@@ -28,9 +28,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-ApiDB.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-ApiDB.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-ApiDB.pdf" />
 
   
 
@@ -51,9 +51,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-BioCyc.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-BioCyc.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-BioCyc.pdf" />
 
   
 
@@ -74,9 +74,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-FlyBase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-FlyBase.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-FlyBase.pdf" />
 
   
 
@@ -97,9 +97,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-Intro-dgg.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-Intro-dgg.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-Intro-dgg.pdf" />
 
   
 
@@ -120,9 +120,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-MGI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-MGI.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-MGI.pdf" />
 
   
 
@@ -143,9 +143,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-NCBI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-NCBI.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-NCBI.pdf" />
 
   
 
@@ -166,9 +166,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-SGN.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-SGN.pdf" />
 
   
 
@@ -189,9 +189,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-TAIR.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-TAIR.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-TAIR.pdf" />
 
   
 
@@ -212,9 +212,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-WormBase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-WormBase.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-WormBase.pdf" />
 
   
 
@@ -235,9 +235,9 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  <a href="File:Mod-face-07jan-ZFIN.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-ZFIN.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-ZFIN.pdf" />
 
   
 
@@ -272,9 +272,6 @@ The following 10 files are in this category, out of 10 total.
 
 
 
-
-
-### 
 
 
 

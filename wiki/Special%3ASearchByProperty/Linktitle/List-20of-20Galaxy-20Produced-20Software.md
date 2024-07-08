@@ -41,9 +41,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Linktitle/List-20of-20Galaxy-20Produced-20Software "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -295,9 +295,6 @@ above, so generally speaking you do not need to edit this script.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

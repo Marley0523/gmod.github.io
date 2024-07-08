@@ -77,9 +77,6 @@ note about needing LWP::Simple to the mac install page though.*
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

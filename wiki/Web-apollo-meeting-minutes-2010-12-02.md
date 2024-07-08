@@ -38,9 +38,6 @@ Topics discussed:
 
 
 
-### 
-
-
 
 
 

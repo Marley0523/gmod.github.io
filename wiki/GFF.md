@@ -604,9 +604,6 @@ You can validate reasonably large GFF3 files at the following sites:
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

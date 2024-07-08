@@ -18,10 +18,9 @@
 
 
 
-<a href="File:Summer-school-splash.jpg" class="image"
-title="2012 Summer School splash screen"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Summer-school-splash.jpg" width="779"
-height="395" alt="2012 Summer School splash screen" /></a>
+height="395" alt="2012 Summer School splash screen" />
 
 
   
@@ -36,12 +35,11 @@ class="external text" rel="nofollow">GMOD 2012 Summer School wiki</a>
 (contents available to course participants only)
 
 
-<a href="File:GMOD-Summer-School-2012-group.jpg" class="image"
-title="Students and tutors from the 2012 GMOD Summer School"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/51/GMOD-Summer-School-2012-group.jpg/800px-GMOD-Summer-School-2012-group.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/GMOD-Summer-School-2012-group.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/GMOD-Summer-School-2012-group.jpg 2x"
 width="800" height="445"
-alt="Students and tutors from the 2012 GMOD Summer School" /></a>
+alt="Students and tutors from the 2012 GMOD Summer School" />
 
 
 ## <span id="The_Course" class="mw-headline">The Course</span>
@@ -243,9 +241,6 @@ time on Amazon Web Services for the course tutors and participants.
 
 
 
-
-
-### 
 
 
 

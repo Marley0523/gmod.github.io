@@ -60,9 +60,6 @@ more information and to submit your application.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

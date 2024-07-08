@@ -41,9 +41,6 @@ like the required Mediawiki extensions are not installed.
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

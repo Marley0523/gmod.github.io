@@ -83,9 +83,6 @@ As of JBrowse v1.2.1, these classes are available:
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

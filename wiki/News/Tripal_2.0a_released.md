@@ -62,9 +62,6 @@ loading of organisms and features.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

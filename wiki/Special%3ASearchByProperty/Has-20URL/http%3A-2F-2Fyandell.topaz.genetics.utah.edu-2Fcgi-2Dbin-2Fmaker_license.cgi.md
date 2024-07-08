@@ -43,9 +43,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fyandell.topaz.genetics.utah.edu-2Fcgi-2Dbin-2Fmaker_license.cgi "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

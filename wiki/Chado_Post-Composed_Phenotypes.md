@@ -68,10 +68,10 @@ not all statement structures currently in use.
 
 ## <span id="Proposal" class="mw-headline">Proposal</span>
 
-<a href="File:Chado_phenotype_proposal.clause.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Chado_phenotype_proposal.clause.jpg"
 width="1101" height="806"
-alt="Chado phenotype proposal.clause.jpg" /></a>
+alt="Chado phenotype proposal.clause.jpg" />
 
   
 
@@ -167,9 +167,6 @@ for the older versions of this schema proposal
 
 - <span id="ca-talk"><a href="Talk%3AChado_Post-Composed_Phenotypes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

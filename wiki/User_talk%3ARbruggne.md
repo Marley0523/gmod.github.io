@@ -68,10 +68,9 @@ First things first. Can we pronounce GBOL gobble?
 
 ## <span id="Diagrams" class="mw-headline">Diagrams</span>
 
-<a href="File:Gbol_architecture.png" class="image"
-title="Primitive Architecture Diagram"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/Gbol_architecture.png" width="489"
-height="406" alt="Primitive Architecture Diagram" /></a>
+height="406" alt="Primitive Architecture Diagram" />
 
 - The bio object layer contains classes that are extensions of the
   Simple Object layer classes. for instance, the Gene bio object class
@@ -324,9 +323,6 @@ confidence codes from GO?
   accesskey="c" title="View the user page [c]">User page</a></span>
 - <span id="ca-talk"><a href="User_talk%3ARbruggne" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

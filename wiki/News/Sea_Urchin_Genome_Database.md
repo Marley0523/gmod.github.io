@@ -75,9 +75,6 @@ class="new" title="User%3AAcameron (page does not exist)">Andy Cameron</a>
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

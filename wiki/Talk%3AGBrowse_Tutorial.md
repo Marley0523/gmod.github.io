@@ -40,9 +40,6 @@ The links to the Administration Tutorials above are broken!
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

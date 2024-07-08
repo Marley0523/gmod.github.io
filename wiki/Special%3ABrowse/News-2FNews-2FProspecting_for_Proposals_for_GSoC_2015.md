@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FNews-2FProspecting_for_Proposals_for_GSoC_2015 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

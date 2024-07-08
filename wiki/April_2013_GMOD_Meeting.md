@@ -19,9 +19,9 @@
 
 
 
-<a href="File:Gmod-2013-mtg-alt.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Gmod-2013-mtg-alt.png" width="240"
-height="240" alt="Gmod-2013-mtg-alt.png" /></a>
+height="240" alt="Gmod-2013-mtg-alt.png" />
 
 
 
@@ -235,9 +235,6 @@ improvement for next time.
 
 
 
-
-
-### 
 
 
 

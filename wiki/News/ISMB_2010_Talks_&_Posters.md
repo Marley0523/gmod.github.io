@@ -80,9 +80,6 @@ Tools](../Pathway_Tools.1 "Pathway Tools"), and
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

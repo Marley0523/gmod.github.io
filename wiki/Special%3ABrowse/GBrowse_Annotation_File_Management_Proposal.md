@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GBrowse_Annotation_File_Management_Proposal "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

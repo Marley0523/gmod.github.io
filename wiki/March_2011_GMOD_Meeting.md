@@ -18,18 +18,17 @@
 
 
 
-<a href="File:March2011GMODMeetingLogo.png" class="image"
-title="March 2011 GMOD Community Meeting"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/600px-March2011GMODMeetingLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b7/March2011GMODMeetingLogo.png/900px-March2011GMODMeetingLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/March2011GMODMeetingLogo.png 2x"
-width="600" height="238" alt="March 2011 GMOD Community Meeting" /></a>
+width="600" height="238" alt="March 2011 GMOD Community Meeting" />
 
 
   
-<a href="File:March2011GMODMeeting.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/300px-March2011GMODMeeting.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/450px-March2011GMODMeeting.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/March2011GMODMeeting.jpg/600px-March2011GMODMeeting.jpg 2x"
-width="300" height="153" alt="March2011GMODMeeting.jpg" /></a>
+width="300" height="153" alt="March2011GMODMeeting.jpg" />
 
   
 This [GMOD community meeting](Meetings "Meetings") was held March 5-6
@@ -453,10 +452,9 @@ communities, mailing lists, and organizations.
 with the volume of data that they have and will continue to get in the
 future. GMOD provides excellent options for helping these groups get a
 grip on and exploit their data.</p></td>
-<td><a href="File:GMODAmericas2011Flier.pdf"
-title="GMOD Americas 2011 Flier"><img
+<td><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
-width="131" height="170" alt="GMOD Americas 2011 Flier" /></a></td>
+width="131" height="170" alt="GMOD Americas 2011 Flier" /></td>
 </tr>
 </tbody>
 </table>
@@ -629,9 +627,6 @@ future?**
 
 
 
-
-
-### 
 
 
 

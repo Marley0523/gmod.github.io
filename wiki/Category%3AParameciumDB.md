@@ -53,9 +53,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Cain-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cain-050516.ppt" /></a>
+  height="120" alt="Cain-050516.ppt" />
 
   
 
@@ -76,9 +76,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:CommunityAnnotationNov2007.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" /></a>
+  width="120" height="120" alt="CommunityAnnotationNov2007.pdf" />
 
   
 
@@ -99,9 +99,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:Gkl777.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkl777.pdf" /></a>
+  width="120" height="120" alt="Gkl777.pdf" />
 
   
 
@@ -122,9 +122,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:ParameciumDataModel.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/ParameciumDataModel.jpg/120px-ParameciumDataModel.jpg"
-  width="120" height="90" alt="ParameciumDataModel.jpg" /></a>
+  width="120" height="90" alt="ParameciumDataModel.jpg" />
 
   
 
@@ -145,9 +145,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:ParameciumDB_synteny.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ParameciumDB synteny.pdf" /></a>
+  width="120" height="120" alt="ParameciumDB synteny.pdf" />
 
   
 
@@ -169,9 +169,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:ParameciumDBHomePage.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/ParameciumDBHomePage.png/120px-ParameciumDBHomePage.png"
-  width="120" height="52" alt="ParameciumDBHomePage.png" /></a>
+  width="120" height="52" alt="ParameciumDBHomePage.png" />
 
   
 
@@ -192,9 +192,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:ParameciumDBIcon133x42.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/24/ParameciumDBIcon133x42.png/120px-ParameciumDBIcon133x42.png"
-  width="120" height="38" alt="ParameciumDBIcon133x42.png" /></a>
+  width="120" height="38" alt="ParameciumDBIcon133x42.png" />
 
   
 
@@ -215,9 +215,9 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  <a href="File:ParameciumDBLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/60/ParameciumDBLogo.png/120px-ParameciumDBLogo.png"
-  width="120" height="38" alt="ParameciumDBLogo.png" /></a>
+  width="120" height="38" alt="ParameciumDBLogo.png" />
 
   
 
@@ -250,9 +250,6 @@ The following 8 files are in this category, out of 8 total.
 
 
 
-
-
-### 
 
 
 

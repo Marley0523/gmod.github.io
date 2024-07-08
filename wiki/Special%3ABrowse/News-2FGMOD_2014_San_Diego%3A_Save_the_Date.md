@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGMOD_2014_San_Diego%3A_Save_the_Date "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

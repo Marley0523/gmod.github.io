@@ -20,10 +20,10 @@
   
 
 
-<a href="File:TripalLogo.png" class="image" title="Tripal"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/250px-TripalLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png 2x"
-width="250" height="75" alt="Tripal" /></a>
+width="250" height="75" alt="Tripal" />
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
@@ -270,10 +270,10 @@ construction of a community genomics website to enable individual labs
 or research communities to construct a high-quality, standards-based
 website for data sharing and collaboration.
 
-<a href="File:600px-WhatisTripal.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/600px-WhatisTripal.png/300px-600px-WhatisTripal.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/600px-WhatisTripal.png/450px-600px-WhatisTripal.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/600px-WhatisTripal.png 2x"
-width="300" height="204" alt="600px-WhatisTripal.png" /></a>
+width="300" height="204" alt="600px-WhatisTripal.png" />
 
 ### <span id="Content_Management_System" class="mw-headline">Content Management System</span>
 
@@ -394,10 +394,10 @@ Tripal is also modular along these same designations.
 Tripal is a collection of modules that integrate with Drupal. These
 modules are divided into hierarchical categories:
 
-<a href="File:TripalLayers.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/05/TripalLayers.png/300px-TripalLayers.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/TripalLayers.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/TripalLayers.png 2x"
-width="300" height="314" alt="TripalLayers.png" /></a>
+width="300" height="314" alt="TripalLayers.png" />
 
 The Tripal Core level contains supportive functionality for all other
 modules. It contains
@@ -473,21 +473,21 @@ rel="nofollow">http://gmod.org/wiki/Tripal</a>
 Individuals from these organizations have provided design and coding for
 Tripal v1.1
 
-<a href="File:150px-USLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/150px-USLogo.png" width="150" height="35"
-alt="150px-USLogo.png" /></a>
-<a href="File:150px-WSULogo.png" class="image"><img
+alt="150px-USLogo.png" />
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/150px-WSULogo.png" width="150" height="44"
-alt="150px-WSULogo.png" /></a>
+alt="150px-WSULogo.png" />
 
 Acknowledgments are extended to the Clemson University Genomics
 Institute where Tripal was first conceived and where development of
 earlier releases was performed.
 
-<a href="File:150px-CUGILogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/150px-CUGILogo.png/75px-150px-CUGILogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/150px-CUGILogo.png/113px-150px-CUGILogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/150px-CUGILogo.png 2x"
-width="75" height="43" alt="150px-CUGILogo.png" /></a>
+width="75" height="43" alt="150px-CUGILogo.png" />
 
 Also, special thanks are extended to the GMOD project for logistical
 support and community interaction!!
@@ -662,10 +662,10 @@ Ubuntu server, navigate to your new website using this address:
 rel="nofollow">http://localhost/</a>. You should see the text "It
 works!".
 
-<a href="File:ItWorks.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ItWorks.png/800px-ItWorks.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d0/ItWorks.png/1200px-ItWorks.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/ItWorks.png 2x"
-width="800" height="669" alt="ItWorks.png" /></a>
+width="800" height="669" alt="ItWorks.png" />
 
 Enable the rewrite module for apache. This is useful so that we can use
 Clean URLs with Drupal. Clean URLs are not required but make the page
@@ -706,10 +706,10 @@ sudo /etc/init.d/apache2 restart
 
 PHP comes loaded onto the server, but we need a few other packages:
 
-<a href="File:Ubuntu.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Ubuntu.jpg/50px-Ubuntu.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Ubuntu.jpg/75px-Ubuntu.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e2/Ubuntu.jpg/100px-Ubuntu.jpg 2x"
-width="50" height="58" alt="Ubuntu.jpg" /></a> First install php5 using
+width="50" height="58" alt="Ubuntu.jpg" /> First install php5 using
 Ubuntu's apt-get utility:
 
 ``` enter
@@ -724,20 +724,20 @@ the php5-json package:
    sudo apt-get install php5-json
 ```
 
-<a href="File:Suse.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Suse.png/50px-Suse.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Suse.png/75px-Suse.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Suse.png/100px-Suse.png 2x"
-width="50" height="45" alt="Suse.png" /></a> For Suse Linux you may need
+width="50" height="45" alt="Suse.png" /> For Suse Linux you may need
 to install the **php-posix** package:
 
 ``` enter
    yum install php-posix
 ```
 
-<a href="File:Red_hat_logo_big.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ca/Red_hat_logo_big.jpg/50px-Red_hat_logo_big.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ca/Red_hat_logo_big.jpg/75px-Red_hat_logo_big.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/ca/Red_hat_logo_big.jpg/100px-Red_hat_logo_big.jpg 2x"
-width="50" height="55" alt="Red hat logo big.jpg" /></a> For RedHat
+width="50" height="55" alt="Red hat logo big.jpg" /> For RedHat
 Linux you may also need to install the **php-process** package:
 
 ``` enter
@@ -825,10 +825,10 @@ Now navigate to the URL
 rel="nofollow">http://localhost/phppgadmin</a>\] and you should see the
 following:
 
-<a href="File:Phppgadmin.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8f/Phppgadmin.png/800px-Phppgadmin.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8f/Phppgadmin.png/1200px-Phppgadmin.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/Phppgadmin.png 2x"
-width="800" height="669" alt="Phppgadmin.png" /></a>
+width="800" height="669" alt="Phppgadmin.png" />
 
 The username 'tripaladmin' and the password you specified should be
 required when accessing the PhpPgAdmin page.
@@ -1049,25 +1049,25 @@ Navigate to the installation page of our new web site
 <a href="http://localhost/install.php" class="external free"
 rel="nofollow">http://localhost/install.php</a>
 
-<a href="File:800px-Install1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/800px-Install1.png" width="800"
-height="475" alt="800px-Install1.png" /></a>
+height="475" alt="800px-Install1.png" />
 
   
 Click the link in the middle section that reads **Install Drupal in
 English**
 
-<a href="File:800px-Tripal_Install2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/800px-Tripal_Install2.png" width="800"
-height="475" alt="800px-Tripal Install2.png" /></a>
+height="475" alt="800px-Tripal Install2.png" />
 
   
 When the progress bar shows completing the page will switch to a
 configuration page with some final settings.
 
-<a href="File:800px-Tripal-install3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/800px-Tripal-install3.png" width="800"
-height="475" alt="800px-Tripal-install3.png" /></a>
+height="475" alt="800px-Tripal-install3.png" />
 
   
 Set the following
@@ -1087,9 +1087,9 @@ about unable to send an email. This is safe to ignore as email
 capabilities are not fully enabled on this VMWare image. Now, your site
 is enabled. Click the link **Your new site**:
 
-<a href="File:800px-Tripal_Install4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/800px-Tripal_Install4.png" width="800"
-height="475" alt="800px-Tripal Install4.png" /></a>
+height="475" alt="800px-Tripal Install4.png" />
 
 ### <span id="Drupal_Cron_Entry" class="mw-headline">Drupal Cron Entry</span>
 
@@ -1191,18 +1191,18 @@ account** link on the left sidebar. You'll see a brief history for the
 user and an **Edit** tab. Users can edit their own information using the
 edit interface:
 
-<a href="File:800px-ExplorDrupal1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/800px-ExplorDrupal1.png" width="800"
-height="475" alt="800px-ExplorDrupal1.png" /></a>
+height="475" alt="800px-ExplorDrupal1.png" />
 
 ### <span id="Creating_Content" class="mw-headline">Creating Content</span>
 
 Creation of content in Drupal is very easy. Click the **Create content**
 link on the left sidebar.
 
-<a href="File:800px-ExplorDrupal2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/800px-ExplorDrupal2.png" width="800"
-height="475" alt="800px-ExplorDrupal2.png" /></a>
+height="475" alt="800px-ExplorDrupal2.png" />
 
   
 You'll see two content types that come default with Drupal: Page and
@@ -1210,9 +1210,9 @@ Story. Here is where a user can add simple new pages to the website
 without knowledge of HTML or CSS. Click the **Page** content type to see
 the interface for creating a new page:
 
-<a href="File:800px-ExploreDrupal3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/800px-ExploreDrupal3.png" width="800"
-height="475" alt="800px-ExploreDrupal3.png" /></a>
+height="475" alt="800px-ExploreDrupal3.png" />
 
   
 You'll notice at the top a **Title** field and a **Body** text box. All
@@ -1221,9 +1221,9 @@ the body. Additionally, there are other options that allow someone to
 enter HTML if they would like, save revisions of a page to preserve a
 history and to set authoring and publishing information.
 
-<a href="File:800px-ExploreDrupal4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/800px-ExploreDrupal4.png" width="800"
-height="475" alt="800px-ExploreDrupal4.png" /></a>
+height="475" alt="800px-ExploreDrupal4.png" />
 
   
 For practice, try to create two new pages. A **Home** page and an
@@ -1238,26 +1238,26 @@ There are many options under the **Administer** link on the left
 sidebar. Here you can manage the site setup, monitor and control
 content, manage users and view reports.
 
-<a href="File:800px-DrupalAdmin1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/800px-DrupalAdmin1.png" width="800"
-height="633" alt="800px-DrupalAdmin1.png" /></a>
+height="633" alt="800px-DrupalAdmin1.png" />
 
   
 We will not explore all of the options here but will visit a few of the
 more important ones for this tutorial. First, click the **Content
 Management** link on the left sidebar. You'll see different options.
 
-<a href="File:800px-DrupalAdminContent.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/800px-DrupalAdminContent.png" width="800"
-height="633" alt="800px-DrupalAdminContent.png" /></a>
+height="633" alt="800px-DrupalAdminContent.png" />
 
   
 Click the **Content** link. The page shows all content available on the
 site. You will see the "About" and "Home" pages you created previously:
 
-<a href="File:800px-DrupalContent.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/800px-DrupalContent.png" width="800"
-height="633" alt="800px-DrupalContent.png" /></a>
+height="633" alt="800px-DrupalContent.png" />
 
   
 You'll also notice a set of drop down boxes for filtering the content.
@@ -1272,9 +1272,9 @@ Click the **Site Building** link on the let sidebar under the
 **Administer** link. You'll see several new menu options: Blocks, Menus,
 Modules and Themes. First click **Modules**
 
-<a href="File:800px-AdminModules.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/800px-AdminModules.png" width="800"
-height="633" alt="800px-AdminModules.png" /></a>
+height="633" alt="800px-AdminModules.png" />
 
   
 Here is where you will see the various modules that make up Drupal. Take
@@ -1298,9 +1298,9 @@ enables alternative naming of page URLs (we will discuss later).
 Next, click the **Themes** link under **Administer** → **Site Building**
 on the left sidebar.
 
-<a href="File:800px-DrupalThemes.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/800px-DrupalThemes.png" width="800"
-height="633" alt="800px-DrupalThemes.png" /></a>
+height="633" alt="800px-DrupalThemes.png" />
 
   
 Here, you'll see a list of themes that come with Drupal by default. If
@@ -1310,9 +1310,9 @@ them. Change the them by checking the **Enable** checkbox and the
 **default** radio button for the **Pushbutton** theme and then clicking
 **Save configuration**. Now you'll see that the theme has changed.
 
-<a href="File:800px-DrupalThemes2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/800px-DrupalThemes2.png" width="800"
-height="522" alt="800px-DrupalThemes2.png" /></a>
+height="522" alt="800px-DrupalThemes2.png" />
 
   
 
@@ -1328,10 +1328,10 @@ Also, you'll see a list of available blocks. You can select where blocks
 will appear by selecting the region in the drop down list. Blocks may
 also be hidden, if desired, by selecting **\<none\>** in the dropdown.
 
-<a href="File:Drupal_blocks1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/77/Drupal_blocks1.png/800px-Drupal_blocks1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/77/Drupal_blocks1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/77/Drupal_blocks1.png 2x"
-width="800" height="708" alt="Drupal blocks1.png" /></a>
+width="800" height="708" alt="Drupal blocks1.png" />
 
   
 Take time to turn on and off blocks to see where they appear. Re-arrange
@@ -1339,10 +1339,10 @@ blocks by dragging and dropping the cross-hairs beside each one. Be sure
 to leave the blocks in the configuration shown in the image below
 finished:
 
-<a href="File:Drupal_blocks2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3b/Drupal_blocks2.png/800px-Drupal_blocks2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Drupal_blocks2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3b/Drupal_blocks2.png 2x"
-width="800" height="708" alt="Drupal blocks2.png" /></a>
+width="800" height="708" alt="Drupal blocks2.png" />
 
 ##### <span id="Menus" class="mw-headline">Menus</span>
 
@@ -1353,18 +1353,18 @@ to the **Content top** section of the Sky theme. To view the **Primary
 links** menu, navigate to **Administer** → **Site building** →
 **Menus**.
 
-<a href="File:Drupal_menus1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2a/Drupal_menus1.png/800px-Drupal_menus1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/Drupal_menus1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2a/Drupal_menus1.png 2x"
-width="800" height="613" alt="Drupal menus1.png" /></a>
+width="800" height="613" alt="Drupal menus1.png" />
 
   
 Select the menu **Primary links**. You'll see it currently has no item.
 
-<a href="File:Drupal_menus2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/81/Drupal_menus2.png/800px-Drupal_menus2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Drupal_menus2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Drupal_menus2.png 2x"
-width="800" height="613" alt="Drupal menus2.png" /></a>
+width="800" height="613" alt="Drupal menus2.png" />
 
   
 As a demonstration for working with menus we'll add two menu items for
@@ -1372,10 +1372,10 @@ the Home and About pages we created earlier. To do so, click the **Add
 item** tab. You will see a form for providing information about the menu
 item to be added.
 
-<a href="File:Drupal_menus3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fd/Drupal_menus3.png/800px-Drupal_menus3.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Drupal_menus3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Drupal_menus3.png 2x"
-width="800" height="613" alt="Drupal menus3.png" /></a>
+width="800" height="613" alt="Drupal menus3.png" />
 
 The first field is the path. We need to find the path for our home page.
 
@@ -1406,10 +1406,10 @@ it on the **Primary Links** menu. We now have a **Home** menu item in
 the top just under the header, and our **Home** menu item now appears in
 the list of menu items for the **Primary Links** menu
 
-<a href="File:Druapl_menus4.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/73/Druapl_menus4.png/800px-Druapl_menus4.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/73/Druapl_menus4.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/73/Druapl_menus4.png 2x"
-width="800" height="613" alt="Druapl menus4.png" /></a>
+width="800" height="613" alt="Druapl menus4.png" />
 
   
 Using the insructions above to add a second menu item for our about page
@@ -1429,10 +1429,10 @@ the top and click the **Edit** tab. Scroll to the bottom of the edit
 page and you'll see a section titled **URL path setting**. click to open
 this section.
 
-<a href="File:Drupal_url.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/Drupal_url.png/800px-Drupal_url.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Drupal_url.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Drupal_url.png 2x"
-width="800" height="336" alt="Drupal url.png" /></a>
+width="800" height="336" alt="Drupal url.png" />
 
   
 Since this is our about page, we simply want the URL to be
@@ -1456,10 +1456,10 @@ There are many options under the **Administer** → **Site configuration**
 page. Here we will only look at one of these at the moment--the **Site
 Information** page.
 
-<a href="File:Drupal_config.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d3/Drupal_config.png/800px-Drupal_config.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/Drupal_config.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/Drupal_config.png 2x"
-width="800" height="613" alt="Drupal config.png" /></a>
+width="800" height="613" alt="Drupal config.png" />
 
   
 Here you will find the configuration options we set when installing the
@@ -1521,9 +1521,9 @@ This should unpack the theme for us. Now, navigate to **Administer** →
 **Site Building** → **Themes** and enable the 'Sky' theme and set it as
 default:
 
-<a href="File:800px-DrupalThemes3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/800px-DrupalThemes3.png" width="800"
-height="522" alt="800px-DrupalThemes3.png" /></a>
+height="522" alt="800px-DrupalThemes3.png" />
 
   
 The sky theme was obtained at this address:
@@ -1543,9 +1543,9 @@ of every theme we have enabled. You should see the **Sky** theme at the
 end of this list. Click that theme because that is the one we are using
 and want to configure:
 
-<a href="File:800px-DrupalSkyTheme.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d5/800px-DrupalSkyTheme.png" width="800"
-height="477" alt="800px-DrupalSkyTheme.png" /></a>
+height="477" alt="800px-DrupalSkyTheme.png" />
 
   
 Here you can turn on and off the presence of the logo, site name,
@@ -1607,9 +1607,9 @@ to the **Administer** → **Site Building** → **Modules** page and enable
 the Views module.
 
   
-<a href="File:800px-DrupalViews.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/800px-DrupalViews.png" width="800"
-height="491" alt="800px-DrupalViews.png" /></a>
+height="491" alt="800px-DrupalViews.png" />
 
   
 Notice that the Views package provided three different related modules
@@ -1686,10 +1686,10 @@ interface for adding content. Navigate to 'Administer' -\> 'Site
 Configuration' -\> 'CKEditor'. You will see a page similar to the
 following:
 
-<a href="File:Tripal-v1.1_ckeditor1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/93/Tripal-v1.1_ckeditor1.png/800px-Tripal-v1.1_ckeditor1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/93/Tripal-v1.1_ckeditor1.png/1200px-Tripal-v1.1_ckeditor1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/Tripal-v1.1_ckeditor1.png 2x"
-width="800" height="457" alt="Tripal-v1.1 ckeditor1.png" /></a>
+width="800" height="457" alt="Tripal-v1.1 ckeditor1.png" />
 
 Click the 'Edit' link beside 'CKEditor Global Profile'. On the page that
 appears, we want to expand the 'Visibility Settings' and switch the
@@ -1697,10 +1697,10 @@ radio button from 'Exclude' to 'Include'. Then clear all of the entries
 in the textbox named 'Fields to exclude/include':
 
   
-<a href="File:Tripal-v1.1_ckeditor2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/Tripal-v1.1_ckeditor2.png/800px-Tripal-v1.1_ckeditor2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5b/Tripal-v1.1_ckeditor2.png/1200px-Tripal-v1.1_ckeditor2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Tripal-v1.1_ckeditor2.png 2x"
-width="800" height="457" alt="Tripal-v1.1 ckeditor2.png" /></a>
+width="800" height="457" alt="Tripal-v1.1 ckeditor2.png" />
 
 Add the following lines to the textbox you just cleared:
 
@@ -1723,10 +1723,10 @@ CKEdintifier for the textbox named `sky:page@node/add/page.edit-body.`.
 This was one of the identifiers we used in the textbox above, but with
 the theme name (e.g. `sky`) removed.
 
-<a href="File:Tripal_v1.1-ckeditor3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9e/Tripal_v1.1-ckeditor3.png/800px-Tripal_v1.1-ckeditor3.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9e/Tripal_v1.1-ckeditor3.png/1200px-Tripal_v1.1-ckeditor3.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Tripal_v1.1-ckeditor3.png 2x"
-width="800" height="457" alt="Tripal v1.1-ckeditor3.png" /></a>
+width="800" height="457" alt="Tripal v1.1-ckeditor3.png" />
 
 Click the **Update global profile button**. Next, under the **Profiles**
 section. Click the **edit** link next to **Default** profile. When the
@@ -1824,19 +1824,19 @@ web browser, navigate to **Administer** → **Tripal Management** →
 option to install Chado v1.2 and click the button **Install/ugrapde
 Chado**
 
-<a href="File:Chado_install.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/35/Chado_install.png/800px-Chado_install.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/35/Chado_install.png/1200px-Chado_install.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/Chado_install.png 2x"
-width="800" height="457" alt="Chado install.png" /></a>
+width="800" height="457" alt="Chado install.png" />
 
 After the button is clicked a message will appear stating "Job 'Install
 Chado v1.2' submitted. Check the jobs page for status". Click the **jobs
 page** link to see the job that was submitted:
 
-<a href="File:ChadoInstallJob.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/ChadoInstallJob.png/800px-ChadoInstallJob.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/01/ChadoInstallJob.png/1200px-ChadoInstallJob.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/ChadoInstallJob.png 2x"
-width="800" height="457" alt="ChadoInstallJob.png" /></a>
+width="800" height="457" alt="ChadoInstallJob.png" />
 
 The job is waiting in the queue until the Tripal jobs system wakes and
 tries to run the job. The jobs management subsystem allows modules to
@@ -1908,10 +1908,10 @@ that the installation of Chado was successful:
 Also, we see that the job has completed when refreshing the jobs
 management page:
 
-<a href="File:ChadoInstallDone.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d2/ChadoInstallDone.png/800px-ChadoInstallDone.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d2/ChadoInstallDone.png/1200px-ChadoInstallDone.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/ChadoInstallDone.png 2x"
-width="800" height="438" alt="ChadoInstallDone.png" /></a>
+width="800" height="438" alt="ChadoInstallDone.png" />
 
 Now that Chado is installed, we can continue with installation of the
 remaining Tripal modules. These modules should be installed in the
@@ -2001,10 +2001,10 @@ this, navigate to **Administer** → **Tripal Management** →
 and how to use it. Click the link on the left sidebar titled 'Load
 Ontology With OBO File'. You'll see the following page:
 
-<a href="File:Tripal-LoadOntology.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Tripal-LoadOntology.png/800px-Tripal-LoadOntology.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fa/Tripal-LoadOntology.png/1200px-Tripal-LoadOntology.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/Tripal-LoadOntology.png 2x"
-width="800" height="581" alt="Tripal-LoadOntology.png" /></a>
+width="800" height="581" alt="Tripal-LoadOntology.png" />
 
   
 The Ontology loader will allow you to select a pre-defined ontology from
@@ -2049,10 +2049,10 @@ genomic content. To do this, navigate to **Administer** → **user
 Management** → **Permissions**. Here you will see permissions for all
 types of content.
 
-<a href="File:Triapl-Permissions.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/Triapl-Permissions.png/800px-Triapl-Permissions.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1e/Triapl-Permissions.png/1200px-Triapl-Permissions.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1e/Triapl-Permissions.png 2x"
-width="800" height="489" alt="Triapl-Permissions.png" /></a>
+width="800" height="489" alt="Triapl-Permissions.png" />
 
   
 Scroll through the list of permissions and set the following for both
@@ -2089,9 +2089,9 @@ already, so we will check to see if our organism is already present. To
 do this navigate to **Administer** -\> **Tripal Management** →
 **Organisms** → **Configuration**
 
-<a href="File:800px-TripalOrganisms.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/800px-TripalOrganisms.png" width="800"
-height="485" alt="800px-TripalOrganisms.png" /></a>
+height="485" alt="800px-TripalOrganisms.png" />
 
   
 This configuration page has several different options. We will discuss
@@ -2120,19 +2120,19 @@ module. On this page we see a list of organisms that are present in
 Chado. Notice that only the fruitfly is clickable because it is the only
 organism synced.
 
-<a href="File:TripalOrganismList.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bf/TripalOrganismList.png/800px-TripalOrganismList.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/bf/TripalOrganismList.png/1200px-TripalOrganismList.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/TripalOrganismList.png 2x"
-width="800" height="409" alt="TripalOrganismList.png" /></a>
+width="800" height="409" alt="TripalOrganismList.png" />
 
   
 Now if we click the 'fruitfly' link it should take us to our new
 organism page:
 
-<a href="File:TripalOrganismFruitFly.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/TripalOrganismFruitFly.png/800px-TripalOrganismFruitFly.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a2/TripalOrganismFruitFly.png/1200px-TripalOrganismFruitFly.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a2/TripalOrganismFruitFly.png 2x"
-width="800" height="409" alt="TripalOrganismFruitFly.png" /></a>
+width="800" height="409" alt="TripalOrganismFruitFly.png" />
 
 By default all Tripal pages have a center content section and a right
 side-bar section with links for **Resources**. However, this page is a
@@ -2140,10 +2140,10 @@ bit empty. We need to add some details. Click the **Edit** tab towards
 the top of the page. Notice two if the fields are missing content: the
 description and the organism image
 
-<a href="File:TripalOrganismFruitFly2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/TripalOrganismFruitFly2.png/800px-TripalOrganismFruitFly2.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/82/TripalOrganismFruitFly2.png/1200px-TripalOrganismFruitFly2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/TripalOrganismFruitFly2.png 2x"
-width="800" height="448" alt="TripalOrganismFruitFly2.png" /></a>
+width="800" height="448" alt="TripalOrganismFruitFly2.png" />
 
   
 For the description add the following text (taken from wikipedia:
@@ -2170,18 +2170,18 @@ thought to have male-related functions."
 For the image, download this image below and upload it using the
 interface on the page.
 
-<a href="File:Dmel.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/Dmel.jpg/200px-Dmel.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Dmel.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/Dmel.jpg 2x"
-width="200" height="157" alt="Dmel.jpg" /></a>
+width="200" height="157" alt="Dmel.jpg" />
 
   
 Save the page. Now we have a more informative page:
 
-<a href="File:TripalOrgPageDone.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/TripalOrgPageDone.png/800px-TripalOrgPageDone.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3c/TripalOrgPageDone.png/1200px-TripalOrgPageDone.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/TripalOrgPageDone.png 2x"
-width="800" height="499" alt="TripalOrgPageDone.png" /></a>
+width="800" height="499" alt="TripalOrgPageDone.png" />
 
 #### <span id="What_if_My_Organism_Is_Not_Present_in_Chado.3F" class="mw-headline">What if My Organism Is Not Present in Chado?</span>
 
@@ -2193,10 +2193,10 @@ many more content types than when we first saw it. Previously we only
 had **Page** and **Story** content types. Now we have more content types
 added by the Tripal Analysis, Organism, Feature and Extension modules .
 
-<a href="File:Tripal-Create_content.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Tripal-Create_content.png/800px-Tripal-Create_content.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/20/Tripal-Create_content.png/1200px-Tripal-Create_content.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/Tripal-Create_content.png 2x"
-width="800" height="448" alt="Tripal-Create content.png" /></a>
+width="800" height="448" alt="Tripal-Create content.png" />
 
   
 To add a new organism simply click the **Organism** link and and fill in
@@ -2220,17 +2220,17 @@ the fields with these values:
 
 And, use the following image:
 
-<a href="File:Citrus_sinensis.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/42/Citrus_sinensis.jpg/200px-Citrus_sinensis.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/Citrus_sinensis.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/Citrus_sinensis.jpg 2x"
-width="200" height="176" alt="Citrus sinensis.jpg" /></a>
+width="200" height="176" alt="Citrus sinensis.jpg" />
 
 Save the page and view the new Organism:
 
-<a href="File:Tripal-Organism-Citrus.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/Tripal-Organism-Citrus.png/800px-Tripal-Organism-Citrus.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/Tripal-Organism-Citrus.png/1200px-Tripal-Organism-Citrus.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cc/Tripal-Organism-Citrus.png 2x"
-width="800" height="499" alt="Tripal-Organism-Citrus.png" /></a>
+width="800" height="499" alt="Tripal-Organism-Citrus.png" />
 
 ### <span id="Creating_an_Analysis" class="mw-headline">Creating an Analysis</span>
 
@@ -2252,10 +2252,10 @@ To create an analysis for loading our genomic data, navigate to the
 
 The analysis creation page will appear:
 
-<a href="File:TripalCreateAnalysis.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/TripalCreateAnalysis.png/800px-TripalCreateAnalysis.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/TripalCreateAnalysis.png/1200px-TripalCreateAnalysis.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/TripalCreateAnalysis.png 2x"
-width="800" height="538" alt="TripalCreateAnalysis.png" /></a>
+width="800" height="538" alt="TripalCreateAnalysis.png" />
 
 Here you can provide the necessary details to help others understand the
 source of your data. For this tutorial, enter the following:
@@ -2300,10 +2300,10 @@ tools that makes it much easier to add text to any page.
 
 After saving, you should have the following analysis page:
 
-<a href="File:Tripal-Analysis-Citrus.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/Tripal-Analysis-Citrus.png/800px-Tripal-Analysis-Citrus.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/27/Tripal-Analysis-Citrus.png/1200px-Tripal-Analysis-Citrus.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Tripal-Analysis-Citrus.png 2x"
-width="800" height="448" alt="Tripal-Analysis-Citrus.png" /></a>
+width="800" height="448" alt="Tripal-Analysis-Citrus.png" />
 
 ### <span id="Creating_a_Database_Cross_Reference" class="mw-headline">Creating a Database Cross Reference</span>
 
@@ -2314,10 +2314,10 @@ navigate to **Administer** → **Tripal Management** → **Databases** →
 **Add a Database**. The resulting page provides fields for adding a new
 database:
 
-<a href="File:Tripal-Add-Database.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/Tripal-Add-Database.png/800px-Tripal-Add-Database.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/Tripal-Add-Database.png/1200px-Tripal-Add-Database.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c1/Tripal-Add-Database.png 2x"
-width="800" height="448" alt="Tripal-Add-Database.png" /></a>
+width="800" height="448" alt="Tripal-Add-Database.png" />
 
 Enter the following values for the fields:
 
@@ -2396,9 +2396,6 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_v1.1 "Special:Expor
 
 
 
-
-
-### 
 
 
 

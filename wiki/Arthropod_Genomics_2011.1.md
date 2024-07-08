@@ -155,9 +155,6 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 
-### 
-
-
 
 
 

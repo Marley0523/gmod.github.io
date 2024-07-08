@@ -43,39 +43,39 @@
 
 ### <span id="Index" class="mw-headline">Index</span>
 
-<a href="File:LuceGeneDemo_index.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/LuceGeneDemo_index.png" width="539"
-height="440" alt="LuceGeneDemo index.png" /></a>
+height="440" alt="LuceGeneDemo index.png" />
 
 ### <span id="Basic_Search:_UniProt" class="mw-headline">Basic Search: UniProt</span>
 
-<a href="File:LuceGeneDemo_Search.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4b/LuceGeneDemo_Search.png" width="535"
-height="256" alt="LuceGeneDemo Search.png" /></a>
+height="256" alt="LuceGeneDemo Search.png" />
 
 ### <span id="Results:_UniProt" class="mw-headline">Results: UniProt</span>
 
-<a href="File:LuceGeneDemo_UniProt.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/LuceGeneDemo_UniProt.png" width="526"
-height="664" alt="LuceGeneDemo UniProt.png" /></a>
+height="664" alt="LuceGeneDemo UniProt.png" />
 
 ### <span id="Batch_Search:_Sequences" class="mw-headline">Batch Search: Sequences</span>
 
-<a href="File:LuceGeneDemo_batch.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/LuceGeneDemo_batch.png" width="519"
-height="306" alt="LuceGeneDemo batch.png" /></a>
+height="306" alt="LuceGeneDemo batch.png" />
 
 ### <span id="Results:_Sequences" class="mw-headline">Results: Sequences</span>
 
-<a href="File:LuceGeneDemo_Fasta.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/LuceGeneDemo_Fasta.png" width="517"
-height="461" alt="LuceGeneDemo Fasta.png" /></a>
+height="461" alt="LuceGeneDemo Fasta.png" />
 
 ### <span id="Data_Library" class="mw-headline">Data Library</span>
 
-<a href="File:LuceGeneDemo_library.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/LuceGeneDemo_library.png" width="516"
-height="343" alt="LuceGeneDemo library.png" /></a>
+height="343" alt="LuceGeneDemo library.png" />
 
 
 
@@ -94,9 +94,6 @@ height="343" alt="LuceGeneDemo library.png" /></a>
 
 
 
-
-
-### 
 
 
 

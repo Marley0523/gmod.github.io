@@ -251,9 +251,9 @@ any kind.
 <td></td>
 </tr>
 <tr class="even">
-<td><a href="File:Mini-arch-diagram.png" class="image"><img
+<td><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Mini-arch-diagram.png" width="97"
-height="237" alt="Mini-arch-diagram.png" /></a></td>
+height="237" alt="Mini-arch-diagram.png" /></td>
 <td>Most GMOD installations have a general architecture in common. There
 is a data source: the <a href="Glossary#Database"
 title="Glossary">database</a>. This does not have to be a relational
@@ -308,9 +308,9 @@ are called *tracks* and tracks are populated by one or more images
 called *glyphs*, plus text.
 
   
-<a href="File:Gbrowse-glyphs.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/Gbrowse-glyphs.png" width="946"
-height="761" alt="Gbrowse-glyphs.png" /></a>
+height="761" alt="Gbrowse-glyphs.png" />
 
   
 GBrowse comes with a large library of glyphs, including pie charts, dot
@@ -348,11 +348,10 @@ minimal requirements for the server. JBrowse's features include:
   over HTTP. Serve huge datasets from a single low-cost cloud instance.
 
 
-<a href="File:JBrowse_alignment_and_coverage.png" class="image"
-title="JBrowse alignment and coverage"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
-width="600" height="373" alt="JBrowse alignment and coverage" /></a>
+width="600" height="373" alt="JBrowse alignment and coverage" />
 
 
 Screenshot of JBrowse in action
@@ -376,9 +375,9 @@ a *protein* table with *protein.name*, *protein.proteinid* and
 *protein.sequence* fields.
 
   
-<a href="File:Table-example.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/Table-example.png" width="441"
-height="129" alt="Table-example.png" /></a>
+height="129" alt="Table-example.png" />
 
   
 The picture above shows these two tables, and explains the term
@@ -1168,9 +1167,6 @@ restrictions will clearly state that they have restricted licenses.
 
 - <span id="ca-talk"><a href="Talk%3AOverview" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 

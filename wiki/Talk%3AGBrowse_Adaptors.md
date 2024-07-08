@@ -43,9 +43,6 @@ adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
-### 
-
-
 
 
 

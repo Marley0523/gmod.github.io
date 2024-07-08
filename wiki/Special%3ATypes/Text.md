@@ -116,9 +116,6 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Text](Text)"
   page](Text "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 <a href="../Main_Page"

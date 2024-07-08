@@ -463,10 +463,10 @@ rel="nofollow">Galaxy 101 tutorial</a>.
 Start a web browser and access
 http://ec2-##-##-##-##.compute-1.amazonaws.com:8081.
 
-<a href="File:Galaxy_FirstAnalysis_1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5a/Galaxy_FirstAnalysis_1.png/900px-Galaxy_FirstAnalysis_1.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Galaxy_FirstAnalysis_1.png 2x"
-width="900" height="678" alt="Galaxy FirstAnalysis 1.png" /></a>
+width="900" height="678" alt="Galaxy FirstAnalysis 1.png" />
 
 #### <span id="2._Create_a_user" class="mw-headline">2. Create a user</span>
 
@@ -800,9 +800,6 @@ class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 
 
-
-
-### 
 
 
 

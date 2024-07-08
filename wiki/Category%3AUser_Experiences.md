@@ -89,9 +89,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:ChoosingAGenomeBrowser.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ChoosingAGenomeBrowser.pdf" /></a>
+  width="120" height="120" alt="ChoosingAGenomeBrowser.pdf" />
 
   
 
@@ -112,9 +112,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Cain-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Cain-050516.ppt" /></a>
+  height="120" alt="Cain-050516.ppt" />
 
   
 
@@ -135,9 +135,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Gkl776.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkl776.pdf" /></a>
+  width="120" height="120" alt="Gkl776.pdf" />
 
   
 
@@ -158,9 +158,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Gkl777.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gkl777.pdf" /></a>
+  width="120" height="120" alt="Gkl777.pdf" />
 
   
 
@@ -181,9 +181,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:Just-050516.ppt" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon.png" width="120"
-  height="120" alt="Just-050516.ppt" /></a>
+  height="120" alt="Just-050516.ppt" />
 
   
 
@@ -204,9 +204,9 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  <a href="File:MaizeGDBGBrowseISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" /></a>
+  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" />
 
   
 
@@ -240,9 +240,6 @@ The following 6 files are in this category, out of 6 total.
 
 
 
-
-
-### 
 
 
 

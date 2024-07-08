@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Sample_Chado_SQL "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

@@ -36,9 +36,6 @@ Using Gbrowse and Chado for Medicago truncatula community genomics data.
 
 
 
-### 
-
-
 
 
 

@@ -146,9 +146,6 @@ you want to install Chado.
 
 
 
-### 
-
-
 
 
 

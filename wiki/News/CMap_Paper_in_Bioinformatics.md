@@ -84,9 +84,6 @@ poster at [PAG 2010](../PAG_2010 "PAG 2010").
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

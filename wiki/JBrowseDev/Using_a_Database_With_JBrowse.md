@@ -48,9 +48,6 @@ Databases](../JBrowse_Configuration_Guide#Using_JBrowse_with_Existing_Databases 
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

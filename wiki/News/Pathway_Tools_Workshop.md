@@ -60,9 +60,6 @@ Early registration is available until February 22, 2008
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

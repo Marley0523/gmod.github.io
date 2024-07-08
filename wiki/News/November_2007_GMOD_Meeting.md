@@ -52,9 +52,6 @@ a list of presentations and a summary of the meeting.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

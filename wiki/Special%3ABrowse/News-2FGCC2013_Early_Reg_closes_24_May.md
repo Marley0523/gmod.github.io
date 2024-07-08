@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FGCC2013_Early_Reg_closes_24_May "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

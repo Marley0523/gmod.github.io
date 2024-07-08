@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

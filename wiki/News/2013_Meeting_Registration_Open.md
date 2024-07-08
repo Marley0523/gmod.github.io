@@ -63,9 +63,6 @@ meeting and making plans for the future.
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

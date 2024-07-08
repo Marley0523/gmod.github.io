@@ -67,9 +67,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GAW2014Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/120px-GAW2014Logo.png"
-  width="120" height="58" alt="GAW2014Logo.png" /></a>
+  width="120" height="58" alt="GAW2014Logo.png" />
 
   
 
@@ -90,9 +90,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2012Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cc/GCC2012Logo.png/120px-GCC2012Logo.png"
-  width="120" height="95" alt="GCC2012Logo.png" /></a>
+  width="120" height="95" alt="GCC2012Logo.png" />
 
   
 
@@ -113,9 +113,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2012TrainingDayLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/120px-GCC2012TrainingDayLogo.png"
-  width="120" height="67" alt="GCC2012TrainingDayLogo.png" /></a>
+  width="120" height="67" alt="GCC2012TrainingDayLogo.png" />
 
   
 
@@ -136,9 +136,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2013Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/120px-GCC2013Logo.png"
-  width="120" height="80" alt="GCC2013Logo.png" /></a>
+  width="120" height="80" alt="GCC2013Logo.png" />
 
   
 
@@ -159,9 +159,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2013TrainingDayLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/120px-GCC2013TrainingDayLogo.png"
-  width="120" height="61" alt="GCC2013TrainingDayLogo.png" /></a>
+  width="120" height="61" alt="GCC2013TrainingDayLogo.png" />
 
   
 
@@ -182,9 +182,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2014Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
-  width="120" height="50" alt="GCC2014Logo.png" /></a>
+  width="120" height="50" alt="GCC2014Logo.png" />
 
   
 
@@ -205,9 +205,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2014TDLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
-  width="80" height="120" alt="GCC2014TDLogo.png" /></a>
+  width="80" height="120" alt="GCC2014TDLogo.png" />
 
   
 
@@ -228,9 +228,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2016Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/GCC2016Logo.png/120px-GCC2016Logo.png"
-  width="120" height="80" alt="GCC2016Logo.png" /></a>
+  width="120" height="80" alt="GCC2016Logo.png" />
 
   
 
@@ -251,9 +251,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GigaScienceLogo250.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c5/GigaScienceLogo250.png/120px-GigaScienceLogo250.png"
-  width="120" height="39" alt="GigaScienceLogo250.png" /></a>
+  width="120" height="39" alt="GigaScienceLogo250.png" />
 
   
 
@@ -274,9 +274,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Gmod_cogTransparent.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/53/Gmod_cogTransparent.png/120px-Gmod_cogTransparent.png"
-  width="120" height="88" alt="Gmod cogTransparent.png" /></a>
+  width="120" height="88" alt="Gmod cogTransparent.png" />
 
   
 
@@ -298,9 +298,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GMOD-three-cogs.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/GMOD-three-cogs.jpg/120px-GMOD-three-cogs.jpg"
-  width="120" height="96" alt="GMOD-three-cogs.jpg" /></a>
+  width="120" height="96" alt="GMOD-three-cogs.jpg" />
 
   
 
@@ -321,9 +321,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GMOD-three-cogs.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/GMOD-three-cogs.png/120px-GMOD-three-cogs.png"
-  width="120" height="96" alt="GMOD-three-cogs.png" /></a>
+  width="120" height="96" alt="GMOD-three-cogs.png" />
 
   
 
@@ -344,9 +344,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ABRF2011Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b5/ABRF2011Logo.png/120px-ABRF2011Logo.png"
-  width="120" height="40" alt="ABRF2011Logo.png" /></a>
+  width="120" height="40" alt="ABRF2011Logo.png" />
 
   
 
@@ -367,9 +367,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ABRFLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/ABRFLogoSmall.jpg" width="120"
-  height="120" alt="ABRFLogoSmall.jpg" /></a>
+  height="120" alt="ABRFLogoSmall.jpg" />
 
   
 
@@ -390,9 +390,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Aga_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ea/Aga_logo.png/120px-Aga_logo.png"
-  width="120" height="39" alt="Aga logo.png" /></a>
+  width="120" height="39" alt="Aga logo.png" />
 
   
 
@@ -413,9 +413,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:AGBTLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/AGBTLogo.png" width="120" height="98"
-  alt="AGBTLogo.png" /></a>
+  alt="AGBTLogo.png" />
 
   
 
@@ -436,9 +436,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:AGSBug170.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/AGSBug170.png/111px-AGSBug170.png"
-  width="111" height="120" alt="AGSBug170.png" /></a>
+  width="111" height="120" alt="AGSBug170.png" />
 
   
 
@@ -459,9 +459,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ApolloLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1b/ApolloLogo.png/120px-ApolloLogo.png"
-  width="120" height="44" alt="ApolloLogo.png" /></a>
+  width="120" height="44" alt="ApolloLogo.png" />
 
   
 
@@ -482,9 +482,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:AppleBootCampLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/AppleBootCampLogo.jpg" width="96"
-  height="120" alt="AppleBootCampLogo.jpg" /></a>
+  height="120" alt="AppleBootCampLogo.jpg" />
 
   
 
@@ -505,9 +505,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:AppleSmall.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/AppleSmall.gif" width="120" height="120"
-  alt="AppleSmall.gif" /></a>
+  alt="AppleSmall.gif" />
 
   
 
@@ -528,9 +528,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ARSlogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/ARSlogo.jpg" width="120" height="81"
-  alt="ARSlogo.jpg" /></a>
+  alt="ARSlogo.jpg" />
 
   
 
@@ -551,9 +551,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Ashg-logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c1/Ashg-logo.jpg/120px-Ashg-logo.jpg"
-  width="120" height="65" alt="Ashg-logo.jpg" /></a>
+  width="120" height="65" alt="Ashg-logo.jpg" />
 
   
 
@@ -574,9 +574,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Ba2009.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/17/Ba2009.png/120px-Ba2009.png"
-  width="120" height="25" alt="Ba2009.png" /></a>
+  width="120" height="25" alt="Ba2009.png" />
 
   
 
@@ -597,9 +597,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BA2009Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/BA2009Logo.png/120px-BA2009Logo.png"
-  width="120" height="114" alt="BA2009Logo.png" /></a>
+  width="120" height="114" alt="BA2009Logo.png" />
 
   
 
@@ -620,9 +620,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Biocuration2010Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ee/Biocuration2010Logo.png/120px-Biocuration2010Logo.png"
-  width="120" height="31" alt="Biocuration2010Logo.png" /></a>
+  width="120" height="31" alt="Biocuration2010Logo.png" />
 
   
 
@@ -643,9 +643,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BioinformaticsOrganization.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/62/BioinformaticsOrganization.png/120px-BioinformaticsOrganization.png"
-  width="120" height="31" alt="BioinformaticsOrganization.png" /></a>
+  width="120" height="31" alt="BioinformaticsOrganization.png" />
 
   
 
@@ -666,9 +666,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BioITWorldLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f3/BioITWorldLogo.jpg/120px-BioITWorldLogo.jpg"
-  width="120" height="30" alt="BioITWorldLogo.jpg" /></a>
+  width="120" height="30" alt="BioITWorldLogo.jpg" />
 
   
 
@@ -689,9 +689,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Biomart250.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/120px-Biomart250.png"
-  width="120" height="48" alt="Biomart250.png" /></a>
+  width="120" height="48" alt="Biomart250.png" />
 
   
 
@@ -712,9 +712,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BionformaticsCover.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/BionformaticsCover.gif/92px-BionformaticsCover.gif"
-  width="92" height="120" alt="BionformaticsCover.gif" /></a>
+  width="92" height="120" alt="BionformaticsCover.gif" />
 
   
 
@@ -735,9 +735,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BioPerl_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5d/BioPerl_logo.jpg/90px-BioPerl_logo.jpg"
-  width="90" height="120" alt="BioPerl logo.jpg" /></a>
+  width="90" height="120" alt="BioPerl logo.jpg" />
 
   
 
@@ -758,9 +758,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BioplatformsAustraliaLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4b/BioplatformsAustraliaLogo.jpg/120px-BioplatformsAustraliaLogo.jpg"
-  width="120" height="80" alt="BioplatformsAustraliaLogo.jpg" /></a>
+  width="120" height="80" alt="BioplatformsAustraliaLogo.jpg" />
 
   
 
@@ -781,9 +781,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:BoscPear.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ad/BoscPear.png/120px-BoscPear.png"
-  width="120" height="86" alt="BoscPear.png" /></a>
+  width="120" height="86" alt="BoscPear.png" />
 
   
 
@@ -804,9 +804,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Calendar_icon.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Calendar_icon.gif" width="120"
-  height="117" alt="Calendar icon.gif" /></a>
+  height="117" alt="Calendar icon.gif" />
 
   
 
@@ -827,9 +827,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:CaryoscopeLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/26/CaryoscopeLogo.jpg/105px-CaryoscopeLogo.jpg"
-  width="105" height="120" alt="CaryoscopeLogo.jpg" /></a>
+  width="105" height="120" alt="CaryoscopeLogo.jpg" />
 
   
 
@@ -850,9 +850,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Cmap-logo-small.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e0/Cmap-logo-small.png/120px-Cmap-logo-small.png"
-  width="120" height="120" alt="Cmap-logo-small.png" /></a>
+  width="120" height="120" alt="Cmap-logo-small.png" />
 
   
 
@@ -873,9 +873,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:CMapLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/103px-CMapLogo.png"
-  width="103" height="120" alt="CMapLogo.png" /></a>
+  width="103" height="120" alt="CMapLogo.png" />
 
   
 
@@ -896,9 +896,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Cvs_logo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Cvs_logo.gif" width="120" height="93"
-  alt="Cvs logo.gif" /></a>
+  alt="Cvs logo.gif" />
 
   
 
@@ -919,9 +919,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Das_logo_64x64.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/32/Das_logo_64x64.jpg" width="120"
-  height="120" alt="Das logo 64x64.jpg" /></a>
+  height="120" alt="Das logo 64x64.jpg" />
 
   
 
@@ -943,9 +943,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:DatabaseJournal.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/DatabaseJournal.jpg/120px-DatabaseJournal.jpg.png"
-  width="120" height="15" alt="DatabaseJournal.jpg" /></a>
+  width="120" height="15" alt="DatabaseJournal.jpg" />
 
   
 
@@ -966,9 +966,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:DatabaseJournalNoSubtitle.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/da/DatabaseJournalNoSubtitle.png/120px-DatabaseJournalNoSubtitle.png"
-  width="120" height="26" alt="DatabaseJournalNoSubtitle.png" /></a>
+  width="120" height="26" alt="DatabaseJournalNoSubtitle.png" />
 
   
 
@@ -989,9 +989,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:DIYALogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/57/DIYALogo.png/120px-DIYALogo.png"
-  width="120" height="120" alt="DIYALogo.png" /></a>
+  width="120" height="120" alt="DIYALogo.png" />
 
   
 
@@ -1012,9 +1012,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Embl-ebi-perl-course.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/85/Embl-ebi-perl-course.gif" width="111"
-  height="120" alt="Embl-ebi-perl-course.gif" /></a>
+  height="120" alt="Embl-ebi-perl-course.gif" />
 
   
 
@@ -1035,9 +1035,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:EMBO_Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/EMBO_Logo.png" width="120" height="75"
-  alt="EMBO Logo.png" /></a>
+  alt="EMBO Logo.png" />
 
   
 
@@ -1058,9 +1058,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ESHG2011Logo162.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/0d/ESHG2011Logo162.jpg/120px-ESHG2011Logo162.jpg"
-  width="120" height="55" alt="ESHG2011Logo162.jpg" /></a>
+  width="120" height="55" alt="ESHG2011Logo162.jpg" />
 
   
 
@@ -1081,9 +1081,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Flash_gviewer_title.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/49/Flash_gviewer_title.jpg/120px-Flash_gviewer_title.jpg"
-  width="120" height="18" alt="Flash gviewer title.jpg" /></a>
+  width="120" height="18" alt="Flash gviewer title.jpg" />
 
   
 
@@ -1105,9 +1105,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:FLOSSWeekly.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/48/FLOSSWeekly.jpg/120px-FLOSSWeekly.jpg"
-  width="120" height="120" alt="FLOSSWeekly.jpg" /></a>
+  width="120" height="120" alt="FLOSSWeekly.jpg" />
 
   
 
@@ -1128,9 +1128,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GalaxyLogoBigger.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/120px-GalaxyLogoBigger.png"
-  width="120" height="42" alt="GalaxyLogoBigger.png" /></a>
+  width="120" height="42" alt="GalaxyLogoBigger.png" />
 
   
 
@@ -1151,9 +1151,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GalaxyLogoBoxed.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/120px-GalaxyLogoBoxed.png"
-  width="120" height="42" alt="GalaxyLogoBoxed.png" /></a>
+  width="120" height="42" alt="GalaxyLogoBoxed.png" />
 
   
 
@@ -1174,9 +1174,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GalaxyLogoSmall.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="120"
-  height="115" alt="GalaxyLogoSmall.png" /></a>
+  height="115" alt="GalaxyLogoSmall.png" />
 
   
 
@@ -1197,9 +1197,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GBrowse_syn_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/120px-GBrowse_syn_logo.png"
-  width="120" height="38" alt="GBrowse syn logo.png" /></a>
+  width="120" height="38" alt="GBrowse syn logo.png" />
 
   
 
@@ -1221,9 +1221,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GBrowseLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/120px-GBrowseLogo.png"
-  width="120" height="28" alt="GBrowseLogo.png" /></a>
+  width="120" height="28" alt="GBrowseLogo.png" />
 
   
 
@@ -1244,9 +1244,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2011Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
-  width="120" height="62" alt="GCC2011Logo.png" /></a>
+  width="120" height="62" alt="GCC2011Logo.png" />
 
   
 
@@ -1267,9 +1267,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:GCC2011LogoShort.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
-  width="120" height="52" alt="GCC2011LogoShort.png" /></a>
+  width="120" height="52" alt="GCC2011LogoShort.png" />
 
   
 
@@ -1290,9 +1290,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:IEvoBioLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/IEvoBioLogo.png/120px-IEvoBioLogo.png"
-  width="120" height="120" alt="IEvoBioLogo.png" /></a>
+  width="120" height="120" alt="IEvoBioLogo.png" />
 
   
 
@@ -1313,10 +1313,10 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:InformationSystemsForInsectPests.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/86/InformationSystemsForInsectPests.gif/120px-InformationSystemsForInsectPests.gif"
   width="120" height="13"
-  alt="InformationSystemsForInsectPests.gif" /></a>
+  alt="InformationSystemsForInsectPests.gif" />
 
   
 
@@ -1337,9 +1337,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:InterMine.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/00/InterMine.png/120px-InterMine.png"
-  width="120" height="33" alt="InterMine.png" /></a>
+  width="120" height="33" alt="InterMine.png" />
 
   
 
@@ -1360,9 +1360,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:InterMineLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/13/InterMineLogo.png/120px-InterMineLogo.png"
-  width="120" height="15" alt="InterMineLogo.png" /></a>
+  width="120" height="15" alt="InterMineLogo.png" />
 
   
 
@@ -1383,9 +1383,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISB_logo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/ISB_logo.gif" width="120" height="113"
-  alt="ISB logo.gif" /></a>
+  alt="ISB logo.gif" />
 
   
 
@@ -1406,9 +1406,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISBLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/ISBLogo.png" width="120" height="113"
-  alt="ISBLogo.png" /></a>
+  alt="ISBLogo.png" />
 
   
 
@@ -1429,9 +1429,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISMB2010_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/46/ISMB2010_logo.jpg/120px-ISMB2010_logo.jpg"
-  width="120" height="72" alt="ISMB2010 logo.jpg" /></a>
+  width="120" height="72" alt="ISMB2010 logo.jpg" />
 
   
 
@@ -1452,9 +1452,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISMB2010Sails.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/ISMB2010Sails.png/90px-ISMB2010Sails.png"
-  width="90" height="120" alt="ISMB2010Sails.png" /></a>
+  width="90" height="120" alt="ISMB2010Sails.png" />
 
   
 
@@ -1475,9 +1475,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISMB2011Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a8/ISMB2011Logo.png/108px-ISMB2011Logo.png"
-  width="108" height="120" alt="ISMB2011Logo.png" /></a>
+  width="108" height="120" alt="ISMB2011Logo.png" />
 
   
 
@@ -1498,9 +1498,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ISMBECCB2009_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a1/ISMBECCB2009_logo.png/120px-ISMBECCB2009_logo.png"
-  width="120" height="79" alt="ISMBECCB2009 logo.png" /></a>
+  width="120" height="79" alt="ISMBECCB2009 logo.png" />
 
   
 
@@ -1522,9 +1522,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:LinuxLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/LinuxLogoSmall.jpg" width="108"
-  height="120" alt="LinuxLogoSmall.jpg" /></a>
+  height="120" alt="LinuxLogoSmall.jpg" />
 
   
 
@@ -1545,9 +1545,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:MAKERLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/37/MAKERLogo.png/120px-MAKERLogo.png"
-  width="120" height="41" alt="MAKERLogo.png" /></a>
+  width="120" height="41" alt="MAKERLogo.png" />
 
   
 
@@ -1568,9 +1568,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ModENCODE_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/35/ModENCODE_logo.png/120px-ModENCODE_logo.png"
-  width="120" height="118" alt="ModENCODE logo.png" /></a>
+  width="120" height="118" alt="ModENCODE logo.png" />
 
   
 
@@ -1592,9 +1592,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ModwareLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e3/ModwareLogo.png/120px-ModwareLogo.png"
-  width="120" height="63" alt="ModwareLogo.png" /></a>
+  width="120" height="63" alt="ModwareLogo.png" />
 
   
 
@@ -1615,9 +1615,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Molgenis_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fd/Molgenis_logo.jpg/120px-Molgenis_logo.jpg"
-  width="120" height="21" alt="Molgenis logo.jpg" /></a>
+  width="120" height="21" alt="Molgenis logo.jpg" />
 
   
 
@@ -1638,9 +1638,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:NAbbleNLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/NAbbleNLogo.jpg" width="120" height="120"
-  alt="NAbbleNLogo.jpg" /></a>
+  alt="NAbbleNLogo.jpg" />
 
   
 
@@ -1661,9 +1661,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:New_icon.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/New_icon.gif" width="120" height="107"
-  alt="New icon.gif" /></a>
+  alt="New icon.gif" />
 
   
 
@@ -1684,9 +1684,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Nihlogo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Nihlogo.gif" width="106" height="120"
-  alt="Nihlogo.gif" /></a>
+  alt="Nihlogo.gif" />
 
   
 
@@ -1707,9 +1707,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:OBF_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/OBF_logo.png" width="120" height="77"
-  alt="OBF logo.png" /></a>
+  alt="OBF logo.png" />
 
   
 
@@ -1730,9 +1730,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:OpenHelixLogosmaller.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/8c/OpenHelixLogosmaller.jpg/120px-OpenHelixLogosmaller.jpg"
-  width="120" height="53" alt="OpenHelixLogosmaller.jpg" /></a>
+  width="120" height="53" alt="OpenHelixLogosmaller.jpg" />
 
   
 
@@ -1753,9 +1753,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Paglogo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Paglogo.gif" width="120" height="113"
-  alt="Paglogo.gif" /></a>
+  alt="Paglogo.gif" />
 
   
 
@@ -1776,9 +1776,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Parallels-logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/Parallels-logo.jpg/120px-Parallels-logo.jpg"
-  width="120" height="36" alt="Parallels-logo.jpg" /></a>
+  width="120" height="36" alt="Parallels-logo.jpg" />
 
   
 
@@ -1799,9 +1799,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:ParallelsDesktopLogo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/ParallelsDesktopLogo.gif" width="120"
-  height="120" alt="ParallelsDesktopLogo.gif" /></a>
+  height="120" alt="ParallelsDesktopLogo.gif" />
 
   
 
@@ -1822,9 +1822,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:PhenoteLogo_Medium.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3d/PhenoteLogo_Medium.png/120px-PhenoteLogo_Medium.png"
-  width="120" height="23" alt="PhenoteLogo Medium.png" /></a>
+  width="120" height="23" alt="PhenoteLogo Medium.png" />
 
   
 
@@ -1846,9 +1846,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:PoweredByGBrowseAnimalGenome2.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/PoweredByGBrowseAnimalGenome2.jpg"
-  width="120" height="89" alt="PoweredByGBrowseAnimalGenome2.jpg" /></a>
+  width="120" height="89" alt="PoweredByGBrowseAnimalGenome2.jpg" />
 
   
 
@@ -1869,9 +1869,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:RSSIcon.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/RSSIcon.jpg" width="117" height="120"
-  alt="RSSIcon.jpg" /></a>
+  alt="RSSIcon.jpg" />
 
   
 
@@ -1892,9 +1892,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:RSSIcon16x16.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="120" height="120"
-  alt="RSSIcon16x16.gif" /></a>
+  alt="RSSIcon16x16.gif" />
 
   
 
@@ -1915,9 +1915,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SBForumLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7b/SBForumLogo.png/120px-SBForumLogo.png"
-  width="120" height="60" alt="SBForumLogo.png" /></a>
+  width="120" height="60" alt="SBForumLogo.png" />
 
   
 
@@ -1938,9 +1938,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Sel.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/Sel.gif" width="120" height="104"
-  alt="Sel.gif" /></a>
+  alt="Sel.gif" />
 
   
 
@@ -1961,9 +1961,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SMBE2009Corn.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/ff/SMBE2009Corn.png/120px-SMBE2009Corn.png"
-  width="120" height="78" alt="SMBE2009Corn.png" /></a>
+  width="120" height="78" alt="SMBE2009Corn.png" />
 
   
 
@@ -1984,9 +1984,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SOBA_Header.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b6/SOBA_Header.jpg/120px-SOBA_Header.jpg"
-  width="120" height="24" alt="SOBA Header.jpg" /></a>
+  width="120" height="24" alt="SOBA Header.jpg" />
 
   
 
@@ -2007,9 +2007,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SSB_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/58/SSB_logo.png/120px-SSB_logo.png"
-  width="120" height="120" alt="SSB logo.png" /></a>
+  width="120" height="120" alt="SSB logo.png" />
 
   
 
@@ -2030,9 +2030,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Subversion_logo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Subversion_logo.jpg" width="120"
-  height="85" alt="Subversion logo.jpg" /></a>
+  height="85" alt="Subversion logo.jpg" />
 
   
 
@@ -2054,9 +2054,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SynBrowse_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/aa/SynBrowse_logo.png/120px-SynBrowse_logo.png"
-  width="120" height="27" alt="SynBrowse logo.png" /></a>
+  width="120" height="27" alt="SynBrowse logo.png" />
 
   
 
@@ -2078,9 +2078,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SynBrowse_logoNoText.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cb/SynBrowse_logoNoText.png/120px-SynBrowse_logoNoText.png"
-  width="120" height="26" alt="SynBrowse logoNoText.png" /></a>
+  width="120" height="26" alt="SynBrowse logoNoText.png" />
 
   
 
@@ -2102,9 +2102,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SyngentaLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e5/SyngentaLogo.png/120px-SyngentaLogo.png"
-  width="120" height="40" alt="SyngentaLogo.png" /></a>
+  width="120" height="40" alt="SyngentaLogo.png" />
 
   
 
@@ -2125,9 +2125,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:SynView_Icon.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b3/SynView_Icon.gif/120px-SynView_Icon.gif"
-  width="120" height="46" alt="SynView Icon.gif" /></a>
+  width="120" height="46" alt="SynView Icon.gif" />
 
   
 
@@ -2148,9 +2148,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:TextpressoLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c4/TextpressoLogo.jpg/120px-TextpressoLogo.jpg"
-  width="120" height="38" alt="TextpressoLogo.jpg" /></a>
+  width="120" height="38" alt="TextpressoLogo.jpg" />
 
   
 
@@ -2171,9 +2171,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:TripalLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/5/5c/TripalLogo.jpg/120px-TripalLogo.jpg"
-  width="120" height="36" alt="TripalLogo.jpg" /></a>
+  width="120" height="36" alt="TripalLogo.jpg" />
 
   
 
@@ -2194,9 +2194,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:TripalLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/06/TripalLogo.png/120px-TripalLogo.png"
-  width="120" height="36" alt="TripalLogo.png" /></a>
+  width="120" height="36" alt="TripalLogo.png" />
 
   
 
@@ -2217,9 +2217,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:VirtualBox-logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fa/VirtualBox-logo.png" width="120"
-  height="120" alt="VirtualBox-logo.png" /></a>
+  height="120" alt="VirtualBox-logo.png" />
 
   
 
@@ -2240,9 +2240,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:VMWareFusionsLogo.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/VMWareFusionsLogo.jpg" width="120"
-  height="120" alt="VMWareFusionsLogo.jpg" /></a>
+  height="120" alt="VMWareFusionsLogo.jpg" />
 
   
 
@@ -2263,9 +2263,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:VmwareLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="120"
-  height="31" alt="VmwareLogoSmall.jpg" /></a>
+  height="31" alt="VmwareLogoSmall.jpg" />
 
   
 
@@ -2286,9 +2286,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:WebGBrowseLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/3a/WebGBrowseLogo.png/120px-WebGBrowseLogo.png"
-  width="120" height="23" alt="WebGBrowseLogo.png" /></a>
+  width="120" height="23" alt="WebGBrowseLogo.png" />
 
   
 
@@ -2309,9 +2309,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:WindowsLogoSmall.jpg" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/WindowsLogoSmall.jpg" width="120"
-  height="118" alt="WindowsLogoSmall.jpg" /></a>
+  height="118" alt="WindowsLogoSmall.jpg" />
 
   
 
@@ -2332,9 +2332,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:WorkInProgressTools.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/WorkInProgressTools.gif" width="120"
-  height="120" alt="WorkInProgressTools.gif" /></a>
+  height="120" alt="WorkInProgressTools.gif" />
 
   
 
@@ -2355,9 +2355,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:PointingFinger.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/83/PointingFinger.png/117px-PointingFinger.png"
-  width="117" height="120" alt="PointingFinger.png" /></a>
+  width="117" height="120" alt="PointingFinger.png" />
 
   
 
@@ -2378,9 +2378,9 @@ The following 101 files are in this category, out of 101 total.
 
   
 
-  <a href="File:Yapc2010Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Yapc2010Logo.png/120px-Yapc2010Logo.png"
-  width="120" height="21" alt="Yapc2010Logo.png" /></a>
+  width="120" height="21" alt="Yapc2010Logo.png" />
 
   
 
@@ -2408,9 +2408,6 @@ The following 101 files are in this category, out of 101 total.
 
 
 
-
-
-### 
 
 
 

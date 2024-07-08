@@ -63,9 +63,6 @@ rel="nofollow">Barry's LinkedIn Profile</a>
 
 
 
-### 
-
-
 
 
 

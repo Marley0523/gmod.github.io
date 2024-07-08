@@ -69,9 +69,6 @@ GMOD helpdesk on help@gmod.org!
 
 
 
-### 
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"

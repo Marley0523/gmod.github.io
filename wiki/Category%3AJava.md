@@ -103,9 +103,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:Aug2009Gobol.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009Gobol.pdf" /></a>
+  width="120" height="120" alt="Aug2009Gobol.pdf" />
 
   
 
@@ -126,9 +126,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:HibernateChadoAPI.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="HibernateChadoAPI.pdf" /></a>
+  width="120" height="120" alt="HibernateChadoAPI.pdf" />
 
   
 
@@ -149,9 +149,9 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  <a href="File:IBatis.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="IBatis.pdf" /></a>
+  width="120" height="120" alt="IBatis.pdf" />
 
   
 
@@ -184,9 +184,6 @@ The following 3 files are in this category, out of 3 total.
 
 
 
-
-
-### 
 
 
 

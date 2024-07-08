@@ -105,9 +105,6 @@ class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 
 
-### 
-
-
 
 
 

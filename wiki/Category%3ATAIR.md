@@ -51,9 +51,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:Mod-face-07jan-TAIR.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Mod-face-07jan-TAIR.pdf" /></a>
+  width="120" height="120" alt="Mod-face-07jan-TAIR.pdf" />
 
   
 
@@ -74,9 +74,9 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  <a href="File:TAIR_logo.gif" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/TAIR_logo.gif" width="120" height="42"
-  alt="TAIR logo.gif" /></a>
+  alt="TAIR logo.gif" />
 
   
 
@@ -109,9 +109,6 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-
-
-### 
 
 
 

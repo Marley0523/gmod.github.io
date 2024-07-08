@@ -68,18 +68,16 @@ standards are illustrated separately below.
 ### <span id="a.29_orthologous_regions" class="mw-headline">a) orthologous regions</span>
 
 
-<a href="File:Genome_comparison_orthologous_region.jpg"
-class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/72/Genome_comparison_orthologous_region.jpg/350px-Genome_comparison_orthologous_region.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/72/Genome_comparison_orthologous_region.jpg 2x"
-width="350" height="263" /></a>
+width="350" height="263" />
 
 
-<a href="File:Genome_comparison_orthologous_region.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -109,18 +107,16 @@ illustrated in Figure 1 below.
 ### <span id="b.29_orthologous_genes" class="mw-headline">b) orthologous genes</span>
 
 
-<a href="File:Genome_comparison_orthology_relationship.jpg"
-class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/02/Genome_comparison_orthology_relationship.jpg/350px-Genome_comparison_orthology_relationship.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Genome_comparison_orthology_relationship.jpg 2x"
-width="350" height="262" /></a>
+width="350" height="262" />
 
 
-<a href="File:Genome_comparison_orthology_relationship.jpg"
-class="internal" title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -178,17 +174,16 @@ The implementation of the syntenic relationship between genomes is
 schematically shown in Figure 3.
 
 
-<a href="File:Genome_comparison_syntenic_region.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f0/Genome_comparison_syntenic_region.jpg/350px-Genome_comparison_syntenic_region.jpg"
 class="thumbimage"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/Genome_comparison_syntenic_region.jpg 2x"
-width="350" height="250" /></a>
+width="350" height="250" />
 
 
-<a href="File:Genome_comparison_syntenic_region.jpg" class="internal"
-title="Enlarge"><img
+<img
 src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+height="11" />
 
 
 
@@ -218,9 +213,6 @@ Drosophila melanogaster; Dpse: Drosophila pseudoobscura.
 
 
 
-
-
-### 
 
 
 

@@ -28,9 +28,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:AGesISMB2010Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="AGesISMB2010Poster.pdf" /></a>
+  width="120" height="120" alt="AGesISMB2010Poster.pdf" />
 
   
 
@@ -51,9 +51,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:BovineMine_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BovineMine PAG2015.pdf" /></a>
+  width="120" height="120" alt="BovineMine PAG2015.pdf" />
 
   
 
@@ -75,9 +75,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyNGSISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" /></a>
+  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" />
 
   
 
@@ -98,9 +98,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GMOD_GI_poster_2010-3.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD GI poster 2010-3.pdf" /></a>
+  width="120" height="120" alt="GMOD GI poster 2010-3.pdf" />
 
   
 
@@ -122,10 +122,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:2007GenomeInformaticsGMODPoster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="2007GenomeInformaticsGMODPoster.pdf" /></a>
+  alt="2007GenomeInformaticsGMODPoster.pdf" />
 
   
 
@@ -146,9 +146,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:BoG2006.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="BoG2006.pdf" /></a>
+  width="120" height="120" alt="BoG2006.pdf" />
 
   
 
@@ -169,9 +169,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -193,9 +193,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:CMapGenomeInformatics2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="CMapGenomeInformatics2009.pdf" /></a>
+  width="120" height="120" alt="CMapGenomeInformatics2009.pdf" />
 
   
 
@@ -216,9 +216,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Common_gene_page.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Common gene page.pdf" /></a>
+  width="120" height="120" alt="Common gene page.pdf" />
 
   
 
@@ -240,11 +240,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:DatabaseResourcesForEmergingModelOrganismsPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="DatabaseResourcesForEmergingModelOrganismsPoster.pdf" /></a>
+  alt="DatabaseResourcesForEmergingModelOrganismsPoster.pdf" />
 
   
 
@@ -265,9 +264,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GBrowse_2.20_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse 2.20 Poster.pdf" /></a>
+  width="120" height="120" alt="GBrowse 2.20 Poster.pdf" />
 
   
 
@@ -289,9 +288,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GBrowse_nextgen_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse nextgen poster.pdf" /></a>
+  width="120" height="120" alt="GBrowse nextgen poster.pdf" />
 
   
 
@@ -313,11 +312,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" /></a>
+  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" />
 
   
 
@@ -338,9 +336,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Gramene-cmap-pag-poster-2005.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" /></a>
+  width="120" height="120" alt="Gramene-cmap-pag-poster-2005.pdf" />
 
   
 
@@ -387,10 +385,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:ISMB2008PosterManagingGenomicData.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISMB2008PosterManagingGenomicData.pdf" /></a>
+  alt="ISMB2008PosterManagingGenomicData.pdf" />
 
   
 
@@ -411,9 +409,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2009_poster_Michael_Alaux.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2009 poster Michael Alaux.pdf" /></a>
+  width="120" height="120" alt="PAG2009 poster Michael Alaux.pdf" />
 
   
 
@@ -435,9 +433,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2009_poster_URGI_GnpIS.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2009 poster URGI GnpIS.pdf" /></a>
+  width="120" height="120" alt="PAG2009 poster URGI GnpIS.pdf" />
 
   
 
@@ -459,9 +457,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2009NextGenSeqPoster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2009NextGenSeqPoster.pdf" /></a>
+  width="120" height="120" alt="PAG2009NextGenSeqPoster.pdf" />
 
   
 
@@ -482,9 +480,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2010BovineGenomeDatabase.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2010BovineGenomeDatabase.pdf" /></a>
+  width="120" height="120" alt="PAG2010BovineGenomeDatabase.pdf" />
 
   
 
@@ -505,10 +503,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2010BovineGenomeDatabaseInfra.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2010BovineGenomeDatabaseInfra.pdf" /></a>
+  alt="PAG2010BovineGenomeDatabaseInfra.pdf" />
 
   
 
@@ -529,11 +527,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2010ComparativeGenomicsToolsInGMOD.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2010ComparativeGenomicsToolsInGMOD.pdf" /></a>
+  alt="PAG2010ComparativeGenomicsToolsInGMOD.pdf" />
 
   
 
@@ -554,10 +551,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2010HymenopteraGenomeDatabse.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2010HymenopteraGenomeDatabse.pdf" /></a>
+  alt="PAG2010HymenopteraGenomeDatabse.pdf" />
 
   
 
@@ -578,9 +575,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2011_P820_Triannot.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2011 P820 Triannot.pdf" /></a>
+  width="120" height="120" alt="PAG2011 P820 Triannot.pdf" />
 
   
 
@@ -602,9 +599,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:ISGAISMB2010Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ISGAISMB2010Poster.pdf" /></a>
+  width="120" height="120" alt="ISGAISMB2010Poster.pdf" />
 
   
 
@@ -625,9 +622,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:MaizeGDBGBrowseISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" /></a>
+  width="120" height="120" alt="MaizeGDBGBrowseISMB2010.pdf" />
 
   
 
@@ -675,10 +672,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG_2011_poster_Nathalie.Choisne.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG 2011 poster Nathalie.Choisne.pdf" /></a>
+  alt="PAG 2011 poster Nathalie.Choisne.pdf" />
 
   
 
@@ -700,10 +697,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2011_annotation_poster_JAmselem.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2011 annotation poster JAmselem.pdf" /></a>
+  alt="PAG2011 annotation poster JAmselem.pdf" />
 
   
 
@@ -725,10 +722,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2011_URGI_GnpIS_DS_poster_final.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG2011 URGI GnpIS DS poster final.pdf" /></a>
+  alt="PAG2011 URGI GnpIS DS poster final.pdf" />
 
   
 
@@ -750,9 +747,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PathwayToolsPosterISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PathwayToolsPosterISMB2010.pdf" /></a>
+  width="120" height="120" alt="PathwayToolsPosterISMB2010.pdf" />
 
   
 
@@ -773,9 +770,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PeanutBase_PAG2015_Poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" /></a>
+  width="120" height="120" alt="PeanutBase PAG2015 Poster.pdf" />
 
   
 
@@ -797,9 +794,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Wheat3bMineDemo_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Wheat3bMineDemo PAG2015.pdf" /></a>
+  width="120" height="120" alt="Wheat3bMineDemo PAG2015.pdf" />
 
   
 
@@ -821,9 +818,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Wheat3bMinePoster_PAG2015.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Wheat3bMinePoster PAG2015.pdf" /></a>
+  width="120" height="120" alt="Wheat3bMinePoster PAG2015.pdf" />
 
   
 
@@ -845,9 +842,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:ZFNGenomeGBrowseISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="ZFNGenomeGBrowseISMB2010.pdf" /></a>
+  width="120" height="120" alt="ZFNGenomeGBrowseISMB2010.pdf" />
 
   
 
@@ -880,9 +877,6 @@ The following 35 files are in this category, out of 35 total.
 
 
 
-
-
-### 
 
 
 

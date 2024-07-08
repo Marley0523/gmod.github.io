@@ -38,17 +38,17 @@ examples of which are coding DNA and repeat sequences.
   signal processing of DNA</a></span>
 
   
-<a href="File:Spec1.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Spec1.png" class="thumbborder" width="858"
-height="450" alt="Spec1.png" /></a>
+height="450" alt="Spec1.png" />
 
-<a href="File:Spec2.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/Spec2.png" class="thumbborder" width="877"
-height="449" alt="Spec2.png" /></a>
+height="449" alt="Spec2.png" />
 
-<a href="File:Spec3.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/39/Spec3.png" class="thumbborder" width="869"
-height="538" alt="Spec3.png" /></a>
+height="538" alt="Spec3.png" />
 
 ## <span id="How_is_the_DNA_spectrogram_calculated.3F" class="mw-headline">How is the DNA spectrogram calculated?</span>
 
@@ -129,9 +129,6 @@ The plugin was written by Sheldon McKay (mckays@cshl.edu)
 
 
 
-
-
-### 
 
 
 

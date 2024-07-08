@@ -94,9 +94,6 @@ class="external text" rel="nofollow">GSoC FAQ</a>:
 
 
 
-### 
-
-
 
 
 

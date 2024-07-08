@@ -39,10 +39,10 @@ rel="nofollow">Github</a>.
   
 
 
-<a href="File:WebApolloLogo.png" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/400px-WebApolloLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/600px-WebApolloLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/4a/WebApolloLogo.png/800px-WebApolloLogo.png 2x"
-width="400" height="111" alt="WebApollo logo" /></a>
+width="400" height="111" alt="WebApollo logo" />
 
 
 
@@ -391,9 +391,6 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo-23 e25e09b3c3c15a828
 
 
 
-
-
-### 
 
 
 

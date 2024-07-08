@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/GMOD_Online_Training_2014-2FChado_Tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

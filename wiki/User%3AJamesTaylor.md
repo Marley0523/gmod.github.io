@@ -41,9 +41,6 @@ Mathematics & Computer Science at Emory University, a member of the
 
 
 
-### 
-
-
 
 
 

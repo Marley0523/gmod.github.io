@@ -58,9 +58,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/News-2FTwo_Openings_at_Bayer_CropScience "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

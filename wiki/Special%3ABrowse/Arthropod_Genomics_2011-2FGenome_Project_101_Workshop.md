@@ -57,9 +57,6 @@ Enter the name of the page to start browsing from.
   page](/wiki/Special%3ABrowse/Arthropod_Genomics_2011-2FGenome_Project_101_Workshop "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

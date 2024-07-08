@@ -36,9 +36,6 @@ Property:     Value:
   page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri-253Bname=chrX%3A620000..670000 "This is a special page, you cannot edit the page itself")</span>
 
 
-### 
-
-
 
 
 

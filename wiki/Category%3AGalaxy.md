@@ -145,9 +145,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:2011_10_Galaxy.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="2011 10 Galaxy.pdf" /></a>
+  width="120" height="120" alt="2011 10 Galaxy.pdf" />
 
   
 
@@ -169,9 +169,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:April2012_CommunityBuilding.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="April2012 CommunityBuilding.pdf" /></a>
+  width="120" height="120" alt="April2012 CommunityBuilding.pdf" />
 
   
 
@@ -193,10 +193,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:April2012GalaxyCloudManWorkshop.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="April2012GalaxyCloudManWorkshop.pdf" /></a>
+  alt="April2012GalaxyCloudManWorkshop.pdf" />
 
   
 
@@ -217,9 +217,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:April2012GalaxyUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="April2012GalaxyUpdate.pdf" /></a>
+  width="120" height="120" alt="April2012GalaxyUpdate.pdf" />
 
   
 
@@ -240,9 +240,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Dave_Clements_2014.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Dave Clements 2014.pdf" /></a>
+  width="120" height="120" alt="Dave Clements 2014.pdf" />
 
   
 
@@ -264,9 +264,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:DeployingGalaxyCloudBOSC2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="DeployingGalaxyCloudBOSC2010.pdf" /></a>
+  width="120" height="120" alt="DeployingGalaxyCloudBOSC2010.pdf" />
 
   
 
@@ -287,9 +287,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyIsHiringWordCloud.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a6/GalaxyIsHiringWordCloud.png/120px-GalaxyIsHiringWordCloud.png"
-  width="120" height="80" alt="GalaxyIsHiringWordCloud.png" /></a>
+  width="120" height="80" alt="GalaxyIsHiringWordCloud.png" />
 
   
 
@@ -310,9 +310,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyNGSISMB2010.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" /></a>
+  width="120" height="120" alt="GalaxyNGSISMB2010.pdf" />
 
   
 
@@ -333,9 +333,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyWorkshop0_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop0 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop0 2011 10.pdf" />
 
   
 
@@ -357,9 +357,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyWorkshop1_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop1 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop1 2011 10.pdf" />
 
   
 
@@ -381,9 +381,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyWorkshop2_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop2 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop2 2011 10.pdf" />
 
   
 
@@ -405,9 +405,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyWorkshop3_2011_10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GalaxyWorkshop3 2011 10.pdf" /></a>
+  width="120" height="120" alt="GalaxyWorkshop3 2011 10.pdf" />
 
   
 
@@ -429,9 +429,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GAW2014Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/16/GAW2014Logo.png/120px-GAW2014Logo.png"
-  width="120" height="58" alt="GAW2014Logo.png" /></a>
+  width="120" height="58" alt="GAW2014Logo.png" />
 
   
 
@@ -452,9 +452,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2012TrainingDayLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/2/2e/GCC2012TrainingDayLogo.png/120px-GCC2012TrainingDayLogo.png"
-  width="120" height="67" alt="GCC2012TrainingDayLogo.png" /></a>
+  width="120" height="67" alt="GCC2012TrainingDayLogo.png" />
 
   
 
@@ -475,9 +475,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2013Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c3/GCC2013Logo.png/120px-GCC2013Logo.png"
-  width="120" height="80" alt="GCC2013Logo.png" /></a>
+  width="120" height="80" alt="GCC2013Logo.png" />
 
   
 
@@ -498,9 +498,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2013TrainingDayLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/db/GCC2013TrainingDayLogo.png/120px-GCC2013TrainingDayLogo.png"
-  width="120" height="61" alt="GCC2013TrainingDayLogo.png" /></a>
+  width="120" height="61" alt="GCC2013TrainingDayLogo.png" />
 
   
 
@@ -521,9 +521,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2014Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/GCC2014Logo.png/120px-GCC2014Logo.png"
-  width="120" height="50" alt="GCC2014Logo.png" /></a>
+  width="120" height="50" alt="GCC2014Logo.png" />
 
   
 
@@ -544,9 +544,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2014TDLogo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/43/GCC2014TDLogo.png/80px-GCC2014TDLogo.png"
-  width="80" height="120" alt="GCC2014TDLogo.png" /></a>
+  width="80" height="120" alt="GCC2014TDLogo.png" />
 
   
 
@@ -567,9 +567,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2016Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/1c/GCC2016Logo.png/120px-GCC2016Logo.png"
-  width="120" height="80" alt="GCC2016Logo.png" /></a>
+  width="120" height="80" alt="GCC2016Logo.png" />
 
   
 
@@ -590,9 +590,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2019Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ed/GCC2019Logo.png/120px-GCC2019Logo.png"
-  width="120" height="55" alt="GCC2019Logo.png" /></a>
+  width="120" height="55" alt="GCC2019Logo.png" />
 
   
 
@@ -613,9 +613,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GMOD2013_CommunityBuilding.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD2013 CommunityBuilding.pdf" /></a>
+  width="120" height="120" alt="GMOD2013 CommunityBuilding.pdf" />
 
   
 
@@ -637,9 +637,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GMOD2013_GalaxyUpdate.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD2013 GalaxyUpdate.pdf" /></a>
+  width="120" height="120" alt="GMOD2013 GalaxyUpdate.pdf" />
 
   
 
@@ -661,9 +661,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GMOD2016_Galaxy.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GMOD2016 Galaxy.pdf" /></a>
+  width="120" height="120" alt="GMOD2016 Galaxy.pdf" />
 
   
 
@@ -685,9 +685,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyLogoBigger.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/120px-GalaxyLogoBigger.png"
-  width="120" height="42" alt="GalaxyLogoBigger.png" /></a>
+  width="120" height="42" alt="GalaxyLogoBigger.png" />
 
   
 
@@ -708,9 +708,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyLogoBoxed.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7d/GalaxyLogoBoxed.png/120px-GalaxyLogoBoxed.png"
-  width="120" height="42" alt="GalaxyLogoBoxed.png" /></a>
+  width="120" height="42" alt="GalaxyLogoBoxed.png" />
 
   
 
@@ -731,9 +731,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GalaxyLogoSmall.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png" width="120"
-  height="115" alt="GalaxyLogoSmall.png" /></a>
+  height="115" alt="GalaxyLogoSmall.png" />
 
   
 
@@ -754,9 +754,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2011Logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a5/GCC2011Logo.png/120px-GCC2011Logo.png"
-  width="120" height="62" alt="GCC2011Logo.png" /></a>
+  width="120" height="62" alt="GCC2011Logo.png" />
 
   
 
@@ -777,9 +777,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:GCC2011LogoShort.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/65/GCC2011LogoShort.png/120px-GCC2011LogoShort.png"
-  width="120" height="52" alt="GCC2011LogoShort.png" /></a>
+  width="120" height="52" alt="GCC2011LogoShort.png" />
 
   
 
@@ -800,9 +800,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:MalaysiaGalaxyTutorialSlides.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="MalaysiaGalaxyTutorialSlides.pdf" /></a>
+  width="120" height="120" alt="MalaysiaGalaxyTutorialSlides.pdf" />
 
   
 
@@ -850,9 +850,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:Pag_2011_galaxy_talk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Pag 2011 galaxy talk.pdf" /></a>
+  width="120" height="120" alt="Pag 2011 galaxy talk.pdf" />
 
   
 
@@ -874,10 +874,10 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG_2011_poster_Nathalie.Choisne.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="PAG 2011 poster Nathalie.Choisne.pdf" /></a>
+  alt="PAG 2011 poster Nathalie.Choisne.pdf" />
 
   
 
@@ -899,9 +899,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2012GalaxyIntroTalk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2012GalaxyIntroTalk.pdf" /></a>
+  width="120" height="120" alt="PAG2012GalaxyIntroTalk.pdf" />
 
   
 
@@ -922,9 +922,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2012MAPHiTSTalk.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2012MAPHiTSTalk.pdf" /></a>
+  width="120" height="120" alt="PAG2012MAPHiTSTalk.pdf" />
 
   
 
@@ -945,9 +945,9 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  <a href="File:PAG2014_GalaxyCloudMan.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="PAG2014 GalaxyCloudMan.pdf" /></a>
+  width="120" height="120" alt="PAG2014 GalaxyCloudMan.pdf" />
 
   
 
@@ -981,9 +981,6 @@ The following 35 files are in this category, out of 35 total.
 
 
 
-
-
-### 
 
 
 

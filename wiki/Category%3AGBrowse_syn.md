@@ -123,9 +123,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Aug2009GBrowse_syn.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Aug2009GBrowse syn.pdf" /></a>
+  width="120" height="120" alt="Aug2009GBrowse syn.pdf" />
 
   
 
@@ -147,9 +147,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Cain_GI_poster.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Cain GI poster.pdf" /></a>
+  width="120" height="120" alt="Cain GI poster.pdf" />
 
   
 
@@ -171,9 +171,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GBrowse_syn_logo.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/44/GBrowse_syn_logo.png/120px-GBrowse_syn_logo.png"
-  width="120" height="38" alt="GBrowse syn logo.png" /></a>
+  width="120" height="38" alt="GBrowse syn logo.png" />
 
   
 
@@ -195,9 +195,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:Gbrowse_syn.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="Gbrowse syn.pdf" /></a>
+  width="120" height="120" alt="Gbrowse syn.pdf" />
 
   
 
@@ -218,9 +218,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GBrowse_synSMBE2009.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBrowse synSMBE2009.pdf" /></a>
+  width="120" height="120" alt="GBrowse synSMBE2009.pdf" />
 
   
 
@@ -242,9 +242,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GBS_PAG10.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
-  width="120" height="120" alt="GBS PAG10.pdf" /></a>
+  width="120" height="120" alt="GBS PAG10.pdf" />
 
   
 
@@ -265,11 +265,10 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
-  class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" /></a>
+  alt="GMODToolsForComparativeGenomicsIGERTPoster.pdf" />
 
   
 
@@ -290,9 +289,9 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:WGA_data.png" class="image"><img
+  <img
   src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/cf/WGA_data.png/120px-WGA_data.png"
-  width="120" height="69" alt="WGA data.png" /></a>
+  width="120" height="69" alt="WGA data.png" />
 
   
 
@@ -313,10 +312,10 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  <a href="File:ISyIPGMODforComparativeGenomics.pdf" class="image"><img
+  <img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
-  alt="ISyIPGMODforComparativeGenomics.pdf" /></a>
+  alt="ISyIPGMODforComparativeGenomics.pdf" />
 
   
 
@@ -351,9 +350,6 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-
-
-### 
 
 
 

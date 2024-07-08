@@ -18,9 +18,9 @@
 
 
 
-<a href="File:TextpressoLogo.jpg" class="image"><img
+<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/TextpressoLogo.jpg" width="400"
-height="126" alt="Textpresso logo" /></a>
+height="126" alt="Textpresso logo" />
 
 
 
@@ -103,9 +103,6 @@ class="external text" rel="nofollow">+</a></span> |
 
 - <span id="ca-talk"><a href="Talk%3ATextpresso" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
-
-
-### 
 
 
 
