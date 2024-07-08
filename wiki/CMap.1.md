@@ -710,14 +710,7 @@ and
 http://gmod.org/wiki/
 
 
-### Namespaces
 
-- <span id="ca-nstab-mainhttp://gmod.org/wiki/"><a href="/wiki/CMap" accesskey="c"
-  title="View the content page [c]">Page</a></span>
-- <span id="ca-talk"><a
-  href="/mediawiki/index.php?title=Talk:CMap&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ###

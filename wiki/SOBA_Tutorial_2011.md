@@ -737,23 +737,10 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:SOBA_Tutorial_2011&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

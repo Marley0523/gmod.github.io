@@ -516,13 +516,6 @@ Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and 
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

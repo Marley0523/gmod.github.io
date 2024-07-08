@@ -48,13 +48,6 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

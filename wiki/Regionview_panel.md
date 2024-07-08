@@ -42,23 +42,10 @@ See also: the [overview panel](Overview_panel "Overview panel").
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Region_panel&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

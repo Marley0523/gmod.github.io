@@ -203,23 +203,10 @@ time on Amazon Web Services for the course tutors and participants.
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_Online_Training_2014/Schedule&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

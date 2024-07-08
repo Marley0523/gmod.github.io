@@ -86,23 +86,10 @@ class="external text" rel="nofollow">WebApollo Hackathon information</a>
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/June_2014_WebApollo_Hackathon&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

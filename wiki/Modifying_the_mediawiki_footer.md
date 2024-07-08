@@ -65,23 +65,10 @@ Here is what the surrounding code looked like:
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Modifying_the_mediawiki_footer&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

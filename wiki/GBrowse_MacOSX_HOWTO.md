@@ -418,13 +418,6 @@ to look like this:
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

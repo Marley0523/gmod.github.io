@@ -85,23 +85,10 @@ class="internal" title="Mod-face-07jan-MGI.pdf">PDF</a> | MGI: Sue Bello, Joel R
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:MOD_Face_Talks&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

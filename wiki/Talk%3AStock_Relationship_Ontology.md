@@ -63,13 +63,6 @@ class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

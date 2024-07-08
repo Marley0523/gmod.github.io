@@ -42,13 +42,6 @@ The links to the Administration Tutorials above are broken!
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

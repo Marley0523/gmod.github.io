@@ -59,13 +59,6 @@ projects work easily together.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

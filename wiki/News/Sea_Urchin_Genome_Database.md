@@ -72,23 +72,10 @@ class="new" title="User%3AAcameron (page does not exist)">Andy Cameron</a>
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:News/Sea_Urchin_Genome_Database&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

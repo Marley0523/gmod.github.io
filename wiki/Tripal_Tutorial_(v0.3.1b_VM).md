@@ -117,23 +117,10 @@ rel="nofollow">http://www.gmod.org/wiki/Tripal_Tutorial_%28v0.3.1b%29#Creating_O
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Tripal_Tutorial_(v0.3.1b_VM)&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

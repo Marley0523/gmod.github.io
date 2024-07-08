@@ -43,13 +43,6 @@ like the required Mediawiki extensions are not installed.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

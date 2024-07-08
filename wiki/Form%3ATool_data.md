@@ -37,23 +37,10 @@ page.
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-form">[Form](Form%3ATool_data)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Form_talk:Tool_data&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

@@ -296,23 +296,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_maturity_st
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3AHas_software_maturity_status)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_software_maturity_status&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

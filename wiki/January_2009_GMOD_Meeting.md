@@ -1676,23 +1676,10 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:January_2009_GMOD_Meeting&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

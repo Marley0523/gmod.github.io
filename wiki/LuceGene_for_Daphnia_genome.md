@@ -102,23 +102,10 @@ class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk%3ALuceGene_for_Daphnia_genome&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

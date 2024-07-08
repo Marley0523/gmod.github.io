@@ -127,13 +127,6 @@ is managed by NESCent.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

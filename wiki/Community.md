@@ -126,13 +126,6 @@ class="new" title="Jeff Bowes (page does not exist)">Jeff Bowes</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

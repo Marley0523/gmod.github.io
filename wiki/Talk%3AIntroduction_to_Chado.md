@@ -47,13 +47,6 @@ I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

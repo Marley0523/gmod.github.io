@@ -46,13 +46,6 @@ class="new" title="User%3AMohpur (page does not exist)">Mohpur</a> 11:58,
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

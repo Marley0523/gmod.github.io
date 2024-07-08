@@ -77,13 +77,6 @@ rel="nofollow">e-mail</a>.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

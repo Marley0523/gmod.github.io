@@ -294,23 +294,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_development_status "
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3AHas_development_status)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Has_development_status&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

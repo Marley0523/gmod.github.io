@@ -337,13 +337,6 @@ This was already fixed. I committed the SQL a couple of weeks ago
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="../Main_Page"

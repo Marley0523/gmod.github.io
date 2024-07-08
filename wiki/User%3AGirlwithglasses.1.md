@@ -41,13 +41,6 @@ Specialist from July 2012 to May 2014.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="/wiki/Main_Page"

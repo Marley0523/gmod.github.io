@@ -157,13 +157,6 @@ We will be starting in the hotel bar.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

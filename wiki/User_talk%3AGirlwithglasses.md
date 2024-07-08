@@ -139,13 +139,6 @@ the GMOD wiki.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

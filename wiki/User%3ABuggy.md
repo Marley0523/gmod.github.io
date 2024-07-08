@@ -35,24 +35,10 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3ABuggy" accesskey="c" title="View the user page [c]">User
-  page</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=User_talk:Buggy&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

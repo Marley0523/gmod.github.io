@@ -112,13 +112,6 @@ appliance that already has MW installed._
 
 ###
 
-### Variants[](#)
-
-
-
-
-
-
 
 <a href="Main_Page"
 style="background-image: url(../images/GMOD-cogs.png);"

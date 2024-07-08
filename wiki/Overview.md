@@ -1172,13 +1172,6 @@ restrictions will clearly state that they have restricted licenses.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -91,23 +91,10 @@ Box/Updating](Updating "GMOD in a Box/Updating") page.
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:GMOD_in_a_Box/Resizing_a_VirtualBox_Disk&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

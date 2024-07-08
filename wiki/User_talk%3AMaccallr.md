@@ -88,13 +88,6 @@ come up with examples on wiki and see what we need.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

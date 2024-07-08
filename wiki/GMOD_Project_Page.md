@@ -130,13 +130,6 @@ page for more on this effort and how you can help direct it.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

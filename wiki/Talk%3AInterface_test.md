@@ -68,13 +68,6 @@ rel="nofollow">http://marmot.bio.indiana.edu/wiki/index.php/Participants</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

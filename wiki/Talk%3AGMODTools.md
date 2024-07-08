@@ -45,13 +45,6 @@ is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

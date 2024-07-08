@@ -66,23 +66,10 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Next_Generation_Sequencing&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

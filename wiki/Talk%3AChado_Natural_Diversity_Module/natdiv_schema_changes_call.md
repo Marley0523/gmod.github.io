@@ -55,13 +55,6 @@ does not address well post-composing terms.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="../Main_Page"

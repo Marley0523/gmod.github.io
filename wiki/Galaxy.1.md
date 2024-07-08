@@ -950,23 +950,10 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Galaxy&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

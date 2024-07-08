@@ -51,13 +51,6 @@ any such information on their web site...?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

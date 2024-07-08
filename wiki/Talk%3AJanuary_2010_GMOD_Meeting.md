@@ -58,13 +58,6 @@ Ah yes, I'm a little slow this morning.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

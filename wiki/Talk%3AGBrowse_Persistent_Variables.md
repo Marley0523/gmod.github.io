@@ -48,13 +48,6 @@ class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

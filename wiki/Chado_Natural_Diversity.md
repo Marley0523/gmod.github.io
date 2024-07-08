@@ -211,13 +211,6 @@ Ontology](Stock_Relationship_Ontology "Stock Relationship Ontology")
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

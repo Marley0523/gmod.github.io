@@ -328,13 +328,6 @@ confidence codes from GO?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -359,13 +359,6 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

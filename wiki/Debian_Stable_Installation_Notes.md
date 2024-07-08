@@ -358,13 +358,6 @@ alt="Gbrowse.png" /></a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -44,13 +44,6 @@ Since this is a wiki, others are welcome to modify what I'm doing.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

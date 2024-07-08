@@ -48,13 +48,6 @@ Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Date](Date)"
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 

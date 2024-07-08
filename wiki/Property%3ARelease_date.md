@@ -253,23 +253,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ARelease_date "Special:Ex
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-property">[Property](Property%3ARelease_date)</span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Property_talk:Release_date&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

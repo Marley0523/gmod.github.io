@@ -537,13 +537,6 @@ should be sure to include:
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

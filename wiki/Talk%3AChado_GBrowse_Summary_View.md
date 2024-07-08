@@ -45,13 +45,6 @@ example wrong? is settings missing? What?
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

@@ -97,24 +97,10 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-category"><a href="Category%3AGMOD_in_the_Cloud" accesskey="c"
-  title="View the category page [c]">Category</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category_talk:GMOD_in_the_Cloud&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

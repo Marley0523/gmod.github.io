@@ -88,7 +88,7 @@ Survey</a></li>
 </tbody>
 </table>
 
-### <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
+## <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
 
 See the [full list of GMOD
 components](GMOD_Components "GMOD Components")
@@ -200,12 +200,7 @@ Canto: literature annotation tool
 
 ## Navigation menu
 
-### Namespaces
 
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 ###
 

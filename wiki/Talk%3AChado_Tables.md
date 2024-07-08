@@ -44,13 +44,6 @@ are not in my chado schema installs.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

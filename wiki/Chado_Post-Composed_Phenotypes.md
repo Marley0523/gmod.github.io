@@ -171,13 +171,6 @@ for the older versions of this schema proposal
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

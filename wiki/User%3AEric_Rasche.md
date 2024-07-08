@@ -73,13 +73,6 @@ cluster, and a computer lab.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

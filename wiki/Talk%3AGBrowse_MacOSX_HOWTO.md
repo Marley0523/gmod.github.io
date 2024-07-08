@@ -79,13 +79,6 @@ note about needing LWP::Simple to the mac install page though.*
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

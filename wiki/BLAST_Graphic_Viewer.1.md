@@ -173,23 +173,10 @@ rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span class="
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:BLAST_Graphic_Viewer&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

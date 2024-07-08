@@ -127,25 +127,10 @@ Retrieved from
 
 
 
-### Namespaces
 
-- <span id="ca-nstab-category"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
-  accesskey="c" title="View the category page [c]">Category</a></span>
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Category_talk:Tutorial&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

@@ -221,13 +221,6 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

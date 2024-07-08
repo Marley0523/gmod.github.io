@@ -94,13 +94,6 @@ width="1500" height="1367" alt="Chado phenotype proposal.v4.png" /></a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

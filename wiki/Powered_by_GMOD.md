@@ -94,23 +94,10 @@ width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /></a> |  |  |
 
 
 
-### Namespaces
 
-
-- <span id="ca-talk"><a
-  href="http://gmod.org/mediawiki/index.php?title=Talk:Powered_by_GMOD&amp;action=edit&amp;redlink=1"
-  accesskey="t"
-  title="Discussion about the content page [t]">Discussion</a></span>
 
 
 ### 
-
-### Variants[](#)
-
-
-
-
-
 
 
 

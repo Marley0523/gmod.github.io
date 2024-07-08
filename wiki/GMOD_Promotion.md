@@ -307,13 +307,6 @@ We printed 500 of these in late 2009 and they are all gone.
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"

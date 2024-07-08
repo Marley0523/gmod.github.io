@@ -54,13 +54,6 @@ rel="nofollow">Hosted on Dropbox</a>
 
 ### 
 
-### Variants[](#)
-
-
-
-
-
-
 
 
 <a href="Main_Page"
