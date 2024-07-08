@@ -1,8 +1,4 @@
-# <span dir="auto">Main Page</span>
-
-<table>
-<tr>
-<td width=75%>
+# The Generic Model Organism Database Project
 
 Welcome to the **Generic Model Organism Database** project, a collection
 of open source software tools for managing, visualising, storing, and
@@ -37,10 +33,7 @@ feedback via [mailing lists](GMOD_Mailing_Lists "GMOD Mailing Lists") or
 the [help desk](GMOD_Help_Desk "GMOD Help Desk"). You can also attend
 project [meetings](Meetings "Meetings").
 
-</td>
-<td width="25%>
-
-GMOD is Social
+## GMOD is Social
 
 <a href="http://twitter.com/gmodproject" rel="nofollow"
 title="It&#39;s a bird! It&#39;s a plane! It&#39;s the GMOD project on Twitter!"><img
@@ -63,7 +56,7 @@ height="50" alt="GMOD group on LinkedIn" /></a>
 class="external text" rel="nofollow">Join other <strong>GMOD
 users</strong> on LinkedIn</a>
 
-[GMOD News](GMOD_News "GMOD News")
+### [GMOD News](GMOD_News "GMOD News")
 
 [Add](GMOD_News#Adding_a_News_Item "GMOD News")
 
@@ -93,10 +86,6 @@ Survey</a></li>
 </ul></td>
 </tr>
 </tbody>
-</table>
-
-</td>
-</tr>
 </table>
 
 ### <span id="Popular_GMOD_Tools" class="mw-headline">Popular GMOD Tools</span>
