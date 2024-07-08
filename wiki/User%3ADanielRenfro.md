@@ -20,16 +20,7 @@
 
 
 
-<img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/440px-Punting_on_the_Cam.jpg"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/660px-Punting_on_the_Cam.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/Punting_on_the_Cam.jpg/880px-Punting_on_the_Cam.jpg 2x"
-width="440" height="207" />
 
-
-<img
-src="../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" />
 
 
 

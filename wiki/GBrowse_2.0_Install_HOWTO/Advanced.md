@@ -408,17 +408,7 @@ inline editing interface to customize the track configuration file as
 shown in the illustration below.
 
 
-<a href="../File:Editing_track_config2.png" class="image"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/250px-Editing_track_config2.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/375px-Editing_track_config2.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/34/Editing_track_config2.png/500px-Editing_track_config2.png 2x"
-width="250" height="170" /></a>
-
-
-<a href="../File:Editing_track_config2.png" class="internal"
-title="Enlarge"><img
-src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+<a href="../File:Editing_track_config2.png" class="image"></a>
 
 
 

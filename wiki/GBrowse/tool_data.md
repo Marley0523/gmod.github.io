@@ -60,17 +60,7 @@ required and a single database is used.
 \| screenshot =
 
 
-<a href="../File:GBrowse_screenshot1.png" class="image"><img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/500px-GBrowse_screenshot1.png"
-class="thumbimage"
-srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/10/GBrowse_screenshot1.png/750px-GBrowse_screenshot1.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/GBrowse_screenshot1.png 2x"
-width="500" height="345" /></a>
-
-
-<a href="../File:GBrowse_screenshot1.png" class="internal"
-title="Enlarge"><img
-src="../../mediawiki/skins/common/images/magnify-clip.png" width="15"
-height="11" /></a>
+<a href="../File:GBrowse_screenshot1.png" class="image"></a>
 
 
 
