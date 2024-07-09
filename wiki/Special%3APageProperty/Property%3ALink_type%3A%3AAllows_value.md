@@ -98,8 +98,7 @@ From page     Property
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -778,8 +778,7 @@ http://gmod.org/wiki/
 - <span id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/CMap" accesskey="k"
   title="Recent changes in pages linked from this page [k]">Related
   changes</a></span>
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 - <span id="t-permalihttp://gmod.org/wiki/nk">[Permanent
   link](/mediawiki/index.php?title=CMap&oldid=24755 "Permanent link to this revision of the pagehttp://gmod.org/wiki/")</span>
