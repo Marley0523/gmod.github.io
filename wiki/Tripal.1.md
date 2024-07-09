@@ -57,7 +57,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Tripal](Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[Tripal](Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal "Special:ExportRDF/Tripal")</span></span>
 
 <table class="smwfacttable">
@@ -220,7 +220,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Tripal-23 c5e2b05d4750eb0951eb
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal" rel="smw-browse">Browse properties</a></span>
 
 
 

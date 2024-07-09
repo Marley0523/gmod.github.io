@@ -245,7 +245,7 @@ class="external text" rel="nofollow">Reference Genomes</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Standard_URL" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Standard_URL" rel="smw-browse">Browse
   properties</a></span>
 
 

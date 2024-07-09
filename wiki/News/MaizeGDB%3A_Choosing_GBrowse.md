@@ -156,7 +156,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FMaizeGDB%3A_Choosing_GBrowse"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FMaizeGDB%3A_Choosing_GBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

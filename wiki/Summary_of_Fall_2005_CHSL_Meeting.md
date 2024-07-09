@@ -124,7 +124,7 @@ can then evaluate the technologies better.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Summary_of_Fall_2005_CHSL_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Summary_of_Fall_2005_CHSL_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

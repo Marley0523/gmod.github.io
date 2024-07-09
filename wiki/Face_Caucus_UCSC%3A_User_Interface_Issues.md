@@ -118,7 +118,7 @@ Kate Rosenbloom, UCSC Genome Bioinformatics
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Face_Caucus_UCSC%3A_User_Interface_Issues"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Face_Caucus_UCSC%3A_User_Interface_Issues"
   rel="smw-browse">Browse properties</a></span>
 
 

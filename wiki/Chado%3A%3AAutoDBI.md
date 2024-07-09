@@ -145,7 +145,7 @@ the name of the package is **gmod**.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado%3A%3AAutoDBI" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%3A%3AAutoDBI" rel="smw-browse">Browse
   properties</a></span>
 
 

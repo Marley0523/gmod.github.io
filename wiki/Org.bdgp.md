@@ -107,7 +107,7 @@ class="external text" rel="nofollow">From SourceForge.</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Org.bdgp" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Org.bdgp" rel="smw-browse">Browse properties</a></span>
 
 
 

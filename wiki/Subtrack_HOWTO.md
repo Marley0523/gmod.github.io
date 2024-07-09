@@ -260,7 +260,7 @@ An example WIG(BED) to [GFF3](GFF3 "GFF3") converter
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Subtrack_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Subtrack_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

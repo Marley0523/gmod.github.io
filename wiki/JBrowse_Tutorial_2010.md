@@ -461,7 +461,7 @@ Visit in web browser
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial
-2010](Special%3ABrowse/JBrowse-20Tutorial-202010 "Special%3ABrowse/JBrowse-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%253ABrowse/JBrowse-20Tutorial-202010 "Special%253ABrowse/JBrowse-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:ExportRDF/JBrowse Tutorial 2010")</span></span>
 
 |                                                        |                                                                                                                                                                    |
@@ -524,7 +524,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

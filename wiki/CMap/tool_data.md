@@ -344,7 +344,7 @@ title="Visit the main page"></a>
 
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/CMap-2Ftool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/CMap-2Ftool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

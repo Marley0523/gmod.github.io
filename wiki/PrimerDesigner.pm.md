@@ -390,7 +390,7 @@ this before the next release of GBrowse.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PrimerDesigner.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PrimerDesigner.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

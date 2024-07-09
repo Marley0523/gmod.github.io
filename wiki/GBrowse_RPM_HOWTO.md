@@ -196,7 +196,7 @@ Added note about install path for gbrowse.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

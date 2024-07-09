@@ -21,7 +21,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[SOBA](/wiki/SOBA "SOBA") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA "Special%3ABrowse/SOBA")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[SOBA](/wiki/SOBA "SOBA") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[SOBA](/wiki/Category%3ASOBA "Category%3ASOBA")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SOBA "Special%3ASearchByProperty/SOBA")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[2012 Summer School](/wiki/Category%3A2012_Summer_School "Category%3A2012 Summer School")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2012-20Summer-20School "Special%3ASearchByProperty/2012-20Summer-20School")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
 class="new"
@@ -38,7 +38,7 @@ School</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2013-
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/SOBA_Tutorial" class="mw-redirect"
-title="SOBA Tutorial">SOBA Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA-20Tutorial "Special%3ABrowse/SOBA-20Tutorial")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="SOBA Tutorial">SOBA Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA-20Tutorial "Special%253ABrowse/SOBA-20Tutorial")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/SOBA_Tutorial "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/SOBA_Tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -115,8 +115,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

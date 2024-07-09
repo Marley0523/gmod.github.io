@@ -104,7 +104,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AInstall" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AInstall" rel="smw-browse">Browse
   properties</a></span>
 
 

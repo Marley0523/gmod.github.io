@@ -100,7 +100,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/Proposed_schema_extensions_related_to_Sybil-2FIGS_needs"
+  href="../Special%253ABrowse/Proposed_schema_extensions_related_to_Sybil-2FIGS_needs"
   rel="smw-browse">Browse properties</a></span>
 
 

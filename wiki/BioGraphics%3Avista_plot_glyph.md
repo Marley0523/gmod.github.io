@@ -825,7 +825,7 @@ See
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioGraphics%3Avista_plot_glyph"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BioGraphics%3Avista_plot_glyph"
   rel="smw-browse">Browse properties</a></span>
 
 

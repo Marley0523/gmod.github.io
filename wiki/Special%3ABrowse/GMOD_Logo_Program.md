@@ -32,8 +32,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD_Logo_Program_Application" class="mw-redirect"
-title="GMOD Logo Program Application">GMOD Logo Program Application</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Logo-20Program-20Application "Special%3ABrowse/GMOD-20Logo-20Program-20Application")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD_Logo_Service" class="mw-redirect"
-title="GMOD Logo Service">GMOD Logo Service</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Logo-20Service "Special%3ABrowse/GMOD-20Logo-20Service")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD Logo Program Application">GMOD Logo Program Application</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Logo-20Program-20Application "Special%253ABrowse/GMOD-20Logo-20Program-20Application")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD_Logo_Service" class="mw-redirect"
+title="GMOD Logo Service">GMOD Logo Service</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Logo-20Service "Special%253ABrowse/GMOD-20Logo-20Service")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GMOD_Logo_Program "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GMOD_Logo_Program "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -110,8 +110,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

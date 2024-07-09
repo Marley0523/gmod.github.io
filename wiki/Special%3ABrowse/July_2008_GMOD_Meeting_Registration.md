@@ -35,7 +35,7 @@ Registration</a> |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/July_2008_GMOD_Meeting_Registration" class="mw-redirect"
 title="July 2008 GMOD Meeting Registration">July 2008 GMOD Meeting
-Registration</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting-20Registration "Special%3ABrowse/July-202008-20GMOD-20Meeting-20Registration")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Registration</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/July-202008-20GMOD-20Meeting-20Registration "Special%253ABrowse/July-202008-20GMOD-20Meeting-20Registration")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/July_2008_GMOD_Meeting_Registration "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/July_2008_GMOD_Meeting_Registration "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -112,8 +112,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

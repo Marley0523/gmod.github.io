@@ -133,7 +133,7 @@ title="Visit the main page"></a>
 
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GO%3A%3ATermFinder-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GO%3A%3ATermFinder-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

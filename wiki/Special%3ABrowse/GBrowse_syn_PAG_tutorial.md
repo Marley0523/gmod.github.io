@@ -31,7 +31,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GBrowse_syn_scratch" class="mw-redirect"
-title="GBrowse syn scratch">GBrowse syn scratch</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn-20scratch "Special%3ABrowse/GBrowse-20syn-20scratch")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GBrowse syn scratch">GBrowse syn scratch</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn-20scratch "Special%253ABrowse/GBrowse-20syn-20scratch")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_syn_PAG_tutorial "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_syn_PAG_tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

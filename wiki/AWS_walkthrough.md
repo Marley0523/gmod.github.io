@@ -591,7 +591,7 @@ width="750" height="409" alt="Tabula rasa" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/AWS_walkthrough" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/AWS_walkthrough" rel="smw-browse">Browse
   properties</a></span>
 
 

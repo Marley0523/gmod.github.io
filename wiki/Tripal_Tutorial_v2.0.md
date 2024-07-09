@@ -80,7 +80,7 @@ rel="nofollow">Tripal User's Guide</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_v2.0" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Tutorial_v2.0" rel="smw-browse">Browse
   properties</a></span>
 
 

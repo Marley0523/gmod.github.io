@@ -145,7 +145,7 @@ Meeting](January_2009_GMOD_Meeting#GMODWeb_and_Package_Management "January 2009 
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODWeb" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMODWeb" rel="smw-browse">Browse properties</a></span>
 
 
 

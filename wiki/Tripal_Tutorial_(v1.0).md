@@ -3373,7 +3373,7 @@ desired extensions.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
-(v1.0)](Special%3ABrowse/Tripal-20Tutorial-20(v1.0) "Special%3ABrowse/Tripal-20Tutorial-20(v1.0)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+(v1.0)](Special%253ABrowse/Tripal-20Tutorial-20(v1.0) "Special%253ABrowse/Tripal-20Tutorial-20(v1.0)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(v1.0) "Special:ExportRDF/Tripal Tutorial (v1.0)")</span></span>
 
 |  |  |
@@ -3436,7 +3436,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(v1.0) "Special:Exp
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(v1.0)" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Tutorial_(v1.0)" rel="smw-browse">Browse
   properties</a></span>
 
 

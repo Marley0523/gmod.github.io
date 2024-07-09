@@ -212,7 +212,7 @@ distribution.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Comparative_Genomics" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Comparative_Genomics" rel="smw-browse">Browse
   properties</a></span>
 
 

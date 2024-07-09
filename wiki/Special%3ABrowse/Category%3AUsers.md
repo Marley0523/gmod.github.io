@@ -33,7 +33,7 @@ title="Category%3AUsers (page does not exist)">Category%3AUsers</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD Users](/wiki/GMOD_Users "GMOD Users") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Users "Special%3ABrowse/GMOD-20Users")</span></span> , <span class="smwb-ivalue">[User%3AMnrusimh](/wiki/User%3AMnrusimh "User%3AMnrusimh") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AMnrusimh "Special%3ABrowse/User%3AMnrusimh")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD Users](/wiki/GMOD_Users "GMOD Users") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Users "Special%253ABrowse/GMOD-20Users")</span></span> , <span class="smwb-ivalue">[User%3AMnrusimh](/wiki/User%3AMnrusimh "User%3AMnrusimh") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3AMnrusimh "Special%253ABrowse/User%3AMnrusimh")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AUsers "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AUsers "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -110,8 +110,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

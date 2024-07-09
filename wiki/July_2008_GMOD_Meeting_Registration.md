@@ -1117,7 +1117,7 @@ please add it below.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/July_2008_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/July_2008_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

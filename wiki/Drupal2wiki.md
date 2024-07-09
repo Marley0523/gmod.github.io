@@ -193,7 +193,7 @@ foreach my $url_to_convert (@urls) {
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Drupal2wiki" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Drupal2wiki" rel="smw-browse">Browse
   properties</a></span>
 
 

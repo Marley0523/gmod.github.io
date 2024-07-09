@@ -99,7 +99,7 @@ University of Oxford for hosting and sponsoring this event.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Europe_2009" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Europe_2009" rel="smw-browse">Browse
   properties</a></span>
 
 

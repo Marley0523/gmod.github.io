@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 Viewer#http://www.yeastgenome.org/cgi-bin/blast-sgd.pl](/wiki/BLAST_Graphic_Viewer#http:.2F.2Fwww.yeastgenome.org.2Fcgi-bin.2Fblast-sgd.pl "BLAST Graphic Viewer")"  
 
 - [BLAST Graphic
-  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BLAST-20Graphic-20Viewer "Special%3ABrowse/BLAST-20Graphic-20Viewer")</span>
+  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>
 
  
 
@@ -96,8 +96,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

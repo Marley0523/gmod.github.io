@@ -129,7 +129,7 @@ class="external text" rel="nofollow">+</a></span> |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GO%3A%3ATermFinder" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GO%3A%3ATermFinder" rel="smw-browse">Browse
   properties</a></span>
 
 

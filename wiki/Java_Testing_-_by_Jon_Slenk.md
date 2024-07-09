@@ -237,7 +237,7 @@ class="external text" rel="nofollow">code rot</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Java_Testing_-2D_by_Jon_Slenk"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Java_Testing_-2D_by_Jon_Slenk"
   rel="smw-browse">Browse properties</a></span>
 
 

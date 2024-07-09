@@ -386,7 +386,7 @@ type_id=synthetic construct
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Learn_XMLXORT" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Learn_XMLXORT" rel="smw-browse">Browse
   properties</a></span>
 
 

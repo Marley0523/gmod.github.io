@@ -309,7 +309,7 @@ Gibson. It is currently being developed by Monty Schulman.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/NBrowse" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/NBrowse" rel="smw-browse">Browse properties</a></span>
 
 
 

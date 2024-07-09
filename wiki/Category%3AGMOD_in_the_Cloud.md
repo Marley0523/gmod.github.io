@@ -144,7 +144,7 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_in_the_Cloud"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_in_the_Cloud"
   rel="smw-browse">Browse properties</a></span>
 
 

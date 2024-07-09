@@ -109,7 +109,7 @@ The following 4 pages are in this category, out of 4 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Best_Practices"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Best_Practices"
   rel="smw-browse">Browse properties</a></span>
 
 

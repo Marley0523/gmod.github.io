@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GSoC "Special%3ABrowse/GSoC")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[File:Mgi logo.jpg](/wiki/File:Mgi_logo.jpg "File:Mgi logo.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mgi-20logo.jpg "Special%3ABrowse/File:Mgi-20logo.jpg")</span></span> , <span class="smwb-ivalue">[File:Mgi.ppt](/wiki/File:Mgi.ppt "File:Mgi.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mgi.ppt "Special%3ABrowse/File:Mgi.ppt")</span></span> , <span class="smwb-ivalue">[File:MgiMainPageLogo.jpg](/wiki/File:MgiMainPageLogo.jpg "File:MgiMainPageLogo.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:MgiMainPageLogo.jpg "Special%3ABrowse/File:MgiMainPageLogo.jpg")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-MGI.pdf](/wiki/File:Mod-face-07jan-MGI.pdf "File:Mod-face-07jan-MGI.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Mod-2Dface-2D07jan-2DMGI.pdf "Special%3ABrowse/File:Mod-2Dface-2D07jan-2DMGI.pdf")</span></span> , <span class="smwb-ivalue">[September 2003 GMOD Meeting](/wiki/September_2003_GMOD_Meeting "September 2003 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/September-202003-20GMOD-20Meeting "Special%3ABrowse/September-202003-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GSoC](/wiki/GSoC "GSoC") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GSoC "Special%253ABrowse/GSoC")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[File:Mgi logo.jpg](/wiki/File:Mgi_logo.jpg "File:Mgi logo.jpg") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Mgi-20logo.jpg "Special%253ABrowse/File:Mgi-20logo.jpg")</span></span> , <span class="smwb-ivalue">[File:Mgi.ppt](/wiki/File:Mgi.ppt "File:Mgi.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Mgi.ppt "Special%253ABrowse/File:Mgi.ppt")</span></span> , <span class="smwb-ivalue">[File:MgiMainPageLogo.jpg](/wiki/File:MgiMainPageLogo.jpg "File:MgiMainPageLogo.jpg") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:MgiMainPageLogo.jpg "Special%253ABrowse/File:MgiMainPageLogo.jpg")</span></span> , <span class="smwb-ivalue">[File:Mod-face-07jan-MGI.pdf](/wiki/File:Mod-face-07jan-MGI.pdf "File:Mod-face-07jan-MGI.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Mod-2Dface-2D07jan-2DMGI.pdf "Special%253ABrowse/File:Mod-2Dface-2D07jan-2DMGI.pdf")</span></span> , <span class="smwb-ivalue">[September 2003 GMOD Meeting](/wiki/September_2003_GMOD_Meeting "September 2003 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/September-202003-20GMOD-20Meeting "Special%253ABrowse/September-202003-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AMGI "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AMGI "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

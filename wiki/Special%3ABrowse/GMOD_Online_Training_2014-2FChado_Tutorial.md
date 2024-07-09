@@ -20,7 +20,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value"><a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado "Special%3ABrowse/Chado")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value"><a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado "Special%253ABrowse/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 May 2014 12:53:16  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/20-20May-202014-2012:53:16 "Special%3ASearchByProperty/Modification-20date/20-20May-202014-2012:53:16")</span></span> |
 
 <span id="smw_browse_incoming"></span>
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GMOD_Online_Training_2014-2FChado_Tutorial "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GMOD_Online_Training_2014-2FChado_Tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

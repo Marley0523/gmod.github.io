@@ -18,8 +18,8 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "JBrowse demos"  
 
-- [JBrowse#http://jbrowse.org/demos](/wiki/JBrowse#http:.2F.2Fjbrowse.org.2Fdemos "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-23http%3A-2F-2Fjbrowse.org-2Fdemos "Special%3ABrowse/JBrowse-23http%3A-2F-2Fjbrowse.org-2Fdemos")</span>
-- [JBrowse2#http://jbrowse.org/demos](/wiki/JBrowse2#http:.2F.2Fjbrowse.org.2Fdemos "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2-23http%3A-2F-2Fjbrowse.org-2Fdemos "Special%3ABrowse/JBrowse2-23http%3A-2F-2Fjbrowse.org-2Fdemos")</span>
+- [JBrowse#http://jbrowse.org/demos](/wiki/JBrowse#http:.2F.2Fjbrowse.org.2Fdemos "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%3A-2F-2Fjbrowse.org-2Fdemos "Special%253ABrowse/JBrowse-23http%3A-2F-2Fjbrowse.org-2Fdemos")</span>
+- [JBrowse2#http://jbrowse.org/demos](/wiki/JBrowse2#http:.2F.2Fjbrowse.org.2Fdemos "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse2-23http%3A-2F-2Fjbrowse.org-2Fdemos "Special%253ABrowse/JBrowse2-23http%3A-2F-2Fjbrowse.org-2Fdemos")</span>
 
  
 
@@ -92,8 +92,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -145,7 +145,7 @@ rel="nofollow">Setup.txt</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JavaSEAN" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JavaSEAN" rel="smw-browse">Browse properties</a></span>
 
 
 

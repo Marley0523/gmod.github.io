@@ -19,7 +19,7 @@ topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[SOBA](/wiki/SOBA "SOBA")"  
 
 - [SOBA Tutorial
-  2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA-20Tutorial-202012 "Special%3ABrowse/SOBA-20Tutorial-202012")</span>
+  2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA-20Tutorial-202012 "Special%253ABrowse/SOBA-20Tutorial-202012")</span>
 
  
 
@@ -92,8 +92,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[DBD::mysql on the Mac](/wiki/DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DBD::mysql-20on-20the-20Mac "Special%3ABrowse/DBD::mysql-20on-20the-20Mac")</span></span> , <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Databases-20and-20GMOD "Special%3ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Adaptors "Special%3ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[GBrowse UCSC Plugin Install HOWTO](/wiki/GBrowse_UCSC_Plugin_Install_HOWTO "GBrowse UCSC Plugin Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20UCSC-20Plugin-20Install-20HOWTO "Special%3ABrowse/GBrowse-20UCSC-20Plugin-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[MySQL](/wiki/MySQL "MySQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MySQL "Special%3ABrowse/MySQL")</span></span> , <span class="smwb-ivalue">[PubSearch](/wiki/PubSearch "PubSearch") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PubSearch "Special%3ABrowse/PubSearch")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[DBD::mysql on the Mac](/wiki/DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DBD::mysql-20on-20the-20Mac "Special%253ABrowse/DBD::mysql-20on-20the-20Mac")</span></span> , <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Databases-20and-20GMOD "Special%253ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Adaptors "Special%253ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[GBrowse UCSC Plugin Install HOWTO](/wiki/GBrowse_UCSC_Plugin_Install_HOWTO "GBrowse UCSC Plugin Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20UCSC-20Plugin-20Install-20HOWTO "Special%253ABrowse/GBrowse-20UCSC-20Plugin-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[MySQL](/wiki/MySQL "MySQL") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MySQL "Special%253ABrowse/MySQL")</span></span> , <span class="smwb-ivalue">[PubSearch](/wiki/PubSearch "PubSearch") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/PubSearch "Special%253ABrowse/PubSearch")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AMySQL "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AMySQL "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

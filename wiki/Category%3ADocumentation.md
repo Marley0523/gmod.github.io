@@ -141,7 +141,7 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ADocumentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ADocumentation" rel="smw-browse">Browse
   properties</a></span>
 
 

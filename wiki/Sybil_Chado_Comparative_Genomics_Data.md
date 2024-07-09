@@ -145,7 +145,7 @@ needs](Proposed_schema_extensions_related_to_Sybil/IGS_needs "Proposed schema ex
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sybil_Chado_Comparative_Genomics_Data"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Sybil_Chado_Comparative_Genomics_Data"
   rel="smw-browse">Browse properties</a></span>
 
 

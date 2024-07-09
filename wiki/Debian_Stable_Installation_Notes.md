@@ -400,7 +400,7 @@ alt="Gbrowse.png" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Debian_Stable_Installation_Notes"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Debian_Stable_Installation_Notes"
   rel="smw-browse">Browse properties</a></span>
 
 

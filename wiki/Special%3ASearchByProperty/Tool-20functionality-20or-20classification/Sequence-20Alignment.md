@@ -19,7 +19,7 @@ classification](/wiki/Property%3ATool_functionality_or_classification "Property:
 with value "Sequence Alignment"  
 
 - [BLAST Graphic
-  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BLAST-20Graphic-20Viewer "Special%3ABrowse/BLAST-20Graphic-20Viewer")</span>
+  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>
 
  
 
@@ -92,8 +92,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -131,7 +131,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse_NGS_Tutorial_-26_Poster"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGBrowse_NGS_Tutorial_-26_Poster"
   rel="smw-browse">Browse properties</a></span>
 
 

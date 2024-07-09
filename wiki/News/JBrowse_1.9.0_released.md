@@ -130,7 +130,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FJBrowse_1.9.0_released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FJBrowse_1.9.0_released"
   rel="smw-browse">Browse properties</a></span>
 
 

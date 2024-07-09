@@ -122,7 +122,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FPathway_Tools_Flux_Balance_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FPathway_Tools_Flux_Balance_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

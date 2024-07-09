@@ -219,7 +219,7 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_GFF_Into_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_GFF_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

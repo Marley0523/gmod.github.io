@@ -260,7 +260,7 @@ cellpadding="4">
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PSU_Presentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PSU_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 

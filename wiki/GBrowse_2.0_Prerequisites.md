@@ -388,7 +388,7 @@ In addition, the following optional Perl libraries are recommended:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_Prerequisites"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_2.0_Prerequisites"
   rel="smw-browse">Browse properties</a></span>
 
 

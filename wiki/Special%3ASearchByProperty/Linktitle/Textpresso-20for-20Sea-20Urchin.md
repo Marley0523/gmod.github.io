@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Textpresso for Sea Urchin"  
 
-- [Textpresso#http://whis.caltech.edu/textpresso/](/wiki/Textpresso#http:.2F.2Fwhis.caltech.edu.2Ftextpresso.2F "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso-23http%3A-2F-2Fwhis.caltech.edu-2Ftextpresso-2F "Special%3ABrowse/Textpresso-23http%3A-2F-2Fwhis.caltech.edu-2Ftextpresso-2F")</span>
+- [Textpresso#http://whis.caltech.edu/textpresso/](/wiki/Textpresso#http:.2F.2Fwhis.caltech.edu.2Ftextpresso.2F "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso-23http%3A-2F-2Fwhis.caltech.edu-2Ftextpresso-2F "Special%253ABrowse/Textpresso-23http%3A-2F-2Fwhis.caltech.edu-2Ftextpresso-2F")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -80,7 +80,7 @@ Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/March2011GenomeSyntenyViewer.pptx"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/March2011GenomeSyntenyViewer.pptx"
   rel="smw-browse">Browse properties</a></span>
 
 

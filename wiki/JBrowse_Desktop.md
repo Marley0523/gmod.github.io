@@ -209,7 +209,7 @@ apps are limited to Windows 7+)
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Desktop" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse_Desktop" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -781,7 +781,7 @@ rel="nofollow">TAIR site</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/June_2007_Progress_Report"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/June_2007_Progress_Report"
   rel="smw-browse">Browse properties</a></span>
 
 

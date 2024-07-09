@@ -576,7 +576,7 @@ Write custom methods for speciﬁc sub-classes
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Hibernate_Presentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Hibernate_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 

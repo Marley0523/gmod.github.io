@@ -121,7 +121,7 @@ gmod-schema@lists.sourceforge.net.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Updating_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Updating_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

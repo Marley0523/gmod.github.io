@@ -106,7 +106,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ATools_using_GMOD"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATools_using_GMOD"
   rel="smw-browse">Browse properties</a></span>
 
 

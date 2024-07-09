@@ -32,7 +32,7 @@ class="new" title="Category%3ANGS (page does not exist)">Category%3ANGS</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Est2assembly "Special%3ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%3ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GalaxyNGSISMB2010.pdf "Special%3ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%3ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Est2assembly "Special%253ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GalaxyNGSISMB2010.pdf "Special%253ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ANGS "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ANGS "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

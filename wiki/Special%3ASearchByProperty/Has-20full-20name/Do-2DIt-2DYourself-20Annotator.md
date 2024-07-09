@@ -19,7 +19,7 @@ href="/mediawiki/index.php?title=Property:Has_full_name&amp;action=edit&amp;redl
 class="new" title="Property:Has full name (page does not exist)">Has
 full name</a>" with value "Do-It-Yourself Annotator"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 
@@ -92,8 +92,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

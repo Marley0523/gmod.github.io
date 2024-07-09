@@ -18,7 +18,7 @@ A list of all pages that have property "[Written in
 language](/wiki/Property%3AWritten_in_language "Property:Written in language")"
 with value "GBrowse config file"  
 
-- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span>
+- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

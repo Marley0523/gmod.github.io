@@ -81,7 +81,7 @@ has also lived in Massachusetts and Japan.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AGarrett" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AGarrett" rel="smw-browse">Browse
   properties</a></span>
 
 

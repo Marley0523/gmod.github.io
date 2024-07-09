@@ -44,8 +44,8 @@ Showing 8 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioMart"
-title="Special%3ABrowse/BioMart">+</a></span></td>
+href="Special%253ABrowse/BioMart"
+title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/GBrowse"
@@ -57,8 +57,8 @@ title="Special%3ASearchByProperty/Interacts-20with/GBrowse">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Canto"
-title="Special%3ABrowse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/Canto"
+title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops"><a href="Chado" class="mw-redirect"
 title="Chado">Chado</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/Chado"
@@ -70,8 +70,8 @@ title="Special%3ASearchByProperty/Interacts-20with/Chado">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/DIYA"
-title="Special%3ABrowse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/DIYA"
+title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/GBrowse"
@@ -84,8 +84,8 @@ title="Special%3ASearchByProperty/Interacts-20with/GBrowse">+</a></span></td>
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/InterMine"
-title="Special%3ABrowse/InterMine">+</a></span></td>
+href="Special%253ABrowse/InterMine"
+title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/JBrowse"
@@ -107,8 +107,8 @@ title="Special:PageProperty/InterMine::Interacts with">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Tripal"
-title="Special%3ABrowse/Tripal">+</a></span></td>
+href="Special%253ABrowse/Tripal"
+title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/GBrowse"
@@ -129,8 +129,8 @@ title="Special:PageProperty/Tripal::Interacts with">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo"
-title="Special%3ABrowse/WebApollo">+</a></span></td>
+href="Special%253ABrowse/WebApollo"
+title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops"><a href="MAKER.1" title="MAKER">MAKER</a>  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/MAKER"
@@ -142,8 +142,8 @@ title="Special%3ASearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo2"
-title="Special%3ABrowse/WebApollo2">+</a></span></td>
+href="Special%253ABrowse/WebApollo2"
+title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops"><a href="MAKER.1" title="MAKER">MAKER</a>  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Interacts-20with/MAKER"
@@ -158,8 +158,8 @@ title="Special%3ASearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops"><a href="Chado_-_Getting_Started"
 title="Chado - Getting Started">Chado - Getting Started</a>  <span
 class="smwsearch"><a
@@ -235,7 +235,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteracts_with "Special:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AInteracts_with" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AInteracts_with" rel="smw-browse">Browse
   properties</a></span>
 
 

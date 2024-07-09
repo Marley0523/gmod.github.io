@@ -144,7 +144,7 @@ rel="nofollow">Linn-Benton Community College</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Phenote" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Phenote" rel="smw-browse">Browse properties</a></span>
 
 
 

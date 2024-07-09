@@ -472,7 +472,7 @@ The presentations are listed here in a very approximate order:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2009_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/January_2009_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

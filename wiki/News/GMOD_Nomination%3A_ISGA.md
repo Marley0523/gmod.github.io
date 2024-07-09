@@ -139,7 +139,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Nomination%3A_ISGA"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_Nomination%3A_ISGA"
   rel="smw-browse">Browse properties</a></span>
 
 

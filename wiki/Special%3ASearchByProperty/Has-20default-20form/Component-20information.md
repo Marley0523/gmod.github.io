@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 information](/wiki/Form%3AComponent_information "Form:Component information")"  
 
 - [Category%3AGMOD
-  Tools](/wiki/Category%3AGMOD_Tools "Category%3AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Tools "Special%3ABrowse/Category%3AGMOD-20Tools")</span>
+  Tools](/wiki/Category%3AGMOD_Tools "Category%3AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AGMOD-20Tools "Special%253ABrowse/Category%3AGMOD-20Tools")</span>
 
  
 
@@ -96,8 +96,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

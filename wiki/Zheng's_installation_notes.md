@@ -404,7 +404,7 @@ since no analysisfeature exists in dataset (?)
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Zheng&#39;s_installation_notes"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Zheng&#39;s_installation_notes"
   rel="smw-browse">Browse properties</a></span>
 
 

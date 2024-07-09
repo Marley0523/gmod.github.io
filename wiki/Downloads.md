@@ -218,7 +218,7 @@ class="external text" rel="nofollow">SVN repository at SourceForge</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Downloads" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Downloads" rel="smw-browse">Browse
   properties</a></span>
 
 

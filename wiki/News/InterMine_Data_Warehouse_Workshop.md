@@ -125,7 +125,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FInterMine_Data_Warehouse_Workshop"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FInterMine_Data_Warehouse_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

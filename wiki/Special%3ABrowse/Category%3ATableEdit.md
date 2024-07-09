@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Hackathon 2007 info](/wiki/Hackathon_2007_info "Hackathon 2007 info") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Hackathon-202007-20info "Special%3ABrowse/Hackathon-202007-20info")</span></span> , <span class="smwb-ivalue">[Hackathon wikidb](/wiki/Hackathon_wikidb "Hackathon wikidb") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Hackathon-20wikidb "Special%3ABrowse/Hackathon-20wikidb")</span></span> , <span class="smwb-ivalue">[IFALT](/wiki/IFALT "IFALT") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/IFALT "Special%3ABrowse/IFALT")</span></span> , <span class="smwb-ivalue">[File:Jan2009TableEdit.pdf](/wiki/File:Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Jan2009TableEdit.pdf "Special%3ABrowse/File:Jan2009TableEdit.pdf")</span></span> , <span class="smwb-ivalue">[File:Jan2010TableEdit.pdf](/wiki/File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Jan2010TableEdit.pdf "Special%3ABrowse/File:Jan2010TableEdit.pdf")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting "Special%3ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/July-202008-20GMOD-20Meeting "Special%3ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[File:SteinWareRetreat.ppt](/wiki/File:SteinWareRetreat.ppt "File:SteinWareRetreat.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:SteinWareRetreat.ppt "Special%3ABrowse/File:SteinWareRetreat.ppt")</span></span> , <span class="smwb-ivalue">[TableEdit](/wiki/TableEdit "TableEdit") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/TableEdit "Special%3ABrowse/TableEdit")</span></span> , <span class="smwb-ivalue">[TableEdit Loader](/wiki/TableEdit_Loader "TableEdit Loader") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/TableEdit-20Loader "Special%3ABrowse/TableEdit-20Loader")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Hackathon 2007 info](/wiki/Hackathon_2007_info "Hackathon 2007 info") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Hackathon-202007-20info "Special%253ABrowse/Hackathon-202007-20info")</span></span> , <span class="smwb-ivalue">[Hackathon wikidb](/wiki/Hackathon_wikidb "Hackathon wikidb") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Hackathon-20wikidb "Special%253ABrowse/Hackathon-20wikidb")</span></span> , <span class="smwb-ivalue">[IFALT](/wiki/IFALT "IFALT") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/IFALT "Special%253ABrowse/IFALT")</span></span> , <span class="smwb-ivalue">[File:Jan2009TableEdit.pdf](/wiki/File:Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Jan2009TableEdit.pdf "Special%253ABrowse/File:Jan2009TableEdit.pdf")</span></span> , <span class="smwb-ivalue">[File:Jan2010TableEdit.pdf](/wiki/File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Jan2010TableEdit.pdf "Special%253ABrowse/File:Jan2010TableEdit.pdf")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/January-202009-20GMOD-20Meeting "Special%253ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[July 2008 GMOD Meeting](/wiki/July_2008_GMOD_Meeting "July 2008 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/July-202008-20GMOD-20Meeting "Special%253ABrowse/July-202008-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[File:SteinWareRetreat.ppt](/wiki/File:SteinWareRetreat.ppt "File:SteinWareRetreat.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:SteinWareRetreat.ppt "Special%253ABrowse/File:SteinWareRetreat.ppt")</span></span> , <span class="smwb-ivalue">[TableEdit](/wiki/TableEdit "TableEdit") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/TableEdit "Special%253ABrowse/TableEdit")</span></span> , <span class="smwb-ivalue">[TableEdit Loader](/wiki/TableEdit_Loader "TableEdit Loader") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/TableEdit-20Loader "Special%253ABrowse/TableEdit-20Loader")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ATableEdit "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ATableEdit "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -177,7 +177,7 @@ The following 3 files are in this category, out of 3 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGramene" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGramene" rel="smw-browse">Browse
   properties</a></span>
 
 

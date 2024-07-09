@@ -34,8 +34,8 @@
 | <span class="smwb-ivalue"><a
 href="/wiki/JBrowseDev/Current/Usage/General/Options/SubfeatureClasses"
 class="mw-redirect"
-title="JBrowseDev/Current/Usage/General/Options/SubfeatureClasses">JBrowseDev/Current/Usage/General/Options/SubfeatureClasses</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FSubfeatureClasses "Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FSubfeatureClasses")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Options/SubfeatureClasses" class="mw-redirect"
-title="JBrowseDev/Options/SubfeatureClasses">JBrowseDev/Options/SubfeatureClasses</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FOptions-2FSubfeatureClasses "Special%3ABrowse/JBrowseDev-2FOptions-2FSubfeatureClasses")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="JBrowseDev/Current/Usage/General/Options/SubfeatureClasses">JBrowseDev/Current/Usage/General/Options/SubfeatureClasses</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FSubfeatureClasses "Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FSubfeatureClasses")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Options/SubfeatureClasses" class="mw-redirect"
+title="JBrowseDev/Options/SubfeatureClasses">JBrowseDev/Options/SubfeatureClasses</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FOptions-2FSubfeatureClasses "Special%253ABrowse/JBrowseDev-2FOptions-2FSubfeatureClasses")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowseDev-2FThe_SubfeatureClasses_Option "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowseDev-2FThe_SubfeatureClasses_Option "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -112,8 +112,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -216,7 +216,7 @@ title="Chado Tutorial">Chado Tutorial</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Databases%3A_Primary,_Foreign_and_Alternate_Keys"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Databases%3A_Primary,_Foreign_and_Alternate_Keys"
   rel="smw-browse">Browse properties</a></span>
 
 

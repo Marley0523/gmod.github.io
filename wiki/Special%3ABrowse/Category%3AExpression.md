@@ -31,8 +31,8 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Caryoscope](/wiki/Caryoscope "Caryoscope") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Caryoscope "Special%3ABrowse/Caryoscope")</span></span> , <span class="smwb-ivalue">[Chado Expression Module](/wiki/Chado_Expression_Module "Chado Expression Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Expression-20Module "Special%3ABrowse/Chado-20Expression-20Module")</span></span> , <span class="smwb-ivalue">[Chado Mage Module](/wiki/Chado_Mage_Module "Chado Mage Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Mage-20Module "Special%3ABrowse/Chado-20Mage-20Module")</span></span> , <span class="smwb-ivalue">[File:GeneExpressionIWhenWhere.ppt](/wiki/File:GeneExpressionIWhenWhere.ppt "File:GeneExpressionIWhenWhere.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GeneExpressionIWhenWhere.ppt "Special%3ABrowse/File:GeneExpressionIWhenWhere.ppt")</span></span> , <span class="smwb-ivalue">[GeneXplorer](/wiki/GeneXplorer "GeneXplorer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GeneXplorer "Special%3ABrowse/GeneXplorer")</span></span> , <span class="smwb-ivalue">[Visualization](/wiki/Visualization "Visualization") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Visualization "Special%3ABrowse/Visualization")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
-| <span class="smwb-ivalue">[Category%3AMicroarrays](/wiki/Category%3AMicroarrays "Category%3AMicroarrays") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AMicroarrays "Special%3ABrowse/Category%3AMicroarrays")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Caryoscope](/wiki/Caryoscope "Caryoscope") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Caryoscope "Special%253ABrowse/Caryoscope")</span></span> , <span class="smwb-ivalue">[Chado Expression Module](/wiki/Chado_Expression_Module "Chado Expression Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Expression-20Module "Special%253ABrowse/Chado-20Expression-20Module")</span></span> , <span class="smwb-ivalue">[Chado Mage Module](/wiki/Chado_Mage_Module "Chado Mage Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Mage-20Module "Special%253ABrowse/Chado-20Mage-20Module")</span></span> , <span class="smwb-ivalue">[File:GeneExpressionIWhenWhere.ppt](/wiki/File:GeneExpressionIWhenWhere.ppt "File:GeneExpressionIWhenWhere.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GeneExpressionIWhenWhere.ppt "Special%253ABrowse/File:GeneExpressionIWhenWhere.ppt")</span></span> , <span class="smwb-ivalue">[GeneXplorer](/wiki/GeneXplorer "GeneXplorer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GeneXplorer "Special%253ABrowse/GeneXplorer")</span></span> , <span class="smwb-ivalue">[Visualization](/wiki/Visualization "Visualization") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Visualization "Special%253ABrowse/Visualization")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Category%3AMicroarrays](/wiki/Category%3AMicroarrays "Category%3AMicroarrays") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AMicroarrays "Special%253ABrowse/Category%3AMicroarrays")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AExpression "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AExpression "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

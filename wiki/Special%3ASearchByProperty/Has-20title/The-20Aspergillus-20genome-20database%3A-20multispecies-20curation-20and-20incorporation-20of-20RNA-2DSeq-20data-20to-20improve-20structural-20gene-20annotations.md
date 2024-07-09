@@ -20,7 +20,7 @@ Aspergillus genome database: multispecies curation and incorporation of
 RNA-Seq data to improve structural gene annotations"  
 
 - [News/GMOD Paper Cuts, Nov 15th,
-  2013](/wiki/News/GMOD_Paper_Cuts,_Nov_15th,_2013 "News/GMOD Paper Cuts, Nov 15th, 2013")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013 "Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013")</span>
+  2013](/wiki/News/GMOD_Paper_Cuts,_Nov_15th,_2013 "News/GMOD Paper Cuts, Nov 15th, 2013")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013 "Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-2015th,-202013")</span>
 
  
 
@@ -93,8 +93,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

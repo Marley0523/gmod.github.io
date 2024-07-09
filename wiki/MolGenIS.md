@@ -177,7 +177,7 @@ Read more at
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MolGenIS" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MolGenIS" rel="smw-browse">Browse properties</a></span>
 
 
 

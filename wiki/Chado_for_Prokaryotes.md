@@ -152,7 +152,7 @@ bacterial species. How should this be represented this in Chado?
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_for_Prokaryotes" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_for_Prokaryotes" rel="smw-browse">Browse
   properties</a></span>
 
 

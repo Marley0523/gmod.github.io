@@ -21,7 +21,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 August 2013 20:48:56  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/27-20August-202013-2020:48:56 "Special%3ASearchByProperty/Modification-20date/27-20August-202013-2020:48:56")</span></span> |
 
@@ -34,8 +34,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/JBrowse_Tutorial" class="mw-redirect"
-title="JBrowse Tutorial">JBrowse Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Tutorial "Special%3ABrowse/JBrowse-20Tutorial")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Tutorial_2012" class="mw-redirect"
-title="JBrowse Tutorial 2012">JBrowse Tutorial 2012</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Tutorial-202012 "Special%3ABrowse/JBrowse-20Tutorial-202012")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="JBrowse Tutorial">JBrowse Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-20Tutorial "Special%253ABrowse/JBrowse-20Tutorial")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Tutorial_2012" class="mw-redirect"
+title="JBrowse Tutorial 2012">JBrowse Tutorial 2012</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-20Tutorial-202012 "Special%253ABrowse/JBrowse-20Tutorial-202012")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowse_Tutorial_2012 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowse_Tutorial_2012 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -112,8 +112,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

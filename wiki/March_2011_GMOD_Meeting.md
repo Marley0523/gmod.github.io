@@ -673,7 +673,7 @@ future?**
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/March_2011_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/March_2011_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

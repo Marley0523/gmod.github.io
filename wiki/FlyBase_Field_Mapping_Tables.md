@@ -9640,7 +9640,7 @@ SELECT fo.name, pub.uniquename
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Field_Mapping_Tables"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/FlyBase_Field_Mapping_Tables"
   rel="smw-browse">Browse properties</a></span>
 
 

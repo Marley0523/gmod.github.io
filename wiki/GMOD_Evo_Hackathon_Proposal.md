@@ -409,7 +409,7 @@ Meetings](Meetings "Meetings").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Evo_Hackathon_Proposal"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Evo_Hackathon_Proposal"
   rel="smw-browse">Browse properties</a></span>
 
 

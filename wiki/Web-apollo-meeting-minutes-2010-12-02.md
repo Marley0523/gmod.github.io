@@ -83,7 +83,7 @@ Topics discussed:
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D12-2D02"
+  href="Special%253ABrowse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D12-2D02"
   rel="smw-browse">Browse properties</a></span>
 
 

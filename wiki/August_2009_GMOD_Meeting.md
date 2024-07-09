@@ -361,7 +361,7 @@ title="User%3AClements">Dave Clements</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/August_2009_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/August_2009_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

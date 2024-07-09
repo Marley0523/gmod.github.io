@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/User%3ARBuels" class="mw-redirect"
-title="User%3ARBuels">User%3ARBuels</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3ARBuels "Special%3ABrowse/User%3ARBuels")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="User%3ARBuels">User%3ARBuels</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3ARBuels "Special%253ABrowse/User%3ARBuels")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User%3ARobertBuels "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/User%3ARobertBuels "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

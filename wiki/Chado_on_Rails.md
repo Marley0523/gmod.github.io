@@ -338,7 +338,7 @@ given cvterm lorem ipsum
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_on_Rails" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_on_Rails" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -213,8 +213,7 @@ class="mw-numlink" title="Special%3ACategories">500</a>)
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

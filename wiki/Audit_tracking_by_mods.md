@@ -118,7 +118,7 @@ accurate.*
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Audit_tracking_by_mods" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Audit_tracking_by_mods" rel="smw-browse">Browse
   properties</a></span>
 
 

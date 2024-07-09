@@ -183,7 +183,7 @@ User Interfaces: Sample of several MOD Top Level functions</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AMOD_User_Interfaces"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AMOD_User_Interfaces"
   rel="smw-browse">Browse properties</a></span>
 
 

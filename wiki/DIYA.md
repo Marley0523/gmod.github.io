@@ -58,7 +58,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[DIYA](Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[DIYA](Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/DIYA "Special:ExportRDF/DIYA")</span></span>
 
 <table class="smwfacttable">
@@ -198,7 +198,7 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 b8d8e90ce8e883d5ee6b57
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/DIYA" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/DIYA" rel="smw-browse">Browse properties</a></span>
 
 
 

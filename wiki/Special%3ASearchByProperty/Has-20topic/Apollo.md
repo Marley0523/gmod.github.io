@@ -19,9 +19,9 @@ topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[Apollo](/wiki/Apollo "Apollo")"  
 
 - [Apollo Tutorial
-  2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202010 "Special%3ABrowse/Apollo-20Tutorial-202010")</span>
+  2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Apollo-20Tutorial-202010 "Special%253ABrowse/Apollo-20Tutorial-202010")</span>
 - [Apollo Tutorial
-  2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span>
+  2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Apollo-20Tutorial-202011 "Special%253ABrowse/Apollo-20Tutorial-202011")</span>
 
  
 
@@ -94,8 +94,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

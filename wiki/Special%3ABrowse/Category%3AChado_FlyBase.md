@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Aug2009LinkedData.pdf "Special%3ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Chado "Special%3ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%3ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Aug2009LinkedData.pdf "Special%253ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Chado "Special%253ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AChado_FlyBase "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AChado_FlyBase "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -123,7 +123,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2014%3A_June_30_-2D_July_2"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGCC2014%3A_June_30_-2D_July_2"
   rel="smw-browse">Browse properties</a></span>
 
 

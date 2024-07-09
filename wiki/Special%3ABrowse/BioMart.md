@@ -34,13 +34,13 @@ rel="nofollow">http://www.biomart.org/community.html</a>  <span class="smwsear
 | [Has software maturity status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status") | <span class="smwb-value">mature  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20software-20maturity-20status/mature "Special%3ASearchByProperty/Has-20software-20maturity-20status/mature")</span></span> |
 | [Has support status](/wiki/Property%3AHas_support_status "Property:Has support status") | <span class="smwb-value">active  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20support-20status/active "Special%3ASearchByProperty/Has-20support-20status/active")</span></span> |
 | [Has title](/wiki/Property%3AHas_title "Property:Has title") | <span class="smwb-value">BioMart user community  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20title/BioMart-20user-20community "Special%3ASearchByProperty/Has-20title/BioMart-20user-20community")</span></span> |
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[BioMart](/wiki/BioMart "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[BioMart](/wiki/BioMart "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span></span> |
 | [Interaction type](/wiki/Property%3AInteraction_type "Property:Interaction type") | <span class="smwb-value">provides data for  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Interaction-20type/provides-20data-20for "Special%3ASearchByProperty/Interaction-20type/provides-20data-20for")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Interactor&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Interactor (page does not exist)">Interactor</a> | <span class="smwb-value">BioMart  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Interactor/BioMart "Special%3ASearchByProperty/Interactor/BioMart")</span></span> |
-| [Interacts with](/wiki/Property%3AInteracts_with "Property:Interacts with") | <span class="smwb-value">[GBrowse](/wiki/GBrowse "GBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span></span> |
+| [Interacts with](/wiki/Property%3AInteracts_with "Property:Interacts with") | <span class="smwb-value">[GBrowse](/wiki/GBrowse "GBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span></span> |
 | [Is open source](/wiki/Property%3AIs_open_source "Property:Is open source") | <span class="smwb-value">Yes  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Is-20open-20source/Yes "Special%3ASearchByProperty/Is-20open-20source/Yes")</span></span> |
 | [Link type](/wiki/Property%3ALink_type "Property:Link type") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/download "Special%3ASearchByProperty/Link-20type/download")</span></span> , <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/website "Special%3ASearchByProperty/Link-20type/website")</span></span> , <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/wild-20URL "Special%3ASearchByProperty/Link-20type/wild-20URL")</span></span> |
 | [Release date](/wiki/Property%3ARelease_date "Property:Release date") | <span class="smwb-value">1 January 2001  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Release-20date/1-20January-202001 "Special%3ASearchByProperty/Release-20date/1-20January-202001")</span></span> |
@@ -51,7 +51,7 @@ href="/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;red
 class="new"
 title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SemanticLink "Special%3ASearchByProperty/SemanticLink")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 October 2013 22:26:19  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/15-20October-202013-2022:26:19 "Special%3ASearchByProperty/Modification-20date/15-20October-202013-2022:26:19")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[BioMart#http://www.biomart.org/download.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fdownload.html "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html "Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html")</span></span> , <span class="smwb-value">[BioMart#http://www.biomart.org/](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2F "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F "Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F")</span></span> , <span class="smwb-value">[BioMart#http://www.biomart.org/community.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fcommunity.html "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html "Special%3ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html")</span></span> , <span class="smwb-value">[BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%3ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[BioMart#http://www.biomart.org/download.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fdownload.html "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html")</span></span> , <span class="smwb-value">[BioMart#http://www.biomart.org/](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2F "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F")</span></span> , <span class="smwb-value">[BioMart#http://www.biomart.org/community.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fcommunity.html "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html")</span></span> , <span class="smwb-value">[BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%253ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -61,9 +61,9 @@ title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>  <span 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[BioMart](/wiki/BioMart "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
-| <span class="smwb-ivalue">[BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%3ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span></span> | [Subject](/wiki/Property%3ASubject "Property%3ASubject") |
-| <span class="smwb-ivalue"><a href="/wiki/Biomart" class="mw-redirect" title="Biomart">Biomart</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biomart "Special%3ABrowse/Biomart")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue">[BioMart](/wiki/BioMart "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%253ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span></span> | [Subject](/wiki/Property%3ASubject "Property%3ASubject") |
+| <span class="smwb-ivalue"><a href="/wiki/Biomart" class="mw-redirect" title="Biomart">Biomart</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Biomart "Special%253ABrowse/Biomart")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -87,7 +87,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/BioMart "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/BioMart "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -140,8 +140,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

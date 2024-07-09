@@ -165,7 +165,7 @@ Ontology](Stock_Relationship_Ontology "Stock Relationship Ontology")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Natural_Diversity_Module_Working_Group"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Natural_Diversity_Module_Working_Group"
   rel="smw-browse">Browse properties</a></span>
 
 

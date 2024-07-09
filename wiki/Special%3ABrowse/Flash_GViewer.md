@@ -32,8 +32,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Flashgviewer" class="mw-redirect"
-title="Flashgviewer">Flashgviewer</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Flashgviewer "Special%3ABrowse/Flashgviewer")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Flashgviewer/" class="mw-redirect"
-title="Flashgviewer/">Flashgviewer/</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Flashgviewer-2F "Special%3ABrowse/Flashgviewer-2F")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Flashgviewer">Flashgviewer</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Flashgviewer "Special%253ABrowse/Flashgviewer")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Flashgviewer/" class="mw-redirect"
+title="Flashgviewer/">Flashgviewer/</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Flashgviewer-2F "Special%253ABrowse/Flashgviewer-2F")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Flash_GViewer "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Flash_GViewer "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -110,8 +110,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

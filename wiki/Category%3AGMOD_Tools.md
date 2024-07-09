@@ -46,7 +46,7 @@ The following 2 pages are in this category, out of 2 total.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Tools](Special%3ABrowse/Category%3AGMOD-20Tools "Special%3ABrowse/Category%3AGMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tools](Special%253ABrowse/Category%3AGMOD-20Tools "Special%253ABrowse/Category%3AGMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:ExportRDF/Category%3AGMOD Tools")</span></span>
 
 |  |  |
@@ -109,7 +109,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Tools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Tools" rel="smw-browse">Browse
   properties</a></span>
 
 

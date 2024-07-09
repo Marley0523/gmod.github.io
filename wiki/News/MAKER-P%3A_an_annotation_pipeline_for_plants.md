@@ -119,7 +119,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FMAKER-2DP%3A_an_annotation_pipeline_for_plants"
+  href="../Special%253ABrowse/News-2FMAKER-2DP%3A_an_annotation_pipeline_for_plants"
   rel="smw-browse">Browse properties</a></span>
 
 

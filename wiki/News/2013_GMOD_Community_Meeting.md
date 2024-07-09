@@ -125,7 +125,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2F2013_GMOD_Community_Meeting"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2F2013_GMOD_Community_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

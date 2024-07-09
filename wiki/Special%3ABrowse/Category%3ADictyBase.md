@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:DictyBase-phenotypes.pdf](/wiki/File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:DictyBase-2Dphenotypes.pdf "Special%3ABrowse/File:DictyBase-2Dphenotypes.pdf")</span></span> , <span class="smwb-ivalue">[File:DictyLogo.png](/wiki/File:DictyLogo.png "File:DictyLogo.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:DictyLogo.png "Special%3ABrowse/File:DictyLogo.png")</span></span> , <span class="smwb-ivalue">[File:DictyMainPageLogo.png](/wiki/File:DictyMainPageLogo.png "File:DictyMainPageLogo.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:DictyMainPageLogo.png "Special%3ABrowse/File:DictyMainPageLogo.png")</span></span> , <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June-202007-20Progress-20Report "Special%3ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[File:Just-050516.ppt](/wiki/File:Just-050516.ppt "File:Just-050516.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Just-2D050516.ppt "Special%3ABrowse/File:Just-2D050516.ppt")</span></span> , <span class="smwb-ivalue">[Modware](/wiki/Modware "Modware") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Modware "Special%3ABrowse/Modware")</span></span> , <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%3ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> , <span class="smwb-ivalue">[October 2005 GMOD Meeting](/wiki/October_2005_GMOD_Meeting "October 2005 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/October-202005-20GMOD-20Meeting "Special%3ABrowse/October-202005-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:DictyBase-phenotypes.pdf](/wiki/File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:DictyBase-2Dphenotypes.pdf "Special%253ABrowse/File:DictyBase-2Dphenotypes.pdf")</span></span> , <span class="smwb-ivalue">[File:DictyLogo.png](/wiki/File:DictyLogo.png "File:DictyLogo.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:DictyLogo.png "Special%253ABrowse/File:DictyLogo.png")</span></span> , <span class="smwb-ivalue">[File:DictyMainPageLogo.png](/wiki/File:DictyMainPageLogo.png "File:DictyMainPageLogo.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:DictyMainPageLogo.png "Special%253ABrowse/File:DictyMainPageLogo.png")</span></span> , <span class="smwb-ivalue">[June 2007 Progress Report](/wiki/June_2007_Progress_Report "June 2007 Progress Report") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/June-202007-20Progress-20Report "Special%253ABrowse/June-202007-20Progress-20Report")</span></span> , <span class="smwb-ivalue">[File:Just-050516.ppt](/wiki/File:Just-050516.ppt "File:Just-050516.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Just-2D050516.ppt "Special%253ABrowse/File:Just-2D050516.ppt")</span></span> , <span class="smwb-ivalue">[Modware](/wiki/Modware "Modware") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Modware "Special%253ABrowse/Modware")</span></span> , <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> , <span class="smwb-ivalue">[October 2005 GMOD Meeting](/wiki/October_2005_GMOD_Meeting "October 2005 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/October-202005-20GMOD-20Meeting "Special%253ABrowse/October-202005-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ADictyBase "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ADictyBase "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

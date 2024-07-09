@@ -180,7 +180,7 @@ rel="nofollow">ReactomeWiki</a> .
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSOC_Groups" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GSOC_Groups" rel="smw-browse">Browse
   properties</a></span>
 
 

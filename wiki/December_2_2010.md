@@ -155,7 +155,7 @@
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/December_2_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/December_2_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

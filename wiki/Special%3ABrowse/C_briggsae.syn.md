@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Briggsae.synconf" class="mw-redirect"
-title="Briggsae.synconf">Briggsae.synconf</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Briggsae.synconf "Special%3ABrowse/Briggsae.synconf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Briggsae.synconf">Briggsae.synconf</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Briggsae.synconf "Special%253ABrowse/Briggsae.synconf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/C_briggsae.syn "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/C_briggsae.syn "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

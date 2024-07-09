@@ -36,7 +36,7 @@ title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class=
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/WebApollo_Tutorial" class="mw-redirect"
-title="WebApollo Tutorial">WebApollo Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo-20Tutorial "Special%3ABrowse/WebApollo-20Tutorial")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="WebApollo Tutorial">WebApollo Tutorial</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-20Tutorial "Special%253ABrowse/WebApollo-20Tutorial")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -60,7 +60,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/WebApollo_Tutorial "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/WebApollo_Tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -113,8 +113,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

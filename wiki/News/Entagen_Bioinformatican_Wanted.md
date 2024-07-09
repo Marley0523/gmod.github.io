@@ -137,7 +137,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FEntagen_Bioinformatican_Wanted"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FEntagen_Bioinformatican_Wanted"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[April 2004 GMOD Meeting](/wiki/April_2004_GMOD_Meeting "April 2004 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/April-202004-20GMOD-20Meeting "Special%3ABrowse/April-202004-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[BLAST Graphic Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BLAST-20Graphic-20Viewer "Special%3ABrowse/BLAST-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[File:BoG2006.pdf](/wiki/File:BoG2006.pdf "File:BoG2006.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:BoG2006.pdf "Special%3ABrowse/File:BoG2006.pdf")</span></span> , <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[Public Chado Databases](/wiki/Public_Chado_Databases "Public Chado Databases") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Public-20Chado-20Databases "Special%3ABrowse/Public-20Chado-20Databases")</span></span> , <span class="smwb-ivalue">[File:SGD-gmod.ppt](/wiki/File:SGD-gmod.ppt "File:SGD-gmod.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:SGD-2Dgmod.ppt "Special%3ABrowse/File:SGD-2Dgmod.ppt")</span></span> , <span class="smwb-ivalue">[File:SGD-t.gif](/wiki/File:SGD-t.gif "File:SGD-t.gif") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:SGD-2Dt.gif "Special%3ABrowse/File:SGD-2Dt.gif")</span></span> , <span class="smwb-ivalue">[File:Sgd-050516.ppt](/wiki/File:Sgd-050516.ppt "File:Sgd-050516.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Sgd-2D050516.ppt "Special%3ABrowse/File:Sgd-2D050516.ppt")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[April 2004 GMOD Meeting](/wiki/April_2004_GMOD_Meeting "April 2004 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/April-202004-20GMOD-20Meeting "Special%253ABrowse/April-202004-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[BLAST Graphic Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[File:BoG2006.pdf](/wiki/File:BoG2006.pdf "File:BoG2006.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:BoG2006.pdf "Special%253ABrowse/File:BoG2006.pdf")</span></span> , <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> , <span class="smwb-ivalue">[Public Chado Databases](/wiki/Public_Chado_Databases "Public Chado Databases") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Public-20Chado-20Databases "Special%253ABrowse/Public-20Chado-20Databases")</span></span> , <span class="smwb-ivalue">[File:SGD-gmod.ppt](/wiki/File:SGD-gmod.ppt "File:SGD-gmod.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:SGD-2Dgmod.ppt "Special%253ABrowse/File:SGD-2Dgmod.ppt")</span></span> , <span class="smwb-ivalue">[File:SGD-t.gif](/wiki/File:SGD-t.gif "File:SGD-t.gif") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:SGD-2Dt.gif "Special%253ABrowse/File:SGD-2Dt.gif")</span></span> , <span class="smwb-ivalue">[File:Sgd-050516.ppt](/wiki/File:Sgd-050516.ppt "File:Sgd-050516.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Sgd-2D050516.ppt "Special%253ABrowse/File:Sgd-2D050516.ppt")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ASGD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ASGD "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

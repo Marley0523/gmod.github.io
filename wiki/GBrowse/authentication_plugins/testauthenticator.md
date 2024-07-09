@@ -121,7 +121,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../../Special%3ABrowse/Gbrowse-2Fauthentication_plugins-2Ftestauthenticator"
+  href="../../Special%253ABrowse/Gbrowse-2Fauthentication_plugins-2Ftestauthenticator"
   rel="smw-browse">Browse properties</a></span>
 
 

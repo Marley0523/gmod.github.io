@@ -147,7 +147,7 @@ Three developement aims, one support aim:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Five_year_plan" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Five_year_plan" rel="smw-browse">Browse
   properties</a></span>
 
 

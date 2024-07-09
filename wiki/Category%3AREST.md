@@ -150,7 +150,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3AREST](Category%3AREST)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AREST" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AREST" rel="smw-browse">Browse
   properties</a></span>
 
 

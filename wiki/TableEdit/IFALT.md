@@ -203,7 +203,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/IFALT" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/IFALT" rel="smw-browse">Browse properties</a></span>
 
 
 

@@ -846,7 +846,7 @@ class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2013" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Galaxy_Tutorial_2013" rel="smw-browse">Browse
   properties</a></span>
 
 

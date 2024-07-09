@@ -248,7 +248,7 @@ Europe 2010 page for information.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioMart_Workshop_-2D_GMOD_Europe_2010"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BioMart_Workshop_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

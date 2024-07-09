@@ -36,8 +36,8 @@ containing blacklisted links</a>  <span class="smwsearch">[+](/wiki/Special%3A
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Chado_Comparative_Module" class="mw-redirect"
-title="Chado Comparative Module">Chado Comparative Module</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Comparative-20Module "Special%3ABrowse/Chado-20Comparative-20Module")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Chado_Groups_Module" class="mw-redirect"
-title="Chado Groups Module">Chado Groups Module</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Groups-20Module "Special%3ABrowse/Chado-20Groups-20Module")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Chado Comparative Module">Chado Comparative Module</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Comparative-20Module "Special%253ABrowse/Chado-20Comparative-20Module")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Chado_Groups_Module" class="mw-redirect"
+title="Chado Groups Module">Chado Groups Module</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Groups-20Module "Special%253ABrowse/Chado-20Groups-20Module")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -61,7 +61,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_Group_Module "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_Group_Module "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -114,8 +114,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

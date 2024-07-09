@@ -123,7 +123,7 @@ at TIGR (2003-2006) and JCVI (2006-2009).
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ASundaram" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ASundaram" rel="smw-browse">Browse
   properties</a></span>
 
 

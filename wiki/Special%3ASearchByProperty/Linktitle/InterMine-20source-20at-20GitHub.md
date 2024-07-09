@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "InterMine source at GitHub"  
 
-- [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%3ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
+- [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%253ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

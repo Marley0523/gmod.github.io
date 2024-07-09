@@ -1518,7 +1518,7 @@ package installed on local desktop computers
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Popup_Balloons" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
 

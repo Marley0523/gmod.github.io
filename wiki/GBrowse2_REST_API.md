@@ -354,7 +354,7 @@ short for **l**abel.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse2_REST_API" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse2_REST_API" rel="smw-browse">Browse
   properties</a></span>
 
 

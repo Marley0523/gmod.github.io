@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Table_Editor" class="mw-redirect"
-title="Table Editor">Table Editor</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Table-20Editor "Special%3ABrowse/Table-20Editor")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Table Editor">Table Editor</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Table-20Editor "Special%253ABrowse/Table-20Editor")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/TableEdit "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/TableEdit "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

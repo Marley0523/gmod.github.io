@@ -692,7 +692,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/Arthropod_Genomics_2011-2FGenome_Project_101_Workshop"
+  href="../Special%253ABrowse/Arthropod_Genomics_2011-2FGenome_Project_101_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

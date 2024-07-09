@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[MOD Face Summary](/wiki/MOD_Face_Summary "MOD Face Summary") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20Face-20Summary "Special%3ABrowse/MOD-20Face-20Summary")</span></span> , <span class="smwb-ivalue">[NIH 2002 Workshop on Model Organism Databases](/wiki/NIH_2002_Workshop_on_Model_Organism_Databases "NIH 2002 Workshop on Model Organism Databases") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/NIH-202002-20Workshop-20on-20Model-20Organism-20Databases "Special%3ABrowse/NIH-202002-20Workshop-20on-20Model-20Organism-20Databases")</span></span> , <span class="smwb-ivalue">[Software Testing Recommendations](/wiki/Software_Testing_Recommendations "Software Testing Recommendations") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Software-20Testing-20Recommendations "Special%3ABrowse/Software-20Testing-20Recommendations")</span></span> , <span class="smwb-ivalue">[Standard URL](/wiki/Standard_URL "Standard URL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Standard-20URL "Special%3ABrowse/Standard-20URL")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[MOD Face Summary](/wiki/MOD_Face_Summary "MOD Face Summary") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MOD-20Face-20Summary "Special%253ABrowse/MOD-20Face-20Summary")</span></span> , <span class="smwb-ivalue">[NIH 2002 Workshop on Model Organism Databases](/wiki/NIH_2002_Workshop_on_Model_Organism_Databases "NIH 2002 Workshop on Model Organism Databases") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/NIH-202002-20Workshop-20on-20Model-20Organism-20Databases "Special%253ABrowse/NIH-202002-20Workshop-20on-20Model-20Organism-20Databases")</span></span> , <span class="smwb-ivalue">[Software Testing Recommendations](/wiki/Software_Testing_Recommendations "Software Testing Recommendations") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Software-20Testing-20Recommendations "Special%253ABrowse/Software-20Testing-20Recommendations")</span></span> , <span class="smwb-ivalue">[Standard URL](/wiki/Standard_URL "Standard URL") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Standard-20URL "Special%253ABrowse/Standard-20URL")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGMOD_Best_Practices "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGMOD_Best_Practices "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

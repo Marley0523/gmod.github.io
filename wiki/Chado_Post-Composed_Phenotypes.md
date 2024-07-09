@@ -213,7 +213,7 @@ for the older versions of this schema proposal
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Post-2DComposed_Phenotypes"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Post-2DComposed_Phenotypes"
   rel="smw-browse">Browse properties</a></span>
 
 

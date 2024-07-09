@@ -143,7 +143,7 @@ this wiki will be updated with fixes for common problems they encounter.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Troubleshooting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse_Troubleshooting" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -40,7 +40,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[BioDIG](Special%3ABrowse/BioDIG "Special%3ABrowse/BioDIG")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[BioDIG](Special%253ABrowse/BioDIG "Special%253ABrowse/BioDIG")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/BioDIG "Special:ExportRDF/BioDIG")</span></span>
 
 |  |  |
@@ -106,7 +106,7 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioDIG" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BioDIG" rel="smw-browse">Browse properties</a></span>
 
 
 

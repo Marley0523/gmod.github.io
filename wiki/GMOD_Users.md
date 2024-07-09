@@ -2027,7 +2027,7 @@ rel="nofollow">http://gbrowse.csbio.unc.edu/cgi-bin/gb2/gbrowse/seeqtl/</a></td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Users" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Users" rel="smw-browse">Browse
   properties</a></span>
 
 

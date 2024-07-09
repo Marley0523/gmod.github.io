@@ -20,7 +20,7 @@ title](/wiki/Property%3AHas_title "Property:Has title")" with value
 high-throughput data and analysis tools"  
 
 - [News/GMOD Paper Cuts, Dec 6th,
-  2013](/wiki/News/GMOD_Paper_Cuts,_Dec_6th,_2013 "News/GMOD Paper Cuts, Dec 6th, 2013")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Dec-206th,-202013 "Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Dec-206th,-202013")</span>
+  2013](/wiki/News/GMOD_Paper_Cuts,_Dec_6th,_2013 "News/GMOD Paper Cuts, Dec 6th, 2013")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Dec-206th,-202013 "Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Dec-206th,-202013")</span>
 
  
 
@@ -93,8 +93,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

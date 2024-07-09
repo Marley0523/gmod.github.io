@@ -340,7 +340,7 @@ in column 2 do not have a corresponding line with 'gene' in column 3.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Zheng&#39;s_notes_on_wormbase_migration"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Zheng&#39;s_notes_on_wormbase_migration"
   rel="smw-browse">Browse properties</a></span>
 
 

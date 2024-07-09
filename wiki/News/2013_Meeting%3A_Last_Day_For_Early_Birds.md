@@ -139,7 +139,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2F2013_Meeting%3A_Last_Day_For_Early_Birds"
+  href="../Special%253ABrowse/News-2F2013_Meeting%3A_Last_Day_For_Early_Birds"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -33,9 +33,9 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD-DBSF" class="mw-redirect"
-title="GMOD-DBSF">GMOD-DBSF</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-2DDBSF "Special%3ABrowse/GMOD-2DDBSF")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Gmod_DBSF" class="mw-redirect" title="Gmod DBSF">Gmod
-DBSF</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-20DBSF "Special%3ABrowse/Gmod-20DBSF")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Gmod_dbsf" class="mw-redirect" title="Gmod dbsf">Gmod
-dbsf</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-20dbsf "Special%3ABrowse/Gmod-20dbsf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD-DBSF">GMOD-DBSF</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-2DDBSF "Special%253ABrowse/GMOD-2DDBSF")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Gmod_DBSF" class="mw-redirect" title="Gmod DBSF">Gmod
+DBSF</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-20DBSF "Special%253ABrowse/Gmod-20DBSF")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Gmod_dbsf" class="mw-redirect" title="Gmod dbsf">Gmod
+dbsf</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-20dbsf "Special%253ABrowse/Gmod-20dbsf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Gmod_dbsf "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Gmod_dbsf "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -112,8 +112,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

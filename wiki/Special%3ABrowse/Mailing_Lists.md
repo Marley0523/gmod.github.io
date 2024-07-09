@@ -33,8 +33,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Mailing_Lists" class="mw-redirect"
-title="Mailing Lists">Mailing Lists</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mailing-20Lists "Special%3ABrowse/Mailing-20Lists")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Mailing_list" class="mw-redirect"
-title="Mailing list">Mailing list</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mailing-20list "Special%3ABrowse/Mailing-20list")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Mailing Lists">Mailing Lists</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Mailing-20Lists "Special%253ABrowse/Mailing-20Lists")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Mailing_list" class="mw-redirect"
+title="Mailing list">Mailing list</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Mailing-20list "Special%253ABrowse/Mailing-20list")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Mailing_Lists "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Mailing_Lists "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -111,8 +111,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -174,7 +174,7 @@ something isn't clear.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Apollo-2DChado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
+  href="Special%253ABrowse/Apollo-2DChado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -362,7 +362,7 @@ This will be placed at the top of the page.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Documentation_Reorganization"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Documentation_Reorganization"
   rel="smw-browse">Browse properties</a></span>
 
 

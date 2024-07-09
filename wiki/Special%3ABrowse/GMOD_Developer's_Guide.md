@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Gmod_developers_guide" class="mw-redirect"
-title="Gmod developers guide">Gmod developers guide</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-20developers-20guide "Special%3ABrowse/Gmod-20developers-20guide")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Gmod developers guide">Gmod developers guide</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-20developers-20guide "Special%253ABrowse/Gmod-20developers-20guide")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GMOD_Developer's_Guide "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GMOD_Developer's_Guide "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

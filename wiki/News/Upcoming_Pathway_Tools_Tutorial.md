@@ -113,7 +113,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FUpcoming_Pathway_Tools_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FUpcoming_Pathway_Tools_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

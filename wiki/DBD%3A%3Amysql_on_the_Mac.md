@@ -102,7 +102,7 @@ in the comments.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/DBD%3A%3Amysql_on_the_Mac" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/DBD%3A%3Amysql_on_the_Mac" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -179,7 +179,7 @@ GMOD components.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Support" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Support" rel="smw-browse">Browse properties</a></span>
 
 
 

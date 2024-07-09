@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "BeetleBase"  
 
-- [JBrowse#http://beetlebase.org](/wiki/JBrowse#http:.2F.2Fbeetlebase.org "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-23http%3A-2F-2Fbeetlebase.org "Special%3ABrowse/JBrowse-23http%3A-2F-2Fbeetlebase.org")</span>
+- [JBrowse#http://beetlebase.org](/wiki/JBrowse#http:.2F.2Fbeetlebase.org "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%3A-2F-2Fbeetlebase.org "Special%253ABrowse/JBrowse-23http%3A-2F-2Fbeetlebase.org")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

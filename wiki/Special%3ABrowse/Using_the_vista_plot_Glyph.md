@@ -31,7 +31,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Example_ChIP_database" class="mw-redirect"
-title="Example ChIP database">Example ChIP database</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Example-20ChIP-20database "Special%3ABrowse/Example-20ChIP-20database")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Example ChIP database">Example ChIP database</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Example-20ChIP-20database "Special%253ABrowse/Example-20ChIP-20database")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Using_the_vista_plot_Glyph "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Using_the_vista_plot_Glyph "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

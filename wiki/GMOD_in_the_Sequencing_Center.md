@@ -157,7 +157,7 @@ title="Template:ThisIsATET (page does not exist)">Template:ThisIsATET</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_in_the_Sequencing_Center"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_in_the_Sequencing_Center"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -214,7 +214,7 @@ rel="nofollow">Middleware for Chado databases</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2007_GMOD_meeting_agenda"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/January_2007_GMOD_meeting_agenda"
   rel="smw-browse">Browse properties</a></span>
 
 

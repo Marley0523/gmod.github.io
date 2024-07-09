@@ -696,7 +696,7 @@ The following 26 files are in this category, out of 26 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Project_Presentations"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Project_Presentations"
   rel="smw-browse">Browse properties</a></span>
 
 

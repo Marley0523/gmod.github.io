@@ -257,7 +257,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_Paper_Cuts,_Jan_24th,_2014"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_Paper_Cuts,_Jan_24th,_2014"
   rel="smw-browse">Browse properties</a></span>
 
 

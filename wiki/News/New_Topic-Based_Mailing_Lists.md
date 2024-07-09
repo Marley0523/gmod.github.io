@@ -125,7 +125,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FNew_Topic-2DBased_Mailing_Lists"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FNew_Topic-2DBased_Mailing_Lists"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -209,7 +209,7 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/SOBA_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

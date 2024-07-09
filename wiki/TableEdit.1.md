@@ -374,7 +374,7 @@ Some possible things to add or change
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/TableEdit" rel="smw-browse">Browse
   properties</a></span>
 
 

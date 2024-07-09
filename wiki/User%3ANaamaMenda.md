@@ -98,7 +98,7 @@ rel="nofollow">Sol Genomics Network</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ANaamaMenda" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ANaamaMenda" rel="smw-browse">Browse
   properties</a></span>
 
 

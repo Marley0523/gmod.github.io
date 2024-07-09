@@ -86,7 +86,7 @@ Specialist from July 2012 to May 2014.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/User%3AGirlwithglasses"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/User%3AGirlwithglasses"
   rel="smw-browse">Browse properties</a></span>
 
 

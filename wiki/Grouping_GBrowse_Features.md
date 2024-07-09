@@ -146,7 +146,7 @@ for instructions.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Grouping_GBrowse_Features"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Grouping_GBrowse_Features"
   rel="smw-browse">Browse properties</a></span>
 
 

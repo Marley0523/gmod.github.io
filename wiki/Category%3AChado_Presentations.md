@@ -633,7 +633,7 @@ The following 23 files are in this category, out of 23 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AChado_Presentations"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AChado_Presentations"
   rel="smw-browse">Browse properties</a></span>
 
 

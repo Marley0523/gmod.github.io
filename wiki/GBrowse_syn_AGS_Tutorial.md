@@ -37,7 +37,7 @@
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn AGS
-Tutorial](Special%3ABrowse/GBrowse-20syn-20AGS-20Tutorial "Special%3ABrowse/GBrowse-20syn-20AGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%253ABrowse/GBrowse-20syn-20AGS-20Tutorial "Special%253ABrowse/GBrowse-20syn-20AGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:ExportRDF/GBrowse syn AGS Tutorial")</span></span>
 
 |  |  |
@@ -100,7 +100,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_AGS_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_AGS_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

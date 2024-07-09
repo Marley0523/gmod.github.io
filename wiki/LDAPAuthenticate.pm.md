@@ -174,7 +174,7 @@ terms as Perl itself.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LDAPAuthenticate.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/LDAPAuthenticate.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

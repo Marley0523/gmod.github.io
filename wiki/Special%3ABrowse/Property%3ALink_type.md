@@ -32,7 +32,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span></span> , <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has improper value for](/wiki/Property:Has_improper_value_for "Property:Has improper value for")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[MAKER](/wiki/MAKER "MAKER") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span></span> , <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has improper value for](/wiki/Property:Has_improper_value_for "Property:Has improper value for")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property%3ALink_type "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Property%3ALink_type "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

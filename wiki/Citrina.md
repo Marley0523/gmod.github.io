@@ -204,7 +204,7 @@ D\*O\*T edu )
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Citrina" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Citrina" rel="smw-browse">Browse properties</a></span>
 
 
 

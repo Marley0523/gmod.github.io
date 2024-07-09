@@ -36,7 +36,7 @@
 | <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Using_a_Database_With_JBrowse"
 class="mw-redirect"
 title="JBrowseDev/Using a Database With JBrowse">JBrowseDev/Using a
-Database With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FUsing-20a-20Database-20With-20JBrowse "Special%3ABrowse/JBrowseDev-2FUsing-20a-20Database-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Database With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FUsing-20a-20Database-20With-20JBrowse "Special%253ABrowse/JBrowseDev-2FUsing-20a-20Database-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -60,7 +60,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowseDev-2FUsing_a_Database_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowseDev-2FUsing_a_Database_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -113,8 +113,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

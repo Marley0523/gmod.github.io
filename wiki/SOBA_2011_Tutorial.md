@@ -156,7 +156,7 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA_2011_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/SOBA_2011_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 - <span id="footer-info-lastmod">Last updated at 23:03 on 20 August 2012.</span>

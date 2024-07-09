@@ -49,7 +49,7 @@ Resources
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[BLAST Graphic
-Viewer](Special%3ABrowse/BLAST-20Graphic-20Viewer "Special%3ABrowse/BLAST-20Graphic-20Viewer")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Viewer](Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/BLAST_Graphic_Viewer "Special:ExportRDF/BLAST Graphic Viewer")</span></span>
 
 |  |  |
@@ -130,7 +130,7 @@ rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a> <span class="
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BLAST_Graphic_Viewer" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BLAST_Graphic_Viewer" rel="smw-browse">Browse
   properties</a></span>
 
 

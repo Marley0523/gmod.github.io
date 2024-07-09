@@ -117,7 +117,7 @@ rel="nofollow">How to Run a Successful Free Software Project</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bugs" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bugs" rel="smw-browse">Browse properties</a></span>
 
 
 

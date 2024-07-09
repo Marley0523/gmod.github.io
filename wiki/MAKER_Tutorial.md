@@ -307,7 +307,7 @@ Examples of Annotation Databases:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2013" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MAKER_Tutorial_2013" rel="smw-browse">Browse
   properties</a></span>
 
 

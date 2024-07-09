@@ -106,7 +106,7 @@ The following 3 pages are in this category, out of 3 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_virtual_server"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_virtual_server"
   rel="smw-browse">Browse properties</a></span>
 
 

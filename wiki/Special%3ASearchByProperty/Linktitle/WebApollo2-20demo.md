@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "WebApollo2 demo"  
 
-- [WebApollo2#http://icebox.lbl.gov/Apollo2/annotator/index](/wiki/WebApollo2#http:.2F.2Ficebox.lbl.gov.2FApollo2.2Fannotator.2Findex "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex "Special%3ABrowse/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex")</span>
+- [WebApollo2#http://icebox.lbl.gov/Apollo2/annotator/index](/wiki/WebApollo2#http:.2F.2Ficebox.lbl.gov.2FApollo2.2Fannotator.2Findex "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex "Special%253ABrowse/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

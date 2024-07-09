@@ -30,7 +30,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:ChadoComparativeModule.png](/wiki/File:ChadoComparativeModule.png "File:ChadoComparativeModule.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:ChadoComparativeModule.png "Special%3ABrowse/File:ChadoComparativeModule.png")</span></span> , <span class="smwb-ivalue">[File:ChadoMod-Companalysis.png](/wiki/File:ChadoMod-Companalysis.png "File:ChadoMod-Companalysis.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:ChadoMod-2DCompanalysis.png "Special%3ABrowse/File:ChadoMod-2DCompanalysis.png")</span></span> , <span class="smwb-ivalue">[File:Feature-tables.png](/wiki/File:Feature-tables.png "File:Feature-tables.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Feature-2Dtables.png "Special%3ABrowse/File:Feature-2Dtables.png")</span></span> , <span class="smwb-ivalue">[File:Natdiv simplified SGN.png](/wiki/File:Natdiv_simplified_SGN.png "File:Natdiv simplified SGN.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Natdiv-20simplified-20SGN.png "Special%3ABrowse/File:Natdiv-20simplified-20SGN.png")</span></span> , <span class="smwb-ivalue">[File:Rad-query-1.png](/wiki/File:Rad-query-1.png "File:Rad-query-1.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Rad-2Dquery-2D1.png "Special%3ABrowse/File:Rad-2Dquery-2D1.png")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:ChadoComparativeModule.png](/wiki/File:ChadoComparativeModule.png "File:ChadoComparativeModule.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:ChadoComparativeModule.png "Special%253ABrowse/File:ChadoComparativeModule.png")</span></span> , <span class="smwb-ivalue">[File:ChadoMod-Companalysis.png](/wiki/File:ChadoMod-Companalysis.png "File:ChadoMod-Companalysis.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:ChadoMod-2DCompanalysis.png "Special%253ABrowse/File:ChadoMod-2DCompanalysis.png")</span></span> , <span class="smwb-ivalue">[File:Feature-tables.png](/wiki/File:Feature-tables.png "File:Feature-tables.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Feature-2Dtables.png "Special%253ABrowse/File:Feature-2Dtables.png")</span></span> , <span class="smwb-ivalue">[File:Natdiv simplified SGN.png](/wiki/File:Natdiv_simplified_SGN.png "File:Natdiv simplified SGN.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Natdiv-20simplified-20SGN.png "Special%253ABrowse/File:Natdiv-20simplified-20SGN.png")</span></span> , <span class="smwb-ivalue">[File:Rad-query-1.png](/wiki/File:Rad-query-1.png "File:Rad-query-1.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Rad-2Dquery-2D1.png "Special%253ABrowse/File:Rad-2Dquery-2D1.png")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AERD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AERD "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -107,8 +107,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

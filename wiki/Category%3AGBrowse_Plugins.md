@@ -173,7 +173,7 @@ title="TrackFinder.pm">TrackFinder.pm</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGBrowse_Plugins"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGBrowse_Plugins"
   rel="smw-browse">Browse properties</a></span>
 
 

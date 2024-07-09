@@ -33,8 +33,8 @@
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current/Usage/General/Options/ClientConfig"
 class="mw-redirect"
-title="JBrowseDev/Current/Usage/General/Options/ClientConfig">JBrowseDev/Current/Usage/General/Options/ClientConfig</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FClientConfig "Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FClientConfig")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Options/ClientConfig" class="mw-redirect"
-title="JBrowseDev/Options/ClientConfig">JBrowseDev/Options/ClientConfig</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FOptions-2FClientConfig "Special%3ABrowse/JBrowseDev-2FOptions-2FClientConfig")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="JBrowseDev/Current/Usage/General/Options/ClientConfig">JBrowseDev/Current/Usage/General/Options/ClientConfig</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FClientConfig "Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral-2FOptions-2FClientConfig")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Options/ClientConfig" class="mw-redirect"
+title="JBrowseDev/Options/ClientConfig">JBrowseDev/Options/ClientConfig</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FOptions-2FClientConfig "Special%253ABrowse/JBrowseDev-2FOptions-2FClientConfig")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowseDev-2FThe_ClientConfig_Option "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowseDev-2FThe_ClientConfig_Option "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -111,8 +111,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

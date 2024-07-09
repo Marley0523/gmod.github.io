@@ -56,7 +56,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[WebApollo2](Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[WebApollo2](Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo2 "Special:ExportRDF/WebApollo2")</span></span>
 
 <table class="smwfacttable">
@@ -225,7 +225,7 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo2" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/WebApollo2" rel="smw-browse">Browse
   properties</a></span>
 
 

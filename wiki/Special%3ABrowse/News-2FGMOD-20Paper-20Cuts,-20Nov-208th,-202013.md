@@ -75,7 +75,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -128,8 +128,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

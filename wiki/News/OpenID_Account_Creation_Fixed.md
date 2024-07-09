@@ -109,7 +109,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FOpenID_Account_Creation_Fixed"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FOpenID_Account_Creation_Fixed"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -658,7 +658,7 @@ DISCLAIMER.txt for disclaimers of warranty.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances"
   rel="smw-browse">Browse properties</a></span>
 
 

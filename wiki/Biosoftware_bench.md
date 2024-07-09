@@ -208,7 +208,7 @@ rel="nofollow">http://www.csiro.au</a>).
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Biosoftware_bench" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Biosoftware_bench" rel="smw-browse">Browse
   properties</a></span>
 
 

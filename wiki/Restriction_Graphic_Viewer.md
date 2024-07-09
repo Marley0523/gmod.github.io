@@ -136,7 +136,7 @@ class="external text" rel="nofollow">From SourceForge</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Restriction_Graphic_Viewer"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Restriction_Graphic_Viewer"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -505,7 +505,7 @@ display an image (rendered by gbrowse_img) in a wiki-page.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_img" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_img" rel="smw-browse">Browse
   properties</a></span>
 
 

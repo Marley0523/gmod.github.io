@@ -1335,7 +1335,7 @@ Now have fun annotating!!!
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[WebApollo Tutorial
-2012](Special%3ABrowse/WebApollo-20Tutorial-202012 "Special%3ABrowse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%253ABrowse/WebApollo-20Tutorial-202012 "Special%253ABrowse/WebApollo-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:ExportRDF/WebApollo Tutorial 2012")</span></span>
 
 |  |  |
@@ -1398,7 +1398,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:Ex
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/WebApollo_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

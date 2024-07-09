@@ -124,7 +124,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FSea_Urchin_Genome_Database"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FSea_Urchin_Genome_Database"
   rel="smw-browse">Browse properties</a></span>
 
 

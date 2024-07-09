@@ -159,7 +159,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2013_Training_Day_Topics_Vote"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGCC2013_Training_Day_Topics_Vote"
   rel="smw-browse">Browse properties</a></span>
 
 

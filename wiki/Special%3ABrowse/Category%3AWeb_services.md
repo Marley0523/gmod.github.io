@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20RPC-20API "Special%3ABrowse/GMOD-20RPC-20API")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genes4all "Special%3ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-2Ddbsf "Special%3ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Web-20services-20working-20group "Special%3ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Biosoftware-20bench "Special%253ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20RPC-20API "Special%253ABrowse/GMOD-20RPC-20API")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Genes4all "Special%253ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-2Ddbsf "Special%253ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[Web services working group](/wiki/Web_services_working_group "Web services working group") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Web-20services-20working-20group "Special%253ABrowse/Web-20services-20working-20group")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AWeb_services "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AWeb_services "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

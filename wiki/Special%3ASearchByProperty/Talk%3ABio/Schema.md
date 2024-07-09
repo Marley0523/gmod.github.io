@@ -19,7 +19,7 @@ href="/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1
 class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a>"
 with value "Schema"  
 
-- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema "Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema")</span>
+- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema "Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema")</span>
 
  
 
@@ -92,8 +92,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

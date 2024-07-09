@@ -127,7 +127,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FNextGen_Sequence_in_GBrowse"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FNextGen_Sequence_in_GBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

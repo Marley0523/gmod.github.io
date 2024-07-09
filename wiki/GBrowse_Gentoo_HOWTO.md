@@ -264,7 +264,7 @@ Tao Zhang \<forrest_zhang@163.com\>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Gentoo_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Gentoo_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

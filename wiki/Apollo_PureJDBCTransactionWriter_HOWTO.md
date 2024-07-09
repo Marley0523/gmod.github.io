@@ -141,7 +141,7 @@ by the following (Java) classes:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo_PureJDBCTransactionWriter_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Apollo_PureJDBCTransactionWriter_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

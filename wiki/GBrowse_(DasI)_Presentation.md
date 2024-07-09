@@ -223,7 +223,7 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_(DasI)_Presentation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_(DasI)_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 

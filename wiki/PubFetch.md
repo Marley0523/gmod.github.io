@@ -175,7 +175,7 @@ class="external text" rel="nofollow">SourceForge</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PubFetch" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PubFetch" rel="smw-browse">Browse properties</a></span>
 
 
 

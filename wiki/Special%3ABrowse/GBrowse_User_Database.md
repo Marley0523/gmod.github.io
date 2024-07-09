@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GBrowse_User_DB_HOWTO" class="mw-redirect"
-title="GBrowse User DB HOWTO">GBrowse User DB HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20User-20DB-20HOWTO "Special%3ABrowse/GBrowse-20User-20DB-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GBrowse User DB HOWTO">GBrowse User DB HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20User-20DB-20HOWTO "Special%253ABrowse/GBrowse-20User-20DB-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_User_Database "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_User_Database "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

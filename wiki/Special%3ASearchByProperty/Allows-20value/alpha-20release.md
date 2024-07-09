@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "alpha release"  
 
 - [Property:Has software maturity
-  status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20software-20maturity-20status "Special%3ABrowse/Property%3AHas-20software-20maturity-20status")</span>
+  status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AHas-20software-20maturity-20status "Special%253ABrowse/Property%3AHas-20software-20maturity-20status")</span>
 
  
 
@@ -95,8 +95,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

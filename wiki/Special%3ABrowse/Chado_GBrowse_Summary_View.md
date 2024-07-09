@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Chado_gbrowse_summary_view" class="mw-redirect"
-title="Chado gbrowse summary view">Chado gbrowse summary view</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20gbrowse-20summary-20view "Special%3ABrowse/Chado-20gbrowse-20summary-20view")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Chado gbrowse summary view">Chado gbrowse summary view</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20gbrowse-20summary-20view "Special%253ABrowse/Chado-20gbrowse-20summary-20view")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_GBrowse_Summary_View "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_GBrowse_Summary_View "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

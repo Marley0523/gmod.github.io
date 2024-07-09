@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:GMOD Web Update.ppt](/wiki/File:GMOD_Web_Update.ppt "File:GMOD Web Update.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GMOD-20Web-20Update.ppt "Special%3ABrowse/File:GMOD-20Web-20Update.ppt")</span></span> , <span class="smwb-ivalue">[GMODWeb](/wiki/GMODWeb "GMODWeb") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMODWeb "Special%3ABrowse/GMODWeb")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting "Special%3ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[November 2007 GMOD Meeting](/wiki/November_2007_GMOD_Meeting "November 2007 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/November-202007-20GMOD-20Meeting "Special%3ABrowse/November-202007-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:GMOD Web Update.ppt](/wiki/File:GMOD_Web_Update.ppt "File:GMOD Web Update.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GMOD-20Web-20Update.ppt "Special%253ABrowse/File:GMOD-20Web-20Update.ppt")</span></span> , <span class="smwb-ivalue">[GMODWeb](/wiki/GMODWeb "GMODWeb") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMODWeb "Special%253ABrowse/GMODWeb")</span></span> , <span class="smwb-ivalue">[January 2009 GMOD Meeting](/wiki/January_2009_GMOD_Meeting "January 2009 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/January-202009-20GMOD-20Meeting "Special%253ABrowse/January-202009-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[November 2007 GMOD Meeting](/wiki/November_2007_GMOD_Meeting "November 2007 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/November-202007-20GMOD-20Meeting "Special%253ABrowse/November-202007-20GMOD-20Meeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGMODWeb "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGMODWeb "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

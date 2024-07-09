@@ -298,7 +298,7 @@ and what are not? Here's a rough guideline:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioPerl" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BioPerl" rel="smw-browse">Browse properties</a></span>
 
 
 

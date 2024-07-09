@@ -254,7 +254,7 @@ Raw tool data at [SOBA/tool data](SOBA/tool_data "SOBA/tool data")
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[SOBA](Special%3ABrowse/SOBA "Special%3ABrowse/SOBA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[SOBA](Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</span></span>
 
 |  |  |
@@ -320,7 +320,7 @@ rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_On
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SOBA" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/SOBA" rel="smw-browse">Browse properties</a></span>
 
 
 

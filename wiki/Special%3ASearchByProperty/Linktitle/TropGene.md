@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "TropGene"  
 
-- [CMap#http://tropgenedb.cirad.fr](/wiki/CMap#http:.2F.2Ftropgenedb.cirad.fr "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr "Special%3ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr")</span>
+- [CMap#http://tropgenedb.cirad.fr](/wiki/CMap#http:.2F.2Ftropgenedb.cirad.fr "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr "Special%253ABrowse/CMap-23http%3A-2F-2Ftropgenedb.cirad.fr")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

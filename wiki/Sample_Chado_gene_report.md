@@ -937,7 +937,7 @@ toy[hdl]/sv[spa-Cat]@</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sample_Chado_gene_report"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Sample_Chado_gene_report"
   rel="smw-browse">Browse properties</a></span>
 
 

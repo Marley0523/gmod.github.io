@@ -54,8 +54,8 @@ this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BLAST_Graphic_Viewer.1"
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
-title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/BLAST-20Graphic-20Viewer"
+title="Special%253ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops"><a
 href="BLAST_Graphic_Viewer.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FblastGraphic.2F"
 title="BLAST Graphic Viewer">BLAST Graphic
@@ -74,8 +74,8 @@ title="Special%3ASearchByProperty/Has-20subobject/BLAST-20Graphic-20Viewer-23htt
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioMart"
-title="Special%3ABrowse/BioMart">+</a></span></td>
+href="Special%253ABrowse/BioMart"
+title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops"><a
 href="BioMart#http:.2F.2Fwww.biomart.org.2Fdownload.html"
 title="BioMart">BioMart#http://www.biomart.org/download.html</a>  <span
@@ -101,8 +101,8 @@ title="Special:PageProperty/BioMart::Has subobject">…</a></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/CMap"
-title="Special%3ABrowse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/CMap"
+title="Special%253ABrowse/CMap">+</a></span></td>
 <td class="smwprops"><a
 href="CMap.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2Fcmap.2F"
 title="CMap">CMap#http://sourceforge.net/projects/gmod/files/cmap/</a>  <span
@@ -125,8 +125,8 @@ title="Special:PageProperty/CMap::Has subobject">…</a></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Canto"
-title="Special%3ABrowse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/Canto"
+title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops"><a href="Canto#http:.2F.2Fcuration.pombase.org.2F"
 title="Canto">Canto#http://curation.pombase.org/</a>  <span
 class="smwsearch"><a
@@ -151,8 +151,8 @@ title="Special:PageProperty/Canto::Has subobject">…</a></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/DIYA"
-title="Special%3ABrowse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/DIYA"
+title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops"><a
 href="DIYA#https:.2F.2Fgithub.com.2Fbioteam.2FDIYA"
 title="DIYA">DIYA#https://github.com/bioteam/DIYA</a>  <span
@@ -171,8 +171,8 @@ title="Special%3ASearchByProperty/Has-20subobject/DIYA-23 2957d43c15df6d72a07738
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GBrowse"
-title="Special%3ABrowse/GBrowse">+</a></span></td>
+href="Special%253ABrowse/GBrowse"
+title="Special%253ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops"><a
 href="GBrowse.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FGeneric.2520Genome.2520Browser.2F"
 title="GBrowse">GBrowse#http://sourceforge.net/projects/gmod/files/Generic%20Genome%20Browser/</a>  <span
@@ -195,8 +195,8 @@ title="Special:PageProperty/GBrowse::Has subobject">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GBrowse-20syn"
-title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
+href="Special%253ABrowse/GBrowse-20syn"
+title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops"><a
 href="GBrowse_syn.1#https:.2F.2Fgithub.com.2FGMOD.2FGBrowse"
 title="GBrowse syn">GBrowse
@@ -223,8 +223,8 @@ title="Special:PageProperty/GBrowse syn::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
-title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/GO-20Graphic-20Viewer"
+title="Special%253ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops"><a
 href="GO_Graphic_Viewer.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FGOView.2F"
 title="GO Graphic Viewer">GO Graphic
@@ -243,8 +243,8 @@ title="Special%3ASearchByProperty/Has-20subobject/GO-20Graphic-20Viewer-23http%3
 <tr class="even">
 <td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO%3A%3ATermFinder"
-title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
+href="Special%253ABrowse/GO%3A%3ATermFinder"
+title="Special%253ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops"><a
 href="GO%3A%3ATermFinder.1#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F"
 title="GO::TermFinder">GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/</a>  <span
@@ -261,8 +261,8 @@ title="Special%3ASearchByProperty/Has-20subobject/GO%3A%3ATermFinder-23http%3A-2
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Galaxy"
-title="Special%3ABrowse/Galaxy">+</a></span></td>
+href="Special%253ABrowse/Galaxy"
+title="Special%253ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops"><a
 href="Galaxy.1#https:.2F.2Ftwitter.com.2Fgalaxyproject"
 title="Galaxy">Galaxy#https://twitter.com/galaxyproject</a>  <span
@@ -290,8 +290,8 @@ title="Special:PageProperty/Galaxy::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/InterMine"
-title="Special%3ABrowse/InterMine">+</a></span></td>
+href="Special%253ABrowse/InterMine"
+title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops"><a
 href="InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git"
 title="InterMine">InterMine#https://github.com/intermine/intermine.git</a>  <span
@@ -318,8 +318,8 @@ title="Special:PageProperty/InterMine::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/JBrowse"
-title="Special%3ABrowse/JBrowse">+</a></span></td>
+href="Special%253ABrowse/JBrowse"
+title="Special%253ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops"><a
 href="JBrowse.1#http:.2F.2Fjbrowse.org.2Finstall.2F"
 title="JBrowse">JBrowse#http://jbrowse.org/install/</a>  <span
@@ -342,8 +342,8 @@ title="Special:PageProperty/JBrowse::Has subobject">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/JBrowse2"
-title="Special%3ABrowse/JBrowse2">+</a></span></td>
+href="Special%253ABrowse/JBrowse2"
+title="Special%253ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops"><a
 href="JBrowse2#https:.2F.2Fjbrowse.org.2Fjb2.2Fdocs.2Fquickstart_web"
 title="JBrowse2">JBrowse2#https://jbrowse.org/jb2/docs/quickstart_web</a>  <span
@@ -369,8 +369,8 @@ title="Special:PageProperty/JBrowse2::Has subobject">…</a></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/MAKER"
-title="Special%3ABrowse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/MAKER"
+title="Special%253ABrowse/MAKER">+</a></span></td>
 <td class="smwprops"><a
 href="MAKER.1#http:.2F.2Fwww.yandell-lab.org.2Fsoftware.2Fmaker.html"
 title="MAKER">MAKER#http://www.yandell-lab.org/software/maker.html</a>  <span
@@ -399,8 +399,8 @@ title="Special:PageProperty/MAKER::Has subobject">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Pathway-20Tools"
-title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
+href="Special%253ABrowse/Pathway-20Tools"
+title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops"><a
 href="Pathway_Tools.1#http:.2F.2Fbiocyc.org.2Fdownload.shtml"
 title="Pathway Tools">Pathway
@@ -429,8 +429,8 @@ title="Special:PageProperty/Pathway Tools::Has subobject">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Textpresso"
-title="Special%3ABrowse/Textpresso">+</a></span></td>
+href="Special%253ABrowse/Textpresso"
+title="Special%253ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops"><a href="Textpresso#http:.2F.2Ftextpresso.org"
 title="Textpresso">Textpresso#http://textpresso.org</a>  <span
 class="smwsearch"><a
@@ -453,8 +453,8 @@ title="Special:PageProperty/Textpresso::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Tripal"
-title="Special%3ABrowse/Tripal">+</a></span></td>
+href="Special%253ABrowse/Tripal"
+title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops"><a href="Tripal.1#http:.2F.2Ftripal.info"
 title="Tripal">Tripal#http://tripal.info</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20subobject/Tripal-23http%3A-2F-2Ftripal.info"
@@ -477,8 +477,8 @@ title="Special:PageProperty/Tripal::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo"
-title="Special%3ABrowse/WebApollo">+</a></span></td>
+href="Special%253ABrowse/WebApollo"
+title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops"><a
 href="WebApollo.1#http:.2F.2Fcode.google.com.2Fp.2Fgenomancer"
 title="WebApollo">WebApollo#http://code.google.com/p/genomancer</a>  <span
@@ -503,8 +503,8 @@ title="Special:PageProperty/WebApollo::Has subobject">…</a></td>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo2"
-title="Special%3ABrowse/WebApollo2">+</a></span></td>
+href="Special%253ABrowse/WebApollo2"
+title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops"><a href="WebApollo2#http:.2F.2Fgenomearchitect.org"
 title="WebApollo2">WebApollo2#http://genomearchitect.org</a>  <span
 class="smwsearch"><a
@@ -527,8 +527,8 @@ title="Special:PageProperty/WebApollo2::Has subobject">…</a></td>
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebGBrowse"
-title="Special%3ABrowse/WebGBrowse">+</a></span></td>
+href="Special%253ABrowse/WebGBrowse"
+title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops"><a
 href="WebGBrowse.1#http:.2F.2Fwebgbrowse.cgb.indiana.edu.2Fwebgbrowse.2Fsoftware.html"
 title="WebGBrowse">WebGBrowse#http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a>  <span
@@ -547,8 +547,8 @@ title="Special%3ASearchByProperty/Has-20subobject/WebGBrowse-23http%3A-2F-2Fwebg
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops"><a
 href="XORT.1#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FOldFiles.2F"
 title="XORT">XORT#http://sourceforge.net/projects/gmod/files/OldFiles/</a>  <span
@@ -624,7 +624,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_subobject" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_subobject" rel="smw-browse">Browse
   properties</a></span>
 
 

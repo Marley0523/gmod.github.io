@@ -30,7 +30,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Category%3ABiology](/wiki/Category%3ABiology "Category%3ABiology") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ABiology "Special%3ABrowse/Category%3ABiology")</span></span> , <span class="smwb-ivalue">[Category%3AComputing](/wiki/Category%3AComputing "Category%3AComputing") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AComputing "Special%3ABrowse/Category%3AComputing")</span></span> , <span class="smwb-ivalue">[Category%3ADocumentation](/wiki/Category%3ADocumentation "Category%3ADocumentation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ADocumentation "Special%3ABrowse/Category%3ADocumentation")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Components "Special%3ABrowse/Category%3AGMOD-20Components")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Project "Special%3ABrowse/Category%3AGMOD-20Project")</span></span> , <span class="smwb-ivalue">[Category%3AHelp](/wiki/Category%3AHelp "Category%3AHelp") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AHelp "Special%3ABrowse/Category%3AHelp")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Category%3ABiology](/wiki/Category%3ABiology "Category%3ABiology") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3ABiology "Special%253ABrowse/Category%3ABiology")</span></span> , <span class="smwb-ivalue">[Category%3AComputing](/wiki/Category%3AComputing "Category%3AComputing") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AComputing "Special%253ABrowse/Category%3AComputing")</span></span> , <span class="smwb-ivalue">[Category%3ADocumentation](/wiki/Category%3ADocumentation "Category%3ADocumentation") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3ADocumentation "Special%253ABrowse/Category%3ADocumentation")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AGMOD-20Components "Special%253ABrowse/Category%3AGMOD-20Components")</span></span> , <span class="smwb-ivalue">[Category%3AGMOD Project](/wiki/Category%3AGMOD_Project "Category%3AGMOD Project") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AGMOD-20Project "Special%253ABrowse/Category%3AGMOD-20Project")</span></span> , <span class="smwb-ivalue">[Category%3AHelp](/wiki/Category%3AHelp "Category%3AHelp") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AHelp "Special%253ABrowse/Category%3AHelp")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ACategories "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ACategories "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -107,8 +107,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

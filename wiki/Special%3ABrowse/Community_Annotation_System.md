@@ -31,8 +31,8 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/CAS" class="mw-redirect" title="CAS">CAS</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CAS "Special%3ABrowse/CAS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Community_annotation_system" class="mw-redirect"
-title="Community annotation system">Community annotation system</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Community-20annotation-20system "Special%3ABrowse/Community-20annotation-20system")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/CAS" class="mw-redirect" title="CAS">CAS</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CAS "Special%253ABrowse/CAS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Community_annotation_system" class="mw-redirect"
+title="Community annotation system">Community annotation system</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Community-20annotation-20system "Special%253ABrowse/Community-20annotation-20system")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Community_Annotation_System "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Community_Annotation_System "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

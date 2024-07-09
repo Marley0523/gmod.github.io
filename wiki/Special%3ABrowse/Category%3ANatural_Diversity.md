@@ -30,7 +30,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Natural Diversity Module](/wiki/Chado_Natural_Diversity_Module "Chado Natural Diversity Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Natural-20Diversity-20Module "Special%3ABrowse/Chado-20Natural-20Diversity-20Module")</span></span> , <span class="smwb-ivalue">[Chado Natural Diversity Module Working Group](/wiki/Chado_Natural_Diversity_Module_Working_Group "Chado Natural Diversity Module Working Group") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Natural-20Diversity-20Module-20Working-20Group "Special%3ABrowse/Chado-20Natural-20Diversity-20Module-20Working-20Group")</span></span> , <span class="smwb-ivalue">[Chado Natural Diversity Module/natdiv schema changes call](/wiki/Chado_Natural_Diversity_Module/natdiv_schema_changes_call "Chado Natural Diversity Module/natdiv schema changes call") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Natural-20Diversity-20Module-2Fnatdiv-20schema-20changes-20call "Special%3ABrowse/Chado-20Natural-20Diversity-20Module-2Fnatdiv-20schema-20changes-20call")</span></span> , <span class="smwb-ivalue">[Notes on simplified nd schema and Use Cases](/wiki/Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schema and Use Cases") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Notes-20on-20simplified-20nd-20schema-20and-20Use-20Cases "Special%3ABrowse/Notes-20on-20simplified-20nd-20schema-20and-20Use-20Cases")</span></span> , <span class="smwb-ivalue">[September 2010 GMOD Meeting](/wiki/September_2010_GMOD_Meeting "September 2010 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/September-202010-20GMOD-20Meeting "Special%3ABrowse/September-202010-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Stock Relationship Ontology](/wiki/Stock_Relationship_Ontology "Stock Relationship Ontology") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Stock-20Relationship-20Ontology "Special%3ABrowse/Stock-20Relationship-20Ontology")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado Natural Diversity Module](/wiki/Chado_Natural_Diversity_Module "Chado Natural Diversity Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Natural-20Diversity-20Module "Special%253ABrowse/Chado-20Natural-20Diversity-20Module")</span></span> , <span class="smwb-ivalue">[Chado Natural Diversity Module Working Group](/wiki/Chado_Natural_Diversity_Module_Working_Group "Chado Natural Diversity Module Working Group") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Natural-20Diversity-20Module-20Working-20Group "Special%253ABrowse/Chado-20Natural-20Diversity-20Module-20Working-20Group")</span></span> , <span class="smwb-ivalue">[Chado Natural Diversity Module/natdiv schema changes call](/wiki/Chado_Natural_Diversity_Module/natdiv_schema_changes_call "Chado Natural Diversity Module/natdiv schema changes call") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Natural-20Diversity-20Module-2Fnatdiv-20schema-20changes-20call "Special%253ABrowse/Chado-20Natural-20Diversity-20Module-2Fnatdiv-20schema-20changes-20call")</span></span> , <span class="smwb-ivalue">[Notes on simplified nd schema and Use Cases](/wiki/Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schema and Use Cases") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Notes-20on-20simplified-20nd-20schema-20and-20Use-20Cases "Special%253ABrowse/Notes-20on-20simplified-20nd-20schema-20and-20Use-20Cases")</span></span> , <span class="smwb-ivalue">[September 2010 GMOD Meeting](/wiki/September_2010_GMOD_Meeting "September 2010 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/September-202010-20GMOD-20Meeting "Special%253ABrowse/September-202010-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[Stock Relationship Ontology](/wiki/Stock_Relationship_Ontology "Stock Relationship Ontology") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Stock-20Relationship-20Ontology "Special%253ABrowse/Stock-20Relationship-20Ontology")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ANatural_Diversity "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ANatural_Diversity "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -107,8 +107,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

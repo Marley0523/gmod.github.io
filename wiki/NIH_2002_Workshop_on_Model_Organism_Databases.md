@@ -720,7 +720,7 @@ funding agencies should require.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/NIH_2002_Workshop_on_Model_Organism_Databases"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/NIH_2002_Workshop_on_Model_Organism_Databases"
   rel="smw-browse">Browse properties</a></span>
 
 

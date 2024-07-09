@@ -96,7 +96,7 @@ studies in the context of bioinformatics databases.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Face_Caucus_ApiDB%3A_User_Studies_and_Impact_on_Development"
+  href="Special%253ABrowse/Face_Caucus_ApiDB%3A_User_Studies_and_Impact_on_Development"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "PomBase Canto"  
 
-- [Canto#http://curation.pombase.org/pombe](/wiki/Canto#http:.2F.2Fcuration.pombase.org.2Fpombe "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe "Special%3ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe")</span>
+- [Canto#http://curation.pombase.org/pombe](/wiki/Canto#http:.2F.2Fcuration.pombase.org.2Fpombe "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe "Special%253ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

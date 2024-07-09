@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "BASC"  
 
-- [CMap#http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi](/wiki/CMap#http:.2F.2Fbioinformatics.pbcbasc.latrobe.edu.au.2Fbasc.2Fcgi-bin.2Findex.cgi "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%3ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>
+- [CMap#http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi](/wiki/CMap#http:.2F.2Fbioinformatics.pbcbasc.latrobe.edu.au.2Fbasc.2Fcgi-bin.2Findex.cgi "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi "Special%253ABrowse/CMap-23http%3A-2F-2Fbioinformatics.pbcbasc.latrobe.edu.au-2Fbasc-2Fcgi-2Dbin-2Findex.cgi")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

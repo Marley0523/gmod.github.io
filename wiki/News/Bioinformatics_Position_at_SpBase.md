@@ -140,7 +140,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBioinformatics_Position_at_SpBase"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBioinformatics_Position_at_SpBase"
   rel="smw-browse">Browse properties</a></span>
 
 

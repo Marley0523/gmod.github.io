@@ -435,7 +435,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sample_Chado_SQL" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Sample_Chado_SQL" rel="smw-browse">Browse
   properties</a></span>
 
 

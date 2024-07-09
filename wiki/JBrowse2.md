@@ -59,7 +59,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[JBrowse2](Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[JBrowse2](Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse2 "Special:ExportRDF/JBrowse2")</span></span>
 
 |  |  |
@@ -150,7 +150,7 @@ class="external text" rel="nofollow">Apache 2</a> <span class="smwsearch">[+](Sp
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse2" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse2" rel="smw-browse">Browse properties</a></span>
 
 
 

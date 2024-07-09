@@ -104,7 +104,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FSGD_and_ENCODE_DCC_Jobs"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FSGD_and_ENCODE_DCC_Jobs"
   rel="smw-browse">Browse properties</a></span>
 
 

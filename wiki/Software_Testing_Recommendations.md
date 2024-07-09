@@ -116,7 +116,7 @@ Recommendations
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Software_Testing_Recommendations"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Software_Testing_Recommendations"
   rel="smw-browse">Browse properties</a></span>
 
 

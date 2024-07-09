@@ -103,7 +103,7 @@ Users](GMOD_Users "GMOD Users") page.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD" rel="smw-browse">Browse properties</a></span>
 
 
 

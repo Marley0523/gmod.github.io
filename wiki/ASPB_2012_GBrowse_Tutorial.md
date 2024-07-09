@@ -173,7 +173,7 @@ If we go to ASPB again, there are a few things I'd do differently:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ASPB_2012_GBrowse_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/ASPB_2012_GBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

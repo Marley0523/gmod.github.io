@@ -41,7 +41,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[XORT](Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[XORT](Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/XORT "Special:ExportRDF/XORT")</span></span>
 
 |  |  |
@@ -130,7 +130,7 @@ title="Property:Interactor (page does not exist)">Interactor</a> | XORT <span cl
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/XORT" rel="smw-browse">Browse properties</a></span>
 
 
 

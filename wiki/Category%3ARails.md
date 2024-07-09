@@ -100,7 +100,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ARails](Category%3ARails)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ARails" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ARails" rel="smw-browse">Browse
   properties</a></span>
 
 

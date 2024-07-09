@@ -154,7 +154,7 @@ General JBrowse feature requests:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Extending_Embedding_and_Customizing_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Extending_Embedding_and_Customizing_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

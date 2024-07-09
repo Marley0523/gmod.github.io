@@ -119,7 +119,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FJoin_ISB" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FJoin_ISB" rel="smw-browse">Browse
   properties</a></span>
 
 

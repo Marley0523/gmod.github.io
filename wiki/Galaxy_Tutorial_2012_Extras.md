@@ -645,7 +645,7 @@ height="580" alt="GalaxyExtras Fetch 3.png" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2012_Extras"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Galaxy_Tutorial_2012_Extras"
   rel="smw-browse">Browse properties</a></span>
 
 

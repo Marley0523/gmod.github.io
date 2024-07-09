@@ -87,7 +87,7 @@ title="Regionview panel">regionview panel</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Overview_panel" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Overview_panel" rel="smw-browse">Browse
   properties</a></span>
 
 

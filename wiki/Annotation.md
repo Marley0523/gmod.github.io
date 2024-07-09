@@ -159,7 +159,7 @@ is an area of growing interest to the GMOD community.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Annotation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Annotation" rel="smw-browse">Browse
   properties</a></span>
 
 

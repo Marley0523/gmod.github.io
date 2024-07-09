@@ -79,7 +79,7 @@ rel="nofollow">GeneDB</a> project at The Sanger Institute, Cambridge, UK
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AChinmay" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AChinmay" rel="smw-browse">Browse
   properties</a></span>
 
 

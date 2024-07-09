@@ -105,7 +105,7 @@ standard Drupal updating procedures to update. Changes in this version:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_3.5_Released" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_3.5_Released" rel="smw-browse">Browse
   properties</a></span>
 
 

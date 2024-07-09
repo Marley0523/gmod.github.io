@@ -64,7 +64,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[GBrowse](Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[GBrowse](Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse "Special:ExportRDF/GBrowse")</span></span>
 
 <table class="smwfacttable">
@@ -389,7 +389,7 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse" rel="smw-browse">Browse properties</a></span>
 
 
 

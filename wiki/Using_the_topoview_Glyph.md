@@ -433,7 +433,7 @@ sheldon.mckay@gmail.com
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_the_topoview_Glyph"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Using_the_topoview_Glyph"
   rel="smw-browse">Browse properties</a></span>
 
 

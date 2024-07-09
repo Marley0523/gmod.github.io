@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Best Practices](/wiki/Chado_Best_Practices "Chado Best Practices") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Best-20Practices "Special%3ABrowse/Chado-20Best-20Practices")</span></span> , <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Django-20HOWTO "Special%3ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Installing GBrowse2 in your Home Directory](/wiki/Installing_GBrowse2_in_your_Home_Directory "Installing GBrowse2 in your Home Directory") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Installing-20GBrowse2-20in-20your-20Home-20Directory "Special%3ABrowse/Installing-20GBrowse2-20in-20your-20Home-20Directory")</span></span> , <span class="smwb-ivalue">[Introduction to Chado](/wiki/Introduction_to_Chado "Introduction to Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Introduction-20to-20Chado "Special%3ABrowse/Introduction-20to-20Chado")</span></span> , <span class="smwb-ivalue">[Spectrogram.pm](/wiki/Spectrogram.pm "Spectrogram.pm") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Spectrogram.pm "Special%3ABrowse/Spectrogram.pm")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado Best Practices](/wiki/Chado_Best_Practices "Chado Best Practices") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Best-20Practices "Special%253ABrowse/Chado-20Best-20Practices")</span></span> , <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Django-20HOWTO "Special%253ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Installing GBrowse2 in your Home Directory](/wiki/Installing_GBrowse2_in_your_Home_Directory "Installing GBrowse2 in your Home Directory") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Installing-20GBrowse2-20in-20your-20Home-20Directory "Special%253ABrowse/Installing-20GBrowse2-20in-20your-20Home-20Directory")</span></span> , <span class="smwb-ivalue">[Introduction to Chado](/wiki/Introduction_to_Chado "Introduction to Chado") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Introduction-20to-20Chado "Special%253ABrowse/Introduction-20to-20Chado")</span></span> , <span class="smwb-ivalue">[Spectrogram.pm](/wiki/Spectrogram.pm "Spectrogram.pm") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Spectrogram.pm "Special%253ABrowse/Spectrogram.pm")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3APages_with_problems_or_questions "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3APages_with_problems_or_questions "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

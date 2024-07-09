@@ -299,7 +299,7 @@ The following 5 files are in this category, out of 5 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AChado_Modules" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AChado_Modules" rel="smw-browse">Browse
   properties</a></span>
 
 

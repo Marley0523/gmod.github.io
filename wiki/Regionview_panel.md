@@ -89,7 +89,7 @@ See also: the [overview panel](Overview_panel "Overview panel").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Region_panel" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Region_panel" rel="smw-browse">Browse
   properties</a></span>
 
 

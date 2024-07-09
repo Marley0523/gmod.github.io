@@ -105,7 +105,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3A!FixAfterUpgrade"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A!FixAfterUpgrade"
   rel="smw-browse">Browse properties</a></span>
 
 

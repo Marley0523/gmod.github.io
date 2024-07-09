@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "MAKER-P"  
 
-- [MAKER#http://www.yandell-lab.org/software/maker-p.html](/wiki/MAKER#http:.2F.2Fwww.yandell-lab.org.2Fsoftware.2Fmaker-p.html "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER-23http%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html "Special%3ABrowse/MAKER-23http%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html")</span>
+- [MAKER#http://www.yandell-lab.org/software/maker-p.html](/wiki/MAKER#http:.2F.2Fwww.yandell-lab.org.2Fsoftware.2Fmaker-p.html "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER-23http%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html "Special%253ABrowse/MAKER-23http%3A-2F-2Fwww.yandell-2Dlab.org-2Fsoftware-2Fmaker-2Dp.html")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

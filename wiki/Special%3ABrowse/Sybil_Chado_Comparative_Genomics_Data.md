@@ -33,7 +33,7 @@
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Sybil_Chado_Comparative_Genomics_data"
 class="mw-redirect" title="Sybil Chado Comparative Genomics data">Sybil
-Chado Comparative Genomics data</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Sybil-20Chado-20Comparative-20Genomics-20data "Special%3ABrowse/Sybil-20Chado-20Comparative-20Genomics-20data")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Chado Comparative Genomics data</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Sybil-20Chado-20Comparative-20Genomics-20data "Special%253ABrowse/Sybil-20Chado-20Comparative-20Genomics-20data")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Sybil_Chado_Comparative_Genomics_Data "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Sybil_Chado_Comparative_Genomics_Data "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -110,8 +110,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

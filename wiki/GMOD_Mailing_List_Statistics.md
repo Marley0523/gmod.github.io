@@ -113,7 +113,7 @@ Updated Apr 24 2014
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Mailing_List_Statistics"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Mailing_List_Statistics"
   rel="smw-browse">Browse properties</a></span>
 
 

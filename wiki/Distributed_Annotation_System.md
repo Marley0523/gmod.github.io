@@ -162,7 +162,7 @@ These components work with DAS servers:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Distributed_Annotation_System"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Distributed_Annotation_System"
   rel="smw-browse">Browse properties</a></span>
 
 

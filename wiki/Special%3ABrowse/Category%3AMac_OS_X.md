@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:AppleBootCampLogo.jpg](/wiki/File:AppleBootCampLogo.jpg "File:AppleBootCampLogo.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:AppleBootCampLogo.jpg "Special%3ABrowse/File:AppleBootCampLogo.jpg")</span></span> , <span class="smwb-ivalue">[File:AppleSmall.gif](/wiki/File:AppleSmall.gif "File:AppleSmall.gif") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:AppleSmall.gif "Special%3ABrowse/File:AppleSmall.gif")</span></span> , <span class="smwb-ivalue">[Computing Requirements](/wiki/Computing_Requirements "Computing Requirements") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Computing-20Requirements "Special%3ABrowse/Computing-20Requirements")</span></span> , <span class="smwb-ivalue">[DBD::mysql on the Mac](/wiki/DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DBD::mysql-20on-20the-20Mac "Special%3ABrowse/DBD::mysql-20on-20the-20Mac")</span></span> , <span class="smwb-ivalue">[Fixing Perl on OSX](/wiki/Fixing_Perl_on_OSX "Fixing Perl on OSX") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Fixing-20Perl-20on-20OSX "Special%3ABrowse/Fixing-20Perl-20on-20OSX")</span></span> , <span class="smwb-ivalue">[GBrowse MacOSX HOWTO](/wiki/GBrowse_MacOSX_HOWTO "GBrowse MacOSX HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20MacOSX-20HOWTO "Special%3ABrowse/GBrowse-20MacOSX-20HOWTO")</span></span> , <span class="smwb-ivalue">[File:ParallelsDesktopLogo.gif](/wiki/File:ParallelsDesktopLogo.gif "File:ParallelsDesktopLogo.gif") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:ParallelsDesktopLogo.gif "Special%3ABrowse/File:ParallelsDesktopLogo.gif")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:AppleBootCampLogo.jpg](/wiki/File:AppleBootCampLogo.jpg "File:AppleBootCampLogo.jpg") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:AppleBootCampLogo.jpg "Special%253ABrowse/File:AppleBootCampLogo.jpg")</span></span> , <span class="smwb-ivalue">[File:AppleSmall.gif](/wiki/File:AppleSmall.gif "File:AppleSmall.gif") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:AppleSmall.gif "Special%253ABrowse/File:AppleSmall.gif")</span></span> , <span class="smwb-ivalue">[Computing Requirements](/wiki/Computing_Requirements "Computing Requirements") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Computing-20Requirements "Special%253ABrowse/Computing-20Requirements")</span></span> , <span class="smwb-ivalue">[DBD::mysql on the Mac](/wiki/DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DBD::mysql-20on-20the-20Mac "Special%253ABrowse/DBD::mysql-20on-20the-20Mac")</span></span> , <span class="smwb-ivalue">[Fixing Perl on OSX](/wiki/Fixing_Perl_on_OSX "Fixing Perl on OSX") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Fixing-20Perl-20on-20OSX "Special%253ABrowse/Fixing-20Perl-20on-20OSX")</span></span> , <span class="smwb-ivalue">[GBrowse MacOSX HOWTO](/wiki/GBrowse_MacOSX_HOWTO "GBrowse MacOSX HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20MacOSX-20HOWTO "Special%253ABrowse/GBrowse-20MacOSX-20HOWTO")</span></span> , <span class="smwb-ivalue">[File:ParallelsDesktopLogo.gif](/wiki/File:ParallelsDesktopLogo.gif "File:ParallelsDesktopLogo.gif") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:ParallelsDesktopLogo.gif "Special%253ABrowse/File:ParallelsDesktopLogo.gif")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AMac_OS_X "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AMac_OS_X "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

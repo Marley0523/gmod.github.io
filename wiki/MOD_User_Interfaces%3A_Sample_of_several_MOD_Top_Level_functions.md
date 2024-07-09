@@ -280,7 +280,7 @@ Folks: please add to and correct as needed
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions"
+  href="Special%253ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -263,7 +263,7 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LuceGene" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/LuceGene" rel="smw-browse">Browse properties</a></span>
 
 
 

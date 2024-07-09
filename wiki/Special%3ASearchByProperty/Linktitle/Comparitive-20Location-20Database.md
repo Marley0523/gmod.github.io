@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Comparitive Location Database"  
 
-- [CMap#http://medvet.angis.org.au/cmap/](/wiki/CMap#http:.2F.2Fmedvet.angis.org.au.2Fcmap.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%3ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>
+- [CMap#http://medvet.angis.org.au/cmap/](/wiki/CMap#http:.2F.2Fmedvet.angis.org.au.2Fcmap.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F "Special%253ABrowse/CMap-23http%3A-2F-2Fmedvet.angis.org.au-2Fcmap-2F")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

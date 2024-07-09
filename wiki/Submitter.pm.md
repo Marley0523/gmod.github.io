@@ -94,7 +94,7 @@ The plugin is accessed through URLs.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Submitter.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Submitter.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

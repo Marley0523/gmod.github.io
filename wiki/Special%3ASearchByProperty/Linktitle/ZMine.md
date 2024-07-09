@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "ZMine"  
 
-- [InterMine#http://zmine.zfin.org/](/wiki/InterMine#http:.2F.2Fzmine.zfin.org.2F "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F "Special%3ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F")</span>
+- [InterMine#http://zmine.zfin.org/](/wiki/InterMine#http:.2F.2Fzmine.zfin.org.2F "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F "Special%253ABrowse/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

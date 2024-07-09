@@ -34,7 +34,7 @@ title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class=
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Apollo Tutorial 2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202010 "Special%3ABrowse/Apollo-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[Apollo Tutorial 2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Apollo-20Tutorial-202011 "Special%3ABrowse/Apollo-20Tutorial-202011")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[Apollo Tutorial 2010](/wiki/Apollo_Tutorial_2010 "Apollo Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Apollo-20Tutorial-202010 "Special%253ABrowse/Apollo-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[Apollo Tutorial 2011](/wiki/Apollo_Tutorial_2011 "Apollo Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Apollo-20Tutorial-202011 "Special%253ABrowse/Apollo-20Tutorial-202011")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Apollo "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Apollo "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -111,8 +111,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

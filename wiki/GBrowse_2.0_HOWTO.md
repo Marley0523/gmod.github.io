@@ -1651,7 +1651,7 @@ under construction)
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_2.0_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

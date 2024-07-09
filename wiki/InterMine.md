@@ -58,7 +58,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[InterMine](Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[InterMine](Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/InterMine "Special:ExportRDF/InterMine")</span></span>
 
 |  |  |
@@ -158,7 +158,7 @@ title="Property:Interactor (page does not exist)">Interactor</a> | InterMine <sp
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/InterMine" rel="smw-browse">Browse
   properties</a></span>
 
 

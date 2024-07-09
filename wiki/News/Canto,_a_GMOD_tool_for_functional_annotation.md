@@ -124,7 +124,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FCanto,_a_GMOD_tool_for_functional_annotation"
+  href="../Special%253ABrowse/News-2FCanto,_a_GMOD_tool_for_functional_annotation"
   rel="smw-browse">Browse properties</a></span>
 
 

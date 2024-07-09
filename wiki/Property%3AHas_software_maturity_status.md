@@ -52,8 +52,8 @@ Showing 21 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BLAST_Graphic_Viewer.1"
 title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/BLAST-20Graphic-20Viewer"
-title="Special%3ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/BLAST-20Graphic-20Viewer"
+title="Special%253ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -61,8 +61,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioMart"
-title="Special%3ABrowse/BioMart">+</a></span></td>
+href="Special%253ABrowse/BioMart"
+title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -73,16 +73,16 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="CMap.1" title="CMap">CMap</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/CMap"
-title="Special%3ABrowse/CMap">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/CMap"
+title="Special%253ABrowse/CMap">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Canto"
-title="Special%3ABrowse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/Canto"
+title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -93,8 +93,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/DIYA"
-title="Special%3ABrowse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/DIYA"
+title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">beta release  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20release"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20release">+</a></span></td>
@@ -106,8 +106,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20rele
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse.1"
 title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GBrowse"
-title="Special%3ABrowse/GBrowse">+</a></span></td>
+href="Special%253ABrowse/GBrowse"
+title="Special%253ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -115,8 +115,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GBrowse-20syn"
-title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
+href="Special%253ABrowse/GBrowse-20syn"
+title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">beta release  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20release"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20release">+</a></span></td>
@@ -124,8 +124,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/beta-20rele
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
 title="GO Graphic Viewer">GO Graphic Viewer</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/GO-20Graphic-20Viewer"
-title="Special%3ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/GO-20Graphic-20Viewer"
+title="Special%253ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -133,8 +133,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GO%3A%3ATermFinder"
-title="Special%3ABrowse/GO%3A%3ATermFinder">+</a></span></td>
+href="Special%253ABrowse/GO%3A%3ATermFinder"
+title="Special%253ABrowse/GO%3A%3ATermFinder">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -142,8 +142,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
 title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Galaxy"
-title="Special%3ABrowse/Galaxy">+</a></span></td>
+href="Special%253ABrowse/Galaxy"
+title="Special%253ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -155,8 +155,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/InterMine"
-title="Special%3ABrowse/InterMine">+</a></span></td>
+href="Special%253ABrowse/InterMine"
+title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -168,8 +168,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse.1"
 title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/JBrowse"
-title="Special%3ABrowse/JBrowse">+</a></span></td>
+href="Special%253ABrowse/JBrowse"
+title="Special%253ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -177,8 +177,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
 title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/JBrowse2"
-title="Special%3ABrowse/JBrowse2">+</a></span></td>
+href="Special%253ABrowse/JBrowse2"
+title="Special%253ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -189,8 +189,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="MAKER.1" title="MAKER">MAKER</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/MAKER"
-title="Special%3ABrowse/MAKER">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/MAKER"
+title="Special%253ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -202,8 +202,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Pathway-20Tools"
-title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
+href="Special%253ABrowse/Pathway-20Tools"
+title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -215,8 +215,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="Textpresso"
 title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Textpresso"
-title="Special%3ABrowse/Textpresso">+</a></span></td>
+href="Special%253ABrowse/Textpresso"
+title="Special%253ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -224,8 +224,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Tripal"
-title="Special%3ABrowse/Tripal">+</a></span></td>
+href="Special%253ABrowse/Tripal"
+title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -237,8 +237,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo"
-title="Special%3ABrowse/WebApollo">+</a></span></td>
+href="Special%253ABrowse/WebApollo"
+title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -246,8 +246,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo2"
-title="Special%3ABrowse/WebApollo2">+</a></span></td>
+href="Special%253ABrowse/WebApollo2"
+title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -255,8 +255,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebGBrowse"
-title="Special%3ABrowse/WebGBrowse">+</a></span></td>
+href="Special%253ABrowse/WebGBrowse"
+title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -267,8 +267,8 @@ title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops">mature  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature"
 title="Special%3ASearchByProperty/Has-20software-20maturity-20status/mature">+</a></span></td>
@@ -343,7 +343,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_maturity_st
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_software_maturity_status"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_software_maturity_status"
   rel="smw-browse">Browse properties</a></span>
 
 

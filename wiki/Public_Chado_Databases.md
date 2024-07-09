@@ -161,7 +161,7 @@ e.g.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Public_Chado_Databases" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Public_Chado_Databases" rel="smw-browse">Browse
   properties</a></span>
 
 

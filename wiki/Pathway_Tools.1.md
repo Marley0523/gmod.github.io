@@ -48,7 +48,7 @@ Resources
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Pathway
-Tools](Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tools](Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Pathway_Tools "Special:ExportRDF/Pathway Tools")</span></span>
 
 [Available on platform](Property%3AAvailable_on_platform "Property:Available on platform")
@@ -188,7 +188,7 @@ Pathway Tools has four components:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Pathway_Tools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Pathway_Tools" rel="smw-browse">Browse
   properties</a></span>
 
 

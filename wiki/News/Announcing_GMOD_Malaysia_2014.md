@@ -119,7 +119,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FAnnouncing_GMOD_Malaysia_2014"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FAnnouncing_GMOD_Malaysia_2014"
   rel="smw-browse">Browse properties</a></span>
 
 

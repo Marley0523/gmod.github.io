@@ -169,7 +169,7 @@ System](Community_Annotation_System "Community Annotation System").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_virtual_machine_project"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_virtual_machine_project"
   rel="smw-browse">Browse properties</a></span>
 
 

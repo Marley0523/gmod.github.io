@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Galaxy source code documentation"  
 
-- [Galaxy#https://docs.galaxyproject.org](/wiki/Galaxy#https:.2F.2Fdocs.galaxyproject.org "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org "Special%3ABrowse/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org")</span>
+- [Galaxy#https://docs.galaxyproject.org](/wiki/Galaxy#https:.2F.2Fdocs.galaxyproject.org "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org "Special%253ABrowse/Galaxy-23https%3A-2F-2Fdocs.galaxyproject.org")</span>
 
  
 
@@ -91,8 +91,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

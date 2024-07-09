@@ -191,7 +191,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGalaxy_is_Hiring"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGalaxy_is_Hiring"
   rel="smw-browse">Browse properties</a></span>
 
 

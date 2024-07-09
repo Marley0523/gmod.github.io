@@ -204,7 +204,7 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Installing_Chado_on_Ubuntu_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Installing_Chado_on_Ubuntu_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

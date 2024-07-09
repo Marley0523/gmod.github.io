@@ -281,7 +281,7 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Persistent_Variables"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Persistent_Variables"
   rel="smw-browse">Browse properties</a></span>
 
 

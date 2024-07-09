@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:2005-10 ISMB Ontology-Building various.pdf](/wiki/File:2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:2005-2D10-20ISMB-20Ontology-2DBuilding-20various.pdf "Special%3ABrowse/File:2005-2D10-20ISMB-20Ontology-2DBuilding-20various.pdf")</span></span> , <span class="smwb-ivalue">[Chado CV Module](/wiki/Chado_CV_Module "Chado CV Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20CV-20Module "Special%3ABrowse/Chado-20CV-20Module")</span></span> , <span class="smwb-ivalue">[File:Chado-ncibi-2006.ppt](/wiki/File:Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Chado-2Dncibi-2D2006.ppt "Special%3ABrowse/File:Chado-2Dncibi-2D2006.ppt")</span></span> , <span class="smwb-ivalue">[File:DictyBase-phenotypes.pdf](/wiki/File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:DictyBase-2Dphenotypes.pdf "Special%3ABrowse/File:DictyBase-2Dphenotypes.pdf")</span></span> , <span class="smwb-ivalue">[File:FlyBaseCVTermViewer.png](/wiki/File:FlyBaseCVTermViewer.png "File:FlyBaseCVTermViewer.png") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:FlyBaseCVTermViewer.png "Special%3ABrowse/File:FlyBaseCVTermViewer.png")</span></span> , <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[Gmod load cvterms](/wiki/Gmod_load_cvterms "Gmod load cvterms") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-20load-20cvterms "Special%3ABrowse/Gmod-20load-20cvterms")</span></span> , <span class="smwb-ivalue">[File:Lapp.pdf](/wiki/File:Lapp.pdf "File:Lapp.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Lapp.pdf "Special%3ABrowse/File:Lapp.pdf")</span></span> , <span class="smwb-ivalue">[Visualization](/wiki/Visualization "Visualization") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Visualization "Special%3ABrowse/Visualization")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:2005-10 ISMB Ontology-Building various.pdf](/wiki/File:2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:2005-2D10-20ISMB-20Ontology-2DBuilding-20various.pdf "Special%253ABrowse/File:2005-2D10-20ISMB-20Ontology-2DBuilding-20various.pdf")</span></span> , <span class="smwb-ivalue">[Chado CV Module](/wiki/Chado_CV_Module "Chado CV Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20CV-20Module "Special%253ABrowse/Chado-20CV-20Module")</span></span> , <span class="smwb-ivalue">[File:Chado-ncibi-2006.ppt](/wiki/File:Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Chado-2Dncibi-2D2006.ppt "Special%253ABrowse/File:Chado-2Dncibi-2D2006.ppt")</span></span> , <span class="smwb-ivalue">[File:DictyBase-phenotypes.pdf](/wiki/File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:DictyBase-2Dphenotypes.pdf "Special%253ABrowse/File:DictyBase-2Dphenotypes.pdf")</span></span> , <span class="smwb-ivalue">[File:FlyBaseCVTermViewer.png](/wiki/File:FlyBaseCVTermViewer.png "File:FlyBaseCVTermViewer.png") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:FlyBaseCVTermViewer.png "Special%253ABrowse/File:FlyBaseCVTermViewer.png")</span></span> , <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span></span> , <span class="smwb-ivalue">[Gmod load cvterms](/wiki/Gmod_load_cvterms "Gmod load cvterms") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-20load-20cvterms "Special%253ABrowse/Gmod-20load-20cvterms")</span></span> , <span class="smwb-ivalue">[File:Lapp.pdf](/wiki/File:Lapp.pdf "File:Lapp.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Lapp.pdf "Special%253ABrowse/File:Lapp.pdf")</span></span> , <span class="smwb-ivalue">[Visualization](/wiki/Visualization "Visualization") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Visualization "Special%253ABrowse/Visualization")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AOntologies "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AOntologies "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

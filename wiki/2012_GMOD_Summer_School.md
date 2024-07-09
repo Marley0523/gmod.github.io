@@ -287,7 +287,7 @@ time on Amazon Web Services for the course tutors and participants.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2012_GMOD_Summer_School" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2012_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
 
 

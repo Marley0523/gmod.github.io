@@ -43,8 +43,8 @@ Showing 5 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioDIG.1"
 title="BioDIG">BioDIG</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioDIG"
-title="Special%3ABrowse/BioDIG">+</a></span></td>
+href="Special%253ABrowse/BioDIG"
+title="Special%253ABrowse/BioDIG">+</a></span></td>
 <td class="smwprops"><a href="http://biodig.org" class="external"
 rel="nofollow">http://biodig.org</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org"
@@ -57,8 +57,8 @@ title="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org">+</a></
 <tr class="odd">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Pathway-20Tools"
-title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
+href="Special%253ABrowse/Pathway-20Tools"
+title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops"><a href="http://bioinformatics.ai.sri.com/ptools/"
 class="external"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>  <span
@@ -72,8 +72,8 @@ title="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbioinformatics.ai.s
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="SOBA.1" title="SOBA">SOBA</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/SOBA"
-title="Special%3ABrowse/SOBA">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/SOBA"
+title="Special%253ABrowse/SOBA">+</a></span></td>
 <td class="smwprops"><a
 href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis"
 class="external"
@@ -89,8 +89,8 @@ title="Special%3ASearchByProperty/Has-20website/http:-2F-2Fwww.sequenceontology.
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebGBrowse"
-title="Special%3ABrowse/WebGBrowse">+</a></span></td>
+href="Special%253ABrowse/WebGBrowse"
+title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops"><a href="http://webgbrowse.cgb.indiana.edu"
 class="external"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a>  <span
@@ -104,8 +104,8 @@ title="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwebgbrowse.cgb.indi
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops"><a href="XORT.1" class="external"
 rel="nofollow">http://gmod.org/wiki/XORT</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fgmod.org-2Fwiki-2FXORT"
@@ -180,7 +180,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_website "Special:Exp
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_website" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_website" rel="smw-browse">Browse
   properties</a></span>
 
 

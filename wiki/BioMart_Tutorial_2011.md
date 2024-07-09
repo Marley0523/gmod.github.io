@@ -94,7 +94,7 @@ BioMart website</a> for all information on BioMart.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/BioMart_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/BioMart_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

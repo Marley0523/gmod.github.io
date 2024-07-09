@@ -553,7 +553,7 @@ class="external text" rel="nofollow">VB wiki</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Notes_on_simplified_nd_schema_and_Use_Cases"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Notes_on_simplified_nd_schema_and_Use_Cases"
   rel="smw-browse">Browse properties</a></span>
 
 

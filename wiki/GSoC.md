@@ -230,7 +230,7 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSoC" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GSoC" rel="smw-browse">Browse properties</a></span>
 
 
 

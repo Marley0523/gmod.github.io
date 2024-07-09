@@ -110,7 +110,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FApplications_Open_for_GMOD_Online_Training"
+  href="../Special%253ABrowse/News-2FApplications_Open_for_GMOD_Online_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

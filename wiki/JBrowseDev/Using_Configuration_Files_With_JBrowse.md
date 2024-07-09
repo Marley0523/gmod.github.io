@@ -97,7 +97,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BrowseDev-2FUsing_a_Database_With_JBrowse"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/BrowseDev-2FUsing_a_Database_With_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

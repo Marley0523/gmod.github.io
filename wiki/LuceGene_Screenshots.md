@@ -140,7 +140,7 @@ height="343" alt="LuceGeneDemo library.png" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LuceGene_Screenshots" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/LuceGene_Screenshots" rel="smw-browse">Browse
   properties</a></span>
 
 

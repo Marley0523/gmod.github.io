@@ -100,7 +100,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ARPC](Category%3ARPC)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ARPC" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ARPC" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -156,7 +156,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ANGS](Category%3ANGS)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ANGS" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ANGS" rel="smw-browse">Browse
   properties</a></span>
 
 

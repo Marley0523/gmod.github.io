@@ -562,7 +562,7 @@ straightforward to use.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/VMware_2011_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/VMware_2011_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

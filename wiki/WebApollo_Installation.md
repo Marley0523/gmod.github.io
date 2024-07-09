@@ -2699,7 +2699,7 @@ Now have fun annotating!!!
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo_Installation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/WebApollo_Installation" rel="smw-browse">Browse
   properties</a></span>
 
 

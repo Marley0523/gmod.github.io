@@ -203,7 +203,7 @@ guess that stag-storenode.pl will do it for you anyway.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_a_custom_ontology_in_Chado"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_a_custom_ontology_in_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 

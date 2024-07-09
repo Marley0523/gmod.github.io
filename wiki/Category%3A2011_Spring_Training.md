@@ -164,7 +164,7 @@ title="VMware 2011 Spring Training">VMware 2011 Spring Training</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3A2011_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A2011_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

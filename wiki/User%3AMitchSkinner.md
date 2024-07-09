@@ -85,7 +85,7 @@ Mitch is a staff member at UC Berkeley and is the lead developer of
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AMitchSkinner" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AMitchSkinner" rel="smw-browse">Browse
   properties</a></span>
 
 

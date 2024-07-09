@@ -98,7 +98,7 @@ rel="nofollow">https://github.com/alliance-genome</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Source_Code_Repositories"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Source_Code_Repositories"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -155,7 +155,7 @@ rel="nofollow">https://www.affymetrix.com/community/forums/forum.jspa?forumID=28
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/IGB" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/IGB" rel="smw-browse">Browse properties</a></span>
 
 
 

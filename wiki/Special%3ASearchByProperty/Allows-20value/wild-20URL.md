@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "wild URL"  
 
 - [Property:Link
-  type](/wiki/Property%3ALink_type "Property:Link type")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ALink-20type "Special%3ABrowse/Property%3ALink-20type")</span>
+  type](/wiki/Property%3ALink_type "Property:Link type")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3ALink-20type "Special%253ABrowse/Property%3ALink-20type")</span>
 
  
 
@@ -95,8 +95,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

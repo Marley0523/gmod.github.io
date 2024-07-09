@@ -730,7 +730,7 @@ page.
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Site_Guidelines" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Site_Guidelines" rel="smw-browse">Browse
   properties</a></span>
 
 

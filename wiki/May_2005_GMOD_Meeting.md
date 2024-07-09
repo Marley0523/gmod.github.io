@@ -360,7 +360,7 @@ active recommendation.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/May_2005_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/May_2005_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

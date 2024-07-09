@@ -260,7 +260,7 @@ Registration was free, but required, as space was limited.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Europe_2010"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Satellite_Meetings_-2D_GMOD_Europe_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

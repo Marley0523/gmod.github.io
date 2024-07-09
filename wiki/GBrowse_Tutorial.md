@@ -151,7 +151,7 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

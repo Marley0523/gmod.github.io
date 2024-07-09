@@ -650,7 +650,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ANews_Items" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ANews_Items" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -34,7 +34,7 @@ Formats</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF "Special%3ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF-20Tutorial-202012 "Special%3ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GFF2 "Special%3ABrowse/GFF2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF "Special%253ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF-20Tutorial-202012 "Special%253ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF2 "Special%253ABrowse/GFF2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AFile_Formats "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AFile_Formats "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -111,8 +111,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

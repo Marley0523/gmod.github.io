@@ -119,7 +119,7 @@ See [Support](Support "Support") for more information.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_-2D_Getting_Started"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_-2D_Getting_Started"
   rel="smw-browse">Browse properties</a></span>
 
 

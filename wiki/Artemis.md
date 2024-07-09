@@ -115,7 +115,7 @@ and the Artemis group is working closely with
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Artemis" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Artemis" rel="smw-browse">Browse properties</a></span>
 
 
 

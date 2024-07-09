@@ -358,7 +358,7 @@ We've tackled this for Chado with MediaWiki Templates:
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Schema_Documentation_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Schema_Documentation_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

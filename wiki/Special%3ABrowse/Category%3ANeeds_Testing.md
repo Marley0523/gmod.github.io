@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Django-20HOWTO "Special%3ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Load GFF Into Chado](/wiki/Load_GFF_Into_Chado "Load GFF Into Chado") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Load-20GFF-20Into-20Chado "Special%3ABrowse/Load-20GFF-20Into-20Chado")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado Django HOWTO](/wiki/Chado_Django_HOWTO "Chado Django HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Django-20HOWTO "Special%253ABrowse/Chado-20Django-20HOWTO")</span></span> , <span class="smwb-ivalue">[Load GFF Into Chado](/wiki/Load_GFF_Into_Chado "Load GFF Into Chado") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Load-20GFF-20Into-20Chado "Special%253ABrowse/Load-20GFF-20Into-20Chado")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ANeeds_Testing "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ANeeds_Testing "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

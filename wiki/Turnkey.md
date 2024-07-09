@@ -95,7 +95,7 @@ site.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Turnkey" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Turnkey" rel="smw-browse">Browse properties</a></span>
 
 
 

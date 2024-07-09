@@ -105,7 +105,7 @@ If you have further questions about the GMOD web site please contact the
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/About_This_Site" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/About_This_Site" rel="smw-browse">Browse
   properties</a></span>
 
 

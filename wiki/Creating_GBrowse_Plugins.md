@@ -80,7 +80,7 @@ rel="nofollow">http://search.cpan.org/~lds/GBrowse-2.31/lib/Bio/Graphics/Browser
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Creating_GBrowse_Plugins"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Creating_GBrowse_Plugins"
   rel="smw-browse">Browse properties</a></span>
 
 

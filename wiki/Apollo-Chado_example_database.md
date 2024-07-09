@@ -97,7 +97,7 @@ title="Subversion">Subversion</a> page. The repository is quite large
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo-2DChado_example_database"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Apollo-2DChado_example_database"
   rel="smw-browse">Browse properties</a></span>
 
 

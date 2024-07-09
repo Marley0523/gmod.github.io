@@ -128,7 +128,7 @@ a preview of the JBrowse 2 application.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_PSB_2020" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse_PSB_2020" rel="smw-browse">Browse
   properties</a></span>
 
 

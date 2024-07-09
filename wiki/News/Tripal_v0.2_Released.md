@@ -148,7 +148,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FTripal_v0.2_Released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FTripal_v0.2_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -124,7 +124,7 @@ membership](GMOD_Membership#Software "GMOD Membership").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODviews" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMODviews" rel="smw-browse">Browse
   properties</a></span>
 
 

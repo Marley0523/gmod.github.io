@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Plugin" class="mw-redirect" title="Plugin">Plugin</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Plugin "Special%3ABrowse/Plugin")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Plugins" class="mw-redirect" title="Plugins">Plugins</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Plugins "Special%3ABrowse/Plugins")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Plugin" class="mw-redirect" title="Plugin">Plugin</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Plugin "Special%253ABrowse/Plugin")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Plugins" class="mw-redirect" title="Plugins">Plugins</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Plugins "Special%253ABrowse/Plugins")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Plugins "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Plugins "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -108,8 +108,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

@@ -34,7 +34,7 @@ Engineer</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%3ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ASoftware_Engineer "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ASoftware_Engineer "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -111,8 +111,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

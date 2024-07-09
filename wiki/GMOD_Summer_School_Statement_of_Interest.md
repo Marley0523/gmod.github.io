@@ -613,7 +613,7 @@ course was what I was expecting and more.”</span></td>
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2008_GMOD_Summer_School" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2008_GMOD_Summer_School" rel="smw-browse">Browse
   properties</a></span>
 
 

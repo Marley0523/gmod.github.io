@@ -113,7 +113,7 @@ For mod_fastcgi:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Common_Problems_with_GBrowse2_Installation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Common_Problems_with_GBrowse2_Installation"
   rel="smw-browse">Browse properties</a></span>
 
 

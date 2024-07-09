@@ -1880,7 +1880,7 @@ diversity data.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Online Training 2014/Chado
-Tutorial](../Special%3ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial "Special%3ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Online_Training_2014/Chado_Tutorial "Special:ExportRDF/GMOD Online Training 2014/Chado Tutorial")</span></span>
 
 |  |  |
@@ -1948,7 +1948,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Online_Training_2014-2FChado_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GMOD_Online_Training_2014-2FChado_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

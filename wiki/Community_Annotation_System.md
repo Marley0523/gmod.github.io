@@ -127,7 +127,7 @@ rel="nofollow">help@gmod.org</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Community_Annotation_System"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Community_Annotation_System"
   rel="smw-browse">Browse properties</a></span>
 
 

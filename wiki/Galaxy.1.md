@@ -65,7 +65,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Galaxy](Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[Galaxy](Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy "Special:ExportRDF/Galaxy")</span></span>
 
 <table class="smwfacttable">
@@ -685,7 +685,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Galaxy-23https%3A-2F-2Fgalaxyp
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Galaxy" rel="smw-browse">Browse properties</a></span>
 
 
 

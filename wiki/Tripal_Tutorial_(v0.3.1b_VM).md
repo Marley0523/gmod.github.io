@@ -164,7 +164,7 @@ rel="nofollow">http://www.gmod.org/wiki/Tripal_Tutorial_%28v0.3.1b%29#Creating_O
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(v0.3.1b_VM)"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Tutorial_(v0.3.1b_VM)"
   rel="smw-browse">Browse properties</a></span>
 
 

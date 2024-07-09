@@ -137,7 +137,7 @@ to the track configuration.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_GBrowse_Summary_View"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_GBrowse_Summary_View"
   rel="smw-browse">Browse properties</a></span>
 
 

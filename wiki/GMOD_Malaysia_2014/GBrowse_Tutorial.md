@@ -42,7 +42,7 @@ This tutorial uses the AWS AMI ' ***named '*** in the '
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/GBrowse
-Tutorial](../Special%3ABrowse/GMOD-20Malaysia-202014-2FGBrowse-20Tutorial "Special%3ABrowse/GMOD-20Malaysia-202014-2FGBrowse-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FGBrowse-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FGBrowse-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GBrowse_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/GBrowse Tutorial")</span></span>
 
 |  |  |
@@ -110,7 +110,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GMOD_Malaysia_2014-2FGBrowse_Tutorial"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GMOD_Malaysia_2014-2FGBrowse_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

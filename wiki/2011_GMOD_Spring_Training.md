@@ -618,7 +618,7 @@ The "Yes, with reservations" responses were:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2011_GMOD_Spring_Training"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2011_GMOD_Spring_Training"
   rel="smw-browse">Browse properties</a></span>
 
 

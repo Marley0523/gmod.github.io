@@ -168,7 +168,7 @@ A table would be good
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Migrating_from_GBrowse_to_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Migrating_from_GBrowse_to_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

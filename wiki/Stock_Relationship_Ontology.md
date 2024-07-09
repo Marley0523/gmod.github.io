@@ -203,7 +203,7 @@ class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Stock_Relationship_Ontology"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Stock_Relationship_Ontology"
   rel="smw-browse">Browse properties</a></span>
 
 

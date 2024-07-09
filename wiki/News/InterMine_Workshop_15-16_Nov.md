@@ -148,7 +148,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FInterMine_Workshop_15-2D16_Nov"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FInterMine_Workshop_15-2D16_Nov"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -31,8 +31,8 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Adapter" class="mw-redirect" title="Adapter">Adapter</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Adapter "Special%3ABrowse/Adapter")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_adaptors" class="mw-redirect"
-title="GBrowse adaptors">GBrowse adaptors</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20adaptors "Special%3ABrowse/GBrowse-20adaptors")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Adapter" class="mw-redirect" title="Adapter">Adapter</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Adapter "Special%253ABrowse/Adapter")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_adaptors" class="mw-redirect"
+title="GBrowse adaptors">GBrowse adaptors</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20adaptors "Special%253ABrowse/GBrowse-20adaptors")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_Adaptors "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_Adaptors "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -109,8 +109,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

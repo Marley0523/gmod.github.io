@@ -22,9 +22,9 @@ property is a special property in this wiki.</span></span>" with value
 "active"  
 
 - [Property:Has development
-  status](/wiki/Property%3AHas_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20development-20status "Special%3ABrowse/Property%3AHas-20development-20status")</span>
+  status](/wiki/Property%3AHas_development_status "Property:Has development status")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AHas-20development-20status "Special%253ABrowse/Property%3AHas-20development-20status")</span>
 - [Property:Has support
-  status](/wiki/Property%3AHas_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AHas-20support-20status "Special%3ABrowse/Property%3AHas-20support-20status")</span>
+  status](/wiki/Property%3AHas_support_status "Property:Has support status")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AHas-20support-20status "Special%253ABrowse/Property%3AHas-20support-20status")</span>
 
  
 
@@ -97,8 +97,7 @@ Property:     Value:
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

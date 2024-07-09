@@ -33,7 +33,7 @@
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Simple_synteny_viewer_in_gbrowse" class="mw-redirect"
 title="Simple synteny viewer in gbrowse">Simple synteny viewer in
-gbrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Simple-20synteny-20viewer-20in-20gbrowse "Special%3ABrowse/Simple-20synteny-20viewer-20in-20gbrowse")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Synview" class="mw-redirect" title="Synview">Synview</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Synview "Special%3ABrowse/Synview")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+gbrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Simple-20synteny-20viewer-20in-20gbrowse "Special%253ABrowse/Simple-20synteny-20viewer-20in-20gbrowse")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Synview" class="mw-redirect" title="Synview">Synview</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Synview "Special%253ABrowse/Synview")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/SynView "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/SynView "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -110,8 +110,7 @@ Enter the name of the page to start browsing from.
 
 
 
-- <span id="t-specialpages"><a href="/wiki/Special%3ASpecialPages" accesskey="q"
-  title="A list of all special pages [q]">Special pages</a></span>
+
 
 
 

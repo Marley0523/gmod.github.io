@@ -181,7 +181,7 @@ Genome Data. Bioinformatics 22(18), 2308-2309
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SynView" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/SynView" rel="smw-browse">Browse properties</a></span>
 
 
 
