@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Link
-type](/wiki/Property%3ALink_type "Property:Link type")" with value "public
+type](/wiki/Property%253ALink_type "Property:Link type")" with value "public
 server"  
 
 - [BLAST Graphic
@@ -23,7 +23,7 @@ server"
 - [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 - [GO Graphic
   Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%253A%253ATermFinder "Special%253ABrowse/GO%253A%253ATermFinder")</span>
 - [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 - [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 - [Pathway
@@ -48,7 +48,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Link-20type/public-20server "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Link-20type/public-20server "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -74,8 +74,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

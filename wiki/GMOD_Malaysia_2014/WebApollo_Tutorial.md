@@ -18,8 +18,8 @@
 
 
 This [WebApollo](../WebApollo.1 "WebApollo") tutorial was presented by
-[Scott Cain](../User%3AScott "User%3AScott") and [User%3AMichael
-Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") at [GMOD
+[Scott Cain](../User%253AScott "User%253AScott") and [User%253AMichael
+Campbell](../User%253AMichael_Campbell "User%253AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014.
 
@@ -585,9 +585,9 @@ styles are located in
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -599,7 +599,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/WebApollo_Tutori
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [WebApollo](../WebApollo.1 "WebApollo") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [WebApollo](../WebApollo.1 "WebApollo") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/WebApollo "Special%253ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 
 
@@ -638,8 +638,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

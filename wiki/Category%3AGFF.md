@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGFF</span>
+# <span dir="auto">Category%253AGFF</span>
 
 
 
@@ -22,7 +22,7 @@
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/GFF "Special:Search/GFF") in
 other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AGFF"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253AGFF"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -47,7 +47,7 @@ The following 4 pages are in this category, out of 4 total.
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3AGFF](Category%3AGFF)"
+Retrieved from "[http://gmod.org/wiki/Category%253AGFF](Category%253AGFF)"
 
 
 
@@ -80,8 +80,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3AGFF](Category%3AGFF)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -104,7 +104,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3AGFF](Category%3AGFF)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGFF" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGFF" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -263,7 +263,7 @@ Program](../Spring_2010_Logo_Program "Spring 2010 Logo Program"), while
 a design student at
 <a href="http://www.linn-benton.edu" class="external text"
 rel="nofollow">Linn-Benton Community College</a>. \| dev_ppl = Lincoln
-Stein, Doreen Ware, [Ben Faga](../User%3AFaga "User%3AFaga"),
+Stein, Doreen Ware, [Ben Faga](../User%253AFaga "User%253AFaga"),
 <a href="mailto:kclark@cshl.edu" class="external text"
 rel="nofollow">Ken Youens-Clark</a> \| dev_status = No development in
 several years. Future development at Gramene.org hopes to replace CMap
@@ -276,12 +276,12 @@ release date = 2002 \| more_info =
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [CMap](../Category%3ACMap "Category%3ACMap")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [CMap](../Category%253ACMap "Category%253ACMap")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 
 
 
@@ -318,8 +318,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

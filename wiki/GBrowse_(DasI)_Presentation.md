@@ -159,13 +159,13 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [Perl](Category%3APerl "Category%3APerl")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [Perl](Category%253APerl "Category%253APerl")
 - [Middleware
-  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+  Presentations](Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
 
 
 
@@ -199,8 +199,8 @@ Or see your report in [GBrowse](GBrowse.1 "GBrowse")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

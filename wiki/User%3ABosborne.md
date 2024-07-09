@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ABosborne</span>
+# <span dir="auto">User%253ABosborne</span>
 
 
 
@@ -30,8 +30,8 @@ rel="nofollow">BioTeam</a>. Brian works with clients to deliver
 solutions to challenges in high performance computing, informatics, and
 next-generation sequencing.
 
-See <a href="http://www.bioperl.org/wiki/User%3ABrian" class="extiw"
-title="bp:User%3ABrian">Brian's BioPerl page</a> for more about Brian.
+See <a href="http://www.bioperl.org/wiki/User%253ABrian" class="extiw"
+title="bp:User%253ABrian">Brian's BioPerl page</a> for more about Brian.
 
 
 
@@ -67,8 +67,8 @@ title="bp:User%3ABrian">Brian's BioPerl page</a> for more about Brian.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -91,7 +91,7 @@ title="bp:User%3ABrian">Brian's BioPerl page</a> for more about Brian.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ABosborne" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ABosborne" rel="smw-browse">Browse
   properties</a></span>
 
 

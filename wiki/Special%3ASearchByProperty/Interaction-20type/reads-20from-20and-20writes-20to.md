@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Interaction
-type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
+type](/wiki/Property%253AInteraction_type "Property:Interaction type")" with
 value "reads from and writes to"  
 
 - [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

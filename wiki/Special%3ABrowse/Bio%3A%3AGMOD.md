@@ -16,18 +16,18 @@
 
 |                                          |     |
 |------------------------------------------|-----|
-| [Bio%3A%3AGMOD](/wiki/Bio%3A%3AGMOD "Bio%3A%3AGMOD") |     |
+| [Bio%253A%253AGMOD](/wiki/Bio%253A%253AGMOD "Bio%253A%253AGMOD") |     |
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Unsupported](/wiki/Category%3AUnsupported "Category%3AUnsupported")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Unsupported "Special%3ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%3APerl "Category%3APerl")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Perl "Special%3ASearchByProperty/Perl")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">28 December 2007 18:44:06  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/28-20December-202007-2018:44:06 "Special%3ASearchByProperty/Modification-20date/28-20December-202007-2018:44:06")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Unsupported](/wiki/Category%253AUnsupported "Category%253AUnsupported")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Unsupported "Special%253ASearchByProperty/Unsupported")</span></span> , <span class="smwb-value">[Perl](/wiki/Category%253APerl "Category%253APerl")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Perl "Special%253ASearchByProperty/Perl")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">28 December 2007 18:44:06  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/28-20December-202007-2018:44:06 "Special%253ASearchByProperty/Modification-20date/28-20December-202007-2018:44:06")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Bio%3A%3AGMOD)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Bio%253A%253AGMOD)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Bio%3A%3AGMOD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Bio%253A%253AGMOD "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

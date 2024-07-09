@@ -513,11 +513,11 @@ should be sure to include:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -531,7 +531,7 @@ should be sure to include:
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AInterface_test" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AInterface_test" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -555,8 +555,8 @@ should be sure to include:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

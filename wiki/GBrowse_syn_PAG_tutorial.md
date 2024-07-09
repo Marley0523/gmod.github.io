@@ -19,11 +19,11 @@
 
   
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through how to install and configure the
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") comparative genomics viewer.
 This tutorial was originally taught by [Sheldon
-McKay](User%3AMckays "User%3AMckays") at the 2009 [GMOD
+McKay](User%253AMckays "User%253AMckays") at the 2009 [GMOD
 Schools](GMOD_Schools "GMOD Schools") -
 [Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe")
 &
@@ -137,7 +137,7 @@ machine.</strong></em></p></td>
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -191,8 +191,8 @@ We will setup up a five-genome database if time permits.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

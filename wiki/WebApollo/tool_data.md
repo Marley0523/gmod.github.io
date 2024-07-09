@@ -68,12 +68,12 @@ rel="nofollow">JBrowse client source on github</a>
 
 
 - [GMOD in the
-  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- [Webapollo](../Category%3AWebapollo "Category%3AWebapollo")
-- [Annotation](../Category%3AAnnotation "Category%3AAnnotation")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+  Cloud](../Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
+- [Webapollo](../Category%253AWebapollo "Category%253AWebapollo")
+- [Annotation](../Category%253AAnnotation "Category%253AAnnotation")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -110,8 +110,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

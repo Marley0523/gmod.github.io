@@ -43,9 +43,9 @@ the JBrowseDev/Upcoming namespace. For example, a page you want to call
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3ARSCummings" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253ARSCummings" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3ARSCummings" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253ARSCummings" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -69,8 +69,8 @@ the JBrowseDev/Upcoming namespace. For example, a page you want to call
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

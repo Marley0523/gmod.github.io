@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Tools</span>
+# <span dir="auto">Category%253AGMOD Tools</span>
 
 
 
@@ -18,7 +18,7 @@
 
 
 This category uses the form [Component
-information](Form%3AComponent_information "Form:Component information").
+information](Form%253AComponent_information "Form:Component information").
 
 
 ## Pages in category "GMOD Tools"
@@ -46,12 +46,12 @@ The following 2 pages are in this category, out of 2 total.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Tools](Special%253ABrowse/Category%3AGMOD-20Tools "Special%253ABrowse/Category%3AGMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:ExportRDF/Category%3AGMOD Tools")</span></span>
+Tools](Special%253ABrowse/Category%253AGMOD-20Tools "Special%253ABrowse/Category%253AGMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Category%253AGMOD_Tools "Special:ExportRDF/Category%253AGMOD Tools")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form%3AComponent_information "Form:Component information") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Component-20information "Special%3ASearchByProperty/Has-20default-20form/Component-20information")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%253AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Component information](Form%253AComponent_information "Form:Component information") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20default-20form/Component-20information "Special%253ASearchByProperty/Has-20default-20form/Component-20information")</span> |
 
 
 
@@ -85,8 +85,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -109,7 +109,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Tools "Special:Expo
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Tools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Tools" rel="smw-browse">Browse
   properties</a></span>
 
 

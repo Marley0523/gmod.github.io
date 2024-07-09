@@ -160,7 +160,7 @@ assembly and subsequent analysis have resulted in:
 # <span id="ParameciumDB" class="mw-headline">ParameciumDB</span>
 
 ParameciumDB is maintained by two people, [Linda
-Sperling](User%3ASperling "User%3ASperling") and Olivier Arnaiz at the
+Sperling](User%253ASperling "User%253ASperling") and Olivier Arnaiz at the
 <a href="http://www.cgm.cnrs-gif.fr/version_gb/index_gb.html"
 class="external text" rel="nofollow">Centre de Genetique Moleculaire</a>,
 a part of the
@@ -328,7 +328,7 @@ community for annotation of the gene models. They use
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User%3ASperling "User%3ASperling") presentation at the
+  Sperling's](User%253ASperling "User%253ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
@@ -338,7 +338,7 @@ community for annotation of the gene models. They use
 
 The <a href="http://paramecium.cgm.cnrs-gif.fr/chadoapi/"
 class="external text" rel="nofollow">Bio::Chado API</a> is Perl
-[Category%3Amiddleware](Category%3AMiddleware "Category%3AMiddleware") module
+[Category%253Amiddleware](Category%253AMiddleware "Category%253AMiddleware") module
 for working with
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> databases.
 It was developed specifically for the
@@ -402,7 +402,7 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
   class="internal" title="CommunityAnnotationNov2007.pdf">Community
   Annotation at ParameciumDB</a> - [Linda
-  Sperling's](User%3ASperling "User%3ASperling") presentation at the
+  Sperling's](User%253ASperling "User%253ASperling") presentation at the
   [November 2007 GMOD
   Meeting](November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf"
@@ -412,11 +412,11 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [ParameciumDB](Category%3AParameciumDB "Category%3AParameciumDB")
+- [ParameciumDB](Category%253AParameciumDB "Category%253AParameciumDB")
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -450,8 +450,8 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

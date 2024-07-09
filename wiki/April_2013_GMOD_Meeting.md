@@ -63,13 +63,13 @@ meeting</a>
 ### <span id="Friday_5th_April" class="mw-headline">Friday 5th April</span>
 
 **State of the GMOD Project**, including GBrowse and Chado updates
-([Scott](User%3AScott "User%3AScott"))
+([Scott](User%253AScott "User%253AScott"))
 
 - <a href="http://www.youtube.com/watch?v=_Q17wcQB5-o"
   class="external text" rel="nofollow">Video (audio + slides)</a>
 
 **GMODsurveyome redux** ([Amelia
-Ireland](User%3AGirlwithglasses "User%3AGirlwithglasses"))
+Ireland](User%253AGirlwithglasses "User%253AGirlwithglasses"))
 
 - <a href="../tour/tour-0.html" class="external text" rel="nofollow">A
   tour of the GMOD community</a>
@@ -86,7 +86,7 @@ rel="nofollow">Manuel Corpas</a>)
   framework for biological data visualization</a>
 
 **Community Building and Maintenance** ([Dave
-Clements](User%3AClements "User%3AClements"))
+Clements](User%253AClements "User%253AClements"))
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/GMOD2013_CommunityBuilding.pdf"
   class="internal" title="GMOD2013 CommunityBuilding.pdf">Slides</a>
@@ -138,25 +138,25 @@ rel="nofollow">Manuel Corpas</a>)
   class="external text" rel="nofollow">Slides</a>
 
 **[JBrowse](JBrowse.1 "JBrowse")** ([Gregg
-Helt](User%3AGreggHelt2 "User%3AGreggHelt2"))
+Helt](User%253AGreggHelt2 "User%253AGreggHelt2"))
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/GMOD2013_JBrowse.pdf" class="internal"
   title="GMOD2013 JBrowse.pdf">Slides</a>
 
 **[WebApollo](WebApollo.1 "WebApollo")** ([Moni
-Munoz-Torres](User%3AMoni "User%3AMoni"))
+Munoz-Torres](User%253AMoni "User%253AMoni"))
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/GMOD2013_WebApollo.pptx"
   class="internal" title="GMOD2013 WebApollo.pptx">Slides</a>
 
 **[Galaxy](Galaxy.1 "Galaxy")** Project Update ([Dave
-Clements](User%3AClements "User%3AClements"))
+Clements](User%253AClements "User%253AClements"))
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/GMOD2013_GalaxyUpdate.pdf"
   class="internal" title="GMOD2013 GalaxyUpdate.pdf">Slides</a>
 
 **[InterMine](InterMine "InterMine")** ([Alex
-Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis"))
+Kalderimis](User%253AAlexkalderimis "User%253AAlexkalderimis"))
 
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/GMOD2013_InterMine.pdf"
   class="internal" title="GMOD2013 InterMine.pdf">Slides</a>
@@ -166,7 +166,7 @@ Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis"))
 **FlyBase update** (Josh Goodman)
 
 **WormBase - some notes on running a MOD in the cloud** ([Todd
-Harris](User%3ATharris "User%3ATharris"))
+Harris](User%253ATharris "User%253ATharris"))
 
 **What <a href="http://geneontology.org" class="external text"
 rel="nofollow">the Gene Ontology</a> can do for you** (Jane Lomax)
@@ -190,7 +190,7 @@ class="external text" rel="nofollow">TAIR PLAIN</a>** (Bob Muller)
 
 **<a href="https://github.com/intermine/demeter" class="external text"
 rel="nofollow">Demeter</a>: A data-harvester for biological sources**
-([Alex Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis"))
+([Alex Kalderimis](User%253AAlexkalderimis "User%253AAlexkalderimis"))
 
 **Banana Genome Hub** (Delphine Larivière)
 
@@ -200,7 +200,7 @@ rel="nofollow">Demeter</a>: A data-harvester for biological sources**
   
 **<a href="http://wiki.galaxyproject.org/CloudMan" class="external text"
 rel="nofollow">Galaxy CloudMan</a> Workshop** ([Dave
-Clements](User%3AClements "User%3AClements"))
+Clements](User%253AClements "User%253AClements"))
 
 ## <span id="Remote_Attendance" class="mw-headline">Remote Attendance</span>
 
@@ -221,9 +221,9 @@ improvement for next time.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -257,8 +257,8 @@ improvement for next time.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

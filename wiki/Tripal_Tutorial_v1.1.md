@@ -27,7 +27,7 @@ width="250" height="75" alt="Tripal" />
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User%3ASficklin "User%3ASficklin") at the [2013 GMOD Summer
+Ficklin](User%253ASficklin "User%253ASficklin") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School"), July 2013.
 The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
@@ -2329,9 +2329,9 @@ Enter the following values for the fields:
 - URL: <a href="http://www.phytozome.net/" class="external free"
   rel="nofollow">http://www.phytozome.net/</a>
 - URL prefix: <a
-  href="http://www.phytozome.net/genePage.php?search=1&amp;detail=1&amp;er=1&amp;crown&amp;method=0&amp;searchText=transcriptid%3A"
+  href="http://www.phytozome.net/genePage.php?search=1&amp;detail=1&amp;er=1&amp;crown&amp;method=0&amp;searchText=transcriptid%253A"
   class="external free"
-  rel="nofollow">http://www.phytozome.net/genePage.php?search=1&amp;detail=1&amp;er=1&amp;crown&amp;method=0&amp;searchText=transcriptid%3A</a>
+  rel="nofollow">http://www.phytozome.net/genePage.php?search=1&amp;detail=1&amp;er=1&amp;crown&amp;method=0&amp;searchText=transcriptid%253A</a>
 
 The URL prefix is important as it will be used to create the links on
 our gene pages. Our gene name will be appended to this URL to create the
@@ -2384,7 +2384,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_v1.1 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Tripal "Special%253ASearchByProperty/Has-20topic/Tripal")</span> |
 
 
 
@@ -2418,8 +2418,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_v1.1 "Special:Expor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

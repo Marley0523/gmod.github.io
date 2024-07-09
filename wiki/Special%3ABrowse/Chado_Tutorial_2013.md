@@ -20,9 +20,9 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20-2D-20Getting-20Started "Special%253ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 May 2014 12:36:14  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/20-20May-202014-2012:36:14 "Special%3ASearchByProperty/Modification-20date/20-20May-202014-2012:36:14")</span></span> |
+| [Has topic](/wiki/Property%253AHas_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20-2D-20Getting-20Started "Special%253ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%253ATutorials "Category%253ATutorials")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorials "Special%253ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%253AChado "Category%253AChado")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado "Special%253ASearchByProperty/Chado")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 May 2014 12:36:14  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/20-20May-202014-2012:36:14 "Special%253ASearchByProperty/Modification-20date/20-20May-202014-2012:36:14")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

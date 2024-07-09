@@ -74,8 +74,8 @@ width="120" height="86" alt="Gmod-gears.png" /></a>
 We’ve got an assembly! Now What?**
 
 Thursday, June 9, 4:00-6:00pm, [Scott
-Cain](/wiki/User%3AScott "User%3AScott"), [Dave
-Clements](/wiki/User%3AClements "User%3AClements")
+Cain](/wiki/User%253AScott "User%253AScott"), [Dave
+Clements](/wiki/User%253AClements "User%253AClements")
 
 This workshop will demonstrate open source bioinformatics tools from the
 GMOD project that transform unannotated genome assemblies into online
@@ -100,7 +100,7 @@ width="140" height="45" alt="GBrowse syn logo.png" />](/wiki/GBrowse_syn "GBrows
 
 
 Saturday, June 11, 10:30-12:00pm, [Sheldon
-McKay](/wiki/User%3AMckays "User%3AMckays")
+McKay](/wiki/User%253AMckays "User%253AMckays")
 
 How to configure and use the example multiple sequence alignment data
 set installed with [GBrowse_syn](/wiki/GBrowse_syn "GBrowse syn") as
@@ -116,7 +116,7 @@ please add it here.
 
 | Date | Time | Title | Presenter |
 |----|----|----|----|
-| Friday June 10 | 9:30 | *A community-centric bioinformatic infrastructure for new genome consortia* | [Alexie Papanicolaou](/wiki/User%3AAlpapan "User%3AAlpapan") |
+| Friday June 10 | 9:30 | *A community-centric bioinformatic infrastructure for new genome consortia* | [Alexie Papanicolaou](/wiki/User%253AAlpapan "User%253AAlpapan") |
 
 ## <span id="Posters" class="mw-headline">Posters</span>
 
@@ -127,7 +127,7 @@ please add it here.
 |----|----|----|----|
 | 4 | *The* Heliconius melpomene *genome project: the complete genomic sequencing of the long-wing passion-flower butterfly* | James R. Walters | [MAKER](/wiki/MAKER "MAKER") |
 | 31 | *ArthropodaCyc: a BioCyc database powered by CycADS to study and compare the metabolism of arthropods* | Stefano Colella | [Pathway Tools](/wiki/Pathway_Tools "Pathway Tools") |
-| 37 | *A community-centric bioinformatic infrastructure for new genome consortia* | [Alexie Papanicolaou](/wiki/User%3AAlpapan "User%3AAlpapan") | <a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a>, [est2assembly](/wiki/Est2assembly "Est2assembly"), <a href="/wiki/Gmod_dbsf" class="mw-redirect"
+| 37 | *A community-centric bioinformatic infrastructure for new genome consortia* | [Alexie Papanicolaou](/wiki/User%253AAlpapan "User%253AAlpapan") | <a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a>, [est2assembly](/wiki/Est2assembly "Est2assembly"), <a href="/wiki/Gmod_dbsf" class="mw-redirect"
 title="Gmod dbsf">gmod_dbsf</a>, [genes4all](/wiki/Genes4all "Genes4all") |
 
 ## <span id="Brochure" class="mw-headline">Brochure</span>
@@ -139,9 +139,9 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 
-[Category](/wiki/Special%3ACategories "Special%3ACategories"):
+[Category](/wiki/Special%253ACategories "Special%253ACategories"):
 
-- [Conferences](/wiki/Category%3AConferences "Category%3AConferences")
+- [Conferences](/wiki/Category%253AConferences "Category%253AConferences")
 
 
 
@@ -177,8 +177,8 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

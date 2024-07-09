@@ -18,7 +18,7 @@
 
 
 This [JBrowse](../JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](../User%3AScott "User%3AScott") at [GMOD Malaysia
+Cain](../User%253AScott "User%253AScott") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014. This
 tutorial requires JBrowse version 1.11.x.
 
@@ -550,11 +550,11 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- [JBrowse](../Category%3AJBrowse "Category%3AJBrowse")
-- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
+- [JBrowse](../Category%253AJBrowse "Category%253AJBrowse")
+- [GMOD Schools](../Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -565,7 +565,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/JBrowse_Tutorial
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [JBrowse](../JBrowse.1 "JBrowse") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [JBrowse](../JBrowse.1 "JBrowse") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/JBrowse "Special%253ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 
 
@@ -604,8 +604,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

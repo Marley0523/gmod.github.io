@@ -123,10 +123,10 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
     ncRNA            72 24089.3611111111
     three_prime_UTR  1385   569.969675090253
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [SOBA](Category%3ASOBA "Category%3ASOBA")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [SOBA](Category%253ASOBA "Category%253ASOBA")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 ## Navigation menu
 
@@ -140,8 +140,8 @@ SOBAcl --columns file   --rows type --data length --data_type mean  --layout tab
 ### Documentation
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 ### Community

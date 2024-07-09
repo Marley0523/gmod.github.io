@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property
-"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
+"[Subject](/wiki/Property%253ASubject "Property%253ASubject")" with value
 "[Tripal](/wiki/Tripal "Tripal")"  
 
 - [Tripal](/wiki/Tripal#_780a3bd63980716b96e285070f997e2a "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal-23_780a3bd63980716b96e285070f997e2a "Special%253ABrowse/Tripal-23 780a3bd63980716b96e285070f997e2a")</span>
@@ -41,7 +41,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Subject/Tripal "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Subject/Tripal "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -67,8 +67,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

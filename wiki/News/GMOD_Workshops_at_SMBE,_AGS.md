@@ -53,10 +53,10 @@ href="../Apollo.1" title="Apollo">Apollo</a> genome curation tool. The
 workshop will also cover, in some depth, the <a href="../GBrowse_syn.1"
 title="GBrowse syn">GBrowse_syn</a> comparative genomics viewer, and the
 <a href="../MAKER.1" title="MAKER">MAKER</a> genome annotation pipeline
-for eukaryotes. Speakers (<a href="../User%3AFaga" title="User%3AFaga">Ben
-Faga</a>, <a href="../User%3AMckays" title="User%3AMckays">Sheldon
-McKay</a>, Mark Yandell, and <a href="../User%3AClements"
-title="User%3AClements">Dave Clements</a>) will address both existing
+for eukaryotes. Speakers (<a href="../User%253AFaga" title="User%253AFaga">Ben
+Faga</a>, <a href="../User%253AMckays" title="User%253AMckays">Sheldon
+McKay</a>, Mark Yandell, and <a href="../User%253AClements"
+title="User%253AClements">Dave Clements</a>) will address both existing
 functionality and ongoing developments specifically targeted at better
 supporting evolutionary data and research. No knowledge of programming
 is necessary.</p></td>
@@ -76,7 +76,7 @@ Kansas City, Missouri</td>
 class="external text" rel="nofollow">Chado Databases and Integration
 with GMOD Tools</a></strong><br />
 &#10;<p>Pre-Symposium Workshop - Thursday, June 11, 4:30-6:30 p.m.<br />
-<a href="../User%3AScott" title="User%3AScott">Scott Cain</a>, Ontario
+<a href="../User%253AScott" title="User%253AScott">Scott Cain</a>, Ontario
 Institute for Cancer Research, will provide training on <a
 href="../Chado" class="mw-redirect" title="Chado">Chado</a> database
 design, data loading and exporting, and integration with other GMOD
@@ -88,13 +88,13 @@ this optional workshop, but registration is requested.</p></td>
 </tbody>
 </table>
 
-Please let [Dave](../User%3AClements "User%3AClements") (SMBE) or
-[Scott](../User%3AScott "User%3AScott") (AGS) know if you have any questions
+Please let [Dave](../User%253AClements "User%253AClements") (SMBE) or
+[Scott](../User%253AScott "User%253AScott") (AGS) know if you have any questions
 about the workshops.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -108,9 +108,9 @@ Thanks,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -149,8 +149,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

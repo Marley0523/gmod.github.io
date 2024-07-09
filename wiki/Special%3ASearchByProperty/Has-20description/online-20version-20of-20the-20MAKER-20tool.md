@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-description](/wiki/Property%3AHas_description "Property:Has description")"
+description](/wiki/Property%253AHas_description "Property:Has description")"
 with value "online version of the MAKER tool"  
 
 - [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20description/online-20version-20of-20the-20MAKER-20tool "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20description/online-20version-20of-20the-20MAKER-20tool "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

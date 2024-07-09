@@ -29,8 +29,8 @@ As always, see the updated [JBrowse Configuration
 Guide](../JBrowse_Configuration_Guide "JBrowse Configuration Guide") for
 documentation on how to use the new features.
 
-[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels")
-([talk](../User_talk%3ARobertBuels "User talk:RobertBuels"))
+[RobertBuels](../User%253ARobertBuels "User%253ARobertBuels")
+([talk](../User_talk%253ARobertBuels "User talk:RobertBuels"))
 
   
 
@@ -43,9 +43,9 @@ documentation on how to use the new features.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -84,8 +84,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

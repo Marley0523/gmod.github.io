@@ -19,7 +19,7 @@
 
 This [GBrowse](GBrowse.1 "GBrowse") tutorial was taught at the [2012
 GMOD Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School")
-by [Scott Cain](User%3AScott "User%3AScott").
+by [Scott Cain](User%253AScott "User%253AScott").
 
 To follow along with the tutorial, you will need to use **AMI ID:
 ami-5bab1c32, name: GMOD 2012 day 4 start**, available in the US East
@@ -331,7 +331,7 @@ so, we need to run another script that comes with Bio::DB::Das::Chado:
 
 This does several things (including poorly estimating how long it will
 take to finish), including creating materialized views, using a tool
-provided by [SOL Genomics Network (SGN)](Category%3ASGN "Category%3ASGN").
+provided by [SOL Genomics Network (SGN)](Category%253ASGN "Category%253ASGN").
 In practice, it would be a good idea to read the documentation of
 `gmod_materialized_view_tool.pl` for information on keeping the view up
 to date.
@@ -347,13 +347,13 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
 
 
@@ -364,7 +364,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_Tutorial_2012 "Special:Expo
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/GBrowse "Special%253ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 
 
@@ -398,8 +398,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_Tutorial_2012 "Special:Expo
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

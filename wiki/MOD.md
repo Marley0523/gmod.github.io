@@ -42,10 +42,10 @@ Users](GMOD_Users "GMOD Users") page.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [FAQ](Category%3AFAQ "Category%3AFAQ")
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [FAQ](Category%253AFAQ "Category%253AFAQ")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -79,8 +79,8 @@ Users](GMOD_Users "GMOD Users") page.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

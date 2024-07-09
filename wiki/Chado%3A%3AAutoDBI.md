@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Chado%3A%3AAutoDBI</span>
+# <span dir="auto">Chado%253A%253AAutoDBI</span>
 
 
 
@@ -37,12 +37,12 @@
 
 ## <span id="Description" class="mw-headline">Description</span>
 
-Chado%3A%3AAutoDBI is a middleware package based on Class::DBI and maps Perl
+Chado%253A%253AAutoDBI is a middleware package based on Class::DBI and maps Perl
 objects directly to tables in the Chado schema. It provides a very easy
 Perl interface for access to the database. It is currently used as a
 bulk loader for the Chado database, and as the underlying
 Object-Relational Mapping (ORM) tool in [Modware](Modware "Modware").
-Chado%3A%3AAutoDBI is automatically generated from the Chado database schema
+Chado%253A%253AAutoDBI is automatically generated from the Chado database schema
 which makes it very easy to update when changes are made. This code
 autogeneration process was adapted from the [Turnkey](Turnkey "Turnkey")
 project which is a generic ORM/website code generation tool.
@@ -58,10 +58,10 @@ project which is a generic ORM/website code generation tool.
 
 ## <span id="Documentation" class="mw-headline">Documentation</span>
 
-- [Chado%3A%3AAutoDBI
-  Presentation](Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation")
+- [Chado%253A%253AAutoDBI
+  Presentation](Chado%253A%253AAutoDBI_Presentation "Chado%253A%253AAutoDBI Presentation")
 - [GMOD Middleware](GMOD_Middleware "GMOD Middleware") - discusses
-  different packages, contains section on Chado%3A%3AAutoDBI
+  different packages, contains section on Chado%253A%253AAutoDBI
 
   
 
@@ -72,7 +72,7 @@ rel="nofollow">Scott Cain cain.cshl@gmail.com</a>
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
-Chado%3A%3AAutoDBI is part of the Chado package. You can download the latest
+Chado%253A%253AAutoDBI is part of the Chado package. You can download the latest
 stable Chado at
 <a href="http://sourceforge.net/project/showfiles.php?group_id=27707"
 class="external free"
@@ -82,12 +82,12 @@ the name of the package is **gmod**.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [Perl](Category%3APerl "Category%3APerl")
+- [Chado](Category%253AChado "Category%253AChado")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [Perl](Category%253APerl "Category%253APerl")
 
 
 
@@ -121,8 +121,8 @@ the name of the package is **gmod**.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -145,7 +145,7 @@ the name of the package is **gmod**.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%3A%3AAutoDBI" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%253A%253AAutoDBI" rel="smw-browse">Browse
   properties</a></span>
 
 

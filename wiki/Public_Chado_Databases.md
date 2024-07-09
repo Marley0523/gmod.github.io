@@ -44,7 +44,7 @@ These projects provide
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database
 dumps that you can copy and learn from.
 
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase"):
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase"):
   <a href="ftp://ftp.flybase.org/releases/current/psql/"
   class="external free"
   rel="nofollow">ftp://ftp.flybase.org/releases/current/psql/</a> -
@@ -53,7 +53,7 @@ dumps that you can copy and learn from.
   <a href="http://paramecium.cgm.cnrs-gif.fr/download/sql/"
   class="external free"
   rel="nofollow">http://paramecium.cgm.cnrs-gif.fr/download/sql/</a>
-- [Yeast](Category%3ASGD "Category%3ASGD"):
+- [Yeast](Category%253ASGD "Category%253ASGD"):
   <a href="http://sgdlite.princeton.edu/download/sgdlite/"
   class="external free"
   rel="nofollow">http://sgdlite.princeton.edu/download/sgdlite/</a>
@@ -98,12 +98,12 @@ e.g.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [ParameciumDB](Category%3AParameciumDB "Category%3AParameciumDB")
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-- [SGD](Category%3ASGD "Category%3ASGD")
-- [Chado](Category%3AChado "Category%3AChado")
+- [ParameciumDB](Category%253AParameciumDB "Category%253AParameciumDB")
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
+- [SGD](Category%253ASGD "Category%253ASGD")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -137,8 +137,8 @@ e.g.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

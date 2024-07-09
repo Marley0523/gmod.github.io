@@ -21,13 +21,13 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[SOBA](/wiki/SOBA "SOBA") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span></span> |
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[SOBA](/wiki/Category%3ASOBA "Category%3ASOBA")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SOBA "Special%3ASearchByProperty/SOBA")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[2012 Summer School](/wiki/Category%3A2012_Summer_School "Category%3A2012 Summer School")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2012-20Summer-20School "Special%3ASearchByProperty/2012-20Summer-20School")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
+| [Has topic](/wiki/Property%253AHas_topic "Property:Has topic") | <span class="smwb-value">[SOBA](/wiki/SOBA "SOBA") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[SOBA](/wiki/Category%253ASOBA "Category%253ASOBA")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/SOBA "Special%253ASearchByProperty/SOBA")</span></span> , <span class="smwb-value">[Tutorials](/wiki/Category%253ATutorials "Category%253ATutorials")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorials "Special%253ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[2012 Summer School](/wiki/Category%253A2012_Summer_School "Category%253A2012 Summer School")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/2012-20Summer-20School "Special%253ASearchByProperty/2012-20Summer-20School")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253A2013_Summer_School&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3A2013 Summer School (page does not exist)">2013 Summer
-School</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2013-20Summer-20School "Special%3ASearchByProperty/2013-20Summer-20School")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 August 2013 20:52:32  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/27-20August-202013-2020:52:32 "Special%3ASearchByProperty/Modification-20date/27-20August-202013-2020:52:32")</span></span> |
+title="Category%253A2013 Summer School (page does not exist)">2013 Summer
+School</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/2013-20Summer-20School "Special%253ASearchByProperty/2013-20Summer-20School")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 August 2013 20:52:32  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/27-20August-202013-2020:52:32 "Special%253ASearchByProperty/Modification-20date/27-20August-202013-2020:52:32")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -88,8 +88,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

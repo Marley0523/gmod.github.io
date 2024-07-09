@@ -372,7 +372,7 @@ href="Glossary#AJAX" title="Glossary">AJAX</a> code in <a
 href="http://www.sanger.ac.uk/Software/analysis/lookseq/"
 class="external text" rel="nofollow">Lookseq</a> could be integrated
 into <a href="JBrowse.1" title="JBrowse">JBrowse</a> or <a
-href="Category%3AGBrowse_2" title="Category%3AGBrowse 2">Gbrowse2</a>.</td>
+href="Category%253AGBrowse_2" title="Category%253AGBrowse 2">Gbrowse2</a>.</td>
 <td><a href="http://www.sanger.ac.uk/Software/analysis/lookseq/"
 class="external text" rel="nofollow">Lookseq</a></td>
 </tr>
@@ -1413,9 +1413,9 @@ here.
   [GBrowse](GBrowse.1 "GBrowse") and documentation of track
   configuration and additional data type adding are core requirements
   that could be made better. Although I haven't used [GBrowse
-  2](Category%3AGBrowse_2 "Category%3AGBrowse 2") it sounds like the
+  2](Category%253AGBrowse_2 "Category%253AGBrowse 2") it sounds like the
   performance element is being addressed.
-- User [GBrowse v2](Category%3AGBrowse_2 "Category%3AGBrowse 2") Tutorial?
+- User [GBrowse v2](Category%253AGBrowse_2 "Category%253AGBrowse 2") Tutorial?
 - part of my job takes place on an academic expression platform. I have
   to deal with expression microarray analyzes comming from 2 colors
   arrays and also from RNA-Seq and ChIP-Seq experiments. We use to give
@@ -1608,11 +1608,11 @@ like to provide, please tell us here.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -1646,8 +1646,8 @@ like to provide, please tell us here.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

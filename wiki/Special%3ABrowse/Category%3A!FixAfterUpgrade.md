@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3A!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253A!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3A!FixAfterUpgrade (page does not exist)">Category%3A!FixAfterUpgrade</a> |  |
+title="Category%253A!FixAfterUpgrade (page does not exist)">Category%253A!FixAfterUpgrade</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3A!FixAfterUpgrade (page does not exist)">Category%3A!FixAfterUp
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3A%21FixAfterUpgrade)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253A%21FixAfterUpgrade)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD News Archives](/wiki/GMOD_News_Archives "GMOD News Archives") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20News-20Archives "Special%253ABrowse/GMOD-20News-20Archives")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD News Archives](/wiki/GMOD_News_Archives "GMOD News Archives") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20News-20Archives "Special%253ABrowse/GMOD-20News-20Archives")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3A!FixAfterUpgrade "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253A!FixAfterUpgrade "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

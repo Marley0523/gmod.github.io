@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3APages with problems or questions</span>
+# <span dir="auto">Category%253APages with problems or questions</span>
 
 
 
@@ -37,7 +37,7 @@ The following 6 pages are in this category, out of 6 total.
   Directory](Installing_GBrowse2_in_your_Home_Directory "Installing GBrowse2 in your Home Directory")
 - [Introduction to Chado](Introduction_to_Chado "Introduction to Chado")
 - [Talk:Introduction to
-  Chado](Talk%3AIntroduction_to_Chado "Talk:Introduction to Chado")
+  Chado](Talk%253AIntroduction_to_Chado "Talk:Introduction to Chado")
 
 ### S
 
@@ -49,9 +49,9 @@ The following 6 pages are in this category, out of 6 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
+- [GMOD Web Site](Category%253AGMOD_Web_Site "Category%253AGMOD Web Site")
 
 
 
@@ -85,8 +85,8 @@ The following 6 pages are in this category, out of 6 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -109,7 +109,7 @@ The following 6 pages are in this category, out of 6 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3APages_with_problems_or_questions"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253APages_with_problems_or_questions"
   rel="smw-browse">Browse properties</a></span>
 
 

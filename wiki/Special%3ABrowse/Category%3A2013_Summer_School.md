@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3A2013_Summer_School&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253A2013_Summer_School&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3A2013 Summer School (page does not exist)">Category%3A2013
+title="Category%253A2013 Summer School (page does not exist)">Category%253A2013
 Summer School</a> |  |
 
 |     |                                |
@@ -30,11 +30,11 @@ Summer School</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3A2013+Summer+School)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253A2013+Summer+School)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[2013 GMOD Summer School](/wiki/2013_GMOD_Summer_School "2013 GMOD Summer School") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/2013-20GMOD-20Summer-20School "Special%253ABrowse/2013-20GMOD-20Summer-20School")</span></span> , <span class="smwb-ivalue">[AWS walkthrough](/wiki/AWS_walkthrough "AWS walkthrough") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/AWS-20walkthrough "Special%253ABrowse/AWS-20walkthrough")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2012](/wiki/Chado_Tutorial_2012 "Chado Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202012 "Special%253ABrowse/Chado-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF3](/wiki/GFF3 "GFF3") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF3 "Special%253ABrowse/GFF3")</span></span> , <span class="smwb-ivalue">[News/2013 Summer School Tutorials Available](/wiki/News/2013_Summer_School_Tutorials_Available "News/2013 Summer School Tutorials Available") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2F2013-20Summer-20School-20Tutorials-20Available "Special%253ABrowse/News-2F2013-20Summer-20School-20Tutorials-20Available")</span></span> , <span class="smwb-ivalue">[News/Accepting Applications For GMOD Summer School 2013](/wiki/News/Accepting_Applications_For_GMOD_Summer_School_2013 "News/Accepting Applications For GMOD Summer School 2013") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FAccepting-20Applications-20For-20GMOD-20Summer-20School-202013 "Special%253ABrowse/News-2FAccepting-20Applications-20For-20GMOD-20Summer-20School-202013")</span></span> , <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA-20Tutorial-202012 "Special%253ABrowse/SOBA-20Tutorial-202012")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[2013 GMOD Summer School](/wiki/2013_GMOD_Summer_School "2013 GMOD Summer School") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/2013-20GMOD-20Summer-20School "Special%253ABrowse/2013-20GMOD-20Summer-20School")</span></span> , <span class="smwb-ivalue">[AWS walkthrough](/wiki/AWS_walkthrough "AWS walkthrough") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/AWS-20walkthrough "Special%253ABrowse/AWS-20walkthrough")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2012](/wiki/Chado_Tutorial_2012 "Chado Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202012 "Special%253ABrowse/Chado-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF3](/wiki/GFF3 "GFF3") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF3 "Special%253ABrowse/GFF3")</span></span> , <span class="smwb-ivalue">[News/2013 Summer School Tutorials Available](/wiki/News/2013_Summer_School_Tutorials_Available "News/2013 Summer School Tutorials Available") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2F2013-20Summer-20School-20Tutorials-20Available "Special%253ABrowse/News-2F2013-20Summer-20School-20Tutorials-20Available")</span></span> , <span class="smwb-ivalue">[News/Accepting Applications For GMOD Summer School 2013](/wiki/News/Accepting_Applications_For_GMOD_Summer_School_2013 "News/Accepting Applications For GMOD Summer School 2013") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FAccepting-20Applications-20For-20GMOD-20Summer-20School-202013 "Special%253ABrowse/News-2FAccepting-20Applications-20For-20GMOD-20Summer-20School-202013")</span></span> , <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA-20Tutorial-202012 "Special%253ABrowse/SOBA-20Tutorial-202012")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3A2013_Summer_School "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253A2013_Summer_School "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -84,8 +84,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

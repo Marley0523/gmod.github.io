@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse</span>
+# <span dir="auto">Talk%253AGBrowse</span>
 
 
 
@@ -18,11 +18,11 @@
 
 
 I'm going to work intermittently on a
-[draft](User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse") for reorganizing the
+[draft](User%253AJimHu/Gbrowse "User%253AJimHu/Gbrowse") for reorganizing the
 Gbrowse documentation. My plan is to build it in my user namespace and
 show it to Dave to see if he wants to use it to replace the main docs.
 Since this is a wiki, others are welcome to modify what I'm doing.
---[JimHu](User%3AJimHu.1 "User%3AJimHu") 19:51, 10 August 2010 (UTC)
+--[JimHu](User%253AJimHu.1 "User%253AJimHu") 19:51, 10 August 2010 (UTC)
 
 
 
@@ -38,7 +38,7 @@ Since this is a wiki, others are welcome to modify what I'm doing.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -62,8 +62,8 @@ Since this is a wiki, others are welcome to modify what I'm doing.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

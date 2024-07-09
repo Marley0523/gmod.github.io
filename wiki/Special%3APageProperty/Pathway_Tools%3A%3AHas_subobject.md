@@ -18,19 +18,19 @@
 
 - [Pathway
   Tools#http://biocyc.org/otherpgdbs.shtml](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2Fotherpgdbs.shtml "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
 - [Pathway
   Tools#http://biocyc.org/ECOLI/](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2FECOLI.2F "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2FECOLI-2F "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2FECOLI-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2FECOLI-2F "Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2FECOLI-2F")</span>
 - [Pathway
   Tools#http://biocyc.org/](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2F "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2F "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2F "Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2F")</span>
 - [Pathway
   Tools#http://bioinformatics.ai.sri.com/ptools/](/wiki/Pathway_Tools#http:.2F.2Fbioinformatics.ai.sri.com.2Fptools.2F "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>
 - [Pathway
   Tools#http://biocyc.org/download.shtml](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2Fdownload.shtml "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fdownload.shtml "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fdownload.shtml")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2Fdownload.shtml "Special%253ABrowse/Pathway-20Tools-23http%253A-2F-2Fbiocyc.org-2Fdownload.shtml")</span>
 
  
 
@@ -50,7 +50,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/Pathway_Tools%3A%3AHas_subobject "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/Pathway_Tools%253A%253AHas_subobject "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -76,8 +76,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

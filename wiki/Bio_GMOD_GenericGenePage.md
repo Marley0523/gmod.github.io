@@ -17,19 +17,19 @@
 
 
 
-Bio%3A%3AGMOD::GenericGenePage is an abstract
+Bio%253A%253AGMOD::GenericGenePage is an abstract
 [Perl](Glossary#Perl "Glossary") class that provides a render_xml method
 to crete [Common Gene Page](Common_Gene_Page "Common Gene Page")
 [XML](Glossary#XML "Glossary"), but does not fetch the data. In order to
 effectively use this module, you need to subclass it and implement all
 of the methods that are listed under ABSTRACT CLASSES below for your
 database. These abstract methods are responsible for providing
-Bio%3A%3AGMOD::GenericGenePage with the data to create the XML.
+Bio%253A%253AGMOD::GenericGenePage with the data to create the XML.
 
 There are two example implementations included with this module.
-Bio%3A%3AGMOD::GenericGenePage::Chado is a simple implementation for a Chado
+Bio%253A%253AGMOD::GenericGenePage::Chado is a simple implementation for a Chado
 database populated with *S. cerevisiae* data obtained from
-[SGD](Category%3ASGD "Category%3ASGD") as GFF3. Currently, the output of
+[SGD](Category%253ASGD "Category%253ASGD") as GFF3. Currently, the output of
 this implementation can be seen at
 
 <a href="http://gmod.org/cgi-bin/gbrowse/chado_yeast/"
@@ -39,7 +39,7 @@ rel="nofollow">http://gmod.org/cgi-bin/gbrowse/chado_yeast/</a>
 and by clicking on any of the genes (red arrows).
 
 The other implementation, CXGN::Phenome::GenericGenePage, is from [SGN,
-the Sol Genomics Network](Category%3ASGN "Category%3ASGN"). The XML they
+the Sol Genomics Network](Category%253ASGN "Category%253ASGN"). The XML they
 provide can be seen by clicking on the "Download GMOD XML" link on any
 of there locus pages; for example, this one:
 
@@ -192,9 +192,9 @@ implementation.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [XML](Category%3AXML "Category%3AXML")
+- [XML](Category%253AXML "Category%253AXML")
 
 
 
@@ -209,7 +209,7 @@ implementation.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ABio_GMOD_GenericGenePage" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ABio_GMOD_GenericGenePage" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -233,8 +233,8 @@ implementation.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -65,8 +65,8 @@ rel="nofollow">MGI</a>, and
 <a href="http://www.openhelix.com/wormbase" class="external text"
 rel="nofollow">WormBase</a>, and in the future for
 <a href="http://zfin.org" class="external text" rel="nofollow">ZFIN</a>,
-[FlyBase](../Category%3AFlyBase "Category%3AFlyBase"), and
-[SGD](../Category%3ASGD "Category%3ASGD") (*all* of which are GMOD users
+[FlyBase](../Category%253AFlyBase "Category%253AFlyBase"), and
+[SGD](../Category%253ASGD "Category%253ASGD") (*all* of which are GMOD users
 and/or contributors).
 
 This tutorial focuses on *using* GBrowse and complements the
@@ -75,7 +75,7 @@ class="external text" rel="nofollow">GBrowse2 Admin Tutorial</a>. It is
 an excellent resource for any organization that wants to help its users
 use GBrowse better.
 
-[Dave Clements](../User%3AClements "User%3AClements")
+[Dave Clements](../User%253AClements "User%253AClements")
 
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
@@ -90,9 +90,9 @@ use GBrowse better.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -131,8 +131,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

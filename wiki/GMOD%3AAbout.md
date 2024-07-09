@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[GMOD%3AAbout](http://gmod.org/mediawiki/index.php?title=GMOD%3AAbout&redirect=no "GMOD%3AAbout"))
+[GMOD%253AAbout](http://gmod.org/mediawiki/index.php?title=GMOD%253AAbout&redirect=no "GMOD%253AAbout"))
 
 
 
@@ -73,8 +73,8 @@ Canto: literature annotation tool
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

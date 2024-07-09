@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AInterMine</span>
+# <span dir="auto">Category%253AInterMine</span>
 
 
 
@@ -72,7 +72,7 @@ title="October 2011 GMOD Meeting">October 2011 GMOD Meeting</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="r">R</h3>
 <ul>
-<li><a href="User%3ARsmith" title="User%3ARsmith">User%3ARsmith</a></li>
+<li><a href="User%253ARsmith" title="User%253ARsmith">User%253ARsmith</a></li>
 </ul>
 <h3 id="s">S</h3>
 <ul>
@@ -306,9 +306,9 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
 
 
 
@@ -342,8 +342,8 @@ The following 9 files are in this category, out of 9 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -366,7 +366,7 @@ The following 9 files are in this category, out of 9 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AInterMine" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AInterMine" rel="smw-browse">Browse
   properties</a></span>
 
 

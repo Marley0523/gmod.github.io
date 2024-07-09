@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ASoftware_Engineer&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ASoftware_Engineer&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ASoftware Engineer (page does not exist)">Category%3ASoftware
+title="Category%253ASoftware Engineer (page does not exist)">Category%253ASoftware
 Engineer</a> |  |
 
 |     |                                |
@@ -30,11 +30,11 @@ Engineer</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ASoftware+Engineer)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ASoftware+Engineer)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ASoftware_Engineer "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ASoftware_Engineer "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -84,8 +84,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

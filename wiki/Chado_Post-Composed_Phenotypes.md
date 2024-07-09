@@ -148,7 +148,7 @@ Secondary Entity 2
 ## <span id="Older_proposals" class="mw-headline">Older proposals</span>
 
 See
-[Talk%3AChado_Post-Composed_Phenotypes](Talk%3AChado_Post-Composed_Phenotypes "Talk:Chado Post-Composed Phenotypes")
+[Talk%253AChado_Post-Composed_Phenotypes](Talk%253AChado_Post-Composed_Phenotypes "Talk:Chado Post-Composed Phenotypes")
 for the older versions of this schema proposal
 
 
@@ -165,7 +165,7 @@ for the older versions of this schema proposal
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_Post-Composed_Phenotypes" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_Post-Composed_Phenotypes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -189,8 +189,8 @@ for the older versions of this schema proposal
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

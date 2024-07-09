@@ -35,8 +35,8 @@ regions, etc, are the subject of considerable interest, so some
 background reading is listed below:
 
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -47,7 +47,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:E
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/GBrowse-20syn "Special%253ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 
 
@@ -81,8 +81,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:E
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

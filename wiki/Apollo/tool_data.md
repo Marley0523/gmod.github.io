@@ -62,12 +62,12 @@ doc = \* <a href="http://apollo.berkeleybop.org/current/javadoc/"
 class="external text" rel="nofollow">Apollo Javadocs</a> \| papers = \*
 [Apollo](../Apollo.1 "Apollo"): a community resource for genome
 annotation editing. <span class="Z3988"
-title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F19439563">PMID:19439563</span>
+title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%253Aofi%2Ffmt%253Akev%253Amtx%253Ajournal&amp;rfr_id=info%253Asid%2Focoins.info%253Agenerator&amp;rft.genre=article&amp;rft_id=info%253Apmid%2F19439563">PMID:19439563</span>
 <sup>[\[1\]](#cite_note-PMID:19439563-1)</sup>
 
 - [Apollo](../Apollo.1 "Apollo"): a sequence annotation editor.
   <span class="Z3988"
-  title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F12537571">PMID:12537571</span>
+  title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%253Aofi%2Ffmt%253Akev%253Amtx%253Ajournal&amp;rfr_id=info%253Asid%2Focoins.info%253Agenerator&amp;rft.genre=article&amp;rft_id=info%253Apmid%2F12537571">PMID:12537571</span>
   <sup>[\[2\]](#cite_note-PMID:12537571-2)</sup>
   <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf"
   class="internal" title="Gb-2002-3-12-research0082.pdf">PDF</a>
@@ -76,9 +76,9 @@ title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajourna
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf"
 class="internal" title="CommunityAnnotationNov2007.pdf">Community
 Annotation at ParameciumDB</a> - [Linda
-Sperling's](../User%3ASperling "User%3ASperling") presentation on
+Sperling's](../User%253ASperling "User%253ASperling") presentation on
 [ParameciumDB's](../ParameciumDB "ParameciumDB") [Community
-Annotation](../Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+Annotation](../Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
 process at the [November 2007 GMOD
 Meeting](../November_2007_GMOD_Meeting "November 2007 GMOD Meeting").
 
@@ -161,12 +161,12 @@ web-based version of the tool.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Apollo](../Category%3AApollo "Category%3AApollo")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Apollo](../Category%253AApollo "Category%253AApollo")
 
 
 
@@ -205,8 +205,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

@@ -19,7 +19,7 @@
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial will be taught by
-[Dave Clements](User%3AClements "User%3AClements") at the [2013 GMOD Summer
+[Dave Clements](User%253AClements "User%253AClements") at the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 
@@ -782,10 +782,10 @@ class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -819,8 +819,8 @@ class="internal" title="GMOD2013GalaxyCloud.pdf">Slides</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

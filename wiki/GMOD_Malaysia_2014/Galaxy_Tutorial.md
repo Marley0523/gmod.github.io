@@ -18,7 +18,7 @@
 
 
 This [Galaxy](../Galaxy.1 "Galaxy") tutorial was presented by [Dave
-Clements](../User%3AClements "User%3AClements") at [GMOD Malaysia
+Clements](../User%253AClements "User%253AClements") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014.
 
 The most recent Galaxy tutorial can be found at the
@@ -41,11 +41,11 @@ server on the Amazon cloud.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- [Galaxy](../Category%3AGalaxy "Category%3AGalaxy")
-- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
+- [Galaxy](../Category%253AGalaxy "Category%253AGalaxy")
+- [GMOD Schools](../Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -56,7 +56,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Galaxy_Tutorial 
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [Galaxy](../Galaxy.1 "Galaxy") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [Galaxy](../Galaxy.1 "Galaxy") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/Galaxy "Special%253ASearchByProperty/Has-20topic/Galaxy")</span> |
 
 
 
@@ -95,8 +95,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

@@ -128,7 +128,7 @@ Neither group is opposed to the other group's goal *per se* - they just
 happened to be incompatible goals.
 
 To address both these needs, [Rob
-Buells](User%3ARobertBuels "User%3ARobertBuels") proposed
+Buells](User%253ARobertBuels "User%253ARobertBuels") proposed
 
 - multiple incremental releases,
 - with perhaps some backwards incompatability,
@@ -304,7 +304,7 @@ well.
 ### <span id="Phenotypes" class="mw-headline">Phenotypes</span>
 
 Phenotypes are not particularly well defined in Chado.
-[Scott](User%3AScott "User%3AScott") says that there are two sets of
+[Scott](User%253AScott "User%253AScott") says that there are two sets of
 phenotype tables in Chado. One is a first rough draft that snuck in (and
 is used by some), and the other is a more robust set, which is used by
 others (including FlyBase). Too make things worse, which tables are in
@@ -423,7 +423,7 @@ Anything else?
 # <span id="February_2010" class="mw-headline">February 2010</span>
 
 The first meeting in February will be held Monday February 8, at 11am
-Eastern US. Contact [Dave C](User%3AClements "User%3AClements") if you are
+Eastern US. Contact [Dave C](User%253AClements "User%253AClements") if you are
 interested in participating in this meeting.
 
 Meetings after that will be scheduled at a regular time according to
@@ -515,7 +515,7 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_Natural_Diversity_Module_Working_Group"
+- <span id="ca-talk"><a href="Talk%253AChado_Natural_Diversity_Module_Working_Group"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -540,8 +540,8 @@ Cases](Notes_on_simplified_nd_schema_and_Use_Cases "Notes on simplified nd schem
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

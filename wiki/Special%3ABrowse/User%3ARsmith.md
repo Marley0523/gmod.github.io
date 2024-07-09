@@ -16,18 +16,18 @@
 
 |                                                |     |
 |------------------------------------------------|-----|
-| [User%3ARsmith](/wiki/User%3ARsmith "User%3ARsmith") |     |
+| [User%253ARsmith](/wiki/User%253ARsmith "User%253ARsmith") |     |
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[InterMine](/wiki/Category%3AInterMine "Category%3AInterMine")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/InterMine "Special%3ASearchByProperty/InterMine")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">26 November 2009 00:52:08  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/26-20November-202009-2000:52:08 "Special%3ASearchByProperty/Modification-20date/26-20November-202009-2000:52:08")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[InterMine](/wiki/Category%253AInterMine "Category%253AInterMine")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/InterMine "Special%253ASearchByProperty/InterMine")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">26 November 2009 00:52:08  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/26-20November-202009-2000:52:08 "Special%253ASearchByProperty/Modification-20date/26-20November-202009-2000:52:08")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%3ARsmith)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%253ARsmith)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/User%3ARsmith "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/User%253ARsmith "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

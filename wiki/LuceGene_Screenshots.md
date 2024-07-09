@@ -80,9 +80,9 @@ height="343" alt="LuceGeneDemo library.png" />
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
+- [LuceGene](Category%253ALuceGene "Category%253ALuceGene")
 
 
 
@@ -116,8 +116,8 @@ height="343" alt="LuceGeneDemo library.png" />
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

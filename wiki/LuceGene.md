@@ -133,7 +133,7 @@ rel="nofollow">http://www.uniprot.org/</a>
   - newly updated with full Daphnia genome, see notes at
     [LuceGene_for_Daphnia_genome](LuceGene_for_Daphnia_genome "LuceGene for Daphnia genome")
 
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:25, 4 September 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 16:25, 4 September 2007
 (EDT)
 
 - Demonstration server is available at
@@ -197,11 +197,11 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [LuceGene](Category%253ALuceGene "Category%253ALuceGene")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -215,7 +215,7 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ALuceGene" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ALuceGene" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -239,8 +239,8 @@ rel="nofollow">http://eugenes.org/gmod/lucegene/</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

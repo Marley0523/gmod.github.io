@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Bio%3A%3AChado%3A%3ASchema</span>
+# <span dir="auto">Bio%253A%253AChado%253A%253ASchema</span>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-Bio%3A%3AChado%3A%3ASchema is a standard
+Bio%253A%253AChado%253A%253ASchema is a standard
 <a href="http://search.cpan.org/perldoc?DBIx::Class"
 class="external text" rel="nofollow">DBIx::Class</a> layer for Chado, in
 Perl. DBIx::Class is an object-relational mapping system similar to
@@ -27,7 +27,7 @@ Hibernate.
 **If you use Chado and Perl, please consider contributing to the
 project. See the Development section below.**
 
-Bio%3A%3AChado%3A%3ASchema is a standard set of Perl modules that should work
+Bio%253A%253AChado%253A%253ASchema is a standard set of Perl modules that should work
 with any database supported by DBIx::Class. So far, it has been used
 successfully with Chado schemas running on both PostgreSQL and Oracle.
 Please try it out and report back to the mailing list!
@@ -54,7 +54,7 @@ Please try it out and report back to the mailing list!
 
 ## <span id="Development" class="mw-headline">Development</span>
 
-Development of Bio%3A%3AChado%3A%3ASchema uses `git`, hosted on GitHub:
+Development of Bio%253A%253AChado%253A%253ASchema uses `git`, hosted on GitHub:
 <a href="http://github.com/solgenomics/bio-chado-schema"
 class="external free"
 rel="nofollow">http://github.com/solgenomics/bio-chado-schema</a>
@@ -70,9 +70,9 @@ rel="nofollow">http://github.com/solgenomics/bio-chado-schema</a>
 
 ### <span id="Contributors" class="mw-headline">Contributors</span>
 
-- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") (Sol Genomics
+- [Robert Buels](User%253ARobertBuels "User%253ARobertBuels") (Sol Genomics
   Network)
-- [Naama Menda](User%3ANaamaMenda "User%3ANaamaMenda") (Sol Genomics
+- [Naama Menda](User%253ANaamaMenda "User%253ANaamaMenda") (Sol Genomics
   Network)
 - Aureliano Bombarely (Sol Genomics Network)
 - Jonathan "Duke" Leto (Sol Genomics Network)
@@ -86,14 +86,14 @@ rel="nofollow">http://search.cpan.org/dist/Bio-Chado-Schema</a>
 
 ## <span id="Download" class="mw-headline">Download</span>
 
-Releases of Bio%3A%3AChado%3A%3ASchema are available on CPAN:
+Releases of Bio%253A%253AChado%253A%253ASchema are available on CPAN:
 <a href="http://search.cpan.org/dist/Bio-Chado-Schema"
 class="external free"
 rel="nofollow">http://search.cpan.org/dist/Bio-Chado-Schema</a>
 
 Use your preferred CPAN client to install it:
 
-      cpan Bio%3A%3AChado%3A%3ASchema
+      cpan Bio%253A%253AChado%253A%253ASchema
 
 is often sufficient.
 
@@ -102,8 +102,8 @@ is often sufficient.
 |  |  |  |  |
 |----|----|----|----|
 |  | Mailing List Link | Description | Archive(s) |
-| **Bio%3A%3AChado%3A%3ASchema** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
-class="external text" rel="nofollow">gmod-schema</a> | Use the <a href="Chado" class="mw-redirect" title="Chado">Chado</a> list (gmod-schema) for all **Bio%3A%3AChado%3A%3ASchema** questions. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
+| **Bio%253A%253AChado%253A%253ASchema** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
+class="external text" rel="nofollow">gmod-schema</a> | Use the <a href="Chado" class="mw-redirect" title="Chado">Chado</a> list (gmod-schema) for all **Bio%253A%253AChado%253A%253ASchema** questions. | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
 class="external text" rel="nofollow">Gmane</a>, <a href="http://old.nabble.com/gmod-schema-f3506.html"
 class="external text" rel="nofollow">Nabble (old)</a>, <a href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"
 class="external text" rel="nofollow">Nabble (new, 2010/05+)</a>, <a
@@ -113,12 +113,12 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
 - [Middleware
-  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
-- [Chado](Category%3AChado "Category%3AChado")
+  Presentations](Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -130,10 +130,10 @@ feed</span></span>
 |----|----|
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Chado/Schema "Special%3ASearchByProperty/Chado/Schema")</span> |
+class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Chado/Schema "Special%253ASearchByProperty/Chado/Schema")</span> |
 | <a
 href="http://gmod.org/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%3ASearchByProperty/Talk%3ABio/Schema "Special%3ASearchByProperty/Talk%3ABio/Schema")</span> |
+class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Talk%253ABio/Schema "Special%253ASearchByProperty/Talk%253ABio/Schema")</span> |
 
 
 
@@ -147,7 +147,7 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
+- <span id="ca-talk"><a href="Talk:Bio%253A%253AChado%253A%253ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -171,8 +171,8 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -195,7 +195,7 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bio%253A%253AChado%253A%253ASchema" rel="smw-browse">Browse
   properties</a></span>
 
 

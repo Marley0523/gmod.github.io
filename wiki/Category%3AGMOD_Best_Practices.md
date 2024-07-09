@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Best Practices</span>
+# <span dir="auto">Category%253AGMOD Best Practices</span>
 
 
 
@@ -49,9 +49,9 @@ The following 4 pages are in this category, out of 4 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -85,8 +85,8 @@ The following 4 pages are in this category, out of 4 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -109,7 +109,7 @@ The following 4 pages are in this category, out of 4 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Best_Practices"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Best_Practices"
   rel="smw-browse">Browse properties</a></span>
 
 

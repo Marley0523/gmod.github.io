@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has download
-URL](/wiki/Property%3AHas_download_URL "Property:Has download URL")" with
+URL](/wiki/Property%253AHas_download_URL "Property:Has download URL")" with
 value "<a href="http://sourceforge.net/projects/gmod/files/OldFiles/"
 class="external"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/OldFiles/</a>"  
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20download-20URL/http%253A-2F-2Fsourceforge.net-2Fprojects-2Fgmod-2Ffiles-2FOldFiles-2F "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

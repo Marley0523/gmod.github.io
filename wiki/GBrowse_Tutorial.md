@@ -20,7 +20,7 @@
 There are several [GBrowse](GBrowse.1 "GBrowse") tutorials:
 
 [GBrowse tutorial from 2013 GMOD Summer School](GBrowse_Tutorial_2012 "GBrowse Tutorial 2012")  
-This tutorial was taught by [Scott Cain](User%3AScott "User%3AScott") at the
+This tutorial was taught by [Scott Cain](User%253AScott "User%253AScott") at the
 [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School") and the [2012
 GMOD Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School").
@@ -33,7 +33,7 @@ Cloud](Cloud.1 "Cloud") for more information on getting a GMOD AMI.
 
 [GBrowse tutorial from 2010 GMOD Summer School](GBrowse_Tutorial_2010 "GBrowse Tutorial 2010")  
 This tutorial was originally taught by [Scott
-Cain](User%3AScott "User%3AScott") at the [2010 GMOD Summer School -
+Cain](User%253AScott "User%253AScott") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas").
 It walks you through setting up and running
 [GBrowse](GBrowse.1 "GBrowse") with some sample data. It provides a <a
@@ -86,10 +86,10 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
 
 
@@ -103,7 +103,7 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Tutorial" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -127,8 +127,8 @@ rel="nofollow">EuPathDB</a>; please direct praise and thanks to them!
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

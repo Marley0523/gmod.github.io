@@ -235,13 +235,13 @@ Directions to the HL31 are as follows:
 <tr class="odd">
 <td>9:15</td>
 <td>Introductions</td>
-<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
+<td><a href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>9:35</td>
 <td>Welcome to OICR and the State of GMOD</td>
-<td><a href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
+<td><a href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Scott_cain_intro.ppt"
 class="internal" title="Scott cain intro.ppt">slides</a></td>
 </tr>
@@ -261,7 +261,7 @@ title="Gary bader.pptx">PPT</a></td>
 <tr class="odd">
 <td>11:30</td>
 <td>GBrowse2: What's New</td>
-<td><a href="User%3ALstein" title="User%3ALstein">Lincoln Stein</a></td>
+<td><a href="User%253ALstein" title="User%253ALstein">Lincoln Stein</a></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/Lincoln_stein.ppt"
 class="internal" title="Lincoln stein.ppt">PPT</a></td>
 </tr>
@@ -275,7 +275,7 @@ class="internal" title="Lincoln stein.ppt">PPT</a></td>
 <td>1:30</td>
 <td><a href="JBrowse.1" title="JBrowse">JBrowse</a> and <a
 href="WebApollo.1" title="WebApollo">WebApollo</a></td>
-<td><a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
+<td><a href="User%253AMitchSkinner" title="User%253AMitchSkinner">Mitch
 Skinner</a></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Mitch_skinner.pdf"
 class="internal" title="Mitch skinner.pdf">PDF</a></td>
@@ -297,7 +297,7 @@ class="internal" title="Andrew oberlin.pdf">PDF</a></td>
 <tr class="even">
 <td>3:00</td>
 <td><a href="MAKER.1" title="MAKER">MAKER</a></td>
-<td><a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson
+<td><a href="User%253ACarsonholt" title="User%253ACarsonholt">Carson
 Holt</a></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/Carson_holt.pdf" class="internal"
 title="Carson holt.pdf">PDF</a></td>
@@ -305,16 +305,16 @@ title="Carson holt.pdf">PDF</a></td>
 <tr class="odd">
 <td>3:30</td>
 <td><a href="InterMine" title="InterMine">InterMine</a></td>
-<td><a href="User%3AAlexkalderimis" title="User%3AAlexkalderimis">Alex
+<td><a href="User%253AAlexkalderimis" title="User%253AAlexkalderimis">Alex
 Kalderimis</a><br />
-and/or <a href="User%3ARsmith" title="User%3ARsmith">Richard Smith</a></td>
+and/or <a href="User%253ARsmith" title="User%253ARsmith">Richard Smith</a></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/Richard_smith.pdf"
 class="internal" title="Richard smith.pdf">PDF</a></td>
 </tr>
 <tr class="even">
 <td>4:00</td>
 <td>Improving MOD interoperation (A Discussion)</td>
-<td><a href="User%3AJogoodma" title="User%3AJogoodma">Josh Goodman</a></td>
+<td><a href="User%253AJogoodma" title="User%253AJogoodma">Josh Goodman</a></td>
 <td><a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Josh_goodman.pdf"
 class="new" title="Josh goodman.pdf">PDF</a>,<a
@@ -340,7 +340,7 @@ href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Mi
 class="new" title="Michael brudno.pdf">PDF</a>,<a
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Michael_brudno.ppt"
 class="new" title="Michael brudno.ppt">PPT</a> |
-| 10:00 | [Galaxy](Galaxy.1 "Galaxy") | [Dan Blankenberg](User%3ADanB "User%3ADanB") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal"
+| 10:00 | [Galaxy](Galaxy.1 "Galaxy") | [Dan Blankenberg](User%253ADanB "User%253ADanB") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal"
 title="2011 10 Galaxy.pdf">PDF</a> |
 | 10:30 | [Coffee](GMOD_Promotion#Mugs.2C_T-Shirts.2C_Buttons.2C_... "GMOD Promotion") |  |  |
 | 11:00 | <a href="http://code.google.com/p/sadi/wiki/SADIforGMOD"
@@ -369,15 +369,15 @@ Please feel free to add suggested talks or topics for the meeting.
 
 - The Mycoplasma Genome Database: marrying microscopy and genomics
   (Andrew Oberlin & Iddo Friedberg)
-- Improving MOD interoperability ([Scott Cain](User%3AScott "User%3AScott"),
-  [Josh Goodman](User%3AJogoodma "User%3AJogoodma") will lead the
+- Improving MOD interoperability ([Scott Cain](User%253AScott "User%253AScott"),
+  [Josh Goodman](User%253AJogoodma "User%253AJogoodma") will lead the
   discussion)
 - [BioMart](BioMart "BioMart"),
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>,
   [Galaxy](Galaxy.1 "Galaxy"), [GBrowse](GBrowse.1 "GBrowse"), and
   [InterMine](InterMine "InterMine") updates - since representatives of
   all those groups will be there (suggested by [Dave
-  C](User%3AClements "User%3AClements"))
+  C](User%253AClements "User%253AClements"))
 - <a href="http://code.google.com/p/sadi/wiki/SADIforGMOD"
   class="external text" rel="nofollow">SADI for GMOD: An RDF/OWL Interface
   to GMOD Data</a> (Ben Vandervalk)
@@ -419,14 +419,14 @@ You can register for the BioMart, Galaxy, and MAKER Workshops on the
 <a href="http://gmod.eventbrite.com/" class="external text"
 rel="nofollow">meeting registration site</a>. If you are interested in
 the [InterMine development meeting](#InterMine_Development_Meeting),
-please let [Richard Smith](User%3ARsmith "User%3ARsmith") know.
+please let [Richard Smith](User%253ARsmith "User%253ARsmith") know.
 
 ### <span id="Galaxy_Workshop" class="mw-headline">[Galaxy](Galaxy.1 "Galaxy") Workshop</span>
 
 This workshop will cover an introduction to [Galaxy](Galaxy.1 "Galaxy"),
 including analyzing data with tools and visualizations, using Galaxy in
 the cloud, and running your own instance and adding new tools. [Dan
-Blankenberg](User%3ADanB "User%3ADanB") of the
+Blankenberg](User%253ADanB "User%253ADanB") of the
 <a href="http://galaxyproject.org/" class="external text"
 rel="nofollow">Galaxy Project</a> will lead the workshop.
 
@@ -466,7 +466,7 @@ which involves supporting InterMine data-warehouses for *D.
 melanogaster*, *R. norvegus*, *M. musculus*, *S. cerevisiae*, *D. rerio*
 and *C. elegans*. Groups representing other efforts to use InterMine for
 biological data-warehousing are welcome to attend (as indeed some aleady
-are) - please contact [Richard Smith](User%3ARsmith "User%3ARsmith") for
+are) - please contact [Richard Smith](User%253ARsmith "User%253ARsmith") for
 more details.
 
 ### <span id="BioMart_Workshop" class="mw-headline">[BioMart](BioMart "BioMart") Workshop</span>
@@ -545,13 +545,13 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
-- [MAKER](Category%3AMAKER "Category%3AMAKER")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-- [BioMart](Category%3ABioMart "Category%3ABioMart")
-- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
+- [MAKER](Category%253AMAKER "Category%253AMAKER")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
+- [BioMart](Category%253ABioMart "Category%253ABioMart")
+- [InterMine](Category%253AInterMine "Category%253AInterMine")
 
 
 
@@ -585,8 +585,8 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

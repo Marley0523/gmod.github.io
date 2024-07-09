@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ABioDIG</span>
+# <span dir="auto">Category%253ABioDIG</span>
 
 
 
@@ -22,7 +22,7 @@
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/BioDIG "Special:Search/BioDIG")
 in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ABioDIG"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ABioDIG"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -43,7 +43,7 @@ This category contains only the following page.
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3ABioDIG](Category%3ABioDIG)"
+Retrieved from "[http://gmod.org/wiki/Category%253ABioDIG](Category%253ABioDIG)"
 
 
 
@@ -76,8 +76,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3ABioDIG](Category%3ABioDIG)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -100,7 +100,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ABioDIG](Category%3ABioDIG)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ABioDIG" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ABioDIG" rel="smw-browse">Browse
   properties</a></span>
 
 

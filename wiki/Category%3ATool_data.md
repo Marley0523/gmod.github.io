@@ -5,7 +5,7 @@
 <span id="top"></span>
 
 
-# <span dir="auto">Category%3ATool data</span>
+# <span dir="auto">Category%253ATool data</span>
 
 
 
@@ -49,7 +49,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -102,7 +102,7 @@ data</a></li>
 <ul>
 <li><a href="GO_Graphic_Viewer/tool_data"
 title="GO Graphic Viewer/tool data">GO Graphic Viewer/tool data</a></li>
-<li><a href="GO%3A%3ATermFinder/tool_data"
+<li><a href="GO%253A%253ATermFinder/tool_data"
 title="GO::TermFinder/tool data">GO::TermFinder/tool data</a></li>
 </ul>
 <h3 id="j">J</h3>
@@ -181,8 +181,8 @@ title="WebGBrowse/tool data">WebGBrowse/tool data</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -207,7 +207,7 @@ title="WebGBrowse/tool data">WebGBrowse/tool data</a></li>
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ATool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

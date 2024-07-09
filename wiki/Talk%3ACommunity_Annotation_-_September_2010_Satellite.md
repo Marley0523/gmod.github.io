@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3ACommunity Annotation - September 2010 Satellite</span>
+# <span dir="auto">Talk%253ACommunity Annotation - September 2010 Satellite</span>
 
 
 
@@ -36,7 +36,7 @@ submit a communication report on this? Many thanks.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ACommunity_Annotation_-_September_2010_Satellite"
+- <span id="ca-talk"><a href="Talk%253ACommunity_Annotation_-_September_2010_Satellite"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -61,8 +61,8 @@ submit a communication report on this? Many thanks.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

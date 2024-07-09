@@ -55,12 +55,12 @@ due August 25.
 
 The GMOD Evo Hackathon Organizing Committee:
 
-[Nicole Washington](../User%3ANLWashington "User%3ANLWashington"), [Robert
-Buels](../User%3ARobertBuels "User%3ARobertBuels"), [Scott
-Cain](../User%3AScott "User%3AScott"), [Dave
-Clements](../User%3AClements "User%3AClements"), [Hilmar
-Lapp](../User%3AHlapp "User%3AHlapp"), and [Sheldon
-McKay](../User%3AMckays "User%3AMckays")
+[Nicole Washington](../User%253ANLWashington "User%253ANLWashington"), [Robert
+Buels](../User%253ARobertBuels "User%253ARobertBuels"), [Scott
+Cain](../User%253AScott "User%253AScott"), [Dave
+Clements](../User%253AClements "User%253AClements"), [Hilmar
+Lapp](../User%253AHlapp "User%253AHlapp"), and [Sheldon
+McKay](../User%253AMckays "User%253AMckays")
 
   
 
@@ -73,9 +73,9 @@ McKay](../User%3AMckays "User%3AMckays")
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -114,8 +114,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

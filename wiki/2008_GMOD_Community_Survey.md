@@ -107,8 +107,8 @@ link in this list.
     class="external text" rel="nofollow">Caryoscope</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#Chado"
     class="external text" rel="nofollow">Chado</a>
-  - <a href="../extras/2008GMODCommunitySurvey.html#Chado%3A%3AAutoDBI"
-    class="external text" rel="nofollow">Chado%3A%3AAutoDBI</a>
+  - <a href="../extras/2008GMODCommunitySurvey.html#Chado%253A%253AAutoDBI"
+    class="external text" rel="nofollow">Chado%253A%253AAutoDBI</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#CMap"
     class="external text" rel="nofollow">CMap</a>
   - <a href="../extras/2008GMODCommunitySurvey.html#Ergatis"
@@ -241,10 +241,10 @@ Operating systems in use had a definite skew towards Unix based systems:
 
 | \# Responses | Operating System                                  |
 |-------------:|---------------------------------------------------|
-|           55 | [Linux](Category%3ALinux "Category%3ALinux")          |
-|            8 | [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X") |
+|           55 | [Linux](Category%253ALinux "Category%253ALinux")          |
+|            8 | [Mac OS X](Category%253AMac_OS_X "Category%253AMac OS X") |
 |            6 | Solaris                                           |
-|            2 | [Windows](Category%3AWindows "Category%3AWindows")    |
+|            2 | [Windows](Category%253AWindows "Category%253AWindows")    |
 |            1 | Unspecified Unix                                  |
 
 ### <span id="Current_Server_Sufficient.3F" class="mw-headline">Current Server Sufficient?</span>
@@ -460,10 +460,10 @@ Respondents were given a list of choices along with *Other*
 | 39 | [Next generation sequence](Next_Generation_Sequencing "Next Generation Sequencing") |
 | 38 | [Annotation](Annotation "Annotation") pipelines |
 | 32 | Community [annotation](Annotation "Annotation") |
-| 29 | [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays") |
-| 29 | [Ontologies](Category%3AOntologies "Category%3AOntologies") |
+| 29 | [Microarrays](Category%253AMicroarrays "Category%253AMicroarrays") |
+| 29 | [Ontologies](Category%253AOntologies "Category%253AOntologies") |
 | 24 | [Mapping](CMap.1 "CMap") (genetic, physical, QTL, ...) |
-| 22 | [Phenotypes](Category%3APhenotypes "Category%3APhenotypes") |
+| 22 | [Phenotypes](Category%253APhenotypes "Category%253APhenotypes") |
 | 20 | Pathways |
 | 19 | Literature curation |
 | 18 | Other expression (besides microarrays) |
@@ -493,10 +493,10 @@ Responses under *Other* included:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
 
 
 
@@ -530,8 +530,8 @@ Responses under *Other* included:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

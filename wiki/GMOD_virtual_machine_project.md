@@ -30,7 +30,7 @@ available.***
 VMware images still exist in GMOD in several places. See:
 
 - [VMware HOWTO](VMware_HOWTO "VMware HOWTO")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [Community Annotation
   System](Community_Annotation_System "Community Annotation System")
 
@@ -90,7 +90,7 @@ Any thoughts on these?
 Thanks for your time, Scott
 
 - Ian Holmes suggested their extentions to GBrowse
-  ([AJAX](Category%3AAJAX "Category%3AAJAX") and wiki).
+  ([AJAX](Category%253AAJAX "Category%253AAJAX") and wiki).
 - Eric Just suggested [Modware](Modware "Modware").
 
 ## <span id="About_.27when_released.27" class="mw-headline">About 'when released'</span>
@@ -109,9 +109,9 @@ System](Community_Annotation_System "Community Annotation System").
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
 
 
 
@@ -145,8 +145,8 @@ System](Community_Annotation_System "Community Annotation System").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

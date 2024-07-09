@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AStewarta</span>
+# <span dir="auto">User%253AStewarta</span>
 
 
 
@@ -18,8 +18,8 @@
 
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User%3AStewarta/sandbox&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AStewarta/sandbox (page does not exist)">My
+href="http://gmod.org/mediawiki/index.php?title=User%253AStewarta/sandbox&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AStewarta/sandbox (page does not exist)">My
 Sandbox</a>
 
 
@@ -56,8 +56,8 @@ Sandbox</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -80,7 +80,7 @@ Sandbox</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AStewarta" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AStewarta" rel="smw-browse">Browse
   properties</a></span>
 
 

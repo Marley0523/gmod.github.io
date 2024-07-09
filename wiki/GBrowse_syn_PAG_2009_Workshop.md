@@ -29,9 +29,9 @@ width="250" height="80" alt="GBrowse syn" />
 This [Comparative Genomics with GBrowse_syn: A hands on workshop for
 visualizing your syntenic data with
 GBrowse_syn](GBrowse_syn.1 "GBrowse syn") tutorial was presented by
-[Sheldon McKay](User%3AMckays "User%3AMckays"), [Scott
-Cain](User%3AScott "User%3AScott"), and [Dave
-Clements](User%3AClements "User%3AClements") at the
+[Sheldon McKay](User%253AMckays "User%253AMckays"), [Scott
+Cain](User%253AScott "User%253AScott"), and [Dave
+Clements](User%253AClements "User%253AClements") at the
 <a href="http://www.intl-pag.org/" class="external text"
 rel="nofollow">Plant and Animal Genome Conference</a>, January 2009. The
 most recent GBrowse syn tutorial can be found at the
@@ -91,16 +91,16 @@ workshop](GBrowse_PAG_2009_Workshop "GBrowse PAG 2009 Workshop") at [PAG
 
 ## <span id="Workshop_Instructors" class="mw-headline">Workshop Instructors</span>
 
-- [Sheldon McKay](User%3AMckays "User%3AMckays"),
+- [Sheldon McKay](User%253AMckays "User%253AMckays"),
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">iPlant Collaborative</a> (and author of
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn")),
   <a href="http://www.cshl.edu/" class="external text" rel="nofollow">Cold
   Spring Harbor Laboratory</a>
-- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
+- [Scott Cain](User%253AScott "User%253AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca/" class="external text"
   rel="nofollow">Ontario Institute for Cancer Research</a>
-- [Dave Clements](User%3AClements "User%3AClements"),
+- [Dave Clements](User%253AClements "User%253AClements"),
   [GMOD_Help_Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>
@@ -159,8 +159,8 @@ alt="Linux" />
 
 
 A free VMware player is available for [Microsoft
-Windows](Category%3AWindows "Category%3AWindows") and
-[Linux](Category%3ALinux "Category%3ALinux") [operating
+Windows](Category%253AWindows "Category%253AWindows") and
+[Linux](Category%253ALinux "Category%253ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -182,7 +182,7 @@ alt="Apple" /></a>
 Participants can also bring *newer Macs with Intel processors*. The
 Intel processor is a requirement for all the packages discussed below.
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
+X](Category%253AMac_OS_X "Category%253AMac OS X"). However, there are several
 other options, **all of which require an Intel Mac**:
 
   
@@ -254,12 +254,12 @@ in San Diego, immediately after PAG 2009.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -270,7 +270,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/GBrowse-20syn "Special%253ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 
 
@@ -304,8 +304,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AERD</span>
+# <span dir="auto">Category%253AERD</span>
 
 
 
@@ -18,8 +18,8 @@
 
 
 Entity-Relationship Diagrams for GMOD (and thus mostly if not entirely
-[Category%3AChado
-Modules](Category%3AChado_Modules "Category%3AChado Modules")).
+[Category%253AChado
+Modules](Category%253AChado_Modules "Category%253AChado Modules")).
 
 
 ## Media in category "ERD"
@@ -177,8 +177,8 @@ The following 5 files are in this category, out of 5 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -201,7 +201,7 @@ The following 5 files are in this category, out of 5 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AERD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AERD" rel="smw-browse">Browse
   properties</a></span>
 
 

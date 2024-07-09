@@ -203,12 +203,12 @@ comings and we were pleased with XORT.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Java](Category%3AJava "Category%3AJava")
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [XORT](Category%3AXORT "Category%3AXORT")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Java](Category%253AJava "Category%253AJava")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [XORT](Category%253AXORT "Category%253AXORT")
 
 
 
@@ -242,8 +242,8 @@ comings and we were pleased with XORT.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

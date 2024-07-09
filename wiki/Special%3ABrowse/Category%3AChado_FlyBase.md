@@ -16,22 +16,22 @@
 
 |  |  |
 |----|----|
-| [Category%3AChado FlyBase](/wiki/Category%3AChado_FlyBase "Category%3AChado FlyBase") |  |
+| [Category%253AChado FlyBase](/wiki/Category%253AChado_FlyBase "Category%253AChado FlyBase") |  |
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 June 2008 19:49:23  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/4-20June-202008-2019:49:23 "Special%3ASearchByProperty/Modification-20date/4-20June-202008-2019:49:23")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/FlyBase "Special%3ASearchByProperty/Subcategory-20of/FlyBase")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Subcategory-20of/Chado "Special%3ASearchByProperty/Subcategory-20of/Chado")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 June 2008 19:49:23  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/4-20June-202008-2019:49:23 "Special%253ASearchByProperty/Modification-20date/4-20June-202008-2019:49:23")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[FlyBase](/wiki/Category%253AFlyBase "Category%253AFlyBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Subcategory-20of/FlyBase "Special%253ASearchByProperty/Subcategory-20of/FlyBase")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%253AChado "Category%253AChado")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Subcategory-20of/Chado "Special%253ASearchByProperty/Subcategory-20of/Chado")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3AChado+FlyBase)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253AChado+FlyBase)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Aug2009LinkedData.pdf "Special%253ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Chado "Special%253ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:Aug2009LinkedData.pdf](/wiki/File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Aug2009LinkedData.pdf "Special%253ABrowse/File:Aug2009LinkedData.pdf")</span></span> , <span class="smwb-ivalue">[FlyBase Chado](/wiki/FlyBase_Chado "FlyBase Chado") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Chado "Special%253ABrowse/FlyBase-20Chado")</span></span> , <span class="smwb-ivalue">[FlyBase Field Mapping Tables](/wiki/FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables "Special%253ABrowse/FlyBase-20Field-20Mapping-20Tables")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3AChado_FlyBase "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253AChado_FlyBase "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

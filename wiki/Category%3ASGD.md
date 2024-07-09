@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ASGD</span>
+# <span dir="auto">Category%253ASGD</span>
 
 
 
@@ -150,9 +150,9 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -186,8 +186,8 @@ The following 4 files are in this category, out of 4 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -210,7 +210,7 @@ The following 4 files are in this category, out of 4 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ASGD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ASGD" rel="smw-browse">Browse
   properties</a></span>
 
 

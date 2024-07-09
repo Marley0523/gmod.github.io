@@ -114,11 +114,11 @@ without requiring a lot a maintenance and administration.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Proposals](Category%3AProposals "Category%3AProposals")
-- [CMap](Category%3ACMap "Category%3ACMap")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Proposals](Category%253AProposals "Category%253AProposals")
+- [CMap](Category%253ACMap "Category%253ACMap")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
 
 
@@ -152,8 +152,8 @@ without requiring a lot a maintenance and administration.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

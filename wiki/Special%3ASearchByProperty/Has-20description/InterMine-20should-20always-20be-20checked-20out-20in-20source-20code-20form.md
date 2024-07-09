@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-description](/wiki/Property%3AHas_description "Property:Has description")"
+description](/wiki/Property%253AHas_description "Property:Has description")"
 with value "InterMine should always be checked out in source code
 form"  
 
@@ -39,7 +39,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20description/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20description/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -65,8 +65,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

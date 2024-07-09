@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "The Jane-Ome, medicinal marijuana project"  
 
-- [JBrowse#http://www.medicinalgenomics.com/the-jane-ome/](/wiki/JBrowse#http:.2F.2Fwww.medicinalgenomics.com.2Fthe-jane-ome.2F "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%3A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%253ABrowse/JBrowse-23http%3A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>
+- [JBrowse#http://www.medicinalgenomics.com/the-jane-ome/](/wiki/JBrowse#http:.2F.2Fwww.medicinalgenomics.com.2Fthe-jane-ome.2F "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%253A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F "Special%253ABrowse/JBrowse-23http%253A-2F-2Fwww.medicinalgenomics.com-2Fthe-2Djane-2Dome-2F")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/The-20Jane-2DOme,-20medicinal-20marijuana-20project "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/The-20Jane-2DOme,-20medicinal-20marijuana-20project "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

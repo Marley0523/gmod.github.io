@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-title](/wiki/Property%3AHas_title "Property:Has title")" with value "The
+title](/wiki/Property%253AHas_title "Property:Has title")" with value "The
 Aspergillus genome database: multispecies curation and incorporation of
 RNA-Seq data to improve structural gene annotations"  
 
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database%3A-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20title/The-20Aspergillus-20genome-20database%253A-20multispecies-20curation-20and-20incorporation-20of-20RNA-2DSeq-20data-20to-20improve-20structural-20gene-20annotations "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

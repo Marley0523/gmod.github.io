@@ -157,7 +157,7 @@ The current public release is: **beta**
 
 This software is GPLv2+ licensed as part of the Drupal package. It is
 currently supported by [Alexie
-Papanicolaou](User%3AAlpapan "User%3AAlpapan") while at CSIRO, the
+Papanicolaou](User%253AAlpapan "User%253AAlpapan") while at CSIRO, the
 Australian Commonwealth Scientific and Research Organization
 (<a href="http://www.csiro.au" class="external free"
 rel="nofollow">http://www.csiro.au</a>).
@@ -165,11 +165,11 @@ rel="nofollow">http://www.csiro.au</a>).
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [Drupal](Category%3ADrupal "Category%3ADrupal")
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [Drupal](Category%253ADrupal "Category%253ADrupal")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -203,8 +203,8 @@ rel="nofollow">http://www.csiro.au</a>).
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

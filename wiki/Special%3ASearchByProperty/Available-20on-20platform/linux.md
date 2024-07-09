@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Available on
-platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")"
+platform](/wiki/Property%253AAvailable_on_platform "Property:Available on platform")"
 with value "linux"  
 
 - [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
@@ -23,7 +23,7 @@ with value "linux"
 - [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 - [GO Graphic
   Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%253A%253ATermFinder "Special%253ABrowse/GO%253A%253ATermFinder")</span>
 - [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 - [Pathway
   Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
@@ -48,7 +48,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Available-20on-20platform/linux "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Available-20on-20platform/linux "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -74,8 +74,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

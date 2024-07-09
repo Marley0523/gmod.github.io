@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AChemmeri</span>
+# <span dir="auto">User%253AChemmeri</span>
 
 
 
@@ -62,8 +62,8 @@ Email: chemmeri@cgb.indiana.edu
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -86,7 +86,7 @@ Email: chemmeri@cgb.indiana.edu
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AChemmeri" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AChemmeri" rel="smw-browse">Browse
   properties</a></span>
 
 

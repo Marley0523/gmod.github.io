@@ -56,10 +56,10 @@ rel="nofollow">email</a> the [GMOD Help
 Desk](../GMOD_Help_Desk "GMOD Help Desk").
 
 Finally, *many* thanks to [Rob
-Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
-[SGN](../Category%3ASGN "Category%3ASGN") for doing the work.
+Buels](../User%253ARobertBuels "User%253ARobertBuels") of Cornell /
+[SGN](../Category%253ASGN "Category%253ASGN") for doing the work.
 
-[Dave Clements](../User%3AClements "User%3AClements")
+[Dave Clements](../User%253AClements "User%253AClements")
 
   
 
@@ -72,9 +72,9 @@ Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -113,8 +113,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -137,7 +137,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCVS_to_SVN_Conversion%3A_Done"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCVS_to_SVN_Conversion%253A_Done"
   rel="smw-browse">Browse properties</a></span>
 
 

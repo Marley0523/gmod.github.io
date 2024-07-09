@@ -40,7 +40,7 @@ Meeting](../January_2009_GMOD_Meeting "January 2009 GMOD Meeting") page.
 We'll update that page as we have more. If you want to know what happens
 at a GMOD meeting see the notes from the [July 2008 GMOD
 Meeting](../July_2008_GMOD_Meeting "July 2008 GMOD Meeting") or any of
-the other [previous meetings](../Category%3AMeetings "Category%3AMeetings").
+the other [previous meetings](../Category%253AMeetings "Category%253AMeetings").
 
 It's also worth noting that GMOD will again have a [strong
 presence](../PAG_2009 "PAG 2009") at the PAG 2009 meeting itself. If you
@@ -55,7 +55,7 @@ be entered to win [GMOD gear](#Get_GMOD_Gear.21)!
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -70,9 +70,9 @@ updated 2008/11/20*
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -111,8 +111,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

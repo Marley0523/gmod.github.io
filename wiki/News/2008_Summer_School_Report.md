@@ -40,7 +40,7 @@ started the class with a minimal install of Linux and finished 2 1/2
 [CMap](../CMap.1 "CMap").
 
 I would like to thank the participants, the instructors
-([Scott](../User%3AScott "User%3AScott"), [Ben](../User%3AFaga "User%3AFaga")
+([Scott](../User%253AScott "User%253AScott"), [Ben](../User%253AFaga "User%253AFaga")
 and Ed) and the folks at NESCent for getting the GMOD Summer School off
 to a fabulous start.
 
@@ -56,7 +56,7 @@ and pull it off.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -70,9 +70,9 @@ Thanks,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -111,8 +111,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

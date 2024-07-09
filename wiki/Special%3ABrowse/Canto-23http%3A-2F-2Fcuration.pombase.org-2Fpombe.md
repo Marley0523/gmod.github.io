@@ -22,26 +22,26 @@
 |----|----|
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Curate GO annotations for S. pombe  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20S.-20pombe "Special%3ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20S.-20pombe")</span></span> |
-| [Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle") | <span class="smwb-value">PomBase Canto  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktitle/PomBase-20Canto "Special%3ASearchByProperty/Linktitle/PomBase-20Canto")</span></span> |
+class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Curate GO annotations for S. pombe  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20S.-20pombe "Special%253ASearchByProperty/Linkdesc/Curate-20GO-20annotations-20for-20S.-20pombe")</span></span> |
+| [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">PomBase Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/PomBase-20Canto "Special%253ASearchByProperty/Linktitle/PomBase-20Canto")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Canto "Special%3ASearchByProperty/Linktopic/Canto")</span></span> |
-| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/wild-20URL "Special%3ASearchByProperty/Linktype/wild-20URL")</span></span> |
+title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Canto "Special%253ASearchByProperty/Linktopic/Canto")</span></span> |
+| [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/wild-20URL "Special%253ASearchByProperty/Linktype/wild-20URL")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://curation.pombase.org/pombe  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fpombe "Special%3ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fpombe")</span></span> |
+class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://curation.pombase.org/pombe  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fpombe "Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fpombe")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Canto%23http%3A%2F%2Fcuration.pombase.org%2Fpombe)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Canto%23http%253A%2F%2Fcuration.pombase.org%2Fpombe)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%253AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -65,7 +65,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Canto-23http%253A-2F-2Fcuration.pombase.org-2Fpombe "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -91,8 +91,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

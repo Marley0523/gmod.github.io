@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "Textpresso User Guide"  
 
-- [Textpresso#http://textpresso-www.caltech.edu/cgi-bin/celegans/user_guide](/wiki/Textpresso#http:.2F.2Ftextpresso-www.caltech.edu.2Fcgi-bin.2Fcelegans.2Fuser_guide "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso-23http%3A-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser_guide "Special%253ABrowse/Textpresso-23http:-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser guide")</span>
+- [Textpresso#http://textpresso-www.caltech.edu/cgi-bin/celegans/user_guide](/wiki/Textpresso#http:.2F.2Ftextpresso-www.caltech.edu.2Fcgi-bin.2Fcelegans.2Fuser_guide "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso-23http%253A-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser_guide "Special%253ABrowse/Textpresso-23http:-2F-2Ftextpresso-2Dwww.caltech.edu-2Fcgi-2Dbin-2Fcelegans-2Fuser guide")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/Textpresso-20User-20Guide "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/Textpresso-20User-20Guide "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

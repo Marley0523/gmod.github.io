@@ -23,7 +23,7 @@ This is awesome! We here at EcoliWiki are duly impressed with all the
 logos that the students came up with. Now, can we do something about the
 GBrowse interface?
 
---[DanielRenfro](User%3ADanielRenfro "User%3ADanielRenfro") 15:55, 15 July
+--[DanielRenfro](User%253ADanielRenfro "User%253ADanielRenfro") 15:55, 15 July
 2010 (UTC)
 
 
@@ -40,7 +40,7 @@ GBrowse interface?
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ASpring_2010_Logo_Program" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ASpring_2010_Logo_Program" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -64,8 +64,8 @@ GBrowse interface?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

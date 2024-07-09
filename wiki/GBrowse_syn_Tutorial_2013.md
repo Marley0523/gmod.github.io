@@ -18,7 +18,7 @@
 
 
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%253AMckays "User%253AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 The starting image for this tutorial is **2013 GMOD start day 4
@@ -116,8 +116,8 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

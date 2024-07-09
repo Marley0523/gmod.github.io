@@ -32,8 +32,8 @@ bit.
 ------------------------------------------------------------------------
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User%3AArcoleo&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AArcoleo (page does not exist)">Arcoleo</a>,
+href="http://gmod.org/mediawiki/index.php?title=User%253AArcoleo&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AArcoleo (page does not exist)">Arcoleo</a>,
 
 I think that's a great format, but we will stick with Mediawiki (the
 wiki package used in the GMOD web site) for the Chado documentation for
@@ -43,7 +43,7 @@ Another is because we want users to be able to update the main
 documentation in true wiki style.
 
 Thanks,  
-[Dave Clements](User%3AClements "User%3AClements")  
+[Dave Clements](User%253AClements "User%253AClements")  
 [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ Dave C.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_Documentation_Reorganization" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_Documentation_Reorganization" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -113,8 +113,8 @@ Dave C.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

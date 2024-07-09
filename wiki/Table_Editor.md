@@ -89,7 +89,7 @@ Ecoliwiki's
 <a href="http://ecoliwiki.net/colipedia/index.php/Special:TableEdit"
 class="external text" rel="nofollow">Table Edit</a> is the core for this
 gene-oriented [community
-annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
 database. TableEdit provides a somewhat more friendly way to edit simple
 tables in
 <a href="http://mediawiki.org" class="external text">MediaWiki</a>.
@@ -209,7 +209,7 @@ Making the Table Editor more useful and integrating it better with other
 GMOD tools was our goal for the wiki part of [Hackathon
 2007](Hackathon_2007_info "Hackathon 2007 info"). See [Possible
 TableEdit/Wiki hackathon
-projects](Talk%3AHackathon_2007_info#Possible_TableEdit.2FWiki_hackathon_projects "Talk:Hackathon 2007 info")
+projects](Talk%253AHackathon_2007_info#Possible_TableEdit.2FWiki_hackathon_projects "Talk:Hackathon 2007 info")
 for more.
 
 ### <span id="TableEdit_Chado_round_trip" class="mw-headline">TableEdit Chado round trip</span>
@@ -238,7 +238,7 @@ This would involve:
 
 Based on our already being able to do table insertion, row creation, row
 updates, and row deletion, this should be a relatively simple task of
-getting [middleware](Category%3AMiddleware "Category%3AMiddleware") to have
+getting [middleware](Category%253AMiddleware "Category%253AMiddleware") to have
 Chado provide data in a form that the TableEdit can use.
 
 #### <span id="TableEdit2Chado" class="mw-headline">TableEdit2Chado</span>
@@ -249,7 +249,7 @@ This would involve:
   with information needed to populate/update fields in
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
 - Returning the data in a format that can be transformed to something
-  Chado \[\[[middleware](Category%3AMiddleware "Category%3AMiddleware") can
+  Chado \[\[[middleware](Category%253AMiddleware "Category%253AMiddleware") can
   use.
 
 This is a specific case of the general problem discussed at the [Jan
@@ -269,7 +269,7 @@ Some issues to discuss:
 - how should we pass these requests and send confirmation messages to
   and from remote servers (i.e can we do this as a web service?). This
   would allow interaction with non-PHP
-  [middleware](Category%3AMiddleware "Category%3AMiddleware") (highly
+  [middleware](Category%253AMiddleware "Category%253AMiddleware") (highly
   desirable!).
 
 ### <span id="TableEdit_IntraWiki_Interaction" class="mw-headline">TableEdit IntraWiki Interaction</span>
@@ -291,7 +291,7 @@ or fields.
 ### <span id="AJAX" class="mw-headline">AJAX</span>
 
 There are many places where the TableEdit system would benefit from the
-addition of [AJAX](Category%3AAJAX "Category%3AAJAX").
+addition of [AJAX](Category%253AAJAX "Category%253AAJAX").
 
 - General elimination of reloads
 - Autocomplete fields
@@ -312,14 +312,14 @@ Some possible things to add or change
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Community
-  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+  Annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [TableEdit](Category%253ATableEdit "Category%253ATableEdit")
 
 
 
@@ -353,8 +353,8 @@ Some possible things to add or change
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

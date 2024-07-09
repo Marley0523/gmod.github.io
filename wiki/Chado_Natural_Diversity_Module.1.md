@@ -239,7 +239,7 @@ insert your data in the database.
 - [Chado Natural Diversity Module Working
   Group](Chado_Natural_Diversity_Module_Working_Group "Chado Natural Diversity Module Working Group")
   page, and the [group's discussion
-  page](Talk%3AChado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
+  page](Talk%253AChado_Natural_Diversity_Module_Working_Group "Talk:Chado Natural Diversity Module Working Group")
   for background on how this module was created.
 
 ### <span id="Email_Threads" class="mw-headline">Email Threads</span>
@@ -1257,11 +1257,11 @@ public.nd_reagentprop Structure
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Natural
-  Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+  Diversity](Category%253ANatural_Diversity "Category%253ANatural Diversity")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 
 
 
@@ -1295,8 +1295,8 @@ public.nd_reagentprop Structure
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

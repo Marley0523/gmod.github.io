@@ -22,8 +22,8 @@ part of default debian so I think this page may need to be retired in
 favor of the apt-get or aptitude binary install
 
 - True, but the debian packages for GBrowse is quite old too--it's 2.38,
-  right? [Scott](User%3AScott "User%3AScott")
-  ([talk](User_talk%3AScott "User talk:Scott")) 10:05, 9 January 2014
+  right? [Scott](User%253AScott "User%253AScott")
+  ([talk](User_talk%253AScott "User talk:Scott")) 10:05, 9 January 2014
   (EST)
 
 
@@ -40,7 +40,7 @@ favor of the apt-get or aptitude binary install
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ADebian_Stable_Installation_Notes" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ADebian_Stable_Installation_Notes" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -64,8 +64,8 @@ favor of the apt-get or aptitude binary install
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -22,7 +22,7 @@ in the
 [**`phylotree`**](Chado_Phylogeny_Module#Table:_phylotree "Chado Phylogeny Module")[phylotree
 table](Chado_Phylogeny_Module#Table:_phylotree "Chado Phylogeny Module").
 This script was contributed by [Naama
-Menda](User%3ANaamaMenda "User%3ANaamaMenda") at
+Menda](User%253ANaamaMenda "User%253ANaamaMenda") at
 <a href="http://www.sgn.cornell.edu/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> led by Lukas Mueller.
 
@@ -81,10 +81,10 @@ table will be populated from the tmp table.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [SGN](Category%3ASGN "Category%3ASGN")
-- [Chado](Category%3AChado "Category%3AChado")
+- [SGN](Category%253ASGN "Category%253ASGN")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -118,8 +118,8 @@ table will be populated from the tmp table.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

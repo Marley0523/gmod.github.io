@@ -57,10 +57,10 @@ Kate Rosenbloom, UCSC Genome Bioinformatics
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
 
 
 
@@ -94,8 +94,8 @@ Kate Rosenbloom, UCSC Genome Bioinformatics
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -118,7 +118,7 @@ Kate Rosenbloom, UCSC Genome Bioinformatics
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Face_Caucus_UCSC%3A_User_Interface_Issues"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Face_Caucus_UCSC%253A_User_Interface_Issues"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ATemplate</span>
+# <span dir="auto">Category%253ATemplate</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/Template "Special%3ASearch/Template") in other
+title](Special%253ASearch/Template "Special%253ASearch/Template") in other
 pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ATemplate"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ATemplate"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -37,7 +37,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -110,7 +110,7 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3ATemplate](Category%3ATemplate)"
+"[http://gmod.org/wiki/Category%253ATemplate](Category%253ATemplate)"
 
 
 
@@ -143,8 +143,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -167,7 +167,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATemplate" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ATemplate" rel="smw-browse">Browse
   properties</a></span>
 
 

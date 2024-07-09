@@ -27,7 +27,7 @@ width="250" height="75" alt="Tripal" />
 
 
 This [Tripal](Tripal.1 "Tripal") tutorial was presented by [Stephen
-Ficklin](User%3ASficklin "User%3ASficklin") at the [2011 GMOD Spring
+Ficklin](User%253ASficklin "User%253ASficklin") at the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training"), 8-12
 March 2011. The most recent Tripal tutorial can be found at the
 <a href="Tripal_Tutorial" class="mw-redirect"
@@ -2932,12 +2932,12 @@ height="495" alt="800px-TripalGBrowseImg.png" />
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- [Tripal](Category%3ATripal "Category%3ATripal")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
+- [Tripal](Category%253ATripal "Category%253ATripal")
 
 
 
@@ -2948,7 +2948,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) 
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Tripal "Special%3ASearchByProperty/Has-20topic/Tripal")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [Tripal](Tripal.1 "Tripal") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Tripal "Special%253ASearchByProperty/Has-20topic/Tripal")</span> |
 
 
 
@@ -2982,8 +2982,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) 
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

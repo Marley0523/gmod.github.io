@@ -521,11 +521,11 @@ Financial Support
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Java](Category%3AJava "Category%3AJava")
+- [Java](Category%253AJava "Category%253AJava")
 - [Middleware
-  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
+  Presentations](Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")
 
 
 
@@ -559,8 +559,8 @@ Financial Support
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

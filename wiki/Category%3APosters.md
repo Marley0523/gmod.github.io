@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3APosters</span>
+# <span dir="auto">Category%253APosters</span>
 
 
 
@@ -863,9 +863,9 @@ The following 35 files are in this category, out of 35 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Presentations](Category%3APresentations "Category%3APresentations")
+- [Presentations](Category%253APresentations "Category%253APresentations")
 
 
 
@@ -899,8 +899,8 @@ The following 35 files are in this category, out of 35 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -923,7 +923,7 @@ The following 35 files are in this category, out of 35 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3APosters" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253APosters" rel="smw-browse">Browse
   properties</a></span>
 
 

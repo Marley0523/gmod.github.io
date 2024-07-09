@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">MediaWiki%3ACommon.css</span>
+# <span dir="auto">MediaWiki%253ACommon.css</span>
 
 
 
@@ -382,8 +382,8 @@ min-height: 50px;
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

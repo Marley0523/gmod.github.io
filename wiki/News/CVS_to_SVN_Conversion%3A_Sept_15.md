@@ -32,8 +32,8 @@ height="52" alt="Subversion" />](../CVS_to_Subversion_Conversion "Subversion") |
 GMOD's CVS source code repository will be [converted to Subversion
 (SVN)](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 on September 15, 2009. [Rob
-Buels](../User%3ARobertBuels "User%3ARobertBuels") of Cornell /
-[SGN](../Category%3ASGN "Category%3ASGN") has generously offered to to do
+Buels](../User%253ARobertBuels "User%253ARobertBuels") of Cornell /
+[SGN](../Category%253ASGN "Category%253ASGN") has generously offered to to do
 this. Notes on the conversion are described on the [CVS to Subversion
 Conversion](../CVS_to_Subversion_Conversion "CVS to Subversion Conversion")
 page. The discussion leading up to this decision on the
@@ -85,8 +85,8 @@ reminder and additional info a few days before the conversion.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements") and [Rob
-Buels](../User%3ARobertBuels "User%3ARobertBuels")
+[Dave Clements](../User%253AClements "User%253AClements") and [Rob
+Buels](../User%253ARobertBuels "User%253ARobertBuels")
 
   
 
@@ -99,9 +99,9 @@ Buels](../User%3ARobertBuels "User%3ARobertBuels")
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -140,8 +140,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -164,7 +164,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCVS_to_SVN_Conversion%3A_Sept_15"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCVS_to_SVN_Conversion%253A_Sept_15"
   rel="smw-browse">Browse properties</a></span>
 
 

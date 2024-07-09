@@ -18,7 +18,7 @@
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User%3AScott "User%3AScott") at the
+Cain](User%253AScott "User%253AScott") at the
 <a href="http://www.intlpag.org" class="external text"
 rel="nofollow">Plant and Animal Genomes</a> meeting using JBrowse
 1.12.3.
@@ -625,7 +625,7 @@ is a
 <a href="https://github.com/GMOD/jbrowse-registry" class="external text"
 rel="nofollow">JBrowse plugin registry website</a>, and you can look at
 the source code that drives the website in the <a
-href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjyssGCz7fPAhUK2IMKHfcODEkQFggeMAA&amp;url=https%3A%2F%2Fgithub.com%2FGMOD%2Fjbrowse-registry&amp;usg=AFQjCNEZ9oH5eRRhbZtDcN-W78HcFuAxZw&amp;sig2=J5pff9m409Qv0eQ5Hnli8g"
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjyssGCz7fPAhUK2IMKHfcODEkQFggeMAA&amp;url=https%253A%2F%2Fgithub.com%2FGMOD%2Fjbrowse-registry&amp;usg=AFQjCNEZ9oH5eRRhbZtDcN-W78HcFuAxZw&amp;sig2=J5pff9m409Qv0eQ5Hnli8g"
 class="external text" rel="nofollow">jbrowse-registry github repo</a>,
 and in particular, the file that contains the info about the available
 plugins, <a
@@ -728,10 +728,10 @@ This leaves two command in the home directory: `jb_setup.sh` and
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- [GMOD Tools](Category%3AGMOD_Tools "Category%3AGMOD Tools")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
+- [GMOD Tools](Category%253AGMOD_Tools "Category%253AGMOD Tools")
 
 
 
@@ -743,7 +743,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2018 "Special:
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/JBrowse "Special%253ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 
 
@@ -777,8 +777,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_PAG_2018 "Special:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

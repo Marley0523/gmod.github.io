@@ -90,7 +90,7 @@ Online Training</a>" on this wiki!** See also the search results found.
 
   
 
-  ...tutorial was presented by \[\[User%3AScott\|Scott Cain\]\] as part of
+  ...tutorial was presented by \[\[User%253AScott\|Scott Cain\]\] as part of
   the \[\[2013 <span class="searchmatch">GMOD</span> Summer School\]\].
   Chado is the database schema of the
   <span class="searchmatch">GMOD</span> project. This session introduces
@@ -736,7 +736,7 @@ Online Training</a>" on this wiki!** See also the search results found.
 
   
 
-  ...s tutorial will be taught by \[\[User%3AClements\|Dave Clements\]\]
+  ...s tutorial will be taught by \[\[User%253AClements\|Dave Clements\]\]
   at the \[\[2013 <span class="searchmatch">GMOD</span> Summer
   School\]\]. Get the starting image for this tutorial -
   '''<span class="searchmatch">GMOD</span> 2013 Galaxy Install
@@ -870,7 +870,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/GMOD_Online_Training "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/GMOD_Online_Training "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -893,8 +893,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

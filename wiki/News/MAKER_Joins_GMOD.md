@@ -18,7 +18,7 @@
 
 
 [MAKER](../MAKER.1 "MAKER") is a portable and easy to configure genome
-[annotation](../Category%3AAnnotation "Category%3AAnnotation") pipeline that
+[annotation](../Category%253AAnnotation "Category%253AAnnotation") pipeline that
 has just become a part of GMOD. It's purpose is to allow smaller
 *eukaryotic* genome projects to annotate their genomes and to create
 genome databases. MAKER identifies repeats, aligns ESTs and proteins to
@@ -52,9 +52,9 @@ automatically annotate your genomic data.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -93,8 +93,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

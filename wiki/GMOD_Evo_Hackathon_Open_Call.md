@@ -126,22 +126,22 @@ Sincerely,
 The [GMOD EvoHack](GMOD_Evo_Hackathon "GMOD Evo Hackathon") Organizing
 Committee (and project affiliations as relevant):
 
-- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), Chair
+- [Nicole Washington](User%253ANLWashington "User%253ANLWashington"), Chair
   (Lawrence Berkeley National Laboratory;
   <a href="http://www.modencode.org" class="external text"
   rel="nofollow">modENCODE</a>, [Phenote](Phenote "Phenote"))
-- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels")
+- [Robert Buels](User%253ARobertBuels "User%253ARobertBuels")
   (<a href="http://solgenomics.net/" class="external text"
   rel="nofollow">Solanaceae Genomics Network (SGN)</a>, Chado NatDiv)
-- [Scott Cain](User%3AScott "User%3AScott") (Ontario Institute for Cancer
+- [Scott Cain](User%253AScott "User%253AScott") (Ontario Institute for Cancer
   Research, GMOD)
-- [Dave Clements](User%3AClements "User%3AClements")
+- [Dave Clements](User%253AClements "User%253AClements")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>, GMOD)
-- [Hilmar Lapp](User%3AHlapp "User%3AHlapp")
+- [Hilmar Lapp](User%253AHlapp "User%253AHlapp")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>, Phenoscape, Chado NatDiv)
-- [Sheldon McKay](User%3AMckays "User%3AMckays") (University of Arizona;
+- [Sheldon McKay](User%253AMckays "User%253AMckays") (University of Arizona;
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">iPlant</a>, [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"))
 
@@ -258,8 +258,8 @@ demographic boundaries.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

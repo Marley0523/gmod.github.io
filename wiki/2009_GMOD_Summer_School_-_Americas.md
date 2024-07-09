@@ -134,8 +134,8 @@ July 16</td>
 <td
 style="text-align: center; background-color: #ddffff;"><strong>Introduction
 and Overview</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a><br />
 Participant and instructor introductions, how the GMOD project works,
 what software tools are available in GMOD, how they interoperate, what
 resources are needed to get a GMOD installation up and running, and
@@ -164,7 +164,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="MAKER_Tutorial" class="mw-redirect" title="MAKER Tutorial">MAKER
 I</a></strong><br />
-<a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson Holt</a><br />
+<a href="User%253ACarsonholt" title="User%253ACarsonholt">Carson Holt</a><br />
 <a href="MAKER.1" title="MAKER">MAKER</a> overview, installation, and
 basic configuration for annotating genomic sequence</td>
 </tr>
@@ -182,7 +182,7 @@ class="external text" rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="MAKER_Tutorial" class="mw-redirect" title="MAKER Tutorial">MAKER
 II</a></strong><br />
-<a href="User%3ACarsonholt" title="User%3ACarsonholt">Carson Holt</a><br />
+<a href="User%253ACarsonholt" title="User%253ACarsonholt">Carson Holt</a><br />
 Advanced <a href="MAKER.1" title="MAKER">MAKER</a> configuration,
 re-annotation options, and improving annotation quality</td>
 </tr>
@@ -191,7 +191,7 @@ re-annotation options, and improving annotation quality</td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="JBrowse_Tutorial" class="mw-redirect"
 title="JBrowse Tutorial">JBrowse</a></strong><br />
-<a href="User%3AMitchSkinner" title="User%3AMitchSkinner">Mitch
+<a href="User%253AMitchSkinner" title="User%253AMitchSkinner">Mitch
 Skinner</a><br />
 <a href="JBrowse.1" title="JBrowse">JBrowse</a> installation,
 configuration and administration; converting <a href="GFF3"
@@ -214,9 +214,9 @@ July 17</td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="Chado_Tutorial" class="mw-redirect" title="Chado Tutorial">Chado
 I</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a>, <a
-href="User%3AJorvis" title="User%3AJorvis">Joshua Orvis</a>, and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a>, <a
+href="User%253AJorvis" title="User%253AJorvis">Joshua Orvis</a>, and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 </tr>
 <tr class="even">
 <td style="background-color: #ccffdd">12:30pm</td>
@@ -230,16 +230,16 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="Chado_Tutorial" class="mw-redirect" title="Chado Tutorial">Chado
 II</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a>, <a
-href="User%3AJorvis" title="User%3AJorvis">Joshua Orvis</a>, and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a>, <a
+href="User%253AJorvis" title="User%253AJorvis">Joshua Orvis</a>, and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 </tr>
 <tr class="even">
 <td style="background-color: #ccffdd">3:00pm</td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="Apollo_Tutorial" class="mw-redirect"
 title="Apollo Tutorial">Apollo I</a></strong><br />
-<a href="User%3AElee" title="User%3AElee">Ed Lee</a><br />
+<a href="User%253AElee" title="User%253AElee">Ed Lee</a><br />
 Overview, basic installation, basic configuration, reading/writing data,
 and remote analyses.</td>
 </tr>
@@ -255,7 +255,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="Apollo_Tutorial" class="mw-redirect"
 title="Apollo Tutorial">Apollo II</a></strong><br />
-<a href="User%3AElee" title="User%3AElee">Ed Lee</a><br />
+<a href="User%253AElee" title="User%253AElee">Ed Lee</a><br />
 Custom installation (building Apollo from source), advanced
 configuration, and setting up customized Java Web Start instance.</td>
 </tr>
@@ -275,8 +275,8 @@ July 18</td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="GBrowse_Tutorial" title="GBrowse Tutorial">GBrowse
 I</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a><br />
 </td>
 </tr>
 <tr class="odd">
@@ -291,15 +291,15 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="GBrowse_Tutorial" title="GBrowse Tutorial">GBrowse
 II</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="odd">
 <td style="background-color: #ffffbb">2:30pm</td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="BioMart_Tutorial"
 title="BioMart Tutorial">BioMart</a></strong><br />
-<a href="User%3AJunjun" title="User%3AJunjun">Junjun Zhang</a><br />
+<a href="User%253AJunjun" title="User%253AJunjun">Junjun Zhang</a><br />
 Introduction; exploring over 20 public databases through <a
 href="BioMart" title="BioMart">BioMart</a> central portal; system
 installation; accessing BioMart server via API, webservice and <a
@@ -345,7 +345,7 @@ July 19</td>
 <td style="text-align: center; background-color: #ffeedd;"><strong><a
 href="GBrowse_syn_Tutorial" class="mw-redirect"
 title="GBrowse syn Tutorial">GBrowse_syn</a></strong><br />
-<a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
+<a href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="even">
 <td style="background-color: #ffddcc">12:30pm</td>
@@ -359,7 +359,7 @@ rel="nofollow">on your own</a></td>
 <td style="text-align: center; background-color: #ffeedd;"><strong><a
 href="Tripal_Tutorial" class="mw-redirect"
 title="Tripal Tutorial">Tripal</a></strong><br />
-<a href="User%3ASficklin" title="User%3ASficklin">Stephen Ficklin</a><br />
+<a href="User%253ASficklin" title="User%253ASficklin">Stephen Ficklin</a><br />
 <a href="Tripal.1" title="Tripal">Tripal</a> is a web front end to <a
 href="Chado" class="mw-redirect" title="Chado">Chado</a> databases built
 on <a href="http://www.drupal.org/" class="external text"
@@ -372,8 +372,8 @@ administration.</td>
 <td
 style="text-align: center; background-color: #ffeedd;"><strong>Wrapup
 and Resources</strong><br />
-<a href="User%3AClements" title="User%3AClements">Dave Clements</a> and <a
-href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
+<a href="User%253AClements" title="User%253AClements">Dave Clements</a> and <a
+href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 </tr>
 <tr class="odd">
 <td style="background-color: #ffddcc">6:30pm</td>
@@ -387,23 +387,23 @@ Ends</td>
 
 | Instructor | GMOD Affiliation | Affiliation |
 |----|----|----|
-| [Scott Cain](User%3AScott "User%3AScott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a> develoepr | <a href="http://www.oicr.on.ca/" class="external text"
+| [Scott Cain](User%253AScott "User%253AScott") | GMOD Project Coordinator; <a href="Chado" class="mw-redirect" title="Chado">Chado</a> develoepr | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a> |
-| [Dave Clements](User%3AClements "User%3AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%253AClements "User%253AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> |
-| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | [Tripal](Tripal.1 "Tripal") developer | <a href="http://www.genome.clemson.edu/" class="external text"
+| [Stephen Ficklin](User%253ASficklin "User%253ASficklin") | [Tripal](Tripal.1 "Tripal") developer | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">Clemson University Genomics Institute</a> |
-| [Carson Holt](User%3ACarsonholt "User%3ACarsonholt") | [MAKER](MAKER.1 "MAKER") developer | <a href="http://www.utah.edu" class="external text"
+| [Carson Holt](User%253ACarsonholt "User%253ACarsonholt") | [MAKER](MAKER.1 "MAKER") developer | <a href="http://www.utah.edu" class="external text"
 rel="nofollow">University of Utah</a> |
-| [Ed Lee](User%3AElee "User%3AElee") | [Apollo](Apollo.1 "Apollo") developer | <a href="http://www.berkeleybop.org/" class="external text"
+| [Ed Lee](User%253AElee "User%253AElee") | [Apollo](Apollo.1 "Apollo") developer | <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects (BBOP)</a> |
-| [Sheldon McKay](User%3AMckays "User%3AMckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") developer, [GBrowse](GBrowse.1 "GBrowse") developer | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
+| [Sheldon McKay](User%253AMckays "User%253AMckays") | [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") developer, [GBrowse](GBrowse.1 "GBrowse") developer | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory</a> |
-| [Joshua Orvis](User%3AJorvis "User%3AJorvis") | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> developer and power <a href="Chado" class="mw-redirect" title="Chado">Chado</a> user | <a href="http://www.igs.umaryland.edu/" class="external text"
+| [Joshua Orvis](User%253AJorvis "User%253AJorvis") | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> developer and power <a href="Chado" class="mw-redirect" title="Chado">Chado</a> user | <a href="http://www.igs.umaryland.edu/" class="external text"
 rel="nofollow">Institute for Genome Sciences</a> |
-| [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") developer | <a href="http://berkeley.edu" class="external text"
+| [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | [JBrowse](JBrowse.1 "JBrowse") developer | <a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a> |
-| [Junjun Zhang](User%3AJunjun "User%3AJunjun") | [BioMart](BioMart "BioMart") developer | <a href="http://www.oicr.on.ca/" class="external text"
+| [Junjun Zhang](User%253AJunjun "User%253AJunjun") | [BioMart](BioMart "BioMart") developer | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a> |
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
@@ -455,8 +455,8 @@ alt="Linux" />
 
 
 A free VMware player is available for [Microsoft
-Windows](Category%3AWindows "Category%3AWindows") and
-[Linux](Category%3ALinux "Category%3ALinux") [operating
+Windows](Category%253AWindows "Category%253AWindows") and
+[Linux](Category%253ALinux "Category%253ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -477,7 +477,7 @@ alt="Apple" /></a>
 
 
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
+X](Category%253AMac_OS_X "Category%253AMac OS X"). However, there are several
 other options, *all of which require an Intel Mac*:
 
   
@@ -588,13 +588,13 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [Events](Category%3AEvents "Category%3AEvents")
-- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [Events](Category%253AEvents "Category%253AEvents")
+- [GMOD Schools](Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -628,8 +628,8 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -698,7 +698,7 @@ represents the class of things that happen during the larval stage.
 Two views: *cvterm_genus* and *cvterm_differentium* views are in
 chado/modules/cv/views.
 
-### <span id="Example_Use_Case:_Phenotypes" class="mw-headline">Example Use Case: [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")</span>
+### <span id="Example_Use_Case:_Phenotypes" class="mw-headline">Example Use Case: [Phenotypes](Category%253APhenotypes "Category%253APhenotypes")</span>
 
 The idea here is that queries for composed term "syndactyly" should
 automatically return the same results as a boolean query for "fusion" +
@@ -1626,12 +1626,12 @@ dbxrefprop Structure
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
-- [Ontologies](Category%3AOntologies "Category%3AOntologies")
-- [!Lacking ERD](Category%3A!Lacking_ERD "Category%3A!Lacking ERD")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
+- [Ontologies](Category%253AOntologies "Category%253AOntologies")
+- [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
 
 
@@ -1665,8 +1665,8 @@ dbxrefprop Structure
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

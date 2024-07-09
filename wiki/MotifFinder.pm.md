@@ -18,7 +18,7 @@
 
 
 MotifFinder.pm is a [GBrowse](GBrowse.1 "GBrowse") plugin written by
-[Xiaoqi Shi](User%3AXshi "User%3AXshi"). It finds sequence specific motifs
+[Xiaoqi Shi](User%253AXshi "User%253AXshi"). It finds sequence specific motifs
 using Position Weight Matrix and display results graphically as tracks
 in the genome browser.
 
@@ -200,9 +200,9 @@ faster computational speed .
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse Plugins](Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
+- [GBrowse Plugins](Category%253AGBrowse_Plugins "Category%253AGBrowse Plugins")
 
 
 
@@ -236,8 +236,8 @@ faster computational speed .
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

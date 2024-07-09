@@ -23,7 +23,7 @@ x, unix, win\|platform = linux, os x, unix, win\| platform = web \| logo
 <a href="http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl"
 class="external free"
 rel="nofollow">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl</a>
-\| about = The GO Graphic Viewer module (Bio%3A%3AGMOD::GO::View) generates
+\| about = The GO Graphic Viewer module (Bio%253A%253AGMOD::GO::View) generates
 a graphic that displays the parent and child relationships of a selected
 GO term. It also provides the visualization for the results from the
 <a href="http://search.cpan.org/perldoc?GO::TermFinder"
@@ -72,11 +72,11 @@ demo_server = \| survey_link = \|release date=2003
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -113,8 +113,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

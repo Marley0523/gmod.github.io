@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AMiddleware</span>
+# <span dir="auto">Category%253AMiddleware</span>
 
 
 
@@ -31,8 +31,8 @@ This category has the following 2 subcategories, out of 2 total.
 ### M
 
 - [Middleware
-  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
-- [Modware](Category%3AModware "Category%3AModware")
+  Presentations](Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")
+- [Modware](Category%253AModware "Category%253AModware")
 
 
 
@@ -58,15 +58,15 @@ title="August 2009 GMOD Meeting">August 2009 GMOD Meeting</a></li>
 </ul>
 <h3 id="b">B</h3>
 <ul>
-<li><a href="Bio%3A%3AChado%3A%3ASchema"
-title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></li>
+<li><a href="Bio%253A%253AChado%253A%253ASchema"
+title="Bio%253A%253AChado%253A%253ASchema">Bio%253A%253AChado%253A%253ASchema</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="Chado%3A%3AAutoDBI"
-title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
-<li><a href="Chado%3A%3AAutoDBI_Presentation"
-title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
+<li><a href="Chado%253A%253AAutoDBI"
+title="Chado%253A%253AAutoDBI">Chado%253A%253AAutoDBI</a></li>
+<li><a href="Chado%253A%253AAutoDBI_Presentation"
+title="Chado%253A%253AAutoDBI Presentation">Chado%253A%253AAutoDBI Presentation</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="c-cont.">C cont.</h3>
 <ul>
@@ -110,9 +110,9 @@ title="January 2009 GMOD Meeting">January 2009 GMOD Meeting</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -146,8 +146,8 @@ title="January 2009 GMOD Meeting">January 2009 GMOD Meeting</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -170,7 +170,7 @@ title="January 2009 GMOD Meeting">January 2009 GMOD Meeting</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AMiddleware" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AMiddleware" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Schools</span>
+# <span dir="auto">Category%253AGMOD Schools</span>
 
 
 
@@ -163,8 +163,8 @@ title="Training and Outreach">Training and Outreach</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -187,7 +187,7 @@ title="Training and Outreach">Training and Outreach</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Schools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Schools" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse 2.0 HOWTO</span>
+# <span dir="auto">Talk%253AGBrowse 2.0 HOWTO</span>
 
 
 
@@ -34,7 +34,7 @@ into smaller pages?
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_2.0_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_2.0_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -58,8 +58,8 @@ into smaller pages?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

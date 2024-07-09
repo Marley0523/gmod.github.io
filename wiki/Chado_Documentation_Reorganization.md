@@ -18,7 +18,7 @@
 
 
 We are going to reorganize the [Chado related
-documentation](Category%3AChado "Category%3AChado") in this web site.
+documentation](Category%253AChado "Category%253AChado") in this web site.
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> is the
 database schema of GMOD and it has quite a bit of documentation in this
 web site. However, the doc could be better organized and integrated.
@@ -53,7 +53,7 @@ going.
 This summarizes the major Chado related pages that existed when the
 reorganization began in early April 2008. It is not an exhaustive list
 of pages related to Chado. See the [Chado
-Category](Category%3AChado "Category%3AChado") for that.
+Category](Category%253AChado "Category%253AChado") for that.
 
 <table class="wikitable">
 <colgroup>
@@ -92,7 +92,7 @@ Chado</em> page - a Chado Cookbook page.</td>
 <tr class="odd">
 <td><a href="Chado_Doc_Project" title="Chado Doc Project">Chado Doc
 Project</a></td>
-<td><a href="User%3ABosborne" title="User%3ABosborne">Brian Osborne's</a>
+<td><a href="User%253ABosborne" title="User%253ABosborne">Brian Osborne's</a>
 call-to-arms to write "material that is very practical and specific"
 meaning "Best Practices" and "module pages". Brian broke Chado up into 8
 workpackages and sent out a call for volunteers. 3 of the 8 packages
@@ -297,10 +297,10 @@ This will be placed at the top of the page.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Proposals](Category%3AProposals "Category%3AProposals")
-- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
+- [Proposals](Category%253AProposals "Category%253AProposals")
+- [GMOD Web Site](Category%253AGMOD_Web_Site "Category%253AGMOD Web Site")
 
 
 
@@ -314,7 +314,7 @@ This will be placed at the top of the page.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_Documentation_Reorganization" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_Documentation_Reorganization" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -338,8 +338,8 @@ This will be placed at the top of the page.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

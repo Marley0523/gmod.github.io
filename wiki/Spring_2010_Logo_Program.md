@@ -75,10 +75,10 @@ stronger commitment to the projects and to working with the students.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [Logos and Icons](Category%253ALogos_and_Icons "Category%253ALogos and Icons")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -92,7 +92,7 @@ stronger commitment to the projects and to working with the students.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ASpring_2010_Logo_Program" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ASpring_2010_Logo_Program" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -116,8 +116,8 @@ stronger commitment to the projects and to working with the students.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

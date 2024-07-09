@@ -121,7 +121,7 @@ program has been built.
 
 ## <span id="Developer_notes" class="mw-headline">Developer notes</span>
 
-Current developers are [Don Gilbert](User%3ADongilbert "User%3ADongilbert"),
+Current developers are [Don Gilbert](User%253ADongilbert "User%253ADongilbert"),
 Nihar Sheth and Victor Strelets for FlyBase-NG and euGenes uses. We hope
 others will try it and join us in using and developing it. Email us at
 <a href="mailto:argos@eugenes.org" class="external text"
@@ -515,11 +515,11 @@ instructions.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -553,8 +553,8 @@ instructions.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

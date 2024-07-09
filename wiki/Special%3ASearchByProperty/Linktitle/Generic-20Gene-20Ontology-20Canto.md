@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "Generic Gene Ontology Canto"  
 
-- [Canto#http://curation.pombase.org/uniprot](/wiki/Canto#http:.2F.2Fcuration.pombase.org.2Funiprot "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot "Special%253ABrowse/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot")</span>
+- [Canto#http://curation.pombase.org/uniprot](/wiki/Canto#http:.2F.2Fcuration.pombase.org.2Funiprot "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto-23http%253A-2F-2Fcuration.pombase.org-2Funiprot "Special%253ABrowse/Canto-23http%253A-2F-2Fcuration.pombase.org-2Funiprot")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/Generic-20Gene-20Ontology-20Canto "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

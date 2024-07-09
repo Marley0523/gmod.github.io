@@ -37,7 +37,7 @@ like the required Mediawiki extensions are not installed.
 
 - <span id="ca-nstab-template"><a href="Template:GBrowse" accesskey="c"
   title="View the template [c]">Template</a></span>
-- <span id="ca-talk"><a href="Template_talk%3AGBrowse" accesskey="t"
+- <span id="ca-talk"><a href="Template_talk%253AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -61,8 +61,8 @@ like the required Mediawiki extensions are not installed.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

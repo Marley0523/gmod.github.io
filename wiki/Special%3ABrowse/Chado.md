@@ -30,8 +30,8 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Tutorial 2010](/wiki/Chado_Tutorial_2010 "Chado Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202010 "Special%253ABrowse/Chado-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[GMOD Malaysia 2014/Chado Tutorial](/wiki/GMOD_Malaysia_2014/Chado_Tutorial "GMOD Malaysia 2014/Chado Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/Chado Tutorial](/wiki/GMOD_Online_Training_2014/Chado_Tutorial "GMOD Online Training 2014/Chado Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[InterMine](/wiki/InterMine "InterMine") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span></span> , <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span></span> | [Interacts with](/wiki/Property%3AInteracts_with "Property:Interacts with") |
+| <span class="smwb-ivalue">[Chado Tutorial 2010](/wiki/Chado_Tutorial_2010 "Chado Tutorial 2010") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202010 "Special%253ABrowse/Chado-20Tutorial-202010")</span></span> , <span class="smwb-ivalue">[GMOD Malaysia 2014/Chado Tutorial](/wiki/GMOD_Malaysia_2014/Chado_Tutorial "GMOD Malaysia 2014/Chado Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FChado-20Tutorial")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/Chado Tutorial](/wiki/GMOD_Online_Training_2014/Chado_Tutorial "GMOD Online Training 2014/Chado Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FChado-20Tutorial")</span></span> | [Has topic](/wiki/Property%253AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[InterMine](/wiki/InterMine "InterMine") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span></span> , <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span></span> | [Interacts with](/wiki/Property%253AInteracts_with "Property:Interacts with") |
 
 |     |     |
 |-----|-----|
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

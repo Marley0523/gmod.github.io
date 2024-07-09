@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[LuceGene](/wiki/Category%3ALuceGene "Category%3ALuceGene")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/LuceGene "Special%3ASearchByProperty/LuceGene")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category%3AWFleaBase "Category%3AWFleaBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WFleaBase "Special%3ASearchByProperty/WFleaBase")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">6 September 2010 15:09:55  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/6-20September-202010-2015:09:55 "Special%3ASearchByProperty/Modification-20date/6-20September-202010-2015:09:55")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[GMOD Components](/wiki/Category%253AGMOD_Components "Category%253AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Components "Special%253ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[LuceGene](/wiki/Category%253ALuceGene "Category%253ALuceGene")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/LuceGene "Special%253ASearchByProperty/LuceGene")</span></span> , <span class="smwb-value">[WFleaBase](/wiki/Category%253AWFleaBase "Category%253AWFleaBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WFleaBase "Special%253ASearchByProperty/WFleaBase")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">6 September 2010 15:09:55  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/6-20September-202010-2015:09:55 "Special%253ASearchByProperty/Modification-20date/6-20September-202010-2015:09:55")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

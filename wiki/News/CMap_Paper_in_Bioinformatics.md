@@ -40,8 +40,8 @@ class="external text" rel="nofollow">Bioinformatics</a>*:
 href="http://bioinformatics.oxfordjournals.org/cgi/content/full/25/22/3040"
 class="external text" rel="nofollow">CMap 1.01: a comparative mapping
 application for the Internet</a>, by Ken Youens-Clark, [Ben
-Faga](../User%3AFaga "User%3AFaga"), Immanuel V. Yap, [Lincoln
-Stein](../User%3ALstein "User%3ALstein") and Doreen Ware.
+Faga](../User%253AFaga "User%253AFaga"), Immanuel V. Yap, [Lincoln
+Stein](../User%253ALstein "User%253ALstein") and Doreen Ware.
 
 [CMap](../CMap.1 "CMap") is a web-based tool for displaying and
 comparing maps of any type and from any species. Users can compare an
@@ -54,7 +54,7 @@ covered in the <a href="http://www.intl-pag.org/18/18-gramene.html"
 class="external text" rel="nofollow">Gramene workshop</a> and in a
 poster at [PAG 2010](../PAG_2010 "PAG 2010").
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -68,9 +68,9 @@ poster at [PAG 2010](../PAG_2010 "PAG 2010").
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -109,8 +109,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

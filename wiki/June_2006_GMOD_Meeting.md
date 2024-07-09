@@ -51,7 +51,7 @@ rel="nofollow">NESCent</a>, Durham, NC
   class="internal"
   title="Stajich GMOD 2006-06-30.pdf">Stajich_GMOD_2006-06-30.pdf</a>‎ -
   Fungal [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bc/Vision.pdf" class="internal"
   title="Vision.pdf">Vision.pdf</a>‎
 - <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Whats_new.ppt" class="internal"
@@ -140,9 +140,9 @@ avoid duplication and encourage cooperation
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -176,8 +176,8 @@ avoid duplication and encourage cooperation
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

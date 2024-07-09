@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AConfiguration</span>
+# <span dir="auto">Category%253AConfiguration</span>
 
 
 
@@ -55,8 +55,8 @@ Configuration/Balloons</a></li>
 <ul>
 <li><a href="GBrowse_Configuration/DAS"
 title="GBrowse Configuration/DAS">GBrowse Configuration/DAS</a></li>
-<li><a href="Talk%3AGBrowse_Configuration/DAS"
-title="Talk%3AGBrowse Configuration/DAS">Talk%3AGBrowse
+<li><a href="Talk%253AGBrowse_Configuration/DAS"
+title="Talk%253AGBrowse Configuration/DAS">Talk%253AGBrowse
 Configuration/DAS</a></li>
 <li><a href="GBrowse_Configuration/Feature_frequency_histograms"
 title="GBrowse Configuration/Feature frequency histograms">GBrowse
@@ -86,9 +86,9 @@ schema</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 
 
@@ -122,8 +122,8 @@ schema</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -146,7 +146,7 @@ schema</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AConfiguration" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AConfiguration" rel="smw-browse">Browse
   properties</a></span>
 
 

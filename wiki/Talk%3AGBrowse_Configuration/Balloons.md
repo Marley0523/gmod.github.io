@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse Configuration/Balloons</span>
+# <span dir="auto">Talk%253AGBrowse Configuration/Balloons</span>
 
 
 
@@ -21,7 +21,7 @@
 
 You can use \$name when creating a custom balloon... What other
 variables can be used please?
---[DanBolser](../User%3ADanBolser "User%3ADanBolser") 09:44, 12 August 2010
+--[DanBolser](../User%253ADanBolser "User%253ADanBolser") 09:44, 12 August 2010
 (UTC)
 
 
@@ -67,8 +67,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

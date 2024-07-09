@@ -57,7 +57,7 @@ ISGA](../File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.
 which provides a customized, abstract interface to Ergatis designed for
 biologists with specific pipeline needs.
 
-[Joshua Orvis](../User%3AJorvis "User%3AJorvis")
+[Joshua Orvis](../User%253AJorvis "User%253AJorvis")
 
   
 
@@ -70,9 +70,9 @@ biologists with specific pipeline needs.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -111,8 +111,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

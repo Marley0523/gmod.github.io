@@ -21,15 +21,15 @@
 - [WebApollo](/wiki/WebApollo#_e25e09b3c3c15a82835f7fa1b510fe42 "WebApollo")
    <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23_e25e09b3c3c15a82835f7fa1b510fe42 "Special%253ABrowse/WebApollo-23 e25e09b3c3c15a82835f7fa1b510fe42")</span>
 - [WebApollo#https://github.com/gmod/apollo](/wiki/WebApollo#https:.2F.2Fgithub.com.2Fgmod.2Fapollo "WebApollo")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo "Special%253ABrowse/WebApollo-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23https%253A-2F-2Fgithub.com-2Fgmod-2Fapollo "Special%253ABrowse/WebApollo-23https%253A-2F-2Fgithub.com-2Fgmod-2Fapollo")</span>
 - [WebApollo#http://genomearchitect.org](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org "WebApollo")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org "Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org "Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org")</span>
 - [WebApollo#http://genomearchitect.org:8080/WebApolloDemo/](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org:8080.2FWebApolloDemo.2F "WebApollo")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span>
 - [WebApollo#http://genomearchitect.org/webapollo/releases/](/wiki/WebApollo#http:.2F.2Fgenomearchitect.org.2Fwebapollo.2Freleases.2F "WebApollo")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F "Special%253ABrowse/WebApollo-23http%3A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F "Special%253ABrowse/WebApollo-23http%253A-2F-2Fgenomearchitect.org-2Fwebapollo-2Freleases-2F")</span>
 - [WebApollo#http://code.google.com/p/genomancer](/wiki/WebApollo#http:.2F.2Fcode.google.com.2Fp.2Fgenomancer "WebApollo")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer "Special%253ABrowse/WebApollo-23http%3A-2F-2Fcode.google.com-2Fp-2Fgenomancer")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo-23http%253A-2F-2Fcode.google.com-2Fp-2Fgenomancer "Special%253ABrowse/WebApollo-23http%253A-2F-2Fcode.google.com-2Fp-2Fgenomancer")</span>
 
  
 
@@ -49,7 +49,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/WebApollo%3A%3AHas_subobject "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/WebApollo%253A%253AHas_subobject "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -75,8 +75,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

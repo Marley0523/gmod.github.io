@@ -29,14 +29,14 @@ alt="Artemis" />
 
 
 This [Artemis-Chado Integration](Artemis "Artemis") tutorial was
-presented by [Robin Houston](User%3ARobinHouston "User%3ARobinHouston"),
-[Tim Carver](User%3ATimCarver "User%3ATimCarver") and [Giles
-Velarde](User%3ABuggy "User%3ABuggy") at the 2009 GMOD Summer School -
+presented by [Robin Houston](User%253ARobinHouston "User%253ARobinHouston"),
+[Tim Carver](User%253ATimCarver "User%253ATimCarver") and [Giles
+Velarde](User%253ABuggy "User%253ABuggy") at the 2009 GMOD Summer School -
 Europe, August 2009. The most recent Artemis tutorial can be found at
 the <a href="Artemis_Tutorial" class="mw-redirect"
 title="Artemis Tutorial">Artemis Tutorial</a> page.
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through how to use the Artemis annotation editor with a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database.
 
@@ -139,10 +139,10 @@ class="external text" rel="nofollow">artemis-user</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -153,7 +153,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Artemis "Special%3ASearchByProperty/Has-20topic/Artemis")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [Artemis](Artemis "Artemis") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Artemis "Special%253ASearchByProperty/Has-20topic/Artemis")</span> |
 
 
 
@@ -187,8 +187,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

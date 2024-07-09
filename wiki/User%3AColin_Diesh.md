@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AColin Diesh</span>
+# <span dir="auto">User%253AColin Diesh</span>
 
 
 
@@ -64,8 +64,8 @@ rel="nofollow">[2]</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -88,7 +88,7 @@ rel="nofollow">[2]</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AColin_Diesh" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AColin_Diesh" rel="smw-browse">Browse
   properties</a></span>
 
 

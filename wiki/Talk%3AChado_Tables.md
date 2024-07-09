@@ -21,7 +21,7 @@ Are the 'wwwuser' tables a standard part of chado schema? If not, they
 probably should be moved out of this document into a subsidiary one.
 Maybe also to streamline this document into an easier one to read. They
 are not in my chado schema installs.
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 19:34, 28 September 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 19:34, 28 September 2007
 (EDT)
 
 
@@ -38,7 +38,7 @@ are not in my chado schema installs.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_Tables" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_Tables" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -62,8 +62,8 @@ are not in my chado schema installs.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

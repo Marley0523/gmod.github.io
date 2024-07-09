@@ -70,7 +70,7 @@ comments and suggestions.
 <!-- -->
 
 - **[comparative
-  genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")**
+  genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")**
   improvements. Projects in this area include the widely used
   [CMap](CMap.1 "CMap"), and current
   <a href="Synteny" class="mw-redirect" title="Synteny">syntenic</a> map
@@ -93,13 +93,13 @@ comments and suggestions.
   [Textpresso](Textpresso "Textpresso") and possible improvements,
   additions.
 
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 18:14, 7 December 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 18:14, 7 December 2007
 (EST)
 
 ## <span id="Chado_Documentation_Reorganization" class="mw-headline">Chado Documentation Reorganization</span>
 
 We are reorganizing the [Chado related
-documentation](Category%3AChado "Category%3AChado") in this web site. See
+documentation](Category%253AChado "Category%253AChado") in this web site. See
 the [Chado Documentation
 Reorganization](Chado_Documentation_Reorganization "Chado Documentation Reorganization")
 page for more on this effort and how you can help direct it.
@@ -107,10 +107,10 @@ page for more on this effort and how you can help direct it.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -124,7 +124,7 @@ page for more on this effort and how you can help direct it.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Project_Page" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Project_Page" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -148,8 +148,8 @@ page for more on this effort and how you can help direct it.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

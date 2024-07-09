@@ -180,14 +180,14 @@ class="external text" rel="nofollow">Reference Genomes</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [GMOD Best
-  Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")
+  Practices](Category%253AGMOD_Best_Practices "Category%253AGMOD Best Practices")
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
-- [WormBase](Category%3AWormBase "Category%3AWormBase")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
+- [WormBase](Category%253AWormBase "Category%253AWormBase")
 
 
 
@@ -221,8 +221,8 @@ class="external text" rel="nofollow">Reference Genomes</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

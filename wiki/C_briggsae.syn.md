@@ -20,7 +20,7 @@
 This is the species database for *C. briggsae*. This is one of the three
 species currently represented in the instance of
 [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") that is installed at
-[WormBase](Category%3AWormBase "Category%3AWormBase"). The species config
+[WormBase](Category%253AWormBase "Category%253AWormBase"). The species config
 file con be a normal
 <a href="GBrowse_Configuration_HOWTO" class="mw-redirect"
 title="GBrowse Configuration HOWTO">GBrowse config file</a> or can a a
@@ -79,9 +79,9 @@ simplified version as shown here.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -115,8 +115,8 @@ simplified version as shown here.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -19,10 +19,10 @@
 
 gmod_load_cvterms.pl is a perl script for loading and more importantly,
 updating controlled vocabulary and
-[ontology](Category%3AOntologies "Category%3AOntologies") terms in the
+[ontology](Category%253AOntologies "Category%253AOntologies") terms in the
 [cvterm table](Chado_CV_Module#Table:_cvterm "Chado CV Module"). This
 script was contributed by [Naama
-Menda](User%3ANaamaMenda "User%3ANaamaMenda") and the developers at the
+Menda](User%253ANaamaMenda "User%253ANaamaMenda") and the developers at the
 <a href="http://www.sgn.cornell.edu/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> lead by Lukas Mueller.
 
@@ -133,11 +133,11 @@ stored.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Ontologies](Category%3AOntologies "Category%3AOntologies")
-- [SGN](Category%3ASGN "Category%3ASGN")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Ontologies](Category%253AOntologies "Category%253AOntologies")
+- [SGN](Category%253ASGN "Category%253ASGN")
 
 
 
@@ -171,8 +171,8 @@ stored.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -27,11 +27,11 @@
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -42,7 +42,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse-20syn "Special%3ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [GBrowse syn](GBrowse_syn.1 "GBrowse syn") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/GBrowse-20syn "Special%253ASearchByProperty/Has-20topic/GBrowse-20syn")</span> |
 
 
 
@@ -76,8 +76,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_AGS_Tutorial "Special:E
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

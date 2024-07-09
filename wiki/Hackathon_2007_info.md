@@ -276,9 +276,9 @@ possibilities. Please feel free to add more.
   (documentation, examples, tutorials, configuration files, installation
   procedures, etc)
 
-[Justin](User%3AJustaddcoffee "User%3AJustaddcoffee"): I've written
+[Justin](User%253AJustaddcoffee "User%253AJustaddcoffee"): I've written
 [Apollo-Chado Integration at BovineBase: Bugs and
-Suggestions](Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
+Suggestions](Apollo-Chado_Integration_at_BovineBase%253A_Bugs_and_Suggestions "Apollo-Chado Integration at BovineBase: Bugs and Suggestions")
 containing a list of bugs and suggestions from our developers and
 [Apollo](Apollo.1 "Apollo") users, compiled during our construction of a
 Chado\<-\>Apollo setup for the Bovine genome annotation effort.
@@ -319,7 +319,7 @@ coming:
   probably use that.)
 - Also in the vmware instance: ~~phpmyadmin, phppgadmin,~~ mediawiki all
   configured and ready to use.
-  [Scott](User%3AScott "User%3AScott") 20:46, 30 July 2007 (EDT): *I don't
+  [Scott](User%253AScott "User%253AScott") 20:46, 30 July 2007 (EDT): *I don't
   think the admin stuff needs to be a priority*
 - A printer (maybe--do people use paper anymore?)
 - A computer projector
@@ -376,13 +376,13 @@ Possible:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Community
-  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
-- [Events](Category%3AEvents "Category%3AEvents")
+  Annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [TableEdit](Category%253ATableEdit "Category%253ATableEdit")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -396,7 +396,7 @@ Possible:
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AHackathon_2007_info" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AHackathon_2007_info" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -420,8 +420,8 @@ Possible:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

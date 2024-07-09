@@ -60,7 +60,7 @@ Some highlights:
   [Perl](../August_2009_GMOD_Meeting#A_DBIx_Class_layer_for_Chado "August 2009 GMOD Meeting")
   and
   [Java](../August_2009_GMOD_Meeting#GMOD_Biological_Object_Layer "August 2009 GMOD Meeting")
-  [middleware](../Category%3AMiddleware "Category%3AMiddleware") packages
+  [middleware](../Category%253AMiddleware "Category%253AMiddleware") packages
   for <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>.
 
 Plus many other excellent presentations on topics ranging from
@@ -79,7 +79,7 @@ University of Oxford</a> for hosting and financially supporting [GMOD
 Europe 2009](../GMOD_Europe_2009 "GMOD Europe 2009"). We could not have
 done this without you.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -93,9 +93,9 @@ done this without you.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -134,8 +134,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

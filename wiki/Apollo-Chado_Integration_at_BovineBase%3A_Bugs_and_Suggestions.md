@@ -110,12 +110,12 @@ something isn't clear.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [Chado](Category%3AChado "Category%3AChado")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [Chado](Category%253AChado "Category%253AChado")
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -149,8 +149,8 @@ something isn't clear.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -174,7 +174,7 @@ something isn't clear.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%253ABrowse/Apollo-2DChado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
+  href="Special%253ABrowse/Apollo-2DChado_Integration_at_BovineBase%253A_Bugs_and_Suggestions"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AStajich</span>
+# <span dir="auto">User%253AStajich</span>
 
 
 
@@ -23,7 +23,7 @@ working on fungal evolutionary genomics. I work on
 <a href="Gbrowse.1" class="mw-redirect" title="Gbrowse">Gbrowse</a>.
 
 For more information, see my
-<a href="http://bioperl.org/wiki/User%3AJason" class="external text"
+<a href="http://bioperl.org/wiki/User%253AJason" class="external text"
 rel="nofollow">BioPerl page</a> and
 <a href="http://lab.stajich.org" class="external text"
 rel="nofollow">lab</a> page for more info.
@@ -62,8 +62,8 @@ rel="nofollow">lab</a> page for more info.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -86,7 +86,7 @@ rel="nofollow">lab</a> page for more info.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AStajich" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AStajich" rel="smw-browse">Browse
   properties</a></span>
 
 

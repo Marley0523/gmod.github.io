@@ -125,12 +125,12 @@ class="external text" rel="nofollow">Pathway Tools release notes</a>.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Pathway Tools](../Category%3APathway_Tools "Category%3APathway Tools")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Pathway Tools](../Category%253APathway_Tools "Category%253APathway Tools")
 
 
 
@@ -169,8 +169,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

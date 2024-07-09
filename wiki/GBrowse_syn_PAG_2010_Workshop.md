@@ -100,7 +100,7 @@ scientists working with multiple sequence alignment data.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-[Sheldon McKay](User%3AMckays "User%3AMckays"),
+[Sheldon McKay](User%253AMckays "User%253AMckays"),
 <a href="http://modencode.org" class="external text"
 rel="nofollow">modENCODE</a> and
 <a href="http://www.iplantcollaborative.org/" class="external text"
@@ -193,8 +193,8 @@ workshop.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

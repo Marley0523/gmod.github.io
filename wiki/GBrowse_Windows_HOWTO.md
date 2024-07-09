@@ -162,17 +162,17 @@ ActiveState and/or Apache!). A few notes:
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Lincoln Stein](User%3ALstein "User%3ALstein")
-- [Scott Cain](User%3AScott "User%3AScott")
+- [Lincoln Stein](User%253ALstein "User%253ALstein")
+- [Scott Cain](User%253AScott "User%253AScott")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Windows](Category%3AWindows "Category%3AWindows")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Windows](Category%253AWindows "Category%253AWindows")
 
 
 
@@ -206,8 +206,8 @@ ActiveState and/or Apache!). A few notes:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

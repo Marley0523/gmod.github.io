@@ -51,38 +51,38 @@ Resources
 Tools](Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Pathway_Tools "Special:ExportRDF/Pathway Tools")</span></span>
 
-[Available on platform](Property%3AAvailable_on_platform "Property:Available on platform")
+[Available on platform](Property%253AAvailable_on_platform "Property:Available on platform")
 
 
 
 web
-<span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>,
+<span class="smwsearch">[+](Special%253ASearchByProperty/Available-20on-20platform/web "Special%253ASearchByProperty/Available-20on-20platform/web")</span>,
 linux
-<span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/linux "Special%3ASearchByProperty/Available-20on-20platform/linux")</span>,
+<span class="smwsearch">[+](Special%253ASearchByProperty/Available-20on-20platform/linux "Special%253ASearchByProperty/Available-20on-20platform/linux")</span>,
 os x
-<span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/os-20x "Special%3ASearchByProperty/Available-20on-20platform/os-20x")</span>
+<span class="smwsearch">[+](Special%253ASearchByProperty/Available-20on-20platform/os-20x "Special%253ASearchByProperty/Available-20on-20platform/os-20x")</span>
 and windows
-<span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/windows "Special%3ASearchByProperty/Available-20on-20platform/windows")</span>
+<span class="smwsearch">[+](Special%253ASearchByProperty/Available-20on-20platform/windows "Special%253ASearchByProperty/Available-20on-20platform/windows")</span>
 
-[Has URL](Property%3AHas_URL "Property:Has URL")
+[Has URL](Property%253AHas_URL "Property:Has URL")
 
 <a href="http://biocyc.org/download.shtml" class="external free"
 rel="nofollow">http://biocyc.org/download.shtml</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fdownload.shtml")</span>,
+<span class="smwsearch">[+](Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2Fdownload.shtml "Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2Fdownload.shtml")</span>,
 <a href="http://bioinformatics.ai.sri.com/ptools/" class="external free"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>,
+<span class="smwsearch">[+](Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F")</span>,
 <a href="http://biocyc.org/" class="external free"
 rel="nofollow">http://biocyc.org/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2F")</span>,
+<span class="smwsearch">[+](Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2F "Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2F")</span>,
 <a href="http://biocyc.org/ECOLI/" class="external free"
 rel="nofollow">http://biocyc.org/ECOLI/</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2FECOLI-2F "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2FECOLI-2F")</span>
+<span class="smwsearch">[+](Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2FECOLI-2F "Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2FECOLI-2F")</span>
 and <a href="http://biocyc.org/otherpgdbs.shtml" class="external free"
 rel="nofollow">http://biocyc.org/otherpgdbs.shtml</a>
-<span class="smwsearch">[+](Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
+<span class="smwsearch">[+](Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
 
-[Has description](Property%3AHas_description "Property:Has description")
+[Has description](Property%253AHas_description "Property:Has description")
 
 Pathway Tools is a comprehensive symbolic <span class="smw-highlighter"
 data-type="2" state="persistent"
@@ -129,10 +129,10 @@ Pathway Tools has four components:
 - Pathway/Genome Editors: Provide interactive editing capabilities for
   PGDBs.nteractive editing capabilities for PGDBs.
   <span class="smwsearch"><a
-  href="http://gmod.org/mediawiki/index.php?title=Special%3ASearchByProperty&amp;x=Has-20description%2FPathway-20Tools-20is-20a-20comprehensive-20symbolic-20systems-20biology-20software-20system-20that-20supports-20several-20use-20cases-20in-20bioinformatics-20and-20systems-20biology%3A-0A%2ADevelopment-20of-20organism-2Dspecific-20databases-20called-20Pathway-2FGenome-20Databases-20%28PGDBs%29-20that-20integrate-20many-20bioinformatics-20datatypes%2C-20from-20genomes-20to-20pathways-20to-20regulatory-20networks.-0A%2ADevelopment-20of-20metabolic-2Dflux-20models-20using-20flux-2Dbalance-20analysis-0A%2AScientific-20visualization%2C-20web-20publishing%2C-20and-20dissemination-20of-20those-20organism-2Dspecific-20databases%2C-20including%3A-0A%2A%2AAutomatic-20display-20of-20metabolic-20pathways-20and-20full-20metabolic-20networks%3B-20generation-20of-20metabolic-20map-20diagram-20and-20of-20metabolic-20map-20poster-20%28-5Bhttp%3A-2F-2Fbioinformatics.ai.sri.com-2Fposters-2Fecoli-2Dmetab.pdf-20example-5D%29.-0A%2A%2AGenome-20browser%3B-20comparative-20genome-20browser%3B-20generation-20of-20genome-20poster-20%28-5Bhttp%3A-2F-2Fbioinformatics.ai.sri.com-2Fposters-2Fecoli-2Dgenome.pdf-20example-5D%29.-0A%2A%2ADisplay-20of-20operons%2C-20regulons%2C-20and-20full-20transcriptional-20regulatory-20networks-0A%2AAnalysis-20of-20omics-20datasets%2C-20including-20painting-20omics-20data-20on-20to-20diagrams-20of-20the-20full-20metabolic-20network%2C-20enrichment-20analysis.-0A%2AComputational-20inferences-20including-20prediction-20of-20metabolic-20pathways%2C-20prediction-20of-20metabolic-20pathway-20hole-20fillers%2C-20prediction-20of-20operons-0A%2AComparative-20analyses-20of-20model-2Dorganism-20databases.-0A%2AAnalysis-20of-20biological-20networks%3A-0A%2A%2AInteractively-20tracing-20metabolites-20through-20the-20metabolic-20network-0A%2A%2AFinding-20dead-2Dend-20metabolites-20in-20metabolic-20networks-0A%2A%2AIdentifying-20choke-20points-20%28potential-20drug-20targets%29-20in-20metabolic-20networks-0A-0APathway-20Tools-20has-20four-20components%3A-0A%2APathoLogic%3A-20Creates-20a-20new-20PGDB-20containing-20the-20predicted-20metabolic-20pathways-20of-20an-20organism%2C-20given-20a-20Genbank-20entry-20as-20input.-0A%2APathway-2FGenome-20Navigator%3A-20Supports-20query%2C-20visualization%2C-20and-20analysis-20of-20PGDBs.-20The-20Navigator-20powers-20the-20BioCyc-20web-20site-20at-20BioCyc.org.-0A%2AMetaFlux%3A-20Supports-20development-20of-20metabolic-20flux-20models-20from-20Pathway-2FGenome-20Databases.-0A%2APathway-2FGenome-20Editors%3A-20Provide-20interactive-20editing-20capabilities-20for-20PGDBs."
+  href="http://gmod.org/mediawiki/index.php?title=Special%253ASearchByProperty&amp;x=Has-20description%2FPathway-20Tools-20is-20a-20comprehensive-20symbolic-20systems-20biology-20software-20system-20that-20supports-20several-20use-20cases-20in-20bioinformatics-20and-20systems-20biology%253A-0A%2ADevelopment-20of-20organism-2Dspecific-20databases-20called-20Pathway-2FGenome-20Databases-20%28PGDBs%29-20that-20integrate-20many-20bioinformatics-20datatypes%2C-20from-20genomes-20to-20pathways-20to-20regulatory-20networks.-0A%2ADevelopment-20of-20metabolic-2Dflux-20models-20using-20flux-2Dbalance-20analysis-0A%2AScientific-20visualization%2C-20web-20publishing%2C-20and-20dissemination-20of-20those-20organism-2Dspecific-20databases%2C-20including%253A-0A%2A%2AAutomatic-20display-20of-20metabolic-20pathways-20and-20full-20metabolic-20networks%3B-20generation-20of-20metabolic-20map-20diagram-20and-20of-20metabolic-20map-20poster-20%28-5Bhttp%253A-2F-2Fbioinformatics.ai.sri.com-2Fposters-2Fecoli-2Dmetab.pdf-20example-5D%29.-0A%2A%2AGenome-20browser%3B-20comparative-20genome-20browser%3B-20generation-20of-20genome-20poster-20%28-5Bhttp%253A-2F-2Fbioinformatics.ai.sri.com-2Fposters-2Fecoli-2Dgenome.pdf-20example-5D%29.-0A%2A%2ADisplay-20of-20operons%2C-20regulons%2C-20and-20full-20transcriptional-20regulatory-20networks-0A%2AAnalysis-20of-20omics-20datasets%2C-20including-20painting-20omics-20data-20on-20to-20diagrams-20of-20the-20full-20metabolic-20network%2C-20enrichment-20analysis.-0A%2AComputational-20inferences-20including-20prediction-20of-20metabolic-20pathways%2C-20prediction-20of-20metabolic-20pathway-20hole-20fillers%2C-20prediction-20of-20operons-0A%2AComparative-20analyses-20of-20model-2Dorganism-20databases.-0A%2AAnalysis-20of-20biological-20networks%253A-0A%2A%2AInteractively-20tracing-20metabolites-20through-20the-20metabolic-20network-0A%2A%2AFinding-20dead-2Dend-20metabolites-20in-20metabolic-20networks-0A%2A%2AIdentifying-20choke-20points-20%28potential-20drug-20targets%29-20in-20metabolic-20networks-0A-0APathway-20Tools-20has-20four-20components%253A-0A%2APathoLogic%253A-20Creates-20a-20new-20PGDB-20containing-20the-20predicted-20metabolic-20pathways-20of-20an-20organism%2C-20given-20a-20Genbank-20entry-20as-20input.-0A%2APathway-2FGenome-20Navigator%253A-20Supports-20query%2C-20visualization%2C-20and-20analysis-20of-20PGDBs.-20The-20Navigator-20powers-20the-20BioCyc-20web-20site-20at-20BioCyc.org.-0A%2AMetaFlux%253A-20Supports-20development-20of-20metabolic-20flux-20models-20from-20Pathway-2FGenome-20Databases.-0A%2APathway-2FGenome-20Editors%253A-20Provide-20interactive-20editing-20capabilities-20for-20PGDBs."
   class="external text" rel="nofollow">+</a></span> and list of PGDBs
   hosted elsewhere
-  <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20description/list-20of-20PGDBs-20hosted-20elsewhere "Special%3ASearchByProperty/Has-20description/list-20of-20PGDBs-20hosted-20elsewhere")</span>
+  <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20description/list-20of-20PGDBs-20hosted-20elsewhere "Special%253ASearchByProperty/Has-20description/list-20of-20PGDBs-20hosted-20elsewhere")</span>
 
 
 
@@ -164,8 +164,8 @@ Pathway Tools has four components:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

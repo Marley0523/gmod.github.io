@@ -195,7 +195,7 @@ wiki!** See also the search results found.
   \[http://www.<span class="searchmatch">reactome</span>.org
   <span class="searchmatch">Reactome</span>\]; \[http://www.wormbase.org
   WormBase\]; and \[https://bioconda.github.io/ Bioc
-  \[\[Category%3A<span class="searchmatch">Reactome</span>\]\]
+  \[\[Category%253A<span class="searchmatch">Reactome</span>\]\]
 
   
 
@@ -709,7 +709,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/Reactome "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/Reactome "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -735,8 +735,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

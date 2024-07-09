@@ -128,7 +128,7 @@ Chado) can be reused across multiple databases.
 #### <span id="Database_Web_Site" class="mw-headline">Database Web Site</span>
 
 Web sites that feature a lot of database driven content, such as
-[FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+[FlyBase](Category%253AFlyBase "Category%253AFlyBase")
 (<a href="http://flybase.org" class="external free"
 rel="nofollow">http://flybase.org</a>) or
 [ParameciumDB](ParameciumDB "ParameciumDB")
@@ -169,7 +169,7 @@ Chado.
 
 [BioMart](BioMart "BioMart") is a data warehouse package tailored for
 biological data. It takes existing databases (for example, the
-[FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+[FlyBase](Category%253AFlyBase "Category%253AFlyBase")
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database),
 transforms them into a data warehouse and then provides a web interface
 for supporting arbitrary queries against the data.
@@ -336,11 +336,11 @@ class="external text" rel="nofollow">Coati</a> development framework.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
-- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
+- [MySQL](Category%253AMySQL "Category%253AMySQL")
 
 
 
@@ -374,8 +374,8 @@ class="external text" rel="nofollow">Coati</a> development framework.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

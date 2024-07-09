@@ -30,7 +30,7 @@ class="external text" rel="nofollow">Artistic license</a> \| open source
 = yes \| language = Javascript, Perl \| release date = 2008 \| home =
 <a href="http://jbrowse.org" class="external free"
 rel="nofollow">http://jbrowse.org</a> \| demo_server = <a
-href="http://jbrowse.org/code/JBrowse-1.5.0-full/index.html?loc=ctgA%3A5947..26686&amp;tracks=DNA%2CCDS%2CTranscript%2Cvolvox_microarray.wig%2Cvolvox_microarray.bw&amp;data=sample_data%2Fjson%2Fvolvox"
+href="http://jbrowse.org/code/JBrowse-1.5.0-full/index.html?loc=ctgA%253A5947..26686&amp;tracks=DNA%2CCDS%2CTranscript%2Cvolvox_microarray.wig%2Cvolvox_microarray.bw&amp;data=sample_data%2Fjson%2Fvolvox"
 class="external text" rel="nofollow">Volvox example data</a> \|
 wild_urls = \| about = JBrowse is a genome browser with a fully dynamic
 HTML5 user interface, being developed as the successor to GBrowse. It is
@@ -137,11 +137,11 @@ Additional topics:
 
 
 - [GMOD in the
-  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- [JBrowse](../Category%3AJBrowse "Category%3AJBrowse")
+  Cloud](../Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
+- [JBrowse](../Category%253AJBrowse "Category%253AJBrowse")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 
 
 
@@ -178,8 +178,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

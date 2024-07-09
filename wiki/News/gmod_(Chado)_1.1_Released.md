@@ -29,8 +29,8 @@ rel="nofollow">GMOD SourceForge site</a>.
 
 There have been many people who have helped with getting this release
 done and I would like to thank all of them. I would like to especially
-thank [Rob Buels](../User%3ARobertBuels "User%3ARobertBuels") and [Naama
-Menda](../User%3ANaamaMenda "User%3ANaamaMenda") and the rest of the people
+thank [Rob Buels](../User%253ARobertBuels "User%253ARobertBuels") and [Naama
+Menda](../User%253ANaamaMenda "User%253ANaamaMenda") and the rest of the people
 at the <a href="http://solgenomics.net/" class="external text"
 rel="nofollow">Sol Genomics Network (SGN)</a> for their code
 contributions, including a pub table loader that works with PubMed and
@@ -63,7 +63,7 @@ schema modifications being worked on now.
 
 Thanks for your continued support of the GMOD project,
 
-[Scott](../User%3AScott "User%3AScott")
+[Scott](../User%253AScott "User%253AScott")
 
   
 
@@ -76,9 +76,9 @@ Thanks for your continued support of the GMOD project,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -117,8 +117,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

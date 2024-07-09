@@ -35,8 +35,8 @@ getting_started_preamble = \| req =
   rel="nofollow">Apache web server</a>
 - Perl 5.005 or higher
 - Perl modules from CPAN:
-  <a href="http://search.cpan.org/perldoc?Bio%3A%3AGMOD::Blast::Graph"
-  class="external text" rel="nofollow">Bio%3A%3AGMOD::Blast::Graph</a>,
+  <a href="http://search.cpan.org/perldoc?Bio%253A%253AGMOD::Blast::Graph"
+  class="external text" rel="nofollow">Bio%253A%253AGMOD::Blast::Graph</a>,
   Bio::Perl
 - BLAST or BLAT applications
 
@@ -53,11 +53,11 @@ demo_server = \| survey_link = \|release date=2003
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -94,8 +94,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

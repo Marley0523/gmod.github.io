@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Community Annotation](/wiki/Category%3ACommunity_Annotation "Category%3ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Community-20Annotation "Special%3ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%3ATableEdit "Category%3ATableEdit")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TableEdit "Special%3ASearchByProperty/TableEdit")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 October 2012 18:12:53  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53 "Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Community Annotation](/wiki/Category%253ACommunity_Annotation "Category%253ACommunity Annotation")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Community-20Annotation "Special%253ASearchByProperty/Community-20Annotation")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%253AGMOD_Components "Category%253AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Components "Special%253ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/MOD-20User-20Interfaces "Special%253ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[TableEdit](/wiki/Category%253ATableEdit "Category%253ATableEdit")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/TableEdit "Special%253ASearchByProperty/TableEdit")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 October 2012 18:12:53  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53 "Special%253ASearchByProperty/Modification-20date/9-20October-202012-2018:12:53")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

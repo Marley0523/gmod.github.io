@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ARsmith</span>
+# <span dir="auto">User%253ARsmith</span>
 
 
 
@@ -23,16 +23,16 @@ rel="nofollow">FlyMine</a>,
 <a href="http://modencode.org" class="external text"
 rel="nofollow">modENCODE</a> and contribute to a [joint
 project](August_2009_GMOD_Meeting#InterMine_update "August 2009 GMOD Meeting")
-with [SGD](Category%3ASGD "Category%3ASGD"),
-[RGD](Category%3ARGD "Category%3ARGD") and
+with [SGD](Category%253ASGD "Category%253ASGD"),
+[RGD](Category%253ARGD "Category%253ARGD") and
 <a href="http://zfin.org" class="external text" rel="nofollow">ZFIN</a>.
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [InterMine](Category%253AInterMine "Category%253AInterMine")
 
 
 
@@ -66,8 +66,8 @@ with [SGD](Category%3ASGD "Category%3ASGD"),
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -90,7 +90,7 @@ with [SGD](Category%3ASGD "Category%3ASGD"),
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARsmith" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ARsmith" rel="smw-browse">Browse
   properties</a></span>
 
 

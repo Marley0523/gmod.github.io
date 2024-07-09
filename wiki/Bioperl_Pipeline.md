@@ -110,10 +110,10 @@ rel="nofollow">system registry cleaner</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
 
 
 
@@ -147,8 +147,8 @@ rel="nofollow">system registry cleaner</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

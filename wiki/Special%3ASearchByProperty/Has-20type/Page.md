@@ -17,15 +17,15 @@
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This
+type](/wiki/Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
-"[Page](/wiki/Special%3ATypes/Page "Special%3ATypes/Page")"  
+"[Page](/wiki/Special%253ATypes/Page "Special%253ATypes/Page")"  
 
 - [Property:Has
-  topic](/wiki/Property%3AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AHas-20topic "Special%253ABrowse/Property%3AHas-20topic")</span>
+  topic](/wiki/Property%253AHas_topic "Property:Has topic")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%253AHas-20topic "Special%253ABrowse/Property%253AHas-20topic")</span>
 - [Property:Interacts
-  with](/wiki/Property%3AInteracts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AInteracts-20with "Special%253ABrowse/Property%3AInteracts-20with")</span>
-- [Property%3ASubject](/wiki/Property%3ASubject "Property%3ASubject")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3ASubject "Special%253ABrowse/Property%3ASubject")</span>
+  with](/wiki/Property%253AInteracts_with "Property:Interacts with")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%253AInteracts-20with "Special%253ABrowse/Property%253AInteracts-20with")</span>
+- [Property%253ASubject](/wiki/Property%253ASubject "Property%253ASubject")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%253ASubject "Special%253ABrowse/Property%253ASubject")</span>
 
  
 
@@ -45,7 +45,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20type/Page "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20type/Page "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -71,8 +71,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

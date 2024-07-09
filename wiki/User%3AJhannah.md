@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AJhannah</span>
+# <span dir="auto">User%253AJhannah</span>
 
 
 
@@ -19,9 +19,9 @@
 
 Jay Hannah, University of Nebraska
 
-- <a href="http://clab.ist.unomaha.edu/CLAB/index.php/User%3AJhannah"
+- <a href="http://clab.ist.unomaha.edu/CLAB/index.php/User%253AJhannah"
   class="external text" rel="nofollow">CLAB homepage</a>
-- <a href="http://www.bioperl.org/wiki/User%3AJhannah" class="external text"
+- <a href="http://www.bioperl.org/wiki/User%253AJhannah" class="external text"
   rel="nofollow">BioPerl homepage</a>
 
 
@@ -58,8 +58,8 @@ Jay Hannah, University of Nebraska
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -82,7 +82,7 @@ Jay Hannah, University of Nebraska
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AJhannah" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AJhannah" rel="smw-browse">Browse
   properties</a></span>
 
 

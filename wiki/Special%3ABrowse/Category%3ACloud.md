@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ACloud&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ACloud&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ACloud (page does not exist)">Category%3ACloud</a> |  |
+title="Category%253ACloud (page does not exist)">Category%253ACloud</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3ACloud (page does not exist)">Category%3ACloud</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ACloud)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ACloud)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse2 VMs](/wiki/GBrowse2_VMs "GBrowse2 VMs") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse2-20VMs "Special%253ABrowse/GBrowse2-20VMs")</span></span> , <span class="smwb-ivalue">[News/GMOD in the Cloud 2.0 Released](/wiki/News/GMOD_in_the_Cloud_2.0_Released "News/GMOD in the Cloud 2.0 Released") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released "Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released")</span></span> , <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GBrowse2 VMs](/wiki/GBrowse2_VMs "GBrowse2 VMs") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse2-20VMs "Special%253ABrowse/GBrowse2-20VMs")</span></span> , <span class="smwb-ivalue">[News/GMOD in the Cloud 2.0 Released](/wiki/News/GMOD_in_the_Cloud_2.0_Released "News/GMOD in the Cloud 2.0 Released") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released "Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released")</span></span> , <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ACloud "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ACloud "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

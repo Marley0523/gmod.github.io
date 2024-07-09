@@ -17,13 +17,13 @@
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has default
-form](/wiki/Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This
+form](/wiki/Property%253AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[Component
-information](/wiki/Form%3AComponent_information "Form:Component information")"  
+information](/wiki/Form%253AComponent_information "Form:Component information")"  
 
-- [Category%3AGMOD
-  Tools](/wiki/Category%3AGMOD_Tools "Category%3AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AGMOD-20Tools "Special%253ABrowse/Category%3AGMOD-20Tools")</span>
+- [Category%253AGMOD
+  Tools](/wiki/Category%253AGMOD_Tools "Category%253AGMOD Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%253AGMOD-20Tools "Special%253ABrowse/Category%253AGMOD-20Tools")</span>
 
  
 
@@ -43,7 +43,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20default-20form/Component-20information "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20default-20form/Component-20information "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -69,8 +69,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -17,7 +17,7 @@
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
-subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
+subobject](/wiki/Property%253AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "[InterMine#http://zmine.zfin.org/](/wiki/InterMine#http:.2F.2Fzmine.zfin.org.2F "InterMine")"  
 
@@ -41,7 +41,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20subobject/InterMine-23http%3A-2F-2Fzmine.zfin.org-2F "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20subobject/InterMine-23http%253A-2F-2Fzmine.zfin.org-2F "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -67,8 +67,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

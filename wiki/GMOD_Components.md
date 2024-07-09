@@ -24,7 +24,7 @@ providing the functionality that is needed by all organism databases.
 The table below classifies GMOD components according to their functional
 categories.
 
-See [Category%3AExternal](Category%3AExternal "Category%3AExternal") for
+See [Category%253AExternal](Category%253AExternal "Category%253AExternal") for
 software mentioned in the GMOD web site (and possibly used by GMOD
 components) that is not part of the GMOD project.
 
@@ -111,10 +111,10 @@ title="TIGR-Workflow / Ergatis">Ergatis</a></p>
 <p><br />
 <strong>Middleware</strong></p>
 <p><a href="Modware" title="Modware">Modware</a></p>
-<p><a href="Chado%3A%3AAutoDBI"
-title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></p>
-<p><a href="Bio%3A%3AChado%3A%3ASchema"
-title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></p>
+<p><a href="Chado%253A%253AAutoDBI"
+title="Chado%253A%253AAutoDBI">Chado%253A%253AAutoDBI</a></p>
+<p><a href="Bio%253A%253AChado%253A%253ASchema"
+title="Bio%253A%253AChado%253A%253ASchema">Bio%253A%253AChado%253A%253ASchema</a></p>
 <p><br />
 <strong>Tool Integration</strong></p>
 <p><a href="Galaxy.1" title="Galaxy">Galaxy</a></p>
@@ -132,9 +132,9 @@ Graphic</a></p>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -168,8 +168,8 @@ Graphic</a></p>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

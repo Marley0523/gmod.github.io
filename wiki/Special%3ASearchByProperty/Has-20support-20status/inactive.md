@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has support
-status](/wiki/Property%3AHas_support_status "Property:Has support status")"
+status](/wiki/Property%253AHas_support_status "Property:Has support status")"
 with value "inactive"  
 
 - [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
@@ -39,7 +39,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20support-20status/inactive "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20support-20status/inactive "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -65,8 +65,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

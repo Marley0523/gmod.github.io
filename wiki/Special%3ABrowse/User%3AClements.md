@@ -16,18 +16,18 @@
 
 |                                                      |     |
 |------------------------------------------------------|-----|
-| [User%3AClements](/wiki/User%3AClements "User%3AClements") |     |
+| [User%253AClements](/wiki/User%253AClements "User%253AClements") |     |
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Galaxy](/wiki/Category%3AGalaxy "Category%3AGalaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">31 December 2018 21:39:24  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/31-20December-202018-2021:39:24 "Special%3ASearchByProperty/Modification-20date/31-20December-202018-2021:39:24")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Galaxy](/wiki/Category%253AGalaxy "Category%253AGalaxy")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Galaxy "Special%253ASearchByProperty/Galaxy")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">31 December 2018 21:39:24  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/31-20December-202018-2021:39:24 "Special%253ASearchByProperty/Modification-20date/31-20December-202018-2021:39:24")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%3AClements)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%253AClements)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/User%3AClements "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/User%253AClements "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -138,7 +138,7 @@ rel="nofollow">Middleware for Chado databases</a>
 | 9:00  | Introduction, Eric Just                                    |
 | 9:05  | Object/relational Mapping Principles, Sohel Merchant       |
 | 9:30  | XORT, Pinglei Zhou                                         |
-| 9:55  | Chado%3A%3AAutoDBI, Brian O'Connor                             |
+| 9:55  | Chado%253A%253AAutoDBI, Brian O'Connor                             |
 | 10:20 | Coffee Break                                               |
 | 10:35 | Modware, Eric Just                                         |
 | 11:00 | GBrowse (DasI) Adaptor, Scott Cain                         |
@@ -154,9 +154,9 @@ rel="nofollow">Middleware for Chado databases</a>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -190,8 +190,8 @@ rel="nofollow">Middleware for Chado databases</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

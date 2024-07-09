@@ -179,17 +179,17 @@ Note that proteins ≠ polypeptides. Hemoglobin is a heterotetramer of two
 - [Chado -
   Getting_Started](Chado_-_Getting_Started "Chado - Getting Started") -
   and documentation links from there.
-- [Category%3AChado](Category%3AChado "Category%3AChado") - the Category page
+- [Category%253AChado](Category%253AChado "Category%253AChado") - the Category page
   for all pages about Chado in this wiki
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
+- [Chado](Category%253AChado "Category%253AChado")
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -203,7 +203,7 @@ Note that proteins ≠ polypeptides. Hemoglobin is a heterotetramer of two
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_New_Users" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_New_Users" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -227,8 +227,8 @@ Note that proteins ≠ polypeptides. Hemoglobin is a heterotetramer of two
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

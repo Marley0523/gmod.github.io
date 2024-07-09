@@ -27,13 +27,13 @@ width="250" height="59" alt="GBrowse" />
 
 
 This [GBrowse Next Generation Sequencing](GBrowse.1 "GBrowse") tutorial
-was presented by [Dave Clements](User%3AClements "User%3AClements") at the
+was presented by [Dave Clements](User%253AClements "User%253AClements") at the
 [Bioinformatics Australia 2009 (BA2009)](BA2009 "BA2009"), October 2009.
 The most recent GBrowse tutorial can be found at the [GBrowse
 Tutorial](GBrowse_Tutorial "GBrowse Tutorial") page.
 
   
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through how to configure the [GBrowse](GBrowse.1 "GBrowse") genome
 browser to display [Next Generation
 Sequencing](Next_Generation_Sequencing "Next Generation Sequencing")
@@ -182,7 +182,7 @@ Password: gmod</p></td>
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -197,7 +197,7 @@ available.
 
 The tutorial will show how to display [next generation
 sequence](Next_Generation_Sequencing "Next Generation Sequencing") (NGS)
-data in [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") using
+data in [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2") using
 <a href="http://samtools.sourceforge.net" class="external text"
 rel="nofollow">SAMtools</a>. We'll use the example human data that comes
 with SAMtools to do that. First we'll load the reference sequence and
@@ -1416,10 +1416,10 @@ Reset GBrowse and test this.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
 
 
 
@@ -1430,7 +1430,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/GBrowse "Special%253ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 
 
@@ -1444,7 +1444,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_NGS_Tutorial" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_NGS_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -1468,8 +1468,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:Expor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

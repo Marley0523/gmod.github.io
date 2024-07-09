@@ -88,24 +88,24 @@ subscribe to the Tripal mailing list.
 
 | Name | Email | Affiliation | Comments |
 |----|----|----|----|
-| [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | ficklin\<\*\>clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
+| [Stephen Ficklin](User%253ASficklin "User%253ASficklin") | ficklin\<\*\>clemson.edu | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
 | Meg Staton | mestato\<\*\>yahoo.com | <a href="http://www.genome.clemson.edu/" class="external text"
 rel="nofollow">CUGI</a> |  |
 | Sook Jung | sook\<\*\>bioinfo.wsu.edu | Washington State University, <a href="http://www.bioinfo.wsu.edu/gdr/" class="external text"
 rel="nofollow">GDR</a> |  |
-| [Michael Caudy](User%3AMcaudy "User%3AMcaudy") | mcaudy\<\*\>gmail.com | <a href="http://www.reactome.org" class="external text"
+| [Michael Caudy](User%253AMcaudy "User%253AMcaudy") | mcaudy\<\*\>gmail.com | <a href="http://www.reactome.org" class="external text"
 rel="nofollow">Reactome</a> |  |
-| [Dave Clements](User%3AClements "User%3AClements") | clements\<\*\>nescent.org | GMOD, <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%253AClements "User%253AClements") | clements\<\*\>nescent.org | GMOD, <a href="http://nescent.org/" class="external text"
 rel="nofollow">NESCent</a> |  |
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tripal](Category%3ATripal "Category%3ATripal")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Tripal](Category%253ATripal "Category%253ATripal")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -139,8 +139,8 @@ rel="nofollow">NESCent</a> |  |
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

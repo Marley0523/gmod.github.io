@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ADanielRenfro</span>
+# <span dir="auto">User%253ADanielRenfro</span>
 
 
 
@@ -44,9 +44,9 @@ rel="nofollow">GONUTS</a> in the Hu Laboratory at Texas A&M University.
 
 See Also
 
-- <a href="http://ecoliwiki.net/colipedia/index.php/User%3ADanielRenfro"
+- <a href="http://ecoliwiki.net/colipedia/index.php/User%253ADanielRenfro"
   class="external free"
-  rel="nofollow">http://ecoliwiki.net/colipedia/index.php/User%3ADanielRenfro</a>
+  rel="nofollow">http://ecoliwiki.net/colipedia/index.php/User%253ADanielRenfro</a>
 
 Links I can never find
 
@@ -86,8 +86,8 @@ Links I can never find
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -110,7 +110,7 @@ Links I can never find
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADanielRenfro" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ADanielRenfro" rel="smw-browse">Browse
   properties</a></span>
 
 

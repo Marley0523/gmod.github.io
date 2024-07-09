@@ -131,9 +131,9 @@ the GMOD wiki.
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AGirlwithglasses" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253AGirlwithglasses" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AGirlwithglasses" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AGirlwithglasses" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -157,8 +157,8 @@ the GMOD wiki.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

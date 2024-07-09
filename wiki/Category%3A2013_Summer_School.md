@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3A2013 Summer School</span>
+# <span dir="auto">Category%253A2013 Summer School</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/2013_Summer_School "Special:Search/2013 Summer School")
+title](Special%253ASearch/2013_Summer_School "Special:Search/2013 Summer School")
 in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3A2013_Summer_School"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253A2013_Summer_School"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -85,7 +85,7 @@ Tutorial 2012</a></li>
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3A2013_Summer_School](Category%3A2013_Summer_School)"
+"[http://gmod.org/wiki/Category%253A2013_Summer_School](Category%253A2013_Summer_School)"
 
 
 
@@ -118,8 +118,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -142,7 +142,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A2013_Summer_School"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253A2013_Summer_School"
   rel="smw-browse">Browse properties</a></span>
 
 

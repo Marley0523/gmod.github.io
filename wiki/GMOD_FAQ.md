@@ -18,7 +18,7 @@
 
 
 A list of **F**requently **A**sked **Q**uestions about the GMOD project.
-See [FAQ](Category%3AFAQ "Category%3AFAQ") for a list of FAQ pages on
+See [FAQ](Category%253AFAQ "Category%253AFAQ") for a list of FAQ pages on
 specific [GMOD Components](GMOD_Components "GMOD Components"). See the
 [Glossary](Glossary "Glossary") for definitions of commonly used terms
 in GMOD.
@@ -93,9 +93,9 @@ Started](GMOD_-_Getting_Started "GMOD - Getting Started") pages.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [FAQ](Category%3AFAQ "Category%3AFAQ")
+- [FAQ](Category%253AFAQ "Category%253AFAQ")
 
 
 
@@ -129,8 +129,8 @@ Started](GMOD_-_Getting_Started "GMOD - Getting Started") pages.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

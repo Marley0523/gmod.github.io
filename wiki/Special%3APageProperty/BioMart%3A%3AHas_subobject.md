@@ -19,11 +19,11 @@
 - [BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart")
    <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%253ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span>
 - [BioMart#http://www.biomart.org/community.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fcommunity.html "BioMart")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fcommunity.html")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2Fcommunity.html "Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2Fcommunity.html")</span>
 - [BioMart#http://www.biomart.org/](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2F "BioMart")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2F")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2F "Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2F")</span>
 - [BioMart#http://www.biomart.org/download.html](/wiki/BioMart#http:.2F.2Fwww.biomart.org.2Fdownload.html "BioMart")
-   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html "Special%253ABrowse/BioMart-23http%3A-2F-2Fwww.biomart.org-2Fdownload.html")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2Fdownload.html "Special%253ABrowse/BioMart-23http%253A-2F-2Fwww.biomart.org-2Fdownload.html")</span>
 
  
 
@@ -43,7 +43,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/BioMart%3A%3AHas_subobject "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/BioMart%253A%253AHas_subobject "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -69,8 +69,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

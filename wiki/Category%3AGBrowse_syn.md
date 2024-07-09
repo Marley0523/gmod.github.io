@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGBrowse syn</span>
+# <span dir="auto">Category%253AGBrowse syn</span>
 
 
 
@@ -26,7 +26,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -334,11 +334,11 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 - [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 
 
 
@@ -372,8 +372,8 @@ The following 9 files are in this category, out of 9 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -396,7 +396,7 @@ The following 9 files are in this category, out of 9 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGBrowse_syn" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGBrowse_syn" rel="smw-browse">Browse
   properties</a></span>
 
 

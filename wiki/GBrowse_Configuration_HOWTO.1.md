@@ -2373,12 +2373,12 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
 
 
-[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
+[Categories](/wiki/Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")
-- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
-- [Documentation](/wiki/Category%3ADocumentation "Category%3ADocumentation")
-- [Needs Editing](/wiki/Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [HOWTO](/wiki/Category%253AHOWTO "Category%253AHOWTO")
+- [GBrowse](/wiki/Category%253AGBrowse "Category%253AGBrowse")
+- [Documentation](/wiki/Category%253ADocumentation "Category%253ADocumentation")
+- [Needs Editing](/wiki/Category%253ANeeds_Editing "Category%253ANeeds Editing")
 
 
 
@@ -2392,7 +2392,7 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/Talk%253AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -2418,8 +2418,8 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

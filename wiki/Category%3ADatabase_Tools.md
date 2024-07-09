@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ADatabase Tools</span>
+# <span dir="auto">Category%253ADatabase Tools</span>
 
 
 
@@ -28,23 +28,23 @@ This category has the following 5 subcategories, out of 5 total.
 
 ### B
 
-- [BioMart](Category%3ABioMart "Category%3ABioMart")
+- [BioMart](Category%253ABioMart "Category%253ABioMart")
 
 ### C
 
-- [Chado](Category%3AChado "Category%3AChado")
+- [Chado](Category%253AChado "Category%253AChado")
 
 ### I
 
-- [InterMine](Category%3AInterMine "Category%3AInterMine")
+- [InterMine](Category%253AInterMine "Category%253AInterMine")
 
 ### M
 
-- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [MySQL](Category%253AMySQL "Category%253AMySQL")
 
 ### P
 
-- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
 
 
 
@@ -144,9 +144,9 @@ This category contains only the following file.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -180,8 +180,8 @@ This category contains only the following file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -204,7 +204,7 @@ This category contains only the following file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ADatabase_Tools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ADatabase_Tools" rel="smw-browse">Browse
   properties</a></span>
 
 

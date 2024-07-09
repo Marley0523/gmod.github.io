@@ -27,7 +27,7 @@ width="250" height="91" alt="Apollo" />
 
 
 This [Apollo](Apollo.1 "Apollo") tutorial was presented by [Ed
-Lee](User%3AElee "User%3AElee") at the [2010 GMOD Summer School -
+Lee](User%253AElee "User%253AElee") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Apollo tutorial can be found at the
 <a href="Apollo_Tutorial" class="mw-redirect"
@@ -124,7 +124,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -1053,11 +1053,11 @@ class="external text" rel="nofollow">Apollo Javadoc API</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Apollo](Category%3AApollo "Category%3AApollo")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Apollo](Category%253AApollo "Category%253AApollo")
 
 
 
@@ -1068,7 +1068,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2010 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Apollo "Special%3ASearchByProperty/Has-20topic/Apollo")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [Apollo](Apollo.1 "Apollo") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Apollo "Special%253ASearchByProperty/Has-20topic/Apollo")</span> |
 
 
 
@@ -1102,8 +1102,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2010 "Special:Expor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

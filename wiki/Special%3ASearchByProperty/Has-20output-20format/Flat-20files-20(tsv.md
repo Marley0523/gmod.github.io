@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has output
-format](/wiki/Property%3AHas_output_format "Property:Has output format")"
+format](/wiki/Property%253AHas_output_format "Property:Has output format")"
 with value "Flat files (tsv"  
 
 - [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20output-20format/Flat-20files-20(tsv "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20output-20format/Flat-20files-20(tsv "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

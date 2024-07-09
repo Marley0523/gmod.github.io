@@ -19,7 +19,7 @@
 
 GMOD includes several components for managing and visualizing
 [comparative genomics and
-synteny](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+synteny](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 data.
 
 
@@ -47,7 +47,7 @@ data.
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
 [Comparative
-genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 and synteny are hot topics in biology and are frequently discussed at
 GMOD [Meetings](Meetings "Meetings"). GMOD offers several solutions for
 managing and [visualizing](Visualization "Visualization") comparative
@@ -69,12 +69,12 @@ genomics data.
 - **<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/BoG2006.pdf" class="internal"
   title="BoG2006.pdf">An Example Comparative Genome Database for Yeasts
   Using GMOD Tools</a>** - poster by [Scott
-  Cain](User%3AScott "User%3AScott") showing how six GMOD tools are used to
+  Cain](User%253AScott "User%253AScott") showing how six GMOD tools are used to
   create an example comparative genome model organism database.
 - **<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf"
   class="internal" title="04-Stajich NESCENT GMOD.pdf">Comparative
   Genomics With GMOD and BioPerl</a>** - a 2004 presentation by [Jason
-  Stajich](User%3AStajich "User%3AStajich").
+  Stajich](User%253AStajich "User%253AStajich").
 
 ## <span id="GMOD_Components" class="mw-headline">GMOD Components</span>
 
@@ -114,7 +114,7 @@ view multiple sequence alignment data, synteny or co-linearity data from
 other sources against genome annotations provided by GBrowse.
 GBrowse_syn is included with the standard GBrowse package (version 1.69
 and later).  Working examples can be seen at <a
-href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501"
+href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%253A8367000..8370501"
 class="external text" rel="nofollow">TAIR</a>, <span class="pops"><a
 href="http://dev.wormbase.org/db/seq/gbrowse_syn/compara?search_src=Cele;name=X:1050001..1150000"
 class="external text" rel="nofollow">WormBase</a></span>, and
@@ -151,10 +151,10 @@ distribution.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 
 
 
@@ -188,8 +188,8 @@ distribution.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

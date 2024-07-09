@@ -27,14 +27,14 @@ width="250" height="164" alt="Chado" />
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User%3AScott "User%3AScott"), [Dave
-Clements](User%3AClements "User%3AClements"), [Joshua
-Orvis](User%3AJorvis "User%3AJorvis") (*in absentia*) at the 2010 GMOD
+tutorial was presented by [Scott Cain](User%253AScott "User%253AScott"), [Dave
+Clements](User%253AClements "User%253AClements"), [Joshua
+Orvis](User%253AJorvis "User%253AJorvis") (*in absentia*) at the 2010 GMOD
 Summer School - Americas, May 2010. The most recent Chado tutorial can
 be found at the <a href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado Tutorial</a> page.
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through how to install and configure a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database,
 Chado being the database [schema](Glossary#Schema "Glossary") of the
@@ -265,7 +265,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -283,9 +283,9 @@ available.
 Or, *Six years of school in 15 minutes or less.*
 
 - [Tables, Rows, and
-  Columns](Databases%3A_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns")
+  Columns](Databases%253A_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns")
 - [Primary, Foreign and Alternate
-  Keys](Databases%3A_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys")
+  Keys](Databases%253A_Primary,_Foreign_and_Alternate_Keys "Databases: Primary, Foreign and Alternate Keys")
 - [Chado Tables](Chado_Tables "Chado Tables")
 
 #### <span id="What.27s_a_database.3F" class="mw-headline">What's a [database](Databases_and_GMOD "Databases and GMOD")?</span>
@@ -332,7 +332,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](Category%3AFlyBase "Category%3AFlyBase") - Chado started here,
+  - [FlyBase](Category%253AFlyBase "Category%253AFlyBase") - Chado started here,
     large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -2083,10 +2083,10 @@ diversity data.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Chado](Category%3AChado "Category%3AChado")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -2097,7 +2097,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Chado "Special%253ASearchByProperty/Has-20topic/Chado")</span> |
 
 
 
@@ -2131,8 +2131,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2010 "Special:Export
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

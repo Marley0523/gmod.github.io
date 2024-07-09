@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Chado%3A%3AAutoDBI Presentation</span>
+# <span dir="auto">Chado%253A%253AAutoDBI Presentation</span>
 
 
 
@@ -51,7 +51,7 @@ title="AutoDBI.pdf">Brian O'Connor's presentation</a>.
 - [<span class="tocnumber">12</span> <span class="toctext">Problems 3,
   4, & 5</span>](#Problems_3.2C_4.2C_.26_5)
 - [<span class="tocnumber">13</span> <span class="toctext">Things
-  Chado%3A%3AAutoDBI does well</span>](#Things_Chado%3A%3AAutoDBI_does_well)
+  Chado%253A%253AAutoDBI does well</span>](#Things_Chado%253A%253AAutoDBI_does_well)
 - [<span class="tocnumber">14</span> <span class="toctext">For More
   Information</span>](#For_More_Information)
 
@@ -63,7 +63,7 @@ Turnkey is a package that auto-generates Web sites given a relational
 schema, based on SQL::Translator
 
 - Turnkey authors: Allen Day, Scott Cain, Brian O'Connor
-- Turnkey and Chado%3A%3AAutoDBI objects are essentially the same
+- Turnkey and Chado%253A%253AAutoDBI objects are essentially the same
 
 ##### <span id="Technical_Overview" class="mw-headline">Technical Overview</span>
 
@@ -196,7 +196,7 @@ Turnkey::Model::Feature->has_many( synonyms2 =>
 ##### <span id="Technical_Overview_6" class="mw-headline">Technical Overview</span>
 
 - Transactions
-  - Chado%3A%3AAutoDBI supports transactions, and one can wrap the
+  - Chado%253A%253AAutoDBI supports transactions, and one can wrap the
     transaction in an eval()
 
 
@@ -312,7 +312,7 @@ $feature->delete();
 ```
 
 
-##### <span id="Things_Chado%3A%3AAutoDBI_does_well" class="mw-headline">Things Chado%3A%3AAutoDBI does well</span>
+##### <span id="Things_Chado%253A%253AAutoDBI_does_well" class="mw-headline">Things Chado%253A%253AAutoDBI does well</span>
 
 - Easy to use
 - Easy to port
@@ -325,7 +325,7 @@ $feature->delete();
   - Even whole genome operations are feasible
 
 Note that speed is relative: one can find bad performance using the
-wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
+wrong SQL and Chado%253A%253AAutoDBI approach will be speedier.
 
   
 
@@ -352,12 +352,12 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [Perl](Category%3APerl "Category%3APerl")
-- [Turnkey](Category%3ATurnkey "Category%3ATurnkey")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [Perl](Category%253APerl "Category%253APerl")
+- [Turnkey](Category%253ATurnkey "Category%253ATurnkey")
 
 
 
@@ -391,8 +391,8 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -415,7 +415,7 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%3A%3AAutoDBI_Presentation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%253A%253AAutoDBI_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 

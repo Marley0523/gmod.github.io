@@ -31,9 +31,9 @@ Archives](GMOD_News_Archives "GMOD News Archives")**. See also the [GMOD
 Calendar and Events List](Calendar "Calendar").
 
 GMOD News is also available as an **<a
-href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
+href="http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 class="external text" rel="nofollow">RSS feed</a>**. <a
-href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
+href="http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=20&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 rel="nofollow" title="RSS feed"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
 alt="RSS feed" /></a>
@@ -1555,7 +1555,7 @@ Please follow these guidelines when adding a news item.
         <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
         page.
     - You can include images in your news item. See [preexisting news
-      items](Category%3ANews_Items "Category%3ANews Items") for what markup
+      items](Category%253ANews_Items "Category%253ANews Items") for what markup
       to use to do this.
 
 3.  Preview / save your changes. Edit and save the page until the news
@@ -1584,9 +1584,9 @@ Please follow these guidelines when adding a news item.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -1618,8 +1618,8 @@ Please follow these guidelines when adding a news item.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

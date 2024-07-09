@@ -18,7 +18,7 @@
 
 
 This is a property of type
-[Text](Special%3ATypes/Text "Special%3ATypes/Text").
+[Text](Special%253ATypes/Text "Special%253ATypes/Text").
 
 The allowed values for this property are:
 
@@ -60,11 +60,11 @@ title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/BLAST-20Graphic-20Viewer"
 title="Special%253ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 public server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/public-20server"
-title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/public-20server"
+title="Special%253ASearchByProperty/Link-20type/public-20server">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
@@ -72,14 +72,14 @@ title="BioMart">BioMart</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/BioMart"
 title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, wild
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, wild
 URL  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/wild-20URL"
-title="Special%3ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/wild-20URL"
+title="Special%253ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -90,15 +90,15 @@ title="Special%3ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
 class="smwbrowse"><a href="Special%253ABrowse/CMap"
 title="Special%253ABrowse/CMap">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special%3APageProperty/CMap%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>,
+<a href="Special%253APageProperty/CMap%253A%253ALink_type"
 title="Special:PageProperty/CMap::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -106,15 +106,15 @@ title="Special:PageProperty/CMap::Link type">…</a></td>
 class="smwbrowse"><a href="Special%253ABrowse/Canto"
 title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops">website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 documentation  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/documentation"
-title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special%3APageProperty/Canto%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/documentation"
+title="Special%253ASearchByProperty/Link-20type/documentation">+</a></span>,
+<a href="Special%253APageProperty/Canto%253A%253ALink_type"
 title="Special:PageProperty/Canto::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -126,11 +126,11 @@ title="Special:PageProperty/Canto::Link type">…</a></td>
 class="smwbrowse"><a href="Special%253ABrowse/DIYA"
 title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -142,15 +142,15 @@ title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse"
 title="Special%253ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special%3APageProperty/GBrowse%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, <a
+href="Special%253APageProperty/GBrowse%253A%253ALink_type"
 title="Special:PageProperty/GBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -159,15 +159,15 @@ title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse-20syn"
 title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special%3APageProperty/GBrowse_syn%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>,
+<a href="Special%253APageProperty/GBrowse_syn%253A%253ALink_type"
 title="Special:PageProperty/GBrowse syn::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -176,23 +176,23 @@ title="GO Graphic Viewer">GO Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/GO-20Graphic-20Viewer"
 title="Special%253ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 public server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/public-20server"
-title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/public-20server"
+title="Special%253ASearchByProperty/Link-20type/public-20server">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
+<td class="smwpropname"><a href="GO%253A%253ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%253ABrowse/GO%3A%3ATermFinder"
-title="Special%253ABrowse/GO%3A%3ATermFinder">+</a></span></td>
+href="Special%253ABrowse/GO%253A%253ATermFinder"
+title="Special%253ABrowse/GO%253A%253ATermFinder">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 public server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/public-20server"
-title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/public-20server"
+title="Special%253ASearchByProperty/Link-20type/public-20server">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
@@ -200,15 +200,15 @@ title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Galaxy"
 title="Special%253ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 documentation  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/documentation"
-title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special%3APageProperty/Galaxy%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/documentation"
+title="Special%253ASearchByProperty/Link-20type/documentation">+</a></span>,
+<a href="Special%253APageProperty/Galaxy%253A%253ALink_type"
 title="Special:PageProperty/Galaxy::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -221,15 +221,15 @@ title="InterMine">InterMine</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/InterMine"
 title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special%3APageProperty/InterMine%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, <a
+href="Special%253APageProperty/InterMine%253A%253ALink_type"
 title="Special:PageProperty/InterMine::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -242,15 +242,15 @@ title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse"
 title="Special%253ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 social media  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/social-20media"
-title="Special%3ASearchByProperty/Link-20type/social-20media">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/social-20media"
+title="Special%253ASearchByProperty/Link-20type/social-20media">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special%3APageProperty/JBrowse%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, <a
+href="Special%253APageProperty/JBrowse%253A%253ALink_type"
 title="Special:PageProperty/JBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -259,15 +259,15 @@ title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse2"
 title="Special%253ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 social media  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/social-20media"
-title="Special%3ASearchByProperty/Link-20type/social-20media">+</a></span>,
-<a href="Special%3APageProperty/JBrowse2%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/social-20media"
+title="Special%253ASearchByProperty/Link-20type/social-20media">+</a></span>,
+<a href="Special%253APageProperty/JBrowse2%253A%253ALink_type"
 title="Special:PageProperty/JBrowse2::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -279,15 +279,15 @@ title="Special:PageProperty/JBrowse2::Link type">…</a></td>
 class="smwbrowse"><a href="Special%253ABrowse/MAKER"
 title="Special%253ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special%3APageProperty/MAKER%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, <a
+href="Special%253APageProperty/MAKER%253A%253ALink_type"
 title="Special:PageProperty/MAKER::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -300,15 +300,15 @@ title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Pathway-20Tools"
 title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 public server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/public-20server"
-title="Special%3ASearchByProperty/Link-20type/public-20server">+</a></span>,
-<a href="Special%3APageProperty/Pathway_Tools%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/public-20server"
+title="Special%253ASearchByProperty/Link-20type/public-20server">+</a></span>,
+<a href="Special%253APageProperty/Pathway_Tools%253A%253ALink_type"
 title="Special:PageProperty/Pathway Tools::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -321,15 +321,15 @@ title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Textpresso"
 title="Special%253ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 documentation  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/documentation"
-title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>,
-<a href="Special%3APageProperty/Textpresso%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/documentation"
+title="Special%253ASearchByProperty/Link-20type/documentation">+</a></span>,
+<a href="Special%253APageProperty/Textpresso%253A%253ALink_type"
 title="Special:PageProperty/Textpresso::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -338,8 +338,8 @@ title="Tripal">Tripal</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Tripal"
 title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -351,15 +351,15 @@ title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo"
 title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>,
 download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>, <a
-href="Special%3APageProperty/WebApollo%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>, <a
+href="Special%253APageProperty/WebApollo%253A%253ALink_type"
 title="Special:PageProperty/WebApollo::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -368,15 +368,15 @@ title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo2"
 title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
-<a href="Special%3APageProperty/WebApollo2%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>,
+<a href="Special%253APageProperty/WebApollo2%253A%253ALink_type"
 title="Special:PageProperty/WebApollo2::Link type">…</a></td>
 </tr>
 <tr class="odd">
@@ -385,15 +385,15 @@ title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebGBrowse"
 title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 source code  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 website  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, <a
-href="Special%3APageProperty/WebGBrowse%3A%3ALink_type"
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, <a
+href="Special%253APageProperty/WebGBrowse%253A%253ALink_type"
 title="Special:PageProperty/WebGBrowse::Link type">…</a></td>
 </tr>
 <tr class="even">
@@ -405,8 +405,8 @@ title="Special:PageProperty/WebGBrowse::Link type">…</a></td>
 class="smwbrowse"><a href="Special%253ABrowse/XORT"
 title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops">download  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -415,12 +415,12 @@ title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
 
 
 </span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:ExportRDF/Property:Link type")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ALink_type "Special:ExportRDF/Property:Link type")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | website <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/website "Special%3ASearchByProperty/Allows-20value/website")</span>, download <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/download "Special%3ASearchByProperty/Allows-20value/download")</span>, source code <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/source-20code "Special%3ASearchByProperty/Allows-20value/source-20code")</span>, public server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/public-20server "Special%3ASearchByProperty/Allows-20value/public-20server")</span>, demo server <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/demo-20server "Special%3ASearchByProperty/Allows-20value/demo-20server")</span>, wild URL <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/wild-20URL "Special%3ASearchByProperty/Allows-20value/wild-20URL")</span>, documentation <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/documentation "Special%3ASearchByProperty/Allows-20value/documentation")</span>, publication <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/publication "Special%3ASearchByProperty/Allows-20value/publication")</span>, social media <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/social-20media "Special%3ASearchByProperty/Allows-20value/social-20media")</span> and other <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/other "Special%3ASearchByProperty/Allows-20value/other")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%253AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | website <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/website "Special%253ASearchByProperty/Allows-20value/website")</span>, download <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/download "Special%253ASearchByProperty/Allows-20value/download")</span>, source code <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/source-20code "Special%253ASearchByProperty/Allows-20value/source-20code")</span>, public server <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/public-20server "Special%253ASearchByProperty/Allows-20value/public-20server")</span>, demo server <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/demo-20server "Special%253ASearchByProperty/Allows-20value/demo-20server")</span>, wild URL <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/wild-20URL "Special%253ASearchByProperty/Allows-20value/wild-20URL")</span>, documentation <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/documentation "Special%253ASearchByProperty/Allows-20value/documentation")</span>, publication <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/publication "Special%253ASearchByProperty/Allows-20value/publication")</span>, social media <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/social-20media "Special%253ASearchByProperty/Allows-20value/social-20media")</span> and other <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/other "Special%253ASearchByProperty/Allows-20value/other")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%253ATypes/Text "Special%253ATypes/Text") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20type/Text "Special%253ASearchByProperty/Has-20type/Text")</span> |
 
 
 
@@ -454,8 +454,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:Expor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -478,7 +478,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3ALink_type "Special:Expor
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3ALink_type" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%253ALink_type" rel="smw-browse">Browse
   properties</a></span>
 
 

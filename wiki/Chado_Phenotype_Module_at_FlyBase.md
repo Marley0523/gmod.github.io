@@ -33,7 +33,7 @@ Should be done before Jan 1, 2011
 
 The [Chado Phenotype
 module](Chado_Phenotype_Module "Chado Phenotype Module") was developed
-at [FlyBase](Category%3AFlyBase "Category%3AFlyBase").
+at [FlyBase](Category%253AFlyBase "Category%253AFlyBase").
 
 To try and understand the existing phenotype module during the [GMOD Evo
 Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon"), participants spent
@@ -1393,15 +1393,15 @@ rank can be used for n-ploid organisms or to preserve order.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Under
-  Construction](Category%3AUnder_Construction "Category%3AUnder Construction")
-- [Phenotypes](Category%3APhenotypes "Category%3APhenotypes")
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-- [Chado](Category%3AChado "Category%3AChado")
+  Construction](Category%253AUnder_Construction "Category%253AUnder Construction")
+- [Phenotypes](Category%253APhenotypes "Category%253APhenotypes")
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
+- [Chado](Category%253AChado "Category%253AChado")
 - [GMOD Evo
-  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
+  Hackathon](Category%253AGMOD_Evo_Hackathon "Category%253AGMOD Evo Hackathon")
 
 
 
@@ -1435,8 +1435,8 @@ rank can be used for n-ploid organisms or to preserve order.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

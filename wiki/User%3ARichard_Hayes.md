@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ARichard Hayes</span>
+# <span dir="auto">User%253ARichard Hayes</span>
 
 
 
@@ -60,8 +60,8 @@ comparative genomics\<br\\
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -84,7 +84,7 @@ comparative genomics\<br\\
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARichard_Hayes" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ARichard_Hayes" rel="smw-browse">Browse
   properties</a></span>
 
 

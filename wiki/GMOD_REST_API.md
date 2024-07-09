@@ -240,7 +240,7 @@ In progress.
 ## <span id="Background" class="mw-headline">Background</span>
 
 This effort was started after [Josh
-Goodman](User%3AJogoodma "User%3AJogoodma")'s talk at the [January 2009 GMOD
+Goodman](User%253AJogoodma "User%253AJogoodma")'s talk at the [January 2009 GMOD
 Meeting](January_2009_GMOD_Meeting "January 2009 GMOD Meeting") meeting
 titled "[MOD Web API (A RESTful interface for
 MODs)](January_2009_GMOD_Meeting#A_RESTful_Interface_for_MODs.3F "January 2009 GMOD Meeting")".
@@ -252,7 +252,7 @@ in the proposal stage and have no been implemented at any
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
+- [Josh Goodman](User%253AJogoodma "User%253AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -
@@ -973,10 +973,10 @@ FASTA
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 
-- [Web services](Category%3AWeb_services "Category%3AWeb services")
+- [Web services](Category%253AWeb_services "Category%253AWeb services")
 
 
 
@@ -1011,8 +1011,8 @@ FASTA
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

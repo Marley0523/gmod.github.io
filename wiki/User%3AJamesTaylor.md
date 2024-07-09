@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AJamesTaylor</span>
+# <span dir="auto">User%253AJamesTaylor</span>
 
 
 
@@ -25,9 +25,9 @@ Mathematics & Computer Science at Emory University, a member of the
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -61,8 +61,8 @@ Mathematics & Computer Science at Emory University, a member of the
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -85,7 +85,7 @@ Mathematics & Computer Science at Emory University, a member of the
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AJamesTaylor" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AJamesTaylor" rel="smw-browse">Browse
   properties</a></span>
 
 

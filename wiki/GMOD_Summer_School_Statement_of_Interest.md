@@ -123,8 +123,8 @@ data-cellspacing="0">
 <td style="background-color: #FFCCBB">9am - 10:30am</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong>GMOD
 Overview</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a><br />
 Participant and instructor introductions, how the GMOD project works,
 what software tools are available in GMOD, how they interoperate, what
 resources are needed to get a GMOD installation up and running, course
@@ -135,12 +135,12 @@ overview, and installing VMware appliances on student computers.</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="Chado" class="mw-redirect" title="Chado">Chado</a>:
 Theory</strong><br />
-<a href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
+<a href="User%253AClements" title="User%253AClements">Dave Clements</a><br />
 Architecture and logical design of the Chado database <a
 href="Glossary#Schema" title="Glossary">schema</a>: Chado's modules and
 extensibility, how IDs and database cross references are handled, the
-central role of <a href="Category%3AOntologies"
-title="Category%3AOntologies">ontologies/controlled vocabularies</a>, and
+central role of <a href="Category%253AOntologies"
+title="Category%253AOntologies">ontologies/controlled vocabularies</a>, and
 an overview of how sequence data is handled.</td>
 </tr>
 <tr class="odd">
@@ -159,7 +159,7 @@ rel="nofollow">Durham's 9<sup>th</sup> Street District</a>.</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="Chado" class="mw-redirect" title="Chado">Chado</a>:
 Practice</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a><br />
 Using Chado: Installation, importing and exporting data, and a complete
 worked example of loading example sequence data.</td>
 </tr>
@@ -167,7 +167,7 @@ worked example of loading example sequence data.</td>
 <td style="background-color: #FFCCBB">3pm - 5pm</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="GBrowse.1" title="GBrowse">GBrowse</a> 1</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a><br />
 Overview, GBrowse installation and using <a href="GBrowse_adaptors"
 class="mw-redirect" title="GBrowse adaptors">GBrowse adaptors</a></td>
 </tr>
@@ -192,9 +192,9 @@ rel="nofollow">Places to eat</a></td>
 <td style="background-color: #FFCCBB">7:30pm - 9:30pm</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong>Open
 Discussion</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott</a>, <a
-href="User%3AClements" title="User%3AClements">Dave</a>, <a href="User%3AFaga"
-title="User%3AFaga">Ben</a>, Ed, and <em><strong>You!</strong></em><br />
+<a href="User%253AScott" title="User%253AScott">Scott</a>, <a
+href="User%253AClements" title="User%253AClements">Dave</a>, <a href="User%253AFaga"
+title="User%253AFaga">Ben</a>, Ed, and <em><strong>You!</strong></em><br />
 This <em>optional</em> session is open to any and all questions you have
 on the GMOD Project, GMOD components, and GMOD users. The instructors
 will come with their knowledge of GMOD and their opinions on the
@@ -208,7 +208,7 @@ to be lively.</td>
 <td style="background-color: #FFE5BB">9am - 11:30pm</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="GBrowse.1" title="GBrowse">GBrowse</a> 2</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a><br />
 GBrowse Configuration: Changing defaults and displays, adding tracks,
 and performance tuning</td>
 </tr>
@@ -231,7 +231,7 @@ a Java WebStart instance.</td>
 <td style="background-color: #FFE5BB">4pm - 5pm</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="CMap.1" title="CMap">CMap</a> 1</strong><br />
-<a href="User%3AFaga" title="User%3AFaga">Ben Faga</a><br />
+<a href="User%253AFaga" title="User%253AFaga">Ben Faga</a><br />
 Overview, installation, configuration and data importation.</td>
 </tr>
 <tr class="even">
@@ -246,7 +246,7 @@ rel="nofollow">Places to eat</a></td>
 <td style="background-color: #FFE5BB">6:30pm - 9pm</td>
 <td style="text-align: center; background-color: #d6fff5;"><strong><a
 href="CMap.1" title="CMap">CMap</a> 2</strong><br />
-<a href="User%3AFaga" title="User%3AFaga">Ben Faga</a><br />
+<a href="User%253AFaga" title="User%253AFaga">Ben Faga</a><br />
 Overview, installation, configuration and data importation.</td>
 </tr>
 <tr class="even">
@@ -258,7 +258,7 @@ Overview, installation, configuration and data importation.</td>
 href="Community_Annotation_System"
 title="Community Annotation System">Community Annotation
 System</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a><br />
 How to install and configure the GMOD Community Annotation System, an
 integrated package of GMOD components (including all the ones covered in
 this course) that reduces much of the installation, integration, and
@@ -269,8 +269,8 @@ configuration work of doing each component individually.</td>
 <td
 style="text-align: center; background-color: #d6fff5;"><strong>Wrapup
 and Resources</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a><br />
 Describe the resources available to GMOD users and attempt to bring the
 course to a coherent close.</td>
 </tr>
@@ -281,10 +281,10 @@ course to a coherent close.</td>
 
 Sessions were taught by experienced GMOD personnel, including:
 
-- [Scott Cain](User%3AScott "User%3AScott") - GMOD Project Coordinator
-- [Dave Clements](User%3AClements "User%3AClements") - [GMOD Help
+- [Scott Cain](User%253AScott "User%253AScott") - GMOD Project Coordinator
+- [Dave Clements](User%253AClements "User%253AClements") - [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk")
-- [Ben Faga](User%3AFaga "User%3AFaga") - [CMap](CMap.1 "CMap") and
+- [Ben Faga](User%253AFaga "User%253AFaga") - [CMap](CMap.1 "CMap") and
   [GBrowse](GBrowse.1 "GBrowse") developer
 - Ed Lee - [Apollo](Apollo.1 "Apollo") developer
 
@@ -312,13 +312,13 @@ components, or in the early phases of implementing GMOD.
 | Feseha Abebe-Akele                                 | University of New Hampshire                |
 | Parker Antin                                       | University of Arizona                      |
 | Burcu Bakir-Gungor                                 | Medical College of Wisconsin, RGD          |
-| [Scott Cain](User%3AScott "User%3AScott")          | CSHL                                       |
-| [Dave Clements](User%3AClements "User%3AClements") | NESCent                                    |
+| [Scott Cain](User%253AScott "User%253AScott")          | CSHL                                       |
+| [Dave Clements](User%253AClements "User%253AClements") | NESCent                                    |
 | Matthew Conte                                      | Howard Hughes Medical Institute            |
 | Sean Davey                                         | University of Arizona, BirdBase            |
 | Victor de Jager                                    | Radboud University Nijmegen Medical Centre |
 | Jason Dzurisin                                     | University of Notre Dame                   |
-| [Ben Faga](User%3AFaga "User%3AFaga")              | CSHL                                       |
+| [Ben Faga](User%253AFaga "User%253AFaga")              | CSHL                                       |
 | Bob Freeman                                        | Harvard University Medical School          |
 | Jean-Pierre Gauthier                               | INRA                                       |
 | Glenn Harris                                       | Virgina State University                   |
@@ -371,8 +371,8 @@ alt="Linux" />
 
 
 A free VMware player is available for [Microsoft
-Windows](Category%3AWindows "Category%3AWindows") and
-[Linux](Category%3ALinux "Category%3ALinux") [operating
+Windows](Category%253AWindows "Category%253AWindows") and
+[Linux](Category%253ALinux "Category%253ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -391,7 +391,7 @@ alt="Apple" /></a>
 
 
 There is no free VMware player that runs _directly_ under [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
+X](Category%253AMac_OS_X "Category%253AMac OS X"). However, there are several
 other options, _all of which require an Intel Mac_:
 
 VMware Fusion
@@ -548,14 +548,14 @@ course was what I was expecting and more.”</span></td>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [Help](Category%3AHelp "Category%3AHelp")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [Help](Category%253AHelp "Category%253AHelp")
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [Events](Category%3AEvents "Category%3AEvents")
-- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [Events](Category%253AEvents "Category%253AEvents")
+- [GMOD Schools](Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -587,8 +587,8 @@ course was what I was expecting and more.”</span></td>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

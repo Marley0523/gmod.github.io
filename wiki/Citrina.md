@@ -138,15 +138,15 @@ class="external text" rel="nofollow">Citrina discussion list</a>
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-[Josh Goodman](User%3AJogoodma "User%3AJogoodma") (jogoodma A\*T indiana
+[Josh Goodman](User%253AJogoodma "User%253AJogoodma") (jogoodma A\*T indiana
 D\*O\*T edu )
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
 
 
 
@@ -180,8 +180,8 @@ D\*O\*T edu )
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

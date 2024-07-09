@@ -18,7 +18,7 @@
 
 
 This [GBrowse](../GBrowse.1 "GBrowse") tutorial was presented by [Scott
-Cain](../User%3AScott "User%3AScott") at [GMOD Malaysia
+Cain](../User%253AScott "User%253AScott") at [GMOD Malaysia
 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February 2014. This
 tutorial requires GBrowse version 2.5x.
 
@@ -32,11 +32,11 @@ This tutorial uses the AWS AMI ' ***named '*** in the '
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
-- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
+- [GBrowse](../Category%253AGBrowse "Category%253AGBrowse")
+- [GMOD Schools](../Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -47,7 +47,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GBrowse_Tutorial
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [GBrowse](../GBrowse.1 "GBrowse") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GBrowse "Special%3ASearchByProperty/Has-20topic/GBrowse")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [GBrowse](../GBrowse.1 "GBrowse") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/GBrowse "Special%253ASearchByProperty/Has-20topic/GBrowse")</span> |
 
 
 
@@ -86,8 +86,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

@@ -27,14 +27,14 @@ width="250" height="89" alt="Galaxy" />
 
 
 This [Galaxy](Galaxy.1 "Galaxy") tutorial was presented by [James
-Taylor](User%3AJamesTaylor "User%3AJamesTaylor") at the [2010 GMOD Summer
+Taylor](User%253AJamesTaylor "User%253AJamesTaylor") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent Galaxy tutorial can be found at the
 <a href="Galaxy_Tutorial" class="mw-redirect"
 title="Galaxy Tutorial">Galaxy Tutorial</a> page.
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through setting up and running a [Galaxy](Galaxy.1 "Galaxy") server.
 
 
@@ -168,7 +168,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -1116,10 +1116,10 @@ are some pointers for learning more:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -1130,7 +1130,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Galaxy "Special%3ASearchByProperty/Has-20topic/Galaxy")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [Galaxy](Galaxy.1 "Galaxy") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Galaxy "Special%253ASearchByProperty/Has-20topic/Galaxy")</span> |
 
 
 
@@ -1164,8 +1164,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy_Tutorial_2010 "Special:Expor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

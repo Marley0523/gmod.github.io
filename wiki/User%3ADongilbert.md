@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ADongilbert</span>
+# <span dir="auto">User%253ADongilbert</span>
 
 
 
@@ -24,11 +24,11 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
-- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
+- [LuceGene](Category%253ALuceGene "Category%253ALuceGene")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -62,8 +62,8 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -86,7 +86,7 @@ rel="nofollow">genome informatics lab</a> of Don Gilbert.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADongilbert" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ADongilbert" rel="smw-browse">Browse
   properties</a></span>
 
 

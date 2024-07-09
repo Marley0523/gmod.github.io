@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has input
-format](/wiki/Property%3AHas_input_format "Property:Has input format")"
+format](/wiki/Property%253AHas_input_format "Property:Has input format")"
 with value "OBO ontology"  
 
 - [GO Graphic
@@ -39,7 +39,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20input-20format/OBO-20ontology "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20input-20format/OBO-20ontology "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -65,8 +65,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

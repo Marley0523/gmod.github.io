@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Written in
-language](/wiki/Property%3AWritten_in_language "Property:Written in language")"
+language](/wiki/Property%253AWritten_in_language "Property:Written in language")"
 with value "Perl"  
 
 - [BLAST Graphic
@@ -28,7 +28,7 @@ with value "Perl"
   syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>
 - [GO Graphic
   Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%253A%253ATermFinder "Special%253ABrowse/GO%253A%253ATermFinder")</span>
 - [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>
 - [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 - [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>
@@ -53,7 +53,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Written-20in-20language/Perl "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Written-20in-20language/Perl "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -79,8 +79,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

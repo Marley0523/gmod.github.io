@@ -40,33 +40,33 @@ that image. This year we have a
 <a href="../Galaxy_Tutorial" class="mw-redirect"
 title="Galaxy Tutorial">Galaxy Tutorial</a> for the first time.
 
-The [tutorials](../Category%3ATutorials "Category%3ATutorials") are:
+The [tutorials](../Category%253ATutorials "Category%253ATutorials") are:
 
 - **<a href="../Apollo_Tutorial" class="mw-redirect"
   title="Apollo Tutorial">Apollo Tutorial</a>** - by [Ed
-  Lee](../User%3AElee "User%3AElee")
+  Lee](../User%253AElee "User%253AElee")
 - **<a href="../Chado_Tutorial" class="mw-redirect"
   title="Chado Tutorial">Chado Tutorial</a>** - by [Scott
-  Cain](../User%3AScott "User%3AScott"), [Dave
-  Clements](../User%3AClements "User%3AClements"), and [Joshua
-  Orvis](../User%3AJorvis "User%3AJorvis").
+  Cain](../User%253AScott "User%253AScott"), [Dave
+  Clements](../User%253AClements "User%253AClements"), and [Joshua
+  Orvis](../User%253AJorvis "User%253AJorvis").
 - **<a href="../Galaxy_Tutorial" class="mw-redirect"
   title="Galaxy Tutorial">Galaxy Tutorial</a>** - by [James
-  Taylor](../User%3AJamesTaylor "User%3AJamesTaylor")
+  Taylor](../User%253AJamesTaylor "User%253AJamesTaylor")
 - **[GBrowse Tutorial](../GBrowse_Tutorial "GBrowse Tutorial")** - by
-  [Scott Cain](../User%3AScott "User%3AScott")
+  [Scott Cain](../User%253AScott "User%253AScott")
 - **<a href="../GBrowse_syn_Tutorial" class="mw-redirect"
   title="GBrowse syn Tutorial">GBrowse_syn Tutorial</a>** - by [Sheldon
-  McKay](../User%3AMckays "User%3AMckays")
+  McKay](../User%253AMckays "User%253AMckays")
 - **<a href="../JBrowse_Tutorial" class="mw-redirect"
   title="JBrowse Tutorial">JBrowse Tutorial</a>** - by [Mitch
-  Skinner](../User%3AMitchSkinner "User%3AMitchSkinner")
+  Skinner](../User%253AMitchSkinner "User%253AMitchSkinner")
 - **<a href="../MAKER_Tutorial" class="mw-redirect"
   title="MAKER Tutorial">MAKER Tutorial</a>** - by [Carson
-  Holt](../User%3ACarsonholt "User%3ACarsonholt")
+  Holt](../User%253ACarsonholt "User%253ACarsonholt")
 - **<a href="../Tripal_Tutorial" class="mw-redirect"
   title="Tripal Tutorial">Tripal Tutorial</a>** - by [Stephen
-  Ficklin](../User%3ASficklin "User%3ASficklin")
+  Ficklin](../User%253ASficklin "User%253ASficklin")
 
 The [2010 GMOD Summer School -
 Americas](../2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
@@ -79,7 +79,7 @@ success.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -93,9 +93,9 @@ Thanks,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -134,8 +134,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

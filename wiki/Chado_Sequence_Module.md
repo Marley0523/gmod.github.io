@@ -2204,12 +2204,12 @@ Tables referencing this one via Foreign Key Constraints:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
-- [Chado](Category%3AChado "Category%3AChado")
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 
 
 
@@ -2243,8 +2243,8 @@ Tables referencing this one via Foreign Key Constraints:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

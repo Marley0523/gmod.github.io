@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ATurnkey</span>
+# <span dir="auto">Category%253ATurnkey</span>
 
 
 
@@ -26,8 +26,8 @@ The following 5 pages are in this category, out of 5 total.
 
 ### C
 
-- [Chado%3A%3AAutoDBI
-  Presentation](Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation")
+- [Chado%253A%253AAutoDBI
+  Presentation](Chado%253A%253AAutoDBI_Presentation "Chado%253A%253AAutoDBI Presentation")
 
 ### G
 
@@ -105,9 +105,9 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -141,8 +141,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -165,7 +165,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATurnkey" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ATurnkey" rel="smw-browse">Browse
   properties</a></span>
 
 

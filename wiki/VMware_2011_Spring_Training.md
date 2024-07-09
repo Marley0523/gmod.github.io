@@ -306,9 +306,9 @@ Bio::Graphics</td>
 <td>Needed for loading ontologies into Chado</td>
 </tr>
 <tr class="odd">
-<td>Bio%3A%3AChado%3A%3ASchema</td>
+<td>Bio%253A%253AChado%253A%253ASchema</td>
 <td><code>sudo cpan; </code>
-<p>cpan&gt; install Bio%3A%3AChado%3A%3ASchema</p></td>
+<p>cpan&gt; install Bio%253A%253AChado%253A%253ASchema</p></td>
 <td>Needed for DBIx::Class access to Chado; used for publication
 loader</td>
 </tr>
@@ -500,11 +500,11 @@ straightforward to use.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2011 Spring
-  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  Training](Category%253A2011_Spring_Training "Category%253A2011 Spring Training")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -538,8 +538,8 @@ straightforward to use.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

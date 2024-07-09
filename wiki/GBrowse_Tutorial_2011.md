@@ -305,7 +305,7 @@ Bio::DB::Das::Chado:
 
 This does several things (including poorly estimating how long it will
 take to finish), including creating materialized views, using a tool
-provided by [SOL Genomics Network (SGN)](Category%3ASGN "Category%3ASGN").
+provided by [SOL Genomics Network (SGN)](Category%253ASGN "Category%253ASGN").
 In practice, it would be a good idea to read the documentation of
 `gmod_materialized_view_tool.pl` for information on keeping the view up
 to date.
@@ -321,12 +321,12 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2011 Spring
-  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  Training](Category%253A2011_Spring_Training "Category%253A2011 Spring Training")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -360,8 +360,8 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

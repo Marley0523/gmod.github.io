@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ATools_using_GMOD&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ATools_using_GMOD&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ATools using GMOD (page does not exist)">Category%3ATools
+title="Category%253ATools using GMOD (page does not exist)">Category%253ATools
 using GMOD</a> |  |
 
 |     |                                |
@@ -30,11 +30,11 @@ using GMOD</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ATools+using+GMOD)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ATools+using+GMOD)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[BioDIG](/wiki/BioDIG "BioDIG") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioDIG "Special%253ABrowse/BioDIG")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/GBrowse syn Tutorial](/wiki/GMOD_Online_Training_2014/GBrowse_syn_Tutorial "GMOD Online Training 2014/GBrowse syn Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[BioDIG](/wiki/BioDIG "BioDIG") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioDIG "Special%253ABrowse/BioDIG")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/GBrowse syn Tutorial](/wiki/GMOD_Online_Training_2014/GBrowse_syn_Tutorial "GMOD Online Training 2014/GBrowse syn Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ATools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ATools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -84,8 +84,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

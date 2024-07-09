@@ -16,19 +16,19 @@
 
 |                                                                     |     |
 |---------------------------------------------------------------------|-----|
-| [Property:Link type](/wiki/Property%3ALink_type "Property:Link type") |     |
+| [Property:Link type](/wiki/Property%253ALink_type "Property:Link type") |     |
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">3 October 2013 23:00:33  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/3-20October-202013-2023:00:33 "Special%3ASearchByProperty/Modification-20date/3-20October-202013-2023:00:33")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/website "Special%3ASearchByProperty/Allows-20value/website")</span></span> , <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/download "Special%3ASearchByProperty/Allows-20value/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/source-20code "Special%3ASearchByProperty/Allows-20value/source-20code")</span></span> , <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/public-20server "Special%3ASearchByProperty/Allows-20value/public-20server")</span></span> , <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/demo-20server "Special%3ASearchByProperty/Allows-20value/demo-20server")</span></span> , <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/wild-20URL "Special%3ASearchByProperty/Allows-20value/wild-20URL")</span></span> , <span class="smwb-value">documentation  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/documentation "Special%3ASearchByProperty/Allows-20value/documentation")</span></span> , <span class="smwb-value">publication  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/publication "Special%3ASearchByProperty/Allows-20value/publication")</span></span> , <span class="smwb-value">social media  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/social-20media "Special%3ASearchByProperty/Allows-20value/social-20media")</span></span> , <span class="smwb-value">other  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Allows-20value/other "Special%3ASearchByProperty/Allows-20value/other")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special%3ATypes/Text "Special%3ATypes/Text")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">3 October 2013 23:00:33  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/3-20October-202013-2023:00:33 "Special%253ASearchByProperty/Modification-20date/3-20October-202013-2023:00:33")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](/wiki/Property%253AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/website "Special%253ASearchByProperty/Allows-20value/website")</span></span> , <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/download "Special%253ASearchByProperty/Allows-20value/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/source-20code "Special%253ASearchByProperty/Allows-20value/source-20code")</span></span> , <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/public-20server "Special%253ASearchByProperty/Allows-20value/public-20server")</span></span> , <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/demo-20server "Special%253ASearchByProperty/Allows-20value/demo-20server")</span></span> , <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/wild-20URL "Special%253ASearchByProperty/Allows-20value/wild-20URL")</span></span> , <span class="smwb-value">documentation  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/documentation "Special%253ASearchByProperty/Allows-20value/documentation")</span></span> , <span class="smwb-value">publication  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/publication "Special%253ASearchByProperty/Allows-20value/publication")</span></span> , <span class="smwb-value">social media  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/social-20media "Special%253ASearchByProperty/Allows-20value/social-20media")</span></span> , <span class="smwb-value">other  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Allows-20value/other "Special%253ASearchByProperty/Allows-20value/other")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](/wiki/Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[Text](/wiki/Special%253ATypes/Text "Special%253ATypes/Text")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Has-20type/Text "Special%253ASearchByProperty/Has-20type/Text")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Property%3ALink+type)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Property%253ALink+type)  |  |
 
 |  |  |
 |----|----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Property%3ALink-20type "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Property%253ALink-20type "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

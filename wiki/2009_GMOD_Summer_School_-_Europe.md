@@ -137,8 +137,8 @@ data-cellspacing="0">
 <td
 style="text-align: center; background-color: #ddffff;"><strong>Introduction
 and Overview</strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a><br />
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a><br />
 Participant and instructor introductions, how the GMOD project works,
 what software tools are available in GMOD, how they interoperate, what
 resources are needed to get a GMOD installation up and running, and
@@ -168,8 +168,8 @@ Lunch</strong></td>
 <td style="text-align: center; background-color: #ddffff;"><strong><a
 href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -190,8 +190,8 @@ href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="GBrowse_Tutorial"
 title="GBrowse Tutorial">GBrowse</a></strong><br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a> and <a
-href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a> and <a
+href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -206,7 +206,7 @@ Lunch</strong></td>
 <td style="text-align: center; background-color: #ddffdd;"><strong><a
 href="GBrowse_syn_Tutorial" class="mw-redirect"
 title="GBrowse syn Tutorial">GBrowse_syn</a></strong><br />
-<a href="User%3AMckays" title="User%3AMckays">Sheldon McKay</a></td>
+<a href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -228,8 +228,8 @@ August</td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="BioMart_Tutorial"
 title="BioMart Tutorial">BioMart</a></strong><br />
-<a href="User%3AJunjun" title="User%3AJunjun">Junjun Zhang</a> and <a
-href="User%3ASyedHaider" title="User%3ASyedHaider">Syed Haider</a><br />
+<a href="User%253AJunjun" title="User%253AJunjun">Junjun Zhang</a> and <a
+href="User%253ASyedHaider" title="User%253ASyedHaider">Syed Haider</a><br />
 Introduction; exploring over 20 public databases through <a
 href="BioMart" title="BioMart">BioMart</a> central portal; system
 installation; accessing BioMart server via API, webservice and <a
@@ -249,7 +249,7 @@ on your own</strong></td>
 <td style="text-align: center; background-color: #ffffcc;"><strong><a
 href="Apollo_Tutorial" class="mw-redirect"
 title="Apollo Tutorial">Apollo</a></strong><br />
-<a href="User%3AElee" title="User%3AElee">Ed Lee</a><br />
+<a href="User%253AElee" title="User%253AElee">Ed Lee</a><br />
 Overview, installation (from installers and from source), configuration,
 reading/writing data, remote analyses, and setting up a customized Java
 Web Start instance.</td>
@@ -274,9 +274,9 @@ Web Start instance.</td>
 href="Artemis-Chado_Integration_Tutorial"
 title="Artemis-Chado Integration Tutorial">Artemis-Chado
 Integration</a></strong><br />
-<a href="User%3ARobinHouston" title="User%3ARobinHouston">Robin Houston</a>,
-<a href="User%3ATimCarver" title="User%3ATimCarver">Tim Carver</a> and <a
-href="User%3ABuggy" title="User%3ABuggy">Giles Velarde</a><br />
+<a href="User%253ARobinHouston" title="User%253ARobinHouston">Robin Houston</a>,
+<a href="User%253ATimCarver" title="User%253ATimCarver">Tim Carver</a> and <a
+href="User%253ABuggy" title="User%253ABuggy">Giles Velarde</a><br />
 <a href="Artemis" title="Artemis">Artemis</a> and ACT: Overview,
 installation, configuration, reading &amp; writing data to <a
 href="Chado" class="mw-redirect" title="Chado">Chado</a>.</td>
@@ -295,8 +295,8 @@ Ian Holmes</td>
 <td
 style="text-align: center; background-color: #ffeedd;"><strong>Wrapup
 and Resources</strong><br />
-<a href="User%3AClements" title="User%3AClements">Dave Clements</a> and <a
-href="User%3AScott" title="User%3AScott">Scott Cain</a></td>
+<a href="User%253AClements" title="User%253AClements">Dave Clements</a> and <a
+href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -338,25 +338,25 @@ style="color: #aaaaff">August 2009 GMOD Meeting</span></a></td>
 
 | Instructor | GMOD Contribution | Affiliation |
 |----|----|----|
-| [Scott Cain](User%3AScott "User%3AScott") | GMOD Project Coordinator | <a href="http://www.oicr.on.ca/" class="external text"
+| [Scott Cain](User%253AScott "User%253AScott") | GMOD Project Coordinator | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research (OICR)</a> |
-| [Tim Carver](User%3ATimCarver "User%3ATimCarver") | [Artemis](Artemis "Artemis") lead developer | <a href="http://www.sanger.ac.uk/" class="external text"
+| [Tim Carver](User%253ATimCarver "User%253ATimCarver") | [Artemis](Artemis "Artemis") lead developer | <a href="http://www.sanger.ac.uk/" class="external text"
 rel="nofollow">Wellcome Trust Sanger Institute</a> |
-| [Dave Clements](User%3AClements "User%3AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
+| [Dave Clements](User%253AClements "User%253AClements") | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | <a href="http://nescent.org/" class="external text"
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> |
-| [Syed Haider](User%3ASyedHaider "User%3ASyedHaider") | [BioMart](BioMart "BioMart") developer | <a href="http://www.ebi.ac.uk/" class="external text"
+| [Syed Haider](User%253ASyedHaider "User%253ASyedHaider") | [BioMart](BioMart "BioMart") developer | <a href="http://www.ebi.ac.uk/" class="external text"
 rel="nofollow">European Bioinformatics Institute</a> |
 | Ian Holmes | [JBrowse](JBrowse.1 "JBrowse") PI | <a href="http://berkeley.edu" class="external text"
 rel="nofollow">University of California, Berkeley</a> |
-| [Robin Houston](User%3ARobinHouston "User%3ARobinHouston") | [Artemis](Artemis "Artemis") manager | <a href="http://www.sanger.ac.uk/" class="external text"
+| [Robin Houston](User%253ARobinHouston "User%253ARobinHouston") | [Artemis](Artemis "Artemis") manager | <a href="http://www.sanger.ac.uk/" class="external text"
 rel="nofollow">Wellcome Trust Sanger Institute</a> |
-| [Ed Lee](User%3AElee "User%3AElee") | Lead [Apollo](Apollo.1 "Apollo") developer | <a href="http://www.berkeleybop.org/" class="external text"
+| [Ed Lee](User%253AElee "User%253AElee") | Lead [Apollo](Apollo.1 "Apollo") developer | <a href="http://www.berkeleybop.org/" class="external text"
 rel="nofollow">Berkeley Bioinformatics Open-source Projects (BBOP)</a> |
-| [Sheldon McKay](User%3AMckays "User%3AMckays") | Lead [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") developer, [GBrowse](GBrowse.1 "GBrowse") developer | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
+| [Sheldon McKay](User%253AMckays "User%253AMckays") | Lead [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") developer, [GBrowse](GBrowse.1 "GBrowse") developer | <a href="http://cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory</a> |
-| [Giles Velarde](User%3ABuggy "User%3ABuggy") | Developer | <a href="http://www.sanger.ac.uk/" class="external text"
+| [Giles Velarde](User%253ABuggy "User%253ABuggy") | Developer | <a href="http://www.sanger.ac.uk/" class="external text"
 rel="nofollow">Wellcome Trust Sanger Institute</a> |
-| [Junjun Zhang](User%3AJunjun "User%3AJunjun") | [BioMart](BioMart "BioMart") developer | <a href="http://www.oicr.on.ca/" class="external text"
+| [Junjun Zhang](User%253AJunjun "User%253AJunjun") | [BioMart](BioMart "BioMart") developer | <a href="http://www.oicr.on.ca/" class="external text"
 rel="nofollow">OICR</a> |
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
@@ -405,8 +405,8 @@ alt="Linux" />
 
 
 A free VMware player is available for [Microsoft
-Windows](Category%3AWindows "Category%3AWindows") and
-[Linux](Category%3ALinux "Category%3ALinux") [operating
+Windows](Category%253AWindows "Category%253AWindows") and
+[Linux](Category%253ALinux "Category%253ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -427,7 +427,7 @@ alt="Apple" /></a>
 
 
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
+X](Category%253AMac_OS_X "Category%253AMac OS X"). However, there are several
 other options, *all of which require an Intel Mac*:
 
   
@@ -577,13 +577,13 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Events](Category%3AEvents "Category%3AEvents")
-- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Events](Category%253AEvents "Category%253AEvents")
+- [GMOD Schools](Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -617,8 +617,8 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -286,10 +286,10 @@ This page should contain the following information:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -323,8 +323,8 @@ This page should contain the following information:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

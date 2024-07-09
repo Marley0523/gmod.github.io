@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ATutorials</span>
+# <span dir="auto">Category%253ATutorials</span>
 
 
 
@@ -391,7 +391,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -664,26 +664,26 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Tool data](Category%3ATool_data "Category%3ATool data")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [CMap](Category%3ACMap "Category%3ACMap")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- [MAKER](Category%3AMAKER "Category%3AMAKER")
-- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
-- [SOBA](Category%3ASOBA "Category%3ASOBA")
-- [Tripal](Category%3ATripal "Category%3ATripal")
-- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Help](Category%3AHelp "Category%3AHelp")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Tool data](Category%253ATool_data "Category%253ATool data")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [CMap](Category%253ACMap "Category%253ACMap")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
+- [MAKER](Category%253AMAKER "Category%253AMAKER")
+- [Pathway Tools](Category%253APathway_Tools "Category%253APathway Tools")
+- [SOBA](Category%253ASOBA "Category%253ASOBA")
+- [Tripal](Category%253ATripal "Category%253ATripal")
+- [Webapollo](Category%253AWebapollo "Category%253AWebapollo")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Help](Category%253AHelp "Category%253AHelp")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 
 
@@ -717,8 +717,8 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -741,7 +741,7 @@ title="WebApollo Tutorial 2013">WebApollo Tutorial 2013</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATutorials" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ATutorials" rel="smw-browse">Browse
   properties</a></span>
 
 

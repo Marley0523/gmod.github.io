@@ -53,11 +53,11 @@ posted on the wiki closer to the time.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [Conferences](../Category%3AConferences "Category%3AConferences")
-- [Meetings](../Category%3AMeetings "Category%3AMeetings")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
+- [Conferences](../Category%253AConferences "Category%253AConferences")
+- [Meetings](../Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -96,8 +96,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -120,7 +120,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_2014_San_Diego%3A_Save_the_Date"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_2014_San_Diego%253A_Save_the_Date"
   rel="smw-browse">Browse properties</a></span>
 
 

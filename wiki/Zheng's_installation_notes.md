@@ -179,7 +179,7 @@ you can also install it by
 class="external text" rel="nofollow">Digest::MD5</a> (GBrowse)
 
 <a
-href="http://search.cpan.org/search?query=Text%3A%3AShellwords&amp;mode=all"
+href="http://search.cpan.org/search?query=Text%253A%253AShellwords&amp;mode=all"
 class="external text" rel="nofollow">Text::Shellwords</a> (GBrowse)
 
 <a href="http://search.cpan.org/~cmungall/Data-Stag-0.10/"
@@ -343,10 +343,10 @@ since no analysisfeature exists in dataset (?)
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -380,8 +380,8 @@ since no analysisfeature exists in dataset (?)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

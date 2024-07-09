@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3ALuceGene</span>
+# <span dir="auto">Talk%253ALuceGene</span>
 
 
 
@@ -25,11 +25,11 @@ response so far.
 is based on Lucene, which is open source, but are your content indexing
 programs also open source? Where can I download them?*
 
---[Jhannah](User%3AJhannah "User%3AJhannah") 16:06, 8 September 2007 (EDT)
+--[Jhannah](User%253AJhannah "User%253AJhannah") 16:06, 8 September 2007 (EDT)
 
 Is their source code available so I could run my own engine? I don't see
 any such information on their web site...?
---[Jhannah](User%3AJhannah "User%3AJhannah") 16:10, 8 September 2007 (EDT)
+--[Jhannah](User%253AJhannah "User%253AJhannah") 16:10, 8 September 2007 (EDT)
 
 
 
@@ -45,7 +45,7 @@ any such information on their web site...?
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ALuceGene" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ALuceGene" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -69,8 +69,8 @@ any such information on their web site...?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

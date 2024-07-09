@@ -53,7 +53,7 @@ databases (MODs). Loading and preprocessing of data for these systems
 will be performed at the Harvard University FlyBase site so close
 coordination with developers there will also be required.
 
-[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
+[Josh Goodman](../User%253AJogoodma "User%253AJogoodma")
 
   
 
@@ -66,9 +66,9 @@ coordination with developers there will also be required.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -107,8 +107,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

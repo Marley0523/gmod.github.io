@@ -90,7 +90,7 @@ If you are using MySQL databases, GBrowse also requires the Perl modules
 to talk to MySQL, DBI and DBD::mysql, which are often not present in the
 Perl installations on new Macs. These can be installed using CPAN. As of
 8-1-2007, there are some problems with the CPAN installers for
-[DBD::mysql on the Mac](DBD%3A%3Amysql_on_the_Mac "DBD::mysql on the Mac").
+[DBD::mysql on the Mac](DBD%253A%253Amysql_on_the_Mac "DBD::mysql on the Mac").
 
 ## <span id="The_Fink_Way" class="mw-headline">The Fink Way</span>
 
@@ -386,19 +386,19 @@ to look like this:
 
 # <span id="AUTHORS" class="mw-headline">AUTHORS</span>
 
-[Lincoln D. Stein](User%3ALstein "User%3ALstein") \<steinl@cshl.edu\> 20:24,
+[Lincoln D. Stein](User%253ALstein "User%253ALstein") \<steinl@cshl.edu\> 20:24,
 16 April 2007 (EDT) Adapted from instructions contributed by Yair Benita
 \<y.benita@wanadoo.nl\>.
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Mac OS X](Category%253AMac_OS_X "Category%253AMac OS X")
 
 
 
@@ -412,7 +412,7 @@ to look like this:
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_MacOSX_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_MacOSX_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -436,8 +436,8 @@ to look like this:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">News/Bio%3A%3AChado%3A%3ASchema 0.05 Released</span>
+# <span dir="auto">News/Bio%253A%253AChado%253A%253ASchema 0.05 Released</span>
 
 
 
@@ -18,7 +18,7 @@
 
 
 I'd like to announce a new
-[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
+[Bio%253A%253AChado%253A%253ASchema](../Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema")
 release, version 0.05. Changes in this release:
 
 - Got POD generation working, now all classes and methods have POD,
@@ -34,13 +34,13 @@ class="external text" rel="nofollow">uploaded</a> it to
 a week ago, so it should have propagated by now to almost all of the
 CPAN mirrors.
 
-See the [Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
+See the [Bio%253A%253AChado%253A%253ASchema](../Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema")
 wiki page for more on what
-[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") is and
+[Bio%253A%253AChado%253A%253ASchema](../Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") is and
 what it's for.
 
-[Rob Buels](../User%3ARobertBuels "User%3ARobertBuels")  
-[SGN](../Category%3ASGN "Category%3ASGN")
+[Rob Buels](../User%253ARobertBuels "User%253ARobertBuels")  
+[SGN](../Category%253ASGN "Category%253ASGN")
 
   
 
@@ -53,9 +53,9 @@ what it's for.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -94,8 +94,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -118,7 +118,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.05_Released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBio%253A%253AChado%253A%253ASchema_0.05_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

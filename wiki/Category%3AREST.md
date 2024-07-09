@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AREST</span>
+# <span dir="auto">Category%253AREST</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/REST "Special%3ASearch/REST") in other pages, or
+title](Special%253ASearch/REST "Special%253ASearch/REST") in other pages, or
 <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AREST"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253AREST"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -93,7 +93,7 @@ This category contains only the following file.
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3AREST](Category%3AREST)"
+Retrieved from "[http://gmod.org/wiki/Category%253AREST](Category%253AREST)"
 
 
 
@@ -126,8 +126,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3AREST](Category%3AREST)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -150,7 +150,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3AREST](Category%3AREST)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AREST" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AREST" rel="smw-browse">Browse
   properties</a></span>
 
 

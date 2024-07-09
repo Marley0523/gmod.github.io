@@ -20,13 +20,13 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Galaxy](/wiki/Category%3AGalaxy "Category%3AGalaxy")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Galaxy "Special%3ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%3AJBrowse "Category%3AJBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/JBrowse "Special%3ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%3AGSoC "Category%3AGSoC")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GSoC "Special%3ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AReactome&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AReactome (page does not exist)">Reactome</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Reactome "Special%3ASearchByProperty/Reactome")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%3AMGI "Category%3AMGI")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MGI "Special%3ASearchByProperty/MGI")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AWebApollo&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Galaxy](/wiki/Category%253AGalaxy "Category%253AGalaxy")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Galaxy "Special%253ASearchByProperty/Galaxy")</span></span> , <span class="smwb-value">[JBrowse](/wiki/Category%253AJBrowse "Category%253AJBrowse")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/JBrowse "Special%253ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%253AWormBase "Category%253AWormBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WormBase "Special%253ASearchByProperty/WormBase")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%253AGSoC "Category%253AGSoC")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GSoC "Special%253ASearchByProperty/GSoC")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AReactome&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AReactome (page does not exist)">Reactome</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Reactome "Special%253ASearchByProperty/Reactome")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%253AMGI "Category%253AMGI")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/MGI "Special%253ASearchByProperty/MGI")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AWebApollo&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WebApollo "Special%3ASearchByProperty/WebApollo")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">12 February 2024 16:07:23  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23 "Special%3ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23")</span></span> |
+title="Category%253AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WebApollo "Special%253ASearchByProperty/WebApollo")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">12 February 2024 16:07:23  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23 "Special%253ASearchByProperty/Modification-20date/12-20February-202024-2016:07:23")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -87,8 +87,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

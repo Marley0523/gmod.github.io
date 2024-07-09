@@ -34,10 +34,10 @@ from ISMB 2010](../ISMB_2010 "ISMB 2010"). This includes
   Enis Afgan
 - [Automated Annotation of NGS Transcriptome Data using ISGA and
   Ergatis](../File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
-  [Chris Hemmerich](../User%3AChemmeri "User%3AChemmeri")
+  [Chris Hemmerich](../User%253AChemmeri "User%253AChemmeri")
 - <a href="http://prezi.com/nx4jy4etq-ug/gbrowse-20-and-jbrowse-for-ismb/"
   class="external text" rel="nofollow">GMOD Presents GBrowse 2.0 and
-  JBrowse</a>, [Scott Cain](../User%3AScott "User%3AScott")
+  JBrowse</a>, [Scott Cain](../User%253AScott "User%253AScott")
 - [An Advanced Web Query Interface for Biological
   Databases](../File:PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")
   ([Pathway Tools](../Pathway_Tools.1 "Pathway Tools")), Peter Karp
@@ -50,7 +50,7 @@ Plus additional talks and posters on [GBrowse](../GBrowse.1 "GBrowse"),
 Tools](../Pathway_Tools.1 "Pathway Tools"), and
 [Galaxy](../Galaxy.1 "Galaxy").
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -64,9 +64,9 @@ Tools](../Pathway_Tools.1 "Pathway Tools"), and
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -105,8 +105,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

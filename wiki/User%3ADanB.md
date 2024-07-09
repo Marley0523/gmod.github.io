@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ADanB</span>
+# <span dir="auto">User%253ADanB</span>
 
 
 
@@ -26,9 +26,9 @@ presenting Galaxy at the upcoming GMOD Workshop at [PAG
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -62,8 +62,8 @@ presenting Galaxy at the upcoming GMOD Workshop at [PAG
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -86,7 +86,7 @@ presenting Galaxy at the upcoming GMOD Workshop at [PAG
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADanB" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ADanB" rel="smw-browse">Browse
   properties</a></span>
 
 

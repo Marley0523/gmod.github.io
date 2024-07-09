@@ -16,17 +16,17 @@
 
 |  |  |
 |----|----|
-| [User%3AAlexkalderimis](/wiki/User%3AAlexkalderimis "User%3AAlexkalderimis") |  |
+| [User%253AAlexkalderimis](/wiki/User%253AAlexkalderimis "User%253AAlexkalderimis") |  |
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">5 March 2011 18:07:36  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/5-20March-202011-2018:07:36 "Special%3ASearchByProperty/Modification-20date/5-20March-202011-2018:07:36")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">5 March 2011 18:07:36  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/5-20March-202011-2018:07:36 "Special%253ASearchByProperty/Modification-20date/5-20March-202011-2018:07:36")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%3AAlexkalderimis)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=User%253AAlexkalderimis)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/User%3AAlexkalderimis "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/User%253AAlexkalderimis "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -80,8 +80,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

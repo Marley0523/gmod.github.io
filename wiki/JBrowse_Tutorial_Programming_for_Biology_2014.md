@@ -18,7 +18,7 @@
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User%3AScott "User%3AScott") at the Programming for Biology at Cold
+Cain](User%253AScott "User%253AScott") at the Programming for Biology at Cold
 Spring Harbor Laboratory in October 2014 using JBrowse 1.11.5.
 
 This tutorial assumes a Mac OS X computer with apache configured to
@@ -536,10 +536,10 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 
 
@@ -551,7 +551,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/JBrowse "Special%253ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 
 
@@ -585,8 +585,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

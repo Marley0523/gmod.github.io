@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AChado FlyBase</span>
+# <span dir="auto">Category%253AChado FlyBase</span>
 
 
 
@@ -64,10 +64,10 @@ This category contains only the following file.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-- [Chado](Category%3AChado "Category%3AChado")
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -101,8 +101,8 @@ This category contains only the following file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -125,7 +125,7 @@ This category contains only the following file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AChado_FlyBase" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AChado_FlyBase" rel="smw-browse">Browse
   properties</a></span>
 
 

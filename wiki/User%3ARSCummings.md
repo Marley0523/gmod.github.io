@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ARSCummings</span>
+# <span dir="auto">User%253ARSCummings</span>
 
 
 
@@ -25,9 +25,9 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 
 
@@ -40,9 +40,9 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3ARSCummings" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253ARSCummings" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3ARSCummings" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253ARSCummings" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -66,8 +66,8 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -90,7 +90,7 @@ title="JBrowseDev/Main">JBrowseDev/Main</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARSCummings" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ARSCummings" rel="smw-browse">Browse
   properties</a></span>
 
 

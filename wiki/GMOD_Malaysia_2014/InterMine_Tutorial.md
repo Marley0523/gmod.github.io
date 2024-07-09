@@ -27,11 +27,11 @@ This tutorial uses the AWS AMI **ID** named **NAME** in the AWS REGION.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
-- [InterMine](../Category%3AInterMine "Category%3AInterMine")
-- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
+- [InterMine](../Category%253AInterMine "Category%253AInterMine")
+- [GMOD Schools](../Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -42,7 +42,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/InterMine_Tutori
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/InterMine "Special%3ASearchByProperty/Has-20topic/InterMine")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [InterMine](../InterMine "InterMine") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/InterMine "Special%253ASearchByProperty/Has-20topic/InterMine")</span> |
 
 
 
@@ -81,8 +81,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

@@ -17,7 +17,7 @@
 
 
 
-This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes a method for
+This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes a method for
 loading the sequence data in Genbank RefSeq files into the [Chado
 database](Chado_-_Getting_Started "Chado - Getting Started").
 
@@ -131,17 +131,17 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Scott Cain](User%3AScott "User%3AScott")
+- [Scott Cain](User%253AScott "User%253AScott")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -175,8 +175,8 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

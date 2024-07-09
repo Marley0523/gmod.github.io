@@ -207,7 +207,7 @@ wiki!** See also the search results found.
 - 
 
   [News/GCC2013: Register!
-  Present!](/wiki/News/GCC2013%3A_Register!_Present! "News/GCC2013: Register! Present!")
+  Present!](/wiki/News/GCC2013%253A_Register!_Present! "News/GCC2013: Register! Present!")
 
   
 
@@ -634,7 +634,7 @@ wiki!** See also the search results found.
 
   ...and make it public as a first step in a collaborative effort among
   current <span class="searchmatch">users</span> of chado (including
-  TIGR, \[\[:Category%3AFlyBase\|FlyBase\]\], \[\[Category%3ADictyBa \*
+  TIGR, \[\[:Category%253AFlyBase\|FlyBase\]\], \[\[Category%253ADictyBa \*
   Common gene page. Since this group does not represent the target
   <span class="searchmatch">users</span>, we did not feel that we would
   make much headway in establishing a standard
@@ -1164,7 +1164,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/Users "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/Users "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -1187,8 +1187,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

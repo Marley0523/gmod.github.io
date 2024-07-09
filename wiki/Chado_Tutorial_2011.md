@@ -18,7 +18,7 @@
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User%3AScott "User%3AScott") as part
+tutorial was presented by [Scott Cain](User%253AScott "User%253AScott") as part
 of the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training").
 
@@ -273,9 +273,9 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Widely used**
   - \- Chado started here, large diverse dataset and organization
   
-- [Chado](Category%3AChado "Category%3AChado")
+- [Chado](Category%253AChado "Category%253AChado")
 - [2011 Spring
-  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
+  Training](Category%253A2011_Spring_Training "Category%253A2011 Spring Training")
 
 
 
@@ -286,7 +286,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:Export
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Chado "Special%253ASearchByProperty/Has-20topic/Chado")</span> |
 
 
 
@@ -320,8 +320,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:Export
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

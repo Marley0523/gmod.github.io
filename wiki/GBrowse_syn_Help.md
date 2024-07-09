@@ -76,9 +76,9 @@ An alignment view with shading on and grid-lines and edges off
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -112,8 +112,8 @@ An alignment view with shading on and grid-lines and edges off
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

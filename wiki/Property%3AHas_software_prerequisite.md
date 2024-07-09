@@ -18,7 +18,7 @@
 
 
 This is a property of type
-[Text](Special%3ATypes/Text "Special%3ATypes/Text").
+[Text](Special%253ATypes/Text "Special%253ATypes/Text").
 
 
 
@@ -26,12 +26,12 @@ This is a property of type
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has software
-prerequisite](Special%253ABrowse/Property%3AHas-20software-20prerequisite "Special%253ABrowse/Property%3AHas-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
+prerequisite](Special%253ABrowse/Property%253AHas-20software-20prerequisite "Special%253ABrowse/Property%253AHas-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%253ATypes/Text "Special%253ATypes/Text") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20type/Text "Special%253ASearchByProperty/Has-20type/Text")</span> |
 
 
 
@@ -65,8 +65,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_prerequisit
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -89,7 +89,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_software_prerequisit
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_software_prerequisite"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%253AHas_software_prerequisite"
   rel="smw-browse">Browse properties</a></span>
 
 

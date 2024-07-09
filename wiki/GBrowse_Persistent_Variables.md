@@ -216,10 +216,10 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [GBrowse
-  Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")
+  Developer](Category%253AGBrowse_Developer "Category%253AGBrowse Developer")
 
 
 
@@ -233,7 +233,7 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Persistent_Variables" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Persistent_Variables" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -257,8 +257,8 @@ title="GBrowse Configuration HOWTO">GBrowse.conf</a> file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -65,7 +65,7 @@ GMOD offers several possibilities specifically for visualizing
 ## <span id="Gene_Expression_Visualization" class="mw-headline">Gene Expression Visualization</span>
 
 Components for visualizing [gene
-expression](Category%3AExpression "Category%3AExpression") results;
+expression](Category%253AExpression "Category%253AExpression") results;
 currently focused on microarray based experiments.
 
 - [Caryoscope](Caryoscope "Caryoscope")
@@ -77,7 +77,7 @@ currently focused on microarray based experiments.
 
 ## <span id="Ontology_Visualization" class="mw-headline">Ontology Visualization</span>
 
-[Ontology](Category%3AOntologies "Category%3AOntologies") visualization is
+[Ontology](Category%253AOntologies "Category%253AOntologies") visualization is
 currently supported by:
 
 - [GO Graphic Viewer](GO_Graphic_Viewer.1 "GO Graphic Viewer")
@@ -85,13 +85,13 @@ currently supported by:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 - [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
-- [Expression](Category%3AExpression "Category%3AExpression")
-- [Ontologies](Category%3AOntologies "Category%3AOntologies")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
+- [Expression](Category%253AExpression "Category%253AExpression")
+- [Ontologies](Category%253AOntologies "Category%253AOntologies")
 
 
 
@@ -125,8 +125,8 @@ currently supported by:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

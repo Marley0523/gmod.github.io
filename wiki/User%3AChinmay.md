@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AChinmay</span>
+# <span dir="auto">User%253AChinmay</span>
 
 
 
@@ -55,8 +55,8 @@ rel="nofollow">GeneDB</a> project at The Sanger Institute, Cambridge, UK
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -79,7 +79,7 @@ rel="nofollow">GeneDB</a> project at The Sanger Institute, Cambridge, UK
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AChinmay" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AChinmay" rel="smw-browse">Browse
   properties</a></span>
 
 

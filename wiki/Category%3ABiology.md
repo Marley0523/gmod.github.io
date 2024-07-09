@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ABiology</span>
+# <span dir="auto">Category%253ABiology</span>
 
 
 
@@ -19,7 +19,7 @@
 
 Categories and pages that are mainly about how to use GMOD to address
 questions in biology. This category complements the
-[Computing](Category%3AComputing "Category%3AComputing") category. In some
+[Computing](Category%253AComputing "Category%253AComputing") category. In some
 sense every page in this web site is about biology and computing.
 However, these two categories identify pages that are clearly about one
 or the other.
@@ -41,32 +41,32 @@ This category has the following 7 subcategories, out of 7 total.
 <tr class="odd" style="vertical-align: top;">
 <td style="width: 33.3%"><h3 id="a">A</h3>
 <ul>
-<li><a href="Category%3AAnalysis"
-title="Category%3AAnalysis">Analysis</a></li>
-<li><a href="Category%3AAnnotation"
-title="Category%3AAnnotation">Annotation</a></li>
+<li><a href="Category%253AAnalysis"
+title="Category%253AAnalysis">Analysis</a></li>
+<li><a href="Category%253AAnnotation"
+title="Category%253AAnnotation">Annotation</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="Category%3AComparative_Genomics"
-title="Category%3AComparative Genomics">Comparative Genomics</a></li>
+<li><a href="Category%253AComparative_Genomics"
+title="Category%253AComparative Genomics">Comparative Genomics</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="e">E</h3>
 <ul>
-<li><a href="Category%3AEvolution"
-title="Category%3AEvolution">Evolution</a></li>
-<li><a href="Category%3AExpression"
-title="Category%3AExpression">Expression</a></li>
+<li><a href="Category%253AEvolution"
+title="Category%253AEvolution">Evolution</a></li>
+<li><a href="Category%253AExpression"
+title="Category%253AExpression">Expression</a></li>
 </ul>
 <h3 id="o">O</h3>
 <ul>
-<li><a href="Category%3AOntologies"
-title="Category%3AOntologies">Ontologies</a></li>
+<li><a href="Category%253AOntologies"
+title="Category%253AOntologies">Ontologies</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="p">P</h3>
 <ul>
-<li><a href="Category%3APhenotypes"
-title="Category%3APhenotypes">Phenotypes</a></li>
+<li><a href="Category%253APhenotypes"
+title="Category%253APhenotypes">Phenotypes</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -91,9 +91,9 @@ This category contains only the following page.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Categories](Category%3ACategories "Category%3ACategories")
+- [Categories](Category%253ACategories "Category%253ACategories")
 
 
 
@@ -127,8 +127,8 @@ This category contains only the following page.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -151,7 +151,7 @@ This category contains only the following page.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ABiology" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ABiology" rel="smw-browse">Browse
   properties</a></span>
 
 

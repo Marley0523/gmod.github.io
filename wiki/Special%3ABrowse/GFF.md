@@ -20,15 +20,15 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AGFF (page does not exist)">GFF</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GFF "Special%3ASearchByProperty/GFF")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AGFF3&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AGFF3 (page does not exist)">GFF3</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GFF3 "Special%3ASearchByProperty/GFF3")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AFile_Formats&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AFile Formats (page does not exist)">File
-Formats</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/File-20Formats "Special%3ASearchByProperty/File-20Formats")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 September 2012 19:49:58  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/10-20September-202012-2019:49:58 "Special%3ASearchByProperty/Modification-20date/10-20September-202012-2019:49:58")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Computing](/wiki/Category%253AComputing "Category%253AComputing")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Computing "Special%253ASearchByProperty/Computing")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%253AAnnotation "Category%253AAnnotation")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Annotation "Special%253ASearchByProperty/Annotation")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AGFF&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AGFF (page does not exist)">GFF</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GFF "Special%253ASearchByProperty/GFF")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AGFF3&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AGFF3 (page does not exist)">GFF3</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GFF3 "Special%253ASearchByProperty/GFF3")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AFile_Formats&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AFile Formats (page does not exist)">File
+Formats</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/File-20Formats "Special%253ASearchByProperty/File-20Formats")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 September 2012 19:49:58  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/10-20September-202012-2019:49:58 "Special%253ASearchByProperty/Modification-20date/10-20September-202012-2019:49:58")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -88,8 +88,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -82,16 +82,16 @@ title="Daphnia-genepage.png">daphnia gene page</a> and
 class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
   
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:23, 4 September 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 16:23, 4 September 2007
 (EDT)
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [LuceGene](Category%253ALuceGene "Category%253ALuceGene")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -125,8 +125,8 @@ class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

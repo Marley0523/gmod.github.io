@@ -167,16 +167,16 @@ and 'every day of the week' respectively.
 ## <span id="Authors" class="mw-headline">Authors</span>
 
 The script described in this page was originally written by Chris
-Carpita and modified by [Scott Cain](User%3AScott "User%3AScott")
+Carpita and modified by [Scott Cain](User%253AScott "User%253AScott")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
 
 
 
@@ -210,8 +210,8 @@ Carpita and modified by [Scott Cain](User%3AScott "User%3AScott")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

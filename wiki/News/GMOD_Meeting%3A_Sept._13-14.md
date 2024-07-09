@@ -43,7 +43,7 @@ that you think would be interested in this meeting.
 
 I look forward to seeing you in England this Fall.
 
-[Scott Cain](../User%3AScott "User%3AScott")
+[Scott Cain](../User%253AScott "User%253AScott")
 
   
 
@@ -56,9 +56,9 @@ I look forward to seeing you in England this Fall.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -97,8 +97,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -121,7 +121,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_Meeting%3A_Sept._13-2D14"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_Meeting%253A_Sept._13-2D14"
   rel="smw-browse">Browse properties</a></span>
 
 

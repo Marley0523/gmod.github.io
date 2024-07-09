@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3AJobs&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253AJobs&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3AJobs (page does not exist)">Category%3AJobs</a> |  |
+title="Category%253AJobs (page does not exist)">Category%253AJobs</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3AJobs (page does not exist)">Category%3AJobs</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3AJobs)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253AJobs)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> , <span class="smwb-ivalue">[News/Postdoc Position in Computational and Plant Evolutionary Biology](/wiki/News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology "News/Postdoc Position in Computational and Plant Evolutionary Biology") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FPostdoc-20Position-20in-20Computational-20and-20Plant-20Evolutionary-20Biology "Special%253ABrowse/News-2FPostdoc-20Position-20in-20Computational-20and-20Plant-20Evolutionary-20Biology")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[News/Open Position At dictyBase](/wiki/News/Open_Position_At_dictyBase "News/Open Position At dictyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase "Special%253ABrowse/News-2FOpen-20Position-20At-20dictyBase")</span></span> , <span class="smwb-ivalue">[News/Postdoc Position in Computational and Plant Evolutionary Biology](/wiki/News/Postdoc_Position_in_Computational_and_Plant_Evolutionary_Biology "News/Postdoc Position in Computational and Plant Evolutionary Biology") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FPostdoc-20Position-20in-20Computational-20and-20Plant-20Evolutionary-20Biology "Special%253ABrowse/News-2FPostdoc-20Position-20in-20Computational-20and-20Plant-20Evolutionary-20Biology")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3AJobs "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253AJobs "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

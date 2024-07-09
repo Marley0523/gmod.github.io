@@ -48,7 +48,7 @@ me or edit the [meeting
 page](../April_2012_GMOD_Meeting "April 2012 GMOD Meeting") directly to
 add your suggested topic.
 
-[Scott Cain](../User%3AScott "User%3AScott")
+[Scott Cain](../User%253AScott "User%253AScott")
 
   
 
@@ -61,10 +61,10 @@ add your suggested topic.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [Meetings](../Category%3AMeetings "Category%3AMeetings")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
+- [Meetings](../Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -103,8 +103,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

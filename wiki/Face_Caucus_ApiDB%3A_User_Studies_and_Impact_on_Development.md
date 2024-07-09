@@ -33,11 +33,11 @@ studies in the context of bioinformatics databases.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [ApiDB](Category%3AApiDB "Category%3AApiDB")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [ApiDB](Category%253AApiDB "Category%253AApiDB")
 
 
 
@@ -71,8 +71,8 @@ studies in the context of bioinformatics databases.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -96,7 +96,7 @@ studies in the context of bioinformatics databases.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%253ABrowse/Face_Caucus_ApiDB%3A_User_Studies_and_Impact_on_Development"
+  href="Special%253ABrowse/Face_Caucus_ApiDB%253A_User_Studies_and_Impact_on_Development"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -17,8 +17,8 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3AGFF&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AGFF (page does not exist)">Category%3AGFF</a> |  |
+href="/mediawiki/index.php?title=Category%253AGFF&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AGFF (page does not exist)">Category%253AGFF</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -28,11 +28,11 @@ class="new" title="Category%3AGFF (page does not exist)">Category%3AGFF</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3AGFF)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253AGFF)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF "Special%253ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF-20Tutorial-202012 "Special%253ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF2 "Special%253ABrowse/GFF2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GFF](/wiki/GFF "GFF") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF "Special%253ABrowse/GFF")</span></span> , <span class="smwb-ivalue">[GFF Tutorial 2012](/wiki/GFF_Tutorial_2012 "GFF Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF-20Tutorial-202012 "Special%253ABrowse/GFF-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[GFF2](/wiki/GFF2 "GFF2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GFF2 "Special%253ABrowse/GFF2")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3AGFF "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253AGFF "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

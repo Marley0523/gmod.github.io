@@ -49,8 +49,8 @@
 
 # <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes steps to add a
-[BLAST](Category%3ABLAST "Category%3ABLAST") analysis to a [Chado
+This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes steps to add a
+[BLAST](Category%253ABLAST "Category%253ABLAST") analysis to a [Chado
 database](Chado_-_Getting_Started "Chado - Getting Started").
 
 # <span id="Have_an_existing_Chado_genome_database" class="mw-headline">Have an existing Chado genome database</span>
@@ -186,7 +186,7 @@ Featureloc entries for Target feature_id 88149:
 correct or at least are misleading; see the [Chado Best Practices
 section for handling BLAST
 results](Chado_Best_Practices#Results_from_BLAST "Chado Best Practices")
-for clarification* [Scott](User%3AScott "User%3AScott") 19:18, 21 November
+for clarification* [Scott](User%253AScott "User%253AScott") 19:18, 21 November
 2008 (UTC)
 
 # <span id="See_also" class="mw-headline">See also</span>
@@ -202,17 +202,17 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-- [Dongilbert](User%3ADongilbert "User%3ADongilbert") 23:24, 3 April 2007
+- [Dongilbert](User%253ADongilbert "User%253ADongilbert") 23:24, 3 April 2007
   (EDT)
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
-- [Chado](Category%3AChado "Category%3AChado")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
+- [Chado](Category%253AChado "Category%253AChado")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 
 
@@ -246,8 +246,8 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -5,14 +5,14 @@
 <span id="top"></span>
 
 
-# <span dir="auto">Talk%3AGBrowse 1 Configuration HOWTO</span>
+# <span dir="auto">Talk%253AGBrowse 1 Configuration HOWTO</span>
 
 
 
 
 
-(Redirected from [Talk%3AGBrowse Configuration
-HOWTO](http://gmod.org/mediawiki/index.php?title=Talk%3AGBrowse_Configuration_HOWTO&redirect=no "Talk%3AGBrowse Configuration HOWTO"))
+(Redirected from [Talk%253AGBrowse Configuration
+HOWTO](http://gmod.org/mediawiki/index.php?title=Talk%253AGBrowse_Configuration_HOWTO&redirect=no "Talk%253AGBrowse Configuration HOWTO"))
 
 
 
@@ -25,7 +25,7 @@ has to be (now or in the future) of the format
 
 I think Apollo (but not Artemis) breaks if that is not included.
 
-[Alpapan](User%3AAlpapan "User%3AAlpapan")
+[Alpapan](User%253AAlpapan "User%253AAlpapan")
 
 _The current version of Apollo does require sequence-region, but I just
 chatted with the developer and he is removing the requirement that it be
@@ -34,7 +34,7 @@ question would probably have been better asked on the Apollo mailing
 list: <a href="http://mail.fruitfly.org/mailman/listinfo/apollo"
 class="external free"
 rel="nofollow">http://mail.fruitfly.org/mailman/listinfo/apollo</a>_
---[Scott](User%3AScott "User%3AScott") 16:21, 29 January 2008 (EST)
+--[Scott](User%253AScott "User%253AScott") 16:21, 29 January 2008 (EST)
 
 Ah, thanks Scott  
 I also was under the impression it was in the
@@ -44,7 +44,7 @@ class="external text" rel="nofollow">GFF3 spec</a>.
      This element is optional, but strongly encouraged because it allows parsers to perform bounds checking on features.
 
 So I assumed that it was GBrowse that did not follow the spec.
-[Alpapan](User%3AAlpapan "User%3AAlpapan")
+[Alpapan](User%253AAlpapan "User%253AAlpapan")
 
 ## <span id=".2A_-.3E_h3_for_track_properties.2C_etc.2C_easier_on_the_eyes.3F" class="mw-headline">\* -\> h3 for track properties, etc, easier on the eyes?</span>
 
@@ -58,7 +58,7 @@ title="GBrowse Configuration HOWTO/bullets2h3">output</a>. If anyone
 cares, I think it lets the track properties - which are currently
 bulleted - stand out a bit more, making them easier to find. (check the
 General \[SECTION\] for an example.)
---[Stewarta](User%3AStewarta "User%3AStewarta") 13:43, 14 March 2008 (EDT)
+--[Stewarta](User%253AStewarta "User%253AStewarta") 13:43, 14 March 2008 (EDT)
 
 ## <span id="Declaring_New_Aggregators" class="mw-headline">Declaring New Aggregators</span>
 
@@ -71,9 +71,9 @@ not
      aggregator = transcript{....
 
 At least with my gbrowse dev branch... I didn't edit it in case i 'm
-wrong. [Alpapan](User%3AAlpapan "User%3AAlpapan")
+wrong. [Alpapan](User%253AAlpapan "User%253AAlpapan")
 
-_Agreed and fixed. Thanks. [Scott](User%3AScott "User%3AScott") 23:13, 11
+_Agreed and fixed. Thanks. [Scott](User%253AScott "User%253AScott") 23:13, 11
 June 2008 (EDT)_
 
 ## <span id="Renaming_proposal.3F" class="mw-headline">Renaming proposal?</span>
@@ -86,7 +86,7 @@ GBrowse</a>', and that we start to split it up into sub documents by
 heading. Each sub document would be categorized 'GBrowse configuration'.
 It's just so large and unwieldy - I think lots of stuff, especially
 advanced functionality could be split out.
---[DanBolser](User%3ADanBolser "User%3ADanBolser") 13:41, 22 May 2009 (UTC)
+--[DanBolser](User%253ADanBolser "User%253ADanBolser") 13:41, 22 May 2009 (UTC)
 
 So I started doing this finally (since the discussion reached
 consensus). If people want the mega-doc back for some reason, it can be
@@ -97,7 +97,7 @@ Configuration/Balloons](GBrowse_Configuration/Balloons "GBrowse Configuration/Ba
 in another page, you just type Balloons on
 that page. Note the use of the 'noinclude' tags in the above page allows
 text (a header) in the individual pages that is not transcluded into the
-calling page. --[DanBolser](User%3ADanBolser "User%3ADanBolser") 01:13, 10
+calling page. --[DanBolser](User%253ADanBolser "User%253ADanBolser") 01:13, 10
 July 2010 (UTC)
 
 
@@ -114,7 +114,7 @@ July 2010 (UTC)
 
 ### Namespaces
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_1_Configuration_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_1_Configuration_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -135,8 +135,8 @@ July 2010 (UTC)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

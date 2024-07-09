@@ -21,7 +21,7 @@ Tutorial](http://gmod.org/mediawiki/index.php?title=GFF_Tutorial&redirect=no "GF
 
 
 This tutorial on [GFF](GFF "GFF") was given by [Scott
-Cain](User%3AScott "User%3AScott") at the [2012 GMOD Summer
+Cain](User%253AScott "User%253AScott") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 **GFF** is a standard file format for storing genomic features in a text
@@ -594,10 +594,10 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
 
 
 
@@ -631,8 +631,8 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-website](/wiki/Property%3AHas_website "Property:Has website")" with value
+website](/wiki/Property%253AHas_website "Property:Has website")" with value
 "<a href="http://bioinformatics.ai.sri.com/ptools/" class="external"
 rel="nofollow">http://bioinformatics.ai.sri.com/ptools/</a>"  
 
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20website/http%253A-2F-2Fbioinformatics.ai.sri.com-2Fptools-2F "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

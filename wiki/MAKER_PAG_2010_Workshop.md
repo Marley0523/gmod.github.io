@@ -63,7 +63,7 @@ MAKER on a local machine.
 
 ## <span id="Workshop_Instructor" class="mw-headline">Workshop Instructor</span>
 
-- [Carson Holt](User%3ACarsonholt "User%3ACarsonholt"),
+- [Carson Holt](User%253ACarsonholt "User%253ACarsonholt"),
   <a href="http://www.utah.edu" class="external text"
   rel="nofollow">University of Utah</a>
 
@@ -146,8 +146,8 @@ GMOD-related presentations at PAG XVIII.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

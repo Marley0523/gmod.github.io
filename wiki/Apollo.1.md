@@ -28,13 +28,13 @@ rel="nofollow">GitHub</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [Java](Category%3AJava "Category%3AJava")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [Java](Category%253AJava "Category%253AJava")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [GMOD Component](Category%253AGMOD_Component "Category%253AGMOD Component")
 
 
 
@@ -69,8 +69,8 @@ rel="nofollow">GitHub</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

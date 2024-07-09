@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-title](/wiki/Property%3AHas_title "Property:Has title")" with value
+title](/wiki/Property%253AHas_title "Property:Has title")" with value
 "Finding the missing honey bee genes: lessons learned from a genome
 upgrade"  
 
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes%3A-20lessons-20learned-20from-20a-20genome-20upgrade "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20title/Finding-20the-20missing-20honey-20bee-20genes%253A-20lessons-20learned-20from-20a-20genome-20upgrade "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

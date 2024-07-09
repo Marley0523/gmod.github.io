@@ -29,7 +29,7 @@ also a client for the DAS (Distributed Annotation System) protocol.
 I'm going to see if I can get IGB on my Mac to connect to a local Perl
 DAS/2 server I'm writing. This section is for Gregg to see my progress
 (more likely lack thereof) and slap me if I stray too far.
---[Jhannah](User%3AJhannah "User%3AJhannah") 14:30, 7 November 2007 (EST)
+--[Jhannah](User%253AJhannah "User%253AJhannah") 14:30, 7 November 2007 (EST)
 
 Gregg instructions from a Windows client:
 
@@ -94,10 +94,10 @@ rel="nofollow">https://www.affymetrix.com/community/forums/forum.jspa?forumID=28
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [DAS](Category%3ADAS "Category%3ADAS")
-- [External](Category%3AExternal "Category%3AExternal")
+- [DAS](Category%253ADAS "Category%253ADAS")
+- [External](Category%253AExternal "Category%253AExternal")
 
 
 
@@ -131,8 +131,8 @@ rel="nofollow">https://www.affymetrix.com/community/forums/forum.jspa?forumID=28
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

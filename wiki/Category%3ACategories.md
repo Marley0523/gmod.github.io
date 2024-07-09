@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ACategories</span>
+# <span dir="auto">Category%253ACategories</span>
 
 
 
@@ -28,24 +28,24 @@ This category has the following 6 subcategories, out of 6 total.
 
 ### B
 
-- [Biology](Category%3ABiology "Category%3ABiology")
+- [Biology](Category%253ABiology "Category%253ABiology")
 
 ### C
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 ### D
 
-- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
+- [Documentation](Category%253ADocumentation "Category%253ADocumentation")
 
 ### G
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
 
 ### H
 
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -81,8 +81,8 @@ This category has the following 6 subcategories, out of 6 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -105,7 +105,7 @@ This category has the following 6 subcategories, out of 6 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ACategories" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ACategories" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -27,7 +27,7 @@ width="400" height="229" alt="GMOD in the Cloud" />
 
 
 GMOD in the Cloud is a [GMOD virtual
-server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
+server](Category%253AGMOD_virtual_server "Category%253AGMOD virtual server")
 equipped with a suite of preconfigured GMOD components, including a
 **Chado** database, **GBrowse2**, **JBrowse**, **Tripal**, and **Apollo
 or WebApollo**. Setting up a GMOD in the Cloud instance is quick and
@@ -154,7 +154,7 @@ rel="nofollow">cloud.gmod.org</a> is a small instance.
 
 #### <span id="Build_information" class="mw-headline">Build information</span>
 
-[Scott](User%3AScott "User%3AScott") has fairly extensive notes on the
+[Scott](User%253AScott "User%253AScott") has fairly extensive notes on the
 configuration file edits and the commands used when building GMOD in the
 Cloud. See his <a
 href="https://github.com/scottcain/GMODintheCloud/blob/master/GitC2_build"
@@ -386,12 +386,12 @@ specific to the VM for help in setting up your data.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [GMOD virtual
-  server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
+  server](Category%253AGMOD_virtual_server "Category%253AGMOD virtual server")
 - [GMOD in the
-  Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+  Cloud](Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
 
 
 
@@ -425,8 +425,8 @@ specific to the VM for help in setting up your data.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

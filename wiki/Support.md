@@ -50,12 +50,12 @@ website](Special:Search "Special:Search") or exploring it through
 particularly useful places to start for support questions:
 
 - [Overview](Overview "Overview") - an introduction to GMOD.
-- [FAQs](Category%3AFAQ "Category%3AFAQ") - List of Frequently Asked
+- [FAQs](Category%253AFAQ "Category%253AFAQ") - List of Frequently Asked
   Questions pages.
 - [GMOD Components](GMOD_Components "GMOD Components") - Links to pages
   about each of the GMOD components.
 - [Glossary](Glossary "Glossary") - List of commonly used terms in GMOD.
-- [HOWTOs](Category%3AHOWTO "Category%3AHOWTO") - List of HOWTO pages
+- [HOWTOs](Category%253AHOWTO "Category%253AHOWTO") - List of HOWTO pages
 
 ## <span id="GMOD_Mailing_Lists" class="mw-headline">[GMOD Mailing Lists](GMOD_Mailing_Lists "GMOD Mailing Lists")</span>
 
@@ -119,9 +119,9 @@ GMOD components.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -155,8 +155,8 @@ GMOD components.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

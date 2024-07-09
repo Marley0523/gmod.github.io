@@ -18,8 +18,8 @@
 
 
 --<a
-href="http://gmod.org/mediawiki/index.php?title=User%3AVdejager&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
+href="http://gmod.org/mediawiki/index.php?title=User%253AVdejager&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AVdejager (page does not exist)">Vdejager</a>
 11:07, 1 September 2008 (UTC)
 
 
@@ -98,7 +98,7 @@ class="new" title="User%3AVdejager (page does not exist)">Vdejager</a>
 
 ## <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes how to use the
+This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes how to use the
 <a href="http://www.djangoproject.com/" class="external text"
 rel="nofollow">Django</a> (Python based) framework for accessing a
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> database.
@@ -320,7 +320,7 @@ command.
       ./manage.py inspectdb > unsortedmodels.py
 
 This will create a raw `models.py` with a model for each table and view
-in the specified [Postgres](Category%3APostgreSQL "Category%3APostgreSQL")
+in the specified [Postgres](Category%253APostgreSQL "Category%253APostgreSQL")
 database. We will need to edit this file a bit with a Perl script.
 
 Each foreign key relation should have a unique name in Django to support
@@ -559,15 +559,15 @@ recorded.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 - [Pages with problems or
-  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
-- [Needs Testing](Category%3ANeeds_Testing "Category%3ANeeds Testing")
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+  questions](Category%253APages_with_problems_or_questions "Category%253APages with problems or questions")
+- [Needs Testing](Category%253ANeeds_Testing "Category%253ANeeds Testing")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
 
 
 
@@ -601,8 +601,8 @@ recorded.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -94,7 +94,7 @@ GBrowse 1.70 (**NOT GBrowse2** and its Perl libraries for you. See
   title="GBrowse Configuration HOWTO">GBrowse Configuration HOWTO</a>
 
   
-See **[Category%3AGBrowse](Category%3AGBrowse "Category%3AGBrowse")** for more
+See **[Category%253AGBrowse](Category%253AGBrowse "Category%253AGBrowse")** for more
 GBrowse documentation.
 
 
@@ -131,8 +131,8 @@ GBrowse documentation.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -233,7 +233,7 @@ pages in it then the [help desk](GMOD_Help_Desk "GMOD Help Desk") will
 subdivide that category.
 
 This web site makes extensive use of tags, called
-[categories](Special%3ACategories "Special%3ACategories") in MediaWiki, to
+[categories](Special%253ACategories "Special%253ACategories") in MediaWiki, to
 flag pages as being related to different topics. To encourage the use of
 categories, an input field and _tag cloud_ listing existing categories
 is shown at the bottom of every edit page. You can either type in the
@@ -292,7 +292,7 @@ For example, the file
 title="Gkl777.pdf">Gkl777.pdf</a> is an article on
 [ParameciumDB](ParameciumDB "ParameciumDB") from _Nucleic Acids
 Research_, but if you look at the file's listing in the [Publications
-category](Category%3APublications "Category%3APublications") all you see is
+category](Category%253APublications "Category%253APublications") all you see is
 "Gkl777.pdf". You have to follow the link to find out what the file is
 about.
 
@@ -301,8 +301,8 @@ about.
 
 
 When uploading a presentation or a paper, please add it to the
-[Presentations](Category%3APresentations "Category%3APresentations") or
-[Publications](Category%3APublications "Category%3APublications")
+[Presentations](Category%253APresentations "Category%253APresentations") or
+[Publications](Category%253APublications "Category%253APublications")
 categories. Also add the file to any other appropriate categories.
 
 
@@ -668,11 +668,11 @@ page.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 
-- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
-- [Help](Category%3AHelp "Category%3AHelp")
+- [GMOD Web Site](Category%253AGMOD_Web_Site "Category%253AGMOD Web Site")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -704,8 +704,8 @@ page.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

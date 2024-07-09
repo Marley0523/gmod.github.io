@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3ATextpresso</span>
+# <span dir="auto">Talk%253ATextpresso</span>
 
 
 
@@ -21,8 +21,8 @@ I think it would be very useful to post more information about how to
 construct/revise the textpresso lexica. this information is not covered
 well in either the papaers or installation guide. Or perhaps someone can
 point to more information? <a
-href="http://gmod.org/mediawiki/index.php?title=User%3AGribskov&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
+href="http://gmod.org/mediawiki/index.php?title=User%253AGribskov&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AGribskov (page does not exist)">Gribskov</a>
 11:26, 9 July 2008 (EDT)
 
 
@@ -39,7 +39,7 @@ class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ATextpresso" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ATextpresso" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -63,8 +63,8 @@ class="new" title="User%3AGribskov (page does not exist)">Gribskov</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

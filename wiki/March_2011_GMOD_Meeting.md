@@ -323,27 +323,27 @@ clearer picture of the project in advance of the meeting.
 
 | Time   | Topic                    | Presenter(s)                          | Links |
 |--------|--------------------------|---------------------------------------|-------|
-| 7pm-9m | **Introduction to GMOD** | [Scott Cain](User%3AScott "User%3AScott") |       |
+| 7pm-9m | **Introduction to GMOD** | [Scott Cain](User%253AScott "User%253AScott") |       |
 
 ## <span id="Saturday:_Day_1" class="mw-headline">Saturday: Day 1</span>
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 9:15 | Introductions | [Scott Cain](User%3AScott "User%3AScott") |  |
-| 9:35 | Welcome to NESCent, & opportunities at the center | [Todd Vision](User%3ATjvision "User%3ATjvision") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Tjv.gmod11.pdf" class="internal"
+| 9:15 | Introductions | [Scott Cain](User%253AScott "User%253AScott") |  |
+| 9:35 | Welcome to NESCent, & opportunities at the center | [Todd Vision](User%253ATjvision "User%253ATjvision") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Tjv.gmod11.pdf" class="internal"
 title="Tjv.gmod11.pdf">slides</a> |
-| 9:50 | The State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/State_of_gmod.ppt" class="internal"
+| 9:50 | The State of GMOD | [Scott Cain](User%253AScott "User%253AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/State_of_gmod.ppt" class="internal"
 title="State of gmod.ppt">PPT</a> |
 | 10:35 | Coffee |  |  |
-| 10:50 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User%3AClements "User%3AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/March2011GMODHelpDesk.ppt"
+| 10:50 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") Update | [Dave Clements](User%253AClements "User%253AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/March2011GMODHelpDesk.ppt"
 class="internal" title="March2011GMODHelpDesk.ppt">PPT</a> |
 | 11:55 | Lunch |  |  |
 | 1:15 | *Drosophila* Genetic Reference Panel (DGRP) | Eric Stone |  |
 | 2:00 | GSA and GMOD | Elizabeth Ruedi | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/March2011GSAandGMOD.pptx"
 class="internal" title="March2011GSAandGMOD.pptx">PPT</a> |
 | 2:30 | Coffee |  |  |
-| 3:00 | Mashing up InterMine: An introduction to the new InterMine webservice features | [Alex Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis") | Slides? |
-| 3:45 | Mimosa: Miniature Model Organism Sequence Aligner | [Jonathan "Duke" Leto](User%3ADukeleto "User%3ADukeleto") | <a
+| 3:00 | Mashing up InterMine: An introduction to the new InterMine webservice features | [Alex Kalderimis](User%253AAlexkalderimis "User%253AAlexkalderimis") | Slides? |
+| 3:45 | Mimosa: Miniature Model Organism Sequence Aligner | [Jonathan "Duke" Leto](User%253ADukeleto "User%253ADukeleto") | <a
 href="https://github.com/leto/presentations/raw/master/2011/GMOD/pres.pdf"
 class="external text" rel="nofollow">Slides</a> |
 | 4:30 | Head out for dinner |  |  |
@@ -355,7 +355,7 @@ please see the [confirmed speakers list](#Confirmed_Speakers).
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 9:15 | [JBrowse](JBrowse.1 "JBrowse") Project Update | [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | <a
+| 9:15 | [JBrowse](JBrowse.1 "JBrowse") Project Update | [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | <a
 href="http://jbrowse.org/info/GMOD_Mar_2011/JBrowse_GMOD_Meeting_2011.pdf"
 class="external text" rel="nofollow">Slides</a> |
 | 10:00 | [Tripal](Tripal.1 "Tripal") Project Update | Lacey Sanderson | <a
@@ -363,17 +363,17 @@ href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/image
 class="internal"
 title="LaceySanderson Tripal GMODAmericas2011.pptx">Slides</a> |
 | 10:45 | Break |  |  |
-| 11:10 | [Galaxy](Galaxy.1 "Galaxy") for high-throughput sequence data analysis | [Dave Clements](User%3AClements "User%3AClements") |  |
+| 11:10 | [Galaxy](Galaxy.1 "Galaxy") for high-throughput sequence data analysis | [Dave Clements](User%253AClements "User%253AClements") |  |
 | 12:00 | Lunch |  |  |
 | 1:00 | Implementation of RNA-Seq data in <a href="Chado" class="mw-redirect" title="Chado">Chado</a> at FlyBase | Dave Emmert | <a
 href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/DaveEmmert_RNAseq_Tripal_GMODAmericas2011.pdf"
 class="internal"
 title="DaveEmmert RNAseq Tripal GMODAmericas2011.pdf">Slides</a> |
 | 2:00 | Lightning talks: |  |  |
-|  | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  |
-|  | [ISGA](ISGA "ISGA") | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  |
+|  | <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> | [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") |  |
+|  | [ISGA](ISGA "ISGA") | [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") |  |
 |  | Coffee break |  |  |
-|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") | Siddhartha Basu | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
+|  | [Modware](Modware "Modware"): Its latest development using Moose and [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") | Siddhartha Basu | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/March2011Modware.ppt" class="internal"
 title="March2011Modware.ppt">PPT</a>, <a href="http://slidesha.re/i3WYZ1" class="external text"
 rel="nofollow">Slideshare</a> |
 |  | Developing genome sequencing for identification, detection, and control of *Bactrocera dorsalis (Hendel)* and other Tephritid pests | Tom Walk | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/March20111TomWalk.pptx"
@@ -392,19 +392,19 @@ Meetings](Satellite_Meetings_-_GMOD_Americas_2011 "Satellite Meetings - GMOD Ame
 | First | Last | Affiliation |
 |----|----|----|
 | Siddhartha | Basu | Northwestern university |
-| [Robert](User%3ARobertBuels "User%3ARobertBuels") | [Buels](User%3ARobertBuels "User%3ARobertBuels") | <a href="http://solgenomics.net" class="external text"
+| [Robert](User%253ARobertBuels "User%253ARobertBuels") | [Buels](User%253ARobertBuels "User%253ARobertBuels") | <a href="http://solgenomics.net" class="external text"
 rel="nofollow">Sol Genomics Network</a> - Boyce Thompson Institute |
-| [Scott](User%3AScott "User%3AScott") | [Cain](User%3AScott "User%3AScott") | Ontario Institute for Cancer Research (OICR), GMOD |
-| [Dave](User%3AClements "User%3AClements") | [Clements](User%3AClements "User%3AClements") | <a href="http://emory.edu" class="external text" rel="nofollow">Emory
+| [Scott](User%253AScott "User%253AScott") | [Cain](User%253AScott "User%253AScott") | Ontario Institute for Cancer Research (OICR), GMOD |
+| [Dave](User%253AClements "User%253AClements") | [Clements](User%253AClements "User%253AClements") | <a href="http://emory.edu" class="external text" rel="nofollow">Emory
 University</a>, [Galaxy](Galaxy.1 "Galaxy") |
 | James | Collett | Pacific Northwest National Laboratory |
 | David | Emmert | FlyBase - Harvard University |
 | Madhavan | Ganesh | University of California, Berkeley |
 | Eric | Ganko | Syngenta Biotech |
 | Steve | Graham | Syngenta |
-| [Christopher](User%3AChemmeri "User%3AChemmeri") | [Hemmerich](User%3AChemmeri "User%3AChemmeri") | Center for Genomics and Bioinformatics |
+| [Christopher](User%253AChemmeri "User%253AChemmeri") | [Hemmerich](User%253AChemmeri "User%253AChemmeri") | Center for Genomics and Bioinformatics |
 | Joe | Horton | GSK |
-| [Alex](User%3AAlexkalderimis "User%3AAlexkalderimis") | [Kalderimis](User%3AAlexkalderimis "User%3AAlexkalderimis") | <a href="http://www.cam.ac.uk" class="external text"
+| [Alex](User%253AAlexkalderimis "User%253AAlexkalderimis") | [Kalderimis](User%253AAlexkalderimis "User%253AAlexkalderimis") | <a href="http://www.cam.ac.uk" class="external text"
 rel="nofollow">University of Cambridge</a>, <a href="http://flymine.org" class="external text"
 rel="nofollow">FlyMine</a>, [InterMine](InterMine "InterMine") |
 | Jonathan | Leto | <a href="http://solgenomics.net" class="external text"
@@ -420,7 +420,7 @@ rel="nofollow">Genetics Society of America (GSA)</a> |
 | Surya | Saha | Cornell University |
 | Lacey-anne | Sanderson | University of Saskatchewan |
 | Sheena | Scroggins | Polytechnic of NYU |
-| [Mitchell](User%3AMitchSkinner "User%3AMitchSkinner") | [Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | UC Berkeley |
+| [Mitchell](User%253AMitchSkinner "User%253AMitchSkinner") | [Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | UC Berkeley |
 | Olen | Sluder | <a href="http://txbiomed.org/" class="external text"
 rel="nofollow">Texas Biomedical Research Institute</a> |
 | Tomasz | Smolinski | Delaware State University |
@@ -613,9 +613,9 @@ future?**
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -649,8 +649,8 @@ future?**
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

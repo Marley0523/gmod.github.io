@@ -177,7 +177,7 @@ See also the search results found.
 - 
 
   [MOD User Interfaces: outline of
-  topics](/wiki/MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics")
+  topics](/wiki/MOD_User_Interfaces%253A_outline_of_topics "MOD User Interfaces: outline of topics")
 
   
 
@@ -446,7 +446,7 @@ See also the search results found.
 
   
 
-  ...\[\[User%3ARobertBuels\|Rob Buels\]\] and \[\[User%3ANaamaMenda\|Naama
+  ...\[\[User%253ARobertBuels\|Rob Buels\]\] and \[\[User%253ANaamaMenda\|Naama
   Menda\]\] and the <span class="searchmatch">rest</span> of the people
   at the \[http://solgenomics.net/ Sol Genomics Network (SGN)\] f
 
@@ -1156,7 +1156,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/REST "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/REST "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -1179,8 +1179,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

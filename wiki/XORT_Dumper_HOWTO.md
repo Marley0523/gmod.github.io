@@ -63,7 +63,7 @@ using XORT and what is involved to do so.
 
 ## <span id="Author" class="mw-headline">Author</span>
 
-- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
+- [Josh Goodman](User%253AJogoodma "User%253AJogoodma")
 
 ## <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
@@ -81,7 +81,7 @@ schema.
 2\. Install PostgreSQL. Please note that PostgreSQL 8.3 is the default
 in 8.04 and should work, but at the time of this writing there were some
 <a
-href="http://www.nabble.com/Re%3A--Gmod-help--gmod-bulk-upload-td17135725.html#a17137953#a17137953"
+href="http://www.nabble.com/Re%253A--Gmod-help--gmod-bulk-upload-td17135725.html#a17137953#a17137953"
 class="external text" rel="nofollow">concerns</a> about GMOD
 compatibility with 8.3.
 
@@ -343,11 +343,11 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [XORT](Category%3AXORT "Category%3AXORT")
-- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [XORT](Category%253AXORT "Category%253AXORT")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -381,8 +381,8 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

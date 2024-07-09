@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Developers</span>
+# <span dir="auto">Category%253AGMOD Developers</span>
 
 
 
@@ -29,11 +29,11 @@ This category has the following 2 subcategories, out of 2 total.
 ### G
 
 - [GMOD Best
-  Practices](Category%3AGMOD_Best_Practices "Category%3AGMOD Best Practices")
+  Practices](Category%253AGMOD_Best_Practices "Category%253AGMOD Best Practices")
 
 ### P
 
-- [Proposals](Category%3AProposals "Category%3AProposals")
+- [Proposals](Category%253AProposals "Category%253AProposals")
 
 
 
@@ -75,8 +75,8 @@ Conversion</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User%3ADongilbert"
-title="User%3ADongilbert">User%3ADongilbert</a></li>
+<li><a href="User%253ADongilbert"
+title="User%253ADongilbert">User%253ADongilbert</a></li>
 </ul>
 <h3 id="g-1">G</h3>
 <ul>
@@ -147,9 +147,9 @@ Access</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+- [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
 
 
 
@@ -183,8 +183,8 @@ Access</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -207,7 +207,7 @@ Access</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Developers"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Developers"
   rel="smw-browse">Browse properties</a></span>
 
 

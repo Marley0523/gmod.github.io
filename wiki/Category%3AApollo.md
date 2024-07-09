@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AApollo</span>
+# <span dir="auto">Category%253AApollo</span>
 
 
 
@@ -29,11 +29,11 @@ This category has the following 2 subcategories, out of 2 total.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 ### W
 
-- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
+- [Webapollo](Category%253AWebapollo "Category%253AWebapollo")
 
 
 
@@ -75,7 +75,7 @@ database</a></li>
 <td style="width: 33.3%"><h3 id="a-cont.">A cont.</h3>
 <ul>
 <li><a
-href="Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
+href="Apollo-Chado_Integration_at_BovineBase%253A_Bugs_and_Suggestions"
 title="Apollo-Chado Integration at BovineBase: Bugs and Suggestions">Apollo-Chado
 Integration at BovineBase: Bugs and Suggestions</a></li>
 <li><a href="Apollo/tool_data" title="Apollo/tool data">Apollo/tool
@@ -347,10 +347,10 @@ The following 9 files are in this category, out of 9 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -384,8 +384,8 @@ The following 9 files are in this category, out of 9 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -408,7 +408,7 @@ The following 9 files are in this category, out of 9 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AApollo" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AApollo" rel="smw-browse">Browse
   properties</a></span>
 
 

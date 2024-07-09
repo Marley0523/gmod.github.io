@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property
-"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
+"[Subject](/wiki/Property%253ASubject "Property%253ASubject")" with value
 "[InterMine](/wiki/InterMine "InterMine")"  
 
 - [InterMine](/wiki/InterMine#_35f0a4dfb21d901063f9534114909319 "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23_35f0a4dfb21d901063f9534114909319 "Special%253ABrowse/InterMine-23 35f0a4dfb21d901063f9534114909319")</span>
@@ -42,7 +42,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Subject/InterMine "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Subject/InterMine "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -68,8 +68,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

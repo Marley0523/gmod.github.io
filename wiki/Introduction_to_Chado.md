@@ -619,12 +619,12 @@ multiple locations.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 - [Pages with problems or
-  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
-- [Chado](Category%3AChado "Category%3AChado")
+  questions](Category%253APages_with_problems_or_questions "Category%253APages with problems or questions")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -638,7 +638,7 @@ multiple locations.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AIntroduction_to_Chado" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AIntroduction_to_Chado" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -662,8 +662,8 @@ multiple locations.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

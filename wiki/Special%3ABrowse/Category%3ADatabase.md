@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ADatabase&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ADatabase&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ADatabase (page does not exist)">Category%3ADatabase</a> |  |
+title="Category%253ADatabase (page does not exist)">Category%253ADatabase</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3ADatabase (page does not exist)">Category%3ADatabase</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ADatabase)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ADatabase)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[A Brief Guide to Databases](/wiki/A_Brief_Guide_to_Databases "A Brief Guide to Databases") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/A-20Brief-20Guide-20to-20Databases "Special%253ABrowse/A-20Brief-20Guide-20to-20Databases")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[A Brief Guide to Databases](/wiki/A_Brief_Guide_to_Databases "A Brief Guide to Databases") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/A-20Brief-20Guide-20to-20Databases "Special%253ABrowse/A-20Brief-20Guide-20to-20Databases")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ADatabase "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ADatabase "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

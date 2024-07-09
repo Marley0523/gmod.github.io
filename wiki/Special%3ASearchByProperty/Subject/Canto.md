@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property
-"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
+"[Subject](/wiki/Property%253ASubject "Property%253ASubject")" with value
 "[Canto](/wiki/Canto "Canto")"  
 
 - [Canto](/wiki/Canto#_564f9c71bf2847fc3c542a7b9ac7927f "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f "Special%253ABrowse/Canto-23 564f9c71bf2847fc3c542a7b9ac7927f")</span>
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Subject/Canto "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Subject/Canto "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

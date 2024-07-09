@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Linux](/wiki/Category%3ALinux "Category%3ALinux")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linux "Special%3ASearchByProperty/Linux")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category%3AMac_OS_X "Category%3AMac OS X")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Mac-20OS-20X "Special%3ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[Windows](/wiki/Category%3AWindows "Category%3AWindows")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Windows "Special%3ASearchByProperty/Windows")</span></span> , <span class="smwb-value">[Help](/wiki/Category%3AHelp "Category%3AHelp")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Help "Special%3ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category%3AComputing "Category%3AComputing")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Computing "Special%3ASearchByProperty/Computing")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 November 2013 05:03:03  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03 "Special%3ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Linux](/wiki/Category%253ALinux "Category%253ALinux")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linux "Special%253ASearchByProperty/Linux")</span></span> , <span class="smwb-value">[Mac OS X](/wiki/Category%253AMac_OS_X "Category%253AMac OS X")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Mac-20OS-20X "Special%253ASearchByProperty/Mac-20OS-20X")</span></span> , <span class="smwb-value">[Windows](/wiki/Category%253AWindows "Category%253AWindows")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Windows "Special%253ASearchByProperty/Windows")</span></span> , <span class="smwb-value">[Help](/wiki/Category%253AHelp "Category%253AHelp")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Help "Special%253ASearchByProperty/Help")</span></span> , <span class="smwb-value">[Computing](/wiki/Category%253AComputing "Category%253AComputing")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Computing "Special%253ASearchByProperty/Computing")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">20 November 2013 05:03:03  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03 "Special%253ASearchByProperty/Modification-20date/20-20November-202013-2005:03:03")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

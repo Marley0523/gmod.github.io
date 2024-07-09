@@ -89,26 +89,26 @@ class="external text" rel="nofollow">GMOD Evo Hackathon</a>.
 
 Many [GMOD users](../PAG_2011#Projects_Using_GMOD_Components "PAG 2011")
 and GMOD developers, including [Stephen
-Ficklin](../User%3ASficklin "User%3ASficklin")
+Ficklin](../User%253ASficklin "User%253ASficklin")
 ([Tripal](../Tripal.1 "Tripal")), [Carson
-Holt](../User%3ACarsonholt "User%3ACarsonholt")
+Holt](../User%253ACarsonholt "User%253ACarsonholt")
 ([MAKER](../MAKER.1 "MAKER")), [Barry
-Moore](../User%3ABmoore "User%3ABmoore") ([SOBA](../SOBA.1 "SOBA"),
+Moore](../User%253ABmoore "User%253ABmoore") ([SOBA](../SOBA.1 "SOBA"),
 [MAKER](../MAKER.1 "MAKER")), [Dan
-Blankenberg](../User%3ADanB "User%3ADanB") ([Galaxy](../Galaxy.1 "Galaxy")),
-[Mitch Skinner](../User%3AMitchSkinner "User%3AMitchSkinner")
+Blankenberg](../User%253ADanB "User%253ADanB") ([Galaxy](../Galaxy.1 "Galaxy")),
+[Mitch Skinner](../User%253AMitchSkinner "User%253AMitchSkinner")
 ([JBrowse](../JBrowse.1 "JBrowse")), Ken Youens-Clark
-([CMap](../CMap.1 "CMap")), [Mike Caudy](../User%3AMcaudy "User%3AMcaudy")
+([CMap](../CMap.1 "CMap")), [Mike Caudy](../User%253AMcaudy "User%253AMcaudy")
 ([GMODviews](../GMODviews "GMODviews")), [Rob
-Buels](../User%3ARobertBuels "User%3ARobertBuels")
-([Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
+Buels](../User%253ARobertBuels "User%253ARobertBuels")
+([Bio%253A%253AChado%253A%253ASchema](../Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema"),
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn")), and [Scott
-Cain](../User%3AScott "User%3AScott")
+Cain](../User%253AScott "User%253AScott")
 (<a href="../Chado" class="mw-redirect" title="Chado">Chado</a>,
 [GBrowse](../GBrowse.1 "GBrowse"), ...) will be attending PAG this year.
 Please seek each other out.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [Galaxy Project](../Galaxy.1 "Galaxy")
 
 PS: In addition, three of the GMOD developers (Dan, Mitch, Scott) are
@@ -126,9 +126,9 @@ area](#GMOD_Roadshow_in_San_Diego) during the meeting.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -167,8 +167,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

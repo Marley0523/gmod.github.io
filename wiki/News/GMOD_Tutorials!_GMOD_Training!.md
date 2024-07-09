@@ -46,39 +46,39 @@ class="new" title="VMware (page does not exist)">VMware</a> system image
 to work with, and detailed instructions on how to setup the component on
 that image.
 
-The [tutorials](../Category%3ATutorials "Category%3ATutorials") are:
+The [tutorials](../Category%253ATutorials "Category%253ATutorials") are:
 
 - **<a href="../Apollo_Tutorial" class="mw-redirect"
   title="Apollo Tutorial">Apollo Tutorial</a>** - by [Ed
-  Lee](../User%3AElee "User%3AElee")
+  Lee](../User%253AElee "User%253AElee")
 - **[Artemis-Chado Integration
   Tutorial](../Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial")** -
-  by [Robin Houston](../User%3ARobinHouston "User%3ARobinHouston"), [Tim
-  Carver](../User%3ATimCarver "User%3ATimCarver") and [Giles
-  Velarde](../User%3ABuggy "User%3ABuggy")
+  by [Robin Houston](../User%253ARobinHouston "User%253ARobinHouston"), [Tim
+  Carver](../User%253ATimCarver "User%253ATimCarver") and [Giles
+  Velarde](../User%253ABuggy "User%253ABuggy")
 - **[BioMart Tutorial](../BioMart_Tutorial "BioMart Tutorial")** - by
-  [Junjun Zhang](../User%3AJunjun "User%3AJunjun") and [Syed
-  Haider](../User%3ASyedHaider "User%3ASyedHaider")
+  [Junjun Zhang](../User%253AJunjun "User%253AJunjun") and [Syed
+  Haider](../User%253ASyedHaider "User%253ASyedHaider")
 - **<a href="../Chado_Tutorial" class="mw-redirect"
   title="Chado Tutorial">Chado Tutorial</a>** - by [Scott
-  Cain](../User%3AScott "User%3AScott"), [Joshua
-  Orvis](../User%3AJorvis "User%3AJorvis"), and [Dave
-  Clements](../User%3AClements "User%3AClements")
+  Cain](../User%253AScott "User%253AScott"), [Joshua
+  Orvis](../User%253AJorvis "User%253AJorvis"), and [Dave
+  Clements](../User%253AClements "User%253AClements")
 - **[GBrowse Tutorial](../GBrowse_Tutorial "GBrowse Tutorial")** - by
-  [Scott Cain](../User%3AScott "User%3AScott") and [Sheldon
-  McKay](../User%3AMckays "User%3AMckays")
+  [Scott Cain](../User%253AScott "User%253AScott") and [Sheldon
+  McKay](../User%253AMckays "User%253AMckays")
 - **<a href="../GBrowse_syn_Tutorial" class="mw-redirect"
   title="GBrowse syn Tutorial">GBrowse_syn Tutorial</a>** - by [Sheldon
-  McKay](../User%3AMckays "User%3AMckays")
+  McKay](../User%253AMckays "User%253AMckays")
 - **<a href="../JBrowse_Tutorial" class="mw-redirect"
   title="JBrowse Tutorial">JBrowse Tutorial</a>** - by [Mitch
-  Skinner](../User%3AMitchSkinner "User%3AMitchSkinner") and Ian Holmes
+  Skinner](../User%253AMitchSkinner "User%253AMitchSkinner") and Ian Holmes
 - **<a href="../MAKER_Tutorial" class="mw-redirect"
   title="MAKER Tutorial">MAKER Tutorial</a>** - by [Carson
-  Holt](../User%3ACarsonholt "User%3ACarsonholt")
+  Holt](../User%253ACarsonholt "User%253ACarsonholt")
 - **<a href="../Tripal_Tutorial" class="mw-redirect"
   title="Tripal Tutorial">Tripal Tutorial</a>** - by [Stephen
-  Ficklin](../User%3ASficklin "User%3ASficklin")
+  Ficklin](../User%253ASficklin "User%253ASficklin")
 
   
 There is also a plethora of GMOD related [training and
@@ -190,7 +190,7 @@ pipeline</a></strong></td>
 </tbody>
 </table>
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -204,9 +204,9 @@ pipeline</a></strong></td>
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -245,8 +245,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

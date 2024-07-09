@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ASAMtools</span>
+# <span dir="auto">Category%253ASAMtools</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/SAMtools "Special%3ASearch/SAMtools") in other
+title](Special%253ASearch/SAMtools "Special%253ASearch/SAMtools") in other
 pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ASAMtools"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ASAMtools"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -60,7 +60,7 @@ This category contains only the following file.
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3ASAMtools](Category%3ASAMtools)"
+"[http://gmod.org/wiki/Category%253ASAMtools](Category%253ASAMtools)"
 
 
 
@@ -93,8 +93,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -117,7 +117,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ASAMtools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ASAMtools" rel="smw-browse">Browse
   properties</a></span>
 
 

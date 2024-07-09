@@ -18,7 +18,7 @@
 
 
 This is a property of type
-[Text](Special%3ATypes/Text "Special%3ATypes/Text").
+[Text](Special%253ATypes/Text "Special%253ATypes/Text").
 
   
 <span id="SMWResults"></span>
@@ -47,8 +47,8 @@ title="BioMart">BioMart</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/BioMart"
 title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">Biomart250.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/Biomart250.png"
-title="Special%3ASearchByProperty/Has-20logo/Biomart250.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/Biomart250.png"
+title="Special%253ASearchByProperty/Has-20logo/Biomart250.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -59,16 +59,16 @@ title="Special%3ASearchByProperty/Has-20logo/Biomart250.png">+</a></span></td>
 class="smwbrowse"><a href="Special%253ABrowse/CMap"
 title="Special%253ABrowse/CMap">+</a></span></td>
 <td class="smwprops">CMapLogo-horiz.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/CMapLogo-2Dhoriz.png"
-title="Special%3ASearchByProperty/Has-20logo/CMapLogo-2Dhoriz.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/CMapLogo-2Dhoriz.png"
+title="Special%253ASearchByProperty/Has-20logo/CMapLogo-2Dhoriz.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/Canto"
 title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops">CantoTextLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/CantoTextLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/CantoTextLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/CantoTextLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/CantoTextLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -79,8 +79,8 @@ title="Special%3ASearchByProperty/Has-20logo/CantoTextLogo.png">+</a></span></td
 class="smwbrowse"><a href="Special%253ABrowse/DIYA"
 title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">DIYALogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/DIYALogo.png"
-title="Special%3ASearchByProperty/Has-20logo/DIYALogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/DIYALogo.png"
+title="Special%253ASearchByProperty/Has-20logo/DIYALogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -92,8 +92,8 @@ title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse"
 title="Special%253ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">GBrowseLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/GBrowseLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/GBrowseLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/GBrowseLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/GBrowseLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse_syn.1"
@@ -101,8 +101,8 @@ title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse-20syn"
 title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">GBrowse_syn_logo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/GBrowse_syn_logo.png"
-title="Special%3ASearchByProperty/Has-20logo/GBrowse syn logo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/GBrowse_syn_logo.png"
+title="Special%253ASearchByProperty/Has-20logo/GBrowse syn logo.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Galaxy.1"
@@ -110,8 +110,8 @@ title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Galaxy"
 title="Special%253ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">GalaxyLogoBigger.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/GalaxyLogoBigger.png"
-title="Special%3ASearchByProperty/Has-20logo/GalaxyLogoBigger.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/GalaxyLogoBigger.png"
+title="Special%253ASearchByProperty/Has-20logo/GalaxyLogoBigger.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -123,8 +123,8 @@ title="InterMine">InterMine</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/InterMine"
 title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">InterMineLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/InterMineLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/InterMineLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/InterMineLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/InterMineLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -136,8 +136,8 @@ title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse"
 title="Special%253ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">JBrowseLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/JBrowseLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/JBrowseLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/JBrowseLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/JBrowseLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="JBrowse2"
@@ -145,8 +145,8 @@ title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse2"
 title="Special%253ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">Jbrowse2_logo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/Jbrowse2_logo.png"
-title="Special%3ASearchByProperty/Has-20logo/Jbrowse2 logo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/Jbrowse2_logo.png"
+title="Special%253ASearchByProperty/Has-20logo/Jbrowse2 logo.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -157,8 +157,8 @@ title="Special%3ASearchByProperty/Has-20logo/Jbrowse2 logo.png">+</a></span></td
 class="smwbrowse"><a href="Special%253ABrowse/MAKER"
 title="Special%253ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">MAKERLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/MAKERLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/MAKERLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/MAKERLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/MAKERLogo.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -170,8 +170,8 @@ title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Pathway-20Tools"
 title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">PathwayTools.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/PathwayTools.png"
-title="Special%3ASearchByProperty/Has-20logo/PathwayTools.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/PathwayTools.png"
+title="Special%253ASearchByProperty/Has-20logo/PathwayTools.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -183,8 +183,8 @@ title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Textpresso"
 title="Special%253ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">TextpressoLogo.jpg  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/TextpressoLogo.jpg"
-title="Special%3ASearchByProperty/Has-20logo/TextpressoLogo.jpg">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/TextpressoLogo.jpg"
+title="Special%253ASearchByProperty/Has-20logo/TextpressoLogo.jpg">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="Tripal.1"
@@ -192,8 +192,8 @@ title="Tripal">Tripal</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Tripal"
 title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">TripalLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/TripalLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/TripalLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/TripalLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/TripalLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -205,8 +205,8 @@ title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo"
 title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">WebApolloLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/WebApolloLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo2"
@@ -214,8 +214,8 @@ title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo2"
 title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">WebApolloLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/WebApolloLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/WebApolloLogo.png">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebGBrowse.1"
@@ -223,8 +223,8 @@ title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebGBrowse"
 title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">WebGBrowseLogo.png  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20logo/WebGBrowseLogo.png"
-title="Special%3ASearchByProperty/Has-20logo/WebGBrowseLogo.png">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20logo/WebGBrowseLogo.png"
+title="Special%253ASearchByProperty/Has-20logo/WebGBrowseLogo.png">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -233,11 +233,11 @@ title="Special%3ASearchByProperty/Has-20logo/WebGBrowseLogo.png">+</a></span></t
 
 
 </span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_logo "Special:ExportRDF/Property:Has logo")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_logo "Special:ExportRDF/Property:Has logo")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%253ATypes/Text "Special%253ATypes/Text") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20type/Text "Special%253ASearchByProperty/Has-20type/Text")</span> |
 
 
 
@@ -271,8 +271,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_logo "Special:Export
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -295,7 +295,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_logo "Special:Export
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_logo" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%253AHas_logo" rel="smw-browse">Browse
   properties</a></span>
 
 

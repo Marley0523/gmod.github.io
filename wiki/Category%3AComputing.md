@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AComputing</span>
+# <span dir="auto">Category%253AComputing</span>
 
 
 
@@ -37,57 +37,57 @@ This category has the following 14 subcategories, out of 14 total.
 <tr class="odd" style="vertical-align: top;">
 <td style="width: 33.3%"><h3 id="a">A</h3>
 <ul>
-<li><a href="Category%3AAJAX" title="Category%3AAJAX">AJAX</a></li>
+<li><a href="Category%253AAJAX" title="Category%253AAJAX">AJAX</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="Category%3ADAS" title="Category%3ADAS">DAS</a></li>
-<li><a href="Category%3ADatabase_Tools"
-title="Category%3ADatabase Tools">Database Tools</a></li>
+<li><a href="Category%253ADAS" title="Category%253ADAS">DAS</a></li>
+<li><a href="Category%253ADatabase_Tools"
+title="Category%253ADatabase Tools">Database Tools</a></li>
 </ul>
 <h3 id="e">E</h3>
 <ul>
-<li><a href="Category%3AExternal"
-title="Category%3AExternal">External</a></li>
+<li><a href="Category%253AExternal"
+title="Category%253AExternal">External</a></li>
 </ul>
 <h3 id="j">J</h3>
 <ul>
-<li><a href="Category%3AJava" title="Category%3AJava">Java</a></li>
+<li><a href="Category%253AJava" title="Category%253AJava">Java</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="j-cont.">J cont.</h3>
 <ul>
-<li><a href="Category%3AJavascript"
-title="Category%3AJavascript">Javascript</a></li>
+<li><a href="Category%253AJavascript"
+title="Category%253AJavascript">Javascript</a></li>
 </ul>
 <h3 id="l">L</h3>
 <ul>
-<li><a href="Category%3ALinux" title="Category%3ALinux">Linux</a></li>
+<li><a href="Category%253ALinux" title="Category%253ALinux">Linux</a></li>
 </ul>
 <h3 id="m">M</h3>
 <ul>
-<li><a href="Category%3AMac_OS_X" title="Category%3AMac OS X">Mac OS
+<li><a href="Category%253AMac_OS_X" title="Category%253AMac OS X">Mac OS
 X</a></li>
-<li><a href="Category%3AMiddleware"
-title="Category%3AMiddleware">Middleware</a></li>
+<li><a href="Category%253AMiddleware"
+title="Category%253AMiddleware">Middleware</a></li>
 </ul>
 <h3 id="p">P</h3>
 <ul>
-<li><a href="Category%3APerl" title="Category%3APerl">Perl</a></li>
+<li><a href="Category%253APerl" title="Category%253APerl">Perl</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="s">S</h3>
 <ul>
-<li><a href="Category%3ASemantic_web"
-title="Category%3ASemantic web">Semantic web</a></li>
+<li><a href="Category%253ASemantic_web"
+title="Category%253ASemantic web">Semantic web</a></li>
 </ul>
 <h3 id="w">W</h3>
 <ul>
-<li><a href="Category%3AWeb_services" title="Category%3AWeb services">Web
+<li><a href="Category%253AWeb_services" title="Category%253AWeb services">Web
 services</a></li>
-<li><a href="Category%3AWindows" title="Category%3AWindows">Windows</a></li>
+<li><a href="Category%253AWindows" title="Category%253AWindows">Windows</a></li>
 </ul>
 <h3 id="x">X</h3>
 <ul>
-<li><a href="Category%3AXML" title="Category%3AXML">XML</a></li>
+<li><a href="Category%253AXML" title="Category%253AXML">XML</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -149,9 +149,9 @@ This category contains only the following file.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Categories](Category%3ACategories "Category%3ACategories")
+- [Categories](Category%253ACategories "Category%253ACategories")
 
 
 
@@ -185,8 +185,8 @@ This category contains only the following file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -209,7 +209,7 @@ This category contains only the following file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AComputing" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AComputing" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ABrianfoley</span>
+# <span dir="auto">User%253ABrianfoley</span>
 
 
 
@@ -32,9 +32,9 @@ You can contact me at btf(at)lanl(dot)gov
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Evolution](Category%3AEvolution "Category%3AEvolution")
+- [Evolution](Category%253AEvolution "Category%253AEvolution")
 
 
 
@@ -68,8 +68,8 @@ You can contact me at btf(at)lanl(dot)gov
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -92,7 +92,7 @@ You can contact me at btf(at)lanl(dot)gov
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ABrianfoley" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ABrianfoley" rel="smw-browse">Browse
   properties</a></span>
 
 

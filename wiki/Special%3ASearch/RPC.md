@@ -45,7 +45,7 @@ See also the search results found.
   
 
   \* \[\[GMOD <span class="searchmatch">RPC</span> API Use Cases\]\]
-  \[\[Category%3A<span class="searchmatch">RPC</span>\]\]
+  \[\[Category%253A<span class="searchmatch">RPC</span>\]\]
 
   
 
@@ -108,7 +108,7 @@ See also the search results found.
   
 
   \* \[\[GMOD <span class="searchmatch">RPC</span> API Use Cases\]\]
-  \[\[Category%3A<span class="searchmatch">RPC</span>\]\]
+  \[\[Category%253A<span class="searchmatch">RPC</span>\]\]
 
   
 
@@ -229,7 +229,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/RPC "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/RPC "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -255,8 +255,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 
