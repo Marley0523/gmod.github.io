@@ -9,11 +9,6 @@ alternative way to navigate the web site, and editors are
 add tags when they create or modify pages. We strive for each page have
 at least one category tag.
 
-Category tags are shown here in two formats:
-
-- [Tag Cloud](#Category_Tag_Cloud)
-- [Alphabetical List](#Alphabetical_List_of_Categories)
-
 There is also a list of [pages without any category
 tags](Special%253AUncategorizedPages "Special%253AUncategorizedPages").
 
