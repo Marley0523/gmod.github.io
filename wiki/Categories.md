@@ -1,41 +1,20 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Categories</span>
 
-
-
-
-
-
-
-
-
-The GMOD web site makes extensive use of *category tags* to flag pages
+The GMOD web site makes extensive use of _category tags_ to flag pages
 as being related to various topics. Category tags give users an
 alternative way to navigate the web site, and editors are
 [encouraged](Site_Guidelines#Tags_.2F_Categories "Site Guidelines") to
 add tags when they create or modify pages. We strive for each page have
 at least one category tag.
 
-Category tags are shown here in two formats:
-
-- [Tag Cloud](#Category_Tag_Cloud)
-- [Alphabetical List](#Alphabetical_List_of_Categories)
-
 There is also a list of [pages without any category
 tags](Special%253AUncategorizedPages "Special%253AUncategorizedPages").
 
 ## <span id="Category_Tag_Cloud" class="mw-headline">Category <a href="http://en.wikipedia.org/wiki/Tag_Cloud" class="extiw"
+
 title="wp:Tag Cloud">Tag Cloud</a></span>
-
-
 
 <a href="Category%253A!FixAfterUpgrade"
 style="font-size: 77.602409638554%; ">!FixAfterUpgrade</a> 
@@ -314,13 +293,7 @@ style="font-size: 78.204819277108%; ">Windows</a> 
 <a href="Category%253AWormBase"
 style="font-size: 79.409638554217%; ">WormBase</a> 
 <a href="Category%253AXML" style="font-size: 80.313253012048%; ">XML</a> 
-<a href="Category%253AXORT" style="font-size: 80.012048192771%; ">XORT</a> 
-
-
-
-## <span id="Alphabetical_List_of_Categories" class="mw-headline">Alphabetical List of Categories</span>
-
-\<categorylinks\>\</categorylinks\>
+<a href="Category%253AXORT" style="font-size: 80.012048192771%; ">XORT</a>
 
 ## <span id="Category_Tree" class="mw-headline">Category Tree</span>
 
@@ -343,56 +316,28 @@ If you have any suggestions on how to display categories in a tree
 format, please send them to the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk").
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [GMOD Web Site](Category%253AGMOD_Web_Site "Category%253AGMOD Web Site")
 - [Help](Category%253AHelp "Category%253AHelp")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -402,18 +347,12 @@ Desk](GMOD_Help_Desk "GMOD Help Desk").
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Categories" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 00:50 on 18 November
-  2010.</span>
+- <span id="footer-info-lastmod">Last updated at 00:50 on 18 November 2010.</span>
 <!-- - <span id="footer-info-viewcount">286,402 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -422,10 +361,4 @@ Desk](GMOD_Help_Desk "GMOD Help Desk").
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
