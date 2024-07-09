@@ -29,7 +29,7 @@ title="Cele;name=X:1050001..1150000 (page does not exist)">Cele;name=X:1050001..
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Cele%3Bname%3DX%3A1050001..1150000)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Cele%3Bname%3DX%253A1050001..1150000)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/GBrowse-20syn-23http%3A-2F-2Fdev.wormbase.org-2Fdb-2Fseq-2Fgbrowse_syn-2Fcompara-3Fsearch_src=Cele;name=X%3A1050001..1150000 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse-20syn-23http%253A-2F-2Fdev.wormbase.org-2Fdb-2Fseq-2Fgbrowse_syn-2Fcompara-3Fsearch_src=Cele;name=X%253A1050001..1150000 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

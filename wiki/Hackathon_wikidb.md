@@ -177,9 +177,9 @@ into Chado with transaction update checks, via XORT (script 3).
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [TableEdit](Category%3ATableEdit "Category%3ATableEdit")
+- [TableEdit](Category%253ATableEdit "Category%253ATableEdit")
 
 
 
@@ -211,8 +211,8 @@ into Chado with transaction update checks, via XORT (script 3).
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

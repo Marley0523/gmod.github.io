@@ -27,14 +27,14 @@
 <td><span style="font-size: 160%; line-height: 120%"> <a
 href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
 class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Category%253ASession&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ASession (page does not exist)">Session</a></span><br />
+title="Category%253ASession (page does not exist)">Session</a></span><br />
 <br />
 &#10;<p><a href="2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">2013 GMOD Summer School</a><br />
 19-23 July 2013<br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/400px-2013-summer-school.png 2x"
@@ -613,7 +613,7 @@ your sequences in a separate file containing only FASTA entries.
 You can validate reasonably large GFF3 files at the following sites:
 
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -648,8 +648,8 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

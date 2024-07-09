@@ -91,7 +91,7 @@ an unfriendly error message, even though the same data loaded without
 incident using the MySQL adaptor. After spending a few days looking for
 bugs in the PostgreSQL adaptor that I'd written, I started looking at
 the data. It turns out that the test data (the entire
-[WormBase](Category%3AWormBase "Category%3AWormBase") [GFF](GFF "GFF") at
+[WormBase](Category%253AWormBase "Category%253AWormBase") [GFF](GFF "GFF") at
 the time) had data in it that violated a unique constraint on the fdata
 table. That is the main data table, and the constraint was over
 (fref,fbin,fstart,fstop,ftypeid,gid). Basically, the WormBase GFF had a
@@ -114,10 +114,10 @@ disappeared from GBrowse. Nice.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [MySQL](Category%3AMySQL "Category%3AMySQL")
-- [External](Category%3AExternal "Category%3AExternal")
+- [MySQL](Category%253AMySQL "Category%253AMySQL")
+- [External](Category%253AExternal "Category%253AExternal")
 
 
 
@@ -151,8 +151,8 @@ disappeared from GBrowse. Nice.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

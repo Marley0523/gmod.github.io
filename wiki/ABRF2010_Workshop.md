@@ -22,7 +22,7 @@ rel="nofollow">http://abrf2010.jbrowse.org/~profilename/</a>
 SSH into the ABRF jbrowse machine:
 <span style="font-size: large; font-family: monospace">abrf2010.jbrowse.org</span>
 
-User%3A your profile name from the morning session
+User%253A your profile name from the morning session
 
 Password: abrf_HTS
 
@@ -47,21 +47,21 @@ Add the GFF file to your JBrowse instance:
 ## <span id="Conference_Talk" class="mw-headline">Conference Talk</span>
 
 **Seeing the Forest and the Trees: Visualizing Next Generation Sequence
-Data**, by [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner")
+Data**, by [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner")
 
 Part of the Session _Tools to Facilitate Management, Analysis and
 Visualization of 2nd Generation Sequencing Data_
 
 3:45pm - 5:00pm, Monday, March 22
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 ## Navigation menu
 
@@ -75,8 +75,8 @@ Visualization of 2nd Generation Sequencing Data_
 ### Documentation
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 ### Community

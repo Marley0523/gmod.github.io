@@ -25,12 +25,12 @@ Showing 1 property using this type.
 ### R
 
 - [Property:Release
-  date](../Property%3ARelease_date "Property:Release date")
+  date](../Property%253ARelease_date "Property:Release date")
 
 
 
 
-Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Date](Date)"
+Retrieved from "[http://gmod.org/wiki/Special%253ATypes/Date](Date)"
 
 
 
@@ -72,8 +72,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

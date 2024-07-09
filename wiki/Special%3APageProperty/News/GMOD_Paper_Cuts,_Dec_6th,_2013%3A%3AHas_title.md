@@ -46,7 +46,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/News/GMOD_Paper_Cuts,_Dec_6th,_2013%3A%3AHas_title "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/News/GMOD_Paper_Cuts,_Dec_6th,_2013%253A%253AHas_title "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -72,8 +72,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

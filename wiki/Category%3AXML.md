@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AXML</span>
+# <span dir="auto">Category%253AXML</span>
 
 
 
@@ -19,7 +19,7 @@
 
 Pages that deal significantly with [XML](Glossary#XML "Glossary"). XML
 is commonly used in
-[Middleware](Category%3AMiddleware "Category%3AMiddleware").
+[Middleware](Category%253AMiddleware "Category%253AMiddleware").
 
 
 ## Subcategories
@@ -30,7 +30,7 @@ This category has only the following subcategory.
 
 ### X
 
-- [XORT](Category%3AXORT "Category%3AXORT")
+- [XORT](Category%253AXORT "Category%253AXORT")
 
 
 
@@ -139,9 +139,9 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -175,8 +175,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -199,7 +199,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AXML" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AXML" rel="smw-browse">Browse
   properties</a></span>
 
 

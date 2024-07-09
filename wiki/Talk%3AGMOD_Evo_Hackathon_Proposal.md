@@ -84,7 +84,7 @@ minutes for some of those meetings are here.
 ## <span id="2010.2F02.2F12_Conference_Call.2C_February_12.2C_2010_2pm_EST" class="mw-headline">2010/02/12 Conference Call, February 12, 2010 2pm EST</span>
 
 The minutes taken by
-[User%3ARobertBuels](User%3ARobertBuels "User%3ARobertBuels"), any
+[User%253ARobertBuels](User%253ARobertBuels "User%253ARobertBuels"), any
 inaccuracies or omissions are his.
 
 ### <span id="Agenda" class="mw-headline">Agenda</span>
@@ -104,7 +104,7 @@ the focus on this topic. Some ideas I have are:
     bycurrent MSA formats.
 2.  Others...
 
-[mckays](User%3AMckays "User%3AMckays") 14:55, 12 February 2010 (UTC)
+[mckays](User%253AMckays "User%253AMckays") 14:55, 12 February 2010 (UTC)
 
 - focus in on one or at most two implementation goals for the hackathon
 - identify which type of person we need to invite
@@ -113,7 +113,7 @@ the focus on this topic. Some ideas I have are:
   - drafting the proposal?
   - securing the venue?
     - NESCent has blocked out the second week of June or the last two
-      weeks of July for us [mckays](User%3AMckays "User%3AMckays") 14:55, 12
+      weeks of July for us [mckays](User%253AMckays "User%253AMckays") 14:55, 12
       February 2010 (UTC)
       - June timeframe overlaps with Arthropod Genomics (at this time,
         only Carson Holt is going from GMOD); nothing overlaps yet with
@@ -475,7 +475,7 @@ and then what could be done about them.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Evo_Hackathon_Proposal" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Evo_Hackathon_Proposal" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -499,8 +499,8 @@ and then what could be done about them.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

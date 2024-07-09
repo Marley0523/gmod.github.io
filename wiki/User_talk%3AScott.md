@@ -38,9 +38,9 @@ my $string = 'this is quoted';
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AScott" accesskey="c" title="View the user page [c]">User
+- <span id="ca-nstab-user"><a href="User%253AScott" accesskey="c" title="View the user page [c]">User
   page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AScott" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AScott" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -64,8 +64,8 @@ my $string = 'this is quoted';
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

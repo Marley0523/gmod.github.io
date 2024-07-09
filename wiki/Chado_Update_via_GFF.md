@@ -110,15 +110,15 @@ Again, if name, type and srcfeature are the same, allow the delete?
      ChrX    MyDB    gene    .    .   .    .    .      ID=MyGene2;CRUDop=UPDATE;Dbxref=SW:U1234
      ChrX    MyDB    gene    1    2   9    -    .      ID=MyGene3;CRUDop=REPLACE;Dbxref=SW:U1234;..more..
 
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 16:48, 30 March 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 16:48, 30 March 2007
 (EDT)
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -152,8 +152,8 @@ Again, if name, type and srcfeature are the same, allow the delete?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

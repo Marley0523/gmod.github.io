@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ABuggy</span>
+# <span dir="auto">User%253ABuggy</span>
 
 
 
@@ -58,8 +58,8 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -82,7 +82,7 @@ Europe](2009_GMOD_Summer_School_-_Europe "2009 GMOD Summer School - Europe").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ABuggy" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ABuggy" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Has URL Chr1%3A8367000..8370501</span>
+# <span dir="auto">Has URL Chr1%253A8367000..8370501</span>
 
 
 
@@ -15,9 +15,9 @@
 
 
 A list of all pages that have property "[Has
-URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
-"<a href="http://Chr1%3A8367000..8370501" class="external"
-rel="nofollow">Chr1%3A8367000..8370501</a>"  
+URL](/wiki/Property%253AHas_URL "Property:Has URL")" with value
+"<a href="http://Chr1%253A8367000..8370501" class="external"
+rel="nofollow">Chr1%253A8367000..8370501</a>"  
 No results.
 
  
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

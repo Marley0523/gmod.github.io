@@ -18,21 +18,21 @@
 
 
 Did an emacs lover write this page?
---[Cjfields](User%3ACjfields "User%3ACjfields") (<a
+--[Cjfields](User%253ACjfields "User%253ACjfields") (<a
 href="http://gmod.org/mediawiki/index.php?title=User_talk:Cjfields&amp;action=edit&amp;redlink=1"
 class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 23:01, 2 October 2013 (EDT)
 
-- I believe so :-) [Scott](User%3AScott "User%3AScott")
-  ([talk](User_talk%3AScott "User talk:Scott")) 09:47, 3 October 2013
+- I believe so :-) [Scott](User%253AScott "User%253AScott")
+  ([talk](User_talk%253AScott "User talk:Scott")) 09:47, 3 October 2013
   (EDT)
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [MAKER](Category%3AMAKER "Category%3AMAKER")
+- [MAKER](Category%253AMAKER "Category%253AMAKER")
 
 
 
@@ -46,7 +46,7 @@ class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ALinux_Text_Editors" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ALinux_Text_Editors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -70,8 +70,8 @@ class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

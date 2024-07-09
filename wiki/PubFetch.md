@@ -112,12 +112,12 @@ class="external text" rel="nofollow">SourceForge</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
-- [RGD](Category%3ARGD "Category%3ARGD")
-- [TAIR](Category%3ATAIR "Category%3ATAIR")
-- [PubSearch](Category%3APubSearch "Category%3APubSearch")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
+- [RGD](Category%253ARGD "Category%253ARGD")
+- [TAIR](Category%253ATAIR "Category%253ATAIR")
+- [PubSearch](Category%253APubSearch "Category%253APubSearch")
 
 
 
@@ -151,8 +151,8 @@ class="external text" rel="nofollow">SourceForge</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

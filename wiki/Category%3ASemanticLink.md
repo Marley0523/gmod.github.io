@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ASemanticLink</span>
+# <span dir="auto">Category%253ASemanticLink</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/SemanticLink "Special%3ASearch/SemanticLink") in
+title](Special%253ASearch/SemanticLink "Special%253ASearch/SemanticLink") in
 other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ASemanticLink"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ASemanticLink"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -70,7 +70,7 @@ class="mw-redirect" title="Chado">Chado</a></span></li>
 <li><a href="GBrowse_syn.1" title="GBrowse syn">GBrowse syn</a></li>
 <li><a href="GO_Graphic_Viewer.1" title="GO Graphic Viewer">GO Graphic
 Viewer</a></li>
-<li><a href="GO%3A%3ATermFinder.1"
+<li><a href="GO%253A%253ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a></li>
 </ul>
 <h3 id="i">I</h3>
@@ -120,7 +120,7 @@ title="Template:SemanticLink">Template:SemanticLink</a></li>
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3ASemanticLink](Category%3ASemanticLink)"
+"[http://gmod.org/wiki/Category%253ASemanticLink](Category%253ASemanticLink)"
 
 
 
@@ -153,8 +153,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -177,7 +177,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ASemanticLink" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ASemanticLink" rel="smw-browse">Browse
   properties</a></span>
 
 

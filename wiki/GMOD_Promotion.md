@@ -153,31 +153,31 @@ that can help you.
 href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=GMOD-three-cogs-200.png"
 class="new" title="File:GMOD-three-cogs-200.png">GMOD Logo</a> [GMOD
 Project
-Logos](Category%3AGMOD_Project_Logos "Category%3AGMOD Project Logos") -
+Logos](Category%253AGMOD_Project_Logos "Category%253AGMOD Project Logos") -
 Logos related to the project as a whole.
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/50px-CMapLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/75px-CMapLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/100px-CMapLogo.png 2x"
-width="50" height="58" alt="Component Logos" />](Category%3ALogos_and_Icons "Component Logos")
-[Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons") -
+width="50" height="58" alt="Component Logos" />](Category%253ALogos_and_Icons "Component Logos")
+[Logos and Icons](Category%253ALogos_and_Icons "Category%253ALogos and Icons") -
 Logos and icons, including [GMOD
 component](GMOD_Components "GMOD Components") logos.
 
 [<img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/9/9b/InsectaCentralLogo.png/70px-InsectaCentralLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/InsectaCentralLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/InsectaCentralLogo.png 2x"
-width="70" height="56" alt="Member Logos" />](Category%3AMember_Logos "Member Logos")
-[Member Logos](Category%3AMember_Logos "Category%3AMember Logos") - logos of
+width="70" height="56" alt="Member Logos" />](Category%253AMember_Logos "Member Logos")
+[Member Logos](Category%253AMember_Logos "Category%253AMember Logos") - logos of
 organizations that contribute to or use GMOD.
 
 ### <span id="Slides" class="mw-headline">Slides</span>
 
 
-- [Conferences](Category%3AConferences "Category%3AConferences")
+- [Conferences](Category%253AConferences "Category%253AConferences")
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
-- [Events](Category%3AEvents "Category%3AEvents")
-- [GMOD Project](Category%3AGMOD_Project "Category%3AGMOD Project")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
+- [Events](Category%253AEvents "Category%253AEvents")
+- [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
 
 
 
@@ -191,7 +191,7 @@ organizations that contribute to or use GMOD.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Promotion" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Promotion" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -215,8 +215,8 @@ organizations that contribute to or use GMOD.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

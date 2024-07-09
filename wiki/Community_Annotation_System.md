@@ -65,11 +65,11 @@ rel="nofollow">help@gmod.org</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 - [Community
-  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+  Annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
 
 
 
@@ -103,8 +103,8 @@ rel="nofollow">help@gmod.org</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

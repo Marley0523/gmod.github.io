@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
+URL](/wiki/Property%253AHas_URL "Property:Has URL")" with value
 "<a href="http://www.yeastgenome.org/cgi-bin/blast-sgd.pl"
 class="external"
 rel="nofollow">http://www.yeastgenome.org/cgi-bin/blast-sgd.pl</a>"  
@@ -41,7 +41,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2Fblast-2Dsgd.pl "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -67,8 +67,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

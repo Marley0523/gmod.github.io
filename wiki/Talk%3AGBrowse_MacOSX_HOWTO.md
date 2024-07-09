@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse MacOSX HOWTO</span>
+# <span dir="auto">Talk%253AGBrowse MacOSX HOWTO</span>
 
 
 
@@ -24,13 +24,13 @@ fine, but I think a caveat should be added... especially on this page
 where fink is described as the simplest way to install gbrowse's
 prereqs. For example, /sw/lib would be the appropriate choice for the
 first question during the script (where is libgd) rather than /usr/lib.
---[Stewarta](User%3AStewarta "User%3AStewarta") 13:14, 29 August 2007 (EDT)
+--[Stewarta](User%253AStewarta "User%253AStewarta") 13:14, 29 August 2007 (EDT)
 
 *Good point; the comment about using the defaults is really referring to
 the defaults for the GBrowse install proper, as opposed to the
 prerequisites that get installed before GBrowse does (like GD.pm). I'll
 see if I can craft a clearer explaination both in the installer script
-and the MacOSX specific page. Thanks!* [Scott](User%3AScott "User%3AScott")
+and the MacOSX specific page. Thanks!* [Scott](User%253AScott "User%253AScott")
 13:30, 29 August 2007 (EDT)
 
 Another thing to consider is "path". This only worked for me with
@@ -38,8 +38,8 @@ non-fink perl (and who knows what else). Be default I use fink-enabled
 binaries first. I had to re-order my path so that fink (as well as
 darwin-ports) didn't come up. Its a little confusing since we use fink
 to install the other stuff. Hope this helps <a
-href="http://gmod.org/mediawiki/index.php?title=User%3ANathan&amp;action=edit&amp;redlink=1"
-class="new" title="User%3ANathan (page does not exist)">Nathan</a> 7
+href="http://gmod.org/mediawiki/index.php?title=User%253ANathan&amp;action=edit&amp;redlink=1"
+class="new" title="User%253ANathan (page does not exist)">Nathan</a> 7
 January 2009
 
 ## <span id="LWP::Simple_on_Tiger" class="mw-headline">LWP::Simple on Tiger</span>
@@ -57,7 +57,7 @@ If cpan is not properly installed try
 it worked fine. Unfortunately, I don't have a Tiger install disk around
 to do testing on, so I can't modify the gbrowse installer. I will add a
 note about needing LWP::Simple to the mac install page though.*
-[Scott](User%3AScott "User%3AScott") 17:10, 19 August 2008 (UTC)
+[Scott](User%253AScott "User%253AScott") 17:10, 19 August 2008 (UTC)
 
 
 
@@ -73,7 +73,7 @@ note about needing LWP::Simple to the mac install page though.*
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_MacOSX_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_MacOSX_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -97,8 +97,8 @@ note about needing LWP::Simple to the mac install page though.*
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

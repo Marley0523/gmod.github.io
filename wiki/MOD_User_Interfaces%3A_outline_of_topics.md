@@ -120,10 +120,10 @@ gene, genome feature predictions?
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
 
 
 
@@ -157,8 +157,8 @@ gene, genome feature predictions?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -181,7 +181,7 @@ gene, genome feature predictions?
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD_User_Interfaces%3A_outline_of_topics"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD_User_Interfaces%253A_outline_of_topics"
   rel="smw-browse">Browse properties</a></span>
 
 

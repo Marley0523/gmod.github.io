@@ -17,7 +17,7 @@
 
 
 
-From [Scott Cain](../User%3AScott "User%3AScott"):
+From [Scott Cain](../User%253AScott "User%253AScott"):
 
 I've just released Chado 1.23. This is a bug fix release with no changes
 to the schema from the 1.22 release. If you are upgrading from Chado 1.2
@@ -41,7 +41,7 @@ class="external text" rel="nofollow">downloaded from SourceForge</a>.
   
 Here are the changes from the last release:
 
-- Added \$VERSION to Bio%3A%3AGMOD::DB::Config so that when installing
+- Added \$VERSION to Bio%253A%253AGMOD::DB::Config so that when installing
   Bio::DB::Das::Chado it would be happy.
 - Changed all perl script \#! lines to use /usr/bin/env perl instead of
   the mishmash that was being used in various scripts.
@@ -63,10 +63,10 @@ Here are the changes from the last release:
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [Chado](../Category%3AChado "Category%3AChado")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
+- [Chado](../Category%253AChado "Category%253AChado")
 
 
 
@@ -105,8 +105,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

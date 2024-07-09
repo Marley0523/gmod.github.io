@@ -56,8 +56,8 @@ categories</a></li>
 <td style="width: 30%"><ul>
 <li><a href="/wiki/Special:UncategorizedFiles"
 title="Special:UncategorizedFiles">Uncategorized files</a></li>
-<li><a href="/wiki/Special%3AUncategorizedPages"
-title="Special%3AUncategorizedPages">Uncategorized pages</a></li>
+<li><a href="/wiki/Special%253AUncategorizedPages"
+title="Special%253AUncategorizedPages">Uncategorized pages</a></li>
 <li><a href="/wiki/Special:UncategorizedTemplates"
 title="Special:UncategorizedTemplates">Uncategorized templates</a></li>
 <li><a href="/wiki/Special:UnusedCategories"
@@ -100,8 +100,8 @@ title="Special:WantedTemplates">Wanted templates</a></li>
 pages</a></li>
 <li><a href="/wiki/Special:PrefixIndex" title="Special:PrefixIndex">All
 pages with prefix</a></li>
-<li><a href="/wiki/Special%3ACategories"
-title="Special%3ACategories">Categories</a></li>
+<li><a href="/wiki/Special%253ACategories"
+title="Special%253ACategories">Categories</a></li>
 <li><a href="/wiki/Special:Concepts"
 title="Special:Concepts">Concepts</a></li>
 <li><a href="/wiki/Special:Forms" title="Special:Forms">Forms</a></li>
@@ -141,8 +141,8 @@ title="Special:TrackingCategories">Tracking categories</a></li>
 title="Special:CreateAccount">Create account</a></li>
 <li><a href="/wiki/Special:UserLogin" title="Special:UserLogin">Log
 in</a></li>
-<li><a href="/wiki/Special%3ARequestAccount"
-title="Special%3ARequestAccount">Request account</a></li>
+<li><a href="/wiki/Special%253ARequestAccount"
+title="Special%253ARequestAccount">Request account</a></li>
 </ul></td>
 <td style="width: 30%"></td>
 </tr>
@@ -270,8 +270,8 @@ title="Special:FileDuplicateSearch">Search for duplicate files</a></li>
 sources</a></li>
 <li><a href="/wiki/Special:ExpandTemplates"
 title="Special:ExpandTemplates">Expand templates</a></li>
-<li><a href="/wiki/Special%3APopularPages"
-title="Special%3APopularPages">Popular pages</a></li>
+<li><a href="/wiki/Special%253APopularPages"
+title="Special%253APopularPages">Popular pages</a></li>
 <li><a href="/wiki/Special:SemanticStatistics"
 title="Special:SemanticStatistics">Semantic statistics</a></li>
 </ul></td>
@@ -456,8 +456,8 @@ pages to RDF</a></li>
 </ul></td>
 <td style="width: 10%"></td>
 <td style="width: 30%"><ul>
-<li><a href="/wiki/Special%3ASearchByProperty"
-title="Special%3ASearchByProperty">Search by property</a></li>
+<li><a href="/wiki/Special%253ASearchByProperty"
+title="Special%253ASearchByProperty">Search by property</a></li>
 <li><a href="/wiki/Special:Ask" title="Special:Ask">Semantic
 search</a></li>
 </ul></td>
@@ -500,7 +500,7 @@ title="Special:TableEdit">TableEdit</a></li>
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASpecialPages "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASpecialPages "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -526,8 +526,8 @@ title="Special:TableEdit">TableEdit</a></li>
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

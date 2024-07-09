@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ASybil</span>
+# <span dir="auto">Category%253ASybil</span>
 
 
 
@@ -94,11 +94,11 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -132,8 +132,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -156,7 +156,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ASybil" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ASybil" rel="smw-browse">Browse
   properties</a></span>
 
 

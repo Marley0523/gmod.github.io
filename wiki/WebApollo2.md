@@ -48,9 +48,9 @@ Resources
 
 
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -67,104 +67,104 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo2 "Special:ExportRDF/WebAp
 <tbody>
 
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property%3AInteracts_with"
+<td class="smwpropname"><a href="Property%253AInteracts_with"
 title="Property:Interacts with">Interacts with</a></td>
 <td class="smwprops"><a href="MAKER.1" title="MAKER">MAKER</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Interacts-20with/MAKER"
-title="Special%3ASearchByProperty/Interacts-20with/MAKER">+</a></span> and
+href="Special%253ASearchByProperty/Interacts-20with/MAKER"
+title="Special%253ASearchByProperty/Interacts-20with/MAKER">+</a></span> and
 <a href="JBrowse.1" title="JBrowse">JBrowse</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Interacts-20with/JBrowse"
-title="Special%3ASearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
+href="Special%253ASearchByProperty/Interacts-20with/JBrowse"
+title="Special%253ASearchByProperty/Interacts-20with/JBrowse">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property%3AIs_open_source"
+<td class="smwpropname"><a href="Property%253AIs_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Is-20open-20source/Yes"
-title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%253ASearchByProperty/Is-20open-20source/Yes"
+title="Special%253ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property%3ALink_type"
+<td class="smwpropname"><a href="Property%253ALink_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">website <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>,
 source code <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/source-20code"
-title="Special%3ASearchByProperty/Link-20type/source-20code">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/source-20code"
+title="Special%253ASearchByProperty/Link-20type/source-20code">+</a></span>,
 demo server <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>
 and download <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property%3ARelease_date"
+<td class="smwpropname"><a href="Property%253ARelease_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">26 June 2015 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Release-20date/26-20June-202015"
-title="Special%3ASearchByProperty/Release-20date/26-20June-202015">+</a></span></td>
+href="Special%253ASearchByProperty/Release-20date/26-20June-202015"
+title="Special%253ASearchByProperty/Release-20date/26-20June-202015">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a
-href="Property%3ATool_functionality_or_classification"
+href="Property%253ATool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">Community annotation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
-title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>
+href="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation"
+title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/Community-20annotation">+</a></span>
 and Sequence annotation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
-title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
+href="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation"
+title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/Sequence-20annotation">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property%3AWritten_in_language"
+<td class="smwpropname"><a href="Property%253AWritten_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Javascript <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Written-20in-20language/Javascript"
-title="Special%3ASearchByProperty/Written-20in-20language/Javascript">+</a></span>
+href="Special%253ASearchByProperty/Written-20in-20language/Javascript"
+title="Special%253ASearchByProperty/Written-20in-20language/Javascript">+</a></span>
 and Java <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Written-20in-20language/Java"
-title="Special%3ASearchByProperty/Written-20in-20language/Java">+</a></span></td>
+href="Special%253ASearchByProperty/Written-20in-20language/Java"
+title="Special%253ASearchByProperty/Written-20in-20language/Java">+</a></span></td>
 </tr>
 <tr class="even row-even">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
 data-state="inline" data-title="Property"><span class="smwbuiltin"><a
-href="Property%3AHas_subobject" title="Property:Has subobject">Has
+href="Property%253AHas_subobject" title="Property:Has subobject">Has
 subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="WebApollo2#http:.2F.2Fgenomearchitect.org"
 title="WebApollo2">WebApollo2#http://genomearchitect.org</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Fgenomearchitect.org"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Fgenomearchitect.org">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23http%253A-2F-2Fgenomearchitect.org"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23http%253A-2F-2Fgenomearchitect.org">+</a></span>,
 <a href="WebApollo2#https:.2F.2Fgithub.com.2Fgmod.2Fapollo"
 title="WebApollo2">WebApollo2#https://github.com/gmod/apollo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23https%253A-2F-2Fgithub.com-2Fgmod-2Fapollo"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23https%253A-2F-2Fgithub.com-2Fgmod-2Fapollo">+</a></span>,
 <a
 href="WebApollo2#http:.2F.2Ficebox.lbl.gov.2FApollo2.2Fannotator.2Findex"
 title="WebApollo2">WebApollo2#http://icebox.lbl.gov/Apollo2/annotator/index</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23http%3A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23http%253A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23http%253A-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex">+</a></span>,
 <a href="WebApollo2#https:.2F.2Fgithub.com.2FGMOD.2FApollo.2Freleases"
 title="WebApollo2">WebApollo2#https://github.com/GMOD/Apollo/releases</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23https%3A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23https%253A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23https%253A-2F-2Fgithub.com-2FGMOD-2FApollo-2Freleases">+</a></span>,
 <a href="WebApollo2#_7aa3d428be4e2b3632dc7e1d8733182f"
 title="WebApollo2">WebApollo2</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 7aa3d428be4e2b3632dc7e1d8733182f">+</a></span>
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23_7aa3d428be4e2b3632dc7e1d8733182f"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23 7aa3d428be4e2b3632dc7e1d8733182f">+</a></span>
 and <a href="WebApollo2#_4c9d71480131ff10bde93a00dd874b38"
 title="WebApollo2">WebApollo2</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23_4c9d71480131ff10bde93a00dd874b38"
-title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10bde93a00dd874b38">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23_4c9d71480131ff10bde93a00dd874b38"
+title="Special%253ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10bde93a00dd874b38">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -201,8 +201,8 @@ title="Special%3ASearchByProperty/Has-20subobject/WebApollo2-23 4c9d71480131ff10
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

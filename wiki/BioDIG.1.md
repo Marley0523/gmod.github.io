@@ -45,10 +45,10 @@ feed](http://gmod.org/wiki/Special:ExportRDF/BioDIG "Special:ExportRDF/BioDIG")<
 
 |  |  |
 |----|----|
-| [Has download URL](Property%3AHas_download_URL "Property:Has download URL") | <a href="http://github.com/idoerg/BioDIG" class="external free"
-rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
-| [Has website](Property%3AHas_website "Property:Has website") | <a href="http://biodig.org" class="external free"
-rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org "Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fbiodig.org")</span> |
+| [Has download URL](Property%253AHas_download_URL "Property:Has download URL") | <a href="http://github.com/idoerg/BioDIG" class="external free"
+rel="nofollow">http://github.com/idoerg/BioDIG</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20download-20URL/http%253A-2F-2Fgithub.com-2Fidoerg-2FBioDIG "Special%253ASearchByProperty/Has-20download-20URL/http%253A-2F-2Fgithub.com-2Fidoerg-2FBioDIG")</span> |
+| [Has website](Property%253AHas_website "Property:Has website") | <a href="http://biodig.org" class="external free"
+rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20website/http%253A-2F-2Fbiodig.org "Special%253ASearchByProperty/Has-20website/http%253A-2F-2Fbiodig.org")</span> |
 
 
 
@@ -82,8 +82,8 @@ rel="nofollow">http://biodig.org</a> <span class="smwsearch">[+](Special%3ASearc
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

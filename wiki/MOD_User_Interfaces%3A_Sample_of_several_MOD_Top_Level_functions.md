@@ -211,17 +211,17 @@ Folks: please add to and correct as needed
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-- [Gramene](Category%3AGramene "Category%3AGramene")
-- [MGI](Category%3AMGI "Category%3AMGI")
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
+- [Gramene](Category%253AGramene "Category%253AGramene")
+- [MGI](Category%253AMGI "Category%253AMGI")
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [RGD](Category%3ARGD "Category%3ARGD")
-- [SGD](Category%3ASGD "Category%3ASGD")
-- [TAIR](Category%3ATAIR "Category%3ATAIR")
-- [WormBase](Category%3AWormBase "Category%3AWormBase")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [RGD](Category%253ARGD "Category%253ARGD")
+- [SGD](Category%253ASGD "Category%253ASGD")
+- [TAIR](Category%253ATAIR "Category%253ATAIR")
+- [WormBase](Category%253AWormBase "Category%253AWormBase")
 
 
 
@@ -255,8 +255,8 @@ Folks: please add to and correct as needed
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -280,7 +280,7 @@ Folks: please add to and correct as needed
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%253ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions"
+  href="Special%253ABrowse/MOD_User_Interfaces%253A_Sample_of_several_MOD_Top_Level_functions"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ASperling</span>
+# <span dir="auto">User%253ASperling</span>
 
 
 
@@ -69,8 +69,8 @@ rel="nofollow">http://paramecium.cgm.cnrs-gif.fr</a> and
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -93,7 +93,7 @@ rel="nofollow">http://paramecium.cgm.cnrs-gif.fr</a> and
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ASperling" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ASperling" rel="smw-browse">Browse
   properties</a></span>
 
 

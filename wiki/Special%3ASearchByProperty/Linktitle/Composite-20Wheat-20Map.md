@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "Composite Wheat Map"  
 
-- [CMap#http://map.lab.nig.ac.jp:8080/cmap/](/wiki/CMap#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F "Special%253ABrowse/CMap-23http%3A-2F-2Fmap.lab.nig.ac.jp%3A8080-2Fcmap-2F")</span>
+- [CMap#http://map.lab.nig.ac.jp:8080/cmap/](/wiki/CMap#http:.2F.2Fmap.lab.nig.ac.jp:8080.2Fcmap.2F "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%253A-2F-2Fmap.lab.nig.ac.jp%253A8080-2Fcmap-2F "Special%253ABrowse/CMap-23http%253A-2F-2Fmap.lab.nig.ac.jp%253A8080-2Fcmap-2F")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/Composite-20Wheat-20Map "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/Composite-20Wheat-20Map "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

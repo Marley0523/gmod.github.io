@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk:Bio%3A%3AChado%3A%3ASchema</span>
+# <span dir="auto">Talk:Bio%253A%253AChado%253A%253ASchema</span>
 
 
 
@@ -21,7 +21,7 @@
 
 Where is the boundary between this and [modware](Modware "Modware")
 then? I thought the point of modware was to provide that level of
-compatibility. [Scott](User%3AScott "User%3AScott") 17:55, 14 April 2011
+compatibility. [Scott](User%253AScott "User%253AScott") 17:55, 14 April 2011
 (UTC)
 
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ to the Bio::SeqI accessors: \`seq()\` is an alias for \`residues()\`,
 \`display_id()\` is an alias for \`name()\`, etc.
 
 I don't think anything much more involved than that belongs in BCS
-though. --[RobertBuels](User%3ARobertBuels "User%3ARobertBuels") 18:15, 14
+though. --[RobertBuels](User%253ARobertBuels "User%253ARobertBuels") 18:15, 14
 April 2011 (UTC)
 
 
@@ -58,7 +58,7 @@ April 2011 (UTC)
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk:Bio%3A%3AChado%3A%3ASchema" accesskey="t"
+- <span id="ca-talk"><a href="Talk:Bio%253A%253AChado%253A%253ASchema" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -82,8 +82,8 @@ April 2011 (UTC)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

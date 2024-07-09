@@ -22,8 +22,8 @@ was released today. This release of GBrowse comes with a variety of user
 interface enhancements, performance improvements, bug fixes and a
 security fix. This release come courtesy of considerable work from the
 GBrowse developers, most notably [Lincoln
-Stein](../User%3ALstein "User%3ALstein"), the lead developer and [Sheldon
-McKay](../User%3AMckays "User%3AMckays") who did much of the JavaScript
+Stein](../User%253ALstein "User%253ALstein"), the lead developer and [Sheldon
+McKay](../User%253AMckays "User%253AMckays") who did much of the JavaScript
 work. The release can be obtained from <a
 href="http://sourceforge.net/project/showfiles.php?group_id=27707&amp;package_id=34513&amp;release_id=621342"
 class="external text" rel="nofollow">SourceForge</a>, or, you can use
@@ -63,7 +63,7 @@ Finally, here is a list of the major changes since the 1.68 release:
 
 Thank you and happy GBrowsing,
 
-[Scott Cain](../User%3AScott "User%3AScott")
+[Scott Cain](../User%253AScott "User%253AScott")
 
 GMOD Project Coordinator
 
@@ -78,9 +78,9 @@ GMOD Project Coordinator
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -119,8 +119,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

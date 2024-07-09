@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGalaxy</span>
+# <span dir="auto">Category%253AGalaxy</span>
 
 
 
@@ -26,7 +26,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -52,11 +52,11 @@ title="April 2012 GMOD Meeting">April 2012 GMOD Meeting</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="User%3AClements" title="User%3AClements">User%3AClements</a></li>
+<li><a href="User%253AClements" title="User%253AClements">User%253AClements</a></li>
 </ul>
 <h3 id="d">D</h3>
 <ul>
-<li><a href="User%3ADanB" title="User%3ADanB">User%3ADanB</a></li>
+<li><a href="User%253ADanB" title="User%253ADanB">User%253ADanB</a></li>
 <li><a href="Downloads" title="Downloads">Downloads</a></li>
 </ul>
 <h3 id="g">G</h3>
@@ -87,8 +87,8 @@ Tutorial</a></li>
 </ul>
 <h3 id="j">J</h3>
 <ul>
-<li><a href="User%3AJamesTaylor"
-title="User%3AJamesTaylor">User%3AJamesTaylor</a></li>
+<li><a href="User%253AJamesTaylor"
+title="User%253AJamesTaylor">User%253AJamesTaylor</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
@@ -104,7 +104,7 @@ closes 24 May</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="n-cont.">N cont.</h3>
 <ul>
-<li><a href="News/GCC2013%3A_Register!_Present!"
+<li><a href="News/GCC2013%253A_Register!_Present!"
 title="News/GCC2013: Register! Present!">News/GCC2013: Register!
 Present!</a></li>
 <li><a href="News/GCC2014_Registration_is_Open"
@@ -967,9 +967,9 @@ The following 35 files are in this category, out of 35 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -1003,8 +1003,8 @@ The following 35 files are in this category, out of 35 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -1027,7 +1027,7 @@ The following 35 files are in this category, out of 35 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGalaxy" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGalaxy" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3APerl</span>
+# <span dir="auto">Category%253APerl</span>
 
 
 
@@ -44,11 +44,11 @@ This category has the following 2 subcategories, out of 2 total.
 
 ### B
 
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
 
 ### M
 
-- [Modware](Category%3AModware "Category%3AModware")
+- [Modware](Category%253AModware "Category%253AModware")
 
 
 
@@ -69,19 +69,19 @@ The following 12 pages are in this category, out of 12 total.
 <tr class="odd" style="vertical-align: top;">
 <td style="width: 33.3%"><h3 id="b-1">B</h3>
 <ul>
-<li><a href="Bio%3A%3AGMOD" title="Bio%3A%3AGMOD">Bio%3A%3AGMOD</a></li>
+<li><a href="Bio%253A%253AGMOD" title="Bio%253A%253AGMOD">Bio%253A%253AGMOD</a></li>
 <li><a href="BioPerl" title="BioPerl">BioPerl</a></li>
 </ul>
 <h3 id="c">C</h3>
 <ul>
-<li><a href="Chado%3A%3AAutoDBI"
-title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
-<li><a href="Chado%3A%3AAutoDBI_Presentation"
-title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
+<li><a href="Chado%253A%253AAutoDBI"
+title="Chado%253A%253AAutoDBI">Chado%253A%253AAutoDBI</a></li>
+<li><a href="Chado%253A%253AAutoDBI_Presentation"
+title="Chado%253A%253AAutoDBI Presentation">Chado%253A%253AAutoDBI Presentation</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="d">D</h3>
 <ul>
-<li><a href="DBD%3A%3Amysql_on_the_Mac"
+<li><a href="DBD%253A%253Amysql_on_the_Mac"
 title="DBD::mysql on the Mac">DBD::mysql on the Mac</a></li>
 <li><a href="DBStag" title="DBStag">DBStag</a></li>
 </ul>
@@ -178,9 +178,9 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -214,8 +214,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -238,7 +238,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3APerl" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253APerl" rel="smw-browse">Browse
   properties</a></span>
 
 

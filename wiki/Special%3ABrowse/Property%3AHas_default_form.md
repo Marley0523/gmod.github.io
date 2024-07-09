@@ -16,7 +16,7 @@
 
 |  |  |
 |----|----|
-| [Property:Has default form](/wiki/Property%3AHas_default_form "Property:Has default form") |  |
+| [Property:Has default form](/wiki/Property%253AHas_default_form "Property:Has default form") |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -26,7 +26,7 @@
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Property%3AHas+default+form)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Property%253AHas+default+form)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Property%3AHas_default_form "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Property%253AHas_default_form "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -80,8 +80,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

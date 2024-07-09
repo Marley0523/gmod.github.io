@@ -129,38 +129,38 @@ and data mining tools.
 
 | Time | Topic | Presenter(s) | Links |
 |----|----|----|----|
-| 10:00 | Introductions and the State of GMOD | [Scott Cain](User%3AScott "User%3AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/Jan2010StateOfGMOD.pdf"
+| 10:00 | Introductions and the State of GMOD | [Scott Cain](User%253AScott "User%253AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/Jan2010StateOfGMOD.pdf"
 class="internal" title="Jan2010StateOfGMOD.pdf">PDF</a> |
-| 11:00 | Report from the [Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%3AClements "User%3AClements") | <a
+| 11:00 | Report from the [Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%253AClements "User%253AClements") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010HelpDesk.ppt"
 class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010HelpDesk.pdf "File:Jan2010HelpDesk.pdf") |
 | 11:30 | Brief status updates: [Satellite Meetings](#Satellite_Meetings) |  |  |
-|  | [GMOD REST Hackathon](GMOD_REST_Hackathon "GMOD REST Hackathon") | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | [GMOD RPC API](GMOD_RPC_API "GMOD RPC API") |
+|  | [GMOD REST Hackathon](GMOD_REST_Hackathon "GMOD REST Hackathon") | [Josh Goodman](User%253AJogoodma "User%253AJogoodma") | [GMOD RPC API](GMOD_RPC_API "GMOD RPC API") |
 |  | <a href="http://www.bioperl.org/wiki/GMOD_2010_Meeting" class="extiw"
-title="bp:GMOD 2010 Meeting">BioPerl</a> | [Jason Stajich](User%3AStajich "User%3AStajich"), [Chris Fields](User%3ACjfields "User%3ACjfields") |  |
+title="bp:GMOD 2010 Meeting">BioPerl</a> | [Jason Stajich](User%253AStajich "User%253AStajich"), [Chris Fields](User%253ACjfields "User%253ACjfields") |  |
 | 12:30 | **Lunch** (catered on site) |  |  |
 | 1:30 | GMOD tools in the frame of <a href="http://www.gnpannot.org" class="external text"
 rel="nofollow">GnpAnnot</a> projects | Michael Alaux and Joelle Amselem | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/54/Jan2010GnpAnnotURGI.pdf"
 class="internal" title="Jan2010GnpAnnotURGI.pdf">PDF</a> |
 | 2:15 | <a href="http://www.gusdb.org/wdk" class="external text"
-rel="nofollow">StrategiesWDK</a>: intro to a powerful MOD-compatible search UI | [Steve Fischer](User%3AStevef "User%3AStevef") | <a
+rel="nofollow">StrategiesWDK</a>: intro to a powerful MOD-compatible search UI | [Steve Fischer](User%253AStevef "User%253AStevef") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010StrategiesWDK.pptx"
 class="external text" rel="nofollow">PPT</a>, <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010StrategiesWDK.pdf"
 class="external text" rel="nofollow">PDF</a> |
 | 2:45 | Chado on Rails (<a href="http://rubyonrails.org/" class="external text"
-rel="nofollow">Ruby on Rails</a> and <a href="Chado" class="mw-redirect" title="Chado">Chado</a>) | [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee"), [Chris Childers](User%3AChilders "User%3AChilders") | <a href="http://docs.google.com/present/view?id=dsfwg8c_757ctkzcnch"
+rel="nofollow">Ruby on Rails</a> and <a href="Chado" class="mw-redirect" title="Chado">Chado</a>) | [Justin Reese](User%253AJustaddcoffee "User%253AJustaddcoffee"), [Chris Childers](User%253AChilders "User%253AChilders") | <a href="http://docs.google.com/present/view?id=dsfwg8c_757ctkzcnch"
 class="external text" rel="nofollow">Slides on Google Docs</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/Jan2010RubyOnRailsAndChado.ppt"
 class="internal" title="Jan2010RubyOnRailsAndChado.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2010RubyOnRailsAndChado.pdf"
 class="internal" title="Jan2010RubyOnRailsAndChado.pdf">PDF</a> |
 | 3:15 | **<a href="http://www.cafepress.com/GenericMOD.313463336"
 class="external text" rel="nofollow">Coffee</a> Break** |  |  |
-| 3:30 | Using and developing [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"), integrating it with other DBIx::Class-based code | [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") | <a
+| 3:30 | Using and developing [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema"), integrating it with other DBIx::Class-based code | [Robert Buels](User%253ARobertBuels "User%253ARobertBuels") | <a
 href="http://search.cpan.org/src/RBUELS/Bio-Chado-Schema-0.05500/doc/slides/intro/slides/start.html"
 class="external text" rel="nofollow">HTML</a> |
 | 4:00 | Using <a href="http://drupal.org" class="external text"
 rel="nofollow">Drupal</a> and <a href="http://www.adobe.com/products/flex/" class="external text"
-rel="nofollow">Flex</a> to Create User-Configurable Interfaces for GMOD Databases for Use in Transcriptional Genomics Research | [Michael Caudy](User%3AMcaudy "User%3AMcaudy") |  |
+rel="nofollow">Flex</a> to Create User-Configurable Interfaces for GMOD Databases for Use in Transcriptional Genomics Research | [Michael Caudy](User%253AMcaudy "User%253AMcaudy") |  |
 | 4:30 | Discussion toward standard website platforms for MOD sites |  |  |
 | 5:00 | **Dinner** (on your own) |  |  |
 
@@ -171,7 +171,7 @@ rel="nofollow">Flex</a> to Create User-Configurable Interfaces for GMOD Database
 | 9:00 | [Textpresso](Textpresso "Textpresso") | Nathan Liles | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Jan2010Testpresso.ppt"
 class="internal" title="Jan2010Testpresso.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/Jan2010Testpresso.pdf"
 class="internal" title="Jan2010Testpresso.pdf">PDF</a> |
-| 9:30 | [TableEdit](TableEdit.1 "TableEdit") | [Daniel Renfro](User%3ADanielRenfro "User%3ADanielRenfro"), [Jim Hu](User%3AJimHu.1 "User%3AJimHu") | <a
+| 9:30 | [TableEdit](TableEdit.1 "TableEdit") | [Daniel Renfro](User%253ADanielRenfro "User%253ADanielRenfro"), [Jim Hu](User%253AJimHu.1 "User%253AJimHu") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010TableEdit.ppt"
 class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") |
 | 10:00 | Adventures in NOSQL | Brian O'Connor, <a href="http://seqware.sf.net" class="external text"
@@ -190,26 +190,26 @@ href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/GMOD2.zip"
 class="external text" rel="nofollow">ZIP</a> |
 | 11:30 | NCBO Tools and Web Services | Trish Whetzel |  |
 | 12:00 | **Lunch** |  |  |
-| 1:15 | Providing a biologist-centered interface for running and customizing <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> pipelines | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b9/Jan2010ErgatisForBiologists.ppt"
+| 1:15 | Providing a biologist-centered interface for running and customizing <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> pipelines | [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b9/Jan2010ErgatisForBiologists.ppt"
 class="internal" title="Jan2010ErgatisForBiologists.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf"
 class="internal" title="Jan2010ErgatisForBiologists.pdf">PDF</a> |
 | 1:45 | Open Mic/Show and Tell |  |  |
-|  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | [PDF](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
-|  | Openings at [SGD](Category%3ASGD "Category%3ASGD") | Ben Hitz |  |
+|  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | [PDF](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
+|  | Openings at [SGD](Category%253ASGD "Category%253ASGD") | Ben Hitz |  |
 |  | RediscoveryDB: Connecting High-Throughput Data with Testable Hypotheses | Dawei Lin | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Jan2010RediscoveryDB.pdf"
 class="internal" title="Jan2010RediscoveryDB.pdf">PDF</a> |
 |  | PhaseolusGenes : A Genomics Information Management and Marker Discovery Toolkit For A Non-Model Organism | Dawei Lin | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/Jan2010PhaseolusGenes.pdf"
 class="internal" title="Jan2010PhaseolusGenes.pdf">PDF</a> |
-|  | [Tripal](Tripal.1 "Tripal") | [Stephen Ficklin](User%3ASficklin "User%3ASficklin") | (<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/PAG2010Tripal.pdf" class="internal"
+|  | [Tripal](Tripal.1 "Tripal") | [Stephen Ficklin](User%253ASficklin "User%253ASficklin") | (<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/PAG2010Tripal.pdf" class="internal"
 title="PAG2010Tripal.pdf">PAG 2010 Talk</a>) |
 |  | Use of [GBrowse](GBrowse.1 "GBrowse") 1.999 in the Cancer Genome Project | Keiran Raine | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/Jan2010GBrowseCancerGenome.ppt"
 class="internal" title="Jan2010GBrowseCancerGenome.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf"
 class="internal" title="Jan2010GBrowseCancerGenome.pdf">PDF</a> |
 |  | <a href="http://flybase.org/cgi-bin/gbrowse/dmelrnaseq/"
-class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
+class="external text" rel="nofollow">TopoView</a> [GBrowse](GBrowse.1 "GBrowse") glyph at [FlyBase](Category%253AFlyBase "Category%253AFlyBase") | [Josh Goodman](User%253AJogoodma "User%253AJogoodma") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf" class="internal"
 title="Flybase topoview.pdf">PDF</a> |
 |  | Ceres Genome Browser | Maxim Troukhan |  |
-|  | [InterMine](InterMine "InterMine") | [Richard Smith](User%3ARsmith "User%3ARsmith") | <a href="http://www.intermine.org/wiki/GMODtalk" class="external text"
+|  | [InterMine](InterMine "InterMine") | [Richard Smith](User%253ARsmith "User%253ARsmith") | <a href="http://www.intermine.org/wiki/GMODtalk" class="external text"
 rel="nofollow">HTML</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/Jan2010InterMine.pdf" class="internal"
 title="Jan2010InterMine.pdf">PDF</a>, |
 |  | A Couple of UI Prototypes | Jonathan Crabtree | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4d/Jan2010UIPrototypes.odp"
@@ -242,7 +242,7 @@ more time on then they could during the main meeting.
 <tr class="odd">
 <th><a href="GMOD_REST_Hackathon" title="GMOD REST Hackathon">GMOD REST
 Hackathon</a></th>
-<td><a href="User%3AJogoodma" title="User%3AJogoodma">Josh Goodman</a> (<a
+<td><a href="User%253AJogoodma" title="User%253AJogoodma">Josh Goodman</a> (<a
 href="mailto:jogoodma@indiana.edu" class="external text"
 rel="nofollow">email</a>)</td>
 <td>I'd like to do a small <a href="GMOD_REST_API" class="mw-redirect"
@@ -257,8 +257,8 @@ Hackathon</a> page.</p></td>
 <tr class="even">
 <th><a href="http://www.bioperl.org/wiki/GMOD_2010_Meeting"
 class="extiw" title="bp:GMOD 2010 Meeting">BioPerl</a></th>
-<td><a href="User%3AStajich" title="User%3AStajich">Jason Stajich</a>, <a
-href="User%3ACjfields" title="User%3ACjfields">Chris Fields</a></td>
+<td><a href="User%253AStajich" title="User%253AStajich">Jason Stajich</a>, <a
+href="User%253ACjfields" title="User%253ACjfields">Chris Fields</a></td>
 <td>This will be a meeting (possibly followed by a hackathon) that will
 address BioPerl's current issues, future directions, etc. It is
 anticipated that there will be overlap with other groups and satellite
@@ -270,7 +270,7 @@ title="bp:GMOD 2010 Meeting">main BioPerl website</a>.</p></td>
 <tr class="odd">
 <th><a href="Tripal_Working_Group" title="Tripal Working Group">Tripal
 Working Group</a></th>
-<td><a href="User%3ASficklin" title="User%3ASficklin">Stephen
+<td><a href="User%253ASficklin" title="User%253ASficklin">Stephen
 Ficklin</a></td>
 <td>A discussion of <a href="Tripal.1" title="Tripal">Tripal</a> with an
 emphasis on future development plans. Anyone using Tripal, planning on
@@ -287,7 +287,7 @@ class="external text" rel="nofollow">Tripal mailing list</a>.</p></td>
 <th><a href="Chado_Natural_Diversity_Module_Working_Group"
 title="Chado Natural Diversity Module Working Group">Chado Natural
 Diversity Module Working Group</a></th>
-<td><a href="User%3AClements" title="User%3AClements">Dave Clements</a></td>
+<td><a href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 <td>A discussion of the <a href="Chado" class="mw-redirect"
 title="Chado">Chado</a> Natural Diversity Module, currently under
 development.</td>
@@ -307,43 +307,43 @@ rel="nofollow">http://urgi.versailles.inra.fr/</a> |
 rel="nofollow">http://beespace.uiuc.edu</a> |
 | Yuri | Bendana | USC BISC-MCB |  |
 | Aaron | Buechlein | The Center for Genomics and Bioinformatics |  |
-| [Robert](User%3ARobertBuels "User%3ARobertBuels") | [Buels](User%3ARobertBuels "User%3ARobertBuels") | [SGN](Category%3ASGN "Category%3ASGN") | <a href="http://solgenomics.net" class="external free"
+| [Robert](User%253ARobertBuels "User%253ARobertBuels") | [Buels](User%253ARobertBuels "User%253ARobertBuels") | [SGN](Category%253ASGN "Category%253ASGN") | <a href="http://solgenomics.net" class="external free"
 rel="nofollow">http://solgenomics.net</a> |
-| [Scott](User%3AScott "User%3AScott") | [Cain](User%3AScott "User%3AScott") | GMOD / OICR | <a href="http://gmod.org" class="external free"
+| [Scott](User%253AScott "User%253AScott") | [Cain](User%253AScott "User%253AScott") | GMOD / OICR | <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> / <a href="http://www.oicr.on.ca/" class="external free"
 rel="nofollow">http://www.oicr.on.ca/</a> |
-| [Michael](User%3AMcaudy "User%3AMcaudy") | [Caudy](User%3AMcaudy "User%3AMcaudy") | Reactome | <a href="http://www.reactome.org" class="external free"
+| [Michael](User%253AMcaudy "User%253AMcaudy") | [Caudy](User%253AMcaudy "User%253AMcaudy") | Reactome | <a href="http://www.reactome.org" class="external free"
 rel="nofollow">http://www.reactome.org</a> |
-| [Chris](User%3AChilders "User%3AChilders") | [Childers](User%3AChilders "User%3AChilders") | Bovine Genome Database; BeeBase; NasoniaBase; Hymenoptera Genome Database | <a href="http://bovinegenome.org" class="external free"
+| [Chris](User%253AChilders "User%253AChilders") | [Childers](User%253AChilders "User%253AChilders") | Bovine Genome Database; BeeBase; NasoniaBase; Hymenoptera Genome Database | <a href="http://bovinegenome.org" class="external free"
 rel="nofollow">http://bovinegenome.org</a>; <a href="http://beebase.org" class="external free"
 rel="nofollow">http://beebase.org</a>; <a href="http://nasoniabase.org" class="external free"
 rel="nofollow">http://nasoniabase.org</a>; <a href="http://hymenopteragenome.org" class="external free"
 rel="nofollow">http://hymenopteragenome.org</a> |
-| [Dave](User%3AClements "User%3AClements") | [Clements](User%3AClements "User%3AClements") | GMOD / NESCent | <a href="http://gmod.org" class="external free"
+| [Dave](User%253AClements "User%253AClements") | [Clements](User%253AClements "User%253AClements") | GMOD / NESCent | <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> / <a href="http://nescent.org" class="external free"
 rel="nofollow">http://nescent.org</a> |
 | Jonathan | Crabtree | Institute for Genome Sciences / University of Maryland Baltimore |  |
-| [Stephen](User%3ASficklin "User%3ASficklin") | [Ficklin](User%3ASficklin "User%3ASficklin") | Clemson University Genomics Institute | <a href="http://www.genome.clemson.edu/" class="external free"
+| [Stephen](User%253ASficklin "User%253ASficklin") | [Ficklin](User%253ASficklin "User%253ASficklin") | Clemson University Genomics Institute | <a href="http://www.genome.clemson.edu/" class="external free"
 rel="nofollow">http://www.genome.clemson.edu/</a> |
-| [Christopher](User%3ACjfields "User%3ACjfields") | [Fields](User%3ACjfields "User%3ACjfields") | BioPerl, Institute for Genomic Biology | <a href="http://bioperl.org" class="external free"
+| [Christopher](User%253ACjfields "User%253ACjfields") | [Fields](User%253ACjfields "User%253ACjfields") | BioPerl, Institute for Genomic Biology | <a href="http://bioperl.org" class="external free"
 rel="nofollow">http://bioperl.org</a> <a href="http://beespace.igb.uiuc.edu" class="external free"
 rel="nofollow">http://beespace.igb.uiuc.edu</a> |
-| [steve](User%3AStevef "User%3AStevef") | [fischer](User%3AStevef "User%3AStevef") | EuPathDB | <a href="http://EuPathDB.org" class="external free"
+| [steve](User%253AStevef "User%253AStevef") | [fischer](User%253AStevef "User%253AStevef") | EuPathDB | <a href="http://EuPathDB.org" class="external free"
 rel="nofollow">http://EuPathDB.org</a> |
-| [Eric](User%3AEric.ganko "User%3AEric.ganko") | [Ganko](User%3AEric.ganko "User%3AEric.ganko") | Syngenta |  |
+| [Eric](User%253AEric.ganko "User%253AEric.ganko") | [Ganko](User%253AEric.ganko "User%253AEric.ganko") | Syngenta |  |
 | Aureliano Bombarely | Gomez | Boyce Thompson Institute for Plant Research | <a href="http://solgenomics.net/" class="external free"
 rel="nofollow">http://solgenomics.net/</a> |
-| [Josh](User%3AJogoodma "User%3AJogoodma") | [Goodman](User%3AJogoodma "User%3AJogoodma") | [FlyBase](Category%3AFlyBase "Category%3AFlyBase") | <a href="http://flybase.org/" class="external free"
+| [Josh](User%253AJogoodma "User%253AJogoodma") | [Goodman](User%253AJogoodma "User%253AJogoodma") | [FlyBase](Category%253AFlyBase "Category%253AFlyBase") | <a href="http://flybase.org/" class="external free"
 rel="nofollow">http://flybase.org/</a> |
-| [Chris](User%3AChemmeri "User%3AChemmeri") | [Hemmerich](User%3AChemmeri "User%3AChemmeri") | Center for Genomics and Bioinformatics | <a href="http://cgb.indiana.edu/" class="external free"
+| [Chris](User%253AChemmeri "User%253AChemmeri") | [Hemmerich](User%253AChemmeri "User%253AChemmeri") | Center for Genomics and Bioinformatics | <a href="http://cgb.indiana.edu/" class="external free"
 rel="nofollow">http://cgb.indiana.edu/</a> |
 | LE, Quang | Hien | Vilmorin & Cie | <a href="http://www.vilmorin.info" class="external free"
 rel="nofollow">http://www.vilmorin.info</a> |
-| Ben | Hitz | [SGD](Category%3ASGD "Category%3ASGD") | <a href="http://www.yeastgenome.org/" class="external free"
+| Ben | Hitz | [SGD](Category%253ASGD "Category%253ASGD") | <a href="http://www.yeastgenome.org/" class="external free"
 rel="nofollow">http://www.yeastgenome.org/</a> |
 | Zhiliang | Hu | Iowa State University | <a href="http://www.animalgenome.org" class="external free"
 rel="nofollow">http://www.animalgenome.org</a> |
-| [Jim](User%3AJimHu.1 "User%3AJimHu") | [Hu](User%3AJimHu.1 "User%3AJimHu") | EcoliWiki | <a href="http://ecoliwiki.net" class="external free"
+| [Jim](User%253AJimHu.1 "User%253AJimHu") | [Hu](User%253AJimHu.1 "User%253AJimHu") | EcoliWiki | <a href="http://ecoliwiki.net" class="external free"
 rel="nofollow">http://ecoliwiki.net</a> |
 | Juan | Jovel | Scripps |  |
 | John | Lee | USDA-ARS-WRRC-GGD |  |
@@ -356,7 +356,7 @@ San Diego</a> | <a href="http://www.neuinfo.org/" class="external text"
 rel="nofollow">Neuroscience Information Framework (NIF)</a>, <a href="http://ncmir.ucsd.edu/" class="external text"
 rel="nofollow">National Center for Microscopy and Imaging Research
 (NCMIR)</a> |
-| [Sheldon](User%3AMckays "User%3AMckays") | [McKay](User%3AMckays "User%3AMckays") | CSHL/iPlant | <a href="http://mckay.cshl.edu" class="external free"
+| [Sheldon](User%253AMckays "User%253AMckays") | [McKay](User%253AMckays "User%253AMckays") | CSHL/iPlant | <a href="http://mckay.cshl.edu" class="external free"
 rel="nofollow">http://mckay.cshl.edu</a>, <a href="http://iptol.iplantcollaborative.org" class="external free"
 rel="nofollow">http://iptol.iplantcollaborative.org</a> |
 | Rex | Nelson | SoyBase | <a href="http://soybase.org" class="external free"
@@ -370,25 +370,25 @@ rel="nofollow">http://www.cgb.indiana.edu/</a> |
 | Keiran | Raine | Cancer Genome Project (Wellcome Trust) - Human, Mouse | <a href="http://www.sanger.ac.uk/research/projects/cancergenome.html"
 class="external free"
 rel="nofollow">http://www.sanger.ac.uk/research/projects/cancergenome.html</a> |
-| [Justin](User%3AJustaddcoffee "User%3AJustaddcoffee") | [Reese](User%3AJustaddcoffee "User%3AJustaddcoffee") | BeeBase/Bovine Genome Database/Hymenoptera Genome Database | <a href="http://bovinegenome.org" class="external free"
+| [Justin](User%253AJustaddcoffee "User%253AJustaddcoffee") | [Reese](User%253AJustaddcoffee "User%253AJustaddcoffee") | BeeBase/Bovine Genome Database/Hymenoptera Genome Database | <a href="http://bovinegenome.org" class="external free"
 rel="nofollow">http://bovinegenome.org</a>; <a href="http://beebase.org" class="external free"
 rel="nofollow">http://beebase.org</a>; <a href="http://nasoniabase.org" class="external free"
 rel="nofollow">http://nasoniabase.org</a>; <a href="http://hymenopteragenome.org" class="external free"
 rel="nofollow">http://hymenopteragenome.org</a> |
-| [Daniel](User%3ADanielRenfro "User%3ADanielRenfro") | [Renfro](User%3ADanielRenfro "User%3ADanielRenfro") | EcoliWiki | <a href="http://ecoliwiki.net" class="external free"
+| [Daniel](User%253ADanielRenfro "User%253ADanielRenfro") | [Renfro](User%253ADanielRenfro "User%253ADanielRenfro") | EcoliWiki | <a href="http://ecoliwiki.net" class="external free"
 rel="nofollow">http://ecoliwiki.net</a> |
 | Lacey-Anne | Sanderson | Dept Plant Sciences, University of Saskachewan |  |
 | Carl | Schmidt | University of Delaware / Gallus |  |
-| [Mitchell](User%3AMitchSkinner "User%3AMitchSkinner") | [Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | UC Berkeley | <a href="http://jbrowse.org" class="external free"
+| [Mitchell](User%253AMitchSkinner "User%253AMitchSkinner") | [Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | UC Berkeley | <a href="http://jbrowse.org" class="external free"
 rel="nofollow">http://jbrowse.org</a> |
-| [Richard](User%3ARsmith "User%3ARsmith") | [Smith](User%3ARsmith "User%3ARsmith") | University of Cambridge | <a href="http://www.intermine.org" class="external free"
+| [Richard](User%253ARsmith "User%253ARsmith") | [Smith](User%253ARsmith "User%253ARsmith") | University of Cambridge | <a href="http://www.intermine.org" class="external free"
 rel="nofollow">http://www.intermine.org</a> |
-| [Jason](User%3AStajich "User%3AStajich") | [Stajich](User%3AStajich "User%3AStajich") | [BioPerl](BioPerl "BioPerl"), FungalGenomes, University of California, Riverside | <a href="http://fungalgenomes.org/" class="external free"
+| [Jason](User%253AStajich "User%253AStajich") | [Stajich](User%253AStajich "User%253AStajich") | [BioPerl](BioPerl "BioPerl"), FungalGenomes, University of California, Riverside | <a href="http://fungalgenomes.org/" class="external free"
 rel="nofollow">http://fungalgenomes.org/</a> |
-| [Meg](User%3AMestato "User%3AMestato") | [Staton](User%3AMestato "User%3AMestato") | Clemson University Genomics Institute | [Tripal](Tripal.1 "Tripal") <a href="http://www.fagaceae.org" class="external free"
+| [Meg](User%253AMestato "User%253AMestato") | [Staton](User%253AMestato "User%253AMestato") | Clemson University Genomics Institute | [Tripal](Tripal.1 "Tripal") <a href="http://www.fagaceae.org" class="external free"
 rel="nofollow">http://www.fagaceae.org</a> <a href="http://www.rosaceae.org" class="external free"
 rel="nofollow">http://www.rosaceae.org</a> |
-| [Jaideep](User%3ASundaram "User%3ASundaram") | [Sundaram](User%3ASundaram "User%3ASundaram") | Computational Genomics Laboratory Georgetown University |  |
+| [Jaideep](User%253ASundaram "User%253ASundaram") | [Sundaram](User%253ASundaram "User%253ASundaram") | Computational Genomics Laboratory Georgetown University |  |
 | Alexander | Tchourbanov | New Mexico State University, Biology Department | <a href="http://www.wyomingbioinformatics.org/~achurban/"
 class="external free"
 rel="nofollow">http://www.wyomingbioinformatics.org/~achurban/</a> |
@@ -404,10 +404,10 @@ please add it below.
 
 - Using the [2009 GMOD Community
   Survey](2009_GMOD_Community_Survey "2009 GMOD Community Survey")
-  results for guidance -- [Dave Clements](User%3AClements "User%3AClements")
+  results for guidance -- [Dave Clements](User%253AClements "User%253AClements")
 - <a href="GMOD_Summer_School" class="mw-redirect"
   title="GMOD Summer School">2010 GMOD Summer Schools</a> -- [Dave
-  Clements](User%3AClements "User%3AClements")
+  Clements](User%253AClements "User%253AClements")
 - GMOD tools in the frame of GnpAnnot projects (-- Michael Alaux --
   Joelle Amselem, on the 14th)
   - Roundtrip [GBrowse](GBrowse.1 "GBrowse") ←
@@ -418,26 +418,26 @@ please add it below.
     <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.
   - GMOD Report : a Java based middleware for Chado.
 - Using and developing
-  [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema"),
+  [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema"),
   integrating it with other
   <a href="http://search.cpan.org/dist/DBIx-Class" class="external text"
   rel="nofollow">DBIx::Class</a>-based code -- [Robert
-  Buels](User%3ARobertBuels "User%3ARobertBuels")
+  Buels](User%253ARobertBuels "User%253ARobertBuels")
 - Discussion toward standard website platforms for MOD sites -- [Robert
-  Buels](User%3ARobertBuels "User%3ARobertBuels")
+  Buels](User%253ARobertBuels "User%253ARobertBuels")
 - StrategiesWDK: intro to a powerful MOD-compatible search UI -- [Steve
-  Fischer](User%3AStevef "User%3AStevef")
+  Fischer](User%253AStevef "User%253AStevef")
 - Give [Textpresso](Textpresso "Textpresso") meeting talk, Nathan Liles
 - [TableEdit](TableEdit.1 "TableEdit"), [Daniel
-  Renfro](User%3ADanielRenfro "User%3ADanielRenfro"), [Jim
-  Hu](User%3AJimHu.1 "User%3AJimHu"),
+  Renfro](User%253ADanielRenfro "User%253ADanielRenfro"), [Jim
+  Hu](User%253AJimHu.1 "User%253AJimHu"),
   <a href="http://www.mediawiki.org/wiki/Extension:TableEdit"
   class="external text">TableEdit on MediaWiki</a>
 - Providing a biologist-centered interface for running and customizing
   Ergatis pipelines -- Chris Hemmerich
 - Using Drupal and Flex to Create User-Configurable Interfaces for GMOD
   Databases for Use in Transcriptional Genomics Research -- [Michael
-  Caudy](User%3AMcaudy "User%3AMcaudy")
+  Caudy](User%253AMcaudy "User%253AMcaudy")
 - Discussion/BoF for Hadoop & HBase. Our lab is starting to store next
   gen sequence data in HBase and I would be interested in talking with
   others interested building and deploying large genome database using
@@ -539,12 +539,12 @@ were the most useful or interesting?**
 - REST Hackathon, Strategies SDK, Open Mic session, Chado on Rails, \*
   JBrowse, NoSQL
 - StrategiesWDK: intro to a powerful MOD-compatible search UI, Chado on
-  Rails, Using and developing Bio%3A%3AChado%3A%3ASchema, integrating it with
+  Rails, Using and developing Bio%253A%253AChado%253A%253ASchema, integrating it with
   other DBIx::Class-based code, The Neuroscience Information Framework:
   Establishing a practical semantic framework for neuroscience, JBrowse
 - StrategiesWDK: intro to a powerful MOD-compatible search UI
-- Rob Buell's Bio%3A%3AChado%3A%3ASchema
-- The NIF keynote presentation, Bio%3A%3AChado%3A%3ASchema, StrategiesWDK,
+- Rob Buell's Bio%253A%253AChado%253A%253ASchema
+- The NIF keynote presentation, Bio%253A%253AChado%253A%253ASchema, StrategiesWDK,
   Status updates/help desk"
 - gnpAnnot, Ergatis pipeline, StrategiesWDK
 - Steve Fischer's query trees demo was intriuging - it's a great way for
@@ -563,7 +563,7 @@ were the most useful or interesting?**
 - O'Conner (NOSQL), Caudy (Drupal), Martone (NIF), Skinner (JBrowse), in
   general talks that describe GMOD tools briefly, to orient us to what
   they do"
-- Using and developing Bio%3A%3AChado%3A%3ASchema, GnpAnnot projects, Chado on
+- Using and developing Bio%253A%253AChado%253A%253ASchema, GnpAnnot projects, Chado on
   Rails
 - JBrowse, bioperl & DBIx, tripal, show and tell
 - Representation of next generation sequences in GBrowse.
@@ -654,9 +654,9 @@ future?**
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -670,7 +670,7 @@ future?**
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AJanuary_2010_GMOD_Meeting" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AJanuary_2010_GMOD_Meeting" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -694,8 +694,8 @@ future?**
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

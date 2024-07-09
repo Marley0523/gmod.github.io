@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AAlpapan</span>
+# <span dir="auto">User%253AAlpapan</span>
 
 
 
@@ -74,8 +74,8 @@ and my address:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -98,7 +98,7 @@ and my address:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AAlpapan" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AAlpapan" rel="smw-browse">Browse
   properties</a></span>
 
 

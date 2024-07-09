@@ -34,7 +34,7 @@ going on this month:
   href="http://gmod.827538.n3.nabble.com/Around-Pittsburgh-on-April-6-Attend-the-Intro-to-Galaxy-Sessions-Pitt-td2760070.html"
   class="external text" rel="nofollow">Intro to Galaxy</a>* workshops,
   April 6 at University of Pittsburgh, [Dan
-  Blankenberg](../User%3ADanB "User%3ADanB")
+  Blankenberg](../User%253ADanB "User%253ADanB")
 - *<a
   href="http://www.bio-itworldexpo.com/Bio-It_Expo_Content.aspx?id=101298"
   class="external text" rel="nofollow">Dynamically Scalable, Accessible
@@ -51,7 +51,7 @@ going on this month:
   rel="nofollow">2011 Galaxy Community Conference</a>, April 24.
   Register early and save 20%.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [Galaxy](../Galaxy.1 "Galaxy") Project
 
   
@@ -65,9 +65,9 @@ going on this month:
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -106,8 +106,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -130,7 +130,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGalaxy_Events%3A_April_2011"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGalaxy_Events%253A_April_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

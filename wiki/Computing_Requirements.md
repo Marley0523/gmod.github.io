@@ -79,8 +79,8 @@ candidate has the technical qualifications or not.
 **Installing and Configuring Software**
 
 Most GMOD software relies on well-established programming languages and
-technologies such as [Perl](Category%3APerl "Category%3APerl"), CPAN,
-[Java](Category%3AJava "Category%3AJava"),
+technologies such as [Perl](Category%253APerl "Category%253APerl"), CPAN,
+[Java](Category%253AJava "Category%253AJava"),
 [PostgreSQL](PostgreSQL "PostgreSQL"), [MySQL](MySQL "MySQL"), and
 Apache. There are also a number of packages and systems that are
 specific to bioinformatics, such as [BioPerl](BioPerl "BioPerl"), that
@@ -309,13 +309,13 @@ software requirements.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Linux](Category%3ALinux "Category%3ALinux")
-- [Mac OS X](Category%3AMac_OS_X "Category%3AMac OS X")
-- [Windows](Category%3AWindows "Category%3AWindows")
-- [Help](Category%3AHelp "Category%3AHelp")
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Linux](Category%253ALinux "Category%253ALinux")
+- [Mac OS X](Category%253AMac_OS_X "Category%253AMac OS X")
+- [Windows](Category%253AWindows "Category%253AWindows")
+- [Help](Category%253AHelp "Category%253AHelp")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -349,8 +349,8 @@ software requirements.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

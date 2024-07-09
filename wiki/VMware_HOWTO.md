@@ -35,7 +35,7 @@ VMware images are used in several places in GMOD:
 - The [Community Annotation
   System](Community_Annotation_System "Community Annotation System") is
   packaged as a VMware image.
-- Many GMOD [tutorials](Category%3ATutorials "Category%3ATutorials") use
+- Many GMOD [tutorials](Category%253ATutorials "Category%253ATutorials") use
   VMware images as starting points.
 
   
@@ -80,8 +80,8 @@ alt="Linux" />
 
 
 A free VMware player is available for [Microsoft
-Windows](Category%3AWindows "Category%3AWindows") and
-[Linux](Category%3ALinux "Category%3ALinux") [operating
+Windows](Category%253AWindows "Category%253AWindows") and
+[Linux](Category%253ALinux "Category%253ALinux") [operating
 systems](Glossary#Operating_System "Glossary") from
 <a href="http://vmware.com/products/player/" class="external text"
 rel="nofollow">VMware</a>. You will need to register to download it.
@@ -103,7 +103,7 @@ alt="Apple" /></a>
 Participants can also bring *newer Macs with Intel processors*. The
 Intel processor is a requirement for all the packages discussed below.
 There is no free VMware player that runs *directly* under [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"). However, there are several
+X](Category%253AMac_OS_X "Category%253AMac OS X"). However, there are several
 other options, **all of which require an Intel Mac**:
 
   
@@ -214,7 +214,7 @@ client for windows.
 # <span id="Fluxbox" class="mw-headline">Fluxbox</span>
 
 The images from most 2009
-[Tutorial](Category%3ATutorials "Category%3ATutorials") pages include a
+[Tutorial](Category%253ATutorials "Category%253ATutorials") pages include a
 basic *[graphical user interface](Glossary#GUI "Glossary")* called
 *<a href="http://fluxbox.org/" class="external text"
 rel="nofollow">Fluxbox</a>*. Fluxbox is a minimal GUI.
@@ -232,9 +232,9 @@ applications like Firefox and terminal.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 
 
@@ -268,8 +268,8 @@ applications like Firefox and terminal.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

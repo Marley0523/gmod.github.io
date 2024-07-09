@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Wiki Tools](/wiki/Category%3AWiki_Tools "Category%3AWiki Tools")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Wiki-20Tools "Special%3ASearchByProperty/Wiki-20Tools")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 December 2010 21:28:25  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/10-20December-202010-2021:28:25 "Special%3ASearchByProperty/Modification-20date/10-20December-202010-2021:28:25")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Wiki Tools](/wiki/Category%253AWiki_Tools "Category%253AWiki Tools")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Wiki-20Tools "Special%253ASearchByProperty/Wiki-20Tools")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 December 2010 21:28:25  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/10-20December-202010-2021:28:25 "Special%253ASearchByProperty/Modification-20date/10-20December-202010-2021:28:25")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

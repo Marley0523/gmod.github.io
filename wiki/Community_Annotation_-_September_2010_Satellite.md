@@ -127,16 +127,16 @@ proposed by Kim Rutherford.
   rel="nofollow">T1DBase</a>
 - Gerd Anders, Max-Delbrueck-Centrum Berlin (MDC)
 - Jerven Bolleman, UniProt Swiss-Prot
-- [Scott Cain](User%3AScott "User%3AScott"), GMOD Project Coordinator,
+- [Scott Cain](User%253AScott "User%253AScott"), GMOD Project Coordinator,
   <a href="http://www.oicr.on.ca" class="external text"
   rel="nofollow">OICR</a>
-- [Dave Clements](User%3AClements "User%3AClements"), [GMOD Help
+- [Dave Clements](User%253AClements "User%253AClements"), [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"),
   <a href="http://nescent.org" class="external text"
   rel="nofollow">NESCent</a>
 - Oskana Riba Grognuz, Swiss Institute of Bioinformatics (SIB)
   Department of Ecology and Evolution, University of Lausanne
-- [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"),
+- [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri"),
   <a href="http://cgb.indiana.edu" class="external text"
   rel="nofollow">CGB, Indiana University</a>
 - Joan Pontius, National Cancer Institute, SAIC
@@ -320,7 +320,7 @@ can create a login for someone else. Editors have full update access.
 
 <!-- -->
 
-[SGN](Category%3ASGN "Category%3ASGN") - Locus boss!  
+[SGN](Category%253ASGN "Category%253ASGN") - Locus boss!  
 SGN locus pages list the set of community members who can update
 information about that locus. Every locus page includes "Request editor
 privileges" link. This model allows specific people to control and "own"
@@ -548,14 +548,14 @@ sophisticated and more standardised.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Education and
-  Outreach](Category%3AEducation_and_Outreach "Category%3AEducation and Outreach")
+  Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
 - [Community
-  Annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+  Annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -569,7 +569,7 @@ sophisticated and more standardised.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ACommunity_Annotation_-_September_2010_Satellite"
+- <span id="ca-talk"><a href="Talk%253ACommunity_Annotation_-_September_2010_Satellite"
   accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
@@ -594,8 +594,8 @@ sophisticated and more standardised.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

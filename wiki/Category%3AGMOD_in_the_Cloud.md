@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD in the Cloud</span>
+# <span dir="auto">Category%253AGMOD in the Cloud</span>
 
 
 
@@ -120,8 +120,8 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -144,7 +144,7 @@ title="WebApollo/tool data">WebApollo/tool data</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_in_the_Cloud"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_in_the_Cloud"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -174,7 +174,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   for a <span class="searchmatch">GMOD</span> \[\[Standard URL\]\]
   genome data download folder. Why use this package rather than
   <span class="searchmatch">using</span> other
-  \[\[:Category%3AMiddleware\|middleware layers\]\] to Chado db -
+  \[\[:Category%253AMiddleware\|middleware layers\]\] to Chado db -
   \[\[Chado XML\]
 
   
@@ -198,7 +198,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   have a good idea of a recommended set of
   <span class="searchmatch">tools</span> and practices that one should
   employ to develop reliable software.
-  \[\[Category%3A<span class="searchmatch">GMOD</span> Developers\]\]
+  \[\[Category%253A<span class="searchmatch">GMOD</span> Developers\]\]
 
   
 
@@ -349,7 +349,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...reusable Java UI component -- and a set of parsing utilities,
   command line <span class="searchmatch">tools</span> and an application
   GUI -- for viewing gene expression data in a whole-genom
-  \[\[Category%3A<span class="searchmatch">GMOD</span> Components\]\]
+  \[\[Category%253A<span class="searchmatch">GMOD</span> Components\]\]
 
   
 
@@ -436,7 +436,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...ic Genome Browser (GBrowse)\]\] is one of the most widely used
   visualization <span class="searchmatch">tools</span> for sequence
   display characterized by a rich set of utilities helpful in pr
-  \[\[Category%3A<span class="searchmatch">GMOD</span> Components\]\]
+  \[\[Category%253A<span class="searchmatch">GMOD</span> Components\]\]
 
   
 
@@ -561,7 +561,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 - 
 
   [Face Caucus UCSC: User Interface
-  Issues](/wiki/Face_Caucus_UCSC%3A_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
+  Issues](/wiki/Face_Caucus_UCSC%253A_User_Interface_Issues "Face Caucus UCSC: User Interface Issues")
 
   
 
@@ -1013,7 +1013,7 @@ GMOD</a>" on this wiki!** See also the search results found.
   ...="/w/images/e/ef/Nihlogo.gif" alt="National Institutes of
   Health"\>\</td\>\<td\><span class="searchmatch">GMOD</span> is
   supported by a specific cooperative agreement from the USDA
-  Agricultural \[\[Category%3AWiki
+  Agricultural \[\[Category%253AWiki
   <span class="searchmatch">Tools</span>\]\]
 
   
@@ -1076,7 +1076,7 @@ GMOD</a>" on this wiki!** See also the search results found.
 
   
 
-  ...tutorial was presented by \[\[User%3AScott\|Scott Cain\]\] as part of
+  ...tutorial was presented by \[\[User%253AScott\|Scott Cain\]\] as part of
   the \[\[2012 <span class="searchmatch">GMOD</span> Summer School\]\].
   Chado is the database schema of the
   <span class="searchmatch">GMOD</span> project. This session introduces
@@ -1168,7 +1168,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/Tools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/Tools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -1191,8 +1191,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

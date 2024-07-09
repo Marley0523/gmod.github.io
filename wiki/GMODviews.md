@@ -61,12 +61,12 @@ membership](GMOD_Membership#Software "GMOD Membership").
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Under
-  Construction](Category%3AUnder_Construction "Category%3AUnder Construction")
-- [External](Category%3AExternal "Category%3AExternal")
-- [Drupal](Category%3ADrupal "Category%3ADrupal")
+  Construction](Category%253AUnder_Construction "Category%253AUnder Construction")
+- [External](Category%253AExternal "Category%253AExternal")
+- [Drupal](Category%253ADrupal "Category%253ADrupal")
 
 
 
@@ -100,8 +100,8 @@ membership](GMOD_Membership#Software "GMOD Membership").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

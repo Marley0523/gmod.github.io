@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AAnalysis</span>
+# <span dir="auto">Category%253AAnalysis</span>
 
 
 
@@ -29,7 +29,7 @@ This category has only the following subcategory.
 
 ### B
 
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
 
 
 
@@ -121,9 +121,9 @@ The following 2 files are in this category, out of 2 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Biology](Category%3ABiology "Category%3ABiology")
+- [Biology](Category%253ABiology "Category%253ABiology")
 
 
 
@@ -157,8 +157,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -181,7 +181,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AAnalysis" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AAnalysis" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AHelp</span>
+# <span dir="auto">Category%253AHelp</span>
 
 
 
@@ -28,25 +28,25 @@ This category has the following 6 subcategories, out of 6 total.
 
 ### F
 
-- [FAQ](Category%3AFAQ "Category%3AFAQ")
+- [FAQ](Category%253AFAQ "Category%253AFAQ")
 
 ### H
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 ### P
 
-- [Presentations](Category%3APresentations "Category%3APresentations")
-- [Publications](Category%3APublications "Category%3APublications")
+- [Presentations](Category%253APresentations "Category%253APresentations")
+- [Publications](Category%253APublications "Category%253APublications")
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 ### U
 
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -78,7 +78,7 @@ title="Computing Requirements">Computing Requirements</a></li>
 </ul>
 <h3 id="e">E</h3>
 <ul>
-<li><a href="Help%3AEditing" title="Help%3AEditing">Help%3AEditing</a></li>
+<li><a href="Help%253AEditing" title="Help%253AEditing">Help%253AEditing</a></li>
 </ul>
 <h3 id="g">G</h3>
 <ul>
@@ -137,9 +137,9 @@ title="Wiki linking style guide">Wiki linking style guide</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Categories](Category%3ACategories "Category%3ACategories")
+- [Categories](Category%253ACategories "Category%253ACategories")
 
 
 
@@ -173,8 +173,8 @@ title="Wiki linking style guide">Wiki linking style guide</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -197,7 +197,7 @@ title="Wiki linking style guide">Wiki linking style guide</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AHelp" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AHelp" rel="smw-browse">Browse
   properties</a></span>
 
 

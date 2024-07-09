@@ -24,15 +24,15 @@ Showing 3 properties using this type.
 
 ### H
 
-- [Property:Has URL](../Property%3AHas_URL "Property:Has URL")
+- [Property:Has URL](../Property%253AHas_URL "Property:Has URL")
 - [Property:Has download
-  URL](../Property%3AHas_download_URL "Property:Has download URL")
-- [Property:Has website](../Property%3AHas_website "Property:Has website")
+  URL](../Property%253AHas_download_URL "Property:Has download URL")
+- [Property:Has website](../Property%253AHas_website "Property:Has website")
 
 
 
 
-Retrieved from "[http://gmod.org/wiki/Special%3ATypes/URL](URL)"
+Retrieved from "[http://gmod.org/wiki/Special%253ATypes/URL](URL)"
 
 
 
@@ -74,8 +74,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

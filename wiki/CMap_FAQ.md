@@ -58,7 +58,7 @@
 ### <span id="What_is_this_FAQ.3F" class="mw-headline">What is this FAQ?</span>
 
 It is the list of [Frequently Asked
-Questions](Category%3AFAQ "Category%3AFAQ") about [CMap](CMap.1 "CMap").
+Questions](Category%253AFAQ "Category%253AFAQ") about [CMap](CMap.1 "CMap").
 
 ### <span id="How_is_it_maintained.3F" class="mw-headline">How is it maintained?</span>
 
@@ -130,7 +130,7 @@ file that accesses the database through the sql() object.
 In the area_code portion of the feature/map type, the sql object can be
 accessed using \$self-\>sql(). The resulting object has methods that
 interact with the database. For more information about the methods that
-can be called execute "perldoc Bio%3A%3AGMOD::CMap::Data::Generic" on the
+can be called execute "perldoc Bio%253A%253AGMOD::CMap::Data::Generic" on the
 command line. In this instance, we want to use get_attributes() to read
 through the attributes and look for the one to display.
 
@@ -144,7 +144,7 @@ Here is an example of how to do this:
          # Generic.pm object.  This object queries the database.
          # In this case we are getting attributes.
          # For more information:
-         #   perldoc Bio%3A%3AGMOD::CMap::Data::Generic
+         #   perldoc Bio%253A%253AGMOD::CMap::Data::Generic
          my $conf_attributes = $self->sql->get_attributes(
              object_type => 'feature',
              object_id   => $feature->{'feature_id'},
@@ -238,10 +238,10 @@ list. (edited for display and reprinted by permission)
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [CMap](Category%3ACMap "Category%3ACMap")
-- [FAQ](Category%3AFAQ "Category%3AFAQ")
+- [CMap](Category%253ACMap "Category%253ACMap")
+- [FAQ](Category%253AFAQ "Category%253AFAQ")
 
 
 
@@ -275,8 +275,8 @@ list. (edited for display and reprinted by permission)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

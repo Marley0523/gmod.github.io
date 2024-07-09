@@ -25,7 +25,7 @@ alt="BioPerl" /></a>
 
 <a href="http://www.bioperl.org/" class="external text"
 rel="nofollow">BioPerl</a> is a set of modules that support
-bioinformatics programming in [Perl](Category%3APerl "Category%3APerl")
+bioinformatics programming in [Perl](Category%253APerl "Category%253APerl")
 programs. BioPerl is used extensively by several GMOD components. You
 will need to install it before you can use those components.
 
@@ -102,8 +102,8 @@ rel="nofollow">podcast on the BioPerl project</a> is available at
 <a href="http://twit.tv/FLOSS" class="external text"
 rel="nofollow">FLOSS Weekly</a>. It's about an hour long and it's a good
 introduction to the **BioPerl** project. The podcast is an interview
-with BioPerl heavy hitters [Chris Fields](User%3ACjfields "User%3ACjfields")
-and [Jason Stajich](User%3AStajich "User%3AStajich").
+with BioPerl heavy hitters [Chris Fields](User%253ACjfields "User%253ACjfields")
+and [Jason Stajich](User%253AStajich "User%253AStajich").
 
 ### <span id="BioPerl_Packages_and_bioperl-live" class="mw-headline">BioPerl Packages and bioperl-live</span>
 
@@ -236,11 +236,11 @@ and what are not? Here's a rough guideline:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [External](Category%3AExternal "Category%3AExternal")
-- [Perl](Category%3APerl "Category%3APerl")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [External](Category%253AExternal "Category%253AExternal")
+- [Perl](Category%253APerl "Category%253APerl")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
 
 
 
@@ -274,8 +274,8 @@ and what are not? Here's a rough guideline:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -107,7 +107,7 @@ rel="nofollow">Search Google</a></td>
 </tr>
 <tr class="even">
 <td>Put page in category</td>
-<td><code>[[Category%3ATools]]</code></td>
+<td><code>[[Category%253ATools]]</code></td>
 <td><em>(link to other Tools in page footer)</em></td>
 </tr>
 <tr class="odd">
@@ -149,12 +149,12 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
-- [Wiki Tools](Category%3AWiki_Tools "Category%3AWiki Tools")
-- [GMOD Web Site](Category%3AGMOD_Web_Site "Category%3AGMOD Web Site")
-- [Help](Category%3AHelp "Category%3AHelp")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
+- [Wiki Tools](Category%253AWiki_Tools "Category%253AWiki Tools")
+- [GMOD Web Site](Category%253AGMOD_Web_Site "Category%253AGMOD Web Site")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -186,8 +186,8 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

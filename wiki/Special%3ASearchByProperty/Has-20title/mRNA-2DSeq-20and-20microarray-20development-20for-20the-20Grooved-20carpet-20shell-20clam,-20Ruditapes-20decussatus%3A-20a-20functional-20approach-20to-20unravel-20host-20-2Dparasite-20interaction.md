@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-title](/wiki/Property%3AHas_title "Property:Has title")" with value
+title](/wiki/Property%253AHas_title "Property:Has title")" with value
 "mRNA-Seq and microarray development for the Grooved carpet shell clam,
 Ruditapes decussatus: a functional approach to unravel host -parasite
 interaction"  
@@ -43,7 +43,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%3A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20title/mRNA-2DSeq-20and-20microarray-20development-20for-20the-20Grooved-20carpet-20shell-20clam,-20Ruditapes-20decussatus%253A-20a-20functional-20approach-20to-20unravel-20host-20-2Dparasite-20interaction "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -69,8 +69,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

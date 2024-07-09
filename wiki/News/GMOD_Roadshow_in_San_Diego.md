@@ -30,11 +30,11 @@ GMOD will have a large number of representatives at [Plant and Animal
 Genome (PAG)](../PAG_2011 "PAG 2011") in San Diego this month. Three of
 them,
 
-- [Dan Blankenberg](../User%3ADanB "User%3ADanB") of the
+- [Dan Blankenberg](../User%253ADanB "User%253ADanB") of the
   [Galaxy](../Galaxy.1 "Galaxy") project,
-- [Mitch Skinner](../User%3AMitchSkinner "User%3AMitchSkinner"), lead
+- [Mitch Skinner](../User%253AMitchSkinner "User%253AMitchSkinner"), lead
   [JBrowse](../JBrowse.1 "JBrowse") developer, and
-- [Scott Cain](../User%3AScott "User%3AScott"), GMOD Project Coordinator
+- [Scott Cain](../User%253AScott "User%253AScott"), GMOD Project Coordinator
 
 are available to visit organizations in the San Diego area during the
 conference.
@@ -50,7 +50,7 @@ rel="nofollow">Mitch</a> and
 <a href="mailto:scott@scottcain.net" class="external text"
 rel="nofollow">Scott</a> directly.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [Galaxy Project](../Galaxy.1 "Galaxy")
 
   
@@ -64,9 +64,9 @@ rel="nofollow">Scott</a> directly.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -105,8 +105,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

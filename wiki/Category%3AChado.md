@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AChado</span>
+# <span dir="auto">Category%253AChado</span>
 
 
 
@@ -28,10 +28,10 @@ This category has the following 3 subcategories, out of 3 total.
 
 ### C
 
-- [Chado FlyBase](Category%3AChado_FlyBase "Category%3AChado FlyBase")
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
+- [Chado FlyBase](Category%253AChado_FlyBase "Category%253AChado FlyBase")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 - [Chado
-  Presentations](Category%3AChado_Presentations "Category%3AChado Presentations")
+  Presentations](Category%253AChado_Presentations "Category%253AChado Presentations")
 
 
 
@@ -60,7 +60,7 @@ PureJDBCTransactionWriter HOWTO</a></li>
 title="Apollo-Chado example database">Apollo-Chado example
 database</a></li>
 <li><a
-href="Apollo-Chado_Integration_at_BovineBase%3A_Bugs_and_Suggestions"
+href="Apollo-Chado_Integration_at_BovineBase%253A_Bugs_and_Suggestions"
 title="Apollo-Chado Integration at BovineBase: Bugs and Suggestions">Apollo-Chado
 Integration at BovineBase: Bugs and Suggestions</a></li>
 <li><a href="August_2009_GMOD_Meeting"
@@ -68,8 +68,8 @@ title="August 2009 GMOD Meeting">August 2009 GMOD Meeting</a></li>
 </ul>
 <h3 id="b">B</h3>
 <ul>
-<li><a href="Bio%3A%3AChado%3A%3ASchema"
-title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></li>
+<li><a href="Bio%253A%253AChado%253A%253ASchema"
+title="Bio%253A%253AChado%253A%253ASchema">Bio%253A%253AChado%253A%253ASchema</a></li>
 </ul>
 <h3 id="c-1">C</h3>
 <ul>
@@ -98,7 +98,7 @@ title="Chado Phenotype Module">Chado Phenotype Module</a></li>
 <li><a href="Chado_Phenotype_Module_at_FlyBase"
 title="Chado Phenotype Module at FlyBase">Chado Phenotype Module at
 FlyBase</a></li>
-<li><a href="Talk%3AChado_Post-Composed_Phenotypes"
+<li><a href="Talk%253AChado_Post-Composed_Phenotypes"
 title="Talk:Chado Post-Composed Phenotypes">Talk:Chado Post-Composed
 Phenotypes</a></li>
 <li><a href="Chado_Schema_Documentation_HOWTO"
@@ -126,10 +126,10 @@ Tutorial 2013</a></li>
 <li><a href="Chado_Update_via_GFF" title="Chado Update via GFF">Chado
 Update via GFF</a></li>
 <li><a href="Chado_XML" title="Chado XML">Chado XML</a></li>
-<li><a href="Chado%3A%3AAutoDBI"
-title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a></li>
-<li><a href="Chado%3A%3AAutoDBI_Presentation"
-title="Chado%3A%3AAutoDBI Presentation">Chado%3A%3AAutoDBI Presentation</a></li>
+<li><a href="Chado%253A%253AAutoDBI"
+title="Chado%253A%253AAutoDBI">Chado%253A%253AAutoDBI</a></li>
+<li><a href="Chado%253A%253AAutoDBI_Presentation"
+title="Chado%253A%253AAutoDBI Presentation">Chado%253A%253AAutoDBI Presentation</a></li>
 <li><a href="Chaos_XML" title="Chaos XML">Chaos XML</a></li>
 <li><a href="Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
 title="Comparison of XORT and Hibernate for Chado reporting">Comparison
@@ -419,10 +419,10 @@ The following 6 files are in this category, out of 6 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -456,8 +456,8 @@ The following 6 files are in this category, out of 6 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -480,7 +480,7 @@ The following 6 files are in this category, out of 6 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AChado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AChado" rel="smw-browse">Browse
   properties</a></span>
 
 

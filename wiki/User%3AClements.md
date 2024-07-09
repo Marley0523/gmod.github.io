@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AClements</span>
+# <span dir="auto">User%253AClements</span>
 
 
 
@@ -148,7 +148,7 @@ presentations.
 - *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODForIEvoBio2010.pdf"
   class="internal" title="GMODForIEvoBio2010.pdf">GMOD for Evolutionary
   Biology</a>*, presentation with [Rob
-  Buels](User%3ARobertBuels "User%3ARobertBuels") at
+  Buels](User%253ARobertBuels "User%253ARobertBuels") at
   <a href="http://ievobio.org" class="external text"
   rel="nofollow">iEvoBio 2010</a>, Portland, Oregon, June 2010.
 
@@ -164,7 +164,7 @@ presentations.
 
 - *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/PAG2010GMODProjectUpdate.pdf"
   class="internal" title="PAG2010GMODProjectUpdate.pdf">GMOD Project
-  Update</a>*, presentation with [Scott Cain](User%3AScott "User%3AScott")
+  Update</a>*, presentation with [Scott Cain](User%253AScott "User%253AScott")
   at [PAG 2010](PAG_2010 "PAG 2010"), San Diego, January 2010.
 
 <!-- -->
@@ -174,8 +174,8 @@ presentations.
   class="internal"
   title="PAG2010ComparativeGenomicsToolsInGMOD.pdf">Comparative Genomics
   Tools in GMOD</a>*, poster with [Sheldon
-  McKay](User%3AMckays "User%3AMckays"), Ken Youens-Clark, [Ben
-  Faga](User%3AFaga "User%3AFaga"), [Scott Cain](User%3AScott "User%3AScott"),
+  McKay](User%253AMckays "User%253AMckays"), Ken Youens-Clark, [Ben
+  Faga](User%253AFaga "User%253AFaga"), [Scott Cain](User%253AScott "User%253AScott"),
   at [PAG 2010](PAG_2010 "PAG 2010"), San Diego, January 2010.
 
 <!-- -->
@@ -253,8 +253,8 @@ presentations.
 - *[Comparative Genomics with GBrowse_syn: A hands on workshop for
   visualizing your syntenic data with
   GBrowse_syn](GBrowse_syn_PAG_2009_Workshop "GBrowse syn PAG 2009 Workshop")*,
-  workshop with [Sheldon McKay](User%3AMckays "User%3AMckays") and [Scott
-  Cain](User%3AScott "User%3AScott") at [PAG 2009](PAG_2009 "PAG 2009"),
+  workshop with [Sheldon McKay](User%253AMckays "User%253AMckays") and [Scott
+  Cain](User%253AScott "User%253AScott") at [PAG 2009](PAG_2009 "PAG 2009"),
   January 2009.
 
 <!-- -->
@@ -262,7 +262,7 @@ presentations.
 - *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/PAG2009NextGenSeqPoster.pdf"
   class="internal" title="PAG2009NextGenSeqPoster.pdf">Managing Next
   Generation Sequence Data with GMOD</a>, poster with [Scott
-  Cain](User%3AScott "User%3AScott"), Paul Hohenlohe, Nicholas Stiffler,
+  Cain](User%253AScott "User%253AScott"), Paul Hohenlohe, Nicholas Stiffler,
   Eric Johnson, and William Cresko, at [PAG 2009](PAG_2009 "PAG 2009"),
   January 2009.*
 
@@ -292,7 +292,7 @@ presentations.
 - *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
   class="internal" title="ChadoWorkshopArthopod2008.pdf">Chado - A
   Database Schema for Integrating Biological Data</a>*, workshop with
-  [Scott Cain](User%3AScott "User%3AScott") at the
+  [Scott Cain](User%253AScott "User%253AScott") at the
   <a href="http://www.k-state.edu/agc/symposium.shtml"
   class="external text" rel="nofollow">2nd Annual Arthropod Genomics
   Symposium</a>, April 2008.
@@ -316,13 +316,13 @@ presentations.
   class="internal"
   title="GMODToolsForComparativeGenomicsIGERTPoster.pdf">GMOD Tools for
   Comparative Genomics</a>*, poster with, David Riley, [Ben
-  Faga](User%3AFaga "User%3AFaga"), Hervé Tettelin, Sam Angiuoli, and
+  Faga](User%253AFaga "User%253AFaga"), Hervé Tettelin, Sam Angiuoli, and
   Jonathan Crabtree. Presented at the
   <a href="http://evodevo.uoregon.edu/symposium.html"
   class="external text" rel="nofollow">IGERT Symposium on Evolution,
   Development, and Genomics</a>, April 4-6, Eugene, OR. Highlights GMOD
   components particularly useful for [comparative
-  genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics"):
+  genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics"):
   [CMap](CMap.1 "CMap"), [Sybil](Sybil "Sybil"),
   [SynView](SynView "SynView"), [SynBrowse](SynBrowse "SynBrowse") and
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn").
@@ -339,7 +339,7 @@ presentations.
   class="external text" rel="nofollow">IGERT Symposium on Evolution,
   Development, and Genomics</a>, April 4-6, 2008, in Eugene OR.
   Highlights GMOD tools particularly useful for
-  [evolutionary](Category%3AEvolution "Category%3AEvolution") research:
+  [evolutionary](Category%253AEvolution "Category%253AEvolution") research:
   [GBrowse](GBrowse.1 "GBrowse"), [Apollo](Apollo.1 "Apollo"), [Pathway
   Tools](Pathway_Tools.1 "Pathway Tools"), and
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>.*
@@ -350,7 +350,7 @@ presentations.
   class="internal" title="2007GenomeInformaticsGMODPoster.pdf">Digesting
   the Genome Glut: Promoting the Use and Extension of GMOD To Emerging
   Model Organisms</a>*, poster with [Brian
-  Osborne](User%3ABosborne "User%3ABosborne"), Hilmar Lapp, Xianhua Liu, W.
+  Osborne](User%253ABosborne "User%253ABosborne"), Hilmar Lapp, Xianhua Liu, W.
   Owen McMillan, Nassib Nassar, and Todd J. Vision, at the
   <a href="http://meetings.cshl.edu/meetings/info07.shtml"
   class="external text" rel="nofollow">2007 Genome Informatics
@@ -370,9 +370,9 @@ presentations.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -406,8 +406,8 @@ presentations.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -430,7 +430,7 @@ presentations.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AClements" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AClements" rel="smw-browse">Browse
   properties</a></span>
 
 

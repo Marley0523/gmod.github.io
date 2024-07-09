@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AExternal</span>
+# <span dir="auto">Category%253AExternal</span>
 
 
 
@@ -31,11 +31,11 @@ This category has the following 2 subcategories, out of 2 total.
 
 ### M
 
-- [MySQL](Category%3AMySQL "Category%3AMySQL")
+- [MySQL](Category%253AMySQL "Category%253AMySQL")
 
 ### P
 
-- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
 
 
 
@@ -114,9 +114,9 @@ bench</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -150,8 +150,8 @@ bench</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -174,7 +174,7 @@ bench</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AExternal" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AExternal" rel="smw-browse">Browse
   properties</a></span>
 
 

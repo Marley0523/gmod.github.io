@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3APublications</span>
+# <span dir="auto">Category%253APublications</span>
 
 
 
@@ -277,9 +277,9 @@ The following 10 files are in this category, out of 10 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -313,8 +313,8 @@ The following 10 files are in this category, out of 10 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -337,7 +337,7 @@ The following 10 files are in this category, out of 10 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3APublications" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253APublications" rel="smw-browse">Browse
   properties</a></span>
 
 

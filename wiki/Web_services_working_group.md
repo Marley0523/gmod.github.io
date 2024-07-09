@@ -50,7 +50,7 @@ the various MODs.
 
 ## <span id="Members" class="mw-headline">Members</span>
 
-- [Josh Goodman](User%3AJogoodma "User%3AJogoodma") -
+- [Josh Goodman](User%253AJogoodma "User%253AJogoodma") -
   <a href="http://flybase.org" class="external text"
   rel="nofollow">FlyBase</a>
 - Robert Buels -
@@ -69,7 +69,7 @@ class="external text" rel="nofollow">GMOD-devel</a> mailing list.
 ## <span id="Links_of_interest" class="mw-headline">Links of interest</span>
 
 
-- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
+- [Semantic web](Category%253ASemantic_web "Category%253ASemantic web")
 
 
 
@@ -103,8 +103,8 @@ class="external text" rel="nofollow">GMOD-devel</a> mailing list.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

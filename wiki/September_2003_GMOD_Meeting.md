@@ -649,17 +649,17 @@ follows.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [Chado](Category%3AChado "Category%3AChado")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
-- [MGI](Category%3AMGI "Category%3AMGI")
-- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
-- [PubSearch](Category%3APubSearch "Category%3APubSearch")
-- [Textpresso](Category%3ATextpresso "Category%3ATextpresso")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [Chado](Category%253AChado "Category%253AChado")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
+- [MGI](Category%253AMGI "Category%253AMGI")
+- [Pathway Tools](Category%253APathway_Tools "Category%253APathway Tools")
+- [PubSearch](Category%253APubSearch "Category%253APubSearch")
+- [Textpresso](Category%253ATextpresso "Category%253ATextpresso")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -693,8 +693,8 @@ follows.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

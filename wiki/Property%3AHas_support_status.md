@@ -18,7 +18,7 @@
 
 
 This is a property of type
-[Text](Special%3ATypes/Text "Special%3ATypes/Text").
+[Text](Special%253ATypes/Text "Special%253ATypes/Text").
 
 The allowed values for this property are:
 
@@ -52,8 +52,8 @@ title="BLAST Graphic Viewer">BLAST Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/BLAST-20Graphic-20Viewer"
 title="Special%253ABrowse/BLAST-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="BioMart"
@@ -61,8 +61,8 @@ title="BioMart">BioMart</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/BioMart"
 title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="c">C</h3></td>
@@ -73,16 +73,16 @@ title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></t
 class="smwbrowse"><a href="Special%253ABrowse/CMap"
 title="Special%253ABrowse/CMap">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/Canto"
 title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="d">D</h3></td>
@@ -93,8 +93,8 @@ title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></t
 class="smwbrowse"><a href="Special%253ABrowse/DIYA"
 title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/inactive"
-title="Special%3ASearchByProperty/Has-20support-20status/inactive">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/inactive"
+title="Special%253ASearchByProperty/Has-20support-20status/inactive">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="g">G</h3></td>
@@ -106,8 +106,8 @@ title="GBrowse">GBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse"
 title="Special%253ABrowse/GBrowse">+</a></span></td>
 <td class="smwprops">inactive  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/inactive"
-title="Special%3ASearchByProperty/Has-20support-20status/inactive">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/inactive"
+title="Special%253ASearchByProperty/Has-20support-20status/inactive">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="GBrowse_syn.1"
@@ -115,8 +115,8 @@ title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/GBrowse-20syn"
 title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="GO_Graphic_Viewer.1"
@@ -124,17 +124,17 @@ title="GO Graphic Viewer">GO Graphic Viewer</a> <span
 class="smwbrowse"><a href="Special%253ABrowse/GO-20Graphic-20Viewer"
 title="Special%253ABrowse/GO-20Graphic-20Viewer">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="GO%3A%3ATermFinder.1"
+<td class="smwpropname"><a href="GO%253A%253ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a> <span class="smwbrowse"><a
-href="Special%253ABrowse/GO%3A%3ATermFinder"
-title="Special%253ABrowse/GO%3A%3ATermFinder">+</a></span></td>
+href="Special%253ABrowse/GO%253A%253ATermFinder"
+title="Special%253ABrowse/GO%253A%253ATermFinder">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Galaxy.1"
@@ -142,8 +142,8 @@ title="Galaxy">Galaxy</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Galaxy"
 title="Special%253ABrowse/Galaxy">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="i">I</h3></td>
@@ -155,8 +155,8 @@ title="InterMine">InterMine</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/InterMine"
 title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="j">J</h3></td>
@@ -168,8 +168,8 @@ title="JBrowse">JBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse"
 title="Special%253ABrowse/JBrowse">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="JBrowse2"
@@ -177,8 +177,8 @@ title="JBrowse2">JBrowse2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/JBrowse2"
 title="Special%253ABrowse/JBrowse2">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="m">M</h3></td>
@@ -189,8 +189,8 @@ title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></t
 class="smwbrowse"><a href="Special%253ABrowse/MAKER"
 title="Special%253ABrowse/MAKER">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="p">P</h3></td>
@@ -202,8 +202,8 @@ title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Pathway-20Tools"
 title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><h3 id="t">T</h3></td>
@@ -215,8 +215,8 @@ title="Textpresso">Textpresso</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Textpresso"
 title="Special%253ABrowse/Textpresso">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
@@ -224,8 +224,8 @@ title="Tripal">Tripal</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/Tripal"
 title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="w">W</h3></td>
@@ -237,8 +237,8 @@ title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo"
 title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
@@ -246,8 +246,8 @@ title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebApollo2"
 title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
@@ -255,8 +255,8 @@ title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
 href="Special%253ABrowse/WebGBrowse"
 title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 <tr class="even">
 <td class="smwpropname"><h3 id="x">X</h3></td>
@@ -267,8 +267,8 @@ title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></t
 class="smwbrowse"><a href="Special%253ABrowse/XORT"
 title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops">active  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20support-20status/active"
-title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20support-20status/active"
+title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -277,12 +277,12 @@ title="Special%3ASearchByProperty/Has-20support-20status/active">+</a></span></t
 
 
 </span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_support_status "Special:ExportRDF/Property:Has support status")</span></span>
+feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_support_status "Special:ExportRDF/Property:Has support status")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | active <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/active "Special%3ASearchByProperty/Allows-20value/active")</span> and inactive <span class="smwsearch">[+](Special%3ASearchByProperty/Allows-20value/inactive "Special%3ASearchByProperty/Allows-20value/inactive")</span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%3AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%3ATypes/Text "Special%3ATypes/Text") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20type/Text "Special%3ASearchByProperty/Has-20type/Text")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Allows value](Property%253AAllows_value "Property:Allows value")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | active <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/active "Special%253ASearchByProperty/Allows-20value/active")</span> and inactive <span class="smwsearch">[+](Special%253ASearchByProperty/Allows-20value/inactive "Special%253ASearchByProperty/Allows-20value/inactive")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has type](Property%253AHas_type "Property:Has type")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Text](Special%253ATypes/Text "Special%253ATypes/Text") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20type/Text "Special%253ASearchByProperty/Has-20type/Text")</span> |
 
 
 
@@ -316,8 +316,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_support_status "Spec
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -340,7 +340,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_support_status "Spec
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_support_status"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%253AHas_support_status"
   rel="smw-browse">Browse properties</a></span>
 
 

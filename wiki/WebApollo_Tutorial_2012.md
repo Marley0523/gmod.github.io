@@ -18,7 +18,7 @@
 
 
 This [WebApollo](WebApollo.1 "WebApollo") tutorial was presented by [Ed
-Lee](User%3AElee "User%3AElee") at the [2012 GMOD Summer
+Lee](User%253AElee "User%253AElee") at the [2012 GMOD Summer
 School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -1324,12 +1324,12 @@ Now have fun annotating!!!
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
+- [Webapollo](Category%253AWebapollo "Category%253AWebapollo")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -1340,7 +1340,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:Ex
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/WebApollo "Special%3ASearchByProperty/Has-20topic/WebApollo")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [WebApollo](WebApollo.1 "WebApollo") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/WebApollo "Special%253ASearchByProperty/Has-20topic/WebApollo")</span> |
 
 
 
@@ -1374,8 +1374,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo_Tutorial_2012 "Special:Ex
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -18,7 +18,7 @@
 
 
 This [GFF3](../GFF3 "GFF3") tutorial was presented by [Michael
-Campbell](../User%3AMichael_Campbell "User%3AMichael Campbell") at [GMOD
+Campbell](../User%253AMichael_Campbell "User%253AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014.
 
@@ -34,11 +34,11 @@ This tutorial uses the AWS AMI ' ***named '*** in the '
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](../Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](../Category%253ATutorials "Category%253ATutorials")
 
-- [GMOD Schools](../Category%3AGMOD_Schools "Category%3AGMOD Schools")
+- [GMOD Schools](../Category%253AGMOD_Schools "Category%253AGMOD Schools")
 
 
 
@@ -49,7 +49,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/GFF3_Tutorial "S
 
 |  |  |
 |----|----|
-| [Has topic](../Property%3AHas_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special%3ASearchByProperty/Has-20topic/GFF3 "Special%3ASearchByProperty/Has-20topic/GFF3")</span> |
+| [Has topic](../Property%253AHas_topic "Property:Has topic") | [GFF3](../GFF3 "GFF3") <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20topic/GFF3 "Special%253ASearchByProperty/Has-20topic/GFF3")</span> |
 
 
 
@@ -88,8 +88,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

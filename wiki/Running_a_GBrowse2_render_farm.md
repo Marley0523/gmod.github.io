@@ -17,7 +17,7 @@
 
 
 
-[GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2") can be configured
+[GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2") can be configured
 to use one or more "render slave" daemons. A render slave is a small
 Perl process that runs in the background, processing requests to render
 GBrowse tracks. By distributing several render slaves across one or more
@@ -413,9 +413,9 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
 
 
 
@@ -449,8 +449,8 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

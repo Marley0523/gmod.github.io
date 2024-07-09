@@ -19,7 +19,7 @@
 
 This walks you through setting up and running a
 [Galaxy](Galaxy.1 "Galaxy") server. This tutorial was originally taught
-by [Dave Clements](User%3AClements "User%3AClements") at the [2012 GMOD
+by [Dave Clements](User%253AClements "User%253AClements") at the [2012 GMOD
 Summer School](2012_GMOD_Summer_School "2012 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -675,12 +675,12 @@ column BED file with the repeat count in column 5, the score column.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
 
 
 
@@ -714,8 +714,8 @@ column BED file with the repeat count in column 5, the score column.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

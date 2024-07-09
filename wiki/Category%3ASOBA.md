@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ASOBA</span>
+# <span dir="auto">Category%253ASOBA</span>
 
 
 
@@ -37,7 +37,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -129,8 +129,8 @@ title="Template:TutorialList">Template:TutorialList</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -153,7 +153,7 @@ title="Template:TutorialList">Template:TutorialList</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ASOBA" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ASOBA" rel="smw-browse">Browse
   properties</a></span>
 
 

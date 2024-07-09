@@ -19,11 +19,11 @@
 
 What glyphs? Mine don't look like example (heatmap not histogram). Is
 example wrong? is settings missing? What?
---[DanBolser](User%3ADanBolser "User%3ADanBolser") 10:34, 4 May 2011 (UTC)
+--[DanBolser](User%253ADanBolser "User%253ADanBolser") 10:34, 4 May 2011 (UTC)
 
 - Hi Dan, you should get a density plot/heatmap. Can you please point
   out where there is an example with a histogram so it can be fixed?
-  Thanks, [Scott](User%3AScott "User%3AScott") 13:42, 4 May 2011 (UTC)
+  Thanks, [Scott](User%253AScott "User%253AScott") 13:42, 4 May 2011 (UTC)
 
 
 
@@ -39,7 +39,7 @@ example wrong? is settings missing? What?
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AChado_GBrowse_Summary_View" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AChado_GBrowse_Summary_View" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -63,8 +63,8 @@ example wrong? is settings missing? What?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

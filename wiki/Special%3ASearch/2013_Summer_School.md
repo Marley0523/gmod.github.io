@@ -114,7 +114,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%253AScott\|Scott Cain\]\] as part of the
   \[\[2012 GMOD <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\].
 
@@ -292,7 +292,7 @@ School</a>" on this wiki!** See also the search results found.
   
 
   \#REDIRECT \[\[JBrowse Tutorial
-  <span class="searchmatch">2013</span>\]\] \[\[Category%3A2012
+  <span class="searchmatch">2013</span>\]\] \[\[Category%253A2012
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -416,7 +416,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...User%3ARobertBuels\|Robert Buels\]\] at the
+  ...User%253ARobertBuels\|Robert Buels\]\] at the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\] in July
@@ -486,9 +486,9 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  \[\[Category%3A2012 <span class="searchmatch">Summer</span>
+  \[\[Category%253A2012 <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
-  \[\[Category%3A<span class="searchmatch">2013</span>
+  \[\[Category%253A<span class="searchmatch">2013</span>
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -534,7 +534,7 @@ School</a>" on this wiki!** See also the search results found.
   If you are <span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>, you are on the wrong
-  tutorial.\<br\> ...taught by \[\[User%3AMckays\|Sheldon McKay\]\] as
+  tutorial.\<br\> ...taught by \[\[User%253AMckays\|Sheldon McKay\]\] as
   part of the \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\].
@@ -560,7 +560,7 @@ School</a>" on this wiki!** See also the search results found.
   <span class="searchmatch">School</span>\]\] and the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
-  <span class="searchmatch">School</span>\]\]. \[\[Category%3A2012
+  <span class="searchmatch">School</span>\]\]. \[\[Category%253A2012
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]
 
@@ -733,7 +733,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...ill be taught by \[\[User%3AClements\|Dave Clements\]\] at the
+  ...ill be taught by \[\[User%253AClements\|Dave Clements\]\] at the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Get the starting image
@@ -757,7 +757,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%253AScott\|Scott Cain\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Or six years of
@@ -780,7 +780,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...s presented by \[\[User%3AScott\|Scott Cain\]\] as part of the
+  ...s presented by \[\[User%253AScott\|Scott Cain\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. Or six years of
@@ -826,7 +826,7 @@ School</a>" on this wiki!** See also the search results found.
 
   
 
-  ...taught by \[\[User%3AMckays\|Sheldon McKay\]\] as part of the
+  ...taught by \[\[User%253AMckays\|Sheldon McKay\]\] as part of the
   \[\[<span class="searchmatch">2013</span> GMOD
   <span class="searchmatch">Summer</span>
   <span class="searchmatch">School</span>\]\]. The starting image for
@@ -1001,7 +1001,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/2013_Summer_School "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/2013_Summer_School "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -1024,8 +1024,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

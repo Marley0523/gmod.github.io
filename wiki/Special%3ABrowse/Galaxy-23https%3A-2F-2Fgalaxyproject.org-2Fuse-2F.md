@@ -22,25 +22,25 @@
 |----|----|
 | <a
 href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Fully supported, publicly accessible platforms for using Galaxy  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy "Special%3ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy")</span></span> |
+class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Fully supported, publicly accessible platforms for using Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy "Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
 class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktopic/Galaxy "Special%3ASearchByProperty/Linktopic/Galaxy")</span></span> |
-| [Linktype](/wiki/Property%3ALinktype "Property%3ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linktype/public-20server "Special%3ASearchByProperty/Linktype/public-20server")</span></span> |
+title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Galaxy "Special%253ASearchByProperty/Linktopic/Galaxy")</span></span> |
+| [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/public-20server "Special%253ASearchByProperty/Linktype/public-20server")</span></span> |
 | <a
 href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://galaxyproject.org/use/  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F "Special%3ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F")</span></span> |
+class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://galaxyproject.org/use/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Galaxy%23https%3A%2F%2Fgalaxyproject.org%2Fuse%2F)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Galaxy%23https%253A%2F%2Fgalaxyproject.org%2Fuse%2F)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%253AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Galaxy-23https%3A-2F-2Fgalaxyproject.org-2Fuse-2F "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Galaxy-23https%253A-2F-2Fgalaxyproject.org-2Fuse-2F "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -90,8 +90,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

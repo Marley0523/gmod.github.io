@@ -114,11 +114,11 @@ Your cool plugin described here...
 
 
 
-[Categories](/wiki/Special%3ACategories "Special%3ACategories"):
+[Categories](/wiki/Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse](/wiki/Category%253AGBrowse "Category%253AGBrowse")
 - [GBrowse
-  Plugins](/wiki/Category%3AGBrowse_Plugins "Category%3AGBrowse Plugins")
+  Plugins](/wiki/Category%253AGBrowse_Plugins "Category%253AGBrowse Plugins")
 
 
 
@@ -154,8 +154,8 @@ Your cool plugin described here...
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AAlexkalderimis</span>
+# <span dir="auto">User%253AAlexkalderimis</span>
 
 
 
@@ -51,9 +51,9 @@ projects work easily together.
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AAlexkalderimis" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253AAlexkalderimis" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AAlexkalderimis" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AAlexkalderimis" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -77,8 +77,8 @@ projects work easily together.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -101,7 +101,7 @@ projects work easily together.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AAlexkalderimis" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AAlexkalderimis" rel="smw-browse">Browse
   properties</a></span>
 
 

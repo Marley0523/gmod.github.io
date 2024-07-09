@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AConferences</span>
+# <span dir="auto">Category%253AConferences</span>
 
 
 
@@ -58,12 +58,12 @@ Promotion</a></li>
 <ul>
 <li><a href="News/Biocuration_2014"
 title="News/Biocuration 2014">News/Biocuration 2014</a></li>
-<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date"
+<li><a href="News/GMOD_2014_San_Diego%253A_Save_the_Date"
 title="News/GMOD 2014 San Diego: Save the Date">News/GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/GMOD_at_PAG_XXI"
 title="News/GMOD at PAG XXI">News/GMOD at PAG XXI</a></li>
-<li><a href="News/ISMB_2013%3A_Automated_Function_Prediction"
+<li><a href="News/ISMB_2013%253A_Automated_Function_Prediction"
 title="News/ISMB 2013: Automated Function Prediction">News/ISMB 2013:
 Automated Function Prediction</a></li>
 </ul>
@@ -327,9 +327,9 @@ The following 10 files are in this category, out of 10 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Events](Category%3AEvents "Category%3AEvents")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -363,8 +363,8 @@ The following 10 files are in this category, out of 10 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -387,7 +387,7 @@ The following 10 files are in this category, out of 10 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AConferences" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AConferences" rel="smw-browse">Browse
   properties</a></span>
 
 

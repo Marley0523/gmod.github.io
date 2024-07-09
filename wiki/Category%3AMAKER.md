@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AMAKER</span>
+# <span dir="auto">Category%253AMAKER</span>
 
 
 
@@ -26,7 +26,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -57,7 +57,7 @@ Tutorial</a></li>
 </ul>
 <h3 id="l">L</h3>
 <ul>
-<li><a href="Talk%3ALinux_Text_Editors"
+<li><a href="Talk%253ALinux_Text_Editors"
 title="Talk:Linux Text Editors">Talk:Linux Text Editors</a></li>
 </ul>
 <h3 id="m">M</h3>
@@ -86,7 +86,7 @@ data</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/MAKER-P%3A_an_annotation_pipeline_for_plants"
+<li><a href="News/MAKER-P%253A_an_annotation_pipeline_for_plants"
 title="News/MAKER-P: an annotation pipeline for plants">News/MAKER-P: an
 annotation pipeline for plants</a></li>
 </ul>
@@ -210,10 +210,10 @@ The following 4 files are in this category, out of 4 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -247,8 +247,8 @@ The following 4 files are in this category, out of 4 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -271,7 +271,7 @@ The following 4 files are in this category, out of 4 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AMAKER" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AMAKER" rel="smw-browse">Browse
   properties</a></span>
 
 

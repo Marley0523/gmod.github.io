@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AEvolution</span>
+# <span dir="auto">Category%253AEvolution</span>
 
 
 
@@ -18,7 +18,7 @@
 
 
 See also the [Comparative
-Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
+Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 category.
 
 
@@ -30,7 +30,7 @@ The following 3 pages are in this category, out of 3 total.
 
 ### B
 
-- [User%3ABrianfoley](User%3ABrianfoley "User%3ABrianfoley")
+- [User%253ABrianfoley](User%253ABrianfoley "User%253ABrianfoley")
 
 ### C
 
@@ -241,9 +241,9 @@ The following 8 files are in this category, out of 8 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Biology](Category%3ABiology "Category%3ABiology")
+- [Biology](Category%253ABiology "Category%253ABiology")
 
 
 
@@ -277,8 +277,8 @@ The following 8 files are in this category, out of 8 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -301,7 +301,7 @@ The following 8 files are in this category, out of 8 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AEvolution" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AEvolution" rel="smw-browse">Browse
   properties</a></span>
 
 

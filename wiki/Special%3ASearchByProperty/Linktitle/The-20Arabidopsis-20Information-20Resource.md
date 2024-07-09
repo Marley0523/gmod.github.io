@@ -15,11 +15,11 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "The Arabidopsis Information Resource"  
 
 - [GBrowse
-  syn#http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501](/wiki/GBrowse_syn#http:.2F.2Fwww.arabidopsis.org.2Fcgi-bin.2Fgbrowse_syn.2Farabidopsis.2F.3Fname.3DChr1.253A8367000..8370501 "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn-23http:-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname%3DChr1-253A8367000..8370501 "Special%253ABrowse/GBrowse-20syn-23http:-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501")</span>
+  syn#http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%253A8367000..8370501](/wiki/GBrowse_syn#http:.2F.2Fwww.arabidopsis.org.2Fcgi-bin.2Fgbrowse_syn.2Farabidopsis.2F.3Fname.3DChr1.253A8367000..8370501 "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn-23http:-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse_syn-2Farabidopsis-2F-3Fname%3DChr1-253A8367000..8370501 "Special%253ABrowse/GBrowse-20syn-23http:-2F-2Fwww.arabidopsis.org-2Fcgi-2Dbin-2Fgbrowse syn-2Farabidopsis-2F-3Fname=Chr1-253A8367000..8370501")</span>
 
  
 
@@ -39,7 +39,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/The-20Arabidopsis-20Information-20Resource "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/The-20Arabidopsis-20Information-20Resource "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -65,8 +65,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

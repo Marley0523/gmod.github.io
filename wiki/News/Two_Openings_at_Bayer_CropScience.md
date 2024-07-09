@@ -68,7 +68,7 @@ rel="nofollow">here</a> or send your CV to
 <a href="mailto:Laurent.viau@bayercropscience.com" class="external text"
 rel="nofollow">Laurent Viau</a>
 
-[Erick Antezana](../User%3AErickAntezana "User%3AErickAntezana")
+[Erick Antezana](../User%253AErickAntezana "User%253AErickAntezana")
 
   
 
@@ -81,9 +81,9 @@ rel="nofollow">Laurent Viau</a>
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -122,8 +122,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

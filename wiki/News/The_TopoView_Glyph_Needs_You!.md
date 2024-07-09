@@ -26,12 +26,12 @@ height="123" alt="TopoView from FlyBase" />](../File:Flybase_topoview.pdf "TopoV
 
 [TopoView](../File:Flybase_topoview.pdf "File:Flybase topoview.pdf") is
 a [GBrowse](../GBrowse.1 "GBrowse") glyph created by Victor Strelets at
-[FlyBase](../Category%3AFlyBase "Category%3AFlyBase") to show large amounts
+[FlyBase](../Category%253AFlyBase "Category%253AFlyBase") to show large amounts
 of quantitative data in limited screen space. TopoView does this with a
 3D plot, showing each new set of data just below and offset from the
 previous data set. It was developed to display RNA-Seq data.
 
-[Josh Goodman](../User%3AJogoodma "User%3AJogoodma")
+[Josh Goodman](../User%253AJogoodma "User%253AJogoodma")
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf"
 class="internal" title="Flybase topoview.pdf">presented</a> TopoView at
 the [January 2010 GMOD
@@ -54,7 +54,7 @@ this out there.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -68,9 +68,9 @@ Thanks,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -109,8 +109,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

@@ -425,7 +425,7 @@ There is no set maximum number of tracks. As of about GBrowse 2.13,
 GBrowse works with more than 1,000 tracks. From this <a
 href="http://gmod.827538.n3.nabble.com/http://gmod.827538.n3.nabble.com/Turn-some-Wiggle-tracks-off-when-no-value-in-selected-region-tp946842p946842.html"
 class="external text" rel="nofollow">email thread (Kai Xia, 2010/07</a>,
-[Lincoln Stein](User%3ALstein "User%3ALstein") said:
+[Lincoln Stein](User%253ALstein "User%253ALstein") said:
 
 
 
@@ -447,10 +447,10 @@ have no data currently showing.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [FAQ](Category%3AFAQ "Category%3AFAQ")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [FAQ](Category%253AFAQ "Category%253AFAQ")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
 
 
@@ -484,8 +484,8 @@ have no data currently showing.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -141,7 +141,7 @@ years of the web. AJAX stands for Asynchronous Javascript and
 
 See Also:
 
-- [Category%3AAJAX](Category%3AAJAX "Category%3AAJAX")
+- [Category%253AAJAX](Category%253AAJAX "Category%253AAJAX")
 
 ### <span id="API" class="mw-headline">API</span>
 
@@ -182,7 +182,7 @@ See also
 
 - <a href="http://www.w3.org/Style/CSS/" class="external text"
   rel="nofollow">CSS Home Page @ W3C</a>
-- [MediaWiki%3ACommon.css](MediaWiki%3ACommon.css "MediaWiki%3ACommon.css") -
+- [MediaWiki%253ACommon.css](MediaWiki%253ACommon.css "MediaWiki%253ACommon.css") -
   Extensions to MediaWiki's default CSS that we have made on this web
   site.
 
@@ -433,7 +433,7 @@ encountered in GMOD primarily as a language to construct user interfaces
 
 See also:
 
-- [Category%3AJava](Category%3AJava "Category%3AJava") - GMOD pages tagged as
+- [Category%253AJava](Category%253AJava "Category%253AJava") - GMOD pages tagged as
   related to Java.
 
 ### <span id="JRE" class="mw-headline">JRE</span>
@@ -462,7 +462,7 @@ See also:
 
 - [Computing
   Requirements](Computing_Requirements "Computing Requirements")
-- [Category%3ALinux](Category%3ALinux "Category%3ALinux") - List of GMOD pages
+- [Category%253ALinux](Category%253ALinux "Category%253ALinux") - List of GMOD pages
   tagged as related to Linux.
 
 ### <span id="Middleware" class="mw-headline">Middleware</span>
@@ -474,7 +474,7 @@ does not work.
 
 See also:
 
-- [Category%3AMiddleware](Category%3AMiddleware "Category%3AMiddleware") -
+- [Category%253AMiddleware](Category%253AMiddleware "Category%253AMiddleware") -
   List of GMOD pages tagged as related to middleware.
 
 ### <span id="Object-Relational_Mapping" class="mw-headline">Object-Relational Mapping</span>
@@ -532,7 +532,7 @@ See also:
   Home Page</a>
 - <a href="http://cpan.perl.org/" class="external text"
   rel="nofollow">Perl's open source library repository.</a>
-- [Category%3APerl](Category%3APerl "Category%3APerl") - GMOD pages tagged as
+- [Category%253APerl](Category%253APerl "Category%253APerl") - GMOD pages tagged as
   related to Perl.
 
 ### <span id="RDBMS" class="mw-headline">RDBMS</span>
@@ -616,7 +616,7 @@ See Also:
 *Unix* is a group of [operating systems](#Operating_System) that are
 descended from the original Unix operating system developed in the
 1970s. This includes Solaris, HP-UX, [Linux](#Linux), [Mac OS
-X](Category%3AMac_OS_X "Category%3AMac OS X"), and many others.
+X](Category%253AMac_OS_X "Category%253AMac OS X"), and many others.
 
 ### <span id="XML" class="mw-headline">XML</span>
 
@@ -626,16 +626,16 @@ has a much tighter syntax than does HTML.
 
 See also:
 
-- [Category%3AXML](Category%3AXML "Category%3AXML")
+- [Category%253AXML](Category%253AXML "Category%253AXML")
 - [XORT](XORT.1 "XORT")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Help](Category%253AHelp "Category%253AHelp")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -669,8 +669,8 @@ See also:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

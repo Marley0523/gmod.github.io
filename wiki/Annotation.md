@@ -19,7 +19,7 @@
 
 Supporting annotation of biological data is a central goal of GMOD.
 Annotation can be done computationally or manually using [community
-annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
 or by <a href="http://biocurator.org/" class="external text"
 rel="nofollow">dedicated curatorial staff</a>.
 
@@ -83,7 +83,7 @@ First line of the [MAKER](MAKER.1 "MAKER") paper.
 ## <span id="Community_Annotation" class="mw-headline">Community Annotation</span>
 
 [Community
-annotation](Category%3ACommunity_Annotation "Category%3ACommunity Annotation")
+annotation](Category%253ACommunity_Annotation "Category%253ACommunity Annotation")
 is an area of growing interest to the GMOD community.
 
 - [Apollo](Apollo.1 "Apollo") is used in several community annotation
@@ -98,10 +98,10 @@ is an area of growing interest to the GMOD community.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -135,8 +135,8 @@ is an area of growing interest to the GMOD community.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -3157,10 +3157,10 @@ If you are using the default Tripal view
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tripal](Category%3ATripal "Category%3ATripal")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tripal](Category%253ATripal "Category%253ATripal")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -3194,8 +3194,8 @@ If you are using the default Tripal view
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -558,7 +558,7 @@ sites, for example:
   <a href="http://www.biokao.com/gviewer.html" class="external free"
   rel="nofollow">http://www.biokao.com/gviewer.html</a>
 - Boston University
-  [Phenotype](Category%3APhenotypes "Category%3APhenotypes") Browser
+  [Phenotype](Category%253APhenotypes "Category%253APhenotypes") Browser
   <a href="http://gmed.bu.edu/" class="external free"
   rel="nofollow">http://gmed.bu.edu/</a>
 - Apropos annotation tool
@@ -710,20 +710,20 @@ rel="nofollow">TAIR site</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [Chado](Category%3AChado "Category%3AChado")
-- [CMap](Category%3ACMap "Category%3ACMap")
-- [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
-- [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [Modware](Category%3AModware "Category%3AModware")
-- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
-- [RGD](Category%3ARGD "Category%3ARGD")
-- [TAIR](Category%3ATAIR "Category%3ATAIR")
-- [Textpresso](Category%3ATextpresso "Category%3ATextpresso")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [Chado](Category%253AChado "Category%253AChado")
+- [CMap](Category%253ACMap "Category%253ACMap")
+- [DictyBase](Category%253ADictyBase "Category%253ADictyBase")
+- [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [Modware](Category%253AModware "Category%253AModware")
+- [Pathway Tools](Category%253APathway_Tools "Category%253APathway Tools")
+- [RGD](Category%253ARGD "Category%253ARGD")
+- [TAIR](Category%253ATAIR "Category%253ATAIR")
+- [Textpresso](Category%253ATextpresso "Category%253ATextpresso")
 
 
 
@@ -757,8 +757,8 @@ rel="nofollow">TAIR site</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

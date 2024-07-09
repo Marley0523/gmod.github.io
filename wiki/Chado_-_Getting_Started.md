@@ -39,7 +39,7 @@ Resources
 - [Modules](Chado_Modules "Chado Modules")
 - <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
   class="external text" rel="nofollow">Mailing List</a>
-- [Tagged](Category%3AChado "Category%3AChado")
+- [Tagged](Category%253AChado "Category%253AChado")
 - <a href="../extras/2008GMODCommunitySurvey.html#Chado"
   class="external text" rel="nofollow">2008 Survey</a>
 
@@ -197,7 +197,7 @@ data in Chado.
 |----|----|----|----|
 |  | Mailing List Link | Description | Archive(s) |
 | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
-class="external text" rel="nofollow">gmod-schema</a> | All issues regarding <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI"), and [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
+class="external text" rel="nofollow">gmod-schema</a> | All issues regarding <a href="Chado" class="mw-redirect" title="Chado">Chado</a>, [Chado%253A%253AAutoDBI](Chado%253A%253AAutoDBI "Chado%253A%253AAutoDBI"), and [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") | <a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
 class="external text" rel="nofollow">Gmane</a>, <a href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"
 class="external text" rel="nofollow">Nabble (2010/05+)</a>, <a
 href="http://sourceforge.net/mailarchive/forum.php?forum_name=gmod-schema"
@@ -216,12 +216,12 @@ title="Chado.mp3">like this</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
-- [Chado](Category%3AChado "Category%3AChado")
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -255,8 +255,8 @@ title="Chado.mp3">like this</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

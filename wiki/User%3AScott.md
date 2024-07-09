@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AScott</span>
+# <span dir="auto">User%253AScott</span>
 
 
 
@@ -29,7 +29,7 @@ culture and cell cycle modifications. Upon earning his Ph. D. in
 Chemical Engineering, he began work in the software industry, working
 for MSI/Accelrys, Pangea Systems/DoubleTwist, and Athersys, until
 finally coming to rest at Cold Spring Harbor Laboratory in [Lincoln
-Stein's](User%3ALstein "User%3ALstein") lab, following Lincoln to
+Stein's](User%253ALstein "User%253ALstein") lab, following Lincoln to
 <a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">OICR</a> several years ago. He is the coordinator and a
 lead developer of the [GMOD project](Main_Page "Main Page"), focusing
@@ -65,9 +65,9 @@ alt="100 5955 1.jpg" />
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AScott" accesskey="c" title="View the user page [c]">User
+- <span id="ca-nstab-user"><a href="User%253AScott" accesskey="c" title="View the user page [c]">User
   page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AScott" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AScott" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -91,8 +91,8 @@ alt="100 5955 1.jpg" />
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -115,7 +115,7 @@ alt="100 5955 1.jpg" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AScott" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AScott" rel="smw-browse">Browse
   properties</a></span>
 
 

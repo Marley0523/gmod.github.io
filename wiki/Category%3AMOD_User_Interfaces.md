@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AMOD User Interfaces</span>
+# <span dir="auto">Category%253AMOD User Interfaces</span>
 
 
 
@@ -35,7 +35,7 @@ This category has only the following subcategory.
 ### M
 
 - [MOD UI
-  Presentations](Category%3AMOD_UI_Presentations "Category%3AMOD UI Presentations")
+  Presentations](Category%253AMOD_UI_Presentations "Category%253AMOD UI Presentations")
 
 
 
@@ -67,10 +67,10 @@ Page</a></li>
 title="Face Caucus ApiDB: User Studies and Impact on Development">Face
 Caucus ApiDB: User Studies and Impact on Development</a></li>
 <li><a
-href="Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
+href="Face_Caucus_SGN%253A_Associating_Solanaceae_loci_with_phenotype"
 title="Face Caucus SGN: Associating Solanaceae loci with phenotype">Face
 Caucus SGN: Associating Solanaceae loci with phenotype</a></li>
-<li><a href="Face_Caucus_UCSC%3A_User_Interface_Issues"
+<li><a href="Face_Caucus_UCSC%253A_User_Interface_Issues"
 title="Face Caucus UCSC: User Interface Issues">Face Caucus UCSC: User
 Interface Issues</a></li>
 </ul></td>
@@ -97,7 +97,7 @@ Participants</a></li>
 <ul>
 <li><a href="MOD_User_Interface_Caucus"
 title="MOD User Interface Caucus">MOD User Interface Caucus</a></li>
-<li><a href="MOD_User_Interfaces%3A_outline_of_topics"
+<li><a href="MOD_User_Interfaces%253A_outline_of_topics"
 title="MOD User Interfaces: outline of topics">MOD User Interfaces:
 outline of topics</a></li>
 <li><a
@@ -123,9 +123,9 @@ User Interfaces: Sample of several MOD Top Level functions</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -159,8 +159,8 @@ User Interfaces: Sample of several MOD Top Level functions</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -183,7 +183,7 @@ User Interfaces: Sample of several MOD Top Level functions</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AMOD_User_Interfaces"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AMOD_User_Interfaces"
   rel="smw-browse">Browse properties</a></span>
 
 

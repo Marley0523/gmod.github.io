@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AChado Presentations</span>
+# <span dir="auto">Category%253AChado Presentations</span>
 
 
 
@@ -572,10 +572,10 @@ The following 23 files are in this category, out of 23 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Presentations](Category%3APresentations "Category%3APresentations")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Presentations](Category%253APresentations "Category%253APresentations")
 
 
 
@@ -609,8 +609,8 @@ The following 23 files are in this category, out of 23 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -633,7 +633,7 @@ The following 23 files are in this category, out of 23 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AChado_Presentations"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AChado_Presentations"
   rel="smw-browse">Browse properties</a></span>
 
 

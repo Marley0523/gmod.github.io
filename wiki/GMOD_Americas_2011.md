@@ -322,7 +322,7 @@ While Duke Tower provides most things, they don't provide shampoo, so
 bring your own.
 
 There are also <a
-href="http://www.hotels.com/search/searchmap.html?viewType=MAP&amp;resolvedLocation=pointLocation%3A2284+W+Main+St%2C+Durham%2C+NC+27705%2C+USA%7C36.0069344%7C-78.9256343%3AGEOCODE%3AHIGH&amp;priceFilterMultiplier=1&amp;destinationName=2024+W+Main+St%2C+Durhm%2C+NC&amp;arrivalDate=03%2F04%2F11&amp;departureDate=03%2F08%2F11&amp;asaReport=SearchResultPage%3A%3ANoSuggest&amp;queryFormState=CLOSED&amp;searchParams.needPossibleResults=true&amp;activeTab=DESTINATION&amp;page=1"
+href="http://www.hotels.com/search/searchmap.html?viewType=MAP&amp;resolvedLocation=pointLocation%253A2284+W+Main+St%2C+Durham%2C+NC+27705%2C+USA%7C36.0069344%7C-78.9256343%253AGEOCODE%253AHIGH&amp;priceFilterMultiplier=1&amp;destinationName=2024+W+Main+St%2C+Durhm%2C+NC&amp;arrivalDate=03%2F04%2F11&amp;departureDate=03%2F08%2F11&amp;asaReport=SearchResultPage%253A%253ANoSuggest&amp;queryFormState=CLOSED&amp;searchParams.needPossibleResults=true&amp;activeTab=DESTINATION&amp;page=1"
 class="external text" rel="nofollow">several other lodging options</a>
 in the area.
 
@@ -430,7 +430,7 @@ Help spread the word about GMOD Americas 2011 events by posting and
 distributing [this
 flier](File:GMODAmericas2011Flier.pdf "File:GMODAmericas2011Flier.pdf"),
 or the [event
-announcements](GMOD_News#GMOD_Spring_Training%3A_Apply_Now "GMOD News") to
+announcements](GMOD_News#GMOD_Spring_Training%253A_Apply_Now "GMOD News") to
 your communities, mailing lists, and organizations.
 
 There are many organizations out there that are struggling to cope with
@@ -454,9 +454,9 @@ exploit their data.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Events](Category%3AEvents "Category%3AEvents")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -490,8 +490,8 @@ exploit their data.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

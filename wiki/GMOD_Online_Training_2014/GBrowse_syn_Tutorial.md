@@ -18,7 +18,7 @@
 
 
 This tutorial on [GBrowse syn](../GBrowse_syn.1 "GBrowse syn") was
-taught by [Sheldon McKay](../User%3AMckays "User%3AMckays") as part of the
+taught by [Sheldon McKay](../User%253AMckays "User%253AMckays") as part of the
 [GMOD_Online_Training_2014](../GMOD_Online_Training_2014.1 "GMOD Online Training 2014").
 
 The starting image for this tutorial is **GMOD 2014 online school -
@@ -90,8 +90,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

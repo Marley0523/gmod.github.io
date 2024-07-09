@@ -94,7 +94,7 @@ to the following paper when citing GBrowse_syn:
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d4/GBrowse_syn_EBI2009.pdf"
 class="internal" title="GBrowse syn EBI2009.pdf">Challenges in
 Comparative Genome Browsing</a> - Presented by [Sheldon
-McKay](../User%3AMckays "User%3AMckays") at the
+McKay](../User%253AMckays "User%253AMckays") at the
 <a href="http://www.ebi.ac.uk" class="external text"
 rel="nofollow">European Bioinformatics Institute</a>, Hinxton, UK.
 
@@ -108,11 +108,11 @@ background reading is listed below:
 
 
 - [GMOD in the
-  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
+  Cloud](../Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
-- [GBrowse syn](../Category%3AGBrowse_syn "Category%3AGBrowse syn")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
+- [GBrowse syn](../Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -149,8 +149,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

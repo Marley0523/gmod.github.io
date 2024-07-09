@@ -36,7 +36,7 @@ rel="nofollow">Scott Cain</a>.
 
 - [GBrowse](GBrowse.1 "GBrowse") update
 - [CMap](CMap.1 "CMap") update
-- [Mouse Genome Informatics](Category%3AMGI "Category%3AMGI") update
+- [Mouse Genome Informatics](Category%253AMGI "Category%253AMGI") update
 - Update from Gavin Sherlock's group (working with microarray data)
 - [PubFetch](PubFetch "PubFetch") and PubTrack update
 - [PubSearch](PubSearch "PubSearch") update
@@ -46,15 +46,15 @@ rel="nofollow">Scott Cain</a>.
 - <a href="Chado" class="mw-redirect" title="Chado">Chado</a> summary
 - <a href="Chado" class="mw-redirect" title="Chado">Chado</a> discussion
 - [Chado XML](Chado_XML "Chado XML") uses
-- [SGD](Category%3ASGD "Category%3ASGD")
+- [SGD](Category%253ASGD "Category%253ASGD")
 - [Textpresso](Textpresso "Textpresso")
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -88,8 +88,8 @@ rel="nofollow">Scott Cain</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

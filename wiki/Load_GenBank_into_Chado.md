@@ -41,7 +41,7 @@
 
 ## <span id="Abstract" class="mw-headline">Abstract</span>
 
-This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes how to load
+This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes how to load
 GenBank format files into
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>. For a
 thorough discussion of this topic, including all the files that will
@@ -179,17 +179,17 @@ these errors by hand and reload.
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Don Gilbert](User%3ADongilbert "User%3ADongilbert")
+- [Don Gilbert](User%253ADongilbert "User%253ADongilbert")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Chado](Category%3AChado "Category%3AChado")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -223,8 +223,8 @@ these errors by hand and reload.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

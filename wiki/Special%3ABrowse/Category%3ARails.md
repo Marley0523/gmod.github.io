@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ARails&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ARails&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ARails (page does not exist)">Category%3ARails</a> |  |
+title="Category%253ARails (page does not exist)">Category%253ARails</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3ARails (page does not exist)">Category%3ARails</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ARails)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ARails)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20on-20Rails "Special%253ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20on-20Rails "Special%253ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ARails "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ARails "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

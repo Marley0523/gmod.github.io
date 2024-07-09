@@ -31,18 +31,18 @@ fold:
 2.  The URL for the RSS news feed has changed, though mod_rewrite is
     being used on the server to transparently translate requests for the
     old feed into the new one. The URL for the new News feed is <a
-    href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=50&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
+    href="http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=50&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
     class="external free"
-    rel="nofollow">http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=50&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed</a>
+    rel="nofollow">http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=50&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed</a>
 
 The procedure for creating a news entry is described at the [bottom of
 the News page](../GMOD_News#Adding_a_News_Item "GMOD News").
 
 I would like to sincerely thank [Dave
-Clements](../User%3AClements "User%3AClements") for his considerable help
+Clements](../User%253AClements "User%253AClements") for his considerable help
 getting this new News page and feed set up.
 
-[Scott Cain](../User%3AScott "User%3AScott")
+[Scott Cain](../User%253AScott "User%253AScott")
 
   
 
@@ -55,9 +55,9 @@ getting this new News page and feed set up.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -96,8 +96,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

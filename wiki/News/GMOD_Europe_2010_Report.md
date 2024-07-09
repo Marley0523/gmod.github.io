@@ -115,10 +115,10 @@ Bioinformatics Training Facility</a> for sponsoring and hosting the
 [GMOD Europe 2010](../GMOD_Europe_2010 "GMOD Europe 2010") events. I
 would also like to heap copious gratitude on Gos Micklem, Shelley
 Lawson, Dave Judge, Xose Fernandez, Syed Haider, and [Richard
-Smith](../User%3ARsmith "User%3ARsmith") for their work on making this event
+Smith](../User%253ARsmith "User%253ARsmith") for their work on making this event
 happen.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -132,9 +132,9 @@ happen.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -173,8 +173,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

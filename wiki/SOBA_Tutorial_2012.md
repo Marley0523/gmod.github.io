@@ -151,12 +151,12 @@ SOBAcl --columns file   --rows type --data length --data_type mean \
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [SOBA](Category%3ASOBA "Category%3ASOBA")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [SOBA](Category%253ASOBA "Category%253ASOBA")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
 
 
 
@@ -168,7 +168,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/SOBA "Special%3ASearchByProperty/Has-20topic/SOBA")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [SOBA](SOBA.1 "SOBA") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/SOBA "Special%253ASearchByProperty/Has-20topic/SOBA")</span> |
 
 
 
@@ -202,8 +202,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/SOBA_Tutorial_2012 "Special:ExportR
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

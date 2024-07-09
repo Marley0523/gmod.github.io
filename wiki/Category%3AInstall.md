@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AInstall</span>
+# <span dir="auto">Category%253AInstall</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/Install "Special%3ASearch/Install") in other pages,
+title](Special%253ASearch/Install "Special%253ASearch/Install") in other pages,
 or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AInstall"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253AInstall"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -47,7 +47,7 @@ The following 2 pages are in this category, out of 2 total.
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3AInstall](Category%3AInstall)"
+"[http://gmod.org/wiki/Category%253AInstall](Category%253AInstall)"
 
 
 
@@ -80,8 +80,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -104,7 +104,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AInstall" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AInstall" rel="smw-browse">Browse
   properties</a></span>
 
 

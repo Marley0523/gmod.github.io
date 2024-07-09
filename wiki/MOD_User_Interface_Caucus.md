@@ -86,10 +86,10 @@ comment' link below.
   Development](Face_Caucus_ApiDB:_User_Studies_and_Impact_on_Development "Face Caucus ApiDB: User Studies and Impact on Development")
 
 - [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](Face_Caucus_SGN%253A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 
 - [MOD User Interfaces: outline of
-  topics](MOD_User_Interfaces%3A_outline_of_topics "MOD User Interfaces: outline of topics")
+  topics](MOD_User_Interfaces%253A_outline_of_topics "MOD User Interfaces: outline of topics")
 - [MOD User Interfaces: Sample of several MOD Top Level
   functions](MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions")
 
@@ -97,11 +97,11 @@ comment' link below.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -135,8 +135,8 @@ comment' link below.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

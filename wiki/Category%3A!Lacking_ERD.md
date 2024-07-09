@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3A!Lacking ERD</span>
+# <span dir="auto">Category%253A!Lacking ERD</span>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-[Chado modules](Category%3AChado_Modules "Category%3AChado Modules") lacking
+[Chado modules](Category%253AChado_Modules "Category%253AChado Modules") lacking
 an ERD diagram.
 
 
@@ -110,8 +110,8 @@ Module</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -134,7 +134,7 @@ Module</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A!Lacking_ERD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253A!Lacking_ERD" rel="smw-browse">Browse
   properties</a></span>
 
 

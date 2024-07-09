@@ -74,11 +74,11 @@ management point for MOD user accounts.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
-- [Chado Modules](Category%3AChado_Modules "Category%3AChado Modules")
-- [Proposals](Category%3AProposals "Category%3AProposals")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
+- [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
+- [Proposals](Category%253AProposals "Category%253AProposals")
 
 
 
@@ -92,7 +92,7 @@ management point for MOD user accounts.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ACommunity" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ACommunity" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -116,8 +116,8 @@ management point for MOD user accounts.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

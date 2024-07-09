@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ADocumentation</span>
+# <span dir="auto">Category%253ADocumentation</span>
 
 
 
@@ -59,7 +59,7 @@ Utility Scripts</a></li>
 </ul></td>
 <td style="width: 33.3%"><h3 id="o">O</h3>
 <ul>
-<li><a href="Talk%3AOverview" title="Talk%3AOverview">Talk%3AOverview</a></li>
+<li><a href="Talk%253AOverview" title="Talk%253AOverview">Talk%253AOverview</a></li>
 </ul>
 <h3 id="r">R</h3>
 <ul>
@@ -81,9 +81,9 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Categories](Category%3ACategories "Category%3ACategories")
+- [Categories](Category%253ACategories "Category%253ACategories")
 
 
 
@@ -117,8 +117,8 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -141,7 +141,7 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ADocumentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ADocumentation" rel="smw-browse">Browse
   properties</a></span>
 
 

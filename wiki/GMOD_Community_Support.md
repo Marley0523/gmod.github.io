@@ -120,12 +120,12 @@ rel="nofollow">NESCent</a>, as the result of a collaboration between
 GMOD and NESCent. One of NESCent's goals is to promote the adoption of
 GMOD for data management, analysis, and visualization needs for the
 genome-scale information being generated in [evolutionary
-research](Category%3AEvolution "Category%3AEvolution"), in particular for
+research](Category%253AEvolution "Category%253AEvolution"), in particular for
 emerging model organisms. This initiative includes extending the
 functionality of GMOD tools for evolutionary applications, particularly
 in the areas of managing and visualizing information about genotypic
 variation, [phenotypic
-variation](Category%3APhenotypes "Category%3APhenotypes"), and
+variation](Category%253APhenotypes "Category%253APhenotypes"), and
 phylogenetics.
 
 ## <span id="Please_share_your_feedback" class="mw-headline">Please share your feedback</span>
@@ -156,16 +156,16 @@ was initially managed by NESCent.
 title="bp:Brian">Brian Osborne</a> started the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk") in 2006 and, among other things,
 created this wiki. In 2007 [Dave
-Clements](User%3AClements "User%3AClements") took over, who held the
+Clements](User%253AClements "User%253AClements") took over, who held the
 position until the end of 2010 (when he moved to the
 [Galaxy](Galaxy.1 "Galaxy") project). [Amelia
-Ireland](User%3AGirlwithglasses "User%3AGirlwithglasses") was Community
+Ireland](User%253AGirlwithglasses "User%253AGirlwithglasses") was Community
 Support Specialist from July 2012 to May 2014, when grant funding ran
 out.
 
 Some community support functions are also provided by several other
 members of the GMOD community, notably [Scott
-Cain](User%3AScott "User%3AScott"), the GMOD Project Coordinator.
+Cain](User%253AScott "User%253AScott"), the GMOD Project Coordinator.
 
 The GMOD Help Desk was funded by <a
 href="http://crisp.cit.nih.gov/crisp/CRISP_LIB.getdoc?textkey=7234938&amp;p_grant_num=1R01HG004483-01&amp;p_query=&amp;ticket=&amp;p_audit_session_id=&amp;p_keywords="
@@ -193,9 +193,9 @@ his 3 years.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -229,8 +229,8 @@ his 3 years.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

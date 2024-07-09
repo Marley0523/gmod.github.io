@@ -111,15 +111,15 @@ The CMAE specific information is located in the "editor" directory.
 
 ## <span id="Contact" class="mw-headline">Contact</span>
 
-- [Ben Faga](User%3AFaga "User%3AFaga")
+- [Ben Faga](User%253AFaga "User%253AFaga")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Unsupported](Category%3AUnsupported "Category%3AUnsupported")
-- [CMap](Category%3ACMap "Category%3ACMap")
+- [Unsupported](Category%253AUnsupported "Category%253AUnsupported")
+- [CMap](Category%253ACMap "Category%253ACMap")
 
 
 
@@ -153,8 +153,8 @@ The CMAE specific information is located in the "editor" directory.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

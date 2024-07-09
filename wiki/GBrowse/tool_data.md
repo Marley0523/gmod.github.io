@@ -103,11 +103,11 @@ Perl 5.8.6 or higher and the Apache web server installed. \| install =
 
 
 - [GMOD in the
-  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- [GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2")
+  Cloud](../Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
+- [GBrowse 2](../Category%253AGBrowse_2 "Category%253AGBrowse 2")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 
 
 
@@ -144,8 +144,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

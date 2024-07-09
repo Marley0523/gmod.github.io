@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ACommunity Annotation</span>
+# <span dir="auto">Category%253ACommunity Annotation</span>
 
 
 
@@ -43,7 +43,7 @@ title="Community Annotation System">Community Annotation System</a></li>
 <h3 id="f">F</h3>
 <ul>
 <li><a
-href="Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
+href="Face_Caucus_SGN%253A_Associating_Solanaceae_loci_with_phenotype"
 title="Face Caucus SGN: Associating Solanaceae loci with phenotype">Face
 Caucus SGN: Associating Solanaceae loci with phenotype</a></li>
 </ul></td>
@@ -109,9 +109,9 @@ This category contains only the following file.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -145,8 +145,8 @@ This category contains only the following file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -169,7 +169,7 @@ This category contains only the following file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ACommunity_Annotation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ACommunity_Annotation"
   rel="smw-browse">Browse properties</a></span>
 
 

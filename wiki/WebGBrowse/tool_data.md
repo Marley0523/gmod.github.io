@@ -89,9 +89,9 @@ install = \| config = \| doc = Information on
 rel="nofollow">WebGBrowse</a> is available in several places:
 
 
-- [GBrowse](../Category%3AGBrowse "Category%3AGBrowse")
+- [GBrowse](../Category%253AGBrowse "Category%253AGBrowse")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -128,8 +128,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

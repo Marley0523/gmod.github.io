@@ -43,7 +43,7 @@ Please suggest changes!
   - gene_symbol in the example is only one way to get this return. You
     can also use different URLs for locus tags.
 
---[JimHu](User%3AJimHu.1 "User%3AJimHu") 08:06, 17 January 2009 (UTC)
+--[JimHu](User%253AJimHu.1 "User%253AJimHu") 08:06, 17 January 2009 (UTC)
 
 
 
@@ -59,7 +59,7 @@ Please suggest changes!
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ABio_GMOD_GenericGenePage" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ABio_GMOD_GenericGenePage" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -83,8 +83,8 @@ Please suggest changes!
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

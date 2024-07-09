@@ -44,7 +44,7 @@ Done
 &#10;</tbody>
 </table>
 
-[Rob Buels](User%3ARobertBuels "User%3ARobertBuels") ran the conversion on
+[Rob Buels](User%253ARobertBuels "User%253ARobertBuels") ran the conversion on
 September 15, 2009. The conversion finished around 12:45pm, Eastern US.
 See <a href="Subversion" class="mw-redirect"
 title="Subversion">Subversion</a> for how to access the new repository.
@@ -69,8 +69,8 @@ Help Desk</a>.
 ## <span id="Announcement" class="mw-headline">Announcement</span>
 
 GMOD's CVS source code repository will be converted to Subversion (SVN)
-on September 15, 2009. [Rob Buels](User%3ARobertBuels "User%3ARobertBuels")
-of Cornell / [SGN](Category%3ASGN "Category%3ASGN") has generously offered
+on September 15, 2009. [Rob Buels](User%253ARobertBuels "User%253ARobertBuels")
+of Cornell / [SGN](Category%253ASGN "Category%253ASGN") has generously offered
 to to do this. The discussion leading up to this decision on the
 <a href="http://comments.gmane.org/gmane.science.biology.gmod.devel/364"
 class="external text" rel="nofollow">GMOD Developers mailing list</a>.
@@ -112,8 +112,8 @@ Please let Rob and Dave know if you have any questions.
 
 Thanks,
 
-[Dave Clements](User%3AClements "User%3AClements") and [Rob
-Buels](User%3ARobertBuels "User%3ARobertBuels")
+[Dave Clements](User%253AClements "User%253AClements") and [Rob
+Buels](User%253ARobertBuels "User%253ARobertBuels")
 
 ## <span id="Projects" class="mw-headline">Projects</span>
 
@@ -173,10 +173,10 @@ projects are still active.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -210,8 +210,8 @@ projects are still active.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

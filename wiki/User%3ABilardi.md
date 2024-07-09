@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ABilardi</span>
+# <span dir="auto">User%253ABilardi</span>
 
 
 
@@ -36,7 +36,7 @@ href="http://gbrowse.cribi.unipd.it/" class="external free"
 rel="nofollow">http://gbrowse.cribi.unipd.it/</a> administrator</li>
 <li>Prediction software development and analyses about secondary
 structures and regulatory regions</li>
-<li><a href="http://www.mediawiki.org/wiki/User%3ABilardi"
+<li><a href="http://www.mediawiki.org/wiki/User%253ABilardi"
 class="external text">Mediawiki</a> tips</li>
 </ul></td>
 <td style="vertical-align: top"><p><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/48/Bilardi.png"
@@ -100,8 +100,8 @@ Development biology and molecular biology (Bsc thesys)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -124,7 +124,7 @@ Development biology and molecular biology (Bsc thesys)
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ABilardi" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ABilardi" rel="smw-browse">Browse
   properties</a></span>
 
 

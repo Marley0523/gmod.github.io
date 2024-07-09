@@ -39,9 +39,9 @@ University of Oxford for hosting and sponsoring this event.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Events](Category%3AEvents "Category%3AEvents")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -75,8 +75,8 @@ University of Oxford for hosting and sponsoring this event.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

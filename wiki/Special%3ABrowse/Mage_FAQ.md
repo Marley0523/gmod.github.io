@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[FAQ](/wiki/Category%3AFAQ "Category%3AFAQ")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FAQ "Special%3ASearchByProperty/FAQ")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category%3AChado_Modules "Category%3AChado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Microarrays](/wiki/Category%3AMicroarrays "Category%3AMicroarrays")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Microarrays "Special%3ASearchByProperty/Microarrays")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">7 January 2009 21:54:42  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/7-20January-202009-2021:54:42 "Special%3ASearchByProperty/Modification-20date/7-20January-202009-2021:54:42")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[FAQ](/wiki/Category%253AFAQ "Category%253AFAQ")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/FAQ "Special%253ASearchByProperty/FAQ")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category%253AChado_Modules "Category%253AChado Modules")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado-20Modules "Special%253ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Microarrays](/wiki/Category%253AMicroarrays "Category%253AMicroarrays")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Microarrays "Special%253ASearchByProperty/Microarrays")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">7 January 2009 21:54:42  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/7-20January-202009-2021:54:42 "Special%253ASearchByProperty/Modification-20date/7-20January-202009-2021:54:42")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGBrowse</span>
+# <span dir="auto">Category%253AGBrowse</span>
 
 
 
@@ -28,10 +28,10 @@ This category has the following 3 subcategories, out of 3 total.
 
 ### G
 
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
 - [GBrowse
-  Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
+  Developer](Category%253AGBrowse_Developer "Category%253AGBrowse Developer")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
 
 
 
@@ -117,8 +117,8 @@ title="GBrowse Configuration/Balloons">GBrowse
 Configuration/Balloons</a></li>
 <li><a href="GBrowse_Configuration/DAS"
 title="GBrowse Configuration/DAS">GBrowse Configuration/DAS</a></li>
-<li><a href="Talk%3AGBrowse_Configuration/DAS"
-title="Talk%3AGBrowse Configuration/DAS">Talk%3AGBrowse
+<li><a href="Talk%253AGBrowse_Configuration/DAS"
+title="Talk%253AGBrowse Configuration/DAS">Talk%253AGBrowse
 Configuration/DAS</a></li>
 <li><a href="GBrowse_Configuration/Feature_frequency_histograms"
 title="GBrowse Configuration/Feature frequency histograms">GBrowse
@@ -190,8 +190,8 @@ title="GBrowse/Uploading Wiggle Tracks">GBrowse/Uploading Wiggle
 Tracks</a></li>
 <li><a href="GBrowse2_REST_API" title="GBrowse2 REST API">GBrowse2 REST
 API</a></li>
-<li><a href="User%3AGirlwithglasses/Template:ToolData/gbrowse"
-title="User%3AGirlwithglasses/Template:ToolData/gbrowse">User%3AGirlwithglasses/Template:ToolData/gbrowse</a></li>
+<li><a href="User%253AGirlwithglasses/Template:ToolData/gbrowse"
+title="User%253AGirlwithglasses/Template:ToolData/gbrowse">User%253AGirlwithglasses/Template:ToolData/gbrowse</a></li>
 <li><a href="Glyphs_and_Glyph_Options"
 title="Glyphs and Glyph Options">Glyphs and Glyph Options</a></li>
 <li><a href="GMOD_Malaysia_2014/GBrowse_Tutorial"
@@ -864,9 +864,9 @@ The following 25 files are in this category, out of 25 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -900,8 +900,8 @@ The following 25 files are in this category, out of 25 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -924,7 +924,7 @@ The following 25 files are in this category, out of 25 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGBrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

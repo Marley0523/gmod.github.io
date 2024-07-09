@@ -43,7 +43,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/Tripal%3A%3AInteracts_with "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/Tripal%253A%253AInteracts_with "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -69,8 +69,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

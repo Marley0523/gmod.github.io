@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AMichael Campbell</span>
+# <span dir="auto">User%253AMichael Campbell</span>
 
 
 
@@ -158,8 +158,8 @@ oleaginous alga Nannochloropsis oceanica CCMP1779.** PLoS Genet.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -182,7 +182,7 @@ oleaginous alga Nannochloropsis oceanica CCMP1779.** PLoS Genet.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AMichael_Campbell" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AMichael_Campbell" rel="smw-browse">Browse
   properties</a></span>
 
 

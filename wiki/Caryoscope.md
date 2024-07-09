@@ -107,12 +107,12 @@ class="external text" rel="nofollow">Download page</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Expression](Category%3AExpression "Category%3AExpression")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Java](Category%3AJava "Category%3AJava")
-- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
+- [Expression](Category%253AExpression "Category%253AExpression")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Java](Category%253AJava "Category%253AJava")
+- [Microarrays](Category%253AMicroarrays "Category%253AMicroarrays")
 
 
 
@@ -146,8 +146,8 @@ class="external text" rel="nofollow">Download page</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -208,7 +208,7 @@ There are two types of interaction between your program and the CMap
 database; "Importing Data" and "Querying the CMap Database". Each type
 of interaction is performed in its own way.
 
-Importing data requires the use of a Bio%3A%3AGMOD::CMap::Admin object.
+Importing data requires the use of a Bio%253A%253AGMOD::CMap::Admin object.
 Creating this will be descibed in the "Importing Data" section.
 
 Querying the CMap database is done through the use of an object returned
@@ -241,7 +241,7 @@ You can purge the cache inside a script or use the command line.
 
 #### <span id="Inside_a_Program" class="mw-headline">Inside a Program</span>
 
-Purging inside your program is simple. Use a Bio%3A%3AGMOD::CMap::Admin
+Purging inside your program is simple. Use a Bio%253A%253AGMOD::CMap::Admin
 object (see "Importing Data" for creating this object) to call the
 purge_cache method.
 
@@ -303,11 +303,11 @@ name that identifies which configuration file to use.
 
   
 
-       use Bio%3A%3AGMOD::CMap::Admin;
+       use Bio%253A%253AGMOD::CMap::Admin;
 
        my $data_source = 'CMAP_DEMO';
        my $cmap_admin
-           = Bio%3A%3AGMOD::CMap::Admin->new( data_source => $data_source, );
+           = Bio%253A%253AGMOD::CMap::Admin->new( data_source => $data_source, );
 
 ### <span id="Creating_a_Species" class="mw-headline">Creating a Species</span>
 
@@ -759,7 +759,7 @@ Add a map count to the return object
 #### <span id="See_also" class="mw-headline">See also</span>
 
 The get_map_sets_simple by executing "perldoc
-Bio%3A%3AGMOD::CMap::Data::Generic";
+Bio%253A%253AGMOD::CMap::Data::Generic";
 
 ### <span id="Getting_Map_Information" class="mw-headline">Getting Map Information</span>
 
@@ -838,7 +838,7 @@ Add a feature count to the return object
 #### <span id="See_also_2" class="mw-headline">See also</span>
 
 The get_maps_simple by executing "perldoc
-Bio%3A%3AGMOD::CMap::Data::Generic";
+Bio%253A%253AGMOD::CMap::Data::Generic";
 
 ### <span id="Getting_Feature_Information" class="mw-headline">Getting Feature Information</span>
 
@@ -933,7 +933,7 @@ aliases.
 #### <span id="See_also_3" class="mw-headline">See also</span>
 
 The get_features_simple by executing "perldoc
-Bio%3A%3AGMOD::CMap::Data::Generic";
+Bio%253A%253AGMOD::CMap::Data::Generic";
 
 ### <span id="Getting_Correspondence_Information" class="mw-headline">Getting Correspondence Information</span>
 
@@ -1012,7 +1012,7 @@ parameter must be set to true, otherwise, no data will be returned.
 #### <span id="See_also_4" class="mw-headline">See also</span>
 
 The get_feature_correspondences_simple by executing "perldoc
-Bio%3A%3AGMOD::CMap::Data::Generic";
+Bio%253A%253AGMOD::CMap::Data::Generic";
 
 ### <span id="Getting_Attribute_Information" class="mw-headline">Getting Attribute Information</span>
 
@@ -1125,7 +1125,7 @@ database.
 ### <span id="Final_information" class="mw-headline">Final information</span>
 
 For more information about the methods available, execute "perldoc
-Bio%3A%3AGMOD::CMap::Data::Generic" on the command line.
+Bio%253A%253AGMOD::CMap::Data::Generic" on the command line.
 
 ## <span id="Questions_or_Comments" class="mw-headline">Questions or Comments</span>
 
@@ -1146,9 +1146,9 @@ Copyright (c) 2007 Cold Spring Harbor Laboratory
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [CMap](Category%3ACMap "Category%3ACMap")
+- [CMap](Category%253ACMap "Category%253ACMap")
 
 
 
@@ -1182,8 +1182,8 @@ Copyright (c) 2007 Cold Spring Harbor Laboratory
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

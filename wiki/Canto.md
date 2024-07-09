@@ -53,8 +53,8 @@ Resources
 
 
 
-- [GMOD Component](Category%3AGMOD_Component "Category%3AGMOD Component")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [GMOD Component](Category%253AGMOD_Component "Category%253AGMOD Component")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -71,109 +71,109 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Canto "Special:ExportRDF/Canto")</s
 <tbody>
 
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property%3AInteracts_with"
+<td class="smwpropname"><a href="Property%253AInteracts_with"
 title="Property:Interacts with">Interacts with</a></td>
 <td class="smwprops"><a href="Chado" class="mw-redirect"
 title="Chado">Chado</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Interacts-20with/Chado"
-title="Special%3ASearchByProperty/Interacts-20with/Chado">+</a></span></td>
+href="Special%253ASearchByProperty/Interacts-20with/Chado"
+title="Special%253ASearchByProperty/Interacts-20with/Chado">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property%3AIs_open_source"
+<td class="smwpropname"><a href="Property%253AIs_open_source"
 title="Property:Is open source">Is open source</a></td>
 <td class="smwprops">Yes <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Is-20open-20source/Yes"
-title="Special%3ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
+href="Special%253ASearchByProperty/Is-20open-20source/Yes"
+title="Special%253ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a href="Property%3ALink_type"
+<td class="smwpropname"><a href="Property%253ALink_type"
 title="Property:Link type">Link type</a></td>
 <td class="smwprops">website <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/website"
-title="Special%3ASearchByProperty/Link-20type/website">+</a></span>, demo
+href="Special%253ASearchByProperty/Link-20type/website"
+title="Special%253ASearchByProperty/Link-20type/website">+</a></span>, demo
 server <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/demo-20server"
-title="Special%3ASearchByProperty/Link-20type/demo-20server">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/demo-20server"
+title="Special%253ASearchByProperty/Link-20type/demo-20server">+</a></span>,
 download <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/download"
-title="Special%3ASearchByProperty/Link-20type/download">+</a></span>,
+href="Special%253ASearchByProperty/Link-20type/download"
+title="Special%253ASearchByProperty/Link-20type/download">+</a></span>,
 documentation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/documentation"
-title="Special%3ASearchByProperty/Link-20type/documentation">+</a></span>
+href="Special%253ASearchByProperty/Link-20type/documentation"
+title="Special%253ASearchByProperty/Link-20type/documentation">+</a></span>
 and wild URL <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Link-20type/wild-20URL"
-title="Special%3ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
+href="Special%253ASearchByProperty/Link-20type/wild-20URL"
+title="Special%253ASearchByProperty/Link-20type/wild-20URL">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property%3ARelease_date"
+<td class="smwpropname"><a href="Property%253ARelease_date"
 title="Property:Release date">Release date</a></td>
 <td class="smwprops">1 November 2013 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Release-20date/1-20November-202013"
-title="Special%3ASearchByProperty/Release-20date/1-20November-202013">+</a></span></td>
+href="Special%253ASearchByProperty/Release-20date/1-20November-202013"
+title="Special%253ASearchByProperty/Release-20date/1-20November-202013">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwpropname"><a
-href="Property%3ATool_functionality_or_classification"
+href="Property%253ATool_functionality_or_classification"
 title="Property:Tool functionality or classification">Tool functionality or
 classification</a></td>
 <td class="smwprops">literature curation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation"
-title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation">+</a></span>,
+href="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation"
+title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/literature-20curation">+</a></span>,
 functional annotation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation"
-title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation">+</a></span>
+href="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation"
+title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/functional-20annotation">+</a></span>
 and community annotation <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation"
-title="Special%3ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation">+</a></span></td>
+href="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation"
+title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/community-20annotation">+</a></span></td>
 </tr>
 <tr class="even row-even">
-<td class="smwpropname"><a href="Property%3AWritten_in_language"
+<td class="smwpropname"><a href="Property%253AWritten_in_language"
 title="Property:Written in language">Written in language</a></td>
 <td class="smwprops">Perl <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Written-20in-20language/Perl"
-title="Special%3ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
+href="Special%253ASearchByProperty/Written-20in-20language/Perl"
+title="Special%253ASearchByProperty/Written-20in-20language/Perl">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
 <td class="smwspecname"><span class="smw-highlighter" data-type="1"
 data-state="inline" data-title="Property"><span class="smwbuiltin"><a
-href="Property%3AHas_subobject" title="Property:Has subobject">Has
+href="Property%253AHas_subobject" title="Property:Has subobject">Has
 subobject</a></span><span class="smwttcontent">This property is a
 special property in this wiki.</span></span></td>
 <td class="smwspecs"><a href="Canto#http:.2F.2Fcuration.pombase.org.2F"
 title="Canto">Canto#http://curation.pombase.org/</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2F"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2F">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2F"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2F">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Fdemo"
 title="Canto">Canto#http://curation.pombase.org/demo</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fdemo"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Fdemo"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Fdemo">+</a></span>,
 <a href="Canto#https:.2F.2Fgithub.com.2Fpombase.2Fcanto"
 title="Canto">Canto#https://github.com/pombase/canto</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23https%253A-2F-2Fgithub.com-2Fpombase-2Fcanto"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23https%253A-2F-2Fgithub.com-2Fpombase-2Fcanto">+</a></span>,
 <a
 href="Canto#https:.2F.2Fgithub.com.2Fpombase.2Fcanto.2Fblob.2Fmaster.2Fdocumentation.2Fcanto_admin.md"
 title="Canto">Canto#https://github.com/pombase/canto/blob/master/documentation/canto_admin.md</a>
 <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23https%253A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23https%253A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto admin.md">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Fpombe"
 title="Canto">Canto#http://curation.pombase.org/pombe</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>,
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Fpombe"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Fpombe">+</a></span>,
 <a href="Canto#http:.2F.2Fcuration.pombase.org.2Funiprot"
 title="Canto">Canto#http://curation.pombase.org/uniprot</a> <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23http%3A-2F-2Fcuration.pombase.org-2Funiprot">+</a></span>
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Funiprot"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23http%253A-2F-2Fcuration.pombase.org-2Funiprot">+</a></span>
 and <a href="Canto#_564f9c71bf2847fc3c542a7b9ac7927f"
 title="Canto">Canto</a> <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20subobject/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f"
-title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542a7b9ac7927f">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20subobject/Canto-23_564f9c71bf2847fc3c542a7b9ac7927f"
+title="Special%253ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542a7b9ac7927f">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -208,8 +208,8 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

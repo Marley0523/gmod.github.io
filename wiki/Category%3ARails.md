@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ARails</span>
+# <span dir="auto">Category%253ARails</span>
 
 
 
@@ -20,9 +20,9 @@
 
 
 There is currently no text in this page. You can [search for this page
-title](Special%3ASearch/Rails "Special%3ASearch/Rails") in other pages, or
+title](Special%253ASearch/Rails "Special%253ASearch/Rails") in other pages, or
 <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ARails"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ARails"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -43,7 +43,7 @@ This category contains only the following page.
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3ARails](Category%3ARails)"
+Retrieved from "[http://gmod.org/wiki/Category%253ARails](Category%253ARails)"
 
 
 
@@ -76,8 +76,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3ARails](Category%3ARails)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -100,7 +100,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ARails](Category%3ARails)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ARails" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ARails" rel="smw-browse">Browse
   properties</a></span>
 
 

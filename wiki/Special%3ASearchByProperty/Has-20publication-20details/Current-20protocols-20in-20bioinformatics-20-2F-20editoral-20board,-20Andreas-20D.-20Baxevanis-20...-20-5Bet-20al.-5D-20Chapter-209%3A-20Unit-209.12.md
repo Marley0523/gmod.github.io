@@ -43,7 +43,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20publication-20details/Current-20protocols-20in-20bioinformatics-20-2F-20editoral-20board,-20Andreas-20D.-20Baxevanis-20...-20-5Bet-20al.-5D-20Chapter-209%3A-20Unit-209.12 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20publication-20details/Current-20protocols-20in-20bioinformatics-20-2F-20editoral-20board,-20Andreas-20D.-20Baxevanis-20...-20-5Bet-20al.-5D-20Chapter-209%253A-20Unit-209.12 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -69,8 +69,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

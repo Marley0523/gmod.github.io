@@ -78,20 +78,20 @@ hotel room, or in the New England themed bar at the Seven Seas hotel.
 
 ## <span id="Organizing_Committee" class="mw-headline">Organizing Committee</span>
 
-- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
+- [Josh Goodman](User%253AJogoodma "User%253AJogoodma")
 
 ## <span id="Attendees" class="mw-headline">Attendees</span>
 
 - *Please add your name here*
-- [Josh Goodman](User%3AJogoodma "User%3AJogoodma")
-- [Richard Smith](User%3ARsmith "User%3ARsmith")
-- [Todd Harris](User%3ATharris "User%3ATharris")
-- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels")
-- [Michael Caudy](User%3AMcaudy "User%3AMcaudy")
-- [Jim Hu](User%3AJimHu.1 "User%3AJimHu")
+- [Josh Goodman](User%253AJogoodma "User%253AJogoodma")
+- [Richard Smith](User%253ARsmith "User%253ARsmith")
+- [Todd Harris](User%253ATharris "User%253ATharris")
+- [Robert Buels](User%253ARobertBuels "User%253ARobertBuels")
+- [Michael Caudy](User%253AMcaudy "User%253AMcaudy")
+- [Jim Hu](User%253AJimHu.1 "User%253AJimHu")
 
-- [Chris Childers](User%3AChilders "User%3AChilders")
-- [Justin Reese](User%3AJustaddcoffee "User%3AJustaddcoffee")
+- [Chris Childers](User%253AChilders "User%253AChilders")
+- [Justin Reese](User%253AJustaddcoffee "User%253AJustaddcoffee")
 
 ## <span id="Topics" class="mw-headline">Topics</span>
 
@@ -129,10 +129,10 @@ We will be starting in the hotel bar.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 
-- [Events](Category%3AEvents "Category%3AEvents")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -146,7 +146,7 @@ We will be starting in the hotel bar.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_REST_Hackathon" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_REST_Hackathon" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -170,8 +170,8 @@ We will be starting in the hotel bar.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

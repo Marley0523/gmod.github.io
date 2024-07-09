@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ANews Items</span>
+# <span dir="auto">Category%253ANews Items</span>
 
 
 
@@ -32,7 +32,7 @@ Item](GMOD_News#Adding_a_News_Item "GMOD News") for details.
 The following 200 pages are in this category, out of 332 total.
 
 (previous 200) ([next
-200](http://gmod.org/mediawiki/index.php?title=Category%3ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%3ANews Items"))
+200](http://gmod.org/mediawiki/index.php?title=Category%253ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%253ANews Items"))
 
 
 
@@ -80,10 +80,10 @@ Online</a></li>
 <li><a href="News/2013_Meeting_Registration_Open"
 title="News/2013 Meeting Registration Open">News/2013 Meeting
 Registration Open</a></li>
-<li><a href="News/2013_Meeting%3A_Keynote_Announcement"
+<li><a href="News/2013_Meeting%253A_Keynote_Announcement"
 title="News/2013 Meeting: Keynote Announcement">News/2013 Meeting:
 Keynote Announcement</a></li>
-<li><a href="News/2013_Meeting%3A_Last_Day_For_Early_Birds"
+<li><a href="News/2013_Meeting%253A_Last_Day_For_Early_Birds"
 title="News/2013 Meeting: Last Day For Early Birds">News/2013 Meeting:
 Last Day For Early Birds</a></li>
 <li><a href="News/2013_Summer_School_Tutorials_Available"
@@ -137,14 +137,14 @@ title="News/August 2009 GMOD Meeting">News/August 2009 GMOD
 Meeting</a></li>
 <li><a href="News/August_2010_Calendar"
 title="News/August 2010 Calendar">News/August 2010 Calendar</a></li>
-<li><a href="News/Beta_Test_CMap%3A_Win_a_T-Shirt!"
+<li><a href="News/Beta_Test_CMap%253A_Win_a_T-Shirt!"
 title="News/Beta Test CMap: Win a T-Shirt!">News/Beta Test CMap: Win a
 T-Shirt!</a></li>
-<li><a href="News/Bio%3A%3AChado%3A%3ASchema_0.03_Released"
-title="News/Bio%3A%3AChado%3A%3ASchema 0.03 Released">News/Bio%3A%3AChado%3A%3ASchema
+<li><a href="News/Bio%253A%253AChado%253A%253ASchema_0.03_Released"
+title="News/Bio%253A%253AChado%253A%253ASchema 0.03 Released">News/Bio%253A%253AChado%253A%253ASchema
 0.03 Released</a></li>
-<li><a href="News/Bio%3A%3AChado%3A%3ASchema_0.05_Released"
-title="News/Bio%3A%3AChado%3A%3ASchema 0.05 Released">News/Bio%3A%3AChado%3A%3ASchema
+<li><a href="News/Bio%253A%253AChado%253A%253ASchema_0.05_Released"
+title="News/Bio%253A%253AChado%253A%253ASchema 0.05 Released">News/Bio%253A%253AChado%253A%253ASchema
 0.05 Released</a></li>
 <li><a href="News/Biocuration_2010"
 title="News/Biocuration 2010">News/Biocuration 2010</a></li>
@@ -197,7 +197,7 @@ title="News/Chado 1.23 released">News/Chado 1.23 released</a></li>
 <li><a href="News/Chado_Doc_Reorganization"
 title="News/Chado Doc Reorganization">News/Chado Doc
 Reorganization</a></li>
-<li><a href="News/Chado_in_RDF%3A_OpenFlyData"
+<li><a href="News/Chado_in_RDF%253A_OpenFlyData"
 title="News/Chado in RDF: OpenFlyData">News/Chado in RDF:
 OpenFlyData</a></li>
 <li><a href="News/Chado_Version_1.2_Released"
@@ -217,10 +217,10 @@ Satellite</a></li>
 <li><a href="News/Comparative_Genomics_Workshop"
 title="News/Comparative Genomics Workshop">News/Comparative Genomics
 Workshop</a></li>
-<li><a href="News/CVS_to_SVN_Conversion%3A_Done"
+<li><a href="News/CVS_to_SVN_Conversion%253A_Done"
 title="News/CVS to SVN Conversion: Done">News/CVS to SVN Conversion:
 Done</a></li>
-<li><a href="News/CVS_to_SVN_Conversion%3A_Sept_15"
+<li><a href="News/CVS_to_SVN_Conversion%253A_Sept_15"
 title="News/CVS to SVN Conversion: Sept 15">News/CVS to SVN Conversion:
 Sept 15</a></li>
 </ul></td>
@@ -233,7 +233,7 @@ title="News/DAS Workshop 7-9 April 2010">News/DAS Workshop 7-9 April
 title="News/December 2010 Calendar">News/December 2010 Calendar</a></li>
 <li><a href="News/dictyBase_is_Hiring"
 title="News/dictyBase is Hiring">News/dictyBase is Hiring</a></li>
-<li><a href="News/DIYA%3A_Do_It_Yourself_Annotator"
+<li><a href="News/DIYA%253A_Do_It_Yourself_Annotator"
 title="News/DIYA: Do It Yourself Annotator">News/DIYA: Do It Yourself
 Annotator</a></li>
 <li><a href="News/Don_Gilbert_Nominated_for_BFA"
@@ -246,7 +246,7 @@ Wanted</a></li>
 title="News/Ergatis Release v2r16">News/Ergatis Release v2r16</a></li>
 <li><a href="News/Ergatis_Update"
 title="News/Ergatis Update">News/Ergatis Update</a></li>
-<li><a href="News/Feedback_Wanted%3A_JBrowse_UI_Redesign"
+<li><a href="News/Feedback_Wanted%253A_JBrowse_UI_Redesign"
 title="News/Feedback Wanted: JBrowse UI Redesign">News/Feedback Wanted:
 JBrowse UI Redesign</a></li>
 <li><a href="News/FlyBase_Bioinformatics_Engineer"
@@ -280,7 +280,7 @@ Conference</a></li>
 <li><a href="News/Galaxy_Development_Workshop_Jan_23"
 title="News/Galaxy Development Workshop Jan 23">News/Galaxy Development
 Workshop Jan 23</a></li>
-<li><a href="News/Galaxy_Events%3A_April_2011"
+<li><a href="News/Galaxy_Events%253A_April_2011"
 title="News/Galaxy Events: April 2011">News/Galaxy Events: April
 2011</a></li>
 <li><a href="News/Galaxy_Hiring_Postdocs"
@@ -330,13 +330,13 @@ closes 24 May</a></li>
 <li><a href="News/GCC2013_Training_Day_Topics_Vote"
 title="News/GCC2013 Training Day Topics Vote">News/GCC2013 Training Day
 Topics Vote</a></li>
-<li><a href="News/GCC2013%3A_Register!_Present!"
+<li><a href="News/GCC2013%253A_Register!_Present!"
 title="News/GCC2013: Register! Present!">News/GCC2013: Register!
 Present!</a></li>
 <li><a href="News/GCC2014_Registration_is_Open"
 title="News/GCC2014 Registration is Open">News/GCC2014 Registration is
 Open</a></li>
-<li><a href="News/GCC2014%3A_June_30_-_July_2"
+<li><a href="News/GCC2014%253A_June_30_-_July_2"
 title="News/GCC2014: June 30 - July 2">News/GCC2014: June 30 - July
 2</a></li>
 <li><a href="News/GCC2016" title="News/GCC2016">News/GCC2016</a></li>
@@ -350,7 +350,7 @@ title="News/gmod (Chado) 1.1 Released">News/gmod (Chado) 1.1
 Released</a></li>
 <li><a href="News/GMOD_1.0_Released"
 title="News/GMOD 1.0 Released">News/GMOD 1.0 Released</a></li>
-<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date"
+<li><a href="News/GMOD_2014_San_Diego%253A_Save_the_Date"
 title="News/GMOD 2014 San Diego: Save the Date">News/GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/GMOD_@_Arthropod_Genomics_2011"
@@ -373,7 +373,7 @@ title="News/GMOD @ PAG 2011">News/GMOD @ PAG 2011</a></li>
 <li><a href="News/GMOD_Americas_2011_Report"
 title="News/GMOD Americas 2011 Report">News/GMOD Americas 2011
 Report</a></li>
-<li><a href="News/GMOD_Americas%3A_March_2011"
+<li><a href="News/GMOD_Americas%253A_March_2011"
 title="News/GMOD Americas: March 2011">News/GMOD Americas: March
 2011</a></li>
 <li><a href="News/GMOD_at_Arthropod_Genomics"
@@ -436,10 +436,10 @@ Registration</a></li>
 <li><a href="News/GMOD_Meeting_Registration_Open"
 title="News/GMOD Meeting Registration Open">News/GMOD Meeting
 Registration Open</a></li>
-<li><a href="News/GMOD_Meeting%3A_Sept._13-14"
+<li><a href="News/GMOD_Meeting%253A_Sept._13-14"
 title="News/GMOD Meeting: Sept. 13-14">News/GMOD Meeting: Sept.
 13-14</a></li>
-<li><a href="News/GMOD_Nomination%3A_ISGA"
+<li><a href="News/GMOD_Nomination%253A_ISGA"
 title="News/GMOD Nomination: ISGA">News/GMOD Nomination: ISGA</a></li>
 <li><a href="News/GMOD_Paper_Cuts,_Dec_6th,_2013"
 title="News/GMOD Paper Cuts, Dec 6th, 2013">News/GMOD Paper Cuts, Dec
@@ -465,7 +465,7 @@ Page</a></li>
 <li><a href="News/GMOD_Roadshow_in_San_Diego"
 title="News/GMOD Roadshow in San Diego">News/GMOD Roadshow in San
 Diego</a></li>
-<li><a href="News/GMOD_Spring_Training%3A_Apply_Now"
+<li><a href="News/GMOD_Spring_Training%253A_Apply_Now"
 title="News/GMOD Spring Training: Apply Now">News/GMOD Spring Training:
 Apply Now</a></li>
 <li><a href="News/GMOD_Summer_School"
@@ -473,7 +473,7 @@ title="News/GMOD Summer School">News/GMOD Summer School</a></li>
 <li><a href="News/GMOD_Summer_School_-_Americas"
 title="News/GMOD Summer School - Americas">News/GMOD Summer School -
 Americas</a></li>
-<li><a href="News/GMOD_Summer_School_2012%3A_Apply_Now"
+<li><a href="News/GMOD_Summer_School_2012%253A_Apply_Now"
 title="News/GMOD Summer School 2012: Apply Now">News/GMOD Summer School
 2012: Apply Now</a></li>
 <li><a href="News/GMOD_Summer_School_Update"
@@ -497,7 +497,7 @@ Great Guns!</a></li>
 <li><a href="News/GMOD-JBrowse_2016_Survey"
 title="News/GMOD-JBrowse 2016 Survey">News/GMOD-JBrowse 2016
 Survey</a></li>
-<li><a href="News/GMOD%3A_Spread_the_Word!"
+<li><a href="News/GMOD%253A_Spread_the_Word!"
 title="News/GMOD: Spread the Word!">News/GMOD: Spread the Word!</a></li>
 <li><a href="News/GMODTools_1.1_Released"
 title="News/GMODTools 1.1 Released">News/GMODTools 1.1 Released</a></li>
@@ -564,7 +564,7 @@ title="News/ISGA Pipeline Service">News/ISGA Pipeline Service</a></li>
 <li><a href="News/ISMB_2010_Talks_&amp;_Posters"
 title="News/ISMB 2010 Talks &amp; Posters">News/ISMB 2010 Talks &amp;
 Posters</a></li>
-<li><a href="News/ISMB_2013%3A_Automated_Function_Prediction"
+<li><a href="News/ISMB_2013%253A_Automated_Function_Prediction"
 title="News/ISMB 2013: Automated Function Prediction">News/ISMB 2013:
 Automated Function Prediction</a></li>
 <li><a href="News/ISMB/Bioinformatics_Chado_Paper"
@@ -589,7 +589,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 
 (previous 200) ([next
-200](http://gmod.org/mediawiki/index.php?title=Category%3ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%3ANews Items"))
+200](http://gmod.org/mediawiki/index.php?title=Category%253ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%253ANews Items"))
 
 
 
@@ -626,8 +626,8 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -650,7 +650,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ANews_Items" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ANews_Items" rel="smw-browse">Browse
   properties</a></span>
 
 

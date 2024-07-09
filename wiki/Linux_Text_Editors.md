@@ -36,9 +36,9 @@ text editors.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Linux](Category%3ALinux "Category%3ALinux")
+- [Linux](Category%253ALinux "Category%253ALinux")
 
 
 
@@ -52,7 +52,7 @@ text editors.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ALinux_Text_Editors" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ALinux_Text_Editors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -76,8 +76,8 @@ text editors.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

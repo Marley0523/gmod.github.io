@@ -34,10 +34,10 @@ rel="nofollow">FLOSS Weekly</a>. It's about an hour long and it's a good
 introduction to [BioPerl](../BioPerl "BioPerl"), a set of libraries that
 many popular [GMOD Components](../GMOD_Components "GMOD Components") are
 built upon. The podcast is an interview with BioPerl heavy hitters
-[Chris Fields](../User%3ACjfields "User%3ACjfields") and [Jason
-Stajich](../User%3AStajich "User%3AStajich").
+[Chris Fields](../User%253ACjfields "User%253ACjfields") and [Jason
+Stajich](../User%253AStajich "User%253AStajich").
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 
   
 
@@ -50,9 +50,9 @@ Stajich](../User%3AStajich "User%3AStajich").
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -91,8 +91,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

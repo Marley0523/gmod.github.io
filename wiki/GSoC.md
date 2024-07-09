@@ -108,8 +108,8 @@ class="external text" rel="nofollow">FAQ</a>.
   class="external text" rel="nofollow">Genome Informatics Google
   Groups</a> - ask about our projects; join the community!
 - Students and Mentors can email both
-  [Robin](User%3ARobin.haw "User%3ARobin.haw") and
-  [Scott](User%3AScott "User%3AScott") to get more information about the
+  [Robin](User%253ARobin.haw "User%253ARobin.haw") and
+  [Scott](User%253AScott "User%253AScott") to get more information about the
   program.
 
 ## <span id="Project_Ideas" class="mw-headline"> [Project Ideas](GSOC_Project_Ideas_2024 "GSOC Project Ideas 2024")</span>
@@ -164,13 +164,13 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- [MGI](Category%3AMGI "Category%3AMGI")
-- [WormBase](Category%3AWormBase "Category%3AWormBase")
-- [GSoC](Category%3AGSoC "Category%3AGSoC")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
+- [MGI](Category%253AMGI "Category%253AMGI")
+- [WormBase](Category%253AWormBase "Category%253AWormBase")
+- [GSoC](Category%253AGSoC "Category%253AGSoC")
 
 
 
@@ -206,8 +206,8 @@ repositories](Source_Code_Repositories "Source Code Repositories").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

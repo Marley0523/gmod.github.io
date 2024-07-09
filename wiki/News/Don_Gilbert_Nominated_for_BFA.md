@@ -42,7 +42,7 @@ access to the materials and methods used in the life sciences.
 
 
 This year's nominees include longtime GMOD contributor [Don
-Gilbert](../User%3ADongilbert "User%3ADongilbert"), of Indiana University.
+Gilbert](../User%253ADongilbert "User%253ADongilbert"), of Indiana University.
 Other 2010 nominees are Alex Bateman, David J. Lipman, G.P.S. Raghava,
 and John Quakenbush. Previous winners of the BFA include
 <a href="http://www.bioinformatics.org/franklin/2003/"
@@ -59,7 +59,7 @@ your vote.* If you are not already a member you will need to
 class="external text" rel="nofollow">join</a>, but basic membership is
 free.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -73,9 +73,9 @@ free.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -114,8 +114,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

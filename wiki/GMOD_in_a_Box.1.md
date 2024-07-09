@@ -19,7 +19,7 @@
 
   
 GMOD in a Box is a [GMOD virtual
-server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
+server](Category%253AGMOD_virtual_server "Category%253AGMOD virtual server")
 equipped with a suite of preconfigured GMOD components, including a
 **Chado** database, **GBrowse2**, **JBrowse**, **Tripal**, and **Apollo
 or WebApollo**. Setting up a GMOD in a Box instance is quick and easy;
@@ -130,7 +130,7 @@ section](GMOD_in_a_Box.1#Phoning_home "GMOD in a Box") below.
 
 #### <span id="Build_information" class="mw-headline">Build information</span>
 
-[Scott](User%3AScott "User%3AScott") has fairly extensive notes on the
+[Scott](User%253AScott "User%253AScott") has fairly extensive notes on the
 configuration file edits and the commands used when building GMOD in a
 Box. See his <a
 href="https://github.com/scottcain/GMODintheCloud/blob/master/GitC2_build"
@@ -358,10 +358,10 @@ specific to the VM for help in setting up your data.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [GMOD virtual
-  server](Category%3AGMOD_virtual_server "Category%3AGMOD virtual server")
+  server](Category%253AGMOD_virtual_server "Category%253AGMOD virtual server")
 
 
 
@@ -395,8 +395,8 @@ specific to the VM for help in setting up your data.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

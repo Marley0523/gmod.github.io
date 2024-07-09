@@ -29,7 +29,7 @@ title="Cbri;name=chrX:620000..670000 (page does not exist)">Cbri;name=chrX:62000
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Cbri%3Bname%3DchrX%3A620000..670000)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Cbri%3Bname%3DchrX%253A620000..670000)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/GBrowse-20syn-23http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri;name=chrX%3A620000..670000 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse-20syn-23http%253A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri;name=chrX%253A620000..670000 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -55,7 +55,7 @@ GMOD held a hackathon November 8-12, 2010, at the
 rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a> in
 Durham, North Carolina. This hackathon focused on improving GMOD's
 support for [evolutionary
-biology](Category%3AEvolution "Category%3AEvolution").
+biology](Category%253AEvolution "Category%253AEvolution").
 
 The [Open Call for
 Participation](GMOD_Evo_Hackathon_Open_Call "GMOD Evo Hackathon Open Call")
@@ -258,7 +258,7 @@ memory.
 
 ## <span id="PAG_Poster" class="mw-headline">PAG Poster</span>
 
-[Robert Buels](User%3ARobertBuels "User%3ARobertBuels") gave a <a
+[Robert Buels](User%253ARobertBuels "User%253ARobertBuels") gave a <a
 href="http://www.nescent.org/wg/gmodevohackathon/images/3/3f/Gmod_evohack_poster.pdf"
 class="external text" rel="nofollow">poster on the hackathon</a> at [PAG
 2011](PAG_2011 "PAG 2011").
@@ -515,25 +515,25 @@ boundaries.
 
 # <span id="Organizing_Committee" class="mw-headline">Organizing Committee</span>
 
-- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), chair
-- [Sheldon McKay](User%3AMckays "User%3AMckays")
-- [Scott Cain](User%3AScott "User%3AScott")
-- <a href="User%3ARBuels" class="mw-redirect" title="User%3ARBuels">Robert
+- [Nicole Washington](User%253ANLWashington "User%253ANLWashington"), chair
+- [Sheldon McKay](User%253AMckays "User%253AMckays")
+- [Scott Cain](User%253AScott "User%253AScott")
+- <a href="User%253ARBuels" class="mw-redirect" title="User%253ARBuels">Robert
   Buels</a>
-- <a href="http://informatics.nescent.org/wiki/User%3AHlapp"
+- <a href="http://informatics.nescent.org/wiki/User%253AHlapp"
   class="external text" rel="nofollow">Hilmar Lapp</a>
-- [Dave Clements](User%3AClements "User%3AClements")
+- [Dave Clements](User%253AClements "User%253AClements")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Evolution](Category%3AEvolution "Category%3AEvolution")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Evolution](Category%253AEvolution "Category%253AEvolution")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 - [GMOD Evo
-  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
-- [Events](Category%3AEvents "Category%3AEvents")
+  Hackathon](Category%253AGMOD_Evo_Hackathon "Category%253AGMOD Evo Hackathon")
+- [Events](Category%253AEvents "Category%253AEvents")
 
 
 
@@ -567,8 +567,8 @@ boundaries.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

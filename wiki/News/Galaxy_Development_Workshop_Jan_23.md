@@ -71,7 +71,7 @@ biological datasets.
 registration will certainly be accepted dependent on availability. The
 registration fee is \$200 USD (payment terms provided upon acceptance).
 
-[Dave Clements](../User%3AClements "User%3AClements")
+[Dave Clements](../User%253AClements "User%253AClements")
 
 PS: Plans for the <a href="http://galaxyproject.org/wiki/Events/GCC2012"
 class="external text" rel="nofollow">2012 Galaxy Community
@@ -90,9 +90,9 @@ updated 2011/12/16*
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -131,8 +131,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

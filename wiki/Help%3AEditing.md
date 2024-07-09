@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Help%3AEditing</span>
+# <span dir="auto">Help%253AEditing</span>
 
 
 
@@ -24,16 +24,16 @@ and editing those pesky tool_data pages for GMOD components.
 
   
 This web site uses MediaWiki. Please see
-<a href="http://meta.wikimedia.org/wiki/Help%3AEditing"
-class="external text" rel="nofollow">MediaWiki Help%3AEditing</a> for
+<a href="http://meta.wikimedia.org/wiki/Help%253AEditing"
+class="external text" rel="nofollow">MediaWiki Help%253AEditing</a> for
 extensive documentation and hints.
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Help](Category%253AHelp "Category%253AHelp")
 
 
 
@@ -67,8 +67,8 @@ extensive documentation and hints.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -91,7 +91,7 @@ extensive documentation and hints.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Help%3AEditing" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Help%253AEditing" rel="smw-browse">Browse
   properties</a></span>
 
 

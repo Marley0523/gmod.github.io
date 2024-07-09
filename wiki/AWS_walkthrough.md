@@ -525,14 +525,14 @@ width="750" height="409" alt="Tabula rasa" />
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
 - [GMOD in the
-  Cloud](Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Screenshots](Category%3AScreenshots "Category%3AScreenshots")
+  Cloud](Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Screenshots](Category%253AScreenshots "Category%253AScreenshots")
 
 
 
@@ -567,8 +567,8 @@ width="750" height="409" alt="Tabula rasa" />
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

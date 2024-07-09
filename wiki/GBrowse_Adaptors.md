@@ -58,15 +58,15 @@ tradeoffs.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [DAS](Category%3ADAS "Category%3ADAS")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
-- [Chado](Category%3AChado "Category%3AChado")
-- [LuceGene](Category%3ALuceGene "Category%3ALuceGene")
-- [MySQL](Category%3AMySQL "Category%3AMySQL")
-- [PostgreSQL](Category%3APostgreSQL "Category%3APostgreSQL")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [DAS](Category%253ADAS "Category%253ADAS")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
+- [Chado](Category%253AChado "Category%253AChado")
+- [LuceGene](Category%253ALuceGene "Category%253ALuceGene")
+- [MySQL](Category%253AMySQL "Category%253AMySQL")
+- [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
 
 
 
@@ -80,7 +80,7 @@ tradeoffs.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Adaptors" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Adaptors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -104,8 +104,8 @@ tradeoffs.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

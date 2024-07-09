@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ARobin.haw</span>
+# <span dir="auto">User%253ARobin.haw</span>
 
 
 
@@ -54,8 +54,8 @@ Stein at the Ontario Institute for Cancer Research.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -78,7 +78,7 @@ Stein at the Ontario Institute for Cancer Research.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARobin.haw" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ARobin.haw" rel="smw-browse">Browse
   properties</a></span>
 
 

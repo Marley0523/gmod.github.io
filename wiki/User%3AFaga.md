@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AFaga</span>
+# <span dir="auto">User%253AFaga</span>
 
 
 
@@ -60,8 +60,8 @@ Email: faga at cshl.edu
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -84,7 +84,7 @@ Email: faga at cshl.edu
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AFaga" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AFaga" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AModware</span>
+# <span dir="auto">Category%253AModware</span>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-Modware is an object-oriented [Perl](Category%3APerl "Category%3APerl") API
+Modware is an object-oriented [Perl](Category%253APerl "Category%253APerl") API
 for <a href="Chado" class="mw-redirect" title="Chado">Chado</a>. It
 allows object-oriented querying and loading of a Chado database and
 returns data structures that a programmer can readily use without
@@ -79,11 +79,11 @@ This category contains only the following file.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [Perl](Category%3APerl "Category%3APerl")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [Perl](Category%253APerl "Category%253APerl")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -117,8 +117,8 @@ This category contains only the following file.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -141,7 +141,7 @@ This category contains only the following file.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AModware" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AModware" rel="smw-browse">Browse
   properties</a></span>
 
 

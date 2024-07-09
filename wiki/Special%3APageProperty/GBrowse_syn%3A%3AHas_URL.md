@@ -28,9 +28,9 @@
   class="external"
   rel="nofollow">http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/</a>
 - <a
-  href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501"
+  href="http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%253A8367000..8370501"
   class="external"
-  rel="nofollow">http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%3A8367000..8370501</a>
+  rel="nofollow">http://www.arabidopsis.org/cgi-bin/gbrowse_syn/arabidopsis/?name=Chr1%253A8367000..8370501</a>
 - <a href="https://github.com/GMOD/GBrowse" class="external"
   rel="nofollow">https://github.com/GMOD/GBrowse</a>
 
@@ -52,7 +52,7 @@ From page     Property
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3APageProperty/GBrowse_syn%3A%3AHas_URL "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253APageProperty/GBrowse_syn%253A%253AHas_URL "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -78,8 +78,8 @@ From page     Property
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

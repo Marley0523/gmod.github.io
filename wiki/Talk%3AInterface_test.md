@@ -23,7 +23,7 @@ Scott, I am waiting till thurs eve. or friday to see what other
 contributions will show, then expect to revise the remainder report into
 all paragraph text (with full sentences ! :). Every time I try to
 convert from outline/list to paragraph, someone jumps in and converts
-back to list format :( [Dongilbert](User%3ADongilbert "User%3ADongilbert")
+back to list format :( [Dongilbert](User%253ADongilbert "User%253ADongilbert")
 
 # <span id="Mod_Face_slide_files" class="mw-headline">Mod Face slide files</span>
 
@@ -32,7 +32,7 @@ Scott, can you copy over the slide files for Mod Face Caucus from
 class="external free"
 rel="nofollow">http://marmot.bio.indiana.edu/gmod/slides07jan/</a> or do
 you want me to send or put somewhere else?
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 15:44, 8 February 2007
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 15:44, 8 February 2007
 (EST)
 
 # <span id="Also_for_the_Face_report" class="mw-headline">Also for the Face report</span>
@@ -62,7 +62,7 @@ rel="nofollow">http://marmot.bio.indiana.edu/wiki/index.php/Participants</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AInterface_test" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AInterface_test" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -86,8 +86,8 @@ rel="nofollow">http://marmot.bio.indiana.edu/wiki/index.php/Participants</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse Tutorial</span>
+# <span dir="auto">Talk%253AGBrowse Tutorial</span>
 
 
 
@@ -20,7 +20,7 @@
 The links to the Administration Tutorials above are broken!
 
 - *Fixed now; thanks for pointing that out.*
-  [Scott](User%3AScott "User%3AScott") 19:57, 5 August 2011 (UTC)
+  [Scott](User%253AScott "User%253AScott") 19:57, 5 August 2011 (UTC)
 
 
 
@@ -36,7 +36,7 @@ The links to the Administration Tutorials above are broken!
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Tutorial" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -60,8 +60,8 @@ The links to the Administration Tutorials above are broken!
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -18,7 +18,7 @@
 TutorialHeader \| what = GBrowse \| where = [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas")
-\| who = [Scott Cain](User%3AScott "User%3AScott") \| when = May 2010 \|
+\| who = [Scott Cain](User%253AScott "User%253AScott") \| when = May 2010 \|
 logo = GBrowseLogo.png
 
 
@@ -76,7 +76,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -124,7 +124,7 @@ Some simple tweaks and additions:
 ### <span id="Materialized_views_for_searching" class="mw-headline">Materialized views for searching</span>
 
 Chado comes with a tool to materialize views written by developers at
-the [SOL Genomics Network (SGN)](Category%3ASGN "Category%3ASGN"). A
+the [SOL Genomics Network (SGN)](Category%253ASGN "Category%253ASGN"). A
 materialized view is faster (at the expense of more disk space) to
 search than a regular view (which is really a query over potentially
 several tables). To create a materialized view that makes searching a
@@ -171,10 +171,10 @@ obscure answers:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -206,8 +206,8 @@ obscure answers:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

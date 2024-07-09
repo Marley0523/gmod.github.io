@@ -25,7 +25,7 @@ dev = active \| support = active \| type = Genome Annotation \| platform
 class="external free"
 rel="nofollow">http://www.yandell-lab.org/software/maker.html</a> \|
 about = MAKER is a portable and easy to configure genome
-[annotation](../Category%3AAnnotation "Category%3AAnnotation") pipeline.
+[annotation](../Category%253AAnnotation "Category%253AAnnotation") pipeline.
 MAKER allows smaller _eukaryotic_ genome projects and _prokaryotic_
 genome projects to annotate their genomes and to create genome
 databases. MAKER identifies repeats, aligns ESTs and proteins to a
@@ -69,12 +69,12 @@ directory in the download. \| screenshot =
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [MAKER](../Category%3AMAKER "Category%3AMAKER")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [MAKER](../Category%253AMAKER "Category%253AMAKER")
 
 
 
@@ -111,8 +111,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

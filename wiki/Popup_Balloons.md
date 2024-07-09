@@ -28,7 +28,7 @@ height="105" alt="Sample ballon.png" />
 **balloon.js** is a javascript class for balloon tooltips, otherwise
 known as popup balloons, bubble tooltips, rollover tooltips, etc. It is
 maintained by <span class="pops">[Sheldon
-McKay](User%3AMckays "User%3AMckays")</span>, a scientist at the
+McKay](User%253AMckays "User%253AMckays")</span>, a scientist at the
 <span class="pops"><a href="http://dnalc.org" class="external text" rel="nofollow">DNA
 Learning center</a></span>,
 <span class="pops"><a href="http://www.cshl.edu" class="external text" rel="nofollow">Cold
@@ -1455,12 +1455,12 @@ package installed on local desktop computers
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Javascript](Category%3AJavascript "Category%3AJavascript")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [Javascript](Category%253AJavascript "Category%253AJavascript")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
 
 
@@ -1494,8 +1494,8 @@ package installed on local desktop computers
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -23,14 +23,14 @@ width="250" height="55" alt="JBrowse" />
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Mitch
-Skinner](User%3AMitchSkinner "User%3AMitchSkinner") at the [2010 GMOD Summer
+Skinner](User%253AMitchSkinner "User%253AMitchSkinner") at the [2010 GMOD Summer
 School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas"),
 May 2010. The most recent JBrowse tutorial can be found at the
 <a href="JBrowse_Tutorial" class="mw-redirect"
 title="JBrowse Tutorial">JBrowse Tutorial</a> page.
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") walks you
+This [tutorial](Category%253ATutorials "Category%253ATutorials") walks you
 through setting up and running a [JBrowse](JBrowse.1 "JBrowse") server.
 
 
@@ -116,7 +116,7 @@ class="external text" rel="nofollow">end image</a>.
 
 **Important Note**
 
-This [tutorial](Category%3ATutorials "Category%3ATutorials") describes the
+This [tutorial](Category%253ATutorials "Category%253ATutorials") describes the
 world as it existed on the day the tutorial was given. Please be aware
 that things like CPAN modules, Java libraries, and Linux packages change
 over time, and that the instructions in the tutorial will slowly drift
@@ -452,10 +452,10 @@ Visit in web browser
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 
 
@@ -466,7 +466,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 |                                                        |                                                                                                                                                                    |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/JBrowse "Special%253ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 
 
@@ -498,8 +498,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2010 "Special:Expo
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

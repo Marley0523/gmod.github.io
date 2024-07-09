@@ -18,7 +18,7 @@
 
 
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-tutorial was presented by [Scott Cain](User%3AScott "User%3AScott") as part
+tutorial was presented by [Scott Cain](User%253AScott "User%253AScott") as part
 of the [2013 GMOD Summer
 School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
@@ -256,7 +256,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 - **Extensible**
   - Write your own modules and properties
 - **Widely used**
-  - [FlyBase](Category%3AFlyBase "Category%3AFlyBase") - Chado started here,
+  - [FlyBase](Category%253AFlyBase "Category%253AFlyBase") - Chado started here,
     large diverse dataset and organization
   - <a href="http://xenbase.org" class="external text"
     rel="nofollow">Xenbase</a> - Smaller, but with several IT staff
@@ -1874,10 +1874,10 @@ diversity data.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
-- [Chado](Category%3AChado "Category%3AChado")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -1888,7 +1888,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2013 "Special:Export
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/Chado "Special%3ASearchByProperty/Has-20topic/Chado")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Chado "Special%253ASearchByProperty/Has-20topic/Chado")</span> |
 
 
 
@@ -1922,8 +1922,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2013 "Special:Export
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

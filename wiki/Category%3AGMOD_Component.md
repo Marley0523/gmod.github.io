@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Component</span>
+# <span dir="auto">Category%253AGMOD Component</span>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-[Tool data](Form%3ATool_data "Form:Tool data")
+[Tool data](Form%253ATool_data "Form:Tool data")
 
 
 ## Pages in category "GMOD Component"
@@ -69,7 +69,7 @@ title="GMOD Online Training 2014/GBrowse syn Tutorial">GMOD Online
 Training 2014/GBrowse syn Tutorial</a></li>
 <li><a href="GO_Graphic_Viewer.1" title="GO Graphic Viewer">GO Graphic
 Viewer</a></li>
-<li><a href="GO%3A%3ATermFinder.1"
+<li><a href="GO%253A%253ATermFinder.1"
 title="GO::TermFinder">GO::TermFinder</a></li>
 </ul>
 <h3 id="i">I</h3>
@@ -133,12 +133,12 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Component](Special%253ABrowse/Category%3AGMOD-20Component "Special%253ABrowse/Category%3AGMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:ExportRDF/Category%3AGMOD Component")</span></span>
+Component](Special%253ABrowse/Category%253AGMOD-20Component "Special%253ABrowse/Category%253AGMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+feed](http://gmod.org/wiki/Special:ExportRDF/Category%253AGMOD_Component "Special:ExportRDF/Category%253AGMOD Component")</span></span>
 
 |  |  |
 |----|----|
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%3AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form%3ATool_data "Form:Tool data") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20default-20form/Tool-20data "Special%3ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has default form](Property%253AHas_default_form "Property:Has default form")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | [Tool data](Form%253ATool_data "Form:Tool data") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20default-20form/Tool-20data "Special%253ASearchByProperty/Has-20default-20form/Tool-20data")</span> |
 
 
 
@@ -172,8 +172,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -196,7 +196,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Component" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Component" rel="smw-browse">Browse
   properties</a></span>
 
 

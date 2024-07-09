@@ -31,7 +31,7 @@ The [March 2011 GMOD
 Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting") will be
 followed with a day of *Satellite Meetings.* Satellite meetings are
 birds-of-a-feather gatherings at [GMOD
-events](Category%3AEvents "Category%3AEvents") where community members with
+events](Category%253AEvents "Category%253AEvents") where community members with
 common interests gather for part or all of a day to discuss and work on
 a topic of interest to them. This is the third event that will have
 satellite meetings.
@@ -62,10 +62,10 @@ Meeting](March_2011_GMOD_Meeting "March 2011 GMOD Meeting").
 
 | Topic | Proposers and/or Organizers | Time | Comments |
 |----|----|----|----|
-| [GMOD Evo Hackathon Followup](GMOD_Evo_Hackathon#March_2011_Satellite "GMOD Evo Hackathon") | [Duke Leto](User%3ADukeleto "User%3ADukeleto") | TBD | [Followup meeting](GMOD_Evo_Hackathon#March_2011_Satellite "GMOD Evo Hackathon") to the [GMOD Evo Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon") held at NESCent in November 2011. |
-| [Extending Embedding and Customizing JBrowse](Extending_Embedding_and_Customizing_JBrowse "Extending Embedding and Customizing JBrowse") | [Mitch Skinner](User%3AMitchSkinner "User%3AMitchSkinner") | TBD | [JBrowse](JBrowse.1 "JBrowse") has a few different extension points, but they're not (yet) well-documented or widely used. The GMOD meeting would be a good time to review those [APIs](Glossary#API "Glossary"), relate them to the things that people want to do with them, discuss any potential changes or new APIs to support specific use cases, and potentially start to implement an extension. |
-| [GMOD Web services toolkit](GMOD_RPC_API "GMOD RPC API") | [Josh Goodman](User%3AJogoodma "User%3AJogoodma") | Cancelled | ~~Come to work on or discuss the [GMOD Web services API and the toolkit](GMOD_RPC_API "GMOD RPC API").~~ |
-| [GMOD in the Sequencing Center](GMOD_in_the_Sequencing_Center "GMOD in the Sequencing Center") | [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"), [Dave Clements](User%3AClements "User%3AClements") | TBD | Sequencing centers have tremendous bioinformatics needs that GMOD can help address. Attend this satellite to find out what other sequencing centers are doing with GMOD, and how GMOD can help you help your researchers. |
+| [GMOD Evo Hackathon Followup](GMOD_Evo_Hackathon#March_2011_Satellite "GMOD Evo Hackathon") | [Duke Leto](User%253ADukeleto "User%253ADukeleto") | TBD | [Followup meeting](GMOD_Evo_Hackathon#March_2011_Satellite "GMOD Evo Hackathon") to the [GMOD Evo Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon") held at NESCent in November 2011. |
+| [Extending Embedding and Customizing JBrowse](Extending_Embedding_and_Customizing_JBrowse "Extending Embedding and Customizing JBrowse") | [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | TBD | [JBrowse](JBrowse.1 "JBrowse") has a few different extension points, but they're not (yet) well-documented or widely used. The GMOD meeting would be a good time to review those [APIs](Glossary#API "Glossary"), relate them to the things that people want to do with them, discuss any potential changes or new APIs to support specific use cases, and potentially start to implement an extension. |
+| [GMOD Web services toolkit](GMOD_RPC_API "GMOD RPC API") | [Josh Goodman](User%253AJogoodma "User%253AJogoodma") | Cancelled | ~~Come to work on or discuss the [GMOD Web services API and the toolkit](GMOD_RPC_API "GMOD RPC API").~~ |
+| [GMOD in the Sequencing Center](GMOD_in_the_Sequencing_Center "GMOD in the Sequencing Center") | [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri"), [Dave Clements](User%253AClements "User%253AClements") | TBD | Sequencing centers have tremendous bioinformatics needs that GMOD can help address. Attend this satellite to find out what other sequencing centers are doing with GMOD, and how GMOD can help you help your researchers. |
 
 ## <span id="Previous_Topics" class="mw-headline">Previous Topics</span>
 
@@ -178,8 +178,8 @@ alt="GMODAmericas2011FlierThumb.png" /></a></td>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse NGS Tutorial</span>
+# <span dir="auto">Talk%253AGBrowse NGS Tutorial</span>
 
 
 
@@ -25,7 +25,7 @@ complaining
 
      libbam.a(bgzf.o): relocation R_X86_64_32 against `a local symbol' can not be used when making a shared object; recompile with -fPIC
 
-\-[Stajich](User%3AStajich "User%3AStajich") 19:03, 14 November 2009 (UTC)
+\-[Stajich](User%253AStajich "User%253AStajich") 19:03, 14 November 2009 (UTC)
 
 
 
@@ -41,7 +41,7 @@ complaining
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_NGS_Tutorial" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_NGS_Tutorial" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -65,8 +65,8 @@ complaining
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

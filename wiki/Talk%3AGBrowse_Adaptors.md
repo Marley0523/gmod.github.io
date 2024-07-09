@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse Adaptors</span>
+# <span dir="auto">Talk%253AGBrowse Adaptors</span>
 
 
 
@@ -18,12 +18,12 @@
 
 
 Where can I read about how to use these adaptors in GBrowse?
---[DanBolser](User%3ADanBolser "User%3ADanBolser") 11:15, 4 March 2011 (UTC)
+--[DanBolser](User%253ADanBolser "User%253ADanBolser") 11:15, 4 March 2011 (UTC)
 
 What sort of thing are you looking for? Each of the adaptors has a link
 to some form of help text, typically perldoc-like stuff. Additionally,
 GBrowse comes with a tutorial that covers using some of the different
-adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
+adaptors. [Scott](User%253AScott "User%253AScott") 16:30, 9 March 2011 (UTC)
 
 
 
@@ -39,7 +39,7 @@ adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Adaptors" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Adaptors" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -63,8 +63,8 @@ adaptors. [Scott](User%3AScott "User%3AScott") 16:30, 9 March 2011 (UTC)
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

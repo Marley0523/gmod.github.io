@@ -20,9 +20,9 @@
 
 
 <a
-href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=5000&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
+href="http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=5000&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 class="external text" rel="nofollow">RSS</a> <a
-href="http://gmod.org/wiki?title=Special%3ANewsChannel&amp;format=rss20&amp;limit=5000&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
+href="http://gmod.org/wiki?title=Special%253ANewsChannel&amp;format=rss20&amp;limit=5000&amp;cat1=&amp;cat2=&amp;excat1=&amp;wpSubmitNewsChannelParams=Create+feed"
 rel="nofollow" title="RSS feed"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/RSSIcon16x16.gif" width="16" height="16"
 alt="RSS feed" /></a>  
@@ -86,7 +86,7 @@ for Proposals for GSoC 2014</a></li>
 <li><a href="News/GMOD_At_PAG_2014">GMOD At PAG 2014</a></li>
 <li><a href="News/Announcing_GMOD_Malaysia_2014">Announcing GMOD
 Malaysia 2014</a></li>
-<li><a href="News/MAKER-P%3A_an_annotation_pipeline_for_plants">MAKER-P:
+<li><a href="News/MAKER-P%253A_an_annotation_pipeline_for_plants">MAKER-P:
 an annotation pipeline for plants</a></li>
 <li><a href="News/GMOD_Paper_Cuts,_Dec_6th,_2013">GMOD Paper Cuts, Dec
 6th, 2013</a></li>
@@ -107,11 +107,11 @@ dictyBase</a></li>
 Publication</a></li>
 <li><a href="News/San_Diego_2014_Registration_Open">San Diego 2014
 Registration Open</a></li>
-<li><a href="News/GCC2014%3A_June_30_-_July_2">GCC2014: June 30 - July
+<li><a href="News/GCC2014%253A_June_30_-_July_2">GCC2014: June 30 - July
 2</a></li>
 <li><a href="News/Get_the_Full_ImpactStory">Get the Full
 ImpactStory</a></li>
-<li><a href="News/GMOD_2014_San_Diego%3A_Save_the_Date">GMOD 2014 San
+<li><a href="News/GMOD_2014_San_Diego%253A_Save_the_Date">GMOD 2014 San
 Diego: Save the Date</a></li>
 <li><a href="News/Statistical_Genomics_PostDoc_at_PSU">Statistical
 Genomics PostDoc at PSU</a></li>
@@ -2071,7 +2071,7 @@ title="GMOD News">GMOD News</a> on 2013/12/28</em>
 
 
 <h3 id="maker-p-an-annotation-pipeline-for-plants"><a
-href="News/MAKER-P%3A_an_annotation_pipeline_for_plants">MAKER-P: an
+href="News/MAKER-P%253A_an_annotation_pipeline_for_plants">MAKER-P: an
 annotation pipeline for plants</a></h3>
 <p>The popular <a
 href="http://gmod.org/wiki/http://gmod.org/wiki/MAKER#58;//gmod.org/wiki/MAKER"
@@ -3006,7 +3006,7 @@ title="GMOD News">GMOD News</a> on 2013/10/25</em>
 
 
 <h3 id="gcc2014-june-30---july-2"><a
-href="News/GCC2014%3A_June_30_-_July_2">GCC2014: June 30 - July 2</a></h3>
+href="News/GCC2014%253A_June_30_-_July_2">GCC2014: June 30 - July 2</a></h3>
 
 <a
 href="http://gmod.org/wiki/http://wiki.galaxyproject.org/Events/GCC2014#58;//wiki.galaxyproject.org/Events/GCC2014"
@@ -3098,7 +3098,7 @@ class="external text" rel="nofollow">ImpactStory</a> website.</p>
 
 
 <h3 id="gmod-2014-san-diego-save-the-date"><a
-href="News/GMOD_2014_San_Diego%3A_Save_the_Date">GMOD 2014 San Diego: Save
+href="News/GMOD_2014_San_Diego%253A_Save_the_Date">GMOD 2014 San Diego: Save
 the Date</a></h3>
 
 <a
@@ -3213,8 +3213,8 @@ submitting many letters of support from users. We would be very grateful
 if you could take a couple of minutes to write such a letter; it should
 include information about how you use or plan to use GMOD software.
 There are <a
-href="http://gmod.org/wiki/User%3AScott#Support_letter_templates#58;//gmod.org/wiki/User%3AScott#Support_letter_templates"
-title="User%3AScott">some template paragraphs</a> provided for
+href="http://gmod.org/wiki/User%253AScott#Support_letter_templates#58;//gmod.org/wiki/User%253AScott#Support_letter_templates"
+title="User%253AScott">some template paragraphs</a> provided for
 inspiration.</p>
 <p>The letters should be on institutional letterhead, signed, and then
 scanned to a PDF, or you could mail the original to Scott Cain and he
@@ -3229,8 +3229,8 @@ willing to write a letter or if you need any help.</p>
 <p>This grant would help to secure the future of important parts of the
 GMOD project, so we would be very grateful for your help!</p>
 <p><em>Via <a
-href="http://gmod.org/wiki/User%3AScott#58;//gmod.org/wiki/User%3AScott"
-title="User%3AScott">Scott Cain</a></em></p>
+href="http://gmod.org/wiki/User%253AScott#58;//gmod.org/wiki/User%253AScott"
+title="User%253AScott">Scott Cain</a></em></p>
 <p><br />
 </p>
 
@@ -3283,8 +3283,8 @@ class="mw-redirect" title="WebApollo Tutorial">WebApollo</a></li>
 </ul>
 <p>The full set of GMOD tutorials, featuring all the material from this
 year's summer school and more, is available from the <a
-href="http://gmod.org/wiki/Category%3ATutorials#58;//gmod.org/wiki/Category%3ATutorials"
-title="Category%3ATutorials">Tutorials</a> section of the wiki.</p>
+href="http://gmod.org/wiki/Category%253ATutorials#58;//gmod.org/wiki/Category%253ATutorials"
+title="Category%253ATutorials">Tutorials</a> section of the wiki.</p>
 <p><br />
 </p>
 
@@ -3309,9 +3309,9 @@ href="http://gmod.org/wiki/http://gmod.org/wiki/JBrowse_Configuration_Guide#58;/
 title="JBrowse Configuration Guide">JBrowse Configuration Guide</a> for
 documentation on how to use the new features.</p>
 <p><a
-href="http://gmod.org/wiki/User%3ARobertBuels#58;//gmod.org/wiki/User%3ARobertBuels"
-title="User%3ARobertBuels">RobertBuels</a> (<a
-href="http://gmod.org/wiki/User_talk%3ARobertBuels#58;//gmod.org/wiki/User_talk%3ARobertBuels"
+href="http://gmod.org/wiki/User%253ARobertBuels#58;//gmod.org/wiki/User%253ARobertBuels"
+title="User%253ARobertBuels">RobertBuels</a> (<a
+href="http://gmod.org/wiki/User_talk%253ARobertBuels#58;//gmod.org/wiki/User_talk%253ARobertBuels"
 title="User talk:RobertBuels">talk</a>)</p>
 <p><br />
 </p>
@@ -3329,8 +3329,8 @@ Fixed</a></h3>
 <p>Account creation using OpenID is currently disabled due to problems
 with the OpenID plugin. New wiki users wishing to create accounts should
 use the 'Log in / create account' link and <a
-href="http://gmod.org/wiki/Special%3ARequestAccount#58;//gmod.org/wiki/Special%3ARequestAccount"
-title="Special%3ARequestAccount">request an account</a>; your request
+href="http://gmod.org/wiki/Special%253ARequestAccount#58;//gmod.org/wiki/Special%253ARequestAccount"
+title="Special%253ARequestAccount">request an account</a>; your request
 should be dealt with within 24-48 hours. Unfortunately, due to spammers
 and others creating bogus accounts, we have to had to put protective
 measures in place.</p>
@@ -3605,8 +3605,8 @@ release</strong></a> -
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

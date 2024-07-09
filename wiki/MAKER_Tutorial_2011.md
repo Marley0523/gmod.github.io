@@ -18,7 +18,7 @@
 
 
 This [MAKER](MAKER.1 "MAKER") tutorial was taught by [Barry
-Moore](User%3ABmoore "User%3ABmoore") as part of the [2011 GMOD Spring
+Moore](User%253ABmoore "User%253ABmoore") as part of the [2011 GMOD Spring
 Training](2011_GMOD_Spring_Training "2011 GMOD Spring Training").
 
 
@@ -626,12 +626,12 @@ Scripts:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2011 Spring
-  Training](Category%3A2011_Spring_Training "Category%3A2011 Spring Training")
-- [MAKER](Category%3AMAKER "Category%3AMAKER")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  Training](Category%253A2011_Spring_Training "Category%253A2011 Spring Training")
+- [MAKER](Category%253AMAKER "Category%253AMAKER")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -642,7 +642,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2011 "Special:Export
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/MAKER "Special%3ASearchByProperty/Has-20topic/MAKER")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [MAKER](MAKER.1 "MAKER") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/MAKER "Special%253ASearchByProperty/Has-20topic/MAKER")</span> |
 
 
 
@@ -676,8 +676,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2011 "Special:Export
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

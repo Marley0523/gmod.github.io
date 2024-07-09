@@ -31,7 +31,7 @@ predominantly an 'add on' (documentation, discussion, etc.)? I am happy
 to expand the GMOD related content in MetaBase, but I wonder if it
 belongs in the list of 'BioWikis'?
 
-Cheers, --[Dan](User%3ADan "User%3ADan") 10:18, 3 May 2008 (EDT)
+Cheers, --[Dan](User%253ADan "User%253ADan") 10:18, 3 May 2008 (EDT)
 
 ------------------------------------------------------------------------
 
@@ -50,14 +50,14 @@ Please send me an
 <a href="mailto:clements@nescent.org" class="external text"
 rel="nofollow">e-mail</a>.
 
-[Dave Clements](User%3AClements "User%3AClements"), 7 May 2008
+[Dave Clements](User%253AClements "User%253AClements"), 7 May 2008
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -71,7 +71,7 @@ rel="nofollow">e-mail</a>.
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Mailing_Lists" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Mailing_Lists" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -95,8 +95,8 @@ rel="nofollow">e-mail</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

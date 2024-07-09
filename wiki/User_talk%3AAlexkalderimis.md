@@ -46,9 +46,9 @@ rel="nofollow">Hosted on Dropbox</a>
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AAlexkalderimis" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253AAlexkalderimis" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AAlexkalderimis" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AAlexkalderimis" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -72,8 +72,8 @@ rel="nofollow">Hosted on Dropbox</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -59,7 +59,7 @@ Bulkfiles is a GMOD [Perl](Glossary#Perl "Glossary") package that
 generates Fasta, [GFF3](GFF3 "GFF3"), DNA and other bulk genome
 annotation files from
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> databases.
-It works with several [FlyBase](Category%3AFlyBase "Category%3AFlyBase")
+It works with several [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
 Chado releases, with SGDLite, and has been tested with other Chado
 databases. Once tuned to your project's needs with its organism and site
 configurations, it can generate public data releases on a regular basis.
@@ -85,9 +85,9 @@ Bulkfiles base adaptor object.
 # <span id="Why_Use_Bulkfiles.3F" class="mw-headline">Why Use Bulkfiles?</span>
 
 Why use this package rather than using other [middleware
-layers](Category%3AMiddleware "Category%3AMiddleware") to Chado db - [Chado
+layers](Category%253AMiddleware "Category%253AMiddleware") to Chado db - [Chado
 XML](Chado_XML "Chado XML"),
-[Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI"),
+[Chado%253A%253AAutoDBI](Chado%253A%253AAutoDBI "Chado%253A%253AAutoDBI"),
 [BioPerl](BioPerl "BioPerl"), ? The general logic is
 
 1.  dump all Chado db features using simple (and quick) sql, to common
@@ -328,18 +328,18 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-[Dongilbert](User%3ADongilbert "User%3ADongilbert")
+[Dongilbert](User%253ADongilbert "User%253ADongilbert")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
-- [Chado](Category%3AChado "Category%3AChado")
-- [Database Tools](Category%3ADatabase_Tools "Category%3ADatabase Tools")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Database Tools](Category%253ADatabase_Tools "Category%253ADatabase Tools")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -353,7 +353,7 @@ Version 1.1 (2007 October) adds these features and corrections:
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMODTools" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMODTools" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -377,8 +377,8 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -136,7 +136,7 @@ package for release</td>
 ## <span id="Meeting_Report" class="mw-headline">Meeting Report</span>
 
 Meeting report for October, 2005 GMOD meeting. This is an outline by
-[Scott Cain](User%3AScott "User%3AScott").
+[Scott Cain](User%253AScott "User%253AScott").
 
 Topics covered:
 
@@ -157,13 +157,13 @@ Topics covered:
 - Architecture
   - Testing recommendations
   - Volunteers to examine [Java ORMs Hibernate and
-    iBatis](Category%3AMiddleware "Category%3AMiddleware")
+    iBatis](Category%253AMiddleware "Category%253AMiddleware")
   - How to get various chado instances to conform to a standard method
     of encoding data? Documentation: Joshua (TIGR) volunteered to
     document how TIGR is using chado to encode data and make it public
     as a first step in a collaborative effort among current users of
     chado (including TIGR,
-    [FlyBase](Category%3AFlyBase "Category%3AFlyBase"), and GMOD
+    [FlyBase](Category%253AFlyBase "Category%253AFlyBase"), and GMOD
     developers).
 - [www.gmod.org](Main_Page "Main Page")
   - In the evening of the first day, Allen Day, Brian O'Connor and Scott
@@ -191,7 +191,7 @@ Topics covered:
 - demos
   - <a href="Ergatis" class="mw-redirect" title="Ergatis">TIGR pipeline
     tool</a>
-  - Princeton/[SGD](Category%3ASGD "Category%3ASGD") web-based data curation
+  - Princeton/[SGD](Category%253ASGD "Category%253ASGD") web-based data curation
     tool (talks directly to chado)
   - [DAS2](Distributed_Annotation_System "Distributed Annotation System")
     java tool for querying [chado microarray
@@ -200,7 +200,7 @@ Topics covered:
     (<a href="http://xenbase.org" class="external text"
     rel="nofollow">XenBase</a>\])
   - PuMA, java tool for pubmed query building
-  - [ApiDB](Category%3AApiDB "Category%3AApiDB") [GBrowse for
+  - [ApiDB](Category%253AApiDB "Category%253AApiDB") [GBrowse for
     synteny](SynView "SynView")
   - flybase gbrowse for synteny
   - flybase query builder
@@ -209,10 +209,10 @@ Topics covered:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [DictyBase](Category%253ADictyBase "Category%253ADictyBase")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -245,8 +245,8 @@ Topics covered:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

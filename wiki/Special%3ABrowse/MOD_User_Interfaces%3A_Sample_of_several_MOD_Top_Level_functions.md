@@ -20,14 +20,14 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[Gramene](/wiki/Category%3AGramene "Category%3AGramene")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Gramene "Special%3ASearchByProperty/Gramene")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%3AMGI "Category%3AMGI")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MGI "Special%3ASearchByProperty/MGI")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/MOD-20User-20Interfaces "Special%3ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[RGD](/wiki/Category%3ARGD "Category%3ARGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/RGD "Special%3ASearchByProperty/RGD")</span></span> , <span class="smwb-value">[SGD](/wiki/Category%3ASGD "Category%3ASGD")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SGD "Special%3ASearchByProperty/SGD")</span></span> , <span class="smwb-value">[TAIR](/wiki/Category%3ATAIR "Category%3ATAIR")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/TAIR "Special%3ASearchByProperty/TAIR")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%3AWormBase "Category%3AWormBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/WormBase "Special%3ASearchByProperty/WormBase")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 January 2008 19:51:31  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/23-20January-202008-2019:51:31 "Special%3ASearchByProperty/Modification-20date/23-20January-202008-2019:51:31")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[FlyBase](/wiki/Category%253AFlyBase "Category%253AFlyBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/FlyBase "Special%253ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value">[Gramene](/wiki/Category%253AGramene "Category%253AGramene")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Gramene "Special%253ASearchByProperty/Gramene")</span></span> , <span class="smwb-value">[MGI](/wiki/Category%253AMGI "Category%253AMGI")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/MGI "Special%253ASearchByProperty/MGI")</span></span> , <span class="smwb-value">[MOD User Interfaces](/wiki/Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/MOD-20User-20Interfaces "Special%253ASearchByProperty/MOD-20User-20Interfaces")</span></span> , <span class="smwb-value">[RGD](/wiki/Category%253ARGD "Category%253ARGD")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/RGD "Special%253ASearchByProperty/RGD")</span></span> , <span class="smwb-value">[SGD](/wiki/Category%253ASGD "Category%253ASGD")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/SGD "Special%253ASearchByProperty/SGD")</span></span> , <span class="smwb-value">[TAIR](/wiki/Category%253ATAIR "Category%253ATAIR")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/TAIR "Special%253ASearchByProperty/TAIR")</span></span> , <span class="smwb-value">[WormBase](/wiki/Category%253AWormBase "Category%253AWormBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WormBase "Special%253ASearchByProperty/WormBase")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 January 2008 19:51:31  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/23-20January-202008-2019:51:31 "Special%253ASearchByProperty/Modification-20date/23-20January-202008-2019:51:31")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=MOD+User+Interfaces%3A+Sample+of+several+MOD+Top+Level+functions)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=MOD+User+Interfaces%253A+Sample+of+several+MOD+Top+Level+functions)  |  |
 
 |     |                                    |
 |-----|------------------------------------|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/MOD_User_Interfaces%253A_Sample_of_several_MOD_Top_Level_functions "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

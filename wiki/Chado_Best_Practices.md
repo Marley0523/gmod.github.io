@@ -353,7 +353,7 @@ data-align="right" width="200px">
 all of prokaryotic molecular biology to being outside the realm of
 biologists who use the term "gene". Note that although the test refers
 to two proposals, they are not linked/or described. What the heck are
-they?!!! <a href="User%3AJimHu.1" title="User%3AJimHu">JimHu</a> 13:33, 10
+they?!!! <a href="User%253AJimHu.1" title="User%253AJimHu">JimHu</a> 13:33, 10
 April 2007 (EDT)</p></td>
 </tr>
 </tbody>
@@ -1056,13 +1056,13 @@ dictyBase:DDB0185051
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Pages with problems or
-  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
-- [Chado](Category%3AChado "Category%3AChado")
+  questions](Category%253APages_with_problems_or_questions "Category%253APages with problems or questions")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -1096,8 +1096,8 @@ dictyBase:DDB0185051
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

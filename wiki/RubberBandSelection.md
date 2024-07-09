@@ -231,13 +231,13 @@ Configuration for submitter plugin (used in above menu).
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [AJAX](Category%3AAJAX "Category%3AAJAX")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
-- [Javascript](Category%3AJavascript "Category%3AJavascript")
-- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
+- [AJAX](Category%253AAJAX "Category%253AAJAX")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
+- [Javascript](Category%253AJavascript "Category%253AJavascript")
+- [Documentation](Category%253ADocumentation "Category%253ADocumentation")
 
 
 
@@ -271,8 +271,8 @@ Configuration for submitter plugin (used in above menu).
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

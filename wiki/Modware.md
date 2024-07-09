@@ -92,7 +92,7 @@ using
 rel="nofollow">Moose</a> and
 <a href="http://search.cpan.org/perldoc?DBIx::Class"
 class="external text" rel="nofollow">DBIx::Class</a> (more precisely
-[Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") or BCS)
+[Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") or BCS)
 [ORM](Glossary#ORM "Glossary"). This part of development is done in sync
 with dictyBase's major data migration project which includes literature
 and gene ontology annotations. So, the first release of this new version
@@ -108,7 +108,7 @@ Relevant documentations and guidelines will also be added to this wiki.
 The first CPAN release is expected to be early next year.
 
 *Siddhartha Basu, Modware developer,
-[dictyBase](Category%3ADictyBase "Category%3ADictyBase"), 2010/10/28*
+[dictyBase](Category%253ADictyBase "Category%253ADictyBase"), 2010/10/28*
 
 ## <span id="Getting_Started" class="mw-headline">Getting Started</span>
 
@@ -162,12 +162,12 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [DictyBase](Category%3ADictyBase "Category%3ADictyBase")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [Modware](Category%3AModware "Category%3AModware")
+- [DictyBase](Category%253ADictyBase "Category%253ADictyBase")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [Modware](Category%253AModware "Category%253AModware")
 
 
 
@@ -201,8 +201,8 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

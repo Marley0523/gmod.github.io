@@ -287,8 +287,8 @@ style="color: #aaaaff">2009 GMOD Summer School - Europe</span></a></td>
 </tr>
 <tr class="even">
 <td>13:30-14:30</td>
-<td style="text-align: center;"><a href="User%3AScott"
-title="User%3AScott">Scott Cain</a> - Introductions and the State of
+<td style="text-align: center;"><a href="User%253AScott"
+title="User%253AScott">Scott Cain</a> - Introductions and the State of
 GMOD</td>
 <td><a href="http://prezi.com/143773/" class="external text"
 rel="nofollow">Prezi</a>, <a
@@ -300,10 +300,10 @@ href="#GMOD_Project_Talks">Summary</a></td>
 </tr>
 <tr class="odd">
 <td>14:30-15:00</td>
-<td style="text-align: center;"><a href="User%3AClements"
-title="User%3AClements">Dave Clements</a> 
-- [Semantic web](Category%3ASemantic_web "Category%3ASemantic web")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+<td style="text-align: center;"><a href="User%253AClements"
+title="User%253AClements">Dave Clements</a> 
+- [Semantic web](Category%253ASemantic_web "Category%253ASemantic web")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 
 
@@ -337,8 +337,8 @@ title="User%3AClements">Dave Clements</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

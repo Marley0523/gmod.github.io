@@ -76,9 +76,9 @@ rel="nofollow">https://gmod.svn.sourceforge.net/svnroot/gmod/schema/branches/int
 ## <span id="Schema_Drawing" class="mw-headline">Schema Drawing</span>
 
 <a
-href="http://gmod.org/w/index.php?title=Talk%3AChado_Natural_Diversity_Module_Working_Group#April_2010#April_2010"
+href="http://gmod.org/w/index.php?title=Talk%253AChado_Natural_Diversity_Module_Working_Group#April_2010#April_2010"
 class="external free"
-rel="nofollow">http://gmod.org/w/index.php?title=Talk%3AChado_Natural_Diversity_Module_Working_Group#April_2010</a>
+rel="nofollow">http://gmod.org/w/index.php?title=Talk%253AChado_Natural_Diversity_Module_Working_Group#April_2010</a>
 
 ## <span id="Notes_on_the_tables" class="mw-headline">Notes on the tables</span>
 
@@ -406,8 +406,8 @@ to create a new stock entity to represent the (temporarily) genetically
 altered organisms.
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User%3ASethnr&amp;action=edit&amp;redlink=1"
-class="new" title="User%3ASethnr (page does not exist)">Sethnr</a> 11:37,
+href="http://gmod.org/mediawiki/index.php?title=User%253ASethnr&amp;action=edit&amp;redlink=1"
+class="new" title="User%253ASethnr (page does not exist)">Sethnr</a> 11:37,
 27 May 2010 (UTC) *even if described by two protocols we would then have
 to distinguish which genotype/phenotype/assay_prop values arose from
 which protocol. Simple in this case, but perhaps not in others. I
@@ -434,8 +434,8 @@ suspect adding the second assay will be less of a headache*
     as in approach 1
 
 <a
-href="http://gmod.org/mediawiki/index.php?title=User%3ASethnr&amp;action=edit&amp;redlink=1"
-class="new" title="User%3ASethnr (page does not exist)">Sethnr</a> 11:37,
+href="http://gmod.org/mediawiki/index.php?title=User%253ASethnr&amp;action=edit&amp;redlink=1"
+class="new" title="User%253ASethnr (page does not exist)">Sethnr</a> 11:37,
 27 May 2010 (UTC) *it is arguable we could get away without a separate
 control stock. Whilst the knockdown is genotypically (-ish) different
 than the G3 line, and as such needs a separate entry in the stock table,
@@ -492,10 +492,10 @@ class="external text" rel="nofollow">VB wiki</a>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [Natural
-  Diversity](Category%3ANatural_Diversity "Category%3ANatural Diversity")
+  Diversity](Category%253ANatural_Diversity "Category%253ANatural Diversity")
 
 
 
@@ -529,8 +529,8 @@ class="external text" rel="nofollow">VB wiki</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

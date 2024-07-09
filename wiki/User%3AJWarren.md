@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AJWarren</span>
+# <span dir="auto">User%253AJWarren</span>
 
 
 
@@ -54,8 +54,8 @@ Institute
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -78,7 +78,7 @@ Institute
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AJWarren" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AJWarren" rel="smw-browse">Browse
   properties</a></span>
 
 

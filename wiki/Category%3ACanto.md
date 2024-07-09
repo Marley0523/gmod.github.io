@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3ACanto</span>
+# <span dir="auto">Category%253ACanto</span>
 
 
 
@@ -22,7 +22,7 @@
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/Canto "Special:Search/Canto")
 in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3ACanto"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ACanto"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -54,7 +54,7 @@ The following 4 pages are in this category, out of 4 total.
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3ACanto](Category%3ACanto)"
+Retrieved from "[http://gmod.org/wiki/Category%253ACanto](Category%253ACanto)"
 
 
 
@@ -87,8 +87,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3ACanto](Category%3ACanto)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -111,7 +111,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ACanto](Category%3ACanto)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ACanto" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253ACanto" rel="smw-browse">Browse
   properties</a></span>
 
 

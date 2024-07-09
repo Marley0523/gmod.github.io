@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AAJAX</span>
+# <span dir="auto">Category%253AAJAX</span>
 
 
 
@@ -77,9 +77,9 @@ title="September 2010 GMOD Meeting">September 2010 GMOD Meeting</a></li>
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -113,8 +113,8 @@ title="September 2010 GMOD Meeting">September 2010 GMOD Meeting</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -137,7 +137,7 @@ title="September 2010 GMOD Meeting">September 2010 GMOD Meeting</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AAJAX" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AAJAX" rel="smw-browse">Browse
   properties</a></span>
 
 

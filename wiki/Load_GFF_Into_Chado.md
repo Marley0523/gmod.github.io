@@ -17,7 +17,7 @@
 
 
 
-This [HOWTO](Category%3AHOWTO "Category%3AHOWTO") describes a method for
+This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes a method for
 loading sequence annotation data in [GFF3](GFF3 "GFF3") format into a
 [Chado database](Chado_-_Getting_Started "Chado - Getting Started").
 
@@ -48,7 +48,7 @@ An easy way to load data into the database is to use a
 [GFF3](GFF3 "GFF3") file and the script
 `load/bin/gmod_bulk_load_gff3.pl`. A good set of sample data is the GFF3
 file prepared by the nice folks at the [Saccharomyces Genome
-Database](Category%3ASGD "Category%3ASGD"):
+Database](Category%253ASGD "Category%253ASGD"):
 
 <a
 href="http://downloads.yeastgenome.org/curation/chromosomal_feature/saccharomyces_cerevisiae.gff"
@@ -113,7 +113,7 @@ created at the time of install. For more information on using these
 classes, see [Modware](Modware "Modware") for a
 <a href="http://search.cpan.org/perldoc?Class::DBI"
 class="external text" rel="nofollow">Class::DBI</a>-based
-[middleware/API](Category%3AMiddleware "Category%3AMiddleware").
+[middleware/API](Category%253AMiddleware "Category%253AMiddleware").
 
 ## <span id="Creating_GFF3_from_UniProt.2FSwissProt_Files" class="mw-headline">Creating GFF3 from UniProt/SwissProt Files</span>
 
@@ -150,18 +150,18 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ## <span id="Authors" class="mw-headline">Authors</span>
 
-- [Scott Cain](User%3AScott "User%3AScott")
+- [Scott Cain](User%253AScott "User%253AScott")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Testing](Category%3ANeeds_Testing "Category%3ANeeds Testing")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Chado](Category%3AChado "Category%3AChado")
+- [Needs Testing](Category%253ANeeds_Testing "Category%253ANeeds Testing")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Chado](Category%253AChado "Category%253AChado")
 
 
 
@@ -195,8 +195,8 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

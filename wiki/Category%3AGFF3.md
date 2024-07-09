@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGFF3</span>
+# <span dir="auto">Category%253AGFF3</span>
 
 
 
@@ -22,7 +22,7 @@
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/GFF3 "Special:Search/GFF3")
 in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AGFF3"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253AGFF3"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -76,7 +76,7 @@ title="GMOD Online Training 2014/GFF3 Tutorial">GMOD Online Training
 
 
 
-Retrieved from "[http://gmod.org/wiki/Category%3AGFF3](Category%3AGFF3)"
+Retrieved from "[http://gmod.org/wiki/Category%253AGFF3](Category%253AGFF3)"
 
 
 
@@ -109,8 +109,8 @@ Retrieved from "[http://gmod.org/wiki/Category%3AGFF3](Category%3AGFF3)"
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -133,7 +133,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3AGFF3](Category%3AGFF3)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGFF3" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGFF3" rel="smw-browse">Browse
   properties</a></span>
 
 

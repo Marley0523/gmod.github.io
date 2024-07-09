@@ -18,7 +18,7 @@
 
 
 This [JBrowse](JBrowse.1 "JBrowse") tutorial was presented by [Scott
-Cain](User%3AScott "User%3AScott") at the Programming for Biology at Cold
+Cain](User%253AScott "User%253AScott") at the Programming for Biology at Cold
 Spring Harbor Laboratory in October 2016 using JBrowse 1.12.1.
 
 This tutorial assumes an Ubuntu virtual machine at AWS (ami-47f1b050, in
@@ -617,7 +617,7 @@ JBrowse is built with a very flexible and powerful plugin system. The
 JBrowse developers are working on a plugin registry website, but for the
 time being, you can look at the source code for what will drive the
 website in the <a
-href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjyssGCz7fPAhUK2IMKHfcODEkQFggeMAA&amp;url=https%3A%2F%2Fgithub.com%2FGMOD%2Fjbrowse-registry&amp;usg=AFQjCNEZ9oH5eRRhbZtDcN-W78HcFuAxZw&amp;sig2=J5pff9m409Qv0eQ5Hnli8g"
+href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjyssGCz7fPAhUK2IMKHfcODEkQFggeMAA&amp;url=https%253A%2F%2Fgithub.com%2FGMOD%2Fjbrowse-registry&amp;usg=AFQjCNEZ9oH5eRRhbZtDcN-W78HcFuAxZw&amp;sig2=J5pff9m409Qv0eQ5Hnli8g"
 class="external text" rel="nofollow">jbrowse-registry github repo</a>,
 and in particular, the file that contains the info about the available
 plugins, <a
@@ -709,7 +709,7 @@ running the `setup.sh` script.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 
 
@@ -723,7 +723,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 |  |  |
 |----|----|
-| [Has topic](Property%3AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20topic/JBrowse "Special%3ASearchByProperty/Has-20topic/JBrowse")</span> |
+| [Has topic](Property%253AHas_topic "Property:Has topic") | [JBrowse](JBrowse.1 "JBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/JBrowse "Special%253ASearchByProperty/Has-20topic/JBrowse")</span> |
 
 
 
@@ -757,8 +757,8 @@ feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Bi
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

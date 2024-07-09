@@ -76,7 +76,7 @@ problems with DBD::Pg pop up telling you that no password was supplied.
 
 Installing prereqs with cpan shell:
 
-- install Bio%3A%3AChado%3A%3ASchema
+- install Bio%253A%253AChado%253A%253ASchema
 - install GO::Parser (go-perl)
 - install DBIx::DBSchema \# needed by DBIx::DBStag
 
@@ -141,12 +141,12 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [Chado](Category%3AChado "Category%3AChado")
-- [Linux](Category%3ALinux "Category%3ALinux")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Linux](Category%253ALinux "Category%253ALinux")
 
 
 
@@ -180,8 +180,8 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -17,12 +17,12 @@
 A list of all pages that have property "<span class="smw-highlighter"
 data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Allows
-value](/wiki/Property%3AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
+value](/wiki/Property%253AAllows_value "Property:Allows value")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
 "No"  
 
 - [Property:Is open
-  source](/wiki/Property%3AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AIs-20open-20source "Special%253ABrowse/Property%3AIs-20open-20source")</span>
+  source](/wiki/Property%253AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%253AIs-20open-20source "Special%253ABrowse/Property%253AIs-20open-20source")</span>
 
  
 
@@ -42,7 +42,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Allows-20value/No "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Allows-20value/No "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -68,8 +68,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

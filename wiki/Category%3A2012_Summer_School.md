@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3A2012 Summer School</span>
+# <span dir="auto">Category%253A2012 Summer School</span>
 
 
 
@@ -143,8 +143,8 @@ title="WebApollo Tutorial 2012">WebApollo Tutorial 2012</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -167,7 +167,7 @@ title="WebApollo Tutorial 2012">WebApollo Tutorial 2012</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A2012_Summer_School"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253A2012_Summer_School"
   rel="smw-browse">Browse properties</a></span>
 
 

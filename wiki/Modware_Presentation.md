@@ -18,7 +18,7 @@
 
 
 Eric Just, Senior Bioinformatics Scientist,
-[dictyBase](Category%3ADictyBase "Category%3ADictyBase"):
+[dictyBase](Category%253ADictyBase "Category%253ADictyBase"):
 <a href="http://dictybase.org" class="external free"
 rel="nofollow">http://dictybase.org</a> Center for Genetic Medicine,
 Northwestern University. This is an edited version of
@@ -132,7 +132,7 @@ The core of <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 
 - Object-oriented Perl interface to
   <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
-- Built on top of [Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI")
+- Built on top of [Chado%253A%253AAutoDBI](Chado%253A%253AAutoDBI "Chado%253A%253AAutoDBI")
 - Connection handled by GMOD
 - Database transactions supported
 - [BioPerl](BioPerl "BioPerl") used to represent and manipulate sequence
@@ -528,7 +528,7 @@ sub Write_search_results {
 - If <a href="Chado" class="mw-redirect" title="Chado">Chado</a> changes
   then...
   - Manually change [Modware](Modware "Modware") or ...
-  - [Chado%3A%3AAutoDBI](Chado%3A%3AAutoDBI "Chado%3A%3AAutoDBI") will automatically
+  - [Chado%253A%253AAutoDBI](Chado%253A%253AAutoDBI "Chado%253A%253AAutoDBI") will automatically
     adjust to the change, depends on the change
 - Can set multiple connections through AutoDBI's `set_connection`
 
@@ -561,7 +561,7 @@ sub Write_search_results {
 
 - Rex Chisholm, PhD
 - Warren Kibbe, PhD
-- [Scott Cain](User%3AScott "User%3AScott")
+- [Scott Cain](User%253AScott "User%253AScott")
 - Brian O’connor
 - Sohel Merchant
 - Petra Fey
@@ -572,15 +572,15 @@ sub Write_search_results {
 
 - [BioPerl](BioPerl "BioPerl")
 - GMOD
-- [SGD](Category%3ASGD "Category%3ASGD")
+- [SGD](Category%253ASGD "Category%253ASGD")
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Modware](Category%3AModware "Category%3AModware")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
+- [Modware](Category%253AModware "Category%253AModware")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
 
 
 
@@ -614,8 +614,8 @@ sub Write_search_results {
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

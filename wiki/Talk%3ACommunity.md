@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3ACommunity</span>
+# <span dir="auto">Talk%253ACommunity</span>
 
 
 
@@ -21,7 +21,7 @@ Hello,
 
 Great idea. Unfortunately demo gives an error: The requested URL
 /communitydemo/demo.html was not found on this server.
-[Alpapan](User%3AAlpapan "User%3AAlpapan")
+[Alpapan](User%253AAlpapan "User%253AAlpapan")
 
 
 
@@ -37,7 +37,7 @@ Great idea. Unfortunately demo gives an error: The requested URL
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3ACommunity" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253ACommunity" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -61,8 +61,8 @@ Great idea. Unfortunately demo gives an error: The requested URL
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

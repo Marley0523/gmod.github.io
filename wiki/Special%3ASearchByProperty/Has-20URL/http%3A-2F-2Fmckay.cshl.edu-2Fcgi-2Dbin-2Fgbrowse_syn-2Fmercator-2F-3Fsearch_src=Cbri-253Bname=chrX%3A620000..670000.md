@@ -15,7 +15,7 @@
 
 
 Enter a valid value for the property, or view all property values for
-"[Has URL](/wiki/Property%3AHas_URL "Property:Has URL")".
+"[Has URL](/wiki/Property%253AHas_URL "Property:Has URL")".
 
 Property:     Value:
 
@@ -33,7 +33,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20URL/http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri-253Bname=chrX%3A620000..670000 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri-253Bname=chrX%253A620000..670000 "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -59,8 +59,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "MAKER Web Annotation Server"  
 
-- [MAKER#http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi](/wiki/MAKER#http:.2F.2Fderringer.genetics.utah.edu.2Fcgi-bin.2FMWAS.2Fmaker.cgi "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%253ABrowse/MAKER-23http%3A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span>
+- [MAKER#http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi](/wiki/MAKER#http:.2F.2Fderringer.genetics.utah.edu.2Fcgi-bin.2FMWAS.2Fmaker.cgi "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER-23http%253A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%253ABrowse/MAKER-23http%253A-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

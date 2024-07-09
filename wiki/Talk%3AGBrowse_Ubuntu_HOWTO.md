@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse Ubuntu HOWTO</span>
+# <span dir="auto">Talk%253AGBrowse Ubuntu HOWTO</span>
 
 
 
@@ -66,8 +66,8 @@ Then, the script can download the nightly bioperl-live file correctly
 and install it.
 
 --<a
-href="http://gmod.org/mediawiki/index.php?title=User%3AMgenome&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
+href="http://gmod.org/mediawiki/index.php?title=User%253AMgenome&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AMgenome (page does not exist)">Mgenome</a>
 09:56, 18 March 2009 (UTC)
 
 
@@ -84,7 +84,7 @@ class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Ubuntu_HOWTO" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Ubuntu_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -108,8 +108,8 @@ class="new" title="User%3AMgenome (page does not exist)">Mgenome</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

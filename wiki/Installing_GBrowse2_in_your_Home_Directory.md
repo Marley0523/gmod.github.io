@@ -44,7 +44,7 @@ Once you have local::lib correctly installed...
 
 *I believe there must be a trick to configuring cpan at this point that
 is left out of this narrative. It is probably in the lib::local docs.*
-[Scott](User%3AScott "User%3AScott") 18:47, 3 June 2011 (UTC)
+[Scott](User%253AScott "User%253AScott") 18:47, 3 June 2011 (UTC)
 
 Test that cpan is working for you as a non-root user (install a random
 module or two).
@@ -97,19 +97,19 @@ HOWTO.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [Help](Category%3AHelp "Category%3AHelp")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [Help](Category%253AHelp "Category%253AHelp")
 - [Pages with problems or
-  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
-- [Perl](Category%3APerl "Category%3APerl")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  questions](Category%253APages_with_problems_or_questions "Category%253APages with problems or questions")
+- [Perl](Category%253APerl "Category%253APerl")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [User
-  Experiences](Category%3AUser_Experiences "Category%3AUser Experiences")
+  Experiences](Category%253AUser_Experiences "Category%253AUser Experiences")
 
 
 
@@ -143,8 +143,8 @@ HOWTO.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

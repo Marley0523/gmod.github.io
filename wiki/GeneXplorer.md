@@ -18,7 +18,7 @@
 
 
 GeneXplorer is a web application that allows clustered
-[microarray](Category%3AMicroarrays "Category%3AMicroarrays") data to be
+[microarray](Category%253AMicroarrays "Category%253AMicroarrays") data to be
 browsed interactively via the web, and can be used either for research
 purposes, or for providing web supplements to accompany microarray
 publication.
@@ -119,11 +119,11 @@ class="external text" rel="nofollow">CPAN</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Expression](Category%3AExpression "Category%3AExpression")
-- [Microarrays](Category%3AMicroarrays "Category%3AMicroarrays")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Expression](Category%253AExpression "Category%253AExpression")
+- [Microarrays](Category%253AMicroarrays "Category%253AMicroarrays")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -157,8 +157,8 @@ class="external text" rel="nofollow">CPAN</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

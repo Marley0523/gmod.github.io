@@ -90,13 +90,13 @@ One outline for these attributes is to have main sections as:
 at the [July 2008 GMOD
 Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") resulted in
 the
-[Bio%3A%3AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
+[Bio%253A%253AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
 Perl abstract class that can be used by organizations to generate common
 gene pages in XML format.
 
 # <span id="Notes_for_Discussion_2008" class="mw-headline">Notes for Discussion 2008</span>
 
-From [Dongilbert](User%3ADongilbert "User%3ADongilbert") 13:15, 14 July 2008
+From [Dongilbert](User%253ADongilbert "User%253ADongilbert") 13:15, 14 July 2008
 (EDT) :
 
 In hopes there will be a lively discussion on this topic at the [July
@@ -151,7 +151,7 @@ Page](July_2008_GMOD_Meeting#Common_Gene_Page "July 2008 GMOD Meeting")
 section of the [July 2008 GMOD
 Meeting](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") notes. This
 discussion resulted in implementation of the
-[Bio%3A%3AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
+[Bio%253A%253AGMOD::GenericGenePage](Bio_GMOD_GenericGenePage "Bio GMOD GenericGenePage")
 Perl abstract class.
 
 # <span id="Example_uses" class="mw-headline">Example uses</span>
@@ -227,13 +227,13 @@ annotations.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Presentations](Category%3APresentations "Category%3APresentations")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Presentations](Category%253APresentations "Category%253APresentations")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 - [MOD User
-  Interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces")
+  Interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces")
 
 
 
@@ -268,8 +268,8 @@ annotations.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

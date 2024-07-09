@@ -308,24 +308,24 @@ license.
 
 The following people comprise the organizing committee:
 
-- [Nicole Washington](User%3ANLWashington "User%3ANLWashington"), Chair
+- [Nicole Washington](User%253ANLWashington "User%253ANLWashington"), Chair
   (Lawrence Berkeley National Laboratory;
   <a href="http://www.modencode.org" class="external text"
   rel="nofollow">modENCODE</a> and developer of
   [Phenote](Phenote "Phenote"))
-- [Sheldon McKay](User%3AMckays "User%3AMckays") (University of Arizona;
+- [Sheldon McKay](User%253AMckays "User%253AMckays") (University of Arizona;
   <a href="http://www.iplantcollaborative.org/" class="external text"
   rel="nofollow">The iPlant collaborative</a> and developer of
   [GBrowse_syn](GBrowse_syn.1 "GBrowse syn"))
-- [Robert Buels](User%3ARobertBuels "User%3ARobertBuels") (Cornell
+- [Robert Buels](User%253ARobertBuels "User%253ARobertBuels") (Cornell
   University; <a href="http://solgenomics.net/" class="external text"
   rel="nofollow">Solanaceae Genomics Network (SGN)</a>)
-- [Scott Cain](User%3AScott "User%3AScott") (Ontario Institute for Cancer
+- [Scott Cain](User%253AScott "User%253AScott") (Ontario Institute for Cancer
   Research; GMOD Program Coordinator)
-- [Hilmar Lapp](User%3AHlapp "User%3AHlapp")
+- [Hilmar Lapp](User%253AHlapp "User%253AHlapp")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>)
-- [Dave Clements](User%3AClements "User%3AClements")
+- [Dave Clements](User%253AClements "User%253AClements")
   (<a href="http://www.nescent.org" class="external text"
   rel="nofollow">NESCent</a>; [GMOD Help
   Desk](GMOD_Help_Desk "GMOD Help Desk"))
@@ -344,10 +344,10 @@ Meetings](Meetings "Meetings").
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [GMOD Evo
-  Hackathon](Category%3AGMOD_Evo_Hackathon "Category%3AGMOD Evo Hackathon")
+  Hackathon](Category%253AGMOD_Evo_Hackathon "Category%253AGMOD Evo Hackathon")
 
 
 
@@ -361,7 +361,7 @@ Meetings](Meetings "Meetings").
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Evo_Hackathon_Proposal" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Evo_Hackathon_Proposal" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -385,8 +385,8 @@ Meetings](Meetings "Meetings").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

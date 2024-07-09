@@ -95,22 +95,22 @@ used for prokarytic annotation and assembly.
   genome annotation web server"</a> in
   *<a href="http://bioinformatics.oxfordjournals.org/"
   class="external text" rel="nofollow">Bioinformatics</a>*
-- [Presentations](Category%3APresentations "Category%3APresentations") and
-  [Posters](Category%3APosters "Category%3APosters")
+- [Presentations](Category%253APresentations "Category%253APresentations") and
+  [Posters](Category%253APosters "Category%253APosters")
   - [Automated Annotation of NGS Transcriptome Data using ISGA and
     Ergatis](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
-    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at
+    presented by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") at
     [BOSC 2010](ISMB_2010 "ISMB 2010")
   - [Integrative Services for Genomic Analysis (ISGA) - An Intuitive Web
     Server for Prokaryotic Genome Annotation and Other
     Analyses](File:ISGAISMB2010Poster.pdf "File:ISGAISMB2010Poster.pdf"),
-    poster by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri"), Aaron
+    poster by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri"), Aaron
     Buechlein, Ram Podicheti, and Jeong-Hyeon Choi, presented at [ISMB
     2010](ISMB_2010 "ISMB 2010").
   - [Web-Based Bioinformatics Pipelines For Biologists: Integrative
     Services for Genomic Analysis
     (ISGA)](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
-    presented by [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") at the
+    presented by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") at the
     [January 2010 GMOD
     Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting").
 
@@ -128,10 +128,10 @@ class="external text" rel="nofollow">Nabble</a> |
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Ergatis](Category%3AErgatis "Category%3AErgatis")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [Ergatis](Category%253AErgatis "Category%253AErgatis")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -165,8 +165,8 @@ class="external text" rel="nofollow">Nabble</a> |
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

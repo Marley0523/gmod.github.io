@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-description](/wiki/Property%3AHas_description "Property:Has description")"
+description](/wiki/Property%253AHas_description "Property:Has description")"
 with value "BLAST Graphic Viewer provides a graphical visualization of
 the regions contained within HSPs relative to the query sequence. BLAST
 Graphic Viewer is also known as blastGraphic."  
@@ -41,7 +41,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20description/BLAST-20Graphic-20Viewer-20provides-20a-20graphical-20visualization-20of-20the-20regions-20contained-20within-20HSPs-20relative-20to-20the-20query-20sequence.-20BLAST-20Graphic-20Viewer-20is-20also-20known-20as-20blastGraphic. "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20description/BLAST-20Graphic-20Viewer-20provides-20a-20graphical-20visualization-20of-20the-20regions-20contained-20within-20HSPs-20relative-20to-20the-20query-20sequence.-20BLAST-20Graphic-20Viewer-20is-20also-20known-20as-20blastGraphic. "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -67,8 +67,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -214,18 +214,18 @@ account" link on the top-right corner of the screen:
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/User_db_enabled.png" width="504"
-height="296" alt="User db enabled.png" />\[\[Category%3A\]\]
+height="296" alt="User db enabled.png" />\[\[Category%253A\]\]
 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
-- [Documentation](Category%3ADocumentation "Category%3ADocumentation")
-- [HOWTO](Category%3AHOWTO "Category%3AHOWTO")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
+- [Documentation](Category%253ADocumentation "Category%253ADocumentation")
+- [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 - [GBrowse
-  Developer](Category%3AGBrowse_Developer "Category%3AGBrowse Developer")
+  Developer](Category%253AGBrowse_Developer "Category%253AGBrowse Developer")
 
 
 
@@ -259,8 +259,8 @@ height="296" alt="User db enabled.png" />\[\[Category%3A\]\]
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

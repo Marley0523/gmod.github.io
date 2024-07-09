@@ -27,14 +27,14 @@
 <td><span style="font-size: 160%; line-height: 120%"> <a
 href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
 class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
+href="http://gmod.org/mediawiki/index.php?title=Category%253ASession&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ASession (page does not exist)">Session</a></span><br />
+title="Category%253ASession (page does not exist)">Session</a></span><br />
 <br />
 &#10;<p><a href="2011_GMOD_Spring_Training"
 title="2011 GMOD Spring Training">2011 GMOD Spring Training</a><br />
 8-12 March 2011<br />
-<a href="User%3AScott" title="User%3AScott">Scott Cain</a></p></td>
+<a href="User%253AScott" title="User%253AScott">Scott Cain</a></p></td>
 <td style="text-align: right;"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/200px-GMODAmericas2011Logo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/300px-GMODAmericas2011Logo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f5/GMODAmericas2011Logo.png/400px-GMODAmericas2011Logo.png 2x"
@@ -731,8 +731,8 @@ Adaptors</a> pages for details.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

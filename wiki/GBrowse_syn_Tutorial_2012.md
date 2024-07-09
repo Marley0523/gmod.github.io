@@ -27,7 +27,7 @@ Use
 
   
 This tutorial on [GBrowse syn](GBrowse_syn.1 "GBrowse syn") was taught
-by [Sheldon McKay](User%3AMckays "User%3AMckays") as part of the [2013 GMOD
+by [Sheldon McKay](User%253AMckays "User%253AMckays") as part of the [2013 GMOD
 Summer School](2013_GMOD_Summer_School "2013 GMOD Summer School").
 
 To follow along with the tutorial, you will need to use **AMI ID:
@@ -97,12 +97,12 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 - [2012 Summer
-  School](Category%3A2012_Summer_School "Category%3A2012 Summer School")
-- [GBrowse syn](Category%3AGBrowse_syn "Category%3AGBrowse syn")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+  School](Category%253A2012_Summer_School "Category%253A2012 Summer School")
+- [GBrowse syn](Category%253AGBrowse_syn "Category%253AGBrowse syn")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -136,8 +136,8 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

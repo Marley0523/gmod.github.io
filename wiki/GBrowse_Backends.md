@@ -329,10 +329,10 @@ Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
-- [GBrowse](Category%3AGBrowse "Category%3AGBrowse")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
+- [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
 
 
@@ -366,8 +366,8 @@ Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

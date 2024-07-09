@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD virtual server</span>
+# <span dir="auto">Category%253AGMOD virtual server</span>
 
 
 
@@ -82,8 +82,8 @@ The following 3 pages are in this category, out of 3 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -106,7 +106,7 @@ The following 3 pages are in this category, out of 3 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_virtual_server"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_virtual_server"
   rel="smw-browse">Browse properties</a></span>
 
 

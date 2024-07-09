@@ -56,7 +56,7 @@ rel="nofollow">https://github.com/GMOD/mimosa/blob/master/README.md</a>
 
 ### <span id="Integration_With_GMOD_Components" class="mw-headline">Integration With GMOD Components</span>
 
-Mimosa builds on top of NCBI BLAST, BioPerl, Bio%3A%3AChado%3A%3ASchema and can
+Mimosa builds on top of NCBI BLAST, BioPerl, Bio%253A%253AChado%253A%253ASchema and can
 optionally deploy into a standalone SQLite database, or an
 already-existing Chado database.
 
@@ -90,12 +90,12 @@ rel="nofollow">https://github.com/GMOD/mimosa/issues</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [BLAST](Category%3ABLAST "Category%3ABLAST")
-- [BioPerl](Category%3ABioPerl "Category%3ABioPerl")
-- [Perl](Category%3APerl "Category%3APerl")
+- [Chado](Category%253AChado "Category%253AChado")
+- [BLAST](Category%253ABLAST "Category%253ABLAST")
+- [BioPerl](Category%253ABioPerl "Category%253ABioPerl")
+- [Perl](Category%253APerl "Category%253APerl")
 
 
 
@@ -129,8 +129,8 @@ rel="nofollow">https://github.com/GMOD/mimosa/issues</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

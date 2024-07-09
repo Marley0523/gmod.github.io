@@ -35,10 +35,10 @@ In addition to the Chado schema, this release includes:
 
 - Tools for creating a new database.
 - Tools for populating it with
-  [ontology](../Category%3AOntologies "Category%3AOntologies") data (using
+  [ontology](../Category%253AOntologies "Category%253AOntologies") data (using
   go-perl).
 - A fairly new tool for updating ontologies contributed by the
-  developers of [SGN](../Category%3ASGN "Category%3ASGN"), the Sol Genomics
+  developers of [SGN](../Category%253ASGN "Category%253ASGN"), the Sol Genomics
   Network.
 - Tools for loading sequence feature (i.e. [GFF3](../GFF3 "GFF3")) data.
 - GMODTools for creating bulk download files like GFF and Fasta (See
@@ -54,7 +54,7 @@ should also work well with
 With this release, there are so many people in the GMOD community that I
 would like to thank that I couldn't possibly list them all, but at a
 bare minimum, I would like to thank the developers at
-[FlyBase](../Category%3AFlyBase "Category%3AFlyBase") and the Berkeley
+[FlyBase](../Category%253AFlyBase "Category%253AFlyBase") and the Berkeley
 Drosophila Genome Project, especially Chris Mungall and Dave Emmert, as
 well as others who have contributed code to the GMOD project over the
 past several years.
@@ -64,7 +64,7 @@ mailing list,
 <a href="mailto:gmod-schema@lists.sourceforge.net" class="external text"
 rel="nofollow">gmod-schema@lists.sourceforge.net</a>.
 
-[Scott Cain](../User%3AScott "User%3AScott")
+[Scott Cain](../User%253AScott "User%253AScott")
 
   
 
@@ -77,9 +77,9 @@ rel="nofollow">gmod-schema@lists.sourceforge.net</a>.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -118,8 +118,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

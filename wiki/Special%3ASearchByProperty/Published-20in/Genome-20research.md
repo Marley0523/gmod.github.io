@@ -20,7 +20,7 @@ class="new"
 title="Property:Published in (page does not exist)">Published in</a>"
 with value "Genome research"  
 
-- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3AJimHu-2FGbrowse "Special%253ABrowse/User%3AJimHu-2FGbrowse")</span>
+- [User%253AJimHu/Gbrowse](/wiki/User%253AJimHu/Gbrowse "User%253AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%253AJimHu-2FGbrowse "Special%253ABrowse/User%253AJimHu-2FGbrowse")</span>
 
  
 
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Published-20in/Genome-20research "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Published-20in/Genome-20research "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

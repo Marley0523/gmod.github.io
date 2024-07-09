@@ -248,8 +248,8 @@ use them everyday.
 Examples of Annotation Databases:
 
 
-- [GMOD Schools](Category%3AGMOD_Schools "Category%3AGMOD Schools")
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [GMOD Schools](Category%253AGMOD_Schools "Category%253AGMOD Schools")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -283,8 +283,8 @@ Examples of Annotation Databases:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

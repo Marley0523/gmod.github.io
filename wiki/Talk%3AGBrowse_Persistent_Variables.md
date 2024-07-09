@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse Persistent Variables</span>
+# <span dir="auto">Talk%253AGBrowse Persistent Variables</span>
 
 
 
@@ -18,14 +18,14 @@
 
 
 How about making the list into a table?
---[DanBolser](User%3ADanBolser "User%3ADanBolser") 08:19, 13 August 2010
+--[DanBolser](User%253ADanBolser "User%253ADanBolser") 08:19, 13 August 2010
 (UTC)
 
 That sounds like a good idea, although IMO a definition list would be
 more semantically "correct". Needs to improve readability &
 organization, I agree. <a
-href="http://gmod.org/mediawiki/index.php?title=User%3ACvandevelde&amp;action=edit&amp;redlink=1"
-class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
+href="http://gmod.org/mediawiki/index.php?title=User%253ACvandevelde&amp;action=edit&amp;redlink=1"
+class="new" title="User%253ACvandevelde (page does not exist)">Chris</a>
 18:07, 19 August 2010 (UTC)
 
 
@@ -42,7 +42,7 @@ class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_Persistent_Variables" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_Persistent_Variables" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -66,8 +66,8 @@ class="new" title="User%3ACvandevelde (page does not exist)">Chris</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

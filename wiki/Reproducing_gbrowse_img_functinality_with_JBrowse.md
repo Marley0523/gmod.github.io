@@ -107,7 +107,7 @@ of the object tag. In practice, the result looks like this:
       <object id="innerJBrowse" 
              type="text/html" 
              style="pointer-events: none; position: relative; top: -1px; left: 0px; width: 100%; height: 1273px; overflow: hidden;" 
-             data="/tools/genome/jbrowse-simple/full.html?overview=0&tracks=Curated_Genes%2CClassical_alleles%2CYACs_Fosmids_Cosmids&loc=II%3A158247..173104&data=data%2Fc_elegans_simple&nav=0&tracklist=0">
+             data="/tools/genome/jbrowse-simple/full.html?overview=0&tracks=Curated_Genes%2CClassical_alleles%2CYACs_Fosmids_Cosmids&loc=II%253A158247..173104&data=data%2Fc_elegans_simple&nav=0&tracklist=0">
       </object>
     
 
@@ -115,7 +115,7 @@ But the trick is that the object tag gets created dynamically when the
 page is loaded, using some simple JavaScript like this:
 
     <script type="text/javascript">
-        var preembedURL = "full.html?tracks=Curated_Genes%2CClassical_alleles%2CYACs_Fosmids_Cosmids&loc=X%3A12392257..12418393&data=data%2Fc_elegans_simple"; 
+        var preembedURL = "full.html?tracks=Curated_Genes%2CClassical_alleles%2CYACs_Fosmids_Cosmids&loc=X%253A12392257..12418393&data=data%2Fc_elegans_simple"; 
         var embed_part = "&nav=0&tracklist=0&overview=0";
         $("#jbrowse-view-iframe").html('<object id="innerJBrowse" type="text/html" style="pointer-events: none; position: relative; top: -1px; left: 0px; width: 100%; height: 14px; overflow: hidden;" data="'+preembedURL+embed_part+'"></object>');
     </script>
@@ -256,9 +256,9 @@ the context of a full website.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
 
 
 
@@ -292,8 +292,8 @@ the context of a full website.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

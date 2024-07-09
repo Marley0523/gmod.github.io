@@ -52,25 +52,25 @@ this property.
 </thead>
 <tbody>
 <tr class="odd">
-<td class="smwpropname"><a href="Category%3AGMOD_Component"
-title="Category%3AGMOD Component">GMOD Component</a> <span
-class="smwbrowse"><a href="Special%253ABrowse/Category%3AGMOD-20Component"
-title="Special%253ABrowse/Category%3AGMOD-20Component">+</a></span></td>
-<td class="smwprops"><a href="Form%3ATool_data"
+<td class="smwpropname"><a href="Category%253AGMOD_Component"
+title="Category%253AGMOD Component">GMOD Component</a> <span
+class="smwbrowse"><a href="Special%253ABrowse/Category%253AGMOD-20Component"
+title="Special%253ABrowse/Category%253AGMOD-20Component">+</a></span></td>
+<td class="smwprops"><a href="Form%253ATool_data"
 title="Form:Tool data">Tool data</a>  <span class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20default-20form/Tool-20data"
-title="Special%3ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20default-20form/Tool-20data"
+title="Special%253ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span></td>
 </tr>
 <tr class="even">
-<td class="smwpropname"><a href="Category%3AGMOD_Tools"
-title="Category%3AGMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
-href="Special%253ABrowse/Category%3AGMOD-20Tools"
-title="Special%253ABrowse/Category%3AGMOD-20Tools">+</a></span></td>
-<td class="smwprops"><a href="Form%3AComponent_information"
+<td class="smwpropname"><a href="Category%253AGMOD_Tools"
+title="Category%253AGMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
+href="Special%253ABrowse/Category%253AGMOD-20Tools"
+title="Special%253ABrowse/Category%253AGMOD-20Tools">+</a></span></td>
+<td class="smwprops"><a href="Form%253AComponent_information"
 title="Form:Component information">Component information</a>  <span
 class="smwsearch"><a
-href="Special%3ASearchByProperty/Has-20default-20form/Component-20information"
-title="Special%3ASearchByProperty/Has-20default-20form/Component-20information">+</a></span></td>
+href="Special%253ASearchByProperty/Has-20default-20form/Component-20information"
+title="Special%253ASearchByProperty/Has-20default-20form/Component-20information">+</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +79,7 @@ title="Special%3ASearchByProperty/Has-20default-20form/Component-20information">
 
 
 Retrieved from
-"[http://gmod.org/wiki/Property%3AHas_default_form#SMWResults](Property%3AHas_default_form#SMWResults)"
+"[http://gmod.org/wiki/Property%253AHas_default_form#SMWResults](Property%253AHas_default_form#SMWResults)"
 
 
 
@@ -112,8 +112,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -136,7 +136,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_default_form"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%253AHas_default_form"
   rel="smw-browse">Browse properties</a></span>
 
 

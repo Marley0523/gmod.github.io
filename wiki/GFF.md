@@ -600,7 +600,7 @@ You can validate reasonably large GFF3 files at the following sites:
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGFF" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGFF" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -624,8 +624,8 @@ You can validate reasonably large GFF3 files at the following sites:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

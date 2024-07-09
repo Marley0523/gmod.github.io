@@ -74,8 +74,8 @@ class="external text" rel="nofollow">Google: genome teragrid</a>
 # <span id="Genome_analysis_and_annotation_via_Grid_computing" class="mw-headline">Genome analysis and annotation via Grid computing</span>
 
 This subproject builds re-usable tools and workflows for [genome
-analyses](Category%3AAnalysis "Category%3AAnalysis") and
-[annotation](Category%3AAnnotation "Category%3AAnnotation"), using shared
+analyses](Category%253AAnalysis "Category%253AAnalysis") and
+[annotation](Category%253AAnnotation "Category%253AAnnotation"), using shared
 cyberinfrastructure (Grids or clusters). Here within are collections of
 scripts, documents and workflows for employing existing genome analysis
 tools (BLAST, homology tools, predictors, comparative and phylogenetic
@@ -177,7 +177,7 @@ used successfully on TeraGrid clusters for analyzing several arthropod
 genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 "as-is" on computer clusters with PBS or LoadLeveler batch queues
 (TeraGrid is not required).
-[Dongilbert](User%3ADongilbert "User%3ADongilbert") 19:56, 26 June 2008
+[Dongilbert](User%253ADongilbert "User%253ADongilbert") 19:56, 26 June 2008
 (EDT)
 
 # <span id="References" class="mw-headline">References</span>
@@ -195,7 +195,7 @@ genomes (Daphnia, Pea aphid, 12 Drosophila, and others). It should work
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-[Don Gilbert](User%3ADongilbert "User%3ADongilbert")
+[Don Gilbert](User%253ADongilbert "User%253ADongilbert")
 
 Support provided by a grant from <a
 href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0640462"
@@ -204,12 +204,12 @@ class="external text" rel="nofollow">NSF BIO Database Activities</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Analysis](Category%3AAnalysis "Category%3AAnalysis")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [WFleaBase](Category%3AWFleaBase "Category%3AWFleaBase")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Analysis](Category%253AAnalysis "Category%253AAnalysis")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [WFleaBase](Category%253AWFleaBase "Category%253AWFleaBase")
 
 
 
@@ -243,8 +243,8 @@ class="external text" rel="nofollow">NSF BIO Database Activities</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

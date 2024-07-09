@@ -18,16 +18,16 @@
 
 
 What is a 'CDS exon' (used in some of the feature graphs on this page).
-I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
+I don't find this in SO. --[DanBolser](User%253ADanBolser "User%253ADanBolser")
 08:08, 19 May 2009 (UTC)
 
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [Pages with problems or
-  questions](Category%3APages_with_problems_or_questions "Category%3APages with problems or questions")
+  questions](Category%253APages_with_problems_or_questions "Category%253APages with problems or questions")
 
 
 
@@ -41,7 +41,7 @@ I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AIntroduction_to_Chado" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AIntroduction_to_Chado" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -65,8 +65,8 @@ I don't find this in SO. --[DanBolser](User%3ADanBolser "User%3ADanBolser")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

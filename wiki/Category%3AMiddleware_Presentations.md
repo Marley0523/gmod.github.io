@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AMiddleware Presentations</span>
+# <span dir="auto">Category%253AMiddleware Presentations</span>
 
 
 
@@ -26,7 +26,7 @@ The following 4 pages are in this category, out of 4 total.
 
 ### B
 
-- [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")
+- [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema")
 
 ### G
 
@@ -355,10 +355,10 @@ The following 13 files are in this category, out of 13 total.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Middleware](Category%3AMiddleware "Category%3AMiddleware")
-- [Presentations](Category%3APresentations "Category%3APresentations")
+- [Middleware](Category%253AMiddleware "Category%253AMiddleware")
+- [Presentations](Category%253APresentations "Category%253APresentations")
 
 
 
@@ -392,8 +392,8 @@ The following 13 files are in this category, out of 13 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -416,7 +416,7 @@ The following 13 files are in this category, out of 13 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AMiddleware_Presentations"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AMiddleware_Presentations"
   rel="smw-browse">Browse properties</a></span>
 
 

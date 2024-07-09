@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "InterMine source at GitHub"  
 
-- [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%253ABrowse/InterMine-23https%3A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
+- [InterMine#https://github.com/intermine/intermine.git](/wiki/InterMine#https:.2F.2Fgithub.com.2Fintermine.2Fintermine.git "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23https%253A-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%253ABrowse/InterMine-23https%253A-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/InterMine-20source-20at-20GitHub "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/InterMine-20source-20at-20GitHub "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

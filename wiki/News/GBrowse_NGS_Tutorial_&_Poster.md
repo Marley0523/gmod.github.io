@@ -28,7 +28,7 @@ width="100" height="95" alt="GBrowse NGS Tutorial" />](../GBrowse_NGS_Tutorial "
 
 A tutorial on using [GBrowse 2 to visualize next generation sequencing
 (NGS) data](../GBrowse_NGS_Tutorial "GBrowse NGS Tutorial") is now
-available. The [tutorial](../Category%3ATutorials "Category%3ATutorials")
+available. The [tutorial](../Category%253ATutorials "Category%253ATutorials")
 walks through how to configure the [GBrowse](../GBrowse.1 "GBrowse") 2
 genome browser to display
 <a href="../Next_generation_sequencing" class="mw-redirect"
@@ -49,10 +49,10 @@ read-pairs.
 
 A
 [poster](../File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")
-(by [Scott Cain](../User%3AScott "User%3AScott")) demonstrating how to use
+(by [Scott Cain](../User%253AScott "User%253AScott")) demonstrating how to use
 the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -66,9 +66,9 @@ the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -107,8 +107,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

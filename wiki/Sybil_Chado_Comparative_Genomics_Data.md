@@ -82,12 +82,12 @@ needs](Proposed_schema_extensions_related_to_Sybil/IGS_needs "Proposed schema ex
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
+- [Chado](Category%253AChado "Category%253AChado")
 - [Comparative
-  Genomics](Category%3AComparative_Genomics "Category%3AComparative Genomics")
-- [Sybil](Category%3ASybil "Category%3ASybil")
+  Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
+- [Sybil](Category%253ASybil "Category%253ASybil")
 
 
 
@@ -121,8 +121,8 @@ needs](Proposed_schema_extensions_related_to_Sybil/IGS_needs "Proposed schema ex
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

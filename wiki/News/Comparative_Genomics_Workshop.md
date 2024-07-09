@@ -35,7 +35,7 @@ class="external text" rel="nofollow">series of lectures, demonstrations
 and computer laboratories</a> that cover various aspects of comparative
 genomics. Faculty include Anton Nekrutenko leading a session on
 [Galaxy](../Galaxy.1 "Galaxy") and [Sheldon
-McKay](../User%3AMckays "User%3AMckays") leading a session on
+McKay](../User%253AMckays "User%253AMckays") leading a session on
 [GBrowse_syn](../GBrowse_syn.1 "GBrowse syn").
 
 The course is designed for established investigators, postdoctoral
@@ -63,9 +63,9 @@ being held immediately after.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -104,8 +104,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

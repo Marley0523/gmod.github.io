@@ -39,8 +39,8 @@ Isn't this really a controlled vocabulary?
 
 At VectorBase we have decided to get a set of terms together and share
 with GMOD partners ASAP via these wiki pages. <a
-href="http://gmod.org/mediawiki/index.php?title=User%3AMaccallr&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
+href="http://gmod.org/mediawiki/index.php?title=User%253AMaccallr&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AMaccallr (page does not exist)">Maccallr</a>
 14:44, 26 May 2010 (UTC)
 
 
@@ -57,7 +57,7 @@ class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AStock_Relationship_Ontology" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AStock_Relationship_Ontology" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -81,8 +81,8 @@ class="new" title="User%3AMaccallr (page does not exist)">Maccallr</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

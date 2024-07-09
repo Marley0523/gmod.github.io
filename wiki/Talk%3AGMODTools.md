@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGMODTools</span>
+# <span dir="auto">Talk%253AGMODTools</span>
 
 
 
@@ -23,7 +23,7 @@ I believe the link
 <a href="http://sgdlite.princeton.edu/download/sgdlite/sgdlite.sql.gz"
 class="external free"
 rel="nofollow">http://sgdlite.princeton.edu/download/sgdlite/sgdlite.sql.gz</a>
-is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
+is dead... [Alpapan](User%253AAlpapan "User%253AAlpapan")
 
 
 
@@ -39,7 +39,7 @@ is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMODTools" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMODTools" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -63,8 +63,8 @@ is dead... [Alpapan](User%3AAlpapan "User%3AAlpapan")
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

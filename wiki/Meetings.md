@@ -117,7 +117,7 @@ rel="nofollow">NESCent</a>, Durham, North Carolina, United States | Part of [GMO
 | 2008 | [July](July_2008_GMOD_Meeting "July 2008 GMOD Meeting") | Toronto, Ontario, Canada | Before [ISMB 2008](ISMB_2008 "ISMB 2008"), at <a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">OICR</a> |
 | 2007 | [November](November_2007_GMOD_Meeting "November 2007 GMOD Meeting") | Cold Spring Harbor, New York, United States | After Genome Informatics |
-|  | [January](January_2007_GMOD_Meeting "January 2007 GMOD Meeting") | San Diego, California, United States | After PAG 2007. This meeting focused on [user interfaces](Category%3AMOD_User_Interfaces "Category%3AMOD User Interfaces") and [GMOD Middleware](GMOD_Middleware "GMOD Middleware"). |
+|  | [January](January_2007_GMOD_Meeting "January 2007 GMOD Meeting") | San Diego, California, United States | After PAG 2007. This meeting focused on [user interfaces](Category%253AMOD_User_Interfaces "Category%253AMOD User Interfaces") and [GMOD Middleware](GMOD_Middleware "GMOD Middleware"). |
 | 2006 | [June](June_2006_GMOD_Meeting "June 2006 GMOD Meeting") | Durham, North Carolina, United States | At <a href="http://nescent.org" class="external text"
 rel="nofollow">NESCent</a> |
 | 2005 | [October](October_2005_GMOD_Meeting "October 2005 GMOD Meeting") | Cold Spring Harbor, New York, United States | Before Genome Informatics |
@@ -142,7 +142,7 @@ alt="GMOD Tools for Evolutionary Biology Hackathon" />](GMOD_Evo_Hackathon "GMOD
 | Year | Meeting | Location | Topic |
 |----|----|----|----|
 | 2010 | [GMOD Tools for Evolutionary Biology Hackathon](GMOD_Evo_Hackathon "GMOD Evo Hackathon") | <a href="http://nescent.org" class="external text"
-rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a>, Durham, North Carolina | Enabling and extending GMOD to better support [evolutionary biology](Category%3AEvolution "Category%3AEvolution"). This will be held November 8-12. See the [hackathon home page](GMOD_Evo_Hackathon "GMOD Evo Hackathon") for details. |
+rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a>, Durham, North Carolina | Enabling and extending GMOD to better support [evolutionary biology](Category%253AEvolution "Category%253AEvolution"). This will be held November 8-12. See the [hackathon home page](GMOD_Evo_Hackathon "GMOD Evo Hackathon") for details. |
 | 2007 | [Hackathon 2007](Hackathon_2007_info "Hackathon 2007 info") | Chicago, Illinois |  |
 | 2005 | [GMOD Architecture Work Group](Summary_of_Fall_2005_CHSL_Meeting "Summary of Fall 2005 CHSL Meeting") | Cold Spring Harbor, New York |  |
 | 2002 | [NIH 2002 Workshop on Model Organism Databases](NIH_2002_Workshop_on_Model_Organism_Databases "NIH 2002 Workshop on Model Organism Databases") | NIH, Bethesda, Maryland |  |
@@ -150,10 +150,10 @@ rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a>, Durham, Nor
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -187,8 +187,8 @@ rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a>, Durham, Nor
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

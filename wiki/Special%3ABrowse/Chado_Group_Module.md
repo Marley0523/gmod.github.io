@@ -20,12 +20,12 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category%3AChado_Modules "Category%3AChado Modules")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado-20Modules "Special%3ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Comparative Genomics](/wiki/Category%3AComparative_Genomics "Category%3AComparative Genomics")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Comparative-20Genomics "Special%3ASearchByProperty/Comparative-20Genomics")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3APages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Chado](/wiki/Category%253AChado "Category%253AChado")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado "Special%253ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[Chado Modules](/wiki/Category%253AChado_Modules "Category%253AChado Modules")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado-20Modules "Special%253ASearchByProperty/Chado-20Modules")</span></span> , <span class="smwb-value">[Comparative Genomics](/wiki/Category%253AComparative_Genomics "Category%253AComparative Genomics")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Comparative-20Genomics "Special%253ASearchByProperty/Comparative-20Genomics")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253APages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3APages containing blacklisted links (page does not exist)">Pages
-containing blacklisted links</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Pages-20containing-20blacklisted-20links "Special%3ASearchByProperty/Pages-20containing-20blacklisted-20links")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 September 2014 19:50:28  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/23-20September-202014-2019:50:28 "Special%3ASearchByProperty/Modification-20date/23-20September-202014-2019:50:28")</span></span> |
+title="Category%253APages containing blacklisted links (page does not exist)">Pages
+containing blacklisted links</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links "Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 September 2014 19:50:28  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/23-20September-202014-2019:50:28 "Special%253ASearchByProperty/Modification-20date/23-20September-202014-2019:50:28")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -87,8 +87,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

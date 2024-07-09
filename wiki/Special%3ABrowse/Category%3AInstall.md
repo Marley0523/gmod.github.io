@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3AInstall&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253AInstall&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3AInstall (page does not exist)">Category%3AInstall</a> |  |
+title="Category%253AInstall (page does not exist)">Category%253AInstall</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3AInstall (page does not exist)">Category%3AInstall</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3AInstall)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253AInstall)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO](/wiki/GBrowse_2.0_Install_HOWTO "GBrowse 2.0 Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO "Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO/Advanced](/wiki/GBrowse_2.0_Install_HOWTO/Advanced "GBrowse 2.0 Install HOWTO/Advanced") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced "Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO](/wiki/GBrowse_2.0_Install_HOWTO "GBrowse 2.0 Install HOWTO") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO "Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO")</span></span> , <span class="smwb-ivalue">[GBrowse 2.0 Install HOWTO/Advanced](/wiki/GBrowse_2.0_Install_HOWTO/Advanced "GBrowse 2.0 Install HOWTO/Advanced") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced "Special%253ABrowse/GBrowse-202.0-20Install-20HOWTO-2FAdvanced")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3AInstall "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253AInstall "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -20,7 +20,7 @@
 There is a new [GBrowse](../GBrowse.1 "GBrowse") paper by Lincoln Stein
 out in Briefings in Bioinformatics, entitled **Using GBrowse 2.0 to
 visualize and share next-generation sequence data**, <span class="Z3988"
-title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F23376193">PMID:23376193</span>
+title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%253Aofi%2Ffmt%253Akev%253Amtx%253Ajournal&amp;rfr_id=info%253Asid%2Focoins.info%253Agenerator&amp;rft.genre=article&amp;rft_id=info%253Apmid%2F23376193">PMID:23376193</span>
 <sup>[\[1\]](#cite_note-PMID:23376193-1)</sup>
 
 Abstract:
@@ -46,10 +46,10 @@ rel="nofollow">Read the whole paper online.</a>
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [GBrowse 2](../Category%3AGBrowse_2 "Category%3AGBrowse 2")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
+- [GBrowse 2](../Category%253AGBrowse_2 "Category%253AGBrowse 2")
 
 
 
@@ -88,8 +88,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

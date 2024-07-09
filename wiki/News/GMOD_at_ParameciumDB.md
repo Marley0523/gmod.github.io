@@ -34,7 +34,7 @@ components, including
 <a href="../Chado" class="mw-redirect" title="Chado">Chado</a>,
 [GMODWeb](../GMODWeb "GMODWeb"), [Apollo](../Apollo.1 "Apollo"), and
 [GBrowse](../GBrowse.1 "GBrowse"). Please contact [Linda
-Sperling](../User%3ASperling "User%3ASperling")
+Sperling](../User%253ASperling "User%253ASperling")
 \<<a href="mailto:linda.sperling@cgm.cnrs-gif.fr" class="external text"
 rel="nofollow">linda.sperling@cgm.cnrs-gif.fr</a>\> if you have
 questions about GMOD at ParameciumDB.
@@ -53,7 +53,7 @@ so.
 
 Thanks,
 
-[Dave Clements](../User%3AClements "User%3AClements")  
+[Dave Clements](../User%253AClements "User%253AClements")  
 [GMOD Help Desk](../GMOD_Help_Desk "GMOD Help Desk")
 
   
@@ -67,9 +67,9 @@ Thanks,
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -108,8 +108,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

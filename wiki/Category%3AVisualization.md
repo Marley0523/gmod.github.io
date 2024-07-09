@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AVisualization</span>
+# <span dir="auto">Category%253AVisualization</span>
 
 
 
@@ -22,7 +22,7 @@
 There is currently no text in this page. You can [search for this page
 title](http://gmod.org/wiki/Special:Search/Visualization "Special:Search/Visualization")
 in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%3AVisualization"
+href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253AVisualization"
 class="external text" rel="nofollow">search the related logs</a></span>,
 but you do not have permission to create this page.
 
@@ -44,7 +44,7 @@ This category contains only the following page.
 
 
 Retrieved from
-"[http://gmod.org/wiki/Category%3AVisualization](Category%3AVisualization)"
+"[http://gmod.org/wiki/Category%253AVisualization](Category%253AVisualization)"
 
 
 
@@ -77,8 +77,8 @@ Retrieved from
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -101,7 +101,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AVisualization" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AVisualization" rel="smw-browse">Browse
   properties</a></span>
 
 

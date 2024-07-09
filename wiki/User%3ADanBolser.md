@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3ADanBolser</span>
+# <span dir="auto">User%253ADanBolser</span>
 
 
 
@@ -24,7 +24,7 @@ Hi,
   rel="nofollow">contacted by email</a>.
 
 You can see a more complete wiki profile
-<a href="http://openwetware.org/wiki/User%3ADan_Bolser"
+<a href="http://openwetware.org/wiki/User%253ADan_Bolser"
 class="external text" rel="nofollow">for me here on Open Wet Ware</a>.
 
   
@@ -66,8 +66,8 @@ rel="nofollow">MetaBase</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -90,7 +90,7 @@ rel="nofollow">MetaBase</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADanBolser" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ADanBolser" rel="smw-browse">Browse
   properties</a></span>
 
 

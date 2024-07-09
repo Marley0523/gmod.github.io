@@ -77,7 +77,7 @@ TIGR/JCVI, the database support was limited to Sybase, though flat-files
 could also be generated. Development is now underway to port this to
 also support [PostgreSQL](PostgreSQL "PostgreSQL") and Oracle.
 
-[Joshua Orvis](User%3AJorvis "User%3AJorvis") is the lead developer of
+[Joshua Orvis](User%253AJorvis "User%253AJorvis") is the lead developer of
 Ergatis and is currently at the
 <a href="http://www.igs.umaryland.edu/" class="external text"
 rel="nofollow">Institute for Genome Sciences</a> at the University of
@@ -109,12 +109,12 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Analysis](Category%3AAnalysis "Category%3AAnalysis")
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
-- [Ergatis](Category%3AErgatis "Category%3AErgatis")
+- [Analysis](Category%253AAnalysis "Category%253AAnalysis")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
+- [Ergatis](Category%253AErgatis "Category%253AErgatis")
 
 
 
@@ -148,8 +148,8 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

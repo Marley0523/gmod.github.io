@@ -836,7 +836,7 @@ wiki!** See also the search results found.
 
   ...h and annotate genes to keywords from articles. It has a simple,
   \[\[MySQL\]\] <span class="searchmatch">database</span> backend and
-  uses a set of \[\[:Category%3AJava\|Java\]\] Servlets and JSPs for que
+  uses a set of \[\[:Category%253AJava\|Java\]\] Servlets and JSPs for que
 
   
 
@@ -1179,8 +1179,8 @@ wiki!** See also the search results found.
 
 - 
 
-  [Chado%3A%3AAutoDBI
-  Presentation](/wiki/Chado%3A%3AAutoDBI_Presentation "Chado%3A%3AAutoDBI Presentation")
+  [Chado%253A%253AAutoDBI
+  Presentation](/wiki/Chado%253A%253AAutoDBI_Presentation "Chado%253A%253AAutoDBI Presentation")
 
   
 
@@ -1301,13 +1301,13 @@ wiki!** See also the search results found.
 - 
 
   [Face Caucus SGN: Associating Solanaceae loci with
-  phenotype](/wiki/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
+  phenotype](/wiki/Face_Caucus_SGN%253A_Associating_Solanaceae_loci_with_phenotype "Face Caucus SGN: Associating Solanaceae loci with phenotype")
 
   
 
   
 
-  ...k (\[\[:Category%3ASGN\|SGN\]\], http://www.sgn.cornell.edu/) is a
+  ...k (\[\[:Category%253ASGN\|SGN\]\], http://www.sgn.cornell.edu/) is a
   Clade Oriented <span class="searchmatch">Database</span> (COD)
   containing genomic, genetic and taxonomic information for species in
   ...permissions vary according to the user-type. The framework for
@@ -1421,7 +1421,7 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearch/Database "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearch/Database "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -1444,8 +1444,8 @@ class="mw-numlink" title="Show 500 results per page">500</a>)
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

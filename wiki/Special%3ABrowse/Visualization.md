@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Comparative Genomics](/wiki/Category%3AComparative_Genomics "Category%3AComparative Genomics")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Comparative-20Genomics "Special%3ASearchByProperty/Comparative-20Genomics")</span></span> , <span class="smwb-value">[Expression](/wiki/Category%3AExpression "Category%3AExpression")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Expression "Special%3ASearchByProperty/Expression")</span></span> , <span class="smwb-value">[Ontologies](/wiki/Category%3AOntologies "Category%3AOntologies")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Ontologies "Special%3ASearchByProperty/Ontologies")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 October 2010 17:11:47  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/27-20October-202010-2017:11:47 "Special%3ASearchByProperty/Modification-20date/27-20October-202010-2017:11:47")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[GMOD Components](/wiki/Category%253AGMOD_Components "Category%253AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Components "Special%253ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Comparative Genomics](/wiki/Category%253AComparative_Genomics "Category%253AComparative Genomics")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Comparative-20Genomics "Special%253ASearchByProperty/Comparative-20Genomics")</span></span> , <span class="smwb-value">[Expression](/wiki/Category%253AExpression "Category%253AExpression")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Expression "Special%253ASearchByProperty/Expression")</span></span> , <span class="smwb-value">[Ontologies](/wiki/Category%253AOntologies "Category%253AOntologies")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Ontologies "Special%253ASearchByProperty/Ontologies")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">27 October 2010 17:11:47  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/27-20October-202010-2017:11:47 "Special%253ASearchByProperty/Modification-20date/27-20October-202010-2017:11:47")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -84,8 +84,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

@@ -24,21 +24,21 @@ Showing 3 properties using this type.
 
 ### H
 
-- [Property:Has topic](../Property%3AHas_topic "Property:Has topic")
+- [Property:Has topic](../Property%253AHas_topic "Property:Has topic")
 
 ### I
 
 - [Property:Interacts
-  with](../Property%3AInteracts_with "Property:Interacts with")
+  with](../Property%253AInteracts_with "Property:Interacts with")
 
 ### S
 
-- [Property%3ASubject](../Property%3ASubject "Property%3ASubject")
+- [Property%253ASubject](../Property%253ASubject "Property%253ASubject")
 
 
 
 
-Retrieved from "[http://gmod.org/wiki/Special%3ATypes/Page](Page)"
+Retrieved from "[http://gmod.org/wiki/Special%253ATypes/Page](Page)"
 
 
 
@@ -80,8 +80,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

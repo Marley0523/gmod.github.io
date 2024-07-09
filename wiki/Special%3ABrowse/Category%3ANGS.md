@@ -17,8 +17,8 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ANGS&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3ANGS (page does not exist)">Category%3ANGS</a> |  |
+href="/mediawiki/index.php?title=Category%253ANGS&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253ANGS (page does not exist)">Category%253ANGS</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -28,11 +28,11 @@ class="new" title="Category%3ANGS (page does not exist)">Category%3ANGS</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ANGS)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ANGS)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Est2assembly "Special%253ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GalaxyNGSISMB2010.pdf "Special%253ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Est2assembly](/wiki/Est2assembly "Est2assembly") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Est2assembly "Special%253ABrowse/Est2assembly")</span></span> , <span class="smwb-ivalue">[GBrowse Volvox SAM Tutorial](/wiki/GBrowse_Volvox_SAM_Tutorial "GBrowse Volvox SAM Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial "Special%253ABrowse/GBrowse-20Volvox-20SAM-20Tutorial")</span></span> , <span class="smwb-ivalue">[File:GalaxyNGSISMB2010.pdf](/wiki/File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GalaxyNGSISMB2010.pdf "Special%253ABrowse/File:GalaxyNGSISMB2010.pdf")</span></span> , <span class="smwb-ivalue">[File:NGSTranscriptomeISGAErgatis.pdf](/wiki/File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf "Special%253ABrowse/File:NGSTranscriptomeISGAErgatis.pdf")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ANGS "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ANGS "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

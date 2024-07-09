@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ACanto&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ACanto&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ACanto (page does not exist)">Category%3ACanto</a> |  |
+title="Category%253ACanto (page does not exist)">Category%253ACanto</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -29,11 +29,11 @@ title="Category%3ACanto (page does not exist)">Category%3ACanto</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ACanto)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ACanto)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[News/Canto Workshop at Biocuration 2014](/wiki/News/Canto_Workshop_at_Biocuration_2014 "News/Canto Workshop at Biocuration 2014") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014 "Special%253ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014")</span></span> , <span class="smwb-ivalue">[News/Canto, a GMOD tool for functional annotation](/wiki/News/Canto,_a_GMOD_tool_for_functional_annotation "News/Canto, a GMOD tool for functional annotation") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation "Special%253ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> , <span class="smwb-ivalue">[News/Canto Workshop at Biocuration 2014](/wiki/News/Canto_Workshop_at_Biocuration_2014 "News/Canto Workshop at Biocuration 2014") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014 "Special%253ABrowse/News-2FCanto-20Workshop-20at-20Biocuration-202014")</span></span> , <span class="smwb-ivalue">[News/Canto, a GMOD tool for functional annotation](/wiki/News/Canto,_a_GMOD_tool_for_functional_annotation "News/Canto, a GMOD tool for functional annotation") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation "Special%253ABrowse/News-2FCanto,-20a-20GMOD-20tool-20for-20functional-20annotation")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ACanto "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ACanto "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

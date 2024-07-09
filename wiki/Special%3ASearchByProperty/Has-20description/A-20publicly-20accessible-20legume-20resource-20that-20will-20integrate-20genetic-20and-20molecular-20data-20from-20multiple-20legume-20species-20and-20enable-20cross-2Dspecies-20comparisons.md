@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-description](/wiki/Property%3AHas_description "Property:Has description")"
+description](/wiki/Property%253AHas_description "Property:Has description")"
 with value "A publicly accessible legume resource that will integrate
 genetic and molecular data from multiple legume species and enable
 cross-species comparisons"  
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20description/A-20publicly-20accessible-20legume-20resource-20that-20will-20integrate-20genetic-20and-20molecular-20data-20from-20multiple-20legume-20species-20and-20enable-20cross-2Dspecies-20comparisons "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20description/A-20publicly-20accessible-20legume-20resource-20that-20will-20integrate-20genetic-20and-20molecular-20data-20from-20multiple-20legume-20species-20and-20enable-20cross-2Dspecies-20comparisons "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

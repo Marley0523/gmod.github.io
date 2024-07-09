@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property "[Has
-title](/wiki/Property%3AHas_title "Property:Has title")" with value
+title](/wiki/Property%253AHas_title "Property:Has title")" with value
 "PortEco: a resource for exploring bacterial biology through
 high-throughput data and analysis tools"  
 
@@ -40,7 +40,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Has-20title/PortEco%3A-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Has-20title/PortEco%253A-20a-20resource-20for-20exploring-20bacterial-20biology-20through-20high-2Dthroughput-20data-20and-20analysis-20tools "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -66,8 +66,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

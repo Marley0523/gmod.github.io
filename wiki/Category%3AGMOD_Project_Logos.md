@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AGMOD Project Logos</span>
+# <span dir="auto">Category%253AGMOD Project Logos</span>
 
 
 
@@ -33,16 +33,16 @@ help desk</a> for custom configurations and sizes.
 
 The [original GMOD
 Logo](File:Gmod_cogTransparent.png "File:Gmod cogTransparent.png") was
-created by Simon Twigger of [RGD](Category%3ARGD "Category%3ARGD"). Most of
+created by Simon Twigger of [RGD](Category%253ARGD "Category%253ARGD"). Most of
 the derivative logos created between 2007 and 2010 were done by [Dave
-Clements](User%3AClements "User%3AClements") during his time at the [GMOD
+Clements](User%253AClements "User%253AClements") during his time at the [GMOD
 Help Desk](GMOD_Help_Desk "GMOD Help Desk"), and those created between
 2012 and 2014 were by [Amelia
-Ireland](User%3AGirlwithglasses "User%3AGirlwithglasses").
+Ireland](User%253AGirlwithglasses "User%253AGirlwithglasses").
 
 You are encouraged to use these graphics in your presentations, posters,
 and web sites. See [GMOD Promotion](GMOD_Promotion "GMOD Promotion") and
-[Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
+[Logos and Icons](Category%253ALogos_and_Icons "Category%253ALogos and Icons")
 for more.
 
 
@@ -1066,9 +1066,9 @@ The following 43 files are in this category, out of 43 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Logos and Icons](Category%3ALogos_and_Icons "Category%3ALogos and Icons")
+- [Logos and Icons](Category%253ALogos_and_Icons "Category%253ALogos and Icons")
 
 
 
@@ -1102,8 +1102,8 @@ The following 43 files are in this category, out of 43 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -1126,7 +1126,7 @@ The following 43 files are in this category, out of 43 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Project_Logos"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AGMOD_Project_Logos"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -113,14 +113,14 @@ rel="nofollow">OpenHelix blog</a>.
 
 | Participant | Affilliation(s) | URL |
 |----|----|----|
-| [Dave Clements](User%3AClements "User%3AClements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
+| [Dave Clements](User%253AClements "User%253AClements") | NESCent, GMOD | <a href="http://nescent.org" class="external free"
 rel="nofollow">http://nescent.org</a> <a href="http://gmod.org" class="external free"
 rel="nofollow">http://gmod.org</a> |
 | Fengyuan Hu | Department of Genetics, University of Cambridge |  |
 | Ellen Adlem | Cambridge University Cambridge Institue of Medical Research | <a href="http://www.t1dbase.org" class="external free"
 rel="nofollow">http://www.t1dbase.org</a> |
 | seth redmond | Imperial College / Vectorbase |  |
-| [Chris Hemmerich](User%3AChemmeri "User%3AChemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
+| [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") |  | <a href="http://cgb.indiana.edu" class="external free"
 rel="nofollow">http://cgb.indiana.edu</a> |
 | Jerven Bolleman | UniProt Swiss-Prot |  |
 | Oksana Riba Grognuz | Swiss Institute of Bioinformatics (SIB) Department of Ecology and Evolution, University of Lausanne |  |
@@ -128,7 +128,7 @@ rel="nofollow">http://cgb.indiana.edu</a> |
 rel="nofollow">http://www.pombase.org/</a> |
 | Stephen Taylor | CBRG, Oxford University | <a href="http://www.cbrg.ox.ac.uk/" class="external free"
 rel="nofollow">http://www.cbrg.ox.ac.uk/</a> |
-| [Scott Cain](User%3AScott "User%3AScott") | OICR | <a href="http://gmod.org/" class="external free"
+| [Scott Cain](User%253AScott "User%253AScott") | OICR | <a href="http://gmod.org/" class="external free"
 rel="nofollow">http://gmod.org/</a> |
 | Gerd Anders | Public research institute: Max-Delbrueck-Centrum Berlin (MDC), Researcher and database developer | <a
 href="http://www.mdc-berlin.de/en/research/core_facilities/cf_massspectromety_bimsb/teammember/index.html"
@@ -184,7 +184,7 @@ and free to all who might benefit.
 CCBI provided copious organizational and logistical support for this
 event. The Bioinformatics Training Facility is generously providing all
 coffee, tea, and break snacks at no charge. Please thank Gos Micklem,
-[Richard Smith](User%3ARsmith "User%3ARsmith"), Shelley Lawson, and Dave
+[Richard Smith](User%253ARsmith "User%253ARsmith"), Shelley Lawson, and Dave
 Judge profusely every time you see them.
 
 ## <span id="Lodging_and_Other_Logistics" class="mw-headline">Lodging and Other Logistics</span>
@@ -200,9 +200,9 @@ Registration was free, but required, as space was limited.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -236,8 +236,8 @@ Registration was free, but required, as space was limited.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

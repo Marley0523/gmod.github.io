@@ -41,7 +41,7 @@ publication and publication start date?
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Promotion" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Promotion" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -65,8 +65,8 @@ publication and publication start date?
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

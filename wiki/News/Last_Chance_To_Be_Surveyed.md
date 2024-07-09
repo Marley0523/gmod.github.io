@@ -29,10 +29,10 @@ Cambridge, UK.
 
 
 
-[Categories](../Special%3ACategories "Special%3ACategories"):
+[Categories](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
-- [GMOD Community](../Category%3AGMOD_Community "Category%3AGMOD Community")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
+- [GMOD Community](../Category%253AGMOD_Community "Category%253AGMOD Community")
 
 
 
@@ -71,8 +71,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

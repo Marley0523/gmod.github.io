@@ -20,8 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Analysis](/wiki/Category%3AAnalysis "Category%3AAnalysis")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Analysis "Special%3ASearchByProperty/Analysis")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%3AGMOD_Components "Category%3AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GMOD-20Components "Special%3ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%3AAnnotation "Category%3AAnnotation")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Annotation "Special%3ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Ergatis](/wiki/Category%3AErgatis "Category%3AErgatis")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Ergatis "Special%3ASearchByProperty/Ergatis")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 July 2012 23:49:21  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/25-20July-202012-2023:49:21 "Special%3ASearchByProperty/Modification-20date/25-20July-202012-2023:49:21")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Analysis](/wiki/Category%253AAnalysis "Category%253AAnalysis")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Analysis "Special%253ASearchByProperty/Analysis")</span></span> , <span class="smwb-value">[GMOD Components](/wiki/Category%253AGMOD_Components "Category%253AGMOD Components")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Components "Special%253ASearchByProperty/GMOD-20Components")</span></span> , <span class="smwb-value">[Annotation](/wiki/Category%253AAnnotation "Category%253AAnnotation")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Annotation "Special%253ASearchByProperty/Annotation")</span></span> , <span class="smwb-value">[Ergatis](/wiki/Category%253AErgatis "Category%253AErgatis")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Ergatis "Special%253ASearchByProperty/Ergatis")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">25 July 2012 23:49:21  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/25-20July-202012-2023:49:21 "Special%253ASearchByProperty/Modification-20date/25-20July-202012-2023:49:21")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -81,8 +81,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

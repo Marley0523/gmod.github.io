@@ -192,10 +192,10 @@ title="Chado">Chado</a></td>
 <td><a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">gmod-schema</a></td>
 <td>All issues regarding <a href="Chado" class="mw-redirect"
-title="Chado">Chado</a>, <a href="Chado%3A%3AAutoDBI"
-title="Chado%3A%3AAutoDBI">Chado%3A%3AAutoDBI</a>, and <a
-href="Bio%3A%3AChado%3A%3ASchema"
-title="Bio%3A%3AChado%3A%3ASchema">Bio%3A%3AChado%3A%3ASchema</a></td>
+title="Chado">Chado</a>, <a href="Chado%253A%253AAutoDBI"
+title="Chado%253A%253AAutoDBI">Chado%253A%253AAutoDBI</a>, and <a
+href="Bio%253A%253AChado%253A%253ASchema"
+title="Bio%253A%253AChado%253A%253ASchema">Bio%253A%253AChado%253A%253ASchema</a></td>
 <td><a href="http://dir.gmane.org/gmane.science.biology.gmod.schema"
 class="external text" rel="nofollow">Gmane</a>, <a
 href="http://gmod.827538.n3.nabble.com/Chado-f815597.html"
@@ -449,7 +449,7 @@ class="external text" rel="nofollow">gmod-architecture</a> | GMOD architecture w
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-chado-seq-ad"
 class="external text" rel="nofollow">gmod-chado-seq-ad</a> | Last post November 2006. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-citrina"
-class="external text" rel="nofollow">gmod-citrina</a> | [Citrina](Citrina "Citrina") mailing list. Last post June 2006. Citrina is [no longer supported](Category%3AUnsupported "Category%3AUnsupported") by GMOD. |
+class="external text" rel="nofollow">gmod-citrina</a> | [Citrina](Citrina "Citrina") mailing list. Last post June 2006. Citrina is [no longer supported](Category%253AUnsupported "Category%253AUnsupported") by GMOD. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-cmae"
 class="external text" rel="nofollow">gmod-cmae</a> | [CMAE](CMAE "CMAE") mailing list. Last post July 2007. |
 | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-das2-cmts"
@@ -484,7 +484,7 @@ class="external text" rel="nofollow">ISB</a> (formerly <a href="http://mailman.t
 class="external text" rel="nofollow">Biocurator</a>) | List for biological data curators and informatics people who support them. If you are interested in how biological databases are created, maintained and used, then subscribe to this list. | <a href="http://mailman.tairgroup.org/pipermail/biocurator/"
 class="external text" rel="nofollow">TAIR</a> (2009/12-) |
 | <a href="http://lists.open-bio.org/mailman/listinfo/bioperl-l"
-class="external text" rel="nofollow">Bioperl-l</a> | Primary [BioPerl](BioPerl "BioPerl") mailing list and is meant both for developers as well as people who are interested in project issues and internals. The place where usage, code modifications, bugs & feature requests are discussed. If you do development with any of GMOD's [Perl based](Category%3APerl "Category%3APerl") components then this is a useful list. |  |
+class="external text" rel="nofollow">Bioperl-l</a> | Primary [BioPerl](BioPerl "BioPerl") mailing list and is meant both for developers as well as people who are interested in project issues and internals. The place where usage, code modifications, bugs & feature requests are discussed. If you do development with any of GMOD's [Perl based](Category%253APerl "Category%253APerl") components then this is a useful list. |  |
 | <a href="http://lists.open-bio.org/mailman/listinfo/open-bio-l"
 class="external text" rel="nofollow">OBF cross-project</a> | This list is for <a href="http://open-bio.org" class="external text" rel="nofollow">Open
 Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and BioSQL issues. |  |
@@ -492,11 +492,11 @@ Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and 
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Help](Category%3AHelp "Category%3AHelp")
-- [GMOD Community](Category%3AGMOD_Community "Category%3AGMOD Community")
-- [GMOD Developers](Category%3AGMOD_Developers "Category%3AGMOD Developers")
+- [Help](Category%253AHelp "Category%253AHelp")
+- [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
+- [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
 
 
@@ -510,7 +510,7 @@ Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and 
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Mailing_Lists" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Mailing_Lists" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -534,8 +534,8 @@ Bioinformatics Foundation (OBF)</a> projects to cross talk such as for OBDA and 
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

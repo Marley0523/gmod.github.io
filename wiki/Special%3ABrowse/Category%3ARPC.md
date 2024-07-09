@@ -17,8 +17,8 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ARPC&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3ARPC (page does not exist)">Category%3ARPC</a> |  |
+href="/mediawiki/index.php?title=Category%253ARPC&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253ARPC (page does not exist)">Category%253ARPC</a> |  |
 
 |     |                                |
 |-----|--------------------------------|
@@ -28,11 +28,11 @@ class="new" title="Category%3ARPC (page does not exist)">Category%3ARPC</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ARPC)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ARPC)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20RPC-20API "Special%253ABrowse/GMOD-20RPC-20API")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20RPC-20API "Special%253ABrowse/GMOD-20RPC-20API")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ARPC "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ARPC "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -82,8 +82,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

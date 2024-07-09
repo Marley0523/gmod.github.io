@@ -7,14 +7,14 @@
 
 
 
-# <span dir="auto">User%3ARobertBuels</span>
+# <span dir="auto">User%253ARobertBuels</span>
 
 
 
 
 
 (Redirected from
-[User%3ARBuels](http://gmod.org/mediawiki/index.php?title=User%3ARBuels&redirect=no "User%3ARBuels"))
+[User%253ARBuels](http://gmod.org/mediawiki/index.php?title=User%253ARBuels&redirect=no "User%253ARBuels"))
 
 
 
@@ -51,7 +51,7 @@ rel="nofollow">rbuels on GitHub</a>
 # <span id="Work" class="mw-headline">Work</span>
 
 - [JBrowse](JBrowse.1 "JBrowse") lead developer
-- [Bio%3A%3AChado%3A%3ASchema](Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") founding
+- [Bio%253A%253AChado%253A%253ASchema](Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") founding
   developer
 - <a href="http://solgenomics.net" class="external text"
   rel="nofollow">SGN</a> development processes
@@ -67,10 +67,10 @@ rel="nofollow">rbuels on GitHub</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- [SGN](Category%3ASGN "Category%3ASGN")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
+- [SGN](Category%253ASGN "Category%253ASGN")
 
 
 
@@ -83,9 +83,9 @@ rel="nofollow">rbuels on GitHub</a>
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3ARobertBuels" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253ARobertBuels" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3ARobertBuels" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253ARobertBuels" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -109,8 +109,8 @@ rel="nofollow">rbuels on GitHub</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -133,7 +133,7 @@ rel="nofollow">rbuels on GitHub</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARobertBuels" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253ARobertBuels" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -145,22 +145,22 @@ class="external text" rel="nofollow">SVN repository at SourceForge</a>.
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Tool data](Category%3ATool_data "Category%3ATool data")
-- [Apollo](Category%3AApollo "Category%3AApollo")
-- [CMap](Category%3ACMap "Category%3ACMap")
-- [Galaxy](Category%3AGalaxy "Category%3AGalaxy")
-- [GBrowse 2](Category%3AGBrowse_2 "Category%3AGBrowse 2")
-- [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-- [MAKER](Category%3AMAKER "Category%3AMAKER")
-- [Pathway Tools](Category%3APathway_Tools "Category%3APathway Tools")
-- [SOBA](Category%3ASOBA "Category%3ASOBA")
-- [Tripal](Category%3ATripal "Category%3ATripal")
-- [Webapollo](Category%3AWebapollo "Category%3AWebapollo")
-- [Annotation](Category%3AAnnotation "Category%3AAnnotation")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Tool data](Category%253ATool_data "Category%253ATool data")
+- [Apollo](Category%253AApollo "Category%253AApollo")
+- [CMap](Category%253ACMap "Category%253ACMap")
+- [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
+- [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
+- [JBrowse](Category%253AJBrowse "Category%253AJBrowse")
+- [MAKER](Category%253AMAKER "Category%253AMAKER")
+- [Pathway Tools](Category%253APathway_Tools "Category%253APathway Tools")
+- [SOBA](Category%253ASOBA "Category%253ASOBA")
+- [Tripal](Category%253ATripal "Category%253ATripal")
+- [Webapollo](Category%253AWebapollo "Category%253AWebapollo")
+- [Annotation](Category%253AAnnotation "Category%253AAnnotation")
 
 
 
@@ -194,8 +194,8 @@ class="external text" rel="nofollow">SVN repository at SourceForge</a>.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">News/Bio%3A%3AChado%3A%3ASchema 0.03 Released</span>
+# <span dir="auto">News/Bio%253A%253AChado%253A%253ASchema 0.03 Released</span>
 
 
 
@@ -18,7 +18,7 @@
 
 
 The first official release of
-[Bio%3A%3AChado%3A%3ASchema](../Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema") is now
+[Bio%253A%253AChado%253A%253ASchema](../Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema") is now
 on the <a href="http://search.cpan.org/~rbuels/Bio-Chado-Schema/"
 class="external text" rel="nofollow">CPAN</a>. This project establishes
 a standard set of base modules for building Chado middleware in Perl.
@@ -26,7 +26,7 @@ The project is looking for development help, and discussion is on the
 <a href="https://lists.sourceforge.net/lists/listinfo/gmod-schema"
 class="external text" rel="nofollow">GMOD Schema mailing list</a>.
 
---[RobertBuels](../User%3ARobertBuels "User%3ARobertBuels") 22:10, 29 August
+--[RobertBuels](../User%253ARobertBuels "User%253ARobertBuels") 22:10, 29 August
 2009 (UTC)
 
   
@@ -40,9 +40,9 @@ class="external text" rel="nofollow">GMOD Schema mailing list</a>.
 
 
 
-[Category](../Special%3ACategories "Special%3ACategories"):
+[Category](../Special%253ACategories "Special%253ACategories"):
 
-- [News Items](../Category%3ANews_Items "Category%3ANews Items")
+- [News Items](../Category%253ANews_Items "Category%253ANews Items")
 
 
 
@@ -81,8 +81,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 
@@ -105,7 +105,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBio%253A%253AChado%253A%253ASchema_0.03_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

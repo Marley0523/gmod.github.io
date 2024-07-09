@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AEvents</span>
+# <span dir="auto">Category%253AEvents</span>
 
 
 
@@ -19,7 +19,7 @@
 
 Pages about GMOD related events, such as Hackathons,
 [Meetings](Meetings "Meetings"),
-[Conferences](Category%3AConferences "Category%3AConferences") and
+[Conferences](Category%253AConferences "Category%253AConferences") and
 <a href="GMOD_Summer_School" class="mw-redirect"
 title="GMOD Summer School">Summer Schools</a>.
 
@@ -32,11 +32,11 @@ This category has the following 2 subcategories, out of 2 total.
 
 ### C
 
-- [Conferences](Category%3AConferences "Category%3AConferences")
+- [Conferences](Category%253AConferences "Category%253AConferences")
 
 ### M
 
-- [Meetings](Category%3AMeetings "Category%3AMeetings")
+- [Meetings](Category%253AMeetings "Category%253AMeetings")
 
 
 
@@ -103,7 +103,7 @@ Hackathon</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/GCC2013%3A_Register!_Present!"
+<li><a href="News/GCC2013%253A_Register!_Present!"
 title="News/GCC2013: Register! Present!">News/GCC2013: Register!
 Present!</a></li>
 </ul>
@@ -204,8 +204,8 @@ The following 2 files are in this category, out of 2 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -228,7 +228,7 @@ The following 2 files are in this category, out of 2 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AEvents" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AEvents" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -18,12 +18,12 @@
 
 
 How to create a new project in GMOD? --<a
-href="http://gmod.org/mediawiki/index.php?title=User%3AMohpur&amp;action=edit&amp;redlink=1"
-class="new" title="User%3AMohpur (page does not exist)">Mohpur</a> 11:58,
+href="http://gmod.org/mediawiki/index.php?title=User%253AMohpur&amp;action=edit&amp;redlink=1"
+class="new" title="User%253AMohpur (page does not exist)">Mohpur</a> 11:58,
 30 June 2007 (EDT)
 
 - Hi Mohpur, the easiest thing to do is to contact
-  [me](User%3AScott "User%3AScott"). --[Scott](User%3AScott "User%3AScott")
+  [me](User%253AScott "User%253AScott"). --[Scott](User%253AScott "User%253AScott")
   12:19, 2 July 2007 (EDT)
 
 
@@ -40,7 +40,7 @@ class="new" title="User%3AMohpur (page does not exist)">Mohpur</a> 11:58,
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGMOD_Project_Page" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGMOD_Project_Page" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -64,8 +64,8 @@ class="new" title="User%3AMohpur (page does not exist)">Mohpur</a> 11:58,
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">User%3AEric Rasche</span>
+# <span dir="auto">User%253AEric Rasche</span>
 
 
 
@@ -65,9 +65,9 @@ cluster, and a computer lab.
 
 ### Namespaces
 
-- <span id="ca-nstab-user"><a href="User%3AEric_Rasche" accesskey="c"
+- <span id="ca-nstab-user"><a href="User%253AEric_Rasche" accesskey="c"
   title="View the user page [c]">User page</a></span>
-- <span id="ca-talk"><a href="User_talk%3AEric_Rasche" accesskey="t"
+- <span id="ca-talk"><a href="User_talk%253AEric_Rasche" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -91,8 +91,8 @@ cluster, and a computer lab.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -115,7 +115,7 @@ cluster, and a computer lab.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AEric_Rasche" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AEric_Rasche" rel="smw-browse">Browse
   properties</a></span>
 
 

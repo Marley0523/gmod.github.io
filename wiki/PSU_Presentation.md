@@ -199,10 +199,10 @@ cellpadding="4">
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
 - [Middleware
-  Presentations](Category%3AMiddleware_Presentations "Category%3AMiddleware Presentations")
+  Presentations](Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")
 
 
 
@@ -236,8 +236,8 @@ cellpadding="4">
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

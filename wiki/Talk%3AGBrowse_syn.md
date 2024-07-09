@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Talk%3AGBrowse syn</span>
+# <span dir="auto">Talk%253AGBrowse syn</span>
 
 
 
@@ -125,7 +125,7 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
 ### Namespaces
 
 
-- <span id="ca-talk"><a href="Talk%3AGBrowse_syn" accesskey="t"
+- <span id="ca-talk"><a href="Talk%253AGBrowse_syn" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
 
@@ -149,8 +149,8 @@ rel="nofollow">https://www.nescent.org/wg_gmodevohackathon/GBrowse_syn2</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

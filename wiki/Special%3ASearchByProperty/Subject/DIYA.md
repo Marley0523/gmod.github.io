@@ -15,7 +15,7 @@
 
 
 A list of all pages that have property
-"[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
+"[Subject](/wiki/Property%253ASubject "Property%253ASubject")" with value
 "[DIYA](/wiki/DIYA "DIYA")"  
 
 - [DIYA](/wiki/DIYA#_2957d43c15df6d72a07738da3e51a062 "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA-23_2957d43c15df6d72a07738da3e51a062 "Special%253ABrowse/DIYA-23 2957d43c15df6d72a07738da3e51a062")</span>
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Subject/DIYA "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Subject/DIYA "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

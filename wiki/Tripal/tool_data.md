@@ -104,11 +104,11 @@ a custom look-and-feel. For more information, see the following links:
 
 
 - [GMOD in the
-  Cloud](../Category%3AGMOD_in_the_Cloud "Category%3AGMOD in the Cloud")
-- [Tool data](../Category%3ATool_data "Category%3ATool data")
+  Cloud](../Category%253AGMOD_in_the_Cloud "Category%253AGMOD in the Cloud")
+- [Tool data](../Category%253ATool_data "Category%253ATool data")
 - [GMOD
-  Components](../Category%3AGMOD_Components "Category%3AGMOD Components")
-- [Tripal](../Category%3ATripal "Category%3ATripal")
+  Components](../Category%253AGMOD_Components "Category%253AGMOD Components")
+- [Tripal](../Category%253ATripal "Category%253ATripal")
 
 
 
@@ -145,8 +145,8 @@ title="Visit the main page"></a>
 
 
 - <span id="n-Overview">[Overview](../Overview)</span>
-- <span id="n-FAQs">[FAQs](../Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](../Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
 

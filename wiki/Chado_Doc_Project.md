@@ -77,7 +77,7 @@ its comrades in terms of its expressiveness, logic and coherence, and
 extensibility. It is truly a work of conceptual art. It is also not the
 easiest schema to use, compared to its comrades. Let us complete this
 work that needs to be done on Chado so that the largest number of people
-can benefit from it. [Bosborne](User%3ABosborne "User%3ABosborne") 11:24, 8
+can benefit from it. [Bosborne](User%253ABosborne "User%253ABosborne") 11:24, 8
 May 2007 (EDT)
 
   
@@ -218,11 +218,11 @@ Contributor:
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [Chado](Category%3AChado "Category%3AChado")
-- [Proposals](Category%3AProposals "Category%3AProposals")
-- [Needs Editing](Category%3ANeeds_Editing "Category%3ANeeds Editing")
+- [Chado](Category%253AChado "Category%253AChado")
+- [Proposals](Category%253AProposals "Category%253AProposals")
+- [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
 
 
 
@@ -256,8 +256,8 @@ Contributor:
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

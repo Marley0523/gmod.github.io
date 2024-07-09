@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AJBrowse</span>
+# <span dir="auto">Category%253AJBrowse</span>
 
 
 
@@ -26,7 +26,7 @@ This category has only the following subcategory.
 
 ### T
 
-- [Tutorials](Category%3ATutorials "Category%3ATutorials")
+- [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
 
 
@@ -140,12 +140,12 @@ title="JBrowseDev/Upcoming">JBrowseDev/Upcoming</a></span></li>
 <li><a href="Migrating_from_GBrowse_to_JBrowse"
 title="Migrating from GBrowse to JBrowse">Migrating from GBrowse to
 JBrowse</a></li>
-<li><a href="User%3AMitchSkinner"
-title="User%3AMitchSkinner">User%3AMitchSkinner</a></li>
+<li><a href="User%253AMitchSkinner"
+title="User%253AMitchSkinner">User%253AMitchSkinner</a></li>
 </ul>
 <h3 id="n">N</h3>
 <ul>
-<li><a href="News/Feedback_Wanted%3A_JBrowse_UI_Redesign"
+<li><a href="News/Feedback_Wanted%253A_JBrowse_UI_Redesign"
 title="News/Feedback Wanted: JBrowse UI Redesign">News/Feedback Wanted:
 JBrowse UI Redesign</a></li>
 <li><a href="News/JBrowse_1.7.0_Released"
@@ -158,10 +158,10 @@ title="November 2007 GMOD Meeting">November 2007 GMOD Meeting</a></li>
 <li><a href="Reproducing_gbrowse_img_functinality_with_JBrowse"
 title="Reproducing gbrowse img functinality with JBrowse">Reproducing
 gbrowse img functinality with JBrowse</a></li>
-<li><a href="User%3ARobertBuels"
-title="User%3ARobertBuels">User%3ARobertBuels</a></li>
-<li><a href="User%3ARSCummings"
-title="User%3ARSCummings">User%3ARSCummings</a></li>
+<li><a href="User%253ARobertBuels"
+title="User%253ARobertBuels">User%253ARobertBuels</a></li>
+<li><a href="User%253ARSCummings"
+title="User%253ARSCummings">User%253ARSCummings</a></li>
 </ul>
 <h3 id="s">S</h3>
 <ul>
@@ -481,9 +481,9 @@ The following 12 files are in this category, out of 12 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 
 
 
@@ -517,8 +517,8 @@ The following 12 files are in this category, out of 12 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -541,7 +541,7 @@ The following 12 files are in this category, out of 12 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AJBrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AJBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

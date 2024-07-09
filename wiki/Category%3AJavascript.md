@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AJavascript</span>
+# <span dir="auto">Category%253AJavascript</span>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-See also the [AJAX Category](Category%3AAJAX "Category%3AAJAX").
+See also the [AJAX Category](Category%253AAJAX "Category%253AAJAX").
 
 
 ## Pages in category "Javascript"
@@ -51,9 +51,9 @@ The following 5 pages are in this category, out of 5 total.
 
 
 
-[Category](Special%3ACategories "Special%3ACategories"):
+[Category](Special%253ACategories "Special%253ACategories"):
 
-- [Computing](Category%3AComputing "Category%3AComputing")
+- [Computing](Category%253AComputing "Category%253AComputing")
 
 
 
@@ -87,8 +87,8 @@ The following 5 pages are in this category, out of 5 total.
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -111,7 +111,7 @@ The following 5 pages are in this category, out of 5 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AJavascript" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AJavascript" rel="smw-browse">Browse
   properties</a></span>
 
 

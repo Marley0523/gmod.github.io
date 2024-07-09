@@ -7,7 +7,7 @@
 
 
 
-# <span dir="auto">Category%3AUnsupported</span>
+# <span dir="auto">Category%253AUnsupported</span>
 
 
 
@@ -38,7 +38,7 @@ The following 17 pages are in this category, out of 17 total.
 <tr class="odd" style="vertical-align: top;">
 <td style="width: 33.3%"><h3 id="b">B</h3>
 <ul>
-<li><a href="Bio%3A%3AGMOD" title="Bio%3A%3AGMOD">Bio%3A%3AGMOD</a></li>
+<li><a href="Bio%253A%253AGMOD" title="Bio%253A%253AGMOD">Bio%253A%253AGMOD</a></li>
 <li><a href="Bioperl_Pipeline" title="Bioperl Pipeline">Bioperl
 Pipeline</a></li>
 <li><a href="Bop" title="Bop">Bop</a></li>
@@ -68,7 +68,7 @@ Database (IMDB)</a></li>
 </ul>
 <h3 id="l">L</h3>
 <ul>
-<li><a href="LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System"
+<li><a href="LabDoc%253A_Generic_Laboratory_Protocol_Documentation_System"
 title="LabDoc: Generic Laboratory Protocol Documentation System">LabDoc:
 Generic Laboratory Protocol Documentation System</a></li>
 </ul>
@@ -133,8 +133,8 @@ title="Template:Unsupported">Template:Unsupported</a></li>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 
@@ -157,7 +157,7 @@ title="Template:Unsupported">Template:Unsupported</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AUnsupported" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%253AUnsupported" rel="smw-browse">Browse
   properties</a></span>
 
 

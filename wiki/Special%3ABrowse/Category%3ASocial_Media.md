@@ -17,9 +17,9 @@
 |  |  |
 |----|----|
 | <a
-href="/mediawiki/index.php?title=Category%3ASocial_Media&amp;action=edit&amp;redlink=1"
+href="/mediawiki/index.php?title=Category%253ASocial_Media&amp;action=edit&amp;redlink=1"
 class="new"
-title="Category%3ASocial Media (page does not exist)">Category%3ASocial
+title="Category%253ASocial Media (page does not exist)">Category%253ASocial
 Media</a> |  |
 
 |     |                                |
@@ -30,11 +30,11 @@ Media</a> |  |
 
 |  |  |
 |----|----|
-| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%3ASocial+Media)  |  |
+| [hide properties that link here](/mediawiki/index.php?title=Special:Browse&offset=0&dir=out&article=Category%253ASocial+Media)  |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[News/GMOD is tweeting](/wiki/News/GMOD_is_tweeting "News/GMOD is tweeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20is-20tweeting "Special%253ABrowse/News-2FGMOD-20is-20tweeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[News/GMOD is tweeting](/wiki/News/GMOD_is_tweeting "News/GMOD is tweeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20is-20tweeting "Special%253ABrowse/News-2FGMOD-20is-20tweeting")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%253ABrowse/Category%3ASocial_Media "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%253ASocial_Media "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -84,8 +84,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

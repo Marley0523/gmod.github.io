@@ -15,10 +15,10 @@
 
 
 A list of all pages that have property
-"[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
+"[Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle")" with value
 "FlyBase"  
 
-- [GBrowse#http://flybase.org/cgi-bin/gbrowse/dmel](/wiki/GBrowse#http:.2F.2Fflybase.org.2Fcgi-bin.2Fgbrowse.2Fdmel "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-23http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel "Special%253ABrowse/GBrowse-23http%3A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel")</span>
+- [GBrowse#http://flybase.org/cgi-bin/gbrowse/dmel](/wiki/GBrowse#http:.2F.2Fflybase.org.2Fcgi-bin.2Fgbrowse.2Fdmel "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-23http%253A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel "Special%253ABrowse/GBrowse-23http%253A-2F-2Fflybase.org-2Fcgi-2Dbin-2Fgbrowse-2Fdmel")</span>
 
  
 
@@ -38,7 +38,7 @@ Property:     Value:
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ASearchByProperty/Linktitle/FlyBase "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ASearchByProperty/Linktitle/FlyBase "This is a special page, you cannot edit the page itself")</span>
 
 
 
@@ -64,8 +64,8 @@ Property:     Value:
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 

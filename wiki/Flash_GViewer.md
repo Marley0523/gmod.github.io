@@ -29,7 +29,7 @@ inserted into a web page to display each chromosome in a genome along
 with the locations of individual features on the chromosomes. It is
 **intended to provide an overview of the genomic locations of a specific
 set of features** - eg. genes and QTLs associated with a specific
-[phenotype](Category%3APhenotypes "Category%3APhenotypes"), etc. rather than
+[phenotype](Category%253APhenotypes "Category%253APhenotypes"), etc. rather than
 as a way to view all features on the genome. The features can hyperlink
 out to a detail page to enable to GViewer to be used as a navigation
 tool. In addition the bands on the chromosomes can link to defineable
@@ -144,10 +144,10 @@ class="external text" rel="nofollow">Via the web from sourceforge</a>
 
 
 
-[Categories](Special%3ACategories "Special%3ACategories"):
+[Categories](Special%253ACategories "Special%253ACategories"):
 
-- [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
-- [RGD](Category%3ARGD "Category%3ARGD")
+- [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
+- [RGD](Category%253ARGD "Category%253ARGD")
 
 
 
@@ -181,8 +181,8 @@ class="external text" rel="nofollow">Via the web from sourceforge</a>
 
 
 - <span id="n-Overview">[Overview](Overview)</span>
-- <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
 

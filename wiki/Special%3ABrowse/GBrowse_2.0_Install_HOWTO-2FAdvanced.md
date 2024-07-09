@@ -20,10 +20,10 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%3AGBrowse "Category%3AGBrowse")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse "Special%3ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%3AHOWTO "Category%3AHOWTO")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/HOWTO "Special%3ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[GBrowse 2](/wiki/Category%3AGBrowse_2 "Category%3AGBrowse 2")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-202 "Special%3ASearchByProperty/GBrowse-202")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%3AInstall&amp;action=edit&amp;redlink=1"
-class="new" title="Category%3AInstall (page does not exist)">Install</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Install "Special%3ASearchByProperty/Install")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 July 2013 14:44:48  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/10-20July-202013-2014:44:48 "Special%3ASearchByProperty/Modification-20date/10-20July-202013-2014:44:48")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[GBrowse](/wiki/Category%253AGBrowse "Category%253AGBrowse")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GBrowse "Special%253ASearchByProperty/GBrowse")</span></span> , <span class="smwb-value">[HOWTO](/wiki/Category%253AHOWTO "Category%253AHOWTO")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/HOWTO "Special%253ASearchByProperty/HOWTO")</span></span> , <span class="smwb-value">[GBrowse 2](/wiki/Category%253AGBrowse_2 "Category%253AGBrowse 2")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GBrowse-202 "Special%253ASearchByProperty/GBrowse-202")</span></span> , <span class="smwb-value"><a
+href="/mediawiki/index.php?title=Category%253AInstall&amp;action=edit&amp;redlink=1"
+class="new" title="Category%253AInstall (page does not exist)">Install</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Install "Special%253ASearchByProperty/Install")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">10 July 2013 14:44:48  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/10-20July-202013-2014:44:48 "Special%253ASearchByProperty/Modification-20date/10-20July-202013-2014:44:48")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -83,8 +83,8 @@ Enter the name of the page to start browsing from.
 
 
 - <span id="n-Overview">[Overview](/wiki/Overview)</span>
-- <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
-- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
+- <span id="n-FAQs">[FAQs](/wiki/Category%253AFAQ)</span>
+- <span id="n-HOWTOs">[HOWTOs](/wiki/Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
 
