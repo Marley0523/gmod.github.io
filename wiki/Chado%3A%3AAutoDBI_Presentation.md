@@ -415,7 +415,7 @@ wrong SQL and Chado%3A%3AAutoDBI approach will be speedier.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado%3A%3AAutoDBI_Presentation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado%3A%3AAutoDBI_Presentation"
   rel="smw-browse">Browse properties</a></span>
 
 

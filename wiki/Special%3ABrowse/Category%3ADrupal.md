@@ -30,7 +30,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biosoftware-20bench "Special%3ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[Drupal](/wiki/Drupal "Drupal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Drupal "Special%3ABrowse/Drupal")</span></span> , <span class="smwb-ivalue">[GMODviews](/wiki/GMODviews "GMODviews") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMODviews "Special%3ABrowse/GMODviews")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genes4all "Special%3ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gmod-2Ddbsf "Special%3ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[InsectaCentral](/wiki/InsectaCentral "InsectaCentral") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InsectaCentral "Special%3ABrowse/InsectaCentral")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Biosoftware bench](/wiki/Biosoftware_bench "Biosoftware bench") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Biosoftware-20bench "Special%253ABrowse/Biosoftware-20bench")</span></span> , <span class="smwb-ivalue">[Drupal](/wiki/Drupal "Drupal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Drupal "Special%253ABrowse/Drupal")</span></span> , <span class="smwb-ivalue">[GMODviews](/wiki/GMODviews "GMODviews") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMODviews "Special%253ABrowse/GMODviews")</span></span> , <span class="smwb-ivalue">[Genes4all](/wiki/Genes4all "Genes4all") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Genes4all "Special%253ABrowse/Genes4all")</span></span> , <span class="smwb-ivalue">[Gmod-dbsf](/wiki/Gmod-dbsf "Gmod-dbsf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gmod-2Ddbsf "Special%253ABrowse/Gmod-2Ddbsf")</span></span> , <span class="smwb-ivalue">[InsectaCentral](/wiki/InsectaCentral "InsectaCentral") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InsectaCentral "Special%253ABrowse/InsectaCentral")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ADrupal "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ADrupal "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -2943,7 +2943,7 @@ height="495" alt="800px-TripalGBrowseImg.png" />
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial (pre version
-0.3b)](Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special%3ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+0.3b)](Special%253ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b) "Special%253ABrowse/Tripal-20Tutorial-20(pre-20version-200.3b)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) "Special:ExportRDF/Tripal Tutorial (pre version 0.3b)")</span></span>
 
 |  |  |
@@ -3006,7 +3006,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(pre_version_0.3b) 
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(pre_version_0.3b)"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Tutorial_(pre_version_0.3b)"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -20,7 +20,7 @@ href="https://github.com/pombase/canto/blob/master/documentation/canto_admin.md"
 class="external"
 rel="nofollow">https://github.com/pombase/canto/blob/master/documentation/canto_admin.md</a>"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
 
  
 

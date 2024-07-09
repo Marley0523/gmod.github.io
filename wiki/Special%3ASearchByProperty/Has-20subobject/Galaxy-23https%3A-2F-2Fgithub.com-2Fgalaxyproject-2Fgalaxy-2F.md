@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[Galaxy#https://github.com/galaxyproject/galaxy/](/wiki/Galaxy#https:.2F.2Fgithub.com.2Fgalaxyproject.2Fgalaxy.2F "Galaxy")"  
 
-- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
+- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 
  
 

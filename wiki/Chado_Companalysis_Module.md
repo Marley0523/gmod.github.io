@@ -554,7 +554,7 @@ width="600" height="360" alt="ChadoMod-Companalysis.png" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Companalysis_Module"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Companalysis_Module"
   rel="smw-browse">Browse properties</a></span>
 
 

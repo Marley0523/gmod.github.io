@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[GBrowse#http://www.wormbase.org/tools/genome/gbrowse/c_elegans/](/wiki/GBrowse#http:.2F.2Fwww.wormbase.org.2Ftools.2Fgenome.2Fgbrowse.2Fc_elegans.2F "GBrowse")"  
 
-- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 
  
 

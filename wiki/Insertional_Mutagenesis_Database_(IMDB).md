@@ -130,7 +130,7 @@ class="external text" rel="nofollow">From SourceForge</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Insertional_Mutagenesis_Database_(IMDB)"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Insertional_Mutagenesis_Database_(IMDB)"
   rel="smw-browse">Browse properties</a></span>
 
 

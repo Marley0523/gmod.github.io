@@ -182,7 +182,7 @@ oleaginous alga Nannochloropsis oceanica CCMP1779.** PLoS Genet.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AMichael_Campbell" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AMichael_Campbell" rel="smw-browse">Browse
   properties</a></span>
 
 

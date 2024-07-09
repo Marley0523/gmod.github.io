@@ -34,7 +34,7 @@ Media</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[News/GMOD is tweeting](/wiki/News/GMOD_is_tweeting "News/GMOD is tweeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20is-20tweeting "Special%3ABrowse/News-2FGMOD-20is-20tweeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[News/GMOD is tweeting](/wiki/News/GMOD_is_tweeting "News/GMOD is tweeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20is-20tweeting "Special%253ABrowse/News-2FGMOD-20is-20tweeting")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ASocial_Media "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ASocial_Media "This is a special page, you cannot edit the page itself")</span>
 
 
 

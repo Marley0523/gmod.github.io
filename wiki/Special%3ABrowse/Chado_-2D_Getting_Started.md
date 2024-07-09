@@ -31,10 +31,10 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Tutorial 2011](/wiki/Chado_Tutorial_2011 "Chado Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Tutorial-202011 "Special%3ABrowse/Chado-20Tutorial-202011")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2012](/wiki/Chado_Tutorial_2012 "Chado Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Tutorial-202012 "Special%3ABrowse/Chado-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2013](/wiki/Chado_Tutorial_2013 "Chado Tutorial 2013") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Tutorial-202013 "Special%3ABrowse/Chado-20Tutorial-202013")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
-| <span class="smwb-ivalue">[XORT](/wiki/XORT "XORT") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span></span> | [Interacts with](/wiki/Property%3AInteracts_with "Property:Interacts with") |
+| <span class="smwb-ivalue">[Chado Tutorial 2011](/wiki/Chado_Tutorial_2011 "Chado Tutorial 2011") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202011 "Special%253ABrowse/Chado-20Tutorial-202011")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2012](/wiki/Chado_Tutorial_2012 "Chado Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202012 "Special%253ABrowse/Chado-20Tutorial-202012")</span></span> , <span class="smwb-ivalue">[Chado Tutorial 2013](/wiki/Chado_Tutorial_2013 "Chado Tutorial 2013") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Tutorial-202013 "Special%253ABrowse/Chado-20Tutorial-202013")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[XORT](/wiki/XORT "XORT") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span></span> | [Interacts with](/wiki/Property%3AInteracts_with "Property:Interacts with") |
 | <span class="smwb-ivalue"><a href="/wiki/Install_document" class="mw-redirect"
-title="Install document">Install document</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Install-20document "Special%3ABrowse/Install-20document")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Schema" class="mw-redirect" title="Schema">Schema</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Schema "Special%3ABrowse/Schema")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Install document">Install document</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Install-20document "Special%253ABrowse/Install-20document")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Schema" class="mw-redirect" title="Schema">Schema</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Schema "Special%253ABrowse/Schema")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_-2D_Getting_Started "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_-2D_Getting_Started "This is a special page, you cannot edit the page itself")</span>
 
 
 

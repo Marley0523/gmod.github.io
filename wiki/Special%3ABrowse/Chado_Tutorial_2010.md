@@ -20,7 +20,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value"><a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado "Special%3ABrowse/Chado")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value"><a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado "Special%253ABrowse/Chado")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">8 October 2012 23:34:12  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/8-20October-202012-2023:34:12 "Special%3ASearchByProperty/Modification-20date/8-20October-202012-2023:34:12")</span></span> |
 
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_Tutorial_2010 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_Tutorial_2010 "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -200,7 +200,7 @@ avoid duplication and encourage cooperation
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/June_2006_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/June_2006_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -19,7 +19,7 @@ licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "\[http://opensource.org/licenses/artistic-license-2.0 Artistic License
 2.0 (for academics)\]"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

@@ -21,7 +21,7 @@ href="http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bi
 class="external"
 rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_Ontology_Bioinformatics_Analysis</a>"  
 
-- [SOBA](/wiki/SOBA "SOBA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA "Special%3ABrowse/SOBA")</span>
+- [SOBA](/wiki/SOBA "SOBA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span>
 
  
 

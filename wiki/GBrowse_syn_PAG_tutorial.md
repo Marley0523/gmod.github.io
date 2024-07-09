@@ -215,7 +215,7 @@ We will setup up a five-genome database if time permits.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_tutorial"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_PAG_tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

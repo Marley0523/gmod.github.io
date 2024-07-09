@@ -20,7 +20,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ATutorial&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ATutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorial "Special%3ASearchByProperty/Tutorial")</span></span> |
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowse_Tutorial_Programming_for_Biology_2016 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowse_Tutorial_Programming_for_Biology_2016 "This is a special page, you cannot edit the page itself")</span>
 
 
 

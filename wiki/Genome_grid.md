@@ -267,7 +267,7 @@ class="external text" rel="nofollow">NSF BIO Database Activities</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Genome_grid" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Genome_grid" rel="smw-browse">Browse
   properties</a></span>
 
 

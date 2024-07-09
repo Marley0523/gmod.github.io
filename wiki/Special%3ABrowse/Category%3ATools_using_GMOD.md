@@ -34,7 +34,7 @@ using GMOD</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[BioDIG](/wiki/BioDIG "BioDIG") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioDIG "Special%3ABrowse/BioDIG")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/GBrowse syn Tutorial](/wiki/GMOD_Online_Training_2014/GBrowse_syn_Tutorial "GMOD Online Training 2014/GBrowse syn Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial "Special%3ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[BioDIG](/wiki/BioDIG "BioDIG") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioDIG "Special%253ABrowse/BioDIG")</span></span> , <span class="smwb-ivalue">[GMOD Online Training 2014/GBrowse syn Tutorial](/wiki/GMOD_Online_Training_2014/GBrowse_syn_Tutorial "GMOD Online Training 2014/GBrowse syn Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial "Special%253ABrowse/GMOD-20Online-20Training-202014-2FGBrowse-20syn-20Tutorial")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ATools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ATools_using_GMOD "This is a special page, you cannot edit the page itself")</span>
 
 
 

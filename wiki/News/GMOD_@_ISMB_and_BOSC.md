@@ -124,7 +124,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD_@_ISMB_and_BOSC"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD_@_ISMB_and_BOSC"
   rel="smw-browse">Browse properties</a></span>
 
 

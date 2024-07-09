@@ -80,7 +80,7 @@ Using Gbrowse and Chado for Medicago truncatula community genomics data.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AYbendana" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AYbendana" rel="smw-browse">Browse
   properties</a></span>
 
 

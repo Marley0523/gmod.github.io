@@ -205,7 +205,7 @@ class="external text" rel="nofollow">Via the web from sourceforge</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Flash_GViewer" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -19,7 +19,7 @@ title](/wiki/Property%3AHas_title "Property:Has title")" with value "The
 generic genome browser: a building block for a model organism system
 database."  
 
-- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3AJimHu-2FGbrowse "Special%253ABrowse/User%3AJimHu-2FGbrowse")</span>
 
  
 

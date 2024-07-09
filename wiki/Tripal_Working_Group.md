@@ -163,7 +163,7 @@ rel="nofollow">NESCent</a> |  |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Working_Group" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Working_Group" rel="smw-browse">Browse
   properties</a></span>
 
 

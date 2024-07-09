@@ -251,7 +251,7 @@ Note that proteins ≠ polypeptides. Hemoglobin is a heterotetramer of two
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_New_Users" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_New_Users" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -1153,7 +1153,7 @@ width="800" height="460" alt="Dotplot config.png" />
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse2_Tutorial_PAG_2024"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse2_Tutorial_PAG_2024"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -145,7 +145,7 @@ class="external text" rel="nofollow">artemis-user</a>.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Artemis-Chado Integration
-Tutorial](Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Tutorial](Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial "Special:ExportRDF/Artemis-Chado Integration Tutorial")</span></span>
 
 |  |  |
@@ -208,7 +208,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Artemis-Chado_Integration_Tutorial 
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Artemis-2DChado_Integration_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Artemis-2DChado_Integration_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

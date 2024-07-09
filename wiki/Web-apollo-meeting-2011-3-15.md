@@ -233,7 +233,7 @@
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2D2011-2D3-2D15"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Web-2Dapollo-2Dmeeting-2D2011-2D3-2D15"
   rel="smw-browse">Browse properties</a></span>
 
 

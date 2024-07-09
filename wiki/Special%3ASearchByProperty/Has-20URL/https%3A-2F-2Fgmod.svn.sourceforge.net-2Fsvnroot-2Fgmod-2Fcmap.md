@@ -20,7 +20,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 class="external"
 rel="nofollow">https://gmod.svn.sourceforge.net/svnroot/gmod/cmap</a>"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

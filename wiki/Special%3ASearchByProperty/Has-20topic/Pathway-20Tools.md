@@ -19,7 +19,7 @@ topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[Pathway Tools](/wiki/Pathway_Tools "Pathway Tools")"  
 
 - [Pathway
-  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
+  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
 
  
 

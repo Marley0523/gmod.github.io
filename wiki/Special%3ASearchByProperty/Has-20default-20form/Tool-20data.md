@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "[Tool data](/wiki/Form%3ATool_data "Form:Tool data")"  
 
 - [Category%3AGMOD
-  Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3AGMOD-20Component "Special%3ABrowse/Category%3AGMOD-20Component")</span>
+  Component](/wiki/Category%3AGMOD_Component "Category%3AGMOD Component")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3AGMOD-20Component "Special%253ABrowse/Category%3AGMOD-20Component")</span>
 
  
 

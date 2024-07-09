@@ -18,7 +18,7 @@ A list of all pages that have property "[Has input
 format](/wiki/Property%3AHas_input_format "Property:Has input format")"
 with value "Genbank"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

@@ -18,7 +18,7 @@ A list of all pages that have property "[Interacts
 with](/wiki/Property%3AInteracts_with "Property:Interacts with")" with
 value "[Pathway Tools](/wiki/Pathway_Tools "Pathway Tools")"  
 
-- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>
+- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>
 
  
 

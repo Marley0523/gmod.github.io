@@ -195,7 +195,7 @@ class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schem
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema" rel="smw-browse">Browse
   properties</a></span>
 
 

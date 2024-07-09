@@ -830,7 +830,7 @@ should make the highlight go away.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Flash_GViewer_Documentation"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Flash_GViewer_Documentation"
   rel="smw-browse">Browse properties</a></span>
 
 

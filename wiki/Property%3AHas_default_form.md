@@ -54,8 +54,8 @@ this property.
 <tr class="odd">
 <td class="smwpropname"><a href="Category%3AGMOD_Component"
 title="Category%3AGMOD Component">GMOD Component</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Category%3AGMOD-20Component"
-title="Special%3ABrowse/Category%3AGMOD-20Component">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/Category%3AGMOD-20Component"
+title="Special%253ABrowse/Category%3AGMOD-20Component">+</a></span></td>
 <td class="smwprops"><a href="Form%3ATool_data"
 title="Form:Tool data">Tool data</a>  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Has-20default-20form/Tool-20data"
@@ -64,8 +64,8 @@ title="Special%3ASearchByProperty/Has-20default-20form/Tool-20data">+</a></span>
 <tr class="even">
 <td class="smwpropname"><a href="Category%3AGMOD_Tools"
 title="Category%3AGMOD Tools">GMOD Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Category%3AGMOD-20Tools"
-title="Special%3ABrowse/Category%3AGMOD-20Tools">+</a></span></td>
+href="Special%253ABrowse/Category%3AGMOD-20Tools"
+title="Special%253ABrowse/Category%3AGMOD-20Tools">+</a></span></td>
 <td class="smwprops"><a href="Form%3AComponent_information"
 title="Form:Component information">Component information</a>  <span
 class="smwsearch"><a
@@ -136,7 +136,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_default_form"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_default_form"
   rel="smw-browse">Browse properties</a></span>
 
 

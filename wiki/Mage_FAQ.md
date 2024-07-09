@@ -170,7 +170,7 @@ Use the experiment, factor, and treatment tables.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Mage_FAQ" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Mage_FAQ" rel="smw-browse">Browse properties</a></span>
 
 
 

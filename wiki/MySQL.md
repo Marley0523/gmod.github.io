@@ -175,7 +175,7 @@ disappeared from GBrowse. Nice.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MySQL" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MySQL" rel="smw-browse">Browse properties</a></span>
 
 
 

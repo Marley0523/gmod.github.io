@@ -504,7 +504,7 @@ pubprop Structure
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Publication_Module"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Publication_Module"
   rel="smw-browse">Browse properties</a></span>
 
 

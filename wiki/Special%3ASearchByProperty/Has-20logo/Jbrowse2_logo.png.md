@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 logo](/wiki/Property%3AHas_logo "Property:Has logo")" with value
 "Jbrowse2_logo.png"  
 
-- [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>
+- [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>
 
  
 

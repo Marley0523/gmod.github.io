@@ -112,7 +112,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FUC_Davis_Courses_this_September"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FUC_Davis_Courses_this_September"
   rel="smw-browse">Browse properties</a></span>
 
 

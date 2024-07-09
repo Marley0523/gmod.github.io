@@ -1271,7 +1271,7 @@ are some pointers for learning more:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Galaxy_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Galaxy_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

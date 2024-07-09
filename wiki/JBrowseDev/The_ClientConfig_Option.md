@@ -235,7 +235,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowseDev-2FThe_ClientConfig_Option"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/JBrowseDev-2FThe_ClientConfig_Option"
   rel="smw-browse">Browse properties</a></span>
 
 

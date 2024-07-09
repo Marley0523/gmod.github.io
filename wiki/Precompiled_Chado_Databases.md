@@ -122,7 +122,7 @@ All of these features can be added on request.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Precompiled_Chado_Databases"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Precompiled_Chado_Databases"
   rel="smw-browse">Browse properties</a></span>
 
 

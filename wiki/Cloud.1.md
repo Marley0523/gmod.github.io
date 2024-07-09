@@ -449,7 +449,7 @@ specific to the VM for help in setting up your data.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Cloud" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Cloud" rel="smw-browse">Browse properties</a></span>
 
 
 

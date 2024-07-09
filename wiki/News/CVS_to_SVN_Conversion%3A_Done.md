@@ -137,7 +137,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FCVS_to_SVN_Conversion%3A_Done"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCVS_to_SVN_Conversion%3A_Done"
   rel="smw-browse">Browse properties</a></span>
 
 

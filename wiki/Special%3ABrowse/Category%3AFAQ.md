@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[CMap FAQ](/wiki/CMap_FAQ "CMap FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-20FAQ "Special%3ABrowse/CMap-20FAQ")</span></span> , <span class="smwb-ivalue">[Chado FAQ](/wiki/Chado_FAQ "Chado FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20FAQ "Special%3ABrowse/Chado-20FAQ")</span></span> , <span class="smwb-ivalue">[GBrowse FAQ](/wiki/GBrowse_FAQ "GBrowse FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20FAQ "Special%3ABrowse/GBrowse-20FAQ")</span></span> , <span class="smwb-ivalue">[GMOD FAQ](/wiki/GMOD_FAQ "GMOD FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20FAQ "Special%3ABrowse/GMOD-20FAQ")</span></span> , <span class="smwb-ivalue">[MOD](/wiki/MOD "MOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD "Special%3ABrowse/MOD")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mage-20FAQ "Special%3ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[CMap FAQ](/wiki/CMap_FAQ "CMap FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-20FAQ "Special%253ABrowse/CMap-20FAQ")</span></span> , <span class="smwb-ivalue">[Chado FAQ](/wiki/Chado_FAQ "Chado FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20FAQ "Special%253ABrowse/Chado-20FAQ")</span></span> , <span class="smwb-ivalue">[GBrowse FAQ](/wiki/GBrowse_FAQ "GBrowse FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20FAQ "Special%253ABrowse/GBrowse-20FAQ")</span></span> , <span class="smwb-ivalue">[GMOD FAQ](/wiki/GMOD_FAQ "GMOD FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20FAQ "Special%253ABrowse/GMOD-20FAQ")</span></span> , <span class="smwb-ivalue">[MOD](/wiki/MOD "MOD") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MOD "Special%253ABrowse/MOD")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Mage-20FAQ "Special%253ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AFAQ "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AFAQ "This is a special page, you cannot edit the page itself")</span>
 
 
 

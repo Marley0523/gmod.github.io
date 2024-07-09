@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 title](/wiki/Property%3AHas_title "Property:Has title")" with value
 "Pristionchus pacificus Physical Map"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

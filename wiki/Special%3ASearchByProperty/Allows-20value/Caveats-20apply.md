@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "Caveats apply"  
 
 - [Property:Is open
-  source](/wiki/Property%3AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AIs-20open-20source "Special%3ABrowse/Property%3AIs-20open-20source")</span>
+  source](/wiki/Property%3AIs_open_source "Property:Is open source")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AIs-20open-20source "Special%253ABrowse/Property%3AIs-20open-20source")</span>
 
  
 

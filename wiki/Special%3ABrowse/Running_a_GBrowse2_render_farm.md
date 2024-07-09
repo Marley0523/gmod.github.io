@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Running_a_GBrowse2_render_farm "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Running_a_GBrowse2_render_farm "This is a special page, you cannot edit the page itself")</span>
 
 
 

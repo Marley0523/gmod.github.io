@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Glyphs" class="mw-redirect" title="Glyphs">Glyphs</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Glyphs "Special%3ABrowse/Glyphs")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Glyphs" class="mw-redirect" title="Glyphs">Glyphs</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Glyphs "Special%253ABrowse/Glyphs")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_Configuration-2FGlyphs "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_Configuration-2FGlyphs "This is a special page, you cannot edit the page itself")</span>
 
 
 

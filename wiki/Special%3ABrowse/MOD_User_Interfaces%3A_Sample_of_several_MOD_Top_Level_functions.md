@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/MOD_User_Interfaces%3A_Sample_of_several_MOD_Top_Level_functions "This is a special page, you cannot edit the page itself")</span>
 
 
 

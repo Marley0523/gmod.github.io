@@ -18,7 +18,7 @@ A list of all pages that have property "[Interaction
 type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
 value "provides input for"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

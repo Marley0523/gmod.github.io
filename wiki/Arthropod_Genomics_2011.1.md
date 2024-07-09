@@ -202,7 +202,7 @@ title="AGS2011Brochure.pdf">conference brochure</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/Arthropod_Genomics_2011"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/Arthropod_Genomics_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

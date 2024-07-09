@@ -20,7 +20,7 @@ href="http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi"
 class="external"
 rel="nofollow">http://bioinformatics.pbcbasc.latrobe.edu.au/basc/cgi-bin/index.cgi</a>"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

@@ -132,7 +132,7 @@ class="internal" title="Mod-face-07jan-MGI.pdf">PDF</a> | MGI: Sue Bello, Joel R
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_Face_Talks" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD_Face_Talks" rel="smw-browse">Browse
   properties</a></span>
 
 

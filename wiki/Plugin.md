@@ -176,7 +176,7 @@ Your cool plugin described here...
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Plugins" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Plugins" rel="smw-browse">Browse
   properties</a></span>
 
 

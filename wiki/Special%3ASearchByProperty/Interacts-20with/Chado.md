@@ -19,9 +19,9 @@ with](/wiki/Property%3AInteracts_with "Property:Interacts with")" with
 value
 "<a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a>"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
-- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
+- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
 
  
 

@@ -452,7 +452,7 @@ the shell login password; this must be done separately.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse2_VMs" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse2_VMs" rel="smw-browse">Browse
   properties</a></span>
 
 

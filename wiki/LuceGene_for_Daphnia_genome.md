@@ -149,7 +149,7 @@ class="internal" title="Daphnia-genepage-xml.png">gene page xml</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/LuceGene_for_Daphnia_genome"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/LuceGene_for_Daphnia_genome"
   rel="smw-browse">Browse properties</a></span>
 
 

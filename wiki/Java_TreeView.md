@@ -144,7 +144,7 @@ class="external text" rel="nofollow">From Sourceforge</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Java_TreeView" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Java_TreeView" rel="smw-browse">Browse
   properties</a></span>
 
 

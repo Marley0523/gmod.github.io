@@ -420,7 +420,7 @@ public.phenstatement Structure
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Genetic_Module_-2D_Staging"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Genetic_Module_-2D_Staging"
   rel="smw-browse">Browse properties</a></span>
 
 

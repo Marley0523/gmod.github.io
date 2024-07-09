@@ -126,7 +126,7 @@ component, regardless of programming langauge.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Questions_on_Testing" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Questions_on_Testing" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -529,7 +529,7 @@ Feedback will be summarized and posted here once we have it.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/April_2012_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/April_2012_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

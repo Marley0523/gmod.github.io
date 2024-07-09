@@ -89,7 +89,7 @@ title="MaraKim GMOD2014.pdf">Jan 2014 GMOD meeting</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3AMara_Kim" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3AMara_Kim" rel="smw-browse">Browse
   properties</a></span>
 
 

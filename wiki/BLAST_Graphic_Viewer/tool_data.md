@@ -120,7 +120,7 @@ title="Visit the main page"></a>
 
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/BLAST_Graphic_Viewer-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/BLAST_Graphic_Viewer-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

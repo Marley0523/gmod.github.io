@@ -151,7 +151,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FInsect_Pest_Workshop,_16-2D17_Nov"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FInsect_Pest_Workshop,_16-2D17_Nov"
   rel="smw-browse">Browse properties</a></span>
 
 

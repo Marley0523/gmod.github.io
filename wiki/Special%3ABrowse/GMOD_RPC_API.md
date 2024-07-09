@@ -36,7 +36,7 @@ class="new" title="Category%3ARPC (page does not exist)">RPC</a>  <span class=
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD_REST_API" class="mw-redirect"
-title="GMOD REST API">GMOD REST API</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20REST-20API "Special%3ABrowse/GMOD-20REST-20API")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD REST API">GMOD REST API</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20REST-20API "Special%253ABrowse/GMOD-20REST-20API")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -60,7 +60,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GMOD_RPC_API "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GMOD_RPC_API "This is a special page, you cannot edit the page itself")</span>
 
 
 

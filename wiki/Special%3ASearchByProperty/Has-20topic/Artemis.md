@@ -19,7 +19,7 @@ topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[Artemis](/wiki/Artemis "Artemis")"  
 
 - [Artemis-Chado Integration
-  Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>
+  Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span>
 
  
 

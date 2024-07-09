@@ -150,7 +150,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGet_GMOD_Gear!"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGet_GMOD_Gear!"
   rel="smw-browse">Browse properties</a></span>
 
 

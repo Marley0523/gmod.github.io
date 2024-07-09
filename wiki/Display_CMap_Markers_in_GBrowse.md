@@ -176,7 +176,7 @@ without requiring a lot a maintenance and administration.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Display_CMap_Markers_in_GBrowse"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Display_CMap_Markers_in_GBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -19,7 +19,7 @@ A list of all pages that have property
 "Other PGDBs"  
 
 - [Pathway
-  Tools#http://biocyc.org/otherpgdbs.shtml](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2Fotherpgdbs.shtml "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%3ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
+  Tools#http://biocyc.org/otherpgdbs.shtml](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2Fotherpgdbs.shtml "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml "Special%253ABrowse/Pathway-20Tools-23http%3A-2F-2Fbiocyc.org-2Fotherpgdbs.shtml")</span>
 
  
 

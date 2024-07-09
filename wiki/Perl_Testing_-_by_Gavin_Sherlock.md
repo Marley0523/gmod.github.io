@@ -350,7 +350,7 @@ will allow you to determine where your bottlenecks are.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Perl_Testing_-2D_by_Gavin_Sherlock"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Perl_Testing_-2D_by_Gavin_Sherlock"
   rel="smw-browse">Browse properties</a></span>
 
 

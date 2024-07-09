@@ -133,7 +133,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FCMap_Paper_in_Bioinformatics"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FCMap_Paper_in_Bioinformatics"
   rel="smw-browse">Browse properties</a></span>
 
 

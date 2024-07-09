@@ -19,7 +19,7 @@ description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "Fully supported, publicly accessible platforms for using
 Galaxy"  
 
-- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
+- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 
  
 

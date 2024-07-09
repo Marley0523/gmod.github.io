@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Templates" class="mw-redirect"
-title="Templates">Templates</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Templates "Special%3ABrowse/Templates")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Templates">Templates</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Templates "Special%253ABrowse/Templates")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Wiki_linking_style_guide "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Wiki_linking_style_guide "This is a special page, you cannot edit the page itself")</span>
 
 
 

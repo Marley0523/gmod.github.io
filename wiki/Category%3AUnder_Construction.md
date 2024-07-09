@@ -117,7 +117,7 @@ The following 6 pages are in this category, out of 6 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AUnder_Construction"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AUnder_Construction"
   rel="smw-browse">Browse properties</a></span>
 
 

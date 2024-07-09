@@ -32,7 +32,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO%3A%3ATermFinder "Special%3ABrowse/GO%3A%3ATermFinder")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has improper value for](/wiki/Property:Has_improper_value_for "Property:Has improper value for")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has improper value for](/wiki/Property:Has_improper_value_for "Property:Has improper value for")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property%3AAvailable_on_platform "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Property%3AAvailable_on_platform "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/News-2FTripal%3A_A_Web_Front_End_for_Chado "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/News-2FTripal%3A_A_Web_Front_End_for_Chado "This is a special page, you cannot edit the page itself")</span>
 
 
 

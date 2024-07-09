@@ -173,7 +173,7 @@ rel="nofollow">FlyBase</a> | zhou (via) morgan harvard edu |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_Participants" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD_Participants" rel="smw-browse">Browse
   properties</a></span>
 
 

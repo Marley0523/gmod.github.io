@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[MAKER#https://www.e-biogenouest.org/resources/48](/wiki/MAKER#https:.2F.2Fwww.e-biogenouest.org.2Fresources.2F48 "MAKER")"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

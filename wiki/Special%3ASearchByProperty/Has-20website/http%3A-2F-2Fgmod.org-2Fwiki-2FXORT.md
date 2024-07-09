@@ -19,7 +19,7 @@ website](/wiki/Property%3AHas_website "Property:Has website")" with value
 "<a href="http://gmod.org/wiki/XORT" class="external"
 rel="nofollow">http://gmod.org/wiki/XORT</a>"  
 
-- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span>
+- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>
 
  
 

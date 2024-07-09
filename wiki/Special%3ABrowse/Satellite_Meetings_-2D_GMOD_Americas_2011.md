@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Americas_2011 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Satellite_Meetings_-2D_GMOD_Americas_2011 "This is a special page, you cannot edit the page itself")</span>
 
 
 

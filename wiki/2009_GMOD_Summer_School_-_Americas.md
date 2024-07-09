@@ -652,7 +652,7 @@ to 3 (average) to 5 (very good), or N.A. if you have no opinion.**
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Summer_School_-2D_Americas"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2009_GMOD_Summer_School_-2D_Americas"
   rel="smw-browse">Browse properties</a></span>
 
 

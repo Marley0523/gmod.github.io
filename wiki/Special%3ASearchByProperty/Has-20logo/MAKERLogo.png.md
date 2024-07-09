@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 logo](/wiki/Property%3AHas_logo "Property:Has logo")" with value
 "MAKERLogo.png"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

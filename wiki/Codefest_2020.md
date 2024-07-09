@@ -163,7 +163,7 @@ Friday:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Codefest_2020" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Codefest_2020" rel="smw-browse">Browse
   properties</a></span>
 
 

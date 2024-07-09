@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Genomes Unzipped: Public Personal Genomics"  
 
-- [JBrowse#http://genomesunzipped.org/jbrowse](/wiki/JBrowse#http:.2F.2Fgenomesunzipped.org.2Fjbrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-23http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse "Special%3ABrowse/JBrowse-23http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse")</span>
+- [JBrowse#http://genomesunzipped.org/jbrowse](/wiki/JBrowse#http:.2F.2Fgenomesunzipped.org.2Fjbrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse "Special%253ABrowse/JBrowse-23http%3A-2F-2Fgenomesunzipped.org-2Fjbrowse")</span>
 
  
 

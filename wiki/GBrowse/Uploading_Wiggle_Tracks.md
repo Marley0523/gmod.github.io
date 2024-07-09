@@ -230,7 +230,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse-2FUploading_Wiggle_Tracks"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GBrowse-2FUploading_Wiggle_Tracks"
   rel="smw-browse">Browse properties</a></span>
 
 

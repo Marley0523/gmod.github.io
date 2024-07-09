@@ -106,7 +106,7 @@ The following 6 pages are in this category, out of 6 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ANatural_Diversity"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ANatural_Diversity"
   rel="smw-browse">Browse properties</a></span>
 
 

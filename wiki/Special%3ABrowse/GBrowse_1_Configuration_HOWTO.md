@@ -32,13 +32,13 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/CONFIGURE_HOWTO" class="mw-redirect"
-title="CONFIGURE HOWTO">CONFIGURE HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CONFIGURE-20HOWTO "Special%3ABrowse/CONFIGURE-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse/Configure_HOWTO" class="mw-redirect"
-title="GBrowse/Configure HOWTO">GBrowse/Configure HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-2FConfigure-20HOWTO "Special%3ABrowse/GBrowse-2FConfigure-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration" class="mw-redirect"
-title="GBrowse Configuration">GBrowse Configuration</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Configuration "Special%3ABrowse/GBrowse-20Configuration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration_HOWTO" class="mw-redirect"
-title="GBrowse Configuration HOWTO">GBrowse Configuration HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Configuration-20HOWTO "Special%3ABrowse/GBrowse-20Configuration-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration_HOWTO/bullets2h3"
+title="CONFIGURE HOWTO">CONFIGURE HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CONFIGURE-20HOWTO "Special%253ABrowse/CONFIGURE-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse/Configure_HOWTO" class="mw-redirect"
+title="GBrowse/Configure HOWTO">GBrowse/Configure HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-2FConfigure-20HOWTO "Special%253ABrowse/GBrowse-2FConfigure-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration" class="mw-redirect"
+title="GBrowse Configuration">GBrowse Configuration</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Configuration "Special%253ABrowse/GBrowse-20Configuration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration_HOWTO" class="mw-redirect"
+title="GBrowse Configuration HOWTO">GBrowse Configuration HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Configuration-20HOWTO "Special%253ABrowse/GBrowse-20Configuration-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_Configuration_HOWTO/bullets2h3"
 class="mw-redirect"
 title="GBrowse Configuration HOWTO/bullets2h3">GBrowse Configuration
-HOWTO/bullets2h3</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Configuration-20HOWTO-2Fbullets2h3 "Special%3ABrowse/GBrowse-20Configuration-20HOWTO-2Fbullets2h3")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+HOWTO/bullets2h3</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Configuration-20HOWTO-2Fbullets2h3 "Special%253ABrowse/GBrowse-20Configuration-20HOWTO-2Fbullets2h3")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_1_Configuration_HOWTO "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_1_Configuration_HOWTO "This is a special page, you cannot edit the page itself")</span>
 
 
 

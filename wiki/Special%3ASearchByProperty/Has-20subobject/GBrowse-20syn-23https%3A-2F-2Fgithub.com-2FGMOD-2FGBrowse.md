@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 syn#https://github.com/GMOD/GBrowse](/wiki/GBrowse_syn#https:.2F.2Fgithub.com.2FGMOD.2FGBrowse "GBrowse syn")"  
 
 - [GBrowse
-  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>
+  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>
 
  
 

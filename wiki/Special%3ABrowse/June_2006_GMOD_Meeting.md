@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/June,_2006_GMOD_meeting" class="mw-redirect"
-title="June, 2006 GMOD meeting">June, 2006 GMOD meeting</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/June,-202006-20GMOD-20meeting "Special%3ABrowse/June,-202006-20GMOD-20meeting")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="June, 2006 GMOD meeting">June, 2006 GMOD meeting</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/June,-202006-20GMOD-20meeting "Special%253ABrowse/June,-202006-20GMOD-20meeting")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/June_2006_GMOD_Meeting "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/June_2006_GMOD_Meeting "This is a special page, you cannot edit the page itself")</span>
 
 
 

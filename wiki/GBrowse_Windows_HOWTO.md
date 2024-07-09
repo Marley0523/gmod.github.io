@@ -230,7 +230,7 @@ ActiveState and/or Apache!). A few notes:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Windows_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Windows_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

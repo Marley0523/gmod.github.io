@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/VMWare_HOWTO" class="mw-redirect"
-title="VMWare HOWTO">VMWare HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/VMWare-20HOWTO "Special%3ABrowse/VMWare-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="VMWare HOWTO">VMWare HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/VMWare-20HOWTO "Special%253ABrowse/VMWare-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/VMware_HOWTO "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/VMware_HOWTO "This is a special page, you cannot edit the page itself")</span>
 
 
 

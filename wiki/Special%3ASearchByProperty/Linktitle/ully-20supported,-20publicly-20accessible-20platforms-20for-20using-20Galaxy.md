@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "ully supported, publicly accessible platforms for using Galaxy"  
 
-- [Galaxy#http://wiki.galaxyproject.org/PublicGalaxyServers](/wiki/Galaxy#http:.2F.2Fwiki.galaxyproject.org.2FPublicGalaxyServers "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers "Special%3ABrowse/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers")</span>
+- [Galaxy#http://wiki.galaxyproject.org/PublicGalaxyServers](/wiki/Galaxy#http:.2F.2Fwiki.galaxyproject.org.2FPublicGalaxyServers "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers "Special%253ABrowse/Galaxy-23http%3A-2F-2Fwiki.galaxyproject.org-2FPublicGalaxyServers")</span>
 
  
 

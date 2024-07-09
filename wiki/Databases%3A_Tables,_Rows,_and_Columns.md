@@ -199,7 +199,7 @@ Records</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Databases%3A_Tables,_Rows,_and_Columns"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Databases%3A_Tables,_Rows,_and_Columns"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Genetic Module - Staging](/wiki/Chado_Genetic_Module_-_Staging "Chado Genetic Module - Staging") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Genetic-20Module-20-2D-20Staging "Special%3ABrowse/Chado-20Genetic-20Module-20-2D-20Staging")</span></span> , <span class="smwb-ivalue">[Chado Phenotype Module - Staging](/wiki/Chado_Phenotype_Module_-_Staging "Chado Phenotype Module - Staging") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Phenotype-20Module-20-2D-20Staging "Special%3ABrowse/Chado-20Phenotype-20Module-20-2D-20Staging")</span></span> , <span class="smwb-ivalue">[Chado Phenotype Module at FlyBase](/wiki/Chado_Phenotype_Module_at_FlyBase "Chado Phenotype Module at FlyBase") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase "Special%3ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase")</span></span> , <span class="smwb-ivalue">[GMODviews](/wiki/GMODviews "GMODviews") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMODviews "Special%3ABrowse/GMODviews")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado Genetic Module - Staging](/wiki/Chado_Genetic_Module_-_Staging "Chado Genetic Module - Staging") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Genetic-20Module-20-2D-20Staging "Special%253ABrowse/Chado-20Genetic-20Module-20-2D-20Staging")</span></span> , <span class="smwb-ivalue">[Chado Phenotype Module - Staging](/wiki/Chado_Phenotype_Module_-_Staging "Chado Phenotype Module - Staging") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Phenotype-20Module-20-2D-20Staging "Special%253ABrowse/Chado-20Phenotype-20Module-20-2D-20Staging")</span></span> , <span class="smwb-ivalue">[Chado Phenotype Module at FlyBase](/wiki/Chado_Phenotype_Module_at_FlyBase "Chado Phenotype Module at FlyBase") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase "Special%253ABrowse/Chado-20Phenotype-20Module-20at-20FlyBase")</span></span> , <span class="smwb-ivalue">[GMODviews](/wiki/GMODviews "GMODviews") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMODviews "Special%253ABrowse/GMODviews")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AUnder_Construction "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AUnder_Construction "This is a special page, you cannot edit the page itself")</span>
 
 
 

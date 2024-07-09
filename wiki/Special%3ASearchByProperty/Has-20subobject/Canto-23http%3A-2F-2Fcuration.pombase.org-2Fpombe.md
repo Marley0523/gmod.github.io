@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[Canto#http://curation.pombase.org/pombe](/wiki/Canto#http:.2F.2Fcuration.pombase.org.2Fpombe "Canto")"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
 
  
 

@@ -20,7 +20,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 class="external"
 rel="nofollow">http://wiki.galaxyproject.org/PublicGalaxyServers</a>"  
 
-- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
+- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 
  
 

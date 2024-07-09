@@ -20,7 +20,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[GBrowse](/wiki/GBrowse "GBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[GBrowse](/wiki/GBrowse "GBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[Tutorials](/wiki/Category%3ATutorials "Category%3ATutorials")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Tutorials "Special%3ASearchByProperty/Tutorials")</span></span> , <span class="smwb-value">[GBrowse 2](/wiki/Category%3AGBrowse_2 "Category%3AGBrowse 2")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/GBrowse-202 "Special%3ASearchByProperty/GBrowse-202")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 October 2012 18:11:47  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:11:47 "Special%3ASearchByProperty/Modification-20date/9-20October-202012-2018:11:47")</span></span> |
 
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_NGS_Tutorial "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_NGS_Tutorial "This is a special page, you cannot edit the page itself")</span>
 
 
 

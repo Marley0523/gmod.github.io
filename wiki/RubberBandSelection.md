@@ -295,7 +295,7 @@ Configuration for submitter plugin (used in above menu).
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/RubberBandSelection" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/RubberBandSelection" rel="smw-browse">Browse
   properties</a></span>
 
 

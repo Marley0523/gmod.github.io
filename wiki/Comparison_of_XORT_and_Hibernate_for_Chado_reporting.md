@@ -267,7 +267,7 @@ comings and we were pleased with XORT.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
+  href="Special%253ABrowse/Comparison_of_XORT_and_Hibernate_for_Chado_reporting"
   rel="smw-browse">Browse properties</a></span>
 
 

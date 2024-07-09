@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "os x"  
 
 - [Property:Available on
-  platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3AAvailable-20on-20platform "Special%3ABrowse/Property%3AAvailable-20on-20platform")</span>
+  platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3AAvailable-20on-20platform "Special%253ABrowse/Property%3AAvailable-20on-20platform")</span>
 
  
 

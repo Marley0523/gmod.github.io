@@ -144,7 +144,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FChado_in_RDF%3A_OpenFlyData"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FChado_in_RDF%3A_OpenFlyData"
   rel="smw-browse">Browse properties</a></span>
 
 

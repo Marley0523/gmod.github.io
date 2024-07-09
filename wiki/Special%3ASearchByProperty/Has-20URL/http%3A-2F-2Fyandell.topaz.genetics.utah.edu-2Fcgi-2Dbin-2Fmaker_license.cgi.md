@@ -20,7 +20,7 @@ href="http://yandell.topaz.genetics.utah.edu/cgi-bin/maker_license.cgi"
 class="external"
 rel="nofollow">http://yandell.topaz.genetics.utah.edu/cgi-bin/maker_license.cgi</a>"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

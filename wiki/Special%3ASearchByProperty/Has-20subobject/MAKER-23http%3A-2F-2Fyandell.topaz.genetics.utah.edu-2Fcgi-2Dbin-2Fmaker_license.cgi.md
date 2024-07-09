@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[MAKER#http://yandell.topaz.genetics.utah.edu/cgi-bin/maker_license.cgi](/wiki/MAKER#http:.2F.2Fyandell.topaz.genetics.utah.edu.2Fcgi-bin.2Fmaker_license.cgi "MAKER")"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

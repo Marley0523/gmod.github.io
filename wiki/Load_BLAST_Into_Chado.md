@@ -270,7 +270,7 @@ rel="nofollow">gmod-devel@lists.sourceforge.net</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_BLAST_Into_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_BLAST_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

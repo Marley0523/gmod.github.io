@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[WebApollo#\_0d2bc0e8d059cba6cefd439a084fc7c8](/wiki/WebApollo#_0d2bc0e8d059cba6cefd439a084fc7c8 "WebApollo")"  
 
-- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span>
+- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span>
 
  
 

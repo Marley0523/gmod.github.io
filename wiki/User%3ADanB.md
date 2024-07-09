@@ -86,7 +86,7 @@ presenting Galaxy at the upcoming GMOD Workshop at [PAG
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ADanB" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADanB" rel="smw-browse">Browse
   properties</a></span>
 
 

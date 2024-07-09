@@ -18,8 +18,8 @@ A list of all pages that have property "[Has support
 status](/wiki/Property%3AHas_support_status "Property:Has support status")"
 with value "inactive"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
-- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
+- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 
  
 

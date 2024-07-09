@@ -17,15 +17,15 @@
   
 
 - <a href="/wiki/Chado" class="mw-redirect" title="Chado">Chado</a>
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado "Special%3ABrowse/Chado")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado "Special%253ABrowse/Chado")</span>
 - [GBrowse](/wiki/GBrowse "GBrowse")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 - [Galaxy](/wiki/Galaxy "Galaxy")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 - [JBrowse](/wiki/JBrowse "JBrowse")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>
 - [Pathway Tools](/wiki/Pathway_Tools "Pathway Tools")
-   <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
+   <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
 
  
 

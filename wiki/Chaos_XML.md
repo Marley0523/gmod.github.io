@@ -250,7 +250,7 @@ chado table [organism](Chado_Tables#Table:_organism "Chado Tables").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chaos_XML" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chaos_XML" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -34,7 +34,7 @@
 | <span class="smwb-ivalue"><a href="/wiki/Load_Balancing_GBrowses_with_AWS_Spot_Instances"
 class="mw-redirect"
 title="Load Balancing GBrowses with AWS Spot Instances">Load Balancing
-GBrowses with AWS Spot Instances</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Load-20Balancing-20GBrowses-20with-20AWS-20Spot-20Instances "Special%3ABrowse/Load-20Balancing-20GBrowses-20with-20AWS-20Spot-20Instances")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+GBrowses with AWS Spot Instances</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Load-20Balancing-20GBrowses-20with-20AWS-20Spot-20Instances "Special%253ABrowse/Load-20Balancing-20GBrowses-20with-20AWS-20Spot-20Instances")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Load_Balancing_GBrowse2_with_AWS_Spot_Instances "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -113,7 +113,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FFlyBase_Converts_to_Chado"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FFlyBase_Converts_to_Chado"
   rel="smw-browse">Browse properties</a></span>
 
 

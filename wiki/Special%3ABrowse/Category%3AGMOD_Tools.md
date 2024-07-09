@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[JBrowse Tutorial PAG 2018](/wiki/JBrowse_Tutorial_PAG_2018 "JBrowse Tutorial PAG 2018") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018 "Special%3ABrowse/JBrowse-20Tutorial-20PAG-202018")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[JBrowse Tutorial PAG 2018](/wiki/JBrowse_Tutorial_PAG_2018 "JBrowse Tutorial PAG 2018") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-20Tutorial-20PAG-202018 "Special%253ABrowse/JBrowse-20Tutorial-20PAG-202018")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGMOD_Tools "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGMOD_Tools "This is a special page, you cannot edit the page itself")</span>
 
 
 

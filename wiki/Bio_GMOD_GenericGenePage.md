@@ -257,7 +257,7 @@ implementation.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bio_GMOD_GenericGenePage"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bio_GMOD_GenericGenePage"
   rel="smw-browse">Browse properties</a></span>
 
 

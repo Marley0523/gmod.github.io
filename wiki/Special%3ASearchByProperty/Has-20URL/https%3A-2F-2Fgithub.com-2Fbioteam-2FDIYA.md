@@ -19,7 +19,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="https://github.com/bioteam/DIYA" class="external"
 rel="nofollow">https://github.com/bioteam/DIYA</a>"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

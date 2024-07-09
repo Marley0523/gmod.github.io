@@ -232,7 +232,7 @@ obscure answers:
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -1213,7 +1213,7 @@ restrictions will clearly state that they have restricted licenses.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Overview" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Overview" rel="smw-browse">Browse properties</a></span>
 
 
 

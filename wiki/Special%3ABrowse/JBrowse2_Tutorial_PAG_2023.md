@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowse2_Tutorial_PAG_2023 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowse2_Tutorial_PAG_2023 "This is a special page, you cannot edit the page itself")</span>
 
 
 

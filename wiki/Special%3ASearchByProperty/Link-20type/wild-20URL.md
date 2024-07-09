@@ -18,18 +18,18 @@ A list of all pages that have property "[Link
 type](/wiki/Property%3ALink_type "Property:Link type")" with value "wild
 URL"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
-- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
+- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 - [GBrowse
-  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>
-- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
-- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>
-- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>
+  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>
+- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
+- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>
+- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>
 - [Pathway
-  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
-- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso "Special%3ABrowse/Textpresso")</span>
+  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
+- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>
 
  
 

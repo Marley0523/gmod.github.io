@@ -116,7 +116,7 @@
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Modules" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Modules" rel="smw-browse">Browse
   properties</a></span>
 
 

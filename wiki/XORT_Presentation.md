@@ -306,7 +306,7 @@ needed.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT_Presentation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/XORT_Presentation" rel="smw-browse">Browse
   properties</a></span>
 
 

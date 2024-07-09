@@ -27,7 +27,7 @@ class="new" title="Property:Object (page does not exist)">Object</a> | <span cla
 href="/mediawiki/index.php?title=Property:Relationship&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Relationship (page does not exist)">Relationship</a> | <span class="smwb-value">can embed  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Relationship/can-20embed "Special%3ASearchByProperty/Relationship/can-20embed")</span></span> |
-| [Subject](/wiki/Property%3ASubject "Property%3ASubject") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> |
+| [Subject](/wiki/Property%3ASubject "Property%3ASubject") | <span class="smwb-value">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -37,7 +37,7 @@ title="Property:Relationship (page does not exist)">Relationship</a> | <span cla
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Tripal](/wiki/Tripal "Tripal") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -61,7 +61,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Tripal-23_8904ca0c9942fceca83d1637dceaa4e9 "This is a special page, you cannot edit the page itself")</span>
 
 
 

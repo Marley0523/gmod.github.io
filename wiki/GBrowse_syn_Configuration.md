@@ -374,7 +374,7 @@ web colors or RGB hex codes (eg: '#FFFFFF').</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Configuration"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_Configuration"
   rel="smw-browse">Browse properties</a></span>
 
 

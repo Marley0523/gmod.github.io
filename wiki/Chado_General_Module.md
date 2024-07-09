@@ -487,7 +487,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_General_Module" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_General_Module" rel="smw-browse">Browse
   properties</a></span>
 
 

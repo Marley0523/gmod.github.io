@@ -181,7 +181,7 @@ gene, genome feature predictions?
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MOD_User_Interfaces%3A_outline_of_topics"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MOD_User_Interfaces%3A_outline_of_topics"
   rel="smw-browse">Browse properties</a></span>
 
 

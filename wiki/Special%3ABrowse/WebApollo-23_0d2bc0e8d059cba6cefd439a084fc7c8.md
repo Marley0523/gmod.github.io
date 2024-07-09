@@ -27,7 +27,7 @@ class="new" title="Property:Object (page does not exist)">Object</a> | <span cla
 href="/mediawiki/index.php?title=Property:Relationship&amp;action=edit&amp;redlink=1"
 class="new"
 title="Property:Relationship (page does not exist)">Relationship</a> | <span class="smwb-value">receives input from  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Relationship/receives-20input-20from "Special%3ASearchByProperty/Relationship/receives-20input-20from")</span></span> |
-| [Subject](/wiki/Property%3ASubject "Property%3ASubject") | <span class="smwb-value">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> |
+| [Subject](/wiki/Property%3ASubject "Property%3ASubject") | <span class="smwb-value">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -37,7 +37,7 @@ title="Property:Relationship (page does not exist)">Relationship</a> | <span cla
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -61,7 +61,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/WebApollo-23_0d2bc0e8d059cba6cefd439a084fc7c8 "This is a special page, you cannot edit the page itself")</span>
 
 
 

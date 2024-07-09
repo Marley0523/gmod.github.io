@@ -20,7 +20,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 class="external"
 rel="nofollow">http://www.yandell-lab.org/software/maker.html</a>"  
 
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 
  
 

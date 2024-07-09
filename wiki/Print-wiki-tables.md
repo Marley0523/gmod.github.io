@@ -349,7 +349,7 @@ __END__
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Print-2Dwiki-2Dtables" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Print-2Dwiki-2Dtables" rel="smw-browse">Browse
   properties</a></span>
 
 

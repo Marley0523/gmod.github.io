@@ -566,7 +566,7 @@ Notes on Lucene, memcache, Storable, etc. here.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/IGS_Data_Representation" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/IGS_Data_Representation" rel="smw-browse">Browse
   properties</a></span>
 
 

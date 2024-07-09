@@ -33,7 +33,7 @@ title="Category%3ARails (page does not exist)">Category%3ARails</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20on-20Rails "Special%3ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Chado on Rails](/wiki/Chado_on_Rails "Chado on Rails") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20on-20Rails "Special%253ABrowse/Chado-20on-20Rails")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ARails "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ARails "This is a special page, you cannot edit the page itself")</span>
 
 
 

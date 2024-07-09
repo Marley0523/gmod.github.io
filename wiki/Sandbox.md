@@ -132,7 +132,7 @@ class="external text" rel="nofollow">Behavior on EcoliWiki</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Sandbox" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Sandbox" rel="smw-browse">Browse properties</a></span>
 
 
 

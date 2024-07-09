@@ -204,7 +204,7 @@ print $segments,$chroms,$gff;
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_karyotype_ideogram.pl"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_karyotype_ideogram.pl"
   rel="smw-browse">Browse properties</a></span>
 
 

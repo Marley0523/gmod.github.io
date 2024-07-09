@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Pubsearch" class="mw-redirect"
-title="Pubsearch">Pubsearch</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pubsearch "Special%3ABrowse/Pubsearch")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Pubsearch">Pubsearch</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pubsearch "Special%253ABrowse/Pubsearch")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/PubSearch "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/PubSearch "This is a special page, you cannot edit the page itself")</span>
 
 
 

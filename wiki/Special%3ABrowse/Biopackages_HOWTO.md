@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Biopackages" class="mw-redirect"
-title="Biopackages">Biopackages</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Biopackages "Special%3ABrowse/Biopackages")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Biopackages">Biopackages</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Biopackages "Special%253ABrowse/Biopackages")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Biopackages_HOWTO "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Biopackages_HOWTO "This is a special page, you cannot edit the page itself")</span>
 
 
 

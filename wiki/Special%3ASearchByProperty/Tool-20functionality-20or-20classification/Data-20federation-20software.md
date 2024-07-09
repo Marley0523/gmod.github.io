@@ -18,7 +18,7 @@ A list of all pages that have property "[Tool functionality or
 classification](/wiki/Property%3ATool_functionality_or_classification "Property:Tool functionality or classification")"
 with value "Data federation software"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
 
  
 

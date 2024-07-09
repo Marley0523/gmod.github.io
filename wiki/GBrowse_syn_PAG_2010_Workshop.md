@@ -217,7 +217,7 @@ workshop.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_2010_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_PAG_2010_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

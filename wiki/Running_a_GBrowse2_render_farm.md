@@ -473,7 +473,7 @@ option in the /etc/default/gbrowse-slave file to its maximum level of 3.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Running_a_GBrowse2_render_farm"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Running_a_GBrowse2_render_farm"
   rel="smw-browse">Browse properties</a></span>
 
 

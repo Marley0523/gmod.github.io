@@ -19,7 +19,7 @@ website](/wiki/Property%3AHas_website "Property:Has website")" with value
 "<a href="http://biodig.org" class="external"
 rel="nofollow">http://biodig.org</a>"  
 
-- [BioDIG](/wiki/BioDIG "BioDIG")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioDIG "Special%3ABrowse/BioDIG")</span>
+- [BioDIG](/wiki/BioDIG "BioDIG")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioDIG "Special%253ABrowse/BioDIG")</span>
 
  
 

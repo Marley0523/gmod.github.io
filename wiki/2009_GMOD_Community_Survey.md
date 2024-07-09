@@ -1670,7 +1670,7 @@ like to provide, please tell us here.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2009_GMOD_Community_Survey"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2009_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
 
 

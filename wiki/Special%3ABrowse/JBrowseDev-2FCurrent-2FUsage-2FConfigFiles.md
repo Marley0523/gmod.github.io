@@ -32,7 +32,7 @@ title="JBrowseDev/Current/Usage/ConfigFiles">JBrowseDev/Current/Usage/ConfigFile
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current/Usage/ConfigFiles" class="mw-redirect"
-title="JBrowseDev/Current/Usage/ConfigFiles">JBrowseDev/Current/Usage/ConfigFiles</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles "Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="JBrowseDev/Current/Usage/ConfigFiles">JBrowseDev/Current/Usage/ConfigFiles</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles "Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FConfigFiles "This is a special page, you cannot edit the page itself")</span>
 
 
 

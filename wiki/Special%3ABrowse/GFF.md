@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GFF "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GFF "This is a special page, you cannot edit the page itself")</span>
 
 
 

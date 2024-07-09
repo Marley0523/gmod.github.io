@@ -34,7 +34,7 @@ Online Training</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD Online Training 2014/Schedule](/wiki/GMOD_Online_Training_2014/Schedule "GMOD Online Training 2014/Schedule") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20Online-20Training-202014-2FSchedule "Special%3ABrowse/GMOD-20Online-20Training-202014-2FSchedule")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD Online Training 2014/Schedule](/wiki/GMOD_Online_Training_2014/Schedule "GMOD Online Training 2014/Schedule") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20Online-20Training-202014-2FSchedule "Special%253ABrowse/GMOD-20Online-20Training-202014-2FSchedule")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGMOD_Online_Training "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGMOD_Online_Training "This is a special page, you cannot edit the page itself")</span>
 
 
 

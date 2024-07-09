@@ -210,7 +210,7 @@ rel="nofollow">ChromDB</a> |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/January_2007_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/January_2007_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

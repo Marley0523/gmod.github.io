@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Installing_Chado_on_Ubuntu_HOWTO "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Installing_Chado_on_Ubuntu_HOWTO "This is a special page, you cannot edit the page itself")</span>
 
 
 

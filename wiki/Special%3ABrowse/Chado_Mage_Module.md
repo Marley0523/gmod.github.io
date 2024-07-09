@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Chado_Rad_Module" class="mw-redirect"
-title="Chado Rad Module">Chado Rad Module</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Rad-20Module "Special%3ABrowse/Chado-20Rad-20Module")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Chado Rad Module">Chado Rad Module</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Rad-20Module "Special%253ABrowse/Chado-20Rad-20Module")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_Mage_Module "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_Mage_Module "This is a special page, you cannot edit the page itself")</span>
 
 
 

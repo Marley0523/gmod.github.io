@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Soybean Breeders Toolbox"  
 
-- [CMap#http://soybeanbreederstoolbox.org/index.php](/wiki/CMap#http:.2F.2Fsoybeanbreederstoolbox.org.2Findex.php "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%3ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>
+- [CMap#http://soybeanbreederstoolbox.org/index.php](/wiki/CMap#http:.2F.2Fsoybeanbreederstoolbox.org.2Findex.php "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php "Special%253ABrowse/CMap-23http%3A-2F-2Fsoybeanbreederstoolbox.org-2Findex.php")</span>
 
  
 

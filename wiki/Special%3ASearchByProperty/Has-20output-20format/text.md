@@ -18,7 +18,7 @@ A list of all pages that have property "[Has output
 format](/wiki/Property%3AHas_output_format "Property:Has output format")"
 with value "text"  
 
-- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso "Special%3ABrowse/Textpresso")</span>
+- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>
 
  
 

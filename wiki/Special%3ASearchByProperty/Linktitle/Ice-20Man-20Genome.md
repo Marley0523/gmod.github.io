@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Ice Man Genome"  
 
-- [JBrowse#http://icemangenome.net/‎](/wiki/JBrowse#http:.2F.2Ficemangenome.net.2F "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-23http%3A-2F-2Ficemangenome.net-2F "Special%3ABrowse/JBrowse-23http%3A-2F-2Ficemangenome.net-2F")</span>
+- [JBrowse#http://icemangenome.net/‎](/wiki/JBrowse#http:.2F.2Ficemangenome.net.2F "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-23http%3A-2F-2Ficemangenome.net-2F "Special%253ABrowse/JBrowse-23http%3A-2F-2Ficemangenome.net-2F")</span>
 
  
 

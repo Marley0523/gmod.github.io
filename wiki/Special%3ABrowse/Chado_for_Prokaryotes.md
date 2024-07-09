@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Chado_for_prokaryotes" class="mw-redirect"
-title="Chado for prokaryotes">Chado for prokaryotes</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20for-20prokaryotes "Special%3ABrowse/Chado-20for-20prokaryotes")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Chado for prokaryotes">Chado for prokaryotes</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20for-20prokaryotes "Special%253ABrowse/Chado-20for-20prokaryotes")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_for_Prokaryotes "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_for_Prokaryotes "This is a special page, you cannot edit the page itself")</span>
 
 
 

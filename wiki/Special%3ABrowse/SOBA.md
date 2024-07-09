@@ -35,7 +35,7 @@ rel="nofollow">http://www.sequenceontology.org/wiki/index.php/SOBA_-_Sequence_On
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SOBA-20Tutorial-202012 "Special%3ABrowse/SOBA-20Tutorial-202012")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[SOBA Tutorial 2012](/wiki/SOBA_Tutorial_2012 "SOBA Tutorial 2012") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SOBA-20Tutorial-202012 "Special%253ABrowse/SOBA-20Tutorial-202012")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/SOBA "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/SOBA "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[Textpresso](/wiki/Textpresso "Textpresso")"  
 
-- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso "Special%3ABrowse/Textpresso")</span>
+- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>
 
  
 

@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Chado_Natural_Diversity" class="mw-redirect"
-title="Chado Natural Diversity">Chado Natural Diversity</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Natural-20Diversity "Special%3ABrowse/Chado-20Natural-20Diversity")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Chado Natural Diversity">Chado Natural Diversity</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Natural-20Diversity "Special%253ABrowse/Chado-20Natural-20Diversity")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado_Natural_Diversity_Module_Working_Group "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado_Natural_Diversity_Module_Working_Group "This is a special page, you cannot edit the page itself")</span>
 
 
 

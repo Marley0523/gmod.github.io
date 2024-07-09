@@ -126,7 +126,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FAccepting_Applications_For_GMOD_Summer_School_2013"
+  href="../Special%253ABrowse/News-2FAccepting_Applications_For_GMOD_Summer_School_2013"
   rel="smw-browse">Browse properties</a></span>
 
 

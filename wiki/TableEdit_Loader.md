@@ -481,7 +481,7 @@ function clearOldRows($box, $time){
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/TableEdit_Loader" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/TableEdit_Loader" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -6464,7 +6464,7 @@ organismprop Structure
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tables" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Tables" rel="smw-browse">Browse
   properties</a></span>
 
 

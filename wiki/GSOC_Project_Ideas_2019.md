@@ -269,7 +269,7 @@ self-motivation are great traits for open source programmers.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSOC_Project_Ideas_2019" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GSOC_Project_Ideas_2019" rel="smw-browse">Browse
   properties</a></span>
 
 

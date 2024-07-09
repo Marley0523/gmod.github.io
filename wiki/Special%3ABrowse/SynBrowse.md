@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Synbrowse" class="mw-redirect"
-title="Synbrowse">Synbrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Synbrowse "Special%3ABrowse/Synbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Synbrowse">Synbrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Synbrowse "Special%253ABrowse/Synbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/SynBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/SynBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

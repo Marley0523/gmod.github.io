@@ -384,7 +384,7 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -419,7 +419,7 @@ Example:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Publications" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Publications" rel="smw-browse">Browse
   properties</a></span>
 
 

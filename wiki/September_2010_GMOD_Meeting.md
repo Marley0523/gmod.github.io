@@ -1016,7 +1016,7 @@ Other [Upcoming Events of Note](Calendar "Calendar")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/September_2010_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/September_2010_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -208,7 +208,7 @@ title="Visit the main page"></a>
 
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/Pathway_Tools-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/Pathway_Tools-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -213,7 +213,7 @@ submission deadline is November 1, 2012</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/WebApollo-2Drelevant-2Dmeetings"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/WebApollo-2Drelevant-2Dmeetings"
   rel="smw-browse">Browse properties</a></span>
 
 

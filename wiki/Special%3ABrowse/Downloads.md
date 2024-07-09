@@ -34,7 +34,7 @@ class="new" title="Category%3ATemplate (page does not exist)">Template</a>  <s
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Frequent_downloads" class="mw-redirect"
-title="Frequent downloads">Frequent downloads</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Frequent-20downloads "Special%3ABrowse/Frequent-20downloads")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Frequent downloads">Frequent downloads</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Frequent-20downloads "Special%253ABrowse/Frequent-20downloads")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Downloads "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Downloads "This is a special page, you cannot edit the page itself")</span>
 
 
 

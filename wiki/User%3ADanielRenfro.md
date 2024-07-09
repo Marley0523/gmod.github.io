@@ -110,7 +110,7 @@ Links I can never find
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ADanielRenfro" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADanielRenfro" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -359,7 +359,7 @@ mRNA and exons) and we can click on the gene to see it in GBrowse.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse Tutorial
-2012](Special%3ABrowse/GBrowse-20Tutorial-202012 "Special%3ABrowse/GBrowse-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2012](Special%253ABrowse/GBrowse-20Tutorial-202012 "Special%253ABrowse/GBrowse-20Tutorial-202012")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_Tutorial_2012 "Special:ExportRDF/GBrowse Tutorial 2012")</span></span>
 
 |  |  |
@@ -422,7 +422,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_Tutorial_2012 "Special:Expo
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Tutorial_2012" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Tutorial_2012" rel="smw-browse">Browse
   properties</a></span>
 
 

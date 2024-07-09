@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GBrowse_and_Apaache" class="mw-redirect"
-title="GBrowse and Apaache">GBrowse and Apaache</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20and-20Apaache "Special%3ABrowse/GBrowse-20and-20Apaache")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GBrowse and Apaache">GBrowse and Apaache</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20and-20Apaache "Special%253ABrowse/GBrowse-20and-20Apaache")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_and_Apache "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_and_Apache "This is a special page, you cannot edit the page itself")</span>
 
 
 

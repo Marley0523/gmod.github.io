@@ -202,7 +202,7 @@ alt="GMODAmericas2011FlierThumb.png" /></a></td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Satellite_Meetings_-2D_GMOD_Americas_2011"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Satellite_Meetings_-2D_GMOD_Americas_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

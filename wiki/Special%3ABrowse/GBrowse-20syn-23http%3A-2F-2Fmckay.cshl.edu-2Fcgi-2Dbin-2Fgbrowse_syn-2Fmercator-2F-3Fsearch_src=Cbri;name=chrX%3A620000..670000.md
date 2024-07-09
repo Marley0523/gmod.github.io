@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse-20syn-23http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri;name=chrX%3A620000..670000 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse-20syn-23http%3A-2F-2Fmckay.cshl.edu-2Fcgi-2Dbin-2Fgbrowse_syn-2Fmercator-2F-3Fsearch_src=Cbri;name=chrX%3A620000..670000 "This is a special page, you cannot edit the page itself")</span>
 
 
 

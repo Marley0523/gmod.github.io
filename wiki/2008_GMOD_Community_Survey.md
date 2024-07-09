@@ -554,7 +554,7 @@ Responses under *Other* included:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2008_GMOD_Community_Survey"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2008_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -207,7 +207,7 @@ Access</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Developers"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Developers"
   rel="smw-browse">Browse properties</a></span>
 
 

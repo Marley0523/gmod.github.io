@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD_for_the_Biologist" class="mw-redirect"
-title="GMOD for the Biologist">GMOD for the Biologist</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20for-20the-20Biologist "Special%3ABrowse/GMOD-20for-20the-20Biologist")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD for the Biologist">GMOD for the Biologist</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20for-20the-20Biologist "Special%253ABrowse/GMOD-20for-20the-20Biologist")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Overview "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Overview "This is a special page, you cannot edit the page itself")</span>
 
 
 

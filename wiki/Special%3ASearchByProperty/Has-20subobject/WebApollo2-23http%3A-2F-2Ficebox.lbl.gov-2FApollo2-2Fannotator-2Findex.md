@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[WebApollo2#http://icebox.lbl.gov/Apollo2/annotator/index](/wiki/WebApollo2#http:.2F.2Ficebox.lbl.gov.2FApollo2.2Fannotator.2Findex "WebApollo2")"  
 
-- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>
+- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>
 
  
 

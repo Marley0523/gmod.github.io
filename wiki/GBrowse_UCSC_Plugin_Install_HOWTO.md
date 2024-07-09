@@ -633,7 +633,7 @@ rel="nofollow">mailto:angiehinrichs@users.sourceforge.net</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_UCSC_Plugin_Install_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_UCSC_Plugin_Install_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

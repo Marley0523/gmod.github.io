@@ -38,7 +38,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Galaxy](/wiki/Galaxy "Galaxy") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -62,7 +62,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Galaxy-23https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Galaxy-23https%3A-2F-2Fwww.zotero.org-2Fgroups-2F1732893-2Fgalaxy "This is a special page, you cannot edit the page itself")</span>
 
 
 

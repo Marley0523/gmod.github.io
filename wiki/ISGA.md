@@ -189,7 +189,7 @@ class="external text" rel="nofollow">Nabble</a> |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ISGA" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/ISGA" rel="smw-browse">Browse properties</a></span>
 
 
 

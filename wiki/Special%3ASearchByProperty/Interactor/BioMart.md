@@ -20,7 +20,7 @@ class="new"
 title="Property:Interactor (page does not exist)">Interactor</a>" with
 value "BioMart"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
 
  
 

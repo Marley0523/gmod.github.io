@@ -239,7 +239,7 @@ organizations that contribute to or use GMOD.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Promotion" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Promotion" rel="smw-browse">Browse
   properties</a></span>
 
 

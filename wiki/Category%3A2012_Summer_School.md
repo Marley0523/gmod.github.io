@@ -167,7 +167,7 @@ title="WebApollo Tutorial 2012">WebApollo Tutorial 2012</a></li>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3A2012_Summer_School"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3A2012_Summer_School"
   rel="smw-browse">Browse properties</a></span>
 
 

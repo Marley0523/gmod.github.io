@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "Username: demo@demo.com, Password: demo"  
 
-- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>
+- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>
 
  
 

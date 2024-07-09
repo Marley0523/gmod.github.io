@@ -134,7 +134,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGSoC_2013_Mentors_Wanted!"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGSoC_2013_Mentors_Wanted!"
   rel="smw-browse">Browse properties</a></span>
 
 

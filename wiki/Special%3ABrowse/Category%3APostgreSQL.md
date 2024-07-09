@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Databases-20and-20GMOD "Special%3ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20Adaptors "Special%3ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[Materialized views](/wiki/Materialized_views "Materialized views") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Materialized-20views "Special%3ABrowse/Materialized-20views")</span></span> , <span class="smwb-ivalue">[PostgreSQL](/wiki/PostgreSQL "PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL "Special%3ABrowse/PostgreSQL")</span></span> , <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Databases and GMOD](/wiki/Databases_and_GMOD "Databases and GMOD") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Databases-20and-20GMOD "Special%253ABrowse/Databases-20and-20GMOD")</span></span> , <span class="smwb-ivalue">[GBrowse Adaptors](/wiki/GBrowse_Adaptors "GBrowse Adaptors") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20Adaptors "Special%253ABrowse/GBrowse-20Adaptors")</span></span> , <span class="smwb-ivalue">[Materialized views](/wiki/Materialized_views "Materialized views") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Materialized-20views "Special%253ABrowse/Materialized-20views")</span></span> , <span class="smwb-ivalue">[PostgreSQL](/wiki/PostgreSQL "PostgreSQL") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/PostgreSQL "Special%253ABrowse/PostgreSQL")</span></span> , <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/PostgreSQL-20Performance-20Tips "Special%253ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3APostgreSQL "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3APostgreSQL "This is a special page, you cannot edit the page itself")</span>
 
 
 

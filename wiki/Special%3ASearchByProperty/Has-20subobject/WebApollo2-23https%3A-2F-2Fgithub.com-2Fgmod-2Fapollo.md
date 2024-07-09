@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[WebApollo2#https://github.com/gmod/apollo](/wiki/WebApollo2#https:.2F.2Fgithub.com.2Fgmod.2Fapollo "WebApollo2")"  
 
-- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>
+- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>
 
  
 

@@ -148,7 +148,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FStatistical_Genomics_PostDoc_at_PSU"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FStatistical_Genomics_PostDoc_at_PSU"
   rel="smw-browse">Browse properties</a></span>
 
 

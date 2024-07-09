@@ -88,7 +88,7 @@ class="external text" rel="nofollow">here</a>. d
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FastaDumper.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/FastaDumper.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

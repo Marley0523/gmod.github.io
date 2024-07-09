@@ -175,7 +175,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/TIGR-2DWorkflow_-2F_Ergatis"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/TIGR-2DWorkflow_-2F_Ergatis"
   rel="smw-browse">Browse properties</a></span>
 
 

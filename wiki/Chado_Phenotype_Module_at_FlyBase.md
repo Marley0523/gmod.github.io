@@ -1459,7 +1459,7 @@ rank can be used for n-ploid organisms or to preserve order.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Phenotype_Module_at_FlyBase"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Phenotype_Module_at_FlyBase"
   rel="smw-browse">Browse properties</a></span>
 
 

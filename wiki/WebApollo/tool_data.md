@@ -136,7 +136,7 @@ title="Visit the main page"></a>
 
 
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/WebApollo-2Ftool_data"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/WebApollo-2Ftool_data"
   rel="smw-browse">Browse properties</a></span>
 
 

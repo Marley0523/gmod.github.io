@@ -215,7 +215,7 @@ Scott Cain</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/October_2004_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/October_2004_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

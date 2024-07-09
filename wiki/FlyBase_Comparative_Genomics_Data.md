@@ -144,7 +144,7 @@ Drosophila melanogaster; Dpse: Drosophila pseudoobscura.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FlyBase_Comparative_Genomics_Data"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/FlyBase_Comparative_Genomics_Data"
   rel="smw-browse">Browse properties</a></span>
 
 

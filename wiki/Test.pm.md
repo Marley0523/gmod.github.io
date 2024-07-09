@@ -88,7 +88,7 @@ class="external text" rel="nofollow">here</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Test.pm" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Test.pm" rel="smw-browse">Browse properties</a></span>
 
 
 

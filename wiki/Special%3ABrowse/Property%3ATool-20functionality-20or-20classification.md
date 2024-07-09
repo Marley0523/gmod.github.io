@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Property%3ATool-20functionality-20or-20classification "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Property%3ATool-20functionality-20or-20classification "This is a special page, you cannot edit the page itself")</span>
 
 
 

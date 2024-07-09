@@ -111,7 +111,7 @@ the 8.x series.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PostgreSQL_Performance_Tips"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PostgreSQL_Performance_Tips"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -207,7 +207,7 @@ title="WebGBrowse/tool data">WebGBrowse/tool data</a></li>
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ATool_data" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ATool_data" rel="smw-browse">Browse
   properties</a></span>
 
 

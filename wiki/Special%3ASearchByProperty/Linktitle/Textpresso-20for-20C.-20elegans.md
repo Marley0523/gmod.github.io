@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "Textpresso for C. elegans"  
 
-- [Textpresso#http://www.textpresso.org/celegans/](/wiki/Textpresso#http:.2F.2Fwww.textpresso.org.2Fcelegans.2F "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso-23http%3A-2F-2Fwww.textpresso.org-2Fcelegans-2F "Special%3ABrowse/Textpresso-23http%3A-2F-2Fwww.textpresso.org-2Fcelegans-2F")</span>
+- [Textpresso#http://www.textpresso.org/celegans/](/wiki/Textpresso#http:.2F.2Fwww.textpresso.org.2Fcelegans.2F "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso-23http%3A-2F-2Fwww.textpresso.org-2Fcelegans-2F "Special%253ABrowse/Textpresso-23http%3A-2F-2Fwww.textpresso.org-2Fcelegans-2F")</span>
 
  
 

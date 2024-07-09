@@ -37,16 +37,16 @@
 | <span class="smwb-ivalue"><a href="/wiki/BrowseDev/Using_a_Database_With_JBrowse"
 class="mw-redirect"
 title="BrowseDev/Using a Database With JBrowse">BrowseDev/Using a
-Database With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BrowseDev-2FUsing-20a-20Database-20With-20JBrowse "Special%3ABrowse/BrowseDev-2FUsing-20a-20Database-20With-20JBrowse")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse/Administration" class="mw-redirect"
-title="JBrowse/Administration">JBrowse/Administration</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-2FAdministration "Special%3ABrowse/JBrowse-2FAdministration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current" class="mw-redirect"
-title="JBrowseDev/Current">JBrowseDev/Current</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent "Special%3ABrowse/JBrowseDev-2FCurrent")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current/Usage/General" class="mw-redirect"
-title="JBrowseDev/Current/Usage/General">JBrowseDev/Current/Usage/General</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral "Special%3ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/General_Usage" class="mw-redirect"
-title="JBrowseDev/General Usage">JBrowseDev/General Usage</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FGeneral-20Usage "Special%3ABrowse/JBrowseDev-2FGeneral-20Usage")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Upcoming" class="mw-redirect"
-title="JBrowseDev/Upcoming">JBrowseDev/Upcoming</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FUpcoming "Special%3ABrowse/JBrowseDev-2FUpcoming")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Administration" class="mw-redirect"
-title="JBrowse Administration">JBrowse Administration</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Administration "Special%3ABrowse/JBrowse-20Administration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Advanced_Topics" class="mw-redirect"
-title="JBrowse Advanced Topics">JBrowse Advanced Topics</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse-20Advanced-20Topics "Special%3ABrowse/JBrowse-20Advanced-20Topics")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Using_Existing_Databases_With_JBrowse"
+Database With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BrowseDev-2FUsing-20a-20Database-20With-20JBrowse "Special%253ABrowse/BrowseDev-2FUsing-20a-20Database-20With-20JBrowse")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse/Administration" class="mw-redirect"
+title="JBrowse/Administration">JBrowse/Administration</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-2FAdministration "Special%253ABrowse/JBrowse-2FAdministration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current" class="mw-redirect"
+title="JBrowseDev/Current">JBrowseDev/Current</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent "Special%253ABrowse/JBrowseDev-2FCurrent")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Current/Usage/General" class="mw-redirect"
+title="JBrowseDev/Current/Usage/General">JBrowseDev/Current/Usage/General</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral "Special%253ABrowse/JBrowseDev-2FCurrent-2FUsage-2FGeneral")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/General_Usage" class="mw-redirect"
+title="JBrowseDev/General Usage">JBrowseDev/General Usage</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FGeneral-20Usage "Special%253ABrowse/JBrowseDev-2FGeneral-20Usage")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Upcoming" class="mw-redirect"
+title="JBrowseDev/Upcoming">JBrowseDev/Upcoming</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FUpcoming "Special%253ABrowse/JBrowseDev-2FUpcoming")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Administration" class="mw-redirect"
+title="JBrowse Administration">JBrowse Administration</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-20Administration "Special%253ABrowse/JBrowse-20Administration")</span></span> , <span class="smwb-ivalue"><a href="/wiki/JBrowse_Advanced_Topics" class="mw-redirect"
+title="JBrowse Advanced Topics">JBrowse Advanced Topics</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse-20Advanced-20Topics "Special%253ABrowse/JBrowse-20Advanced-20Topics")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Using_Existing_Databases_With_JBrowse"
 class="mw-redirect" title="Using Existing Databases With JBrowse">Using
-Existing Databases With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Using-20Existing-20Databases-20With-20JBrowse "Special%3ABrowse/Using-20Existing-20Databases-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Existing Databases With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Using-20Existing-20Databases-20With-20JBrowse "Special%253ABrowse/Using-20Existing-20Databases-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -70,7 +70,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/BrowseDev-2FUsing_a_Database_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/BrowseDev-2FUsing_a_Database_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

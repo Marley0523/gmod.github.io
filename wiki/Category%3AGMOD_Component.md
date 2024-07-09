@@ -133,7 +133,7 @@ title="Using the topoview Glyph">Using the topoview Glyph</a></li>
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Component](Special%3ABrowse/Category%3AGMOD-20Component "Special%3ABrowse/Category%3AGMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Component](Special%253ABrowse/Category%3AGMOD-20Component "Special%253ABrowse/Category%3AGMOD-20Component")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:ExportRDF/Category%3AGMOD Component")</span></span>
 
 |  |  |
@@ -196,7 +196,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Category%3AGMOD_Component "Special:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AGMOD_Component" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AGMOD_Component" rel="smw-browse">Browse
   properties</a></span>
 
 

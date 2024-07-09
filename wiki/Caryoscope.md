@@ -170,7 +170,7 @@ class="external text" rel="nofollow">Download page</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Caryoscope" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Caryoscope" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -128,7 +128,7 @@ views will need to be updated as well.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_SO_Views" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_SO_Views" rel="smw-browse">Browse
   properties</a></span>
 
 

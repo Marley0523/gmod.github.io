@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Tags" class="mw-redirect" title="Tags">Tags</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tags "Special%3ABrowse/Tags")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Tags" class="mw-redirect" title="Tags">Tags</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tags "Special%253ABrowse/Tags")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Categories "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Categories "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -398,7 +398,7 @@ class="external text" rel="nofollow">Coati</a> development framework.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Databases_and_GMOD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Databases_and_GMOD" rel="smw-browse">Browse
   properties</a></span>
 
 

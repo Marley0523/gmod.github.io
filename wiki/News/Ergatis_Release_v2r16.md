@@ -122,7 +122,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FErgatis_Release_v2r16"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FErgatis_Release_v2r16"
   rel="smw-browse">Browse properties</a></span>
 
 

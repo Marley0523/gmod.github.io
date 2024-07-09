@@ -32,8 +32,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GenoGrid" class="mw-redirect"
-title="GenoGrid">GenoGrid</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GenoGrid "Special%3ABrowse/GenoGrid")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome_Directory_System_(GDS)" class="mw-redirect"
-title="Genome Directory System (GDS)">Genome Directory System (GDS)</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genome-20Directory-20System-20(GDS) "Special%3ABrowse/Genome-20Directory-20System-20(GDS)")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GenoGrid">GenoGrid</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GenoGrid "Special%253ABrowse/GenoGrid")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome_Directory_System_(GDS)" class="mw-redirect"
+title="Genome Directory System (GDS)">Genome Directory System (GDS)</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Genome-20Directory-20System-20(GDS) "Special%253ABrowse/Genome-20Directory-20System-20(GDS)")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Genome_grid "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Genome_grid "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -183,7 +183,7 @@ September 2006 01:26:42 PM**
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Apollo-2DChado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Apollo-2DChado" rel="smw-browse">Browse
   properties</a></span>
 
 

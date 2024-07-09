@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Artemis-Chado Integration Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%3ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[Artemis-Chado Integration Tutorial](/wiki/Artemis-Chado_Integration_Tutorial "Artemis-Chado Integration Tutorial") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial "Special%253ABrowse/Artemis-2DChado-20Integration-20Tutorial")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Artemis "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Artemis "This is a special page, you cannot edit the page itself")</span>
 
 
 

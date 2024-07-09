@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Components" class="mw-redirect"
-title="Components">Components</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Components "Special%3ABrowse/Components")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Components">Components</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Components "Special%253ABrowse/Components")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GMOD_Components "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GMOD_Components "This is a special page, you cannot edit the page itself")</span>
 
 
 

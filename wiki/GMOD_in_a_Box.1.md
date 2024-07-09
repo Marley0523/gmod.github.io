@@ -419,7 +419,7 @@ specific to the VM for help in setting up your data.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_in_a_Box" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_in_a_Box" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/News-2F2013_Summer_School_Tutorials_Available "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/News-2F2013_Summer_School_Tutorials_Available "This is a special page, you cannot edit the page itself")</span>
 
 
 

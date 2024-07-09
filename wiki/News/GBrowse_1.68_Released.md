@@ -102,7 +102,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGBrowse_1.68_Released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGBrowse_1.68_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

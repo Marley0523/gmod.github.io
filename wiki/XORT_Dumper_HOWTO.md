@@ -405,7 +405,7 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/XORT_Dumper_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/XORT_Dumper_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -33,7 +33,7 @@ title="Category%3ACloud (page does not exist)">Category%3ACloud</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GBrowse2 VMs](/wiki/GBrowse2_VMs "GBrowse2 VMs") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse2-20VMs "Special%3ABrowse/GBrowse2-20VMs")</span></span> , <span class="smwb-ivalue">[News/GMOD in the Cloud 2.0 Released](/wiki/News/GMOD_in_the_Cloud_2.0_Released "News/GMOD in the Cloud 2.0 Released") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released "Special%3ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released")</span></span> , <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GBrowse2 VMs](/wiki/GBrowse2_VMs "GBrowse2 VMs") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse2-20VMs "Special%253ABrowse/GBrowse2-20VMs")</span></span> , <span class="smwb-ivalue">[News/GMOD in the Cloud 2.0 Released](/wiki/News/GMOD_in_the_Cloud_2.0_Released "News/GMOD in the Cloud 2.0 Released") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released "Special%253ABrowse/News-2FGMOD-20in-20the-20Cloud-202.0-20Released")</span></span> , <span class="smwb-ivalue">[WebApollo2](/wiki/WebApollo2 "WebApollo2") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ACloud "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ACloud "This is a special page, you cannot edit the page itself")</span>
 
 
 

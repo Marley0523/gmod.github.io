@@ -35,7 +35,7 @@ rel="nofollow">http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html</a> �
 | [Has output format](/wiki/Property%3AHas_output_format "Property:Has output format") | <span class="smwb-value">GBrowse configuration file  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-20file "Special%3ASearchByProperty/Has-20output-20format/GBrowse-20configuration-20file")</span></span> |
 | [Has software maturity status](/wiki/Property%3AHas_software_maturity_status "Property:Has software maturity status") | <span class="smwb-value">mature  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20software-20maturity-20status/mature "Special%3ASearchByProperty/Has-20software-20maturity-20status/mature")</span></span> |
 | [Has support status](/wiki/Property%3AHas_support_status "Property:Has support status") | <span class="smwb-value">active  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20support-20status/active "Special%3ASearchByProperty/Has-20support-20status/active")</span></span> |
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span></span> |
 | [Has website](/wiki/Property%3AHas_website "Property:Has website") | <span class="smwb-value"><a href="http://webgbrowse.cgb.indiana.edu" class="external"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu "Special%3ASearchByProperty/Has-20website/http%3A-2F-2Fwebgbrowse.cgb.indiana.edu")</span></span> |
 | [Link type](/wiki/Property%3ALink_type "Property:Link type") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/download "Special%3ASearchByProperty/Link-20type/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/source-20code "Special%3ASearchByProperty/Link-20type/source-20code")</span></span> , <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/website "Special%3ASearchByProperty/Link-20type/website")</span></span> , <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Link-20type/public-20server "Special%3ASearchByProperty/Link-20type/public-20server")</span></span> |
@@ -51,7 +51,7 @@ href="/mediawiki/index.php?title=Category%3ASemanticLink&amp;action=edit&amp;red
 class="new"
 title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/SemanticLink "Special%3ASearchByProperty/SemanticLink")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">16 October 2013 21:26:58  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Modification-20date/16-20October-202013-2021:26:58 "Special%3ASearchByProperty/Modification-20date/16-20October-202013-2021:26:58")</span></span> |
-| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[WebGBrowse#http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html](/wiki/WebGBrowse#http:.2F.2Fwebgbrowse.cgb.indiana.edu.2Fwebgbrowse.2Fsoftware.html "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html "Special%3ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html")</span></span> , <span class="smwb-value">[WebGBrowse#http://webgbrowse.cgb.indiana.edu](/wiki/WebGBrowse#http:.2F.2Fwebgbrowse.cgb.indiana.edu "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu "Special%3ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu")</span></span> |
+| <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">[WebGBrowse#http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html](/wiki/WebGBrowse#http:.2F.2Fwebgbrowse.cgb.indiana.edu.2Fwebgbrowse.2Fsoftware.html "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html "Special%253ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu-2Fwebgbrowse-2Fsoftware.html")</span></span> , <span class="smwb-value">[WebGBrowse#http://webgbrowse.cgb.indiana.edu](/wiki/WebGBrowse#http:.2F.2Fwebgbrowse.cgb.indiana.edu "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu "Special%253ABrowse/WebGBrowse-23http%3A-2F-2Fwebgbrowse.cgb.indiana.edu")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 
@@ -61,9 +61,9 @@ title="Category%3ASemanticLink (page does not exist)">SemanticLink</a>  <span 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
+| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span></span> | [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") |
 | <span class="smwb-ivalue"><a href="/wiki/Webgbrowse" class="mw-redirect"
-title="Webgbrowse">Webgbrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Webgbrowse "Special%3ABrowse/Webgbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Webgbrowse">Webgbrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Webgbrowse "Special%253ABrowse/Webgbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -87,7 +87,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/WebGBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/WebGBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

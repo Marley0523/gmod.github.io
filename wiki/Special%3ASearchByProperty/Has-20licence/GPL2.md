@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "GPL2"  
 
-- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 
  
 

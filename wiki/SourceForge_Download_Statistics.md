@@ -109,7 +109,7 @@ numbers.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/SourceForge_Download_Statistics"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/SourceForge_Download_Statistics"
   rel="smw-browse">Browse properties</a></span>
 
 

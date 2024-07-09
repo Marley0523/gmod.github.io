@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 logo](/wiki/Property%3AHas_logo "Property:Has logo")" with value
 "CMapLogo-horiz.png"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

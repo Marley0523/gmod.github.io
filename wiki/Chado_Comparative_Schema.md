@@ -143,7 +143,7 @@ within a genome that has undergone whole genome duplications.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Comparative_Schema"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Comparative_Schema"
   rel="smw-browse">Browse properties</a></span>
 
 

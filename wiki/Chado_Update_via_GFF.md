@@ -176,7 +176,7 @@ Again, if name, type and srcfeature are the same, allow the delete?
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Update_via_GFF" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Update_via_GFF" rel="smw-browse">Browse
   properties</a></span>
 
 

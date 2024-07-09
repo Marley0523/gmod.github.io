@@ -83,7 +83,7 @@ of 2013. More information will be added shortly.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/2013_GMOD_Community_Survey"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/2013_GMOD_Community_Survey"
   rel="smw-browse">Browse properties</a></span>
 
 

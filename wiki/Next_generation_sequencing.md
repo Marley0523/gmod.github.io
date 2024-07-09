@@ -113,7 +113,7 @@ rel="nofollow">SMBE 2009</a>*, University of Iowa, June 3-7. | An [overview](Ove
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Next_Generation_Sequencing"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Next_Generation_Sequencing"
   rel="smw-browse">Browse properties</a></span>
 
 

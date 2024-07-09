@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Caryoscope](/wiki/Caryoscope "Caryoscope") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Caryoscope "Special%3ABrowse/Caryoscope")</span></span> , <span class="smwb-ivalue">[Chado Mage Module](/wiki/Chado_Mage_Module "Chado Mage Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Mage-20Module "Special%3ABrowse/Chado-20Mage-20Module")</span></span> , <span class="smwb-ivalue">[File:Gb-2007-8-6-r112.pdf](/wiki/File:Gb-2007-8-6-r112.pdf "File:Gb-2007-8-6-r112.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Gb-2D2007-2D8-2D6-2Dr112.pdf "Special%3ABrowse/File:Gb-2D2007-2D8-2D6-2Dr112.pdf")</span></span> , <span class="smwb-ivalue">[GeneXplorer](/wiki/GeneXplorer "GeneXplorer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GeneXplorer "Special%3ABrowse/GeneXplorer")</span></span> , <span class="smwb-ivalue">[Java TreeView](/wiki/Java_TreeView "Java TreeView") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Java-20TreeView "Special%3ABrowse/Java-20TreeView")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Mage-20FAQ "Special%3ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Caryoscope](/wiki/Caryoscope "Caryoscope") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Caryoscope "Special%253ABrowse/Caryoscope")</span></span> , <span class="smwb-ivalue">[Chado Mage Module](/wiki/Chado_Mage_Module "Chado Mage Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Mage-20Module "Special%253ABrowse/Chado-20Mage-20Module")</span></span> , <span class="smwb-ivalue">[File:Gb-2007-8-6-r112.pdf](/wiki/File:Gb-2007-8-6-r112.pdf "File:Gb-2007-8-6-r112.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Gb-2D2007-2D8-2D6-2Dr112.pdf "Special%253ABrowse/File:Gb-2D2007-2D8-2D6-2Dr112.pdf")</span></span> , <span class="smwb-ivalue">[GeneXplorer](/wiki/GeneXplorer "GeneXplorer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GeneXplorer "Special%253ABrowse/GeneXplorer")</span></span> , <span class="smwb-ivalue">[Java TreeView](/wiki/Java_TreeView "Java TreeView") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Java-20TreeView "Special%253ABrowse/Java-20TreeView")</span></span> , <span class="smwb-ivalue">[Mage FAQ](/wiki/Mage_FAQ "Mage FAQ") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Mage-20FAQ "Special%253ABrowse/Mage-20FAQ")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AMicroarrays "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AMicroarrays "This is a special page, you cannot edit the page itself")</span>
 
 
 

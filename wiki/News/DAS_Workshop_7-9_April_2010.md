@@ -132,7 +132,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDAS_Workshop_7-2D9_April_2010"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FDAS_Workshop_7-2D9_April_2010"
   rel="smw-browse">Browse properties</a></span>
 
 

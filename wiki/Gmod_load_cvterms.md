@@ -195,7 +195,7 @@ stored.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gmod_load_cvterms" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Gmod_load_cvterms" rel="smw-browse">Browse
   properties</a></span>
 
 

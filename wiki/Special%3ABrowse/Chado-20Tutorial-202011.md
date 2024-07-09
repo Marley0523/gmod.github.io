@@ -20,7 +20,7 @@
 
 |  |  |
 |----|----|
-| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20-2D-20Getting-20Started "Special%3ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
+| [Has topic](/wiki/Property%3AHas_topic "Property:Has topic") | <span class="smwb-value">[Chado - Getting Started](/wiki/Chado_-_Getting_Started "Chado - Getting Started") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20-2D-20Getting-20Started "Special%253ABrowse/Chado-20-2D-20Getting-20Started")</span></span> |
 | [Categories](/wiki/Special%3ACategories "Special%3ACategories") | <span class="smwb-value">[FlyBase](/wiki/Category%3AFlyBase "Category%3AFlyBase")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/FlyBase "Special%3ASearchByProperty/FlyBase")</span></span> , <span class="smwb-value"><a
 href="/mediawiki/index.php?title=Category%3ASession&amp;action=edit&amp;redlink=1"
 class="new" title="Category%3ASession (page does not exist)">Session</a>  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Session "Special%3ASearchByProperty/Session")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%3AChado "Category%3AChado")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Chado "Special%3ASearchByProperty/Chado")</span></span> , <span class="smwb-value">[2011 Spring Training](/wiki/Category%3A2011_Spring_Training "Category%3A2011 Spring Training")  <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/2011-20Spring-20Training "Special%3ASearchByProperty/2011-20Spring-20Training")</span></span> |
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Chado-20Tutorial-202011 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Chado-20Tutorial-202011 "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -20,7 +20,7 @@ class="new"
 title="Property:Interactor (page does not exist)">Interactor</a>" with
 value "InterMine"  
 
-- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine "Special%3ABrowse/InterMine")</span>
+- [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>
 
  
 

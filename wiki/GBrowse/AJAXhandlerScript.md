@@ -209,7 +209,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse-2FAJAXhandlerScript"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GBrowse-2FAJAXhandlerScript"
   rel="smw-browse">Browse properties</a></span>
 
 

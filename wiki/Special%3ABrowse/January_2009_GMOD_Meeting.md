@@ -40,7 +40,7 @@ class="new" title="Category%3AREST (page does not exist)">REST</a>  <span clas
 | <span class="smwb-ivalue"><a href="/wiki/January_2009_GMOD_Meeting_Registration"
 class="mw-redirect"
 title="January 2009 GMOD Meeting Registration">January 2009 GMOD Meeting
-Registration</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/January-202009-20GMOD-20Meeting-20Registration "Special%3ABrowse/January-202009-20GMOD-20Meeting-20Registration")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Registration</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/January-202009-20GMOD-20Meeting-20Registration "Special%253ABrowse/January-202009-20GMOD-20Meeting-20Registration")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -64,7 +64,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/January_2009_GMOD_Meeting "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/January_2009_GMOD_Meeting "This is a special page, you cannot edit the page itself")</span>
 
 
 

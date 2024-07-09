@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Web-2Dapollo-2Dmeeting-2Dagenda-2D2010-2D11-2D18 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Web-2Dapollo-2Dmeeting-2Dagenda-2D2010-2D11-2D18 "This is a special page, you cannot edit the page itself")</span>
 
 
 

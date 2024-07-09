@@ -390,7 +390,7 @@ Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Backends" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Backends" rel="smw-browse">Browse
   properties</a></span>
 
 

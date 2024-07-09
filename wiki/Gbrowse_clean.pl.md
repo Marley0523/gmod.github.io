@@ -194,7 +194,7 @@ code distribution for details.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Gbrowse_clean.pl" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Gbrowse_clean.pl" rel="smw-browse">Browse
   properties</a></span>
 
 

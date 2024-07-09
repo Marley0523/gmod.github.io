@@ -282,7 +282,7 @@ title="Chado.mp3">like this</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_-2D_Getting_Started"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_-2D_Getting_Started"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Insectacentral" class="mw-redirect"
-title="Insectacentral">Insectacentral</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Insectacentral "Special%3ABrowse/Insectacentral")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Insectacentral">Insectacentral</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Insectacentral "Special%253ABrowse/Insectacentral")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/InsectaCentral "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/InsectaCentral "This is a special page, you cannot edit the page itself")</span>
 
 
 

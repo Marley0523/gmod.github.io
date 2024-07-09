@@ -19,7 +19,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="http://www.biomart.org/community.html" class="external"
 rel="nofollow">http://www.biomart.org/community.html</a>"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
 
  
 

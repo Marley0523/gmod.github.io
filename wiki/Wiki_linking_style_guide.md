@@ -212,7 +212,7 @@ my $db = Bio::DB::GenBank-&gt;new;</code></pre>
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Wiki_linking_style_guide"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Wiki_linking_style_guide"
   rel="smw-browse">Browse properties</a></span>
 
 

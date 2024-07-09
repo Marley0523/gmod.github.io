@@ -1627,7 +1627,7 @@ example is included below as a demonstration:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/InterMine_Tutorial_2011" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/InterMine_Tutorial_2011" rel="smw-browse">Browse
   properties</a></span>
 
 

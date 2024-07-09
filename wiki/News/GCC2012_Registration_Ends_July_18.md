@@ -158,7 +158,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGCC2012_Registration_Ends_July_18"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGCC2012_Registration_Ends_July_18"
   rel="smw-browse">Browse properties</a></span>
 
 

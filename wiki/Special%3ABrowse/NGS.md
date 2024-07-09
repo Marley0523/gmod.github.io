@@ -30,8 +30,8 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/NGS" class="mw-redirect" title="NGS">NGS</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/NGS "Special%3ABrowse/NGS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Next_generation_sequencing" class="mw-redirect"
-title="Next generation sequencing">Next generation sequencing</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Next-20generation-20sequencing "Special%3ABrowse/Next-20generation-20sequencing")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/NGS" class="mw-redirect" title="NGS">NGS</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/NGS "Special%253ABrowse/NGS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Next_generation_sequencing" class="mw-redirect"
+title="Next generation sequencing">Next generation sequencing</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Next-20generation-20sequencing "Special%253ABrowse/Next-20generation-20sequencing")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/NGS "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/NGS "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 topic](/wiki/Property%3AHas_topic "Property:Has topic")" with value
 "[DIYA](/wiki/DIYA "DIYA")"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

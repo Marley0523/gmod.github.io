@@ -5625,7 +5625,7 @@ determine how to get the peak positions.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_the_vista_plot_Glyph"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Using_the_vista_plot_Glyph"
   rel="smw-browse">Browse properties</a></span>
 
 

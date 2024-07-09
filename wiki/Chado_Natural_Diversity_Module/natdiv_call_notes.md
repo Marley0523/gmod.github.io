@@ -200,7 +200,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/Chado_Natural_Diversity_Module-2Fnatdiv_call_notes"
+  href="../Special%253ABrowse/Chado_Natural_Diversity_Module-2Fnatdiv_call_notes"
   rel="smw-browse">Browse properties</a></span>
 
 

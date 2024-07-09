@@ -277,7 +277,7 @@ the quality. How do you suppose it does that?
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_Volvox_SAM_Tutorial"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Volvox_SAM_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
 

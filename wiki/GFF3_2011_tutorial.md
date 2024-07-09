@@ -755,7 +755,7 @@ Adaptors</a> pages for details.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF3_2011_tutorial" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GFF3_2011_tutorial" rel="smw-browse">Browse
   properties</a></span>
 
 

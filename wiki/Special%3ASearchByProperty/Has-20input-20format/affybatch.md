@@ -18,7 +18,7 @@ A list of all pages that have property "[Has input
 format](/wiki/Property%3AHas_input_format "Property:Has input format")"
 with value "affybatch"  
 
-- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Galaxy "Special%3ABrowse/Galaxy")</span>
+- [Galaxy](/wiki/Galaxy "Galaxy")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>
 
  
 

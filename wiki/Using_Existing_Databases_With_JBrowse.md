@@ -1512,7 +1512,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/JBrowse_Configuration_Guide"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
 
 

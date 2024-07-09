@@ -18,7 +18,7 @@ A list of all pages that have property "[Interaction
 type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
 value "provides data for"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
 
  
 

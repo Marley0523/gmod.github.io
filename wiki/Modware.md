@@ -225,7 +225,7 @@ class="external text" rel="nofollow">Sourceforge</a> |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Modware" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Modware" rel="smw-browse">Browse properties</a></span>
 
 
 

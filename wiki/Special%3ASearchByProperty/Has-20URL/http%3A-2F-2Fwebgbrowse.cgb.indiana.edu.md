@@ -19,7 +19,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="http://webgbrowse.cgb.indiana.edu" class="external"
 rel="nofollow">http://webgbrowse.cgb.indiana.edu</a>"  
 
-- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span>
+- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span>
 
  
 

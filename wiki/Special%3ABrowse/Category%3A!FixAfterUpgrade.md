@@ -33,7 +33,7 @@ title="Category%3A!FixAfterUpgrade (page does not exist)">Category%3A!FixAfterUp
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD News Archives](/wiki/GMOD_News_Archives "GMOD News Archives") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20News-20Archives "Special%3ABrowse/GMOD-20News-20Archives")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD News Archives](/wiki/GMOD_News_Archives "GMOD News Archives") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20News-20Archives "Special%253ABrowse/GMOD-20News-20Archives")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3A!FixAfterUpgrade "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3A!FixAfterUpgrade "This is a special page, you cannot edit the page itself")</span>
 
 
 

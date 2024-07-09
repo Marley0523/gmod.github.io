@@ -177,7 +177,7 @@ The CMAE specific information is located in the "editor" directory.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMAE" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/CMAE" rel="smw-browse">Browse properties</a></span>
 
 
 

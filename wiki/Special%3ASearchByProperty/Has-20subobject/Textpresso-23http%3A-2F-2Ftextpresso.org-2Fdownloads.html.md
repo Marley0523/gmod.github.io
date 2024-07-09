@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[Textpresso#http://textpresso.org/downloads.html](/wiki/Textpresso#http:.2F.2Ftextpresso.org.2Fdownloads.html "Textpresso")"  
 
-- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Textpresso "Special%3ABrowse/Textpresso")</span>
+- [Textpresso](/wiki/Textpresso "Textpresso")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>
 
  
 

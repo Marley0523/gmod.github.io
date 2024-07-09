@@ -125,7 +125,7 @@ The following software currently exist for biosciences.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Drupal" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Drupal" rel="smw-browse">Browse properties</a></span>
 
 
 

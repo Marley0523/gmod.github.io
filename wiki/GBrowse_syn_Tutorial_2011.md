@@ -220,7 +220,7 @@ configure and use GBrowse_syn. To get started, browse these pages:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_2011"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_Tutorial_2011"
   rel="smw-browse">Browse properties</a></span>
 
 

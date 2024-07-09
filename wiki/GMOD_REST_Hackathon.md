@@ -194,7 +194,7 @@ We will be starting in the hotel bar.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_REST_Hackathon" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_REST_Hackathon" rel="smw-browse">Browse
   properties</a></span>
 
 

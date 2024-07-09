@@ -333,7 +333,7 @@
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/FakeChromosome" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/FakeChromosome" rel="smw-browse">Browse
   properties</a></span>
 
 

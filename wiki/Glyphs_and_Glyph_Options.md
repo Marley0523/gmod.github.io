@@ -347,7 +347,7 @@ Bio::Graphics::Glyph::xyplot
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Glyphs_and_Glyph_Options"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Glyphs_and_Glyph_Options"
   rel="smw-browse">Browse properties</a></span>
 
 

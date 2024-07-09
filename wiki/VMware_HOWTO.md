@@ -292,7 +292,7 @@ applications like Firefox and terminal.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/VMware_HOWTO" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/VMware_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
 

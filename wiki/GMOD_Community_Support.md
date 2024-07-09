@@ -253,7 +253,7 @@ his 3 years.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Community_Support" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Community_Support" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -171,7 +171,7 @@ weekly (604800) or any other value desired:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Full_Text_Search" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Full_Text_Search" rel="smw-browse">Browse
   properties</a></span>
 
 

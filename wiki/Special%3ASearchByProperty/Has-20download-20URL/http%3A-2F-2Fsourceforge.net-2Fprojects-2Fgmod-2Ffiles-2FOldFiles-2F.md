@@ -20,7 +20,7 @@ value "<a href="http://sourceforge.net/projects/gmod/files/OldFiles/"
 class="external"
 rel="nofollow">http://sourceforge.net/projects/gmod/files/OldFiles/</a>"  
 
-- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span>
+- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>
 
  
 

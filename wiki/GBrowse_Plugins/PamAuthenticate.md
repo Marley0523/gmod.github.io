@@ -82,7 +82,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_Plugins-2FPamAuthenticate"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GBrowse_Plugins-2FPamAuthenticate"
   rel="smw-browse">Browse properties</a></span>
 
 

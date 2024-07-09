@@ -20,7 +20,7 @@ value "<a href="http://biocyc.org/download.shtml" class="external"
 rel="nofollow">http://biocyc.org/download.shtml</a>"  
 
 - [Pathway
-  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
+  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
 
  
 

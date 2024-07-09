@@ -161,7 +161,7 @@ title="Visit the main page"></a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="../Special%3ABrowse/News-2FISMB_2013%3A_Automated_Function_Prediction"
+  href="../Special%253ABrowse/News-2FISMB_2013%3A_Automated_Function_Prediction"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -18,7 +18,7 @@ A list of all pages that have property "[Written in
 language](/wiki/Property%3AWritten_in_language "Property:Written in language")"
 with value "React"  
 
-- [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>
+- [JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>
 
  
 

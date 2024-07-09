@@ -171,7 +171,7 @@ rel="nofollow">system registry cleaner</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Bioperl_Pipeline" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Bioperl_Pipeline" rel="smw-browse">Browse
   properties</a></span>
 
 

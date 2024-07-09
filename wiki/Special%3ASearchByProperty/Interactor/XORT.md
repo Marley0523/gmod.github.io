@@ -20,7 +20,7 @@ class="new"
 title="Property:Interactor (page does not exist)">Interactor</a>" with
 value "XORT"  
 
-- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span>
+- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>
 
  
 

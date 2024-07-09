@@ -518,7 +518,7 @@ tracks via user authentication, see:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_2.0_Install_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_2.0_Install_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

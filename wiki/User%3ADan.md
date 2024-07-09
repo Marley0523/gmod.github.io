@@ -88,7 +88,7 @@ related to the GMOD project into MetaBase.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ADan" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ADan" rel="smw-browse">Browse properties</a></span>
 
 
 

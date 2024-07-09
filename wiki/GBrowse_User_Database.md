@@ -283,7 +283,7 @@ height="296" alt="User db enabled.png" />\[\[Category%3A\]\]
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_User_Database" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_User_Database" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -19,7 +19,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="https://github.com/pombase/canto" class="external"
 rel="nofollow">https://github.com/pombase/canto</a>"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
 
  
 

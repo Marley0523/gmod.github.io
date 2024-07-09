@@ -136,7 +136,7 @@ An alignment view with shading on and grid-lines and edges off
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Help" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_Help" rel="smw-browse">Browse
   properties</a></span>
 
 

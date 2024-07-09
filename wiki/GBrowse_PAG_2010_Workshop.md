@@ -209,7 +209,7 @@ GMOD-related presentations at PAG XVIII.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_PAG_2010_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_PAG_2010_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

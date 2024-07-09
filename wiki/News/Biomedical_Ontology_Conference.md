@@ -115,7 +115,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBiomedical_Ontology_Conference"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBiomedical_Ontology_Conference"
   rel="smw-browse">Browse properties</a></span>
 
 

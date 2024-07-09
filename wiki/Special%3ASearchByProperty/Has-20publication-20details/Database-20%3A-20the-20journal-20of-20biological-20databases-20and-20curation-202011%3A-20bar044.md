@@ -22,7 +22,7 @@ publication details</a>" with value "Database : the journal of
 biological databases and curation 2011: bar044"  
 
 - [Site
-  Guidelines](/wiki/Site_Guidelines "Site Guidelines")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Site-20Guidelines "Special%3ABrowse/Site-20Guidelines")</span>
+  Guidelines](/wiki/Site_Guidelines "Site Guidelines")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Site-20Guidelines "Special%253ABrowse/Site-20Guidelines")</span>
 
  
 

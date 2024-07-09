@@ -672,7 +672,7 @@ You can validate reasonably large GFF3 files at the following sites:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GFF3" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GFF3" rel="smw-browse">Browse properties</a></span>
 
 
 

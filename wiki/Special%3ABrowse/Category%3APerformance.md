@@ -33,7 +33,7 @@ title="Category%3APerformance (page does not exist)">Category%3APerformance</a> 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PostgreSQL-20Performance-20Tips "Special%3ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[PostgreSQL Performance Tips](/wiki/PostgreSQL_Performance_Tips "PostgreSQL Performance Tips") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/PostgreSQL-20Performance-20Tips "Special%253ABrowse/PostgreSQL-20Performance-20Tips")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3APerformance "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3APerformance "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -33,7 +33,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/BioMart_Tutorial_2011" class="mw-redirect"
-title="BioMart Tutorial 2011">BioMart Tutorial 2011</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-20Tutorial-202011 "Special%3ABrowse/BioMart-20Tutorial-202011")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="BioMart Tutorial 2011">BioMart Tutorial 2011</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-20Tutorial-202011 "Special%253ABrowse/BioMart-20Tutorial-202011")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/BioMart_Tutorial_2011 "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/BioMart_Tutorial_2011 "This is a special page, you cannot edit the page itself")</span>
 
 
 

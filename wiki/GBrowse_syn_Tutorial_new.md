@@ -42,7 +42,7 @@ background reading is listed below:
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn Tutorial
-new](Special%3ABrowse/GBrowse-20syn-20Tutorial-20new "Special%3ABrowse/GBrowse-20syn-20Tutorial-20new")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+new](Special%253ABrowse/GBrowse-20syn-20Tutorial-20new "Special%253ABrowse/GBrowse-20syn-20Tutorial-20new")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:ExportRDF/GBrowse syn Tutorial new")</span></span>
 
 |  |  |
@@ -105,7 +105,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_Tutorial_new "Special:E
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_Tutorial_new"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_Tutorial_new"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -149,7 +149,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBioinformaticians_@_FDA"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBioinformaticians_@_FDA"
   rel="smw-browse">Browse properties</a></span>
 
 

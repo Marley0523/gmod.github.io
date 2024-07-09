@@ -401,7 +401,7 @@ Version 1.1 (2007 October) adds these features and corrections:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODTools" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMODTools" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Pecan.synconf" class="mw-redirect"
-title="Pecan.synconf">Pecan.synconf</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pecan.synconf "Special%3ABrowse/Pecan.synconf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Pecan.synconf">Pecan.synconf</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pecan.synconf "Special%253ABrowse/Pecan.synconf")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_syn_Configuration "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_syn_Configuration "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Proposed_schema_extensions_related_to_Sybil-2FIGS_needs "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Proposed_schema_extensions_related_to_Sybil-2FIGS_needs "This is a special page, you cannot edit the page itself")</span>
 
 
 

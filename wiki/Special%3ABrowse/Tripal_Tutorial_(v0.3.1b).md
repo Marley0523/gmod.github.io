@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Tripal_Tutorial_(v0.3.1b) "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Tripal_Tutorial_(v0.3.1b) "This is a special page, you cannot edit the page itself")</span>
 
 
 

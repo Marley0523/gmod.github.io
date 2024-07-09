@@ -20,7 +20,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 class="external"
 rel="nofollow">http://www.wormbase.org/tools/genome/gbrowse/c_elegans/</a>"  
 
-- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse "Special%3ABrowse/GBrowse")</span>
+- [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 
  
 

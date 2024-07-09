@@ -237,7 +237,7 @@ into Chado with transaction update checks, via XORT (script 3).
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Hackathon_wikidb" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Hackathon_wikidb" rel="smw-browse">Browse
   properties</a></span>
 
 

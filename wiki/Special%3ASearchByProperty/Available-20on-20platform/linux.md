@@ -18,17 +18,17 @@ A list of all pages that have property "[Available on
 platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")"
 with value "linux"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 - [GO Graphic
-  Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span>
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO%3A%3ATermFinder "Special%3ABrowse/GO%3A%3ATermFinder")</span>
-- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MAKER "Special%3ABrowse/MAKER")</span>
+  Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span>
+- [MAKER](/wiki/MAKER "MAKER")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>
 - [Pathway
-  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
-- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/XORT "Special%3ABrowse/XORT")</span>
+  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
+- [XORT](/wiki/XORT "XORT")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>
 
  
 

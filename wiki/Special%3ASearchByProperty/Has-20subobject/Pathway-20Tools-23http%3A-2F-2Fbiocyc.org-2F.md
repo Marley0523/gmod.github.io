@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 Tools#http://biocyc.org/](/wiki/Pathway_Tools#http:.2F.2Fbiocyc.org.2F "Pathway Tools")"  
 
 - [Pathway
-  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Pathway-20Tools "Special%3ABrowse/Pathway-20Tools")</span>
+  Tools](/wiki/Pathway_Tools "Pathway Tools")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Pathway-20Tools "Special%253ABrowse/Pathway-20Tools")</span>
 
  
 

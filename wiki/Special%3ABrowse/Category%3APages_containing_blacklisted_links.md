@@ -34,8 +34,8 @@ containing blacklisted links</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Chado Group Module](/wiki/Chado_Group_Module "Chado Group Module") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Chado-20Group-20Module "Special%3ABrowse/Chado-20Group-20Module")</span></span> , <span class="smwb-ivalue">[Jan 2014 GMOD Meeting](/wiki/Jan_2014_GMOD_Meeting "Jan 2014 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Jan-202014-20GMOD-20Meeting "Special%3ABrowse/Jan-202014-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[PAG 2014](/wiki/PAG_2014 "PAG 2014") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/PAG-202014 "Special%3ABrowse/PAG-202014")</span></span> , <span class="smwb-ivalue">[Training and Outreach](/wiki/Training_and_Outreach "Training and Outreach") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Training-20and-20Outreach "Special%3ABrowse/Training-20and-20Outreach")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
-| <span class="smwb-ivalue">[Category%3ATutorials](/wiki/Category%3ATutorials "Category%3ATutorials") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Category%3ATutorials "Special%3ABrowse/Category%3ATutorials")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Chado Group Module](/wiki/Chado_Group_Module "Chado Group Module") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Chado-20Group-20Module "Special%253ABrowse/Chado-20Group-20Module")</span></span> , <span class="smwb-ivalue">[Jan 2014 GMOD Meeting](/wiki/Jan_2014_GMOD_Meeting "Jan 2014 GMOD Meeting") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Jan-202014-20GMOD-20Meeting "Special%253ABrowse/Jan-202014-20GMOD-20Meeting")</span></span> , <span class="smwb-ivalue">[PAG 2014](/wiki/PAG_2014 "PAG 2014") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/PAG-202014 "Special%253ABrowse/PAG-202014")</span></span> , <span class="smwb-ivalue">[Training and Outreach](/wiki/Training_and_Outreach "Training and Outreach") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Training-20and-20Outreach "Special%253ABrowse/Training-20and-20Outreach")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Category%3ATutorials](/wiki/Category%3ATutorials "Category%3ATutorials") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Category%3ATutorials "Special%253ABrowse/Category%3ATutorials")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Subcategory of](/wiki/Property:Subcategory_of "Property:Subcategory of")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3APages_containing_blacklisted_links "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3APages_containing_blacklisted_links "This is a special page, you cannot edit the page itself")</span>
 
 
 

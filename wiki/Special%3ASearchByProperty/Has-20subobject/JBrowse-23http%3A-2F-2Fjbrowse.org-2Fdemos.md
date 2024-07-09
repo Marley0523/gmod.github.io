@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[JBrowse#http://jbrowse.org/demos](/wiki/JBrowse#http:.2F.2Fjbrowse.org.2Fdemos "JBrowse")"  
 
-- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>
+- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>
 
  
 

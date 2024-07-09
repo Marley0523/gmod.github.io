@@ -68,7 +68,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[JBrowse](../Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[JBrowse](../Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
 
 [Available on platform](../Property%3AAvailable_on_platform "Property:Available on platform")
@@ -198,7 +198,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/JBrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/JBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

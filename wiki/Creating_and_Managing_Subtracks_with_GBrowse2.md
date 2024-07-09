@@ -342,7 +342,7 @@ case the display of empty subtracks will be suppressed.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Creating_and_Managing_Subtracks_with_GBrowse2"
   rel="smw-browse">Browse properties</a></span>
 
 

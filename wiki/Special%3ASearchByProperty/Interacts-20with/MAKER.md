@@ -18,8 +18,8 @@ A list of all pages that have property "[Interacts
 with](/wiki/Property%3AInteracts_with "Property:Interacts with")" with
 value "[MAKER](/wiki/MAKER "MAKER")"  
 
-- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span>
-- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>
+- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span>
+- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>
 
  
 

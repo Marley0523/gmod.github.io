@@ -20,7 +20,7 @@ href="http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info"
 class="external"
 rel="nofollow">http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info</a>"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

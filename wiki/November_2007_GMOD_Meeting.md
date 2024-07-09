@@ -1199,7 +1199,7 @@ not support multiple alignments.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/November_2007_GMOD_Meeting"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/November_2007_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
 

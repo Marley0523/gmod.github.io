@@ -36,7 +36,7 @@ Configuration Files With JBrowse</a> |  |
 | <span class="smwb-ivalue"><a href="/wiki/JBrowseDev/Using_Configuration_Files_With_JBrowse"
 class="mw-redirect"
 title="JBrowseDev/Using Configuration Files With JBrowse">JBrowseDev/Using
-Configuration Files With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowseDev-2FUsing-20Configuration-20Files-20With-20JBrowse "Special%3ABrowse/JBrowseDev-2FUsing-20Configuration-20Files-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+Configuration Files With JBrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowseDev-2FUsing-20Configuration-20Files-20With-20JBrowse "Special%253ABrowse/JBrowseDev-2FUsing-20Configuration-20Files-20With-20JBrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -60,7 +60,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JBrowseDev-2FUsing_Configuration_Files_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JBrowseDev-2FUsing_Configuration_Files_With_JBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -2443,7 +2443,7 @@ rel="nofollow">Lincoln Stein</a> & the GMOD development team.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse_1_Configuration_HOWTO"
+- <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/GBrowse_1_Configuration_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

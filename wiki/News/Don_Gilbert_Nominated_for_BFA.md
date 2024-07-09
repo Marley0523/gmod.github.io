@@ -138,7 +138,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FDon_Gilbert_Nominated_for_BFA"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FDon_Gilbert_Nominated_for_BFA"
   rel="smw-browse">Browse properties</a></span>
 
 

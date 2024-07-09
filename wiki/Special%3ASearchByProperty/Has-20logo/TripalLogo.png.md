@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 logo](/wiki/Property%3AHas_logo "Property:Has logo")" with value
 "TripalLogo.png"  
 
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
 
  
 

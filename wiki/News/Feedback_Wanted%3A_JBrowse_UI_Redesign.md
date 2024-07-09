@@ -119,7 +119,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FFeedback_Wanted%3A_JBrowse_UI_Redesign"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FFeedback_Wanted%3A_JBrowse_UI_Redesign"
   rel="smw-browse">Browse properties</a></span>
 
 

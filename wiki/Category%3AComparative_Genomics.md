@@ -551,7 +551,7 @@ The following 16 files are in this category, out of 16 total.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3AComparative_Genomics"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3AComparative_Genomics"
   rel="smw-browse">Browse properties</a></span>
 
 

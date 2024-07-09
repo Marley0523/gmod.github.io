@@ -182,7 +182,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2F2009_GMOD_Summer_Schools"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2F2009_GMOD_Summer_Schools"
   rel="smw-browse">Browse properties</a></span>
 
 

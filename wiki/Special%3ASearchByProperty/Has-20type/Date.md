@@ -22,7 +22,7 @@ property is a special property in this wiki.</span></span>" with value
 "[Date](/wiki/Special%3ATypes/Date "Special%3ATypes/Date")"  
 
 - [Property:Release
-  date](/wiki/Property%3ARelease_date "Property:Release date")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Property%3ARelease-20date "Special%3ABrowse/Property%3ARelease-20date")</span>
+  date](/wiki/Property%3ARelease_date "Property:Release date")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Property%3ARelease-20date "Special%253ABrowse/Property%3ARelease-20date")</span>
 
  
 

@@ -142,7 +142,7 @@ table will be populated from the tmp table.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Load_ncbi_taxonomy" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_ncbi_taxonomy" rel="smw-browse">Browse
   properties</a></span>
 
 

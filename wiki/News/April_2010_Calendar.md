@@ -114,7 +114,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FApril_2010_Calendar"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FApril_2010_Calendar"
   rel="smw-browse">Browse properties</a></span>
 
 

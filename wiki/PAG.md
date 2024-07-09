@@ -363,7 +363,7 @@ class="external text" rel="nofollow">Slides</a> |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PAG_2015" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PAG_2015" rel="smw-browse">Browse properties</a></span>
 
 
 

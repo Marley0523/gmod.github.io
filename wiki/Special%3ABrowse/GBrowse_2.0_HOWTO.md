@@ -33,8 +33,8 @@
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GBrowse_2.0_Configuration_HOWTO" class="mw-redirect"
 title="GBrowse 2.0 Configuration HOWTO">GBrowse 2.0 Configuration
-HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202.0-20Configuration-20HOWTO "Special%3ABrowse/GBrowse-202.0-20Configuration-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_2_Configuration_HOWTO" class="mw-redirect"
-title="GBrowse 2 Configuration HOWTO">GBrowse 2 Configuration HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-202-20Configuration-20HOWTO "Special%3ABrowse/GBrowse-202-20Configuration-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202.0-20Configuration-20HOWTO "Special%253ABrowse/GBrowse-202.0-20Configuration-20HOWTO")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GBrowse_2_Configuration_HOWTO" class="mw-redirect"
+title="GBrowse 2 Configuration HOWTO">GBrowse 2 Configuration HOWTO</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-202-20Configuration-20HOWTO "Special%253ABrowse/GBrowse-202-20Configuration-20HOWTO")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GBrowse_2.0_HOWTO "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GBrowse_2.0_HOWTO "This is a special page, you cannot edit the page itself")</span>
 
 
 

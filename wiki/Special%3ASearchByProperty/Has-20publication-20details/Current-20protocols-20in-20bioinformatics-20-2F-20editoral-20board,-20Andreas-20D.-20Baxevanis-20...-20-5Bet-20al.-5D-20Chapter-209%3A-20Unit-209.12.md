@@ -23,7 +23,7 @@ publication details</a>" with value "Current protocols in bioinformatics
 9.12"  
 
 - [GBrowse
-  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>
+  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>
 
  
 

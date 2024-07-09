@@ -128,7 +128,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FHiring_@_Dolan_DNALC"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FHiring_@_Dolan_DNALC"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -153,7 +153,7 @@ Started](GMOD_-_Getting_Started "GMOD - Getting Started") pages.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_FAQ" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_FAQ" rel="smw-browse">Browse properties</a></span>
 
 
 

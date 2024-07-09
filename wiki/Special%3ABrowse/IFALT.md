@@ -32,8 +32,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/TableEdit/IFALT" class="mw-redirect"
-title="TableEdit/IFALT">TableEdit/IFALT</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/TableEdit-2FIFALT "Special%3ABrowse/TableEdit-2FIFALT")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Table_Editor/IFALT" class="mw-redirect"
-title="Table Editor/IFALT">Table Editor/IFALT</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Table-20Editor-2FIFALT "Special%3ABrowse/Table-20Editor-2FIFALT")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="TableEdit/IFALT">TableEdit/IFALT</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/TableEdit-2FIFALT "Special%253ABrowse/TableEdit-2FIFALT")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Table_Editor/IFALT" class="mw-redirect"
+title="Table Editor/IFALT">Table Editor/IFALT</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Table-20Editor-2FIFALT "Special%253ABrowse/Table-20Editor-2FIFALT")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/IFALT "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/IFALT "This is a special page, you cannot edit the page itself")</span>
 
 
 

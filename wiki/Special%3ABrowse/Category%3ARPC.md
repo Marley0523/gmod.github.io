@@ -32,7 +32,7 @@ class="new" title="Category%3ARPC (page does not exist)">Category%3ARPC</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20RPC-20API "Special%3ABrowse/GMOD-20RPC-20API")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[GMOD RPC API](/wiki/GMOD_RPC_API "GMOD RPC API") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20RPC-20API "Special%253ABrowse/GMOD-20RPC-20API")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ARPC "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ARPC "This is a special page, you cannot edit the page itself")</span>
 
 
 

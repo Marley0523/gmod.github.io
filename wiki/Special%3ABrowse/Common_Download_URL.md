@@ -33,9 +33,9 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Common_Download_URL" class="mw-redirect"
-title="Common Download URL">Common Download URL</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Common-20Download-20URL "Special%3ABrowse/Common-20Download-20URL")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Common_URL" class="mw-redirect" title="Common URL">Common
-URL</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Common-20URL "Special%3ABrowse/Common-20URL")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Common_url" class="mw-redirect" title="Common url">Common
-url</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Common-20url "Special%3ABrowse/Common-20url")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome" class="mw-redirect" title="Genome">Genome</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genome "Special%3ABrowse/Genome")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Common Download URL">Common Download URL</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Common-20Download-20URL "Special%253ABrowse/Common-20Download-20URL")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Common_URL" class="mw-redirect" title="Common URL">Common
+URL</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Common-20URL "Special%253ABrowse/Common-20URL")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Common_url" class="mw-redirect" title="Common url">Common
+url</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Common-20url "Special%253ABrowse/Common-20url")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome" class="mw-redirect" title="Genome">Genome</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Genome "Special%253ABrowse/Genome")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -59,7 +59,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Common_Download_URL "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Common_Download_URL "This is a special page, you cannot edit the page itself")</span>
 
 
 

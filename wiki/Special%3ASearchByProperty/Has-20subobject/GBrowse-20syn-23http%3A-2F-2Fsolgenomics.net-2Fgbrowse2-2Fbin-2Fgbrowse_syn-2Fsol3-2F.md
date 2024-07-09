@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 syn#http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/](/wiki/GBrowse_syn#http:.2F.2Fsolgenomics.net.2Fgbrowse2.2Fbin.2Fgbrowse_syn.2Fsol3.2F "GBrowse syn")"  
 
 - [GBrowse
-  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>
+  syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>
 
  
 

@@ -21,7 +21,7 @@ values are displayed.
 
 <!-- -->
 
-- **[JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse2 "Special%3ABrowse/JBrowse2")</span>
+- **[JBrowse2](/wiki/JBrowse2 "JBrowse2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>
   *<span class="small">(November 2020)</span>***
 
 <!-- -->

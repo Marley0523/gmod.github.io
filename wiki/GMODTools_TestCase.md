@@ -136,7 +136,7 @@ development, and the Genbank to GFF to Chado loading has some losses.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMODTools_TestCase" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMODTools_TestCase" rel="smw-browse">Browse
   properties</a></span>
 
 

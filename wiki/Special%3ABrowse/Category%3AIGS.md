@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[IGS Data Representation](/wiki/IGS_Data_Representation "IGS Data Representation") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/IGS-20Data-20Representation "Special%3ABrowse/IGS-20Data-20Representation")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[IGS Data Representation](/wiki/IGS_Data_Representation "IGS Data Representation") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/IGS-20Data-20Representation "Special%253ABrowse/IGS-20Data-20Representation")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AIGS "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AIGS "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -139,7 +139,7 @@ simplified version as shown here.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/C_briggsae.syn" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/C_briggsae.syn" rel="smw-browse">Browse
   properties</a></span>
 
 

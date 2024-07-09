@@ -347,7 +347,7 @@ This page should contain the following information:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Developer&#39;s_Guide"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Developer&#39;s_Guide"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -257,7 +257,7 @@ The alignment coordinates are stored in two featurelocs in the
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Store_an_unigene_in_Chado_HOWTO"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Store_an_unigene_in_Chado_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
 

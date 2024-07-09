@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/User%3ADan_Bolser_Bot" class="mw-redirect"
-title="User%3ADan Bolser Bot">User%3ADan Bolser Bot</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3ADan-20Bolser-20Bot "Special%3ABrowse/User%3ADan-20Bolser-20Bot")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="User%3ADan Bolser Bot">User%3ADan Bolser Bot</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3ADan-20Bolser-20Bot "Special%253ABrowse/User%3ADan-20Bolser-20Bot")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/User%3ADan "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/User%3ADan "This is a special page, you cannot edit the page itself")</span>
 
 
 

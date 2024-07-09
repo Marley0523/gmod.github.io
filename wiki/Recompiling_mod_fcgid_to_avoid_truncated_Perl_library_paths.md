@@ -121,7 +121,7 @@ reinstalling mod_fcgid, please restart Apache.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Recompiling_mod_fcgid_to_avoid_truncated_Perl_library_paths"
+  href="Special%253ABrowse/Recompiling_mod_fcgid_to_avoid_truncated_Perl_library_paths"
   rel="smw-browse">Browse properties</a></span>
 
 

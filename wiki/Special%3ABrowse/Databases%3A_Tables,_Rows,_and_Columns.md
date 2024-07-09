@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Databases%3A_Tables,_Rows,_and_Columns "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Databases%3A_Tables,_Rows,_and_Columns "This is a special page, you cannot edit the page itself")</span>
 
 
 

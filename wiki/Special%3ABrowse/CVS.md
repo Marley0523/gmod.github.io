@@ -31,9 +31,9 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/CVS" class="mw-redirect" title="CVS">CVS</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CVS "Special%3ABrowse/CVS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/CVS_Access" class="mw-redirect" title="CVS Access">CVS
-Access</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CVS-20Access "Special%3ABrowse/CVS-20Access")</span></span> , <span class="smwb-ivalue"><a href="/wiki/SVN" class="mw-redirect" title="SVN">SVN</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/SVN "Special%3ABrowse/SVN")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Subversion" class="mw-redirect"
-title="Subversion">Subversion</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Subversion "Special%3ABrowse/Subversion")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/CVS" class="mw-redirect" title="CVS">CVS</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CVS "Special%253ABrowse/CVS")</span></span> , <span class="smwb-ivalue"><a href="/wiki/CVS_Access" class="mw-redirect" title="CVS Access">CVS
+Access</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CVS-20Access "Special%253ABrowse/CVS-20Access")</span></span> , <span class="smwb-ivalue"><a href="/wiki/SVN" class="mw-redirect" title="SVN">SVN</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/SVN "Special%253ABrowse/SVN")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Subversion" class="mw-redirect"
+title="Subversion">Subversion</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Subversion "Special%253ABrowse/Subversion")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/CVS "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/CVS "This is a special page, you cannot edit the page itself")</span>
 
 
 

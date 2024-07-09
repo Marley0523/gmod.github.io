@@ -109,7 +109,7 @@ Email: University of Washington user sivam@
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ASivam" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ASivam" rel="smw-browse">Browse
   properties</a></span>
 
 

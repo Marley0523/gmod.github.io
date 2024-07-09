@@ -121,7 +121,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGMOD&#39;s_GSoC_Going_Great_Guns!"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGMOD&#39;s_GSoC_Going_Great_Guns!"
   rel="smw-browse">Browse properties</a></span>
 
 

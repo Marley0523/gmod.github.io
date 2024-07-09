@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/News-2FCVS_to_SVN_Conversion%3A_Done "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/News-2FCVS_to_SVN_Conversion%3A_Done "This is a special page, you cannot edit the page itself")</span>
 
 
 

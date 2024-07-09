@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[CMap#http://magi.plantgenomics.iastate.edu/cgi-bin/cmap/map_set_info](/wiki/CMap#http:.2F.2Fmagi.plantgenomics.iastate.edu.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")"  
 
-- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span>
+- [CMap](/wiki/CMap "CMap")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span>
 
  
 

@@ -32,9 +32,9 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Gene_Expression_Visualization" class="mw-redirect"
-title="Gene Expression Visualization">Gene Expression Visualization</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Gene-20Expression-20Visualization "Special%3ABrowse/Gene-20Expression-20Visualization")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome_Visualization" class="mw-redirect"
-title="Genome Visualization">Genome Visualization</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Genome-20Visualization "Special%3ABrowse/Genome-20Visualization")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Ontology_Visualization" class="mw-redirect"
-title="Ontology Visualization">Ontology Visualization</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Ontology-20Visualization "Special%3ABrowse/Ontology-20Visualization")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Gene Expression Visualization">Gene Expression Visualization</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Gene-20Expression-20Visualization "Special%253ABrowse/Gene-20Expression-20Visualization")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Genome_Visualization" class="mw-redirect"
+title="Genome Visualization">Genome Visualization</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Genome-20Visualization "Special%253ABrowse/Genome-20Visualization")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Ontology_Visualization" class="mw-redirect"
+title="Ontology Visualization">Ontology Visualization</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Ontology-20Visualization "Special%253ABrowse/Ontology-20Visualization")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Visualization "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Visualization "This is a special page, you cannot edit the page itself")</span>
 
 
 

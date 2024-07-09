@@ -293,7 +293,7 @@ http://gmod.org/wiki/
 
 
 
-- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/GBrowse" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
 
 

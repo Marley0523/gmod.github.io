@@ -101,7 +101,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FNew_GMOD_Server"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FNew_GMOD_Server"
   rel="smw-browse">Browse properties</a></span>
 
 

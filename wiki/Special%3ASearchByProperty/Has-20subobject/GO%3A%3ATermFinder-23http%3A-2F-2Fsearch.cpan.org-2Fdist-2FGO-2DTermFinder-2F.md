@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[GO::TermFinder#http://search.cpan.org/dist/GO-TermFinder/](/wiki/GO::TermFinder#http:.2F.2Fsearch.cpan.org.2Fdist.2FGO-TermFinder.2F "GO::TermFinder")"  
 
-- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO%3A%3ATermFinder "Special%3ABrowse/GO%3A%3ATermFinder")</span>
+- [GO::TermFinder](/wiki/GO::TermFinder "GO::TermFinder")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO%3A%3ATermFinder "Special%253ABrowse/GO%3A%3ATermFinder")</span>
 
  
 

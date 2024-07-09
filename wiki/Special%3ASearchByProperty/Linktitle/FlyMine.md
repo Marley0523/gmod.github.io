@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Linktitle](/wiki/Property%3ALinktitle "Property%3ALinktitle")" with value
 "FlyMine"  
 
-- [InterMine#http://www.flymine.org](/wiki/InterMine#http:.2F.2Fwww.flymine.org "InterMine")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org "Special%3ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org")</span>
+- [InterMine#http://www.flymine.org](/wiki/InterMine#http:.2F.2Fwww.flymine.org "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org "Special%253ABrowse/InterMine-23http%3A-2F-2Fwww.flymine.org")</span>
 
  
 

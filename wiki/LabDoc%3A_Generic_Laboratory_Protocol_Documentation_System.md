@@ -123,7 +123,7 @@ class="external text" rel="nofollow">From SourceForge.</a>
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System"
+  href="Special%253ABrowse/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System"
   rel="smw-browse">Browse properties</a></span>
 
 

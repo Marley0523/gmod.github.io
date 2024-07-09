@@ -140,7 +140,7 @@ stronger commitment to the projects and to working with the students.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Spring_2010_Logo_Program"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Spring_2010_Logo_Program"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -43,8 +43,8 @@ Showing 5 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioDIG.1"
 title="BioDIG">BioDIG</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioDIG"
-title="Special%3ABrowse/BioDIG">+</a></span></td>
+href="Special%253ABrowse/BioDIG"
+title="Special%253ABrowse/BioDIG">+</a></span></td>
 <td class="smwprops"><a href="http://github.com/idoerg/BioDIG"
 class="external"
 rel="nofollow">http://github.com/idoerg/BioDIG</a>  <span
@@ -59,8 +59,8 @@ title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fgithub.com-2
 <tr class="odd">
 <td class="smwpropname"><a href="GBrowse_syn.1"
 title="GBrowse syn">GBrowse syn</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/GBrowse-20syn"
-title="Special%3ABrowse/GBrowse-20syn">+</a></span></td>
+href="Special%253ABrowse/GBrowse-20syn"
+title="Special%253ABrowse/GBrowse-20syn">+</a></span></td>
 <td class="smwprops"><a href="https://github.com/GMOD/GBrowse"
 class="external"
 rel="nofollow">https://github.com/GMOD/GBrowse</a>  <span
@@ -75,8 +75,8 @@ title="Special%3ASearchByProperty/Has-20download-20URL/https%3A-2F-2Fgithub.com-
 <tr class="odd">
 <td class="smwpropname"><a href="Pathway_Tools.1"
 title="Pathway Tools">Pathway Tools</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Pathway-20Tools"
-title="Special%3ABrowse/Pathway-20Tools">+</a></span></td>
+href="Special%253ABrowse/Pathway-20Tools"
+title="Special%253ABrowse/Pathway-20Tools">+</a></span></td>
 <td class="smwprops"><a href="http://biocyc.org/download.shtml"
 class="external"
 rel="nofollow">http://biocyc.org/download.shtml</a>  <span
@@ -91,8 +91,8 @@ title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fbiocyc.org-2
 <tr class="odd">
 <td class="smwpropname"><a href="WebGBrowse.1"
 title="WebGBrowse">WebGBrowse</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebGBrowse"
-title="Special%3ABrowse/WebGBrowse">+</a></span></td>
+href="Special%253ABrowse/WebGBrowse"
+title="Special%253ABrowse/WebGBrowse">+</a></span></td>
 <td class="smwprops"><a
 href="http://webgbrowse.cgb.indiana.edu/webgbrowse/software.html"
 class="external"
@@ -107,8 +107,8 @@ title="Special%3ASearchByProperty/Has-20download-20URL/http%3A-2F-2Fwebgbrowse.c
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops"><a
 href="http://sourceforge.net/projects/gmod/files/OldFiles/"
 class="external"
@@ -186,7 +186,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AHas_download_URL "Specia
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AHas_download_URL"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AHas_download_URL"
   rel="smw-browse">Browse properties</a></span>
 
 

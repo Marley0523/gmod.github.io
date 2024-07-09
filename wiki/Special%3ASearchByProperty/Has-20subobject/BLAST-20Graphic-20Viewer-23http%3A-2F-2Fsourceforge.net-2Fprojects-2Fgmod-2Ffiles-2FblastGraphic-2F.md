@@ -23,7 +23,7 @@ property is a special property in this wiki.</span></span>" with value
 Viewer#http://sourceforge.net/projects/gmod/files/blastGraphic/](/wiki/BLAST_Graphic_Viewer#http:.2F.2Fsourceforge.net.2Fprojects.2Fgmod.2Ffiles.2FblastGraphic.2F "BLAST Graphic Viewer")"  
 
 - [BLAST Graphic
-  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BLAST-20Graphic-20Viewer "Special%3ABrowse/BLAST-20Graphic-20Viewer")</span>
+  Viewer](/wiki/BLAST_Graphic_Viewer "BLAST Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>
 
  
 

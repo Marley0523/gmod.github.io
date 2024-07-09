@@ -121,7 +121,7 @@ and their associated phenotypes.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
+  href="Special%253ABrowse/Face_Caucus_SGN%3A_Associating_Solanaceae_loci_with_phenotype"
   rel="smw-browse">Browse properties</a></span>
 
 

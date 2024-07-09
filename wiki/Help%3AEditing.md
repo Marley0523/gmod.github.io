@@ -91,7 +91,7 @@ extensive documentation and hints.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Help%3AEditing" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Help%3AEditing" rel="smw-browse">Browse
   properties</a></span>
 
 

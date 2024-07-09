@@ -19,7 +19,7 @@ description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "Curate GO annotations for proteins using UniProtKB
 identifiers"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
 
  
 

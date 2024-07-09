@@ -18,7 +18,7 @@ A list of all pages that have property "[Has output
 format](/wiki/Property%3AHas_output_format "Property:Has output format")"
 with value "GFF"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

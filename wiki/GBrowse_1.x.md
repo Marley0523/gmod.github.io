@@ -155,7 +155,7 @@ GBrowse documentation.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_1.x" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_1.x" rel="smw-browse">Browse
   properties</a></span>
 
 

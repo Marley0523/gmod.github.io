@@ -3218,7 +3218,7 @@ If you are using the default Tripal view
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Tripal_Tutorial_(v0.3.1b)"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Tripal_Tutorial_(v0.3.1b)"
   rel="smw-browse">Browse properties</a></span>
 
 

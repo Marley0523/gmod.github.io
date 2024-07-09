@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD_in_the_Cloud" class="mw-redirect"
-title="GMOD in the Cloud">GMOD in the Cloud</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20in-20the-20Cloud "Special%3ABrowse/GMOD-20in-20the-20Cloud")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD in the Cloud">GMOD in the Cloud</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20in-20the-20Cloud "Special%253ABrowse/GMOD-20in-20the-20Cloud")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Cloud "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Cloud "This is a special page, you cannot edit the page itself")</span>
 
 
 

@@ -1206,7 +1206,7 @@ Copyright (c) 2007 Cold Spring Harbor Laboratory
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CMap_API" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/CMap_API" rel="smw-browse">Browse properties</a></span>
 
 
 

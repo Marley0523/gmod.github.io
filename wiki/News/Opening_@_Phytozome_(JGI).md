@@ -132,7 +132,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FOpening_@_Phytozome_(JGI)"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FOpening_@_Phytozome_(JGI)"
   rel="smw-browse">Browse properties</a></span>
 
 

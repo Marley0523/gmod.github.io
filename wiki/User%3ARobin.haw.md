@@ -78,7 +78,7 @@ Stein at the Ontario Institute for Cancer Research.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ARobin.haw" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ARobin.haw" rel="smw-browse">Browse
   properties</a></span>
 
 

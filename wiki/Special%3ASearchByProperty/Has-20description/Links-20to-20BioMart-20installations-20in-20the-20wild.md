@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 description](/wiki/Property%3AHas_description "Property:Has description")"
 with value "Links to BioMart installations in the wild"  
 
-- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart "Special%3ABrowse/BioMart")</span>
+- [BioMart](/wiki/BioMart "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>
 
  
 

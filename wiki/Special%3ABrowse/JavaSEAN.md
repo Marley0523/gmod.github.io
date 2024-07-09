@@ -34,7 +34,7 @@
 | <span class="smwb-ivalue"><a href="/wiki/JavaSean_-_java_based_SEquence_ANnotation_tool"
 class="mw-redirect"
 title="JavaSean - java based SEquence ANnotation tool">JavaSean - java
-based SEquence ANnotation tool</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JavaSean-20-2D-20java-20based-20SEquence-20ANnotation-20tool "Special%3ABrowse/JavaSean-20-2D-20java-20based-20SEquence-20ANnotation-20tool")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+based SEquence ANnotation tool</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JavaSean-20-2D-20java-20based-20SEquence-20ANnotation-20tool "Special%253ABrowse/JavaSean-20-2D-20java-20based-20SEquence-20ANnotation-20tool")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -58,7 +58,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/JavaSEAN "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/JavaSEAN "This is a special page, you cannot edit the page itself")</span>
 
 
 

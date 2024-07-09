@@ -93,7 +93,7 @@ rel="nofollow">http://paramecium.cgm.cnrs-gif.fr</a> and
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ASperling" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ASperling" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -167,7 +167,7 @@ HOWTO.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Installing_GBrowse2_in_your_Home_Directory"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Installing_GBrowse2_in_your_Home_Directory"
   rel="smw-browse">Browse properties</a></span>
 
 

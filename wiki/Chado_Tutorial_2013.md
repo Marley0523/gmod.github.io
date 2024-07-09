@@ -1883,7 +1883,7 @@ diversity data.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Chado Tutorial
-2013](Special%3ABrowse/Chado-20Tutorial-202013 "Special%3ABrowse/Chado-20Tutorial-202013")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2013](Special%253ABrowse/Chado-20Tutorial-202013 "Special%253ABrowse/Chado-20Tutorial-202013")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2013 "Special:ExportRDF/Chado Tutorial 2013")</span></span>
 
 |  |  |
@@ -1946,7 +1946,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2013 "Special:Export
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Tutorial_2013" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Tutorial_2013" rel="smw-browse">Browse
   properties</a></span>
 
 

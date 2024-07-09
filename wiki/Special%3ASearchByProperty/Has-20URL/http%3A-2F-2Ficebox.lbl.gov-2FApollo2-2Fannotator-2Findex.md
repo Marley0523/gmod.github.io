@@ -19,7 +19,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 "<a href="http://icebox.lbl.gov/Apollo2/annotator/index" class="external"
 rel="nofollow">http://icebox.lbl.gov/Apollo2/annotator/index</a>"  
 
-- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo2 "Special%3ABrowse/WebApollo2")</span>
+- [WebApollo2](/wiki/WebApollo2 "WebApollo2")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo2 "Special%253ABrowse/WebApollo2")</span>
 
  
 

@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "GPLv2"  
 
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
 
  
 

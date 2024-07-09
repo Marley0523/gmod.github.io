@@ -686,7 +686,7 @@ multiple locations.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Introduction_to_Chado" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Introduction_to_Chado" rel="smw-browse">Browse
   properties</a></span>
 
 

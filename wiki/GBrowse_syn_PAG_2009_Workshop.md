@@ -265,7 +265,7 @@ in San Diego, immediately after PAG 2009.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse syn PAG 2009
-Workshop](Special%3ABrowse/GBrowse-20syn-20PAG-202009-20Workshop "Special%3ABrowse/GBrowse-20syn-20PAG-202009-20Workshop")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+Workshop](Special%253ABrowse/GBrowse-20syn-20PAG-202009-20Workshop "Special%253ABrowse/GBrowse-20syn-20PAG-202009-20Workshop")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Special:ExportRDF/GBrowse syn PAG 2009 Workshop")</span></span>
 
 |  |  |
@@ -328,7 +328,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn_PAG_2009_Workshop "Spec
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn_PAG_2009_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn_PAG_2009_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

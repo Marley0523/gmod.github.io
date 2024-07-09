@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 licence](/wiki/Property%3AHas_licence "Property:Has licence")" with value
 "\[http://opensource.org/licenses/gpl-license Gnu GPL\]"  
 
-- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/DIYA "Special%3ABrowse/DIYA")</span>
+- [DIYA](/wiki/DIYA "DIYA")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/DIYA "Special%253ABrowse/DIYA")</span>
 
  
 

@@ -88,7 +88,7 @@ class="external text" rel="nofollow">here</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ProteinDumper.pm" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/ProteinDumper.pm" rel="smw-browse">Browse
   properties</a></span>
 
 

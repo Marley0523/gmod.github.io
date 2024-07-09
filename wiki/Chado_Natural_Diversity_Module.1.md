@@ -1319,7 +1319,7 @@ public.nd_reagentprop Structure
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Chado_Natural_Diversity_Module"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Natural_Diversity_Module"
   rel="smw-browse">Browse properties</a></span>
 
 

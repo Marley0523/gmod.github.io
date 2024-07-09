@@ -450,7 +450,7 @@ Here is a list of the proposed project ideas for 2015:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GSOC_Project_Ideas_2015" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GSOC_Project_Ideas_2015" rel="smw-browse">Browse
   properties</a></span>
 
 

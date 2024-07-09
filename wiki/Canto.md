@@ -60,7 +60,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Canto](Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+"<span class="swmfactboxheadbrowse">[Canto](Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/Canto "Special:ExportRDF/Canto")</span></span>
 
 <table class="smwfacttable">
@@ -234,7 +234,7 @@ title="Special%3ASearchByProperty/Has-20subobject/Canto-23 564f9c71bf2847fc3c542
 
 
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Canto" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Canto" rel="smw-browse">Browse properties</a></span>
 
 
 

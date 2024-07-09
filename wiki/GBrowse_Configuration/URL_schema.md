@@ -337,7 +337,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/GBrowse_Configuration-2FURL_schema"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/GBrowse_Configuration-2FURL_schema"
   rel="smw-browse">Browse properties</a></span>
 
 

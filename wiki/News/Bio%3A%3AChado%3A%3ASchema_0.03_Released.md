@@ -105,7 +105,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FBio%3A%3AChado%3A%3ASchema_0.03_Released"
   rel="smw-browse">Browse properties</a></span>
 
 

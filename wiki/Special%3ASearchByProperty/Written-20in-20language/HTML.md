@@ -18,7 +18,7 @@ A list of all pages that have property "[Written in
 language](/wiki/Property%3AWritten_in_language "Property:Written in language")"
 with value "HTML"  
 
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
 
  
 

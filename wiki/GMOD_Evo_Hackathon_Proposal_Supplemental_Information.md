@@ -329,7 +329,7 @@ visualization.
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/GMOD_Evo_Hackathon_Proposal_Supplemental_Information"
+  href="Special%253ABrowse/GMOD_Evo_Hackathon_Proposal_Supplemental_Information"
   rel="smw-browse">Browse properties</a></span>
 
 

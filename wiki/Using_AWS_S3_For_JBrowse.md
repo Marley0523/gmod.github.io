@@ -333,7 +333,7 @@ JBrowse will have it pulling track data from S3.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Using_AWS_S3_For_JBrowse"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Using_AWS_S3_For_JBrowse"
   rel="smw-browse">Browse properties</a></span>
 
 

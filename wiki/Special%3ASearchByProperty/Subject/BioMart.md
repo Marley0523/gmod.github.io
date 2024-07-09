@@ -18,7 +18,7 @@ A list of all pages that have property
 "[Subject](/wiki/Property%3ASubject "Property%3ASubject")" with value
 "[BioMart](/wiki/BioMart "BioMart")"  
 
-- [BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%3ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span>
+- [BioMart](/wiki/BioMart#_cf37be6ad46064a27af652ecc850193c "BioMart")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/BioMart-23_cf37be6ad46064a27af652ecc850193c "Special%253ABrowse/BioMart-23 cf37be6ad46064a27af652ecc850193c")</span>
 
  
 

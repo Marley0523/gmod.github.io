@@ -37,7 +37,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[Canto](/wiki/Canto "Canto") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -61,7 +61,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Canto-23https%3A-2F-2Fgithub.com-2Fpombase-2Fcanto-2Fblob-2Fmaster-2Fdocumentation-2Fcanto_admin.md "This is a special page, you cannot edit the page itself")</span>
 
 
 

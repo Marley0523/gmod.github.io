@@ -18,7 +18,7 @@ A list of all pages that have property "[Interaction
 type](/wiki/Property%3AInteraction_type "Property:Interaction type")" with
 value "can save data in"  
 
-- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Canto "Special%3ABrowse/Canto")</span>
+- [Canto](/wiki/Canto "Canto")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>
 
  
 

@@ -126,7 +126,7 @@ in the future.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Help_Desk_Feedback" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Help_Desk_Feedback" rel="smw-browse">Browse
   properties</a></span>
 
 

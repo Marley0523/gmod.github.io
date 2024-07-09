@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/LabDoc%3A_Generic_Laboratory_Protocol_Documentation_System "This is a special page, you cannot edit the page itself")</span>
 
 
 

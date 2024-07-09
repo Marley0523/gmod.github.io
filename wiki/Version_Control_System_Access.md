@@ -186,7 +186,7 @@ rel="nofollow">http://gmod.cvs.sourceforge.net/gmod/</a>.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Version_Control_System_Access"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Version_Control_System_Access"
   rel="smw-browse">Browse properties</a></span>
 
 

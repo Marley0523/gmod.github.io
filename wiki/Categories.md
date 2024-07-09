@@ -407,7 +407,7 @@ Desk](GMOD_Help_Desk "GMOD Help Desk").
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Categories" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Categories" rel="smw-browse">Browse
   properties</a></span>
 
 

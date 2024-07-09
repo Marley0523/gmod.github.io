@@ -19,7 +19,7 @@ href="/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
 class="new" title="Property:Chado (page does not exist)">Chado</a>" with
 value "Schema"  
 
-- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema "Special%3ABrowse/Bio%3A%3AChado%3A%3ASchema")</span>
+- [Bio%3A%3AChado%3A%3ASchema](/wiki/Bio%3A%3AChado%3A%3ASchema "Bio%3A%3AChado%3A%3ASchema")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema "Special%253ABrowse/Bio%3A%3AChado%3A%3ASchema")</span>
 
  
 

@@ -140,7 +140,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FSoftware_Requirements_V2.0-3F"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FSoftware_Requirements_V2.0-3F"
   rel="smw-browse">Browse properties</a></span>
 
 

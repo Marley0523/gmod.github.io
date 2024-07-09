@@ -32,8 +32,8 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/Balloon_tooltips" class="mw-redirect"
-title="Balloon tooltips">Balloon tooltips</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Balloon-20tooltips "Special%3ABrowse/Balloon-20tooltips")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Popup_balloons" class="mw-redirect"
-title="Popup balloons">Popup balloons</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Popup-20balloons "Special%3ABrowse/Popup-20balloons")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="Balloon tooltips">Balloon tooltips</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Balloon-20tooltips "Special%253ABrowse/Balloon-20tooltips")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Popup_balloons" class="mw-redirect"
+title="Popup balloons">Popup balloons</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Popup-20balloons "Special%253ABrowse/Popup-20balloons")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Popup_Balloons "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Popup_Balloons "This is a special page, you cannot edit the page itself")</span>
 
 
 

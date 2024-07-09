@@ -211,7 +211,7 @@ rel="nofollow">National Evolutionary Synthesis Center (NESCent)</a>, Durham, Nor
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Meetings" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Meetings" rel="smw-browse">Browse properties</a></span>
 
 
 

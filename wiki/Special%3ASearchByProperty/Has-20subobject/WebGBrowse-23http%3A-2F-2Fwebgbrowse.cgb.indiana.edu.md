@@ -21,7 +21,7 @@ subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span 
 property is a special property in this wiki.</span></span>" with value
 "[WebGBrowse#http://webgbrowse.cgb.indiana.edu](/wiki/WebGBrowse#http:.2F.2Fwebgbrowse.cgb.indiana.edu "WebGBrowse")"  
 
-- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span>
+- [WebGBrowse](/wiki/WebGBrowse "WebGBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span>
 
  
 

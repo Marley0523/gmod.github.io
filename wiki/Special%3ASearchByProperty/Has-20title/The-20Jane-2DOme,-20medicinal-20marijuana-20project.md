@@ -18,7 +18,7 @@ A list of all pages that have property "[Has
 title](/wiki/Property%3AHas_title "Property:Has title")" with value "The
 Jane-Ome, medicinal marijuana project"  
 
-- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/JBrowse "Special%3ABrowse/JBrowse")</span>
+- [JBrowse](/wiki/JBrowse "JBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>
 
  
 

@@ -31,7 +31,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/GMOD%3AAbout" class="mw-redirect"
-title="GMOD%3AAbout">GMOD%3AAbout</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD%3AAbout "Special%3ABrowse/GMOD%3AAbout")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD" class="mw-redirect" title="GMOD">GMOD</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD "Special%3ABrowse/GMOD")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Home" class="mw-redirect" title="Home">Home</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Home "Special%3ABrowse/Home")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+title="GMOD%3AAbout">GMOD%3AAbout</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD%3AAbout "Special%253ABrowse/GMOD%3AAbout")</span></span> , <span class="smwb-ivalue"><a href="/wiki/GMOD" class="mw-redirect" title="GMOD">GMOD</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD "Special%253ABrowse/GMOD")</span></span> , <span class="smwb-ivalue"><a href="/wiki/Home" class="mw-redirect" title="Home">Home</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Home "Special%253ABrowse/Home")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Main_Page "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Main_Page "This is a special page, you cannot edit the page itself")</span>
 
 
 

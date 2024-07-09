@@ -44,8 +44,8 @@ Showing 8 pages using this property.
 <tr class="odd">
 <td class="smwpropname"><a href="BioMart"
 title="BioMart">BioMart</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/BioMart"
-title="Special%3ABrowse/BioMart">+</a></span></td>
+href="Special%253ABrowse/BioMart"
+title="Special%253ABrowse/BioMart">+</a></span></td>
 <td class="smwprops">provides data for  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/provides-20data-20for"
 title="Special%3ASearchByProperty/Interaction-20type/provides-20data-20for">+</a></span></td>
@@ -56,8 +56,8 @@ title="Special%3ASearchByProperty/Interaction-20type/provides-20data-20for">+</a
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="Canto" title="Canto">Canto</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/Canto"
-title="Special%3ABrowse/Canto">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/Canto"
+title="Special%253ABrowse/Canto">+</a></span></td>
 <td class="smwprops">can save data in  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/can-20save-20data-20in"
 title="Special%3ASearchByProperty/Interaction-20type/can-20save-20data-20in">+</a></span></td>
@@ -68,8 +68,8 @@ title="Special%3ASearchByProperty/Interaction-20type/can-20save-20data-20in">+</
 </tr>
 <tr class="odd">
 <td class="smwpropname"><a href="DIYA" title="DIYA">DIYA</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/DIYA"
-title="Special%3ABrowse/DIYA">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/DIYA"
+title="Special%253ABrowse/DIYA">+</a></span></td>
 <td class="smwprops">provides input for  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for"
 title="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for">+</a></span></td>
@@ -81,8 +81,8 @@ title="Special%3ASearchByProperty/Interaction-20type/provides-20input-20for">+</
 <tr class="odd">
 <td class="smwpropname"><a href="InterMine"
 title="InterMine">InterMine</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/InterMine"
-title="Special%3ABrowse/InterMine">+</a></span></td>
+href="Special%253ABrowse/InterMine"
+title="Special%253ABrowse/InterMine">+</a></span></td>
 <td class="smwprops">consumes data from  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/consumes-20data-20from"
 title="Special%3ASearchByProperty/Interaction-20type/consumes-20data-20from">+</a></span>,
@@ -100,8 +100,8 @@ title="Special%3ASearchByProperty/Interaction-20type/uses-20library-20for-20proc
 <tr class="odd">
 <td class="smwpropname"><a href="Tripal.1"
 title="Tripal">Tripal</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/Tripal"
-title="Special%3ABrowse/Tripal">+</a></span></td>
+href="Special%253ABrowse/Tripal"
+title="Special%253ABrowse/Tripal">+</a></span></td>
 <td class="smwprops">can embed  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/can-20embed"
 title="Special%3ASearchByProperty/Interaction-20type/can-20embed">+</a></span>,
@@ -116,8 +116,8 @@ title="Special%3ASearchByProperty/Interaction-20type/provides-20interface-20for"
 <tr class="odd">
 <td class="smwpropname"><a href="WebApollo.1"
 title="WebApollo">WebApollo</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo"
-title="Special%3ABrowse/WebApollo">+</a></span></td>
+href="Special%253ABrowse/WebApollo"
+title="Special%253ABrowse/WebApollo">+</a></span></td>
 <td class="smwprops">receives input from  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from"
 title="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
@@ -128,8 +128,8 @@ title="Special%3ASearchByProperty/Interaction-20type/is-20based-20on">+</a></spa
 <tr class="even">
 <td class="smwpropname"><a href="WebApollo2"
 title="WebApollo2">WebApollo2</a> <span class="smwbrowse"><a
-href="Special%3ABrowse/WebApollo2"
-title="Special%3ABrowse/WebApollo2">+</a></span></td>
+href="Special%253ABrowse/WebApollo2"
+title="Special%253ABrowse/WebApollo2">+</a></span></td>
 <td class="smwprops">receives input from  <span class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from"
 title="Special%3ASearchByProperty/Interaction-20type/receives-20input-20from">+</a></span>,
@@ -143,8 +143,8 @@ title="Special%3ASearchByProperty/Interaction-20type/is-20based-20on">+</a></spa
 </tr>
 <tr class="even">
 <td class="smwpropname"><a href="XORT.1" title="XORT">XORT</a> <span
-class="smwbrowse"><a href="Special%3ABrowse/XORT"
-title="Special%3ABrowse/XORT">+</a></span></td>
+class="smwbrowse"><a href="Special%253ABrowse/XORT"
+title="Special%253ABrowse/XORT">+</a></span></td>
 <td class="smwprops">reads from and writes to  <span
 class="smwsearch"><a
 href="Special%3ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to"
@@ -219,7 +219,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/Property%3AInteraction_type "Specia
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Property%3AInteraction_type"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Property%3AInteraction_type"
   rel="smw-browse">Browse properties</a></span>
 
 

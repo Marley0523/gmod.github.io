@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Synteny" class="mw-redirect" title="Synteny">Synteny</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Synteny "Special%3ABrowse/Synteny")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Synteny" class="mw-redirect" title="Synteny">Synteny</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Synteny "Special%253ABrowse/Synteny")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Synteny "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Synteny "This is a special page, you cannot edit the page itself")</span>
 
 
 

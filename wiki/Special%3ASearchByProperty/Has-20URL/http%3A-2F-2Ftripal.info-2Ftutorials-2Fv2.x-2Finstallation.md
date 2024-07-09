@@ -20,7 +20,7 @@ URL](/wiki/Property%3AHas_URL "Property:Has URL")" with value
 class="external"
 rel="nofollow">http://tripal.info/tutorials/v2.x/installation</a>"  
 
-- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Tripal "Special%3ABrowse/Tripal")</span>
+- [Tripal](/wiki/Tripal "Tripal")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>
 
  
 

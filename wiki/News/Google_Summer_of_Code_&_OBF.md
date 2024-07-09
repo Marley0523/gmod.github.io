@@ -132,7 +132,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FGoogle_Summer_of_Code_-26_OBF"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FGoogle_Summer_of_Code_-26_OBF"
   rel="smw-browse">Browse properties</a></span>
 
 

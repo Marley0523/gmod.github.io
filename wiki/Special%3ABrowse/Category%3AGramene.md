@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/CMap "Special%3ABrowse/CMap")</span></span> , <span class="smwb-ivalue">[File:Gramene logo180.jpg](/wiki/File:Gramene_logo180.jpg "File:Gramene logo180.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Gramene-20logo180.jpg "Special%3ABrowse/File:Gramene-20logo180.jpg")</span></span> , <span class="smwb-ivalue">[File:Gramene-cmap-pag-poster-2005.pdf](/wiki/File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:Gramene-2Dcmap-2Dpag-2Dposter-2D2005.pdf "Special%3ABrowse/File:Gramene-2Dcmap-2Dpag-2Dposter-2D2005.pdf")</span></span> , <span class="smwb-ivalue">[File:GrameneMainPageIcon.jpg](/wiki/File:GrameneMainPageIcon.jpg "File:GrameneMainPageIcon.jpg") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:GrameneMainPageIcon.jpg "Special%3ABrowse/File:GrameneMainPageIcon.jpg")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%3ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[CMap](/wiki/CMap "CMap") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/CMap "Special%253ABrowse/CMap")</span></span> , <span class="smwb-ivalue">[File:Gramene logo180.jpg](/wiki/File:Gramene_logo180.jpg "File:Gramene logo180.jpg") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Gramene-20logo180.jpg "Special%253ABrowse/File:Gramene-20logo180.jpg")</span></span> , <span class="smwb-ivalue">[File:Gramene-cmap-pag-poster-2005.pdf](/wiki/File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:Gramene-2Dcmap-2Dpag-2Dposter-2D2005.pdf "Special%253ABrowse/File:Gramene-2Dcmap-2Dpag-2Dposter-2D2005.pdf")</span></span> , <span class="smwb-ivalue">[File:GrameneMainPageIcon.jpg](/wiki/File:GrameneMainPageIcon.jpg "File:GrameneMainPageIcon.jpg") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:GrameneMainPageIcon.jpg "Special%253ABrowse/File:GrameneMainPageIcon.jpg")</span></span> , <span class="smwb-ivalue">[MOD User Interfaces: Sample of several MOD Top Level functions](/wiki/MOD_User_Interfaces:_Sample_of_several_MOD_Top_Level_functions "MOD User Interfaces: Sample of several MOD Top Level functions") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions "Special%253ABrowse/MOD-20User-20Interfaces:-20Sample-20of-20several-20MOD-20Top-20Level-20functions")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGramene "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGramene "This is a special page, you cannot edit the page itself")</span>
 
 
 

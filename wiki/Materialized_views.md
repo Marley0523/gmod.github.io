@@ -234,7 +234,7 @@ Carpita and modified by [Scott Cain](User%3AScott "User%3AScott")
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Materialized_views" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Materialized_views" rel="smw-browse">Browse
   properties</a></span>
 
 

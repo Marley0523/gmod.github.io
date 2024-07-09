@@ -37,7 +37,7 @@ class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span c
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
+| <span class="smwb-ivalue">[GO Graphic Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span></span> | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Has subobject](/wiki/Property%3AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> |
 
 |     |     |
 |-----|-----|
@@ -61,7 +61,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer-23http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer-23http%3A-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "This is a special page, you cannot edit the page itself")</span>
 
 
 

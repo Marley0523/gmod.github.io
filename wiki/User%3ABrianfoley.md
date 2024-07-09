@@ -92,7 +92,7 @@ You can contact me at btf(at)lanl(dot)gov
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/User%3ABrianfoley" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%3ABrianfoley" rel="smw-browse">Browse
   properties</a></span>
 
 

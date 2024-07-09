@@ -20,7 +20,7 @@ database of genomic variants: a curated collection of structural
 variation in the human genome"  
 
 - [News/GMOD Paper Cuts, Nov 8th,
-  2013](/wiki/News/GMOD_Paper_Cuts,_Nov_8th,_2013 "News/GMOD Paper Cuts, Nov 8th, 2013")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013 "Special%3ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013")</span>
+  2013](/wiki/News/GMOD_Paper_Cuts,_Nov_8th,_2013 "News/GMOD Paper Cuts, Nov 8th, 2013")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013 "Special%253ABrowse/News-2FGMOD-20Paper-20Cuts,-20Nov-208th,-202013")</span>
 
  
 

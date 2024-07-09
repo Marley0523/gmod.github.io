@@ -153,7 +153,7 @@ rel="nofollow">https://github.com/GMOD/mimosa/issues</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Mimosa" rel="smw-browse">Browse properties</a></span>
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Mimosa" rel="smw-browse">Browse properties</a></span>
 
 
 

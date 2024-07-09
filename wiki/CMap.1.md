@@ -784,7 +784,7 @@ http://gmod.org/wiki/
   link](/mediawiki/index.php?title=CMap&oldid=24755 "Permanent link to this revision of the pagehttp://gmod.org/wiki/")</span>
 - <span id="t-info">[Page
   information](/mediawiki/index.php?title=CMap&actiohttp://gmod.org/wiki/n=info)</span>
-- <span id="t-smwbrowselink"><a href="/wiki/Special%3ABrowse/CMap" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/CMap" rel="smw-browse">Browse
   properties</a></span>
 
 

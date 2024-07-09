@@ -19,7 +19,7 @@ href="/mediawiki/index.php?title=Property:Has_author&amp;action=edit&amp;redlink
 class="new" title="Property:Has author (page does not exist)">Has
 author</a>" with value "Caudy M"  
 
-- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/User%3AJimHu-2FGbrowse "Special%3ABrowse/User%3AJimHu-2FGbrowse")</span>
+- [User%3AJimHu/Gbrowse](/wiki/User%3AJimHu/Gbrowse "User%3AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%3AJimHu-2FGbrowse "Special%253ABrowse/User%3AJimHu-2FGbrowse")</span>
 
  
 

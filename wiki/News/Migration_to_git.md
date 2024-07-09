@@ -123,7 +123,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FMigration_to_git"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FMigration_to_git"
   rel="smw-browse">Browse properties</a></span>
 
 

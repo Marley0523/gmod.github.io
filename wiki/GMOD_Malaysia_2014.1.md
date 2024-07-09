@@ -207,7 +207,7 @@ very grateful to be a beneficiary of this generous program.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_Malaysia_2014" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Malaysia_2014" rel="smw-browse">Browse
   properties</a></span>
 
 

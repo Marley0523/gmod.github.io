@@ -33,7 +33,7 @@ title="Category%3AWebGBrowse (page does not exist)">Category%3AWebGBrowse</a> | 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse "Special%3ABrowse/WebGBrowse")</span></span> , <span class="smwb-ivalue">[WebGBrowse/tool data](/wiki/WebGBrowse/tool_data "WebGBrowse/tool data") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebGBrowse-2Ftool-20data "Special%3ABrowse/WebGBrowse-2Ftool-20data")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[WebGBrowse](/wiki/WebGBrowse "WebGBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse "Special%253ABrowse/WebGBrowse")</span></span> , <span class="smwb-ivalue">[WebGBrowse/tool data](/wiki/WebGBrowse/tool_data "WebGBrowse/tool data") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebGBrowse-2Ftool-20data "Special%253ABrowse/WebGBrowse-2Ftool-20data")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AWebGBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AWebGBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

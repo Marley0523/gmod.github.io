@@ -474,7 +474,7 @@ opposed to an EnsEMBL database) and for ParameciumDB.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/ParameciumDB" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/ParameciumDB" rel="smw-browse">Browse
   properties</a></span>
 
 

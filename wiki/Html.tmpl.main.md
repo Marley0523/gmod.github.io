@@ -333,7 +333,7 @@ has been fully adopted.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Html.tmpl.main" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Html.tmpl.main" rel="smw-browse">Browse
   properties</a></span>
 
 

@@ -81,7 +81,7 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School")
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse
-syn](Special%3ABrowse/GBrowse-20syn "Special%3ABrowse/GBrowse-20syn")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+syn](Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn "Special:ExportRDF/GBrowse syn")</span></span>
 
 |  |  |
@@ -182,7 +182,7 @@ title="Property:Has full name (page does not exist)">Has full name</a> | Gener
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_syn" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_syn" rel="smw-browse">Browse
   properties</a></span>
 
 

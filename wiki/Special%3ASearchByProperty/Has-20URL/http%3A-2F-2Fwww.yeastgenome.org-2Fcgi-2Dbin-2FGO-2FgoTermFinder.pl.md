@@ -21,7 +21,7 @@ class="external"
 rel="nofollow">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl</a>"  
 
 - [GO Graphic
-  Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GO-20Graphic-20Viewer "Special%3ABrowse/GO-20Graphic-20Viewer")</span>
+  Viewer](/wiki/GO_Graphic_Viewer "GO Graphic Viewer")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>
 
  
 

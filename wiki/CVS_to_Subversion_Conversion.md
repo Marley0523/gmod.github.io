@@ -234,7 +234,7 @@ projects are still active.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/CVS_to_Subversion_Conversion"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/CVS_to_Subversion_Conversion"
   rel="smw-browse">Browse properties</a></span>
 
 

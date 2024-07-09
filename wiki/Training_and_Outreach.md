@@ -1800,7 +1800,7 @@ The meeting where GMOD was born.</td>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Training_and_Outreach" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Training_and_Outreach" rel="smw-browse">Browse
   properties</a></span>
 
 

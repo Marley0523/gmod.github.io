@@ -111,7 +111,7 @@ Retrieved from "[http://gmod.org/wiki/Category%3ACanto](Category%3ACanto)"
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3ACanto" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3ACanto" rel="smw-browse">Browse
   properties</a></span>
 
 

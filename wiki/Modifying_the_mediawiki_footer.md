@@ -112,7 +112,7 @@ Here is what the surrounding code looked like:
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Modifying_the_mediawiki_footer"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Modifying_the_mediawiki_footer"
   rel="smw-browse">Browse properties</a></span>
 
 

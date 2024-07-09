@@ -117,7 +117,7 @@ Retrieved from
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Category%3APages_with_broken_file_links"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Category%3APages_with_broken_file_links"
   rel="smw-browse">Browse properties</a></span>
 
 

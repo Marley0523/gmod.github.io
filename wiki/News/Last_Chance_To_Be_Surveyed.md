@@ -95,7 +95,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FLast_Chance_To_Be_Surveyed"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FLast_Chance_To_Be_Surveyed"
   rel="smw-browse">Browse properties</a></span>
 
 

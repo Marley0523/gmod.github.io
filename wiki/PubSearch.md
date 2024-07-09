@@ -157,7 +157,7 @@ class="external text" rel="nofollow">From Sourceforge</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/PubSearch" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/PubSearch" rel="smw-browse">Browse
   properties</a></span>
 
 

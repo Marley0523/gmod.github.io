@@ -122,7 +122,7 @@ Mitch reported work on:
 ### Tools
 
 - <span id="t-smwbrowselink"><a
-  href="Special%3ABrowse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D11-2D18"
+  href="Special%253ABrowse/Web-2Dapollo-2Dmeeting-2Dminutes-2D2010-2D11-2D18"
   rel="smw-browse">Browse properties</a></span>
 
 

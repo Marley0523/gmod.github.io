@@ -20,7 +20,7 @@ class="new"
 title="Property:Interactor (page does not exist)">Interactor</a>" with
 value "WebApollo"  
 
-- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%3ABrowse/WebApollo "Special%3ABrowse/WebApollo")</span>
+- [WebApollo](/wiki/WebApollo "WebApollo")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span>
 
  
 

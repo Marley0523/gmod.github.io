@@ -133,7 +133,7 @@ title="Visit the main page"></a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="../Special%3ABrowse/News-2FISGA_Joins_GMOD"
+- <span id="t-smwbrowselink"><a href="../Special%253ABrowse/News-2FISGA_Joins_GMOD"
   rel="smw-browse">Browse properties</a></span>
 
 

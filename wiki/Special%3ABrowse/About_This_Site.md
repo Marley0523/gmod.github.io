@@ -32,7 +32,7 @@
 |  |  |
 |----|----|
 | <span class="smwb-ivalue"><a href="/wiki/About_site" class="mw-redirect" title="About site">About
-site</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/About-20site "Special%3ABrowse/About-20site")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+site</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/About-20site "Special%253ABrowse/About-20site")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -56,7 +56,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/About_This_Site "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/About_This_Site "This is a special page, you cannot edit the page itself")</span>
 
 
 

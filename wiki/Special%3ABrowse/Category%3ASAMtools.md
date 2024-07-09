@@ -33,7 +33,7 @@ title="Category%3ASAMtools (page does not exist)">Category%3ASAMtools</a> |  |
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:OCCBio GBrowse NGS.pdf](/wiki/File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/File:OCCBio-20GBrowse-20NGS.pdf "Special%3ABrowse/File:OCCBio-20GBrowse-20NGS.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[File:OCCBio GBrowse NGS.pdf](/wiki/File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf "Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -57,7 +57,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3ASAMtools "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3ASAMtools "This is a special page, you cannot edit the page itself")</span>
 
 
 

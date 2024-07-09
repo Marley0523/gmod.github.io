@@ -31,7 +31,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue"><a href="/wiki/Nbrowse" class="mw-redirect" title="Nbrowse">Nbrowse</a> <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Nbrowse "Special%3ABrowse/Nbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
+| <span class="smwb-ivalue"><a href="/wiki/Nbrowse" class="mw-redirect" title="Nbrowse">Nbrowse</a> <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Nbrowse "Special%253ABrowse/Nbrowse")</span></span> | [redirect page](/wiki/Special:ListRedirects "Special:ListRedirects") |
 
 |     |     |
 |-----|-----|
@@ -55,7 +55,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/NBrowse "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/NBrowse "This is a special page, you cannot edit the page itself")</span>
 
 
 

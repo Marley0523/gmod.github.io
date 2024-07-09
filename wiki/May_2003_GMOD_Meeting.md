@@ -115,7 +115,7 @@ are the presentations given by the groups represented.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/May_2003_GMOD_Meeting" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/May_2003_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
 

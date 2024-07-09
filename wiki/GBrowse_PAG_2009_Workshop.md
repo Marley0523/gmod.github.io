@@ -219,7 +219,7 @@ in San Diego, immediately after PAG 2009.
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GBrowse_PAG_2009_Workshop"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_PAG_2009_Workshop"
   rel="smw-browse">Browse properties</a></span>
 
 

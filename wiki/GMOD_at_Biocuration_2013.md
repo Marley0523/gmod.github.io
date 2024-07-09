@@ -98,7 +98,7 @@ posters at Biocuration</a>
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/GMOD_at_Biocuration_2013"
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_at_Biocuration_2013"
   rel="smw-browse">Browse properties</a></span>
 
 

@@ -367,7 +367,7 @@ Scripts:
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[MAKER Tutorial
-2010](Special%3ABrowse/MAKER-20Tutorial-202010 "Special%3ABrowse/MAKER-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
+2010](Special%253ABrowse/MAKER-20Tutorial-202010 "Special%253ABrowse/MAKER-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:ExportRDF/MAKER Tutorial 2010")</span></span>
 
 |  |  |
@@ -430,7 +430,7 @@ feed](http://gmod.org/wiki/Special:ExportRDF/MAKER_Tutorial_2010 "Special:Export
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/MAKER_Tutorial_2010" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/MAKER_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
 

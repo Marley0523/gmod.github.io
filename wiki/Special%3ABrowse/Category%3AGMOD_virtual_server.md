@@ -30,7 +30,7 @@
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[Cloud](/wiki/Cloud "Cloud") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/Cloud "Special%3ABrowse/Cloud")</span></span> , <span class="smwb-ivalue">[GMOD in a Box](/wiki/GMOD_in_a_Box "GMOD in a Box") <span class="smwbrowse">[+](/wiki/Special%3ABrowse/GMOD-20in-20a-20Box "Special%3ABrowse/GMOD-20in-20a-20Box")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
+| <span class="smwb-ivalue">[Cloud](/wiki/Cloud "Cloud") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Cloud "Special%253ABrowse/Cloud")</span></span> , <span class="smwb-ivalue">[GMOD in a Box](/wiki/GMOD_in_a_Box "GMOD in a Box") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GMOD-20in-20a-20Box "Special%253ABrowse/GMOD-20in-20a-20Box")</span></span> | [Categories](/wiki/Special%3ACategories "Special%3ACategories") |
 
 |     |     |
 |-----|-----|
@@ -54,7 +54,7 @@ Enter the name of the page to start browsing from.
 ### Namespaces
 
 - <span id="ca-nstab-special">[Special
-  page](/wiki/Special%3ABrowse/Category%3AGMOD_virtual_server "This is a special page, you cannot edit the page itself")</span>
+  page](/wiki/Special%253ABrowse/Category%3AGMOD_virtual_server "This is a special page, you cannot edit the page itself")</span>
 
 
 

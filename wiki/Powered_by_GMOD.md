@@ -140,7 +140,7 @@ width="89" height="66" alt="PoweredByGBrowseAnimalGenome2.jpg" /> |  |  |
 
 ### Tools
 
-- <span id="t-smwbrowselink"><a href="Special%3ABrowse/Powered_by_GMOD" rel="smw-browse">Browse
+- <span id="t-smwbrowselink"><a href="Special%253ABrowse/Powered_by_GMOD" rel="smw-browse">Browse
   properties</a></span>
 
 
