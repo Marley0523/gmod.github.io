@@ -26,6 +26,7 @@ class="external text" rel="nofollow">Artistic License 2.0</a>
 Resources
 
 <table>
+<tbody>
 <tr>
 <td class="smwprops">Generic Genome Browser <span class="smwsearch"><a
 href="/wiki/Special%3ASearchByProperty/Has-20full-20name/Ghttp://gmod.org/wiki/eneric-20Genome-20Browser"
@@ -215,7 +216,7 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 
 ### Documentation
 
-- <span id="n-Overview"><a href="/wiki/Overview" http:="" data-gmod.org="" data-wiki=""></a>Overview</span>
+- <span id="n-Overview">[Overview](Overview</span>
 - <span id="n-FAQs">[FAQs](/wiki/Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
@@ -231,8 +232,6 @@ Community
   Promotion](/wiki/GMOD_Promotion)</span>
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
-
-http://gmod.org/wiki/
 
 ### Tools
 

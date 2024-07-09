@@ -1,62 +1,28 @@
-
-
-
-
 <span id="top"></span>
-
 
 # <span dir="auto">CMap</span>
 
-
-
-
-
-(Redirected fromhttp://gmod.org/wiki/
-[Cmap](/mediawiki/index.php?title=Cmap&http://gmod.org/wiki/redirect=no "Cmap"))
-
-
-Jump to: [navigation](#mw-navigation),
-[search](#p-searhttp://gmod.org/wiki/ch)
-
-
-
-<a href="/wiki/File:Chttp://gmod.org/wiki/MapLogo-horiz.png"
-class="image"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
-srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/600px-CMapLogo-horiz.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/ec/CMapLogo-horiz.png/800px-CMapLogo-horiz.png 2x"
-width="400" height="115" alt="CMap logo" /></a>
-
-
+<img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
+width="400" height="115" alt="CMap logo" />
 
 Status
 
-
-
 - Mature release
 - Development: inactive
-- Support: active
-
-
+- Support: inactive
 
 Licence
 
-
-<a href="http://opensourhttp://gmod.org/wiki/ce.org/"
+<a href="http://opensource.org/"
 rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_shttp://gmod.org/wiki/ymbol.png/60px-Osi_symbol.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt=" is open source" /></a>
-
-
 
 <a href="http://opensource.org/licenses/GPL-3.0" class="external text"
 rel="nofollow">GPL</a>
 
-
-
 Resources
-
-
 
 - <a href="http://sourceforge.net/projects/gmod/files/cmap/"
   class="external text" rel="nofollow">Download</a>
@@ -76,9 +42,6 @@ Resources
 
 - <a href="http://www.gramene.orhttp://gmod.org/wiki/g/db/cmap"
   class="external text" rel="nofollow">Demo server</a>
-
-
-
 
 ## Contents
 
@@ -132,8 +95,6 @@ Development</span>](#CMap_Development)
   - [<span class="tocnumber">10.1</span> <span class="toctext">CMap
     Logo</span>](#CMap_Logo)
 
-
-
 ## <span id="About_CMap" class="mw-headline">About CMap</span>
 
 A browser-based tool for the visual comparison of various maps
@@ -148,34 +109,17 @@ rel="nofollow">Gramene Project</a>. See also
 <a href="http://www.gramene.org/cmap/entry.html" class="external text"
 rel="nofollow">other Gramene views</a>.
 
-
-
-
 <a href="/wiki/File:Cmap_sample1.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
 width="89" height="120" alt="Cmap sample1.jpg" /></a>
-
-
-
-
-
 
 <a href="/wiki/File:Cmap_sample2.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
 width="169" height="120" alt="Cmap sample2.jpg" /></a>
 
-
-
-
-
-
 <a href="/wiki/File:Cmap_sample3.jpg" class="image"><img
 srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
 width="131" height="120" alt="Cmap sample3.jpg" /></a>
-
-
-
-
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -298,9 +242,6 @@ class="external text" rel="nofollow">Tutorial @ Gramene</a>
 
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
-
-
-
 Mailing List Link
 
 Description
@@ -414,13 +355,10 @@ Community College</a>.
 1.  <span id="cite_note-1"><span class="mw-cite-backlink">[↑](#cite_ref-1)</span>
     <span class="reference-text">PMID:19648141</span></span>
 
-
-
 </span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
 
 [Available on platform](/wiki/Property%3AAvailable_on_platform "Property:Available on platform")
-
 
 web
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Avaihttp://gmod.org/wiki/lable-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>
@@ -700,33 +638,15 @@ and
 [CMap#http://cricket.ornl.gov/cgi-bin/cmap/map_set_info](/wiki/CMap#http:.2F.2Fcricket.ornl.gov.2Fcgi-bin.2Fcmap.2Fmap_set_info "CMap")
 <span class="smwsearch">[+](/wiki/Special%3ASearchByProperty/Has-20subobject/CMap-23http%3A-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap_set_info "Special%3ASearchByProperty/Has-20subobject/CMap-23http:-2F-2Fcricket.ornl.gov-2Fcgi-2Dbin-2Fcmap-2Fmap set info")</span>
 
-
-
-
 ## Navigation menu
 
-
-
 http://gmod.org/wiki/
-
-
-
 
 ### Variants[](#)
 
-
-
 http://gmod.org/wiki/
 
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Hhttp://gmod.org/wiki/ome">[GMOD
   Home](/wiki/Main_Page)</span>
@@ -736,12 +656,7 @@ http://gmod.org/wiki/
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
 
-
-
-
 ### Documentation
-
-
 
 http://gmod.org/wiki/
 
@@ -750,12 +665,7 @@ http://gmod.org/wiki/
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD
   News](/wikhttp://gmod.org/wiki/i/GMOD_News)</span>
@@ -766,12 +676,7 @@ http://gmod.org/wiki/
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-
-
-
 ### Tools
-
-
 
 - <span id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/CMap" accesskey="j"
   title="A list of all wiki pages that link here [j]">What links here</a></span>
@@ -779,17 +684,12 @@ http://gmod.org/wiki/
   title="Recent changes in pages linked from this page [k]">Related
   changes</a></span>
 
-
 - <span id="t-permalihttp://gmod.org/wiki/nk">[Permanent
   link](/mediawiki/index.php?title=CMap&oldid=24755 "Permanent link to this revision of the pagehttp://gmod.org/wiki/")</span>
 - <span id="t-info">[Page
   information](/mediawiki/index.php?title=CMap&actiohttp://gmod.org/wiki/n=info)</span>
 - <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/CMap" rel="smw-browse">Browse
   properties</a></span>
-
-
-
-
 
 - <span id="footer-info-lastmod">Last updated at 23:40 on 17 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">692,728 page views.</span> -->
@@ -800,9 +700,4 @@ http://gmod.org/wiki/
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
