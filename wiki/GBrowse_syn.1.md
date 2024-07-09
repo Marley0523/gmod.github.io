@@ -30,8 +30,8 @@ Status
 
 
 - Beta release
-- Development: active
-- Support: active
+- Development: inactive
+- Support: inactive
 
 
 
