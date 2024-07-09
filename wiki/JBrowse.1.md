@@ -1,75 +1,41 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">JBrowse</span>
-
-
-
-
-
-
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/400px-JBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/600px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/JBrowseLogo.png 2x"
 width="400" height="88" alt="JBrowse logo" />
 
-
-
 Status
-
-
 
 - Mature release
 - Development: active
 - Support: active
 
-
-
 Licence
-
 
 <a href="http://opensource.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
-
-
 <a href="http://opensource.org/licenses/LGPL-3.0" class="external text"
 rel="nofollow">LGPL</a>,
 <a href="http://opensource.org/licenses/Artistic-2.0"
 class="external text" rel="nofollow">Artistic License 2.0</a>
 
-
-
 Resources
-
-
-
 
 - [GMOD Components](Category%3AGMOD_Components "Category%3AGMOD Components")
 - [AJAX](Category%3AAJAX "Category%3AAJAX")
 - [JBrowse](Category%3AJBrowse "Category%3AJBrowse")
-
-
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse](Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
 feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
 
 [Available on platform](Property%3AAvailable_on_platform "Property:Available on platform")
-
-
 
 web
 <span class="smwsearch">[+](Special%3ASearchByProperty/Available-20on-20platform/web "Special%3ASearchByProperty/Available-20on-20platform/web")</span>
@@ -117,7 +83,7 @@ is javascript-based and does almost all of its work directly in the
 user's web browser, with minimal requirements for the server.
 </span></span>
 
-### <span id="Features" class="mw-headline">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](http://gmod.org/mediawiki/index.php?title=JBrowse&action=edit&section=1 "Edit section: Features")<span class="mw-editsection-bracket">\]</span></span>
+### Features
 
 - Fast, smooth scrolling and zooming. Explore your genome with
   unparalleled speed.
@@ -135,46 +101,23 @@ user's web browser, with minimal requirements for the server.
   genome of Ötzi the ice man
   <span class="smwsearch">[+](Special%3ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20%C3%96tzi-20the-20ice-20man "Special%3ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20Ötzi-20the-20ice-20man")</span>
 
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%3AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -184,17 +127,11 @@ user's web browser, with minimal requirements for the server.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/JBrowse" rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 19:18 on 15 April
-  2016.</span>
+- <span id="footer-info-lastmod">Last updated at 19:18 on 15 April 2016.</span>
 <!-- - <span id="footer-info-viewcount">734,503 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -203,10 +140,4 @@ user's web browser, with minimal requirements for the server.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

@@ -1,64 +1,32 @@
-
-
-
-
 <span id="top"></span>
-
 
 # <span dir="auto">GBrowse</span>
 
-
-
-
-
-(Redirectehttp://gmod.org/wiki/d from
-[Gbrowse](/mediawiki/index.php?title=Gbrhttp://gmod.org/wiki/owse&redirect=no "Gbrowse"))
-
-
-
-
-
-
-<a href="/wiki/File:GBrowseLogo.png" class="image"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
-srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/600px-GBrowseLogo.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/800px-GBrowseLogo.png 2x"
-width="400" height="94" alt="GBrowse loghttp://gmod.org/wiki/o" /></a>
-
-
+<img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/0/04/GBrowseLogo.png/400px-GBrowseLogo.png"
+width="400" height="94" alt="GBrowse logo" />
 
 Status
-
-
 
 - Mature release
 - Development: inactive
 - Support: inactive
 
-
-
 Licence
 
-
 <a href="http://opensource.org/" rel="nofollow"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
-srcsethttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thttp://gmod.org/wiki/humb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5xhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
-width="40" height="39"
-alt=" is open source" /></a>
-
-
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
+width="40" height="39" alt=" is open source" /></a>
 
 <a href="http://opensource.org/licenses/GPL-2.0" class="external text"
 rel="nofollow">GPL 2.0</a>,
 <a href="http://opensource.org/licenses/artistic-license-2.0"
 class="external text" rel="nofollow">Artistic License 2.0</a>
 
-
-
 Resources
 
-
-
-</td>
+<table>
+<tr>
 <td class="smwprops">Generic Genome Browser <span class="smwsearch"><a
 href="/wiki/Special%3ASearchByProperty/Has-20full-20name/Ghttp://gmod.org/wiki/eneric-20Genome-20Browser"
 title="Special%3ASearchByProperty/Has-20full-20name/Generic-20Genome-20Browser">+</a></span></td>
@@ -230,35 +198,20 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 </tbody>
 </table>
 
-
-
-
-
-
 ## Navigation menu
-
-
-
 
 ### Namespaces
 
-- <span id="ca-talk"><a href="/wiki/Talk%3AGBrowse" accesskey="t"
+- <span id="ca-talk"><a href="/wiki/Talk%253AGBrowse" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-
-
 ### Navigation
-
-
 
 - <span id="n-Softwhttp://gmod.org/wiki/are">[Software](/wiki/GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](/wiki/Categories)</span>
 - <span id="n-View-all-pages">[View all
   pages](/wiki/Special:AllPages)</span>
-
-
-
 
 ### Documentation
 
@@ -267,12 +220,7 @@ title="Special%3ASearchByProperty/Has-20subobject/GBrowse-23http%3A-2F-2Fhapmap.
 - <span id="n-HOWTOs">[HOWTOs](/wiki/Category%3AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](/wiki/Glossary)</span>
 
-
-
-
 Community
-
-
 
 - <span id="n-GMOD-Newshttp://gmod.org/wiki/">[GMOD
   News](/wiki/GMOD_News)</span>
@@ -284,20 +232,12 @@ Community
 - <span id="n-Meetings">[Meetings](/wiki/Meetings)</span>
 - <span id="n-Calendar">[Calendar](/wiki/Calendar)</span>
 
-
-
 http://gmod.org/wiki/
-
 
 ### Tools
 
-
-
 - <span id="t-smwbrowselink"><a href="/wiki/Special%253ABrowse/GBrowse" rel="smw-browse">Browse
   properties</a></span>
-
-
-
 
 - <span id="footer-info-lastmod">Last updated at 16:47 on 10 April 2023.</span>
 <!-- - <span id="footer-info-viewcount">1,682,147 page views.</span> -->
@@ -308,8 +248,4 @@ http://gmod.org/wiki/
 
 <!-- -->
 
-
-
 <!-- -->
-
-
