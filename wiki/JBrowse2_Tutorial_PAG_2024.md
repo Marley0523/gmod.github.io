@@ -105,9 +105,9 @@ who would like to work through the tutorial afterwards.
 ### <span id="Running_an_instance_of_the_tutorial_AMI" class="mw-headline">Running an instance of the tutorial AMI</span>
 
 To run this tutorial on your own Amazon EC2 instance, use *<a
-href="https://us-west-1.console.aws.amazon.com/ec2/home?region=us-west-1#ImageDetails:imageId=ami-098b2e7a0a4d3c423#ImageDetails:imageId=ami-098b2e7a0a4d3c423"
-class="external text" rel="nofollow">ami-098b2e7a0a4d3c423</a>* in the
-us-west-1 region.
+href="https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#ImageDetails:imageId=ami-0982eea63d790bad6#ImageDetails:imageId=ami-0982eea63d790bad6"
+class="external text" rel="nofollow">ami-0982eea63d790bad6</a>* in the
+us-east-1 region.
 
 There are several things to know about this instance:
 
