@@ -87,7 +87,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Chado-and-XML.pdf](File:Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
+  [Chado-and-XML.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
   262 KB  
 
   
@@ -110,7 +110,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [XORT.pdf](File:XORT.pdf "File:XORT.pdf")  
+  [XORT.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/XORT.pdf "File:XORT.pdf")  
   155 KB  
 
   
@@ -134,7 +134,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [XORTSpecification
-  0.pdf](File:XORTSpecification_0.pdf "File:XORTSpecification 0.pdf")  
+  0.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/XORTSpecification_0.pdf "File:XORTSpecification 0.pdf")  
   226 KB  
 
   

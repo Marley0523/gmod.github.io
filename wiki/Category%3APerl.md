@@ -143,7 +143,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [AutoDBI.pdf](File:AutoDBI.pdf "File:AutoDBI.pdf")  
+  [AutoDBI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/AutoDBI.pdf "File:AutoDBI.pdf")  
   288 KB  
 
   
@@ -167,7 +167,7 @@ The following 2 files are in this category, out of 2 total.
   
 
   [DasI
-  middleware.pdf](File:DasI_middleware.pdf "File:DasI middleware.pdf")  
+  middleware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/DasI_middleware.pdf "File:DasI middleware.pdf")  
   740 KB  
 
   

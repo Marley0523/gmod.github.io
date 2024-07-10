@@ -159,7 +159,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [AGA NGS 2009.pdf](File:AGA_NGS_2009.pdf "File:AGA NGS 2009.pdf")  
+  [AGA NGS 2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/AGA_NGS_2009.pdf "File:AGA NGS 2009.pdf")  
   17.08 MB  
 
   
@@ -182,7 +182,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Aug2009GBrowse2ImplPer...](File:Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
+  [Aug2009GBrowse2ImplPer...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
   624 KB  
 
   
@@ -206,7 +206,7 @@ The following 5 files are in this category, out of 5 total.
   
 
   [GBrowse nextgen
-  poster...](File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")  
+  poster...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")  
   572 KB  
 
   
@@ -230,7 +230,7 @@ The following 5 files are in this category, out of 5 total.
   
 
   [OCCBio GBrowse
-  NGS.pdf](File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
+  NGS.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
   979 KB  
 
   
@@ -253,7 +253,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Jan2010GBrowseCancerGe...](File:Jan2010GBrowseCancerGenome.pdf "File:Jan2010GBrowseCancerGenome.pdf")  
+  [Jan2010GBrowseCancerGe...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf "File:Jan2010GBrowseCancerGenome.pdf")  
   296 KB  
 
   

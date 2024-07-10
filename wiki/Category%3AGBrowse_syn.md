@@ -134,7 +134,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Aug2009GBrowse
-  syn.pdf](File:Aug2009GBrowse_syn.pdf "File:Aug2009GBrowse syn.pdf")  
+  syn.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Aug2009GBrowse_syn.pdf "File:Aug2009GBrowse syn.pdf")  
   2.91 MB  
 
   
@@ -158,7 +158,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Cain GI
-  poster.pdf](File:Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
+  poster.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
   522 KB  
 
   
@@ -182,7 +182,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [GBrowse syn
-  logo.png](File:GBrowse_syn_logo.png "File:GBrowse syn logo.png")  
+  logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/GBrowse_syn_logo.png "File:GBrowse syn logo.png")  
   113 KB  
 
   
@@ -205,7 +205,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Gbrowse syn.pdf](File:Gbrowse_syn.pdf "File:Gbrowse syn.pdf")  
+  [Gbrowse syn.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf "File:Gbrowse syn.pdf")  
   2.05 MB  
 
   
@@ -229,7 +229,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [GBrowse
-  synSMBE2009.pdf](File:GBrowse_synSMBE2009.pdf "File:GBrowse synSMBE2009.pdf")  
+  synSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf "File:GBrowse synSMBE2009.pdf")  
   5 MB  
 
   
@@ -252,7 +252,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GBS PAG10.pdf](File:GBS_PAG10.pdf "File:GBS PAG10.pdf")  
+  [GBS PAG10.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/GBS_PAG10.pdf "File:GBS PAG10.pdf")  
   5.01 MB  
 
   
@@ -276,7 +276,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GMODToolsForComparativ...](File:GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
+  [GMODToolsForComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
   714 KB  
 
   
@@ -299,7 +299,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [WGA data.png](File:WGA_data.png "File:WGA data.png")  
+  [WGA data.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/WGA_data.png "File:WGA data.png")  
   86 KB  
 
   
@@ -323,7 +323,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [ISyIPGMODforComparativ...](File:ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
+  [ISyIPGMODforComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
   14.44 MB  
 
   

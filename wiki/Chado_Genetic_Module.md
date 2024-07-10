@@ -46,7 +46,7 @@
 # <span id="Introduction" class="mw-headline">Introduction</span>
 
 See Dave Emmert's presentation [The new and improved chado genetics
-module](File:Emmert_040526.pdf "File:Emmert 040526.pdf") for
+module](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Emmert_040526.pdf "File:Emmert 040526.pdf") for
 explanations of parts of this module.
 
 > **This page or section needs to be edited.**

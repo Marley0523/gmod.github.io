@@ -60,7 +60,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [Gramene
-  logo180.jpg](File:Gramene_logo180.jpg "File:Gramene logo180.jpg")  
+  logo180.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Gramene_logo180.jpg "File:Gramene logo180.jpg")  
   10 KB  
 
   
@@ -83,7 +83,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Gramene-cmap-pag-poste...](File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")  
+  [Gramene-cmap-pag-poste...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")  
   505 KB  
 
   
@@ -106,7 +106,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [GrameneMainPageIcon.jpg](File:GrameneMainPageIcon.jpg "File:GrameneMainPageIcon.jpg")  
+  [GrameneMainPageIcon.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/GrameneMainPageIcon.jpg "File:GrameneMainPageIcon.jpg")  
   2 KB  
 
   

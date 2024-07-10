@@ -59,7 +59,7 @@ getting_started_preamble = \| req =
   class="external text" rel="nofollow">Loading Chado Using XORT and
   Chado-XML</a>
 - [File:XORTSpecification
-  0.pdf](../File:XORTSpecification_0.pdf "File:XORTSpecification 0.pdf")
+  0.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/XORTSpecification_0.pdf "File:XORTSpecification 0.pdf")
 
 \| papers = \| presentations =
 

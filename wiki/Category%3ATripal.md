@@ -127,7 +127,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Cugi logo6.5.jpg](File:Cugi_logo6.5.jpg "File:Cugi logo6.5.jpg")  
+  [Cugi logo6.5.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Cugi_logo6.5.jpg "File:Cugi logo6.5.jpg")  
   85 KB  
 
   
@@ -150,7 +150,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [CUGILogoHomePage.png](File:CUGILogoHomePage.png "File:CUGILogoHomePage.png")  
+  [CUGILogoHomePage.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/01/CUGILogoHomePage.png "File:CUGILogoHomePage.png")  
   11 KB  
 
   
@@ -173,7 +173,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [PAG2010GDRinDrupal.pdf](File:PAG2010GDRinDrupal.pdf "File:PAG2010GDRinDrupal.pdf")  
+  [PAG2010GDRinDrupal.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/PAG2010GDRinDrupal.pdf "File:PAG2010GDRinDrupal.pdf")  
   2.2 MB  
 
   
@@ -196,7 +196,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [TripalLogo.jpg](File:TripalLogo.jpg "File:TripalLogo.jpg")  
+  [TripalLogo.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/TripalLogo.jpg "File:TripalLogo.jpg")  
   30 KB  
 
   
@@ -219,7 +219,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [TripalLogo.png](File:TripalLogo.png "File:TripalLogo.png")  
+  [TripalLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/TripalLogo.png "File:TripalLogo.png")  
   14 KB  
 
   
@@ -242,7 +242,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [TripalUsersGuideJan201...](File:TripalUsersGuideJan2010.pdf "File:TripalUsersGuideJan2010.pdf")  
+  [TripalUsersGuideJan201...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/TripalUsersGuideJan2010.pdf "File:TripalUsersGuideJan2010.pdf")  
   1.44 MB  
 
   
@@ -265,7 +265,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [TripalUsersGuideJune20...](File:TripalUsersGuideJune2009.pdf "File:TripalUsersGuideJune2009.pdf")  
+  [TripalUsersGuideJune20...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/00/TripalUsersGuideJune2009.pdf "File:TripalUsersGuideJune2009.pdf")  
   1.4 MB  
 
   
@@ -289,7 +289,7 @@ The following 8 files are in this category, out of 8 total.
   
 
   [PeanutBase PAG2015
-  Pos...](File:PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
+  Pos...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
   3.35 MB  
 
   

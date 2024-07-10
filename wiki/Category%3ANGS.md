@@ -67,7 +67,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [GalaxyNGSISMB2010.pdf](File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf")  
+  [GalaxyNGSISMB2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf")  
   159 KB  
 
   
@@ -90,7 +90,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [NGSTranscriptomeISGAEr...](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf")  
+  [NGSTranscriptomeISGAEr...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf")  
   2.8 MB  
 
   

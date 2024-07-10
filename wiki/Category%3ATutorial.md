@@ -107,7 +107,7 @@ This category contains only the following file.
   
 
   [JBrowse PAG
-  2017.pdf](File:JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
+  2017.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
   2.4 MB  
 
   

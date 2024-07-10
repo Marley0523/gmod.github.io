@@ -64,7 +64,7 @@ This category contains only the following file.
 
   
 
-  [Gb-2007-8-6-r112.pdf](File:Gb-2007-8-6-r112.pdf "File:Gb-2007-8-6-r112.pdf")  
+  [Gb-2007-8-6-r112.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Gb-2007-8-6-r112.pdf "File:Gb-2007-8-6-r112.pdf")  
   583 KB  
 
   

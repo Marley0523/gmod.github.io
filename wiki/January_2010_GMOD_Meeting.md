@@ -133,7 +133,7 @@ and data mining tools.
 class="internal" title="Jan2010StateOfGMOD.pdf">PDF</a> |
 | 11:00 | Report from the [Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%253AClements "User%253AClements") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010HelpDesk.ppt"
-class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010HelpDesk.pdf "File:Jan2010HelpDesk.pdf") |
+class="external text" rel="nofollow">PPT</a>, [PDF](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/Jan2010HelpDesk.pdf "File:Jan2010HelpDesk.pdf") |
 | 11:30 | Brief status updates: [Satellite Meetings](#Satellite_Meetings) |  |  |
 |  | [GMOD REST Hackathon](GMOD_REST_Hackathon "GMOD REST Hackathon") | [Josh Goodman](User%253AJogoodma "User%253AJogoodma") | [GMOD RPC API](GMOD_RPC_API "GMOD RPC API") |
 |  | <a href="http://www.bioperl.org/wiki/GMOD_2010_Meeting" class="extiw"
@@ -173,7 +173,7 @@ class="internal" title="Jan2010Testpresso.ppt">PPT</a>, <a href="https://raw.git
 class="internal" title="Jan2010Testpresso.pdf">PDF</a> |
 | 9:30 | [TableEdit](TableEdit.1 "TableEdit") | [Daniel Renfro](User%253ADanielRenfro "User%253ADanielRenfro"), [Jim Hu](User%253AJimHu.1 "User%253AJimHu") | <a
 href="ftp://ftp.gmod.org/pub/gmod/Meetings/2010/GMODJanuary/Jan2010TableEdit.ppt"
-class="external text" rel="nofollow">PPT</a>, [PDF](File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") |
+class="external text" rel="nofollow">PPT</a>, [PDF](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf") |
 | 10:00 | Adventures in NOSQL | Brian O'Connor, <a href="http://seqware.sf.net" class="external text"
 rel="nofollow">SeqWare</a> | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/20100114_GMOD_Dev_Meeting_v2.odp"
 class="internal" title="20100114 GMOD Dev Meeting v2.odp">ODP</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/20100114_GMOD_Dev_Meeting_v2.pdf"
@@ -194,7 +194,7 @@ class="external text" rel="nofollow">ZIP</a> |
 class="internal" title="Jan2010ErgatisForBiologists.ppt">PPT</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf"
 class="internal" title="Jan2010ErgatisForBiologists.pdf">PDF</a> |
 | 1:45 | Open Mic/Show and Tell |  |  |
-|  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | [PDF](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
+|  | [JBrowse](JBrowse.1 "JBrowse") | [Mitch Skinner](User%253AMitchSkinner "User%253AMitchSkinner") | [PDF](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf") |
 |  | Openings at [SGD](Category%253ASGD "Category%253ASGD") | Ben Hitz |  |
 |  | RediscoveryDB: Connecting High-Throughput Data with Testable Hypotheses | Dawei Lin | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Jan2010RediscoveryDB.pdf"
 class="internal" title="Jan2010RediscoveryDB.pdf">PDF</a> |
@@ -213,7 +213,7 @@ title="Flybase topoview.pdf">PDF</a> |
 rel="nofollow">HTML</a>, <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/Jan2010InterMine.pdf" class="internal"
 title="Jan2010InterMine.pdf">PDF</a>, |
 |  | A Couple of UI Prototypes | Jonathan Crabtree | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4d/Jan2010UIPrototypes.odp"
-class="internal" title="Jan2010UIPrototypes.odp">OpenOffice</a>, [PDF](File:Jan2010UIPrototypes.pdf "File:Jan2010UIPrototypes.pdf") |
+class="internal" title="Jan2010UIPrototypes.odp">OpenOffice</a>, [PDF](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/Jan2010UIPrototypes.pdf "File:Jan2010UIPrototypes.pdf") |
 |  | <a href="http://webgbrowse.cgb.indiana.edu/" class="external text"
 rel="nofollow">WebGBrowse</a> | Ram Podicheti |  |
 | 5:30 | **Finish** |  |  |

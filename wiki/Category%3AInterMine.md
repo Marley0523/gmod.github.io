@@ -107,7 +107,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [BovineMine
-  PAG2015.pdf](File:BovineMine_PAG2015.pdf "File:BovineMine PAG2015.pdf")  
+  PAG2015.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/BovineMine_PAG2015.pdf "File:BovineMine PAG2015.pdf")  
   3.77 MB  
 
   
@@ -131,7 +131,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [InterMine
-  middleware.pdf](File:InterMine_middleware.pdf "File:InterMine middleware.pdf")  
+  middleware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/InterMine_middleware.pdf "File:InterMine middleware.pdf")  
   5 MB  
 
   
@@ -154,7 +154,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [IntermineGMOD2008.pdf](File:IntermineGMOD2008.pdf "File:IntermineGMOD2008.pdf")  
+  [IntermineGMOD2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/IntermineGMOD2008.pdf "File:IntermineGMOD2008.pdf")  
   940 KB  
 
   
@@ -177,7 +177,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [InterMineLogo.png](File:InterMineLogo.png "File:InterMineLogo.png")  
+  [InterMineLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/13/InterMineLogo.png "File:InterMineLogo.png")  
   4 KB  
 
   
@@ -200,7 +200,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Jan2010InterMine.pdf](File:Jan2010InterMine.pdf "File:Jan2010InterMine.pdf")  
+  [Jan2010InterMine.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/Jan2010InterMine.pdf "File:Jan2010InterMine.pdf")  
   495 KB  
 
   
@@ -223,7 +223,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [MetabolicMineLogoWide.png](File:MetabolicMineLogoWide.png "File:MetabolicMineLogoWide.png")  
+  [MetabolicMineLogoWide.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/MetabolicMineLogoWide.png "File:MetabolicMineLogoWide.png")  
   44 KB  
 
   
@@ -247,7 +247,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [MohellibiGrapevine
-  PAG...](File:MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
+  PAG...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
   3.15 MB  
 
   
@@ -271,7 +271,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Wheat3bMineDemo
-  PAG201...](File:Wheat3bMineDemo_PAG2015.pdf "File:Wheat3bMineDemo PAG2015.pdf")  
+  PAG201...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9f/Wheat3bMineDemo_PAG2015.pdf "File:Wheat3bMineDemo PAG2015.pdf")  
   472 KB  
 
   
@@ -295,7 +295,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Wheat3bMinePoster
-  PAG2...](File:Wheat3bMinePoster_PAG2015.pdf "File:Wheat3bMinePoster PAG2015.pdf")  
+  PAG2...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/Wheat3bMinePoster_PAG2015.pdf "File:Wheat3bMinePoster PAG2015.pdf")  
   894 KB  
 
   

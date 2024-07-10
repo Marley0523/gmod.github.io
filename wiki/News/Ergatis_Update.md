@@ -53,7 +53,7 @@ class="external text" rel="nofollow">Data Intensive Academic Grid
 one of its access methods. At the [January 2010 GMOD
 Meeting](../January_2010_GMOD_Meeting "January 2010 GMOD Meeting") Chris
 Hemmerich [presented
-ISGA](../File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
+ISGA](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
 which provides a customized, abstract interface to Ergatis designed for
 biologists with specific pipeline needs.
 

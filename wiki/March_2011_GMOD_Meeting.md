@@ -443,7 +443,7 @@ rel="nofollow">NESCent</a> |
 <td data-valign="top">Help spread the word about <a
 href="GMOD_Americas_2011" title="GMOD Americas 2011">GMOD Americas
 2011</a> events by posting and distributing <a
-href="File:GMODAmericas2011Flier.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/GMODAmericas2011Flier.pdf"
 title="File:GMODAmericas2011Flier.pdf">this flier</a>, or the <a
 href="News/March_2011_GMOD_Meeting"
 title="News/March 2011 GMOD Meeting">event announcements</a> to your

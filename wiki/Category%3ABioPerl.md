@@ -99,7 +99,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [04-Stajich NESCENT
-  GMO...](File:04-Stajich_NESCENT_GMOD.pdf "File:04-Stajich NESCENT GMOD.pdf")  
+  GMO...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf "File:04-Stajich NESCENT GMOD.pdf")  
   1.66 MB  
 
   
@@ -122,7 +122,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [BioPerl logo.jpg](File:BioPerl_logo.jpg "File:BioPerl logo.jpg")  
+  [BioPerl logo.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5d/BioPerl_logo.jpg "File:BioPerl logo.jpg")  
   3 KB  
 
   
@@ -146,7 +146,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [Stajich GMOD
-  2006-06-3...](File:Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
+  2006-06-3...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
   2.36 MB  
 
   

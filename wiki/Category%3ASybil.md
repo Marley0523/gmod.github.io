@@ -59,7 +59,7 @@ The following 2 files are in this category, out of 2 total.
   
 
   [Cain GI
-  poster.pdf](File:Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
+  poster.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
   522 KB  
 
   
@@ -83,7 +83,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [GMODToolsForComparativ...](File:GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
+  [GMODToolsForComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
   714 KB  
 
   
