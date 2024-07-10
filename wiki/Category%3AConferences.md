@@ -107,7 +107,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GMODatISMB2010.pdf](File:GMODatISMB2010.pdf "File:GMODatISMB2010.pdf")  
+  [GMODatISMB2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cd/GMODatISMB2010.pdf "File:GMODatISMB2010.pdf")  
   358 KB  
 
   
@@ -130,7 +130,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [AGS2011Brochure.pdf](File:AGS2011Brochure.pdf "File:AGS2011Brochure.pdf")  
+  [AGS2011Brochure.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/AGS2011Brochure.pdf "File:AGS2011Brochure.pdf")  
   1.02 MB  
 
   
@@ -153,7 +153,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [Biocuration2010Logo.png](File:Biocuration2010Logo.png "File:Biocuration2010Logo.png")  
+  [Biocuration2010Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ee/Biocuration2010Logo.png "File:Biocuration2010Logo.png")  
   61 KB  
 
   
@@ -176,7 +176,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GCC2011Logo.png](File:GCC2011Logo.png "File:GCC2011Logo.png")  
+  [GCC2011Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/GCC2011Logo.png "File:GCC2011Logo.png")  
   797 KB  
 
   
@@ -199,7 +199,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GCC2011LogoShort.png](File:GCC2011LogoShort.png "File:GCC2011LogoShort.png")  
+  [GCC2011LogoShort.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/GCC2011LogoShort.png "File:GCC2011LogoShort.png")  
   544 KB  
 
   
@@ -222,7 +222,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GMODatAGS2008.pdf](File:GMODatAGS2008.pdf "File:GMODatAGS2008.pdf")  
+  [GMODatAGS2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/GMODatAGS2008.pdf "File:GMODatAGS2008.pdf")  
   351 KB  
 
   
@@ -245,7 +245,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GMODatISMB2008.pdf](File:GMODatISMB2008.pdf "File:GMODatISMB2008.pdf")  
+  [GMODatISMB2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/GMODatISMB2008.pdf "File:GMODatISMB2008.pdf")  
   97 KB  
 
   
@@ -268,7 +268,7 @@ The following 10 files are in this category, out of 10 total.
 
   
 
-  [GMODatPAG2011.pdf](File:GMODatPAG2011.pdf "File:GMODatPAG2011.pdf")  
+  [GMODatPAG2011.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/GMODatPAG2011.pdf "File:GMODatPAG2011.pdf")  
   140 KB  
 
   
@@ -292,7 +292,7 @@ The following 10 files are in this category, out of 10 total.
   
 
   [JBrowse PAG
-  2017.pdf](File:JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
+  2017.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
   2.4 MB  
 
   
@@ -316,7 +316,7 @@ The following 10 files are in this category, out of 10 total.
   
 
   [JBrowse PAG
-  2018.pdf](File:JBrowse_PAG_2018.pdf "File:JBrowse PAG 2018.pdf")  
+  2018.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/11/JBrowse_PAG_2018.pdf "File:JBrowse PAG 2018.pdf")  
   725 KB  
 
   

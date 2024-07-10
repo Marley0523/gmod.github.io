@@ -451,10 +451,10 @@ rel="nofollow">register</a> and arrive early.
 
 | Workshop Slides |
 |----|
-| [An Introduction to Galaxy](File:GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf") |
-| [Using Galaxy for High-throughput Sequencing (HTS) Analysis and Visualization](File:GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf") |
-| [Running and Enhancing your own Galaxy](File:GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf") |
-| [Second Half: Running Your Own Instance](File:GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf") |
+| [An Introduction to Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf") |
+| [Using Galaxy for High-throughput Sequencing (HTS) Analysis and Visualization](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf") |
+| [Running and Enhancing your own Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf") |
+| [Second Half: Running Your Own Instance](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf") |
 
 ### <span id="InterMine_Development_Meeting" class="mw-headline">[InterMine](InterMine "InterMine") Development Meeting</span>
 

@@ -161,7 +161,7 @@ rel="nofollow">Slides</a> |
 | 1:30 | [Tripal](Tripal.1 "Tripal") Update | Lacey-Anne Sanderson |  |
 | 2:30 | Coffee |  |  |
 | 2:45 | [Galaxy](Galaxy.1 "Galaxy") Update | [Dave Clements](User%253AClements "User%253AClements"), <a href="https://github.com/bgruening" class="external text"
-rel="nofollow">Bjöern Grüning</a> | [Slides](File:GMOD2016_Galaxy.pdf "File:GMOD2016 Galaxy.pdf") |
+rel="nofollow">Bjöern Grüning</a> | [Slides](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GMOD2016_Galaxy.pdf "File:GMOD2016 Galaxy.pdf") |
 | 3:15 | EvidentialGene project at <a href="http://eugenes.org/EvidentialGene/" class="external free"
 rel="nofollow">http://eugenes.org/EvidentialGene/</a> | Don Gilbert | <a
 href="http://arthropods.eugenes.org/EvidentialGene/about/evigenegmod1606iu.pdf"
@@ -173,7 +173,7 @@ class="external text" rel="nofollow">Slides</a> |
 | Time | Topic | Presenter(s) | Presentation |
 |----|----|----|----|
 | 08:50 | Pre-meeting continental breakfast |  |  |
-| 09:15 | Tripal Expression module and search | Meg Staton | [Slides](File:GMOD_Staton.pdf "File:GMOD Staton.pdf") |
+| 09:15 | Tripal Expression module and search | Meg Staton | [Slides](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/GMOD_Staton.pdf "File:GMOD Staton.pdf") |
 | 09:45 | Lightning talks, including Asela Dassanayake, Eric Rasche and Thoba Lose |  | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/15/GMOD_Asela.pdf" class="internal"
 title="GMOD Asela.pdf">Asela/LanzaTech</a> |
 | 11:30 | Lunch (on your own) |  |  |

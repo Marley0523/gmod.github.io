@@ -100,7 +100,7 @@ The following 4 files are in this category, out of 4 total.
   
 
   [How to load chado to
-  b...](File:How_to_load_chado_to_biomart.pdf "File:How to load chado to biomart.pdf")  
+  b...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/How_to_load_chado_to_biomart.pdf "File:How to load chado to biomart.pdf")  
   767 KB  
 
   
@@ -123,7 +123,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Jan2009BioMart.pdf](File:Jan2009BioMart.pdf "File:Jan2009BioMart.pdf")  
+  [Jan2009BioMart.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Jan2009BioMart.pdf "File:Jan2009BioMart.pdf")  
   3.42 MB  
 
   
@@ -147,7 +147,7 @@ The following 4 files are in this category, out of 4 total.
   
 
   [Kasprzyk
-  040526.ppt](File:Kasprzyk_040526.ppt "File:Kasprzyk 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Kasprzyk_040526.ppt "File:Kasprzyk 040526.ppt")  
   781 KB  
 
   
@@ -170,7 +170,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Kasprzyk-050516.ppt](File:Kasprzyk-050516.ppt "File:Kasprzyk-050516.ppt")  
+  [Kasprzyk-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/Kasprzyk-050516.ppt "File:Kasprzyk-050516.ppt")  
   1.48 MB  
 
   

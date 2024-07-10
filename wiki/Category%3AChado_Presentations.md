@@ -52,7 +52,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [02-chado-for-nescent-2...](File:02-chado-for-nescent-2006.pdf "File:02-chado-for-nescent-2006.pdf")  
+  [02-chado-for-nescent-2...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf "File:02-chado-for-nescent-2006.pdf")  
   1.02 MB  
 
   
@@ -76,7 +76,7 @@ The following 23 files are in this category, out of 23 total.
   
 
   [05-chado
-  overview.pdf](File:05-chado_overview.pdf "File:05-chado overview.pdf")  
+  overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/05-chado_overview.pdf "File:05-chado overview.pdf")  
   953 KB  
 
   
@@ -101,7 +101,7 @@ The following 23 files are in this category, out of 23 total.
   
 
   [2009 GMOD Meeting
-  Dhil...](File:2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf "File:2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf")  
+  Dhil...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/2009_GMOD_Meeting_Dhileep_Sivam_and_Isabelle_Phan.pdf "File:2009 GMOD Meeting Dhileep Sivam and Isabelle Phan.pdf")  
   2.74 MB  
 
   
@@ -124,7 +124,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Aug2009Gobol.pdf](File:Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
+  [Aug2009Gobol.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
   292 KB  
 
   
@@ -147,7 +147,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Aug2009LinkedData.pdf](File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
+  [Aug2009LinkedData.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
   829 KB  
 
   
@@ -170,7 +170,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [AutoDBI.pdf](File:AutoDBI.pdf "File:AutoDBI.pdf")  
+  [AutoDBI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/AutoDBI.pdf "File:AutoDBI.pdf")  
   288 KB  
 
   
@@ -193,7 +193,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Chado pub.ppt](File:Chado_pub.ppt "File:Chado pub.ppt")  
+  [Chado pub.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Chado_pub.ppt "File:Chado pub.ppt")  
   45 KB  
 
   
@@ -216,7 +216,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Chado-and-XML.pdf](File:Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
+  [Chado-and-XML.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
   262 KB  
 
   
@@ -239,7 +239,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Chado-ncibi-2006.ppt](File:Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt")  
+  [Chado-ncibi-2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt")  
   1.42 MB  
 
   
@@ -262,7 +262,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [ChadoController.ppt](File:ChadoController.ppt "File:ChadoController.ppt")  
+  [ChadoController.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/ChadoController.ppt "File:ChadoController.ppt")  
   306 KB  
 
   
@@ -285,7 +285,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [ChadoCSHMay03Slides.pdf](File:ChadoCSHMay03Slides.pdf "File:ChadoCSHMay03Slides.pdf")  
+  [ChadoCSHMay03Slides.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/ChadoCSHMay03Slides.pdf "File:ChadoCSHMay03Slides.pdf")  
   1.3 MB  
 
   
@@ -308,7 +308,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [ChadoModules.ppt](File:ChadoModules.ppt "File:ChadoModules.ppt")  
+  [ChadoModules.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/ChadoModules.ppt "File:ChadoModules.ppt")  
   60 KB  
 
   
@@ -331,7 +331,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [ChadoWorkshopArthopod2...](File:ChadoWorkshopArthopod2008.pdf "File:ChadoWorkshopArthopod2008.pdf")  
+  [ChadoWorkshopArthopod2...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf "File:ChadoWorkshopArthopod2008.pdf")  
   6.51 MB  
 
   
@@ -354,7 +354,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [CSH Chado.ppt](File:CSH_Chado.ppt "File:CSH Chado.ppt")  
+  [CSH Chado.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/46/CSH_Chado.ppt "File:CSH Chado.ppt")  
   607 KB  
 
   
@@ -377,7 +377,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Faga 050517.pdf](File:Faga_050517.pdf "File:Faga 050517.pdf")  
+  [Faga 050517.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/Faga_050517.pdf "File:Faga 050517.pdf")  
   275 KB  
 
   
@@ -400,7 +400,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [HibernateChadoAPI.pdf](File:HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
+  [HibernateChadoAPI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
   92 KB  
 
   
@@ -423,7 +423,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Jan2009ArtemisChadoGen...](File:Jan2009ArtemisChadoGeneDB.pdf "File:Jan2009ArtemisChadoGeneDB.pdf")  
+  [Jan2009ArtemisChadoGen...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf "File:Jan2009ArtemisChadoGeneDB.pdf")  
   52 KB  
 
   
@@ -446,7 +446,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Jan2009MarineGenomics.pdf](File:Jan2009MarineGenomics.pdf "File:Jan2009MarineGenomics.pdf")  
+  [Jan2009MarineGenomics.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Jan2009MarineGenomics.pdf "File:Jan2009MarineGenomics.pdf")  
   7.39 MB  
 
   
@@ -469,7 +469,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Just-050516.ppt](File:Just-050516.ppt "File:Just-050516.ppt")  
+  [Just-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Just-050516.ppt "File:Just-050516.ppt")  
   218 KB  
 
   
@@ -492,7 +492,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Mcmillan.pdf](File:Mcmillan.pdf "File:Mcmillan.pdf")  
+  [Mcmillan.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/Mcmillan.pdf "File:Mcmillan.pdf")  
   6.38 MB  
 
   
@@ -515,7 +515,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [PAG2010GDRinDrupal.pdf](File:PAG2010GDRinDrupal.pdf "File:PAG2010GDRinDrupal.pdf")  
+  [PAG2010GDRinDrupal.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/PAG2010GDRinDrupal.pdf "File:PAG2010GDRinDrupal.pdf")  
   2.2 MB  
 
   
@@ -538,7 +538,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Zhang-050517.ppt](File:Zhang-050517.ppt "File:Zhang-050517.ppt")  
+  [Zhang-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/Zhang-050517.ppt "File:Zhang-050517.ppt")  
   745 KB  
 
   
@@ -561,7 +561,7 @@ The following 23 files are in this category, out of 23 total.
 
   
 
-  [Jan2010RubyOnRailsAndC...](File:Jan2010RubyOnRailsAndChado.pdf "File:Jan2010RubyOnRailsAndChado.pdf")  
+  [Jan2010RubyOnRailsAndC...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2010RubyOnRailsAndChado.pdf "File:Jan2010RubyOnRailsAndChado.pdf")  
   551 KB  
 
   

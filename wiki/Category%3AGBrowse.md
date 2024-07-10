@@ -292,7 +292,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [ChoosingAGenomeBrowser...](File:ChoosingAGenomeBrowser.pdf "File:ChoosingAGenomeBrowser.pdf")  
+  [ChoosingAGenomeBrowser...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/ChoosingAGenomeBrowser.pdf "File:ChoosingAGenomeBrowser.pdf")  
   103 KB  
 
   
@@ -315,7 +315,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [CosmicGBrowseSept2010.pdf](File:CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")  
+  [CosmicGBrowseSept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")  
   800 KB  
 
   
@@ -338,7 +338,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [1599-1.pdf](File:1599-1.pdf "File:1599-1.pdf")  
+  [1599-1.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/1599-1.pdf "File:1599-1.pdf")  
   881 KB  
 
   
@@ -361,7 +361,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [Aug2009GBrowse2ImplPer...](File:Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
+  [Aug2009GBrowse2ImplPer...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
   624 KB  
 
   
@@ -384,7 +384,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [Aug2009GBrowseOrg.pdf](File:Aug2009GBrowseOrg.pdf "File:Aug2009GBrowseOrg.pdf")  
+  [Aug2009GBrowseOrg.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/Aug2009GBrowseOrg.pdf "File:Aug2009GBrowseOrg.pdf")  
   9.25 MB  
 
   
@@ -407,7 +407,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [CMapGBrowseSMBE2009.pdf](File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
+  [CMapGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
   2.51 MB  
 
   
@@ -430,7 +430,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [CpGIslandAnnotator.pm](File:CpGIslandAnnotator.pm "File:CpGIslandAnnotator.pm")  
+  [CpGIslandAnnotator.pm](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/ff/CpGIslandAnnotator.pm "File:CpGIslandAnnotator.pm")  
   4 KB  
 
   
@@ -454,7 +454,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [Flybase
-  topoview.pdf](File:Flybase_topoview.pdf "File:Flybase topoview.pdf")  
+  topoview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf "File:Flybase topoview.pdf")  
   102 KB  
 
   
@@ -478,7 +478,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [GBrowse 2.20
-  Poster.pdf](File:GBrowse_2.20_Poster.pdf "File:GBrowse 2.20 Poster.pdf")  
+  Poster.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/37/GBrowse_2.20_Poster.pdf "File:GBrowse 2.20 Poster.pdf")  
   549 KB  
 
   
@@ -502,7 +502,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [Gbrowse Color
-  Palette.pdf](File:Gbrowse_Color_Palette.pdf "File:Gbrowse Color Palette.pdf")  
+  Palette.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ae/Gbrowse_Color_Palette.pdf "File:Gbrowse Color Palette.pdf")  
   54 KB  
 
   
@@ -526,7 +526,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [GBrowse nextgen
-  poster...](File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")  
+  poster...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")  
   572 KB  
 
   
@@ -550,7 +550,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [Gbrowse update may
-  200...](File:Gbrowse_update_may_2003.ppt "File:Gbrowse update may 2003.ppt")  
+  200...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Gbrowse_update_may_2003.ppt "File:Gbrowse update may 2003.ppt")  
   1.05 MB  
 
   
@@ -574,7 +574,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [Gbrowse update sept
-  12...](File:Gbrowse_update_sept_12_2003.ppt "File:Gbrowse update sept 12 2003.ppt")  
+  12...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Gbrowse_update_sept_12_2003.ppt "File:Gbrowse update sept 12 2003.ppt")  
   376 KB  
 
   
@@ -597,7 +597,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [Gbrowse-050516.ppt](File:Gbrowse-050516.ppt "File:Gbrowse-050516.ppt")  
+  [Gbrowse-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/Gbrowse-050516.ppt "File:Gbrowse-050516.ppt")  
   1.07 MB  
 
   
@@ -620,7 +620,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [GBrowseLogo.png](File:GBrowseLogo.png "File:GBrowseLogo.png")  
+  [GBrowseLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/GBrowseLogo.png "File:GBrowseLogo.png")  
   56 KB  
 
   
@@ -643,7 +643,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [GMODGBrowseSMBE2009.pdf](File:GMODGBrowseSMBE2009.pdf "File:GMODGBrowseSMBE2009.pdf")  
+  [GMODGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODGBrowseSMBE2009.pdf "File:GMODGBrowseSMBE2009.pdf")  
   18.41 MB  
 
   
@@ -666,7 +666,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [Jan2009WebBrowse.pdf](File:Jan2009WebBrowse.pdf "File:Jan2009WebBrowse.pdf")  
+  [Jan2009WebBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Jan2009WebBrowse.pdf "File:Jan2009WebBrowse.pdf")  
   2.89 MB  
 
   
@@ -689,7 +689,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [NGSWithGMODWorkshop.pdf](File:NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf")  
+  [NGSWithGMODWorkshop.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf")  
   11.08 MB  
 
   
@@ -713,7 +713,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [OCCBio GBrowse
-  NGS.pdf](File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
+  NGS.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
   979 KB  
 
   
@@ -736,7 +736,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [STRAnnotator.pm](File:STRAnnotator.pm "File:STRAnnotator.pm")  
+  [STRAnnotator.pm](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cc/STRAnnotator.pm "File:STRAnnotator.pm")  
   4 KB  
 
   
@@ -759,7 +759,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [ISGAWebGBrowseSept2010...](File:ISGAWebGBrowseSept2010.pdf "File:ISGAWebGBrowseSept2010.pdf")  
+  [ISGAWebGBrowseSept2010...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf "File:ISGAWebGBrowseSept2010.pdf")  
   4.16 MB  
 
   
@@ -782,7 +782,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [MaizeGDBGBrowseISMB201...](File:MaizeGDBGBrowseISMB2010.pdf "File:MaizeGDBGBrowseISMB2010.pdf")  
+  [MaizeGDBGBrowseISMB201...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/75/MaizeGDBGBrowseISMB2010.pdf "File:MaizeGDBGBrowseISMB2010.pdf")  
   2.52 MB  
 
   
@@ -806,7 +806,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [MohellibiGrapevine
-  PAG...](File:MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
+  PAG...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
   3.15 MB  
 
   
@@ -830,7 +830,7 @@ The following 25 files are in this category, out of 25 total.
   
 
   [PeanutBase PAG2015
-  Pos...](File:PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
+  Pos...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
   3.35 MB  
 
   
@@ -853,7 +853,7 @@ The following 25 files are in this category, out of 25 total.
 
   
 
-  [ZFNGenomeGBrowseISMB20...](File:ZFNGenomeGBrowseISMB2010.pdf "File:ZFNGenomeGBrowseISMB2010.pdf")  
+  [ZFNGenomeGBrowseISMB20...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/ZFNGenomeGBrowseISMB2010.pdf "File:ZFNGenomeGBrowseISMB2010.pdf")  
   324 KB  
 
   

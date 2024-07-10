@@ -308,7 +308,7 @@ rel="nofollow">ApiDB</a> uses
 rel="nofollow">Oracle</a> for its database needs, and
 <a href="http://www.dictybase.org" class="external text"
 rel="nofollow">dictyBase</a> uses [Oracle for Chado and
-GMODTools](File:Just-050516.ppt "File:Just-050516.ppt").
+GMODTools](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Just-050516.ppt "File:Just-050516.ppt").
 
 Work is being done on
 <a href="Ergatis" class="mw-redirect" title="Ergatis">Ergatis</a> to

@@ -61,7 +61,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Mgi logo.jpg](File:Mgi_logo.jpg "File:Mgi logo.jpg")  
+  [Mgi logo.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Mgi_logo.jpg "File:Mgi logo.jpg")  
   20 KB  
 
   
@@ -84,7 +84,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Mgi.ppt](File:Mgi.ppt "File:Mgi.ppt")  
+  [Mgi.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/Mgi.ppt "File:Mgi.ppt")  
   463 KB  
 
   
@@ -107,7 +107,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [MgiMainPageLogo.jpg](File:MgiMainPageLogo.jpg "File:MgiMainPageLogo.jpg")  
+  [MgiMainPageLogo.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/MgiMainPageLogo.jpg "File:MgiMainPageLogo.jpg")  
   6 KB  
 
   
@@ -130,7 +130,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Mod-face-07jan-MGI.pdf](File:Mod-face-07jan-MGI.pdf "File:Mod-face-07jan-MGI.pdf")  
+  [Mod-face-07jan-MGI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/Mod-face-07jan-MGI.pdf "File:Mod-face-07jan-MGI.pdf")  
   3.12 MB  
 
   

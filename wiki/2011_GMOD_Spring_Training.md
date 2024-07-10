@@ -396,14 +396,14 @@ participation in this event.
 
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GMODAmericas2011FlierThumb.png"
-width="131" height="170" alt="GMOD Americas 2011 Flier" />](File:GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
+width="131" height="170" alt="GMOD Americas 2011 Flier" />](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/GMODAmericas2011Flier.pdf "GMOD Americas 2011 Flier")
 
 
 
 Help spread the word about GMOD Spring Training and other [GMOD Americas
 2011](GMOD_Americas_2011 "GMOD Americas 2011") events by posting and
 distributing [this
-flier](File:GMODAmericas2011Flier.pdf "File:GMODAmericas2011Flier.pdf"),
+flier](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/GMODAmericas2011Flier.pdf "File:GMODAmericas2011Flier.pdf"),
 or the [event
 announcements](GMOD_News#GMOD_Spring_Training%253A_Apply_Now "GMOD News") to
 your communities, mailing lists, and organizations.

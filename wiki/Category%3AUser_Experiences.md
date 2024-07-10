@@ -99,7 +99,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [ChoosingAGenomeBrowser...](File:ChoosingAGenomeBrowser.pdf "File:ChoosingAGenomeBrowser.pdf")  
+  [ChoosingAGenomeBrowser...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/ChoosingAGenomeBrowser.pdf "File:ChoosingAGenomeBrowser.pdf")  
   103 KB  
 
   
@@ -122,7 +122,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Cain-050516.ppt](File:Cain-050516.ppt "File:Cain-050516.ppt")  
+  [Cain-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt "File:Cain-050516.ppt")  
   818 KB  
 
   
@@ -145,7 +145,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Gkl776.pdf](File:Gkl776.pdf "File:Gkl776.pdf")  
+  [Gkl776.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/Gkl776.pdf "File:Gkl776.pdf")  
   235 KB  
 
   
@@ -168,7 +168,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Gkl777.pdf](File:Gkl777.pdf "File:Gkl777.pdf")  
+  [Gkl777.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/Gkl777.pdf "File:Gkl777.pdf")  
   401 KB  
 
   
@@ -191,7 +191,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Just-050516.ppt](File:Just-050516.ppt "File:Just-050516.ppt")  
+  [Just-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Just-050516.ppt "File:Just-050516.ppt")  
   218 KB  
 
   
@@ -214,7 +214,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [MaizeGDBGBrowseISMB201...](File:MaizeGDBGBrowseISMB2010.pdf "File:MaizeGDBGBrowseISMB2010.pdf")  
+  [MaizeGDBGBrowseISMB201...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/75/MaizeGDBGBrowseISMB2010.pdf "File:MaizeGDBGBrowseISMB2010.pdf")  
   2.52 MB  
 
   

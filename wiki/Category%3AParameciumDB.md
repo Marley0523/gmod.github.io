@@ -63,7 +63,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Cain-050516.ppt](File:Cain-050516.ppt "File:Cain-050516.ppt")  
+  [Cain-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt "File:Cain-050516.ppt")  
   818 KB  
 
   
@@ -86,7 +86,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [CommunityAnnotationNov...](File:CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
+  [CommunityAnnotationNov...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
   2.86 MB  
 
   
@@ -109,7 +109,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Gkl777.pdf](File:Gkl777.pdf "File:Gkl777.pdf")  
+  [Gkl777.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/Gkl777.pdf "File:Gkl777.pdf")  
   401 KB  
 
   
@@ -132,7 +132,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [ParameciumDataModel.jpg](File:ParameciumDataModel.jpg "File:ParameciumDataModel.jpg")  
+  [ParameciumDataModel.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/ParameciumDataModel.jpg "File:ParameciumDataModel.jpg")  
   34 KB  
 
   
@@ -156,7 +156,7 @@ The following 8 files are in this category, out of 8 total.
   
 
   [ParameciumDB
-  synteny.pdf](File:ParameciumDB_synteny.pdf "File:ParameciumDB synteny.pdf")  
+  synteny.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/ParameciumDB_synteny.pdf "File:ParameciumDB synteny.pdf")  
   436 KB  
 
   
@@ -179,7 +179,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [ParameciumDBHomePage.png](File:ParameciumDBHomePage.png "File:ParameciumDBHomePage.png")  
+  [ParameciumDBHomePage.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/ParameciumDBHomePage.png "File:ParameciumDBHomePage.png")  
   68 KB  
 
   
@@ -202,7 +202,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [ParameciumDBIcon133x42...](File:ParameciumDBIcon133x42.png "File:ParameciumDBIcon133x42.png")  
+  [ParameciumDBIcon133x42...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/ParameciumDBIcon133x42.png "File:ParameciumDBIcon133x42.png")  
   25 KB  
 
   
@@ -225,7 +225,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [ParameciumDBLogo.png](File:ParameciumDBLogo.png "File:ParameciumDBLogo.png")  
+  [ParameciumDBLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/ParameciumDBLogo.png "File:ParameciumDBLogo.png")  
   11 KB  
 
   

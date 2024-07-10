@@ -291,7 +291,7 @@ The following 6 files are in this category, out of 6 total.
   
 
   [CRAWL
-  Sept2010.pdf](File:CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
   9.35 MB  
 
   
@@ -315,7 +315,7 @@ The following 6 files are in this category, out of 6 total.
   
 
   [How to load chado to
-  b...](File:How_to_load_chado_to_biomart.pdf "File:How to load chado to biomart.pdf")  
+  b...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/How_to_load_chado_to_biomart.pdf "File:How to load chado to biomart.pdf")  
   767 KB  
 
   
@@ -339,7 +339,7 @@ The following 6 files are in this category, out of 6 total.
   
 
   [A Chado Case
-  Study.pdf](File:A_Chado_Case_Study.pdf "File:A Chado Case Study.pdf")  
+  Study.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/A_Chado_Case_Study.pdf "File:A Chado Case Study.pdf")  
   304 KB  
 
   
@@ -362,7 +362,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Aug2009LinkedData.pdf](File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
+  [Aug2009LinkedData.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
   829 KB  
 
   
@@ -385,7 +385,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Chado-manual.pdf](File:Chado-manual.pdf "File:Chado-manual.pdf")  
+  [Chado-manual.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Chado-manual.pdf "File:Chado-manual.pdf")  
   345 KB  
 
   
@@ -408,7 +408,7 @@ The following 6 files are in this category, out of 6 total.
 
   
 
-  [Chado-XML-overview.pdf](File:Chado-XML-overview.pdf "File:Chado-XML-overview.pdf")  
+  [Chado-XML-overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Chado-XML-overview.pdf "File:Chado-XML-overview.pdf")  
   19 KB  
 
   

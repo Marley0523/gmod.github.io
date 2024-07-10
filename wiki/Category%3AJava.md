@@ -113,7 +113,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Aug2009Gobol.pdf](File:Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
+  [Aug2009Gobol.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
   292 KB  
 
   
@@ -136,7 +136,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [HibernateChadoAPI.pdf](File:HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
+  [HibernateChadoAPI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
   92 KB  
 
   
@@ -159,7 +159,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [IBatis.pdf](File:IBatis.pdf "File:IBatis.pdf")  
+  [IBatis.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/IBatis.pdf "File:IBatis.pdf")  
   6.59 MB  
 
   

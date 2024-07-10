@@ -66,7 +66,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [02-chado-for-nescent-2...](File:02-chado-for-nescent-2006.pdf "File:02-chado-for-nescent-2006.pdf")  
+  [02-chado-for-nescent-2...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf "File:02-chado-for-nescent-2006.pdf")  
   1.02 MB  
 
   
@@ -89,7 +89,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
+  [DictyBase-phenotypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
   
@@ -113,7 +113,7 @@ The following 5 files are in this category, out of 5 total.
   
 
   [GDPDM GMOD
-  presentatio...](File:GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt")  
+  presentatio...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt")  
   853 KB  
 
   
@@ -136,7 +136,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Lapp.pdf](File:Lapp.pdf "File:Lapp.pdf")  
+  [Lapp.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/Lapp.pdf "File:Lapp.pdf")  
   1.2 MB  
 
   
@@ -159,7 +159,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Mod-face-07jan-SGN.pdf](File:Mod-face-07jan-SGN.pdf "File:Mod-face-07jan-SGN.pdf")  
+  [Mod-face-07jan-SGN.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Mod-face-07jan-SGN.pdf "File:Mod-face-07jan-SGN.pdf")  
   2.17 MB  
 
   

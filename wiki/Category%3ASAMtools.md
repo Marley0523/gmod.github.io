@@ -50,7 +50,7 @@ This category contains only the following file.
   
 
   [OCCBio GBrowse
-  NGS.pdf](File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
+  NGS.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
   979 KB  
 
   

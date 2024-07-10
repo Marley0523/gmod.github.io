@@ -117,7 +117,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Gmod
-  cogTransparent.png](File:Gmod_cogTransparent.png "File:Gmod cogTransparent.png")  
+  cogTransparent.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/Gmod_cogTransparent.png "File:Gmod cogTransparent.png")  
   273 KB  
 
   
@@ -140,7 +140,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GMOD.orgMonthlyHitsCha...](File:GMOD.orgMonthlyHitsChart.png "File:GMOD.orgMonthlyHitsChart.png")  
+  [GMOD.orgMonthlyHitsCha...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/GMOD.orgMonthlyHitsChart.png "File:GMOD.orgMonthlyHitsChart.png")  
   15 KB  
 
   
@@ -163,7 +163,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [BoG2006.pdf](File:BoG2006.pdf "File:BoG2006.pdf")  
+  [BoG2006.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/BoG2006.pdf "File:BoG2006.pdf")  
   575 KB  
 
   
@@ -186,7 +186,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Day-050517.ppt](File:Day-050517.ppt "File:Day-050517.ppt")  
+  [Day-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Day-050517.ppt "File:Day-050517.ppt")  
   253 KB  
 
   
@@ -210,7 +210,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [GMOD
-  Architecture.ppt](File:GMOD_Architecture.ppt "File:GMOD Architecture.ppt")  
+  Architecture.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/GMOD_Architecture.ppt "File:GMOD Architecture.ppt")  
   116 KB  
 
   
@@ -233,7 +233,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GMOD.orgMonthlyPageVie...](File:GMOD.orgMonthlyPageViewsChart.png "File:GMOD.orgMonthlyPageViewsChart.png")  
+  [GMOD.orgMonthlyPageVie...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/GMOD.orgMonthlyPageViewsChart.png "File:GMOD.orgMonthlyPageViewsChart.png")  
   16 KB  
 
   
@@ -256,7 +256,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GMOD.orgMonthlyVisitor...](File:GMOD.orgMonthlyVisitorsChart.png "File:GMOD.orgMonthlyVisitorsChart.png")  
+  [GMOD.orgMonthlyVisitor...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/GMOD.orgMonthlyVisitorsChart.png "File:GMOD.orgMonthlyVisitorsChart.png")  
   18 KB  
 
   
@@ -279,7 +279,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [GMODTrifoldBrochure200...](File:GMODTrifoldBrochure2009.ppt "File:GMODTrifoldBrochure2009.ppt")  
+  [GMODTrifoldBrochure200...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/GMODTrifoldBrochure2009.ppt "File:GMODTrifoldBrochure2009.ppt")  
   2.72 MB  
 
   
@@ -302,7 +302,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [TShirtThumb.jpg](File:TShirtThumb.jpg "File:TShirtThumb.jpg")  
+  [TShirtThumb.jpg](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/TShirtThumb.jpg "File:TShirtThumb.jpg")  
   5 KB  
 
   

@@ -20,11 +20,11 @@
 
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/TopoViewThumb.png" width="190"
-height="123" alt="TopoView from FlyBase" />](../File:Flybase_topoview.pdf "TopoView from FlyBase")
+height="123" alt="TopoView from FlyBase" />](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf "TopoView from FlyBase")
 
 
 
-[TopoView](../File:Flybase_topoview.pdf "File:Flybase topoview.pdf") is
+[TopoView](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf "File:Flybase topoview.pdf") is
 a [GBrowse](../GBrowse.1 "GBrowse") glyph created by Victor Strelets at
 [FlyBase](../Category%253AFlyBase "Category%253AFlyBase") to show large amounts
 of quantitative data in limited screen space. TopoView does this with a

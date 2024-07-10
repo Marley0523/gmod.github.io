@@ -105,7 +105,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Chado-and-XML.pdf](File:Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
+  [Chado-and-XML.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
   262 KB  
 
   
@@ -128,7 +128,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Chado-XML-overview.pdf](File:Chado-XML-overview.pdf "File:Chado-XML-overview.pdf")  
+  [Chado-XML-overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Chado-XML-overview.pdf "File:Chado-XML-overview.pdf")  
   19 KB  
 
   

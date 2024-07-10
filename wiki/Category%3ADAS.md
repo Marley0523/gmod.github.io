@@ -97,7 +97,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [DAS Sept2010.pdf](File:DAS_Sept2010.pdf "File:DAS Sept2010.pdf")  
+  [DAS Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/DAS_Sept2010.pdf "File:DAS Sept2010.pdf")  
   1.16 MB  
 
   
@@ -120,7 +120,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Aug2009DASUpdate.pdf](File:Aug2009DASUpdate.pdf "File:Aug2009DASUpdate.pdf")  
+  [Aug2009DASUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Aug2009DASUpdate.pdf "File:Aug2009DASUpdate.pdf")  
   664 KB  
 
   
@@ -143,7 +143,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Das.ppt](File:Das.ppt "File:Das.ppt")  
+  [Das.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Das.ppt "File:Das.ppt")  
   132 KB  
 
   

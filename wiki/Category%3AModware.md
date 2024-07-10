@@ -68,7 +68,7 @@ This category contains only the following file.
 
   
 
-  [Modware.pdf](File:Modware.pdf "File:Modware.pdf")  
+  [Modware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Modware.pdf "File:Modware.pdf")  
   177 KB  
 
   

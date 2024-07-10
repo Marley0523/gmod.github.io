@@ -48,7 +48,7 @@ reads - including mismatches, using color to show alignment quality, and
 read-pairs.
 
 A
-[poster](../File:GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")
+[poster](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf")
 (by [Scott Cain](../User%253AScott "User%253AScott")) demonstrating how to use
 the adaptor with *GBrowse 1 and GBrowse 2* is also available.
 

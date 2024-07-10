@@ -36,7 +36,7 @@ shared servers provided by the Galaxy Project for this part of the
 tutorial. We'll finish with each person setting up their own Galaxy
 server on the Amazon cloud.
 
-- [File:MalaysiaGalaxyTutorialSlides.pdf](../File:MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")
+- [File:MalaysiaGalaxyTutorialSlides.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")
 
 
 

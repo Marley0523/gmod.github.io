@@ -110,12 +110,12 @@ height="100" alt="Mitch speaking" />](Training_and_Outreach "Mitch speaking")
 Speakers are available to give presentations at your institution or
 event. Past topics have included project overviews (e.g., [Database
 Tools for
-Biologists](File:GMODTAMUWorkshop.pdf "File:GMODTAMUWorkshop.pdf") at
+Biologists](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/GMODTAMUWorkshop.pdf "File:GMODTAMUWorkshop.pdf") at
 Texas A&M), general areas of GMOD (e.g., [GMOD Browser Tools and
 Exercises Workshop](ABRF2010_Workshop "ABRF2010 Workshop") at
 <a href="http://www.abrf2010.org/" class="external text"
 rel="nofollow">ABRF 2010</a> and [GMOD for Comparative
-Genomics](File:ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")
+Genomics](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")
 at <a href="https://colloque.inra.fr/isyip" class="external text"
 rel="nofollow">ISyIP</a>), and specific [GMOD
 Components](GMOD_Components "GMOD Components") (e.g., the
@@ -123,7 +123,7 @@ Components](GMOD_Components "GMOD Components") (e.g., the
 [GBrowse_syn](GBrowse_syn_PAG_2010_Workshop "GBrowse syn PAG 2010 Workshop")
 workshops at [PAG 2010](PAG_2010 "PAG 2010")). Presentations can range
 from short talks (e.g., [Demonstration of Pathway
-Tools](File:PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")
+Tools](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")
 at [ISMB 2010](ISMB_2010 "ISMB 2010")), to workshops with multiple
 speakers (e.g., <a
 href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"

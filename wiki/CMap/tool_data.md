@@ -161,32 +161,32 @@ Also see the [CMap FAQ](../CMap_FAQ "CMap FAQ").
 \| papers = \*CMap 1.01: a comparative mapping application for the
 Internet. <sup>[\[1\]](#cite_note-1)</sup> \| presentations =
 
-- [File:CMapGenomeInformatics2009.pdf](../File:CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf"),
+- [File:CMapGenomeInformatics2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf"),
   poster from <a href="http://meetings.cshl.edu/meetings/info09.shtml"
   class="external text" rel="nofollow">Genome Informatics 2009</a>
-- [File:CMapGBrowseSMBE2009.pdf](../File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")
+- [File:CMapGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")
   from the <a
   href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
   class="external text" rel="nofollow">GMOD Workshop at SMBE 2009</a>
 - [File:2007 11 05 CMap
-  GMOD.ppt](../File:2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")
+  GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")
   from [November 2007 GMOD
   Meeting](../November_2007_GMOD_Meeting "November 2007 GMOD Meeting")
 - [File:BenFaga GMOD June
-  2006.ppt](../File:BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")
+  2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")
   from [June 2006 GMOD
   Meeting](../June_2006_GMOD_Meeting "June 2006 GMOD Meeting")
-- [File:Cmap-050516.pdf](../File:Cmap-050516.pdf "File:Cmap-050516.pdf")
+- [File:Cmap-050516.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Cmap-050516.pdf "File:Cmap-050516.pdf")
   from [May 2005 GMOD
   Meeting](../May_2005_GMOD_Meeting "May 2005 GMOD Meeting")
-- [File:Gramene-cmap-pag-poster-2005.pdf](../File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")
+- [File:Gramene-cmap-pag-poster-2005.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")
   poster form 2005 Plant and Animal Genomics meeting.
 - [File:Cmap update sept
-  03.ppt](../File:Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")
+  03.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")
   from [September 2003 GMOD
   Meeting](../September_2003_GMOD_Meeting "September 2003 GMOD Meeting").
 - [File:CMap
-  Overview.pdf](../File:CMap_Overview.pdf "File:CMap Overview.pdf") from
+  Overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/CMap_Overview.pdf "File:CMap Overview.pdf") from
   [May 2003 GMOD
   Meeting](../May_2003_GMOD_Meeting "May 2003 GMOD Meeting").
 
