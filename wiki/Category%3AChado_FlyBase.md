@@ -53,7 +53,7 @@ This category contains only the following file.
 
   
 
-  [Aug2009LinkedData.pdf](File:Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
+  [Aug2009LinkedData.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Aug2009LinkedData.pdf "File:Aug2009LinkedData.pdf")  
   829 KB  
 
   

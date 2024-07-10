@@ -138,7 +138,7 @@ This category contains only the following file.
 
   
 
-  [Aug2009Sam.pdf](File:Aug2009Sam.pdf "File:Aug2009Sam.pdf")  
+  [Aug2009Sam.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Aug2009Sam.pdf "File:Aug2009Sam.pdf")  
   582 KB  
 
   

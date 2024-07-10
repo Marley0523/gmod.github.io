@@ -122,7 +122,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [Biocyc-GMOD-2006.ppt](File:Biocyc-GMOD-2006.ppt "File:Biocyc-GMOD-2006.ppt")  
+  [Biocyc-GMOD-2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Biocyc-GMOD-2006.ppt "File:Biocyc-GMOD-2006.ppt")  
   614 KB  
 
   
@@ -145,7 +145,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [GMOD-Nov-2007.ppt](File:GMOD-Nov-2007.ppt "File:GMOD-Nov-2007.ppt")  
+  [GMOD-Nov-2007.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/GMOD-Nov-2007.ppt "File:GMOD-Nov-2007.ppt")  
   356 KB  
 
   
@@ -168,7 +168,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [Karp-050516.ppt](File:Karp-050516.ppt "File:Karp-050516.ppt")  
+  [Karp-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/Karp-050516.ppt "File:Karp-050516.ppt")  
   1.02 MB  
 
   
@@ -191,7 +191,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [Mod-face-07jan-BioCyc.pdf](File:Mod-face-07jan-BioCyc.pdf "File:Mod-face-07jan-BioCyc.pdf")  
+  [Mod-face-07jan-BioCyc.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/Mod-face-07jan-BioCyc.pdf "File:Mod-face-07jan-BioCyc.pdf")  
   272 KB  
 
   
@@ -214,7 +214,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [Pathways.ppt](File:Pathways.ppt "File:Pathways.ppt")  
+  [Pathways.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Pathways.ppt "File:Pathways.ppt")  
   252 KB  
 
   
@@ -237,7 +237,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [PathwayToolsPosterISMB...](File:PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")  
+  [PathwayToolsPosterISMB...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")  
   598 KB  
 
   
@@ -260,7 +260,7 @@ The following 7 files are in this category, out of 7 total.
 
   
 
-  [PathwayToolsTalkISMB20...](File:PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")  
+  [PathwayToolsTalkISMB20...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")  
   3.64 MB  
 
   

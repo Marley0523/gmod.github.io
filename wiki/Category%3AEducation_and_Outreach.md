@@ -137,7 +137,7 @@ This category contains only the following file.
 
   
 
-  [GMODatAGS2008.pdf](File:GMODatAGS2008.pdf "File:GMODatAGS2008.pdf")  
+  [GMODatAGS2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/20/GMODatAGS2008.pdf "File:GMODatAGS2008.pdf")  
   351 KB  
 
   

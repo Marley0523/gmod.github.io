@@ -67,7 +67,7 @@ The following 5 files are in this category, out of 5 total.
   
 
   [2005-10 ISMB
-  Ontology-...](File:2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf")  
+  Ontology-...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf")  
   1.07 MB  
 
   
@@ -90,7 +90,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Chado-ncibi-2006.ppt](File:Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt")  
+  [Chado-ncibi-2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/Chado-ncibi-2006.ppt "File:Chado-ncibi-2006.ppt")  
   1.42 MB  
 
   
@@ -113,7 +113,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
+  [DictyBase-phenotypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
   
@@ -136,7 +136,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [FlyBaseCVTermViewer.png](File:FlyBaseCVTermViewer.png "File:FlyBaseCVTermViewer.png")  
+  [FlyBaseCVTermViewer.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d3/FlyBaseCVTermViewer.png "File:FlyBaseCVTermViewer.png")  
   106 KB  
 
   
@@ -159,7 +159,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Lapp.pdf](File:Lapp.pdf "File:Lapp.pdf")  
+  [Lapp.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/Lapp.pdf "File:Lapp.pdf")  
   1.2 MB  
 
   

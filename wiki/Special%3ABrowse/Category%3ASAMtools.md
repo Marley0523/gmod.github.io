@@ -33,7 +33,7 @@ title="Category%253ASAMtools (page does not exist)">Category%253ASAMtools</a> | 
 
 |  |  |
 |----|----|
-| <span class="smwb-ivalue">[File:OCCBio GBrowse NGS.pdf](/wiki/File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf "Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
+| <span class="smwb-ivalue">[File:OCCBio GBrowse NGS.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf "Special%253ABrowse/File:OCCBio-20GBrowse-20NGS.pdf")</span></span> | [Categories](/wiki/Special%253ACategories "Special%253ACategories") |
 
 |     |     |
 |-----|-----|

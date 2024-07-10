@@ -98,7 +98,7 @@ This category contains only the following file.
   
 
   [Stajich GMOD
-  2006-06-3...](File:Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
+  2006-06-3...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
   2.36 MB  
 
   

@@ -1238,7 +1238,7 @@ style="font-size: 180%; line-height: 140%; vertical-align: top"><br />
 0<br />
 9</td>
 <td>December 8</td>
-<td><strong><a href="File:GMODTAMUWorkshop.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/GMODTAMUWorkshop.pdf"
 title="File:GMODTAMUWorkshop.pdf">Database Tools for
 Biologists</a></strong></td>
 <td>Texas A&amp;M University, College Station, Texas, US</td>
@@ -1251,7 +1251,7 @@ Biologists</a></strong></td>
 <td><a href="User%253ARsmith" title="User%253ARsmith">Richard Smith</a></td>
 </tr>
 <tr class="odd">
-<td><strong><a href="File:ISyIPGMODforComparativeGenomics.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf"
 title="File:ISyIPGMODforComparativeGenomics.pdf">GMOD for Comparative
 Genomics</a></strong></td>
 <td><a href="http://colloque.inra.fr/isyip" class="external text"
@@ -1275,7 +1275,7 @@ SAMtools</strong> (poster)</td>
 </tr>
 <tr class="even">
 <td rowspan="2">October 27-30</td>
-<td><strong><a href="File:GBrowse_nextgen_poster.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GBrowse_nextgen_poster.pdf"
 title="File:GBrowse nextgen poster.pdf">GBrowse and Next Generation
 Sequencing Data</a></strong></td>
 <td rowspan="2">Genome Informatics, Cold Spring Harbor, New York,
@@ -1283,7 +1283,7 @@ USA</td>
 <td><a href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 </tr>
 <tr class="odd">
-<td><strong><a href="File:CMapGenomeInformatics2009.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/CMapGenomeInformatics2009.pdf"
 title="File:CMapGenomeInformatics2009.pdf">Genome Visualization and
 Comparison using CMap and Circos</a></strong></td>
 <td><a href="mailto:kyclar.cshl@gmail.com" class="external text"
@@ -1360,7 +1360,7 @@ USA</td>
 </tr>
 <tr class="even">
 <td>June 11-13</td>
-<td><a href="File:AGA_NGS_2009.pdf"
+<td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/AGA_NGS_2009.pdf"
 title="File:AGA NGS 2009.pdf"><strong>Seeing the forest <em>and</em> the
 trees: visualizing next generation sequence data</strong></a></td>
 <td>Next Generation Genome Analysis in Non-Model Organisms, Storrs, CT,
@@ -1381,26 +1381,26 @@ USA</td>
 <td><a href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 </tr>
 <tr class="even">
-<td><strong><a href="File:GMODGBrowseSMBE2009.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODGBrowseSMBE2009.pdf"
 title="File:GMODGBrowseSMBE2009.pdf">Using GMOD for evolutionary
 genomics and next generation sequence data</a></strong></td>
 <td><a href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
 </tr>
 <tr class="odd">
-<td><strong><a href="File:CMapGBrowseSMBE2009.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf"
 title="File:CMapGBrowseSMBE2009.pdf">The CMap Comparative Map Browser
 and Displaying Population distributions with GBrowse and
 PhyloGeoViz</a></strong></td>
 <td><a href="User%253AFaga" title="User%253AFaga">Ben Faga</a></td>
 </tr>
 <tr class="even">
-<td><strong><a href="File:GBrowse_synSMBE2009.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf"
 title="File:GBrowse synSMBE2009.pdf">Comparative genomics with
 GBrowse_syn</a></strong></td>
 <td><a href="User%253AMckays" title="User%253AMckays">Sheldon McKay</a></td>
 </tr>
 <tr class="odd">
-<td><strong><a href="File:MAKERSMBE2009.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MAKERSMBE2009.pdf"
 title="File:MAKERSMBE2009.pdf">Simplifying genome annotation and
 functional genomics with MAKER—the easy-to-use genome annotation
 pipeline</a></strong></td>
@@ -1409,7 +1409,7 @@ rel="nofollow">Mark Yandell</a></td>
 </tr>
 <tr class="even">
 <td>April 2</td>
-<td><strong><a href="File:NGSWithGMODWorkshop.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/NGSWithGMODWorkshop.pdf"
 title="File:NGSWithGMODWorkshop.pdf">Visualizing and Integrating Next
 Generation Sequence Data using GMOD</a></strong></td>
 <td><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/EvolutionaryGeneticsNGSPoster.pdf"
@@ -1511,7 +1511,7 @@ rel="nofollow">NESCent</a>, Durham, North Carolina, United States</td>
 <tr class="even">
 <td>June 4-7</td>
 <td><strong><a
-href="File:GenomicsResourcesForEmergingModelOrganismsPoster.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/GenomicsResourcesForEmergingModelOrganismsPoster.pdf"
 title="File:GenomicsResourcesForEmergingModelOrganismsPoster.pdf">GMOD:
 Genomics Resources for Emerging Model Organisms</a></strong></td>
 <td>American Genetic Association Annual Symposium, Raleigh, NC, USA</td>
@@ -1532,14 +1532,14 @@ href="http://explore.georgetown.edu/people/ce75/?PageTemplateID=195"
 class="external text" rel="nofollow">Christine Elsik</a></td>
 </tr>
 <tr class="even">
-<td><strong><a href="File:ChadoWorkshopArthopod2008.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/ChadoWorkshopArthopod2008.pdf"
 title="File:ChadoWorkshopArthopod2008.pdf">Chado - A Database Schema for
 Integrating Biological Data</a></strong></td>
 <td><a href="User%253AScott" title="User%253AScott">Scott Cain</a></td>
 </tr>
 <tr class="odd">
 <td><strong><a
-href="File:DatabaseResourcesForEmergingModelOrganismsPoster.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/21/DatabaseResourcesForEmergingModelOrganismsPoster.pdf"
 title="File:DatabaseResourcesForEmergingModelOrganismsPoster.pdf">GMOD:
 Database Resources for Emerging Model Organisms</a></strong></td>
 <td><a href="User%253AClements" title="User%253AClements">Dave Clements</a></td>
@@ -1547,7 +1547,7 @@ Database Resources for Emerging Model Organisms</a></strong></td>
 <tr class="even">
 <td rowspan="2">April 4-6</td>
 <td><strong><a
-href="File:InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf"
 title="File:InformaticsResourcesForEvolutionaryResearchIGERTPoster.pdf">GMOD:
 Informatics Resources for Evolutionary Research</a></strong></td>
 <td rowspan="2"><a href="http://evodevo.uoregon.edu/symposium.html"
@@ -1558,7 +1558,7 @@ Clements</a></td>
 </tr>
 <tr class="odd">
 <td><strong><a
-href="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf"
+href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf"
 title="File:GMODToolsForComparativeGenomicsIGERTPoster.pdf">GMOD Tools
 for Comparative Genomics</a></strong></td>
 </tr>
@@ -1592,7 +1592,7 @@ Meeting</a></strong></td>
 </tr>
 <tr class="odd">
 <td>November 1-5</td>
-<td><strong><a href="File:2007GenomeInformaticsGMODPoster.pdf"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/28/2007GenomeInformaticsGMODPoster.pdf"
 title="File:2007GenomeInformaticsGMODPoster.pdf">Digesting the Genome
 Glut: Promoting the Use and Extension of GMOD To Emerging Model
 Organisms</a></strong></td>
@@ -1608,7 +1608,7 @@ title="Hackathon 2007 info">Hackathon 2007</a></strong></td>
 </tr>
 <tr class="odd">
 <td>July 9</td>
-<td><strong><a href="File:Gmod_OCCBio_2007.ppt"
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4f/Gmod_OCCBio_2007.ppt"
 title="File:Gmod OCCBio 2007.ppt">The GMOD Project: Creating Reusable
 Software Components for Genome Data</a></strong></td>
 <td>Ohio Collaborative Conference on Bioinformatics at Miami University,
@@ -1637,7 +1637,7 @@ rel="nofollow">NESCent</a>, Durham, North Carolina, United States</td>
 </tr>
 <tr class="odd">
 <td>May 10-14</td>
-<td><strong><a href="File:BoG2006.pdf" title="File:BoG2006.pdf">An
+<td><strong><a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/BoG2006.pdf" title="File:BoG2006.pdf">An
 Example Comparative Genome Database for Yeasts Using GMOD
 Tools</a></strong></td>
 <td>The Biology of Genomes, Cold Spring Harbor, NY, USA</td>

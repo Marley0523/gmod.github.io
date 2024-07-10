@@ -129,7 +129,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [2009SumSchMAKER.pdf](File:2009SumSchMAKER.pdf "File:2009SumSchMAKER.pdf")  
+  [2009SumSchMAKER.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/2009SumSchMAKER.pdf "File:2009SumSchMAKER.pdf")  
   15.99 MB  
 
   
@@ -152,7 +152,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [MAKERSMBE2009.pdf](File:MAKERSMBE2009.pdf "File:MAKERSMBE2009.pdf")  
+  [MAKERSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MAKERSMBE2009.pdf "File:MAKERSMBE2009.pdf")  
   13.16 MB  
 
   
@@ -175,7 +175,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [PAG2010MAKER.pdf](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf")  
+  [PAG2010MAKER.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/PAG2010MAKER.pdf "File:PAG2010MAKER.pdf")  
   7 MB  
 
   
@@ -199,7 +199,7 @@ The following 4 files are in this category, out of 4 total.
   
 
   [PeanutBase PAG2015
-  Pos...](File:PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
+  Pos...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
   3.35 MB  
 
   

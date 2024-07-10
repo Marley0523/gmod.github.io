@@ -30,19 +30,19 @@ You can now view most of the [GMOD-related presentations and posters
 from ISMB 2010](../ISMB_2010 "ISMB 2010"). This includes
 
 - [Deploying Galaxy on the
-  Cloud](../File:DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf"),
+  Cloud](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf"),
   Enis Afgan
 - [Automated Annotation of NGS Transcriptome Data using ISGA and
-  Ergatis](../File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
+  Ergatis](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
   [Chris Hemmerich](../User%253AChemmeri "User%253AChemmeri")
 - <a href="http://prezi.com/nx4jy4etq-ug/gbrowse-20-and-jbrowse-for-ismb/"
   class="external text" rel="nofollow">GMOD Presents GBrowse 2.0 and
   JBrowse</a>, [Scott Cain](../User%253AScott "User%253AScott")
 - [An Advanced Web Query Interface for Biological
-  Databases](../File:PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")
+  Databases](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/PathwayToolsPosterISMB2010.pdf "File:PathwayToolsPosterISMB2010.pdf")
   ([Pathway Tools](../Pathway_Tools.1 "Pathway Tools")), Peter Karp
 - [Galaxy NGS functionality from sample tracking to SNP
-  calling](../File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf"),
+  calling](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf"),
   Ramkrishna Chakrabarty
 
 Plus additional talks and posters on [GBrowse](../GBrowse.1 "GBrowse"),

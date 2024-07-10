@@ -101,7 +101,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Mod-face-07jan-SGN.pdf](File:Mod-face-07jan-SGN.pdf "File:Mod-face-07jan-SGN.pdf")  
+  [Mod-face-07jan-SGN.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f4/Mod-face-07jan-SGN.pdf "File:Mod-face-07jan-SGN.pdf")  
   2.17 MB  
 
   
@@ -124,7 +124,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Sgn small tag.png](File:Sgn_small_tag.png "File:Sgn small tag.png")  
+  [Sgn small tag.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/82/Sgn_small_tag.png "File:Sgn small tag.png")  
   5 KB  
 
   

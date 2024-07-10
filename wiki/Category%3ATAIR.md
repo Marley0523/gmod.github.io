@@ -61,7 +61,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Mod-face-07jan-TAIR.pdf](File:Mod-face-07jan-TAIR.pdf "File:Mod-face-07jan-TAIR.pdf")  
+  [Mod-face-07jan-TAIR.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Mod-face-07jan-TAIR.pdf "File:Mod-face-07jan-TAIR.pdf")  
   2.63 MB  
 
   
@@ -84,7 +84,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [TAIR logo.gif](File:TAIR_logo.gif "File:TAIR logo.gif")  
+  [TAIR logo.gif](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7c/TAIR_logo.gif "File:TAIR logo.gif")  
   2 KB  
 
   

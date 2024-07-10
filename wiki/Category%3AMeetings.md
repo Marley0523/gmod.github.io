@@ -240,7 +240,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [GCC2014Logo.png](File:GCC2014Logo.png "File:GCC2014Logo.png")  
+  [GCC2014Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GCC2014Logo.png "File:GCC2014Logo.png")  
   19 KB  
 
   
@@ -264,7 +264,7 @@ The following 4 files are in this category, out of 4 total.
   
 
   [Common gene
-  page.ppt](File:Common_gene_page.ppt "File:Common gene page.ppt")  
+  page.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt "File:Common gene page.ppt")  
   81 KB  
 
   
@@ -288,7 +288,7 @@ The following 4 files are in this category, out of 4 total.
   
 
   [Gmod meeting 7
-  2008.ppt](File:Gmod_meeting_7_2008.ppt "File:Gmod meeting 7 2008.ppt")  
+  2008.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt "File:Gmod meeting 7 2008.ppt")  
   103 KB  
 
   
@@ -311,7 +311,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [July2008Logo.png](File:July2008Logo.png "File:July2008Logo.png")  
+  [July2008Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6a/July2008Logo.png "File:July2008Logo.png")  
   204 KB  
 
   

@@ -98,18 +98,18 @@ used for prokarytic annotation and assembly.
 - [Presentations](Category%253APresentations "Category%253APresentations") and
   [Posters](Category%253APosters "Category%253APosters")
   - [Automated Annotation of NGS Transcriptome Data using ISGA and
-    Ergatis](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
+    Ergatis](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf"),
     presented by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") at
     [BOSC 2010](ISMB_2010 "ISMB 2010")
   - [Integrative Services for Genomic Analysis (ISGA) - An Intuitive Web
     Server for Prokaryotic Genome Annotation and Other
-    Analyses](File:ISGAISMB2010Poster.pdf "File:ISGAISMB2010Poster.pdf"),
+    Analyses](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7f/ISGAISMB2010Poster.pdf "File:ISGAISMB2010Poster.pdf"),
     poster by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri"), Aaron
     Buechlein, Ram Podicheti, and Jeong-Hyeon Choi, presented at [ISMB
     2010](ISMB_2010 "ISMB 2010").
   - [Web-Based Bioinformatics Pipelines For Biologists: Integrative
     Services for Genomic Analysis
-    (ISGA)](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
+    (ISGA)](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf"),
     presented by [Chris Hemmerich](User%253AChemmeri "User%253AChemmeri") at the
     [January 2010 GMOD
     Meeting](January_2010_GMOD_Meeting "January 2010 GMOD Meeting").

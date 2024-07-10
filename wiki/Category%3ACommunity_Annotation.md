@@ -98,7 +98,7 @@ This category contains only the following file.
 
   
 
-  [CommunityAnnotationNov...](File:CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
+  [CommunityAnnotationNov...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
   2.86 MB  
 
   

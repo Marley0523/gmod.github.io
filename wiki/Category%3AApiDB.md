@@ -61,7 +61,7 @@ This category contains only the following file.
 
   
 
-  [Mod-face-07jan-ApiDB.pdf](File:Mod-face-07jan-ApiDB.pdf "File:Mod-face-07jan-ApiDB.pdf")  
+  [Mod-face-07jan-ApiDB.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Mod-face-07jan-ApiDB.pdf "File:Mod-face-07jan-ApiDB.pdf")  
   1.4 MB  
 
   

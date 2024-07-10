@@ -136,7 +136,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Chado pub.ppt](File:Chado_pub.ppt "File:Chado pub.ppt")  
+  [Chado pub.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/71/Chado_pub.ppt "File:Chado pub.ppt")  
   45 KB  
 
   
@@ -159,7 +159,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [ChadoModules.png](File:ChadoModules.png "File:ChadoModules.png")  
+  [ChadoModules.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/ChadoModules.png "File:ChadoModules.png")  
   71 KB  
 
   
@@ -182,7 +182,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [ChadoModules.ppt](File:ChadoModules.ppt "File:ChadoModules.ppt")  
+  [ChadoModules.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/36/ChadoModules.ppt "File:ChadoModules.ppt")  
   60 KB  
 
   
@@ -205,7 +205,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [ChadoModulesCV.png](File:ChadoModulesCV.png "File:ChadoModulesCV.png")  
+  [ChadoModulesCV.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b5/ChadoModulesCV.png "File:ChadoModulesCV.png")  
   69 KB  
 
   
@@ -228,7 +228,7 @@ The following 5 files are in this category, out of 5 total.
 
   
 
-  [Emmert 040526.pdf](File:Emmert_040526.pdf "File:Emmert 040526.pdf")  
+  [Emmert 040526.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Emmert_040526.pdf "File:Emmert 040526.pdf")  
   213 KB  
 
   

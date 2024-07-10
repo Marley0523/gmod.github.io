@@ -76,7 +76,7 @@ Olivier Arnaiz, [Linda Sperling](User%253ASperling "User%253ASperling") and
 [Lincoln D Stein](User%253ALstein "User%253ALstein"), Genome Biology 2008,
 9:R102. The publication describing GMODWeb
 
-[GMODWeb and Package Management](File:Jan2009GMODWebAndPackages.pdf "File:Jan2009GMODWebAndPackages.pdf")  
+[GMODWeb and Package Management](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a1/Jan2009GMODWebAndPackages.pdf "File:Jan2009GMODWebAndPackages.pdf")  
 presentation by Brian O'Connor at the [January 2009 GMOD
 Meeting](January_2009_GMOD_Meeting#GMODWeb_and_Package_Management "January 2009 GMOD Meeting").
 

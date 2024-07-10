@@ -113,7 +113,7 @@ The following 8 files are in this category, out of 8 total.
   
 
   [A Chado Case
-  Study.pdf](File:A_Chado_Case_Study.pdf "File:A Chado Case Study.pdf")  
+  Study.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/A_Chado_Case_Study.pdf "File:A Chado Case Study.pdf")  
   304 KB  
 
   
@@ -136,7 +136,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Fly logo.png](File:Fly_logo.png "File:Fly logo.png")  
+  [Fly logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e0/Fly_logo.png "File:Fly logo.png")  
   22 KB  
 
   
@@ -159,7 +159,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Flybase-ng-may03.pdf](File:Flybase-ng-may03.pdf "File:Flybase-ng-may03.pdf")  
+  [Flybase-ng-may03.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Flybase-ng-may03.pdf "File:Flybase-ng-may03.pdf")  
   584 KB  
 
   
@@ -182,7 +182,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [FlyBaseMainPageIcon.png](File:FlyBaseMainPageIcon.png "File:FlyBaseMainPageIcon.png")  
+  [FlyBaseMainPageIcon.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/FlyBaseMainPageIcon.png "File:FlyBaseMainPageIcon.png")  
   22 KB  
 
   
@@ -205,7 +205,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Mod-face-07jan-FlyBase...](File:Mod-face-07jan-FlyBase.pdf "File:Mod-face-07jan-FlyBase.pdf")  
+  [Mod-face-07jan-FlyBase...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Mod-face-07jan-FlyBase.pdf "File:Mod-face-07jan-FlyBase.pdf")  
   1.89 MB  
 
   
@@ -228,7 +228,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Smutniak-050516.ppt](File:Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
+  [Smutniak-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
   343 KB  
 
   
@@ -251,7 +251,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [XORT.pdf](File:XORT.pdf "File:XORT.pdf")  
+  [XORT.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/XORT.pdf "File:XORT.pdf")  
   155 KB  
 
   
@@ -274,7 +274,7 @@ The following 8 files are in this category, out of 8 total.
 
   
 
-  [Zhang-050517.ppt](File:Zhang-050517.ppt "File:Zhang-050517.ppt")  
+  [Zhang-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/Zhang-050517.ppt "File:Zhang-050517.ppt")  
   745 KB  
 
   

@@ -133,7 +133,7 @@ This category contains only the following file.
 
   
 
-  [Gmod-argos-sep03.pdf](File:Gmod-argos-sep03.pdf "File:Gmod-argos-sep03.pdf")  
+  [Gmod-argos-sep03.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Gmod-argos-sep03.pdf "File:Gmod-argos-sep03.pdf")  
   5.22 MB  
 
   

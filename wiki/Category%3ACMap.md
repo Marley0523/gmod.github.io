@@ -121,7 +121,7 @@ The following 14 files are in this category, out of 14 total.
   
 
   [2007 11 05 CMap
-  GMOD.ppt](File:2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")  
+  GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")  
   127 KB  
 
   
@@ -145,7 +145,7 @@ The following 14 files are in this category, out of 14 total.
   
 
   [BenFaga GMOD June
-  2006...](File:BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")  
+  2006...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")  
   160 KB  
 
   
@@ -169,7 +169,7 @@ The following 14 files are in this category, out of 14 total.
   
 
   [Cain GI
-  poster.pdf](File:Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
+  poster.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
   522 KB  
 
   
@@ -192,7 +192,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [CMap Overview.pdf](File:CMap_Overview.pdf "File:CMap Overview.pdf")  
+  [CMap Overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/CMap_Overview.pdf "File:CMap Overview.pdf")  
   3.03 MB  
 
   
@@ -216,7 +216,7 @@ The following 14 files are in this category, out of 14 total.
   
 
   [Cmap update sept
-  03.ppt](File:Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")  
+  03.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")  
   18 KB  
 
   
@@ -239,7 +239,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [Cmap-050516.pdf](File:Cmap-050516.pdf "File:Cmap-050516.pdf")  
+  [Cmap-050516.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Cmap-050516.pdf "File:Cmap-050516.pdf")  
   201 KB  
 
   
@@ -262,7 +262,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [CMapGBrowseSMBE2009.pdf](File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
+  [CMapGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
   2.51 MB  
 
   
@@ -285,7 +285,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [CMapGenomeInformatics2...](File:CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf")  
+  [CMapGenomeInformatics2...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf")  
   393 KB  
 
   
@@ -308,7 +308,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [CMapLogo.png](File:CMapLogo.png "File:CMapLogo.png")  
+  [CMapLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/33/CMapLogo.png "File:CMapLogo.png")  
   40 KB  
 
   
@@ -332,7 +332,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [GMODToolsForComparativ...](File:GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
+  [GMODToolsForComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cf/GMODToolsForComparativeGenomicsIGERTPoster.pdf "File:GMODToolsForComparativeGenomicsIGERTPoster.pdf")  
   714 KB  
 
   
@@ -355,7 +355,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [Gramene-cmap-pag-poste...](File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")  
+  [Gramene-cmap-pag-poste...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")  
   505 KB  
 
   
@@ -378,7 +378,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [PAG2010CMap3D.pdf](File:PAG2010CMap3D.pdf "File:PAG2010CMap3D.pdf")  
+  [PAG2010CMap3D.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/PAG2010CMap3D.pdf "File:PAG2010CMap3D.pdf")  
   2.96 MB  
 
   
@@ -402,7 +402,7 @@ The following 14 files are in this category, out of 14 total.
 
   
 
-  [ISyIPGMODforComparativ...](File:ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
+  [ISyIPGMODforComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
   14.44 MB  
 
   
@@ -426,7 +426,7 @@ The following 14 files are in this category, out of 14 total.
   
 
   [PeanutBase PAG2015
-  Pos...](File:PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
+  Pos...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f5/PeanutBase_PAG2015_Poster.pdf "File:PeanutBase PAG2015 Poster.pdf")  
   3.35 MB  
 
   

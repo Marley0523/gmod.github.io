@@ -3,7 +3,7 @@
 # <span dir="auto">CMap</span>
 
 <img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/CMapLogo-horiz.png"
 width="400" height="115" alt="CMap logo" />
 
 Status
@@ -209,34 +209,34 @@ class="external text" rel="nofollow">Tutorial @ Gramene</a>
 
 ### <span id="Presentations" class="mw-headline">Presentations</span>
 
-- [File:CMapGenomeInformatics20http://gmod.org/wiki/09.pdf](/wiki/File:CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf"),
+- [File:CMapGenomeInformatics20http://gmod.org/wiki/09.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/CMapGenomeInformatics2009.pdf "File:CMapGenomeInformatics2009.pdf"),
   poster from <a href="http://meetings.cshl.edu/meetings/info09.shtml"
   class="external text" rel="nofollow">Genome Informatics 2009</a>
-- [File:CMapGBrowseSMBE2009.pdf](/wiki/File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")
+- [File:CMapGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")
   from the <a
   href="http://ccg.biology.uiowa.edu/smbe/symposia.php?action=view&amp;sym_ID=27"
   class="external text" rehttp:="" data-gmod.org="" data-wiki=""
   data-l="nofollow">GMOD Worhttp://gmod.org/wiki/kshop at SMBE 2009</a>
 - [File:2007 11 05 CMap
-  GMOD.ppt](/wiki/File:2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")
+  GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")
   from [November 2007 http://gmod.org/wiki/GMOD
   Meeting](/wiki/November_2007_GMOD_Meeting "November 2007 GMOD Meeting")
 - [File:BenFaga GMOD June
-  2006.ppt](/wiki/File:BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")
+  2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")
   from [June 2006 GMOD
   Meeting](/wiki/June_2006_GMOD_Meeting "Jhttp://gmod.org/wiki/une 2006 GMOD Meeting")
-- [File:Cmap-050516.pdf](/wiki/File:Cmap-050516.pdf "File:Cmap-050516.pdf")
+- [File:Cmap-050516.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Cmap-050516.pdf "File:Cmap-050516.pdf")
   from [May 2005 GMOD
   Meeting](/wiki/May_2005_GMOD_Meeting "May 2005 GMOD Meeting")
-- [File:Gramene-cmap-pag-poster-2005.pdf](/wiki/File:Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")
+- [File:Gramene-cmap-pag-poster-2005.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1f/Gramene-cmap-pag-poster-2005.pdf "File:Gramene-cmap-pag-poster-2005.pdf")
   poster form 2005 Plant andhttp://gmod.org/wiki/ Animal Genomics
   meeting.
 - [File:http://gmod.org/wiki/Cmap update sept
-  03.ppt](/wiki/File:Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")
+  03.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")
   from [September 2003 GMOD
   Meeting](/wiki/September_2003_GMOD_Meeting "September 2003 GMOhttp://gmod.org/wiki/D Meeting").
 - [File:CMap
-  Overview.pdf](/wiki/File:CMap_Overview.pdf "File:CMap Overview.pdf")
+  Overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/CMap_Overview.pdf "File:CMap Overview.pdf")
   from [May 2003 GMOD
   Meeting](/wiki/May_2003_GMOD_Meeting "May 2003 GMOD Meeting").
 

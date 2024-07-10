@@ -84,7 +84,7 @@ This category contains only the following file.
   
 
   [CRAWL
-  Sept2010.pdf](File:CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
   9.35 MB  
 
   

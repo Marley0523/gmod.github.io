@@ -216,7 +216,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Basepair-options.png](File:Basepair-options.png "File:Basepair-options.png")  
+  [Basepair-options.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/Basepair-options.png "File:Basepair-options.png")  
   32 KB  
 
   
@@ -239,7 +239,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Flatfile-options.png](File:Flatfile-options.png "File:Flatfile-options.png")  
+  [Flatfile-options.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cd/Flatfile-options.png "File:Flatfile-options.png")  
   60 KB  
 
   
@@ -262,7 +262,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [HelpDeskSept2010.pdf](File:HelpDeskSept2010.pdf "File:HelpDeskSept2010.pdf")  
+  [HelpDeskSept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/HelpDeskSept2010.pdf "File:HelpDeskSept2010.pdf")  
   10.54 MB  
 
   
@@ -285,7 +285,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Aug2009JBrowse.pdf](File:Aug2009JBrowse.pdf "File:Aug2009JBrowse.pdf")  
+  [Aug2009JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Aug2009JBrowse.pdf "File:Aug2009JBrowse.pdf")  
   823 KB  
 
   
@@ -308,7 +308,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [GBrowse3GMOD2008.pdf](File:GBrowse3GMOD2008.pdf "File:GBrowse3GMOD2008.pdf")  
+  [GBrowse3GMOD2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/GBrowse3GMOD2008.pdf "File:GBrowse3GMOD2008.pdf")  
   194 KB  
 
   
@@ -331,7 +331,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [GMODCourse2010-JBrowse...](File:GMODCourse2010-JBrowseIntro.pdf "File:GMODCourse2010-JBrowseIntro.pdf")  
+  [GMODCourse2010-JBrowse...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/GMODCourse2010-JBrowseIntro.pdf "File:GMODCourse2010-JBrowseIntro.pdf")  
   507 KB  
 
   
@@ -354,7 +354,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Jan2009JBrowse.pdf](File:Jan2009JBrowse.pdf "File:Jan2009JBrowse.pdf")  
+  [Jan2009JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Jan2009JBrowse.pdf "File:Jan2009JBrowse.pdf")  
   354 KB  
 
   
@@ -377,7 +377,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Jbrowse arch.png](File:Jbrowse_arch.png "File:Jbrowse arch.png")  
+  [Jbrowse arch.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d0/Jbrowse_arch.png "File:Jbrowse arch.png")  
   99 KB  
 
   
@@ -400,7 +400,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [PAG2010JBrowse.pdf](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf")  
+  [PAG2010JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf")  
   270 KB  
 
   
@@ -424,7 +424,7 @@ The following 12 files are in this category, out of 12 total.
   
 
   [JBrowse PAG
-  2017.pdf](File:JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
+  2017.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e2/JBrowse_PAG_2017.pdf "File:JBrowse PAG 2017.pdf")  
   2.4 MB  
 
   
@@ -447,7 +447,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [JBrowseUI.png](File:JBrowseUI.png "File:JBrowseUI.png")  
+  [JBrowseUI.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a9/JBrowseUI.png "File:JBrowseUI.png")  
   41 KB  
 
   
@@ -470,7 +470,7 @@ The following 12 files are in this category, out of 12 total.
 
   
 
-  [Wiggle-options.png](File:Wiggle-options.png "File:Wiggle-options.png")  
+  [Wiggle-options.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/26/Wiggle-options.png "File:Wiggle-options.png")  
   37 KB  
 
   

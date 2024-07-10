@@ -70,7 +70,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Mod-face-07jan-WormBas...](File:Mod-face-07jan-WormBase.pdf "File:Mod-face-07jan-WormBase.pdf")  
+  [Mod-face-07jan-WormBas...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/67/Mod-face-07jan-WormBase.pdf "File:Mod-face-07jan-WormBase.pdf")  
   7.86 MB  
 
   
@@ -93,7 +93,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Wdb small.gif](File:Wdb_small.gif "File:Wdb small.gif")  
+  [Wdb small.gif](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9d/Wdb_small.gif "File:Wdb small.gif")  
   8 KB  
 
   

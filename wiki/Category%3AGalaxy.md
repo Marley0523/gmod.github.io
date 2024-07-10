@@ -156,7 +156,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [2011 10
-  Galaxy.pdf](File:2011_10_Galaxy.pdf "File:2011 10 Galaxy.pdf")  
+  Galaxy.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf "File:2011 10 Galaxy.pdf")  
   9.33 MB  
 
   
@@ -180,7 +180,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [April2012
-  CommunityBui...](File:April2012_CommunityBuilding.pdf "File:April2012 CommunityBuilding.pdf")  
+  CommunityBui...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/April2012_CommunityBuilding.pdf "File:April2012 CommunityBuilding.pdf")  
   3.06 MB  
 
   
@@ -204,7 +204,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [April2012GalaxyCloudMa...](File:April2012GalaxyCloudManWorkshop.pdf "File:April2012GalaxyCloudManWorkshop.pdf")  
+  [April2012GalaxyCloudMa...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf "File:April2012GalaxyCloudManWorkshop.pdf")  
   1.05 MB  
 
   
@@ -227,7 +227,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [April2012GalaxyUpdate.pdf](File:April2012GalaxyUpdate.pdf "File:April2012GalaxyUpdate.pdf")  
+  [April2012GalaxyUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/April2012GalaxyUpdate.pdf "File:April2012GalaxyUpdate.pdf")  
   2.23 MB  
 
   
@@ -251,7 +251,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [Dave Clements
-  2014.pdf](File:Dave_Clements_2014.pdf "File:Dave Clements 2014.pdf")  
+  2014.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/Dave_Clements_2014.pdf "File:Dave Clements 2014.pdf")  
   2.61 MB  
 
   
@@ -274,7 +274,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [DeployingGalaxyCloudBO...](File:DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf")  
+  [DeployingGalaxyCloudBO...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf")  
   6.05 MB  
 
   
@@ -297,7 +297,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GalaxyIsHiringWordClou...](File:GalaxyIsHiringWordCloud.png "File:GalaxyIsHiringWordCloud.png")  
+  [GalaxyIsHiringWordClou...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a6/GalaxyIsHiringWordCloud.png "File:GalaxyIsHiringWordCloud.png")  
   44 KB  
 
   
@@ -320,7 +320,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GalaxyNGSISMB2010.pdf](File:GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf")  
+  [GalaxyNGSISMB2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GalaxyNGSISMB2010.pdf "File:GalaxyNGSISMB2010.pdf")  
   159 KB  
 
   
@@ -344,7 +344,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GalaxyWorkshop0 2011
-  1...](File:GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf")  
   7.51 MB  
 
   
@@ -368,7 +368,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GalaxyWorkshop1 2011
-  1...](File:GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf")  
   4.33 MB  
 
   
@@ -392,7 +392,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GalaxyWorkshop2 2011
-  1...](File:GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf")  
   4.01 MB  
 
   
@@ -416,7 +416,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GalaxyWorkshop3 2011
-  1...](File:GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf")  
   51 KB  
 
   
@@ -439,7 +439,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GAW2014Logo.png](File:GAW2014Logo.png "File:GAW2014Logo.png")  
+  [GAW2014Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/GAW2014Logo.png "File:GAW2014Logo.png")  
   167 KB  
 
   
@@ -462,7 +462,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2012TrainingDayLogo...](File:GCC2012TrainingDayLogo.png "File:GCC2012TrainingDayLogo.png")  
+  [GCC2012TrainingDayLogo...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/GCC2012TrainingDayLogo.png "File:GCC2012TrainingDayLogo.png")  
   16 KB  
 
   
@@ -485,7 +485,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2013Logo.png](File:GCC2013Logo.png "File:GCC2013Logo.png")  
+  [GCC2013Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c3/GCC2013Logo.png "File:GCC2013Logo.png")  
   207 KB  
 
   
@@ -508,7 +508,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2013TrainingDayLogo...](File:GCC2013TrainingDayLogo.png "File:GCC2013TrainingDayLogo.png")  
+  [GCC2013TrainingDayLogo...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/db/GCC2013TrainingDayLogo.png "File:GCC2013TrainingDayLogo.png")  
   142 KB  
 
   
@@ -531,7 +531,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2014Logo.png](File:GCC2014Logo.png "File:GCC2014Logo.png")  
+  [GCC2014Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/GCC2014Logo.png "File:GCC2014Logo.png")  
   19 KB  
 
   
@@ -554,7 +554,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2014TDLogo.png](File:GCC2014TDLogo.png "File:GCC2014TDLogo.png")  
+  [GCC2014TDLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/GCC2014TDLogo.png "File:GCC2014TDLogo.png")  
   47 KB  
 
   
@@ -577,7 +577,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2016Logo.png](File:GCC2016Logo.png "File:GCC2016Logo.png")  
+  [GCC2016Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1c/GCC2016Logo.png "File:GCC2016Logo.png")  
   19 KB  
 
   
@@ -600,7 +600,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2019Logo.png](File:GCC2019Logo.png "File:GCC2019Logo.png")  
+  [GCC2019Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/GCC2019Logo.png "File:GCC2019Logo.png")  
   13 KB  
 
   
@@ -624,7 +624,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GMOD2013
-  CommunityBuil...](File:GMOD2013_CommunityBuilding.pdf "File:GMOD2013 CommunityBuilding.pdf")  
+  CommunityBuil...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/GMOD2013_CommunityBuilding.pdf "File:GMOD2013 CommunityBuilding.pdf")  
   6.41 MB  
 
   
@@ -648,7 +648,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GMOD2013
-  GalaxyUpdate.pdf](File:GMOD2013_GalaxyUpdate.pdf "File:GMOD2013 GalaxyUpdate.pdf")  
+  GalaxyUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/GMOD2013_GalaxyUpdate.pdf "File:GMOD2013 GalaxyUpdate.pdf")  
   4.23 MB  
 
   
@@ -672,7 +672,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [GMOD2016
-  Galaxy.pdf](File:GMOD2016_Galaxy.pdf "File:GMOD2016 Galaxy.pdf")  
+  Galaxy.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GMOD2016_Galaxy.pdf "File:GMOD2016 Galaxy.pdf")  
   1.61 MB  
 
   
@@ -695,7 +695,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GalaxyLogoBigger.png](File:GalaxyLogoBigger.png "File:GalaxyLogoBigger.png")  
+  [GalaxyLogoBigger.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c7/GalaxyLogoBigger.png "File:GalaxyLogoBigger.png")  
   56 KB  
 
   
@@ -718,7 +718,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GalaxyLogoBoxed.png](File:GalaxyLogoBoxed.png "File:GalaxyLogoBoxed.png")  
+  [GalaxyLogoBoxed.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7d/GalaxyLogoBoxed.png "File:GalaxyLogoBoxed.png")  
   43 KB  
 
   
@@ -741,7 +741,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GalaxyLogoSmall.png](File:GalaxyLogoSmall.png "File:GalaxyLogoSmall.png")  
+  [GalaxyLogoSmall.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/GalaxyLogoSmall.png "File:GalaxyLogoSmall.png")  
   961 B  
 
   
@@ -764,7 +764,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2011Logo.png](File:GCC2011Logo.png "File:GCC2011Logo.png")  
+  [GCC2011Logo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/GCC2011Logo.png "File:GCC2011Logo.png")  
   797 KB  
 
   
@@ -787,7 +787,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [GCC2011LogoShort.png](File:GCC2011LogoShort.png "File:GCC2011LogoShort.png")  
+  [GCC2011LogoShort.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/GCC2011LogoShort.png "File:GCC2011LogoShort.png")  
   544 KB  
 
   
@@ -810,7 +810,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [MalaysiaGalaxyTutorial...](File:MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")  
+  [MalaysiaGalaxyTutorial...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")  
   5.1 MB  
 
   
@@ -824,7 +824,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   <a
-  href="File:Oqtans_Online_Quantitative_Transcriptome_AnalysisISMB2010.pdf"
+  href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Oqtans_Online_Quantitative_Transcriptome_AnalysisISMB2010.pdf"
   class="image"><img
   src="../mediawiki/skins/common/images/icons/fileicon-pdf.png"
   width="120" height="120"
@@ -837,7 +837,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [Oqtans Online
-  Quantita...](File:Oqtans_Online_Quantitative_Transcriptome_AnalysisISMB2010.pdf "File:Oqtans Online Quantitative Transcriptome AnalysisISMB2010.pdf")  
+  Quantita...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/Oqtans_Online_Quantitative_Transcriptome_AnalysisISMB2010.pdf "File:Oqtans Online Quantitative Transcriptome AnalysisISMB2010.pdf")  
   2.24 MB  
 
   
@@ -861,7 +861,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [Pag 2011 galaxy
-  talk.pdf](File:Pag_2011_galaxy_talk.pdf "File:Pag 2011 galaxy talk.pdf")  
+  talk.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Pag_2011_galaxy_talk.pdf "File:Pag 2011 galaxy talk.pdf")  
   4.69 MB  
 
   
@@ -886,7 +886,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [PAG 2011 poster
-  Nathal...](File:PAG_2011_poster_Nathalie.Choisne.pdf "File:PAG 2011 poster Nathalie.Choisne.pdf")  
+  Nathal...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/89/PAG_2011_poster_Nathalie.Choisne.pdf "File:PAG 2011 poster Nathalie.Choisne.pdf")  
   1.33 MB  
 
   
@@ -909,7 +909,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [PAG2012GalaxyIntroTalk...](File:PAG2012GalaxyIntroTalk.pdf "File:PAG2012GalaxyIntroTalk.pdf")  
+  [PAG2012GalaxyIntroTalk...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/PAG2012GalaxyIntroTalk.pdf "File:PAG2012GalaxyIntroTalk.pdf")  
   3.48 MB  
 
   
@@ -932,7 +932,7 @@ The following 35 files are in this category, out of 35 total.
 
   
 
-  [PAG2012MAPHiTSTalk.pdf](File:PAG2012MAPHiTSTalk.pdf "File:PAG2012MAPHiTSTalk.pdf")  
+  [PAG2012MAPHiTSTalk.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/PAG2012MAPHiTSTalk.pdf "File:PAG2012MAPHiTSTalk.pdf")  
   8.13 MB  
 
   
@@ -956,7 +956,7 @@ The following 35 files are in this category, out of 35 total.
   
 
   [PAG2014
-  GalaxyCloudMan...](File:PAG2014_GalaxyCloudMan.pdf "File:PAG2014 GalaxyCloudMan.pdf")  
+  GalaxyCloudMan...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/PAG2014_GalaxyCloudMan.pdf "File:PAG2014 GalaxyCloudMan.pdf")  
   4.03 MB  
 
   
