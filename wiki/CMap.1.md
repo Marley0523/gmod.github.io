@@ -3,7 +3,7 @@
 # <span dir="auto">CMap</span>
 
 <img
-src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thhttp://gmod.org/wiki/umb/e/ec/CMapLogo-horiz.png/400px-CMapLogo-horiz.png"
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/CMapLogo-horiz.png"
 width="400" height="115" alt="CMap logo" />
 
 Status
