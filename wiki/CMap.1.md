@@ -103,23 +103,23 @@ also includes tools for curating map data.
 
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-Here are some samhttp://gmod.org/wiki/ple maps from the
+Here are some sample maps from the
 <a href="http://www.gramene.org/" class="external text"
 rel="nofollow">Gramene Project</a>. See also
 <a href="http://www.gramene.org/cmap/entry.html" class="external text"
 rel="nofollow">other Gramene views</a>.
 
-<a href="/wiki/File:Cmap_sample1.jpg" class="image"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
-width="89" height="120" alt="Cmap sample1.jpg" /></a>
+<img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/4/40/Cmap_sample1.jpg/89px-Cmap_sample1.jpg"
+width="89" height="120" alt="Cmap sample1.jpg" />
 
-<a href="/wiki/File:Cmap_sample2.jpg" class="image"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
-width="169" height="120" alt="Cmap sample2.jpg" /></a>
+<img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/f1/Cmap_sample2.jpg/169px-Cmap_sample2.jpg"
+width="169" height="120" alt="Cmap sample2.jpg" />
 
-<a href="/wiki/File:Cmap_sample3.jpg" class="image"><img
-srchttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
-width="131" height="120" alt="Cmap sample3.jpg" /></a>
+<img
+src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/1/12/Cmap_sample3.jpg/131px-Cmap_sample3.jpg"
+width="131" height="120" alt="Cmap sample3.jpg" />
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
