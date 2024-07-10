@@ -87,7 +87,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Gmod-datagrid.ppt](File:Gmod-datagrid.ppt "File:Gmod-datagrid.ppt")  
+  [Gmod-datagrid.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/Gmod-datagrid.ppt "File:Gmod-datagrid.ppt")  
   177 KB  
 
   
@@ -110,7 +110,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Terry 040526.ppt](File:Terry_040526.ppt "File:Terry 040526.ppt")  
+  [Terry 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Terry_040526.ppt "File:Terry 040526.ppt")  
   814 KB  
 
   

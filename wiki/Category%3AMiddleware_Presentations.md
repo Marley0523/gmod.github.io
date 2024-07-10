@@ -64,7 +64,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [Aug2009Gobol.pdf](File:Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
+  [Aug2009Gobol.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/Aug2009Gobol.pdf "File:Aug2009Gobol.pdf")  
   292 KB  
 
   
@@ -87,7 +87,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [AutoDBI.pdf](File:AutoDBI.pdf "File:AutoDBI.pdf")  
+  [AutoDBI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/34/AutoDBI.pdf "File:AutoDBI.pdf")  
   288 KB  
 
   
@@ -110,7 +110,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [Chado-and-XML.pdf](File:Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
+  [Chado-and-XML.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/Chado-and-XML.pdf "File:Chado-and-XML.pdf")  
   262 KB  
 
   
@@ -133,7 +133,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [ChadoCSHMay03Slides.pdf](File:ChadoCSHMay03Slides.pdf "File:ChadoCSHMay03Slides.pdf")  
+  [ChadoCSHMay03Slides.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/ChadoCSHMay03Slides.pdf "File:ChadoCSHMay03Slides.pdf")  
   1.3 MB  
 
   
@@ -157,7 +157,7 @@ The following 13 files are in this category, out of 13 total.
   
 
   [DasI
-  middleware.pdf](File:DasI_middleware.pdf "File:DasI middleware.pdf")  
+  middleware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/DasI_middleware.pdf "File:DasI middleware.pdf")  
   740 KB  
 
   
@@ -181,7 +181,7 @@ The following 13 files are in this category, out of 13 total.
   
 
   [GMOD
-  Architecture.ppt](File:GMOD_Architecture.ppt "File:GMOD Architecture.ppt")  
+  Architecture.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/GMOD_Architecture.ppt "File:GMOD Architecture.ppt")  
   116 KB  
 
   
@@ -204,7 +204,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [HibernateChadoAPI.pdf](File:HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
+  [HibernateChadoAPI.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/HibernateChadoAPI.pdf "File:HibernateChadoAPI.pdf")  
   92 KB  
 
   
@@ -227,7 +227,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [IBatis.pdf](File:IBatis.pdf "File:IBatis.pdf")  
+  [IBatis.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/IBatis.pdf "File:IBatis.pdf")  
   6.59 MB  
 
   
@@ -250,7 +250,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [Modware.pdf](File:Modware.pdf "File:Modware.pdf")  
+  [Modware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Modware.pdf "File:Modware.pdf")  
   177 KB  
 
   
@@ -275,7 +275,7 @@ The following 13 files are in this category, out of 13 total.
   
 
   [Object Relational
-  Mapp...](File:Object_Relational_Mapping_Layer.pdf "File:Object Relational Mapping Layer.pdf")  
+  Mapp...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/Object_Relational_Mapping_Layer.pdf "File:Object Relational Mapping Layer.pdf")  
   72 KB  
 
   
@@ -298,7 +298,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [PerlChadoGMOD2008.pdf](File:PerlChadoGMOD2008.pdf "File:PerlChadoGMOD2008.pdf")  
+  [PerlChadoGMOD2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/PerlChadoGMOD2008.pdf "File:PerlChadoGMOD2008.pdf")  
   138 KB  
 
   
@@ -321,7 +321,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [PSU.pdf](File:PSU.pdf "File:PSU.pdf")  
+  [PSU.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/56/PSU.pdf "File:PSU.pdf")  
   224 KB  
 
   
@@ -344,7 +344,7 @@ The following 13 files are in this category, out of 13 total.
 
   
 
-  [XORT.pdf](File:XORT.pdf "File:XORT.pdf")  
+  [XORT.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/XORT.pdf "File:XORT.pdf")  
   155 KB  
 
   

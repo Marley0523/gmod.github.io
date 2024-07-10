@@ -100,7 +100,7 @@ This category contains only the following file.
 
   
 
-  [Day-050517.ppt](File:Day-050517.ppt "File:Day-050517.ppt")  
+  [Day-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Day-050517.ppt "File:Day-050517.ppt")  
   253 KB  
 
   

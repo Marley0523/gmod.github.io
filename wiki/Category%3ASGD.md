@@ -70,7 +70,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [BoG2006.pdf](File:BoG2006.pdf "File:BoG2006.pdf")  
+  [BoG2006.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/BoG2006.pdf "File:BoG2006.pdf")  
   575 KB  
 
   
@@ -93,7 +93,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Sgd-050516.ppt](File:Sgd-050516.ppt "File:Sgd-050516.ppt")  
+  [Sgd-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/87/Sgd-050516.ppt "File:Sgd-050516.ppt")  
   1.29 MB  
 
   
@@ -116,7 +116,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [SGD-gmod.ppt](File:SGD-gmod.ppt "File:SGD-gmod.ppt")  
+  [SGD-gmod.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/SGD-gmod.ppt "File:SGD-gmod.ppt")  
   162 KB  
 
   
@@ -139,7 +139,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [SGD-t.gif](File:SGD-t.gif "File:SGD-t.gif")  
+  [SGD-t.gif](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8f/SGD-t.gif "File:SGD-t.gif")  
   3 KB  
 
   

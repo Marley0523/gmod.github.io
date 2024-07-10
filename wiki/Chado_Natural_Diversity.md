@@ -82,7 +82,7 @@ research. This first version was directly inspired by the
 rel="nofollow">Genomic Diversity and Phenotype Data Model (GDPDM)</a>,
 which comes out of Cornell. The GDPDM has great documentation and is
 also described in [this
-presentation](File:GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt").
+presentation](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt").
 
 ### <span id="Links" class="mw-headline">Links</span>
 

@@ -88,7 +88,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Jan2009TableEdit.pdf](File:Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf")  
+  [Jan2009TableEdit.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d9/Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf")  
   10.59 MB  
 
   
@@ -111,7 +111,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [Jan2010TableEdit.pdf](File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf")  
+  [Jan2010TableEdit.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf")  
   8.62 MB  
 
   
@@ -134,7 +134,7 @@ The following 3 files are in this category, out of 3 total.
 
   
 
-  [SteinWareRetreat.ppt](File:SteinWareRetreat.ppt "File:SteinWareRetreat.ppt")  
+  [SteinWareRetreat.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/SteinWareRetreat.ppt "File:SteinWareRetreat.ppt")  
   492 KB  
 
   

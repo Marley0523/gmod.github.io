@@ -70,7 +70,7 @@ The following 2 files are in this category, out of 2 total.
 
   
 
-  [Oconnor-050516.ppt](File:Oconnor-050516.ppt "File:Oconnor-050516.ppt")  
+  [Oconnor-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cd/Oconnor-050516.ppt "File:Oconnor-050516.ppt")  
   1.23 MB  
 
   
@@ -94,7 +94,7 @@ The following 2 files are in this category, out of 2 total.
   
 
   [Turnkey sept
-  2003.ppt](File:Turnkey_sept_2003.ppt "File:Turnkey sept 2003.ppt")  
+  2003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/Turnkey_sept_2003.ppt "File:Turnkey sept 2003.ppt")  
   155 KB  
 
   

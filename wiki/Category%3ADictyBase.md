@@ -72,7 +72,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
+  [DictyBase-phenotypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
   
@@ -95,7 +95,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [DictyLogo.png](File:DictyLogo.png "File:DictyLogo.png")  
+  [DictyLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/DictyLogo.png "File:DictyLogo.png")  
   12 KB  
 
   
@@ -118,7 +118,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [DictyMainPageLogo.png](File:DictyMainPageLogo.png "File:DictyMainPageLogo.png")  
+  [DictyMainPageLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/DictyMainPageLogo.png "File:DictyMainPageLogo.png")  
   22 KB  
 
   
@@ -141,7 +141,7 @@ The following 4 files are in this category, out of 4 total.
 
   
 
-  [Just-050516.ppt](File:Just-050516.ppt "File:Just-050516.ppt")  
+  [Just-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e7/Just-050516.ppt "File:Just-050516.ppt")  
   218 KB  
 
   

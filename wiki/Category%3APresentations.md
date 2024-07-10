@@ -88,7 +88,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [2011 10
-  Galaxy.pdf](File:2011_10_Galaxy.pdf "File:2011 10 Galaxy.pdf")  
+  Galaxy.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf "File:2011 10 Galaxy.pdf")  
   9.33 MB  
 
   
@@ -112,7 +112,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [April2012
-  CommunityBui...](File:April2012_CommunityBuilding.pdf "File:April2012 CommunityBuilding.pdf")  
+  CommunityBui...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/April2012_CommunityBuilding.pdf "File:April2012 CommunityBuilding.pdf")  
   3.06 MB  
 
   
@@ -136,7 +136,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [April2012GalaxyCloudMa...](File:April2012GalaxyCloudManWorkshop.pdf "File:April2012GalaxyCloudManWorkshop.pdf")  
+  [April2012GalaxyCloudMa...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/April2012GalaxyCloudManWorkshop.pdf "File:April2012GalaxyCloudManWorkshop.pdf")  
   1.05 MB  
 
   
@@ -159,7 +159,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [April2012GalaxyUpdate.pdf](File:April2012GalaxyUpdate.pdf "File:April2012GalaxyUpdate.pdf")  
+  [April2012GalaxyUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/April2012GalaxyUpdate.pdf "File:April2012GalaxyUpdate.pdf")  
   2.23 MB  
 
   
@@ -183,7 +183,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [BioPivot
-  Sept2010.pdf](File:BioPivot_Sept2010.pdf "File:BioPivot Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ae/BioPivot_Sept2010.pdf "File:BioPivot Sept2010.pdf")  
   5.16 MB  
 
   
@@ -206,7 +206,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [CosmicGBrowseSept2010.pdf](File:CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")  
+  [CosmicGBrowseSept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6c/CosmicGBrowseSept2010.pdf "File:CosmicGBrowseSept2010.pdf")  
   800 KB  
 
   
@@ -230,7 +230,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [CRAWL
-  Sept2010.pdf](File:CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/CRAWL_Sept2010.pdf "File:CRAWL Sept2010.pdf")  
   9.35 MB  
 
   
@@ -253,7 +253,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [DAS Sept2010.pdf](File:DAS_Sept2010.pdf "File:DAS Sept2010.pdf")  
+  [DAS Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/DAS_Sept2010.pdf "File:DAS Sept2010.pdf")  
   1.16 MB  
 
   
@@ -277,7 +277,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Dave Clements
-  2014.pdf](File:Dave_Clements_2014.pdf "File:Dave Clements 2014.pdf")  
+  2014.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/Dave_Clements_2014.pdf "File:Dave Clements 2014.pdf")  
   2.61 MB  
 
   
@@ -300,7 +300,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [DeployingGalaxyCloudBO...](File:DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf")  
+  [DeployingGalaxyCloudBO...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/DeployingGalaxyCloudBOSC2010.pdf "File:DeployingGalaxyCloudBOSC2010.pdf")  
   6.05 MB  
 
   
@@ -324,7 +324,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GalaxyWorkshop0 2011
-  1...](File:GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf")  
   7.51 MB  
 
   
@@ -348,7 +348,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GalaxyWorkshop1 2011
-  1...](File:GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf")  
   4.33 MB  
 
   
@@ -372,7 +372,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GalaxyWorkshop2 2011
-  1...](File:GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf")  
   4.01 MB  
 
   
@@ -396,7 +396,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GalaxyWorkshop3 2011
-  1...](File:GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf")  
+  1...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf")  
   51 KB  
 
   
@@ -420,7 +420,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GMOD2013
-  CommunityBuil...](File:GMOD2013_CommunityBuilding.pdf "File:GMOD2013 CommunityBuilding.pdf")  
+  CommunityBuil...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b8/GMOD2013_CommunityBuilding.pdf "File:GMOD2013 CommunityBuilding.pdf")  
   6.41 MB  
 
   
@@ -444,7 +444,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GMOD2013
-  GalaxyUpdate.pdf](File:GMOD2013_GalaxyUpdate.pdf "File:GMOD2013 GalaxyUpdate.pdf")  
+  GalaxyUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/GMOD2013_GalaxyUpdate.pdf "File:GMOD2013 GalaxyUpdate.pdf")  
   4.23 MB  
 
   
@@ -467,7 +467,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GMODForIEvoBio2010.pdf](File:GMODForIEvoBio2010.pdf "File:GMODForIEvoBio2010.pdf")  
+  [GMODForIEvoBio2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODForIEvoBio2010.pdf "File:GMODForIEvoBio2010.pdf")  
   7.46 MB  
 
   
@@ -491,7 +491,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GO Curation
-  Sept2010.pdf](File:GO_Curation_Sept2010.pdf "File:GO Curation Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/GO_Curation_Sept2010.pdf "File:GO Curation Sept2010.pdf")  
   10.12 MB  
 
   
@@ -515,7 +515,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [04-Stajich NESCENT
-  GMO...](File:04-Stajich_NESCENT_GMOD.pdf "File:04-Stajich NESCENT GMOD.pdf")  
+  GMO...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/61/04-Stajich_NESCENT_GMOD.pdf "File:04-Stajich NESCENT GMOD.pdf")  
   1.66 MB  
 
   
@@ -540,7 +540,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [2005-10 ISMB
-  Ontology-...](File:2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf")  
+  Ontology-...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/44/2005-10_ISMB_Ontology-Building_various.pdf "File:2005-10 ISMB Ontology-Building various.pdf")  
   1.07 MB  
 
   
@@ -564,7 +564,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [2007 11 05 CMap
-  GMOD.ppt](File:2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")  
+  GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/2007_11_05_CMap_GMOD.ppt "File:2007 11 05 CMap GMOD.ppt")  
   127 KB  
 
   
@@ -587,7 +587,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [2009SumSchMAKER.pdf](File:2009SumSchMAKER.pdf "File:2009SumSchMAKER.pdf")  
+  [2009SumSchMAKER.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9e/2009SumSchMAKER.pdf "File:2009SumSchMAKER.pdf")  
   15.99 MB  
 
   
@@ -610,7 +610,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [AGA NGS 2009.pdf](File:AGA_NGS_2009.pdf "File:AGA NGS 2009.pdf")  
+  [AGA NGS 2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/50/AGA_NGS_2009.pdf "File:AGA NGS 2009.pdf")  
   17.08 MB  
 
   
@@ -633,7 +633,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Apollo.GMOD.May2003.ppt](File:Apollo.GMOD.May2003.ppt "File:Apollo.GMOD.May2003.ppt")  
+  [Apollo.GMOD.May2003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Apollo.GMOD.May2003.ppt "File:Apollo.GMOD.May2003.ppt")  
   386 KB  
 
   
@@ -656,7 +656,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Apollo.GMOD.ppt](File:Apollo.GMOD.ppt "File:Apollo.GMOD.ppt")  
+  [Apollo.GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Apollo.GMOD.ppt "File:Apollo.GMOD.ppt")  
   243 KB  
 
   
@@ -679,7 +679,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Apollo.ppt](File:Apollo.ppt "File:Apollo.ppt")  
+  [Apollo.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Apollo.ppt "File:Apollo.ppt")  
   765 KB  
 
   
@@ -702,7 +702,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Aug2009DASUpdate.pdf](File:Aug2009DASUpdate.pdf "File:Aug2009DASUpdate.pdf")  
+  [Aug2009DASUpdate.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a7/Aug2009DASUpdate.pdf "File:Aug2009DASUpdate.pdf")  
   664 KB  
 
   
@@ -726,7 +726,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Aug2009GBrowse
-  syn.pdf](File:Aug2009GBrowse_syn.pdf "File:Aug2009GBrowse syn.pdf")  
+  syn.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/55/Aug2009GBrowse_syn.pdf "File:Aug2009GBrowse syn.pdf")  
   2.91 MB  
 
   
@@ -749,7 +749,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Aug2009GBrowse2ImplPer...](File:Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
+  [Aug2009GBrowse2ImplPer...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/Aug2009GBrowse2ImplPersp.pdf "File:Aug2009GBrowse2ImplPersp.pdf")  
   624 KB  
 
   
@@ -772,7 +772,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Aug2009GBrowseOrg.pdf](File:Aug2009GBrowseOrg.pdf "File:Aug2009GBrowseOrg.pdf")  
+  [Aug2009GBrowseOrg.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/18/Aug2009GBrowseOrg.pdf "File:Aug2009GBrowseOrg.pdf")  
   9.25 MB  
 
   
@@ -795,7 +795,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Aug2009JBrowse.pdf](File:Aug2009JBrowse.pdf "File:Aug2009JBrowse.pdf")  
+  [Aug2009JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/Aug2009JBrowse.pdf "File:Aug2009JBrowse.pdf")  
   823 KB  
 
   
@@ -818,7 +818,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Aug2009Sam.pdf](File:Aug2009Sam.pdf "File:Aug2009Sam.pdf")  
+  [Aug2009Sam.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/Aug2009Sam.pdf "File:Aug2009Sam.pdf")  
   582 KB  
 
   
@@ -842,7 +842,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [BenFaga GMOD June
-  2006...](File:BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")  
+  2006...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/99/BenFaga_GMOD_June_2006.ppt "File:BenFaga GMOD June 2006.ppt")  
   160 KB  
 
   
@@ -865,7 +865,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Biocyc-GMOD-2006.ppt](File:Biocyc-GMOD-2006.ppt "File:Biocyc-GMOD-2006.ppt")  
+  [Biocyc-GMOD-2006.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Biocyc-GMOD-2006.ppt "File:Biocyc-GMOD-2006.ppt")  
   614 KB  
 
   
@@ -888,7 +888,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Cain-050516.ppt](File:Cain-050516.ppt "File:Cain-050516.ppt")  
+  [Cain-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/Cain-050516.ppt "File:Cain-050516.ppt")  
   818 KB  
 
   
@@ -911,7 +911,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [CMap Overview.pdf](File:CMap_Overview.pdf "File:CMap Overview.pdf")  
+  [CMap Overview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/04/CMap_Overview.pdf "File:CMap Overview.pdf")  
   3.03 MB  
 
   
@@ -935,7 +935,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Cmap update sept
-  03.ppt](File:Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")  
+  03.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Cmap_update_sept_03.ppt "File:Cmap update sept 03.ppt")  
   18 KB  
 
   
@@ -958,7 +958,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Cmap-050516.pdf](File:Cmap-050516.pdf "File:Cmap-050516.pdf")  
+  [Cmap-050516.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/16/Cmap-050516.pdf "File:Cmap-050516.pdf")  
   201 KB  
 
   
@@ -981,7 +981,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [CMapGBrowseSMBE2009.pdf](File:CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
+  [CMapGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/CMapGBrowseSMBE2009.pdf "File:CMapGBrowseSMBE2009.pdf")  
   2.51 MB  
 
   
@@ -1005,7 +1005,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Common gene
-  page.ppt](File:Common_gene_page.ppt "File:Common gene page.ppt")  
+  page.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt "File:Common gene page.ppt")  
   81 KB  
 
   
@@ -1028,7 +1028,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [CommunityAnnotationNov...](File:CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
+  [CommunityAnnotationNov...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
   2.86 MB  
 
   
@@ -1051,7 +1051,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Crosby 040526.ppt](File:Crosby_040526.ppt "File:Crosby 040526.ppt")  
+  [Crosby 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Crosby_040526.ppt "File:Crosby 040526.ppt")  
   866 KB  
 
   
@@ -1074,7 +1074,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Das.ppt](File:Das.ppt "File:Das.ppt")  
+  [Das.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/74/Das.ppt "File:Das.ppt")  
   132 KB  
 
   
@@ -1097,7 +1097,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Day-050517.ppt](File:Day-050517.ppt "File:Day-050517.ppt")  
+  [Day-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/27/Day-050517.ppt "File:Day-050517.ppt")  
   253 KB  
 
   
@@ -1120,7 +1120,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
+  [DictyBase-phenotypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
   
@@ -1143,7 +1143,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Emmert 040526.pdf](File:Emmert_040526.pdf "File:Emmert 040526.pdf")  
+  [Emmert 040526.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Emmert_040526.pdf "File:Emmert 040526.pdf")  
   213 KB  
 
   
@@ -1167,7 +1167,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Flybase
-  topoview.pdf](File:Flybase_topoview.pdf "File:Flybase topoview.pdf")  
+  topoview.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3a/Flybase_topoview.pdf "File:Flybase topoview.pdf")  
   102 KB  
 
   
@@ -1190,7 +1190,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Flybase-ng-may03.pdf](File:Flybase-ng-may03.pdf "File:Flybase-ng-may03.pdf")  
+  [Flybase-ng-may03.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5b/Flybase-ng-may03.pdf "File:Flybase-ng-may03.pdf")  
   584 KB  
 
   
@@ -1213,7 +1213,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Gbrowse syn.pdf](File:Gbrowse_syn.pdf "File:Gbrowse syn.pdf")  
+  [Gbrowse syn.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Gbrowse_syn.pdf "File:Gbrowse syn.pdf")  
   2.05 MB  
 
   
@@ -1237,7 +1237,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GBrowse
-  synSMBE2009.pdf](File:GBrowse_synSMBE2009.pdf "File:GBrowse synSMBE2009.pdf")  
+  synSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GBrowse_synSMBE2009.pdf "File:GBrowse synSMBE2009.pdf")  
   5 MB  
 
   
@@ -1261,7 +1261,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Gbrowse update may
-  200...](File:Gbrowse_update_may_2003.ppt "File:Gbrowse update may 2003.ppt")  
+  200...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/Gbrowse_update_may_2003.ppt "File:Gbrowse update may 2003.ppt")  
   1.05 MB  
 
   
@@ -1285,7 +1285,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Gbrowse update sept
-  12...](File:Gbrowse_update_sept_12_2003.ppt "File:Gbrowse update sept 12 2003.ppt")  
+  12...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/Gbrowse_update_sept_12_2003.ppt "File:Gbrowse update sept 12 2003.ppt")  
   376 KB  
 
   
@@ -1308,7 +1308,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Gbrowse-050516.ppt](File:Gbrowse-050516.ppt "File:Gbrowse-050516.ppt")  
+  [Gbrowse-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/78/Gbrowse-050516.ppt "File:Gbrowse-050516.ppt")  
   1.07 MB  
 
   
@@ -1331,7 +1331,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GBrowse3GMOD2008.pdf](File:GBrowse3GMOD2008.pdf "File:GBrowse3GMOD2008.pdf")  
+  [GBrowse3GMOD2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/GBrowse3GMOD2008.pdf "File:GBrowse3GMOD2008.pdf")  
   194 KB  
 
   
@@ -1354,7 +1354,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GBS PAG10.pdf](File:GBS_PAG10.pdf "File:GBS PAG10.pdf")  
+  [GBS PAG10.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/GBS_PAG10.pdf "File:GBS PAG10.pdf")  
   5.01 MB  
 
   
@@ -1378,7 +1378,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GDPDM GMOD
-  presentatio...](File:GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt")  
+  presentatio...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3f/GDPDM_GMOD_presentation20060630.ppt "File:GDPDM GMOD presentation20060630.ppt")  
   853 KB  
 
   
@@ -1402,7 +1402,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Gelbart
-  040528.ppt](File:Gelbart_040528.ppt "File:Gelbart 040528.ppt")  
+  040528.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6f/Gelbart_040528.ppt "File:Gelbart 040528.ppt")  
   757 KB  
 
   
@@ -1425,7 +1425,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GeneExpressionIWhenWhe...](File:GeneExpressionIWhenWhere.ppt "File:GeneExpressionIWhenWhere.ppt")  
+  [GeneExpressionIWhenWhe...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/da/GeneExpressionIWhenWhere.ppt "File:GeneExpressionIWhenWhere.ppt")  
   2.43 MB  
 
   
@@ -1449,7 +1449,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Gilbert
-  040526.ppt](File:Gilbert_040526.ppt "File:Gilbert 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gilbert_040526.ppt "File:Gilbert 040526.ppt")  
   1.43 MB  
 
   
@@ -1473,7 +1473,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [GMOD Web
-  Update.ppt](File:GMOD_Web_Update.ppt "File:GMOD Web Update.ppt")  
+  Update.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/GMOD_Web_Update.ppt "File:GMOD Web Update.ppt")  
   288 KB  
 
   
@@ -1496,7 +1496,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Gmod-argos-sep03.pdf](File:Gmod-argos-sep03.pdf "File:Gmod-argos-sep03.pdf")  
+  [Gmod-argos-sep03.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/07/Gmod-argos-sep03.pdf "File:Gmod-argos-sep03.pdf")  
   5.22 MB  
 
   
@@ -1519,7 +1519,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Gmod-datagrid.ppt](File:Gmod-datagrid.ppt "File:Gmod-datagrid.ppt")  
+  [Gmod-datagrid.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/Gmod-datagrid.ppt "File:Gmod-datagrid.ppt")  
   177 KB  
 
   
@@ -1542,7 +1542,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GMOD-Nov-2007.ppt](File:GMOD-Nov-2007.ppt "File:GMOD-Nov-2007.ppt")  
+  [GMOD-Nov-2007.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/GMOD-Nov-2007.ppt "File:GMOD-Nov-2007.ppt")  
   356 KB  
 
   
@@ -1565,7 +1565,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GMODCourse2010-JBrowse...](File:GMODCourse2010-JBrowseIntro.pdf "File:GMODCourse2010-JBrowseIntro.pdf")  
+  [GMODCourse2010-JBrowse...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/GMODCourse2010-JBrowseIntro.pdf "File:GMODCourse2010-JBrowseIntro.pdf")  
   507 KB  
 
   
@@ -1588,7 +1588,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [GMODGBrowseSMBE2009.pdf](File:GMODGBrowseSMBE2009.pdf "File:GMODGBrowseSMBE2009.pdf")  
+  [GMODGBrowseSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/93/GMODGBrowseSMBE2009.pdf "File:GMODGBrowseSMBE2009.pdf")  
   18.41 MB  
 
   
@@ -1611,7 +1611,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Harris 040527.ppt](File:Harris_040527.ppt "File:Harris 040527.ppt")  
+  [Harris 040527.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Harris_040527.ppt "File:Harris 040527.ppt")  
   288 KB  
 
   
@@ -1634,7 +1634,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [IMDB.ppt](File:IMDB.ppt "File:IMDB.ppt")  
+  [IMDB.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f0/IMDB.ppt "File:IMDB.ppt")  
   555 KB  
 
   
@@ -1658,7 +1658,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [InterMine
-  middleware.pdf](File:InterMine_middleware.pdf "File:InterMine middleware.pdf")  
+  middleware.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/InterMine_middleware.pdf "File:InterMine middleware.pdf")  
   5 MB  
 
   
@@ -1681,7 +1681,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [IntermineGMOD2008.pdf](File:IntermineGMOD2008.pdf "File:IntermineGMOD2008.pdf")  
+  [IntermineGMOD2008.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/IntermineGMOD2008.pdf "File:IntermineGMOD2008.pdf")  
   940 KB  
 
   
@@ -1704,7 +1704,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009ArtemisChadoGen...](File:Jan2009ArtemisChadoGeneDB.pdf "File:Jan2009ArtemisChadoGeneDB.pdf")  
+  [Jan2009ArtemisChadoGen...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8a/Jan2009ArtemisChadoGeneDB.pdf "File:Jan2009ArtemisChadoGeneDB.pdf")  
   52 KB  
 
   
@@ -1727,7 +1727,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009BeeSpace.ppt](File:Jan2009BeeSpace.ppt "File:Jan2009BeeSpace.ppt")  
+  [Jan2009BeeSpace.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/dc/Jan2009BeeSpace.ppt "File:Jan2009BeeSpace.ppt")  
   417 KB  
 
   
@@ -1750,7 +1750,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009BioMart.pdf](File:Jan2009BioMart.pdf "File:Jan2009BioMart.pdf")  
+  [Jan2009BioMart.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/Jan2009BioMart.pdf "File:Jan2009BioMart.pdf")  
   3.42 MB  
 
   
@@ -1773,7 +1773,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009BovineGenomeDat...](File:Jan2009BovineGenomeDatabase.pdf "File:Jan2009BovineGenomeDatabase.pdf")  
+  [Jan2009BovineGenomeDat...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Jan2009BovineGenomeDatabase.pdf "File:Jan2009BovineGenomeDatabase.pdf")  
   242 KB  
 
   
@@ -1796,7 +1796,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009GenreicGenePage...](File:Jan2009GenreicGenePage.pdf "File:Jan2009GenreicGenePage.pdf")  
+  [Jan2009GenreicGenePage...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/Jan2009GenreicGenePage.pdf "File:Jan2009GenreicGenePage.pdf")  
   410 KB  
 
   
@@ -1819,7 +1819,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009JBrowse.pdf](File:Jan2009JBrowse.pdf "File:Jan2009JBrowse.pdf")  
+  [Jan2009JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ca/Jan2009JBrowse.pdf "File:Jan2009JBrowse.pdf")  
   354 KB  
 
   
@@ -1842,7 +1842,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009MarineGenomics.pdf](File:Jan2009MarineGenomics.pdf "File:Jan2009MarineGenomics.pdf")  
+  [Jan2009MarineGenomics.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Jan2009MarineGenomics.pdf "File:Jan2009MarineGenomics.pdf")  
   7.39 MB  
 
   
@@ -1865,7 +1865,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009modENCODE.pdf](File:Jan2009modENCODE.pdf "File:Jan2009modENCODE.pdf")  
+  [Jan2009modENCODE.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/Jan2009modENCODE.pdf "File:Jan2009modENCODE.pdf")  
   3.8 MB  
 
   
@@ -1888,7 +1888,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009TableEdit.pdf](File:Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf")  
+  [Jan2009TableEdit.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d9/Jan2009TableEdit.pdf "File:Jan2009TableEdit.pdf")  
   10.59 MB  
 
   
@@ -1911,7 +1911,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2009WebBrowse.pdf](File:Jan2009WebBrowse.pdf "File:Jan2009WebBrowse.pdf")  
+  [Jan2009WebBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/Jan2009WebBrowse.pdf "File:Jan2009WebBrowse.pdf")  
   2.89 MB  
 
   
@@ -1934,7 +1934,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010InterMine.pdf](File:Jan2010InterMine.pdf "File:Jan2010InterMine.pdf")  
+  [Jan2010InterMine.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4e/Jan2010InterMine.pdf "File:Jan2010InterMine.pdf")  
   495 KB  
 
   
@@ -1957,7 +1957,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010PhaseolusGenes.pdf](File:Jan2010PhaseolusGenes.pdf "File:Jan2010PhaseolusGenes.pdf")  
+  [Jan2010PhaseolusGenes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/Jan2010PhaseolusGenes.pdf "File:Jan2010PhaseolusGenes.pdf")  
   4.63 MB  
 
   
@@ -1980,7 +1980,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010RediscoveryDB.pdf](File:Jan2010RediscoveryDB.pdf "File:Jan2010RediscoveryDB.pdf")  
+  [Jan2010RediscoveryDB.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Jan2010RediscoveryDB.pdf "File:Jan2010RediscoveryDB.pdf")  
   6.49 MB  
 
   
@@ -2003,7 +2003,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010TableEdit.pdf](File:Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf")  
+  [Jan2010TableEdit.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/81/Jan2010TableEdit.pdf "File:Jan2010TableEdit.pdf")  
   8.62 MB  
 
   
@@ -2026,7 +2026,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010UIPrototypes.pdf](File:Jan2010UIPrototypes.pdf "File:Jan2010UIPrototypes.pdf")  
+  [Jan2010UIPrototypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/Jan2010UIPrototypes.pdf "File:Jan2010UIPrototypes.pdf")  
   831 KB  
 
   
@@ -2050,7 +2050,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Kasprzyk
-  040526.ppt](File:Kasprzyk_040526.ppt "File:Kasprzyk 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0b/Kasprzyk_040526.ppt "File:Kasprzyk 040526.ppt")  
   781 KB  
 
   
@@ -2073,7 +2073,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Kasprzyk-050516.ppt](File:Kasprzyk-050516.ppt "File:Kasprzyk-050516.ppt")  
+  [Kasprzyk-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3c/Kasprzyk-050516.ppt "File:Kasprzyk-050516.ppt")  
   1.48 MB  
 
   
@@ -2096,7 +2096,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Kenny 040526.ppt](File:Kenny_040526.ppt "File:Kenny 040526.ppt")  
+  [Kenny 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/Kenny_040526.ppt "File:Kenny 040526.ppt")  
   1.9 MB  
 
   
@@ -2119,7 +2119,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Kodira 040526.ppt](File:Kodira_040526.ppt "File:Kodira 040526.ppt")  
+  [Kodira 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/Kodira_040526.ppt "File:Kodira 040526.ppt")  
   1.2 MB  
 
   
@@ -2142,7 +2142,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Lapp.pdf](File:Lapp.pdf "File:Lapp.pdf")  
+  [Lapp.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0a/Lapp.pdf "File:Lapp.pdf")  
   1.2 MB  
 
   
@@ -2165,7 +2165,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [MAKERSMBE2009.pdf](File:MAKERSMBE2009.pdf "File:MAKERSMBE2009.pdf")  
+  [MAKERSMBE2009.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/MAKERSMBE2009.pdf "File:MAKERSMBE2009.pdf")  
   13.16 MB  
 
   
@@ -2189,7 +2189,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Matthews
-  040526.ppt](File:Matthews_040526.ppt "File:Matthews 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/Matthews_040526.ppt "File:Matthews 040526.ppt")  
   629 KB  
 
   
@@ -2212,7 +2212,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Mgi.ppt](File:Mgi.ppt "File:Mgi.ppt")  
+  [Mgi.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f3/Mgi.ppt "File:Mgi.ppt")  
   463 KB  
 
   
@@ -2235,7 +2235,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [NGSWithGMODWorkshop.pdf](File:NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf")  
+  [NGSWithGMODWorkshop.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/NGSWithGMODWorkshop.pdf "File:NGSWithGMODWorkshop.pdf")  
   11.08 MB  
 
   
@@ -2259,7 +2259,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [OCCBio GBrowse
-  NGS.pdf](File:OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
+  NGS.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/OCCBio_GBrowse_NGS.pdf "File:OCCBio GBrowse NGS.pdf")  
   979 KB  
 
   
@@ -2282,7 +2282,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Oconnor-050516.ppt](File:Oconnor-050516.ppt "File:Oconnor-050516.ppt")  
+  [Oconnor-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cd/Oconnor-050516.ppt "File:Oconnor-050516.ppt")  
   1.23 MB  
 
   
@@ -2306,7 +2306,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PAG 2011
-  GNPAnnot.pdf](File:PAG_2011_GNPAnnot.pdf "File:PAG 2011 GNPAnnot.pdf")  
+  GNPAnnot.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e4/PAG_2011_GNPAnnot.pdf "File:PAG 2011 GNPAnnot.pdf")  
   4.49 MB  
 
   
@@ -2329,7 +2329,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2010CMap3D.pdf](File:PAG2010CMap3D.pdf "File:PAG2010CMap3D.pdf")  
+  [PAG2010CMap3D.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/PAG2010CMap3D.pdf "File:PAG2010CMap3D.pdf")  
   2.96 MB  
 
   
@@ -2352,7 +2352,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2010JBrowse.pdf](File:PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf")  
+  [PAG2010JBrowse.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9c/PAG2010JBrowse.pdf "File:PAG2010JBrowse.pdf")  
   270 KB  
 
   
@@ -2375,7 +2375,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2010MAKER.pdf](File:PAG2010MAKER.pdf "File:PAG2010MAKER.pdf")  
+  [PAG2010MAKER.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/PAG2010MAKER.pdf "File:PAG2010MAKER.pdf")  
   7 MB  
 
   
@@ -2398,7 +2398,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2010Tripal.pdf](File:PAG2010Tripal.pdf "File:PAG2010Tripal.pdf")  
+  [PAG2010Tripal.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2b/PAG2010Tripal.pdf "File:PAG2010Tripal.pdf")  
   3.07 MB  
 
   
@@ -2422,7 +2422,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PAG2011 URGI
-  Grapevine...](File:PAG2011_URGI_Grapevine.pdf "File:PAG2011 URGI Grapevine.pdf")  
+  Grapevine...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0c/PAG2011_URGI_Grapevine.pdf "File:PAG2011 URGI Grapevine.pdf")  
   2.58 MB  
 
   
@@ -2445,7 +2445,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Pathways.ppt](File:Pathways.ppt "File:Pathways.ppt")  
+  [Pathways.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/63/Pathways.ppt "File:Pathways.ppt")  
   252 KB  
 
   
@@ -2469,7 +2469,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PubFetch
-  Vijay.ppt](File:PubFetch_Vijay.ppt "File:PubFetch Vijay.ppt")  
+  Vijay.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/PubFetch_Vijay.ppt "File:PubFetch Vijay.ppt")  
   1.27 MB  
 
   
@@ -2493,7 +2493,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PubSearch
-  09062003.ppt](File:PubSearch_09062003.ppt "File:PubSearch 09062003.ppt")  
+  09062003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/PubSearch_09062003.ppt "File:PubSearch 09062003.ppt")  
   2.09 MB  
 
   
@@ -2517,7 +2517,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PubSearch update
-  CSHL.ppt](File:PubSearch_update_CSHL.ppt "File:PubSearch update CSHL.ppt")  
+  CSHL.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/PubSearch_update_CSHL.ppt "File:PubSearch update CSHL.ppt")  
   94 KB  
 
   
@@ -2540,7 +2540,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Sabo 040526.ppt](File:Sabo_040526.ppt "File:Sabo 040526.ppt")  
+  [Sabo 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Sabo_040526.ppt "File:Sabo 040526.ppt")  
   447 KB  
 
   
@@ -2564,7 +2564,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Schlueter
-  040526.ppt](File:Schlueter_040526.ppt "File:Schlueter 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/Schlueter_040526.ppt "File:Schlueter 040526.ppt")  
   1.95 MB  
 
   
@@ -2587,7 +2587,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Sgd-050516.ppt](File:Sgd-050516.ppt "File:Sgd-050516.ppt")  
+  [Sgd-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/87/Sgd-050516.ppt "File:Sgd-050516.ppt")  
   1.29 MB  
 
   
@@ -2610,7 +2610,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [SGD-gmod.ppt](File:SGD-gmod.ppt "File:SGD-gmod.ppt")  
+  [SGD-gmod.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/af/SGD-gmod.ppt "File:SGD-gmod.ppt")  
   162 KB  
 
   
@@ -2633,7 +2633,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Smutniak-050516.ppt](File:Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
+  [Smutniak-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
   343 KB  
 
   
@@ -2657,7 +2657,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Stajich GMOD
-  2006-06-3...](File:Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
+  2006-06-3...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/Stajich_GMOD_2006-06-30.pdf "File:Stajich GMOD 2006-06-30.pdf")  
   2.36 MB  
 
   
@@ -2680,7 +2680,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [SteinWareRetreat.ppt](File:SteinWareRetreat.ppt "File:SteinWareRetreat.ppt")  
+  [SteinWareRetreat.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/SteinWareRetreat.ppt "File:SteinWareRetreat.ppt")  
   492 KB  
 
   
@@ -2703,7 +2703,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [SyntenyModeling.pdf](File:SyntenyModeling.pdf "File:SyntenyModeling.pdf")  
+  [SyntenyModeling.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/SyntenyModeling.pdf "File:SyntenyModeling.pdf")  
   686 KB  
 
   
@@ -2726,7 +2726,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Terry 040526.ppt](File:Terry_040526.ppt "File:Terry 040526.ppt")  
+  [Terry 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Terry_040526.ppt "File:Terry 040526.ppt")  
   814 KB  
 
   
@@ -2750,7 +2750,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Textpresso GMOD
-  0903.ppt](File:Textpresso_GMOD_0903.ppt "File:Textpresso GMOD 0903.ppt")  
+  0903.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b7/Textpresso_GMOD_0903.ppt "File:Textpresso GMOD 0903.ppt")  
   762 KB  
 
   
@@ -2774,7 +2774,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Turnkey sept
-  2003.ppt](File:Turnkey_sept_2003.ppt "File:Turnkey sept 2003.ppt")  
+  2003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/Turnkey_sept_2003.ppt "File:Turnkey sept 2003.ppt")  
   155 KB  
 
   
@@ -2797,7 +2797,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Vision.pdf](File:Vision.pdf "File:Vision.pdf")  
+  [Vision.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bc/Vision.pdf "File:Vision.pdf")  
   4.7 MB  
 
   
@@ -2820,7 +2820,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Workshop.pdf](File:Workshop.pdf "File:Workshop.pdf")  
+  [Workshop.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Workshop.pdf "File:Workshop.pdf")  
   381 KB  
 
   
@@ -2843,7 +2843,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Worley 040526.ppt](File:Worley_040526.ppt "File:Worley 040526.ppt")  
+  [Worley 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/Worley_040526.ppt "File:Worley 040526.ppt")  
   362 KB  
 
   
@@ -2866,7 +2866,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [ISGAWebGBrowseSept2010...](File:ISGAWebGBrowseSept2010.pdf "File:ISGAWebGBrowseSept2010.pdf")  
+  [ISGAWebGBrowseSept2010...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d1/ISGAWebGBrowseSept2010.pdf "File:ISGAWebGBrowseSept2010.pdf")  
   4.16 MB  
 
   
@@ -2890,7 +2890,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [ISyIPGMODforComparativ...](File:ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
+  [ISyIPGMODforComparativ...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/aa/ISyIPGMODforComparativeGenomics.pdf "File:ISyIPGMODforComparativeGenomics.pdf")  
   14.44 MB  
 
   
@@ -2913,7 +2913,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010ErgatisForBiolo...](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf")  
+  [Jan2010ErgatisForBiolo...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf")  
   3.31 MB  
 
   
@@ -2936,7 +2936,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010GBrowseCancerGe...](File:Jan2010GBrowseCancerGenome.pdf "File:Jan2010GBrowseCancerGenome.pdf")  
+  [Jan2010GBrowseCancerGe...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/Jan2010GBrowseCancerGenome.pdf "File:Jan2010GBrowseCancerGenome.pdf")  
   296 KB  
 
   
@@ -2959,7 +2959,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [Jan2010Testpresso.pdf](File:Jan2010Testpresso.pdf "File:Jan2010Testpresso.pdf")  
+  [Jan2010Testpresso.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/06/Jan2010Testpresso.pdf "File:Jan2010Testpresso.pdf")  
   90 KB  
 
   
@@ -2983,7 +2983,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Literature Curation
-  Se...](File:Literature_Curation_Sept2010.pdf "File:Literature Curation Sept2010.pdf")  
+  Se...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/62/Literature_Curation_Sept2010.pdf "File:Literature Curation Sept2010.pdf")  
   327 KB  
 
   
@@ -3006,7 +3006,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [MalaysiaGalaxyTutorial...](File:MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")  
+  [MalaysiaGalaxyTutorial...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8e/MalaysiaGalaxyTutorialSlides.pdf "File:MalaysiaGalaxyTutorialSlides.pdf")  
   5.1 MB  
 
   
@@ -3029,7 +3029,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [March2011Modware.ppt](File:March2011Modware.ppt "File:March2011Modware.ppt")  
+  [March2011Modware.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/March2011Modware.ppt "File:March2011Modware.ppt")  
   1.38 MB  
 
   
@@ -3053,7 +3053,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [MohellibiGrapevine
-  PAG...](File:MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
+  PAG...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/MohellibiGrapevine_PAG2015.pdf "File:MohellibiGrapevine PAG2015.pdf")  
   3.15 MB  
 
   
@@ -3076,7 +3076,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [NGSTranscriptomeISGAEr...](File:NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf")  
+  [NGSTranscriptomeISGAEr...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/10/NGSTranscriptomeISGAErgatis.pdf "File:NGSTranscriptomeISGAErgatis.pdf")  
   2.8 MB  
 
   
@@ -3100,7 +3100,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [Pag 2011 galaxy
-  talk.pdf](File:Pag_2011_galaxy_talk.pdf "File:Pag 2011 galaxy talk.pdf")  
+  talk.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ad/Pag_2011_galaxy_talk.pdf "File:Pag 2011 galaxy talk.pdf")  
   4.69 MB  
 
   
@@ -3123,7 +3123,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2012GalaxyIntroTalk...](File:PAG2012GalaxyIntroTalk.pdf "File:PAG2012GalaxyIntroTalk.pdf")  
+  [PAG2012GalaxyIntroTalk...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/PAG2012GalaxyIntroTalk.pdf "File:PAG2012GalaxyIntroTalk.pdf")  
   3.48 MB  
 
   
@@ -3146,7 +3146,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2012GMODInTheCloud.pdf](File:PAG2012GMODInTheCloud.pdf "File:PAG2012GMODInTheCloud.pdf")  
+  [PAG2012GMODInTheCloud.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/PAG2012GMODInTheCloud.pdf "File:PAG2012GMODInTheCloud.pdf")  
   1.3 MB  
 
   
@@ -3169,7 +3169,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PAG2012MAPHiTSTalk.pdf](File:PAG2012MAPHiTSTalk.pdf "File:PAG2012MAPHiTSTalk.pdf")  
+  [PAG2012MAPHiTSTalk.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/12/PAG2012MAPHiTSTalk.pdf "File:PAG2012MAPHiTSTalk.pdf")  
   8.13 MB  
 
   
@@ -3193,7 +3193,7 @@ The following 135 files are in this category, out of 135 total.
   
 
   [PAG2014
-  GalaxyCloudMan...](File:PAG2014_GalaxyCloudMan.pdf "File:PAG2014 GalaxyCloudMan.pdf")  
+  GalaxyCloudMan...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1d/PAG2014_GalaxyCloudMan.pdf "File:PAG2014 GalaxyCloudMan.pdf")  
   4.03 MB  
 
   
@@ -3216,7 +3216,7 @@ The following 135 files are in this category, out of 135 total.
 
   
 
-  [PathwayToolsTalkISMB20...](File:PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")  
+  [PathwayToolsTalkISMB20...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/PathwayToolsTalkISMB2010.pdf "File:PathwayToolsTalkISMB2010.pdf")  
   3.64 MB  
 
   

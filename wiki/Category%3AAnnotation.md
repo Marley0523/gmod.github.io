@@ -153,7 +153,7 @@ The following 11 files are in this category, out of 11 total.
   
 
   [GO Curation
-  Sept2010.pdf](File:GO_Curation_Sept2010.pdf "File:GO Curation Sept2010.pdf")  
+  Sept2010.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/70/GO_Curation_Sept2010.pdf "File:GO Curation Sept2010.pdf")  
   10.12 MB  
 
   
@@ -176,7 +176,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Crosby 040526.ppt](File:Crosby_040526.ppt "File:Crosby 040526.ppt")  
+  [Crosby 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9b/Crosby_040526.ppt "File:Crosby 040526.ppt")  
   866 KB  
 
   
@@ -199,7 +199,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [DictyBase-phenotypes.pdf](File:DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
+  [DictyBase-phenotypes.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/05/DictyBase-phenotypes.pdf "File:DictyBase-phenotypes.pdf")  
   1.01 MB  
 
   
@@ -222,7 +222,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Kodira 040526.ppt](File:Kodira_040526.ppt "File:Kodira 040526.ppt")  
+  [Kodira 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/ce/Kodira_040526.ppt "File:Kodira 040526.ppt")  
   1.2 MB  
 
   
@@ -245,7 +245,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Sabo 040526.ppt](File:Sabo_040526.ppt "File:Sabo 040526.ppt")  
+  [Sabo 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/Sabo_040526.ppt "File:Sabo 040526.ppt")  
   447 KB  
 
   
@@ -269,7 +269,7 @@ The following 11 files are in this category, out of 11 total.
   
 
   [Schlueter
-  040526.ppt](File:Schlueter_040526.ppt "File:Schlueter 040526.ppt")  
+  040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/Schlueter_040526.ppt "File:Schlueter 040526.ppt")  
   1.95 MB  
 
   
@@ -292,7 +292,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Smutniak-050516.ppt](File:Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
+  [Smutniak-050516.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e9/Smutniak-050516.ppt "File:Smutniak-050516.ppt")  
   343 KB  
 
   
@@ -315,7 +315,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Workshop.pdf](File:Workshop.pdf "File:Workshop.pdf")  
+  [Workshop.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/be/Workshop.pdf "File:Workshop.pdf")  
   381 KB  
 
   
@@ -338,7 +338,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Worley 040526.ppt](File:Worley_040526.ppt "File:Worley 040526.ppt")  
+  [Worley 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/Worley_040526.ppt "File:Worley 040526.ppt")  
   362 KB  
 
   
@@ -361,7 +361,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Zhang-050517.ppt](File:Zhang-050517.ppt "File:Zhang-050517.ppt")  
+  [Zhang-050517.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/Zhang-050517.ppt "File:Zhang-050517.ppt")  
   745 KB  
 
   
@@ -384,7 +384,7 @@ The following 11 files are in this category, out of 11 total.
 
   
 
-  [Jan2010ErgatisForBiolo...](File:Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf")  
+  [Jan2010ErgatisForBiolo...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/Jan2010ErgatisForBiologists.pdf "File:Jan2010ErgatisForBiologists.pdf")  
   3.31 MB  
 
   

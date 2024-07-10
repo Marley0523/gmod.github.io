@@ -151,7 +151,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Apollo.GMOD.May2003.ppt](File:Apollo.GMOD.May2003.ppt "File:Apollo.GMOD.May2003.ppt")  
+  [Apollo.GMOD.May2003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/Apollo.GMOD.May2003.ppt "File:Apollo.GMOD.May2003.ppt")  
   386 KB  
 
   
@@ -174,7 +174,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Apollo.GMOD.ppt](File:Apollo.GMOD.ppt "File:Apollo.GMOD.ppt")  
+  [Apollo.GMOD.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ed/Apollo.GMOD.ppt "File:Apollo.GMOD.ppt")  
   243 KB  
 
   
@@ -197,7 +197,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Apollo.ppt](File:Apollo.ppt "File:Apollo.ppt")  
+  [Apollo.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4c/Apollo.ppt "File:Apollo.ppt")  
   765 KB  
 
   
@@ -220,7 +220,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [ApolloLogo.png](File:ApolloLogo.png "File:ApolloLogo.png")  
+  [ApolloLogo.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1b/ApolloLogo.png "File:ApolloLogo.png")  
   62 KB  
 
   
@@ -244,7 +244,7 @@ The following 9 files are in this category, out of 9 total.
   
 
   [Cain GI
-  poster.pdf](File:Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
+  poster.pdf](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/Cain_GI_poster.pdf "File:Cain GI poster.pdf")  
   522 KB  
 
   
@@ -267,7 +267,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [CommunityAnnotationNov...](File:CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
+  [CommunityAnnotationNov...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/CommunityAnnotationNov2007.pdf "File:CommunityAnnotationNov2007.pdf")  
   2.86 MB  
 
   
@@ -290,7 +290,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Gb-2002-3-12-research0...](File:Gb-2002-3-12-research0082.pdf "File:Gb-2002-3-12-research0082.pdf")  
+  [Gb-2002-3-12-research0...](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/Gb-2002-3-12-research0082.pdf "File:Gb-2002-3-12-research0082.pdf")  
   2.36 MB  
 
   
@@ -313,7 +313,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Harris 040527.ppt](File:Harris_040527.ppt "File:Harris 040527.ppt")  
+  [Harris 040527.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/cb/Harris_040527.ppt "File:Harris 040527.ppt")  
   288 KB  
 
   
@@ -336,7 +336,7 @@ The following 9 files are in this category, out of 9 total.
 
   
 
-  [Worley 040526.ppt](File:Worley_040526.ppt "File:Worley 040526.ppt")  
+  [Worley 040526.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/Worley_040526.ppt "File:Worley 040526.ppt")  
   362 KB  
 
   

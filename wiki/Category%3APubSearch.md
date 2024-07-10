@@ -67,7 +67,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [PubFetch
-  Vijay.ppt](File:PubFetch_Vijay.ppt "File:PubFetch Vijay.ppt")  
+  Vijay.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/PubFetch_Vijay.ppt "File:PubFetch Vijay.ppt")  
   1.27 MB  
 
   
@@ -91,7 +91,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [PubSearch
-  09062003.ppt](File:PubSearch_09062003.ppt "File:PubSearch 09062003.ppt")  
+  09062003.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0e/PubSearch_09062003.ppt "File:PubSearch 09062003.ppt")  
   2.09 MB  
 
   
@@ -115,7 +115,7 @@ The following 3 files are in this category, out of 3 total.
   
 
   [PubSearch update
-  CSHL.ppt](File:PubSearch_update_CSHL.ppt "File:PubSearch update CSHL.ppt")  
+  CSHL.ppt](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/PubSearch_update_CSHL.ppt "File:PubSearch update CSHL.ppt")  
   94 KB  
 
   
