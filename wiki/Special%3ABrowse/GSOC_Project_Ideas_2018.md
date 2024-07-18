@@ -20,9 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253AGSOC&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253AGSOC (page does not exist)">GSOC</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GSOC "Special%253ASearchByProperty/GSOC")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%253AGSoC "Category%253AGSoC")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GSoC "Special%253ASearchByProperty/GSoC")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">GSOC  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GSOC "Special%253ASearchByProperty/GSOC")</span></span> , <span class="smwb-value">[GSoC](/wiki/Category%253AGSoC "Category%253AGSoC")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GSoC "Special%253ASearchByProperty/GSoC")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">29 January 2018 18:55:20  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/29-20January-202018-2018:55:20 "Special%253ASearchByProperty/Modification-20date/29-20January-202018-2018:55:20")</span></span> |
 
 <span id="smw_browse_incoming"></span>

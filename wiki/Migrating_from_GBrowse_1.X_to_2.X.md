@@ -192,11 +192,8 @@ option, giving the host and port of the slave in URL format:
       remote renderer = http://node23.serverfarm.org:1800
 
 The *database* and *remote renderer* options are independent of each
-other, and can be mixed and matched according to your needs. See <a
-href="http://gmod.org/mediawiki/index.php?title=Running_GBrowse_2.0_Rendering_Slaves&amp;action=edit&amp;redlink=1"
-class="new"
-title="Running GBrowse 2.0 Rendering Slaves (page does not exist)">Running
-GBrowse 2.0 Rendering Slaves</a> for more information on setting up
+other, and can be mixed and matched according to your needs. See Running
+GBrowse 2.0 Rendering Slaves for more information on setting up
 renderers.
 
 

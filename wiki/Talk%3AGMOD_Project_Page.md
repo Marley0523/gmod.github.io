@@ -17,9 +17,7 @@
 
 
 
-How to create a new project in GMOD? --<a
-href="http://gmod.org/mediawiki/index.php?title=User%253AMohpur&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AMohpur (page does not exist)">Mohpur</a> 11:58,
+How to create a new project in GMOD? --Mohpur 11:58,
 30 June 2007 (EDT)
 
 - Hi Mohpur, the easiest thing to do is to contact

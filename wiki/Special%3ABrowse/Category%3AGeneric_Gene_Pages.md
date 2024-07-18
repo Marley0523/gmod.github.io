@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AGeneric_Gene_Pages&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AGeneric Gene Pages (page does not exist)">Category%253AGeneric
-Gene Pages</a> |  |
+| Category%253AGeneric
+Gene Pages |  |
 
 |     |                                |
 |-----|--------------------------------|

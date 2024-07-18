@@ -29,10 +29,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Software_Engineer&amp;action=edit&amp;redlink=1"
-class="new" title="Software Engineer (page does not exist)">Software
-Engineer</a>" on this wiki!** See also the search results found.
+**Create the page "Software
+Engineer" on this wiki!** See also the search results found.
 
 - 
 

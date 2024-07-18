@@ -38,9 +38,7 @@ APIs can make use of them.
 Isn't this really a controlled vocabulary?
 
 At VectorBase we have decided to get a set of terms together and share
-with GMOD partners ASAP via these wiki pages. <a
-href="http://gmod.org/mediawiki/index.php?title=User%253AMaccallr&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AMaccallr (page does not exist)">Maccallr</a>
+with GMOD partners ASAP via these wiki pages. Maccallr
 14:44, 26 May 2010 (UTC)
 
 

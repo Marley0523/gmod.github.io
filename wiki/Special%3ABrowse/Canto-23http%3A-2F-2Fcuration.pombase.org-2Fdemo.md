@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Canto "Special%253ASearchByProperty/Linktopic/Canto")</span></span> |
+| Linktopic | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Canto "Special%253ASearchByProperty/Linktopic/Canto")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/demo-20server "Special%253ASearchByProperty/Linktype/demo-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://curation.pombase.org/demo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fdemo "Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fdemo")</span></span> |
+| Linkurl | <span class="smwb-value">http://curation.pombase.org/demo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fdemo "Special%253ASearchByProperty/Linkurl/http:-2F-2Fcuration.pombase.org-2Fdemo")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

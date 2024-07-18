@@ -128,12 +128,8 @@ feed</span></span>
 
 |  |  |
 |----|----|
-| <a
-href="http://gmod.org/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a> | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Chado/Schema "Special%253ASearchByProperty/Chado/Schema")</span> |
-| <a
-href="http://gmod.org/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Talk%253ABio/Schema "Special%253ASearchByProperty/Talk%253ABio/Schema")</span> |
+| Chado | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Chado/Schema "Special%253ASearchByProperty/Chado/Schema")</span> |
+| Talk:Bio | Schema <span class="smwsearch">[+](Special%253ASearchByProperty/Talk%253ABio/Schema "Special%253ASearchByProperty/Talk%253ABio/Schema")</span> |
 
 
 

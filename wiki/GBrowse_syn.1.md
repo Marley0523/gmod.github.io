@@ -106,10 +106,7 @@ class="external text" rel="nofollow">+</a></span> |
 | [Has development status](Property%253AHas_development_status "Property:Has development status") | active <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20development-20status/active "Special%253ASearchByProperty/Has-20development-20status/active")</span> |
 | [Has download URL](Property%253AHas_download_URL "Property:Has download URL") | <a href="https://github.com/GMOD/GBrowse" class="external free"
 rel="nofollow">https://github.com/GMOD/GBrowse</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20download-20URL/https%253A-2F-2Fgithub.com-2FGMOD-2FGBrowse "Special%253ASearchByProperty/Has-20download-20URL/https%253A-2F-2Fgithub.com-2FGMOD-2FGBrowse")</span> |
-| <a
-href="http://gmod.org/mediawiki/index.php?title=Property:Has_full_name&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Has full name (page does not exist)">Has full name</a> | Generic Synteny Browser <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20full-20name/Generic-20Synteny-20Browser "Special%253ASearchByProperty/Has-20full-20name/Generic-20Synteny-20Browser")</span> |
+| Has full name | Generic Synteny Browser <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20full-20name/Generic-20Synteny-20Browser "Special%253ASearchByProperty/Has-20full-20name/Generic-20Synteny-20Browser")</span> |
 | [Has logo](Property%253AHas_logo "Property:Has logo") | GBrowse_syn_logo.png <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20logo/GBrowse_syn_logo.png "Special%253ASearchByProperty/Has-20logo/GBrowse syn logo.png")</span> |
 | [Has software maturity status](Property%253AHas_software_maturity_status "Property:Has software maturity status") | beta release <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20software-20maturity-20status/beta-20release "Special%253ASearchByProperty/Has-20software-20maturity-20status/beta-20release")</span> |
 | [Has support status](Property%253AHas_support_status "Property:Has support status") | active <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20support-20status/active "Special%253ASearchByProperty/Has-20support-20status/active")</span> |

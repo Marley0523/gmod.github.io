@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AWebGBrowse&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AWebGBrowse (page does not exist)">Category%253AWebGBrowse</a> |  |
+| Category%253AWebGBrowse |  |
 
 |     |                                |
 |-----|--------------------------------|

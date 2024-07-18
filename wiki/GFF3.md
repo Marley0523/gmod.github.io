@@ -24,12 +24,7 @@
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span style="font-size: 160%; line-height: 120%"> <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category%253ASession&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ASession (page does not exist)">Session</a></span><br />
+<td><span style="font-size: 160%; line-height: 120%"> GFF3 Session</span><br />
 <br />
 &#10;<p><a href="2013_GMOD_Summer_School"
 title="2013 GMOD Summer School">2013 GMOD Summer School</a><br />

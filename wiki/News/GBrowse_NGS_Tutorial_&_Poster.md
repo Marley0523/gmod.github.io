@@ -37,9 +37,7 @@ data using the
 <a href="http://samtools.sourceforge.net" class="external text"
 rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam. This tutorial
 was originally taught at the [Bioinformatics Australia 2009 (BA2009)
-GMOD Workshop](../BA2009 "BA2009"). The tutorial includes a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> image to
+GMOD Workshop](../BA2009 "BA2009"). The tutorial includes a VMware image to
 work with and step-by-step instructions for visualizing the example
 human data that comes with the SAMtools package.
 

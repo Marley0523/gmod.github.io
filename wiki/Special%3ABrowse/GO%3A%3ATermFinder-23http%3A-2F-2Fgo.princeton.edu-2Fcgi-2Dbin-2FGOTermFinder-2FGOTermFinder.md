@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">GO::TermFinder  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GO::TermFinder "Special%253ASearchByProperty/Linktopic/GO::TermFinder")</span></span> |
+| Linktopic | <span class="smwb-value">GO::TermFinder  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GO::TermFinder "Special%253ASearchByProperty/Linktopic/GO::TermFinder")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/public-20server "Special%253ASearchByProperty/Linktype/public-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder")</span></span> |
+| Linkurl | <span class="smwb-value">http://go.princeton.edu/cgi-bin/GOTermFinder/GOTermFinder  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgo.princeton.edu-2Fcgi-2Dbin-2FGOTermFinder-2FGOTermFinder")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

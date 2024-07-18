@@ -30,8 +30,7 @@
 
 
 **Create the page
-"<a href="/mediawiki/index.php?title=GSOC&amp;action=edit&amp;redlink=1"
-class="new" title="GSOC (page does not exist)">GSOC</a>" on this wiki!**
+"GSOC" on this wiki!**
 See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

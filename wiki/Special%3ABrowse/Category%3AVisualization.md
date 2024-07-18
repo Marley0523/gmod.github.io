@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AVisualization&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AVisualization (page does not exist)">Category%253AVisualization</a> |  |
+| Category%253AVisualization |  |
 
 |     |                                |
 |-----|--------------------------------|

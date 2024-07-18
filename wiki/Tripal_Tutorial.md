@@ -766,9 +766,7 @@ Now, restart the webserver:
 
 ### <span id="Install_phpPgAdmin" class="mw-headline">Install phpPgAdmin</span>
 
-phpPgAdmin is a nice web-based utility for easy administration of a <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:PostgreSQL&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:PostgreSQL (page does not exist)">PostgreSQL</a>
+phpPgAdmin is a nice web-based utility for easy administration of a PostgreSQL
 database. **Note**: PhpPgAdmin is not required for successful operation
 of Tripal but is very useful.
 

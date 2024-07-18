@@ -182,9 +182,7 @@ We'll just install everything with the default options.
 
 ### <span id="Checking_Out_the_Code_From_SVN" class="mw-headline">Checking Out the Code From SVN</span>
 
-You can also checkout the code from SourceForge <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:SVN&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:SVN (page does not exist)">SVN</a>. You'll need
+You can also checkout the code from SourceForge SVN. You'll need
 a SVN client to do so. This will guarantee that you'll get the latest
 Apollo code. Note that you'll be getting the development version and as
 such might not be fully stable. The following commands apply to Unix

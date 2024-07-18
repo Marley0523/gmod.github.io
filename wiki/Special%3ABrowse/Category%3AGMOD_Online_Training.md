@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AGMOD_Online_Training&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AGMOD Online Training (page does not exist)">Category%253AGMOD
-Online Training</a> |  |
+| Category%253AGMOD
+Online Training |  |
 
 |     |                                |
 |-----|--------------------------------|

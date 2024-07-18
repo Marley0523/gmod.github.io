@@ -112,10 +112,8 @@ rel="nofollow">Dictybase</a> top-line:**
 ---------------------------  
 GenomeÂ Browser, BLAST, dictyMart, Stock Center, Research Tools,
 Help,Links, Contact  
-<a
-href="http://gmod.org/mediawiki/index.php?title=Down_menus;_please_expand&amp;action=edit&amp;redlink=1"
-class="new" title="Down menus; please expand (page does not exist)">down
-menus; please expand</a>
+down
+menus; please expand
 
 **<a href="http://rgd.mcw.edu/" class="external text"
 rel="nofollow">RGD</a> top-boxes:**  

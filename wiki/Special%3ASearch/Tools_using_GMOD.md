@@ -28,10 +28,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Tools_using_GMOD&amp;action=edit&amp;redlink=1"
-class="new" title="Tools using GMOD (page does not exist)">Tools using
-GMOD</a>" on this wiki!** See also the search results found.
+**Create the page "Tools using
+GMOD" on this wiki!** See also the search results found.
 
 - 
 

@@ -16,8 +16,7 @@
 
 |                                                                       |     |
 |-----------------------------------------------------------------------|-----|
-| <a href="/mediawiki/index.php?title=17&amp;action=edit&amp;redlink=1" 
- class="new" title="17 (page does not exist)">17</a>                    |     |
+| 17                    |     |
 
 |     |                                |
 |-----|--------------------------------|

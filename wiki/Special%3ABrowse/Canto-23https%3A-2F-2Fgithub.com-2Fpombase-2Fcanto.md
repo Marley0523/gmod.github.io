@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Canto "Special%253ASearchByProperty/Linktopic/Canto")</span></span> |
+| Linktopic | <span class="smwb-value">Canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Canto "Special%253ASearchByProperty/Linktopic/Canto")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/download "Special%253ASearchByProperty/Linktype/download")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://github.com/pombase/canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fpombase-2Fcanto "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fpombase-2Fcanto")</span></span> |
+| Linkurl | <span class="smwb-value">https://github.com/pombase/canto  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fpombase-2Fcanto "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fpombase-2Fcanto")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

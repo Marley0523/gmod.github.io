@@ -78,11 +78,8 @@ June 2008 (EDT)_
 
 ## <span id="Renaming_proposal.3F" class="mw-headline">Renaming proposal?</span>
 
-Hi, I propose that this article is renamed '<a
-href="http://gmod.org/mediawiki/index.php?title=Configuring_GBrowse&amp;action=edit&amp;redlink=1"
-class="new"
-title="Configuring GBrowse (page does not exist)">Configuring
-GBrowse</a>', and that we start to split it up into sub documents by
+Hi, I propose that this article is renamed 'Configuring
+GBrowse', and that we start to split it up into sub documents by
 heading. Each sub document would be categorized 'GBrowse configuration'.
 It's just so large and unwieldy - I think lots of stuff, especially
 advanced functionality could be split out.

@@ -186,10 +186,8 @@ operating system will be maintained as a clean, RPM-only environment.
 
 # <span id="Authors" class="mw-headline">Authors</span>
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253ABoconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ABoconnor (page does not exist)">Brian
-O'Connor</a>
+Brian
+O'Connor
 
 
 

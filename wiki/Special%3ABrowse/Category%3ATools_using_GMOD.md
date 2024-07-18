@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ATools_using_GMOD&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ATools using GMOD (page does not exist)">Category%253ATools
-using GMOD</a> |  |
+| Category%253ATools
+using GMOD |  |
 
 |     |                                |
 |-----|--------------------------------|

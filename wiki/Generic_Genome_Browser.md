@@ -169,10 +169,7 @@ href="Special%253ASearchByProperty/Has-20development-20status/inactive"
 title="Special%253ASearchByProperty/Has-20development-20status/inactive">+</a></span></td>
 </tr>
 <tr class="odd row-odd">
-<td class="smwpropname"><a
-href="http://gmod.org/mediawiki/index.php?title=Property:Has_full_name&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Has full name (page does not exist)">Has full name</a></td>
+<td class="smwpropname">Has full name</td>
 <td class="smwprops">Generic Genome Browser <span class="smwsearch"><a
 href="Special%253ASearchByProperty/Has-20full-20name/Generic-20Genome-20Browser"
 title="Special%253ASearchByProperty/Has-20full-20name/Generic-20Genome-20Browser">+</a></span></td>

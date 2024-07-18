@@ -17,10 +17,8 @@
 
 
 
-*By <a
-href="http://gmod.org/mediawiki/index.php?title=Chris_Mungall&amp;action=edit&amp;redlink=1"
-class="new" title="Chris Mungall (page does not exist)">Chris
-Mungall</a>.*
+*By Chris
+Mungall.*
 
 I wholeheartedly agree with the need for tests and test-driven
 development

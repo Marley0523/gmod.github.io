@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ADatabase&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ADatabase (page does not exist)">Category%253ADatabase</a> |  |
+| Category%253ADatabase |  |
 
 |     |                                |
 |-----|--------------------------------|

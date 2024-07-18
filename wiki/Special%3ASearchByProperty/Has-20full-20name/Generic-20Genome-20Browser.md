@@ -14,10 +14,8 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Has_full_name&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Has full name (page does not exist)">Has
-full name</a>" with value "Generic Genome Browser"  
+A list of all pages that have property "Has
+full name" with value "Generic Genome Browser"  
 
 - [GBrowse](/wiki/GBrowse "GBrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>
 

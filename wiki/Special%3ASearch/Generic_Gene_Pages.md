@@ -29,10 +29,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Generic_Gene_Pages&amp;action=edit&amp;redlink=1"
-class="new" title="Generic Gene Pages (page does not exist)">Generic
-Gene Pages</a>" on this wiki!** See also the search results found.
+**Create the page "Generic
+Gene Pages" on this wiki!** See also the search results found.
 
 - 
 

@@ -20,10 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[News Items](/wiki/Category%253ANews_Items "Category%253ANews Items")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/News-20Items "Special%253ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253AWebApollo&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AWebApollo (page does not exist)">WebApollo</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WebApollo "Special%253ASearchByProperty/WebApollo")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[News Items](/wiki/Category%253ANews_Items "Category%253ANews Items")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/News-20Items "Special%253ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/WebApollo "Special%253ASearchByProperty/WebApollo")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">17 May 2013 19:26:18  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/17-20May-202013-2019:26:18 "Special%253ASearchByProperty/Modification-20date/17-20May-202013-2019:26:18")</span></span> |
 
 <span id="smw_browse_incoming"></span>

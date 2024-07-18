@@ -29,8 +29,7 @@
 
 
 **Create the page
-"<a href="/mediawiki/index.php?title=Users&amp;action=edit&amp;redlink=1"
-class="new" title="Users (page does not exist)">Users</a>" on this
+"Users" on this
 wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

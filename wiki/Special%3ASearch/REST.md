@@ -29,8 +29,7 @@
 
 
 **Create the page
-"<a href="/mediawiki/index.php?title=REST&amp;action=edit&amp;redlink=1"
-class="new" title="REST (page does not exist)">REST</a>" on this wiki!**
+"REST" on this wiki!**
 See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

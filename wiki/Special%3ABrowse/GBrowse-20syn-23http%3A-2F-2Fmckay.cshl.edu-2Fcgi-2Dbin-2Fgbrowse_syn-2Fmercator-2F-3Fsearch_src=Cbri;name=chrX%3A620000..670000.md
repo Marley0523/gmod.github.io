@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Cbri;name%3DchrX:620000..670000&amp;action=edit&amp;redlink=1"
-class="new"
-title="Cbri;name=chrX:620000..670000 (page does not exist)">Cbri;name=chrX:620000..670000</a> |  |
+| Cbri;name=chrX:620000..670000 |  |
 
 |     |                                |
 |-----|--------------------------------|

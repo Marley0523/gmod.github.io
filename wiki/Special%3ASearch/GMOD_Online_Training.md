@@ -28,10 +28,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=GMOD_Online_Training&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD Online Training (page does not exist)">GMOD
-Online Training</a>" on this wiki!** See also the search results found.
+**Create the page "GMOD
+Online Training" on this wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>
 

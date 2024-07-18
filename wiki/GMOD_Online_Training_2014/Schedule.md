@@ -127,10 +127,7 @@ href="../WebApollo.1" title="WebApollo">WebApollo</a></td>
 </tr>
 <tr class="odd">
 <td>Day 4, AM</td>
-<td><a
-href="http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/GBrowse_Tutorial&amp;action=edit&amp;redlink=1"
-class="new"
-title="GMOD Online Training 2014/GBrowse Tutorial (page does not exist)">GBrowse</a></td>
+<td>GBrowse</td>
 <td><a href="../User%253AScott" title="User%253AScott">Scott Cain</a></td>
 <td><a href="http://oicr.on.ca/" class="external text"
 rel="nofollow">Ontario Institute for Cancer Research</a><br />
@@ -163,10 +160,7 @@ rel="nofollow">Galaxy Project</a><br />
 </tr>
 <tr class="even">
 <td>Day 5, AM</td>
-<td><a
-href="http://gmod.org/mediawiki/index.php?title=GMOD_Online_Training_2014/InterMine_Tutorial&amp;action=edit&amp;redlink=1"
-class="new"
-title="GMOD Online Training 2014/InterMine Tutorial (page does not exist)">InterMine</a></td>
+<td>InterMine</td>
 <td>Alex Kalderimis</td>
 <td><a href="http://cam.ac.uk" class="external text"
 rel="nofollow">University of Cambridge, UK</a><br />

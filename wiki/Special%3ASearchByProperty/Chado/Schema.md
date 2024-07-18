@@ -14,9 +14,7 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a>" with
+A list of all pages that have property "Chado" with
 value "Schema"  
 
 - [Bio%253A%253AChado%253A%253ASchema](/wiki/Bio%253A%253AChado%253A%253ASchema "Bio%253A%253AChado%253A%253ASchema")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/Bio%253A%253AChado%253A%253ASchema "Special%253ABrowse/Bio%253A%253AChado%253A%253ASchema")</span>

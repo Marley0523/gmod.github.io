@@ -776,10 +776,8 @@ the user. It is a space-delimited list of plugin names. Plugins are Perl
 .pm modules that can be found in the plugins subdirectory of the
 GBrowse2 configuration directory. Select the ones you wish to activate,
 and put their in this configuration directive, minus the ".pm"
-extension. See <a
-href="http://gmod.org/mediawiki/index.php?title=GBrowse2_Plugins&amp;action=edit&amp;redlink=1"
-class="new" title="GBrowse2 Plugins (page does not exist)">GBrowse2
-Plugins</a> for a description of what each plugin does.
+extension. See GBrowse2
+Plugins for a description of what each plugin does.
 
 <!-- -->
 

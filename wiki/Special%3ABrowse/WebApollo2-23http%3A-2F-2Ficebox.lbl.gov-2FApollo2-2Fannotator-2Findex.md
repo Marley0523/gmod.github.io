@@ -20,18 +20,11 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Username: demo@demo.com, Password: demo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Username:-20demo@demo.com,-20Password:-20demo "Special%253ASearchByProperty/Linkdesc/Username:-20demo@demo.com,-20Password:-20demo")</span></span> |
+| Linkdesc | <span class="smwb-value">Username: demo@demo.com, Password: demo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Username:-20demo@demo.com,-20Password:-20demo "Special%253ASearchByProperty/Linkdesc/Username:-20demo@demo.com,-20Password:-20demo")</span></span> |
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">WebApollo2 demo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/WebApollo2-20demo "Special%253ASearchByProperty/Linktitle/WebApollo2-20demo")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo2  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo2 "Special%253ASearchByProperty/Linktopic/WebApollo2")</span></span> |
+| Linktopic | <span class="smwb-value">WebApollo2  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo2 "Special%253ASearchByProperty/Linktopic/WebApollo2")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/demo-20server "Special%253ASearchByProperty/Linktype/demo-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://icebox.lbl.gov/Apollo2/annotator/index  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex "Special%253ASearchByProperty/Linkurl/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex")</span></span> |
+| Linkurl | <span class="smwb-value">http://icebox.lbl.gov/Apollo2/annotator/index  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex "Special%253ASearchByProperty/Linkurl/http:-2F-2Ficebox.lbl.gov-2FApollo2-2Fannotator-2Findex")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

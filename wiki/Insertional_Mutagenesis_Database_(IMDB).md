@@ -57,9 +57,7 @@ Meeting](May_2003_GMOD_Meeting "May 2003 GMOD Meeting").
 <!-- -->
 
 **Contact**    
-<a
-href="http://gmod.org/mediawiki/index.php?title=Addresshere&amp;action=edit&amp;redlink=1"
-class="new" title="Addresshere (page does not exist)">addresshere</a>.
+addresshere.
 
 <!-- -->
 

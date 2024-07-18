@@ -16,9 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ANGS&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ANGS (page does not exist)">Category%253ANGS</a> |  |
+| Category%253ANGS |  |
 
 |     |                                |
 |-----|--------------------------------|

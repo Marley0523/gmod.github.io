@@ -18,9 +18,7 @@
 
 
 Did an emacs lover write this page?
---[Cjfields](User%253ACjfields "User%253ACjfields") (<a
-href="http://gmod.org/mediawiki/index.php?title=User_talk:Cjfields&amp;action=edit&amp;redlink=1"
-class="new" title="User talk:Cjfields (page does not exist)">talk</a>)
+--[Cjfields](User%253ACjfields "User%253ACjfields") (talk)
 23:01, 2 October 2013 (EDT)
 
 - I believe so :-) [Scott](User%253AScott "User%253AScott")

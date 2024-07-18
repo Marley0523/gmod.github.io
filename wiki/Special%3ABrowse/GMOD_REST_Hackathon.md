@@ -20,9 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253AREST&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253AREST (page does not exist)">REST</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/REST "Special%253ASearchByProperty/REST")</span></span> , <span class="smwb-value">[Events](/wiki/Category%253AEvents "Category%253AEvents")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Events "Special%253ASearchByProperty/Events")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">REST  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/REST "Special%253ASearchByProperty/REST")</span></span> , <span class="smwb-value">[Events](/wiki/Category%253AEvents "Category%253AEvents")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Events "Special%253ASearchByProperty/Events")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">9 June 2010 19:54:05  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/9-20June-202010-2019:54:05 "Special%253ASearchByProperty/Modification-20date/9-20June-202010-2019:54:05")</span></span> |
 
 <span id="smw_browse_incoming"></span>

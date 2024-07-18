@@ -143,9 +143,7 @@ course overview</td>
 </tr>
 <tr class="even">
 <td style="background-color: #ccffff">10:25am</td>
-<td style="text-align: center; background-color: #ddffff;"><strong><a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> and <a
+<td style="text-align: center; background-color: #ddffff;"><strong>VMware and <a
 href="BioPerl" title="BioPerl">BioPerl</a> Setup</strong><br />
 <strong>Everyone</strong><br />
 Get the GMOD Summer School <a href="#System_Requirements">VMware</a>
@@ -429,9 +427,7 @@ as homework to be done prior to the course's start.**
 |----|----|
 | <a href="http://www.vmware.com" rel="nofollow" title="VMware"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/VmwareLogoSmall.jpg" width="100"
-height="26" alt="VMware" /></a> | *Participants are required to bring their own laptops, already capable of running a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image.* |
+height="26" alt="VMware" /></a> | *Participants are required to bring their own laptops, already capable of running a VMware system image.* |
 
 The course started with getting a <a
 href="ftp://ftp.gmod.org/pub/gmod/Courses/2009/SummerSchoolAmericas/GmodSumSch2009Amer1.zip"
