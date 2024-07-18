@@ -17,9 +17,7 @@
 
 
 
---<a
-href="http://gmod.org/mediawiki/index.php?title=User%253AVdejager&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AVdejager (page does not exist)">Vdejager</a>
+--Vdejager
 11:07, 1 September 2008 (UTC)
 
 

@@ -49,9 +49,7 @@ N/A
 <!-- -->
 
 **Contact**    
-<a
-href="http://gmod.org/mediawiki/index.php?title=Allen_Day&amp;action=edit&amp;redlink=1"
-class="new" title="Allen Day (page does not exist)">Allen Day</a>.
+Allen Day.
 
 <!-- -->
 

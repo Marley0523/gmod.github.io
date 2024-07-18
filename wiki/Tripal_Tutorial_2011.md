@@ -253,9 +253,7 @@ designed to do the following:
 
 In a CMS, data can be defined as nearly anything: documents, movies,
 pictures, phone numbers, scientific data, and so forth. CMSs are
-frequently used for storing, controlling, <a
-href="http://gmod.org/mediawiki/index.php?title=Version_control&amp;action=edit&amp;redlink=1"
-class="new" title="Version control (page does not exist)">revising</a>,
+frequently used for storing, controlling, revising,
 semantically enriching, and publishing documentation. Serving as a
 central repository, the CMS increases the version level of new updates
 to an already existing file. Version control is one of the primary
@@ -618,9 +616,7 @@ Set the memory limit:
 
 #### <span id="Install_phpPgAdmin" class="mw-headline">Install phpPgAdmin</span>
 
-phpPgAdmin is a nice web-based utility for easy administration of a <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:PostgreSQL&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:PostgreSQL (page does not exist)">PostgreSQL</a>
+phpPgAdmin is a nice web-based utility for easy administration of a PostgreSQL
 database. It is not required for successful operation of Tripal but is
 very useful.
 

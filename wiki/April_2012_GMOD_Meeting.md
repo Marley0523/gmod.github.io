@@ -202,10 +202,8 @@ site</a></td>
 <tr class="even">
 <td>9:45</td>
 <td><a href="Tripal.1" title="Tripal">Tripal</a></td>
-<td><a
-href="http://gmod.org/mediawiki/index.php?title=User%253ALaceyanne_sanderson&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ALaceyanne sanderson (page does not exist)">Lacey
-Sanderson</a></td>
+<td>Lacey
+Sanderson</td>
 <td><a
 href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/09/LaceySanderson_Tripal_GMOD2012.ppt"
 class="internal" title="LaceySanderson Tripal GMOD2012.ppt">PPT</a></td>

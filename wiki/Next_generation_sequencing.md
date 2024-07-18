@@ -35,9 +35,7 @@ GMOD web site related to next generation sequencing.
 | Title | Where | Content |
 |----|----|----|
 | [GBrowse NGS Tutorial](GBrowse_NGS_Tutorial "GBrowse NGS Tutorial") | at the [Bioinformatics Australia 2009 GMOD Workshop](BA2009 "BA2009"), Melbourne, Australia, October 28-30, 2009 | Step by step tutorial on configuring [GBrowse](GBrowse.1 "GBrowse") 2 to visualize NGS data using the <a href="http://samtools.sourceforge.net" class="external text"
-rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam. This includes a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> image to work with. |
+rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam. This includes a VMware image to work with. |
 | [GBrowse and Next Generation Sequencing Data](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/GBrowse_nextgen_poster.pdf "File:GBrowse nextgen poster.pdf") | at *<a href="http://meetings.cshl.edu/meetings/info09.shtml"
 class="external text" rel="nofollow">Genome Informatics</a>*, Cold Spring Harbor, New York, USA, October 27-30, 2009 | Shows how to display NGS data in [GBrowse](GBrowse.1 "GBrowse") 2, *and in GBrowse 1.70*. |
 | [Quest for Standard: Sequence alignment/map format (SAM) and SAMtools](August_2009_GMOD_Meeting#Quest_for_Standard:_Sequence_alignment.2Fmap_format_.28SAM.29_and_SAMtools "August 2009 GMOD Meeting") | at *[August 2009 GMOD Meeting](August_2009_GMOD_Meeting "August 2009 GMOD Meeting")*, Oxford, UK, August 6-7, 2009 | An overview of <a href="http://samtools.sourceforge.net" class="external text"

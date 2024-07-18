@@ -63,10 +63,7 @@ rel="nofollow">http://sourceforge.net/projects/gmod/files/OldFiles/</a> <span cl
 | [Has website](Property%253AHas_website "Property:Has website") | <a href="XORT.1" class="external free"
 rel="nofollow">http://gmod.org/wiki/XORT</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20website/http%253A-2F-2Fgmod.org-2Fwiki-2FXORT "Special%253ASearchByProperty/Has-20website/http%253A-2F-2Fgmod.org-2Fwiki-2FXORT")</span> |
 | [Interaction type](Property%253AInteraction_type "Property:Interaction type") | reads from and writes to <span class="smwsearch">[+](Special%253ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to "Special%253ASearchByProperty/Interaction-20type/reads-20from-20and-20writes-20to")</span> |
-| <a
-href="http://gmod.org/mediawiki/index.php?title=Property:Interactor&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Interactor (page does not exist)">Interactor</a> | XORT <span class="smwsearch">[+](Special%253ASearchByProperty/Interactor/XORT "Special%253ASearchByProperty/Interactor/XORT")</span> |
+| Interactor | XORT <span class="smwsearch">[+](Special%253ASearchByProperty/Interactor/XORT "Special%253ASearchByProperty/Interactor/XORT")</span> |
 | [Interacts with](Property%253AInteracts_with "Property:Interacts with") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Interacts-20with/Chado "Special%253ASearchByProperty/Interacts-20with/Chado")</span> |
 | [Is open source](Property%253AIs_open_source "Property:Is open source") | Yes <span class="smwsearch">[+](Special%253ASearchByProperty/Is-20open-20source/Yes "Special%253ASearchByProperty/Is-20open-20source/Yes")</span> |
 | [Link type](Property%253ALink_type "Property:Link type") | download <span class="smwsearch">[+](Special%253ASearchByProperty/Link-20type/download "Special%253ASearchByProperty/Link-20type/download")</span> |

@@ -70,11 +70,7 @@ The common user interface topics for presenters to answer are
   sources
 
 Please use this node to add comments or questions. You must have an
-account to post though, please <a
-href="http://gmod.org/mediawiki/index.php?title=Login&amp;action=edit&amp;redlink=1"
-class="new" title="Login (page does not exist)">login</a> or <a
-href="http://gmod.org/mediawiki/index.php?title=Registration&amp;action=edit&amp;redlink=1"
-class="new" title="Registration (page does not exist)">registration</a>.
+account to post though, please login or registration.
 After registering, there will be a delay in granting access while your
 registration is approved. (Sorry for the hassle but comment spam had
 gotten out of control.) If you are already logged in, use the 'add new

@@ -109,14 +109,10 @@ Europe course.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td data-valign="top">This tutorial was taught using a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+<td data-valign="top">This tutorial was taught using a VMware system image
 as a starting point. If you want to start with that same system,
 download and install the <em>Starting</em> image.
-<p><em><strong>See <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> for what
+<p><em><strong>See VMware for what
 software you need to use a VMware system image, and for directions on
 how to get the image setup and running on your
 machine.</strong></em></p></td>

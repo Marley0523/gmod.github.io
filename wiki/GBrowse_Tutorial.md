@@ -36,9 +36,7 @@ This tutorial was originally taught by [Scott
 Cain](User%253AScott "User%253AScott") at the [2010 GMOD Summer School -
 Americas](2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas").
 It walks you through setting up and running
-[GBrowse](GBrowse.1 "GBrowse") with some sample data. It provides a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> image to
+[GBrowse](GBrowse.1 "GBrowse") with some sample data. It provides a VMware image to
 work on, and relies heavily on the
 <a href="http://cloud.gmod.org/gbrowse2/tutorial/tutorial.html"
 class="external text" rel="nofollow">GBrowse2 Admin Tutorial</a>.
@@ -71,9 +69,7 @@ Instructions on how to visualize
 title="Next generation sequencing">next generation sequencing</a> data
 in GBrowse using
 <a href="http://samtools.sourceforge.net" class="external text"
-rel="nofollow">SAMtools</a>. The tutorial includes a starting <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> image, and
+rel="nofollow">SAMtools</a>. The tutorial includes a starting VMware image, and
 uses the example data that comes with SAMtools.
 
 <!-- -->

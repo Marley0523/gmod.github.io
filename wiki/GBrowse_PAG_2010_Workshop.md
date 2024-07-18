@@ -102,9 +102,7 @@ pre-installed on the conference PCs in the classroom area of the
 California Room. Participants using these PCs will be able to setup and
 configure GBrowse during the workshop.
 
-After the workshop, workshop materials and a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+After the workshop, workshop materials and a VMware system image
 with GBrowse prerequisite software pre-installed will be linked to
 **from this page**. You can use VMware image to walk through the
 material presented at this workshop.

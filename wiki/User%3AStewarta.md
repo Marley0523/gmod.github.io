@@ -17,10 +17,8 @@
 
 
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253AStewarta/sandbox&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AStewarta/sandbox (page does not exist)">My
-Sandbox</a>
+My
+Sandbox
 
 
 

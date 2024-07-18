@@ -121,9 +121,7 @@ The course will briefly touch on generating multiple sequence alignment
 data, but it will not go into detail on different analysis options.
 
 This is not a hands-on workshop. However, after the workshop, links to
-workshop materials and a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+workshop materials and a VMware system image
 with [GBrowse_syn](GBrowse_syn.1 "GBrowse syn") prerequisite software
 already installed on it will be linked to from this page. You can use
 this image to walk through the material presented at this workshop.

@@ -121,9 +121,7 @@ Then proceed to install Bio::Graphics::Browser2 as described above.
 ## <span id="Installing_Manually" class="mw-headline">Installing Manually</span>
 
 Alternatively, you can download and install the bleeding edge version
-via <a
-href="http://gmod.org/mediawiki/index.php?title=GIT&amp;action=edit&amp;redlink=1"
-class="new" title="GIT (page does not exist)">GIT</a>. For a smooth
+via GIT. For a smooth
 experience, please install all [GBrowse 2.0
 Prerequisites](GBrowse_2.0_Prerequisites "GBrowse 2.0 Prerequisites")
 before proceeding.

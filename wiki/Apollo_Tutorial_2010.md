@@ -95,13 +95,9 @@ title="Apollo Tutorial">Apollo Tutorial</a> page.
 
 ## <span id="VMware" class="mw-headline">VMware</span>
 
-This tutorial was taught using a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+This tutorial was taught using a VMware system image
 as a starting point. If you want to start with the same system, download
-and install the start image (below). See <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> for what
+and install the start image (below). See VMware for what
 software you need to use a VMware system image and for directions on how
 to get the image up and running on your machine.
 
@@ -228,9 +224,7 @@ We'll just install everything with the default options.
 
 ### <span id="Checking_Out_the_Code_From_SVN" class="mw-headline">Checking Out the Code From SVN</span>
 
-You can also checkout the code from SourceForge <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:SVN&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:SVN (page does not exist)">SVN</a>. You'll need
+You can also checkout the code from SourceForge SVN. You'll need
 a SVN client to do so. This will guarantee that you'll get the latest
 Apollo code. Note that you'll be getting the development version and as
 such might not be fully stable. The following commands apply to Unix
