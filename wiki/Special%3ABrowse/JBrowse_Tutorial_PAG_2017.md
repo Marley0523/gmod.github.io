@@ -21,9 +21,7 @@
 |  |  |
 |----|----|
 | [Has topic](/wiki/Property%253AHas_topic "Property:Has topic") | <span class="smwb-value">[JBrowse](/wiki/JBrowse "JBrowse") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span></span> |
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253ATutorial&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ATutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorial "Special%253ASearchByProperty/Tutorial")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">Tutorial  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorial "Special%253ASearchByProperty/Tutorial")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">15 January 2017 19:38:02  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/15-20January-202017-2019:38:02 "Special%253ASearchByProperty/Modification-20date/15-20January-202017-2019:38:02")</span></span> |
 
 <span id="smw_browse_incoming"></span>

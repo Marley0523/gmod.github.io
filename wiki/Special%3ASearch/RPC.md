@@ -30,8 +30,7 @@
 
 
 **Create the page
-"<a href="/mediawiki/index.php?title=RPC&amp;action=edit&amp;redlink=1"
-class="new" title="RPC (page does not exist)">RPC</a>" on this wiki!**
+"RPC" on this wiki!**
 See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

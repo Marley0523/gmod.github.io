@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Reactome&amp;action=edit&amp;redlink=1"
-class="new" title="Reactome (page does not exist)">Reactome</a>" on this
+**Create the page "Reactome" on this
 wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

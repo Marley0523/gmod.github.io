@@ -14,10 +14,8 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Has_author&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Has author (page does not exist)">Has
-author</a>" with value "McKay SJ"  
+A list of all pages that have property "Has
+author" with value "McKay SJ"  
 
 - [GBrowse
   syn](/wiki/GBrowse_syn "GBrowse syn")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>

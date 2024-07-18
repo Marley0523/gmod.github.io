@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ADeprecated&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ADeprecated (page does not exist)">Category%253ADeprecated</a> |  |
+| Category%253ADeprecated |  |
 
 |     |                                |
 |-----|--------------------------------|

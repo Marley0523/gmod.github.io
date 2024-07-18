@@ -28,9 +28,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=SemanticLink&amp;action=edit&amp;redlink=1"
-class="new" title="SemanticLink (page does not exist)">SemanticLink</a>"
+**Create the page "SemanticLink"
 on this wiki!** See also the search results found.
 
 - 

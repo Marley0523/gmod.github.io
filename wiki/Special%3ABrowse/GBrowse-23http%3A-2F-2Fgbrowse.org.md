@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">GBrowse  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GBrowse "Special%253ASearchByProperty/Linktopic/GBrowse")</span></span> |
+| Linktopic | <span class="smwb-value">GBrowse  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GBrowse "Special%253ASearchByProperty/Linktopic/GBrowse")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">website  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/website "Special%253ASearchByProperty/Linktype/website")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://gbrowse.org  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgbrowse.org "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgbrowse.org")</span></span> |
+| Linkurl | <span class="smwb-value">http://gbrowse.org  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgbrowse.org "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgbrowse.org")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

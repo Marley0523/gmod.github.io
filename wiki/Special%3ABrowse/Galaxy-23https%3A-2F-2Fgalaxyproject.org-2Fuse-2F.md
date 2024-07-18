@@ -20,17 +20,10 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">Fully supported, publicly accessible platforms for using Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy "Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Galaxy "Special%253ASearchByProperty/Linktopic/Galaxy")</span></span> |
+| Linkdesc | <span class="smwb-value">Fully supported, publicly accessible platforms for using Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy "Special%253ASearchByProperty/Linkdesc/Fully-20supported,-20publicly-20accessible-20platforms-20for-20using-20Galaxy")</span></span> |
+| Linktopic | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Galaxy "Special%253ASearchByProperty/Linktopic/Galaxy")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/public-20server "Special%253ASearchByProperty/Linktype/public-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://galaxyproject.org/use/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F")</span></span> |
+| Linkurl | <span class="smwb-value">https://galaxyproject.org/use/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgalaxyproject.org-2Fuse-2F")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

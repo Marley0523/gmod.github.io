@@ -28,9 +28,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Template&amp;action=edit&amp;redlink=1"
-class="new" title="Template (page does not exist)">Template</a>" on this
+**Create the page "Template" on this
 wiki!** See also the search results found.
 
 - 

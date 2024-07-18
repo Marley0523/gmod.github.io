@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AFile_Formats&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AFile Formats (page does not exist)">Category%253AFile
-Formats</a> |  |
+| Category%253AFile
+Formats |  |
 
 |     |                                |
 |-----|--------------------------------|

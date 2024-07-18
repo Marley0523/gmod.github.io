@@ -14,9 +14,7 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Bio (page does not exist)">Bio</a>" with
+A list of all pages that have property "Bio" with
 value "Schema"  
 No results.
 

@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253A2013_Summer_School&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253A2013 Summer School (page does not exist)">Category%253A2013
-Summer School</a> |  |
+| Category%253A2013
+Summer School |  |
 
 |     |                                |
 |-----|--------------------------------|

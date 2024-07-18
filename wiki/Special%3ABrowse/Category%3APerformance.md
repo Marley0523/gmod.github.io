@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253APerformance&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253APerformance (page does not exist)">Category%253APerformance</a> |  |
+| Category%253APerformance |  |
 
 |     |                                |
 |-----|--------------------------------|

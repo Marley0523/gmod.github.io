@@ -20,13 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[News Items](/wiki/Category%253ANews_Items "Category%253ANews Items")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/News-20Items "Special%253ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[DictyBase](/wiki/Category%253ADictyBase "Category%253ADictyBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/DictyBase "Special%253ASearchByProperty/DictyBase")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253AJobs&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253AJobs (page does not exist)">Jobs</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Jobs "Special%253ASearchByProperty/Jobs")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253ASoftware_Engineer&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ASoftware Engineer (page does not exist)">Software
-Engineer</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Software-20Engineer "Special%253ASearchByProperty/Software-20Engineer")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[News Items](/wiki/Category%253ANews_Items "Category%253ANews Items")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/News-20Items "Special%253ASearchByProperty/News-20Items")</span></span> , <span class="smwb-value">[DictyBase](/wiki/Category%253ADictyBase "Category%253ADictyBase")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/DictyBase "Special%253ASearchByProperty/DictyBase")</span></span> , <span class="smwb-value">Jobs  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Jobs "Special%253ASearchByProperty/Jobs")</span></span> , <span class="smwb-value">Software
+Engineer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Software-20Engineer "Special%253ASearchByProperty/Software-20Engineer")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">4 November 2013 21:22:38  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/4-20November-202013-2021:22:38 "Special%253ASearchByProperty/Modification-20date/4-20November-202013-2021:22:38")</span></span> |
 
 <span id="smw_browse_incoming"></span>

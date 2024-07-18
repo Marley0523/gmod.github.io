@@ -28,10 +28,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=2013_Summer_School&amp;action=edit&amp;redlink=1"
-class="new" title="2013 Summer School (page does not exist)">2013 Summer
-School</a>" on this wiki!** See also the search results found.
+**Create the page "2013 Summer
+School" on this wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>
 

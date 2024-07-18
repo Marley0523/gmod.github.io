@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ATemplate&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ATemplate (page does not exist)">Category%253ATemplate</a> |  |
+| Category%253ATemplate |  |
 
 |     |                                |
 |-----|--------------------------------|

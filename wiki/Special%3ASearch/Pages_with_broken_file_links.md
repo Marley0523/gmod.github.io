@@ -29,11 +29,8 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Pages_with_broken_file_links&amp;action=edit&amp;redlink=1"
-class="new"
-title="Pages with broken file links (page does not exist)">Pages with
-broken file links</a>" on this wiki!** See also the search results
+**Create the page "Pages with
+broken file links" on this wiki!** See also the search results
 found.
 
 - 

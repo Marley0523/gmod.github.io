@@ -28,9 +28,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Session&amp;action=edit&amp;redlink=1"
-class="new" title="Session (page does not exist)">Session</a>" on this
+**Create the page "Session" on this
 wiki!** See also the search results found.
 
 - 

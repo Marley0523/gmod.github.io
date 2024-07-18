@@ -20,13 +20,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Object&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Object (page does not exist)">Object</a> | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Object/MAKER "Special%253ASearchByProperty/Object/MAKER")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Relationship&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Relationship (page does not exist)">Relationship</a> | <span class="smwb-value">receives input from  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Relationship/receives-20input-20from "Special%253ASearchByProperty/Relationship/receives-20input-20from")</span></span> |
+| Object | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Object/MAKER "Special%253ASearchByProperty/Object/MAKER")</span></span> |
+| Relationship | <span class="smwb-value">receives input from  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Relationship/receives-20input-20from "Special%253ASearchByProperty/Relationship/receives-20input-20from")</span></span> |
 | [Subject](/wiki/Property%253ASubject "Property%253ASubject") | <span class="smwb-value">[WebApollo](/wiki/WebApollo "WebApollo") <span class="smwbrowse">[+](/wiki/Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span></span> |
 
 <span id="smw_browse_incoming"></span>

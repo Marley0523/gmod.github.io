@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AWebApollo&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AWebApollo (page does not exist)">Category%253AWebApollo</a> |  |
+| Category%253AWebApollo |  |
 
 |     |                                |
 |-----|--------------------------------|

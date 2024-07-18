@@ -22,10 +22,8 @@ Campbell](../User%253AMichael_Campbell "User%253AMichael Campbell") at [GMOD
 Malaysia 2014](../GMOD_Malaysia_2014.1 "GMOD Malaysia 2014"), February
 2014.
 
-The most recent GFF3 tutorial can be found at the <a
-href="http://gmod.org/mediawiki/index.php?title=GFF3_Tutorial&amp;action=edit&amp;redlink=1"
-class="new" title="GFF3 Tutorial (page does not exist)">GFF3
-Tutorial</a> page.
+The most recent GFF3 tutorial can be found at the GFF3
+Tutorial page.
 
 This tutorial uses the AWS AMI ' ***named '*** in the '
 

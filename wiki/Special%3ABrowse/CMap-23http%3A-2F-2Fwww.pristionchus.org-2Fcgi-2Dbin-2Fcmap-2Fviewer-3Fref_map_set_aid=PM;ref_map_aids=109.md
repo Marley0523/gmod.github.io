@@ -16,10 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=PM;ref_map_aids%3D109&amp;action=edit&amp;redlink=1"
-class="new" title="PM;ref map aids=109 (page does not exist)">PM;ref map
-aids=109</a> |  |
+| PM;ref map
+aids=109 |  |
 
 |     |                                |
 |-----|--------------------------------|

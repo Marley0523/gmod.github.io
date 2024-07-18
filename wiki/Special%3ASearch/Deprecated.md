@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Deprecated&amp;action=edit&amp;redlink=1"
-class="new" title="Deprecated (page does not exist)">Deprecated</a>" on
+**Create the page "Deprecated" on
 this wiki!** See also the search results found.
 
 - 

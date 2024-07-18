@@ -19,10 +19,7 @@ data-type="1" state="inline"
 data-title="Property"><span class="smwbuiltin">[Has
 subobject](/wiki/Property%253AHas_subobject "Property:Has subobject")</span><span class="smwttcontent">This
 property is a special property in this wiki.</span></span>" with value
-"<a
-href="/mediawiki/index.php?title=Cbri;name%3DchrX:620000..670000&amp;action=edit&amp;redlink=1"
-class="new"
-title="Cbri;name=chrX:620000..670000 (page does not exist)">Cbri;name=chrX:620000..670000</a>"  
+"Cbri;name=chrX:620000..670000"  
 No results.
 
  

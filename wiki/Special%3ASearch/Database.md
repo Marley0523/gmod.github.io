@@ -28,9 +28,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Database&amp;action=edit&amp;redlink=1"
-class="new" title="Database (page does not exist)">Database</a>" on this
+**Create the page "Database" on this
 wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

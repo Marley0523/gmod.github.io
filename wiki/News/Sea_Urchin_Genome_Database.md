@@ -44,9 +44,7 @@ and extend the sea urchin sequence and annotations.
 Visit us at <a href="http://spbase.org" class="external text"
 rel="nofollow">SpBase</a>.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253AAcameron&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AAcameron (page does not exist)">Andy Cameron</a>  
+Andy Cameron  
 
   
 

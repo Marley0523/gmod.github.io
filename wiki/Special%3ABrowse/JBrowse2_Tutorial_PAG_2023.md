@@ -20,9 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[JBrowse](/wiki/Category%253AJBrowse "Category%253AJBrowse")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/JBrowse "Special%253ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253ATutorial&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ATutorial (page does not exist)">Tutorial</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorial "Special%253ASearchByProperty/Tutorial")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[JBrowse](/wiki/Category%253AJBrowse "Category%253AJBrowse")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/JBrowse "Special%253ASearchByProperty/JBrowse")</span></span> , <span class="smwb-value">Tutorial  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Tutorial "Special%253ASearchByProperty/Tutorial")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 January 2023 18:21:05  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/23-20January-202023-2018:21:05 "Special%253ASearchByProperty/Modification-20date/23-20January-202023-2018:21:05")</span></span> |
 
 <span id="smw_browse_incoming"></span>

@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AGFF3&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AGFF3 (page does not exist)">Category%253AGFF3</a> |  |
+| Category%253AGFF3 |  |
 
 |     |                                |
 |-----|--------------------------------|

@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AJobs&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AJobs (page does not exist)">Category%253AJobs</a> |  |
+| Category%253AJobs |  |
 
 |     |                                |
 |-----|--------------------------------|

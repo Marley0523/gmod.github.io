@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">Sol Genomics  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/Sol-20Genomics "Special%253ASearchByProperty/Linktitle/Sol-20Genomics")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">GBrowse syn  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GBrowse-20syn "Special%253ASearchByProperty/Linktopic/GBrowse-20syn")</span></span> |
+| Linktopic | <span class="smwb-value">GBrowse syn  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GBrowse-20syn "Special%253ASearchByProperty/Linktopic/GBrowse-20syn")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/wild-20URL "Special%253ASearchByProperty/Linktype/wild-20URL")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse_syn-2Fsol3-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse syn-2Fsol3-2F")</span></span> |
+| Linkurl | <span class="smwb-value">http://solgenomics.net/gbrowse2/bin/gbrowse_syn/sol3/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse_syn-2Fsol3-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fsolgenomics.net-2Fgbrowse2-2Fbin-2Fgbrowse syn-2Fsol3-2F")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

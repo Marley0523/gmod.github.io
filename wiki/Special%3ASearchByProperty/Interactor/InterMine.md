@@ -14,10 +14,7 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Interactor&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Interactor (page does not exist)">Interactor</a>" with
+A list of all pages that have property "Interactor" with
 value "InterMine"  
 
 - [InterMine](/wiki/InterMine "InterMine")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>

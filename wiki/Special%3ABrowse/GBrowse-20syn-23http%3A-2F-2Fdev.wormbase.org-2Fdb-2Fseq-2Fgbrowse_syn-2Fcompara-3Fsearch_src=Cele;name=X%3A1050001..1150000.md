@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Cele;name%3DX:1050001..1150000&amp;action=edit&amp;redlink=1"
-class="new"
-title="Cele;name=X:1050001..1150000 (page does not exist)">Cele;name=X:1050001..1150000</a> |  |
+| Cele;name=X:1050001..1150000 |  |
 
 |     |                                |
 |-----|--------------------------------|

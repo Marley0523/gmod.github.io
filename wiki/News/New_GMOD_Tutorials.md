@@ -32,9 +32,7 @@ are now available for the [GMOD
 Components](../GMOD_Components "GMOD Components") that were covered at
 the [2010 GMOD Summer School -
 Americas](../2010_GMOD_Summer_School_-_Americas "2010 GMOD Summer School - Americas").
-Each tutorial includes a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+Each tutorial includes a VMware system image
 to work with, and detailed instructions on how to setup the component on
 that image. This year we have a
 <a href="../Galaxy_Tutorial" class="mw-redirect"

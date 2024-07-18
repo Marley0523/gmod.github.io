@@ -14,10 +14,7 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Published in (page does not exist)">Published in</a>"
+A list of all pages that have property "Published in"
 with value "Genome research"  
 
 - [User%253AJimHu/Gbrowse](/wiki/User%253AJimHu/Gbrowse "User%253AJimHu/Gbrowse")  <span class="smwbrowse">[+](/wiki/Special%253ABrowse/User%253AJimHu-2FGbrowse "Special%253ABrowse/User%253AJimHu-2FGbrowse")</span>
