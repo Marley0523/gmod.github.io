@@ -14,7 +14,7 @@
 
 
 (Redirected from [JBrowseDev/Using Configuration Files With
-JBrowse](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Using_Configuration_Files_With_JBrowse&redirect=no "JBrowseDev/Using Configuration Files With JBrowse"))  
+JBrowse](JBrowseDev/Using_Configuration_Files_With_JBrowse)  
 Redirect page
 
 

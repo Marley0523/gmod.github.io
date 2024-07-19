@@ -14,7 +14,7 @@
 
 
 (Redirected from [JBrowse
-Tutorial](http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial&redirect=no "JBrowse Tutorial"))
+Tutorial](JBrowse_Tutorial)
 
 
 

@@ -14,7 +14,7 @@
 
 
 (Redirected from [Galaxy
-Tutorial](http://gmod.org/mediawiki/index.php?title=Galaxy_Tutorial&redirect=no "Galaxy Tutorial"))
+Tutorial](Galaxy_Tutorial)
 
 
 

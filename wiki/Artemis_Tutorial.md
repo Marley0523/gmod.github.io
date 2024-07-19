@@ -14,7 +14,7 @@
 
 
 (Redirected from [Artemis
-Tutorial](http://gmod.org/mediawiki/index.php?title=Artemis_Tutorial&redirect=no "Artemis Tutorial"))
+Tutorial](Artemis_Tutorial)
 
 
 

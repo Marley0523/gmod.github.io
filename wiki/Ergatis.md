@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Ergatis](http://gmod.org/mediawiki/index.php?title=Ergatis&redirect=no "Ergatis"))
+[Ergatis](Ergatis)
 
 
 

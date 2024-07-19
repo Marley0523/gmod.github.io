@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[GMOD](http://gmod.org/mediawiki/index.php?title=GMOD&redirect=no "GMOD"))
+[GMOD](GMOD)
 
 
 

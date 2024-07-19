@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[GMOD%253AAbout](http://gmod.org/mediawiki/index.php?title=GMOD%253AAbout&redirect=no "GMOD%253AAbout"))
+[GMOD%253AAbout](GMOD%253AAbout)
 
 
 

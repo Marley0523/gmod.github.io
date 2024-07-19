@@ -14,7 +14,7 @@
 
 
 (Redirected from [GBrowse syn
-Tutorial](http://gmod.org/mediawiki/index.php?title=GBrowse_syn_Tutorial&redirect=no "GBrowse syn Tutorial"))
+Tutorial](GBrowse_syn_Tutorial)
 
 
 

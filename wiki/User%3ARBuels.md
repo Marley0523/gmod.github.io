@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[User%253ARBuels](http://gmod.org/mediawiki/index.php?title=User%253ARBuels&redirect=no "User%253ARBuels"))
+[User%253ARBuels](User%253ARBuels)
 
 
 

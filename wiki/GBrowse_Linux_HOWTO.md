@@ -14,7 +14,7 @@
 
 
 (Redirected from [GBrowse Linux
-HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_Linux_HOWTO&redirect=no "GBrowse Linux HOWTO"))
+HOWTO](GBrowse_Linux_HOWTO)
 
 
 

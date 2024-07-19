@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Plugins](http://gmod.org/mediawiki/index.php?title=Plugins&redirect=no "Plugins"))
+[Plugins](Plugins)
 
 
 

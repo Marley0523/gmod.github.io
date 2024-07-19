@@ -14,7 +14,7 @@
 
 
 (Redirected from [JBrowse Tutorial
-2012](http://gmod.org/mediawiki/index.php?title=JBrowse_Tutorial_2012&redirect=no "JBrowse Tutorial 2012"))
+2012](JBrowse_Tutorial_2012)
 
 
 

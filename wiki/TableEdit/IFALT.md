@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[TableEdit/IFALT](http://gmod.org/mediawiki/index.php?title=TableEdit/IFALT&redirect=no "TableEdit/IFALT"))
+[TableEdit/IFALT](TableEdit/IFALT)
 
 
 

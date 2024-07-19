@@ -14,7 +14,7 @@
 
 
 (Redirected from [WebApollo
-Tutorial](http://gmod.org/mediawiki/index.php?title=WebApollo_Tutorial&redirect=no "WebApollo Tutorial"))
+Tutorial](WebApollo_Tutorial)
 
 
 

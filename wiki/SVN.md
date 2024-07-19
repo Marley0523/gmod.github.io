@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[SVN](http://gmod.org/mediawiki/index.php?title=SVN&redirect=no "SVN"))
+[SVN](SVN)
 
 
 

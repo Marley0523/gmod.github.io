@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[PAG](http://gmod.org/mediawiki/index.php?title=PAG&redirect=no "PAG"))
+[PAG](PAG)
 
 
 

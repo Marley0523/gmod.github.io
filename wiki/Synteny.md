@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Synteny](http://gmod.org/mediawiki/index.php?title=Synteny&redirect=no "Synteny"))
+[Synteny](Synteny)
 
 
 

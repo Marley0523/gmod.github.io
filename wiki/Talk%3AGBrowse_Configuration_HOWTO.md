@@ -12,7 +12,7 @@
 
 
 (Redirected from [Talk%253AGBrowse Configuration
-HOWTO](http://gmod.org/mediawiki/index.php?title=Talk%253AGBrowse_Configuration_HOWTO&redirect=no "Talk%253AGBrowse Configuration HOWTO"))
+HOWTO](Talk%253AGBrowse_Configuration_HOWTO)
 
 
 

@@ -14,7 +14,7 @@
 
 
 (Redirected from [July 2008 GMOD Meeting
-Registration](http://gmod.org/mediawiki/index.php?title=July_2008_GMOD_Meeting_Registration&redirect=no "July 2008 GMOD Meeting Registration"))
+Registration](July_2008_GMOD_Meeting_Registration)
 
 
 

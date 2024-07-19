@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[DAS](http://gmod.org/mediawiki/index.php?title=DAS&redirect=no "DAS"))
+[DAS](DAS)
 
 
 

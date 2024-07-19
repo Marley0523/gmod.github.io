@@ -14,7 +14,7 @@
 
 
 (Redirected from [Common
-url](http://gmod.org/mediawiki/index.php?title=Common_url&redirect=no "Common url"))
+url](Common_url)
 
 
 
