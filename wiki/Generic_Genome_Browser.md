@@ -14,7 +14,7 @@
 
 
 (Redirected from [Generic Genome
-Browser](http://gmod.org/mediawiki/index.php?title=Generic_Genome_Browser&redirect=no "Generic Genome Browser"))
+Browser](Generic_Genome_Browser)
 
 
 

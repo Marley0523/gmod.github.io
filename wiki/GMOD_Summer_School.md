@@ -14,7 +14,7 @@
 
 
 (Redirected from [GMOD Summer
-School](http://gmod.org/mediawiki/index.php?title=GMOD_Summer_School&redirect=no "GMOD Summer School"))
+School](GMOD_Summer_School)
 
 
 

@@ -2,19 +2,14 @@
 
 
 
-<span id="top"></span>
 
 
 
 
-# <span dir="auto">JBrowse Configuration Guide</span>
+# JBrowse Configuration Guide
 
 
 
-
-
-(Redirected from [BrowseDev/Using a Database With
-JBrowse](http://gmod.org/mediawiki/index.php?title=BrowseDev/Using_a_Database_With_JBrowse&redirect=no "BrowseDev/Using a Database With JBrowse"))
 
 
 
@@ -41,12 +36,9 @@ want to do with your JBrowse.
   
 Check out the new [JBrowse FAQ](../JBrowse_FAQ "JBrowse FAQ") page for
 more tips on setup and configuration
-<a href="../JBrowse_FAQ" class="external free"
-rel="nofollow">http://gmod.org/wiki/JBrowse_FAQ</a>
 
 Also see the [JBrowse Desktop](../JBrowse_Desktop "JBrowse Desktop")
-guide here <a href="../JBrowse_Desktop" class="external free"
-rel="nofollow">http://gmod.org/wiki/JBrowse_Desktop</a>
+guide here 
 
   
 
@@ -1447,7 +1439,7 @@ make it higher resolution
 
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases](http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases#Using_JBrowse_with_Existing_Databases)"
+"[http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases](JBrowse_Configuration_Guide"
 
 
 

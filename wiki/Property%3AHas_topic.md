@@ -30,7 +30,7 @@ This is a property of type
 Showing 25 pages using this property.
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property%253AHas_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
+25](Property%253AHas_topic)
 
 <table style="width: 100%; ">
 <colgroup>
@@ -318,7 +318,7 @@ title="Special%253ASearchByProperty/Has-20topic/JBrowse">+</a></span></td>
 </table>
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property%253AHas_topic&from=GMOD+Malaysia+2014%2FMAKER+Tutorial#SMWResults#SMWResults "Property:Has topic"))
+25](Property%253AHas_topic)
 
 
 

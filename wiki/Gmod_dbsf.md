@@ -14,7 +14,7 @@
 
 
 (Redirected from [Gmod
-dbsf](http://gmod.org/mediawiki/index.php?title=Gmod_dbsf&redirect=no "Gmod dbsf"))
+dbsf](Gmod_dbsf)
 
 
 

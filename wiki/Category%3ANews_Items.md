@@ -32,7 +32,7 @@ Item](GMOD_News#Adding_a_News_Item "GMOD News") for details.
 The following 200 pages are in this category, out of 332 total.
 
 (previous 200) ([next
-200](http://gmod.org/mediawiki/index.php?title=Category%253ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%253ANews Items"))
+200](Category%253ANews_Items)
 
 
 
@@ -589,7 +589,7 @@ title="News/JBrowse 1.1 Released">News/JBrowse 1.1 Released</a></li>
 
 
 (previous 200) ([next
-200](http://gmod.org/mediawiki/index.php?title=Category%253ANews_Items&pagefrom=News%2FJBrowse+1.10.0+released#mw-pages#mw-pages "Category%253ANews Items"))
+200](Category%253ANews_Items)
 
 
 

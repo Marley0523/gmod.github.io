@@ -14,7 +14,7 @@
 
 
 (Redirected from [JBrowseDev/General
-Usage](http://gmod.org/mediawiki/index.php?title=JBrowseDev/General_Usage&redirect=no "JBrowseDev/General Usage"))
+Usage](JBrowseDev/General_Usage)
 
 
 

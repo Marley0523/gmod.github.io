@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[CVS](http://gmod.org/mediawiki/index.php?title=CVS&redirect=no "CVS"))
+[CVS](CVS)
 
 
 

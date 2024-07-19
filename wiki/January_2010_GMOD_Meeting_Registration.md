@@ -14,7 +14,7 @@
 
 
 (Redirected from [January 2010 GMOD Meeting
-Registration](http://gmod.org/mediawiki/index.php?title=January_2010_GMOD_Meeting_Registration&redirect=no "January 2010 GMOD Meeting Registration"))
+Registration](January_2010_GMOD_Meeting_Registration)
 
 
 

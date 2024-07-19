@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Box](http://gmod.org/mediawiki/index.php?title=Box&redirect=no "Box"))
+[Box](Box)
 
 
 

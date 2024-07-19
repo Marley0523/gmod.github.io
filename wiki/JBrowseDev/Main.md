@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[JBrowseDev/Main](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Main&redirect=no "JBrowseDev/Main"))
+[JBrowseDev/Main](JBrowseDev/Main)
 
 
 
@@ -120,7 +120,7 @@ is javascript-based and does almost all of its work directly in the
 user's web browser, with minimal requirements for the server.
 </span></span>
 
-### <span id="Features" class="mw-headline">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](http://gmod.org/mediawiki/index.php?title=JBrowse&action=edit&section=1 "Edit section: Features")<span class="mw-editsection-bracket">\]</span></span>
+### Features
 
 - Fast, smooth scrolling and zooming. Explore your genome with
   unparalleled speed.

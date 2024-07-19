@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Postgres](http://gmod.org/mediawiki/index.php?title=Postgres&redirect=no "Postgres"))
+[Postgres](Postgres)
 
 
 

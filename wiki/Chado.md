@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Chado](http://gmod.org/mediawiki/index.php?title=Chado&redirect=no "Chado"))
+[Chado](Chado)
 
 
 

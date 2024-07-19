@@ -14,7 +14,7 @@
 
 
 (Redirected from [Table
-Editor](http://gmod.org/mediawiki/index.php?title=Table_Editor&redirect=no "Table Editor"))
+Editor](Table_Editor)
 
 
 
