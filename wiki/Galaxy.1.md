@@ -65,8 +65,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Galaxy](Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Galaxy "Special:ExportRDF/Galaxy")</span></span>
+"<span class="swmfactboxheadbrowse">[Galaxy](Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

@@ -201,8 +201,7 @@ title="Special%253ASearchByProperty/Has-20licence/GPLv2">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_licence "Special:ExportRDF/Property:Has licence")</span></span>
+</span>
 
 |  |  |
 |----|----|

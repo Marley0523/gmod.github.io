@@ -26,8 +26,7 @@ This is a property of type
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Has software
-prerequisite](Special%253ABrowse/Property%253AHas-20software-20prerequisite "Special%253ABrowse/Property%253AHas-20software-20prerequisite")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_software_prerequisite "Special:ExportRDF/Property:Has software prerequisite")</span></span>
+prerequisite](Special%253ABrowse/Property%253AHas-20software-20prerequisite "Special%253ABrowse/Property%253AHas-20software-20prerequisite")</span>"</span>
 
 |  |  |
 |----|----|

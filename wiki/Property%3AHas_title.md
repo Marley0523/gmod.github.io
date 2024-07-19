@@ -501,8 +501,7 @@ title="Special%253ASearchByProperty/Has-20title/WebApollo-20download">+</a></spa
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_title "Special:ExportRDF/Property:Has title")</span></span>
+</span>
 
 |  |  |
 |----|----|

@@ -344,8 +344,7 @@ title="Special%253ASearchByProperty/Available-20on-20platform/unix">+</a></span>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AAvailable_on_platform "Special:ExportRDF/Property:Available on platform")</span></span>
+</span>
 
 |  |  |
 |----|----|

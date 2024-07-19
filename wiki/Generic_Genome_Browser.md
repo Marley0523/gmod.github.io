@@ -64,8 +64,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[GBrowse](Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse "Special:ExportRDF/GBrowse")</span></span>
+"<span class="swmfactboxheadbrowse">[GBrowse](Special%253ABrowse/GBrowse "Special%253ABrowse/GBrowse")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

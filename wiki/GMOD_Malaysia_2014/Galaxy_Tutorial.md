@@ -51,8 +51,7 @@ server on the Amazon cloud.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/Galaxy
-Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/Galaxy_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/Galaxy Tutorial")</span></span>
+Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FGalaxy-20Tutorial")</span>"</span>
 
 |  |  |
 |----|----|

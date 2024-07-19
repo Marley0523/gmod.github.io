@@ -240,8 +240,7 @@ title="Special%253ASearchByProperty/Has-20output-20format/GBrowse-20configuratio
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_output_format "Special:ExportRDF/Property:Has output format")</span></span>
+</span>
 
 |  |  |
 |----|----|

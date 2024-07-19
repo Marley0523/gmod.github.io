@@ -370,8 +370,7 @@ title="Special%253ASearchByProperty/Tool-20functionality-20or-20classification/M
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ATool_functionality_or_classification "Special:ExportRDF/Property:Tool functionality or classification")</span></span>
+</span>
 
 |  |  |
 |----|----|

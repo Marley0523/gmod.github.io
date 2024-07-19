@@ -232,8 +232,7 @@ title="Special%253ASearchByProperty/Has-20logo/WebGBrowseLogo.png">+</a></span><
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_logo "Special:ExportRDF/Property:Has logo")</span></span>
+</span>
 
 |  |  |
 |----|----|

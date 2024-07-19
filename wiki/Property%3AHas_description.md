@@ -648,8 +648,7 @@ title="Special%253ASearchByProperty">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_description "Special:ExportRDF/Property:Has description")</span></span>
+</span>
 
 |  |  |
 |----|----|

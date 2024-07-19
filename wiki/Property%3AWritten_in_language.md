@@ -282,8 +282,7 @@ title="Special%253ASearchByProperty/Written-20in-20language/Perl">+</a></span></
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AWritten_in_language "Special:ExportRDF/Property:Written in language")</span></span>
+</span>
 
 |  |  |
 |----|----|

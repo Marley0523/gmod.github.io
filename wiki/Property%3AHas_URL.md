@@ -531,8 +531,7 @@ title="Special%253ASearchByProperty/Has-20URL/http%253A-2F-2Fsourceforge.net-2Fp
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_URL "Special:ExportRDF/Property:Has URL")</span></span>
+</span>
 
 |  |  |
 |----|----|

@@ -41,8 +41,7 @@ alt="BioMart" /></a>
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[BioMart](Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/BioMart "Special:ExportRDF/BioMart")</span></span>
+"<span class="swmfactboxheadbrowse">[BioMart](Special%253ABrowse/BioMart "Special%253ABrowse/BioMart")</span>"</span>
 
 |  |  |
 |----|----|

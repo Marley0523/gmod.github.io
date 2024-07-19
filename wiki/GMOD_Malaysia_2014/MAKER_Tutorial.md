@@ -536,8 +536,7 @@ Scripts:
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/MAKER
-Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FMAKER-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FMAKER-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/MAKER_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/MAKER Tutorial")</span></span>
+Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FMAKER-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FMAKER-20Tutorial")</span>"</span>
 
 |  |  |
 |----|----|
