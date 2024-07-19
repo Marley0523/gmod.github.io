@@ -101,7 +101,7 @@ File:800px-TripalhomeDir.png	https://raw.githubusercontent.com/GMOD/gmod.github.
 File:800px-TripalImportFASTA.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/800px-TripalImportFASTA.png
 File:800px-TripalInstallChado.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/800px-TripalInstallChado.png
 File:800px-TripalInterPro.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/800px-TripalInterPro.png
-File:800px-TripalJobs1.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9a/800px-TripalJobs1.png
+File:800px-TtripalJobs1.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9a/800px-TripalJobs1.png
 File:800px-TripalManagement1.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/800px-TripalManagement1.png
 File:800px-TripalModules.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/800px-TripalModules.png
 File:800px-TripalMV1.png	https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/800px-TripalMV1.png
