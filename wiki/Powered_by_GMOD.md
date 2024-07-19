@@ -20,7 +20,7 @@ update the HTML accordingly.
 | ---- | ---------- | ------------------ |
 
 |![PoweredByGMOD80.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/PoweredByGMOD80.png)
-| 80 x 38 | `&lt;a href="http://gmod.org/">&lt;img src="http://gmod.org/w/images/e/e3/PoweredByGMOD80.png" alt="Powered by GMOD" style="border-width: 0" />&lt;/a>` |
+| 80 x 38 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/e/e3/PoweredByGMOD80.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/PoweredByGMOD100.png" width="100"
 height="47" alt="PoweredByGMOD100.png" /> | 100 x 47 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/5/53/PoweredByGMOD100.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
