@@ -23,16 +23,16 @@ update the HTML accordingly.
 | 80 x 38 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/e/e3/PoweredByGMOD80.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/PoweredByGMOD100.png" width="100"
-height="47" alt="PoweredByGMOD100.png" /> | 100 x 47 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/5/53/PoweredByGMOD100.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
+height="47" alt="PoweredByGMOD100.png" /> | 100 x 47 | `<a href="http://gmod.org/"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/PoweredByGMOD100.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/PoweredByGMOD150.png" width="150"
-height="71" alt="PoweredByGMOD150.png" /> | 150 x 71 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/c/c2/PoweredByGMOD150.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
+height="71" alt="PoweredByGMOD150.png" /> | 150 x 71 | `<a href="http://gmod.org/"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c2/PoweredByGMOD150.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/PoweredByGMOD150gray.png" width="150"
-height="71" alt="PoweredByGMOD150gray.png" /> | 150 x 71 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/5/51/PoweredByGMOD150gray.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
+height="71" alt="PoweredByGMOD150gray.png" /> | 150 x 71 | `<a href="http://gmod.org/"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/PoweredByGMOD150gray.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/PoweredByGMOD200.png" width="200"
-height="95" alt="PoweredByGMOD200.png" /> | 200 x 95 | `<a href="http://gmod.org/"><img src="http://gmod.org/w/images/b/bd/PoweredByGMOD200.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
+height="95" alt="PoweredByGMOD200.png" /> | 200 x 95 | `<a href="http://gmod.org/"><img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bd/PoweredByGMOD200.png" alt="Powered by GMOD" style="border-width: 0" /></a>` |
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/180px-PoweredByGMOD.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/270px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/360px-PoweredByGMOD.png 2x"
