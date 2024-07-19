@@ -14,7 +14,7 @@
 
 
 (Redirected from [MAKER
-Tutorial](http://gmod.org/mediawiki/index.php?title=MAKER_Tutorial&redirect=no "MAKER Tutorial"))
+Tutorial](MAKER_Tutorial)
 
 
 

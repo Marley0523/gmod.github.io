@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[JBrowseDev/Upcoming](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Upcoming&redirect=no "JBrowseDev/Upcoming"))
+[JBrowseDev/Upcoming](JBrowseDev/Upcoming)
 
 
 

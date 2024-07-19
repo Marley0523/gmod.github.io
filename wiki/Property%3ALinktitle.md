@@ -30,7 +30,7 @@ This is a property of type
 Showing 25 pages using this property.
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property%253ALinktitle&from=GBrowse+syn#SMWResults#SMWResults "Property%253ALinktitle"))
+25](Property%253ALinktitle)
 
 <table style="width: 100%; ">
 <colgroup>
@@ -340,7 +340,7 @@ title="Special%253ASearchByProperty/Linktitle/The-20Arabidopsis-20Information-20
 </table>
 
 (previous 25) ([next
-25](http://gmod.org/mediawiki/index.php?title=Property%253ALinktitle&from=GBrowse+syn#SMWResults#SMWResults "Property%253ALinktitle"))
+25](Property%253ALinktitle)
 
 
 

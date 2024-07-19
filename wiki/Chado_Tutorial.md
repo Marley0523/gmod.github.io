@@ -14,7 +14,7 @@
 
 
 (Redirected from [Chado
-Tutorial](http://gmod.org/mediawiki/index.php?title=Chado_Tutorial&redirect=no "Chado Tutorial"))
+Tutorial](Chado_Tutorial)
 
 
 

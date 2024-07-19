@@ -14,7 +14,7 @@
 
 
 (Redirected from [Tripal
-Tutorial](http://gmod.org/mediawiki/index.php?title=Tripal_Tutorial&redirect=no "Tripal Tutorial"))
+Tutorial](Tripal_Tutorial)
 
 
 

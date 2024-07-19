@@ -14,7 +14,7 @@
 
 
 (Redirected from [GBrowse Balloon
-Tips](http://gmod.org/mediawiki/index.php?title=GBrowse_Balloon_Tips&redirect=no "GBrowse Balloon Tips"))
+Tips](GBrowse_Balloon_Tips)
 
 
 

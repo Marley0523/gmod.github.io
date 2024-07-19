@@ -14,7 +14,7 @@
 
 
 (Redirected from [Chado Natural
-Diversity](http://gmod.org/mediawiki/index.php?title=Chado_Natural_Diversity&redirect=no "Chado Natural Diversity"))
+Diversity](Chado_Natural_Diversity)
 
 
 

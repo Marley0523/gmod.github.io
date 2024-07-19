@@ -12,7 +12,7 @@
 
 
 (Redirected from [GMOD Summer School Statement of
-Interest](http://gmod.org/mediawiki/index.php?title=GMOD_Summer_School_Statement_of_Interest&redirect=no "GMOD Summer School Statement of Interest"))
+Interest](GMOD_Summer_School_Statement_of_Interest)
 
 
 

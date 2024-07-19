@@ -1,63 +1,29 @@
-
-
-
-
-<span id="top"></span>
-
-
-
-
-# <span dir="auto">JBrowse</span>
-
-
-
-
-
-(Redirected from
-[JBrowseDev/Installation](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Installation&redirect=no "JBrowseDev/Installation"))
-
-
-
-
-
+# JBrowse
 
 <a href="../File:JBrowseLogo.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/400px-JBrowseLogo.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/ac/JBrowseLogo.png/600px-JBrowseLogo.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ac/JBrowseLogo.png 2x"
 width="400" height="88" alt="JBrowse logo" /></a>
 
-
-
 Status
-
-
 
 - Mature release
 - Development: active
 - Support: active
 
-
-
 Licence
-
 
 <a href="http://opensource.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
-
-
 <a href="http://opensource.org/licenses/LGPL-3.0" class="external text"
 rel="nofollow">LGPL</a>,
 <a href="http://opensource.org/licenses/Artistic-2.0"
 class="external text" rel="nofollow">Artistic License 2.0</a>
 
-
-
 Resources
-
-
 
 - <a href="http://jbrowse.org" class="external text" rel="nofollow">Home
   page</a>
@@ -77,14 +43,7 @@ Resources
 - <a href="http://jbrowse.org/demos" class="external text"
   rel="nofollow">Demo server</a>
 
-  
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">About
   JBrowse</span>](#About_JBrowse)
@@ -127,8 +86,6 @@ Resources
 - [<span class="tocnumber">10</span> <span class="toctext">More on
   JBrowse</span>](#More_on_JBrowse)
 
-
-
 ## <span id="About_JBrowse" class="mw-headline">About JBrowse</span>
 
 JBrowse is a genome browser with a fully dynamic AJAX interface, being
@@ -150,18 +107,15 @@ requirements for the server.
   directly over HTTP. Serve huge datasets from a single low-cost cloud
   instance.
 
-  
 Visit the <a href="http://jbrowse.org" class="external text"
 rel="nofollow">JBrowse website</a>.
 
 ### <span id="Screenshots" class="mw-headline">Screenshots</span>
 
-
 <a href="../File:JBrowse_alignment_and_coverage.png" class="image"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage.png" /></a>
-
 
 ## <span id="Downloads" class="mw-headline">Downloads</span>
 
@@ -198,9 +152,8 @@ class="external text" rel="nofollow">JBrowse Quick-Start Tutorial</a>
 provides a basic step-by-step recipe for quickly getting up and running
 with JBrowse.
 
-  
 1. <a href="http://jbrowse.org/install/" class="external text"
-rel="nofollow">Download JBrowse</a> onto your web server.
+   rel="nofollow">Download JBrowse</a> onto your web server.
 
 2\. Unpack JBrowse into a directory that is served by your web browser.
 On many systems, this defaults to `/var/www`.
@@ -343,18 +296,19 @@ rel="nofollow">150+ tomato genome resequencing project</a> using JBrowse
 ## <span id="Contacts_and_Mailing_Lists" class="mw-headline">Contacts and Mailing Lists</span>
 
 Please direct questions and inquiries regarding JBrowse to the mailing
-lists below.*Requests for help should be directed to
+lists below._Requests for help should be directed to
 <a href="mailto:gmod-ajax@lists.sourceforge.net" class="external text"
-rel="nofollow">gmod-ajax@lists.sourceforge.net</a>.*
+rel="nofollow">gmod-ajax@lists.sourceforge.net</a>._
 
-|  |  |  |  |
-|----|----|----|----|
-|  | Mailing List Link | Description | Archive(s) |
-| **JBrowse** | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax"
-class="external text" rel="nofollow">gmod-ajax</a> | **JBrowse** help and general questions. | <a href="http://gmod.827538.n3.nabble.com/JBrowse-Support-f815920.html"
+|                                                    |                                                                  |                                                                         |            |
+| -------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+|                                                    | Mailing List Link                                                | Description                                                             | Archive(s) |
+| **JBrowse**                                        | <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax" |
+| class="external text" rel="nofollow">gmod-ajax</a> | **JBrowse** help and general questions.                          | <a href="http://gmod.827538.n3.nabble.com/JBrowse-Support-f815920.html" |
+
 class="external text" rel="nofollow">Nabble</a> (2010/05+), <a href="https://lists.sourceforge.net/lists/listinfo/gmod-ajax"
 class="external text" rel="nofollow">Sourceforge</a> |
-|  | <a
+| | <a
 href="https://calmail.berkeley.edu/manage/list/listinfo/jbrowse-dev@lists.berkeley.edu"
 class="external text" rel="nofollow">jbrowse-dev</a> | **JBrowse** development discussions. | <a
 href="http://gmod.827538.n3.nabble.com/JBrowse-Development-f3296666.html"
@@ -393,8 +347,6 @@ development.
 
 See [Category%253AJBrowse](../Category%253AJBrowse "Category%253AJBrowse")
 
-  
-
 1.  <span id="cite_note-PMID:19570905-1"><span class="mw-cite-backlink">[↑](#cite_ref-PMID:19570905_1-0)</span>
     <span class="reference-text">\*JBrowse: a next-generation genome
     browser </span></span>
@@ -408,12 +360,9 @@ See [Category%253AJBrowse](../Category%253AJBrowse "Category%253AJBrowse")
     <span class="reference-text">\* JBrowse: a dynamic web platform for
     genome visualization and analysis</span></span>
 
-
 </span>
 
 [Available on platform](../Property%253AAvailable_on_platform "Property:Available on platform")
-
-
 
 web
 <span class="smwsearch">[+](../Special%253ASearchByProperty/Available-20on-20platform/web "Special%253ASearchByProperty/Available-20on-20platform/web")</span>
@@ -461,7 +410,7 @@ is javascript-based and does almost all of its work directly in the
 user's web browser, with minimal requirements for the server.
 </span></span>
 
-### <span id="Features" class="mw-headline">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">\[</span>[edit](http://gmod.org/mediawiki/index.php?title=JBrowse&action=edit&section=1 "Edit section: Features")<span class="mw-editsection-bracket">\]</span></span>
+### Features
 
 - Fast, smooth scrolling and zooming. Explore your genome with
   unparalleled speed.
@@ -479,25 +428,13 @@ user's web browser, with minimal requirements for the server.
   genome of Ötzi the ice man
   <span class="smwsearch">[+](../Special%253ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20%C3%96tzi-20the-20ice-20man "Special%253ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20Ötzi-20the-20ice-20man")</span>
 
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -506,24 +443,14 @@ title="Visit the main page"></a>
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -533,18 +460,12 @@ title="Visit the main page"></a>
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="../Special%253ABrowse/JBrowse" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 19:18 on 15 April
-  2016.</span>
+- <span id="footer-info-lastmod">Last updated at 19:18 on 15 April 2016.</span>
 <!-- - <span id="footer-info-viewcount">734,541 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -553,10 +474,4 @@ title="Visit the main page"></a>
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

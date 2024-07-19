@@ -14,7 +14,7 @@
 
 
 (Redirected from [JBrowseDev/Using a Database With
-JBrowse](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Using_a_Database_With_JBrowse&redirect=no "JBrowseDev/Using a Database With JBrowse"))  
+JBrowse](JBrowseDev/Using_a_Database_With_JBrowse)  
 Redirect page
 
 

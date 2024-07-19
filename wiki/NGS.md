@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[NGS](http://gmod.org/mediawiki/index.php?title=NGS&redirect=no "NGS"))
+[NGS](NGS)
 
 
 

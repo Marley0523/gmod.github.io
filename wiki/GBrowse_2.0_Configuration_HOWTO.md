@@ -14,7 +14,7 @@
 
 
 (Redirected from [GBrowse 2.0 Configuration
-HOWTO](http://gmod.org/mediawiki/index.php?title=GBrowse_2.0_Configuration_HOWTO&redirect=no "GBrowse 2.0 Configuration HOWTO"))
+HOWTO](GBrowse_2.0_Configuration_HOWTO)
 
 
 

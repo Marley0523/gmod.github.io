@@ -14,7 +14,7 @@
 
 
 (Redirected from [Apollo
-Tutorial](http://gmod.org/mediawiki/index.php?title=Apollo_Tutorial&redirect=no "Apollo Tutorial"))
+Tutorial](Apollo_Tutorial)
 
 
 

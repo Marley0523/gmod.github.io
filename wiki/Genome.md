@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[Genome](http://gmod.org/mediawiki/index.php?title=Genome&redirect=no "Genome"))
+[Genome](Genome)
 
 
 

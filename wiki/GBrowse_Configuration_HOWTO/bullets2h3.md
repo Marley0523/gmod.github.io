@@ -14,7 +14,7 @@
 
 
 (Redirected from [GBrowse Configuration
-HOWTO/bullets2h3](http://gmod.org/mediawiki/index.php?title=GBrowse_Configuration_HOWTO/bullets2h3&redirect=no "GBrowse Configuration HOWTO/bullets2h3"))
+HOWTO/bullets2h3](GBrowse_Configuration_HOWTO/bullets2h3)
 
 
 

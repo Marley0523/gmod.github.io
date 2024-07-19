@@ -14,7 +14,7 @@
 
 
 (Redirected from [Regionview
-panel](http://gmod.org/mediawiki/index.php?title=Regionview_panel&redirect=no "Regionview panel"))
+panel](Regionview_panel)
 
 
 

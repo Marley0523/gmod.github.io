@@ -14,7 +14,7 @@
 
 
 (Redirected from
-[JBrowseDev/Current/Usage/ConfigFiles](http://gmod.org/mediawiki/index.php?title=JBrowseDev/Current/Usage/ConfigFiles&redirect=no "JBrowseDev/Current/Usage/ConfigFiles"))  
+[JBrowseDev/Current/Usage/ConfigFiles](JBrowseDev/Current/Usage/ConfigFiles)  
 Redirect page
 
 

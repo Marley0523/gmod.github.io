@@ -14,7 +14,7 @@
 
 
 (Redirected from [SOBA
-Tutorial](http://gmod.org/mediawiki/index.php?title=SOBA_Tutorial&redirect=no "SOBA Tutorial"))
+Tutorial](SOBA_Tutorial)
 
 
 

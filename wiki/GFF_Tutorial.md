@@ -14,7 +14,7 @@
 
 
 (Redirected from [GFF
-Tutorial](http://gmod.org/mediawiki/index.php?title=GFF_Tutorial&redirect=no "GFF Tutorial"))
+Tutorial](GFF_Tutorial)
 
 
 

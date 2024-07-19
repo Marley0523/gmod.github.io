@@ -14,7 +14,7 @@
 
 
 (Redirected from [Mailing
-Lists](http://gmod.org/mediawiki/index.php?title=Mailing_Lists&redirect=no "Mailing Lists"))
+Lists](Mailing_Lists)
 
 
 
