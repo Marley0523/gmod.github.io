@@ -94,9 +94,7 @@ user's web browser, with minimal requirements for the server.
   back-end server code, just tools for formatting data files to be read
   directly over HTTP. Serve huge datasets from a single low-cost cloud
   instance.ets from a single low-cost cloud instance.
-  <span class="smwsearch"><a
-  href="http://gmod.org/mediawiki/index.php?title=Special%253ASearchByProperty&amp;x=Has-20description%2FJBrowse-20is-20a-20genome-20browser-20with-20a-20fully-20dynamic-20AJAX-20interface%2C-20being-20developed-20as-20the-20eventual-20successor-20to-20GBrowse.-20It-20is-20very-20fast-20and-20scales-20well-20to-20large-20datasets.-20JBrowse-20is-20javascript-2Dbased-20and-20does-20almost-20all-20of-20its-20work-20directly-20in-20the-20user%27s-20web-20browser%2C-20with-20minimal-20requirements-20for-20the-20server.-0A-0A%3D%3D%3DFeatures%3D%3D%3D-0A-0A%2AFast%2C-20smooth-20scrolling-20and-20zooming.-20Explore-20your-20genome-20with-20unparalleled-20speed.-0A%2AScales-20easily-20to-20multi-2Dgigabase-20genomes-20and-20deep-2Dcoverage-20sequencing.-0A%2ASupports-20GFF3%2C-20BED%2C-20FASTA%2C-20Wiggle%2C-20BigWig%2C-20BAM%2C-20VCF-20%28with-20tabix%29%2C-20REST%2C-20and-20more.-20-20BAM%2C-20BigWig%2C-20and-20VCF-20data-20are-20displayed-20directly-20from-20the-20compressed-20binary-20file-20with-20no-20conversion-20needed.-0A%2AVery-20light-20server-20resource-20requirements.-20In-20fact%2C-20JBrowse-20has-20no-20back-2Dend-20server-20code%2C-20just-20tools-20for-20formatting-20data-20files-20to-20be-20read-20directly-20over-20HTTP.-20Serve-20huge-20datasets-20from-20a-20single-20low-2Dcost-20cloud-20instance."
-  class="external text" rel="nofollow">+</a></span> and Browse the
+   and Browse the
   genome of Ötzi the ice man
   <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20%C3%96tzi-20the-20ice-20man "Special%253ASearchByProperty/Has-20description/Browse-20the-20genome-20of-20Ötzi-20the-20ice-20man")</span>
 

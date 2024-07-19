@@ -156,9 +156,7 @@ edit features)</li>
 Note that the information on this page refers to GBrowse 2; GBrowse 1.x
 is recommended only for applications where legacy browser support is
 required and a single database is used.is required and a single database
-is used. <span class="smwsearch"><a
-href="http://gmod.org/mediawiki/index.php?title=Special%253ASearchByProperty&amp;x=Has-20description%2FGBrowse-20is-20a-20combination-20of-20database-20and-20interactive-20web-20pages-20for-20manipulating-20and-20displaying-20annotations-20on-20genomes.-20Features-20include%253A-0A-0A%2A-20Simultaneous-20bird%27s-20eye-20and-20detailed-20views-20of-20the-20genome.-0A%2A-20Scroll%2C-20zoom%2C-20center.-0A%2A-20Use-20a-20variety-20of-20-5B-5BGBrowse-20Configuration-20HOWTO-23Glyphs-20and-20Glyph-20Options-7Cpremade-20glyphs-5D-5D-20or-20create-20your-20own.-0A%2A-20Attach-20arbitrary-20URLs-20to-20any-20annotation.-0A%2A-20Order-20and-20appearance-20of-20tracks-20are-20customizable-20by-20administrator-20and-20end-2Duser.-0A%2A-20Search-20by-20annotation-20ID%2C-20name%2C-20or-20comment.-0A%2A-20Supports-20third-20party-20annotation-20using-20-5B-5BGFF-5D-5D-20formats.-0A%2A-20Settings-20persist-20across-20sessions.-0A%2A-20DNA-20and-20-5B-5BGFF-5D-5D-20dumps.-0A%2A-20Connectivity-20to-20different-20databases%2C-20including-20-5B-5BBioSQL-5D-5D-20and-20-5B-5BChado-5D-5D.-0A%2A-20Multi-2Dlanguage-20support.-0A%2A-20Third-2Dparty-20feature-20loading.-0A%2A-20Customizable-20-5B-5BGBrowse-20Plugins-7Cplug-2Din-5D-5D-20architecture-20%28e.g.-20run-20-5B-5Bwp%253ABLAST-7CBLAST-5D-5D%2C-20dump-20-26-20import-20many-20formats%2C-20find-20oligonucleotides%2C-20-5B-5BPrimerDesigner.pm-7Cdesign-20primers-5D-5D%2C-20create-20restriction-20maps%2C-20edit-20features%29-0A-0ANote-20that-20the-20information-20on-20this-20page-20refers-20to-20GBrowse-202%3B-20GBrowse-201.x-20is-20recommended-20only-20for-20applications-20where-20legacy-20browser-20support-20is-20required-20and-20a-20single-20database-20is-20used."
-class="external text" rel="nofollow">+</a></span></td>
+is used. </td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property%253AHas_development_status"

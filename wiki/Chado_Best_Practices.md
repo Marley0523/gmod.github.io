@@ -1,21 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Chado Best Practices</span>
-
-
-
-
-
-
-
-
 
 Chado is a generic [schema](Glossary#Database_Schema "Glossary"), which
 means anyone writing software to query or write to chado (either
@@ -43,10 +28,7 @@ See also:
   further discussion on these conventions and how they were implemented
   at IGS (for comparison)
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Gene
   Models</span>](#Gene_Models)
@@ -157,14 +139,10 @@ See also:
 - [<span class="tocnumber">11</span> <span class="toctext">xxx Genome
   Versions</span>](#xxx_Genome_Versions)
 
-
-
 ### <span id="Gene_Models" class="mw-headline">Gene Models</span>
 
 This section describes how one describes commonly encountered gene
 models in Chado.
-
-  
 
 #### <span id="Canonical_Gene_Model" class="mw-headline">Canonical Gene Model</span>
 
@@ -176,15 +154,15 @@ consists of one gene, one or more mRNAs, one or more exons, and at least
 one polypeptide.
 
 Alternately spliced genes have a 1-to-many relation between gene and
-mRNA. Exons can be *part_of* more than one mRNA. No two distinct exon
+mRNA. Exons can be _part_of_ more than one mRNA. No two distinct exon
 rows should have exact same [featureloc](#Table:_featureloc) coordinates
 (this would indicate they are the same exon).
 
 Every feature must have a featureloc with rank=0 and locgroup=0. The
-value of the *srcfeature_id* column should be identical (i.e. all
+value of the _srcfeature_id_ column should be identical (i.e. all
 features are located relative to the same feature), except in rare
 circumstances such as when a feature crosses two contigs (software is
-not guaranteed to support this). The *srcfeature_id* can point to a
+not guaranteed to support this). The _srcfeature_id_ can point to a
 <a href="http://www.sequenceontology.org/miSO/SO_CVS/contig.html"
 class="external text" rel="nofollow">contig</a>, a
 <a href="http://www.sequenceontology.org/miSO/SO_CVS/chromosome.html"
@@ -195,19 +173,15 @@ appropriate assembly unit.
 
 This scenario involves rows in the following tables:
 
-  
-
-| Table | type_id | Number | Comments |
-|----|----|----|----|
-| feature | <a href="http://www.sequenceontology.org/miSO/SO_CVS/gene.html"
-class="external text" rel="nofollow">SO:Gene</a> | 1 | The gene must always be provided |
-| feature | <a href="http://www.sequenceontology.org/miSO/SO_CVS/mRNA.html"
-class="external text" rel="nofollow">SO:mRNA</a> | 1 or more | One or more transcripts are required, and these are always of type <a href="http://www.sequenceontology.org/miSO/SO_CVS/mRNA.html"
-class="external text" rel="nofollow">SO:mRNA</a> for protein-coding genes. |
-| feature | exon | 1 or more | Exons are always required, even if the genome under consideration has no introns. |
-| feature | polypeptide | At least 1 | A protein-coding gene always produces a polypeptide, by definition. The polypeptide is located relative to the same genomic feature as the exons, mRNAs and gene. A single featureloc is used, with *fmin* and *fmax* indicating the start and stop codon positions (location is inclusive of stop codon). The polypeptide sequence should be specified as an amino acid sequence. |
-
-  
+| Table                                                                      | type_id                                                         | Number                                                                                                                             | Comments                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| feature                                                                    | <a href="http://www.sequenceontology.org/miSO/SO_CVS/gene.html" |
+| class="external text" rel="nofollow">SO:Gene</a>                           | 1                                                               | The gene must always be provided                                                                                                   |
+| feature                                                                    | <a href="http://www.sequenceontology.org/miSO/SO_CVS/mRNA.html" |
+| class="external text" rel="nofollow">SO:mRNA</a>                           | 1 or more                                                       | One or more transcripts are required, and these are always of type <a href="http://www.sequenceontology.org/miSO/SO_CVS/mRNA.html" |
+| class="external text" rel="nofollow">SO:mRNA</a> for protein-coding genes. |
+| feature                                                                    | exon                                                            | 1 or more                                                                                                                          | Exons are always required, even if the genome under consideration has no introns.                                                                                                                                                                                                                                                                                                  |
+| feature                                                                    | polypeptide                                                     | At least 1                                                                                                                         | A protein-coding gene always produces a polypeptide, by definition. The polypeptide is located relative to the same genomic feature as the exons, mRNAs and gene. A single featureloc is used, with _fmin_ and _fmax_ indicating the start and stop codon positions (location is inclusive of stop codon). The polypeptide sequence should be specified as an amino acid sequence. |
 
 ##### <span id="Querying_for_Canonical_Genes" class="mw-headline">Querying for Canonical Genes</span>
 
@@ -217,8 +191,7 @@ its [feature
 graph](Introduction_to_Chado#Feature_Graphs "Introduction to Chado") has
 3 levels. If we follow this assumption:
 
-
-``` de1
+```de1
     SELECT * FROM feature AS gene
          INNER JOIN
        feature_relationship AS feat0 ON (gene.feature_id = feat0.object_id)
@@ -232,15 +205,12 @@ graph](Introduction_to_Chado#Feature_Graphs "Introduction to Chado") has
        gene.name = 'Dredd';
 ```
 
-
 This query should fetch a 3-deep graph rooted at "Dredd".
 
 ##### <span id="Application_Support" class="mw-headline">Application Support</span>
 
 - Supported by [Apollo](Apollo.1 "Apollo")
 - Supported by [GBrowse](GBrowse.1 "GBrowse")
-
-  
 
 #### <span id="Noncoding_Genes" class="mw-headline">Noncoding Genes</span>
 
@@ -252,8 +222,6 @@ model](#Canonical_Gene_Model), with the following exceptions:
 - There is no polypeptide feature
 - Instead of an mRNA feature, there is a feature that is some other
   sub-type of RNA
-
-  
 
 ##### <span id="Application_Support_2" class="mw-headline">Application Support</span>
 
@@ -285,8 +253,6 @@ no-one is using Chado to do this. There are currently two practices:
   a later date it becomes desirable to annotated the exon structure of a
   pseudogene, it will be compatible with this.
 
-  
-
 ##### <span id="Application_Support_3" class="mw-headline">Application Support</span>
 
 - [Apollo](Apollo.1 "Apollo"): status is unclear.
@@ -309,8 +275,6 @@ located relative to other features (usually the genome, but once can
 have singletons that are located relative to other features - this may
 not be supported by all applications)
 
-  
-
 ##### <span id="Application_Support_4" class="mw-headline">Application Support</span>
 
 - Supported by [Apollo](Apollo.1 "Apollo")
@@ -320,8 +284,6 @@ Apollo supports singletons provided they are located relative to the
 genome (singletons located relative to other features will be ignored).
 It may be necessary to configure apollo to make the feature type
 "1-level".
-
-  
 
 #### <span id="Dicistronic_Gene" class="mw-headline">Dicistronic Gene</span>
 
@@ -359,33 +321,18 @@ April 2007 (EDT)</p></td>
 </tbody>
 </table>
 
-  
 There are currently two proposals for handling dicistronic genes. The
 first is a hack and introduces redundancy, but works well with existing
 software and tools. The second is prefered from a modeling standpoint,
 but introduces a lot of complexity to software.
 
-  
-
-  
-
-  
-
 #### <span id="xxx_Operon" class="mw-headline">xxx Operon</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-Bacterial genes are often transcribed in groups; e.g. *lacZ*, *lacA* and
-*lacY* make up the
+Bacterial genes are often transcribed in groups; e.g. _lacZ_, _lacA_ and
+_lacY_ make up the
 <a href="http://en.wikipedia.org/wiki/Lac_operon" class="extiw"
 title="wp:Lac operon">Lac operon</a>. There are many similarities with
 [dicistronic genes](#Dicistronic_Gene) here.
-
-  
 
 #### <span id="Trans-spliced_Gene" class="mw-headline">Trans-spliced Gene</span>
 
@@ -396,8 +343,8 @@ A trans-spliced transcript is spliced from exons coming from different
 parts of the genome. The distance between each trans-spliced part may be
 large, or it may be in the same location on the opposite strand.
 
-Most *C. elegans* genes have a trans-spliced leader sequence. This is
-different from the trans-splicing involved in *Drosophila*, where we
+Most _C. elegans_ genes have a trans-spliced leader sequence. This is
+different from the trans-splicing involved in _Drosophila_, where we
 observe what appears to be two transcripts on separate strands (both
 containing coding sequence) joining together in a single functional
 transcript.
@@ -406,14 +353,14 @@ There are two proposals for dealing with this. One treats the
 trans-spliced transcript as a single transcripts, with exons coming from
 different locations. The other treats the trans-spliced transcript as a
 mature transcript created from two distinct primary transcripts. Note
-that these proposals focus on the *Drosophila* example. A solution for
-the *C. elegans* example has not been proposed.
+that these proposals focus on the _Drosophila_ example. A solution for
+the _C. elegans_ example has not been proposed.
 
 We treat this as an ordinary gene model, but relax our rules for exon
-locations in a transcript. For example, for the canonical *Drosophila*
+locations in a transcript. For example, for the canonical _Drosophila_
 trans-spliced gene, we would allow transcripts to have exons on
 different strands. Note that in Chado, exon ordering comes from
-*feature_relationship.rank* (between exon and transcript), **not** from
+_feature_relationship.rank_ (between exon and transcript), **not** from
 the featureloc of the exon. Chado has no problem with this. However,
 some software may make assumptions that all exons are on the same
 strand, or may try to order exons by their location to get a transcript
@@ -427,35 +374,17 @@ introduces a major departure from the [canonical gene
 model](#Canonical_Gene_Model). For this reason this proposal is unlikely
 to be adopted.
 
-  
-
 ##### <span id="Application_Support_5" class="mw-headline">Application Support</span>
 
 - [Apollo](Apollo.1 "Apollo"): status unclear.
 - [GBrowse](GBrowse.1 "GBrowse"): status unclear.
 
-  
-
 #### <span id="xxx_Gene_with_Regulatory_Elements" class="mw-headline">xxx Gene with Regulatory Elements</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 Regulatory elements may be implicitly or explicitly associated with a
 gene.
 
-  
-
 #### <span id="xxx_Transposons" class="mw-headline">xxx Transposons</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 Transposons can be annotated as [singleton features](#Singleton_Feature)
 or as complex annotations. You would create a feature of type transposon
@@ -479,7 +408,7 @@ uncharted water as far as both Chado and annotation tools are concerned
 (which is why this scenario is marked as being under discussion). One
 option would be to treat each transposon part as distinct singletons,
 but this may be unsatisfactory as one may desire to have the appropriate
-*part_of* relations between the parts.
+_part_of_ relations between the parts.
 
 #### <span id="Gene_with_Implicit_Features_Manifested" class="mw-headline">Gene with Implicit Features Manifested</span>
 
@@ -488,8 +417,6 @@ in chado. They are normally derived on-the-fly from the gaps between
 consecutive exons. See for an example. Occasionally it may be desirable
 to store the introns as actual rows in the feature table - for example
 in a report database.
-
-  
 
 #### <span id="Unlocalized_Gene" class="mw-headline">Unlocalized Gene</span>
 
@@ -528,7 +455,7 @@ distinct subfeatures (e.g. a transcript composes of exons), then it is
 **not** permitted to use multiple featurelocs to indicate this. Instead,
 there must be rows for the subfeatures, each with their own featureloc.
 
-In a feature graph (i.e. a group of features connected *via*
+In a feature graph (i.e. a group of features connected _via_
 [feature_relationship](Chado_Tables#Table:_feature_relationship "Chado Tables")
 rows, all features will typically be localized relative to the same
 source feature (i.e. they will all have the same value for
@@ -539,8 +466,6 @@ feature, but chado does not constrain you to using only this. For
 example, localizing features relative to a transcript or polypeptide or
 even exon is permitted, but unusual practices will most likely not be
 recognized by most software.
-
-  
 
 #### <span id="Feature_Localization_to_Contigs_in_Assembly" class="mw-headline">Feature Localization to Contigs in Assembly</span>
 
@@ -565,8 +490,6 @@ assembly feature. It may sometimes be desirable to have software that
 can perform location transformations, mapping features from contigs to
 top-level units and back.
 
-  
-
 ##### <span id="Application_Support_7" class="mw-headline">Application Support</span>
 
 - [Apollo](Apollo.1 "Apollo"): status unclear.
@@ -587,7 +510,7 @@ such as chromosomes.
 Features can be located relative to both contigs and top-level assembly
 units.
 
-Chado allows redundant feature localization using *featureloc.locgroup*
+Chado allows redundant feature localization using _featureloc.locgroup_
 \> 0. This allows a database to have primary locations for features
 relative to contigs, and secondary locations relative to top-level units
 such as chromosomes. The converse is also allowed.
@@ -604,13 +527,13 @@ circumstances
 - [GBrowse](GBrowse.1 "GBrowse"): status unclear.
 - [GBrowse](GBrowse.1 "GBrowse"): status partial.
 
-It is not clear if GBrowse uses *locgroup* in querying. If it constrains
-by *locgroup*, then this is essentially the same as [feature
+It is not clear if GBrowse uses _locgroup_ in querying. If it constrains
+by _locgroup_, then this is essentially the same as [feature
 localization to contigs in
 assembly](#Feature_Localization_to_Contigs_in_Assembly).
 
-Not clear if Apollo uses *locgroup* in querying. If it constrains by
-*locgroup*, then this is essentially the same as [feature localization
+Not clear if Apollo uses _locgroup_ in querying. If it constrains by
+_locgroup_, then this is essentially the same as [feature localization
 to contigs in assembly](#Feature_Localization_to_Contigs_in_Assembly).
 Apollo will not preserve redundant *featureloc*s when writing back to
 the database. This could lead to the database getting out of sync.
@@ -626,29 +549,17 @@ relative to chromosomes. Most software that interoperates with Chado
 will not be able to deal with this, so this scenario is discouraged
 except by advanced users who have no other option.
 
-  
-
 #### <span id="Immature_or_Primary_RNA" class="mw-headline">Immature or Primary RNA</span>
 
 Generally we do not explicitly represent primary RNA transcripts unless
 there is something useful to say about them. If one wants to instantiate
 these they would be represented as features, and the mature message
-would be related to the primary message with *derived_from* as *type_id*
+would be related to the primary message with _derived_from_ as _type_id_
 in the
 [feature_relationship](Chado_Tables#Table:_feature_relationship "Chado Tables")
 table.
 
-  
-
 ### <span id="xxx_Genomic_Rearrangements" class="mw-headline">xxx Genomic Rearrangements</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
 
 #### <span id="Inversions" class="mw-headline">Inversions</span>
 
@@ -666,8 +577,6 @@ B' (post-rearrangement) and locate on B' and A', respectively. How to
 capture the fact that Afrag and Bfrag and A' and B' are part of same
 rearrangement? Use feature relations?
 
-  
-
 #### <span id="Translocations" class="mw-headline">Translocations</span>
 
 Create a feature of type translocation with a location spanning the
@@ -680,8 +589,6 @@ about this.
 
 Good point; we pondered adding a CV term to featureloc (I think it's
 still useful to have rank anyway - e.g. for multiple alignments).
-
-  
 
 #### <span id="Deletions" class="mw-headline">Deletions</span>
 
@@ -719,13 +626,13 @@ Here we would have one feature and two featurelocs.
        (locgroup 0)))
 
 The first location is on the chromosome arm (presumably wild type). The
-second location has no *srcfeature* value (i.e. it is set to null).
+second location has no _srcfeature_ value (i.e. it is set to null).
 However, it is effectively paired with the first location. if we later
 wished to instantiate the mutant chromosome arm feature, we would fill
-in the second locgroup's *srcfeature*.
+in the second locgroup's _srcfeature_.
 
 Let's take another example - a SNP that has only been characterised at
-the protein level. This SNP changes an *I* to a *V*.
+the protein level. This SNP changes an _I_ to a _V_.
 
     (feature
      (name "SNP_02")
@@ -744,12 +651,11 @@ the protein level. This SNP changes an *I* to a *V*.
 
 Again, the second featureloc has no srcfeature. The mutant protein is
 implicit. The mutant protein sequence can be infered by taking the
-sequence of *dpp-P1* and substituting the 24th residue with a *V*.
+sequence of _dpp-P1_ and substituting the 24th residue with a _V_.
 
 To do a query for all SNPs that switch I to V or vice versa:
 
-
-``` de1
+```de1
 SELECT snp.*
 FROM
   featureloc AS wildloc,
@@ -765,7 +671,6 @@ WHERE
   wildloc.residue_info = 'I'           AND
   mutloc.residue_info = 'I';
 ```
-
 
 Note that this query remains the same even if mutant protein features
 are instantiated as opposed to left implicit.
@@ -824,18 +729,15 @@ the residue is reverse complemented.
        (locgroup 2)))
 
 Here we have 6 locations for one SNP. The 6 locations can be imagined to
-be in a 2-D matrix. The purpose of *rank* and *locgroup* is to specify
+be in a 2-D matrix. The purpose of _rank_ and _locgroup_ is to specify
 the column and row in the matrix.
 
-  
-
 | Allele    | Genome | Transcript | Protein |
-|-----------|--------|------------|---------|
+| --------- | ------ | ---------- | ------- |
 | Wild-type | A      | T          | I       |
 | Mutant    | G      | C          | T       |
 
-  
-*rank* is used to group the strain and *locgroup* is used for the
+_rank_ is used to group the strain and _locgroup_ is used for the
 grouping within that strain. rank=0 should be used for the wildtype, but
 this is not always possible; locgroup=0 should be used for primary (as
 opposed to derived) location, this is not always possible. The important
@@ -848,14 +750,11 @@ different frames).
 
 Here we would want to add another locgroup, for the second protein.
 
-  
-
 | Allele    | Genome | Transcript | Protein1 | Protein2 |
-|-----------|--------|------------|----------|----------|
+| --------- | ------ | ---------- | -------- | -------- |
 | Wild-type | A      | T          | I        | Y        |
 | Mutant    | G      | C          | T        | H        |
 
-  
 Again, if we don't need to instantiate the 2 mutant proteins, but their
 sequence can be reconstructed from the wild type proteins plus the
 corresponding mutation.
@@ -867,11 +766,10 @@ and postgresql substring counts from 1.
 The following query dynamically constructs mutant feature residues based
 on the wild type feature and the mutant residue changes. this should
 work for a variety of variation features, not just SNPs. Note that we
-need to use *locgroup* to properly group wild type/mutant pairs of
+need to use _locgroup_ to properly group wild type/mutant pairs of
 locations, otherwise this query will give bad data.
 
-
-``` de1
+```de1
 SELECT
  snp.name,
  wildfeat.name,
@@ -896,9 +794,6 @@ WHERE
   wildloc.srcfeature = wildfeat
 ```
 
-
-  
-
 #### <span id="Extensions" class="mw-headline">Extensions</span>
 
 The above will also work if we have a polymorphic site with a number of
@@ -908,15 +803,13 @@ number of rows in the location matrix (i.e. we have rank \> 1).
 We could also instantiate multiple SNPs, one per strain, and keep the
 locations pairwise.
 
-  
-
 #### <span id="Similarities_to_Alignments" class="mw-headline">Similarities to Alignments</span>
 
 You should hopefully notice the parallels between modeling SNPs and
 modeling pairwise (e.g. BLAST) and multiple alignments. The difference
 is, alignments would always have locgroup=0, with the rank
 distinguishing query from subject. Also, with an HSP feature, the
-*residue_info* is used to store the alignment string.
+_residue_info_ is used to store the alignment string.
 
 #### <span id="Redundant_Storage_of_Coordinates_on_Different_Assembly_Levels" class="mw-headline">Redundant Storage of Coordinates on Different Assembly Levels</span>
 
@@ -951,8 +844,8 @@ bp_search2gff.pl and gmod_bulk_load_gff3.pl
   where the featureloc entry for the query sequence has a
   featureloc.rank of 0 and the featureloc.rank of the target sequence
   is 1. The <a href="http://sequenceontology" class="external text"
-  rel="nofollow">SO</a> term is *match*.
-  - Note: *featureloc.locgroup* is not used.
+  rel="nofollow">SO</a> term is _match_.
+  - Note: _featureloc.locgroup_ is not used.
 - Store the HSPs in both the
   [feature](Chado_Tables#Table:_feature "Chado Tables") and
   [analysisfeature](Chado_Tables#Table:_analysisfeature "Chado Tables")
@@ -961,9 +854,9 @@ bp_search2gff.pl and gmod_bulk_load_gff3.pl
   where the featureloc entry for the query sequence has a
   featureloc.rank of 0 and the featureloc.rank of the target sequence
   is 1. The <a href="http://sequenceontology" class="external text"
-  rel="nofollow">SO</a> term is *match_part*.
-  - Note: *featureloc.locgroup* is not used.
-- Map the hits and the HSPs to each other *via* entries in the
+  rel="nofollow">SO</a> term is _match_part_.
+  - Note: _featureloc.locgroup_ is not used.
+- Map the hits and the HSPs to each other _via_ entries in the
   [feature_relationship](Chado_Tables#Table:_feature_relationship "Chado Tables")
   tables.
 - Standard scores (rawscore, normscore, significance, identity) are
@@ -974,59 +867,15 @@ bp_search2gff.pl and gmod_bulk_load_gff3.pl
 
 #### <span id="xxx_Multiple_Sequence_Alignments" class="mw-headline">xxx Multiple Sequence Alignments</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
-
 ### <span id="xxx_Posttranslational_Modifications" class="mw-headline">xxx Posttranslational Modifications</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
 
 ### <span id="xxx_Genotypes" class="mw-headline">xxx Genotypes</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
-
 ### <span id="xxx_Phenotypes" class="mw-headline">xxx Phenotypes</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 ### <span id="xxx_Cleavage" class="mw-headline">xxx Cleavage</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
-
 ### <span id="xxx_Protein_Complexes" class="mw-headline">xxx Protein Complexes</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Best_Practices&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 ### <span id="GO_annotations" class="mw-headline">GO annotations</span>
 
@@ -1053,9 +902,6 @@ dictyBase:DDB0185051
 
 ### <span id="xxx_Genome_Versions" class="mw-headline">xxx Genome Versions</span>
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Pages with problems or
@@ -1064,48 +910,23 @@ dictyBase:DDB0185051
 - [BLAST](Category%253ABLAST "Category%253ABLAST")
 - [Chado](Category%253AChado "Category%253AChado")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1115,18 +936,12 @@ dictyBase:DDB0185051
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Best_Practices" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 08:47 on 16 April
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 08:47 on 16 April 2013.</span>
 <!-- - <span id="footer-info-viewcount">359,762 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1135,10 +950,4 @@ dictyBase:DDB0185051
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
