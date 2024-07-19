@@ -268,8 +268,7 @@ title="Special%253ASearchByProperty/Is-20open-20source/Yes">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AIs_open_source "Special:ExportRDF/Property:Is open source")</span></span>
+</span>
 
 |  |  |
 |----|----|

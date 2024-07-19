@@ -254,8 +254,7 @@ Raw tool data at [SOBA/tool data](SOBA/tool_data "SOBA/tool data")
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[SOBA](Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/SOBA "Special:ExportRDF/SOBA")</span></span>
+"<span class="swmfactboxheadbrowse">[SOBA](Special%253ABrowse/SOBA "Special%253ABrowse/SOBA")</span>"</span>
 
 |  |  |
 |----|----|

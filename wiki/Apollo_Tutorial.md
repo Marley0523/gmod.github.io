@@ -1060,8 +1060,7 @@ class="external text" rel="nofollow">Apollo Javadoc API</a>.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Apollo Tutorial
-2011](Special%253ABrowse/Apollo-20Tutorial-202011 "Special%253ABrowse/Apollo-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Apollo_Tutorial_2011 "Special:ExportRDF/Apollo Tutorial 2011")</span></span>
+2011](Special%253ABrowse/Apollo-20Tutorial-202011 "Special%253ABrowse/Apollo-20Tutorial-202011")</span>"</span>
 
 |  |  |
 |----|----|

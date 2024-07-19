@@ -59,8 +59,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[JBrowse2](Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse2 "Special:ExportRDF/JBrowse2")</span></span>
+"<span class="swmfactboxheadbrowse">[JBrowse2](Special%253ABrowse/JBrowse2 "Special%253ABrowse/JBrowse2")</span>"</span>
 
 |  |  |
 |----|----|

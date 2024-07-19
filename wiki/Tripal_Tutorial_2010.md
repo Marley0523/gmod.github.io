@@ -2177,8 +2177,7 @@ they should be fixed.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
-2010](Special%253ABrowse/Tripal-20Tutorial-202010 "Special%253ABrowse/Tripal-20Tutorial-202010")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_2010 "Special:ExportRDF/Tripal Tutorial 2010")</span></span>
+2010](Special%253ABrowse/Tripal-20Tutorial-202010 "Special%253ABrowse/Tripal-20Tutorial-202010")</span>"</span>
 
 |  |  |
 |----|----|

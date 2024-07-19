@@ -62,8 +62,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[MAKER](Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/MAKER "Special:ExportRDF/MAKER")</span></span>
+"<span class="swmfactboxheadbrowse">[MAKER](Special%253ABrowse/MAKER "Special%253ABrowse/MAKER")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

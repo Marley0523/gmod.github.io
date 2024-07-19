@@ -355,8 +355,7 @@ Community College</a>.
 1.  <span id="cite_note-1"><span class="mw-cite-backlink">[↑](#cite_ref-1)</span>
     <span class="reference-text">PMID:19648141</span></span>
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](/wiki/Special:ExportRDF/CMap "Special:ExportRDF/CMap")</span></span>
+</span>
 
 [Available on platform](/wiki/Property%253AAvailable_on_platform "Property:Available on platform")
 

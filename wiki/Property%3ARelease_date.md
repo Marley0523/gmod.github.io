@@ -237,8 +237,7 @@ title="Special%253ASearchByProperty/Release-20date/1-20January-202009">+</a></sp
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ARelease_date "Special:ExportRDF/Property:Release date")</span></span>
+</span>
 
 |  |  |
 |----|----|

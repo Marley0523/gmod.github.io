@@ -281,8 +281,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Chado Tutorial
-2011](Special%253ABrowse/Chado-20Tutorial-202011 "Special%253ABrowse/Chado-20Tutorial-202011")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Chado_Tutorial_2011 "Special:ExportRDF/Chado Tutorial 2011")</span></span>
+2011](Special%253ABrowse/Chado-20Tutorial-202011 "Special%253ABrowse/Chado-20Tutorial-202011")</span>"</span>
 
 |  |  |
 |----|----|

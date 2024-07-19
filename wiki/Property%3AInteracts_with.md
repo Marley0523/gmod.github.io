@@ -172,8 +172,7 @@ title="Special%253ASearchByProperty/Interacts-20with/Chado-20-2D-20Getting-20Sta
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AInteracts_with "Special:ExportRDF/Property:Interacts with")</span></span>
+</span>
 
 |  |  |
 |----|----|

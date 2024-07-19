@@ -57,8 +57,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Tripal](Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Tripal "Special:ExportRDF/Tripal")</span></span>
+"<span class="swmfactboxheadbrowse">[Tripal](Special%253ABrowse/Tripal "Special%253ABrowse/Tripal")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

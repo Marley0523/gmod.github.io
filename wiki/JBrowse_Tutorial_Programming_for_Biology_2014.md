@@ -546,8 +546,7 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial Programming for
 Biology
-2014](Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014 "Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Biology_2014 "Special:ExportRDF/JBrowse Tutorial Programming for Biology 2014")</span></span>
+2014](Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014 "Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202014")</span>"</span>
 
 |  |  |
 |----|----|

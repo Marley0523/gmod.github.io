@@ -718,8 +718,7 @@ running the `setup.sh` script.
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial Programming for
 Biology
-2016](Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202016 "Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202016")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_Programming_for_Biology_2016 "Special:ExportRDF/JBrowse Tutorial Programming for Biology 2016")</span></span>
+2016](Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202016 "Special%253ABrowse/JBrowse-20Tutorial-20Programming-20for-20Biology-202016")</span>"</span>
 
 |  |  |
 |----|----|

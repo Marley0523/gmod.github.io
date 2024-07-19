@@ -41,8 +41,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[XORT](Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/XORT "Special:ExportRDF/XORT")</span></span>
+"<span class="swmfactboxheadbrowse">[XORT](Special%253ABrowse/XORT "Special%253ABrowse/XORT")</span>"</span>
 
 |  |  |
 |----|----|

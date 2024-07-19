@@ -342,8 +342,7 @@ title="Special%253ASearchByProperty/Has-20input-20format/-5B-5BGFF3-5D-5D">+</a>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_input_format "Special:ExportRDF/Property:Has input format")</span></span>
+</span>
 
 |  |  |
 |----|----|

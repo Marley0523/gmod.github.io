@@ -58,8 +58,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[InterMine](Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/InterMine "Special:ExportRDF/InterMine")</span></span>
+"<span class="swmfactboxheadbrowse">[InterMine](Special%253ABrowse/InterMine "Special%253ABrowse/InterMine")</span>"</span>
 
 |  |  |
 |----|----|

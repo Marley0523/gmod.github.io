@@ -60,8 +60,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Canto](Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Canto "Special:ExportRDF/Canto")</span></span>
+"<span class="swmfactboxheadbrowse">[Canto](Special%253ABrowse/Canto "Special%253ABrowse/Canto")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

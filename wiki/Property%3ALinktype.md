@@ -335,8 +335,7 @@ title="Special%253ASearchByProperty/Linktype/wild-20URL">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ALinktype "Special:ExportRDF/Property%253ALinktype")</span></span>
+</span>
 
 |  |  |
 |----|----|

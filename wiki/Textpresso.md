@@ -55,8 +55,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[Textpresso](Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Textpresso "Special:ExportRDF/Textpresso")</span></span>
+"<span class="swmfactboxheadbrowse">[Textpresso](Special%253ABrowse/Textpresso "Special%253ABrowse/Textpresso")</span>"</span>
 
 |  |  |
 |----|----|

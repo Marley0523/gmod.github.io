@@ -49,8 +49,7 @@ Resources
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[BLAST Graphic
-Viewer](Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/BLAST_Graphic_Viewer "Special:ExportRDF/BLAST Graphic Viewer")</span></span>
+Viewer](Special%253ABrowse/BLAST-20Graphic-20Viewer "Special%253ABrowse/BLAST-20Graphic-20Viewer")</span>"</span>
 
 |  |  |
 |----|----|

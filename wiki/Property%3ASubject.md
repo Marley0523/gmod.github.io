@@ -250,8 +250,7 @@ title="Special%253ASearchByProperty/Subject/XORT">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ASubject "Special:ExportRDF/Property%253ASubject")</span></span>
+</span>
 
 |  |  |
 |----|----|
