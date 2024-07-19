@@ -19,12 +19,7 @@
 
 
 
-There is currently no text in this page. You can [search for this page
-title](Special%253ASearch/Software_Engineer "Special:Search/Software Engineer")
-in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ASoftware_Engineer"
-class="external text" rel="nofollow">search the related logs</a></span>,
-but you do not have permission to create this page.
+
 
 
 

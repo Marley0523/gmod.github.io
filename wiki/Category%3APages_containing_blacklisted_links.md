@@ -19,12 +19,7 @@
 
 
 
-There is currently no text in this page. You can [search for this page
-title](Special%253ASearch/Pages_containing_blacklisted_links "Special:Search/Pages containing blacklisted links")
-in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253APages_containing_blacklisted_links"
-class="external text" rel="nofollow">search the related logs</a></span>,
-but you do not have permission to create this page.
+
 
 
 

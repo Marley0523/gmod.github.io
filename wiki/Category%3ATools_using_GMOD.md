@@ -19,12 +19,7 @@
 
 
 
-There is currently no text in this page. You can [search for this page
-title](Special%253ASearch/Tools_using_GMOD "Special:Search/Tools using GMOD")
-in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253ATools_using_GMOD"
-class="external text" rel="nofollow">search the related logs</a></span>,
-but you do not have permission to create this page.
+
 
 
 

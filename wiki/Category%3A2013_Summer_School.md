@@ -19,12 +19,7 @@
 
 
 
-There is currently no text in this page. You can [search for this page
-title](Special%253ASearch/2013_Summer_School "Special:Search/2013 Summer School")
-in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253A2013_Summer_School"
-class="external text" rel="nofollow">search the related logs</a></span>,
-but you do not have permission to create this page.
+
 
 
 

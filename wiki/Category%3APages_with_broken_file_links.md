@@ -19,12 +19,7 @@
 
 
 
-There is currently no text in this page. You can [search for this page
-title](Special%253ASearch/Pages_with_broken_file_links "Special:Search/Pages with broken file links")
-in other pages, or <span class="plainlinks"><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Log&amp;page=Category%253APages_with_broken_file_links"
-class="external text" rel="nofollow">search the related logs</a></span>,
-but you do not have permission to create this page.
+
 
 
 
