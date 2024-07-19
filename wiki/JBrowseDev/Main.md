@@ -68,8 +68,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[JBrowse](../Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
+"<span class="swmfactboxheadbrowse">[JBrowse](../Special%253ABrowse/JBrowse "Special%253ABrowse/JBrowse")</span>"</span>
 
 [Available on platform](../Property%253AAvailable_on_platform "Property:Available on platform")
 

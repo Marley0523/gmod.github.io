@@ -1419,8 +1419,7 @@ Reset GBrowse and test this.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse NGS
-Tutorial](Special%253ABrowse/GBrowse-20NGS-20Tutorial "Special%253ABrowse/GBrowse-20NGS-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_NGS_Tutorial "Special:ExportRDF/GBrowse NGS Tutorial")</span></span>
+Tutorial](Special%253ABrowse/GBrowse-20NGS-20Tutorial "Special%253ABrowse/GBrowse-20NGS-20Tutorial")</span>"</span>
 
 |  |  |
 |----|----|

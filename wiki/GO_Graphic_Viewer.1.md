@@ -49,8 +49,7 @@ Resources
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GO Graphic
-Viewer](Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GO_Graphic_Viewer "Special:ExportRDF/GO Graphic Viewer")</span></span>
+Viewer](Special%253ABrowse/GO-20Graphic-20Viewer "Special%253ABrowse/GO-20Graphic-20Viewer")</span>"</span>
 
 |  |  |
 |----|----|

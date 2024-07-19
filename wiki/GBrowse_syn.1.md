@@ -81,8 +81,7 @@ School](2013_GMOD_Summer_School "2013 GMOD Summer School")
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GBrowse
-syn](Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GBrowse_syn "Special:ExportRDF/GBrowse syn")</span></span>
+syn](Special%253ABrowse/GBrowse-20syn "Special%253ABrowse/GBrowse-20syn")</span>"</span>
 
 |  |  |
 |----|----|

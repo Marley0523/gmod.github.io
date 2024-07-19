@@ -46,8 +46,7 @@ The following 2 pages are in this category, out of 2 total.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD
-Tools](Special%253ABrowse/Category%253AGMOD-20Tools "Special%253ABrowse/Category%253AGMOD-20Tools")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Category%253AGMOD_Tools "Special:ExportRDF/Category%253AGMOD Tools")</span></span>
+Tools](Special%253ABrowse/Category%253AGMOD-20Tools "Special%253ABrowse/Category%253AGMOD-20Tools")</span>"</span>
 
 |  |  |
 |----|----|

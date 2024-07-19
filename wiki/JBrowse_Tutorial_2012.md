@@ -555,8 +555,7 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[JBrowse Tutorial
-2013](Special%253ABrowse/JBrowse-20Tutorial-202013 "Special%253ABrowse/JBrowse-20Tutorial-202013")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse_Tutorial_2013 "Special:ExportRDF/JBrowse Tutorial 2013")</span></span>
+2013](Special%253ABrowse/JBrowse-20Tutorial-202013 "Special%253ABrowse/JBrowse-20Tutorial-202013")</span>"</span>
 
 |  |  |
 |----|----|

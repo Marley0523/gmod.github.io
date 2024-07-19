@@ -323,8 +323,7 @@ title="Special%253ASearchByProperty/Has-20topic/JBrowse">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_topic "Special:ExportRDF/Property:Has topic")</span></span>
+</span>
 
 |  |  |
 |----|----|

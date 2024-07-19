@@ -409,8 +409,7 @@ See [Category%253AJBrowse](../Category%253AJBrowse "Category%253AJBrowse")
     genome visualization and analysis</span></span>
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/JBrowse "Special:ExportRDF/JBrowse")</span></span>
+</span>
 
 [Available on platform](../Property%253AAvailable_on_platform "Property:Available on platform")
 

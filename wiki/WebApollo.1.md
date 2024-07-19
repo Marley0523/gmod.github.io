@@ -79,8 +79,7 @@ Resources
 
 
 <span class="smwfactboxhead">Facts about
-"<span class="swmfactboxheadbrowse">[WebApollo](Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/WebApollo "Special:ExportRDF/WebApollo")</span></span>
+"<span class="swmfactboxheadbrowse">[WebApollo](Special%253ABrowse/WebApollo "Special%253ABrowse/WebApollo")</span>"</span>
 
 <table class="smwfacttable">
 <colgroup>

@@ -276,8 +276,7 @@ title="Special%253ASearchByProperty/Has-20support-20status/active">+</a></span><
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AHas_support_status "Special:ExportRDF/Property:Has support status")</span></span>
+</span>
 
 |  |  |
 |----|----|

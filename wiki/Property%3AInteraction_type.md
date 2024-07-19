@@ -156,8 +156,7 @@ title="Special%253ASearchByProperty/Interaction-20type/reads-20from-20and-20writ
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253AInteraction_type "Special:ExportRDF/Property:Interaction type")</span></span>
+</span>
 
 |  |  |
 |----|----|

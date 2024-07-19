@@ -560,8 +560,7 @@ title="JBrowse gmod summerschool jul2013.pdf">accompanying slides
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[GMOD Malaysia 2014/JBrowse
-Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/GMOD_Malaysia_2014/JBrowse_Tutorial "Special:ExportRDF/GMOD Malaysia 2014/JBrowse Tutorial")</span></span>
+Tutorial](../Special%253ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial "Special%253ABrowse/GMOD-20Malaysia-202014-2FJBrowse-20Tutorial")</span>"</span>
 
 |  |  |
 |----|----|

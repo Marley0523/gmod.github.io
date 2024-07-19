@@ -414,8 +414,7 @@ title="Special%253ASearchByProperty/Link-20type/download">+</a></span></td>
 
 
 
-</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Property%253ALink_type "Special:ExportRDF/Property:Link type")</span></span>
+</span>
 
 |  |  |
 |----|----|

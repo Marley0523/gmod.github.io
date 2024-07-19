@@ -3371,8 +3371,7 @@ desired extensions.
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Tripal Tutorial
-(v1.0)](Special%253ABrowse/Tripal-20Tutorial-20(v1.0) "Special%253ABrowse/Tripal-20Tutorial-20(v1.0)")</span>"</span><span class="smwrdflink"><span class="rdflink">[RDF
-feed](http://gmod.org/wiki/Special:ExportRDF/Tripal_Tutorial_(v1.0) "Special:ExportRDF/Tripal Tutorial (v1.0)")</span></span>
+(v1.0)](Special%253ABrowse/Tripal-20Tutorial-20(v1.0) "Special%253ABrowse/Tripal-20Tutorial-20(v1.0)")</span>"</span>
 
 |  |  |
 |----|----|
