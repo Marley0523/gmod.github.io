@@ -392,13 +392,9 @@ rel="nofollow">http://gmod.org/wiki/Tripal</a>
 Individuals from these organizations have provided design and coding for
 Tripal
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=CUGILogo.png"
-class="new" title="File:CUGILogo.png">150px</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=USLogo.png"
-class="new" title="File:USLogo.png">150px</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=WSULogo.png"
-class="new" title="File:WSULogo.png">150px</a>
+![CUGILogo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5c/150px-CUGILogo.png)
+![USLogo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/150px-USLogo.png)
+![WSULogo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ab/150px-WSULogo.png)
 
 ### <span id="Funding" class="mw-headline">Funding</span>
 
@@ -611,7 +607,6 @@ the file /etc/apache2/sites-available/default:
           RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
        </Directory>
 
-
 Now restart your apache again.
 
 ```enter
@@ -660,7 +655,6 @@ createuser -P tripal
       Shall the new role be a superuser? (y/n) n
       Shall the new role be allowed to create databases? (y/n) y
       Shall the new role be allowed to create more new roles? (y/n) n
-
 
 Finally, create the postgres database:
 
@@ -818,23 +812,17 @@ Navigate to the installation page of our new web site
 <a href="http://localhost/install.php" class="external free"
 rel="nofollow">http://localhost/install.php</a>
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Install1.png"
-class="new" title="File:Install1.png">800px</a>
+![Install1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/800px-Install1.png)
 
 Click the link in the middle section that reads **Install Drupal in
 English**
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Tripal_Install2.png"
-class="new" title="File:Tripal Install2.png">800px</a>
+![Tripal_Install2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/51/800px-Tripal_Install2.png)
 
 When the progress bar shows completing the page will switch to a
 configuration page with some final settings.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Tripal-install3.png"
-class="new" title="File:Tripal-install3.png">800px</a>
+![Tripal-install3](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/53/800px-Tripal-install3.png)
 
 Set the following
 
@@ -852,9 +840,7 @@ about unable to send an email. This is safe to ignore as email
 capabilities are not fully enabled on this VMWare image. Now, your site
 is enabled. Click the link **Your new site**:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Tripal_Install4.png"
-class="new" title="File:Tripal Install4.png">800px</a>
+![Tripal_Install4](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8c/800px-Tripal_Install4.png)
 
 ### <span id="Drupal_Cron_Entry" class="mw-headline">Drupal Cron Entry</span>
 
@@ -893,27 +879,21 @@ account** link on the left sidebar. You'll see a brief history for the
 user and an **Edit** tab. Users can edit their own information using the
 edit interface:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=ExplorDrupal1.png"
-class="new" title="File:ExplorDrupal1.png">800px</a>
+![ExplorDrupal1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/800px-ExplorDrupal1.png)
 
 ### <span id="Creating_Content" class="mw-headline">Creating Content</span>
 
 Creation of content in Drupal is very easy. Click the **Create content**
 link on the left sidebar.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=ExplorDrupal2.png"
-class="new" title="File:ExplorDrupal2.png">800px</a>
+![ExplorDrupal2.png](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3e/800px-ExplorDrupal2.png)
 
 You'll see to content types that come default with Drupal: Page and
 Story. Here is where a user can add simple new pages to the website
 without knowledge of HTML or CSS. Click the **Page** content type to see
 the interface for creating a new page:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=ExploreDrupal3.png"
-class="new" title="File:ExploreDrupal3.png">800px</a>
+![ExploreDrupal3](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/52/800px-ExploreDrupal3.png)
 
 You'll notice at the top a **Title** field and a **Body** text box. All
 pages require a title and typically have some sort of content entered in
@@ -921,9 +901,7 @@ the body. Additionally, there are other options that allow someone to
 enter HTML if they would like, save revisions of a page to preserve a
 history and to set authoring and publishing information.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=ExploreDrupal4.png"
-class="new" title="File:ExploreDrupal4.png">800px</a>
+![ExploreDrupal4](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fc/800px-ExploreDrupal4.png)
 
 Let's create two new pages. A **Home** page and an **About** page for
 our site. First create the home page and second create the about page.
@@ -937,24 +915,18 @@ There are many options under the **Administer** link on the left
 sidebar. Here you can manage the site setup, monitor and control
 content, manage users and view reports.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalAdmin1.png"
-class="new" title="File:DrupalAdmin1.png">800px</a>
+![DrupalAdmin1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e8/800px-DrupalAdmin1.png)
 
 We will not explore all of the options here but will visit a few of the
 more important ones for this tutorial. First, click the **Content
 Management** link on the left sidebar. You'll see different options.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalAdminContent.png"
-class="new" title="File:DrupalAdminContent.png">800px</a>
+![DrupalAdminContent](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/800px-DrupalAdminContent.png)
 
 Click the **Content** link. The page shows all content available on the
 site. You'll see the two pages we created previously:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalContent.png"
-class="new" title="File:DrupalContent.png">800px</a>
+![DrupalContent](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/800px-DrupalContent.png)
 
 You'll also notice a set of drop down boxes for filtering the content.
 For sites with many different content types and pages this helps to find
@@ -968,9 +940,7 @@ Click the **Site Building** link on the let sidebar under the
 **Administer** link. You'll see several new menu options: Blocks, Menus,
 Modules and Themes. First click **Modules**
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=AdminModules.png"
-class="new" title="File:AdminModules.png">800px</a>
+![AdminModules](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/800px-AdminModules.png)
 
 Here is where you will see the various modules that make up Drupal. Take
 a minute to scroll through the list of these and read some of the
@@ -1009,9 +979,7 @@ First, let's look and see what's there
   ls /home/gmod/Tripal
 ```
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalhomeDir.png"
-class="new" title="File:TripalhomeDir.png">800px</a>
+![TripalhomeDir](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/eb/800px-TripalhomeDir.png)
 
 There are several `.tar.gz` files. These are all Drupal modules we'll be
 installing for this workshop. To install the Views module go to our
@@ -1037,9 +1005,7 @@ There are not other installation steps besides what we've done. So
 return to the **Administer** → **Site Building** → **Modules** page and
 enable the module.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalViews.png"
-class="new" title="File:DrupalViews.png">800px</a>
+![DrupalViews](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/800px-DrupalViews.png)
 
 Notice that the Views package provided three different related modules
 and they all appear under a **Views** category.
@@ -1131,9 +1097,7 @@ For reference, the modules installed above can be found here:
 Next, click the **Themes** link under **Administer** → **Site Building**
 on the left sidebar.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalThemes.png"
-class="new" title="File:DrupalThemes.png">800px</a>
+![DrupalThemes](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/1a/800px-DrupalThemes.png)
 
 Here, you'll see a list of themes that come with Drupal by default. If
 you scroll down you'll see that one theme named **Garland** is enabled
@@ -1142,9 +1106,7 @@ them. Change the them by checking the **Enable** checkbox and the
 **default** radio button for the **Pushbutton** theme and then clicking
 **Save configuration**. Now you'll see that the theme has changed.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalThemes2.png"
-class="new" title="File:DrupalThemes2.png">800px</a>
+![DrupalThemes2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8d/800px-DrupalThemes2.png)
 
 ###### <span id="Theme_Installation" class="mw-headline">Theme Installation</span>
 
@@ -1169,9 +1131,7 @@ VMWare image. We'll install that.
 This should unpack the theme for us. Now, navigate to **Administer** →
 **Site Building** → **Themes** and enable the 'Sky' theme:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalThemes3.png"
-class="new" title="File:DrupalThemes3.png">800px</a>
+![DrupalThemes3](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/2e/800px-DrupalThemes3.png)
 
 The sky theme was obtained at this address:
 <a href="http://drupal.org/project/sky" class="external free"
@@ -1189,9 +1149,7 @@ Also, you'll see a list of available blocks. You can select where blocks
 will appear by selecting the region in the drop down list. Blocks may
 also be hidden, if desired, by selecting **\<none\>** in the dropdown.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalBlocks.png"
-class="new" title="File:DrupalBlocks.png">800px</a>
+![DrupalBlocks](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/800px-DrupalBlocks.png)
 
 **_Exercise \#4_**
 
@@ -1199,9 +1157,7 @@ class="new" title="File:DrupalBlocks.png">800px</a>
      by dragging and dropping the cross-hairs beside each one.  Be sure to leave the
      blocks in the configuration shown in the image below finished:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalBlocks2.png"
-class="new" title="File:DrupalBlocks2.png">800px</a>
+![DrupalBlocks2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c4/800px-DrupalBlocks2.png)
 
 ##### <span id="Menus" class="mw-headline">Menus</span>
 
@@ -1212,24 +1168,18 @@ to the **Content top** section of the Sky theme. To view the **Primary
 links** menu, navigate to **Administer** → **Site building** →
 **Menus**.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalMenus1.png"
-class="new" title="File:DrupalMenus1.png">800px</a>
+![DrupalMenus1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/42/800px-DrupalMenus1.png)
 
 Select the menu **Primary links**. You'll see it currently has no item.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalMenu2.png"
-class="new" title="File:DrupalMenu2.png">800px</a>
+![DrupalMenu2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/5a/800px-DrupalMenu2.png)
 
 As a demonstration for working with menus we'll add two menu items for
 the Home and About pages we created earlier. To do so, click the **Add
 item** tab. You will see a form for providing information about the menu
 item to be added.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalMenuAdd.png"
-class="new" title="File:DrupalMenuAdd.png">800px</a>
+![DrupalMenuAdd](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/22/800px-DrupalMenuAdd.png)
 
 The first field is the path. We need to find the path for our home page.
 
@@ -1264,9 +1214,7 @@ it on the **Primary Links** menu. We now have a **Home** menu item in
 the top just under the header, and our **Home** menu item now appears in
 the list of menu items for the **Primary Links** menu
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalMenu4.png"
-class="new" title="File:DrupalMenu4.png">800px</a>
+![DrupalMenu4](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/60/800px-DrupalMenu4.png)
 
 **_Exercise \#6_**
 
@@ -1285,9 +1233,7 @@ the top and click the **Edit** tab. Scroll to the bottom of the edit
 page and you'll see a section titled **URL path setting**. click to open
 this section.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalAboutEdit.png"
-class="new" title="File:DrupalAboutEdit.png">800px</a>
+![DrupalAboutEdit](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e5/800px-DrupalAboutEdit.png)
 
 Since this is our about page, we simply want the URL to be
 <a href="http://localhost/about" class="external free"
@@ -1310,9 +1256,7 @@ There are many options under the **Administer** → **Site configuration**
 page. Here we will only look at one of these at the moment--the **Site
 Information** page.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalSiteInfo.png"
-class="new" title="File:DrupalSiteInfo.png">800px</a>
+![DrupalSiteInfo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/4a/800px-DrupalSiteInfo.png)
 
 Here you will find the configuration options we set when installing the
 site. You can change the site name, add a slogan, mission and footer
@@ -1342,9 +1286,7 @@ of every theme we have enabled. You should see the **Sky** theme at the
 end of this list. Click that theme because that is the one we are using
 and want to configure:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalSkyTheme.png"
-class="new" title="File:DrupalSkyTheme.png">800px</a>
+![DrupalSkyTheme](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d5/800px-DrupalSkyTheme.png)
 
 Here you can turn on and off the presence of the logo, site name,
 slogan, mission statement, etc. For this particular theme we can also
@@ -1381,9 +1323,7 @@ Also set the following for the theme:
 Then, click the **Save Configuration** button at the bottom. We now have
 a new logo and our slogan appears.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalLogo.png"
-class="new" title="File:DrupalLogo.png">800px</a>
+![DrupalLogo](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/47/800px-DrupalLogo.png)
 
 ### <span id="User_Accounts" class="mw-headline">User Accounts</span>
 
@@ -1442,9 +1382,7 @@ copying the files so we will now navigate to the **Administer** → **Site
 Building** → **Modules** page to install Tripal. Here you'll see a long
 list of modules under two categories: Tripal and Tripal Analyses.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalModules.png"
-class="new" title="File:TripalModules.png">800px</a>
+![TripalModules](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ef/800px-TripalModules.png)
 
 Enable the module **Tripal core** only. There is now a **Tripal
 Management** link under **Administer** with several sub items:
@@ -1454,9 +1392,7 @@ Management** link under **Administer** with several sub items:
 - Jobs
 - Materialized Views
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalManagement1.png"
-class="new" title="File:TripalManagement1.png">800px</a>
+![TripalManagement1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/69/800px-TripalManagement1.png)
 
 ### <span id="Install_Chado" class="mw-headline">Install Chado</span>
 
@@ -1471,17 +1407,13 @@ To install Chado, simply navigate to the page **Administer** → **Tripal
 Management** → **Install Chado v1.11**, read the warning message and
 click **Install Chado** when ready.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalInstallChado.png"
-class="new" title="File:TripalInstallChado.png">800px</a>
+![TripalInstallChado](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a5/800px-TripalInstallChado.png)
 
 A message will then be given that says
 `"Job 'Install Chado' submitted. Click the jobs page for status"`. If we
 then click the link _jobs page_ we can then see our job in the list:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalJobs1.png"
-class="new" title="File:TripalJobs1.png">800px</a>
+![TripalJobs1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/9a/800px-TripalJobs1.png)
 
 We will continue our installation of Chado in the next section.
 
@@ -1539,16 +1471,12 @@ above:
 
 We should now see that Chado is being installed!
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalChadoInstalled.png"
-class="new" title="File:TripalChadoInstalled.png">800px</a>
+![TripalChadoInstalled](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/ae/800px-TripalChadoInstalled.png)
 
 Also, we see that the job has completed when refreshing the jobs
 management page:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalChadoInstalled2.png"
-class="new" title="File:TripalChadoInstalled2.png">800px</a>
+![TripalChadoInstalled2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/45/800px-TripalChadoInstalled2.png)
 
 ### <span id="PhpPgAdmin" class="mw-headline">PhpPgAdmin</span>
 
@@ -1563,9 +1491,7 @@ logging in with the username **gmod** and password **gmodamericas2011**.
 When the tool opens you'll see several databases listed down the
 left-hand side. Click the **tripal_demo** database to open the tree.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalPhpPgAdmin1.png"
-class="new" title="File:TripalPhpPgAdmin1.png">800px</a>
+![TripalPhpPgAdmin1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/9/95/800px-TripalPhpPgAdmin1.png)
 
 Under the **tripal_demo** database you'll see several different schemas:
 
@@ -1585,15 +1511,11 @@ Open the **chado** schema look at the Chado tables. Then open the
 
 The Chado database:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalPhpPgAdmin2.png"
-class="new" title="File:TripalPhpPgAdmin2.png">800px</a>
+![TripalPhpPgAdmin2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6d/800px-TripalPhpPgAdmin2.png)
 
 The Drupal database
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalPhpPgadmin3.png"
-class="new" title="File:TripalPhpPgadmin3.png">800px</a>
+![TripalPhpPgadmin3](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a4/800px-TripalPhpPgadmin3.png)
 
 ### <span id="Install_Additional_Tripal_Modules" class="mw-headline">Install Additional Tripal Modules</span>
 
@@ -1630,9 +1552,7 @@ Building** → **Themes** page and click the checkbox to Enable the
 Tripal theme. We do not want it to be default. The **Sky** theme should
 remain as default.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalBaseTheme1.png"
-class="new" title="File:TripalBaseTheme1.png">800px</a>
+![TripalBaseTheme1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/30/800px-TripalBaseTheme1.png)
 
 Next we have to inform our **Enabled** them (a.k.a the **Sky** theme)
 that it should use Tripal as it's base theme. To do this, we need to
@@ -1683,9 +1603,7 @@ Tripal provides a mechanism for updating these materialized views. These
 can be found on the **Administer** → **Tripal Management** →
 **Materialized Views** page.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalMV1.png"
-class="new" title="File:TripalMV1.png">800px</a>
+![TripalMV1](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/35/800px-TripalMV1.png)
 
 Here we see two materialized views. These were installed automatically
 by the Tripal CV and Tripal Feature modules. We need to update these and
@@ -1703,9 +1621,7 @@ So, let's run these two jobs:
 You can now see that both views are up-to-date on the Materialized Views
 Page
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalMV2.png"
-class="new" title="File:TripalMV2.png">800px</a>
+![TripalMV2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/800px-TripalMV2.png)
 
 ### <span id="Controlled_Vocabularies:_Installing_CVs" class="mw-headline">Controlled Vocabularies: Installing CVs</span>
 
@@ -1717,9 +1633,7 @@ You'll see a page describing the purpose of the module and how to use it
 'Add/Update Ontology With OBO File' and click that. You'll see the
 following page:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalAddOntology.png"
-class="new" title="File:TripalAddOntology.png">800px</a>
+![TripalAddOntology](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/76/800px-TripalAddOntology.png)
 
 The Ontology loader will allow you to select a pre-defined ontology from
 the drop down list or allow you to provide your own to be loaded. If you
@@ -1761,9 +1675,7 @@ already, so we will check to see if our organism is already present. To
 do this navigate to **Administer** -\> **Tripal Management** →
 **Organisms** → **Configuration**
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganisms.png"
-class="new" title="File:TripalOrganisms.png">800px</a>
+![TripalOrganisms](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ec/800px-TripalOrganisms.png)
 
 This configuration page has several different options. We will discuss
 two of these here. The first is the top section labeled **Sync
@@ -1790,24 +1702,18 @@ we installed the Tripal Organism module. On this page we see a list of
 organisms that have been "synced" with Drupal and Chado. There should
 only be our the one we just synced.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganisms2.png"
-class="new" title="File:TripalOrganisms2.png">800px</a>
+![TripalOrganisms2](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bb/800px-TripalOrganisms2.png)
 
 Now if we click the 'fruitfly' link it should take us to our new
 organism page:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganisms3.png"
-class="new" title="File:TripalOrganisms3.png">800px</a>
+![TripalOrganisms3](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/ea/800px-TripalOrganisms3.png)
 
 This page, however is a bit empty. We need to add some details. Click
 the **Edit** tab towards the top of the page. Notice two if the fields
 are missing content: the description and the organism image
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganism4.png"
-class="new" title="File:TripalOrganism4.png">800px</a>
+![TripalOrganism4](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b1/800px-TripalOrganism4.png)
 
 For the description add the following text (taken from wikipedia:
 <a href="http://en.wikipedia.org/wiki/Drosophila_melanogaster"
@@ -1838,9 +1744,7 @@ alt="Dmel.jpg" />
 
 Save the page. Now we have a more informative page:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganism5.png"
-class="new" title="File:TripalOrganism5.png">800px</a>
+![TripalOrganism5](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/bf/800px-TripalOrganism5.png)
 
 #### <span id="What_if_Our_Organisms_Isn.27t_Present_in_Chado.3F" class="mw-headline">What if Our Organisms Isn't Present in Chado?</span>
 
@@ -1852,16 +1756,12 @@ had **Page** and **Story** content types. Now we have three additional
 content types added by the Tripal Analysis, Organism and Feature
 modules.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=DrupalCreateContent.png"
-class="new" title="File:DrupalCreateContent.png">800px</a>
+![DrupalCreateContent](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/800px-DrupalCreateContent.png)
 
 To add a new organism simply click the **Organism** link and and fill in
 the fields.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalOrganism6.png"
-class="new" title="File:TripalOrganism6.png">800px</a>
+![TripalOrganism6](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b2/800px-TripalOrganism6.png)
 
 **_Excercise \#8_**
 
@@ -1928,9 +1828,7 @@ progesses):
 - other non reserved attributes as properties
 
 A GFF3 file containing the genes and mRNA sequences we will be using can
-be downloaded here: <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Flybase-tripal-demo.gff.txt"
-class="new" title="Flybase-tripal-demo.gff.txt">Flybase demo data</a>
+be downloaded here: [Flybase-tripal-demo.gff](/mediawiki/images/6/6e/Flybase-tripal-demo.gff)
 (Aside from filtering the original FlyBase GFF file, no alterations have
 been made to this file).
 
@@ -1943,9 +1841,7 @@ Right-click and download this data into the directory
 Now, navigate to **Administer** → **Tripal Management** → **Features** →
 **Import a GFF3 file**.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalGFF3Import.png"
-class="new" title="File:TripalGFF3Import.png">800px</a>
+![TripalGFF3Import](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/800px-TripalGFF3Import.png)
 
 Here we will simply choose the organism to which the GFF3 file
 describes, enter the path on the file system where our GFF file resides
@@ -1977,9 +1873,7 @@ is also a Feature Configuration page. This can be found by navigating to
 **Administer** → **Tripal Management** → **Features** →
 **Configuration**.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalFeaturesConfig.png"
-class="new" title="File:TripalFeaturesConfig.png">800px</a>
+![TripalFeaturesConfig](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/800px-TripalFeaturesConfig.png)
 
 The first text box is for specifying internal ID prefix. This is used to
 form a unique numeric identifier for each feature in your site. The
@@ -2006,9 +1900,7 @@ management system which we need to manually run.
 
 Our features are now synced:
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=TripalFeatureSync.png"
-class="new" title="File:TripalFeatureSync.png">800px</a>
+![TripalFeatureSync](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/c/c8/800px-TripalFeatureSync.png)
 
 **_Exercise \#9_**
 
