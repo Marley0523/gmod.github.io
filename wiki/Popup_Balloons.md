@@ -1,29 +1,10 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Popup Balloons</span>
-
-
-
-
-
-
-
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/79/Sample_ballon.png" width="292"
 height="105" alt="Sample ballon.png" />
-
-
 
 **balloon.js** is a javascript class for balloon tooltips, otherwise
 known as popup balloons, bubble tooltips, rollover tooltips, etc. It is
@@ -34,12 +15,11 @@ Learning center</a></span>,
 <span class="pops"><a href="http://www.cshl.edu" class="external text" rel="nofollow">Cold
 Spring Harbor Laboratory</a>.</span>
 
-  
 balloon.js is generic and should work in most web sites.
 
 - This software is open-source and free to all, so please feel free to
-  incorporate it into your own web site but it would be ***very
-  naughty*** of you to remove the copyright notice from the top of the
+  incorporate it into your own web site but it would be **_very
+  naughty_** of you to remove the copyright notice from the top of the
   balloon.js file.
 
 <!-- -->
@@ -47,7 +27,7 @@ balloon.js is generic and should work in most web sites.
 - If you find this software useful, please drop me a line
   (<a href="mailto:Sheldon.McKay@gmail.com" class="external text"
   rel="nofollow">Sheldon.McKay@gmail.com</a>). I am curious to see how
-  it works for you and how you are using it.  
+  it works for you and how you are using it.
 - **Note:** If you have installed this package on your web server as
   described below and it does not work, you have likely made an error.
   Please see the [troubleshooting
@@ -55,12 +35,7 @@ balloon.js is generic and should work in most web sites.
   (web site address for your implementation) and I will do my best to
   help you.
 
-  
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Example
   Implementations</span>](#Example_Implementations)
@@ -209,8 +184,6 @@ balloon.js is generic and should work in most web sites.
 - [<span class="tocnumber">9</span> <span class="toctext">Software
   License</span>](#Software_License)
 
-
-
 # <span id="Example_Implementations" class="mw-headline">Example Implementations</span>
 
 **Example 1:** See the balloons in action:
@@ -267,8 +240,6 @@ class="external text" rel="nofollow">zip archive</a>
 
     document_root/js
 
-
-
 NOTE: <a
 href="http://www.solucorp.qc.ca/linuxconf/help.files/apache/apache-5.html"
 class="external text" rel="nofollow">document root</a> is the root
@@ -287,10 +258,6 @@ Depending on your web server, this may be:
     /Library/WebServer/Documents
 
     etc...
-
-
-
-  
 
 - Copy the above image files (or your own) to your web server, for
   example in
@@ -313,7 +280,7 @@ via HTML:
      <script type="text/javascript" src="js/box.js"></script>
      <script type="text/javascript" src="js/prototype.js"></script>
      </head>
-     
+
 
 NOTE: you can also add this code to the \<body\> section instead of the
 page header.
@@ -414,11 +381,8 @@ alt="Howitworks.png" />
   no-shadow version of the balloon (for internet explorer versions \< 7)
   are also included.
 
-  
+  The images below are provided with the package (not to scale):
 
-    The images below are provided with the package (not to scale):
-
-  
 **The stem:** This part of the image is the top or bottom (depending on
 whether the balloon is facing up or down) that has the triangle. It is
 overlaid on top of the balloon background image. The connector is a
@@ -426,7 +390,6 @@ fixed-size image.
 
     For example, a bottom-left stem:
 
-  
 **The body:** This image is used as the background for the balloon. The
 image is much larger and the actual balloon size (1020px \*1020px). Each
 of the four corners of the balloon has its own identical background
@@ -471,7 +434,7 @@ object about it or your popups will not have the balloon image.
 
 1\) Set the variable balloon.images to the relative url for balloon
 images. If you use this method, specify the relative URL only once with
-the instance variable ***balloon.images***. Individual image name should
+the instance variable **_balloon.images_**. Individual image name should
 not have the path. For example:
 
     <script type="text/javascript">
@@ -485,20 +448,19 @@ not have the path. For example:
       balloon.closeButton   = 'close.png';
     </script>
 
-  
-2) Use an explicit URL for each balloon image. Note ***balloon.images***
-must be reset to 'null' in this case.
+2.  Use an explicit URL for each balloon image. Note **_balloon.images_**
+    must be reset to 'null' in this case.
 
-    <script type="text/javascript">
-      my balloon = new Balloon;
-      balloon.images = null;
-      balloon.balloonImage  = '/myImages/myBalloons/balloon.png';
-      balloon.upLeftStem    = '/myImages/myBalloons/up_left.png';
-      balloon.downLeftStem  = '/myImages/myBalloons/down_left.png';
-      balloon.upRightStem   = '/myImages/myBalloons/up_right.png';
-      balloon.downRightStem = '/myImages/myBalloons/down_right.png';
-      balloon.closeButton   = '/myImages/myBalloons/close.png';
-    </script>
+        <script type="text/javascript">
+          my balloon = new Balloon;
+          balloon.images = null;
+          balloon.balloonImage  = '/myImages/myBalloons/balloon.png';
+          balloon.upLeftStem    = '/myImages/myBalloons/up_left.png';
+          balloon.downLeftStem  = '/myImages/myBalloons/down_left.png';
+          balloon.upRightStem   = '/myImages/myBalloons/up_right.png';
+          balloon.downRightStem = '/myImages/myBalloons/down_right.png';
+          balloon.closeButton   = '/myImages/myBalloons/close.png';
+        </script>
 
 **NOTE: the two methods above are mutually exclusive.**
 
@@ -509,11 +471,9 @@ must be reset to 'null' in this case.
   stem overlap and the padding and shadow widths must be accurate to a
   precision of 1px or the balloon will not render properly.
 
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/Options.png" width="960" height="361"
 alt="Options.png" />
-
 
 **Note:** The padding is not only the distance of the text from the
 balloon outline, it also defines the width of the right and bottom
@@ -524,11 +484,9 @@ will obscure the balloon corners.
 For example, setting the padding to 2px with the default balloon images
 will cause the effect below because the image corner radius is 10px:
 
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/Padding_defect.png" width="658"
 height="115" alt="Padding defect.png" />
-
 
 ### <span id="Online_balloon_image_generator" class="mw-headline">Online balloon image generator</span>
 
@@ -541,56 +499,32 @@ height="115" alt="Padding defect.png" />
   <a href="http://gmod.cvs.sourceforge.net/gmod/balloon-tooltips/"
   class="external text" rel="nofollow">balloon.js package</a>
 
-  
 Below is an example of the input form that can be used to experiment
 with different balloon options.
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f1/Balloon_generator.png" width="891"
 height="295"
 alt="The actual script is at http://mckay.cshl.edu/balloon" />
 
-
-
-
-  
-
 Sample output. The program will draw either a sample of what the final
 product will look like or all of the necessary image components.
 
+|     |
+| :-: |
 
-
-|                                                                    |
-|:------------------------------------------------------------------:|
-|           <img 
+| <img 
     src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/49/Balloon_sample.png" width="411"    
                              height="402"                            
- alt="The actual script is at http://mckay.cshl.edu/balloon" />  |
-
-
-
-  
+ alt="The actual script is at http://mckay.cshl.edu/balloon" /> |
 
 The CGI script will also generate the necessary javascript code to use
 the custom balloon images on a web page:
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/03/Balloon_script.png" width="1040"
 height="422"
 alt="The actual script is at http://mckay.cshl.edu/balloon" />
-
-
-
-
-  
-  
-  
 
 # <span id="Configuration" class="mw-headline">Configuration</span>
 
@@ -625,8 +559,8 @@ For example:
 
 The following options can be reset/configured in the page header or body
 (after the balloon object has been initialized) using the syntax below,
-where 'balloon' is the object created by the 'new Balloon' command.  
-  
+where 'balloon' is the object created by the 'new Balloon' command.
+
 NOTE: The default values are shown. Edit the file balloon.config.js to
 change the values below.
 
@@ -788,8 +722,8 @@ all of these values to false;
 
 ## <span id="Using_a_formatted_box_with_no_balloon_images" class="mw-headline">Using a formatted box with no balloon images</span>
 
-- an alternative to the balloons is to use the ***Box*** class instead
-  of the ***Balloon*** class.
+- an alternative to the balloons is to use the **_Box_** class instead
+  of the **_Balloon_** class.
 - the tooltip box offer the same dynamic size, orientation, positioning
   and capabilities as the balloons, but uses no background images and is
   always rectangular in shape.
@@ -824,7 +758,6 @@ all of these values to false;
 - Loading a configuration set is easy:
 
 <!-- -->
-
 
     var plainBalloon = new Balloon;
     BalloonConfig(plainBalloon,'GPlain');
@@ -982,13 +915,11 @@ A non-sticky balloon that is 150px wide
 
      <a href="someURL" onmouseover="balloon.showTooltip(event,'Some text...',0,150)">Link</a>
 
-  
 A balloon that has its content stored in a \
 
-     
       Your message goes here.  It may be long and have lots of HTML markup,
       forms, images, etc...
-     
+
      <a href="someURL" onmouseover="balloon.showTooltip(event,'load:contents1',1,250)">Link</a>
 
 A balloon that contains another website loaded via an iframe
@@ -1066,7 +997,6 @@ For example:
 - If you are adding string from within a perl/CGI script and are using
   double quotes or qq(), use a double escape '\\'.
 
-  
 **Nested quotes:**
 
 - Single quotes nested without the string must be escaped. You can use
@@ -1087,10 +1017,8 @@ For example;
 
 For example, the string above would be encoded as:
 
-    
      This is some text.  It is 'very interesting'.  Well, maybe not.
      I guess it depends on your definition of "interesting".
-    
 
 and the contents are retreived using the syntax below:
 
@@ -1131,8 +1059,6 @@ query would be generated and the result of the query would be used to
 populate the balloon.
 
     /cgi-bin/help.pl?section=section2
-
-  
 
 ### <span id="The_AJAX_handling_script_and_its_behavior_are_the_responsibility_of_the_implementer." class="mw-headline">The AJAX handling script and its behavior are the responsibility of the implementer.</span>
 
@@ -1182,7 +1108,6 @@ image tag.
 
     showTooltip(event,'<img height=200 src=image1.png>')
 
-  
 **Other remote content:**
 
 Inserting content from URLs outside of the domain that hosts balloon.js
@@ -1331,8 +1256,6 @@ Again, reasonable limits apply.
 Almost all problems reported are not bugs in balloon.js but
 implementation errors, such as those described below:
 
-
-
 ### <span id="What_is_a_Document_Root.3F" class="mw-headline">What is a Document Root?</span>
 
 The directory (in the real filesystem) from which your Web server will
@@ -1350,8 +1273,6 @@ For URLs used by your web browser, the document root is '/'. If you
 create subdirectories, 'test' for example, the URL for path for the
 contents of 'test' would be /test/\*, e.g. '/test/images', '/test/js',
 etc.
-
-
 
 library locations  
 Your web browser needs to know where the javascript files are. Make sure
@@ -1385,8 +1306,6 @@ which will only work if it is **exactly** right. For example:
 
     var balloon = new balloon();
 
-
-
 ### <span id="This_package_is_NOT_a_desktop_application" class="mw-headline">This package is NOT a desktop application</span>
 
 - There is a working demonstration at
@@ -1403,8 +1322,6 @@ which will only work if it is **exactly** right. For example:
 
 With apologies, the author does not provide user support for this
 package installed on local desktop computers
-
-
 
 ## <span id="Reporting_errors" class="mw-headline">Reporting errors</span>
 
@@ -1452,9 +1369,6 @@ package installed on local desktop computers
      If publications result from research using this SOFTWARE, we ask that
      CSHL and the author be acknowledged as scientifically appropriate.
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Javascript](Category%253AJavascript "Category%253AJavascript")
@@ -1462,48 +1376,23 @@ package installed on local desktop computers
 - [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 - [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1513,18 +1402,12 @@ package installed on local desktop computers
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Popup_Balloons" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 14:22 on 29 May
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 14:22 on 29 May 2013.</span>
 <!-- - <span id="footer-info-viewcount">604,339 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1533,10 +1416,4 @@ package installed on local desktop computers
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
