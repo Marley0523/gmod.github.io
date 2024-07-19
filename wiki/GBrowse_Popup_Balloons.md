@@ -143,7 +143,7 @@ second, named "wide_balloon" takes all the defaults for the default
 balloon, including the location of its images in the directory
 /gbrowse/images/balloons, except that it has a maximum width of 800
 pixels. The various balloon options are described well at
-[Popupr Balloons](Popup_Balloons).
+[Popup Balloons](Popup_Balloons).
 
 To use the blue balloon rather than the standard one, format the
 "balloon hover" and/or "balloon click" options like this:
