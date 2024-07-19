@@ -104,7 +104,7 @@ please add it here.
 ## <span id="Brochure" class="mw-headline">Brochure</span>
 
 Download
-<a hrefhttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/AGS2011Brochure.pdf" class="internal"
+<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fd/AGS2011Brochure.pdf" class="internal"
 title="AGS2011Brochure.pdf">conference brochure</a>.
 
 [Category](/wiki/Special%253ACategories "Special%253ACategories"):

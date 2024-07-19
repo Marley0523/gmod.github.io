@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AInstall&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AInstall (page does not exist)">Category%253AInstall</a> |  |
+| Category%253AInstall |  |
 
 |     |                                |
 |-----|--------------------------------|

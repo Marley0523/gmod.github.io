@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253APages_with_broken_file_links&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253APages with broken file links (page does not exist)">Category%253APages
-with broken file links</a> |  |
+| Category%253APages
+with broken file links |  |
 
 |     |                                |
 |-----|--------------------------------|

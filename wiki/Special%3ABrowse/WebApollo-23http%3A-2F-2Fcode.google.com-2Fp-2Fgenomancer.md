@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">Trellis server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/Trellis-20server "Special%253ASearchByProperty/Linktitle/Trellis-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
+| Linktopic | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/source-20code "Special%253ASearchByProperty/Linktype/source-20code")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://code.google.com/p/genomancer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer "Special%253ASearchByProperty/Linkurl/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer")</span></span> |
+| Linkurl | <span class="smwb-value">http://code.google.com/p/genomancer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer "Special%253ASearchByProperty/Linkurl/http:-2F-2Fcode.google.com-2Fp-2Fgenomancer")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

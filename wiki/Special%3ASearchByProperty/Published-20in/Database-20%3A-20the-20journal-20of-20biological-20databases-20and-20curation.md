@@ -14,10 +14,7 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Published_in&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Published in (page does not exist)">Published in</a>"
+A list of all pages that have property "Published in"
 with value "Database : the journal of biological databases and
 curation"  
 

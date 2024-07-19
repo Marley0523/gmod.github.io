@@ -37,9 +37,7 @@ Another thing to consider is "path". This only worked for me with
 non-fink perl (and who knows what else). Be default I use fink-enabled
 binaries first. I had to re-order my path so that fink (as well as
 darwin-ports) didn't come up. Its a little confusing since we use fink
-to install the other stuff. Hope this helps <a
-href="http://gmod.org/mediawiki/index.php?title=User%253ANathan&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ANathan (page does not exist)">Nathan</a> 7
+to install the other stuff. Hope this helps Nathan 7
 January 2009
 
 ## <span id="LWP::Simple_on_Tiger" class="mw-headline">LWP::Simple on Tiger</span>

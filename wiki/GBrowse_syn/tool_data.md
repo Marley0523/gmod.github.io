@@ -77,9 +77,7 @@ GBrowse_syn](../GBrowse_syn_Help "GBrowse syn Help")
 
 The overall look of Gbrowse_syn resembles GBrowse but has some key
 differences to accomodate the more complex comparative genome data (see
-the <a
-href="http://gmod.org/mediawiki/index.php?title=Screenshot&amp;action=edit&amp;redlink=1"
-class="new" title="Screenshot (page does not exist)">screenshot</a>
+the screenshot
 above).
 
 GBrowse_syn uses a central "reference species" panel, with inset panels

@@ -72,11 +72,8 @@ data into tables in the wiki**.
 
 ## <span id="Location" class="mw-headline">Location</span>
 
-Reading the page on <a
-href="http://gmod.org/mediawiki/index.php?title=Using_Subversion_with_the_wikis&amp;action=edit&amp;redlink=1"
-class="new"
-title="Using Subversion with the wikis (page does not exist)">Using
-Subversion with the wikis</a> is a good reference, you'll need some
+Reading the page on Using
+Subversion with the wikis is a good reference, you'll need some
 background in SVN.
 
 The loader currently resides in the SVN repository at
@@ -105,19 +102,11 @@ The loader has a few options that can be set in the instantiation code.
 
 | Name | Info | Code / Usage Ex. |
 |----|----|----|
-| `do_misc_features()` | This is where you put code to interpret things in the 7th column. To make a string that goes in that column use the PHP function `http_build_query()`. This string then gets cut up into an array by `parse_str()`. | <a
-href="http://gmod.org/mediawiki/index.php?title=Loader&amp;action=edit&amp;redlink=1"
-class="new" title="Loader (page does not exist)">code</a> |
-| `appendRow()` | This method takes care of when the incoming row gets appended to the box. | <a
-href="http://gmod.org/mediawiki/index.php?title=Loader&amp;action=edit&amp;redlink=1"
-class="new" title="Loader (page does not exist)">code</a> |
+| `do_misc_features()` | This is where you put code to interpret things in the 7th column. To make a string that goes in that column use the PHP function `http_build_query()`. This string then gets cut up into an array by `parse_str()`. | code |
+| `appendRow()` | This method takes care of when the incoming row gets appended to the box. | code |
 | `mergeRows()` | This method gets called when a new row is trying to be merged into an existing box. It can be <a href="http://en.wikipedia.org/wiki/Overriding" class="external text"
-rel="nofollow">overridden</a> to behave differently. | <a
-href="http://gmod.org/mediawiki/index.php?title=Loader&amp;action=edit&amp;redlink=1"
-class="new" title="Loader (page does not exist)">code</a> |
-| `clearOldRows()` | This method gets called with the flag "clear" gets put in the update_type field of IFALT (col 6.) It will delete all the rows in a box. Useful for emptying tables for reloads. | <a
-href="http://gmod.org/mediawiki/index.php?title=Loader&amp;action=edit&amp;redlink=1"
-class="new" title="Loader (page does not exist)">code</a> |
+rel="nofollow">overridden</a> to behave differently. | code |
+| `clearOldRows()` | This method gets called with the flag "clear" gets put in the update_type field of IFALT (col 6.) It will delete all the rows in a box. Useful for emptying tables for reloads. | code |
 
 ### <span id="Example" class="mw-headline">Example</span>
 
@@ -197,9 +186,7 @@ options.
 
 The loader currently will accept one type of input:
 
-1.  <a
-    href="http://gmod.org/mediawiki/index.php?title=Ifalt_format&amp;action=edit&amp;redlink=1"
-    class="new" title="Ifalt format (page does not exist)">Ifalt format</a>
+1.  Ifalt format
 
 ### <span id="Output" class="mw-headline">Output</span>
 

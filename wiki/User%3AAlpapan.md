@@ -27,10 +27,8 @@ some other insect projects...
 
 # <span id="Contact" class="mw-headline">Contact</span>
 
-Please google to find my email. Here is my <a
-href="http://gmod.org/mediawiki/index.php?title=User_talk:Alpapan&amp;action=edit&amp;redlink=1"
-class="new" title="User talk:Alpapan (page does not exist)">wiki talk
-page</a>.
+Please google to find my email. Here is my wiki talk
+page.
 
 and my address:
 

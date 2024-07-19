@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=SAMtools&amp;action=edit&amp;redlink=1"
-class="new" title="SAMtools (page does not exist)">SAMtools</a>" on this
+**Create the page "SAMtools" on this
 wiki!** See also the search results found.
 
 - 

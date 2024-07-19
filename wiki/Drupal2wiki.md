@@ -17,9 +17,7 @@
 
 
 
-Perl script written by <a
-href="http://gmod.org/mediawiki/index.php?title=Eric_Just&amp;action=edit&amp;redlink=1"
-class="new" title="Eric Just (page does not exist)">Eric Just</a> to
+Perl script written by Eric Just to
 copy Drupal nodes to a MediaWiki:
 
 

@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Performance&amp;action=edit&amp;redlink=1"
-class="new" title="Performance (page does not exist)">Performance</a>"
+**Create the page "Performance"
 on this wiki!** See also the search results found.
 
 ## <span id="Page_title_matches" class="mw-headline">Page title matches</span>

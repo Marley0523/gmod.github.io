@@ -16,10 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Barley_consensus_2003&amp;action=edit&amp;redlink=1"
-class="new" title="Barley consensus 2003 (page does not exist)">Barley
-consensus 2003</a> |  |
+| Barley
+consensus 2003 |  |
 
 |     |                                |
 |-----|--------------------------------|

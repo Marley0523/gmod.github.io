@@ -20,18 +20,11 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">InterMine should always be checked out in source code form  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form "Special%253ASearchByProperty/Linkdesc/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form")</span></span> |
+| Linkdesc | <span class="smwb-value">InterMine should always be checked out in source code form  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form "Special%253ASearchByProperty/Linkdesc/InterMine-20should-20always-20be-20checked-20out-20in-20source-20code-20form")</span></span> |
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">InterMine source at GitHub  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/InterMine-20source-20at-20GitHub "Special%253ASearchByProperty/Linktitle/InterMine-20source-20at-20GitHub")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">InterMine  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/InterMine "Special%253ASearchByProperty/Linktopic/InterMine")</span></span> |
+| Linktopic | <span class="smwb-value">InterMine  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/InterMine "Special%253ASearchByProperty/Linktopic/InterMine")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">download  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/download "Special%253ASearchByProperty/Linktype/download")</span></span> , <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/source-20code "Special%253ASearchByProperty/Linktype/source-20code")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://github.com/intermine/intermine.git  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span></span> |
+| Linkurl | <span class="smwb-value">https://github.com/intermine/intermine.git  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fintermine-2Fintermine.git")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

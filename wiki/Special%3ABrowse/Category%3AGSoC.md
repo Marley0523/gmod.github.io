@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AGSOC&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AGSOC (page does not exist)">Category%253AGSOC</a> |  |
+| Category%253AGSOC |  |
 
 |     |                                |
 |-----|--------------------------------|

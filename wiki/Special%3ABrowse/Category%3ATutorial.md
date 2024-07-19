@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ATutorial&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ATutorial (page does not exist)">Category%253ATutorial</a> |  |
+| Category%253ATutorial |  |
 
 |     |                                |
 |-----|--------------------------------|

@@ -20,18 +20,11 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">The Honey Bee genome database  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database "Special%253ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database")</span></span> |
+| Linkdesc | <span class="smwb-value">The Honey Bee genome database  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database "Special%253ASearchByProperty/Linkdesc/The-20Honey-20Bee-20genome-20database")</span></span> |
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">BeeBase  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/BeeBase "Special%253ASearchByProperty/Linktitle/BeeBase")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/CMap "Special%253ASearchByProperty/Linktopic/CMap")</span></span> |
+| Linktopic | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/CMap "Special%253ASearchByProperty/Linktopic/CMap")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/wild-20URL "Special%253ASearchByProperty/Linktype/wild-20URL")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://racerx00.tamu.edu/cgi-bin/cmap/viewer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%253ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span></span> |
+| Linkurl | <span class="smwb-value">http://racerx00.tamu.edu/cgi-bin/cmap/viewer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer "Special%253ASearchByProperty/Linkurl/http:-2F-2Fracerx00.tamu.edu-2Fcgi-2Dbin-2Fcmap-2Fviewer")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AReactome&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AReactome (page does not exist)">Category%253AReactome</a> |  |
+| Category%253AReactome |  |
 
 |     |                                |
 |-----|--------------------------------|

@@ -28,11 +28,8 @@
 
 There were no results matching the query.
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Pages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
-class="new"
-title="Pages containing blacklisted links (page does not exist)">Pages
-containing blacklisted links</a>" on this wiki!**
+**Create the page "Pages
+containing blacklisted links" on this wiki!**
 
 
 

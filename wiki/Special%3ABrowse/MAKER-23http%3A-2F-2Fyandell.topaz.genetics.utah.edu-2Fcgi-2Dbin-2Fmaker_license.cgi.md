@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/MAKER "Special%253ASearchByProperty/Linktopic/MAKER")</span></span> |
+| Linktopic | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/MAKER "Special%253ASearchByProperty/Linktopic/MAKER")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/source-20code "Special%253ASearchByProperty/Linktype/source-20code")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://yandell.topaz.genetics.utah.edu/cgi-bin/maker_license.cgi  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fyandell.topaz.genetics.utah.edu-2Fcgi-2Dbin-2Fmaker_license.cgi "Special%253ASearchByProperty/Linkurl/http:-2F-2Fyandell.topaz.genetics.utah.edu-2Fcgi-2Dbin-2Fmaker license.cgi")</span></span> |
+| Linkurl | <span class="smwb-value">http://yandell.topaz.genetics.utah.edu/cgi-bin/maker_license.cgi  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fyandell.topaz.genetics.utah.edu-2Fcgi-2Dbin-2Fmaker_license.cgi "Special%253ASearchByProperty/Linkurl/http:-2F-2Fyandell.topaz.genetics.utah.edu-2Fcgi-2Dbin-2Fmaker license.cgi")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

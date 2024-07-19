@@ -24,12 +24,7 @@
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><span style="font-size: 160%; line-height: 120%"> <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF3&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF3 (page does not exist)">GFF3</a> <a
-href="http://gmod.org/mediawiki/index.php?title=Category%253ASession&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ASession (page does not exist)">Session</a></span><br />
+<td><span style="font-size: 160%; line-height: 120%"> GFF3 Session</span><br />
 <br />
 &#10;<p><a href="2011_GMOD_Spring_Training"
 title="2011 GMOD Spring Training">2011 GMOD Spring Training</a><br />
@@ -46,10 +41,7 @@ width="200" height="200" alt="GMODAmericas2011Logo.png" /></td>
   
 **GFF** is a standard file format for storing genomic features in a text
 file. GFF stands for *Generic Feature Format*. GFF files are plain text,
-9 column, tab-delimited files. GFF *<a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:Databases_and_GMOD&amp;action=edit&amp;redlink=1"
-class="new"
-title="GMOD:Databases and GMOD (page does not exist)">databases</a>*
+9 column, tab-delimited files. GFF *databases*
 also exist. They use a [schema](Glossary#Schema "Glossary") custom built
 to represent GFF data. GFF is [frequently used in GMOD](#GFF_in_GMOD)
 for data exchange and representation of genomic data.
@@ -111,9 +103,7 @@ GFF3 addresses several shortcomings in its predecessor, *[GFF2](#GFF2)*.
 available in GFF3 format, so you may have to use GFF2. The two versions
 are similar but are not compatible and scripts usually only work with
 one of the other format. This page discusses GFF3 in detail. GFF2
-details are covered on a <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF2 (page does not exist)">separate page</a>.
+details are covered on a separate page.
 
 Unfortunately, people, documentation, and even this web site are not
 always clear about what version of GFF is being discussed. This web page
@@ -621,18 +611,14 @@ choice you should use GFF3**. Unfortunately, data is sometimes only
 available in GFF2 format. GFF2 has a number of shortcomings compared to
 GFF3.
 
-See <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF2 (page does not exist)">GFF2</a> for more on
+See GFF2 for more on
 this format.
 
 # <span id="GTF" class="mw-headline">GTF</span>
 
 <a href="http://mblab.wustl.edu/GTF2.html" class="external text"
 rel="nofollow"><em>GTF</em></a>, is another file format that is very
-similar to <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF2 (page does not exist)">GFF2</a> and is
+similar to GFF2 and is
 sometimes referred to as GFF2.5. GTF is not a supported format in GMOD
 so if you have a GTF file you'll need to convert it to [GFF3](#GFF3).
 The <a
@@ -644,10 +630,8 @@ rel="nofollow">this BioPerl-l posting</a>.
 
 # <span id="GFF_in_GMOD" class="mw-headline">GFF in GMOD</span>
 
-A number of <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GMOD_Components&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GMOD Components (page does not exist)">GMOD
-Components</a> support GFF files. This section provides a brief
+A number of GMOD
+Components support GFF files. This section provides a brief
 description of that support.
 
 ## <span id="Apollo" class="mw-headline">Apollo</span>
@@ -674,24 +658,16 @@ See:
 
 ## <span id="CMap" class="mw-headline">CMap</span>
 
-The <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:CMap&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:CMap (page does not exist)">CMap</a> comparative
+The CMap comparative
 mapping viewer can read data in GFF3 format.
 
 ## <span id="GBrowse" class="mw-headline">GBrowse</span>
 
-The [GBrowse](GBrowse.1 "GBrowse") genome viewer supports data in <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GBrowse_Adaptors&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GBrowse Adaptors (page does not exist)">many
-formats</a>, but in many ways GFF3 is its native data format. GBrowse
-also supports <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GFF2&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GFF2 (page does not exist)">GFF2</a> data. See
-the [GBrowse](GBrowse.1 "GBrowse") and <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:GBrowse_Adaptors&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:GBrowse Adaptors (page does not exist)">GBrowse
-Adaptors</a> pages for details.
+The [GBrowse](GBrowse.1 "GBrowse") genome viewer supports data in many
+formats, but in many ways GFF3 is its native data format. GBrowse
+also supports GFF2 data. See
+the [GBrowse](GBrowse.1 "GBrowse") and GBrowse
+Adaptors pages for details.
 
 # <span id="See_Also" class="mw-headline">See Also</span>
 

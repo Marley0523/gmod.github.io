@@ -145,9 +145,7 @@ course overview</td>
 </tr>
 <tr class="even">
 <td style="background-color: #ccffff">10:25am</td>
-<td style="text-align: center; background-color: #ddffff;"><strong><a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> and <a
+<td style="text-align: center; background-color: #ddffff;"><strong>VMware and <a
 href="BioPerl" title="BioPerl">BioPerl</a> Setup</strong><br />
 <strong>Everyone</strong><br />
 Get the GMOD Summer School <a href="#System_Requirements">VMware</a>
@@ -401,9 +399,7 @@ height="26" alt="VMware" /></a>
 
 
 <span style="font-size: 110%">**Participants are required to bring their
-own laptops, already capable of running a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system
+own laptops, already capable of running a VMware system
 image.**</span>
 
 The course starts with getting a VMware image (built specifically for

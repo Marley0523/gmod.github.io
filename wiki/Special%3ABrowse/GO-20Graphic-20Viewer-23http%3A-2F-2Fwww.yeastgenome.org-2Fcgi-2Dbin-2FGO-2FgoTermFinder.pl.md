@@ -20,14 +20,9 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">GO Graphic Viewer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GO-20Graphic-20Viewer "Special%253ASearchByProperty/Linktopic/GO-20Graphic-20Viewer")</span></span> |
+| Linktopic | <span class="smwb-value">GO Graphic Viewer  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/GO-20Graphic-20Viewer "Special%253ASearchByProperty/Linktopic/GO-20Graphic-20Viewer")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/public-20server "Special%253ASearchByProperty/Linktype/public-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "Special%253ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl")</span></span> |
+| Linkurl | <span class="smwb-value">http://www.yeastgenome.org/cgi-bin/GO/goTermFinder.pl  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl "Special%253ASearchByProperty/Linkurl/http:-2F-2Fwww.yeastgenome.org-2Fcgi-2Dbin-2FGO-2FgoTermFinder.pl")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

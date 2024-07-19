@@ -46,9 +46,7 @@ style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse;
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>Page title</p></td>
-<td><p>This can come from the <a
-href="http://gmod.org/mediawiki/index.php?title=Pagelist.php&amp;action=edit&amp;redlink=1"
-class="new" title="Pagelist.php (page does not exist)">Pagelist.php</a>
+<td><p>This can come from the Pagelist.php
 script.</p></td>
 <td><p>yes</p></td>
 </tr>

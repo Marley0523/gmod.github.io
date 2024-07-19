@@ -20,9 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253ANGS&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ANGS (page does not exist)">NGS</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/NGS "Special%253ASearchByProperty/NGS")</span></span> , <span class="smwb-value">[External](/wiki/Category%253AExternal "Category%253AExternal")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/External "Special%253ASearchByProperty/External")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">NGS  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/NGS "Special%253ASearchByProperty/NGS")</span></span> , <span class="smwb-value">[External](/wiki/Category%253AExternal "Category%253AExternal")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/External "Special%253ASearchByProperty/External")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">23 August 2010 22:51:32  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/23-20August-202010-2022:51:32 "Special%253ASearchByProperty/Modification-20date/23-20August-202010-2022:51:32")</span></span> |
 
 <span id="smw_browse_incoming"></span>

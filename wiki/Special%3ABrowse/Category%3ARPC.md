@@ -16,9 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ARPC&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ARPC (page does not exist)">Category%253ARPC</a> |  |
+| Category%253ARPC |  |
 
 |     |                                |
 |-----|--------------------------------|

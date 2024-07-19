@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AUsers&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AUsers (page does not exist)">Category%253AUsers</a> |  |
+| Category%253AUsers |  |
 
 |     |                                |
 |-----|--------------------------------|

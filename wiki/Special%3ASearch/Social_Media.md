@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=Social_Media&amp;action=edit&amp;redlink=1"
-class="new" title="Social Media (page does not exist)">Social Media</a>"
+**Create the page "Social Media"
 on this wiki!** See also the search results found.
 
 - 

@@ -29,10 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=!FixAfterUpgrade&amp;action=edit&amp;redlink=1"
-class="new"
-title="!FixAfterUpgrade (page does not exist)">!FixAfterUpgrade</a>" on
+**Create the page "!FixAfterUpgrade" on
 this wiki!** See also the search results found.
 
 - 

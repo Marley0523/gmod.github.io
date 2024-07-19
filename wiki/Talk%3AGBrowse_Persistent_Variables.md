@@ -23,9 +23,7 @@ How about making the list into a table?
 
 That sounds like a good idea, although IMO a definition list would be
 more semantically "correct". Needs to improve readability &
-organization, I agree. <a
-href="http://gmod.org/mediawiki/index.php?title=User%253ACvandevelde&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ACvandevelde (page does not exist)">Chris</a>
+organization, I agree. Chris
 18:07, 19 August 2010 (UTC)
 
 

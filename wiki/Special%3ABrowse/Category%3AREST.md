@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253AREST&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253AREST (page does not exist)">Category%253AREST</a> |  |
+| Category%253AREST |  |
 
 |     |                                |
 |-----|--------------------------------|

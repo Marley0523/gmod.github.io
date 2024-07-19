@@ -22,10 +22,7 @@
 2010-11-17
 [agenda](Web-apollo-meeting-agenda-2010-11-18 "Web-apollo-meeting-agenda-2010-11-18")
 [minutes](Web-apollo-meeting-minutes-2010-11-18 "Web-apollo-meeting-minutes-2010-11-18")  
-2010-12-02 <a
-href="http://gmod.org/mediawiki/index.php?title=Web-apollo-meeting-agenda-2010-12-02&amp;action=edit&amp;redlink=1"
-class="new"
-title="Web-apollo-meeting-agenda-2010-12-02 (page does not exist)">agenda</a>
+2010-12-02 agenda
 [minutes](Web-apollo-meeting-minutes-2010-12-02 "Web-apollo-meeting-minutes-2010-12-02")  
 
 

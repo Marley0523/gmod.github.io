@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">PeanutMap  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/PeanutMap "Special%253ASearchByProperty/Linktitle/PeanutMap")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/CMap "Special%253ASearchByProperty/Linktopic/CMap")</span></span> |
+| Linktopic | <span class="smwb-value">CMap  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/CMap "Special%253ASearchByProperty/Linktopic/CMap")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">wild URL  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/wild-20URL "Special%253ASearchByProperty/Linktype/wild-20URL")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://peanutgenetics.tamu.edu/cmap/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span></span> |
+| Linkurl | <span class="smwb-value">http://peanutgenetics.tamu.edu/cmap/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fpeanutgenetics.tamu.edu-2Fcmap-2F")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

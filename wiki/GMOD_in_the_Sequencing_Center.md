@@ -61,9 +61,7 @@ Suggested Topics
   [Galaxy](Galaxy.1 "Galaxy") to enable your researchers to do
   bioinformatics without a bioinformatician.
 - Providing your clients with a more finished product. Provide your
-  clients with a *genome server in a box* using technology like <a
-  href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-  class="new" title="VMware (page does not exist)">VMware</a> and tools
+  clients with a *genome server in a box* using technology like VMware and tools
   such as [GBrowse](GBrowse.1 "GBrowse"),
   [JBrowse](JBrowse.1 "JBrowse"), [MAKER](MAKER.1 "MAKER"),
   [Apollo](Apollo.1 "Apollo").
@@ -94,10 +92,7 @@ free and open to anyone.
 href="http://gmod.org/mediawiki?title=Special:TableEdit&amp;id=90f302545d6d2678756d3936319fd651.2400.N4d0964d213c87&amp;page=2400&amp;pagename=GMOD_in_the_Sequencing_Center&amp;type=0&amp;template="
 class="external text" rel="nofollow">edit table</a> |  |  |
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Template:ThisIsATET&amp;action=edit&amp;redlink=1"
-class="new"
-title="Template:ThisIsATET (page does not exist)">Template:ThisIsATET</a>
+Template:ThisIsATET
 
 
 

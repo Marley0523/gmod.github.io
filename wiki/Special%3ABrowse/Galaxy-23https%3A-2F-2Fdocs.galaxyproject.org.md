@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">Galaxy source code documentation  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/Galaxy-20source-20code-20documentation "Special%253ASearchByProperty/Linktitle/Galaxy-20source-20code-20documentation")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Galaxy "Special%253ASearchByProperty/Linktopic/Galaxy")</span></span> |
+| Linktopic | <span class="smwb-value">Galaxy  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/Galaxy "Special%253ASearchByProperty/Linktopic/Galaxy")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">documentation  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/documentation "Special%253ASearchByProperty/Linktype/documentation")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://docs.galaxyproject.org  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fdocs.galaxyproject.org "Special%253ASearchByProperty/Linkurl/https:-2F-2Fdocs.galaxyproject.org")</span></span> |
+| Linkurl | <span class="smwb-value">https://docs.galaxyproject.org  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fdocs.galaxyproject.org "Special%253ASearchByProperty/Linkurl/https:-2F-2Fdocs.galaxyproject.org")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

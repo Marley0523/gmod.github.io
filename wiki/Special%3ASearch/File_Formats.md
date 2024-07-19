@@ -29,9 +29,7 @@
 
 
 
-**Create the page "<a
-href="/mediawiki/index.php?title=File_Formats&amp;action=edit&amp;redlink=1"
-class="new" title="File Formats (page does not exist)">File Formats</a>"
+**Create the page "File Formats"
 on this wiki!** See also the search results found.
 
 - 

@@ -20,12 +20,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Chado&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Chado (page does not exist)">Chado</a> | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado/Schema "Special%253ASearchByProperty/Chado/Schema")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Talk:Bio&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Talk:Bio (page does not exist)">Talk:Bio</a> | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Talk%253ABio/Schema "Special%253ASearchByProperty/Talk%253ABio/Schema")</span></span> |
+| Chado | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado/Schema "Special%253ASearchByProperty/Chado/Schema")</span></span> |
+| Talk:Bio | <span class="smwb-value">Schema  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Talk%253ABio/Schema "Special%253ASearchByProperty/Talk%253ABio/Schema")</span></span> |
 | [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Middleware](/wiki/Category%253AMiddleware "Category%253AMiddleware")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Middleware "Special%253ASearchByProperty/Middleware")</span></span> , <span class="smwb-value">[Middleware Presentations](/wiki/Category%253AMiddleware_Presentations "Category%253AMiddleware Presentations")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Middleware-20Presentations "Special%253ASearchByProperty/Middleware-20Presentations")</span></span> , <span class="smwb-value">[Chado](/wiki/Category%253AChado "Category%253AChado")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Chado "Special%253ASearchByProperty/Chado")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">14 April 2011 18:15:29  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/14-20April-202011-2018:15:29 "Special%253ASearchByProperty/Modification-20date/14-20April-202011-2018:15:29")</span></span> |
 

@@ -140,13 +140,9 @@ rel="nofollow">SAMtools</a> GBrowse adaptor, Bio::DB::Sam.
 
 ## <span id="VMware" class="mw-headline">VMware</span>
 
-This tutorial was taught using a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+This tutorial was taught using a VMware system image
 as a starting point. If you want to start with the same system, download
-and install the *Starting* image. ***See <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> for what
+and install the *Starting* image. ***See VMware for what
 software you need to use a VMware system image, and for directions on
 how to get the image setup and running on your machine.***
 
@@ -241,10 +237,8 @@ starting image.** This section is merely provided for your information.
 
 This section describes the installation Synaptic is a graphical version
 of the apt-get package manager for Debian based systems. Emacs is my
-preferred <a
-href="http://gmod.org/mediawiki/index.php?title=Linux_Text_Editor&amp;action=edit&amp;redlink=1"
-class="new" title="Linux Text Editor (page does not exist)">Linux Text
-Editor</a>, but any will do.
+preferred Linux Text
+Editor, but any will do.
 
     sudo apt-get install synaptic
     sudo apt-get install emacs

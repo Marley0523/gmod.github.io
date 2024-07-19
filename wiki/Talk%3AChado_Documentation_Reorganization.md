@@ -31,9 +31,7 @@ bit.
 
 ------------------------------------------------------------------------
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253AArcoleo&amp;action=edit&amp;redlink=1"
-class="new" title="User%253AArcoleo (page does not exist)">Arcoleo</a>,
+Arcoleo,
 
 I think that's a great format, but we will stick with Mediawiki (the
 wiki package used in the GMOD web site) for the Chado documentation for

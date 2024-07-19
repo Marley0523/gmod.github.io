@@ -20,9 +20,7 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Documentation](/wiki/Category%253ADocumentation "Category%253ADocumentation")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Documentation "Special%253ASearchByProperty/Documentation")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253ADatabase&amp;action=edit&amp;redlink=1"
-class="new" title="Category%253ADatabase (page does not exist)">Database</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Database "Special%253ASearchByProperty/Database")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Documentation](/wiki/Category%253ADocumentation "Category%253ADocumentation")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Documentation "Special%253ASearchByProperty/Documentation")</span></span> , <span class="smwb-value">Database  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Database "Special%253ASearchByProperty/Database")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">7 September 2012 21:18:47  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/7-20September-202012-2021:18:47 "Special%253ASearchByProperty/Modification-20date/7-20September-202012-2021:18:47")</span></span> |
 
 <span id="smw_browse_incoming"></span>

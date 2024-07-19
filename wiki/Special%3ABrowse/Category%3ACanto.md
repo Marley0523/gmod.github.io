@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ACanto&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ACanto (page does not exist)">Category%253ACanto</a> |  |
+| Category%253ACanto |  |
 
 |     |                                |
 |-----|--------------------------------|

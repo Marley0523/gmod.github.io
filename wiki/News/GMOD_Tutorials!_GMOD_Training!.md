@@ -40,9 +40,7 @@ are now available for the [GMOD
 Components](../GMOD_Components "GMOD Components") that were covered at
 the <a href="../GMOD_Summer_School" class="mw-redirect"
 title="GMOD Summer School">2009 GMOD Summer Schools</a>. Each tutorial
-includes a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+includes a VMware system image
 to work with, and detailed instructions on how to setup the component on
 that image.
 

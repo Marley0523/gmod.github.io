@@ -14,11 +14,8 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Has_publication_details&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Has publication details (page does not exist)">Has
-publication details</a>" with value "Database : the journal of
+A list of all pages that have property "Has
+publication details" with value "Database : the journal of
 biological databases and curation 2011: bar044"  
 
 - [Site

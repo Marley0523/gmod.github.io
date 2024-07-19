@@ -20,11 +20,8 @@
 
 |  |  |
 |----|----|
-| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Meetings](/wiki/Category%253AMeetings "Category%253AMeetings")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Meetings "Special%253ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category%253AGMOD_Community "Category%253AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Community "Special%253ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value"><a
-href="/mediawiki/index.php?title=Category%253APages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253APages containing blacklisted links (page does not exist)">Pages
-containing blacklisted links</a>  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links "Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links")</span></span> |
+| [Categories](/wiki/Special%253ACategories "Special%253ACategories") | <span class="smwb-value">[Meetings](/wiki/Category%253AMeetings "Category%253AMeetings")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Meetings "Special%253ASearchByProperty/Meetings")</span></span> , <span class="smwb-value">[GMOD Community](/wiki/Category%253AGMOD_Community "Category%253AGMOD Community")  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/GMOD-20Community "Special%253ASearchByProperty/GMOD-20Community")</span></span> , <span class="smwb-value">Pages
+containing blacklisted links  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links "Special%253ASearchByProperty/Pages-20containing-20blacklisted-20links")</span></span> |
 | <span class="smw-highlighter" data-type="1" state="inline" data-title="Property"><span class="smwbuiltin">[Modification date](/wiki/Property:Modification_date "Property:Modification date")</span><span class="smwttcontent">This property is a special property in this wiki.</span></span> | <span class="smwb-value">8 May 2014 07:49:43  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Modification-20date/8-20May-202014-2007:49:43 "Special%253ASearchByProperty/Modification-20date/8-20May-202014-2007:49:43")</span></span> |
 
 <span id="smw_browse_incoming"></span>

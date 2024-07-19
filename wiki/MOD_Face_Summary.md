@@ -122,9 +122,7 @@ mechanism for keeping older database versions available.
 
 
 
-# <span id="Participants_and_Presentations" class="mw-headline"><a
-href="http://gmod.org/mediawiki/index.php?title=Participants&amp;action=edit&amp;redlink=1"
-class="new" title="Participants (page does not exist)">Participants</a> and [Presentations](MOD_Face_Talks "MOD Face Talks")</span>
+# <span id="Participants_and_Presentations" class="mw-headline">Participants and [Presentations](MOD_Face_Talks "MOD Face Talks")</span>
 
 This meeting drew together some 60 biologists, bioinformaticians and
 other interested people, representing more than 25 database projects and

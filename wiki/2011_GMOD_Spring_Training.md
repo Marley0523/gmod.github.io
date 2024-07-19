@@ -117,11 +117,8 @@ title="Tripal Tutorial">Tripal Tutorial</a></li>
 <td>   </td>
 <td data-valign="top"><p>And these tutorials will be added:</p>
 <ul>
-<li><a
-href="http://gmod.org/mediawiki/index.php?title=InterMine_2011_Tutorial&amp;action=edit&amp;redlink=1"
-class="new"
-title="InterMine 2011 Tutorial (page does not exist)">InterMine
-Tutorial</a></li>
+<li>InterMine
+Tutorial</li>
 <li><a href="SOBA_2011_Tutorial" title="SOBA 2011 Tutorial">SOBA
 Tutorial</a></li>
 </ul></td>
@@ -278,17 +275,13 @@ height="26" alt="VMware" /></a>
 
 
 <span style="font-size: 110%">**Participants are required to bring their
-own laptops, already capable of running a virtual system (e.g. <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a>)
+own laptops, already capable of running a virtual system (e.g. VMware)
 image.**</span>
 
 The course starts with getting a virtual system image (built
 specifically for the course) up and running on your machine. We then
 build upon that image in each succeeding session. We will probably use
-<a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> for the
+VMware for the
 course:
 
 ### <span id="VMware_on_Windows_and_Linux" class="mw-headline">VMware on Windows and Linux</span>

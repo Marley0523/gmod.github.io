@@ -14,11 +14,8 @@
 
 
 
-A list of all pages that have property "<a
-href="/mediawiki/index.php?title=Property:Has_publication_details&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Has publication details (page does not exist)">Has
-publication details</a>" with value "Current protocols in bioinformatics
+A list of all pages that have property "Has
+publication details" with value "Current protocols in bioinformatics
 / editoral board, Andreas D. Baxevanis ... \[et al.\] Chapter 9: Unit
 9.12"  
 

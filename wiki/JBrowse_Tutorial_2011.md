@@ -112,9 +112,7 @@ searchable.
 `urltemplate` specifies a URL pattern that you can use to link genomic
 features to specific web pages.
 
-`class` specifies the <a
-href="http://gmod.org/mediawiki/index.php?title=GMOD:Glossary&amp;action=edit&amp;redlink=1"
-class="new" title="GMOD:Glossary (page does not exist)">CSS</a> class
+`class` specifies the CSS class
 that describes how the feature should look. The classes are specified in
 the `genome.css` file:
 

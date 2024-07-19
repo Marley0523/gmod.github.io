@@ -372,10 +372,7 @@ and then start Galaxy
 
 ## <span id="A_second_example_with_NGS_data" class="mw-headline">A second example with NGS data</span>
 
-Having made these changes and restarted Galaxy, access it at <a
-href="http://gmod.org/mediawiki/index.php?title=Template:YourUrlGalaxy&amp;action=edit&amp;redlink=1"
-class="new"
-title="Template:YourUrlGalaxy (page does not exist)">Template:YourUrlGalaxy</a>.
+Having made these changes and restarted Galaxy, access it at Template:YourUrlGalaxy.
 
   
 You will notice that your history has been lost. This is the result of

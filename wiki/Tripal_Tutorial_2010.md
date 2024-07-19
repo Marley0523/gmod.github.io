@@ -180,13 +180,9 @@ Guide, January 2010 edition</a>.
 
 ## <span id="VMware" class="mw-headline">VMware</span>
 
-This tutorial was taught using a <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> system image
+This tutorial was taught using a VMware system image
 as a starting point. If you want to start with the same system, download
-and install the start image (below). See <a
-href="http://gmod.org/mediawiki/index.php?title=VMware&amp;action=edit&amp;redlink=1"
-class="new" title="VMware (page does not exist)">VMware</a> for what
+and install the start image (below). See VMware for what
 software you need to use a VMware system image and for directions on how
 to get the image up and running on your machine.
 

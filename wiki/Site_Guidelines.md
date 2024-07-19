@@ -122,11 +122,8 @@ These guidelines are a work in progress and you are encouraged to
 suggest additions, deletions or revisions to them. The best way to do
 this is to send your comments to the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk"). Alternatively, you can post them
-to this page (or to this page's <a
-href="http://gmod.org/mediawiki/index.php?title=Talk:Site_Guidelines&amp;action=edit&amp;redlink=1"
-class="new"
-title="Talk:Site Guidelines (page does not exist)">discussion/talk
-page</a>).
+to this page (or to this page's discussion/talk
+page).
 
 ### <span id="Enforcing" class="mw-headline">Enforcing</span>
 

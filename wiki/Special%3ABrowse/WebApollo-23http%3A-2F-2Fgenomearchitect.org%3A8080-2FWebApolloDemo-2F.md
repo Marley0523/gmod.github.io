@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">WebApollo demo - Bos taurus genome  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome "Special%253ASearchByProperty/Linktitle/WebApollo-20demo-20-2D-20Bos-20taurus-20genome")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
+| Linktopic | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">demo server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/demo-20server "Special%253ASearchByProperty/Linktype/demo-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://genomearchitect.org:8080/WebApolloDemo/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span></span> |
+| Linkurl | <span class="smwb-value">http://genomearchitect.org:8080/WebApolloDemo/  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F "Special%253ASearchByProperty/Linkurl/http:-2F-2Fgenomearchitect.org:8080-2FWebApolloDemo-2F")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

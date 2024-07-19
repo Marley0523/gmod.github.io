@@ -137,9 +137,7 @@ Ideas for future development
 
 
 
-# <span id="In_attendance" class="mw-headline"> <a
-href="http://gmod.org/mediawiki/index.php?title=Participants&amp;action=edit&amp;redlink=1"
-class="new" title="Participants (page does not exist)">In attendance</a></span>
+# <span id="In_attendance" class="mw-headline"> In attendance</span>
 
 \- attendance list
 

@@ -21,14 +21,9 @@
 |  |  |
 |----|----|
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">Client and server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/Client-20and-20server "Special%253ASearchByProperty/Linktitle/Client-20and-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
+| Linktopic | <span class="smwb-value">WebApollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/WebApollo "Special%253ASearchByProperty/Linktopic/WebApollo")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">source code  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/source-20code "Special%253ASearchByProperty/Linktype/source-20code")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">https://github.com/gmod/apollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fgmod-2Fapollo "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fgmod-2Fapollo")</span></span> |
+| Linkurl | <span class="smwb-value">https://github.com/gmod/apollo  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fgmod-2Fapollo "Special%253ASearchByProperty/Linkurl/https:-2F-2Fgithub.com-2Fgmod-2Fapollo")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

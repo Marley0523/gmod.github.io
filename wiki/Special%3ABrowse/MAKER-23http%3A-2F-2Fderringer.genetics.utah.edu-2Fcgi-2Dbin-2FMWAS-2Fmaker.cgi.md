@@ -20,18 +20,11 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Property:Linkdesc&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkdesc (page does not exist)">Linkdesc</a> | <span class="smwb-value">online version of the MAKER tool  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool "Special%253ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool")</span></span> |
+| Linkdesc | <span class="smwb-value">online version of the MAKER tool  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool "Special%253ASearchByProperty/Linkdesc/online-20version-20of-20the-20MAKER-20tool")</span></span> |
 | [Linktitle](/wiki/Property%253ALinktitle "Property%253ALinktitle") | <span class="smwb-value">MAKER Web Annotation Server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server "Special%253ASearchByProperty/Linktitle/MAKER-20Web-20Annotation-20Server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linktopic&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Linktopic (page does not exist)">Linktopic</a> | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/MAKER "Special%253ASearchByProperty/Linktopic/MAKER")</span></span> |
+| Linktopic | <span class="smwb-value">MAKER  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktopic/MAKER "Special%253ASearchByProperty/Linktopic/MAKER")</span></span> |
 | [Linktype](/wiki/Property%253ALinktype "Property%253ALinktype") | <span class="smwb-value">public server  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linktype/public-20server "Special%253ASearchByProperty/Linktype/public-20server")</span></span> |
-| <a
-href="/mediawiki/index.php?title=Property:Linkurl&amp;action=edit&amp;redlink=1"
-class="new" title="Property:Linkurl (page does not exist)">Linkurl</a> | <span class="smwb-value">http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%253ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span></span> |
+| Linkurl | <span class="smwb-value">http://derringer.genetics.utah.edu/cgi-bin/MWAS/maker.cgi  <span class="smwsearch">[+](/wiki/Special%253ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi "Special%253ASearchByProperty/Linkurl/http:-2F-2Fderringer.genetics.utah.edu-2Fcgi-2Dbin-2FMWAS-2Fmaker.cgi")</span></span> |
 
 <span id="smw_browse_incoming"></span>
 

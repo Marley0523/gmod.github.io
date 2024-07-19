@@ -77,9 +77,7 @@ module](../Chado_Natural_Diversity_Module.1 "Chado Natural Diversity Module").
     - implement after paper publishing
     - do not implement
 2.  Bio%253A%253AChado%253A%253ASchema update
-    - can someone do one after the changes have been made? <a
-      href="http://gmod.org/mediawiki/index.php?title=User%253AMaccallr&amp;action=edit&amp;redlink=1"
-      class="new" title="User%253AMaccallr (page does not exist)">Maccallr</a>
+    - can someone do one after the changes have been made? Maccallr
       14:37, 26 May 2011 (UTC)
 
 ## <span id="Proposed_changes" class="mw-headline">Proposed changes</span>
@@ -185,9 +183,7 @@ module](../Chado_Natural_Diversity_Module.1 "Chado Natural Diversity Module").
   - +1, could definitely use this for same reasons (e,g, same
     insecticide resistance assay protocol, but with different
     insecticides, exposure times, and/or concentrations; currently using
-    nd_experimentprop) <a
-    href="http://gmod.org/mediawiki/index.php?title=User%253AMaccallr&amp;action=edit&amp;redlink=1"
-    class="new" title="User%253AMaccallr (page does not exist)">Maccallr</a>
+    nd_experimentprop) Maccallr
     13:24, 30 May 2011 (UTC)
     - Can we make multiple protocols, such as NaCl 100mM, NaCl 10mM,
       etc, (or insecticide resistance assay 1, 2, etc) and link to
@@ -257,9 +253,7 @@ module](../Chado_Natural_Diversity_Module.1 "Chado Natural Diversity Module").
   - Chado has some way to
     <a href="../Chado_CV_Module#Post-coordinating_Terms"
     class="external text" rel="nofollow">post-compose cvterms</a> which
-    <a
-    href="http://gmod.org/mediawiki/index.php?title=User%253AMaccallr&amp;action=edit&amp;redlink=1"
-    class="new" title="User%253AMaccallr (page does not exist)">Maccallr</a>
+    Maccallr
     11:56, 17 May 2011 (UTC) doesn't understand.
     - It looks rather complex.
       --[Yuri](../User%253AYbendana "User%253AYbendana")

@@ -16,10 +16,7 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253ASession&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253ASession (page does not exist)">Category%253ASession</a> |  |
+| Category%253ASession |  |
 
 |     |                                |
 |-----|--------------------------------|

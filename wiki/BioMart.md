@@ -63,10 +63,7 @@ rel="nofollow">LGPL</a> <span class="smwsearch">[+](Special%253ASearchByProperty
 | [Has title](Property%253AHas_title "Property:Has title") | BioMart user community <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20title/BioMart-20user-20community "Special%253ASearchByProperty/Has-20title/BioMart-20user-20community")</span> |
 | [Has topic](Property%253AHas_topic "Property:Has topic") | **BioMart** <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/BioMart "Special%253ASearchByProperty/Has-20topic/BioMart")</span> |
 | [Interaction type](Property%253AInteraction_type "Property:Interaction type") | provides data for <span class="smwsearch">[+](Special%253ASearchByProperty/Interaction-20type/provides-20data-20for "Special%253ASearchByProperty/Interaction-20type/provides-20data-20for")</span> |
-| <a
-href="http://gmod.org/mediawiki/index.php?title=Property:Interactor&amp;action=edit&amp;redlink=1"
-class="new"
-title="Property:Interactor (page does not exist)">Interactor</a> | BioMart <span class="smwsearch">[+](Special%253ASearchByProperty/Interactor/BioMart "Special%253ASearchByProperty/Interactor/BioMart")</span> |
+| Interactor | BioMart <span class="smwsearch">[+](Special%253ASearchByProperty/Interactor/BioMart "Special%253ASearchByProperty/Interactor/BioMart")</span> |
 | [Interacts with](Property%253AInteracts_with "Property:Interacts with") | [GBrowse](GBrowse.1 "GBrowse") <span class="smwsearch">[+](Special%253ASearchByProperty/Interacts-20with/GBrowse "Special%253ASearchByProperty/Interacts-20with/GBrowse")</span> |
 | [Is open source](Property%253AIs_open_source "Property:Is open source") | Yes <span class="smwsearch">[+](Special%253ASearchByProperty/Is-20open-20source/Yes "Special%253ASearchByProperty/Is-20open-20source/Yes")</span> |
 | [Link type](Property%253ALink_type "Property:Link type") | download <span class="smwsearch">[+](Special%253ASearchByProperty/Link-20type/download "Special%253ASearchByProperty/Link-20type/download")</span>, website <span class="smwsearch">[+](Special%253ASearchByProperty/Link-20type/website "Special%253ASearchByProperty/Link-20type/website")</span> and wild URL <span class="smwsearch">[+](Special%253ASearchByProperty/Link-20type/wild-20URL "Special%253ASearchByProperty/Link-20type/wild-20URL")</span> |

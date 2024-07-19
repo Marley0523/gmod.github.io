@@ -114,19 +114,15 @@ rel="nofollow">http://localhost/cgi-bin/gbrowse/gbrowse/yeast_chr1</a>.
 Some material cut and paste from www.biopackages.net, with permission
 from Allen Day.
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253ABoconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ABoconnor (page does not exist)">Brian
-O'Connor</a> 12:12, 19 April 2007 (PDT)
+Brian
+O'Connor 12:12, 19 April 2007 (PDT)
 
 Updated the install description of Biopackages to use our new
 configuration RPMs.
 
   
-<a
-href="http://gmod.org/mediawiki/index.php?title=User%253ABoconnor&amp;action=edit&amp;redlink=1"
-class="new" title="User%253ABoconnor (page does not exist)">Brian
-O'Connor</a> 12:18, 05 June 2007 (PDT)
+Brian
+O'Connor 12:18, 05 June 2007 (PDT)
 
 Added note about install path for gbrowse.
 

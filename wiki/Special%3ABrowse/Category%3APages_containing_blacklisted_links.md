@@ -16,11 +16,8 @@
 
 |  |  |
 |----|----|
-| <a
-href="/mediawiki/index.php?title=Category%253APages_containing_blacklisted_links&amp;action=edit&amp;redlink=1"
-class="new"
-title="Category%253APages containing blacklisted links (page does not exist)">Category%253APages
-containing blacklisted links</a> |  |
+| Category%253APages
+containing blacklisted links |  |
 
 |     |                                |
 |-----|--------------------------------|
