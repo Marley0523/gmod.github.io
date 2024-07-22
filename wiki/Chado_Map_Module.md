@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado Map Module</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -37,28 +19,16 @@
   - [<span class="tocnumber">1.6</span> <span class="toctext">Table:
     featurerange</span>](#Table:_featurerange)
 
-
-
 # <span id="Introduction" class="mw-headline">Introduction</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Map_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 Note: this module is all due for revision.
 
 A possibly problematic case is where we want to localize an object to
 the left or right of a feature (but not within it):
 
-  
-
                         |---------|  feature-to-map
            ------------------------------------------------- map
                    |------|         |----------|   features to map wrt
-
-  
 
 ### <span id="To_Do" class="mw-headline">To Do</span>
 
@@ -69,18 +39,16 @@ the left or right of a feature (but not within it):
     cases where a breakpoint interrupts a gene? Would this be an example
     of the problematic case above?
 
-  
-
 ## <span id="Tables" class="mw-headline">Tables</span>
 
 ## <span id="Table:_featuremap" class="mw-headline">Table: featuremap</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | featuremap_id | serial | *PRIMARY KEY* |
-|  | name | character varying(255) | *UNIQUE* |
-|  | description | text |  |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | unittype_id | integer |  |
+| F-Key                                               | Name          | Type                   | Description   |
+| --------------------------------------------------- | ------------- | ---------------------- | ------------- |
+|                                                     | featuremap_id | serial                 | _PRIMARY KEY_ |
+|                                                     | name          | character varying(255) | _UNIQUE_      |
+|                                                     | description   | text                   |               |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | unittype_id   | integer                |               |
 
 featuremap Structure
 
@@ -96,23 +64,19 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [featurerange](Chado_Tables#Table:_featurerange "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_featuremap_pub" class="mw-headline">Table: featuremap_pub</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | featuremap_pub_id | serial | *PRIMARY KEY* |
-| [featuremap](Chado_Tables#Table:_featuremap "Chado Tables") | featuremap_id | integer | *NOT NULL* |
-| [pub](Chado_Tables#Table:_pub "Chado Tables") | pub_id | integer | *NOT NULL* |
+| F-Key                                                       | Name              | Type    | Description   |
+| ----------------------------------------------------------- | ----------------- | ------- | ------------- |
+|                                                             | featuremap_pub_id | serial  | _PRIMARY KEY_ |
+| [featuremap](Chado_Tables#Table:_featuremap "Chado Tables") | featuremap_id     | integer | _NOT NULL_    |
+| [pub](Chado_Tables#Table:_pub "Chado Tables")               | pub_id            | integer | _NOT NULL_    |
 
 featuremap_pub Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_featurepos" class="mw-headline">Table: featurepos</span>
 
@@ -174,9 +138,7 @@ being localized.</td>
 
 featurepos Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_featurerange" class="mw-headline">Table: featurerange</span>
 
@@ -263,10 +225,7 @@ title="Chado Tables">feature</a></p></td>
 
 featurerange Structure
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -274,48 +233,23 @@ featurerange Structure
 - [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 - [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -325,18 +259,12 @@ featurerange Structure
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Map_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 04:38 on 18 February
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 04:38 on 18 February 2015.</span>
 <!-- - <span id="footer-info-viewcount">52,095 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -345,10 +273,4 @@ featurerange Structure
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

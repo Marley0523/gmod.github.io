@@ -1,27 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">GBrowse Volvox SAM Tutorial</span>
-
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=GBrowse_Volvox_SAM_Tutorial&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 This is a short tutorial intended to add on to the
 [GBrowse](GBrowse.1 "GBrowse") tutorial that ships with it using the
@@ -33,10 +12,7 @@ This is based on the [NGS
 tutorial](GBrowse_NGS_Tutorial "GBrowse NGS Tutorial") that Dave
 Clements wrote.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Create the BAM
   file</span>](#Create_the_BAM_file)
@@ -53,8 +29,6 @@ Clements wrote.
   pairs</span>](#Read_pairs)
 - [<span class="tocnumber">7</span> <span class="toctext">Coloring reads
   according to quality</span>](#Coloring_reads_according_to_quality)
-
-
 
 ## <span id="Create_the_BAM_file" class="mw-headline">Create the BAM file</span>
 
@@ -210,9 +184,6 @@ do this for bgcolor:
 where the callback will make the feature background more blue the higher
 the quality. How do you suppose it does that?
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
@@ -221,48 +192,23 @@ the quality. How do you suppose it does that?
 
 - [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -272,18 +218,12 @@ the quality. How do you suppose it does that?
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Volvox_SAM_Tutorial"
   rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 00:19 on 23 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 00:19 on 23 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">31,471 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -292,10 +232,4 @@ the quality. How do you suppose it does that?
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

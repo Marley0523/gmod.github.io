@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado XML</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Chado-XML</span>](#Chado-XML)
@@ -50,17 +32,9 @@
 - [<span class="tocnumber">9</span>
   <span class="toctext">Terminology</span>](#Terminology)
 
-
-
 ## <span id="Chado-XML" class="mw-headline">Chado-XML</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_XML&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-*Draft Document - In progress.*
+_Draft Document - In progress._
 
 Chado-XML is a direct mapping of the Chado relational schema into XML.
 Currently the only tool for performing this mapping is
@@ -72,9 +46,9 @@ chado db.
 Chado is a modular schema covering many aspects of biology, not just
 sequence data. Chado-XML has exactly the same scope as the Chado schema.
 However, many applications may only be conversant with certain modules.
-If an application is to be termed *Chado-XML compliant* then it should
+If an application is to be termed _Chado-XML compliant_ then it should
 technically qualify this with the list of modules with which it is
-compliant (e.g. *Chado-XML:sequence,cv compliant*).
+compliant (e.g. _Chado-XML:sequence,cv compliant_).
 
 ## <span id="Description" class="mw-headline">Description</span>
 
@@ -104,16 +78,12 @@ already.
 There's a number of different ways of creating Chado-XML from various
 datasources…
 
-  
-
 ### <span id="Database_retrieval:_XORT_Dumpspecs" class="mw-headline">Database retrieval: XORT Dumpspecs</span>
 
 [XORT](XORT.1 "XORT") can select data from a database and generate XML.
-XORT is highly configurable, via *dumpspecs*. There are a number of
+XORT is highly configurable, via _dumpspecs_. There are a number of
 dumpspecs for common queries (e.g. fetching a region-of-interest around
 a gene or contig) - or you can write your own.
-
-  
 
 ### <span id="BioPerl_-_Bio::SeqIO::chadoxml" class="mw-headline">BioPerl - **Bio::SeqIO::chadoxml**</span>
 
@@ -124,24 +94,22 @@ means that any file format which
 <a href="http://bioperl.org" class="external text"
 rel="nofollow">Bioperl</a> can pass can be exported to Chado-XML.
 
-If you are not familiar with the bioperl *SeqIO* system, you can do it
+If you are not familiar with the bioperl _SeqIO_ system, you can do it
 on the command line, like this:
 
     >bp_seqconvert --from genbank --to chadoxml < NT_021877.gbk
 
-This will generate *expanded* (no macros) Chado-XML.
+This will generate _expanded_ (no macros) Chado-XML.
 
-Note that if you are parsing from genbank, some extra *magic* has to
+Note that if you are parsing from genbank, some extra _magic_ has to
 happen to reconstruct the feature graph from the lossy genbank flat file
 format - this step isn't infallible!
 
 ## <span id="Saving_Chado-XML" class="mw-headline">Saving Chado-XML</span>
 
-Both *static* and *transactional* Chado-XML can be saved to a Chado
+Both _static_ and _transactional_ Chado-XML can be saved to a Chado
 database using [XORT](XORT.1 "XORT"). See XORT documentation for
 details.
-
-  
 
 ## <span id="Chado-XML_forms" class="mw-headline">Chado-XML forms</span>
 
@@ -151,12 +119,10 @@ However, in the interests of simplifying the task of applications which
 make use of Chado-XML, only a limited subset of these mappings are
 supported.
 
-  
-
 ### <span id="Standard_Mapping" class="mw-headline">Standard Mapping</span>
 
 Unless otherwise specified, any document which is said to conform to
-Chado-XML is assumed to specify to the *standard* mapping. This is the
+Chado-XML is assumed to specify to the _standard_ mapping. This is the
 mapping that will be most intuitive to application programmers, as it
 recapitulates the nesting of features in the XML nesting; ie exons and
 proteins are nested beneath transcripts which are nested beneath genes.
@@ -208,23 +174,18 @@ At some point in the future there may be a need for other restricted
 forms of Generic-Chado-XML, that are different from standard Chado-XML;
 there is no such need as yet.
 
-  
-
 ## <span id="Macros" class="mw-headline">Macros</span>
 
 Chado-XML can be extremely verbose. One reason for this is the fact that
 the same data can be repeated at various places in the XML.
 
 For example, to represent the fact that a feature is of organism
-*Drosophila Melanogaster*, it is necessary to identify this organism by
+_Drosophila Melanogaster_, it is necessary to identify this organism by
 a database unique key (genus and species in the case of organisms)
 
-**Example:** Example *feature* element containing *organism* element
+**Example:** Example _feature_ element containing _organism_ element
 
-  
-
-
-``` de1
+```de1
  <feature>
    ..
    <organism_id>
@@ -237,9 +198,7 @@ a database unique key (genus and species in the case of organisms)
  </feature>
 ```
 
-
-  
-Every feature must have an *organism* tag. This may seem overly onerous,
+Every feature must have an _organism_ tag. This may seem overly onerous,
 but it makes Chado-XML documents more robust. Furthermore, this
 constraint holds for the database so it also holds for the XML.
 
@@ -253,8 +212,7 @@ The document can be normalised using **Macros**.
 
 **Example:** Example Macro:
 
-
-``` de1
+```de1
  <chado>
   <organism id="Drosophila__Melanogaster">
     <genus>Drosophila</genus>
@@ -266,7 +224,6 @@ The document can be normalised using **Macros**.
     <organism_id>Drosophila__Melanogaster</organism_id>
     ..
 ```
-
 
 The algorithm for using macros is fairly simple - simply replace any
 leaf XML nodes which you would expect to be non-leaf with the XML node
@@ -293,12 +250,12 @@ A Chado-XML document may choose whether or not to use macros and still
 be considered valid Chado-XML. If it is desirable to know whether a
 particular document does or does not contain macros, then files should
 contain an appropriate suffix (before the chado-xml suffix). When used,
-this suffix string should be either *macro* or *expanded*. Omitting this
+this suffix string should be either _macro_ or _expanded_. Omitting this
 part of the suffix is acceptable.
 
 ## <span id="Transactional-Chado-XML" class="mw-headline">Transactional-Chado-XML</span>
 
-Typical Chado-XML documents are assumed to be *static* or *snapshot*.
+Typical Chado-XML documents are assumed to be _static_ or _snapshot_.
 They are atemporal - they contain the state of the data at one
 particular instance in time.
 
@@ -319,7 +276,7 @@ Either standard or any generic Chado-XM can be transactional.
 The term "Chado-XML" is assumed to be static, standard XML.
 
 Any static Chado-XML document can be treated as a transactional
-Chado-XML document (consisting purely of *store* operations). It is
+Chado-XML document (consisting purely of _store_ operations). It is
 equivalent to a transaction commencing from time zero.
 
 Note that is possible for a document to be "semi-transactional", and
@@ -341,57 +298,29 @@ However, the vast majority of applications will interoperate using
 Standard+Static Chado-XML (refered to as simple "Chado-XML"). Any other
 form or variant should be fully qualified.
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
 - [Chado](Category%253AChado "Category%253AChado")
 - [XML](Category%253AXML "Category%253AXML")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -401,18 +330,12 @@ form or variant should be fully qualified.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_XML" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 21:16 on 9 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 21:16 on 9 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">47,488 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -421,10 +344,4 @@ form or variant should be fully qualified.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado Phenotype Module</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -33,15 +15,7 @@
   - [<span class="tocnumber">2.3</span> <span class="toctext">Table:
     phenotype_cvterm</span>](#Table:_phenotype_cvterm)
 
-
-
 # <span id="Introduction" class="mw-headline">Introduction</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Phenotype_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 Chris Mungall's 2006
 <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6b/02-chado-for-nescent-2006.pdf"
@@ -52,17 +26,15 @@ evolutionary science</a> presentation discusses the Phenotype module.
 
 ## <span id="Table:_feature_phenotype" class="mw-headline">Table: feature_phenotype</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | feature_phenotype_id | serial | *PRIMARY KEY* |
-| [feature](Chado_Tables#Table:_feature "Chado Tables") | feature_id | integer | *UNIQUE#1 NOT NULL* |
-| [phenotype](Chado_Tables#Table:_phenotype "Chado Tables") | phenotype_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                     | Name                 | Type    | Description         |
+| --------------------------------------------------------- | -------------------- | ------- | ------------------- |
+|                                                           | feature_phenotype_id | serial  | _PRIMARY KEY_       |
+| [feature](Chado_Tables#Table:_feature "Chado Tables")     | feature_id           | integer | _UNIQUE#1 NOT NULL_ |
+| [phenotype](Chado_Tables#Table:_phenotype "Chado Tables") | phenotype_id         | integer | _UNIQUE#1 NOT NULL_ |
 
 feature_phenotype Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phenotype" class="mw-headline">Table: phenotype</span>
 
@@ -170,24 +142,19 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [wwwuser_phenotype](Chado_Tables#Table:_wwwuser_phenotype "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phenotype_cvterm" class="mw-headline">Table: phenotype_cvterm</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | phenotype_cvterm_id | serial | *PRIMARY KEY* |
-| [phenotype](Chado_Tables#Table:_phenotype "Chado Tables") | phenotype_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                     | Name                | Type    | Description         |
+| --------------------------------------------------------- | ------------------- | ------- | ------------------- |
+|                                                           | phenotype_cvterm_id | serial  | _PRIMARY KEY_       |
+| [phenotype](Chado_Tables#Table:_phenotype "Chado Tables") | phenotype_id        | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables")       | cvterm_id           | integer | _UNIQUE#1 NOT NULL_ |
 
 phenotype_cvterm Structure
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -195,48 +162,23 @@ phenotype_cvterm Structure
 - [Chado](Category%253AChado "Category%253AChado")
 - [Phenotypes](Category%253APhenotypes "Category%253APhenotypes")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -246,18 +188,12 @@ phenotype_cvterm Structure
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Phenotype_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 21:11 on 6 February
-  2008.</span>
+- <span id="footer-info-lastmod">Last updated at 21:11 on 6 February 2008.</span>
 <!-- - <span id="footer-info-viewcount">45,375 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -266,10 +202,4 @@ phenotype_cvterm Structure
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
