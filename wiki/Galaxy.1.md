@@ -1,59 +1,29 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Galaxy</span>
-
-
-
-
-
-
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/400px-GalaxyLogoBigger.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/600px-GalaxyLogoBigger.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/c/c7/GalaxyLogoBigger.png/800px-GalaxyLogoBigger.png 2x"
 width="400" height="142" alt="Galaxy logo" />
 
-
-
 Status
-
-
 
 - Mature release
 - Development: active
 - Support: active
 
-
-
 Licence
-
 
 <a href="http://opensource.org/" rel="nofollow"><img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/40px-Osi_symbol.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/60px-Osi_symbol.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/66/Osi_symbol.png/80px-Osi_symbol.png 2x"
 width="40" height="39" alt="} is open source" /></a>
 
-
-
 <a href="http://opensource.org/licenses/AFL-3.0" class="external text"
 rel="nofollow">Academic Free License 3.0</a>
 
-
-
 Resources
-
-
-
 
 - [Analysis](Category%253AAnalysis "Category%253AAnalysis")
 - [Annotation](Category%253AAnnotation "Category%253AAnnotation")
@@ -61,8 +31,6 @@ Resources
   Genomics](Category%253AComparative_Genomics "Category%253AComparative Genomics")
 - [GMOD Components](Category%253AGMOD_Components "Category%253AGMOD Components")
 - [Galaxy](Category%253AGalaxy "Category%253AGalaxy")
-
-
 
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Galaxy](Special%253ABrowse/Galaxy "Special%253ABrowse/Galaxy")</span>"</span>
@@ -172,11 +140,8 @@ alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Confer
 
 <h3 id="galaxy-community-conferenceedit"><span
 id="2019_Galaxy_Community_Conference" class="mw-headline">2019 Galaxy
-Community Conference</span><span class="mw-editsection"><span
-class="mw-editsection-bracket">[</span><a
-href="http://gmod.org/mediawiki/index.php?title=Galaxy&amp;action=edit&amp;section=1"
-title="Edit section: 2019 Galaxy Community Conference">edit</a><span
-class="mw-editsection-bracket">]</span></span></h3>
+Community Conference</span>
+</span></h3>
 The <a href="https://galaxyproject.org/events/gcc2019"
 class="external text" rel="nofollow">2019 Galaxy Community Conference
 (GCC2019)</a> will be held 1-6 July, in Freiburg Germany. <a
@@ -622,48 +587,23 @@ title="Special%253ASearchByProperty/Has-20subobject/Galaxy-23https%253A-2F-2Fgal
 </tbody>
 </table>
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -673,17 +613,11 @@ title="Special%253ASearchByProperty/Has-20subobject/Galaxy-23https%253A-2F-2Fgal
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Galaxy" rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 19:43 on 13 December
-  2018.</span>
+- <span id="footer-info-lastmod">Last updated at 19:43 on 13 December 2018.</span>
 <!-- - <span id="footer-info-viewcount">572,976 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -692,10 +626,4 @@ title="Special%253ASearchByProperty/Has-20subobject/Galaxy-23https%253A-2F-2Fgal
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
