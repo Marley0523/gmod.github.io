@@ -1,38 +1,20 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Overview</span>
 
-
-
-
-
-
-
-
-
-*... formerly titled "GMOD for the Biologist".*
+_... formerly titled "GMOD for the Biologist"._
 
 This page provides an overview of the GMOD project. It does not assume
 any particular background in computing.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
 - [<span class="tocnumber">2</span> <span class="toctext">What is a
   GMOD?</span>](#What_is_a_GMOD.3F)
   - [<span class="tocnumber">2.1</span> <span class="toctext">Is It Just
-    for *Model* Organisms?</span>](#Is_It_Just_for_Model_Organisms.3F)
+    for _Model_ Organisms?</span>](#Is_It_Just_for_Model_Organisms.3F)
 - [<span class="tocnumber">3</span>
   <span class="toctext">Technologies</span>](#Technologies)
 - [<span class="tocnumber">4</span> <span class="toctext">The Components
@@ -113,14 +95,12 @@ any particular background in computing.
   - [<span class="tocnumber">6.4</span>
     <span class="toctext">Licenses</span>](#Licenses)
 
-
-
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
 With the amount of technical documentation available for GMOD, the
 casual observer would be forgiven if they concluded that GMOD was a
-project about software. But it's not: GMOD has been created *for
-biologists* and in the real world, it is used *by biologists*. However,
+project about software. But it's not: GMOD has been created _for
+biologists_ and in the real world, it is used _by biologists_. However,
 the creators of GMOD are mostly not practicing biologists and the look
 and the feel of most GMOD documentation reflects this. What we will
 attempt to do is discuss GMOD from the researchers' perspective. This
@@ -132,9 +112,9 @@ class="external text" rel="nofollow">GBrowse view of human chromosome
 few more minutes of clicking and scrolling will reveal all sorts of
 useful ways to display and query the data. A modern biologist knows a
 great deal about bioinformatics functionality already. This introduction
-is more concerned with answering practical questions, such as *given the
-data I have, what database should I use?", "do I even need a database?*,
-or *how hard is this going to be?*.
+is more concerned with answering practical questions, such as _given the
+data I have, what database should I use?", "do I even need a database?_,
+or _how hard is this going to be?_.
 
 In our experience we find that most biologists want to focus on the
 science. They may have little knowledge of programming languages or
@@ -146,7 +126,7 @@ platform and tools can be easily maintained in an environment where
 resources may be limited. We will attempt to address these sorts of
 questions.
 
-By the way, the word *we* used here refers to the [GMOD Help
+By the way, the word _we_ used here refers to the [GMOD Help
 Desk](GMOD_Help_Desk "GMOD Help Desk"). The Help Desk is a good resource
 for biologists who want to learn more about GMOD. Feel free to email us
 at <a href="mailto:help@gmod.org" class="external text"
@@ -202,18 +182,16 @@ may have to be created, complete with partnerships and grants. GMOD
 participants are always interested in seeing GMOD take off in new
 directions.
 
-  
-
-### <span id="Is_It_Just_for_Model_Organisms.3F" class="mw-headline">Is It Just for *Model* Organisms?</span>
+### <span id="Is_It_Just_for_Model_Organisms.3F" class="mw-headline">Is It Just for _Model_ Organisms?</span>
 
 GMOD stands for **G**eneric **M**odel **O**rganism **D**atabase; it was
-named back in the days when there were a handful of *model organisms*
+named back in the days when there were a handful of _model organisms_
 and it appeared that obtaining the genomic sequence of an organism was a
 prohibitively expensive proposition, taking months or years to
 accomplish. With the ease and speed at which genomes can now be
 sequenced, few scientists would consider their organism a 'model' in
-this early sense of the word, so we suggest users think of the *M* as
-standing for *Myriad* or *My*.
+this early sense of the word, so we suggest users think of the _M_ as
+standing for _Myriad_ or _My_.
 
 Any organism with any kind of sequence associated with it is a good
 candidate as a subject for a GMOD database. There are GMOD databases
@@ -228,15 +206,13 @@ expression, such as the
 <a href="http://forest.mbl.edu/cgi-bin/site/emiliania04"
 class="external text" rel="nofollow"><em>Emiliania huxleyi</em> Serial
 Analysis of Gene Expression</a> database. We even find GMOD databases
-dedicated to collections of RNA sequence like the *Leishmania
-tarentolae* RNA Editing database. We have also heard of GMOD databases
+dedicated to collections of RNA sequence like the _Leishmania
+tarentolae_ RNA Editing database. We have also heard of GMOD databases
 for oligonucleotides and plasmids. See [GMOD
 Users](GMOD_Users "GMOD Users") for a list of other examples. The list
 of GMOD databases demonstrates that GMOD is widely used, with many
 organisms represented, and that these databases can hold sequences of
 any kind.
-
-  
 
 ## <span id="Technologies" class="mw-headline">Technologies</span>
 
@@ -288,12 +264,10 @@ GMOD is made up databases, applications, and adaptor software that
 connects these components together. Some of the most popular packages
 are discussed below.
 
-  
-
 ### <span id="What_is_GBrowse.3F" class="mw-headline">What is GBrowse?</span>
 
-[GBrowse](GBrowse.1 "GBrowse") is short for *Genome Browser*, or
-*Generic Genome Browser*. GBrowse is probably GMOD's most popular
+[GBrowse](GBrowse.1 "GBrowse") is short for _Genome Browser_, or
+_Generic Genome Browser_. GBrowse is probably GMOD's most popular
 component and almost all of the databases listed in [GMOD
 Users](GMOD_Users "GMOD Users") use GBrowse. It is fairly easy to
 install, requiring only basic
@@ -304,21 +278,19 @@ partial screenshot of a GBrowse page taken from the
 <a href="http://www.chr7.org/cgi-bin/gbrowse/gbrowse/chr7_v2"
 class="external text" rel="nofollow">Human chromosome 7 database at
 TCAG</a>. A bit of jargon: the rows, each depicting one sort of data,
-are called *tracks* and tracks are populated by one or more images
-called *glyphs*, plus text.
+are called _tracks_ and tracks are populated by one or more images
+called _glyphs_, plus text.
 
-  
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f7/Gbrowse-glyphs.png" width="946"
 height="761" alt="Gbrowse-glyphs.png" />
 
-  
 GBrowse comes with a large library of glyphs, including pie charts, dot
 plots, histograms, and X-Y plots suitable for quantitative data, as well
 as the expected array of glyphs that describe sequences and sequence
 annotation. It is also highly configurable, meaning you can do quite a
 bit of customization of the glyphs, you can link glyphs to URLs of your
-choice, you can *internationalize* the application to display different
+choice, you can _internationalize_ the application to display different
 languages, you can connect and retrieve data from any database, and
 more. This sort of work generally requires either modifying GBrowse's
 configuration files or adding your own code. GBrowse is written in
@@ -326,8 +298,6 @@ configuration files or adding your own code. GBrowse is written in
 title="wp:Perl">Perl</a>; as GBrowse is designed to be customized,
 extending its functionality with your own code should not require expert
 coding skill.
-
-  
 
 #### <span id="JBrowse" class="mw-headline">JBrowse</span>
 
@@ -347,12 +317,10 @@ minimal requirements for the server. JBrowse's features include:
   server code, just tools for formatting data files to be read directly
   over HTTP. Serve huge datasets from a single low-cost cloud instance.
 
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/600px-JBrowse_alignment_and_coverage.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7e/JBrowse_alignment_and_coverage.png/900px-JBrowse_alignment_and_coverage.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/7/7e/JBrowse_alignment_and_coverage.png 2x"
 width="600" height="373" alt="JBrowse alignment and coverage" />
-
 
 Screenshot of JBrowse in action
 
@@ -367,31 +335,29 @@ class="external text" rel="nofollow">Relational databases</a> are
 today's tool of choice when faced with the problem of storing complex or
 multifaceted data, assuming that the data is, or can be, broken down
 into ever smaller bits of data. All atomized data will end up in one
-*field*, analogous to the way that data can be organized as columns in a
-spreadsheet. Fields describing aspects of a "thing" (an *entity*) are
-organized together into *tables*. For example, a relational database may
-have a table called *gene* with *gene.name* and *gene.geneid* fields and
-a *protein* table with *protein.name*, *protein.proteinid* and
-*protein.sequence* fields.
+_field_, analogous to the way that data can be organized as columns in a
+spreadsheet. Fields describing aspects of a "thing" (an _entity_) are
+organized together into _tables_. For example, a relational database may
+have a table called _gene_ with _gene.name_ and _gene.geneid_ fields and
+a _protein_ table with _protein.name_, _protein.proteinid_ and
+_protein.sequence_ fields.
 
-  
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/4/43/Table-example.png" width="441"
 height="129" alt="Table-example.png" />
 
-  
 The picture above shows these two tables, and explains the term
-*relational*. The relation between the tables is the shared *geneid* -
-we add the *geneid* field to the *protein* table to indicate that the
-CFTR_1 protein record relates back to a specific gene in the *gene*
-table. This *geneid* field in *protein*, which originates in *gene* and
-whose values are stored in *gene*, is an example of a *foreign key*, a
+_relational_. The relation between the tables is the shared _geneid_ -
+we add the _geneid_ field to the _protein_ table to indicate that the
+CFTR_1 protein record relates back to a specific gene in the _gene_
+table. This _geneid_ field in _protein_, which originates in _gene_ and
+whose values are stored in _gene_, is an example of a _foreign key_, a
 field from a table that is shared by one or more other tables.
 
 For a given collection of data, genomic sequence and annotation for
 example, there will be more than one way to represent the data
 relationally. A given relational design, essentially tables and fields,
-is called a *[schema](Glossary#Database_Schema "Glossary")* (think of
+is called a _[schema](Glossary#Database_Schema "Glossary")_ (think of
 the schema as a blueprint, empty, and the schema populated with data as
 the database). Both
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> and
@@ -430,7 +396,6 @@ title="wp:Java">Java</a>,
 title="wp:Python">Python</a>, etc.) to execute SQL queries and process
 the results.
 
-  
 See also:
 
 - [A Brief Guide to
@@ -466,7 +431,7 @@ rel="nofollow">Gene Ontology</a> (GO). This is a requirement, given the
 ubiquity of ontologies and their ability to describe and organize data.
 
 Chado's focus is broader. Its tables are broken down into groups called
-*modules*; the modules are the following:
+_modules_; the modules are the following:
 
 - [Audit](Chado_Audit_Module "Chado Audit Module") - for database audit
   trails
@@ -504,8 +469,7 @@ Chado's focus is broader. Its tables are broken down into groups called
   biological collections
 - [WWW](Chado_WWW_Module "Chado WWW Module") -
 
-  
-It is also possible to *add* modules to Chado. For instance, in early
+It is also possible to _add_ modules to Chado. For instance, in early
 2007 a module called [mage](Chado_Mage_Module "Chado Mage Module") was
 added to addresses microarray data. Other possibilities that are being
 discussed are modules for ecological data and additional work for
@@ -522,7 +486,7 @@ that all stored sequences are identified by one or more terms from the
 <a href="http://sequenceontology.org" class="external text"
 rel="nofollow">Sequence Ontology</a>. A quick scan of the [tables in
 Chado](Chado_Tables "Chado Tables"), more than 100, shows that about
-half of the tables contain the field, foreign key, *cvterm*, referring
+half of the tables contain the field, foreign key, _cvterm_, referring
 to an ontology term. The ontology used as source for a term could be one
 of many but people in the field tend to rely on
 <a href="http://obofoundry.org" class="external text"
@@ -553,7 +517,7 @@ Manual](Chado_Manual "Chado Manual")).
 
 In addition to relational database schemas like
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> and
-[BioSQL](BioSQL "BioSQL") you will also encounter *GFF databases*.
+[BioSQL](BioSQL "BioSQL") you will also encounter _GFF databases_.
 [GFF](GFF "GFF") is a compact format for describing sequence and
 sequence annotations. GMOD installations like the
 <a href="http://www.chr7.org/cgi-bin/gbrowse/gbrowse/chr7_v2"
@@ -562,9 +526,9 @@ described above are concerned solely with sequence and annotation and
 the entire contents of such a database can be represented as GFF. For
 small installations the entire database can be just a set of GFF text
 files (in fact, you can install [GBrowse](GBrowse.1 "GBrowse") on your
-personal computer and then browse *Saccharomyces* and *Volvox* genomic
+personal computer and then browse _Saccharomyces_ and _Volvox_ genomic
 sequence, reading directly from GFF files installed along with GBrowse -
-*try it!*). But when the amount of GFF gets too large to be read into
+_try it!_). But when the amount of GFF gets too large to be read into
 memory all at once you have to store the GFF in some form that's indexed
 for fast retrieval. The solution is to load the GFF into
 [MySQL](MySQL "MySQL") or some other sort of database management system,
@@ -602,7 +566,7 @@ is under active development and has a more full feature set than Apollo.
 [GBrowse](GBrowse.1 "GBrowse") and [Apollo](Apollo.1 "Apollo") both deal
 with [genome annotations](Category%253AAnnotation "Category%253AAnnotation"),
 but where do these annotations come from? Frequently they come from a
-*genome annotation pipeline*, a software package or series of software
+_genome annotation pipeline_, a software package or series of software
 packages that take an assembly (and other things) as input and produces
 an annotated genome, often with gene models, ESTs, proteins, and almost
 anything else that can be tied back to a genomic sequence.
@@ -639,8 +603,6 @@ title="wp:Perl">Perl</a> and requires an underlying RDBMS such as
 rel="nofollow">MySQL</a>. If you need to display maps or syntenic
 relationships, you may need more than [GBrowse](GBrowse.1 "GBrowse").
 
-  
-
 #### <span id="And_SynView.3F_or_Sybil.3F_or_GBrowse_Syn.3F" class="mw-headline">And SynView? or Sybil? or GBrowse_Syn?</span>
 
 Yes, there are other [comparative
@@ -657,8 +619,6 @@ rel="nofollow">Sybil Web site</a> if you want to learn more.
 and they can be considered a bit simpler than [Sybil](Sybil "Sybil") and
 [CMap](CMap.1 "CMap"). More information is available on their websites
 to help you determine which is most suitable for you.
-
-  
 
 ### <span id="What_is_Tripal.3F" class="mw-headline">What is Tripal?</span>
 
@@ -691,8 +651,6 @@ packages and decided that Modware is best suited to GMOD Perl
 development. Like <a href="http://bioperl.org" class="external text"
 rel="nofollow">Bioperl</a>, Modware may be a package that you may need
 to install but won't need to understand in any detail.
-
-  
 
 ### <span id="What_is_BioPerl.3F" class="mw-headline">What is BioPerl?</span>
 
@@ -732,7 +690,7 @@ A number of other software packages, listed below, classified by general
 function. One might be tempted to think of this as a shopping list,
 choosing one of each. But it may also be useful to think of what is
 absolutely essential first and consider these other components as
-*add-ons*. Some of these components are only *loosely coupled* to some
+_add-ons_. Some of these components are only _loosely coupled_ to some
 of the more core components described above; an application might use
 its own methods to store data and not use
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a>. Or, a
@@ -742,8 +700,6 @@ title="wp:Java">Java</a> and not Perl, so it would not be able to
 communicate with a Perl application. For something to be considered a
 GMOD component it does not, at this time, have to connect to some other
 component.
-
-  
 
 <table width="80%" data-align="center" data-cellpadding="10px">
 <colgroup>
@@ -843,12 +799,6 @@ Graphic</a></p>
 
 ## <span id="Case_Studies" class="mw-headline">Case Studies</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Overview&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
 What we are attempting to do here is anticipate some of the basic
 requirements of the scientist. The classic situation is that he or she
 has data of some type, or of many different types, and needs to set up
@@ -897,8 +847,6 @@ the software pieces interoperate. Not only that, but
 [GBrowse](GBrowse.1 "GBrowse") is fun and it comes with sample databases
 so once it's installed you have actual genome sequence to play with. You
 can even get GBrowse running nicely on a laptop.
-
-  
 
 ### <span id="A_Simple_Sequence_Browser_plus_a_Sequence_Annotator" class="mw-headline">A Simple Sequence Browser plus a Sequence Annotator</span>
 
@@ -949,8 +897,6 @@ the GMOD mailing lists
 If you're a GMOD novice, install GBrowse by itself first ([A Simple
 Sequence Browser](#A_Simple_Sequence_Browser)), then consider this
 system.
-
-  
 
 ### <span id="A_Browser_for_a_Stock_Collection" class="mw-headline">A Browser for a Stock Collection</span>
 
@@ -1056,8 +1002,6 @@ Choose one. GMOD offers good choices here, it comes down to your data
 and your resources. [SynView](SynView "SynView") is the easiest, and it
 comes with [GBrowse](GBrowse.1 "GBrowse").
 
-  
-
 ## <span id="Computing" class="mw-headline">Computing</span>
 
 ### <span id="Personnel.2C_Hardware_and_Operating_System" class="mw-headline">Personnel, Hardware and Operating System</span>
@@ -1068,14 +1012,10 @@ the personnel, hardware, and [operating
 system](Glossary#Operating_System "Glossary") requirements and choices
 for implementing GMOD components.
 
-  
-
 ### <span id="Software" class="mw-headline">Software</span>
 
 GMOD software relies on other software to function. This section lists
 some other key open source packages that you may need.
-
-  
 
 #### <span id="Databases" class="mw-headline">Databases</span>
 
@@ -1084,8 +1024,6 @@ introduced many relational database concepts. [Databases and
 GMOD](Databases_and_GMOD "Databases and GMOD") discuses [database
 management system](Glossary#Database_Management_System "Glossary")
 choices in GMOD. It also introduces some additional terminology.
-
-  
 
 #### <span id="Programming_Languages" class="mw-headline">Programming Languages</span>
 
@@ -1104,7 +1042,7 @@ library, so it's highly functional. Many of GMOD components use
 <a href="http://bioperl.org" class="external text"
 rel="nofollow">BioPerl</a>, a bioinformatics toolkit written in Perl.
 
-Some pieces of GMOD, like [GBrowse](GBrowse.1 "GBrowse"), *can* be
+Some pieces of GMOD, like [GBrowse](GBrowse.1 "GBrowse"), _can_ be
 extended or customized using Perl but beginners' skills in Perl would be
 sufficient for this work. Just installing and using
 [GBrowse](GBrowse.1 "GBrowse") in a conventional way does not require
@@ -1124,26 +1062,19 @@ If you want to set up an application that displays web pages, you will
 need a web server on your computer. If you don't already have one
 installed, you will want to use the
 <a href="http://apache.org" class="external text" rel="nofollow">Apache
-Web server</a> (also known as the *Apache HTTP Server*), which is free,
+Web server</a> (also known as the _Apache HTTP Server_), which is free,
 fast, secure, and reasonably simple to install on Unix or Windows.
-
-  
 
 ### <span id="Glossary" class="mw-headline">Glossary</span>
 
 The GMOD [Glossary](Glossary "Glossary") explains many terms related to
 GMOD, bioinformatics, and the computing technologies used in GMOD.
 
-  
-
 ### <span id="Licenses" class="mw-headline">Licenses</span>
 
 Most [GMOD Components](GMOD_Components "GMOD Components") have no
 restrictions on using them. Those few components that do impose
 restrictions will clearly state that they have restricted licenses.
-
-
-
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -1153,52 +1084,28 @@ restrictions will clearly state that they have restricted licenses.
 - [Help](Category%253AHelp "Category%253AHelp")
 - [Biology](Category%253ABiology "Category%253ABiology")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="Talk%253AOverview" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1208,17 +1115,11 @@ restrictions will clearly state that they have restricted licenses.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Overview" rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 19:56 on 7 October
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 19:56 on 7 October 2013.</span>
 <!-- - <span id="footer-info-viewcount">1,164,505 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1227,10 +1128,4 @@ restrictions will clearly state that they have restricted licenses.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
