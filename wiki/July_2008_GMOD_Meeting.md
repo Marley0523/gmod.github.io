@@ -653,9 +653,8 @@ rel="nofollow">XanthusBase</a>, (soon to be
 <a href="http://wikimods.org" class="external text"
 rel="nofollow">WikiMods</a>, [see below](#WikiMods.org)) gave a talk
 titled _Perl based Schema Abstraction Layer for
-<a href="Chado" class="mw-redirect" title="Chado">Chado</a>_. Brad's <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
-class="new" title="SGNGMOD2008.pdf">talk</a> gave an overview of a
+<a href="Chado" class="mw-redirect" title="Chado">Chado</a>_. Brad's
+talk (slides unavailable) gave an overview of a
 [Perl](Category%253APerl "Category%253APerl")
 [middleware](Category%253AMiddleware "Category%253AMiddleware") package for
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> that was

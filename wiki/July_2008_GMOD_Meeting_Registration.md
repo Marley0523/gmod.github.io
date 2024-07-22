@@ -1,24 +1,9 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">July 2008 GMOD Meeting</span>
 
-
-
-
-
 (Redirected from [July 2008 GMOD Meeting
 Registration](July_2008_GMOD_Meeting_Registration)
-
-
-
-
 
 <table
 style="font-size: 180%; vertical-align: middle; border: 2px solid #A6A6BC; line-height: 120%"
@@ -45,7 +30,6 @@ Toronto, Ontario, Canada</p></td>
 </tbody>
 </table>
 
-  
 The July 2008 [GMOD community meeting](Meetings "Meetings") was held on
 July 16-17, 2008 at the University of Toronto, immediately before
 <a href="http://www.iscb.org/ismb2008/" class="external text"
@@ -55,10 +39,7 @@ School](2008_GMOD_Summer_School "2008 GMOD Summer School"). The meeting
 was attended by over 30 people representing more than 20 different
 groups.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Agenda</span>](#Agenda)
@@ -177,61 +158,56 @@ groups.
 - [<span class="tocnumber">6</span> <span class="toctext">Agenda
   Proposals</span>](#Agenda_Proposals)
 
-
-
 # <span id="Agenda" class="mw-headline">Agenda</span>
 
 ## <span id="July_16" class="mw-headline">July 16</span>
 
-| Time | Topic | Who | Presentation |
-|----|----|----|----|
-| 9:00 | Introductions | [Scott Cain](User%253AScott "User%253AScott") |  |
-| 9:30 | The State of GMOD | Scott Cain | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt"
-class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
-| 10:10 | break |  |  |
-| 10:40 | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping | [Jim Hu](User%253AJimHu.1 "User%253AJimHu") |  |
-| 11:00 | More MediaWiki enhancements | [Sheldon McKay](User%253AMckays "User%253AMckays") | [Links...](User%253AMckays#Links "User%253AMckays") |
-|  | [SGN](Category%253ASGN "Category%253ASGN") Community Annotation | Lukas Mueller | <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
-class="new" title="SGNGMOD2008.pdf">PDF</a> |
-|  | WikiMods & Chado API | Brad Arshinoff | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/PerlChadoGMOD2008.pdf"
-class="internal" title="PerlChadoGMOD2008.pdf">PDF</a> |
-| 11:30 | Lunch |  |  |
-| 1:30 | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk") | [Dave Clements](User%253AClements "User%253AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal"
+| Time                                                     | Topic                                                           | Who                                                    | Presentation                                                                                                                     |
+| -------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00                                                     | Introductions                                                   | [Scott Cain](User%253AScott "User%253AScott")          |                                                                                                                                  |
+| 9:30                                                     | The State of GMOD                                               | Scott Cain                                             | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/fb/Gmod_meeting_7_2008.ppt"               |
+| class="internal" title="Gmod meeting 7 2008.ppt">PPT</a> |
+| 10:10                                                    | break                                                           |                                                        |                                                                                                                                  |
+| 10:40                                                    | MediaWiki/[TableEdit](TableEdit.1 "TableEdit") Roundtripping    | [Jim Hu](User%253AJimHu.1 "User%253AJimHu")            |                                                                                                                                  |
+| 11:00                                                    | More MediaWiki enhancements                                     | [Sheldon McKay](User%253AMckays "User%253AMckays")     | [Links...](User%253AMckays#Links "User%253AMckays")                                                                              |
+|                                                          | [SGN](Category%253ASGN "Category%253ASGN") Community Annotation | Lukas Mueller                                          | PDF (unavailable)                                                                                                                |
+|                                                          | WikiMods & Chado API                                            | Brad Arshinoff                                         | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/65/PerlChadoGMOD2008.pdf"                 |
+| class="internal" title="PerlChadoGMOD2008.pdf">PDF</a>   |
+| 11:30                                                    | Lunch                                                           |                                                        |                                                                                                                                  |
+| 1:30                                                     | [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")               | [Dave Clements](User%253AClements "User%253AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/1/19/HelpDeskGMOD2008.pdf" class="internal" |
+
 title="HelpDeskGMOD2008.pdf">PDF</a> <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/88/HelpDeskGMOD2008.ppt" class="internal"
 title="HelpDeskGMOD2008.ppt">PPT</a> |
-| 2:15 | Rearchitecting [Apollo](Apollo.1 "Apollo") and the need for a database independent Biological API layer | Ed Lee |  |
-| 2:50 | break |  |  |
+| 2:15 | Rearchitecting [Apollo](Apollo.1 "Apollo") and the need for a database independent Biological API layer | Ed Lee | |
+| 2:50 | break | | |
 | 3:20 | [InterMine](InterMine "InterMine") and <a href="Chado" class="mw-redirect" title="Chado">Chado</a> | Richard Smith | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b3/IntermineGMOD2008.pdf"
 class="internal" title="IntermineGMOD2008.pdf">PDF</a> |
-| 3:50 | Show and Tell | "What I did with my Summer" |  |
-|  | [CMap](CMap.1 "CMap") | [Ben Faga](User%253AFaga "User%253AFaga") |  |
+| 3:50 | Show and Tell | "What I did with my Summer" | |
+| | [CMap](CMap.1 "CMap") | [Ben Faga](User%253AFaga "User%253AFaga") | |
 
 ## <span id="July_17" class="mw-headline">July 17</span>
 
-| Time | Topic | Who | Presentation |
-|----|----|----|----|
-| 9:00 | New things for [GBrowse](GBrowse.1 "GBrowse") 1.69 | [Sheldon McKay](User%253AMckays "User%253AMckays") |  |
-|  | GBrowse 2.0 and Roadmap | [Lincoln Stein](User%253ALstein "User%253ALstein") |  |
-| 9:30 | New things for GBrowse 3.0 | Ian Holmes | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/GBrowse3GMOD2008.pdf" class="internal"
-title="GBrowse3GMOD2008.pdf">PDF</a> |
-| 10:00 | break |  |  |
-| 10:30 | The need for a computable common gene page ([Don Gilbert's proposal](Common_Gene_Page "Common Gene Page")) | Scott Cain, Lincoln Stein | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt" class="internal"
-title="Common gene page.ppt">PPT</a> |
-| 11:30 | Lunch |  |  |
-| 1:30 | More Show and Tell or a mini hackathon or go see Toronto |  |  |
-|  | Traits at SGN | Lukas Mueller |  |
-|  | CellFrame | Yunchen Gong |  |
-|  | Matching Gene Names to Articles at Xenbase | Jeff Bowes |  |
-|  | [Django and Chado](Chado_Django_HOWTO "Chado Django HOWTO") - A user interface exploration | Victor de Jager |  |
+| Time                                 | Topic                                                                                                      | Who                                                | Presentation                                                                                                                     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00                                 | New things for [GBrowse](GBrowse.1 "GBrowse") 1.69                                                         | [Sheldon McKay](User%253AMckays "User%253AMckays") |                                                                                                                                  |
+|                                      | GBrowse 2.0 and Roadmap                                                                                    | [Lincoln Stein](User%253ALstein "User%253ALstein") |                                                                                                                                  |
+| 9:30                                 | New things for GBrowse 3.0                                                                                 | Ian Holmes                                         | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/23/GBrowse3GMOD2008.pdf" class="internal" |
+| title="GBrowse3GMOD2008.pdf">PDF</a> |
+| 10:00                                | break                                                                                                      |                                                    |                                                                                                                                  |
+| 10:30                                | The need for a computable common gene page ([Don Gilbert's proposal](Common_Gene_Page "Common Gene Page")) | Scott Cain, Lincoln Stein                          | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/80/Common_gene_page.ppt" class="internal" |
+| title="Common gene page.ppt">PPT</a> |
+| 11:30                                | Lunch                                                                                                      |                                                    |                                                                                                                                  |
+| 1:30                                 | More Show and Tell or a mini hackathon or go see Toronto                                                   |                                                    |                                                                                                                                  |
+|                                      | Traits at SGN                                                                                              | Lukas Mueller                                      |                                                                                                                                  |
+|                                      | CellFrame                                                                                                  | Yunchen Gong                                       |                                                                                                                                  |
+|                                      | Matching Gene Names to Articles at Xenbase                                                                 | Jeff Bowes                                         |                                                                                                                                  |
+|                                      | [Django and Chado](Chado_Django_HOWTO "Chado Django HOWTO") - A user interface exploration                 | Victor de Jager                                    |                                                                                                                                  |
 
 # <span id="Attendees" class="mw-headline">Attendees</span>
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/3d/GMOD2008Attendees.JPG" width="400"
 height="148" alt="GMOD2008Attendees.JPG" />
-
 
 1.  David Arcoleo -
     <a href="http://beespace.uiuc.edu" class="external text"
@@ -314,11 +290,9 @@ height="148" alt="GMOD2008Attendees.JPG" />
     <a href="http://www.tcag.ca" class="external text" rel="nofollow">The
     Hospital for Sick Children, Toronto</a>
 
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/GMOD2008Discussion.JPG" width="245"
 height="148" alt="GMOD2008Discussion.JPG" />
-
 
 # <span id="GMOD_Components" class="mw-headline">GMOD Components</span>
 
@@ -439,10 +413,8 @@ queries.
 
 InterMine is written in [Java](Category%253AJava "Category%253AJava"). It has
 one class per Sequence Ontology (SO) term, and use Java class
-inheritance for *is_a* relationships. *part_of* relationships are
+inheritance for _is_a_ relationships. _part_of_ relationships are
 implemented with Java references and collections.
-
-  
 
 ## <span id="CMap" class="mw-headline">CMap</span>
 
@@ -455,8 +427,6 @@ implemented with Java references and collections.
 - new feature glyphs
 - embeddable image generation
 - directory guessing for easier installation.
-
-  
 
 ## <span id="GBrowse" class="mw-headline">GBrowse</span>
 
@@ -515,8 +485,8 @@ existing GBrowse installations.
 
 ### <span id="GBrowse_3" class="mw-headline">GBrowse 3</span>
 
-*GBrowse 3 was renamed [JBrowse](JBrowse.1 "JBrowse") after this
-meeting.*
+_GBrowse 3 was renamed [JBrowse](JBrowse.1 "JBrowse") after this
+meeting._
 
 Ian Holmes presented his group's work on [GBrowse
 3](JBrowse.1 "JBrowse"), a complete rewrite of
@@ -538,8 +508,8 @@ enables you to identify a core set of requests.
 
 #### <span id="Genome_Wiki" class="mw-headline">Genome Wiki</span>
 
-Ian would like to move GBrowse 3 in the direction of being a *genome
-wiki*
+Ian would like to move GBrowse 3 in the direction of being a _genome
+wiki_
 
 - Upload tracks and track sharing
 - Ability to add comments, ratings, ...
@@ -587,7 +557,7 @@ by other organizations. It is meant to enable easy sharing of
 information about genes between GMOD users.
 
 If you've been around GMOD for a while you know that the concept of a
-common gene page is almost as old as GMOD itself. We *might* have
+common gene page is almost as old as GMOD itself. We _might_ have
 actually moved forward on this at this meeting.
 
 There was discussion on what should be included in the gene page. The
@@ -615,7 +585,7 @@ of this program while at the meeting.
 
 **Action Items:**
 
--  ?
+- ?
 
 ### <span id="Gene_Wiki" class="mw-headline">Gene Wiki</span>
 
@@ -624,7 +594,7 @@ We also discussed the
 title="wp:Gene Wiki">Gene Wiki project</a>. This project has created
 around 7,000 human gene pages in Wikipedia. Wikipedia asked
 
-- Only *interesting* genes have pages. Interesting was defined as any
+- Only _interesting_ genes have pages. Interesting was defined as any
   gene with at least one PubMed reference.
 - The pages be easy to edit. Moved some nasty tables to the end of the
   page.
@@ -676,8 +646,6 @@ A set of extensions were created to
 
 These use the Yahoo autocomplettion library.
 
-  
-
 ## <span id="APIs" class="mw-headline">APIs</span>
 
 ### <span id="Perl_based_Schema_Abstraction_Layer_for_Chado" class="mw-headline">Perl based Schema Abstraction Layer for Chado</span>
@@ -687,10 +655,9 @@ Brad Arshinoff from
 rel="nofollow">XanthusBase</a>, (soon to be
 <a href="http://wikimods.org" class="external text"
 rel="nofollow">WikiMods</a>, [see below](#WikiMods.org)) gave a talk
-titled *Perl based Schema Abstraction Layer for
-<a href="Chado" class="mw-redirect" title="Chado">Chado</a>*. Brad's <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=SGNGMOD2008.pdf"
-class="new" title="SGNGMOD2008.pdf">talk</a> gave an overview of a
+titled _Perl based Schema Abstraction Layer for
+<a href="Chado" class="mw-redirect" title="Chado">Chado</a>_. Brad's
+talk (slides unavailable) gave an overview of a
 [Perl](Category%253APerl "Category%253APerl")
 [middleware](Category%253AMiddleware "Category%253AMiddleware") package for
 <a href="Chado" class="mw-redirect" title="Chado">Chado</a> that was
@@ -745,13 +712,9 @@ using Chado. It also would make tool development much easier.
 
 ## <span id="SGN" class="mw-headline">SGN</span>
 
-
-
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d6/GMOD2008Lukas.JPG" width="120"
 height="148" alt="GMOD2008Lukas.JPG" />
-
-
 
 Lukas Mueller from [SGN](Category%253ASGN "Category%253ASGN") spoke about
 community annotation at the
@@ -771,8 +734,6 @@ custom database design for their phenotypic data. (They do not use the
 Module](Chado_Phenotype_Module "Chado Phenotype Module"). Suzi Lewis
 indicated that her group is working on a new phenotype module for Chado
 which will address issues with the current design.)
-
-  
 
 ## <span id="WikiMods.org" class="mw-headline">WikiMods.org</span>
 
@@ -807,7 +768,7 @@ construction of cell perturbation networks
 Jeff Bowes of <a href="http://xenbase.org" class="external text"
 rel="nofollow">Xenbase</a> talked about automatic loading, linking, and
 indexing publication abstracts. Xenbase downloads information for every
-*Xenopus* related publication. The abstract is then scanned for gene
+_Xenopus_ related publication. The abstract is then scanned for gene
 names/symbols and other controlled vocabulary terms. The publication is
 then associated with those terms and genes in Xenbase.
 
@@ -857,7 +818,6 @@ Lincoln mentioned that there are 1 year infrastructure grants for this
 sort of thing. That would get us where we want to be for a year, but not
 after that.
 
-  
 **Action Items:**
 
 - No solution or action item was settled on.
@@ -895,7 +855,7 @@ components they use and how, and be implemented in TableEdit tables.
 We'll then be able to use that information to also show which users use
 a component on each component page, as well as a complete list of users.
 
-This is a continuation of the *community portal* idea that was started
+This is a continuation of the _community portal_ idea that was started
 in the past 10 months. This will help new and existing users get a
 handle on who is using which components for what kind of biology.
 
@@ -960,8 +920,8 @@ time around I would propose that each student or team get a different
 database/web site/component.
 
 This was clearly the most popular idea Dave has ever had during his time
-at GMOD. I'll investigate ASAP. (*See [GMOD Logo
-Program](GMOD_Logo_Program "GMOD Logo Program").*)
+at GMOD. I'll investigate ASAP. (_See [GMOD Logo
+Program](GMOD_Logo_Program "GMOD Logo Program")._)
 
 #### <span id="Education_and_Outreach" class="mw-headline">[Education and Outreach](Training_and_Outreach "Training and Outreach")</span>
 
@@ -985,10 +945,6 @@ We will also start suggesting that grants that propose using GMOD
 components also include a limited amount of funding for GMOD in the
 grant. This could either be core project funding, funding for existing
 components or funding for new components to become part of GMOD.
-
-  
-
-  
 
 # <span id="Agenda_Proposals" class="mw-headline">Agenda Proposals</span>
 
@@ -1041,9 +997,6 @@ please add it below.
     <a href="Chado" class="mw-redirect" title="Chado">Chado</a> or
     [InterMine](InterMine "InterMine")?
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Meetings](Category%253AMeetings "Category%253AMeetings")
@@ -1061,48 +1014,23 @@ please add it below.
 - [GBrowse 2](Category%253AGBrowse_2 "Category%253AGBrowse 2")
 - [TableEdit](Category%253ATableEdit "Category%253ATableEdit")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1112,18 +1040,12 @@ please add it below.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/July_2008_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 18:53 on 8 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 18:53 on 8 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">316,568 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1132,10 +1054,4 @@ please add it below.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

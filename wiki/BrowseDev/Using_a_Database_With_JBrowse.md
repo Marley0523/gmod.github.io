@@ -1,19 +1,4 @@
-
-
-
-
-
-
-
-
 # JBrowse Configuration Guide
-
-
-
-
-
-
-
 
 **This page has been replaced with this page (<a
 href="https://github.com/GMOD/jbrowse/wiki/JBrowse_Configuration_Guide"
@@ -33,19 +18,13 @@ class="external text" rel="nofollow">Quick-start tutorial</a> first, and
 then consult this guide when you need information on specific things you
 want to do with your JBrowse.
 
-  
 Check out the new [JBrowse FAQ](../JBrowse_FAQ "JBrowse FAQ") page for
 more tips on setup and configuration
 
 Also see the [JBrowse Desktop](../JBrowse_Desktop "JBrowse Desktop")
-guide here 
-
-  
-
+guide here
 
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Installation</span>](#Installation)
@@ -426,8 +405,6 @@ guide here
 - [<span class="tocnumber">27</span> <span class="toctext">External
   Links</span>](#External_Links)
 
-
-
 # <span id="Installation" class="mw-headline">Installation</span>
 
 At the most basic level, setting up JBrowse consists of:
@@ -494,7 +471,6 @@ Tutorial</a> provides a very basic step-by-step guide to formatting your
 own data, and in-depth configuration reference information can be found
 on this page.
 
-  
 Note: if there is an error installing the perl pre-requisites, and you
 get an error in your setup.log such as
 "/home.local/username/.cpanm/build.log: No such file or directory at
@@ -538,8 +514,6 @@ The JSON configuration format was the first format supported by JBrowse,
 and is easy for software programs to read and modify. Before version
 1.11.0, this was the only format supported by JBrowse.
 
-  
-
 As an example, the trackList.json file might have something like this.
 Here is an example of a BAM track
 
@@ -556,7 +530,6 @@ Here is an example of a BAM track
      ]
     }
 
-  
 The specifics of this config are not essential, we are specifying an
 array of tracks in a trackList.json style, and each track is an object
 that includes some parameters like the urlTemplate to refer to the
@@ -713,10 +686,7 @@ to practically display in the dropdown selector, the first portion of
 the sequence list is shown in the dropdown selector, along with a
 message stating that there are more reference sequences than can be
 shown. The maximum number of reference sequences in the selector is set
-by the `refSeqSelectorMaxSize` configuration variable, and defaults to
-30.
-
-  
+by the `refSeqSelectorMaxSize` configuration variable, and defaults to 30.
 
 ### <span id="Reference_Sequence_Display_Order" class="mw-headline">Reference Sequence Display Order</span>
 
@@ -777,7 +747,7 @@ character, as well as several other characters, may be used). Hence, it
 is possible to browse RNA and protein in addition to DNA. However, some
 characters should be avoided, because they will cause the sequence to
 "split" - part of the sequence will be cut off and and continue on the
-next line. These characters are the *hyphen* and *question mark*.
+next line. These characters are the _hyphen_ and _question mark_.
 Unfortunately, this prevents the use of hyphens to represent gaps in a
 reference sequence.
 
@@ -793,7 +763,6 @@ Syntax used to import sequences with a config file:
 
     bin/prepare-refseqs.pl --conf <config file that references a database with sequence information> --[refs|refid] <reference sequences> [options]
 
-  
 Syntax used to import a indexed fasta(i.e. a fasta file where you run
 \`samtools faidx yourfile.fa\` which outputs yourfile.fa.fai)
 
@@ -801,16 +770,15 @@ Syntax used to import a indexed fasta(i.e. a fasta file where you run
 
 This will copy yourfile.fa and yourfile.fa.fai to the data directory
 
-| Option | Value |
-|----|----|
+| Option                                            | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | fasta, indexed_fasta, twobit, gff, sizes, or conf | Path to the file that JBrowse will use to import sequences. With the fasta and gff options, the sequence information is imported directly from the specified file. With the sizes option, a tab delimited file with chromosome names and lengths is used, but no sequence information is added. With the conf option, the specified config file includes the details necessary to access a database that contains the sequence information. Exactly one of these three options must be used. With indexed_fasta, the samtools faidx yourfile.fa must be run before hand. With twobit, the twobit file will automatically be copied into your data directory. |
-| out | A path to the output directory (default is 'data' in the current directory) |
-| seqdir | The directory where the reference sequences are stored (default: \<output directory\>/seq) |
-| noseq | Causes no reference sequence track to be created. This is useful for reducing disk usage. |
-| refs | A comma-delimited list of the names of sequences to be imported as reference sequences. This option (or refid) is required when using the conf option. It is not required when the fasta or gff options are used, but it can be useful with these options, since it can be used to select which sequences JBrowse will import. |
-| refids | A comma-delimited list of the database identifiers of sequences to be imported as reference sequences. This option is useful when working with a <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> database that contains data from multiple different species, and those species have at least one chromosome with the same name (e.g. chrX). In this case, the desired chromosome cannot be uniquely identified by name, so it is instead identified by ID. This ID can be found in the 'feature_id' column of 'feature' table in a Chado database. |
+| out                                               | A path to the output directory (default is 'data' in the current directory)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| seqdir                                            | The directory where the reference sequences are stored (default: \<output directory\>/seq)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| noseq                                             | Causes no reference sequence track to be created. This is useful for reducing disk usage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| refs                                              | A comma-delimited list of the names of sequences to be imported as reference sequences. This option (or refid) is required when using the conf option. It is not required when the fasta or gff options are used, but it can be useful with these options, since it can be used to select which sequences JBrowse will import.                                                                                                                                                                                                                                                                                                                               |
+| refids                                            | A comma-delimited list of the database identifiers of sequences to be imported as reference sequences. This option is useful when working with a <a href="../Chado" class="mw-redirect" title="Chado">Chado</a> database that contains data from multiple different species, and those species have at least one chromosome with the same name (e.g. chrX). In this case, the desired chromosome cannot be uniquely identified by name, so it is instead identified by ID. This ID can be found in the 'feature_id' column of 'feature' table in a Chado database.                                                                                           |
 
-  
 Note: the \`prepare-refseqs.pl --sizes chrom.sizes\` option is maybe
 underappreciated. You can technically run jbrowse without any sequence
 data loaded, simply a set of chromosomes and their sizes. The
@@ -835,8 +803,8 @@ of these tools also adds a track configuration stanza to the
 
 ### <span id="flatfile-to-json.pl" class="mw-headline">flatfile-to-json.pl</span>
 
-Each run of this script formats a single track for JBrowse. A *flat
-file* is a data set that exists entirely in a single file. For this
+Each run of this script formats a single track for JBrowse. A _flat
+file_ is a data set that exists entirely in a single file. For this
 script, the file must be a [GFF3](../GFF3 "GFF3"),
 <a href="http://www.ensembl.org/info/website/upload/bed.html"
 class="external text" rel="nofollow">BED</a>, or GenBank text file.
@@ -901,7 +869,6 @@ Basic usage:
 
        bin/biodb-to-json.pl --conf <config file> [options]
 
-  
 For a full list of the options supported by biodb-to-json.pl, run it
 with the --help option, like:
 
@@ -958,30 +925,30 @@ Below is a comprehensive list of configuration options for HTMLFeatures
 tracks. HTMLFeatures tracks are also referred to as trackType:
 "FeatureTrack" or "type": "FeatureTrack".
 
-| Option | Value |
-|----|----|
-| `yScalePosition` | Position of the y-axis scale indicator when the track is zoomed far enough out that density histograms are displayed. Can be "left", "right", or "center". Defaults to "center". |
-| `maxFeatureScreenDensity` | Maximum density of features to display on the screen. If this is exceeded, will display either feature density histograms (if available), or a "too many features to show" message. The units of this number are features per screen width in pixels. Defaults to 0.5. |
-| `description` | Comma-separated list of fields in which to look for the description of a feature. Case-insensitive. If set to `false` or `null`, no feature description will be shown. Defaults to 'note, description'. |
-| `maxDescriptionLength` | Maximum length, in characters, for displayed feature descriptions. |
-| `minSubfeatureWidth` | Minimum width, in pixels, of the *top-level* feature for JBrowse to attempt to display its subfeatures. Default 6. |
-| `menuTemplate` | Optional menu configuration for right-click menus on features. Can be as large and complicated as you want. See [\#Customizing_Right-click_Context_Menus](#Customizing_Right-click_Context_Menus) below. If set to null or false, disables feature right-click menus. |
-| `hooks→create` | JavaScript function that creates the parent feature HTML element and returns it. By default this is: `function(track,feature) { return document.createElement('div'); }`, which creates an HTML `div` element. |
-| `hooks→modify` | JavaScript function that can be used to modify the feature HTML element in any way desired. If set, the function is called with the track object, feature object, and feature HTML element as arguments (signature: `function(track, feature, featDiv)`). |
-| `style→featureScale` | Minimum zoom scale (pixels/basepair) for displaying individual features in the track. Not set by default, and overrides the `maxFeatureScreenDensity`. |
-| `style→className` | CSS class for parent features. Defaults to "feature". |
-| `style→subfeatureClasses` | Key-value pairs of CSS classes for subfeatures, organized by feature type. Example: { "CDS" : "transcript-CDS","UTR" : "transcript-UTR" } |
-| `style→featureCss` | Text string of additional CSS rules to add to features. Example: "border-color: purple; background-color: yellow;" |
-| `style→arrowheadClass` | CSS class of the strand arrowheads to show for this feature. Defaults to 'arrowhead'. If set to `null`, no arrowhead will be drawn. |
-| `style→histScale` | Scale (pixels per basepair) below which the track will attempt to draw feature density histograms instead of features, if available. By default, this is set to 4 times the average feature density (features per basepair) of the track. |
-| `style→label` | Comma-separated list of case-insensitive feature tags to use for showing the feature's label. The first one found will be used. Default 'name,id'. |
-| `style→labelScale` | Scale (pixels per basepair) above which feature labels (names) will be shown. By default, this is set to 30 times the average feature density (features per basepair) of the track. |
-| `style→descriptionScale` | Scale (pixels per basepair) above which long feature descriptions will be shown. By default, this is set to 170 times the average feature density (features per basepair) of the track. |
-| `style→description` | Comma-separated list of case-insensitive feature tags to check for the feature's long description. The first one found will be used. Default 'note,description'. If blank no description is used. |
-| `style→showLabels` | If set to true, feature labels may be shown. Defaults to true. Set this to false to disable display of feature labels. |
-| `maxHeight` | Maximum height, in pixels, that the track is allowed to grow to. When it reaches this height, features that stack higher than this will not be shown, and a "Max height reached" message will be displayed. Default 600 pixels. |
-| `showNoteInAttributes` | If set to true, show the feature's "Note" attribute as a regular attribute in the feature detail dialog. This is mostly useful for projects that want the blue description text on a feature to be different from the feature's Notes attribute, but still display the Notes attribute in the detail dialog |
-| `topLevelFeatures` | Specifies which feature types should be considered "top-level" for this track. For example, if you have a track with gene-\>mRNA-\>CDS features, but for some reason want to only display the mRNA features, you can set topLevelFeatures=mRNA. Can also be an array of string types, or a function callback that returns an array of types. Default: all features are displayed. Added in 1.14.0 |
+| Option                    | Value                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `yScalePosition`          | Position of the y-axis scale indicator when the track is zoomed far enough out that density histograms are displayed. Can be "left", "right", or "center". Defaults to "center".                                                                                                                                                                                                                  |
+| `maxFeatureScreenDensity` | Maximum density of features to display on the screen. If this is exceeded, will display either feature density histograms (if available), or a "too many features to show" message. The units of this number are features per screen width in pixels. Defaults to 0.5.                                                                                                                            |
+| `description`             | Comma-separated list of fields in which to look for the description of a feature. Case-insensitive. If set to `false` or `null`, no feature description will be shown. Defaults to 'note, description'.                                                                                                                                                                                           |
+| `maxDescriptionLength`    | Maximum length, in characters, for displayed feature descriptions.                                                                                                                                                                                                                                                                                                                                |
+| `minSubfeatureWidth`      | Minimum width, in pixels, of the _top-level_ feature for JBrowse to attempt to display its subfeatures. Default 6.                                                                                                                                                                                                                                                                                |
+| `menuTemplate`            | Optional menu configuration for right-click menus on features. Can be as large and complicated as you want. See [\#Customizing_Right-click_Context_Menus](#Customizing_Right-click_Context_Menus) below. If set to null or false, disables feature right-click menus.                                                                                                                             |
+| `hooks→create`            | JavaScript function that creates the parent feature HTML element and returns it. By default this is: `function(track,feature) { return document.createElement('div'); }`, which creates an HTML `div` element.                                                                                                                                                                                    |
+| `hooks→modify`            | JavaScript function that can be used to modify the feature HTML element in any way desired. If set, the function is called with the track object, feature object, and feature HTML element as arguments (signature: `function(track, feature, featDiv)`).                                                                                                                                         |
+| `style→featureScale`      | Minimum zoom scale (pixels/basepair) for displaying individual features in the track. Not set by default, and overrides the `maxFeatureScreenDensity`.                                                                                                                                                                                                                                            |
+| `style→className`         | CSS class for parent features. Defaults to "feature".                                                                                                                                                                                                                                                                                                                                             |
+| `style→subfeatureClasses` | Key-value pairs of CSS classes for subfeatures, organized by feature type. Example: { "CDS" : "transcript-CDS","UTR" : "transcript-UTR" }                                                                                                                                                                                                                                                         |
+| `style→featureCss`        | Text string of additional CSS rules to add to features. Example: "border-color: purple; background-color: yellow;"                                                                                                                                                                                                                                                                                |
+| `style→arrowheadClass`    | CSS class of the strand arrowheads to show for this feature. Defaults to 'arrowhead'. If set to `null`, no arrowhead will be drawn.                                                                                                                                                                                                                                                               |
+| `style→histScale`         | Scale (pixels per basepair) below which the track will attempt to draw feature density histograms instead of features, if available. By default, this is set to 4 times the average feature density (features per basepair) of the track.                                                                                                                                                         |
+| `style→label`             | Comma-separated list of case-insensitive feature tags to use for showing the feature's label. The first one found will be used. Default 'name,id'.                                                                                                                                                                                                                                                |
+| `style→labelScale`        | Scale (pixels per basepair) above which feature labels (names) will be shown. By default, this is set to 30 times the average feature density (features per basepair) of the track.                                                                                                                                                                                                               |
+| `style→descriptionScale`  | Scale (pixels per basepair) above which long feature descriptions will be shown. By default, this is set to 170 times the average feature density (features per basepair) of the track.                                                                                                                                                                                                           |
+| `style→description`       | Comma-separated list of case-insensitive feature tags to check for the feature's long description. The first one found will be used. Default 'note,description'. If blank no description is used.                                                                                                                                                                                                 |
+| `style→showLabels`        | If set to true, feature labels may be shown. Defaults to true. Set this to false to disable display of feature labels.                                                                                                                                                                                                                                                                            |
+| `maxHeight`               | Maximum height, in pixels, that the track is allowed to grow to. When it reaches this height, features that stack higher than this will not be shown, and a "Max height reached" message will be displayed. Default 600 pixels.                                                                                                                                                                   |
+| `showNoteInAttributes`    | If set to true, show the feature's "Note" attribute as a regular attribute in the feature detail dialog. This is mostly useful for projects that want the blue description text on a feature to be different from the feature's Notes attribute, but still display the Notes attribute in the detail dialog                                                                                       |
+| `topLevelFeatures`        | Specifies which feature types should be considered "top-level" for this track. For example, if you have a track with gene-\>mRNA-\>CDS features, but for some reason want to only display the mRNA features, you can set topLevelFeatures=mRNA. Can also be an array of string types, or a function callback that returns an array of types. Default: all features are displayed. Added in 1.14.0 |
 
 `HTMLFeatures` track configuration options
 
@@ -990,65 +957,60 @@ tracks. HTMLFeatures tracks are also referred to as trackType:
 Introduced in JBrowse 1.10.0, the new JBrowse CanvasFeatures tracks are
 faster and easier to configure than HTMLFeatures tracks.
 
-| Option | Description |
-|----|----|
-| `maxHeight` | Maximum height, in pixels, that the track is allowed to grow to. When it reaches this height, features that stack higher than this will not be shown, and a "Max height reached" message will be displayed. Default 600 pixels. |
-| `style→showLabels` | If true, allows feature labels to be shown if features are not too dense on the screen. Default `true`. |
-| `style→showTooltips` | If true, allows feature name tooltips to be shown. Default true. |
-| `displayMode` | 'normal', 'compact', or 'collapsed'. Sets the initial display mode of the track. Default 'normal'. |
-| `style→featureScale` | Minimum zoom scale (pixels/basepair) for displaying individual features in the track. Not set by default, and overrides the `maxFeatureScreenDensity`. |
-| `maxFeatureScreenDensity` | Maximum density of features to display on the screen. If this is exceeded, will display either feature density histograms (if available), or a "too many features to show" or "too much data to show" message. The units of this number are features per screen width in pixels. Defaults to 0.5. If increased to ~6 then it should pretty much always go away |
-| `glyph` | JS class name of the glyph to use for each feature. By default, it tries to guess for each feature based on its `type` attribute, and uses JBrowse/View/FeatureGlyph/Box if it cannot find something better. Can be a callback with signature (feature), returning a string class name. |
-| `menuTemplate` | Optional menu configuration for right-click menus on features. Can be as large and complicated as you want. See [\#Right-click_Context_Menus](#Right-click_Context_Menus) below. If set to null or false, disables feature right-click menus. |
-| `style→maxDescriptionLength` | Maximum length, in characters, of long feature descriptions, for glyphs that support them. Default 70. |
-| `style→color` | Basic color of features. Most glyphs interpret this as the fill color of the rectangle they draw. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'goldenrod'. |
-| `style→mouseovercolor` | Color of the overlay drawn on top of features when the mouse hovers over them. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default rgba(0,0,0,0.3), which is semi-transparent black. |
-| `style→borderColor` | Color of the borders drawn around boxes in glyphs. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default varies from glyph to glyph. |
-| `style→borderWidth` | Width of the borders drawn around boxes in glyphs. Default 0.5 if borderColor specified |
-| `style→height` | Height in pixels of glyphs. Default value varies from glyph to glyph. |
-| `style→marginBottom` | Margin space to leave below each feature when arranging them in the view. Default 2 pixels. |
-| `style→strandArrow` | If true, allow glyphs to draw strand arrowheads on features that are stranded. Default `true`. |
-| `style→label` | Comma-separated list of case-insensitive feature tags to use for showing the feature's label. The first one found will be used. Default 'name,id'. |
-| `style→textFont` | Font used for feature labels. Same format as CSS font rules. Default 'normal 12px Univers,Helvetica,Arial,sans-serif'. |
-| `style→textColor` | Color of feature labels. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'black'. |
-| `style→text2Color` | Color of feature descriptions. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'blue'. |
-| `style→text2Font` | Font used for feature descriptions. Same format as CSS font rules. Default 'normal 12px Univers,Helvetica,Arial,sans-serif'. |
-| `style→description` | Comma-separated list of case-insensitive feature tags to check for the feature's long description. The first one found will be used. Default 'note,description'. If blank no description is used. |
-| `style→connectorColor` | Color of the connecting line drawn between boxes in glyphs that draw segments (like the Segments, ProcessedTranscript, and Gene glyphs). Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default '#333'. |
-| `style→connectorThickness` | Thickness in pixels of the connecting line drawn between boxes in glyphs that draw segments (like the Segments, ProcessedTranscript, and Gene glyphs). Default 1. |
-| `style→utrColor` | Color of UTR regions drawn by ProcessedTranscript and Gene glyphs. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Defaults to be a color that complements the current `style→color` value (calculated using a bit of color theory). |
-| `subParts` | Comma-separated list of feature `type` tags that will be drawn as subparts of parent features. Defaults to all features for Segments glyphs, and 'CDS, UTR, five_prime_UTR, three_prime_UTR' for ProcessedTranscript glyphs. |
-| `transcriptType` | For Gene glyphs, the feature `type` tag that indicates that a subfeature is a processed transcript. Defaults to 'mRNA'. |
-| `labelTranscripts` | For Gene glyphs, if true, draw a label with the transcript's name beside each transcript, if space permits. Default true. |
-| `style→transcriptLabelColor` | For Gene glyphs, the color of transcript name labels. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"
-rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'black'. |
-| `style→transcriptLabelFont` | For Gene glyphs, the font used for transcript name labels. Same format as CSS font rules. Default 'normal 10px Univers,Helvetica,Arial,sans-serif'. |
-| `impliedUTRs` | Introduced in JBrowse 1.10.5. If true, indicates that UTRs are not present in the feature data, but should be inferred from the overlap of exon and CDS features in ProcessedTranscript and Gene glyphs. Default false. Can be a callback. |
-| `maxFeatureGlyphExpansion` | A factor to expand the glyphs by so that if subfeatures go outside the bounds of the parent feature, they will still be rendered. Default: 500bp/current scale. |
-| `inferCdsParts ` | If a single CDS span covers the whole gene except the UTRs, then it is drawn as though it only covers the exon parts (not the introns). Default: false. Added in 1.12.3 |
-| `disableCollapsedClick` | Disables the click action when track is collapsed. Default: false. Added in 1.13.0 |
-| `enableCollapsedMouseover` | Enables the mouseover action when track is collapsed. Default: false. Added in 1.13.0. See the ChromHMM track in volvox sample browser for example of mouseover on the collapsed track |
-| `topLevelFeatures` | Specifies which feature types should be considered "top-level" for this track. For example, if you have a track with gene-\>mRNA-\>CDS features, but for some reason want to only display the mRNA features, you can set topLevelFeatures=mRNA. Can also be an array of string types, or a function callback that returns an array of types. Default: all features are displayed. Added in 1.14.0 |
-| `ItemRgb` | If set to true, the RGB colors specified in BigBed or BED files will be used for the feature's background color. Default true. Added in 1.14.0 |
+| Option                                                                                                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `maxHeight`                                                                                                                                                              | Maximum height, in pixels, that the track is allowed to grow to. When it reaches this height, features that stack higher than this will not be shown, and a "Max height reached" message will be displayed. Default 600 pixels.                                                                                                                                                                   |
+| `style→showLabels`                                                                                                                                                       | If true, allows feature labels to be shown if features are not too dense on the screen. Default `true`.                                                                                                                                                                                                                                                                                           |
+| `style→showTooltips`                                                                                                                                                     | If true, allows feature name tooltips to be shown. Default true.                                                                                                                                                                                                                                                                                                                                  |
+| `displayMode`                                                                                                                                                            | 'normal', 'compact', or 'collapsed'. Sets the initial display mode of the track. Default 'normal'.                                                                                                                                                                                                                                                                                                |
+| `style→featureScale`                                                                                                                                                     | Minimum zoom scale (pixels/basepair) for displaying individual features in the track. Not set by default, and overrides the `maxFeatureScreenDensity`.                                                                                                                                                                                                                                            |
+| `maxFeatureScreenDensity`                                                                                                                                                | Maximum density of features to display on the screen. If this is exceeded, will display either feature density histograms (if available), or a "too many features to show" or "too much data to show" message. The units of this number are features per screen width in pixels. Defaults to 0.5. If increased to ~6 then it should pretty much always go away                                    |
+| `glyph`                                                                                                                                                                  | JS class name of the glyph to use for each feature. By default, it tries to guess for each feature based on its `type` attribute, and uses JBrowse/View/FeatureGlyph/Box if it cannot find something better. Can be a callback with signature (feature), returning a string class name.                                                                                                           |
+| `menuTemplate`                                                                                                                                                           | Optional menu configuration for right-click menus on features. Can be as large and complicated as you want. See [\#Right-click_Context_Menus](#Right-click_Context_Menus) below. If set to null or false, disables feature right-click menus.                                                                                                                                                     |
+| `style→maxDescriptionLength`                                                                                                                                             | Maximum length, in characters, of long feature descriptions, for glyphs that support them. Default 70.                                                                                                                                                                                                                                                                                            |
+| `style→color`                                                                                                                                                            | Basic color of features. Most glyphs interpret this as the fill color of the rectangle they draw. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                  |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'goldenrod'.                                                                                              |
+| `style→mouseovercolor`                                                                                                                                                   | Color of the overlay drawn on top of features when the mouse hovers over them. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                     |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default rgba(0,0,0,0.3), which is semi-transparent black.                                                         |
+| `style→borderColor`                                                                                                                                                      | Color of the borders drawn around boxes in glyphs. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                                                 |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default varies from glyph to glyph.                                                                               |
+| `style→borderWidth`                                                                                                                                                      | Width of the borders drawn around boxes in glyphs. Default 0.5 if borderColor specified                                                                                                                                                                                                                                                                                                           |
+| `style→height`                                                                                                                                                           | Height in pixels of glyphs. Default value varies from glyph to glyph.                                                                                                                                                                                                                                                                                                                             |
+| `style→marginBottom`                                                                                                                                                     | Margin space to leave below each feature when arranging them in the view. Default 2 pixels.                                                                                                                                                                                                                                                                                                       |
+| `style→strandArrow`                                                                                                                                                      | If true, allow glyphs to draw strand arrowheads on features that are stranded. Default `true`.                                                                                                                                                                                                                                                                                                    |
+| `style→label`                                                                                                                                                            | Comma-separated list of case-insensitive feature tags to use for showing the feature's label. The first one found will be used. Default 'name,id'.                                                                                                                                                                                                                                                |
+| `style→textFont`                                                                                                                                                         | Font used for feature labels. Same format as CSS font rules. Default 'normal 12px Univers,Helvetica,Arial,sans-serif'.                                                                                                                                                                                                                                                                            |
+| `style→textColor`                                                                                                                                                        | Color of feature labels. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                                                                           |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'black'.                                                                                                  |
+| `style→text2Color`                                                                                                                                                       | Color of feature descriptions. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                                                                     |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'blue'.                                                                                                   |
+| `style→text2Font`                                                                                                                                                        | Font used for feature descriptions. Same format as CSS font rules. Default 'normal 12px Univers,Helvetica,Arial,sans-serif'.                                                                                                                                                                                                                                                                      |
+| `style→description`                                                                                                                                                      | Comma-separated list of case-insensitive feature tags to check for the feature's long description. The first one found will be used. Default 'note,description'. If blank no description is used.                                                                                                                                                                                                 |
+| `style→connectorColor`                                                                                                                                                   | Color of the connecting line drawn between boxes in glyphs that draw segments (like the Segments, ProcessedTranscript, and Gene glyphs). Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                           |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default '#333'.                                                                                                   |
+| `style→connectorThickness`                                                                                                                                               | Thickness in pixels of the connecting line drawn between boxes in glyphs that draw segments (like the Segments, ProcessedTranscript, and Gene glyphs). Default 1.                                                                                                                                                                                                                                 |
+| `style→utrColor`                                                                                                                                                         | Color of UTR regions drawn by ProcessedTranscript and Gene glyphs. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                                 |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Defaults to be a color that complements the current `style→color` value (calculated using a bit of color theory). |
+| `subParts`                                                                                                                                                               | Comma-separated list of feature `type` tags that will be drawn as subparts of parent features. Defaults to all features for Segments glyphs, and 'CDS, UTR, five_prime_UTR, three_prime_UTR' for ProcessedTranscript glyphs.                                                                                                                                                                      |
+| `transcriptType`                                                                                                                                                         | For Gene glyphs, the feature `type` tag that indicates that a subfeature is a processed transcript. Defaults to 'mRNA'.                                                                                                                                                                                                                                                                           |
+| `labelTranscripts`                                                                                                                                                       | For Gene glyphs, if true, draw a label with the transcript's name beside each transcript, if space permits. Default true.                                                                                                                                                                                                                                                                         |
+| `style→transcriptLabelColor`                                                                                                                                             | For Gene glyphs, the color of transcript name labels. Color syntax is the same as that used for CSS, specified at <a href="http://dev.w3.org/csswg/css-color/" class="external free"                                                                                                                                                                                                              |
+| rel="nofollow">http://dev.w3.org/csswg/css-color/</a>. Default 'black'.                                                                                                  |
+| `style→transcriptLabelFont`                                                                                                                                              | For Gene glyphs, the font used for transcript name labels. Same format as CSS font rules. Default 'normal 10px Univers,Helvetica,Arial,sans-serif'.                                                                                                                                                                                                                                               |
+| `impliedUTRs`                                                                                                                                                            | Introduced in JBrowse 1.10.5. If true, indicates that UTRs are not present in the feature data, but should be inferred from the overlap of exon and CDS features in ProcessedTranscript and Gene glyphs. Default false. Can be a callback.                                                                                                                                                        |
+| `maxFeatureGlyphExpansion`                                                                                                                                               | A factor to expand the glyphs by so that if subfeatures go outside the bounds of the parent feature, they will still be rendered. Default: 500bp/current scale.                                                                                                                                                                                                                                   |
+| `inferCdsParts `                                                                                                                                                         | If a single CDS span covers the whole gene except the UTRs, then it is drawn as though it only covers the exon parts (not the introns). Default: false. Added in 1.12.3                                                                                                                                                                                                                           |
+| `disableCollapsedClick`                                                                                                                                                  | Disables the click action when track is collapsed. Default: false. Added in 1.13.0                                                                                                                                                                                                                                                                                                                |
+| `enableCollapsedMouseover`                                                                                                                                               | Enables the mouseover action when track is collapsed. Default: false. Added in 1.13.0. See the ChromHMM track in volvox sample browser for example of mouseover on the collapsed track                                                                                                                                                                                                            |
+| `topLevelFeatures`                                                                                                                                                       | Specifies which feature types should be considered "top-level" for this track. For example, if you have a track with gene-\>mRNA-\>CDS features, but for some reason want to only display the mRNA features, you can set topLevelFeatures=mRNA. Can also be an array of string types, or a function callback that returns an array of types. Default: all features are displayed. Added in 1.14.0 |
+| `ItemRgb`                                                                                                                                                                | If set to true, the RGB colors specified in BigBed or BED files will be used for the feature's background color. Default true. Added in 1.14.0                                                                                                                                                                                                                                                    |
 
 `CanvasFeatures` track configuration options
 
-  
 Note: the "compact" displayMode for CanvasFeatures tracks uses
 style-\>height and multiplies it by 0.35 to create the compact view.
 Therefore, if you adjust style-\>height to a smaller default value, then
 you can create "ultra compact" visualizations.
-
-  
-
-  
 
 ### <span id="Customizing_CanvasFeatures_tracks_with_callbacks" class="mw-headline">Customizing CanvasFeatures tracks with callbacks</span>
 
@@ -1081,8 +1043,8 @@ you could set something like:
         }
         return false;
       }
-    style.color = function( feature, variableName, glyphObject, track ) { 
-        return track.config.variantIsHeterozygous(feature) ? 'red' : 'blue'; 
+    style.color = function( feature, variableName, glyphObject, track ) {
+        return track.config.variantIsHeterozygous(feature) ? 'red' : 'blue';
       }
 
 Note: the multiline callbacks are only enabled in the tracks.conf form.
@@ -1092,13 +1054,11 @@ about this format.
 
 ## <span id="Generic_Track_Configuration_Options" class="mw-headline">Generic Track Configuration Options</span>
 
-| Option | Description |
-|----|----|
+| Option                   | Description                                                                                                                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `subfeatureDetailLevel ` | Set the level of detail of the View details box. If set to 1, only displays one level of subfeatures for example. Default: 0 which displays all subfeature levels. Added in 1.12.3 |
 
 `Generic track` configuration options
-
-  
 
 ## <span id="Customizing_parts_of_the_.27View_details.27_Pop-ups_with_callbacks" class="mw-headline">Customizing parts of the 'View details' Pop-ups with callbacks</span>
 
@@ -1108,7 +1068,6 @@ that have the format fmtDetailValue\_\* or fmtDetailField\_\* to either
 change the value section of an attribute in the config, or the fieldname
 of an attribute in the config.
 
-  
 Here is an example in tracks.conf format for formatting the "Name" field
 by adding a link to it:
 
@@ -1130,7 +1089,6 @@ Note: It is also easy to specify these methods in trackList.json format.
      "fmtDetailValue_Name": "function(name) { return '<a href=\"http://www.example.com?featurename='+name+'\">'+name+'</a>'; }"
     }
 
-  
 Addendum: If the field has multiple values (e.g. multiple DBXrefs or GO
 terms), then the callback will receive an array as it's argument, and
 then you can also return an array which indicates that each element will
@@ -1177,14 +1135,12 @@ tracks (both HTMLFeatures and CanvasFeatures) is highly configurable. To
 make something happen when left-clicking features on a track, add an
 onClick option to the feature track's configuration.
 
-  
 In the example configuration below, left-clicks on features will open an
 embedded popup window showing the results of searching for that
 feature's name in NCBI's global search, and "search at NCBI" will show
 in a tooltip when the user hovers over a feature with the mouse:
 
-
-``` de1
+```de1
    "tracks": [
       {
          "label"    : "ReadingFrame",
@@ -1198,7 +1154,6 @@ in a tooltip when the user hovers over a feature with the mouse:
       }
    ...
 ```
-
 
 For details on all the options supported by **onClick**, see [Click
 Configuration Options](#Click_Configuration_Options).
@@ -1216,14 +1171,10 @@ In JBrowse 1.11.6, the onClick-\>label attribute was extended further to
 allow the mouse-over description to be customized using callbacks and
 template strings.
 
-  
 Example for CanvasFeatures, allows full HTML tooltips. Here the {name}
 template is automatically filled in with the feature info:
 
-  
-
-
-``` de1
+```de1
     "onClick": {
         "label" : "Feature name: {name}",
         "title" : "{name} {type}",
@@ -1231,13 +1182,11 @@ template is automatically filled in with the feature info:
     }
 ```
 
-
 Example for HTMLFeatures, which only allows plain text descriptions but
 can support newlines (essentially uses \ for
 mouseover).
 
-
-``` de1
+```de1
     "onClick": {
         "label": "Feature name {name}\nFeature start {start}\nFeature end {end}",
         "title" : "{name} {type}",
@@ -1245,15 +1194,10 @@ mouseover).
     }
 ```
 
-
-  
 Example using a callback (for either HMTLFeatures or CanvasFeatures),
 using this.feature to access the feature details
 
-  
-
-
-``` de1
+```de1
     "onClick": {
         "label": "function() { return 'Feature name: '+this.feature.get('name'); }",
         "title" : "{name} {type}",
@@ -1261,8 +1205,6 @@ using this.feature to access the feature details
     }
 ```
 
-
-  
 Note: on CanvasFeatures, the action "defaultDialog" isn't necessary, but
 it is necessary for HTMLFeatures to keep the default dialog (as of
 writing, 1.11.6).
@@ -1285,7 +1227,6 @@ the store's feature density divided by `maxFeatureScreenDensity`). This
 is often used for BAM coverage on Alignments2 tracks using the
 `histograms.urlTemplate` and `histograms.storeClass` arguments.
 
-  
 Example track
 
     [ tracks.mytrack ]
@@ -1379,9 +1320,6 @@ This configuration results in a context menu like the one pictured
 below. For details on what each of the options supported by menu items
 does, see [\#Click Configuration Options](#Click_Configuration_Options).
 
-
-
-
 <a href="../File:Jbrowse_rightclick.png" class="image"></a>
 
 ## <span id="Rendering_high_resolution_screenshots_using_Puppeteer" class="mw-headline">Rendering high resolution screenshots using Puppeteer</span>
@@ -1429,46 +1367,23 @@ needed. The third, fourth, fifth and sixth arguments are optional a)
 output filename b) output width c) output height and d) zoom factor to
 make it higher resolution
 
-  
-
 # <span id="External_Links" class="mw-headline">External Links</span>
 
 - <a href="http://genome.cshlp.org/content/19/9/1630.full"
   class="external text" rel="nofollow">JBrowse: A Next Generation Genome
   Browser</a> paper
 
-
-Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases](JBrowse_Configuration_Guide"
-
-
-
-
 [Category](../Special%253ACategories "Special%253ACategories"):
 
 - [JBrowse](../Category%253AJBrowse "Category%253AJBrowse")
 
-
-
-
-
-
 ## Navigation menu
-
-
-
-
-
-
 
 <a href="../Main_Page"
 style="background-image: url(../../images/GMOD-cogs.png);"
 title="Visit the main page"></a>
 
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](../Main_Page)</span>
 - <span id="n-Software">[Software](../GMOD_Components)</span>
@@ -1477,24 +1392,14 @@ title="Visit the main page"></a>
 - <span id="n-View-all-pages">[View all
   pages](../Special:AllPages)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](../Overview)</span>
 - <span id="n-FAQs">[FAQs](../Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](../Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](../Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](../GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1504,18 +1409,12 @@ title="Visit the main page"></a>
 - <span id="n-Meetings">[Meetings](../Meetings)</span>
 - <span id="n-Calendar">[Calendar](../Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="../Special%253ABrowse/JBrowse_Configuration_Guide"
   rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 02:48 on 30 September
-  2020.</span>
+- <span id="footer-info-lastmod">Last updated at 02:48 on 30 September 2020.</span>
 <!-- - <span id="footer-info-viewcount">1,674,203 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1524,10 +1423,4 @@ title="Visit the main page"></a>
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

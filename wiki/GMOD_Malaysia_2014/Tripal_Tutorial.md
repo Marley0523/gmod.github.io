@@ -2258,6 +2258,7 @@ the file:
 
 ```enter
   cd /var/www/sites/default/files
+  #Note that these files no longer exist!
   wget http://gmod.org/mediawiki/images/d/dc/Citrus_sinensis-orange1.1g015632m.g.gff3
   wget http://gmod.org/mediawiki/images/8/87/Citrus_sinensis-scaffold00001.fasta
   wget http://gmod.org/mediawiki/images/9/90/Citrus_sinensis-orange1.1g015632m.g.fasta
@@ -2700,6 +2701,7 @@ do so quickly run these commands:
 
 ```enter
   cd /var/www/sites/default/files
+  # Note that these files no longer exist!
   wget http://gmod.org/mediawiki/images/0/0c/Citrus_sinensis-orange1.1g015632m.g.iprscan.xml
   wget http://gmod.org/mediawiki/images/1/13/Citrus_sinensis-orange1.1g015632m.g.KEGG.heir.tar.gz
   wget http://gmod.org/mediawiki/images/e/e8/Blastx_citrus_sinensis-orange1.1g015632m.g.fasta.0_vs_uniprot_sprot.fasta.out
