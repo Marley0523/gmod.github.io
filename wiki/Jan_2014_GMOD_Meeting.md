@@ -1,31 +1,12 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Jan 2014 GMOD Meeting</span>
-
-
-
-
-
-
-
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/300px-2014-gmod-san-diego.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/450px-2014-gmod-san-diego.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e1/2014-gmod-san-diego.png 2x"
 width="300" height="188"
 alt="January 2014 GMOD Community Meeting logo" />
-
-
 
 GMOD held a community meeting in San Diego in January 2014. Materials
 from the meeting are currently being gathered and will all be assembled
@@ -34,12 +15,7 @@ please add it to the wiki or email it to
 <a href="mailto:help@gmod.org" class="external text" rel="nofollow">the
 GMOD helpdesk</a> and we will post it for you.
 
-  
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Keynote
   Speaker</span>](#Keynote_Speaker)
@@ -52,10 +28,7 @@ GMOD helpdesk</a> and we will post it for you.
   - [<span class="tocnumber">2.3</span>
     <span class="toctext">Posters</span>](#Posters)
 
-
-
 ## <span id="Keynote_Speaker" class="mw-headline">Keynote Speaker</span>
-
 
 <a href="http://sulab.org/andrew-i-su-ph-d/" rel="nofollow"
 title="Andrew Su"><img
@@ -63,9 +36,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/AndrewSu.jpg/143px-AndrewSu.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/b/b2/AndrewSu.jpg/190px-AndrewSu.jpg 2x"
 width="95" height="128" alt="Andrew Su" /></a>
 
-
 Andrew Su
-
 
 "A Centralized Model Organism Database (CMOD) for the Long Tail of
 Sequenced Genomes"
@@ -80,18 +51,18 @@ Foundation (GNF) in San Diego, CA. He also serves as an Executive Editor
 of the journal Gene and on the Scientific Advisory Board of the Gene
 Ontology Consortium.
 
-
 ## <span id="Agenda" class="mw-headline">Agenda</span>
 
 ### <span id="Thursday.2C_January_16" class="mw-headline">Thursday, January 16</span>
 
-| Time | Topic | Presenter(s) | Presentation |
-|----|----|----|----|
-| 09:15 | Introductions | [Scott Cain](User%253AScott "User%253AScott") |  |
-| 09:30 | The State of GMOD | [Scott Cain](User%253AScott "User%253AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/State_of_GMOD_2014.pdf"
+| Time  | Topic             | Presenter(s)                                  | Presentation                                                                                                      |
+| ----- | ----------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 09:15 | Introductions     | [Scott Cain](User%253AScott "User%253AScott") |                                                                                                                   |
+| 09:30 | The State of GMOD | [Scott Cain](User%253AScott "User%253AScott") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a8/State_of_GMOD_2014.pdf" |
+
 class="internal" title="State of GMOD 2014.pdf">Slides</a>, <a href="http://youtu.be/8DXWzgag8R4" class="external text"
 rel="nofollow">YouTube</a> |
-| 10:15 | Coffee break |  |  |
+| 10:15 | Coffee break | | |
 | 10:30 | High throughput comparative genomics using a Chado backend | [Mara Kim](User%253AMara_Kim "User%253AMara Kim") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/f/f8/MaraKim_GMOD2014.pdf" class="internal"
 title="MaraKim GMOD2014.pdf">Slides</a>, <a href="http://youtu.be/Soam8O3g1jg" class="external text"
 rel="nofollow">YouTube</a> |
@@ -100,7 +71,7 @@ class="internal" title="AndrewSu GMOD2014.pptx">Slides</a>,<a href="https://www.
 class="external text" rel="nofollow">YouTube</a> and <a href="https://www.youtube.com/watch?v=dGHXo-iNsyU"
 class="external text" rel="nofollow">some of the discussion
 following</a> |
-| 12:00 | Lunch and poster session |  |  |
+| 12:00 | Lunch and poster session | | |
 | 1:15 | [JBrowse](JBrowse.1 "JBrowse") and [WebApollo](WebApollo.1 "WebApollo") | <a href="User%253ARBuels" class="mw-redirect" title="User%253ARBuels">Robert
 Buels</a> | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/37/RBuels_JBrowse_2014.pdf"
 class="internal" title="RBuels JBrowse 2014.pdf">Slides</a> |
@@ -112,7 +83,7 @@ class="external text" rel="nofollow">Martin Page</a> | <a
 href="https://github.com/danmaclean/talks/tree/master/GMOD_san_diego_jan_2014"
 class="external text" rel="nofollow">Slides and resources</a>, <a href="http://youtu.be/wjne4d32bbU" class="external text"
 rel="nofollow">YouTube</a> |
-| 3:00 | Coffee break |  |  |
+| 3:00 | Coffee break | | |
 | 3:15 | [Galaxy](Galaxy.1 "Galaxy") Project Update | [Dave Clements](User%253AClements "User%253AClements") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d2/Dave_Clements_2014.pdf"
 class="internal" title="Dave Clements 2014.pdf">Slides</a> |
 | 3:45 | Drunken Noodle (really, Ken?) | Ken Youens-Clark | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6e/2014-KYClark-CMap.pdf"
@@ -120,7 +91,7 @@ class="internal" title="2014-KYClark-CMap.pdf">Slides</a> |
 | 4:15 | Creating and Maintaining Sustainable Scientific Resources | Bob Muller | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0d/Bob_Muller_2014.pdf" class="internal"
 title="Bob Muller 2014.pdf">Slides</a>, <a href="http://youtu.be/KsBZxiGsOps" class="external text"
 rel="nofollow">YouTube</a> |
-| 4:45 | Wrap up | [Scott Cain](User%253AScott "User%253AScott") |  |
+| 4:45 | Wrap up | [Scott Cain](User%253AScott "User%253AScott") | |
 
 ### <span id="Friday.2C_January_17" class="mw-headline">Friday, January 17</span>
 
@@ -175,9 +146,8 @@ rel="nofollow">YouTube</a></td>
 <td>11:00</td>
 <td>Coffee Genome Hub</td>
 <td>Stéphanie Bocs</td>
-<td><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Stephanie_Bocs_2014.pdf"
-class="new" title="Stephanie Bocs 2014.pdf">Slides</a></td>
+<td>
+Slides unavailable</td>
 </tr>
 <tr class="even">
 <td>11:30</td>
@@ -236,56 +206,28 @@ Instant Virtual Servers for Genomics Data</a>
 title="2014 CGP Poster.pdf">Challenges in providing a genome browser for
 large-scale projects</a>
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Meetings](Category%253AMeetings "Category%253AMeetings")
 - [GMOD Community](Category%253AGMOD_Community "Category%253AGMOD Community")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -295,18 +237,12 @@ large-scale projects</a>
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Jan_2014_GMOD_Meeting" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 07:49 on 8 May
-  2014.</span>
+- <span id="footer-info-lastmod">Last updated at 07:49 on 8 May 2014.</span>
 <!-- - <span id="footer-info-viewcount">153,026 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -315,10 +251,4 @@ large-scale projects</a>
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

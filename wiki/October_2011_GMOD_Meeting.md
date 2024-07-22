@@ -1,21 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">October 2011 GMOD Meeting</span>
-
-
-
-
-
-
-
-
 
 <table style="vertical-align: middle; border: 2px solid #A6A6BC;"
 data-cellpadding="10">
@@ -48,25 +33,12 @@ alt="Ontario Institute for Cancer Research" /></a></p></td>
 </tbody>
 </table>
 
-  
-
-
-
-<span style="font-size: 120%; line-height: 140%;">*Feel the need to
-Tweet?* Please use the
+<span style="font-size: 120%; line-height: 140%;">_Feel the need to
+Tweet?_ Please use the
 <a href="https://twitter.com/#!/search?q=%23gmod11#!/search?q=#gmod11"
 class="external text" rel="nofollow">#gmod11 hashtag</a>.</span>
 
-
-
-  
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Registration</span>](#Registration)
@@ -105,7 +77,6 @@ class="external text" rel="nofollow">#gmod11 hashtag</a>.</span>
     <span class="toctext">Hotel</span>](#Hotel)
 - [<span class="tocnumber">4</span> <span class="toctext">Next
   Meeting</span>](#Next_Meeting)
-
 
 The next [GMOD meeting](Meetings "Meetings") is being held in October
 12-13, 2011 at the <a href="http://oicr.on.ca/" class="external text"
@@ -153,6 +124,7 @@ Mount Sinai Hospital in Toronto. He completed a B.Sc. in Biochemistry at
 McGill University in Montreal. See <a href="http://baderlab.org"
 class="external free" rel="nofollow">http://baderlab.org</a> for more
 information on Gary.</td>
+
 </tr>
 </tbody>
 </table>
@@ -177,6 +149,7 @@ mapping, visualization, and variation discovery with short reads. In
 addition, they also work on cloud computing, whole-genome alignment, as
 well as on detection and analysis of genome variation in the sea squirt
 <em>C. savignyi</em>.
+
 <p>After receiving a BA in Computer Science and History from UC
 Berkeley, Mike worked on his PhD at the Computer Science Department of
 Stanford University, developing several approaches for comparison of
@@ -315,11 +288,9 @@ class="internal" title="Richard smith.pdf">PDF</a></td>
 <td>4:00</td>
 <td>Improving MOD interoperation (A Discussion)</td>
 <td><a href="User%253AJogoodma" title="User%253AJogoodma">Josh Goodman</a></td>
-<td><a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Josh_goodman.pdf"
-class="new" title="Josh goodman.pdf">PDF</a>,<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Josh_goodman.ppt"
-class="new" title="Josh goodman.ppt">PPT</a></td>
+<td>
+PDF unavailable
+</td>
 </tr>
 <tr class="odd">
 <td>4:45</td>
@@ -333,17 +304,14 @@ title="Matahari.pdf">PDF</a></td>
 
 ### <span id="Day_2:_Thursday" class="mw-headline">Day 2: Thursday</span>
 
-| Time | Topic | Presenter(s) | Links |
-|----|----|----|----|
-| 9:15 | Keynote: The Savant Browser and MedSavant | Michael Brudno | <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Michael_brudno.pdf"
-class="new" title="Michael brudno.pdf">PDF</a>,<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Michael_brudno.ppt"
-class="new" title="Michael brudno.ppt">PPT</a> |
-| 10:00 | [Galaxy](Galaxy.1 "Galaxy") | [Dan Blankenberg](User%253ADanB "User%253ADanB") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal"
-title="2011 10 Galaxy.pdf">PDF</a> |
-| 10:30 | [Coffee](GMOD_Promotion#Mugs.2C_T-Shirts.2C_Buttons.2C_... "GMOD Promotion") |  |  |
-| 11:00 | <a href="http://code.google.com/p/sadi/wiki/SADIforGMOD"
+| Time                               | Topic                                                                        | Presenter(s)                                     | Links                                                                                                                          |
+| ---------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| 9:15                               | Keynote: The Savant Browser and MedSavant                                    | Michael Brudno                                   | PDF unavailable                                                                                                                |
+| 10:00                              | [Galaxy](Galaxy.1 "Galaxy")                                                  | [Dan Blankenberg](User%253ADanB "User%253ADanB") | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/8b/2011_10_Galaxy.pdf" class="internal" |
+| title="2011 10 Galaxy.pdf">PDF</a> |
+| 10:30                              | [Coffee](GMOD_Promotion#Mugs.2C_T-Shirts.2C_Buttons.2C_... "GMOD Promotion") |                                                  |                                                                                                                                |
+| 11:00                              | <a href="http://code.google.com/p/sadi/wiki/SADIforGMOD"                     |
+
 class="external text" rel="nofollow">SADI for GMOD: An RDF/OWL Interface
 to GMOD Data</a> | Ben Vandervalk | <a
 href="http://prezi.com/sc0jnrbdqu3n/sadi-for-gmod-an-rdfowl-interface-for-gmod/"
@@ -352,13 +320,13 @@ title="SADIforGMOD.pdf">PDF</a> |
 | 11:30 | [The Comprehensive Antibiotic Resistance Database](News/CARD "News/CARD") | Andrew McArthur | <a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/02/Andrew_mcarthur.pdf" class="internal"
 title="Andrew mcarthur.pdf">PDF</a>,<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/58/Andrew_mcarthur.ppt" class="internal"
 title="Andrew mcarthur.ppt">PPT</a> |
-| 12:00 | Lunch |  |  |
-| 1:30 | Lightning talks <span class="small">(Please feel free to give a 5-10 minute talk on whatever; if you are interested enough to put together a talk, others will likely be interested in the content! :-)</span> |  |  |
+| 12:00 | Lunch | | |
+| 1:30 | Lightning talks <span class="small">(Please feel free to give a 5-10 minute talk on whatever; if you are interested enough to put together a talk, others will likely be interested in the content! :-)</span> | | |
 
 ### <span id="Day_3:_Friday" class="mw-headline">Day 3: Friday</span>
 
 | Time | Workshop                     | Location                  |
-|------|------------------------------|---------------------------|
+| ---- | ---------------------------- | ------------------------- |
 | 9:00 | [BioMart](#BioMart_Workshop) | OICR, 8th floor Boardroom |
 | 9:00 | [Galaxy](#Galaxy_Workshop)   | OICR room HL-31           |
 | 2:30 | [MAKER](#MAKER_Workshop)     | OICR, 8th floor Boardroom |
@@ -390,8 +358,9 @@ Please feel free to add suggested talks or topics for the meeting.
 
 ## <span id="Scheduled_Satellite_Meetings" class="mw-headline">Scheduled Satellite Meetings</span>
 
-|  |  |  |  |
-|----|----|----|----|
+|     |     |     |     |
+| --- | --- | --- | --- |
+
 | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/110px-Biomart250.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/165px-Biomart250.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/a/a4/Biomart250.png/220px-Biomart250.png 2x"
@@ -449,12 +418,12 @@ participants, so please
 <a href="http://gmod.eventbrite.com/" class="external text"
 rel="nofollow">register</a> and arrive early.
 
-| Workshop Slides |
-|----|
-| [An Introduction to Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf") |
+| Workshop Slides                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [An Introduction to Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/d8/GalaxyWorkshop0_2011_10.pdf "File:GalaxyWorkshop0 2011 10.pdf")                                                    |
 | [Using Galaxy for High-throughput Sequencing (HTS) Analysis and Visualization](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/2/24/GalaxyWorkshop1_2011_10.pdf "File:GalaxyWorkshop1 2011 10.pdf") |
-| [Running and Enhancing your own Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf") |
-| [Second Half: Running Your Own Instance](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf") |
+| [Running and Enhancing your own Galaxy](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/57/GalaxyWorkshop2_2011_10.pdf "File:GalaxyWorkshop2 2011 10.pdf")                                        |
+| [Second Half: Running Your Own Instance](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/b/b6/GalaxyWorkshop3_2011_10.pdf "File:GalaxyWorkshop3 2011 10.pdf")                                       |
 
 ### <span id="InterMine_Development_Meeting" class="mw-headline">[InterMine](InterMine "InterMine") Development Meeting</span>
 
@@ -462,9 +431,9 @@ This meeting is intended for organisations that have an
 [InterMine](InterMine "InterMine"), or are thinking of setting one up,
 to discuss development priorities, as well as production and
 implementation issues. This meeting is part of the InterMod project,
-which involves supporting InterMine data-warehouses for *D.
-melanogaster*, *R. norvegus*, *M. musculus*, *S. cerevisiae*, *D. rerio*
-and *C. elegans*. Groups representing other efforts to use InterMine for
+which involves supporting InterMine data-warehouses for _D.
+melanogaster_, _R. norvegus_, _M. musculus_, _S. cerevisiae_, _D. rerio_
+and _C. elegans_. Groups representing other efforts to use InterMine for
 biological data-warehousing are welcome to attend (as indeed some aleady
 are) - please contact [Richard Smith](User%253ARsmith "User%253ARsmith") for
 more details.
@@ -542,9 +511,6 @@ convenient to OICR.
 [April 2012 GMOD
 Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Meetings](Category%253AMeetings "Category%253AMeetings")
@@ -553,48 +519,23 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 - [BioMart](Category%253ABioMart "Category%253ABioMart")
 - [InterMine](Category%253AInterMine "Category%253AInterMine")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -604,18 +545,12 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/October_2011_GMOD_Meeting"
   rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 18:54 on 8 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 18:54 on 8 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">328,404 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -624,10 +559,4 @@ Meeting](April_2012_GMOD_Meeting "April 2012 GMOD Meeting")
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
