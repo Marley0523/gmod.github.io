@@ -1,27 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Installing Chado on Ubuntu HOWTO</span>
-
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Installing_Chado_on_Ubuntu_HOWTO&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 ## <span id="Ubuntu_version" class="mw-headline">Ubuntu version</span>
 
@@ -80,8 +59,6 @@ Installing prereqs with cpan shell:
 - install GO::Parser (go-perl)
 - install DBIx::DBSchema \# needed by DBIx::DBStag
 
-  
-
 Installed DBIx::DBStag 'by hand':
 
 (Note that if you have the cpan shell set up to do "sudo make" rather
@@ -97,7 +74,6 @@ DBIx::DBStag from the cpan shell.)
      make test  #all tests pass
      sudo make install
 
-  
 Create the file ~/.gmod_profile, with the contents:
 
      export GMOD_ROOT=/usr/local/gmod
@@ -138,9 +114,6 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
   undeclared prereq for something that GMOD software depends on.
   Hopefully this will be fixed by the author soon.
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
@@ -148,48 +121,23 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 - [Chado](Category%253AChado "Category%253AChado")
 - [Linux](Category%253ALinux "Category%253ALinux")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -199,18 +147,12 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Installing_Chado_on_Ubuntu_HOWTO"
   rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 16:37 on 12 July
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 16:37 on 12 July 2013.</span>
 <!-- - <span id="footer-info-viewcount">76,188 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -219,10 +161,4 @@ Get and load yeast [GFF3](GFF3 "GFF3") file:
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
