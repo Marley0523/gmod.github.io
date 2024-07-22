@@ -1372,7 +1372,7 @@ make it higher resolution
   Browser</a> paper
 
 Retrieved from
-"[http://gmod.org/mediawiki/index.php?title=JBrowse_Configuration_Guide&oldid=27898#Using_JBrowse_with_Existing_Databases](JBrowse_Configuration_Guide"
+"[JBrowse_Configuration_Guide](JBrowse_Configuration_Guide"
 
 [Category](Special%253ACategories "Special%253ACategories"):
 

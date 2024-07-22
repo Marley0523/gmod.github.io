@@ -1,24 +1,9 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">PostgreSQL</span>
 
-
-
-
-
 (Redirected from
 [Postgres](Postgres)
-
-
-
-
 
 PostgreSQL, more commonly known as Postgres, is an open source
 relational database management system (RDBMS or DBMS) that is the
@@ -27,12 +12,7 @@ GMOD](Databases_and_GMOD "Databases and GMOD") for other choices, and
 for an introduction to database terms. This page is in an introduction
 to Postgres for GMOD users.
 
-  
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Postgres in
   GMOD</span>](#Postgres_in_GMOD)
@@ -45,8 +25,6 @@ to Postgres for GMOD users.
   Versions</span>](#Postgres_Versions)
 - [<span class="tocnumber">5</span> <span class="toctext">What About
   MySQL?</span>](#What_About_MySQL.3F)
-
-
 
 ## <span id="Postgres_in_GMOD" class="mw-headline">Postgres in GMOD</span>
 
@@ -85,29 +63,13 @@ helpful:
   of online manual including directions on installation and
   configuration.
 
-  
-
 ## <span id="Postgres_Versions" class="mw-headline">Postgres Versions</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=PostgreSQL&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
 Postgres changes with every new release and some of those changes are
 required for certain GMOD components to work, and some interfere with
 the workings of other GMOD components.
 
-  
 **Add list or matrix of known requirements/interactions.**
-
-  
-
-  
-
-  
 
 ## <span id="What_About_MySQL.3F" class="mw-headline">What About MySQL?</span>
 
@@ -124,9 +86,6 @@ because of its rich feature set.
 Postgres will be a bit harder for the novice but it is only required if
 you want to install Chado.
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
@@ -134,48 +93,23 @@ you want to install Chado.
 - [PostgreSQL](Category%253APostgreSQL "Category%253APostgreSQL")
 - [External](Category%253AExternal "Category%253AExternal")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -185,18 +119,12 @@ you want to install Chado.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/PostgreSQL" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 00:52 on 18 November
-  2010.</span>
+- <span id="footer-info-lastmod">Last updated at 00:52 on 18 November 2010.</span>
 <!-- - <span id="footer-info-viewcount">65,419 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -205,10 +133,4 @@ you want to install Chado.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

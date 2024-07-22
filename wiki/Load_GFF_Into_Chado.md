@@ -1,30 +1,12 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Load GFF Into Chado</span>
-
-
-
-
-
-
-
-
 
 This [HOWTO](Category%253AHOWTO "Category%253AHOWTO") describes a method for
 loading sequence annotation data in [GFF3](GFF3 "GFF3") format into a
 [Chado database](Chado_-_Getting_Started "Chado - Getting Started").
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Download the
   GFF3 Files</span>](#Download_the_GFF3_Files)
@@ -39,8 +21,6 @@ loading sequence annotation data in [GFF3](GFF3 "GFF3") format into a
   Information</span>](#More_Information)
 - [<span class="tocnumber">6</span>
   <span class="toctext">Authors</span>](#Authors)
-
-
 
 ## <span id="Download_the_GFF3_Files" class="mw-headline">Download the GFF3 Files</span>
 
@@ -74,9 +54,9 @@ This script will ask you what information about your organism:
 
      Both genus and species are required; please provide them below
 
-     Organism's genus?  
-     Organism's species?  
-     Organism's abbreviation? [] 
+     Organism's genus?
+     Organism's species?
+     Organism's abbreviation? []
      Comment (can be empty)?
 
 ## <span id="Load_the_GFF3" class="mw-headline">Load the GFF3</span>
@@ -131,11 +111,6 @@ this input format (`--format EMBL` can also be useful).
 
 Use the `--organism fromdata` flag to load UniProt with many organisms.
 
-> **This code needs to be tested.** <span class="small">Please help <a
-> href="http://gmod.org/mediawiki/index.php?title=Load_GFF_Into_Chado&amp;action=edit"
-> class="external text" rel="nofollow">improve this section</a> with
-> your tests.</span>
-
 ## <span id="More_Information" class="mw-headline">More Information</span>
 
 See the related HOWTO [Load RefSeq Into
@@ -154,57 +129,29 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 - <a href="http://www.bioperl.org/wiki/Brian_Osborne" class="extiw"
   title="bp:Brian Osborne">Brian Osborne</a>
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Testing](Category%253ANeeds_Testing "Category%253ANeeds Testing")
 - [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 - [Chado](Category%253AChado "Category%253AChado")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -214,18 +161,12 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Load_GFF_Into_Chado" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 15:43 on 20 July
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 15:43 on 20 July 2015.</span>
 <!-- - <span id="footer-info-viewcount">151,008 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -234,10 +175,4 @@ Or contact the [GMOD Help Desk](GMOD_Help_Desk "GMOD Help Desk")
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

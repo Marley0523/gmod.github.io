@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">MWAS Tutorial</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Maker Web
   Annotation Service</span>](#Maker_Web_Annotation_Service)
@@ -40,7 +22,7 @@
   - [<span class="tocnumber">2.2</span> <span class="toctext">What does
     MWAS do?</span>](#What_does_MWAS_do.3F)
   - [<span class="tocnumber">2.3</span> <span class="toctext">What sets
-    MAKER and MWAS apart from other tools (*ab initio* gene predictors
+    MAKER and MWAS apart from other tools (_ab initio_ gene predictors
     etc.)?</span>](#What_sets_MAKER_and_MWAS_apart_from_other_tools_.28ab_initio_gene_predictors_etc..29.3F)
     - [<span class="tocnumber">2.3.1</span>
       <span class="toctext">Emerging vs. Model
@@ -60,8 +42,8 @@
     MWAS</span>](#Details_of_What_is_Going_on_Inside_of_MWAS)
     - [<span class="tocnumber">3.3.1</span> <span class="toctext">Repeat
       Masking</span>](#Repeat_Masking)
-    - [<span class="tocnumber">3.3.2</span> <span class="toctext">*Ab
-      Initio* Gene Prediction</span>](#Ab_Initio_Gene_Prediction)
+    - [<span class="tocnumber">3.3.2</span> <span class="toctext">_Ab
+      Initio_ Gene Prediction</span>](#Ab_Initio_Gene_Prediction)
     - [<span class="tocnumber">3.3.3</span> <span class="toctext">EST
       and Protein Evidence
       Alignment</span>](#EST_and_Protein_Evidence_Alignment)
@@ -90,7 +72,7 @@
     - [<span class="tocnumber">3.7.1</span>
       <span class="toctext">Apollo</span>](#Apollo)
   - [<span class="tocnumber">3.8</span> <span class="toctext">Training
-    *ab initio* Gene
+    _ab initio_ Gene
     Predictors</span>](#Training_ab_initio_Gene_Predictors)
   - [<span class="tocnumber">3.9</span> <span class="toctext">GFF3
     Pass-through</span>](#GFF3_Pass-through)
@@ -99,8 +81,6 @@
   - [<span class="tocnumber">3.11</span>
     <span class="toctext">Merge/Resolve Legacy
     Annotations</span>](#Merge.2FResolve_Legacy_Annotations)
-
-
 
 ## <span id="Maker_Web_Annotation_Service" class="mw-headline">Maker Web Annotation Service</span>
 
@@ -116,8 +96,6 @@ are too large to submit to MWAS are free to
 <a href="http://www.yandell-lab.org/software/" class="external text"
 rel="nofollow">download MAKER</a> for use on their own systems.
 
-  
-
 ## <span id="Understanding_MWAS" class="mw-headline">Understanding MWAS</span>
 
 The first half of this page gives general background to genome
@@ -126,8 +104,6 @@ annotation as well as describes validation data for the
 annotation pipeline MAKER is at the heart of MWAS, and MWAS has been
 configured to present the user with configuration options that match
 those of the command line program MAKER as closely as possible.
-
-  
 
 ### <span id="Introduction_to_Genome_Annotation" class="mw-headline">Introduction to Genome Annotation</span>
 
@@ -143,7 +119,6 @@ Examples:
   molecular function (hydrolase), location of expression (expressed in
   the mitochondria), etc.
 
-  
 It is especially important that all genome annotations include with
 themselves an evidence trail that describes in detail the evidence that
 was used to both suggest and support each annotation. This assists in
@@ -151,7 +126,7 @@ quality control and downstream management of genome annotations.
 
 Examples of evidence supporting a structural annotation:
 
-- *Ab initio* gene predictions
+- _Ab initio_ gene predictions
 - ESTs
 - Protein homology
 
@@ -163,14 +138,12 @@ sequenced is, "where are the genes?" To identify the genes we need to
 annotate the genome. And while most researchers probably don't give
 annotations a lot of thought, they use them everyday.
 
-  
 Examples of Annotation Databases:
 
 - [FlyBase](Category%253AFlyBase "Category%253AFlyBase")
 - [WormBase](Category%253AWormBase "Category%253AWormBase")
 - [Mouse Genome Informatics Group](Category%253AMGI "Category%253AMGI")
 
-  
 Every time we use techniques such as RNAi, PCR, gene expression arrays,
 targeted gene knockout, or CHIP we are basing our experiments on the
 information derived from a digitally stored genome annotation. If the
@@ -189,7 +162,7 @@ components to any annotation process.
 It’s generally accepted that within the next few years it will be
 possible to sequence even human sized genomes for as little as \$1,000
 and in a short time frame. When these expectations finally become
-reality, then whole genome sequencing will likely become *routine* for
+reality, then whole genome sequencing will likely become _routine_ for
 even small laboratories. Unfortunately, advances in annotation
 technology have not kept pace with genome sequencing, and annotation is
 rapidly becoming a major bottleneck affecting modern genomics research.
@@ -198,7 +171,7 @@ For example:
 
 - As of October 2009, 222 eukaryotic genomes were fully sequenced yet
   unpublished (this is an ever growing backlog).
-- Currently *(Jan 2010)* there are over 900 eukaryotic genome projects
+- Currently _(Jan 2010)_ there are over 900 eukaryotic genome projects
   underway, assuming 10,000 genes per genome, that’s 9,000,000 new
   annotations (with this many new annotations, quality control and
   maintenance become an issue).
@@ -210,7 +183,6 @@ For example:
   experience) must therefore confront the difficulties associated with
   genome annotation on their own.
 
-  
 The MAKER Web Annotation Service is a tool to assist research groups in
 converting the mountain of genomic data provided by next generation
 sequencing technologies into a usable resource, and for larger datasets,
@@ -222,28 +194,14 @@ MAKER.
 - Identifies and masks out repeat elements
 - Aligns ESTs to the genome
 - Aligns proteins to the genome
-- Produces *ab initio* gene predictions
+- Produces _ab initio_ gene predictions
 - Synthesizes these data into final annotations
 - Produces evidence-based quality values for downstream annotation
   management
 
-  
-
-
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Apollo_view.jpg"
-class="new" title="File:Apollo view.jpg">File:Apollo view.jpg</a>
-
-
-
 MAKER generated annotations, shown in [Apollo](Apollo.1 "Apollo").
 
-
-
-
-  
-
-### <span id="What_sets_MAKER_and_MWAS_apart_from_other_tools_.28ab_initio_gene_predictors_etc..29.3F" class="mw-headline">What sets MAKER and MWAS apart from other tools (*ab initio* gene predictors etc.)?</span>
+### <span id="What_sets_MAKER_and_MWAS_apart_from_other_tools_.28ab_initio_gene_predictors_etc..29.3F" class="mw-headline">What sets MAKER and MWAS apart from other tools (_ab initio_ gene predictors etc.)?</span>
 
 MAKER is an annotation pipeline, not a gene predictor. MAKER does not
 predict genes, rather MAKER leverages existing software tools (some of
@@ -251,7 +209,6 @@ which are gene predictors) and integrates their output to produce what
 MAKER believes to be the best possible gene model for a given location
 based on evidence alignments.
 
-  
 gene prediction ≠ gene annotation
 
 - gene predictions are gene models.
@@ -259,14 +216,11 @@ gene prediction ≠ gene annotation
   evidence trail supporting the model in addition to quality control
   metrics.
 
-  
 This may seem like just a matter of semantics since the primary output
-for both *ab initio* gene predictors and the MAKER pipeline is the same,
+for both _ab initio_ gene predictors and the MAKER pipeline is the same,
 a collection of gene models. However there are a few very significant
 consequences to the differences between these programs that I will
 explain shortly.
-
-  
 
 #### <span id="Emerging_vs._Model_Genomes" class="mw-headline">Emerging vs. Model Genomes</span>
 
@@ -323,16 +277,14 @@ etc.</td>
 #### <span id="Comparison_of_Algorithm_Performance_on_Model_vs._Emerging_Genomes" class="mw-headline">Comparison of Algorithm Performance on Model vs. Emerging Genomes</span>
 
 If you have ever looked at comparisons of gene predictor performance on
-classic model organisms such as *C. elegans* you would conclude that *ab
-initio* gene predictors match or even outperform state of the art
+classic model organisms such as _C. elegans_ you would conclude that _ab
+initio_ gene predictors match or even outperform state of the art
 annotation pipelines, and the truth is that, with enough training data,
-they do. However, it is important to keep in mind that *ab initio* gene
+they do. However, it is important to keep in mind that _ab initio_ gene
 predictors have been specifically optimized to perform well on model
-organisms such as *Drosophila* and *C. elegans*, organisms for which we
+organisms such as _Drosophila_ and _C. elegans_, organisms for which we
 have large amount of pre-existing data to both train and tweak the
 prediction parameters.
-
-  
 
 <table class="wikitable">
 <colgroup>
@@ -402,70 +354,37 @@ What about emerging model organisms for which little data is available?
 Gene prediction in classic model organisms is relatively simple because
 there are already a large number of experimentally determined and
 verified gene models, but with emerging model organisms, we are lucky to
-have a handful of gene models to train with. As a result *ab initio*
+have a handful of gene models to train with. As a result _ab initio_
 gene predictors generally perform very poorly on emerging genomes.
 
-
-
-
-  
 MAKER will:
 
 - Identify legacy annotation most consistent with new data
 - Automatically revise it in light of new data
 - If no existing annotation, create new one
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
-
 
 - [MAKER](Category%253AMAKER "Category%253AMAKER")
 - [Tutorials](Category%253ATutorials "Category%253ATutorials")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -475,18 +394,12 @@ MAKER will:
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/MWAS_Tutorial" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 22:03 on 3 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 22:03 on 3 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">119,997 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -495,10 +408,4 @@ MAKER will:
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

@@ -1,31 +1,13 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">GBrowse2 REST API</span>
 
-
-
-
-
-
-
-
-
 This article describes the **GBrowse2 REST API**.
 
-*For the main GBrowse 2.0 HOWTO article, see: [GBrowse 2.0
-HOWTO](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
-
+_For the main GBrowse 2.0 HOWTO article, see: [GBrowse 2.0
+HOWTO](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO")._
 
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">The GBrowse2
   REST API</span>](#The_GBrowse2_REST_API)
@@ -60,8 +42,6 @@ HOWTO](GBrowse_2.0_HOWTO "GBrowse 2.0 HOWTO").*
     Remote Datasets</span>](#Linking_to_Remote_Datasets)
   - [<span class="tocnumber">1.9</span> <span class="toctext">Obtaining
     Metadata</span>](#Obtaining_Metadata)
-
-
 
 # <span id="The_GBrowse2_REST_API" class="mw-headline">The GBrowse2 REST API</span>
 
@@ -256,10 +236,7 @@ which is used for sharing uploaded track data withing sharing the user's
 entire session.
 
 From within a script, you may capture the ID from the cookie as shown in
-the <a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=Gbrowse_get_sessionid.pl"
-class="new"
-title="Gbrowse get sessionid.pl">media:gbrowse_get_sessionid.pl</a>
+the media:gbrowse_get_sessionid.pl (unavailable)
 example script. You may also obtain the ID by calling GBrowse with
 "action=get_ids" (version 2.Session ID: 1e7995e8ced0494dcca25af4cee37f69
 Upload ID: efee698db7bc6ebc8a69af04072a7143 23 and higher):
@@ -271,15 +248,13 @@ This will return a plain text file with the following structure:
     Session ID: 1e7995e8ced0494dcca25af4cee37f69
     Upload ID:  efee698db7bc6ebc8a69af04072a7143
 
-  
-
 ## <span id="Centering_on_a_region" class="mw-headline">Centering on a region</span>
 
 ## <span id="Selecting_Tracks_and_Subtracks" class="mw-headline">Selecting Tracks and Subtracks</span>
 
 To select subtracks within a track, use the syntax
-**l=trackname/st1+st2+st3**, where *trackname* is the name of the track,
-and *st1*, *st2*, and so forth, are the subtrack names as indicated by
+**l=trackname/st1+st2+st3**, where _trackname_ is the name of the track,
+and _st1_, _st2_, and so forth, are the subtrack names as indicated by
 the "subtrack table" option. Note that subtrack names are separated by
 spaces. Use "+" or "%20" to escape the URL. The parameter name is "l",
 short for **l**abel.
@@ -290,56 +265,28 @@ short for **l**abel.
 
 ## <span id="Obtaining_Metadata" class="mw-headline">Obtaining Metadata</span>
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 - [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -349,18 +296,12 @@ short for **l**abel.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse2_REST_API" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 15:29 on 27 August
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 15:29 on 27 August 2012.</span>
 <!-- - <span id="footer-info-viewcount">51,608 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -369,10 +310,4 @@ short for **l**abel.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
