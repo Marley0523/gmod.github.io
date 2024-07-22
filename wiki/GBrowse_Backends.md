@@ -1,29 +1,11 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">GBrowse Backends</span>
-
-
-
-
-
-
-
-
 
 This page describes the [GBrowse](GBrowse.1 "GBrowse") database back
 ends. It is incomplete.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">The
   Bio::DB::SeqFeature::Store
@@ -51,8 +33,6 @@ ends. It is incomplete.
     <span class="toctext">Synopsis</span>](#Synopsis_2)
   - [<span class="tocnumber">3.2</span>
     <span class="toctext">Performance</span>](#Performance)
-
-
 
 # <span id="The_Bio::DB::SeqFeature::Store_Adaptor" class="mw-headline">The Bio::DB::SeqFeature::Store Adaptor</span>
 
@@ -85,8 +65,8 @@ for GBrowse with a \[database\] stanza like this one:
     db_args    = -adaptor memory
                  -dir     /path/to/your/database/directory
 
-The **db_adaptor *option loads the Bio::DB::SeqFeature::Store module.
-The*** *db_args'* option passes arguments to the module, namely to use
+The **db_adaptor _option loads the Bio::DB::SeqFeature::Store module.
+The_** _db_args'_ option passes arguments to the module, namely to use
 the "memory" backend (store features into memory) from flat files
 located at "/path/to/your/database/directory".
 
@@ -140,8 +120,6 @@ in-memory version, set up a database directory containing to be
 writeable by the Apache user and copy into it all the GFF3 and FASTA
 files you wish to add to the database. Set the db_args of the datasource
 database section to read as follows:
-
-  
 
     [my_data:database]
     db_adaptor = Bio::DB::SeqFeature::Store
@@ -201,11 +179,11 @@ small projects.
 
 ## <span id="Details" class="mw-headline">Details</span>
 
-*Note: This section refers to the user account under which Apache runs
+_Note: This section refers to the user account under which Apache runs
 as "nobody" because that is the most common case. However, many systems
 use a different user account. Mac OSX uses "www", Fedora Core uses
 "apache" and Ubuntu uses "www-data." In the instructions that follow,
-replace 'nobody' with the appropriate Apache account name.*
+replace 'nobody' with the appropriate Apache account name._
 
 You will need an installation of [MySQL](MySQL "MySQL") for this
 section. Using the mysql command line, create a database (called "yeast"
@@ -291,22 +269,14 @@ This will display the genome browser instructions and a search field.
 Type in "III" to start searching chromosome III, or search for "glucose"
 to find a bunch of genes that are involved in glucose metabolism.
 
-*IF YOU GET AN ERROR* examine the Apache server error log (depending on
+_IF YOU GET AN ERROR_ examine the Apache server error log (depending on
 how Apache was installed, it may be located in
 `/usr/local/apache/logs/`, `/var/log/httpd/`, `/var/log/apache`, or
 elsewhere). Usually there will be an informative error message in the
 error log. The most common problem is [MySQL](MySQL "MySQL") password or
 permissions problems.
 
-  
-
 # <span id="Bio::DB::Das::Chado" class="mw-headline">Bio::DB::Das::Chado</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=GBrowse_Backends&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 Scott needs to fill this in.
 
@@ -326,56 +296,28 @@ In order to achieve the best possible performance when using this
 adaptor, please read [PostgreSQL Performance
 Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
 - [GBrowse](Category%253AGBrowse "Category%253AGBrowse")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -385,18 +327,12 @@ Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_Backends" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 17:16 on 23 April
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 17:16 on 23 April 2013.</span>
 <!-- - <span id="footer-info-viewcount">42,536 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -405,10 +341,4 @@ Tips](PostgreSQL_Performance_Tips "PostgreSQL Performance Tips").
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

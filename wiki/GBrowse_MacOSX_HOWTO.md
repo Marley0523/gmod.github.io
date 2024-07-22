@@ -1,21 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">GBrowse MacOSX HOWTO</span>
-
-
-
-
-
-
-
-
 
 **NOTE:** These instructions are quite old and describe how to install
 GBrowse 1.X. Since Mac OS X is very "unix-y", once libgd installed,
@@ -32,10 +17,7 @@ Note: One of the 2009 security updates from Apple caused problems for
 Perl, which affect cpan and installation of Perl packages. See: [Fixing
 Perl on OSX](Fixing_Perl_on_OSX "Fixing Perl on OSX")
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Installing
   libGD with the double click
@@ -60,8 +42,6 @@ Perl on OSX](Fixing_Perl_on_OSX "Fixing Perl on OSX")
 - [<span class="tocnumber">7</span>
   <span class="toctext">AUTHORS</span>](#AUTHORS)
 
-
-
 # <span id="Installing_libGD_with_the_double_click_installer" class="mw-headline">Installing libGD with the double click installer</span>
 
 You can download an installer for libGD for either Leopard or Snow
@@ -69,16 +49,10 @@ Leopard from the GMOD SourceForge site (it's possible that the Snow
 Leopard installer will work for newer Mac OS systems--I haven't had a
 chance to check).
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=GBrowse_MacOSX_HOWTO&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
 # <span id="Prerequisites" class="mw-headline">Prerequisites</span>
 
 You **MUST** have the Mac OS developer tools installed in order to
-install GBrowse on a Mac, since *make* is required. See step 1 of [The
+install GBrowse on a Mac, since _make_ is required. See step 1 of [The
 Manual Way](#The_Manual_Way) section below for more information.
 
 GBrowse has a number of prerequisites, including BioPerl, GD (which
@@ -128,7 +102,7 @@ fink. You can install GD, BioPerl, BioGraphics and GBrowse with the cpan
 shell:
 
      %  cpan
-     cpan>force install GD 
+     cpan>force install GD
 
 Currently this fails GD test 10, but that functionality isn't needed for
 GBrowse, so it is safe to force.
@@ -139,8 +113,6 @@ GBrowse, so it is safe to force.
 Which will complete the installation of GBrowse2. For installing GBrowse
 1, go directly to [Installing GBrowse using the net
 installer](#Installing_GBrowse_using_the_net_installer).
-
-  
 
 ## <span id="The_MacPorts_Way" class="mw-headline">The MacPorts Way</span>
 
@@ -186,7 +158,7 @@ MacPorts. You can install GD, BioPerl, BioGraphics and GBrowse with the
 cpan shell:
 
      %  cpan
-     cpan>force install GD 
+     cpan>force install GD
 
 Currently this fails GD test 10, but that functionality isn't needed for
 GBrowse, so it is safe to force.
@@ -238,8 +210,8 @@ can't build the new libgd correctly.
 
 Worry not; just follow the recipe.
 
-**1.** *Make sure your `PATH` environment variable includes
-`/usr/local/bin`* by running the command:
+**1.** _Make sure your `PATH` environment variable includes
+`/usr/local/bin`_ by running the command:
 
           % echo $PATH
 
@@ -250,8 +222,8 @@ following line to the bottom:
 
           export PATH="/usr/local/bin:$PATH"
 
-**2.** *Make sure that you have at least version 2.58 of the autoconf
-tool installed.* Run the command:
+**2.** _Make sure that you have at least version 2.58 of the autoconf
+tool installed._ Run the command:
 
           % autoconf -V
 
@@ -269,7 +241,7 @@ Unpack autoconf, enter the distribution directory and type:
               % make
               % sudo make install
 
-**3.** *Install libpng*
+**3.** _Install libpng_
 
 Get the latest libpng from
 <a href="http://www.libpng.org/pub/png/libpng.html"
@@ -282,7 +254,7 @@ Unpack libpng, enter the distribution directory and type:
               % make
               % sudo make install
 
-**4.** *Install libgd*
+**4.** _Install libgd_
 
 Get the latest libgd from
 <a href="http://www.libgd.org" class="external free"
@@ -301,11 +273,9 @@ reconfigure with the following commands:
               % make
               % sudo make install
 
-*Do not try to fix this problem by reinstalling freetype unless you are
+_Do not try to fix this problem by reinstalling freetype unless you are
 very brave; you will likely to make things worse. Freetype support is
-not needed for GBrowse.*
-
-  
+not needed for GBrowse._
 
 # <span id="Installing_GBrowse_using_the_net_installer" class="mw-headline">Installing GBrowse using the net installer</span>
 
@@ -360,7 +330,7 @@ example yeast chromosome 1 database.
 
 # <span id="Install_Perl_MySQL_driver" class="mw-headline">Install Perl MySQL driver</span>
 
-*Optional; only if you want to run the Mysql backend*
+_Optional; only if you want to run the Mysql backend_
 
 If you have Mysql running and wish to take advantage of the GBrowse
 Mysql interface, then you will need to install the Perl DBD::mysql
@@ -390,9 +360,6 @@ to look like this:
 16 April 2007 (EDT) Adapted from instructions contributed by Yair Benita
 \<y.benita@wanadoo.nl\>.
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
@@ -400,52 +367,28 @@ to look like this:
 - [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 - [Mac OS X](Category%253AMac_OS_X "Category%253AMac OS X")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="Talk%253AGBrowse_MacOSX_HOWTO" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -455,18 +398,12 @@ to look like this:
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_MacOSX_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 22:55 on 15 August
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 22:55 on 15 August 2013.</span>
 <!-- - <span id="footer-info-viewcount">188,519 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -475,10 +412,4 @@ to look like this:
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

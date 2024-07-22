@@ -1,27 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Chado Library Module</span>
-
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Library_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 The library module is designed to store detailed information about
 molecular libraries. The library module uses the [sequence
@@ -31,10 +10,7 @@ module](Chado_Sequence_Module "Chado Sequence Module") can describe. It
 is expected that most of the description of a given library would come
 through the use of ontology terms.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Using the
   Library module</span>](#Using_the_Library_module)
@@ -73,14 +49,10 @@ through the use of ontology terms.
 - [<span class="tocnumber">8</span> <span class="toctext">Table:
   libraryprop</span>](#Table:_libraryprop)
 
-
-
 ## <span id="Using_the_Library_module" class="mw-headline">Using the Library module</span>
 
 The following are examples showing how to use this module to describe a
 library.
-
-  
 
 ### <span id="A_FlyBase_cDNA_library" class="mw-headline">A FlyBase cDNA library</span>
 
@@ -89,8 +61,6 @@ Written by Haiyan Zhang, April 14, 2006, the original Wiki page is here:
 href="http://cedar.bio.indiana.edu/mediawiki/index.php/Library_module_implementation"
 class="external free"
 rel="nofollow">http://cedar.bio.indiana.edu/mediawiki/index.php/Library_module_implementation</a>.
-
-  
 
 #### <span id="Background" class="mw-headline">Background</span>
 
@@ -109,19 +79,19 @@ mRNA molecules in a cell. One cDNA library has only one cloning vector.
 
 1.  Library name and uniquenames are generally from the first 2 letters
     of the the cDNA_clones, or the first 2 letters and vector name e.g.
-    *AT library*, *HL_pOT2 libary*
-2.  Library stored in *library* table, type as *cDNA library*.
-3.  *libraryprop* table stores the general description for each library
-    as type *comment* and the vector for each library as type *element*.
-4.  Library synonyms are linked in *library_synonym* table.
-5.  Library's references are linked in *library_pub* table.
+    _AT library_, _HL_pOT2 libary_
+2.  Library stored in _library_ table, type as _cDNA library_.
+3.  _libraryprop_ table stores the general description for each library
+    as type _comment_ and the vector for each library as type _element_.
+4.  Library synonyms are linked in _library_synonym_ table.
+5.  Library's references are linked in _library_pub_ table.
 6.  Each cDNA_clone, cDNA, EST, vector is a feature with the
     corresponding type.
 7.  cDNA_clone has no residues information.
-8.  *library_feature* connects library and its cDNA_clones.
+8.  _library_feature_ connects library and its cDNA_clones.
 9.  cDNA, EST and vector are connected with cDNA_clone in
-    *feature_relationship* table, as type *partof*. cDNA_clone is the
-    *object_id*, cDNA/EST/vector is the *subject_id*.
+    _feature_relationship_ table, as type _partof_. cDNA_clone is the
+    _object_id_, cDNA/EST/vector is the _subject_id_.
 
 #### <span id="Relationship_graph" class="mw-headline">Relationship graph</span>
 
@@ -146,13 +116,11 @@ mRNA molecules in a cell. One cDNA library has only one cloning vector.
 Rules for chado clones and clone features:
 
 - cDNA_clone: uniquename = FBclxxxxxxx, name = clone id number e.g.
-  *LD12345*
+  _LD12345_
 - cDNA: uniquename = accession number (if possible), name = clone id
-  number e.g. *LD12345*
+  number e.g. _LD12345_
 - EST: uniquename = accession number (if possible), name = clone id
-  number.5prime,3prime,:contig etc e.g. *LD12345.5prime*
-
-  
+  number.5prime,3prime,:contig etc e.g. _LD12345.5prime_
 
 ### <span id="A_dsRNA_library" class="mw-headline">A dsRNA library</span>
 
@@ -161,8 +129,6 @@ June 1, 2006 written by Kathleen Falls. The original Wiki page is here:
 href="http://cedar.bio.indiana.edu/mediawiki/index.php/RNAi_primer_and_amplicon_implementation"
 class="external free"
 rel="nofollow">http://cedar.bio.indiana.edu/mediawiki/index.php/RNAi_primer_and_amplicon_implementation</a>.
-
-  
 
 #### <span id="Background_2" class="mw-headline">Background</span>
 
@@ -185,37 +151,37 @@ amplicons with genes and
 #### <span id="Implementation_2" class="mw-headline">Implementation</span>
 
 - The dsRNA library uniquename and name is typically name or initials of
-  the screening center e.g. *DRSC* for Drosophila RNAi Screening Center.
-- The dsRNA library is stored in *library* table, type "dsRNA library".
-- The *libraryprop* table stores a general description for each library
-  as type *comment* and for the DRSC library the DNA amplified from as
-  type *strain* value *Oregon R*.
-- The *library_pub* is reference to uniquename FBrf0188751 (personal
+  the screening center e.g. _DRSC_ for Drosophila RNAi Screening Center.
+- The dsRNA library is stored in _library_ table, type "dsRNA library".
+- The _libraryprop_ table stores a general description for each library
+  as type _comment_ and for the DRSC library the DNA amplified from as
+  type _strain_ value _Oregon R_.
+- The _library_pub_ is reference to uniquename FBrf0188751 (personal
   communication to FlyBase).
 
-Each dsRNA amplicon is stored in the *feature* table. The uniquename is
+Each dsRNA amplicon is stored in the _feature_ table. The uniquename is
 FBrinnnnnnn generated by script and tracked in a log file, the type is
-*pcr_product* and no residues are stored. Each has a *featureloc* entry
+_pcr_product_ and no residues are stored. Each has a _featureloc_ entry
 relating back to chromosome_arm. Strand was determined by extracting
 residues from fmin+1 to fmax for an amplicon then for each each primer
 pair testing for an exact match by length and orientation.
 
 The dsRNA primers are a feature with uniquename FBrinnnnnnn_R and \_S,
 type oligonucleotide and the residues are stored. They are linked to
-their dsRNA amplicon in *feature_relationship*, as type
-*primer_progenitor_of* with each primer as subject and the dsRNA
+their dsRNA amplicon in _feature_relationship_, as type
+_primer_progenitor_of_ with each primer as subject and the dsRNA
 amplicon as object.
 
-The *feature_pub* for dsRNA amplicons and primers is a reference to
+The _feature_pub_ for dsRNA amplicons and primers is a reference to
 FBrf0188751 (personal communication to FlyBase).
 
-The *featureloc_pub* for dsRNA amplicons remapped to rel5 is FBrf0188751
-(personal communication to FlyBase) while the *featureloc_pub* for dsRNA
+The _featureloc_pub_ for dsRNA amplicons remapped to rel5 is FBrf0188751
+(personal communication to FlyBase) while the _featureloc_pub_ for dsRNA
 amplicons mapped by BLAST of the primers to rel5 is FBrf0104946 (FlyBase
 inference by analysis).
 
-Each dsRNA amplicon feature record is linked to *library* in the
-*library_feature* table.
+Each dsRNA amplicon feature record is linked to _library_ in the
+_library_feature_ table.
 
 #### <span id="Relationship_graph_2" class="mw-headline">Relationship graph</span>
 
@@ -314,9 +280,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [libraryprop](Chado_Tables#Table:_libraryprop "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_library_cvterm" class="mw-headline">Table: library_cvterm</span>
 
@@ -324,18 +288,16 @@ The table library_cvterm links a library to controlled vocabularies
 which describe the library. For instance, there might be a link to the
 anatomy cv for "head" or "testes" for a head or testes library.
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | library_cvterm_id | serial | *PRIMARY KEY* |
-| [library](Chado_Tables#Table:_library "Chado Tables") | library_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id | integer | *UNIQUE#1 NOT NULL* |
-| [pub](Chado_Tables#Table:_pub "Chado Tables") | pub_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                 | Name              | Type    | Description         |
+| ----------------------------------------------------- | ----------------- | ------- | ------------------- |
+|                                                       | library_cvterm_id | serial  | _PRIMARY KEY_       |
+| [library](Chado_Tables#Table:_library "Chado Tables") | library_id        | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables")   | cvterm_id         | integer | _UNIQUE#1 NOT NULL_ |
+| [pub](Chado_Tables#Table:_pub "Chado Tables")         | pub_id            | integer | _UNIQUE#1 NOT NULL_ |
 
 library_cvterm Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_library_feature" class="mw-headline">Table: library_feature</span>
 
@@ -343,31 +305,27 @@ library_feature links a library to the clones which are contained in the
 library. Examples of such linked features might be "cDNA_clone" or
 "genomic_clone".
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | library_feature_id | serial | *PRIMARY KEY* |
-| [library](Chado_Tables#Table:_library "Chado Tables") | library_id | integer | *UNIQUE#1 NOT NULL* |
-| [feature](Chado_Tables#Table:_feature "Chado Tables") | feature_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                 | Name               | Type    | Description         |
+| ----------------------------------------------------- | ------------------ | ------- | ------------------- |
+|                                                       | library_feature_id | serial  | _PRIMARY KEY_       |
+| [library](Chado_Tables#Table:_library "Chado Tables") | library_id         | integer | _UNIQUE#1 NOT NULL_ |
+| [feature](Chado_Tables#Table:_feature "Chado Tables") | feature_id         | integer | _UNIQUE#1 NOT NULL_ |
 
 library_feature Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_library_pub" class="mw-headline">Table: library_pub</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | library_pub_id | serial | *PRIMARY KEY* |
-| [library](Chado_Tables#Table:_library "Chado Tables") | library_id | integer | *UNIQUE#1 NOT NULL* |
-| [pub](Chado_Tables#Table:_pub "Chado Tables") | pub_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                 | Name           | Type    | Description         |
+| ----------------------------------------------------- | -------------- | ------- | ------------------- |
+|                                                       | library_pub_id | serial  | _PRIMARY KEY_       |
+| [library](Chado_Tables#Table:_library "Chado Tables") | library_id     | integer | _UNIQUE#1 NOT NULL_ |
+| [pub](Chado_Tables#Table:_pub "Chado Tables")         | pub_id         | integer | _UNIQUE#1 NOT NULL_ |
 
 library_pub Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_library_synonym" class="mw-headline">Table: library_synonym</span>
 
@@ -447,26 +405,21 @@ not be listed in reports as a valid synonym.</td>
 
 library_synonym Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_libraryprop" class="mw-headline">Table: libraryprop</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | libraryprop_id | serial | *PRIMARY KEY* |
-| [library](Chado_Tables#Table:_library "Chado Tables") | library_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | type_id | integer | *UNIQUE#1 NOT NULL* |
-|  | value | text |  |
-|  | rank | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                                 | Name           | Type    | Description         |
+| ----------------------------------------------------- | -------------- | ------- | ------------------- |
+|                                                       | libraryprop_id | serial  | _PRIMARY KEY_       |
+| [library](Chado_Tables#Table:_library "Chado Tables") | library_id     | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables")   | type_id        | integer | _UNIQUE#1 NOT NULL_ |
+|                                                       | value          | text    |                     |
+|                                                       | rank           | integer | _UNIQUE#1 NOT NULL_ |
 
 libraryprop Structure
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -474,48 +427,23 @@ libraryprop Structure
 - [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 - [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -525,18 +453,12 @@ libraryprop Structure
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Library_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 04:36 on 18 February
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 04:36 on 18 February 2015.</span>
 <!-- - <span id="footer-info-viewcount">86,020 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -545,10 +467,4 @@ libraryprop Structure
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

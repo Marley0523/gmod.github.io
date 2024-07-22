@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado General Module</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -49,8 +31,6 @@
     project</span>](#Table:_project)
   - [<span class="tocnumber">4.4</span> <span class="toctext">Table:
     tableinfo</span>](#Table:_tableinfo)
-
-
 
 # <span id="Introduction" class="mw-headline">Introduction</span>
 
@@ -87,12 +67,6 @@ and others are ’dangling’ dbxrefs.
 
 # <span id="Design_patterns" class="mw-headline">Design patterns</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_General_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
 - Primary identiﬁers: ENTITY.dbxref id REFERENCES dbxref(dbxref id)
 - Secondary identiﬁers: ENTITY DBXREF.dbxref id
 
@@ -122,18 +96,12 @@ NMTOKEN (see XML speciﬁcation for details) - for example, it should not
 start with a number. This constraint is to help syntactic
 interoperability with other identiﬁer schemes. To ensure
 interoperability with other Chado databases, the same db.names should be
-used (e.g. *FlyBase* should be used consistently instead of *FB*). This
+used (e.g. _FlyBase_ should be used consistently instead of _FB_). This
 will prevent duplicate dbxref rows being created if and when databases
 are merged. At the same time, uniqueness must be preserved: there must
 not be two GOs.
 
 ## <span id="URLs_and_URIs" class="mw-headline">URLs and URIs</span>
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_General_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 See the following for background:
 
@@ -194,12 +162,6 @@ that care about truly global uniqueness, hence URIs.
 
 ## <span id="Identi.EF.AC.81ers_and_Interoperability_between_Chado_Instances" class="mw-headline">Identiﬁers and Interoperability between Chado Instances</span>
 
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_General_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
 # <span id="Tables" class="mw-headline">Tables</span>
 
 ## <span id="Table:_db" class="mw-headline">Table: db</span>
@@ -214,9 +176,9 @@ however, some applications may expect this to be resolvable - to be
 decided.
 
 | F-Key | Name        | Type                   | Description       |
-|-------|-------------|------------------------|-------------------|
-|       | db_id       | serial                 | *PRIMARY KEY*     |
-|       | name        | character varying(255) | *UNIQUE NOT NULL* |
+| ----- | ----------- | ---------------------- | ----------------- |
+|       | db_id       | serial                 | _PRIMARY KEY_     |
+|       | name        | character varying(255) | _UNIQUE NOT NULL_ |
 |       | description | character varying(255) |                   |
 |       | urlprefix   | character varying(255) |                   |
 |       | url         | character varying(255) |                   |
@@ -227,7 +189,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [dbxref](Chado_Tables#Table:_dbxref "Chado Tables")
 
-------------------------------------------------------------------------
+---
 
 ## <span id="Table:_dbxref" class="mw-headline">Table: dbxref</span>
 
@@ -373,15 +335,15 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [study](Chado_Tables#Table:_study "Chado Tables")
 
-------------------------------------------------------------------------
+---
 
 ## <span id="Table:_project" class="mw-headline">Table: project</span>
 
 | F-Key | Name        | Type                   | Description       |
-|-------|-------------|------------------------|-------------------|
-|       | project_id  | serial                 | *PRIMARY KEY*     |
-|       | name        | character varying(255) | *UNIQUE NOT NULL* |
-|       | description | character varying(255) | *NOT NULL*        |
+| ----- | ----------- | ---------------------- | ----------------- |
+|       | project_id  | serial                 | _PRIMARY KEY_     |
+|       | name        | character varying(255) | _UNIQUE NOT NULL_ |
+|       | description | character varying(255) | _NOT NULL_        |
 
 project Structure
 
@@ -393,22 +355,20 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [wwwuser_project](Chado_Tables#Table:_wwwuser_project "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_tableinfo" class="mw-headline">Table: tableinfo</span>
 
 | F-Key | Name                | Type                  | Description              |
-|-------|---------------------|-----------------------|--------------------------|
-|       | tableinfo_id        | serial                | *PRIMARY KEY*            |
-|       | name                | character varying(30) | *UNIQUE NOT NULL*        |
+| ----- | ------------------- | --------------------- | ------------------------ |
+|       | tableinfo_id        | serial                | _PRIMARY KEY_            |
+|       | name                | character varying(30) | _UNIQUE NOT NULL_        |
 |       | primary_key_column  | character varying(30) |                          |
-|       | is_view             | integer               | *NOT NULL*               |
+|       | is_view             | integer               | _NOT NULL_               |
 |       | view_on_table_id    | integer               |                          |
 |       | superclass_table_id | integer               |                          |
-|       | is_updateable       | integer               | *NOT NULL DEFAULT 1*     |
-|       | modification_date   | date                  | *NOT NULL DEFAULT now()* |
+|       | is_updateable       | integer               | _NOT NULL DEFAULT 1_     |
+|       | modification_date   | date                  | _NOT NULL DEFAULT now()_ |
 
 tableinfo Structure
 
@@ -420,10 +380,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [magedocumentation](Chado_Tables#Table:_magedocumentation "Chado Tables")
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -431,48 +388,23 @@ Tables referencing this one via Foreign Key Constraints:
 - [Chado Modules](Category%253AChado_Modules "Category%253AChado Modules")
 - [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -482,18 +414,12 @@ Tables referencing this one via Foreign Key Constraints:
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_General_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 04:36 on 18 February
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 04:36 on 18 February 2015.</span>
 <!-- - <span id="footer-info-viewcount">144,125 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -502,10 +428,4 @@ Tables referencing this one via Foreign Key Constraints:
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

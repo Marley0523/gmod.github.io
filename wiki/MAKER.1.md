@@ -187,21 +187,10 @@ title="Apollo">Apollo</a>.</li>
 MAKER comes with sample data for testing purposes. See the
 <code>/data</code> directory in the download. <code>/data</code>
 directory in the download. , Review article on
-eukaryotic genome annotation from the MAKER team. <span
-class="smwsearch"><a
-href="Special%253ASearchByProperty/Has-20description/Review-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team."
-title="Special%253ASearchByProperty/Has-20description/Review-20article-20on-20eukaryotic-20genome-20annotation-20from-20the-20MAKER-20team.">+</a></span>,
-MAKER with additional software for plant genome annotation <span
-class="smwsearch"><a
-href="Special%253ASearchByProperty/Has-20description/MAKER-20with-20additional-20software-20for-20plant-20genome-20annotation"
-title="Special%253ASearchByProperty/Has-20description/MAKER-20with-20additional-20software-20for-20plant-20genome-20annotation">+</a></span>,
-online version of the MAKER tool <span class="smwsearch"><a
-href="Special%253ASearchByProperty/Has-20description/online-20version-20of-20the-20MAKER-20tool"
-title="Special%253ASearchByProperty/Has-20description/online-20version-20of-20the-20MAKER-20tool">+</a></span>
-and The ant genomes were annotated using MAKER. <span
-class="smwsearch"><a
-href="Special%253ASearchByProperty/Has-20description/The-20ant-20genomes-20were-20annotated-20using-20MAKER."
-title="Special%253ASearchByProperty/Has-20description/The-20ant-20genomes-20were-20annotated-20using-20MAKER.">+</a></span></td>
+eukaryotic genome annotation from the MAKER team. ,
+MAKER with additional software for plant genome annotation ,
+online version of the MAKER tool 
+and The ant genomes were annotated using MAKER. </td>
 </tr>
 <tr class="even row-even">
 <td class="smwpropname"><a href="Property%253AHas_development_status"
