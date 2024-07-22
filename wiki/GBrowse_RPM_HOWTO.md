@@ -1,27 +1,6 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">GBrowse RPM HOWTO</span>
-
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=GBrowse_RPM_HOWTO&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 **Important note:** The instructions below will install a relatively old
 version of GBrowse (1.54 I think). To install a newer version, first
@@ -34,10 +13,7 @@ page](GBrowse_Install_HOWTO "GBrowse Install HOWTO") for using the net
 install script. If you don't want or need the 'bleating edge', just
 ignore this note.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Biopackages</span>](#Biopackages)
@@ -47,8 +23,6 @@ ignore this note.
   Packages</span>](#Installing_Packages)
 - [<span class="tocnumber">4</span>
   <span class="toctext">Authors</span>](#Authors)
-
-
 
 # <span id="Biopackages" class="mw-headline">Biopackages</span>
 
@@ -120,14 +94,10 @@ O'Connor 12:12, 19 April 2007 (PDT)
 Updated the install description of Biopackages to use our new
 configuration RPMs.
 
-  
 Brian
 O'Connor 12:18, 05 June 2007 (PDT)
 
 Added note about install path for gbrowse.
-
-
-
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -136,48 +106,23 @@ Added note about install path for gbrowse.
 - [HOWTO](Category%253AHOWTO "Category%253AHOWTO")
 - [Linux](Category%253ALinux "Category%253ALinux")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -187,18 +132,12 @@ Added note about install path for gbrowse.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GBrowse_RPM_HOWTO" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 11:32 on 28 October
-  2008.</span>
+- <span id="footer-info-lastmod">Last updated at 11:32 on 28 October 2008.</span>
 <!-- - <span id="footer-info-viewcount">78,137 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -207,10 +146,4 @@ Added note about install path for gbrowse.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

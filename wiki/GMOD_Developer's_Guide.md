@@ -1,35 +1,10 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">GMOD Developer's Guide</span>
 
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=GMOD_Developer%27s_Guide&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-  
 This is the GMOD Developer's Guide.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Favored
   Platforms</span>](#Favored_Platforms)
@@ -63,8 +38,6 @@ This is the GMOD Developer's Guide.
   Release would Contain</span>](#A_First_GMOD_Release_would_Contain)
 - [<span class="tocnumber">5</span> <span class="toctext">Creating a
   software release</span>](#Creating_a_software_release)
-
-
 
 ## <span id="Favored_Platforms" class="mw-headline">Favored Platforms</span>
 
@@ -132,8 +105,6 @@ Linux, Windows, Mac OSX.
   segments.
 - How to test?
 
-  
-
 ## <span id="Server_Side_Directory_Structure" class="mw-headline">Server Side Directory Structure</span>
 
 - \$GMOD_HOME=**/usr/local/gmod/** (default -- set before installing)
@@ -159,17 +130,14 @@ Prefix all executables with 2-3 letter app prefix
   - **examples/** -- appname
   - **src/** -- appname
 
-  
-
 - \$CLASS_PATH := \$GMOD_HOME/lib\[/app\]
 - Suggested CGI Parameter Names:
+
   - db=short symbolic name of datasource (MOD), used to look up conf
     file
   - class=object class within db to search
   - id=unique primary key
   - name=human readable, possibly ambiguous string
-
-  
 
 - What if multiple DB instances running on same site?
 - Package manager?
@@ -177,8 +145,6 @@ Prefix all executables with 2-3 letter app prefix
   - Developer side
   - Release testing: alpha, beta
   - Installer side
-
-  
 
 ## <span id="Interoperation" class="mw-headline">Interoperation</span>
 
@@ -222,8 +188,6 @@ Prefix all executables with 2-3 letter app prefix
   - GAME2chadx, chadx2game
   - BSML2chado loader @ TIGR
 
-  
-
 ## <span id="A_First_GMOD_Release_would_Contain" class="mw-headline">A First GMOD Release would Contain</span>
 
 - Sample data
@@ -237,8 +201,6 @@ Prefix all executables with 2-3 letter app prefix
 - Apollo
 - Other support tools (chadx dumpers and loaders,xxx2chadx translators)
 - DOCUMENTATION (README, INSTALL, CONFIGURATION-HOWTO)
-
-  
 
 ## <span id="Creating_a_software_release" class="mw-headline">Creating a software release</span>
 
@@ -283,56 +245,28 @@ This page should contain the following information:
 - Links to downloads
 - Author contact information
 
-
-
-
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Needs Editing](Category%253ANeeds_Editing "Category%253ANeeds Editing")
 - [GMOD Developers](Category%253AGMOD_Developers "Category%253AGMOD Developers")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -342,18 +276,12 @@ This page should contain the following information:
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Developer&#39;s_Guide"
   rel="smw-browse">Browse properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 05:18 on 28 January
-  2008.</span>
+- <span id="footer-info-lastmod">Last updated at 05:18 on 28 January 2008.</span>
 <!-- - <span id="footer-info-viewcount">44,982 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -362,10 +290,4 @@ This page should contain the following information:
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

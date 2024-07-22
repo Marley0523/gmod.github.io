@@ -1,28 +1,11 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">GMOD Promotion</span>
-
-
-
-
-
-
-
-
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/310px-PoweredByGMOD.png"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/8/84/PoweredByGMOD.png/465px-PoweredByGMOD.png 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/84/PoweredByGMOD.png 2x"
 width="310" height="147" alt="Powered by GMOD" />
-
 
 There are a number of resources available to help spread the word about
 the GMOD project. This serves (at least) three interrelated purposes.
@@ -35,12 +18,7 @@ the GMOD project. This serves (at least) three interrelated purposes.
 3.  Increased adoption and development help the project and the
     components get funding.
 
-  
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span> <span class="toctext">Citing
   GMOD</span>](#Citing_GMOD)
@@ -63,8 +41,6 @@ the GMOD project. This serves (at least) three interrelated purposes.
 - [<span class="tocnumber">7</span>
   <span class="toctext">Brochures</span>](#Brochures)
 
-
-
 ## <span id="Citing_GMOD" class="mw-headline">Citing GMOD</span>
 
 There is not yet a GMOD project paper. It is perpetually on our todo
@@ -85,14 +61,10 @@ predates that.
 
 ## <span id="Powered_by_GMOD" class="mw-headline">[Powered by GMOD](Powered_by_GMOD "Powered by GMOD")</span>
 
-
-
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e3/PoweredByGMOD80.png" width="80"
 height="38" alt="Powered by GMOD" />](Powered_by_GMOD "Powered by GMOD")
 
-
-
-*"Powered by GMOD"* icons are [available in a number of different
+_"Powered by GMOD"_ icons are [available in a number of different
 resolutions](Powered_by_GMOD "Powered by GMOD") for inclusion on web
 sites, in talks, and on posters and other printed material. This is an
 easy way to let people know just how widely used (and how widely useful)
@@ -100,12 +72,8 @@ GMOD is.
 
 ## <span id="Speakers" class="mw-headline">Speakers</span>
 
-
-
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/38/MitchSpeaking2009.jpg" width="150"
 height="100" alt="Mitch speaking" />](Training_and_Outreach "Mitch speaking")
-
-
 
 Speakers are available to give presentations at your institution or
 event. Past topics have included project overviews (e.g., [Database
@@ -149,11 +117,8 @@ that can help you.
 
 ### <span id="Graphics" class="mw-headline">Graphics</span>
 
-<a
-href="http://gmod.org/mediawiki/index.php?title=Special:Upload&amp;wpDestFile=GMOD-three-cogs-200.png"
-class="new" title="File:GMOD-three-cogs-200.png">GMOD Logo</a> [GMOD
-Project
-Logos](Category%253AGMOD_Project_Logos "Category%253AGMOD Project Logos") -
+![GMOD Logos](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/d/d1/GMOD-three-cogs.png/300px-GMOD-three-cogs.pngGMOD-three-cogs-200.png)
+[GMOD Project Logos](Category%253AGMOD_Project_Logos "Category%253AGMOD Project Logos") -
 Logos related to the project as a whole.
 
 [<img src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/33/CMapLogo.png/50px-CMapLogo.png"
@@ -172,59 +137,34 @@ organizations that contribute to or use GMOD.
 
 ### <span id="Slides" class="mw-headline">Slides</span>
 
-
 - [Conferences](Category%253AConferences "Category%253AConferences")
 - [Education and
   Outreach](Category%253AEducation_and_Outreach "Category%253AEducation and Outreach")
 - [Events](Category%253AEvents "Category%253AEvents")
 - [GMOD Project](Category%253AGMOD_Project "Category%253AGMOD Project")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
 ### Namespaces
-
 
 - <span id="ca-talk"><a href="Talk%253AGMOD_Promotion" accesskey="t"
   title="Discussion about the content page [t]">Discussion</a></span>
 
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -234,18 +174,12 @@ organizations that contribute to or use GMOD.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/GMOD_Promotion" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 18:14 on 8 January
-  2013.</span>
+- <span id="footer-info-lastmod">Last updated at 18:14 on 8 January 2013.</span>
 <!-- - <span id="footer-info-viewcount">422,729 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -254,10 +188,4 @@ organizations that contribute to or use GMOD.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

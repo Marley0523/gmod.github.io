@@ -1,32 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado Phylogeny Module</span>
 
-
-
-
-
-
-
-
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_Phylogeny_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -55,8 +31,6 @@
   - [<span class="tocnumber">3.8</span> <span class="toctext">Table:
     phylotree_pub</span>](#Table:_phylotree_pub)
 
-
-
 # <span id="Introduction" class="mw-headline">Introduction</span>
 
 For representing phylogenetic trees; the trees represent the phylogeny
@@ -79,8 +53,6 @@ feature of type SO:match. Please refer to the [sequence module
 docs](Chado_Sequence_Module "Chado Sequence Module") for details on
 storing multiple alignments.
 
-  
-
 ### <span id="Annotating_nodes" class="mw-headline">Annotating nodes</span>
 
 Each node can have a feature attached; this 'feature' is the multiple
@@ -98,8 +70,6 @@ href="http://www.oreillynet.com/pub/a/network/2002/11/27/bioconf.html"
 class="external free"
 rel="nofollow">http://www.oreillynet.com/pub/a/network/2002/11/27/bioconf.html</a>.
 
-  
-
 ### <span id="Open_Issues" class="mw-headline">Open Issues</span>
 
 Should there be an additional table, phylonode_relationshipprop? This
@@ -109,14 +79,10 @@ bootstrapping details or divergence times. The current thinking is that
 such a table should be created but input from the Chado designers would
 be useful here.
 
-  
-
 # <span id="More_Information" class="mw-headline">More Information</span>
 
 See the page on the related [Organism
 module](Chado_Organism_Module "Chado Organism Module").
-
-  
 
 # <span id="Tables" class="mw-headline">Tables</span>
 
@@ -247,7 +213,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [phylonodeprop](Chado_Tables#Table:_phylonodeprop "Chado Tables")
 
-------------------------------------------------------------------------
+---
 
 ## <span id="Table:_phylonode_dbxref" class="mw-headline">Table: phylonode_dbxref</span>
 
@@ -255,17 +221,15 @@ For example, for orthology, paralogy group identifiers; could also be
 used for NCBI taxonomy; for sequences, refer to phylonode_feature,
 feature associated dbxrefs.
 
-| FK | Name | Type | Description |
-|----|----|----|----|
-|  | phylonode_dbxref_id | serial | *PRIMARY KEY* |
-| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | phylonode_id | integer | *UNIQUE#1 NOT NULL* |
-| [dbxref](Chado_Tables#Table:_dbxref "Chado Tables") | dbxref_id | integer | *UNIQUE#1 NOT NULL* |
+| FK                                                        | Name                | Type    | Description         |
+| --------------------------------------------------------- | ------------------- | ------- | ------------------- |
+|                                                           | phylonode_dbxref_id | serial  | _PRIMARY KEY_       |
+| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | phylonode_id        | integer | _UNIQUE#1 NOT NULL_ |
+| [dbxref](Chado_Tables#Table:_dbxref "Chado Tables")       | dbxref_id           | integer | _UNIQUE#1 NOT NULL_ |
 
 phylonode_dbxref Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylonode_organism" class="mw-headline">Table: phylonode_organism</span>
 
@@ -319,23 +283,19 @@ title="Chado Tables">organism</a></p></td>
 
 phylonode_organism Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylonode_pub" class="mw-headline">Table: phylonode_pub</span>
 
-| FK | Name | Type | Description |
-|----|----|----|----|
-|  | phylonode_pub_id | serial | *PRIMARY KEY* |
-| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | phylonode_id | integer | *UNIQUE#1 NOT NULL* |
-| [pub](Chado_Tables#Table:_pub "Chado Tables") | pub_id | integer | *UNIQUE#1 NOT NULL* |
+| FK                                                        | Name             | Type    | Description         |
+| --------------------------------------------------------- | ---------------- | ------- | ------------------- |
+|                                                           | phylonode_pub_id | serial  | _PRIMARY KEY_       |
+| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | phylonode_id     | integer | _UNIQUE#1 NOT NULL_ |
+| [pub](Chado_Tables#Table:_pub "Chado Tables")             | pub_id           | integer | _UNIQUE#1 NOT NULL_ |
 
 phylonode_pub Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylonode_relationship" class="mw-headline">Table: phylonode_relationship</span>
 
@@ -343,20 +303,18 @@ This is for relationships that are not strictly hierarchical; for
 example, horizontal gene transfer. Most phylogenetic trees are strictly
 hierarchical, nevertheless it is here for completeness.
 
-| FK | Name | Type | Description |
-|----|----|----|----|
-|  | phylonode_relationship_id | serial | *PRIMARY KEY* |
-| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | subject_id | integer | *UNIQUE#1 NOT NULL* |
-| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | object_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | type_id | integer | *UNIQUE#1 NOT NULL* |
-|  | rank | integer |  |
-| [phylotree](Chado_Tables#Table:_phylotree "Chado Tables") | phylotree_id | integer | *NOT NULL* |
+| FK                                                        | Name                      | Type    | Description         |
+| --------------------------------------------------------- | ------------------------- | ------- | ------------------- |
+|                                                           | phylonode_relationship_id | serial  | _PRIMARY KEY_       |
+| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | subject_id                | integer | _UNIQUE#1 NOT NULL_ |
+| [phylonode](Chado_Tables#Table:_phylonode "Chado Tables") | object_id                 | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables")       | type_id                   | integer | _UNIQUE#1 NOT NULL_ |
+|                                                           | rank                      | integer |                     |
+| [phylotree](Chado_Tables#Table:_phylotree "Chado Tables") | phylotree_id              | integer | _NOT NULL_          |
 
 phylonode_relationship Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylonodeprop" class="mw-headline">Table: phylonodeprop</span>
 
@@ -418,9 +376,7 @@ species taxonomy (kingdom, order, family, genus, species),
 
 phylonodeprop Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylotree" class="mw-headline">Table: phylotree</span>
 
@@ -502,27 +458,22 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [phylotree_pub](Chado_Tables#Table:_phylotree_pub "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_phylotree_pub" class="mw-headline">Table: phylotree_pub</span>
 
 Tracks citations global to the tree e.g. multiple sequence alignment
 supporting tree construction.
 
-| FK | Name | Type | Description |
-|----|----|----|----|
-|  | phylotree_pub_id | serial | *PRIMARY KEY* |
-| [phylotree](Chado_Tables#Table:_phylotree "Chado Tables") | phylotree_id | integer | *UNIQUE#1 NOT NULL* |
-| [pub](Chado_Tables#Table:_pub "Chado Tables") | pub_id | integer | *UNIQUE#1 NOT NULL* |
+| FK                                                        | Name             | Type    | Description         |
+| --------------------------------------------------------- | ---------------- | ------- | ------------------- |
+|                                                           | phylotree_pub_id | serial  | _PRIMARY KEY_       |
+| [phylotree](Chado_Tables#Table:_phylotree "Chado Tables") | phylotree_id     | integer | _UNIQUE#1 NOT NULL_ |
+| [pub](Chado_Tables#Table:_pub "Chado Tables")             | pub_id           | integer | _UNIQUE#1 NOT NULL_ |
 
 phylotree_pub Structure
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -531,48 +482,23 @@ phylotree_pub Structure
 - [Evolution](Category%253AEvolution "Category%253AEvolution")
 - [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -582,18 +508,12 @@ phylotree_pub Structure
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Phylogeny_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 04:39 on 18 February
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 04:39 on 18 February 2015.</span>
 <!-- - <span id="footer-info-viewcount">88,661 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -602,10 +522,4 @@ phylotree_pub Structure
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-

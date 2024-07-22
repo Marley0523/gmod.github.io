@@ -1,26 +1,8 @@
-
-
-
-
 <span id="top"></span>
-
-
-
 
 # <span dir="auto">Chado CV Module</span>
 
-
-
-
-
-
-
-
-
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">Introduction</span>](#Introduction)
@@ -41,7 +23,7 @@
       Relations</span>](#Transitivity_of_other_Relations)
     - [<span class="tocnumber">1.5.2</span>
       <span class="toctext">Transitivity over
-      *is_a*</span>](#Transitivity_over_is_a)
+      _is_a_</span>](#Transitivity_over_is_a)
     - [<span class="tocnumber">1.5.3</span>
       <span class="toctext">Difference between Deductive Closure and
       Transitive
@@ -101,8 +83,6 @@
   - [<span class="tocnumber">2.8</span> <span class="toctext">Table:
     dbxrefprop</span>](#Table:_dbxrefprop)
 
-
-
 # <span id="Introduction" class="mw-headline">Introduction</span>
 
 This module is for controlled vocabularies (CVs), semantic networks and
@@ -130,7 +110,7 @@ The schema is similar to the
 class="external text" rel="nofollow">GO database schema</a>, which was
 also developed by one of the Chado designers.
 
-There is a *bridge* layer in the directory `modules/cv/bridges/`, which
+There is a _bridge_ layer in the directory `modules/cv/bridges/`, which
 can make the Chado cv module look like the GO DB, and vice versa.
 
 ## <span id="Overview" class="mw-headline">Overview</span>
@@ -150,9 +130,9 @@ cvterms are related to one another via
 of as a graph, or semantic network. The relationship types (the labels
 on the arcs of the graph) are also stored in the
 [cvterm](#Table:_cvterm) table. The relationship types are extensible,
-but the type *is a* (subtyping relationship) is assumed to be present;
-many OBO ontologies use the *part of* relationship, and GO also uses the
-*regulates* relation. Relationship types also come from a controlled
+but the type _is a_ (subtyping relationship) is assumed to be present;
+many OBO ontologies use the _part of_ relationship, and GO also uses the
+_regulates_ relation. Relationship types also come from a controlled
 vocabulary, the
 <a href="http://obofoundry.org/ro/" class="external text"
 rel="nofollow">OBO Relation Ontology</a>.
@@ -184,7 +164,7 @@ feature.
 
 For example, we may want to attach GO annotations to gene or protein
 features. We may also want to attach phenotypic terms to gene features
-(although the preferred way to do this is *via* a genotype using the
+(although the preferred way to do this is _via_ a genotype using the
 [genetics module](Chado_Genetic_Module "Chado Genetic Module")).
 
 ## <span id="Complex_annotations" class="mw-headline">Complex annotations</span>
@@ -201,27 +181,18 @@ have
     foo  | GO:002
     foo  | GO:003
 
-  
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_CV_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
-
 **The text above was taken from <a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/schema/trunk/chado/modules/cv/"
 class="external text"
 rel="nofollow"><code>modules/cv/cv-intro.txt</code></a> , which was
 incomplete** (and no longer exists).
 
-  
 The [sequence module](Chado_Sequence_Module "Chado Sequence Module")
 makes extensive use of terms taken from various ontologies such as
 <a href="http://song.sourceforge.net/" class="external text"
 rel="nofollow">SO</a> and the
 <a href="http://obofoundry.org" class="external text"
-rel="nofollow">OBO</a> Relations Ontology, using the *type_id* foreign
+rel="nofollow">OBO</a> Relations Ontology, using the _type_id_ foreign
 key column. In addition, features can be annotated using ontologies such
 as GO using the
 [feature_cvterm](Chado_Tables#Table:_feature_cvterm "Chado Tables")
@@ -241,20 +212,20 @@ terms are stored in the
 [cvterm_relationship](#Table:_cvterm_relationship) table. This table
 follows an analogous structure to the
 [feature_relationship](Chado_Tables#Table:_feature_relationship "Chado Tables")
-table, in that it has columns *subject_id*, *object_id* and *type_id*.
+table, in that it has columns _subject_id_, _object_id_ and _type_id_.
 Here, all three of these foreign keys refer to rows in the
 [cvterm](#Table:_cvterm) table.
 
 A brief treatment of relationship types in biological ontologies can be
 <a href="http://www.geneontology.org/GO.ontology.relations.shtml"
 class="external text" rel="nofollow">found here</a>. Of particular
-interest to Chado is the *is_a* relation, which specifies a sub-typing
+interest to Chado is the _is_a_ relation, which specifies a sub-typing
 relationship between two terms or classes. Recall that tables in the
 sequence module frequently (such as the [feature
-table](Chado_Tables#Table:_feature "Chado Tables")) defined a *type_id*
+table](Chado_Tables#Table:_feature "Chado Tables")) defined a _type_id_
 foreign key column to indicate the specific type or class of entity for
-each row in that table. The combination of the *type_id* column and the
-*is_a* relationship gives Chado a data sub-classing system, beyond what
+each row in that table. The combination of the _type_id_ column and the
+_is_a_ relationship gives Chado a data sub-classing system, beyond what
 is possible with traditional SQL database semantics.
 
 This is discussed further below. The collection of cvterms and
@@ -263,11 +234,10 @@ in a graph. This graph is typically acyclic (a
 [DAG](Glossary#DAG "Glossary")), though it is not guaranteed to be as
 certain relationship types are allowed to form cycles.
 
-  
-
 | SO Term | SO id |
-|----|----|
-| exon | <a
+| ------- | ----- |
+| exon    | <a    |
+
 href="http://www.sequenceontology.org/miso/current_release/term/SO:0000147"
 class="external text" rel="nofollow">SO:0000147</a> |
 | intron | <a
@@ -292,8 +262,8 @@ Often it is useful to know the
 <a href="http://en.wikipedia.org/wiki/Transitive_closure" class="extiw"
 title="wp:Transitive closure">transitive closure</a> over a relationship
 type, or a collection of relationship types. The closure is the result
-of recursively applying the relationship. For example, if A *is_a* B, *B
-is_a C*, then the closure of *is_a* includes A *is_a* C.
+of recursively applying the relationship. For example, if A _is_a_ B, _B
+is_a C_, then the closure of _is_a_ includes A _is_a_ C.
 
 In particular, we want the reflexive transitive closure. A term is
 always related to itself in a reflexive closure. Meaning:
@@ -310,23 +280,23 @@ network.
 
 ### <span id="Transitivity_of_other_Relations" class="mw-headline">Transitivity of other Relations</span>
 
-Many other relations, such as *part_of* are also transitive.
+Many other relations, such as _part_of_ are also transitive.
 
 If R is a transitive relation, then we can say
 
     X R Z <= X R Y, Y R Z
 
-For example, assume we have the following 3 *develops_from* links, and
-*develops_from* is a transitive relation:
+For example, assume we have the following 3 _develops_from_ links, and
+_develops_from_ is a transitive relation:
 
      neurectodermal cell develops_from glioblast
      glioblast develops_from glial cell
 
 Then it follows that glial cells develop from neurectodermal cells
 
-### <span id="Transitivity_over_is_a" class="mw-headline">Transitivity over *is_a*</span>
+### <span id="Transitivity_over_is_a" class="mw-headline">Transitivity over _is_a_</span>
 
-It can be proved from the definition of *is_a* (proof not shown here)
+It can be proved from the definition of _is_a_ (proof not shown here)
 that:
 
      X R Z <= X is_a Y, Y R Z
@@ -337,16 +307,16 @@ and
 
 This can be thought of as "inheritance".
 
-For example, if an astrocyte *is_a* glial cell and a glial cell
-*develops_from* a glioblast, then it follows that an astrocyte
-*develop_from* a glioblast.
+For example, if an astrocyte _is_a_ glial cell and a glial cell
+_develops_from_ a glioblast, then it follows that an astrocyte
+_develop_from_ a glioblast.
 
 ### <span id="Difference_between_Deductive_Closure_and_Transitive_Closure" class="mw-headline">Difference between Deductive Closure and Transitive Closure</span>
 
 With a transitive closure we simply follow all links in the
 [DAG](Glossary#DAG "Glossary"), ignoring the relationship type. This
-works fine for ontologies such as GO that have only *is_a* and
-*part_of*, but is not ideal for other ontologies such as anatomical
+works fine for ontologies such as GO that have only _is_a_ and
+_part_of_, but is not ideal for other ontologies such as anatomical
 ontologies.
 
 First of all, it may be possible for the closure to grow in size
@@ -366,7 +336,7 @@ relationships.
 
 Normal (direct) relationships are stored in the
 [cvterm_relationship](#Table:_cvterm_relationship) table. A entry in
-this table represents a *cvterm_relationship* S over some relation R.
+this table represents a _cvterm_relationship_ S over some relation R.
 
     S = Subj R Obj
 
@@ -374,10 +344,10 @@ For example:
 
     S = "cardioblast" develops_from "mesodermal cell"
 
-In addition to these *asserted* links, we want to be able to *deduce*
+In addition to these _asserted_ links, we want to be able to _deduce_
 links between terms.
 
-If X *is_a* Y, then it follows that all of Y's
+If X _is_a_ Y, then it follows that all of Y's
 [cvterm_relationship](#Table:_cvterm_relationship) statements are
 inherited by X.
 
@@ -396,18 +366,18 @@ Therefore:
 
      "cilium axoneme"  part_of(inh) "cell projection"
 
-Here we use *T(inh)* to represent an inherited relationship.
+Here we use _T(inh)_ to represent an inherited relationship.
 
 ### <span id="Populating_cvtermpath" class="mw-headline">Populating cvtermpath</span>
 
 The [cvtermpath](#Table:_cvtermpath) table stores the reflexive
 transitive closure of a relationship, taking into account subsumption or
 inheritance. The number of intermediate relationships is represented in
-the *distance* column of the table.
+the _distance_ column of the table.
 
-Here we use *T(path)* to represent the "path" or closure of a
-relationship. Every *T(path)* is stored in
-[cvtermpath](#Table:_cvtermpath) . We use the same *cvterm* for T, the
+Here we use _T(path)_ to represent the "path" or closure of a
+relationship. Every _T(path)_ is stored in
+[cvtermpath](#Table:_cvtermpath) . We use the same _cvterm_ for T, the
 fact that it is a path is implicit.
 
 We use these rules:
@@ -430,7 +400,7 @@ distance = 1.
 Transitive relationships:
 
 These have distance \> 1; these also make use of inheritance rule,
-**Rule 1**, which gives us *T(inh)*.
+**Rule 1**, which gives us _T(inh)_.
 
     If X T(inh)  Y
     and  Y T(path) Z
@@ -446,25 +416,25 @@ combinatorial explosions over certain ontologies (e.g.
 class="external text" rel="nofollow">Flybase anatomy ontology</a>). What
 does this mean in practice?
 
-For a typical database, which may only have relations *isa*, *part_of*
-and *develops_from*, we will end up with 3 sets of paths.
+For a typical database, which may only have relations _isa_, _part_of_
+and _develops_from_, we will end up with 3 sets of paths.
 
-The *isa* closure, *isa (path)* will include paths over
+The _isa_ closure, _isa (path)_ will include paths over
 cvterm_relationships that look like this:
 
     a is_a b is_a c is_a d is_a e
 
-The *part_of* closure, *part_of(path)* will include paths over
+The _part_of_ closure, _part_of(path)_ will include paths over
 cvterm_relationships that look like this:
 
     a is_a b part_of c part_of d is_a e part_of f
 
-The *develops_from* closure, *develops_from(path)* will include paths
+The _develops_from_ closure, _develops_from(path)_ will include paths
 over cvterm_relationships that look like this:
 
     a develops_from b develops_from c is_a d is_a e develops_from f
 
-It may be tempting to mix different non-*isa* relationships in the same
+It may be tempting to mix different non-_isa_ relationships in the same
 path, but this should **never** be done - there will be an unacceptable
 combinatorial explosion in many cases. Besides, there is no use for such
 a cvtermpath; it is meaningless.
@@ -476,8 +446,6 @@ query [cvtermpath](#Table:_cvtermpath), ignoring cvtermpath.type_id
 (these are obtained by querying
 [cvterm_relationship](#Table:_cvterm_relationship)).
 
-  
-
 ## <span id="Advanced_Usage" class="mw-headline">Advanced Usage</span>
 
 This section describes advanced usage of the cv module for use with
@@ -487,7 +455,6 @@ ontology formalisms.
 If you aren't sure what this means, you probably don't need to read this
 section yet.
 
-  
 Note that this section is liable to change; in particular the scheme
 below may be replaced with a simpler one. For details of the simpler
 scheme, along the lines of the transform used in the GO Database. See:
@@ -546,8 +513,7 @@ Here is the OBO 1.2 representation:
 
 Here is the equivalent in OWL (note: RDF-XML syntax is very verbose!):
 
-
-``` de1
+```de1
   <owl:Class rdf:ID="GO_0008345">
     <rdfs:label xml:lang="en">larval locomotory behavior</rdfs:label>
     <rdfs:subClassOf rdf:resource="#GO_0007626"/>
@@ -568,12 +534,10 @@ Here is the equivalent in OWL (note: RDF-XML syntax is very verbose!):
   </owl:Class>
 ```
 
-
 When converting to Chado we employ a more economical representation, in
 terms of the number of triples we use:
 
-
-``` de1
+```de1
   <!-- normal DAG relationships (necessary conditions) -->
   <cvterm_relationship>
     <type_id>is_a</type_id>
@@ -627,7 +591,6 @@ terms of the number of triples we use:
   </cvterm_relationship>
 ```
 
-
 Note that in the above, we are creating **anonymous** terms. We give
 them fake names and fake dbxrefs. In the <a
 href="http://gmod.svn.sourceforge.net/viewvc/gmod/schema/branches/bbop-experimental/"
@@ -642,16 +605,16 @@ If you wish to convert OBO-specified logical definitions to [Chado
 XML](Chado_XML "Chado XML") you will need
 <a href="http://www.godatabase.org/dev/pod/go-perl.html"
 class="external text" rel="nofollow">go-perl</a>, v0.05 or higher (if
-you have a lower version, the *intersection_of* tags will simply be
+you have a lower version, the _intersection_of_ tags will simply be
 ignored).
 
     go2chadoxml ont.obo > ont.chado
 
 ### <span id="How_Logical_Definitions_are_Stored_in_Chado" class="mw-headline">How Logical Definitions are Stored in Chado</span>
 
-This involves no schema changes to the cv module. Each *intersection_of*
+This involves no schema changes to the cv module. Each _intersection_of_
 goes in as a [DAG](Glossary#DAG "Glossary") arc of type
-*internal:intersection_of*. The *object_id* in the arc is either a term
+_internal:intersection_of_. The _object_id_ in the arc is either a term
 (for the genus) or an anonymous term representing a restriction (the
 differentium). The restriction has a relationship of some type to
 another term.
@@ -677,32 +640,29 @@ class="external text" rel="nofollow">go-perl</a> package), like this:
 
 Then the *intersection_of*s get stored using the basic DAG tables as:
 
-  
-
 | Subject  | Relation          | Object               |
-|----------|-------------------|----------------------|
-| LLB      | *intersection_of* | Locomotory Behaviour |
-| LLB      | *intersection_of* | anon:xxx             |
+| -------- | ----------------- | -------------------- |
+| LLB      | _intersection_of_ | Locomotory Behaviour |
+| LLB      | _intersection_of_ | anon:xxx             |
 | anon:xxx | during            | FBv:00005336         |
 
 Definition stored in [cvterm_relationship](#Table:_cvterm_relationship)
 table
 
-  
 This uses 4 cvterm_relationships and the creation of a new **anonymous**
 term that is never shown directly to the user. The anonymous term
 represents the class of things that happen during the larval stage.
 
 ### <span id="Logical_Definition_Views" class="mw-headline">Logical Definition Views</span>
 
-Two views: *cvterm_genus* and *cvterm_differentium* views are in
+Two views: _cvterm_genus_ and _cvterm_differentium_ views are in
 chado/modules/cv/views.
 
 ### <span id="Example_Use_Case:_Phenotypes" class="mw-headline">Example Use Case: [Phenotypes](Category%253APhenotypes "Category%253APhenotypes")</span>
 
 The idea here is that queries for composed term "syndactyly" should
 automatically return the same results as a boolean query for "fusion" +
-*inheres_in* = "finger" regardless of whether the annotation is to the
+_inheres_in_ = "finger" regardless of whether the annotation is to the
 composed term or is a composed annotation (provided we put the logical
 definition of syndactyly in the database).
 
@@ -726,7 +686,7 @@ class="external free"
 rel="nofollow">http://www.fruitfly.org/~cjm/obol/doc/go-complexity.html</a>
 
 If all terms have logical definitions, then there is only one **true**
-(genus) or *isa* parent. This enables us to disentangle the DAGs and
+(genus) or _isa_ parent. This enables us to disentangle the DAGs and
 draw distinct hierarchies. For example, the GO term **cysteine
 biosynthesis** could be drawn as two distinct hierarchies - one process
 and one chemical.
@@ -761,8 +721,7 @@ using the same formalism as described above. Briefly: we would create an
 "plasma membrane" and "spermatocyte", using a genus-differentia
 definition as above.
 
-
-``` de1
+```de1
   <!-- Genus/generic term -->
   <cvterm_relationship>
     <type_id>intersection_of</type_id>
@@ -804,19 +763,12 @@ definition as above.
   </cvterm_relationship>
 ```
 
-
 The above assumes [XORT](XORT.1 "XORT") macro IDs defined for
-*GO\_\_plasma_membrane* and *CL\_\_spermatocyte*.
+_GO\_\_plasma_membrane_ and _CL\_\_spermatocyte_.
 
 Allow post-coordinated terms places a greater burden on applications
 that use the cv module. More documentation will be provided here on
 this.
-
-> **This page or section needs to be edited.**
-> <span class="small">Please help by <span class="plainlinks"><a
-> href="http://gmod.org/mediawiki/index.php?title=Chado_CV_Module&amp;action=edit"
-> class="external text" rel="nofollow">editing this page</a></span> to
-> add your revisions or additions.</span>
 
 # <span id="Tables" class="mw-headline">Tables</span>
 
@@ -880,9 +832,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [cvtermpath](Chado_Tables#Table:_cvtermpath "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvterm" class="mw-headline">Table: cvterm</span>
 
@@ -1235,9 +1185,7 @@ Tables referencing this one via Foreign Key Constraints:
 
 - [wwwuser_cvterm](Chado_Tables#Table:_wwwuser_cvterm "Chado Tables")
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvterm_dbxref" class="mw-headline">Table: cvterm_dbxref</span>
 
@@ -1309,9 +1257,7 @@ definition.</td>
 
 cvterm_dbxref Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvterm_relationship" class="mw-headline">Table: cvterm_relationship</span>
 
@@ -1385,9 +1331,7 @@ parent node.</td>
 
 cvterm_relationship Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvtermpath" class="mw-headline">Table: cvtermpath</span>
 
@@ -1466,9 +1410,7 @@ object cvterm, counting from zero (reflexive relationship).</td>
 
 cvtermpath Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvtermprop" class="mw-headline">Table: cvtermprop</span>
 
@@ -1540,9 +1482,7 @@ multi-valued, the default 0 value should be used.</td>
 
 cvtermprop Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_cvtermsynonym" class="mw-headline">Table: cvtermsynonym</span>
 
@@ -1601,9 +1541,7 @@ A synonym can be exact, narrower, or broader than.</td>
 
 cvtermsynonym Structure
 
-------------------------------------------------------------------------
-
-  
+---
 
 ## <span id="Table:_dbxrefprop" class="mw-headline">Table: dbxrefprop</span>
 
@@ -1611,20 +1549,17 @@ Metadata about a dbxref. Note that this is not defined in the dbxref
 module, as it depends on the cvterm table. This table has a structure
 analagous to cvtermprop.
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | dbxrefprop_id | serial | *PRIMARY KEY* |
-| [dbxref](Chado_Tables#Table:_dbxref "Chado Tables") | dbxref_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | type_id | integer | *UNIQUE#1 NOT NULL* |
-|  | value | text | *NOT NULL DEFAULT ''::text* |
-|  | rank | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                               | Name          | Type    | Description                 |
+| --------------------------------------------------- | ------------- | ------- | --------------------------- |
+|                                                     | dbxrefprop_id | serial  | _PRIMARY KEY_               |
+| [dbxref](Chado_Tables#Table:_dbxref "Chado Tables") | dbxref_id     | integer | _UNIQUE#1 NOT NULL_         |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | type_id       | integer | _UNIQUE#1 NOT NULL_         |
+|                                                     | value         | text    | _NOT NULL DEFAULT ''::text_ |
+|                                                     | rank          | integer | _UNIQUE#1 NOT NULL_         |
 
 dbxrefprop Structure
 
-------------------------------------------------------------------------
-
-
-
+---
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
@@ -1633,48 +1568,23 @@ dbxrefprop Structure
 - [Ontologies](Category%253AOntologies "Category%253AOntologies")
 - [!Lacking ERD](Category%253A!Lacking_ERD "Category%253A!Lacking ERD")
 
-
-
-
-
-
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -1684,18 +1594,12 @@ dbxrefprop Structure
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_CV_Module" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 04:35 on 18 February
-  2015.</span>
+- <span id="footer-info-lastmod">Last updated at 04:35 on 18 February 2015.</span>
 <!-- - <span id="footer-info-viewcount">510,098 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -1704,10 +1608,4 @@ dbxrefprop Structure
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
