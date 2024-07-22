@@ -140,8 +140,7 @@ alt="link=https://galaxyproject.org/events/gcc2019/ 2019 Galaxy Community Confer
 
 <h3 id="galaxy-community-conferenceedit"><span
 id="2019_Galaxy_Community_Conference" class="mw-headline">2019 Galaxy
-Community Conference</span>
-</span></h3>
+Community Conference</span></h3>
 The <a href="https://galaxyproject.org/events/gcc2019"
 class="external text" rel="nofollow">2019 Galaxy Community Conference
 (GCC2019)</a> will be held 1-6 July, in Freiburg Germany. <a
