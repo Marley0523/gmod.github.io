@@ -1,35 +1,16 @@
-
-
-
-
 <span id="top"></span>
 
-
-
-
 # <span dir="auto">Chado Tutorial 2010</span>
-
-
-
-
-
-
-
-
-
-  
-
 
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/Chado.jpg/250px-Chado.jpg"
 srcset="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/3/31/Chado.jpg/375px-Chado.jpg 1.5x, https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/3/31/Chado.jpg 2x"
 width="250" height="164" alt="Chado" />
 
-
 This <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 tutorial was presented by [Scott Cain](User%253AScott "User%253AScott"), [Dave
 Clements](User%253AClements "User%253AClements"), [Joshua
-Orvis](User%253AJorvis "User%253AJorvis") (*in absentia*) at the 2010 GMOD
+Orvis](User%253AJorvis "User%253AJorvis") (_in absentia_) at the 2010 GMOD
 Summer School - Americas, May 2010. The most recent Chado tutorial can
 be found at the <a href="Chado_Tutorial" class="mw-redirect"
 title="Chado Tutorial">Chado Tutorial</a> page.
@@ -42,10 +23,7 @@ GMOD project. This session introduces database concepts, provides an
 overview of Chado's design and architecture, and then goes into detail
 about how to use a Chado database.
 
-
 ## Contents
-
-
 
 - [<span class="tocnumber">1</span>
   <span class="toctext">VMware</span>](#VMware)
@@ -232,8 +210,6 @@ about how to use a Chado database.
 - [<span class="tocnumber">6</span>
   <span class="toctext">Resources</span>](#Resources)
 
-
-
 # <span id="VMware" class="mw-headline">VMware</span>
 
 This tutorial was taught using a VMware system image
@@ -251,13 +227,11 @@ class="external text" rel="nofollow">end image</a>.
 **Logins**:
 
 | Purpose | Username | Password         |
-|---------|----------|------------------|
+| ------- | -------- | ---------------- |
 | Shell   | gmod     | gmodamericas2010 |
 | MySQL   | root     | gmodamericas2010 |
 
 # <span id="Caveats" class="mw-headline">Caveats</span>
-
-
 
 **Important Note**
 
@@ -268,15 +242,13 @@ over time, and that the instructions in the tutorial will slowly drift
 over time. Newer versions of tutorials will be posted as they become
 available.
 
-
-
 # <span id="Theory" class="mw-headline">Theory</span>
 
 ## <span id="Introduction" class="mw-headline">Introduction</span>
 
 ### <span id="Database_Terminology" class="mw-headline">Database Terminology</span>
 
-Or, *Six years of school in 15 minutes or less.*
+Or, _Six years of school in 15 minutes or less._
 
 - [Tables, Rows, and
   Columns](Databases%253A_Tables,_Rows,_and_Columns "Databases: Tables, Rows, and Columns")
@@ -292,7 +264,7 @@ Or, *Six years of school in 15 minutes or less.*
   - [Database Management System
     (DBMS)](Glossary#Database_Management_System "Glossary")
     - Software system for storing databases
-    - *e.g.,* Oracle, [PostgreSQL](PostgreSQL "PostgreSQL"),
+    - _e.g.,_ Oracle, [PostgreSQL](PostgreSQL "PostgreSQL"),
       [MySQL](MySQL "MySQL")
   - Database, a very loose term
     - Any set of organized data that is readable by a computer
@@ -309,13 +281,12 @@ Tables](FlyBase_Field_Mapping_Tables "FlyBase Field Mapping Tables")
 shows some example SQL that queries the FlyBase Chado database. (Caveat:
 FlyBase sometimes uses Chado in ways that no other organizations do.)
 
-  
 **Will SQL be on the test?**
 
 No, we aren't going to teach in-depth SQL in this course but we will use
 it in examples and show how to write queries in Chado.
 
-You *can* do basics with Chado without knowing SQL. Many common tasks
+You _can_ do basics with Chado without knowing SQL. Many common tasks
 already have scripts written for them. However, as you get more into
 using Chado, you will find that a working knowledge of SQL is necessary.
 
@@ -343,7 +314,7 @@ using Chado, you will find that a working knowledge of SQL is necessary.
 
 ## <span id="Chado_Architecture:_Modules" class="mw-headline">Chado Architecture: Modules</span>
 
-The Chado schema is built with a set of *modules*. A Chado module is a
+The Chado schema is built with a set of _modules_. A Chado module is a
 set of database tables and relationships that stores information about a
 well-defined area of biology, such as sequence or attribution.
 
@@ -356,7 +327,7 @@ alt="ChadoModules.png" />
 title="ChadoModules.ppt">PowerPoint animation</a>)
 
 Arrows are dependencies between modules. Dependencies indicate one or
-more *foreign keys* linking modules.
+more _foreign keys_ linking modules.
 
 - [General](Chado_General_Module "Chado General Module") - Identifying
   things within the DB to the outside world, and identifying things from
@@ -407,7 +378,7 @@ them.
 
 ### <span id="Module_Caveats" class="mw-headline">Module Caveats</span>
 
-All modules are *blessed*, but some modules are *more blessed* than
+All modules are _blessed_, but some modules are _more blessed_ than
 others.
 
 The General, CV, Publication, Organism, Sequence and Companalysis
@@ -420,8 +391,6 @@ not use the Map module.
 
 From Jeff Bowes, at XenBase:
 
-
-
 As for Chado, we are more Chadoish than exactly Chado. We use the core
 modules with few changes - feature, cv, general, analysis. Although I
 prefer to add columns to tables when it is reasonable and limit the use
@@ -431,8 +400,6 @@ different modules for community, literature, anatomy and gene
 expression. If there is a PATO compatible Chado Phenotype solution we'd
 prefer to go with that. Although, it might cause problems that we have a
 separate anatomy module as opposed to using cvterm to store anatomy.
-
-
 
 In other words the ideal is good, but implementation and usage is
 uneven. See the <a href="../extras/2008GMODCommunitySurvey.html#Chado"
@@ -464,7 +431,7 @@ design is that, as you encounter new types of things, you have to create
 new tables to store them. Also, many of these 'thing' tables are going
 to look very much alike.
 
-Chado is what is a *generic* schema which, in effect, means that data
+Chado is what is a _generic_ schema which, in effect, means that data
 are abstracted wherever possible to prevent duplication in both the
 design and data itself. So, instead of one table for each type of
 'thing', we just have one table to hold 'things', regardless of their
@@ -481,7 +448,7 @@ The sequence module is used to manage genomic features.
 
 #### <span id="Features" class="mw-headline">Features</span>
 
-Chado defines a *feature* to be a region of a biological polymer
+Chado defines a _feature_ to be a region of a biological polymer
 (typically a DNA, RNA, or a polypeptide molecule) or an aggregate of
 regions on this polymer. A region can be an entire chromosome, or a
 junction between two bases. Features are typed according to the
@@ -494,7 +461,7 @@ Features are stored in the [feature
 table](Chado_Sequence_Module#Table:_feature "Chado Sequence Module").
 
 | Table: feature |      |            |         |             |     |
-|----------------|------|------------|---------|-------------|-----|
+| -------------- | ---- | ---------- | ------- | ----------- | --- |
 | feature_id     | name | uniquename | type_id | is_analysis | ... |
 
 Within this feature table we can store all types of features and keep
@@ -511,18 +478,19 @@ controlled vocabulary or ontology. These are stored in the cv module.
 <a href="http://gmod.org/Chado_CV_Module" class="external text"
 rel="nofollow">Controlled Vocabulary Module Tables</a>
 
-The CV module implements *controlled vocabularies* and their more
-complex cousins, *ontologies*.
+The CV module implements _controlled vocabularies_ and their more
+complex cousins, _ontologies_.
 
 #### <span id="Controlled_Vocabularies" class="mw-headline">Controlled Vocabularies</span>
 
-A *controlled vocabulary* (CV) is a list of terms from which a value
+A _controlled vocabulary_ (CV) is a list of terms from which a value
 must come. CVs are widely used in all databases, not just biological
 ones. Pull down menus are often used to present CVs to users in query or
 annotation interfaces.
 
-|  |  |
-|----|----|
+|     |     |
+| --- | --- |
+
 | <a href="http://zfin.org" class="external text"
 rel="nofollow">ZFIN's</a> Assay Type CV | <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/6/6d/ZfinAssayTypePullDown.png" width="231"
@@ -530,7 +498,7 @@ height="260" alt="ZFIN&#39;s Assay Type CV" /> |
 
 #### <span id="Ontologies" class="mw-headline">Ontologies</span>
 
-Controlled vocabularies are simple lists of terms. *Ontologies* are
+Controlled vocabularies are simple lists of terms. _Ontologies_ are
 terms plus rules and relationships betwen the terms. The Gene Ontology
 (GO) and Sequence Ontology (SO) are the two best known ontologies, but
 there are many more available from
@@ -550,7 +518,7 @@ height="604" alt="FlyBaseCVTermViewer.png" /> |
 
 #### <span id="CVs_and_Ontologies_in_Chado" class="mw-headline">CVs and Ontologies in Chado</span>
 
-<a href="http://gmod.org/wiki/index.php/Chado_CV_Module"
+<a href="Chado_CV_Module"
 class="external text" rel="nofollow">Chado CV Module</a>
 
 <img
@@ -558,7 +526,7 @@ src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images
 height="431" alt="ChadoModulesCV.png" />
 
 (See the <a
-href="http://gmod.org/wiki/index.php/Chado_CV_Module#Table:_cvterm#Table:_cvterm"
+href="Chado_CV_Module#Table:_cvterm"
 class="external text" rel="nofollow">CVTerm table</a> referencing table
 list.)
 
@@ -576,8 +544,8 @@ prevents misspellings ("sagital" instead of "sagittal") and typos.
 ##### <span id="Data_Portability_and_Standardization" class="mw-headline">Data Portability and Standardization</span>
 
 If you are studying developmental processes and you use the Gene
-Ontology's *biological process* terms then your data can be easily
-shared *and integrated* with data from other researchers. If you create
+Ontology's _biological process_ terms then your data can be easily
+shared _and integrated_ with data from other researchers. If you create
 your set of terms or just enter free text (egads!), then it will require
 a lot of human intervention to convert your data to a standard
 nomenclature so it can be integrated with others.
@@ -599,36 +567,32 @@ It also would not be as powerful. Ontologies support reasoning about the
 terms in them and this can be very useful. With GO, for example, you can
 ask
 
+Show me all genes involved in _anatomical structure development_
 
-
-Show me all genes involved in *anatomical structure development*
-
-
-
-and get back genes directly tagged with *anatomical structure
-development*, plus any genes tagged with any of that term's sub-terms,
-from *organ development* to *regulation of skeletal muscle
-regeneration*. If you convert GO to just a list of terms, you can no
+and get back genes directly tagged with _anatomical structure
+development_, plus any genes tagged with any of that term's sub-terms,
+from _organ development_ to _regulation of skeletal muscle
+regeneration_. If you convert GO to just a list of terms, you can no
 longer answer that question.
 
 The Chado CV Module supports such complex queries with ontologies by
-pre-calculating the *<a
-href="http://gmod.org/wiki/index.php/Chado_CV_Module#Transitive_Closure#Transitive_Closure"
-class="external text" rel="nofollow">transitive closure</a>* of all
+pre-calculating the _<a
+href="Chado_CV_Module#Transitive_Closure"
+class="external text" rel="nofollow">transitive closure</a>_ of all
 terms in an ontology. There is a great explanation of transitive closure
 on the <a
-href="http://gmod.org/wiki/index.php/Chado_CV_Module#Transitive_Closure#Transitive_Closure"
+href="Chado_CV_Module#Transitive_Closure"
 class="external text" rel="nofollow">Chado CV Module page</a>. Also see
 the description of these 3 tables:
 
 - <a
-  href="http://gmod.org/wiki/index.php/Chado_CV_Module#Table:_cvterm#Table:_cvterm"
+  href="Chado_CV_Module#Table:_cvterm"
   class="external text" rel="nofollow">cvterm</a>
 - <a
-  href="http://gmod.org/wiki/index.php/Chado_CV_Module#Table:_cvterm_relationship#Table:_cvterm_relationship"
+  href="Chado_CV_Module#Table:_cvterm_relationship"
   class="external text" rel="nofollow">cvterm_relationship</a>
 - <a
-  href="http://gmod.org/wiki/index.php/Chado_CV_Module#Table:_cvtermpath#Table:_cvtermpath"
+  href="Chado_CV_Module#Table:_cvtermpath"
   class="external text" rel="nofollow">cvtermpath</a>
 
 We won't go into any more detail on it here.
@@ -644,14 +608,12 @@ table as well as rigidly define what types of things they are using the
 cv module tables. Here is an SQL example of how to query some very basic
 information about all gene features in our database:
 
-
-``` de1
+```de1
  SELECT gene.feature_id, gene.uniquename, gene.name
    FROM feature gene
         JOIN cvterm c ON gene.type_id = c.cvterm_id
   WHERE c.name = 'gene';
 ```
-
 
 This should return something like:
 
@@ -688,20 +650,20 @@ other databases) within this database.
 
 [General module tables](Chado_General_Module "Chado General Module")
 
-Biological databases have *public* and *private* IDs and they are
+Biological databases have _public_ and _private_ IDs and they are
 usually different things.
 
 ##### <span id="Public_IDs" class="mw-headline">Public IDs</span>
 
 These are shown on web pages and in publications. These are also known
-as *accession numbers*.
+as _accession numbers_.
 
 | GO + 0043565 = GO:0043565                 |
-|-------------------------------------------|
+| ----------------------------------------- |
 | InterPro + IPR001356 = InterPro:IPR001356 |
 | YourDB + whatever = YourDB:whatever       |
 
-Public IDs tend to be *alternate keys* inside the database: they do
+Public IDs tend to be _alternate keys_ inside the database: they do
 uniquely identify objects in the database.
 
 ##### <span id="Private_IDs" class="mw-headline">Private IDs</span>
@@ -710,14 +672,14 @@ These are used inside the database and are not meant to be shown or
 published. Tend to be long integers. There are many more private IDs
 than public IDs.
 
-Private IDs are used for *primary keys* and *foreign keys*.
+Private IDs are used for _primary keys_ and _foreign keys_.
 
 Most DBMSs have built-in mechanisms for generating private IDs.
 
 #### <span id="IDs_in_Chado" class="mw-headline">IDs in Chado</span>
 
 The [General module](Chado_General_Module "Chado General Module")
-defines *public* IDs of
+defines _public_ IDs of
 
 - items defined in this databases, and
 - items defined in other databases, that are used or referenced in this
@@ -725,12 +687,10 @@ defines *public* IDs of
 
 In fact, those two classes of IDs are defined in exactly the same way,
 in the <a
-href="http://gmod.org/Chado_General_Module#Table:_dbxref#Table:_dbxref"
+href="http://gmod.org/Chado_General_Module#Table:_dbxref"
 class="external text" rel="nofollow">dbxref table</a>.
 
 In Chado every table (in every module) defines its own private IDs.
-
-  
 
 ### <span id="Properties" class="mw-headline">Properties</span>
 
@@ -743,11 +703,11 @@ features, like chromosomes, that aren't gene products.
 
 These feature-specific attributes are known as 'properties' of a feature
 in Chado. They are stored in a table called <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_featureprop#Table:_featureprop"
+href="Chado_Sequence_Module#Table:_featureprop"
 class="external text" rel="nofollow">featureprop</a>.
 
 | Table: featureprop |            |         |       |      |
-|--------------------|------------|---------|-------|------|
+| ------------------ | ---------- | ------- | ----- | ---- |
 | featureprop_id     | feature_id | type_id | value | rank |
 
 You may have noticed that the featureprop table shares a 'type_id'
@@ -765,21 +725,21 @@ needs to accommodate this.
 #### <span id="Relationships" class="mw-headline">Relationships</span>
 
 Relationships between features are stored in the <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_feature_relationship#Table:_feature_relationship"
+href="Chado_Sequence_Module#Table:_feature_relationship"
 class="external text" rel="nofollow">feature_relationship table</a>.
 
 | Table: feature_relationship |            |           |         |      |     |
-|-----------------------------|------------|-----------|---------|------|-----|
+| --------------------------- | ---------- | --------- | ------- | ---- | --- |
 | feature_relationship_id     | subject_id | object_id | type_id | rank | ... |
 
-Features can be arranged in graphs, e.g. "exon *part_of* transcript
-*part_of* gene"; If type is thought of as a verb, then each arc or edge
+Features can be arranged in graphs, e.g. "exon _part_of_ transcript
+_part_of_ gene"; If type is thought of as a verb, then each arc or edge
 makes a statement:
 
-- Subject *verb* Object, or
-- Child *verb* Parent, or
-- Contained *verb* Container, or
-- Subfeature *verb* Feature
+- Subject _verb_ Object, or
+- Child _verb_ Parent, or
+- Contained _verb_ Container, or
+- Subfeature _verb_ Feature
 
 Again, notice the use of controlled vocabularies (type_id) to define the
 relationship between features.
@@ -799,7 +759,7 @@ coordinates, though contigs/assemblies which make up the chromosomes
 could be.
 
 Locations are stored in the <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_featureloc#Table:_featureloc"
+href="Chado_Sequence_Module#Table:_featureloc"
 class="external text" rel="nofollow">featureloc table</a>, and a feature
 can have zero or more featureloc records. Features will have either
 
@@ -811,7 +771,7 @@ can have zero or more featureloc records. Features will have either
 - Features with multiple featurelocs are explained below.
 
 (For a good explanation of how features are located in Chado see <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Feature_Locations#Feature_Locations"
+href="Chado_Sequence_Module#Feature_Locations"
 class="external text" rel="nofollow">Feature Locations</a>. This
 explanation is excerpted from that.)
 
@@ -824,9 +784,9 @@ site](Introduction_to_Chado#Interbase_Coordinates "Introduction to Chado").
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/a/a0/Interbase.png" width="352" height="296"
 alt="Interbase.png" />
 
-A featureloc record specifies an interval in *interbase sequence
-coordinates*, bounded by the fmin and fmax columns, each representing
-the lower and upper linear position of the *boundary* between bases or
+A featureloc record specifies an interval in _interbase sequence
+coordinates_, bounded by the fmin and fmax columns, each representing
+the lower and upper linear position of the _boundary_ between bases or
 base pairs (with directionality indicated by the strand column).
 
 Interbase coordinates were chosen over the base-oriented coordinate
@@ -835,7 +795,7 @@ features such as splice sites and insertion points.
 
 ##### <span id="Location_Chains" class="mw-headline">Location Chains</span>
 
-Chado supports *location chains*. For example, locating an exon relative
+Chado supports _location chains_. For example, locating an exon relative
 to a contig that is itself localized relative to a chromosome. The
 majority of Chado instances will not require this flexibility; features
 are typically located relative to chromosomes or chromosomes arms.
@@ -854,25 +814,24 @@ may also span sequence alignments.
 ##### <span id="featureloc_Table" class="mw-headline">featureloc Table</span>
 
 Feature location information is stored in the <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_featureloc#Table:_featureloc"
+href="Chado_Sequence_Module#Table:_featureloc"
 class="external text" rel="nofollow">featureloc table</a>.
 
 | Table: featureloc |            |               |      |      |     |
-|-------------------|------------|---------------|------|------|-----|
+| ----------------- | ---------- | ------------- | ---- | ---- | --- |
 | featureloc_id     | feature_id | srcfeature_id | fmin | rank | ... |
 
 #### <span id="Example:_Gene" class="mw-headline">Example: Gene</span>
 
 **Note:** This example and some of the figures are extracted from
-*<a href="http://gmod.org/wiki/index.php/Image:A_Chado_Case_Study.pdf"
+_<a href="Image:A_Chado_Case_Study.pdf"
 class="external text" rel="nofollow">A Chado case study: an
 ontology-based modular schema for representing genome-associated
-biological information</a>*, by Christopher J. Mungall, David B. Emmert,
+biological information</a>_, by Christopher J. Mungall, David B. Emmert,
 and the FlyBase Consortium (2007)
 
 How is a "central dogma" gene represented in Chado?
 
-  
 <img
 src="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/8/83/CentralDogma.png" width="347" height="370"
 alt="CentralDogma.png" />
@@ -1129,7 +1088,7 @@ relationships between them?
 
 **Note:** This is example is based on an example by Scott Cain from an
 earlier <a
-href="http://gmod.org/wiki/index.php/Image:ChadoWorkshopArthopod2008.pdf"
+href="Image:ChadoWorkshopArthopod2008.pdf"
 class="external text" rel="nofollow">Chado workshop</a>.
 
 You can store the results of computational analysis such as BLAST or
@@ -1151,20 +1110,20 @@ vertical line becomes a record in the feature_relationship table.
 #### <span id="Other_Feature_Annotations" class="mw-headline">Other Feature Annotations</span>
 
 Link to any feature via <a
-href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_feature#Table:_feature"
+href="Chado_Sequence_Module#Table:_feature"
 class="external text" rel="nofollow">feature_id</a>:
 
 - GO terms in <a
-  href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_feature_cvterm#Table:_feature_cvterm"
+  href="Chado_Sequence_Module#Table:_feature_cvterm"
   class="external text" rel="nofollow">feature_cvterm</a>
 - DB links in <a
-  href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_feature_dbxref#Table:_feature_dbxref"
+  href="Chado_Sequence_Module#Table:_feature_dbxref"
   class="external text" rel="nofollow">feature_dbxref</a>
 - Miscellaneous features in <a
-  href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_featureprop#Table:_featureprop"
+  href="Chado_Sequence_Module#Table:_featureprop"
   class="external text" rel="nofollow">featureprop</a>
 - Attribution in <a
-  href="http://gmod.org/wiki/index.php/Chado_Sequence_Module#Table:_feature_pub#Table:_feature_pub"
+  href="Chado_Sequence_Module#Table:_feature_pub"
   class="external text" rel="nofollow">feature_pub</a>
 
 #### <span id="Extending_Chado:_Properties_tables_and_new_modules" class="mw-headline">Extending Chado: Properties tables and new modules</span>
@@ -1176,7 +1135,7 @@ were either not addressed, or were inadequately addressed in the
 original release.
 
 Chado can be tailored to an individual organization's needs by using
-*property tables*. Property tables are a means to virtually add new
+_property tables_. Property tables are a means to virtually add new
 columns without having to modify the schema. Property tables are
 included in many modules.
 
@@ -1201,7 +1160,7 @@ Already installed PostgreSQL 8.4 via apt-get.
 
 #### <span id="Edit_config_files" class="mw-headline">Edit config files</span>
 
-``` enter
+```enter
   sudo bash
   cd /etc/postgresql/8.4/main/
   less pg_hba.conf
@@ -1215,20 +1174,18 @@ can be used to allow remote access.
 
 Now (re)start the database server:
 
-``` enter
+```enter
   /etc/init.d/postgresql-8.4 restart
 ```
 
 #### <span id="Create_a_gmod_user" class="mw-headline">Create a gmod user</span>
-
-
 
 This has already been done on the image.
 
 First, switch to the postgres user (it was created during the PostgreSQL
 package install):
 
-``` dont
+```dont
   su - postgres
   createuser gmod
     Shall the new role be a superuser? (y/n) y
@@ -1236,9 +1193,8 @@ package install):
   exit  # to leave root shell
 ```
 
-
-
 #### <span id="Installing_DBIx::DBStag_by_hand" class="mw-headline">Installing <a href="http://search.cpan.org/perldoc?DBIx::DBStag"
+
 class="external text" rel="nofollow">DBIx::DBStag</a> by hand</span>
 
 In the previous course, this was installed by hand, but in this server
@@ -1259,20 +1215,20 @@ Was installed during the OS install.
 
 in `~/.profile` add:
 
-``` enter
+```enter
   GMOD_ROOT='/usr/local/gmod'
   export GMOD_ROOT
 ```
 
 and source the profile:
 
-``` enter
+```enter
   source ~/.profile
 ```
 
 ## <span id="Installing_GMOD" class="mw-headline">Installing GMOD</span>
 
-``` enter
+```enter
   cd ~/Documents/Software/schema/chado/
   perl Makefile.PL
 ```
@@ -1344,7 +1300,7 @@ The `-c` tells `bzip2` to take input on standard in and spit it out on
 `stdout`. To restore from a dump, drop and recreate the database and
 then uncompress the dump into it, like this:
 
-``` dont
+```dont
   dropdb chado
   createdb chado
   bzip2 -dc db_w_ontologies.bz2 | psql chado
@@ -1355,10 +1311,7 @@ dump with only ontologies in it.
 
 ### <span id="A_Note_about_installing_GO" class="mw-headline">A Note about installing GO</span>
 
-
-
 We think this problem is now fixed.
-
 
 There is a bug in either the go-perl parser or more likely in
 `stag_storenode.pl` that shows itself when installing GO. The problem is
@@ -1368,16 +1321,12 @@ the relationship ontology to GO. The result is that both
 will fail when it can't find the part_of term. The easiest way to fix
 this is by issuing a SQL command in the `psql` shell:
 
-
-``` de1
+```de1
   UPDATE cvterm SET cv_id = (SELECT cv_id FROM cv WHERE name='relationship')
     WHERE name='part_of' AND cv_id IN (SELECT cv_id FROM cv WHERE name='gene_ontology');
 ```
 
-
 But we don't have to do that now because we didn't load GO.
-
-
 
 ### <span id="A_Note_about_Redos" class="mw-headline">A Note about Redos</span>
 
@@ -1390,7 +1339,7 @@ files but leaves the ontology files in place.
 
 ### <span id="Reload_a_new_copy_of_the_DB_with_GO_.2B_other_ontologies_in_it" class="mw-headline">Reload a new copy of the DB with GO + other ontologies in it</span>
 
-``` enter
+```enter
 cd
 dropdb chado
 createdb chado
@@ -1431,8 +1380,6 @@ sorting is good for two reasons:
 
 ### <span id="Minor_Edit" class="mw-headline">Minor Edit</span>
 
-
-
 This has already been done.
 
 The [BioPerl](BioPerl "BioPerl") code that parses the GFF has a few
@@ -1447,8 +1394,6 @@ make the loader happy. These two lines:
 need to be deleted. I'll work on fixing BioPerl to deal with this more
 gracefully.
 
-
-
 ### <span id="Loading_GFF3" class="mw-headline">Loading GFF3</span>
 
 Working with the large number of files that come out of the preprocessor
@@ -1456,17 +1401,13 @@ can be a bit of a headache, so I've 'developed' a few tricks. Basically,
 I make a bash script that will execute all of the loads at once. The
 easy way (for me) to do this is:
 
-``` enter
+```enter
   ls *.gff3 > load.sh
   vi load.sh
 ```
 
-
-
 [A word on text editors such as
 vi](Linux_Text_Editors "Linux Text Editors").
-
-
 
 and then use vim regex goodness to write the loader commands into every
 line of the file:
@@ -1503,9 +1444,7 @@ capture the output to check for problems. There are two ways to do this:
 
 - run inside the `screen` command:
 
-
-
-     screen -S loader
+  screen -S loader
 
 which creates a new 'screen' separate from your login. Then execute the
 load command in the screen. To exit the screen but let your load command
@@ -1515,24 +1454,18 @@ type
 
      screen -R loader</tt>
 
-
-
 - capture `stdout` and `stderr` to a file
-
-
 
 When you run the load command, you can use redirection to collect the
 `stdout` and `stderr` to a file:
 
      bash load.sh >& load.output
 
-
-
 ### <span id="Really_loading_data" class="mw-headline">Really loading data</span>
 
 OK, let's put the data into chado:
 
-``` enter
+```enter
   cd ~/Documents/Data/maker/example2_pyu/finished.maker.output/finished_datastore/scf1117875582023
   cp scf1117875582023.gff ~
   cd
@@ -1540,8 +1473,6 @@ OK, let's put the data into chado:
 ```
 
 This should not work (yet!)
-
-  
 
 #### <span id="Adding_our_organism" class="mw-headline">Adding our organism</span>
 
@@ -1562,12 +1493,8 @@ Oops. Forgot to edit the GFF file
 
      gedit scf1117875582023.gff
 
-
-
 [A word on text editors such as
 gedit](Linux_Text_Editors "Linux Text Editors").
-
-
 
 Remove the `#` line from [MAKER](MAKER.1 "MAKER") that the loader can't
 cope with. **Remove** this line
@@ -1581,8 +1508,6 @@ Keep slugging:
 Doh! The loader is trying to tell us that this looks like analysis data
 (that is, data produced by computer rather than humans).
 
-
-
 We need to tell the loader that it is in fact analysis results:
 
      gmod_bulk_load_gff3.pl -a -g scf1117875582023.gff
@@ -1590,15 +1515,12 @@ We need to tell the loader that it is in fact analysis results:
 The name of the data file is `GMOD_sample_data.gff`, as distributed in
 the zipped sample data at the beginning.
 
-
-
-<span style="font-size:120%">Kill, *kill*, **kill!** (ctrl-c)</span> the
+<span style="font-size:120%">Kill, _kill_, **kill!** (ctrl-c)</span> the
 load as soon as you see this message:
 
     There are both CDS and exon features in this file, but
     you did not set the --noexon option, which you probably want.
     Please see `perldoc gmod_bulk_load_gff3.pl for more information.
-
 
 Argh! Now the loader is pointing out that this GFF file has both exons
 and CDS features and Chado prefers something a little different. While
@@ -1653,18 +1575,19 @@ cell movements. PLoS One 3(10):e3439</a></p></td>
 
 Into this:
 
-| Gene | Fish | Stage | Anatomy | Assay |
-|----|----|----|----|----|
-| gsc | wild type (unspecified), MO:diaph2,pfn1 | Bud | prechordal plate | ISH |
-| gsc | wild type (unspecified), MO:diaph2 | Bud | prechordal plate | ISH |
-| ntla | wild type (unspecified), MO:diaph2,pfn1 | Bud | notochord | ISH |
-| ntla | wild type (unspecified), MO:diaph2,pfn1 | Bud | tail bud | ISH |
-| ntla | wild type (unspecified), MO:diaph2 | Bud | notochord | ISH |
-| ntla | wild type (unspecified), MO:diaph2 | Bud | tail bud | ISH |
+| Gene | Fish                                    | Stage | Anatomy          | Assay |
+| ---- | --------------------------------------- | ----- | ---------------- | ----- |
+| gsc  | wild type (unspecified), MO:diaph2,pfn1 | Bud   | prechordal plate | ISH   |
+| gsc  | wild type (unspecified), MO:diaph2      | Bud   | prechordal plate | ISH   |
+| ntla | wild type (unspecified), MO:diaph2,pfn1 | Bud   | notochord        | ISH   |
+| ntla | wild type (unspecified), MO:diaph2,pfn1 | Bud   | tail bud         | ISH   |
+| ntla | wild type (unspecified), MO:diaph2      | Bud   | notochord        | ISH   |
+| ntla | wild type (unspecified), MO:diaph2      | Bud   | tail bud         | ISH   |
+
 | From <a
 href="http://zfin.org/cgi-bin/webdriver?MIval=aa-fxfigureview.apg&amp;OID=ZDB-FIG-081103-25"
 class="external text" rel="nofollow">ZFIN: Figure: <em>Lai et al.</em>,
-2008, Fig. S5</a> |  |  |  |  |
+2008, Fig. S5</a> | | | | |
 
 ### <span id="What_defines_an_expression_pattern.3F" class="mw-headline">What defines an expression pattern?</span>
 
@@ -1701,7 +1624,7 @@ Pattern
 Do you want to keep track of homogeneous, graded, spotty
 
 Not Expressed  
-Do you keep track of absence? If so, what does it mean? (not *detected*)
+Do you keep track of absence? If so, what does it mean? (not _detected_)
 
 Image  
 Is an image required or optional?
@@ -1711,11 +1634,11 @@ What do strengths mean across different experiments?
 
 ### <span id="How_does_Chado_deal_with_this_variety.3F" class="mw-headline">How does Chado deal with this variety?</span>
 
-*Post-composition*, which is a very Chadoish way of doing things.
+_Post-composition_, which is a very Chadoish way of doing things.
 
 - Embrace a minimal definition of what an expression pattern is. In
-  Chado, all that is required is a *name*, e.g., *SLC21A in GMOD Summer
-  School Participant kidney after 4 days in Durham in July 2009*, or
+  Chado, all that is required is a _name_, e.g., _SLC21A in GMOD Summer
+  School Participant kidney after 4 days in Durham in July 2009_, or
   just "GMOD0002347".
 - You can also provide a description. If your name is "GMOD0002347",
   this may be a good idea
@@ -1725,57 +1648,49 @@ What do strengths mean across different experiments?
 
 A specific example from FlyBase:
 
-
-
 Here is an example of a simple case of the sort of data that
 <a href="http://flybase.org" class="external text"
 rel="nofollow">FlyBase</a> curates.
 
-The *dpp* transcript is expressed in embryonic stage 13-15 in the
+The _dpp_ transcript is expressed in embryonic stage 13-15 in the
 cephalic segment as reported in a
 <a href="http://flybase.bio.indiana.edu/reports/FBrf0053806.html"
 class="external text" rel="nofollow">paper by Blackman <em>et al.</em>
 in 1991</a>.
 
-This would be implemented in the expression module by linking the *dpp*
+This would be implemented in the expression module by linking the _dpp_
 transcript feature to expression via
 [feature_expression](Chado_Tables#Table:_feature_expression "Chado Tables").
 We would then link the following cvterms to the expression using
 [expression_cvterm](#Table:_expression_cvterm):
 
-- *embryonic stage 13* where the cvterm_type would be stage and the
+- _embryonic stage 13_ where the cvterm_type would be stage and the
   rank=0
-- *embryonic stage 14* where the cvterm_type would be stage and the
+- _embryonic stage 14_ where the cvterm_type would be stage and the
   rank=1
-- *embryonic stage 15* where the cvterm_type would be stage and the
+- _embryonic stage 15_ where the cvterm_type would be stage and the
   rank=1
-- *cephalic segment* where the cvterm_type would be anatomy and the
+- _cephalic segment_ where the cvterm_type would be anatomy and the
   rank=0
-- *in situ hybridization* where the cvterm_type would be assay and the
+- _in situ hybridization_ where the cvterm_type would be assay and the
   rank=0
 
-
-
-Translation  
-
-
+Translation
 
 In FlyBase, this would be a single expression record, with 5 Ontology/CV
 terms attached to it.
 
-- 1 saying what anatomy the expression is for - *cephalic segment*
-- 1 saying that the assay type was *in situ hybridization*
-- 1 each for each of the 3 stages - *embryonic stages 13, 14, 15*
+- 1 saying what anatomy the expression is for - _cephalic segment_
+- 1 saying that the assay type was _in situ hybridization_
+- 1 each for each of the 3 stages - _embryonic stages 13, 14, 15_
 
 And
 
-- 1 record saying this expression pattern is for *dpp*.
+- 1 record saying this expression pattern is for _dpp_.
 - 1 record saying this expression pattern is from
   <a href="http://flybase.bio.indiana.edu/reports/FBrf0053806.html"
   class="external text" rel="nofollow">Blackman <em>et al.</em> in
   1991</a>.
-
-
 
 ### <span id="Chado_Allows" class="mw-headline">Chado Allows</span>
 
@@ -1792,13 +1707,12 @@ have
   - Assay types
   - Any other CV/Ontology term (e.g., detected, not detected)
 
-Two Key Points  
+Two Key Points
 
 1.  **Chado can support whatever your community decides your definition
     of an expression pattern is.**
 2.  **However, Chado will not enforce that definition for you.**
 
-  
 If you require an expression pattern to have
 
 - 1 name
@@ -1815,9 +1729,9 @@ then you will have to write a script to check that.
 ### <span id="Table:_expression" class="mw-headline">Table: expression</span>
 
 | F-Key | Name          | Type          | Description       |
-|-------|---------------|---------------|-------------------|
-|       | expression_id | serial        | *PRIMARY KEY*     |
-|       | uniquename    | text          | *UNIQUE NOT NULL* |
+| ----- | ------------- | ------------- | ----------------- |
+|       | expression_id | serial        | _PRIMARY KEY_     |
+|       | uniquename    | text          | _UNIQUE NOT NULL_ |
 |       | md5checksum   | character(32) |                   |
 |       | description   | text          |                   |
 
@@ -1834,13 +1748,13 @@ Tables referencing this one via Foreign Key Constraints:
 
 ### <span id="Table:_expression_cvterm" class="mw-headline">Table: expression_cvterm</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | expression_cvterm_id | serial | *PRIMARY KEY* |
-| [expression](#Table:_expression) | expression_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id | integer | *UNIQUE#1 NOT NULL* |
-|  | rank | integer | *NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_type_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                               | Name                 | Type    | Description         |
+| --------------------------------------------------- | -------------------- | ------- | ------------------- |
+|                                                     | expression_cvterm_id | serial  | _PRIMARY KEY_       |
+| [expression](#Table:_expression)                    | expression_id        | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id            | integer | _UNIQUE#1 NOT NULL_ |
+|                                                     | rank                 | integer | _NOT NULL_          |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_type_id       | integer | _UNIQUE#1 NOT NULL_ |
 
 expression_cvterm Structure
 
@@ -1853,7 +1767,7 @@ Tables referencing this one via Foreign Key Constraints:
 Defined in the [Chado Genetic
 Module](Chado_Genetic_Module "Chado Genetic Module").
 
-A *genotype* in Chado is basically a *name*, with a pile of *features*
+A _genotype_ in Chado is basically a _name_, with a pile of _features_
 associated to it.
 
 This used to mean a set of alleles.
@@ -2017,9 +1931,9 @@ Module](Chado_Genetic_Module "Chado Genetic Module").
 The environmental component of a phenotype description.
 
 | F-Key | Name           | Type   | Description       |
-|-------|----------------|--------|-------------------|
-|       | environment_id | serial | *PRIMARY KEY*     |
-|       | uniquename     | text   | *UNIQUE NOT NULL* |
+| ----- | -------------- | ------ | ----------------- |
+|       | environment_id | serial | _PRIMARY KEY_     |
+|       | uniquename     | text   | _UNIQUE NOT NULL_ |
 |       | description    | text   |                   |
 
 environment Structure
@@ -2033,11 +1947,11 @@ Tables referencing this one via Foreign Key Constraints:
 
 ### <span id="Table:_environment_cvterm" class="mw-headline">Table: environment_cvterm</span>
 
-| F-Key | Name | Type | Description |
-|----|----|----|----|
-|  | environment_cvterm_id | serial | *PRIMARY KEY* |
-| [environment](#Table:_environment) | environment_id | integer | *UNIQUE#1 NOT NULL* |
-| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id | integer | *UNIQUE#1 NOT NULL* |
+| F-Key                                               | Name                  | Type    | Description         |
+| --------------------------------------------------- | --------------------- | ------- | ------------------- |
+|                                                     | environment_cvterm_id | serial  | _PRIMARY KEY_       |
+| [environment](#Table:_environment)                  | environment_id        | integer | _UNIQUE#1 NOT NULL_ |
+| [cvterm](Chado_Tables#Table:_cvterm "Chado Tables") | cvterm_id             | integer | _UNIQUE#1 NOT NULL_ |
 
 environment_cvterm Structure
 
@@ -2071,71 +1985,41 @@ diversity data.
 
 - <a href="Chado" class="mw-redirect" title="Chado">Chado</a>
 - [GMOD-Schema Mailing list](GMOD_Mailing_Lists "GMOD Mailing Lists")
-- *<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/A_Chado_Case_Study.pdf"
+- _<a href="https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/5/59/A_Chado_Case_Study.pdf"
   class="internal" title="A Chado Case Study.pdf">A Chado case study: an
   ontology-based modular schema for representing genome-associated
-  biological information</a>*
-
-
-
+  biological information</a>_
 
 [Categories](Special%253ACategories "Special%253ACategories"):
 
 - [Tutorials](Category%253ATutorials "Category%253ATutorials")
 - [Chado](Category%253AChado "Category%253AChado")
 
-
-
 <span class="smwfactboxhead">Facts about
 "<span class="swmfactboxheadbrowse">[Chado Tutorial
 2010](Special%253ABrowse/Chado-20Tutorial-202010 "Special%253ABrowse/Chado-20Tutorial-202010")</span>"</span>
 
-|  |  |
-|----|----|
+|                                                          |                                                                                                                                                                                                 |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Has topic](Property%253AHas_topic "Property:Has topic") | <a href="Chado" class="mw-redirect" title="Chado">Chado</a> <span class="smwsearch">[+](Special%253ASearchByProperty/Has-20topic/Chado "Special%253ASearchByProperty/Has-20topic/Chado")</span> |
-
-
-
-
-
 
 ## Navigation menu
 
-
-
-
-
-
-
-
-
 ### Navigation
-
-
 
 - <span id="n-GMOD-Home">[GMOD Home](Main_Page)</span>
 - <span id="n-Software">[Software](GMOD_Components)</span>
 - <span id="n-Categories-.2F-Tags">[Categories /
   Tags](Categories)</span>
 
-
-
-
 ### Documentation
-
-
 
 - <span id="n-Overview">[Overview](Overview)</span>
 - <span id="n-FAQs">[FAQs](Category%253AFAQ)</span>
 - <span id="n-HOWTOs">[HOWTOs](Category%253AHOWTO)</span>
 - <span id="n-Glossary">[Glossary](Glossary)</span>
 
-
-
-
 ### Community
-
-
 
 - <span id="n-GMOD-News">[GMOD News](GMOD_News)</span>
 - <span id="n-Training-.2F-Outreach">[Training /
@@ -2145,18 +2029,12 @@ diversity data.
 - <span id="n-Meetings">[Meetings](Meetings)</span>
 - <span id="n-Calendar">[Calendar](Calendar)</span>
 
-
-
-
 ### Tools
 
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/Chado_Tutorial_2010" rel="smw-browse">Browse
   properties</a></span>
 
-
-
-- <span id="footer-info-lastmod">Last updated at 23:34 on 8 October
-  2012.</span>
+- <span id="footer-info-lastmod">Last updated at 23:34 on 8 October 2012.</span>
 <!-- - <span id="footer-info-viewcount">21,211 page views.</span> -->
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
@@ -2165,10 +2043,4 @@ diversity data.
 
 <!-- -->
 
-
-
 <!-- -->
-
-
-
-
