@@ -167,7 +167,7 @@ can tell in attracting users for its software. There are approximately
 planaria database) and Sol Genomics Network (a Solanaceae genome
 database) and VectorBase (a database for Invertebrate Vectors of Human
 Pathogens). A list of known GMOD users is at
-<a href="http://gmod.org/wiki/index.php/GMOD_Users"
+<a href="GMOD_Users"
 class="external free"
 rel="nofollow">http://gmod.org/wiki/index.php/GMOD_Users</a>.
 
