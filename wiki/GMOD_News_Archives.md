@@ -234,7 +234,7 @@ sequences</span></h3>
 <p>We also have several other improvements including the ability to get
 intron and upstream/downstream sequence in the feature details</p>
 <p><a
-href="http://gmod.org/wiki/File:Upstream_downstream.png"
+href="File:Upstream_downstream.png"
 class="image">&lt;img alt="Upstream downstream.png"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/76/Upstream_downstream.png/700px-Upstream_downstream.png"
 width="700" height="248"
@@ -261,7 +261,7 @@ active widgets. The update also adds a minimize button to allow quick
 access to full screen JBrowse web.</p>
 <p>See below for demos of the new navigation UI.</p>
 <p><a
-href="http://gmod.org/wiki/File:Minimize_button_demo.gif"
+href="File:Minimize_button_demo.gif"
 class="image">&lt;img alt="Minimize button demo.gif"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/0/0f/Minimize_button_demo.gif"
 width="480" height="414" /&gt;</a></p>
@@ -395,16 +395,16 @@ href="GSoC"
 title="GSoC">GSoC wiki page</a> and think about any projects that might
 work well for a GSoC student, and add them to the wiki. If you are
 interested in being a mentor, please contact us at <a
-href="http://gmod.org/wiki/mailto:robin.haw@oicr.on.ca#58;robin.haw@oicr.on.ca"
+href="mailto:robin.haw@oicr.on.ca"
 class="external text" rel="nofollow">robin.haw@oicr.on.ca</a> <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a>.</p>
 <p>If you have any questions--e.g. what constitutes an appropriate
 project; whether your idea is sufficiently GMOD-related--please feel
 free to email <a
-href="http://gmod.org/wiki/mailto:robin.haw@oicr.on.ca#58;robin.haw@oicr.on.ca"
+href="mailto:robin.haw@oicr.on.ca"
 class="external text" rel="nofollow">robin.haw@oicr.on.ca</a> and <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
@@ -416,7 +416,7 @@ title="GMOD News">GMOD News</a> on 2021/02/16</em>
 <h3 id="codefest-2020"><a href="Codefest_2020">Codefest 2020</a></h3>
 
 <a
-href="http://gmod.org/wiki/File:Palms.jpg"
+href="File:Palms.jpg"
 class="image">&lt;img alt="Palms.jpg"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/d/df/Palms.jpg" width="1052"
 height="218" /&gt;</a>
@@ -452,7 +452,7 @@ open to anyone who'd like to work on any GMOD project (or, better yet,
 any combination of GMOD projects), including but not limited to</p>
 
 <a
-href="http://gmod.org/wiki/File:EvoHackLaptops2010.jpg"
+href="File:EvoHackLaptops2010.jpg"
 class="image" title="GMOD Hackathon">&lt;img alt="GMOD Hackathon"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/7/7f/EvoHackLaptops2010.jpg/200px-EvoHackLaptops2010.jpg"
 width="200" height="119"
@@ -636,16 +636,16 @@ href="GSoC"
 title="GSoC">GSoC wiki page</a> and think about any projects that might
 work well for a GSoC student, and add them to the wiki. If you are
 interested in being a mentor, please contact us at <a
-href="http://gmod.org/wiki/mailto:robin.haw@oicr.on.ca#58;robin.haw@oicr.on.ca"
+href="mailto:robin.haw@oicr.on.ca"
 class="external text" rel="nofollow">robin.haw@oicr.on.ca</a> <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a>.</p>
 <p>If you have any questions--e.g. what constitutes an appropriate
 project; whether your idea is sufficiently GMOD-related--please feel
 free to email <a
-href="http://gmod.org/wiki/mailto:robin.haw@oicr.on.ca#58;robin.haw@oicr.on.ca"
+href="mailto:robin.haw@oicr.on.ca"
 class="external text" rel="nofollow">robin.haw@oicr.on.ca</a> and <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
@@ -664,7 +664,7 @@ href="http://www.intlpag.org/"
 class="external text" rel="nofollow">PAG</a> and would like to present
 on a topic that would be of interest to the GMOD community, please send
 an abstract or at least a descriptive title to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a>. Types of talks
 typically include updates on GMOD software projects, usage stories for
 successful sites, proposals for new GMOD projects and descriptions of
@@ -859,7 +859,7 @@ registration form includes a section for submitting the presentation
 title and abstract.</p>
 <p>If you have any suggestions or requests for the meeting, please
 contact the <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">GMOD help desk</a>.</p>
 <p><br />
 </p>
@@ -1110,7 +1110,7 @@ class="external text" rel="nofollow">download site</a>.</p>
 <li>upload to a publicly accessible webserver</li>
 </ul>
 <p>Please <a
-href="http://gmod.org/wiki/mailto:rasche.eric@yandex.ru#58;rasche.eric@yandex.ru"
+href="mailto:rasche.eric@yandex.ru"
 class="external text" rel="nofollow">contact Eric</a> if you are
 interested in having other ontologies added to the dumps, other builds
 with different (sub)sets of ontologies, or archived copies of schemas
@@ -1252,7 +1252,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -1603,7 +1603,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -1788,7 +1788,7 @@ bioinformatics, computer science, plant biology, genetics, or related
 discipline involving significant computational experience, statistics,
 and genetics.</p>
 <p>If interested, please contact <a
-href="http://gmod.org/wiki/mailto:steven.cannon@ars.usda.gov#58;steven.cannon@ars.usda.gov"
+href="mailto:steven.cannon@ars.usda.gov"
 class="external text" rel="nofollow">Steven Cannon</a>.</p>
 <p><br />
 </p>
@@ -1825,12 +1825,12 @@ href="GSoC"
 title="GSoC">GSoC wiki page</a> and think about any projects that might
 work well for a GSoC student, and add them to the wiki. If you are
 interested in being a mentor, please contact us at <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a>.</p>
 <p>If you have any questions--e.g. what constitutes an appropriate
 project; whether your idea is sufficiently GMOD-related--please feel
 free to email <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">help@gmod.org</a> for advice!</p>
 <p><br />
 </p>
@@ -1965,7 +1965,7 @@ title="Tripal">Tripal</a> website/database interface</li>
 href="GMOD_Malaysia_2014"
 title="GMOD Malaysia 2014">GMOD Malaysia 2014</a> wiki page for updates,
 or email the <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">GMOD help desk</a> for more
 information.</p>
 <p><br />
@@ -2023,7 +2023,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -2325,7 +2325,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -2488,7 +2488,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -2676,7 +2676,7 @@ the scientific literature featuring interesting, exciting, or otherwise
 eye-catching GMOD-related work.</strong></p>
 <p>If you would like a paper to appear in GMOD Paper Cuts, please email
 the details to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>. Ideally the
 paper should be in an open-access publication so that anyone can read
 it.</p>
@@ -2983,7 +2983,7 @@ href="News/GMOD_2014_San_Diego%253A_Save_the_Date">GMOD 2014 San Diego: Save
 the Date</a></h3>
 
 <a
-href="http://gmod.org/wiki/File:2014-gmod-san-diego.png"
+href="File:2014-gmod-san-diego.png"
 class="image">&lt;img alt="2014-gmod-san-diego.png"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/e/e1/2014-gmod-san-diego.png/300px-2014-gmod-san-diego.png"
 width="300" height="188"
@@ -2999,7 +2999,7 @@ class="external text" rel="nofollow">PAG XXII</a>. In addition to the
 usual talks and updates, we plan to have a poster session, and a
 workshop on migrating from GBrowse to JBrowse. If you have items or
 ideas for the agenda, please feel free to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">contact the GMOD helpdesk</a>.</p>
 <p>GMOD will also have a big presence at PAG, with a day-long workshop
 covering many of the actively-developed GMOD components.</p>
@@ -3062,7 +3062,7 @@ position is funded for one year from date of hire, with good possibility
 of refunding. Interested applicants should send a pdf with a CV, a
 statement of research interests, and contact information for three
 referees to <a
-href="http://gmod.org/wiki/mailto:kmakova@bx.psu.edu#58;kmakova@bx.psu.edu"
+href="mailto:kmakova@bx.psu.edu"
 class="external text" rel="nofollow">Kateryna Makova</a>, indicating
 postdoc in the subject line. Employment will require successful
 completion of background check(s) in accordance with University
@@ -3090,7 +3090,7 @@ submitting many letters of support from users. We would be very grateful
 if you could take a couple of minutes to write such a letter; it should
 include information about how you use or plan to use GMOD software.
 There are <a
-href="http://gmod.org/wiki/User%253AScott#Support_letter_templates"
+href="User%253AScott#Support_letter_templates"
 title="User%253AScott">some template paragraphs</a> provided for
 inspiration.</p>
 <p>The letters should be on institutional letterhead, signed, and then
@@ -3098,15 +3098,15 @@ scanned to a PDF, or you could mail the original to Scott Cain and he
 will scan them.</p>
 <p>The deadline for getting the letters of support is September 3.
 Please <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">contact the GMOD helpdesk</a> or <a
-href="http://gmod.org/wiki/mailto:scott@scottcain.net#58;scott@scottcain.net"
+href="mailto:scott@scottcain.net"
 class="external text" rel="nofollow">email Scott directly</a> if you're
 willing to write a letter or if you need any help.</p>
 <p>This grant would help to secure the future of important parts of the
 GMOD project, so we would be very grateful for your help!</p>
 <p><em>Via <a
-href="http://gmod.org/wiki/User%253AScott"
+href="User%253AScott"
 title="User%253AScott">Scott Cain</a></em></p>
 <p><br />
 </p>
@@ -3120,7 +3120,7 @@ href="News/2013_Summer_School_Tutorials_Available">2013 Summer School
 Tutorials Available</a></h3>
 
 <a
-href="http://gmod.org/wiki/File:2013-summer-school.png"
+href="File:2013-summer-school.png"
 class="image" title="2013 GMOD Summer School">&lt;img alt="2013 GMOD
 Summer School"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/300px-2013-summer-school.png"
@@ -3158,7 +3158,7 @@ class="mw-redirect" title="WebApollo Tutorial">WebApollo</a></li>
 </ul>
 <p>The full set of GMOD tutorials, featuring all the material from this
 year's summer school and more, is available from the <a
-href="http://gmod.org/wiki/Category%253ATutorials"
+href="Category%253ATutorials"
 title="Category%253ATutorials">Tutorials</a> section of the wiki.</p>
 <p><br />
 </p>
@@ -3182,9 +3182,9 @@ href="JBrowse_Configuration_Guide"
 title="JBrowse Configuration Guide">JBrowse Configuration Guide</a> for
 documentation on how to use the new features.</p>
 <p><a
-href="http://gmod.org/wiki/User%253ARobertBuels"
+href="User%253ARobertBuels"
 title="User%253ARobertBuels">RobertBuels</a> (<a
-href="http://gmod.org/wiki/User_talk%253ARobertBuels"
+href="User_talk%253ARobertBuels"
 title="User talk:RobertBuels">talk</a>)</p>
 <p><br />
 </p>
@@ -3200,13 +3200,13 @@ Fixed</a></h3>
 <p>Account creation using OpenID is currently disabled due to problems
 with the OpenID plugin. New wiki users wishing to create accounts should
 use the 'Log in / create account' link and <a
-href="http://gmod.org/wiki/Special%253ARequestAccount"
+href="Special%253ARequestAccount"
 title="Special%253ARequestAccount">request an account</a>; your request
 should be dealt with within 24-48 hours. Unfortunately, due to spammers
 and others creating bogus accounts, we have to had to put protective
 measures in place.</p>
 <p>Please email <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a> if you have
 any problems or want to expedite the creation of your account!</p>
 <p><br />
@@ -3243,7 +3243,7 @@ href="https://github.com/BFlavien"
 class="external text" rel="nofollow">his Github repo</a>.</p>
 <p>If you have any thoughts or suggestions on the GSoC project, please
 send them along to <a
-href="http://gmod.org/wiki/mailto:help@gmod.org#58;help@gmod.org"
+href="mailto:help@gmod.org"
 class="external text" rel="nofollow">the GMOD helpdesk</a>.</p>
 <p><br />
 </p>
@@ -3258,7 +3258,7 @@ Released</a></h3>
 <p>from Scott Cain:</p>
 
 <a
-href="http://gmod.org/wiki/File:GitcLogo.png"
+href="File:GitcLogo.png"
 class="image">&lt;img alt="GitcLogo.png"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/6/69/GitcLogo.png/200px-GitcLogo.png"
 width="200" height="114"
@@ -3311,7 +3311,7 @@ href="News/Last_Call_For_Summer_School_Apps">Last Call For Summer School
 Apps</a></h3>
 
 <a
-href="http://gmod.org/wiki/File:2013-summer-school.png"
+href="File:2013-summer-school.png"
 class="image" title="2013 GMOD Summer School">&lt;img alt="2013 GMOD
 Summer School"
 src="http://gmod.ohttps://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/thumb/f/fc/2013-summer-school.png/200px-2013-summer-school.png"
