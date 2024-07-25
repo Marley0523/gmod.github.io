@@ -19,7 +19,7 @@ GMOD support is available from several different sources.
 site, [GMOD Mailing Lists](/wiki/GMOD_Mailing_Lists "GMOD Mailing Lists"),
 [Training and Outreach](/wiki/Training_and_Outreach "Training and Outreach")
 activities (including [GMOD Schools](/wiki/GMOD_Schools "GMOD Schools")), and
-the [/GMOD Help Desk](/wiki/GMOD_Help_Desk "GMOD Help Desk")) and offers
+the [GMOD Help Desk](/wiki/GMOD_Help_Desk "GMOD Help Desk")) and offers
 guidance on which one is the most appropriate for your question.
 
 ### <span id="Get_Involved" class="mw-headline">Get Involved</span>
