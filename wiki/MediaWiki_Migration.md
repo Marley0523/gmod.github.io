@@ -67,7 +67,7 @@ the repo via the "raw" URLs. I just had to configure jekyll to ignore the
 directory that contains the uploads. An additional issue related to the size of
 the repository is that GitHub also indicates in their documentation that
 the jekyll build times are limmited to 10 minutes, but the build currently
-takes about 15 minutes. Hopefull GH won't notice.
+takes about 15 minutes. Hopefully GH won't notice.
 
 The other issue is that jekyll doesn't like colons (:) in file names. While it
 is possible that I could configure around that, my inexperience with jekyll
@@ -88,6 +88,21 @@ generally looked like this:
    to the original file names to the updated file names. To do this, I start with the
    same list of original file names in step 1 and then again use NeoVim to modify
    the list to a series of command line perl executions to do inline replacements.
+   There are example scripts that remain from this step in the top level
+   directory of this repo, like this one for updating references to files in
+   the ["Special" directory](../perl_special.sh). Basically, a lot of the updates
+   take the form of this Perl command line invocation:
+   ```
+     perl -pi -e 'BEGIN{undef $/;} s/Bio::GMOD/Bio%3A%3AGMOD/smg' *
+   ```
+   This command line form was a real workhorse of this project.
+
+The "half" step I referred to above was due to the fact that jekyll also doesn't
+like "%" in hrefs that it writes, so those had to be expanded in markup files,
+so filenames that had %3A added to them to escape colons, now had to have the
+% sign escaped, so there are lots of instances of `%253A`. How that percent
+sign didn't have to be escaped I don't know but I'm thankful for the fact
+that it didn't devolve into an infinite loop.
 
 ### Fixing translation issues and generally cleaning up
 
