@@ -1,8 +1,8 @@
 # MediaWiki Migration
 
-In June, 2024, we undertool a migration from a rather aged MediaWiki instance that has
-house gmod.org for nearly 20 years to a set of markdown files that are now
-hosted in a [GitHub repo](https://github.com/GMOD/gmod.github.io) and hosted
+In June, 2024, we undertook a migration from a rather aged MediaWiki instance that has
+housed gmod.org for nearly 20 years to a set of markdown files that are now
+stored in a [GitHub repo](https://github.com/GMOD/gmod.github.io) and hosted
 by GitHub.io.
 
 ## Details
@@ -24,13 +24,70 @@ of situation, I spent a little time thinking about writing a bespoke spider
 to do what I wanted. I think it was [Colin Diesh](User%253AColin_Diesh) (yes,
 that user page is waaaay out of date) that suggested that I just try mirroring
 the site to my local computer with `wget`. After a few false starts trying to
-mirror it to my workhorse laptop (the big problem that the wget process didn't always
+mirror it to my workhorse laptop (the big problem was that the wget process didn't always
 restart successfully after being asleep), I ran `wget2` on an old laptop that I
 could leave running non-stop for the 4+ days it took to mirror the entire site
 (I put a 20 second wait between fetches to avoid DDOSing our own site). The result
 was over 18,000 files.
 
 ### Trimming down the file count
+
+Yeah, 18,000 is a lot. GMOD is a big and "old" project, but that still seems crazy.
+There were multiple sources of "extra" files:
+
+- SematicMediaWiki: the GMOD MediaWiki used this extension that provides a lot of
+  really cool metadata pages but most of them didn't make sense outside of the context
+  of MediaWiki. Conveniently, these files were either named in such a way that it was
+  obvious what they were or were in subdirectories that I could wholesale delete.
+  Some of those files still exist, like this "Special:Browse" page for
+  [Apollo](Special%253ABrowse/Apollo), which lists what categories Apollo is tagged with.
+- Special MediaWiki pages: there are lots of pages that MediaWiki will generate
+  including history, talk and Template pages. Again these are pretty easy to identify and remove.
+- Uploads: There are nearly 5000 files in the MediaWiki `images` directory
+  (which is more than just images, it's also PDF and PowerPoint presentations
+  from meetings). These need to be kept but they also present another issue,
+  discussed below.
+- "File:" files: MediaWiki creates files for every upload. Getting rid of these files
+  is easy, but there were MANY references in the other files to these File: files.
+  I had to create a list of these File: files and the URLs of the uploaded files
+  that they referred to with this [script](../make_File_lookup.pl) and then
+  write a script that would [substitute image references in the markdown files](../fix_File_urls.pl).
+
+After trimming out lots of unnecessary files, the file count was reduced to just
+under 9000 (still a lot!)
+
+### Getting jekyll to build
+
+The were a few issues with getting `jekyll` to build in the GitHub context. The
+first was the size of the repository: GitHub limits the size of a GitHub.io
+repository to 1 GB, but even after deleting about half of the files from the
+initial dump, the repo is about 2 GB. Fortunately, about 1.5 GB of that is
+in the "images" directory, which I could then just serve up directly from
+the repo via the "raw" URLs. I just had to configure jekyll to ignore the
+directory that contains the uploads. An additional issue related to the size of
+the repository is that GitHub also indicates in their documentation that
+the jekyll build times are limmited to 10 minutes, but the build currently
+takes about 15 minutes. Hopefull GH won't notice.
+
+The other issue is that jekyll doesn't like colons (:) in file names. While it
+is possible that I could configure around that, my inexperience with jekyll
+combined with a reasonable desire to keep special characters out of URLs anyway,
+conspired to lead me down the path of replacing colons with its URI escape code,
+`%3A`. Implementing this required a 2 and a half step process, run several times
+over subsets of the files that had colons in their names. Since I was making
+bulk changes to hundreds or thousands of files at a time, I wanted to make sure
+that I was working with a small enough set for most of the change steps that I
+could examine `git diff` results after the steps were complete. The steps
+generally looked like this:
+
+1. Rename the files themselves. This is the easy step. I create a list of the
+   files I want to modify and put them in a file. Then I modify the file in NeoVim
+   to make it a simple bash script that will `git mv` the files, renaming to include
+   `%3A` replacing the colon(s).
+2. The second step is a little more complicated, as it has to update all references
+   to the original file names to the updated file names. To do this, I start with the
+   same list of original file names in step 1 and then again use NeoVim to modify
+   the list to a series of command line perl executions to do inline replacements.
 
 ### Fixing translation issues and generally cleaning up
 
