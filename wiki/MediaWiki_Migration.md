@@ -30,6 +30,23 @@ could leave running non-stop for the 4+ days it took to mirror the entire site
 (I put a 20 second wait between fetches to avoid DDOSing our own site). The result
 was over 18,000 files.
 
+### Converting html to markdown files
+
+Before I tried trimming down the number of files I had, I undertook the transformation
+from html to markdown so that I could import markdown files into GitHub before
+trying to reduce the number of files. The obvious reason for this is that if I
+accidently "over deleted" I could roll back. It had the added benefit that browsing
+the files in the GitHub web interface would give me an idea of how the generated
+markdown was being evaluated (though it appears that the GitHub web UI treats
+markdown differently than jekyll).
+
+Pandoc seemed like the obvious choice for that, so I wrote a [perl script](../html_to_md.pl)
+that would iterate over all of the files, handling a weird edge case (Pandoc
+refused to treat an html file that had a `.pdf` extension as an html file,
+which I suppose I can't blame it for (thank MediaWiki for making those files)) and
+running Pandoc to generate gft (GitHub-Flavored Markdown). The resulting files
+where imported in the gmod.github.io repo.
+
 ### Trimming down the file count
 
 Yeah, 18,000 is a lot. GMOD is a big and "old" project, but that still seems crazy.
@@ -66,7 +83,7 @@ in the "images" directory, which I could then just serve up directly from
 the repo via the "raw" URLs. I just had to configure jekyll to ignore the
 directory that contains the uploads. An additional issue related to the size of
 the repository is that GitHub also indicates in their documentation that
-the jekyll build times are limmited to 10 minutes, but the build currently
+the jekyll build times are limited to 10 minutes, but the build currently
 takes about 15 minutes. Hopefully GH won't notice.
 
 The other issue is that jekyll doesn't like colons (:) in file names. While it
@@ -95,7 +112,12 @@ generally looked like this:
    ```
      perl -pi -e 'BEGIN{undef $/;} s/Bio::GMOD/Bio%3A%3AGMOD/smg' *
    ```
-   This command line form was a real workhorse of this project.
+   This command line form was a real workhorse of this project. One downside
+   to this approach is that text references to these file (like the anchor text
+   for URLs that are getting created) will also have the substituted text. That is
+   annoying but I'm willing to live with it given that the regex required to
+   avoid it would be fragile and/or really hard to write and I didn't want to
+   spend the time on it.
 
 The "half" step I referred to above was due to the fact that jekyll also doesn't
 like "%" in hrefs that it writes, so those had to be expanded in markup files,
@@ -105,6 +127,13 @@ sign didn't have to be escaped I don't know but I'm thankful for the fact
 that it didn't devolve into an infinite loop.
 
 ### Fixing translation issues and generally cleaning up
+
+## Acknowledgements
+
+Special thanks to Colin Diesh who bounce around some ideas when I was working on this
+and to Peter Cock who pointed out examples of OpenBio sites like
+[BioSQL.org](biosql.org) that had successfully made a similar transition, so I
+could use their jekyll config for a cheatsheet.
 
 ## Navigation menu
 
