@@ -1,8 +1,15 @@
 # The Generic Model Organism Database Project
 
-Welcome to the **Generic Model Organism Database** project, a collection
+Welcome to the new home of the **Generic Model Organism Database** project, a collection
 of open source software tools for managing, visualising, storing, and
 disseminating genetic and genomic data.
+
+This site was migrated to GitHub.io from a self-hosted MediaWiki instance, which
+was a fairly big project. Scott wrote a [postmortem](MediaWiki_Migration) to
+describe the process. Understand that, while some updating has happened, the
+vast majority of the content here is likely outdated. Feel free to submit
+pull requests to [gmod.github.io](https://github.com/GMOD/gmod.github.io)
+to update pages you're interested in.
 
 ### <span id="Get_Started" class="mw-headline">Get Started</span>
 
