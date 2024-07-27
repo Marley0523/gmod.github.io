@@ -5,7 +5,7 @@ of open source software tools for managing, visualising, storing, and
 disseminating genetic and genomic data.
 
 This site was migrated to GitHub.io from a self-hosted MediaWiki instance, which
-was a fairly big project. Scott wrote a [postmortem](MediaWiki_Migration) to
+was a fairly big project. Scott wrote a [postmortem](/wiki/MediaWiki_Migration) to
 describe the process. Understand that, while some updating has happened, the
 vast majority of the content here is likely outdated. Feel free to submit
 pull requests to [gmod.github.io](https://github.com/GMOD/gmod.github.io)
