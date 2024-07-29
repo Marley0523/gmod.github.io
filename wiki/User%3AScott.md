@@ -66,13 +66,8 @@ class="external text" rel="nofollow">sco...</a>@scottcain.net or Twitter
 - <span id="t-smwbrowselink"><a href="Special%253ABrowse/User%253AScott" rel="smw-browse">Browse
   properties</a></span>
 
-- <span id="footer-info-lastmod">Last updated at 18:36 on 29 September 2021.</span>
-<!-- - <span id="footer-info-viewcount">227,399 page views.</span> -->
+- <span id="footer-info-lastmod">Last updated on 29 July 2024.</span>
 - <span id="footer-info-copyright">Content is available under
   <a href="http://www.gnu.org/licenses/fdl-1.3.html" class="external"
   rel="nofollow">a GNU Free Documentation License</a> unless otherwise
   noted.</span>
-
-<!-- -->
-
-<!-- -->
