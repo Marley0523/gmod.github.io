@@ -154,7 +154,7 @@ Thanks to everybody who has ever had any involvement in the GMOD project, since
 it is because of you that there is so much content that needed my attention in
 this porting process.
 
-[Scott](User%3AScott]
+[Scott](User%3AScott)
 July 29, 2024
 
 ## Navigation menu
