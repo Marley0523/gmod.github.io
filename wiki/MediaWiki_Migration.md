@@ -145,7 +145,7 @@ some clean up and create a pull request.
 
 ## Acknowledgements
 
-Special thanks to Colin Diesh who bounce around some ideas when I was working on this
+Special thanks to Colin Diesh who bounced around some ideas when I was working on this
 and to Peter Cock who pointed out examples of OpenBio sites like
 [BioSQL.org](biosql.org) that had successfully made a similar transition, so I
 could use their jekyll config for a cheatsheet.
@@ -154,7 +154,8 @@ Thanks to everybody who has ever had any involvement in the GMOD project, since
 it is because of you that there is so much content that needed my attention in
 this porting process.
 
-[Scott](User%3AScott)
+[Scott](User%253AScott)
+
 July 29, 2024
 
 ## Navigation menu

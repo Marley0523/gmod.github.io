@@ -21,10 +21,8 @@ rel="nofollow">WormBase</a> and the
 rel="nofollow">Alliance for Genome Resources</a>. Scott is a happy
 husband and father of boy-girl twins who attended San Diego State University.
 
-Scott can be reached at his email address: <a
-href="http://mailhide.recaptcha.net/d?k=010I5vtKiZqC1kdmtqmWRRhg==&amp;c=6uiWfNokHIbewa_qGkyAF8Tt0sdX6xy0-BIUTsIkwlA="
-class="external text" rel="nofollow">sco...</a>@scottcain.net or Twitter
-@scottjcain.
+Scott can be reached at his email address: scott -at- scottcain.net or Mastodon
+[@scottcain@genomic.social](https://genomic.social/@scottcain).
 
 ![Really old "portrait" of Scott](https://raw.githubusercontent.com/GMOD/gmod.github.io/main/mediawiki/images/e/e6/100_5955_1.jpg)
 
