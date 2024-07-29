@@ -145,7 +145,7 @@ some clean up and create a pull request.
 
 ## Acknowledgements
 
-Special thanks to Colin Diesh who bounce around some ideas when I was working on this
+Special thanks to Colin Diesh who bounced around some ideas when I was working on this
 and to Peter Cock who pointed out examples of OpenBio sites like
 [BioSQL.org](biosql.org) that had successfully made a similar transition, so I
 could use their jekyll config for a cheatsheet.
