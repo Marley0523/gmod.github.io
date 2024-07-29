@@ -128,12 +128,34 @@ that it didn't devolve into an infinite loop.
 
 ### Fixing translation issues and generally cleaning up
 
+There are lots of fixes that were performed on the files as a whole that used
+similar perl cli invocations like the one above. Many links to files that don't
+exist in the repo, either because the file they linked to were removed in the
+clean up outlined above or because they didn't exist to begin with. There
+were also lots of html `span`s and `div`s removed that caused jekyll to
+incorrectly render the markdown into html.
+
+There is one big class of "broken rendering" that remains in this codebase:
+Pandoc had a hard time creating markdown tables where there were html href links
+in table cells, and so it left the html mark up, which then causes jekyll to
+incorrectly convert those tables back into html. They remain because they are messy
+and the only way I could figure out how to fix them in a clean way was to do
+it in a one-off basis. If you see them in a page you care about, please do
+some clean up and create a pull request.
+
 ## Acknowledgements
 
 Special thanks to Colin Diesh who bounce around some ideas when I was working on this
 and to Peter Cock who pointed out examples of OpenBio sites like
 [BioSQL.org](biosql.org) that had successfully made a similar transition, so I
 could use their jekyll config for a cheatsheet.
+
+Thanks to everybody who has ever had any involvement in the GMOD project, since
+it is because of you that there is so much content that needed my attention in
+this porting process.
+
+[Scott](User%3AScott)
+July 29, 2024
 
 ## Navigation menu
 
